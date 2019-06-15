@@ -1,0 +1,3064 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "The House of Quark" 
+                  (fka "Fight to the Death") 
+                          #40513-449 
+                              
+                           Story by 
+                           Tom Benko 
+                              
+                          Teleplay by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                          Les Landau 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         August 1, 1994
+
+     STAR TREK: DS9   "The House of Quark" - 08/01/94 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The House of Quark" 
+                             CAST 
+
+          SISKO                    D'GHOR
+          KIRA                     GOWRON
+          ODO                      GRILKA
+          QUARK                    KOZAK
+          BASHIR                   TUMEK
+          DAX                      PATRON
+          O'BRIEN                  
+          KEIKO                    
+          ROM                      
+          MORN                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. SECURITY
+
+  STAR TREK: DEEP SPACE NINE: "The House of Quark" - 08/01/94 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The House of Quark" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          QUARK'S/SECOND LEVEL          KLINGON HOMEWORLD
+          O'BRIEN'S QUARTERS            
+          CORRIDOR                      
+          SISKO'S OFFICE                
+          REPLIMAT                      
+          GRILKA'S HOUSE                
+          GREAT HALL                    
+
+  STAR TREK: "The House of Quark" - 08/01/94 - PRONUNCIATION Page   
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The House of Quark" 
+                      PRONUNCIATION GUIDE 
+
+          BREK'TAL                 brek-TALL
+          CHOIECHU                 cho-EE-choo
+          COVERIAN                 CO-ver-ee-an
+          DAH                      DAH
+          DAIMON OROK              DAY-mun O-rok
+          D'GHOR                   duh-GOR
+          GALCOR                   GAL-kor
+          GOWRON                   GOW-ron
+          GRILKA                   GRILL-ka
+          JANITZA                  JAH-neet-za
+          KELDAR                   KEL-dar
+          KOZAK                    KO-zak
+          KRONOS                   KRO-nos
+          LORINE                   LO-reen
+          MAK'DAR                  MAHK-dar
+          MEV'YAP                  MEV-yap
+          PAHTAK                   pah-TAK
+          PLOMEEK                  PLO-meek
+          Q'APLA                   k-PIAH
+          STO'VO'KOR               STO-vo-kor
+          TUMEK                    TOO-mek
+
+Page 2.
+
+                         KLINGON SENTENCES
+"GO'EVEH... LU CHA WABEH... MO KA RE'CHOS"
+GO-eveh... LOO-cha wah-BEH... MO-ka REE-chos
+
+"TO VA RE'LUK"
+too-VAH REE-luk
+
+"GHOS MA'LU KAH"
+GHOS mah-LOO-kah
+
+"YEJ RHIN"
+YEZH REN
+
+"N' GOS TMOGH CHA"
+N'GHOS TLO-cha
+
+           DEEP SPACE: "The House... " - 08/01/94 - TEASER            1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                         "The House of Quark"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S
+
+	It's late at Quark's.  MORN and a lovely young WOMAN appear 
+	to be the only customers... after a beat, they finish up 
+	their drinks and then head for the EXIT.  QUARK and ROM watch 
+	them leave the now-empty bar with expressions of depression.
+
+					QUARK
+			Now I know we're doomed.
+
+					ROM
+			Why, Brother?
+
+					QUARK
+			Rule of Acquisition number two-eighty-
+			six:  When Morn leaves, it's all 
+			over.
+
+					ROM
+			There's no such rule.
+
+					QUARK
+			There should be.
+
+					ROM
+				(shocked)
+			I know business is bad, but that's 
+			no reason to --
+
+					QUARK
+			Bad?  Bad?!
+				(indicates bar)
+			It's twenty-one hundred hours, the 
+			bar's open, there's a sale on 
+			synthehol, and there's no one here!
+
+	Rom cringes in fear... then a drunken Klingon voice breaks 
+	in from across the bar.
+
+					KOZAK'S VOICE
+			You -- Ferengi!  Another blood wine!  
+			Now!
+
+           DEEP SPACE: "The House... " - 08/01/94 - TEASER            2.
+
+1    CONTINUED:
+
+	They look over at the direction of the voice and now we 
+	can see a Klingon named KOZAK slumped over a table in the 
+	far corner.  He is thoroughly drunk and he looks even more 
+	thoroughly disreputable: he sways unsteadily in his chair, 
+	his hair is matted and unkempt, and his clothes look like 
+	he's been wearing them for days.  Quark rolls his eyes as 
+	Rom tries to sound more encouraging.
+
+					ROM
+			At least someone is still here.
+
+					QUARK
+			How many has he had?
+
+					ROM
+			A dozen...
+
+	Rom scurries off to get another drink for Kozak.  Quark sits 
+	down on one of the barstools and contemplates his fortunes.
+
+					QUARK
+				(to himself)
+			I should've gone into insurance... 
+			better hours... more money... less 
+			scruples...
+
+	Rom returns from Kozak's table and approaches Quark with 
+	trepidation -- there's something he doesn't want to tell his 
+	brother.  But Quark is into his own little reverie and he is 
+	oblivious to Rom's nervousness.
+
+					QUARK
+			It's all Sisko's fault.
+
+	Rom glances nervously back at the Klingon.
+
+					ROM
+			Sisko?
+
+					QUARK
+			That's right.  If he'd handled things 
+			better with the Dominion, none of 
+			this would've happened.  They want a 
+			foothold in the Alpha Quadrant?  Cut 
+			a deal... make some arrangements... 
+			give them a little something for 
+			their trouble...
+
+					ROM
+			Brother...
+
+           DEEP SPACE: "The House... " - 08/01/94 - TEASER            3.
+
+1    CONTINUED:	(2)
+
+					QUARK
+				(not listening)
+			But no... he had to play it tough... 
+			so now everyone's afraid of the 
+			Dominion...
+
+					ROM
+			Yes, but Brother...
+
+					QUARK
+			... and that means fewer people on 
+			the station... which means fewer 
+			people at Quark's... which means... 
+			I'm out of business.
+
+	An angry shout from Kozak finally gets Quark's attention.
+
+					KOZAK
+				(slurred)
+			Where's my wine, you cowering little 
+			Ferengi slug?
+
+					QUARK
+				(annoyed, to Rom)
+			What's the problem?
+
+					ROM
+			He... says he's out of... money.  
+			He's asking for credit.
+
+					QUARK
+			Credit?  Look around Rom, do you 
+			think we're in any condition to be 
+			offering credit?
+
+					ROM
+			No, but you know how difficult 
+			Klingons can be.
+
+					QUARK
+			You just have to show a little 
+			backbone.  Once they realize you 
+			mean business, they always back down.
+
+	Rom glances over at Kozak in fear.  Quark gets up with a 
+	mixture of disgust and anger.
+
+					QUARK
+			I'll handle this.  Watch and learn.
+
+           DEEP SPACE: "The House... " - 08/01/94 - TEASER            4.
+
+1    CONTINUED:	(3)
+
+	Quark goes over to Kozak's table.  Kozak is nearly falling 
+	out of his chair at this point.  Quark draws himself up to 
+	his full height and plants himself before Kozak.
+
+					QUARK
+				(loud and firm)
+			My name is Quark.
+
+	Kozak looks up at him... and the moment he does, Quark's 
+	entire demeanor collapses into a posture of obsequious 
+	servility.
+
+					QUARK
+				(continuing, humble)
+			And I would like to discuss... 
+			arranging a line of credit...
+
+	But Kozak is in a drunken haze and doesn't even understand 
+	what Quark is saying.  He gets unsteadily to his feet... 
+	he's swaying dangerously as he towers over Quark.
+
+					KOZAK
+				(drunk)
+			You dare speak to me like that... 
+			you pathetic mak'dar...
+
+	Kozak's eyes suddenly flare in rage and he pulls a KNIFE 
+	from his belt and charges at Quark with a drunken ROAR OF 
+	ANGER.  Quark tries to get out of the way, but Kozak is too 
+	big and moving too fast... Kozak swings the knife... Quark 
+	throws up a feeble hand in defense... but Kozak is so drunk 
+	that he STUMBLES over his own feet... his vast bulk coming 
+	down on top of Quark, who SCREAMS in terror.  They both crash 
+	to the deck.
+
+	Rom watches in horror as the two men lie still on the ground, 
+	Kozak on top of Quark.  There's a beat, then Kozak falls off 
+	of Quark and onto his back.  The knife is sticking out of 
+	his chest... Quark looks at him in shock.  The huge Klingon 
+	is dead.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE           5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+2    INT. QUARK'S
+
+	Later.  Kozak's body is on a medical gurney... the knife 
+	sticking out of his chest.  BASHIR is checking over the body 
+	with a tricorder, while an N.D. NURSE stands by.  ODO is 
+	looking over the area near the body.  There are two N.D. 
+	SECURITY GUARDS standing at the entrance to keep back the 
+	LARGE CROWD of curious passersby who are straining to get a 
+	glimpse of what's going on.
+
+	Quark and Rom are near the bar, just out of earshot from the 
+	death scene.  Rom is nervous and agitated, while Quark is 
+	staring at the crowd just outside the entrance like a starving 
+	man looking at his first meal in days.
+
+					ROM
+				(re: Kozak's body)
+			How long are they going to leave... 
+			him there?  I wish they would hurry 
+			up and get rid of him.
+
+					QUARK
+			I wish we could put him on display...
+
+					ROM
+			What?
+
+					QUARK
+			Look at them, Rom... they're consumed 
+			with morbid fascination... they can't 
+			wait to get in here...
+
+	Quark takes another step toward the crowd, thinking rapidly.
+
+					QUARK
+				(continuing)
+			They all want to know what happened.  
+			Was it a bar fight?  What started 
+			it?  And most of all, who killed the 
+			Klingon?
+
+        DEEP SPACE: "The House... " - REV. 08/02/94 - ACT ONE         6.
+
+2    CONTINUED:
+
+					ROM
+			But no one killed him... it was an 
+			accident.
+
+	Quark whirls on his brother and pushes him against the bar.
+
+					QUARK
+				(quickly, hushed)
+			Wrong.  I killed him.  In a bar fight.
+				(off his look)
+			You heard me.  I killed him in self-
+			defense.
+
+					ROM
+			But where is the profit in lying 
+			about a simple --
+
+	Quark grabs Rom by the earlobe and jerks his head to face 
+	the crowd.  Rom winces in pain.
+
+					QUARK
+			Look at that crowd.  How long has it 
+			been since you've seen that many 
+			customers waiting to get in here.  
+			This is an opportunity to turn 
+			everything around.
+
+	Quark releases Rom, who rubs his ear in pain.
+
+					ROM
+			This is insane Brother.  What if...
+				(re: body)
+			... his family comes looking for the 
+			killer... what if they want revenge?
+
+					QUARK
+			If push comes to shove... we tell 
+			the truth and no harm is done.
+
+	Rom still looks dubious, so Quark softens his tone and moves 
+	closer to him.
+
+					QUARK
+				(continuing)
+			Rom... let me put it another way.  
+			If business doesn't improve, I'll 
+			have to start making a few cutbacks 
+			in the operation of the bar...
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE           7.
+
+2    CONTINUED:	(2)
+
+					QUARK
+				(beat)
+			Beginning with your salary.
+
+					ROM
+			How big of a cutback?
+
+					QUARK
+			I'd probably have to cut it back 
+			to... zero.
+
+	As Rom takes in this horrifying possibility, Odo comes up to 
+	talk to them.
+
+					ODO
+			All right, Quark... start at the 
+			beginning and tell me --
+
+	Rom spins around instantly.
+
+					ROM
+				(quickly)
+			My brother fought a desperate hand-
+			to-hand battle with the Klingon and 
+			was forced to kill in self-defense.
+
+	Odo looks from Quark to the oversized Klingon lying on the 
+	deck.
+
+					ODO
+			You... killed him?
+
+					QUARK
+			I'm sorry, but I couldn't avoid it.
+
+	Quark moves away from Odo and begins to play out the scene 
+	for the crowd.  Bashir has finished with the body, and the 
+	Nurse takes it away on the gurney.  Bashir now begins to 
+	listen as well.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE           8.
+
+2    CONTINUED:	(3)
+
+					QUARK
+				(continuing)
+			He was abusive... vulgar... a typical 
+			drunken Klingon.  All that was fine... 
+			but then it came time to pay the 
+			bill... and he refused.  I insisted.  
+			We began to argue... he pushed me... 
+			I pushed back... I was about to call 
+			for security to throw him out of my 
+			bar when suddenly he pulled a knife 
+			on me!
+
+	The crowd is mesmerized by the tale and this only propels 
+	Quark more.  He throws himself into the story.
+
+					QUARK
+				(continuing)
+			I avoided the first thrust... he 
+			came at me again... I hit him with a 
+			left jab... there was a furious 
+			exchange of blows.  The next thing I 
+			knew, his knife was at my throat... 
+			so I twisted it from his grasp and 
+			plunged it into his chest.
+				(beat, then solemn)
+			I'll never forget the look on his 
+			face as his life drained away.  It 
+			was... I'd rather not talk about it 
+			anymore.
+
+	Quark turns away, apparently moved by the memory, and the 
+	Crowd begins talking animatedly among themselves.  Odo 
+	gives him a skeptical look.
+
+					ODO
+			If you've finished your performance, 
+			I'd like to hear the real story now.
+
+					QUARK
+			You heard it.  And my brother is a 
+			witness.
+
+					ROM
+			That's right.
+
+					ODO
+			If this is some kind of joke... I'm 
+			not laughing, Quark.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE           9.
+
+2    CONTINUED:	(4)
+
+					QUARK
+			Nor should you.
+				(dramatically, for 
+				crowd)
+			Death is nothing to laugh about.  
+			Believe me, I know!  But if this 
+			tragic incident has taught me 
+			anything, it's that we have to live 
+			life to the fullest while we can... 
+			we must live for today because 
+			tomorrow may never come, so... drink 
+			up, everyone -- the bar is open!
+
+	Quark throws out his arms and the crowd rushes in with an 
+	excited jabber... eager to see and hear everything for 
+	themselves.  Odo and Bashir exchange a look and then head 
+	for the EXIT.
+
+3
+thru   OMITTED
+4
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          10.
+
+5    INT. O'BRIEN'S QUARTERS
+
+	KEIKO is trimming a bonsai tree in their quarters when O'BRIEN 
+	ENTERS.
+
+					O'BRIEN
+				(to Keiko)
+			Hi, Honey.
+
+					KEIKO
+			Hi.
+
+	O'Brien gives his wife a kiss and then moves to the 
+	replicator.  It's been a long day for O'Brien and he's here 
+	to relax.  Keiko is unusually quiet and subdued.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          11.
+
+5    CONTINUED:
+
+					O'BRIEN
+			What a day...
+				(to replicator)
+			Synthale, tall glass.
+
+	We HEAR the replicator work and O'Brien pulls a tall glass 
+	of ale out of the unit.  He sits down and takes a long pull 
+	from his ale.
+
+					O'BRIEN
+				(continuing)
+			We had three Coverian freighter 
+			captains who all wanted to use the 
+			same docking port... someone stole a 
+			case of medical supplies from the 
+			Infirmary... two power failures...
+
+	O'Brien shakes his head and puts his feet up... it takes him 
+	a beat, but then he notices that Keiko is being strangely 
+	silent.
+
+					O'BRIEN
+				(continuing)
+			How was school?
+
+	Keiko picks up another gardening tool and hesitates before 
+	answering.
+
+					KEIKO
+			I... closed it.
+
+					O'BRIEN
+				(surprised)
+			Closed the school?  Why?  What 
+			happened?
+
+	Keiko's tone is neither angry nor somber, just resigned.  
+	She's trying not to let this bother her and she's not going 
+	to make a scene about it.
+
+					KEIKO
+			My last two Bajoran students left 
+			today... their families are relocating 
+			back to Bajor.  That left Jake, Nog... 
+			and a lot of empty chairs.
+
+					O'BRIEN
+			But what about Jake and Nog?  Don't 
+			they need to... ?
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          12.
+
+5    CONTINUED:	(2)
+
+					KEIKO
+			I told them both I'd be happy to 
+			tutor them from now on... but two 
+			students aren't enough to sustain a 
+			school.
+
+	O'Brien gets up and goes to her.
+
+					O'BRIEN
+			I'm really sorry, Keiko...
+
+	He puts his arm around her and she manages to smile at him a 
+	little.
+
+					KEIKO
+			It's not your fault.  Everyone's 
+			just afraid of the Dominion.  People 
+			aren't going to be bringing their 
+			families to live on the station 
+			anymore... so that means no more 
+			children... which means no more 
+			school.
+
+	O'Brien regards her with compassion and Keiko gives him a 
+	quick kiss on the cheek.
+
+					KEIKO
+			Don't look so upset.  It's not like 
+			I was planning to be a teacher the 
+			rest of my life.  I'm fine.  Really.
+
+	Keiko moves off to work on another bonsai tree.  It's clear 
+	from the look on her face that this has affected her more 
+	than she's letting on.  O'Brien looks at her and we can see 
+	that he is deeply concerned about her.  Off his concerned 
+	expression...
+
+									CUT TO:
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          13.
+
+6    INT. QUARK'S
+
+	A large crowd has now filled Quark's... people are drinking, 
+	eating, playing dabo, business is good.  A large group of 
+	patrons are hanging on every word as Quark narrates his tale.  
+	Quark's attitude is nonchalant, playing the part of a man 
+	who just "did what he had to do."
+
+					QUARK
+			Afraid?  Of course I was afraid, but 
+			that man was in my bar and he had a 
+			bill to pay.  And I wasn't going to 
+			have him walk out of here without 
+			paying it.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          14.
+
+6    CONTINUED:
+
+					PATRON
+			Must have been some fight.  I wish 
+			I'd been here to see it.
+
+					QUARK
+				(dramatically)
+			No you don't.  There's nothing pretty 
+			about watching a man die.  It's 
+			something I'll have to live with the 
+			rest of my life.  Can I get you a 
+			drink?
+
+	A waiter appears at Quark's signal and looks at the Patron 
+	expectantly.
+
+					PATRON
+				(to waiter)
+			Yeah... give Mister Quark a drink... 
+			and put it on my tab.
+
+	There is a round of applause for Quark as he smiles modestly 
+	and moves behind the bar with Rom, who is busily filling 
+	orders.  Quark takes a drink and looks around the bar with 
+	pleasure and then notices that Odo is sitting at the bar a 
+	short distance away watching him.
+
+					QUARK
+			Don't worry Constable, I won't be 
+			dispatching anymore customers today.  
+			You don't have to keep an eye on me.
+
+					ODO
+			Thank you for putting my mind at 
+			ease.  But I didn't come here to 
+			protect the patrons from your... 
+			violent temper.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          15.
+
+6    CONTINUED:	(2)
+
+					QUARK
+			Then what can I do for you?
+
+					ODO
+			I just thought you'd like to know 
+			who it was that you "killed in self 
+			defense."  His name was Kozak... by 
+			all accounts a thoroughly disreputable 
+			character and a notorious drunkard.
+
+					QUARK
+			Well, sounds like he was going to 
+			get killed sooner or later... it's a 
+			shame it had to happen here.
+
+					ODO
+			Isn't it?  I thought you'd also like 
+			to know that Kozak wasn't just some 
+			drifter passing through.
+				(beat)
+			In fact, he was the head of a Klingon 
+			family... a rather powerful family 
+			from what I can gather...
+
+	Rom turns around as he hears this with a look of fear on his 
+	face.  Some of the bravado leaves Quark's features but he 
+	doesn't back down.
+
+					ODO
+				(continuing)
+			Now... do you want to change your 
+			story or do you want to wait until 
+			Kozak's family shows up and asks to 
+			see the Ferengi bartender who killed 
+			him?
+
+	But to Odo's surprise, instead of cowering in fear Quark 
+	leans forward with a determined look on his face.
+
+					QUARK
+			I told you what happened, Constable.  
+			Now either order something or make 
+			room for a paying customer.
+
+	Odo is surprised and can't help but give Quark a puzzled 
+	smile.  He gets up and EXITS.  Rom quickly moves to Quark.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          16.
+
+6    CONTINUED:	(3)
+
+					ROM
+			Brother didn't you hear what he said?
+
+					QUARK
+			I heard him.
+
+					ROM
+			Then we have to tell the truth.  
+			We've made enough profit in the last 
+			few hours to make up for the losses 
+			we...
+
+					QUARK
+			This isn't about profit anymore.  
+			It's about respect.
+
+					ROM
+			It is?
+
+					QUARK
+				(indicates crowd)
+			You see the way they look at me now?  
+			I'm not just some venal Ferengi trying 
+			to take their money.  I'm Quark -- 
+			slayer of Klingons.
+				(beat)
+			I've struck a blow for Ferengis 
+			everywhere.
+
+					ROM
+			What about Kozak's family?  What if 
+			they come here for revenge?
+
+					QUARK
+			If that happens I'll stand up... 
+			look them right in the eye... and 
+			offer them a bribe.
+
+									CUT TO:
+
+7    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+8    INT. CORRIDOR
+
+	Quark is swaggering down the corridor feeling pretty good 
+	about himself...
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT ONE          17.
+
+8    CONTINUED:
+
+	he rounds a corner and suddenly a large hand reaches out 
+	and grabs him by the collar and slams him against the 
+	bulkhead.  A large Klingon named D'GHOR is holding Quark and 
+	he doesn't look happy.
+
+					D'GHOR
+				(snarling)
+			You... killed my brother.
+
+	Off Quark's terrified expression...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          18.
+                            ACT TWO                             
+
+	FADE IN:
+
+9    INT. CORRIDOR
+
+	Continuous from Act One.  D'Ghor is still holding Quark up 
+	against the bulkhead.
+
+					QUARK
+			I think there's been some mistake.  
+			My name is Rom... you want my brother, 
+			Quark.  He's shorter, not as 
+			intelligent looking...
+
+					D'GHOR
+			It won't work, Quark.  You were 
+			described to me very clearly... a 
+			Ferengi with a mouth bigger than his 
+			ears.
+
+	D'Ghor glares at him, then suddenly releases him, but the 
+	Klingon stays close enough to prevent any kind of escape.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          19.
+
+9    CONTINUED:
+
+					D'GHOR
+				(continuing)
+			My brother... killed by a miserable 
+			Ferengi... I would never have believed 
+			it possible.
+
+					QUARK
+			I can explain...
+
+					D'GHOR
+			You'd better.  I want to know exactly 
+			how Kozak died.
+				(pulls a knife)
+			And if I don't like what I hear...
+
+					QUARK
+				(quickly)
+			You'll like it, believe me.
+				(beat)
+			He was in the bar... I asked him to 
+			pay his tab... he refused... I was 
+			willing to let it go at that... but 
+			then he grabbed his knife and came 
+			at me.  And the truth is... he was 
+			so... inebriated that he... just... 
+			fell... and...
+
+					D'GHOR
+				(deadly)
+			I hope you're not going to tell me 
+			he died in an accident.
+
+					QUARK
+				(confused)
+			You do?
+
+					D'GHOR
+			Yes.  Because there's no honor in 
+			such a death.  And if Kozak died in 
+			disgrace, that disgrace would be 
+			passed along to the rest of his 
+			family.
+				(moves closer with 
+				knife)
+			So if you were the cause of an 
+			accident which will dishonor my entire 
+			family... then I'm going to kill you 
+			and shove your miserable corpse out 
+			the nearest airlock.
+
+	This catches Quark completely off-guard... he's not sure 
+	what to do.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          20.
+
+9    CONTINUED:	(2)
+
+					QUARK
+
+			I see...
+
+					D'GHOR
+			On the other hand, if he died as a 
+			warrior -- in personal combat -- 
+			then there would be no dishonor for 
+			him or his family.
+
+	Quark blinks for a moment... trying to digest this unexpected 
+	turn of events.
+
+					QUARK
+			So you're saying that if I... killed 
+			him in personal combat, that's... 
+			good?
+
+					D'GHOR
+			Of course it's not good, he was my 
+			brother!
+				(beat)
+			But it would be honorable... and an 
+			honorable death needs no vengeance... 
+			your life would be spared.
+
+					QUARK
+			D'Ghor, I wish you could've been 
+			there.  You'd have been proud of 
+			your brother.  He fought a brave and 
+			valiant battle right up to the end.  
+			It was an honor to kill him.
+
+					D'GHOR
+			I'm sure it was.
+				(puts knife away)
+			Remember that when you tell your 
+			customers about the death of Kozak.
+
+					QUARK
+			You can count on it.
+
+					D'GHOR
+				(a shout)
+			Q'apla!  (success)
+
+	Quark flinches, but then D'Ghor heads off down the 
+	Corridor, leaving Quark to catch his breath after 
+	narrowly avoiding death.
+
+									CUT TO:
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          21.
+
+10   OMITTED
+
+10A  INT. O'BRIEN'S QUARTERS
+
+	O'Brien is putting the final touches on what is obviously a 
+	romantic dinner for two:  candles, flowers, a bottle of 
+	champagne, elegant dinnerware, soft lights, music, etc.  
+	He's wearing an elegant civilian outfit and everything looks 
+	perfect.  The doors OPEN and Keiko ENTERS.  She stops short 
+	as she takes in the sight and her shock is obvious.
+
+					KEIKO
+			Miles... what... what's going on?
+
+					O'BRIEN
+			You're five minutes early.  The 
+			canapes aren't ready yet.
+
+					KEIKO
+			Have I missed something?
+
+					O'BRIEN
+			Now don't tell me you've forgotten 
+			what day it is...
+
+	Keiko looks at him blankly.
+
+					KEIKO
+			Well... it's not our anniversary... 
+			or my birthday... or...
+
+	O'Brien opens the champagne and pours them both a glass.
+
+					O'BRIEN
+			I can't believe you've forgotten.
+				(off her blank look)
+			It's "I'm married to the most 
+			wonderful woman in the galaxy day."  
+			I marked it on your calender.
+
+	He hands her the glass of champagne and Keiko can't help but 
+	smile at him in a mixture of surprise and genuine emotion.
+
+					KEIKO
+			I don't think I'm too familiar with 
+			that day.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          22.
+
+10A  CONTINUED:
+
+					O'BRIEN
+			It's an old Irish tradition.  I 
+			thought we should start celebrating 
+			it.
+
+	They move closer together.
+
+					KEIKO
+			Too bad it only comes once a year.
+
+					O'BRIEN
+			Actually, it's a very irregular 
+			holiday... crops up all over the 
+			place.  Sometimes twice in the same 
+			day.
+
+	O'Brien takes her in his arms.
+
+					KEIKO
+			Really?  So what's the traditional 
+			celebration?  Cake?  Noisemakers?  
+			Fireworks?
+
+	He leans in to kiss her.
+
+					O'BRIEN
+			Oh... definitely fireworks...
+
+	He kisses her and she responds... and as they embrace...
+
+								DISSOLVE TO:
+
+10B  INT. O'BRIEN'S QUARTERS
+
+	The next morning.  The candles are burnt out, there's evidence 
+	that at least some of the food was eaten and the bottle of 
+	champagne is empty and upside-down in its bucket.  O'Brien 
+	and Keiko come out of the bedroom.  O'Brien is wearing his 
+	uniform, while Keiko has on a silk robe.  They are both still 
+	glowing after last night.
+
+					O'BRIEN
+			I should be able to finish the docking 
+			inspection by thirteen hundred.  How 
+			about lunch at the Replimat?
+
+					KEIKO
+			Sounds good to me.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          23.
+
+10B  CONTINUED:
+
+					O'BRIEN
+			It's a date then.
+				(gives her a kiss)
+			See you later.
+
+	He turns to go, but then Keiko pulls him back to her for a 
+	moment.
+
+					KEIKO
+			I just wanted to say thank you for 
+			last night.  It was... wonderful.
+
+					O'BRIEN
+				(with sexual meaning)
+			You already thanked me.
+
+	They share a smile and then O'Brien heads for the door.
+
+					O'BRIEN
+			I'll be on upper pylon two if you 
+			need me.
+
+	A little of the joy fades from Keiko's face and her voice.
+
+					KEIKO
+			Okay.  I'll be... here.
+
+	There's a definite sadness as Keiko says this and O'Brien 
+	picks up on it immediately.  He pauses as he reaches the 
+	door and turns back to look at his wife.  Keiko keeps smiling 
+	at him, but some of the light has gone out of her eyes.  She 
+	turns and moves to one of her bonsai plants and O'Brien 
+	watches her for a long moment... the image of his wife all 
+	alone in the room affects him deeply and the glow of the 
+	night before suddenly seems a distant memory.  Off his 
+	troubled expression...
+
+									CUT TO:
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          24.
+
+11   INT. QUARK'S
+
+	It's after hours and the bar is closed.  Quark is counting 
+	out latinum bars at a table -- they've made quite a haul 
+	today.
+
+					QUARK
+			Not bad... not bad... but this is 
+			just the beginning.  I'm thinking of 
+			cordoning off the area where Kozak 
+			died as a kind of memorial... maybe 
+			with a commemorative plaque.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          25.
+
+11   CONTINUED:
+
+					QUARK
+			We can charge people admission if 
+			they want to see the bloodstains.
+
+					ROM
+			Brother... maybe this has gone too 
+			far... maybe we should just take the 
+			money we've made and move on to other 
+			ventures.  The Klingons may not like 
+			us profiting on the death of one of 
+			their --
+
+					QUARK
+				(hard)
+			I told you -- I took care of the 
+			Klingons.  They won't bother us again.  
+			Now stop thinking and start 
+			cleaning... beginning with the store 
+			room, it's filthy.  Go!
+
+	Rom scurries out of the bar.  Quark sits back for a moment 
+	and surveys his domain... he's feeling particularly good 
+	about himself... his business... life in general.  Suddenly 
+	Quark sees a HOODED FIGURE standing in the shadows of the 
+	bar.
+
+					QUARK
+			Who's there?  We're closed.
+
+	The figure doesn't move.  Quark moves closer.
+
+					GRILKA
+				(softly)
+			Are you Quark?
+
+	Quark's eyes narrow in suspicion.
+
+					QUARK
+			That depends on who's asking.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          26.
+
+11   CONTINUED:	(2)
+
+	The figure steps into the light and pulls back the hood, 
+	revealing GRILKA'S face -- she is a striking Klingon woman, 
+	whose features are regal and proud.  At the moment, her face 
+	is etched with sadness and grief... there is no hostility or 
+	anger in her, just the look of a woman who's suffered a great 
+	loss.
+
+					GRILKA
+				(softly)
+			My name is Grilka... Kozak was my 
+			husband.
+
+	Grilka looks away from him in grief and Quark can't help but 
+	feel bad... he hadn't really expected this.
+
+					QUARK
+			Oh... well, come in.
+				(beat)
+			Can I get you a drink... or something 
+			to eat... ?
+
+	She takes a couple more steps into the room... as if trying 
+	to decide what to say to him.
+
+					GRILKA
+			I've been told... that you are the 
+			one who... killed my husband.
+
+					QUARK
+			I... didn't want to.  I... had no 
+			choice.
+
+					GRILKA
+			Was it... an honorable death?
+
+	Quark moves to her, trying his very best to comfort this 
+	widow.
+
+					QUARK
+			Absolutely.  He died... like a 
+			warrior.
+
+	Grilka nods, seems to take some comfort in that... Quark 
+	watches her for a moment... hunts for something to ease her 
+	pain.
+
+					QUARK
+				(continuing)
+			I'm very sorry about what happened.  
+			Is there anything I can do... ?
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          27.
+
+11   CONTINUED:	(3)
+
+					GRILKA
+			Actually, there is... defend yourself!
+
+	And with that, Grilka flings off the hooded robe, and pulls 
+	a knife from her belt.  She snarls at Quark and comes at him 
+	with the knife.  Quark reacts with the finely tuned instincts 
+	of the true coward and he leaps backward over the bar and 
+	crashes onto the floor.  Grilka moves to the bar, but doesn't 
+	pursue him over it.
+
+	Grilka leans over the bar and sees Quark cowering in fear on 
+	the floor, using a serving tray as a protective shield.  
+	Grilka looks at him for a beat, and then her anger disappears 
+	just as quickly as it came.  She regards him calmly.
+
+					GRILKA
+				(with contempt)
+			So this is the man who killed my 
+			husband... in personal combat...
+
+	Quark hears the change in tone and he looks up cautiously to 
+	see that Grilka is not still coming for him.  Quark slowly 
+	stands, a look of suspicion coming over his face.
+
+					QUARK
+			What's going on here?  Who are you?
+
+					GRILKA
+			I told you, I'm Kozak's widow.  But 
+			first things first, Quark.  I want 
+			to know how my husband died, and I 
+			want the truth.
+
+	Quark glances down at the knife in her hand... after a beat, 
+	Grilka puts the knife back in her belt.
+
+					QUARK
+			All right... he was drunk and he did 
+			try to attack me... but he tripped 
+			and fell on his own knife.
+
+	A look of relief quickly washes over Grilka.
+
+					GRILKA
+			So you lied... to the station security 
+			officer...
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          28.
+
+11   CONTINUED:	(4)
+
+					GRILKA (Cont'd)
+			... to your customers... and to D'Ghor.  
+			You must be quite a liar.
+
+					QUARK
+			It's... a gift.
+
+					GRILKA
+			I think it's time you put that gift 
+			to work... for me.
+
+	Quark's eyes narrow in suspicion, but before he can do 
+	anything about it, Grilka's hand flashes up and applies a 
+	hypospray to his neck.  Quark falls unconscious on the bar.  
+	Grilka puts the hypo away and then activates a communicator.
+
+					GRILKA
+				(to com)
+			Cho'echu!  (energize)
+
+	Grilka and Quark DEMATERIALIZE.
+
+									CUT TO:
+
+12   EXT. KLINGON HOMEWORLD (MATTE SHOT) - NIGHT
+
+	The homeworld of the Klingon Empire.
+
+13   INT. GRILKA'S HOUSE - NIGHT
+
+	We are in one of the main rooms.  The house is decorated in 
+	noble, heroic themes... this is the home of a Klingon family 
+	with long, proud traditions.  But the family has fallen on 
+	hard times, so some of the tapestries are frayed and dirty... 
+	the room could use a good cleaning... and there are several 
+	broken or worn items that should have been repaired or 
+	replaced a long time ago.
+
+	Quark is lying unconscious on a large couch.  An old Klingon 
+	servant named TUMEK is leaning over Quark and he applies a 
+	hypospray to Quark's neck.  After a beat, Quark regains 
+	consciousness and looks around.
+
+					QUARK
+			What... what happened?  Where am I?
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          29.
+
+13   CONTINUED:
+
+					TUMEK
+			You are on Kronos.
+
+					QUARK
+			Kronos... ?
+
+	Memory floods back to Quark and he quickly sits up.
+
+					QUARK
+				(continuing, downbeat)
+			The Klingon homeworld...
+
+	Quark sits back, stunned and defeated.  He glances around 
+	the room.
+
+					TUMEK
+			You are in the ancestral home of 
+			what used to be known as the House 
+			of Kozak.
+
+	Quark is only mildly interested in this conversation... he's 
+	too worried about his own situation, but he keeps talking to 
+	Tumek just to keep from screaming in fear.
+
+					QUARK
+			What's it called now?
+
+	Tumek drops his gaze... ashamed of what's happened.
+
+					TUMEK
+				(quiet)
+			Kozak left no male heir... the House 
+			no longer has a name.
+
+					QUARK
+			What about Kozak's brother... D'Ghor?
+
+	A thundercloud of anger appears on Tumek's face.  The old 
+	man fairly snarls his response at Quark.
+
+					TUMEK
+				(quiet fury)
+			That pahtak's name is not spoken in 
+			this house.  He is no brother to 
+			Kozak...
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          30.
+
+13   CONTINUED:	(2)
+
+					TUMEK
+			... his family has been a sworn enemy 
+			of this house for seven generations.
+
+	Quark looks at him with shock and disbelief.
+
+					QUARK
+			But... he came to D.S. Nine... he 
+			told me that --
+
+					TUMEK
+			What he told you were lies.  He wanted 
+			you to say that Kozak died in 
+			honorable combat so that no special 
+			dispensation would be granted.
+
+					QUARK
+			I don't understand.
+
+					TUMEK
+			If Kozak died in an accident... and 
+			left no male heir, the Council might 
+			have decided that this was an unusual 
+			situation... and granted special 
+			dispensation.  That may have allowed 
+			Grilka to head the family even though 
+			she's a woman.
+
+	Tumek stands and looks at Quark with a mixture of sadness 
+	and anger.
+
+					TUMEK
+				(continuing)
+			But if Kozak died in... an honorable 
+			fight, and was simply defeated by a 
+			better opponent, then there would be 
+			no special dispensation... and without 
+			a male heir the House will fall.
+
+	Quark digests this for a moment... but then Grilka's voice 
+	interrupts them.
+
+					GRILKA'S VOICE
+			That hasn't happened yet, Tumek.
+
+	They both turn to see Grilka as she strides into the room.  
+	She is wearing a flowing ceremonial garment that is both 
+	regal and seductive, managing to convey the ideas of ancient 
+	ritual and sexual promise at the same time.  She is carrying 
+	a large robe which has been designed in a similar vein, but 
+	is tailored for a Klingon male.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          31.
+
+13   CONTINUED:	(3)
+
+					GRILKA
+				(continuing)
+			And there is still time to prevent 
+			it from ever happening.
+
+	She throws the robe to Quark.
+
+					GRILKA
+			Put this on.
+
+					QUARK
+			Why?
+
+					GRILKA
+			Because if you do not, I will kill 
+			you.
+
+	That's good enough for Quark, and so he struggles into the 
+	ill-fitting robe.  Tumek looks dubious about this entire 
+	affair, but it is also clear that she is in charge here and 
+	Tumek is her servant.
+
+					TUMEK
+				(quiet)
+			I beg you... consider what you do 
+			here, mistress...
+
+					GRILKA
+			The decision is made.  There's no 
+			other choice.
+
+	Quark has managed to get into the robe and now Grilka grabs 
+	one of his hands and faces Tumek.  She draws herself up and 
+	speaks formally.
+
+					GRILKA
+			Go'Eveh... lu cha wabeh... Mo ka 
+			re'Chos.
+
+	Tumek and Grilka now look to Quark, who has no idea what to 
+	do.
+
+					TUMEK
+				(to Quark)
+			Repeat my words... "Go'Eveh... lu 
+			cha wabeh... To va re'Luk.
+
+					QUARK
+			Could I just ask one simple question 
+			before --
+
+	Grilka pulls her knife and puts it at Quark's throat.
+
+           DEEP SPACE: "The House... " - 08/01/94 - ACT TWO          32.
+
+13   CONTINUED:	(4)
+
+					GRILKA
+			Repeat the words.
+
+					QUARK
+				(quickly)
+			Go'Eveh lu cha wabeh to va re'Luk.
+
+					TUMEK
+			Ghos ma'lu Kah!
+
+	With that, Grilka grabs Quark roughly and gives him a kiss 
+	that is deep and harsh... she pushes him away and wipes off 
+	her mouth.
+
+					TUMEK
+			It is done.
+
+					QUARK
+				(a little unsteady)
+			What's done?
+
+					TUMEK
+			The ceremony is complete... you are 
+			husband and wife.
+
+	Off Quark's shocked reaction...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE: "The House... " - REV. 08/04/94 - ACT THREE       33.
+                           ACT THREE                            
+
+	FADE IN:
+
+14   INT. GRILKA'S HOUSE - ON MONITOR (OPTICAL) - DAY
+
+	Rom's face suddenly appears on a Klingon monitor in Grilka's 
+	House.  He seems a little surprised.
+
+					ROM
+			Oh... hello, brother.
+
+	MOVE TO REVEAL Quark (no longer in the wedding robe) is 
+	sitting in front of a monitor.  Grilka is sitting nearby 
+	watching him.
+
+					QUARK
+			That's it?  "Hello, Brother"?  I've 
+			been gone for three days, and that's 
+			all you have to say?
+
+					ROM
+			I was... worried.  Then I remembered 
+			what you said about not prying into 
+			your private matters.  So I didn't 
+			tell anyone about your... sudden 
+			absence.
+
+					QUARK
+				(irritated)
+			Well, I'm on the Klingon homeworld.
+				(beat)
+			And I'm married.
+
+       DEEP SPACE: "The House... " - REV. 08/04/94 - ACT THREE      33A.
+
+14   CONTINUED:
+
+	Rom doesn't even blink at this news.
+
+					ROM
+			Congratulations.
+
+       DEEP SPACE: "The House... " - REV. 08/04/94 - ACT THREE       34.
+
+14   CONTINUED:	(2)
+
+	Quark rolls his eyes in frustration... but on the monitor, 
+	we can suddenly see the intimidation on Rom's face turn to 
+	sudden realization of the opportunity here.
+
+					ROM
+				(continuing, hopeful)
+			So... does this mean you won't be 
+			coming back?
+
+					QUARK
+			I am definitely coming back...
+				(glances at Grilka)
+			It may take some time, that's all.  
+			Now listen to me:  stay away from 
+			the dabo girls.
+
+					ROM
+			Absolutely.
+
+					QUARK
+			I mean it.  They'll promise you 
+			anything, Rom... they'll say they 
+			love you... that you're the most 
+			handsome Ferengi since Daimon Orok... 
+			but they only want one thing:  your 
+			latinum.
+
+					ROM
+			Don't worry about a thing, Brother.  
+			I won't even look at them.
+				(quickly)
+			Well, you're probably eager to begin 
+			your married life, so I won't keep 
+			you.  Give my best to your bride and 
+			stay in touch.
+
+	The TRANSMISSION ENDS.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         35.
+
+15   INT. QUARK'S
+
+	Rom turns away from the monitor with a smile on his face as 
+	two gorgeous DABO GIRLS slip into his two outstretched arms.
+
+					ROM
+				(to girls)
+			Now, where were we?
+
+16   INT. GRILKA'S HOUSE - DAY
+
+	Quark turns away from the computer monitor.  Grilka looks at 
+	him with a little curiosity.
+
+					GRILKA
+			You seem... worried about him.
+
+	Quark reacts... not too happy about Grilka's all-too-accurate 
+	appraisal.
+
+					QUARK
+				(gruff)
+			I'm worried he'll ruin my 
+			business.
+
+	Grilka decides not to press it and moves to a table, where 
+	she picks up another formal robe and hands it to Quark.
+
+					QUARK
+			Where are we going?
+
+					GRILKA
+			To a meeting of the High Council.  I 
+			have to present my new husband.
+
+					QUARK
+			Why?  What's this all about?  What 
+			is it you want from me?
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         36.
+
+16   CONTINUED:
+
+					GRILKA
+				(hard)
+			Just put it on.
+
+	She moves close to him and her tenor becomes deadly.
+
+					GRILKA
+				(continuing, quiet)
+			And remember, Quark.  When we're in 
+			the Great Hall, don't say a word.
+				(he opens his mouth 
+				to protest)
+			Not a word.
+
+	They head for the EXIT.
+
+									CUT TO:
+
+17   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+17A  INT. COMMANDER'S OFFICE
+
+	SISKO, DAX, and KIRA are sitting at the desk, looking over 
+	some PADDS.
+
+					SISKO
+				(to Kira)
+			... and while you're at it, have 
+			alpha shift begin a series of battle 
+			drills.  I'm not satisfied with their 
+			last performance evaluations.
+
+					KIRA
+			Right.
+
+	The doors OPEN and O'Brien ENTERS.  He seems a little awkward 
+	here.
+
+					O'BRIEN
+			Oh... excuse me, sir.  I can come 
+			back later.
+
+					SISKO
+			No, no.  We're done here.  What can 
+			I do for you?
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         37.
+
+17A  CONTINUED:
+
+	O'Brien glances awkwardly at Dax and Kira... he's hesitant.
+
+					O'BRIEN
+			Well... it's kind of personal.
+
+	Dax looks at him closely and then smiles.
+
+					DAX
+			Wife problems, Chief?
+
+					O'BRIEN
+			How'd you know?
+
+					DAX
+			I've been a husband, and I've been a 
+			wife.  I know that look... from both 
+			sides.
+
+	Dax gets up and motions to Kira.
+
+					DAX
+			Come on.
+
+					KIRA
+			What?
+
+					DAX
+			This is where you and I make a 
+			"graceful exit," and let the boys 
+			talk amongst themselves.
+
+					KIRA
+			This is some kind of... human thing 
+			isn't it?
+
+					SISKO
+			I'm sure the... "Old Man" will be 
+			happy to explain it to you on the 
+			way out.
+
+	Dax smiles at him and then she and Kira EXIT.  Sisko smiles 
+	at O'Brien and indicates a chair.  O'Brien sits... but it's 
+	clear this is a very uncomfortable meeting for him.  Sisko 
+	senses this and tries to help lead him into the conversation.
+
+					SISKO
+			Keiko must be pretty upset about 
+			closing the school...
+
+       DEEP SPACE: "The House... " - REV. 08/01/94 - ACT THREE       38.
+
+17A  CONTINUED:	(2)
+
+					O'BRIEN
+			That's just it... she's acting like 
+			she doesn't care... as if nothing's 
+			wrong.
+
+					SISKO
+			Sounds bad...
+
+					O'BRIEN
+				(nods)
+			I've been trying to lift her spirits 
+			a bit... romantic dinners... long 
+			moonlit walks in the holosuite... 
+			I've even rearranged my work schedule 
+			to spend more time with her.  But 
+			nothing seemed to make a difference.
+
+	O'Brien hesitates again, and Sisko helps him out again.
+
+					SISKO
+			But now you have an idea...
+
+					O'BRIEN
+			Yes, sir.
+				(beat)
+			I'd like permission to convert one 
+			of the unused cargo bays into an 
+			arboretum.
+
+	But to O'Brien's surprise, Sisko doesn't even hesitate.
+
+					SISKO
+			I think Bay Twenty-One would be 
+			ideal... the ODN-conduits are shot, 
+			and the security system's never worked 
+			anyway.
+
+					O'BRIEN
+				(surprised)
+			So, you're saying yes?
+
+					SISKO
+			Sounds like it to me.
+
+	Sisko smiles at him and then moves to sit on the edge of the 
+	desk.  He's talking to O'Brien not as commander to chief any 
+	longer, but as a man who's been in O'Brien's shoes.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE        38A.
+
+17A  CONTINUED:	(3)
+
+					SISKO
+				(continuing)
+			Look... there's nothing harder than 
+			knowing that the person you love is 
+			unhappy... and I know how important 
+			it is to try to do something about 
+			it.  So if one empty cargo bay will 
+			make Keiko happy, then I'm all for 
+			it.  I just hope it works.
+
+					O'BRIEN
+			So do I.  She sacrificed her entire 
+			career to be here with me.  I owe it 
+			to her.
+
+					SISKO
+			If there's anything else I can do... 
+			just let me know.
+
+	O'Brien stands and they share a look.
+
+					O'BRIEN
+			Thank you, sir.
+
+	O'Brien manages a smile and then EXITS.  OFF Sisko's 
+	thoughtful reaction...
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         39.
+
+18
+thru   OMITTED
+19
+
+20   EXT. KLINGON HOMEWORLD (MATTE SHOT) - DAY
+
+	As seen before.
+
+21   INT. GREAT HALL - DAY
+
+	The Great Hall of the Klingon Empire, as seen in previous 
+	episodes.  GOWRON is seated in the Council Leader's chair 
+	and the rest of the COUNCIL is standing to either side of 
+	him.  Standing before the Council is D'Ghor, who is in the 
+	middle of making his case before Gowron.
+
+					D'GHOR
+				(formally)
+			... there being no special 
+			circumstances in the death, and no 
+			male heir, I make claim to the title 
+			and property of this fallen House.
+
+					GOWRON
+			The Council has considered your 
+			petition and will grant the transfer 
+			once the final rituals have been --
+
+					GRILKA'S VOICE
+			The petition is out of order!
+
+	Gowron looks up and sees Grilka ENTERING the Great Hall.  
+	Gowron is not happy to see her, but his attitude is one of 
+	weariness, not animosity.  There is no bad blood between 
+	Grilka and Gowron, but Gowron is tiring of this particular 
+	matter.  D'Ghor regards her with obvious contempt.
+
+       DEEP SPACE: "The House... " - REV. 08/04/94 - ACT THREE       40.
+
+21   CONTINUED:
+
+					D'GHOR
+			This woman has no place here.  Her 
+			husband is dead and her house has 
+			fallen.  I ask that she be taken 
+			from the Hall.
+
+					GRILKA
+			I have performed the brek'tal ritual, 
+			Gowron... and I have chosen a new 
+			husband to lead my House.
+
+	This causes a stir on the Council... the Klingons talk among 
+	themselves for a moment.
+
+					GRILKA
+				(calls out behind her)
+			Enter, husband.
+
+	Everyone turns and looks to see Quark ENTER the Great Hall 
+	wearing the Klingon robe seen earlier.  Gowron's jaw literally 
+	drops open and the other Council members are just as shocked.  
+	D'Ghor can barely contain himself.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         41.
+
+21   CONTINUED:	(2)
+
+					D'GHOR
+			A Ferengi cannot be allowed to rule 
+			a Klingon House!
+
+					GRILKA
+			All I have done is follow the brek'tal 
+			ritual: If the leader of a House is 
+			slain in honorable combat, the victor 
+			may be invited to take his place... 
+			and his wife.
+
+	D'Ghor wasn't expecting any of this.  Grilka can't help but 
+	give him a predatory smile.
+
+					GRILKA
+				(continuing)
+			You're the one who made this possible, 
+			D'Ghor.  You certified to the Council 
+			that Kozak died an honorable death 
+			at the hands of this man.  I am simply 
+			exercising my rights as an honored 
+			widow.
+
+					D'GHOR
+				(deadly)
+			I will have your House and your title, 
+			Grilka.  And when I am done, I will 
+			place your head and the head of this 
+			ridiculous Ferengi outside the gates.
+
+	Quark finally steps in at that threat.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         42.
+
+21   CONTINUED:	(3)
+
+					QUARK
+				(talking fast)
+			Can I say something here?  It seems 
+			like there's some kind of dispute 
+			going on over some land... maybe 
+			some other property... I think we 
+			should consider making a deal..
+
+	Grilka throws him an angry look at this intrusion.  D'Ghor 
+	pulls his knife.
+
+					D'GHOR
+			I should kill you right now...
+
+					GOWRON
+			Mev'yap!  (Stop!)
+
+	D'Ghor freezes in place.  Gowron stands up.
+
+					GOWRON
+				(continuing)
+			D'Ghor, you cannot challenge this 
+			man in Council without just cause.
+
+	D'Ghor reluctantly puts the knife away.  Everyone is now 
+	looking to Gowron, who is clearly asserting his authority.
+
+					GOWRON
+				(continuing)
+			We will have to consider this matter 
+			carefully before a final decision is 
+			reached.  Until then, the brek'tal 
+			will be respected.
+				(beat)
+			The House of Kozak is gone... for 
+			the time being, it will be known 
+			as... the House of Quark.
+
+	Gowron can't believe he's even saying it and neither can 
+	anyone else.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT THREE         43.
+
+21   CONTINUED:	(4)
+
+	Grilka looks pleased for the moment and D'Ghor burns with 
+	hatred.  Quark looks a little overwhelmed by it all.  Off 
+	his expression...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FOUR          44.
+                           ACT FOUR                             
+
+	FADE IN:
+
+22   INT. GRILKA'S HOUSE - DAY
+
+	Grilka is glaring at Quark in fury.
+
+					GRILKA
+			I told you not to say anything.
+
+	Quark seems less intimidated by her at this point... this 
+	whole affair is starting to get under his skin.
+
+					QUARK
+			I was trying to avoid a lot of 
+			unnecessary bloodshed... like my 
+			own.
+
+					GRILKA
+			Just do what I say and there won't 
+			be any bloodshed.
+
+					QUARK
+			Fine.  What's next?
+
+	For once, Grilka doesn't have an answer to everything... she 
+	hesitates and Quark presses her.
+
+					QUARK
+				(continuing)
+			What do we do now?  How do we 
+			strengthen the position of your House?  
+			How do we keep D'Ghor from carrying 
+			out his threat?  What's the plan?
+
+					GRILKA
+				(defensive)
+			I'm thinking.
+
+	Quark looks at her in dismay.
+
+					QUARK
+			You don't have a plan, do you?  You're 
+			just... making this up as you go 
+			along.
+
+					GRILKA
+			I managed to get us this far...
+
+					QUARK
+			But you have no idea where to go 
+			from here.
+
+        DEEP SPACE: "The House... " - REV. 08/04/94 - ACT FOUR       45.
+
+22   CONTINUED:
+
+	Grilka's expression tells him he's right.  Quark paces 
+	about for a moment, tries a different tack.
+
+					QUARK
+				(continuing)
+			Can I make a suggestion?  Let's try 
+			having a more equal partnership, 
+			shall we?
+
+					GRILKA
+			What do you want?
+
+					QUARK
+			Just... tell me what's going on.
+
+	Grilka thinks for a moment, then reluctantly starts to tell 
+	Quark what he wants to know.
+
+					GRILKA
+			Kozak... squandered much of our 
+			family's wealth... incurred several 
+			large gambling debts... made unwise 
+			investments.  As a result, the House 
+			has been severely weakened in power 
+			and influence.
+				(beat)
+			Much of the debt is owed to D'Ghor.  
+			And he is now ready to take advantage 
+			of our weakness...
+
+        DEEP SPACE: "The House... " - REV. 08/04/94 - ACT FOUR       46.
+
+22   CONTINUED:	(2)
+
+					GRILKA
+			If he can gain title to our lands 
+			and property, his family will become 
+			a powerful influence in the Empire.  
+			He may even earn a seat on the 
+			Council.
+
+					QUARK
+			Would it be possible for me to see 
+			all the financial records of your 
+			house -- and I mean everything.  
+			D'Ghor's too, if you can arrange it.  
+			Maybe I can find a way out of this 
+			mess.
+
+					GRILKA
+				(with distaste)
+			That is not how we do things here.  
+			We are Klingons.  We don't... dirty 
+			ourselves with filthy ledgers... 
+			looking for some... financial trick 
+			to --
+
+					QUARK
+				(hard)
+			Look.  We've been doing things your 
+			way ever since this started.  And 
+			now you've run out of ideas... so 
+			maybe we should try doing things my 
+			way for a change.  It certainly can't 
+			hurt to let me look at some... filthy 
+			ledgers.
+
+	Grilka thinks for a moment, then nods in agreement and moves 
+	to a computer terminal.  As she begins working...
+
+									CUT TO:
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FOUR          47.
+
+
+23   INT. DEEP SPACE NINE - REPLIMAT
+
+	O'Brien is sitting at a table, sketching something on a large 
+	PADD.  He is deep in thought and has been at this for a while.  
+	Bashir walks up to the replicator wall and nods at O'Brien.
+
+					BASHIR
+			Afternoon, Chief.
+
+					O'BRIEN
+				(distracted)
+			Doctor...
+
+					BASHIR
+				(to replicator)
+			Plomeek soup, hot... with a touch of 
+			basil.
+
+	As we HEAR the replicator working, Bashir glances casually 
+	down to see what O'Brien's doing on the PADD.  After a beat, 
+	O'Brien senses Bashir's gaze and looks up.  Bashir smiles at 
+	him sheepishly... and tries to avoid irritating the Chief.
+
+	Bashir turns and takes the bowl of soup from the replicator 
+	and is about to move away when O'Brien stops him.  O'Brien 
+	is awkward... embarrassed, but actually eager for a little 
+	help.  He shows Bashir the PADD.
+
+					O'BRIEN
+			What do you think?
+
+					BASHIR
+			You're asking my opinion?
+
+	O'Brien just looks at him and refrains from observing that 
+	he's obviously asking his opinion.  Bashir doesn't really 
+	wait for an answer and he sits down to look at the PADD.
+
+					BASHIR
+			An arboretum... ?  For Keiko, I 
+			presume?  To make her a little happier 
+			now that the school's been closed.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FOUR          48.
+
+23   CONTINUED:
+
+	O'Brien is a little taken aback that everyone seems to 
+	know about his problem.
+
+					O'BRIEN
+			It's not just for Keiko... there'd 
+			be benefits for the entire station...
+				(beat, then quieter)
+			Do you think it'll work?
+
+					BASHIR
+			Absolutely...
+
+	O'Brien looks relieved, but then Bashir finishes his thought.
+
+					BASHIR
+				(continuing)
+			For two months.  Then you'll be right 
+			back where you started.
+
+					O'BRIEN
+			Two months?
+
+					BASHIR
+			It's been my experience that during 
+			any serious disagreement a smile and 
+			sweet words will get you two hours... 
+			flowers will get you a week... an 
+			arboretum -- well, that's at least 
+			two months.  But in the end, you 
+			still have to solve the underlying 
+			problem.
+
+	O'Brien looks depressed and frustrated.
+
+					O'BRIEN
+			I thought that an arboretum would 
+			give her a chance to continue her 
+			studies... help her find something 
+			to do with her time...
+
+					BASHIR
+			Like a hobby.
+
+					O'BRIEN
+			Exactly.
+
+        DEEP SPACE: "The House... " - REV. 08/04/94 - ACT FOUR       49.
+
+23   CONTINUED:	(2)
+
+					BASHIR
+			Exactly why it won't work.
+				(off his look)
+			You can't ask her to turn her 
+			profession into a hobby.  Would you 
+			be satisfied with just... puttering 
+			around in a workshop... making nano-
+			circuit boards and playing with 
+			tricorders?
+
+					O'BRIEN
+			I suppose not.
+
+					BASHIR
+			You're the chief of operations... 
+			I'm a doctor... Keiko's a botanist.  
+			Until she can be a botanist again... 
+			I'm not sure she's ever going to be 
+			happy.
+
+	Bashir gives him a sympathetic look and then leaves.  O'Brien 
+	puts down the PADD and looks more troubled than ever.
+
+									CUT TO:
+
+24   INT. GRILKA'S HOUSE - DAY
+
+	Quark is working at a table with a computer monitor in front 
+	of him.  The table is covered with dozens of PADDS and other 
+	information-carrying devices.  Grilka is standing next to 
+	him, watching him work with what is starting to become 
+	admiration.
+
+					QUARK
+				(off PADD)
+			Ah... very clever... very clever 
+			indeed...
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FOUR       50.
+
+	Quark looks up at her.
+
+					QUARK
+			D'Ghor has manipulated your family's 
+			holdings... devalued the lands you 
+			hold... and he's the principal 
+			creditor on Kozak's outstanding 
+			gambling debts.
+				(beat)
+			It's no accident that your family's 
+			getting weaker and D'Ghor's family 
+			is getting stronger.  He's been 
+			systematically attacking your family's 
+			assets for over five years now.
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FOUR       51.
+
+					GRILKA
+				(with contempt)
+			You mean... D'Ghor has been... 
+			scheming and ... plotting like a...
+
+	She breaks off the thought, but Quark finishes it for her.
+
+					QUARK
+			Like a Ferengi.
+
+					GRILKA
+			There is no honor in what he has 
+			done.  If he wanted to challenge my 
+			House, he should've made a 
+			declaration... met our forces in 
+			battle...
+
+					QUARK
+			And risk destroying the very thing 
+			he wanted most... your lands and 
+			property.
+
+	Grilka can't deny that.  She sits down for a moment and thinks 
+	calmly.
+
+					GRILKA
+			Can you prove any of this... can you 
+			show the Council what D'Ghor has 
+			done?
+
+					QUARK
+				(indicates PADDS)
+			It's all right here.  All I have to 
+			do is talk them through it.
+
+	Grilka looks a little relieved for the first time.
+
+					GRILKA
+			Thank you, Quark.  You may have saved 
+			my family.
+
+					QUARK
+			Well, it is the House of Quark, after 
+			all.
+
+	There's a beat and they share a warm moment together for the 
+	first time.
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FOUR       52.
+
+24   CONTINUED:	(3)
+
+	Grilka finally smiles at him... she can be quite lovely 
+	when she's not wearing a scowl.  Quark smiles back and their 
+	eyes meet... there is a long moment that seems filled with 
+	sexual tension... Grilka leans closer to him and Quark begins 
+	to move toward her.
+
+					GRILKA
+				(softly)
+			I am very grateful for all you have 
+			done, Quark.  That's why I'm going 
+			to let you take your hand off my 
+			thigh instead of shattering every 
+			bone in your body.
+
+	Quark pulls back and smiles ruefully at her.  She smiles 
+	back... and there is still a trace of respect... even a hint 
+	of attraction here.
+
+					QUARK
+			Let's go talk to the Council.
+
+	They begin gathering up the PADDS.
+
+									CUT TO:
+
+25   EXT. KLINGON HOMEWORLD (MATTE SHOT) - DAY
+
+	As seen before.
+
+        DEEP SPACE: "The House... " - REV. 08/04/94 - ACT FOUR       53.
+
+26   INT. GREAT HALL - DAY
+
+	Quark, wearing the formal robes seen earlier, is addressing 
+	Gowron and the assembled Council.  D'Ghor is standing nearby, 
+	watching the proceedings with a glare.  Quark is taking the 
+	Council step by step through the financial maze... each of 
+	the Council members is following Quark's presentation on a 
+	PADD of their own... although they occasionally have to look 
+	over each other's shoulder as he takes them through a complex 
+	transaction.  Quark is completely in his element here... 
+	utterly confident now that he's dealing with things he 
+	understands.  Grilka is standing behind Quark and there are 
+	a couple of N.D. Klingons watching the proceedings.
+
+					QUARK
+				(referring to PADD)
+			... so as you can see from the gross 
+			adjusted assets tabulation in column 
+			J, the net value of the land 
+			acquisition was actually zero.
+				(picks up another 
+				PADD)
+			Now, if you'll go to the file marked 
+			"Devaluation of Capital Income," we 
+			can review the way D'Ghor has --
+
+	Gowron finally throws the PADD down in disgust.
+
+					GOWRON
+			Enough!  I don't want to hear anything 
+			more about... finances, mergers, or 
+			currency transactions.
+
+	Gowron stands and moves closer to D'Ghor.
+
+					GOWRON
+			The charge has been made that you 
+			have used...
+				(with distaste)
+			... money to bring down a great 
+			House.  What do you say to this, 
+			D'Ghor?
+
+					D'GHOR
+			I say he is a liar... that he has 
+			smeared my name... and I demand 
+			vengeance through personal combat.
+
+        DEEP SPACE: "The House... " - REV. 08/04/94 - ACT FOUR       54.
+
+26   CONTINUED:
+
+	Everyone is watching D'Ghor... he finally steps away from 
+	Gowron and moves to Quark.  Grilka tenses slightly, puts her 
+	hand on her knife just in case it's needed.  Quark stiffens, 
+	but holds his ground.
+
+					D'GHOR
+				(calm)
+			I have discovered new evidence... 
+			evidence which proves that Kozak did 
+			not die honorably... that he actually 
+			died in an accident.
+				(beat)
+			I have a witness who will say he 
+			watched Kozak trip and fall on his 
+			own blade... and that Quark made up 
+			the entire story.
+				(to N.D. Klingon)
+			GhoS cha Ko!  (Bring him!)
+
+	The N.D. EXITS and Grilka gives Quark a look.  He regards 
+	her calmly.
+
+					QUARK
+				(sotto)
+			I don't know what he's trying to 
+			pull here... the only other person 
+			who was there was...
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FOUR          55.
+
+26   CONTINUED:	(2)
+
+	Quark trails off as the N.D. Klingon returns, with Rom in 
+	tow.  The N.D. shoves Rom into the center of the room.  Quark 
+	looks at him in shock and dismay.  D'Ghor looks pleased and 
+	Grilka is worried.  Rom looks like hell, but he tries to 
+	give Quark a sheepish smile.
+
+					ROM
+			Hello, brother...
+
+	Off Quark's dismayed expression...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE: "The House... " - REV. 08/11/94 - ACT FIVE 56-58.       
+                           ACT FIVE                             
+
+	FADE IN:
+
+27   OMITTED
+
+28   EXT. KLINGON HOMEWORLD (MATTE SHOT) - NIGHT
+
+	The Klingon world at night.
+
+29   INT. GRILKA'S HOUSE - NIGHT
+
+	Late that night.  The lights are mostly out as Quark and Rom 
+	quietly creep toward the main door.  They quietly OPEN the 
+	door, and they are about to leave, when suddenly the large 
+	form of Tumek steps in their path from outside the house.  
+	Quark and Rom jump back in surprise and at the same moment, 
+	the lights suddenly come ON.  They turn to see Grilka standing 
+	there looking at them both.
+
+					GRILKA
+			I thought you might try to leave.
+
+					QUARK
+			Look, I've done my part in this little 
+			game of yours... and I'm sorry about 
+			your House and your title... but 
+			there's a man out there who wants to 
+			kill me tomorrow.
+
+					GRILKA
+			It's a matter of honor, Quark.  D'Ghor 
+			has accused you of lying... there's 
+			no way to answer that charge except 
+			through personal combat.
+
+					QUARK
+			To you Klingons there may be no other 
+			way, but there's an old Ferengi saying 
+			about discretion being the better 
+			part of valor...
+
+					GRILKA
+			Then what they say about the Ferengi 
+			is true... that you're all lying, 
+			thieving, cowards with no sense of 
+			loyalty or honor.
+
+        DEEP SPACE: "The House... " - REV. 08/11/94 - ACT FIVE       59.
+
+29   CONTINUED:
+
+					QUARK
+			Sticks and stones...
+
+					GRILKA
+			I thought you were different... I 
+			thought you had something in here...
+				(taps her chest)
+			... but all you have in there, is a 
+			piece of latinum... and it's a pretty 
+			small piece at that.
+				(to Tumek)
+			Let them run.  I don't want them in 
+			my house.
+
+	Grilka turns and then EXITS.  Tumek follows her.  There's a 
+	beat and then Quark turns to Rom.
+
+					QUARK
+			All right, let's go.
+
+	Rom hesitates just for a moment... a look of doubt on his 
+	face.  Quark instantly picks up on it and whirls on Rom.
+
+					QUARK
+				(continuing)
+			What?  What?  You think I should 
+			stay and fight D'Ghor?  Is that what 
+			you're thinking?
+
+	Rom is instantly fearful and cringes back.  But Quark is 
+	arguing with himself here more than Rom.
+
+					QUARK
+				(continuing, quick)
+			How could you let her get to you 
+			like that?  Don't you see what she's 
+			doing?  She's trying to make us feel 
+			guilty.  Well, it's not going to 
+			work.
+
+	Quark glares at him and Rom decides to jump on the bandwagon.  
+	But as Quark and Rom talk, it becomes increasingly clear 
+	that neither of them is quite as sure as they pretend to be.
+
+					ROM
+			You're right, brother.  You're a 
+			businessman -- all you care about is 
+			profit.
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FIVE       60.
+
+29   CONTINUED:	(2)
+
+					QUARK
+			Right.
+
+					ROM
+			This was all just a... ploy to boost 
+			sales at the bar.  Who cares if some 
+			Klingon female loses her House?
+
+					QUARK
+			I certainly don't.
+
+					ROM
+			Me neither.
+
+	Quark nods and they both give each other an unconvinced, 
+	uncomfortable look.
+
+					QUARK
+				(quieter)
+			Now... let's get out of here.
+
+	They EXIT.
+
+									CUT TO:
+
+        DEEP SPACE: "The House... " - REV. 08/04/94 - ACT FIVE       61.
+
+30   EXT. KLINGON HOMEWORLD (MATTE SHOT ) - DAY
+
+	As seen before.
+
+31   INT. GREAT HALL - DAY
+
+	The next day.  Gowron and the Council are in their usual 
+	places.  D'Ghor is standing before them with a large bat'leth 
+	in his hand, and looking cocky.  Grilka stands off to one 
+	side, waiting for the inevitable.  D'Ghor smiles at her and 
+	then faces the Council.
+
+					GOWRON
+			Grilka... where is the leader of 
+			your House?
+
+					GRILKA
+				(quiet)
+			I do not know.
+
+					D'GHOR
+			Then I say that the House of Quark 
+			has dishonored itself before this 
+			Council.  And I ask that it be 
+			dissolved and its lands and property 
+			turned over to me as compensation 
+			for...
+
+	D'Ghor trails off in surprise as he sees something at the 
+	back of the room.  Everyone else turns to see what he is 
+	looking at.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE          62.
+
+32   NEW ANGLE
+
+	Revealing that Quark and Rom are ENTERING the chamber.  Quark 
+	is holding a bat'leth sword with a look of determination.  
+	Rom looks nervous but proud of his brother.  The other 
+	Klingons are shocked and surprised -- even Grilka, but she 
+	at least smiles at the apparent bravery of the Ferengi.  
+	Quark stands before the Council.
+
+					QUARK
+			I am Quark, son of Keldar... and I 
+			have come to answer the challenge of 
+			D'Ghor, son of... whatever.
+
+	D'Ghor stiffens slightly in anger.  Gowron leans forward and 
+	peers at Quark more closely... re-evaluating his opinion of 
+	him.  D'Ghor throws off his ceremonial robe and holds his 
+	bat'leth like the experienced fighter he is.  Grilka comes 
+	over and takes Quark's robe.
+
+					GRILKA
+				(quiet)
+			Whatever happens... I'm proud of 
+			you.
+
+					QUARK
+				(quiet)
+			I wish I could say that's comforting.
+
+	Rom and Grilka move away as Quark and D'Ghor face each other 
+	in the center of the room.  Gowron steps down from his chair 
+	and stands between the two of them.
+
+					GOWRON
+				(to D'Ghor)
+			Ready?
+
+	D'Ghor gives a short, quick nod.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE          63.
+
+32   CONTINUED:
+
+					GOWRON
+				(to Quark)
+			Ready?
+
+	Quark nods slowly, keeping his eyes on the huge figure of 
+	D'Ghor... the bat'leth looking large and unwieldy in Quark's 
+	hands.
+
+					GOWRON
+				(continuing)
+					DaH!  (now!)
+
+	D'Ghor swings his blade back, preparing for a mighty 
+	swing... but in that moment, Quark THROWS his sword 
+	across the room, disarming himself.  D'Ghor pauses, 
+	surprised by the move.  Quark stands his ground and 
+	glares at D'Ghor.
+
+					QUARK
+			Go ahead.  Kill me.  That's why I'm 
+			here, isn't it, to be killed?  Well, 
+			here I am, so go ahead and do it.
+
+	D'Ghor has been caught off-guard here, and he hesitates.  
+	Quark uses his hesitation to turn to Gowron and the Council.
+
+					QUARK
+				(continuing, to Council)
+			You all want me to pick up that sword 
+			and try to fight him, don't you?  
+			But I don't have a chance and you 
+			know it.  You only want me to put up 
+			a fight so your precious honor will 
+			be satisfied.  Well, I'm not going 
+			to make it easy for you.
+				(beat)
+			Having me fight D'Ghor is nothing 
+			more than an execution... so if that's 
+			what you want, that's what you're 
+			going to get: an execution.  No honor, 
+			no glory...
+
+	Quark turns back to D'Ghor, who is watching him closely.
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FIVE       64.
+
+32   CONTINUED:	(2)
+
+					QUARK
+				(to D'Ghor)
+			And when you tell your children and 
+			your grandchildren the glorious story 
+			of how you rose to power and took 
+			Grilka's house from her, I hope you 
+			remember to tell them how you 
+			heroically killed an unarmed Ferengi 
+			half your size.
+
+	Gowron and the Council members are shifting unhappily in 
+	their places... they're not too happy about the way this is 
+	happening.  But D'Ghor only gives Quark a small smile.
+
+					D'GHOR
+				(softly)
+			Whatever you say, Ferengi...
+
+	D'Ghor cocks back the blade for a killing stroke... and he 
+	is about to cut Quark in two, when Gowron swiftly moves in 
+	and grabs the sword, freezing D'Ghor in place.  Gowron's 
+	attitude is both shamed and disappointed.
+
+					GOWRON
+			What are you doing?
+
+	D'Ghor is genuinely shocked... he loosens his grip on the 
+	sword and Gowron pulls it away from him in disgust.
+
+					GOWRON
+			I didn't want to believe the things 
+			he said about you yesterday... but 
+			if you can stand here and... murder 
+			this pathetic little man, then you 
+			have no honor.  And you have no place 
+			in this hall.
+
+	Gowron throws the bat'leth to the ground, and then turns his 
+	back on D'Ghor.  The other Council members all turn away 
+	from D'Ghor, who has now been shamed before everyone.  Gowron 
+	signals to one of the Guards in the room, who then moves to 
+	D'Ghor.  D'Ghor stares at them all in disbelief... then turns 
+	and lets the Guard escort him from the room.  Gowron glances 
+	at Quark in a mixture of disbelief and admiration.
+
+					GOWRON
+				(shaking his head)
+			A brave Ferengi... who would have 
+			thought it possible?
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FIVE      64A.
+
+32   CONTINUED:	(3)
+
+	After a beat, Gowron goes to Grilka.
+
+        DEEP SPACE: "The House... " - REV. 08/05/94 - ACT FIVE       65.
+
+32   CONTINUED:	(4)
+
+					GOWRON
+			I believe there are enough... unusual 
+			circumstances here to justify granting 
+			you special dispensation.  You can 
+			lead your House on your own...
+				(glances at Quark)
+			... if that is what you want.
+				(to Council)
+			Yej rhin!  (Council is adjourned!)
+
+	The Council members file off and Gowron EXITS with them.  
+	Grilka and Rom go to Quark.  Rom is smiling at his brother, 
+	and even Grilka manages a smile.  Quark looks relieved, but 
+	a little shaken.
+
+					GRILKA
+			You've given me back my House and my 
+			family name.  How can I repay you?
+
+					QUARK
+			I would like a divorce, please.  No 
+			offense.
+
+					GRILKA
+			None taken.  I can give it to you 
+			right now.
+
+        DEEP SPACE: "The House... " - REV. 08/02/94 - ACT FIVE       66.
+
+32   CONTINUED:	(5)
+
+	Grilka backhands him and he crashes to the ground.  Grilka 
+	leans over him and snarls.
+
+					GRILKA
+			N'Gos tlhogh cha!  (Our marriage is 
+			done!)
+
+	She spits on him and Quark flinches.  Then Grilka changes 
+	expression suddenly and smiles at him.
+
+					GRILKA
+			You're a free man.
+
+	She extends a hand and helps Quark to his feet.  Quark rubs 
+	his jaw painfully.
+
+					QUARK
+			A little warning would've been --
+
+	Suddenly Grilka kisses him hard... then releases him.
+
+					GRILKA
+			Q'Apla, Quark... son of Keldar.
+
+					QUARK
+			Q'Apla, to you too.
+
+	Grilka EXITS.  Quark watches her go, then smiles at her and 
+	shakes his head.  OFF his expression...
+
+									CUT TO:
+
+33   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+34   INT. QUARK'S - SECOND LEVEL
+
+	O'Brien and Keiko are having drinks.  Keiko is watching the 
+	crowd down below as they play dabo.
+
+					KEIKO
+			I've never understood what people 
+			see in that game.  Don't they ever 
+			get sick of it?
+
+	O'Brien is lost in thought, toying with his drink, and doesn't 
+	answer.  Keiko picks up on this and turns back to him.  
+	O'Brien pushes the drink aside and looks at her directly... 
+	he's made a tough decision and now it's time to implement 
+	it.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE          67.
+
+34   CONTINUED:
+
+					O'BRIEN
+			Keiko... there's an agrobiology 
+			expedition leaving for the Janitza 
+			mountains on Bajor in two weeks... 
+			they need a chief botanist... and I 
+			think you could probably qualify.
+
+	Keiko blinks at him in surprise... this is totally unexpected.
+
+					KEIKO
+			On Bajor... ?
+
+					O'BRIEN
+			That's right.  They've never surveyed 
+			those mountains... it's a very 
+			important project...
+
+					KEIKO
+			How long is the expedition supposed 
+			to last?
+
+					O'BRIEN
+			Six months.
+
+					KEIKO
+			I can't leave Molly and you for six 
+			months.
+
+					O'BRIEN
+			You can take Molly with you, I already 
+			checked.  And as for me... Bajor's 
+			only three hours away by runabout... 
+			we can manage.
+
+	Keiko sits back... unsure exactly how to deal with this.  
+	She looks at O'Brien with a mixture of shock and curiosity.
+
+					KEIKO
+			When we moved here, we made an 
+			agreement...
+
+					O'BRIEN
+			I know...
+
+					KEIKO
+			And I'm not trying to back out of 
+			that agreement.  Don't let this 
+			business with the school make you 
+			feel guilty and...
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE          68.
+
+34   CONTINUED:	(2)
+
+					O'BRIEN
+			This isn't about guilt.  It's about 
+
+			you being happy... and me knowing 
+			that you're not.
+
+					KEIKO
+			I promised you that I'd stay with 
+			you and make this work...
+
+	He leans forward and takes her hand... and they both seem 
+	like a young couple facing their first separation.
+
+					O'BRIEN
+			I know... but you're a botanist... 
+			it's what you're trained to do... 
+			it's what you love... so be a 
+			botanist, Keiko.  And be the best 
+			damned one in the galaxy.
+
+	They look at each other... and both their eyes are getting 
+	misty.  She leans across the table and they kiss...
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE          69.
+
+35   NEW ANGLE
+
+	MOVING DOWN from the second level, down to the bar area where 
+	Quark and Rom are working the bar.  Rom looks around to make 
+	sure no one's listening.
+
+					ROM
+			Brother... I haven't had the chance 
+			to tell you... but in the Great 
+			Hall... when you stood there in front 
+			of D'Ghor... you were magnificent.
+
+					QUARK
+			I was lucky.  If it didn't work... I 
+			didn't have another card to play.
+
+	Quark gives a drink to a customer and then looks around the 
+	bar with a little sadness.
+
+					QUARK
+			Business is dropping off again...
+
+					ROM
+			Money isn't everything...
+
+	Quark gives him a shocked look.
+
+					QUARK
+			If father were alive, he'd wash your 
+			mouth out with galcor.
+
+	But Rom doesn't look apologetic for once, he's trying to 
+	lift Quark's spirits.
+
+					ROM
+			You can't buy respect, Brother.  And 
+			that's what you have now -- respect.  
+			After all, that's what you wanted 
+			isn't it?
+
+					QUARK
+			Respect is good... but latinum's 
+			better.
+
+					ROM
+			Tell the story again... about how 
+			you stood there in front of D'Ghor, 
+			knowing that you were probably not 
+			going to live to see another day.
+
+	Quark looks around the bar for a moment... there's no one 
+	within earshot.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE         69A.
+
+35   CONTINUED:
+
+					QUARK
+			Everyone's tired of hearing it, Rom.  
+			It's not going to boost business 
+			anymore.
+
+          DEEP SPACE: "The House... " - 08/01/94 - ACT FIVE          70.
+
+35   CONTINUED:
+
+	Quark turns away, but Rom stops him.
+
+					ROM
+			No... I mean... tell me.  I want to 
+			hear it again.
+
+
+	Quark is surprised, but the look of admiration on Rom's face 
+	is genuine.  Quark is touched, but tries to cover it.
+
+					QUARK
+				(trying to be gruff)
+			All right... but I'm taking this 
+			time out of your paycheck.
+
+	Rom nods eagerly and Quark leans on the bar and begins to 
+	tell the tale.
+
+					QUARK
+			Well... when I walked into the Great 
+			Hall, the first thing I noticed was 
+			that D'Ghor was about a meter taller 
+			than I remembered...
+
+	As Quark tells his story to his admiring brother...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

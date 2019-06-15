@@ -1,0 +1,3207 @@
+                         
+
+STAR TREK: THE NEXT GENERATION 
+                              
+                      "The Neutral Zone" 
+                          #40271-126 
+                              
+                          Written by 
+                        Maurice Hurley 
+                              
+                          Directed by 
+                         James Conway 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1988 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+
+                  2ND REV. FINAL DRAFT
+
+                     MARCH 17, 1988
+
+      STAR TREK: "The Neutral Zone" - REV. 3/18/88 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                      "The Neutral Zone" 
+
+                             CAST                               
+                              
+                PICARD             THREE HUMANS
+                RIKER              CLARE RAYMOND
+                BEVERLY            RALPH OFFENHOUSE
+                DATA               SONNY CLEMONDS
+                TROI               
+                WORF               ROMULANS
+                GEORDI               COMMANDER TEBOK
+                WESLEY                (pronounced TAY-bok)
+                                     SUB-COMMANDER THEI
+                Non-Speaking          (pronounced TIE)
+                SECURITY GUARD     
+                NURSE WRIGHT     
+     
+                Voice-Over         
+                COMPUTER           
+
+      STAR TREK: "The Neutral Zone" - REV. 3/18/88 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                      "The Neutral Zone" 
+                          
+                             SETS 
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              MAIN BRIDGE
+              CONFERENCE ROOM          DERELICT (MODULE)
+              SICKBAY
+              GUEST LOUNGE             ROMULAN CRUISER
+              CLARE'S QUARTERS
+              SONNY'S QUARTERS
+              CAPTAIN'S READY ROOM
+              CORRIDOR
+          
+              OBSERVATION LOUNGE
+          
+            DERELICT
+              CONTROL AREA
+              SECOND ROOM
+          
+            ROMULAN CRUISER
+
+
+      STAR TREK: "The Neutral Zone" - 3/17/88 - TEASER      1.
+
+                STAR TREK: THE NEXT GENERATION                  
+                      "The Neutral Zone"  
+                         
+                            TEASER                              
+
+	FADE IN:
+
+1    OMITTED
+
+2    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The great ship is motionless as it awaits the return of
+	its captain. A short distance off, and APPEARING very
+	small, is another vehicle - also drifting.
+
+					RIKER (V.O.)
+			First officer's log, stardate 41986.0.
+			The captain has left the ship for
+			a conference and we are awaiting
+			his return. It is unusual for us
+			to be motionless, and a unique
+			experience for everyone concerned.
+
+3    INT. MAIN BRIDGE
+
+	GEORDI is at Conn - WORF at Tactical - DATA at Science
+	One, RIKER is in the Command position. Troi is off the
+	bridge in her office. Everyone is looking at the
+	viewscreen.
+
+					DATA
+			This is quite intriguing. It is
+			transmitting a carrier signal on
+			a frequency which has not been used
+			for centuries.
+
+					RIKER
+			Is there a message?
+
+					DATA
+			None. Just the carrier, possibly
+			intended for encoded computer or
+			telemetry information.
+
+					WORF
+			I have never seen a space vehicle
+			like it.
+
+      STAR TREK: "The Neutral Zone" - 3/17/88 - TEASER      2.
+
+3    CONTINUED:
+
+					DATA
+			Strictly speaking, it is not a
+			"space vehicle." It appears to
+			be a satellite, similar in its
+			rudimentary design to those which
+			orbited Earth in the late
+			twentieth and early twenty-first
+			centuries.
+
+					RIKER
+			Three hundred years ago.
+				(mostly as a joke)
+			Then there probably aren't any
+			life signs?
+
+					DATA
+			None.
+
+	Data continues studying the readout.
+
+					DATA
+				(continuing)
+			The power is solar... quite
+			primitive. There is however
+			minimum life support.
+
+					GEORDI
+			I wonder how it got out here.
+			If it was in orbit around Earth,
+			even at maximum impulse -- and
+			there's no way it could travel
+			any faster, it would have taken
+			a dozen centuries to get here.
+
+					WORF
+			At its present speed and heading,
+			the vehicle will eventually enter
+			the Kazis Binary system and will
+			certainly be destroyed.
+
+	Worf turns to face Riker.
+
+					WORF
+				(continuing)
+			Sir, I could attach a tractor beam
+			and adjust its heading.
+
+					RIKER
+			I think not, Mister Worf. It's just
+			a piece of space debris. If we
+			weren't sitting here waiting for
+			the captain, we wouldn't have even
+			noticed it. Leave it be. Let
+			nature take its course. How long
+			until Captain Picard returns?
+
+    STAR TREK: "The Neutral Zone" - REV. 3/18/88 - TEASER    3.
+
+3    CONTINUED: (2)
+
+					WORF
+			The last communication indicated
+			it would be several hours.
+
+					DATA
+			Commander, request permission to
+			investigate this vehicle.
+
+					RIKER
+			Why, Data? It's just a derelict.
+
+					DATA
+			It is a piece of history. The
+			opportunity to examine such an
+			ancient vehicle does not come
+			around very often, and as you
+			pointed out, we do have the time.
+
+					RIKER
+			All right, Data. But be ready
+			to beam back before the captain
+			returns.
+
+					DATA
+			Thank you, sir.
+
+					RIKER
+			Lieutenant Worf -- go with him.
+
+					WORF
+			Aye, sir.
+
+	The two EXIT the bridge.
+
+4
+thru	OMITTED
+6
+
+A7	EXT. SPACE - A MODULE (OPTICAL)
+
+	drifts.
+
+7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL)
+
+	as they BEAM IN. They are in a small control area.
+	The equipment we see is late twentieth century in
+	design. Worf is tense -- ready for the unexpected.
+	Data scans the area with his tricorder.
+
+    STAR TREK: "The Neutral Zone" - REV. 3/18/88 - TEASER    4.
+
+7    CONTINUED:
+
+					DATA
+			Minimal oxygen atmosphere.
+				(indicates)
+			An ancient solar generator,
+			still operating.
+
+					WORF
+			Computer -- status report.
+
+	Nothing happens.
+
+					WORF
+				(continuing)
+			Computer...
+
+	Data interrupts.
+
+					DATA
+			In the late twentieth century,
+			computers were not voice activated,
+			Worf.
+
+	Data examines the keyboard.
+
+					DATA
+				(continuing)
+			Notice the readouts -- dials,
+			needle machines, gauges.
+			Remarkable what they used three
+			centuries ago. The on-board
+			computers have ceased functioning.
+			I may be able to download this old
+			style disk drive back to the
+			Enterprise.
+
+8    WORF
+
+	APPROACHES the door, clearly expecting it to slide open.
+	He waves a hand in front of it.
+
+					WORF
+			It must be sealed -- probably
+			with age. I will blast it open.
+
+					DATA
+			Not necessary.
+
+	He reaches down and turns a handle, physically slides
+	the door OPEN.
+
+9    INT. DERELICT - THE SECOND ROOM
+
+	They move forward.
+
+    STAR TREK: "The Neutral Zone" - REV. 3/18/88 - TEASER    5.
+
+10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED)
+
+	Riker is sitting at the Command Chair.
+
+					RIKER
+			Data, this is Riker. What
+			have you found?
+
+					DATA
+			Very little so far.
+
+					GEORDI
+			I have picked up the captain's
+			shuttle.
+
+					RIKER
+			E.T.A.?
+
+					GEORDI
+			Twelve minutes, sir.
+
+					RIKER
+			Alert Main Shuttle Bay.
+
+					GEORDI
+			Aye, sir.
+
+11   INT. DERELICT - THE SECOND ROOM
+
+	As Worf and Data ENTER the other compartment they see a
+	series of crypts, lining both sides of the room. Each
+	glass-covered and coffin-like in design, with a
+	computerized panel above it. The panel both monitors
+	and controls the crypt.
+
+12   CRYPT
+
+	As Data clears away the frost TO REVEAL a shriveled
+	human form. It's all BLACKENED AND HIDEOUS. Data
+	REACTS.
+
+					DATA
+			The seal was broken and the
+			environment has been corrupted.
+
+	Data moves to the next crypt. Beside him, Worf wipes
+	the frost from a third crypt. He has found another
+	shriveled form.
+
+					WORF
+			Here's another.
+
+      STAR TREK: "The Neutral Zone" - 3/17/88 - TEASER      6.
+
+12   CONTINUED:
+
+	Data wipes away the frost from the crypt by him.
+
+					DATA
+			This one is empty.
+
+	He easily lifts the cover.
+
+					DATA
+				(continuing)
+			It has been forced open and the
+			occupant removed.
+
+	In the b.g. Worf is wiping the frost from another
+	crypt.
+
+					WORF
+			Commander. Look at this.
+
+	Data steps over.
+
+12A  ANOTHER ANGLE
+
+	Through the hole which Worf has wiped in the frost,
+	WE CAN SEE a human -- a WOMAN. About thirty-five,
+	attractive and unconscious.
+
+	OFF Worf and Data's REACTIONS, WE:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+    STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT ONE    7.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+12B  INT. DERELICT - THE SECOND ROOM
+
+	Worf and Data are still beside the frozen woman.
+
+					WORF
+			Has she been frozen for an
+			extended journey?
+
+					DATA
+			If that were the purpose, there
+			would be evidence of a more
+			sophisticated monitoring system.
+			This container is designed solely
+			for refrigeration.
+
+					WORF
+			What is the destination?
+
+					DATA
+			I do not believe they were going
+			anywhere. This vehicle should
+			still be in Earth orbit.
+
+					WORF
+			There is no way it could break
+			orbit and travel this distance
+			on its own power. Not in three
+			hundred years -- not in three
+			thousand. Some intelligent lifeform
+			must have brought it to
+			this section of the galaxy.
+
+					DATA
+				(indicating the crypts
+				 with the shriveled
+				 forms)
+			These crypts were opened.
+				(indicating the empty
+				 crypts)
+			The occupants in those were taken.
+
+					WORF
+			Why take some of them, destroy
+			others, and leave her apparently
+			untouched?
+
+					DATA
+			Perhaps they learned all they
+			could from the others. We may
+			never know.
+
+    STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT ONE    8.
+
+12B  CONTINUED:
+
+	Data moves down the line of crypts, wipes another To
+	REVEAL the perfectly preserved face of a forty-seven-year-old
+	MALE.
+
+	OFF Data's REACTION:
+
+13   OMITTED
+
+14   INT. ENTERPRISE - MAIN BRIDGE
+
+	Data and Worf have for the moment been forgotten.
+
+					GEORDI
+			The captain's shuttle is
+			approaching Main Shuttle Bay.
+
+					PICARD'S COM VOICE
+			Enterprise, this is the captain.
+			Number One, I want to get underway
+			as soon as the shuttle is secure.
+
+					RIKER
+			Aye, sir. We will make all
+			preparations.
+				(to the Away Team)
+			Commander Data, return to the
+			Enterprise -- immediately.
+
+					DATA'S COM VOICE
+			We have run into an unusual
+			situation here. There are people
+			on-board. Frozen.
+
+					RIKER
+			Frozen. How many?
+
+15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED)
+
+	Data and Worf in the middle of the room.
+
+					DATA
+			Three. What should I do? The
+			vehicle has suffered severe
+			damage. Most of the systems
+			have failed.
+
+					RIKER
+			Are you recommending they be
+			transferred to the Enterprise?
+
+      STAR TREK: "The Neutral Zone" - 3/17/88 - ACT ONE      9.
+
+15   CONTINUED:
+
+					DATA
+			I do not think we should leave
+			them here. With your permission,
+			sir, we will be returning with
+			three containers.
+
+					RIKER
+			Whatever you do, do it quickly.
+
+16   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	traveling at impulse speed.
+
+17   INT. MAIN BRIDGE
+
+	Captain Picard STRIDES ONTO the bridge.
+
+					PICARD
+			Number One, I want a meeting on
+			the Observation Deck. Mister La
+			Forge, set course zero-five-eight,
+			mark nine-seven-three.
+
+					GEORDI
+			Aye -- laying in the course now.
+				(pause)
+			Captain, those coordinates will
+			take us to the Neutral Zone.
+
+	REACTIONS from the others to the destination.
+
+					PICARD
+			That's correct Mister La Forge, warp
+			factor eight.
+
+					GEORDI
+			Warp eight.
+
+					PICARD
+			Engage. Mister La Forge, you have
+			the bridge.
+
+	He leads them OFF the bridge.
+
+18   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as it accelerates to warp speed.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT ONE     10.
+
+19   INT. CONFERENCE ROOM
+
+	The regulars are at their positions, except Beverly.
+
+					PICARD
+			Two Federation outposts in Sector
+			three-zero have been destroyed.
+			There has been no communication
+			with any Federation starbases in
+			Sector three-one since stardate
+			41903.2.
+
+					WORF
+			Romulans.
+
+					PICARD
+			That is the assumption.
+
+					RIKER
+			There's been no direct contact
+			with the Romulans since the Tomed
+			Incident.
+
+					PICARD
+			The question is: Why here? Why
+			now? What's their objective, if
+			indeed they have one? For half
+			a century there's barely a whisper
+			about them and now for no apparent
+			reason they seem to be back with
+			a roar. Why?
+
+					RIKER
+			Almost everything we know about
+			them is based on rumor and
+			conjecture.
+
+					PICARD
+			The strategic decision is to send
+			one ship.
+
+					RIKER
+			The Enterprise.
+
+					PICARD
+			Yes.
+
+					WORF
+			There is a risk. We could get
+			out there and find ourselves
+			greatly over-matched.
+
+					PICARD
+			True enough -- it is a gamble.
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT ONE   11.
+
+19   CONTINUED:
+					RIKER
+			This first encounter... coming
+			so suddenly after all this time.
+			There's a very good chance it's
+			a setup.
+
+					DATA
+			Perhaps the Romulans are probing.
+			They want to see how we react.
+
+					WORF
+			Captain, we should expect
+			hostilities.
+
+					PICARD
+			Prepare as always. If force is
+			needed we will use it, but that
+			will mean we have failed. Our
+			goal here is to establish some
+			kind of relations with the
+			Romulans -- failing that -- to
+			convince them of our resolve and
+			to do this without resorting to
+			force. Right now, the general
+			feeling is that they are seeking
+			a confrontation. They may want
+			to test themselves in battle
+			against a Federation starship to
+			gauge how much we have advanced.
+			Personally, I think it is
+			possible they have different
+			motives altogether based on needs
+			which we have not identified.
+			If that's the case... I must know
+			it.
+				(to Troi)
+			Counselor -- I will need a complete
+			profile on them.
+
+					TROI
+			There is limited information, but
+			I will prepare something.
+
+					PICARD
+			Data. Extrapolate for me the
+			logical progression of their
+			technical advancement;
+			specifically, but not restricted
+			to -- weapons.
+
+					DATA
+			Aye, sir.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT ONE     12.
+
+19   CONTINUED: (2)
+
+					PICARD
+				(to everybody)
+			I want this thought through
+			completely. Anticipate, as much
+			as you can, all the possible
+			permutations.
+
+	He looks around the room.
+
+					PICARD
+				(continuing)
+			Computer, how long before we
+			arrive at the Neutral Zone?
+
+					COMPUTER VOICE
+			Nineteen hours, twenty-eight
+			minutes.
+
+					PICARD
+			We will reassemble in six hours.
+			Let's be smart. No surprises.
+			I would much rather outthink them,
+			than outfight them. Questions?
+
+	There are none. The meeting breaks up.
+
+20   INT. MAIN BRIDGE
+
+	As Picard, Riker and the others COME ON to the bridge.
+	Geordi is in the Command seat.
+
+					GEORDI
+				(as he gets up)
+			Captain.
+				(then:)
+			Doctor Crusher said she would like
+			to talk with you, when you
+			finished your meeting.
+
+					PICARD
+			Thank you.
+				(on Com)
+			Doctor Crusher, this is the
+			captain.
+
+					BEVERLY'S COM VOICE
+			Oh, good. Captain, could you
+			possibly join me in Sickbay?
+
+	Picard hesitates.
+
+   STAR TREK: "... Neutral... " - REV. 3/23/88 - ACT ONE   13.
+
+20   CONTINUED:
+
+					BEVERLY'S COM VOICE
+				(continuing)
+			I would not ask you if it wasn't
+			important.
+
+					PICARD
+			I will be right there.
+				(to Riker)
+			Take the Conn, Number One. I
+			won't be long.
+
+	Picard EXITS THE SHOT as Riker takes his position.
+
+21   INT. SICKBAY
+
+	Picard ENTERS.
+
+					PICARD
+			What is it, Doctor?
+
+					BEVERLY
+			It's the people from the capsule.
+
+					PICARD
+			Capsule? People? What people?
+
+					BEVERLY
+			The people Data beamed over.
+
+					PICARD
+			I wasn't aware he had.
+
+	On the medical tables behind her are THREE HUMANS
+	covered with sheets.
+
+					BEVERLY
+			Well, he did and they were frozen.
+			I thawed them.
+
+					PICARD
+			You what?
+
+					BEVERLY
+			I didn't know what else to do.
+			The crypts in which they had been
+			frozen were literally falling
+			apart. It was either that...
+			or...
+
+					PICARD
+			What's their condition?
+
+   STAR TREK: "... Neutral... " - REV. 3/22/88 - ACT ONE   14.
+
+21   CONTINUED:
+
+					BEVERLY
+			Right now they are all sleeping.
+			Each of them needed minor medical
+			attention... minor "now", but
+			"then" their conditions were
+			obviously terminal. One had a
+			heart problem, another had an
+			advanced case of emphysema and
+			extensive liver damage. But the
+			most surprising thing, is that
+			each of them had been frozen after
+			they died.
+
+					PICARD
+			After they died?
+
+					BEVERLY
+			Exactly. Cryonics. It was a
+			kind of fad in the late twentieth
+			century. People feared dying.
+			It terrified them. At the moment
+			of death, they would be frozen,
+			so that later... some time in the
+			future, when presumably medical
+			science had a cure for whatever
+			killed them, they would be thawed
+			back to life, healed and sent on
+			about their business.
+
+					PICARD
+			Well, for this group, apparently
+			it worked.
+
+	Picard STEPS OVER to the com panel.
+
+					PICARD
+				(continuing)
+			Lieutenant Commander Data, please
+			report to Sickbay -- immediately.
+
+22   INT. MAIN BRIDGE
+
+	Data is a Science Station Two. He looks up.
+
+					DATA
+			Permission to leave the bridge.
+
+					RIKER
+			Granted.
+
+	Data walks toward the turbolift.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT ONE     15.
+
+23   INT. SICKBAY
+
+	ON Picard.
+
+					PICARD
+			I am never critical of any member
+			of my staff being curious, but...
+			the timing is just so...
+
+					DATA
+			I could not leave them there,
+			Captain. The condition of the
+			vehicle was deteriorating.
+
+					PICARD
+			But, Data -- they were already
+			dead. I mean... what more could
+			have happened to them?
+
+					DATA
+			I see your point, Captain, but
+			at the time...
+
+	Picard nods.
+
+					PICARD
+			You're right -- under the
+			circumstances I would have done
+			exactly the same.
+
+	Picard turns to Beverly.
+
+					BEVERLY
+			When they arrived... what was I
+			supposed to do? Not help them?
+
+	Again Picard has no answer.
+
+					BEVERLY
+				(continuing)
+			My question is: What do we do
+			with them now?
+
+					PICARD
+			What are the options?
+
+					DATA
+			We cannot go back and return them
+			to their ship.
+
+					BEVERLY
+			We can't refreeze them.
+
+   STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT ONE   16.
+
+23   CONTINUED:
+
+					PICARD
+			They are alive now, so we have
+			to treat them as living human
+			beings.
+
+					BEVERLY
+			Alive and well, just waiting to
+			be awakened.
+
+	Picard is perplexed.
+
+					BEVERLY
+				(continuing)
+			I have them sedated but they
+			should be up and about as soon
+			as possible.
+
+	Picard takes a deep breath.
+
+					PICARD
+			Well...
+
+	He looks around for a moment.
+
+					PICARD
+				(continuing)
+			Then, there really is no choice.
+
+					BEVERLY
+			None that I can see.
+
+					PICARD
+			Before you wake them, I want
+			Security here.
+				(touching com)
+			Mister Worf, report to Sickbay.
+
+24   BEVERLY
+
+	She goes to the first one in the line and touches the
+	hypospray to her neck.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT ONE     17.
+
+25   WOMAN
+
+	Slowly she wakes up. Looks around. At Sickbay. At
+	the equipment, then at Beverly and Picard. She
+	swallows. Worf ENTERS Sickbay. The woman takes one
+	look at them and her head falls back on the table. Out
+	"cold" again.
+
+					PICARD
+			... Welcome to the twenty-fourth
+			century.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT TWO   18.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+26   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	moving at warp speed.
+
+27   INT. SICKBAY
+
+	It is as we left it. Picard, Data and Worf watch as
+	Beverly wakes them all up, we get to "meet" each of
+	the guests. They are still covered only in sheets.
+
+					DATA
+			I was able to retrieve some
+			information from the ancient disk
+			I removed from the module's
+			computer. Based on that...
+
+28   NUMBER ONE
+
+	She re-awakens the woman.
+
+					DATA
+			Her name is Clare Raymond, age
+			thirty-five; occupation,
+			homemaker... must be some kind
+			of construction work.
+
+					BEVERLY
+			She died of an embolism. It
+			probably happened very suddenly,
+			otherwise her physical condition
+			was excellent.
+
+	CLARE RAYMOND is handsome, not pretty. A solid,
+	no-nonsense person. This time she stays awake, as she
+	takes in the room, everything and everyone in it.
+	They move to:
+
+29   NUMBER TWO
+
+	As the nurse (Nurse Wright) awakens him:
+
+					DATA
+			His name is Ralph Offenhouse, age
+			sixty-three; occupation,
+			financier.
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT TWO   19.
+
+29   CONTINUED:
+
+					BEVERLY
+			Advanced cardiomyopathy,
+			inoperable at the time, but easily
+			correctable now. He must have
+			known for some time his condition
+			was terminal.
+
+	RALPH OFFENHOUSE was a power broker on both coasts
+	who came up hard -- is used to being absolutely in
+	charge. He too, is disoriented -- confused -- unsure.
+	They MOVE to the last:
+
+30   NUMBER THREE
+
+					DATA
+			Much of his file could not be
+			retrieved. His name is L. Q.
+			"Sonny" Clemonds. Apparently his
+			occupation had something to do
+			with music.
+
+					BEVERLY
+			There was marked deterioration
+			of every system in his body.
+			Probably due to massive chemical
+			abuse. Unbelievable.
+
+	L. Q. "SONNY" CLEMONDS has a lot of miles on his
+	forty-seven years. He's passed his time with booze
+	and drugs, and covered up the wear and tear with
+	cosmetic surgery. His attention span is about
+	twenty-eight seconds.
+
+					PICARD
+			That sounds like someone who hated
+			life -- yet he had himself frozen
+			so presumably he could go through
+			it all again.
+
+					BEVERLY
+			Fear. Too afraid to live... too
+			scared to die.
+
+					PICARD
+			Doctor, this seems to be a
+			situation more suited to your
+			talents. I will leave it in your
+			hands.
+
+	With a nod to Data to join him:
+
+					PICARD
+				(continuing)
+			I'll be on the bridge.
+
+   STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT TWO   20.
+
+30   CONTINUED:
+
+	He is satisfied that they do not represent a clear and
+	present danger to the Enterprise.
+
+	Picard and Data EXIT.
+
+A31	EXT. SPACE - THE ENTERPRISE
+
+	a flyby.
+
+31   INT. SICKBAY
+
+	The three humans are finishing dressing.
+
+					BEVERLY
+			I know you have a lot of
+			questions, but I would like you
+			to wait. You are feeling a
+			certain amount of disorientation.
+			In a little while it should pass;
+			then we can fully discuss what
+			has happened. Nurse Wright will
+			furnish you with anything you
+			need.
+
+					RALPH
+			Not so fast. Is this part of the
+			service or is it extra?
+
+					BEVERLY
+			I think it would be best if...
+
+					RALPH
+			I demand to know the cost of
+			anything you do before the
+			procedure is approved.
+
+					BEVERLY
+			I have no idea what you're talking
+			about.
+				(then, mostly for the
+				 others)
+			Just take it slowly. Everything
+			is fine. Worf, would you show
+			them to the guest quarters.
+
+					WORF
+			This way.
+
+32   INT. MAIN BRIDGE
+
+	Picard and Data ENTER and CROSS to the Command
+	Position.
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT TWO   21.
+
+32   CONTINUED:
+
+					PICARD
+				(to Riker)
+			Number One, kindly take charge
+			of our guests until we have time
+			to decide what we are going to do
+			with them.
+
+					RIKER
+			Aye, sir.
+
+					PICARD
+			... and keep them out of my way.
+
+	Riker rises to leave.
+
+					DATA
+				(requesting to join
+				 Riker)
+			Sir?
+
+	Picard nods as Data EXITS with Riker.
+
+33   INT. GUEST LOUNGE (OPTICAL)
+
+	They are all sitting -- unsure of themselves.
+
+					RIKER
+			I know this is all very confusing
+			to you so I'll attempt to
+			explain. First -- you are on the
+			starship -- USS Enterprise.
+
+					RALPH
+			American?
+
+					RIKER
+			No -- we are a vessel of the United
+			Federation of Planets. Earth is
+			a member.
+
+					RALPH
+			What year is this?
+
+					DATA
+			By your calendar... two thousand
+			three hundred sixty-four.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT TWO     22.
+
+33   CONTINUED:
+
+					RALPH
+				(very excited)
+			What?
+				(then, holding back)
+			My heart? Is it...
+
+					BEVERLY
+			It's perfectly fine. In fact,
+			you are all now in excellent
+			health.
+
+					RALPH
+			I made it... It worked. I never
+			believed this was...
+
+					SONNY
+				(pointing to Data)
+			What's that?
+
+					RIKER
+			An android.
+
+					SONNY
+			You mean a robot?
+
+					DATA
+			Actually there is a distinct
+			difference between a robot and
+			an android.
+
+					CLARE
+			And him? The one I saw before
+			with the... head.
+
+	Riker is confused.
+
+					BEVERLY
+			She means Worf.
+
+					RIKER
+			Oh, he's a Klingon, and that
+			requires a little more
+			explanation.
+
+					SONNY
+			Guys... listen. I paid some idiot
+			a lot of money to freeze me when
+			I died. I need to hear the
+			words... Am I alive?
+
+					RIKER
+			Oh, yes... absolutely.
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT TWO   23.
+
+33   CONTINUED: (2)
+
+					SONNY
+			And the liver that was about to
+			explode in my face.
+
+					BEVERLY
+			Perfectly sound.
+
+					SONNY
+			Great...
+
+					CLARE
+				(who has remained
+				 confused through it
+				 all)
+			Excuse me. Would someone tell
+			me what's going on?
+
+					BEVERLY
+			Well... About three hundred and
+			seventy years ago you died of a
+			massive embolism.
+
+					CLARE
+			I don't remember anything about
+			it.
+
+					BEVERLY
+			You and the others were frozen.
+
+					SONNY
+			Cryonics -- you know... freeze you
+			now... heal you later.
+
+					CLARE
+			I've heard about it; I just never
+			paid it much mind. How did we
+			get here?
+
+					DATA
+			Why were you in a module?
+
+					SONNY
+			The whacko who sold me this scam
+			said that by putting us in orbit
+			there would be no chance of brown
+			out.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT TWO     24.
+
+33   CONTINUED: (3)
+
+					RALPH
+			Several cryonics companies had
+			fallen into disrepute because of
+			power failures which adversely
+			affected their refrigeration
+			system. Their stocks were
+			severely depressed.
+
+					SONNY
+			The whole deal was a long shot...
+			but I figured... what the hell,
+			might as well give them the dough
+			instead of leaving it to my
+			ex-wives.
+				(to Data)
+			But you know, son, I figured it
+			was just so much hooey.
+
+					DATA
+			Hooey? Accessing.
+				(pause)
+			Ah, as in malarkey... jive...
+			bull... hogwash... an
+			intentional fabrication.
+
+					SONNY
+			There you go, now you got it.
+
+					RIKER
+				(to Clare)
+			If you didn't contract for this,
+			who did?
+
+					CLARE
+			It must have been Donald -- my
+			husband. If it was new and
+			foolish, he'd have popped for it.
+			Well, I'll say this. It's the
+			first thing he ever bought into
+			that worked.
+
+					RALPH
+			I, for one, never had a doubt.
+			My stock in this company must have
+			split a dozen times by now.
+
+					DATA
+			Actually the process of cryonics
+			was never more than a fad, and
+			did not continue much beyond the
+			mid-twenty-first century.
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT TWO   25.
+
+33   CONTINUED: (4)
+
+					RALPH
+			I need to make a phone call as
+			soon as possible.
+
+					RIKER
+			A phone call?
+
+					RALPH
+			I have provided for myself. I
+			have a substantial portfolio.
+			It's critical I check on it. Let
+			the bank know that I am alive and
+			well.
+
+					RIKER
+			That's ah... going to be a little
+			difficult right at the moment.
+
+					RALPH
+			Do you at least have a copy of The
+			Wall Street Journal?
+
+					RIKER
+			I think we should take the
+			doctor's advice and go slowly.
+			Get adjusted to your new... ah...
+			whatever, and then we'll talk to
+			the captain.
+
+33A  INT. MAIN BRIDGE
+
+	Troi takes her seat beside Picard.
+
+					TROI
+			As you know, there is very little
+			available on the Romulans
+
+					PICARD
+			Anything will help.
+
+   STAR TREK: "... Neutral... " - REV. 3/24/88 - ACT TWO   26.
+
+33A  CONTINUED:
+
+					TROI
+			They seem to be creatures of
+			extremes. One moment violent
+			beyond description, the next --
+			tender. They're related to the
+			Vulcans but as each developed,
+			their differences grew wider.
+			They are intensely curious. Their
+			belief in their own superiority
+			is beyond arrogance. For some
+			reason they have exhibited a
+			fascination with humans and that
+			fascination, more than anything
+			else, has kept the peace. One
+			other thing, they will not
+			initiate. They will wait for
+			you to commit yourself.
+
+					PICARD
+				(to himself)
+			Counterpunches...
+				(to Troi)
+			Thank you, Counselor. This is
+			quite helpful.
+
+	OFF Picard's pensiveness:
+
+33B  INT. GUEST LOUNGE
+
+	Sonny, feeling more at ease by the moment, rises,
+	stretches muscles unused for centuries.
+
+					SONNY
+			I don't know about you all... but
+			me -- I'm going to find the bar.
+			After all of this -- I need me a
+			drink.
+
+					RIKER
+			There is nothing of that nature
+			on board the Enterprise.
+
+					SONNY
+			No bars?! Don't tell me that,
+			son. Well, where's the
+			restaurant? I'm so hungry.
+
+					RIKER
+			We have food stations.
+				(he indicates the
+				 computer)
+			Simply tell the computer what you
+			want and it will be provided.
+
+   STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT TWO   27.
+
+33B  CONTINUED:
+
+					SONNY
+			Where do you eat it?
+
+					RIKER
+			Why... here... or anywhere. We're
+			not that structured.
+
+	Sonny walks over to the computer.
+
+					SONNY
+			Now what?
+
+					DATA
+			Talk.
+
+					SONNY
+			I'd like me a thick Kansas City
+			steak - country fried potatoes
+			-- a mess of greens -- and... Oh,
+			hell... forget all of that. Let
+			me have a martini - -straight up...
+			two olives.
+				(he winks at Data)
+			... for the vitamins.
+
+	The drink is provided. He takes a sip and rears back
+	surprised.
+
+					DATA
+			Is there something wrong?
+
+					SONNY
+			Wrong? Only that your computer
+			here fixed just about the best
+			martini I have ever had.
+				(with a nod to Data)
+			I just might get to like this
+			place. Let's see if the Braves
+			are on. How do you turn on this
+			here teevee?
+
+   STAR TREK: "... Neutral... " - REV. 3/22/88 - ACT TWO   28.
+
+33B  CONTINUED: (2)
+
+					RIKER
+			Teevee?
+
+					SONNY
+			Yeah, boob-tube... you know. I'd
+			like to find out how the Braves
+			are doin' after all this time.
+			Probably still finding ways to
+			lose.
+
+					DATA
+				(to Riker)
+			Oh -- I think he means television,
+			sir.
+
+					SONNY
+			Or maybe catch up on the soaps.
+
+					DATA
+				(to Sonny)
+			That particular form of entertainment
+			did not last much beyond the year
+			Two Thousand Forty.
+
+					SONNY
+			So, what do you guys do? I mean,
+			you don't drink -- no teevee -- kind
+			of boring, isn't it?
+
+	Data is at a loss of words
+
+					PICARD'S COM VOICE
+			Number One.
+
+	Riker steps over to the com panel.
+
+					RIKER
+			Riker here.
+
+					PICARD
+			Would you and Mister Data report
+			to the bridge?
+
+					RIKER
+			On the way.
+
+					RALPH
+			With whom were you speaking?
+
+					RIKER
+			The captain.
+
+					RALPH
+			Ah... good. Tell him I would like
+			to see him as soon as it's
+			convenient.
+
+   STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT TWO   29.
+
+33B  CONTINUED: (3)
+
+					CLARE
+			What is going to happen to us?
+			Do we stay here with you? Do we
+			go back to Earth?
+
+	Riker does not have an immediate answer.
+
+					RIKER
+			That will be up to the captain.
+
+					RALPH
+			Well, get him in here. I have
+			to phone Geneva right away about
+			my accounts. The interest alone
+			could be enough to buy even this
+			ship.
+
+					SONNY
+			The Yankee's right. Let's get
+			the big boy in here.
+
+					RIKER
+				(smiles)
+			I'll pass on your request. Now,
+			if you'll excuse us.
+
+					SONNY
+			Duty calls -- hey, I understand...
+				(then, to Data)
+			... come back later -- you and me
+			can find us a couple of
+			low-mileage pit woffies, and help
+			them build a memory.
+
+	Riker and Data EXIT.
+
+34   INT. CORRIDOR
+
+	as they walk away.
+
+					DATA
+			What is to be done with them?
+
+					RIKER
+			I don't know.
+
+					DATA
+			Commander. What is a
+			"low-mileage-pit-woffie"?
+
+					RIKER
+			This time you have me, Data. I
+			haven't a clue.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT TWO     30.
+
+34   CONTINUED:
+
+					DATA
+			These are not like any other
+			humans I have ever encountered.
+			I find them fascinating.
+
+					RIKER
+			From what I have already seen
+			of our "guests", there is very
+			little to redeem them. In fact,
+			it makes me wonder, how our
+			species ever survived the
+			twenty-first century.
+
+	OFF Data's REACTION:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+  STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT THREE  31.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+35   INT. CAPTAIN'S READY ROOM
+
+	The staff meeting is reassembled.
+
+					PICARD
+			Report.
+
+					WORF
+			We are six hours from the Neutral
+			Zone. I have been unable to
+			establish communications with any
+			Federation colony or station in
+			this vicinity.
+
+					PICARD
+			How many outposts are there in
+			this sector?
+
+					WORF
+			Nine.
+
+					RIKER
+			I think we should go on the
+			presumption that they've all
+			been destroyed.
+
+					GEORDI
+			By the Romulans?
+
+					RIKER
+			It fits their historical pattern.
+
+	Picard is very thoughtful.
+
+					DATA
+			Since there has been no contact
+			with the Romulans for fifty-three
+			years, seven months, eighteen
+			days, we must consider that the
+			information we do have, is out
+			of date.
+
+  STAR TREK: "... Neutral... " - REV. 3/22/88 - ACT THREE  32.
+
+35   CONTINUED:
+
+					RIKER
+			The positive side of that is their
+			information about us is also out
+			of date. Captain, I believe that
+			lack of information is what this
+			is all about.
+
+					PICARD
+			Continue, Number One.
+
+					RIKER
+			In my opinion, the Romulans want
+			a confrontation... specifically
+			against us.
+
+					PICARD
+			The Enterprise?
+
+					RIKER
+			Not by name; but yes, against us.
+			They know the Federation will send
+			their best -- this will be a
+			perfect chance for them to learn
+			firsthand, how much we have
+			advanced in both technology, and
+			technique.
+
+					PICARD
+			And your recommendation.
+
+					RIKER
+			I don't know if I have a specific
+			recommendation. Perhaps we should
+			consider taking the initiative.
+
+					WORF
+			I agree with Commander Riker.
+			We may only have one opportunity;
+			we should seize it.
+
+					PICARD
+			Data.
+
+					DATA
+			That strategy is built on a single
+			premise. The hostile intent of
+			the Romulans. If the premise is
+			sound, so is the proposal.
+
+					GEORDI
+			If their intention isn't hostile,
+			what is it?
+
+					RALPH'S COM VOICE
+			Captain Picard?
+
+    STAR TREK: "The Neutral Zone" - 3/17/88 - ACT THREE    33.
+
+35   CONTINUED: (2)
+
+	Surprised at the interruption.
+
+					PICARD
+			This is the captain, to whom am
+			I speaking?
+
+					RALPH'S COM VOICE
+			Ralph Offenhouse. Captain, I need
+			to talk to you.
+
+					PICARD
+			What's going on here, Number One?
+			Did you give him permission to
+			contact me?
+
+					RIKER
+			No, sir. He must have seen me
+			use the com panel.
+
+	Picard nods his understanding.
+
+					PICARD
+			Listen, Mister Offenhouse. We
+			are in a very important conference
+			right now and...
+
+					RALPH'S COM VOICE
+			I am sick and tired of being put
+			off by you and your staff. This
+			is the worst run ship I have ever
+			been on. You could take some
+			lessons from the Q-E Two. Now
+			that's an efficient operation.
+
+	Picard mutes the intercom.
+
+					PICARD
+			Data -- identify -- what's the
+			Q-E-Two?
+
+					DATA
+			It was a passenger liner which
+			mostly traveled Earth's Atlantic
+			Ocean during the late twentieth
+			and early twenty-first centuries.
+
+					PICARD
+			He's comparing the Enterprise to
+			a cruise ship.
+
+					RALPH'S COM VOICE
+			I demand you see me.
+
+	Picard is nonplussed.
+
+    STAR TREK: "The Neutral Zone" - 3/17/88 - ACT THREE    34.
+
+36   INT. GUEST LOUNGE
+
+	Ralph by the com panel, still going on. The other two,
+	Clare and Sonny are off to one side, watching. Sonny
+	is slightly amused -- Clare still appears to be
+	disoriented.
+
+					RALPH
+			... I think I have been very, very
+			patient, especially under the
+			circumstances and considering what
+			I paid for this procedure, but
+			frankly enough is enough. I
+			demand a phone, or a radio
+			whatever you have. I must contact
+			my...
+
+	The doors OPEN and Picard STRIDES IN.
+
+					RALPH
+				(continuing; off balance
+				 for a beat)
+			...lawyers.
+
+					PICARD
+			I am Captain Picard.
+
+	Ralph composes himself quickly.
+
+					RALPH
+			Excellent.
+
+	He steps forward with his hand out.
+
+					RALPH
+				(continuing)
+			Now, we'll be able to get some
+			things straight.
+
+					PICARD
+			Indeed we will. Those com panels
+			are for official ship business.
+
+					RALPH
+			If they are so important, why
+			don't they need an "executive
+			key"?
+
+					PICARD
+			Aboard a starship, that is not
+			necessary. We are all capable
+			of exercising self-control. You
+			will refrain from using them.
+
+  STAR TREK: "... Neutral... " - REV. 3/24/88 - ACT THREE  35.
+
+36   CONTINUED:
+
+					RALPH
+			Now just a minute.
+
+					PICARD
+			We are involved in a
+			very serious and potentially
+			dangerous situation.
+
+					RALPH
+			I'm sure that whatever it is seems
+			very important to you. My
+			situation is far more critical.
+
+					PICARD
+			I do not think you are fully aware
+			of your situation, or the time
+			which has passed.
+
+					RALPH
+			Believe me, I'm fully cognizant
+			of where I am, and when. It is
+			simply that I have more to protect
+			than a man in your position could
+			possibly imagine. No offense,
+			but a military career has never
+			been considered upwardly mobile.
+			I must contact my lawyer.
+
+					PICARD
+			Your lawyer has been dead for
+			centuries.
+
+					RALPH
+			Yes, of course I know that, but
+			he was a full partner with a very
+			important firm. Rest assured the
+			firm is still operating.
+
+					PICARD
+			That's what this is all about...
+			A lot has changed in three hundred
+			years. People are no longer
+			obsessed with the accumulation of
+			"things". We have eliminated hunger,
+			want, the need for possessions.
+			We have grown out of our infancy.
+
+					RALPH
+			You've got it wrong. It's never
+			been about "possessions" - it's
+			about power.
+
+    STAR TREK: "The Neutral Zone" - 3/17/88 - ACT THREE    36.
+
+36   CONTINUED: (2)
+
+					PICARD
+			Power to do what?
+
+					RALPH
+			To control your life, your
+			destiny.
+
+					PICARD
+			That kind of control is an
+			illusion.
+
+					RALPH
+			Really -- I'm here aren't I? I
+			should be dead and I'm not.
+			That's what money did for me.
+			That's the kind of power I'm
+			talking about.
+
+	Off to the side, Clare begins softly weeping.
+
+					PICARD
+				(turning to her)
+			What is it?
+
+					CLARE
+			I don't know. It just started
+			and I can't stop. I keep
+			thinking about my boys.
+
+	He steps over to the com panel.
+
+					PICARD
+			Counselor Troi, report to the
+			guest lounge.
+
+					RIKER'S COM VOICE
+			Captain, we are approaching
+			Science Station Delta Zero-Five.
+
+					PICARD
+			Slow to impulse... I'm on my way.
+
+	Picard moves toward the exit.
+
+					SONNY
+			Say, Captain -- I need to see that
+			pretty Doctor of yours.
+
+					PICARD
+			I will inform her.
+
+  STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT THREE  37.
+
+36   CONTINUED: (3)
+
+	Ralph puts his hand on Picard's arm. (His way to
+	control the situation.)
+
+					RALPH
+			Captain. I didn't mean to come
+			on so strong. I've built my life
+			on knowing what's going on. For
+			the first time -- I'm completely
+			out of touch -- it makes me crazy.
+			Can you understand?
+
+					PICARD
+			It's the first thing you've said
+			that I do understand. I'll see
+			what I can do. But please... stay
+			off the com panel.
+
+	Ralph nods as Picard EXITS.
+
+37   INT. CORRIDOR
+
+	as Picard and Troi meet.
+
+					PICARD
+			Counselor, get those people under
+			control. We cannot afford this
+			continuing distraction.
+
+					TROI
+			Yes, sir.
+
+38   INT. CLARE'S QUARTERS
+
+	Troi ENTERS.
+
+					TROI
+			Hello -- my name is Deanna.
+
+					CLARE
+			They sent you here to settle me
+			down.
+
+					TROI
+			I'm the ship's counselor and I
+			thought you might want to talk.
+
+					CLARE
+			The local shrink.
+
+    STAR TREK: "The Neutral Zone" - 3/17/88 - ACT THREE    38.
+
+38   CONTINUED:
+
+					TROI
+			I'm sorry, I do not know that
+			term.
+
+					CLARE
+			It doesn't matter.
+
+					TROI
+			You are feeling profoundly sad.
+
+					CLARE
+			Can't stop crying. I miss my
+			sons, and then I think... I'm
+			here, but they are gone. Donald
+			-- he's my husband. I love that
+			man but, good intentions aside,
+			he'd mess up a free lunch. Why
+			in the world he ever decided to
+			do this...
+
+					TROI
+			He must have thought you would
+			have wanted it.
+
+					CLARE
+			I can tell you exactly what
+			happened. He couldn't think about
+			going on alone. I died, but he
+			couldn't face it. So he figured
+			if he had me frozen, then in his
+			mind I wasn't really gone. Crazy,
+			huh? But you have to know Donald.
+
+	She pauses a minute -- turns away and fights back the
+	tears that will not stop.
+
+					CLARE
+				(continuing)
+			I'm in a world of strangers. I
+			wish I knew what happened to my
+			children. Did they get married,
+			did they have kids...
+
+					TROI
+			Let's see if we can find out.
+
+	Troi goes to a computer screen.
+
+  STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT THREE  39.
+
+38   CONTINUED: (2)
+
+					TROI
+				(continuing)
+			Computer - this is Counselor Troi.
+			Request personal history on...
+			What are their names?
+
+					CLARE
+			Tommy -- he's eight, and Eddie's
+			five.
+
+					COMPUTER VOICE
+			Full names -- Date and place of
+			birth.
+
+					CLARE
+			They were born in Secaucus -
+			that's in Jersey.
+				(to Troi)
+			Can this really work? Can this
+			tell me what happened to them?
+
+					TROI
+			There has to be a record
+			somewhere. There is a good chance
+			we can find it.
+
+					CLARE
+			Whether we do or not, thank you
+			for... trying.
+				(then, to computer)
+			Date of birth. Tommy was born
+			February seventeenth...
+
+39   INT. SICKBAY
+
+	Beverly is there with Sonny.
+
+					SONNY
+			I just got to have a little
+			something to jump start the
+			morning -- and a little something
+			else to shut down the night.
+
+					BEVERLY
+			You have no medical need.
+
+					SONNY
+			It's not a question of "need,"
+			darlin'. It's a matter of
+			survival.
+
+  STAR TREK: "... Neutral... ' - REV. 3/21/88 - ACT THREE  40.
+
+39   CONTINUED:
+
+					BEVERLY
+			Sorry.
+
+					SONNY
+			Not to worry -- ol' Watosh will
+			scuffle along the best way he can.
+
+	He turns to leave, then:
+
+					SONNY
+				(continuing)
+			How do I get a hold of the ol'
+			boy with the marinie face?
+
+					BEVERLY
+			I beg your pardon?
+
+					SONNY
+			What's his name... that android
+			fella.
+
+					BEVERLY
+			Lieutenant Commander Data?
+
+					SONNY
+			That's the one.
+
+					BEVERLY
+			I'll let him know you want to see
+			him.
+
+	He gets up to leave.
+
+					SONNY
+			Much obliged. You sure are the
+			prettiest little doctor I ever
+			saw.
+
+	And he walks toward the door.
+
+					BEVERLY
+			Much obliged.
+
+40   INT. CLARE'S QUARTERS (OPTICAL)
+
+	Troi and Clare.
+
+					CLARE
+			Amazing. It's all right there.
+
+  STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT THREE  40A.
+
+40   CONTINUED:
+
+					TROI
+			Yes, ten generations of your
+			progeny.
+
+					CLARE
+			Everyone I ever knew is dead.
+			Would you mind... I'd like to be
+			alone.
+
+  STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT THREE  41.
+
+40   CONTINUED: (2)
+
+					TROI
+			No, not at all.
+
+	WE HOLD on Clare as Troi moves toward the exit.
+
+40A  INT. SONNY'S QUARTERS
+
+	Sonny looks up as Data ENTERS.
+
+					DATA
+			You asked to see me.
+
+					SONNY
+			I'm about to go out of my mind
+			for something to do. Sittin'
+			alone drinkin' don't get it. What
+			say you and me put together a
+			little party.
+
+					DATA
+			A celebration?
+
+					SONNY
+			Naw... nothin' that fancy -- just
+			some folks, some suds, and some
+			sounds. Hell it ain't nothin'
+			but somethin' to do. Whatdeya
+			think?
+
+					DATA
+			I will ask the captain.
+
+					SONNY
+			Great -- you do that...
+
+					DATA
+			Query. You do not seem to be
+			having as much difficulty
+			adjusting to your current
+			circumstances as are the others.
+
+					SONNY
+			You mean being here -- on this tub
+			-- four hundred years from where
+			I started? Heck -- it's the same
+			dance, just a different tune.
+			You think anyone 'round here's
+			got a guitar I could borrow?
+
+    STAR TREK: "The Neutral Zone" - 3/17/88 - ACT THREE    42.
+
+40A  CONTINUED:
+
+					DATA
+			No, but the computer can replicate
+			such an instrument.
+
+					SONNY
+			I was kind of hopin' to get one
+			while I still remember the chords.
+
+					RIKER'S COM VOICE
+			Commander Data -- we are
+			approaching the Neutral Zone.
+			Report to the bridge.
+
+					DATA
+			I must leave.
+
+	Data walks toward the door.
+
+					SONNY
+			What's this "Neutral Zone?"
+
+					DATA
+			A buffer between the Romulan
+			Empire and the Federation.
+
+					SONNY
+			Why does that make me nervous?
+
+					DATA
+			I do not know.
+
+					SONNY
+			We won't be inviting these
+			Romulans to our party, will we?
+
+					DATA
+			No, it would not be appropriate.
+
+	OFF Sonny's REACTION:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT FOUR   43.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+41   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	travelling at impulse speed.
+
+					PICARD
+			Captain's log, supplemental. We
+			have arrived at the edge of the
+			Neutral Zone. We will now have
+			an opportunity to learn firsthand
+			what happened to our distant
+			outposts.
+
+42   INT. MAIN BRIDGE
+
+	Data is at Science One.
+
+					DATA
+			There is nothing left of Outpost
+			Delta Zero-Five.
+
+					GEORDI
+			It must have been one hell of an
+			explosion.
+
+					DATA
+			Sensors indicate no evidence of
+			a conventional attack.
+
+	He turns to face Picard.
+
+					DATA
+				(continuing)
+			There is nothing left.
+
+					PICARD
+			Can you determine what happened?
+
+	OFF Picard's REACTION.
+
+					WORF
+			The outpost was not just
+			destroyed, it is as though some
+			great force just scooped it
+			off the face of the planet.
+
+   STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FOUR   44.
+
+42   CONTINUED:
+
+	They continue scanning.
+
+					PICARD
+			Could it have been a natural
+			phenomenon?
+
+					DATA
+			Insufficient information.
+
+					PICARD
+			Geordi, set a course for the next
+			closest station.
+
+					GEORDI
+			Aye, sir.
+
+43   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as it files by.
+
+43A  INT. SONNY'S QUARTERS
+
+	WESLEY and Sonny. Sonny sits picking his guitar.
+	Wesley sits across from him, staring.
+
+					SONNY
+			I just can't believe this. When
+			that android fella said you could
+			duplicate this baby, I didn't
+			dream you'd do such a bang-up
+			job... You like country?
+
+					WESLEY
+			Excuse me?
+
+					SONNY
+			Picking and strummin', son. What
+			about rock?
+
+					WESLEY
+			What about rock?
+
+					SONNY
+			What's the matter, kid? You look
+			like you're staring at a ghost.
+
+					WESLEY
+			Well, sir, you were dead for over
+			three-hundred years...
+
+  STAR TREK: "... Neutral... " - REV. 3/22/88 - ACT FOUR  44A.
+
+43A  CONTINUED:
+
+					SONNY
+			How 'bout rhythm and blues? That
+			comes back every decade or so.
+
+	Wesley continues to stare. He could just as soon be
+	looking at a dinosaur.
+
+					WESLEY
+			What was it like?... I mean, can
+			you remember...
+
+					SONNY
+			What? Bein' dead? Not really,
+			but then again there wasn't a
+			whole lot happening.
+
+					WESLEY
+			Why did you do it? Was there
+			something left undone... something
+			you have to finish?
+
+					SONNY
+			Nope. Just curiosity... Another
+			adventure... Simply wanted to see
+			what was going on.
+
+44   INT. MAIN BRIDGE
+
+	as they wait.
+
+					GEORDI
+			We are approaching Tarod Nine.
+
+					DATA
+			The condition is identical,
+			Captain.
+
+					WORF
+			Everyone and everything is gone.
+
+					RIKER
+			Captain, I strongly recommend that
+			we go to Red Alert. If the
+			Romulans have improved their
+			cloaking device, and we'd be fools
+			to think they haven't, we should
+			assume a more defensive posture.
+
+					WORF
+			I agree, Captain. I recommend
+			we go immediately to battle
+			stations.
+
+	Picard will not be pushed.
+
+     STAR TREK: "The Neutral Zone" - 3/17/88 - ACT FOUR     45.
+
+44   CONTINUED:
+
+					PICARD
+			I appreciate your concern and
+			advice, but this is not the time
+			for rash actions. We are still
+			investigating.
+
+	He moves away from the Aft Station.
+
+					PICARD
+				(continuing)
+			There are three other stations
+			in this sector which we need to
+			visit. Let's proceed in a calm
+			and orderly manner.
+
+					RIKER
+			If not "battle stations," may I
+			at least bring the ship to Yellow
+			Alert?
+
+	Picard considers for a moment.
+
+					PICARD
+			Yes, Number One. That would be
+			prudent.
+
+					RIKER
+			Thank you.
+
+	And Riker initiates the necessary procedure to raise
+	the alert level of the Enterprise.
+
+45   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as it continues on.
+
+46   INT. GUEST LOUNGE
+
+	Ralph, Sonny and Clare are together.
+
+					SONNY
+			So, what is it that you want?
+
+					RALPH
+			I've spent my career being able
+			to tell when the other guy's mouth
+			is dry. There is something going
+			on. Something serious. The
+			tension level on this ship has
+			jumped up.
+
+   STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FOUR   46.
+
+46   CONTINUED:
+
+					SONNY
+			Even if you're right, what can
+			we do about it? And besides,
+			these old boys don't need us to
+			tell them where the bear sits.
+
+	He reaches down beside him and lifts up an acoustic
+	guitar...
+
+					SONNY
+				(continuing)
+			Lookie here what that young
+			fella made for me.
+
+					CLARE
+			How did he do that?
+
+					SONNY
+			He called it a pattern replication.
+			It plays real good, too.
+
+	And he hits a couple of chords.
+
+					RALPH
+			I'm trying to tell you that there
+			is a situation developing on this
+			vessel which affects us, and all
+			you can talk about is that stupid
+			guitar!
+
+					SONNY
+			These folks don't need us swimming
+			in their soup, so why don't you
+			just relax and let them do their
+			jobs?
+
+					RALPH
+			That may be all right for you,
+			but I am not willing to allow my
+			fate to be decided by others.
+			I at least want to know what is
+			going on.
+
+					SONNY
+			How are you planning to do that?
+
+   STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT FOUR   47.
+
+47   ANOTHER ANGLE - DOOR
+
+	Ralph gives Sonny a look and goes to the door. It
+	OPENS. There is a security guard standing there.
+
+					RALPH
+			He needs help. I think he's
+			dying.
+
+	As the security guard ENTERS the room and MOVES toward
+	Sonny, Ralph SLIPS UP behind him and hits him on the
+	head, knocking him unconscious.
+
+					SONNY
+			What the hell are you doing?
+
+					RALPH
+			I'm going to find out what's going
+			on.
+
+47A  INT. CORRIDOR (FORMERLY SCENE 48)
+
+	as Ralph moves along. Other crewmembers are moving
+	quickly about their business. Ralph is able to move
+	along unnoticed.
+
+A48	ANOTHER ANGLE
+
+	As Ralph continues moving forward, he notices the
+	turbolift door OPEN and some Enterprise personnel EXIT.
+	He STEPS ONTO the turbolift. For a moment he is
+	confused; he knows it's an elevator, but he sees no
+	buttons. He looks around, then to himself:
+
+					RALPH
+			Ah... let's see.
+				(to computer)
+			Ah... I want to go to a... the...
+			ah...
+				(he shrugs; then to
+				 himself:)
+			Where would the captain be?
+
+	To his astonishemnt, the computer answers:
+
+					COMPUTER VOICE
+			Captain Picard is located on the
+			Main Bridge.
+
+					RALPH
+			Then, take me to the Main Bridge.
+
+	The doors CLOSE. The turbolift streaks off.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FOUR       47A.
+
+B48	OMITTED
+
+48   OMITTED
+
+48A  INT. MAIN BRIDGE (OPTICAL)
+
+	at Yellow Alert.
+
+					WORF
+			Captain, my sensors indicate a
+			disturbance. It is large and
+			moving, but I cannot get a
+			positive lock nor can I get it
+			on the viewscreen.
+
+					RIKER
+			Shields up.
+
+					WORF
+			Aye, sir.
+
+					RIKER
+			Captain, I recommend we transfer
+			all power to phasers, and arm the
+			photon torpedos.
+
+					PICARD
+			Wait. If that is a Romulan ship,
+			it will read our intent. We will
+			be forcing them to take a similar
+			posture. We are not out here to
+			engage in battles; we are explorers.
+
+					RIKER
+			Captain, there is sufficient
+			evidence. Outposts have been
+			destroyed... Countless lives have
+			been lost.
+
+        STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT FOUR        48.
+
+48A  CONTINUED:
+
+					WORF
+			I have a positive lock... It's
+			disengaging its cloaking device.
+
+					RIKER
+			They are vulnerable for an instant
+			as they become visible.
+
+					WORF
+			Captain, this may be our only
+			chance.
+
+	While they are all intent on the Main Viewer, the
+	turbolift doors OPEN and Ralph STEPS ONTO the bridge.
+	The size of the room and the near visible tension stops
+	him momentarily in his tracks.
+
+					WORF
+				(continuing)
+			I've lost them.
+
+					PICARD
+				(to Data)
+			Are your sensors picking up
+			anything? You should be
+			detecting a disturbance.
+
+					DATA
+			Negative.
+
+					GEORDI
+			We wanted to know if they have
+			improved their cloaking device
+			-- I guess we have our answer.
+
+					PICARD
+				(to Riker)
+			They were trying to determine
+			our intent... They wanted to see
+			if we would fire.
+
+					RALPH
+			Who the hell are they?
+
+	Everyone turns.
+
+					RIKER
+			Get that man off the bridge...
+			now.
+
+	Security moves toward him.
+
+        STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT FOUR        49.
+
+48A  CONTINUED: (2)
+
+					RALPH
+			I'm not going anywhere.
+
+					WORF
+			Captain, they're back.
+
+	Everyone is looking at Picard.
+
+					PICARD
+			On screen.
+
+49
+thru	OMITTED
+51
+
+51A  ANOTHER ANGLE FAVORING SCREEN
+
+	as a disturbance becomes a Romulan cruiser.
+
+	REACTIONS:
+
+51B  EXT. SPACE - THE ENTERPRISE (OPTICAL)
+	(FORMERLY SC. 50)
+
+	in proximity to the Romulan cruiser.
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE        50.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+52   EXT. SPACE - THE ROMULAN CRUISER (OPTICAL)
+
+	as it closes in on the Enterprise.
+
+53   INT. MAIN BRIDGE (OPTICAL)
+
+	It's as it was. Worf and a couple of other crewmembers
+	move toward Ralph.
+
+					RIKER
+			Amazing. I never thought I would
+			ever see a Romulan ship -- not this
+			close.
+
+					GEORDI
+			The last encounter was decades
+			ago and cost thousands of lives.
+
+	A REACTION from Ralph.
+
+					RALPH
+				(awed)
+			I can believe that.
+
+	It's said so quietly, and the thought is so much on
+	everyone's mind, that no one notices it was Ralph who
+	said it.
+
+					PICARD
+			Stay calm, everyone.
+
+					WORF
+			Captain, these are Romulans -- they
+			are without honor. They killed
+			my parents in an attack on
+			Khitomer at a time when they were
+			supposed to be our allies. They
+			believe humans and Klingons are
+			a waste of skin, so inferior as
+			to be unworthy of any
+			consideration.
+
+					PICARD
+			Lieutenant, keep your emotions
+			under control. Open hailing
+			frequencies.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE       50A.
+
+53   CONTINUED:
+
+					WORF
+			Hailing frequencies open.
+
+					PICARD
+			Romulan vessel, this is Captain
+			Jean-Luc Picard of the USS
+			Enterprise.
+
+	There is no response.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE        51.
+
+53   CONTINUED: (2)
+
+					DATA
+			Sensors indicate all of their
+			systems are armed.
+
+					PICARD
+			But they have not fired.
+
+	Picard thinks for a beat.
+
+					PICARD
+				(continuing)
+			Let's try them again.
+
+					WORF
+			Hailing frequencies are still
+			open.
+
+					PICARD
+			Romulan vessel, this is Captain
+			Jean-Luc Picard of the USS
+			Enterprise.
+
+	There is a pause.
+
+54   MAIN VIEWSCREEN (OPTICAL) (INTERCUT AS NECESSARY)
+
+	Then the interior of the Romulan vessel COMES ON the
+	viewscreen.
+
+        STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT FIVE        52.
+
+54   CONTINUED:
+
+	There are TWO ROMULAN OFFICERS in the Control area.
+	COMMANDER TEBOK (pronounced "TAY-bok") and
+	SUB-COMMANDER THEI (pronounced "TIE").
+
+					TEBOK
+			I am Commander Tebok.
+
+					PICARD
+			You have crossed the Neutral Zone.
+			This is Federation territory.
+
+					THEI
+			It was necessary.
+
+					PICARD
+			It could be viewed as an act of
+			aggression.
+
+					THEI
+			If our intent was aggression,
+			you would not now be here.
+
+					TEBOK
+			If we go to war, let us be sure
+			it is for the right reason. We
+			are here because our outposts,
+			which border the Neutral Zone,
+			were also attacked.
+
+					THEI
+			Destroyed in the exact same manner
+			as your own.
+
+					WORF
+				(to Picard)
+			What right did they have to enter
+			Federation space?
+
+					TEBOK
+			Silence your dog, Captain.
+
+					PICARD
+			Lieutenant Worf's question is
+			valid.
+
+					THEI
+			Even to ask such a question
+			implies that we need permission;
+			we do not.
+
+					PICARD
+			Do you think we attacked your
+			outposts?
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE        53.
+
+54   CONTINUED: (2)
+
+					TEBOK
+				(with disdain)
+			Once we realized the level of
+			destruction, we knew it could not
+			have been you.
+
+					PICARD
+			Who is responsible?
+
+	There is a pause.
+
+					RALPH
+			They haven't a clue.
+
+	Picard shoots Ralph a look.
+
+					RALPH
+				(continuing)
+			They're hoping you know, but
+			they're too arrogant to ask.
+
+					RIKER
+			You're out of line, Mister.
+
+					PICARD
+			Yes, but correct in his
+			assessment.
+
+					TEBOK
+			We do not know who is
+			responsible... Why entire
+			outposts on both sides were
+			carried off.
+
+					PICARD
+			I would like to offer a proposal.
+
+					THEI
+				(with a smile)
+			An alliance? Between the
+			Romulans and the Federation?
+
+					PICARD
+			Nothing so grandiose -- just this.
+			Cooperation... whoever or whatever
+			did this is more powerful than
+			either of us.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE       53A.
+
+54   CONTINUED: (3)
+
+	The two Romulans ponder for a moment.
+
+					THEI
+			Agreed.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE        54.
+
+54   CONTINUED: (4)
+
+					THEI
+			On this one issue, and only if
+			it is convenient and something
+			we consider appropriate at the
+			time.
+
+					TEBOK
+			Captain Picard, because your
+			actions are those of a thoughtful
+			man who is neither rash nor easily
+			provoked, I tell you this. More
+			urgent matters have caused our
+			absence, and witness the results.
+			Outposts destroyed, evidence of
+			the Federation everywhere. We
+			have been negligent, but no more.
+
+					PICARD
+			We have made some progress in our
+			relations... let's not ruin that
+			with unnecessary posturing.
+
+					TEBOK
+			Your presence is not wanted. Do
+			you understand my meaning? We
+			are back!
+
+	The Romulans study Picard for a beat; then -- without a
+	signal or a sign, they CLICK OFF. The image on the
+	Main Viewer is REPLACED with a SHOT of the Romulan
+	cruiser.
+
+					PICARD
+			I think our lives just became a
+			lot more complicated.
+
+55   ANOTHER ANGLE
+
+	as the members of the bridge crew breath a collective
+	sigh of relief.
+
+56   EXT. SPACE - THE ROMULAN CRUISER (OPTICAL)
+
+	as it TURNS and LEAVES at high speed.
+
+56A  INT. MAIN BRIDGE
+
+	as before. Picard turns slowly to Worf.
+
+					PICARD
+			Get him off my bridge.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE       54A.
+
+56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL)
+
+	Troi and Clare are there.
+
+					TROI
+			I have found something.
+
+	Clare comes over to the computer next to Troi. On the
+	screen is the biographical information of:
+
+					TROI
+				(continuing)
+			I have been able to locate a
+			family living outside of
+			Indianapolis. The man's name is
+			Thomas Raymond.
+
+	Clare looks at the Screen.
+
+					CLARE
+			That's my son's name. My son's
+			name is Tommy.
+
+        STAR TREK: "... Neutral... " - REV. 3/18/88 - ACT FIVE        55.
+
+56B  CONTINUED: (2)
+
+	The READOUT on the screen indicates that Thomas Raymond
+	is married and has two children, ages four and seven.
+
+					TROI
+			Computer -- let us see Thomas
+			Raymond.
+
+	And the screen REPAINTS with a semi-line drawing of
+	a man around thirty.
+
+					CLARE
+			Oh, my God... It's Donald...
+			that's my husband.
+
+					TROI
+			Actually, it's your great, great,
+			great, great, great grandson.
+
+					CLARE
+			He's the spitting image.
+
+					TROI
+			I have his address. When you get
+			back to Earth, you could go and
+			see him.
+
+					CLARE
+			But... I will still be out of
+			time. A relic.
+
+					TROI
+			Perhaps. But it's a place to
+			start. He is after all, family.
+
+	Clare looks at the picture on the Screen.
+
+					CLARE
+			There's no denying that.
+
+	For the first time since she was thawed, her attitude
+	brightens.
+
+57   INT. OBSERVATION LOUNGE
+
+	Picard and other members of the crew are with the
+	"guests."
+
+					PICARD
+			Here is what I propose. You can't
+			remain on the Enterprise. We have
+			arranged to rendezvous with the
+			USS Charleston, bound for Earth.
+			You will be delivered there.
+
+        STAR TREK: "... Neutral... " - REV. 3/21/88 - ACT FIVE        56.
+
+57   CONTINUED:
+
+					RALPH
+			And then what will happen to us?
+			There's no trace of my money -- my
+			office is gone -- what will I do?
+			How will I live?
+
+					PICARD
+				(amused)
+			This is the twenty-fourth century.
+			Those material needs no longer
+			exist.
+
+					RALPH
+			Then what's the challenge?
+
+					PICARD
+			To improve yourself... enrich
+			yourself. Enjoy it, Mister Offenhouse.
+
+					SONNY
+			Well, one good thing -- since
+			everybody's forgotten everything
+			I ever did... it'll all be brand
+			spankin' new. Hell, I'll be a
+			bigger hit than I ever was.
+
+					PICARD
+			Perhaps so, anything is possible.
+
+					SONNY
+				(to Data)
+			What say, son -- you'd make a hell
+			of a sideman.
+
+					DATA
+			That offer does present a certain
+			fascination.
+
+58   OMITTED
+
+59   INT. MAIN BRIDGE
+
+	Picard and Riker EXIT from the turbolift.
+
+					GEORDI
+			I have plotted a course to
+			intercept the Charleston, sir,
+			but they have informed me that
+			they will be making an extended
+			stop at Arloff Nine.
+
+        STAR TREK: "... Neutral... " - REV. 3/22/88 - ACT FIVE        57.
+
+59   CONTINUED:
+
+					PICARD
+			Your point, Lieutenant?
+
+					GEORDI
+			At warp eight, we could have
+			our guests at Starbase Thirty-Nine
+			Sierra in five days. It
+			would cut months off their
+			journey.
+
+					PICARD
+			They will benefit from the
+			extended time. It will allow
+			them to acclimate before arriving
+			at Earth.
+
+					RIKER
+			It's a pity we can't take them
+			ourselves. Having them on board
+			has been like a visit from the
+			past.
+
+					PICARD
+			That would take us in the wrong
+			direction. Our mission is to go
+			forward and it has just begun.
+			Set velocity at warp six, Mister
+			La Forge.
+
+					GEORDI
+			Aye, sir... warp six.
+
+					PICARD
+			There is still much to do... and
+			still so much to learn.
+				(pause)
+			Mister La Forge... Engage.
+
+60   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as it heads off.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+
+                            THE END                             
+

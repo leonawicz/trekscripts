@@ -1,0 +1,2989 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                         "Cardassians" 
+                          #40512-425 
+                              
+                           Story by 
+                  Gene Wolande & John Wright 
+                              
+                          Teleplay by 
+                         James Crocker 
+                              
+                          Directed by 
+                          Cliff Bole 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        August 16, 1993
+
+        STAR TREK: DS9   "Cardassians" - 08/16/93 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Cardassians" 
+                             CAST 
+
+          SISKO                    ASHA
+          KIRA                     DEELA
+          ODO (V.0.)               GARAK
+          QUARK                    GUL DUKAT
+          BASHIR                   JOMAT
+          DAX                      PA'DAR
+          O'BRIEN                  PROKA
+          KEIKO                    RUGAL
+                                   ZOLAN
+                                   FEMALE VOICE (O.C.)
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. ORPHANS
+
+       STAR TREK: DS9 - "Cardassians" - 08/17/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Cardassians" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+          DEEP SPACE NINE               DEEP SPACE NINE           
+          BASHIR'S QUARTERS             
+          COMMANDER'S OFFICE            ORPHAN CENTER -
+          GUEST QUARTERS                COURTYARD
+          INFIRMARY (SURGERY ROOM)      
+          O'BRIEN'S QUARTERS            RUNABOUT
+          OPS                           
+          PROMENADE - AIRLOCK           BAJORAN CITY
+          QUARK'S                       
+          REPLIMAT                      
+          SCHOOLROOM                    
+          SISKO'S QUARTERS              
+          RUNABOUT                      
+
+        ORPHAN RESETTLEMENT CENTER    
+          REAR ENTRANCE                 
+
+    STAR TREK: DS9 - "Cardassians" 08/18/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Cardassians" 
+                      PRONUNCIATION GUIDE 
+
+          BAJOR                    BAY-jor
+          BAJORAN                  bah-JOR-an
+          COUP DIETAT              COO
+          EXARCH                   EX-sark
+          GARAK                    GAIR-uck
+          GUL DUKAT                gull du-KOT
+          JOMAT LUSON              joe-MAHT loo-SAHN
+          KOTAN PAIDAR             KOE-tan puh-DAR
+          PROKA MIGDAL             PRO-ka mig-DOLL
+          ROKASSA                  roe-KAH-sah
+          RUGAL                    ROO-gull
+          TARKALEAN                tar-KAY-lee-uhn
+          TEROK NOR                TAIR-awk nor
+          TOZHAT                   to-ZAHT
+          ZABU                     ZAH-boo
+          ZOLAN                    ZOE-lahn
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - TEASER          1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                            "Cardassians"                              
+                            TEASER                              
+
+	FADE IN:
+
+
+1    INT. REPLIMAT
+
+	BASHIR crosses through the crowded area carrying an opaque 
+	mug.  He sits down opposite the ever-pleasant Cardassian, 
+	GARAK, who already has a drink in front of him.
+
+					GARAK
+			Tarkalean tea again, Doctor?
+
+					BASHIR
+			Yes, and I believe you're drinking 
+			Rokassa juice, aren't you, Garak --
+
+	Garak holds up his opaque mug, lightly impressed...
+
+					GARAK
+			How did you know?
+
+					BASHIR
+			The odor is unmistakable.
+
+					GARAK
+				(sniffs)
+			So it is.  Rokassa juice soothes my 
+			nerves.  I had a very demanding 
+			customer today.  A Bajoran engineer 
+			who comes into the shop constantly, 
+			just to plague me...
+
+					BASHIR
+			I've always wondered about that... 
+			about who your steady customers are... 
+			I can't imagine Bajorans frequenting 
+			a shop run by a Cardassian...
+
+					GARAK
+			I like to think my expertise and 
+			willingness to serve overcome any 
+			general resentment my clientele may 
+			have.
+
+         DEEP SPACE: "Cardassians" - REV. 08/25/93 - TEASER          2.
+
+1    CONTINUED:
+
+					BASHIR
+			Ahhh.  Perhaps your expertise and 
+			willingness to serve go so far as to 
+			establish a certain... trust... 
+			between you and your customers...
+
+					GARAK
+			Trust is very important...
+
+					BASHIR
+			And once they trust you, they're 
+			much more open with you... they... 
+			tell you things...
+
+					GARAK
+				(beat; smiling)
+			Really, Doctor... must we play this 
+			game so often?  I'm no more a "spy" 
+			than you are a... a...
+
+					BASHIR
+			...Doctor.
+
+					GARAK
+			I'm afraid you really do let your 
+			imagination run away with you.  What 
+			else can I say to convince you that 
+			I'm just --
+
+					BASHIR
+				(finishing Garak's 
+				sentence)
+			-- plain and simple Garak?
+
+					GARAK
+				(smiles)
+			Precisely.
+
+	A beat as the two hold each other's gaze.  Bashir mentally 
+	debates his next move, as if this were (and indeed is) some 
+	ongoing chess match.  Garak observes something in the b.g. 
+	behind Bashir...
+
+					GARAK
+			Now, there's something you don't see 
+			every day...
+
+         DEEP SPACE: "Cardassians" - REV. 08/25/93 - TEASER          3.
+
+2    INT. PROMENADE - AIRLOCK - GARAK'S POV
+
+	Passengers -- mostly Bajoran -- emerge from the airlock into 
+	the Promenade.  A sturdy, middle-aged Bajoran male, PROKA, 
+	has just come out of the airlock with a straight-faced twelve-
+	year-old Cardassian boy, RUGAL.  They are approached by a 
+	friendly and accommodating Zolan.  Cordial greetings are 
+	exchanged (this is not the first time they have met), then 
+	Zolan motions toward the Replimat.  All three begin to 
+	casually walk toward us...
+
+	Zolan smiles at the boy.  Rugal does not smile back.  Zolan's 
+	unfazed at the boy's stoic, almost sullen response... as 
+	they enter the area...
+
+					ZOLAN
+			There's a table.  Please, sit down 
+			and I'll get all of us some 
+			refreshment.
+
+	A little nervous with anticipation -- this job offer is a 
+	big deal for him -- Proka moves to sit at the unoccupied 
+	table.  Rugal stops, however, when he sees Garak across the 
+	way.  He stiffens... a look of... what?  fear?... filtering 
+	into his stoic expression...
+
+3
+thru   OMITTED
+6
+
+7    ON BASHIR AND GARAK
+
+	Garak watches the boy curiously.  Bashir turns to watch Garak, 
+	wondering about the boy's reaction to him...
+
+8    RESUME RUGAL
+
+	He abruptly turns away, moves to sit down with his family.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - TEASER          4.
+
+9    BASHIR AND GARAK
+
+					BASHIR
+			That was odd... do you know him?
+
+					GARAK
+			On the contrary... I've never set 
+			eyes on him before.
+
+            DEEP SPACE: "Cardassians" - 08/16/93 - TEASER            5.
+
+9    CONTINUED:
+
+	A beat, then Garak gets up and starts walking toward Rugal.
+
+10   PROKA AND RUGAL
+
+	seated at their table.  Rugal's back is to Garak as Garak 
+	approaches.  Bashir is still seated in the b.g., watching.
+
+					GARAK
+			I hope I'm not intruding, but I 
+			couldn't help noticing...
+
+11   CLOSE - RUGAL
+
+	as he looks up, sees Garak, eyes widening in fear...
+
+12   RESUME SCENE
+
+	with Garak politely, graciously addressing Proka.
+
+					GARAK
+				(continuing)
+			... what a handsome young man you 
+			have here...
+
+	He lays a friendly hand on Rugal's shoulder.  This turns out 
+	to be a serious mistake.  Rugal suddenly grabs Garak's hand, 
+	yanks it forward and sinks his teeth into it...
+
+13   BASHIR
+
+	stunned... he rises from his chair and hurries toward:
+
+14   RUGAL'S TABLE - SEVERAL SHOTS
+
+	Rugal viciously bites down on Garak's hand.  Garak groans in 
+	pain, tries to pull away...
+
+	Zolan, approaching with a tray of drinks, comes to a halt, 
+	surprised...
+
+	Bashir rushes up between Rugal and Garak.
+
+					BASHIR
+				(sharply, to Rugal)
+			Stop it -- stop it!
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - TEASER          6.
+
+14   CONTINUED:
+
+	Rugal lets go.  Garak falls back, holding his slightly 
+	bleeding hand, Bashir bracing him.  Rugal scurries to Proka -- 
+	the boy is terribly frightened -- Proka hugs him protectively.  
+
+	He stares coldly up at Garak.
+
+15   FAVORING BASHIR
+
+	as he looks at Garak's wound, then at Rugal and Proka.  He's 
+	amazed and confused by what has just happened.  Hold on his 
+	look of bewilderment as we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE         7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE:  Episode credits fall over opening scenes.)
+
+16   INT. OPS - ON THE TURBOLIFT RISING
+
+	Bashir arriving...
+
+					BASHIR
+			Sorry I'm late --
+
+	Move with him to the table to reveal SISKO, KIRA, DAX, ODO 
+	and O'BRIEN meeting.  (Supernumeraries as needed in the 
+	background.)
+
+					BASHIR
+				(continuing)
+			The damnedest thing just happened... 
+			Garak the tailor was attacked...
+
+					ODO
+				(reacts)
+			Attacked where?
+
+					BASHIR
+			At the Replimat.  He was bitten on 
+			the hand...
+
+					DAX
+				(dry)
+			Another unsatisfied customer?
+
+					O'BRIEN
+			He always cuts the pants too long...
+
+					BASHIR
+			No, it was a boy... a Cardassian 
+			boy...
+
+					SISKO
+			I wasn't aware we had any Cardassian 
+			children on the station...
+
+					ODO
+			We don't...
+
+					BASHIR
+			He just arrived.  On the Bajoran 
+			transport.  With an adult Bajoran 
+			who says he's his father...
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE         8.
+
+					KIRA
+			The boy was probably one of the 
+			orphans left behind after the 
+			Cardassians pulled out...
+				(she's reading 
+				something on her 
+				console, as she 
+				presses panels... )
+			We had no choice but to take care of 
+			them...
+				(beat)
+			You have an incoming subspace 
+			transmission... from Cardassia, 
+			Commander...
+				(reading, looking up 
+				to Sisko)
+			It's Gul Dukat.
+
+					SISKO
+			In my office.
+
+	He rises, moves toward his office...
+
+17   INT. COMMANDER'S OFFICE - CONTINUOUS (OPTICAL)
+
+	Sisko ENTERS, hits a panel at his desk.  GUL DUKAT appears 
+	on the wall monitor... Sisko sits...
+
+					GUL DUKAT
+			Commander... it's been brought to my 
+			attention that the sole Cardassian 
+			living on your station has been 
+			assaulted...
+
+	Sisko sits back, watches Gul Dukat circumspectly.
+
+					SISKO
+				(reacts)
+			I'm surprised how quickly the news 
+			reached you, Dukat.  I only heard 
+			about it myself a minute ago...
+
+					GUL DUKAT
+			Is it true he was -- attacked -- by 
+			a Cardassian boy brought to the 
+			station by a Bajoran?
+
+					SISKO
+			A Cardassian boy appears to have 
+			been involved, yes.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE         9.
+
+					GUL DUKAT
+				(shakes his head)
+			It is exactly as I feared.  
+			Exactly as I've been warning my 
+			colleagues...
+
+					SISKO
+			Warning them?
+
+					GUL DUKAT
+			The Cardassian war orphans, 
+			Commander... abandoned when we left 
+			Bajor... it's a disgrace.  Obviously, 
+			these children are being raised to 
+			hate their own kind... this incident 
+			is the proof...
+
+					SISKO
+			You're assuming an awful lot from 
+			this one incident...
+
+					GUL DUKAT
+			Am I?  Then why would this boy assault 
+			poor Garak?  An amiable fellow, if 
+			there ever was one...
+
+					SISKO
+			If you'd like, I'll try to find out.
+
+					GUL DUKAT
+			That would be most appreciated.  I 
+			need to know more about this boy, 
+			Commander... so I can use his story 
+			as ammunition in my fight to bring 
+			these orphans back to their 
+			homeland...
+				(sincerely)
+			This is a tragedy all of us on 
+			Cardassia must address...
+
+	Sisko acknowledges as Dukat's transmission ends... he 
+	contemplates Dukat's professed commitment a beat, then CUT 
+	TO:
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE        10.
+
+18   INT. GUEST QUARTERS - CLOSE ON
+
+	A concerned and defensive Proka, addressing someone 
+	(o.s.)
+
+					PROKA
+			We didn't come here to cause 
+			trouble...
+
+	Widen to reveal Sisko standing at ease before him.  Bashir 
+	stays back and observes, interested in what this Bajoran 
+	might have to say.
+
+					PROKA
+				(continuing)
+			Has this Garak filed a complaint?
+
+					SISKO
+			No... but Cardassian officials have 
+			asked us to look into the incident...
+
+					PROKA
+			I wish they'd been more concerned 
+			when they left this boy and dozens 
+			like him to fend for themselves...
+
+					SISKO
+			How did you come to adopt him?
+
+					PROKA
+			My wife and I felt that Rugal 
+			shouldn't suffer for crimes committed 
+			by others...
+
+					SISKO
+			Any idea why he'd attack another 
+			Cardassian?
+
+					PROKA
+			That Cardassian should have minded 
+			his own business.
+
+					BASHIR
+			Garak was only being friendly.  The 
+			boy seemed terrified of him on sight.
+
+					SISKO
+			The Cardassians are suggesting the 
+			Bajorans are raising these orphans 
+			to hate their own people.
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT ONE           11.
+
+18   CONTINUED:
+
+					PROKA
+				(almost smiles, with 
+				irony)
+			To hate Cardassians.  Well, that 
+			wouldn't be too hard, would it.  
+			We've told him the truth, 
+			Commander.  The truth.  What 
+			Cardassia did to Bajor.  He needed 
+			to know.  I make no apologies for 
+			that...
+				(beat, softer)
+			To us... he isn't even one of... 
+			them... anymore.  He isn't Cardassian, 
+			he's Bajoran.  And we love him as if 
+			he were our own flesh and blood.
+
+	OFF Sisko and Bashir's reaction...
+
+19   INT. QUARK'S - CLOSE ON
+
+	the spinning dabo wheel.  Widen to show an active crowd at 
+	the dabo table, including Zolan, the alien who met Proka and 
+	Rugal at the airlock.  Zolan's hot -- he's been winning -- 
+	and the other players are excited for him.  The wheel stops, 
+	prompting festive cries of "Dabo!" from the players, including 
+	Zolan, who has won yet again.
+
+					ZOLAN
+			Dabo!  Dabo!  Dabo!
+
+	A few of the others pat him on the back, cheer.
+
+20   ANGLE AT BAR - BASHIR AND QUARK
+
+	Bashir ENTERS, glancing at the excitement.  QUARK watches 
+	Zolan from behind the bar, disgruntled.
+
+					QUARK
+			There's nothing quite so depressing 
+			as a winning streak that won't stop 
+			streaking.
+
+	Bashir eyes Zolan a beat, gets an idea about something... 
+	moves casually to the dabo table beside him... the game and 
+	betting continues as they talk...
+
+					BASHIR
+			It would appear you have the game 
+			all figured out.
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT ONE           12.
+
+20   CONTINUED:
+
+					ZOLAN
+			Dabo is a passion of mine.
+				(looks at him)
+			I remember you.  You're Doctor...
+
+					BASHIR
+			Bashir.
+
+					ZOLAN
+			Bashir, yes.  How's the Cardassian?  
+			Still has all his fingers, I hope...
+
+					BASHIR
+			Yes.  Luckily there were no broken 
+			bones.
+				(casually)
+			I've never seen a boy take a bite 
+			out of a man's hand like that...
+
+					ZOLAN
+			He's a strange child, Rugal.
+
+					BASHIR
+			Do you know the family well?
+
+	Cries of "Dabo!" come from the dabo table crowd.
+
+					ZOLAN
+			Dabo!
+
+	He collects more winnings...
+
+					BASHIR
+				(still fishing)
+			Do you?
+
+	Zolan looks at Bashir, then away...
+
+					ZOLAN
+			Look, this is really none of my 
+			business...
+
+					BASHIR
+				(curious to that 
+				reaction)
+			You were a witness... I just want to 
+			be sure I get the facts right... for 
+			my... medical report...
+
+					ZOLAN
+			I'd really rather you ask somebody 
+			else...
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE        13.
+
+20   CONTINUED:	(2)
+
+					BASHIR
+			Frankly, I don't understand your 
+			attitude... all I asked was if you 
+			know them well.
+
+					ZOLAN
+			Well enough.
+				(beat, okay, let's 
+				get it over with)
+			I heard the father was looking for a 
+			new job a couple of months ago and 
+			offered to help them...
+				(uncomfortable at 
+				telling)
+			I've visited them on Bajor several 
+			times.
+
+					BASHIR
+			Did you see something that bothered 
+			you?
+
+					ZOLAN
+				(beat, okay here it is)
+			It has to be torture for that boy... 
+			living like that... hated by people 
+			he considers his parents... told day 
+			after day that he's worthless 
+			Cardassian scum.  Beaten if he even 
+			looks the wrong way.  Rugal's their 
+			revenge -- their revenge against 
+			all Cardassians.
+
+	Bashir's quietly stunned by this revelation.  HOLD on him 
+	absorbing what Zolan has told him...
+
+21   INT. GUEST QUARTERS - CLOSE ON PROKA
+
+	incredulous.
+
+					PROKA
+			It's not true.  It's not true.  Rugal 
+			will tell you.  We haven't mistreated 
+			him... Is this another Cardassian...
+
+	Widen to show Sisko and Bashir now facing off with Proka.  
+	Sisko uses a quiet voice, concerned that the boy is in the 
+	other room and can hear.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE        14.
+
+21   CONTINUED:
+
+					SISKO
+				(interrupting)
+			There'll be plenty of opportunity to 
+			go over the matter in detail... but 
+			during the investigation, we'd like 
+			Rugal to stay with our schoolteacher, 
+			Mrs. O'Brien... she's expecting him 
+			now.
+
+					PROKA
+				(beat)
+			What if I refuse?
+
+					SISKO
+			Then I'll have to call Security and 
+			have them remove him from your 
+			quarters... I don't think either of 
+			us wants that...
+
+	A long beat... then Proka shakes his head at the unfairness 
+	of this... goes into the other room... a long beat as Sisko 
+	exchanges an uncomfortable glance with Bashir, then they 
+	HEAR...
+
+					RUGAL'S VOICE (O.S.)
+			Why?
+
+					PROKA'S VOICE (O.S.)
+			It'll be all right...
+
+					RUGAL'S VOICE (O.S.)
+			I didn't do anything wrong...
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT ONE        15.
+
+21   CONTINUED:	(2)
+
+					PROKA'S VOICE (O.S.)
+			I know.  I know.  It'll be all right.  
+			I promise.
+
+	A beat later, they come out.  Rugal looks at the two uniforms, 
+	symbol of authority...
+
+					RUGAL
+				(upset, to Sisko)
+			I didn't do anything wrong.
+
+					SISKO
+			Nobody's accusing you of a crime, 
+			Rugal.  You're not being arrested.  
+			My name is Commander Sisko.  I believe 
+			you already know Doctor Bashir...
+
+					BASHIR
+			Hello, Rugal.
+
+					SISKO
+			I'm sure this will be straightened 
+			out in a day or two... If you want 
+			to visit with your father tomorrow, 
+			you can.
+
+					PROKA
+			Go on, Rugal.  We'll talk tomorrow.
+				(puts his arm around 
+				his shoulders to 
+				comfort him, gently)
+			They won't hurt you.  They're humans.  
+			Not Cardassians.
+
+	Rugal doesn't understand... but listens to his father's 
+	urging... finally joins Sisko and Bashir and they EXIT.  
+	Proka takes in a big sigh, looking after Sisko, righteous 
+	and determined...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        16.
+                            ACT TWO                             
+
+	FADE IN:
+
+22   INT. INFIRMARY - SURGERY ROOM - BASHIR AND GARAK
+
+	Bashir treats Garak's barely visible wound with a small 
+	"penlight" tech device...
+
+					BASHIR
+			Actually, something good did come 
+			out of this, Garak.  If it hadn't 
+			happened, we never would have 
+			discovered Rugal's situation.  A 
+			bite on the hand is worth saving a 
+			boy's life, wouldn't you say?
+
+					GARAK
+			I suppose it depends on whose hand...
+				(off Bashir's look)
+			I'm only kidding.
+
+					BASHIR
+			Perhaps this might even help Gul 
+			Dukat in his efforts to resolve the 
+			entire war orphan predicament.
+
+	If Garak had antennae, they would quiver a little...
+
+					GARAK
+			I beg your pardon... ?
+
+					BASHIR
+			Gul Dukat... he called Commander 
+			Sisko right after this happened... 
+			Apparently he was quite concerned 
+			with your well-being... you never 
+			mentioned you were friends...
+
+	Garak laughs.  It is a laugh that says they weren't friends.
+
+					GARAK
+			You said Dukat was doing something 
+			about war orphans?
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT TWO           17.
+
+22   CONTINUED:
+
+					BASHIR
+			He wants to bring them all home from 
+			Bajor...
+
+					GARAK
+				(thinking)
+			Does he...
+
+	Bashir sits up a little... he knows Garak well enough by now 
+	to realize there is more here than meets the eye...
+
+					BASHIR
+			Am I missing something... ?
+
+					GARAK
+				(beat; wheels turning)
+			Doctor, what single trait would you 
+			ascribe to me and my fellow 
+			Cardassians?  Would it not be our 
+			attention to detail?  Do you think 
+			we simply forgot about those poor 
+			little orphans when we left Bajor?  
+			Do you think they just... slipped 
+			our mind... ?  And who, would you 
+			guess, was in charge of the Cardassian 
+			withdrawal from Bajor?
+
+23   INT. OPS - ON MAIN VIEWSCREEN (OPTICAL)
+
+	The answer is on the screen.  We see Gul Dukat -- calm and 
+	civil -- as he sits at his desk.
+
+					GUL DUKAT
+			I don't know how to thank you...
+
+24   REVEAL SISKO
+
+	standing in Ops, talking to Dukat... Kira and Dax at their 
+	stations (Supernumerariesas needed).  Sisko is still quite 
+	circumspect about this situation and Dukat's role in it.
+
+					SISKO
+			Don't thank me so quickly.  It's 
+			possible the boy could be returned 
+			to his adoptive parents.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        18.
+
+
+24   CONTINUED:
+
+					GUL DUKAT
+			But surely after the accusation 
+			this... businessman has made...
+
+					SISKO
+				(dry)
+			That's all it is for the moment -- 
+			an accusation.
+
+	Bashir ENTERS from the Turbolift, as if there is something 
+	urgent he needs to discuss with Sisko.  Seeing who Sisko is 
+	talking to, he slows to a stop, listens in...
+
+					GUL DUKAT
+			We wouldn't take kindly to the boy 
+			being returned to the Bajorans.  
+			However, I have complete confidence 
+			in your ability to be thorough, 
+			Commander.  If there's anything I 
+			can do...
+
+					SISKO
+			As a matter of fact, there is: if 
+			it's decided the boy should be 
+			returned to Cardassia, who would we 
+			return him to?  It might help to 
+			find out if he has any relatives 
+			still living...
+
+					GUL DUKAT
+			I was just going to suggest that you 
+			forward a DNA sample to us.  We'll 
+			be happy to run it through our data 
+			banks.
+
+					SISKO
+			We'll send it to you right away.
+
+					BASHIR
+				(steps forward)
+			Excuse me... Gul Dukat, I have a 
+			question...
+
+	Sisko turns to Bashir -- what the hell is he doing?  Bashir 
+	glances at him nervously...
+
+					GUL DUKAT
+			It's Doctor... Bashir, isn't it?
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        19.
+
+24   CONTINUED:	(2)
+
+					BASHIR
+			Yes.  Isn't it true you were in charge 
+			of the evacuation of Bajor?
+
+					GUL DUKAT
+				(where's this going?)
+			Yes, I was...
+
+					BASHIR
+			Then it would have been your 
+			responsibility to see that these 
+			orphans were part of the evacuation.  
+			Yet you chose to leave them behind... 
+			why?
+
+	Bashir is afraid to look at Sisko.  Sisko is not pleased 
+	with this bald interruption, but he's curious about what 
+	Bashir has said.  Gul Dukat reacts coolly.
+
+					GUL DUKAT
+			I did not choose to leave them behind, 
+			Doctor.  I was ordered to leave them 
+			behind.
+
+					BASHIR
+			Ordered?  By whom?
+
+					GUL DUKAT
+			The civilian leaders.  They...
+
+					BASHIR
+				(interrupting, prepared)
+			Excuse me.  But if I understand the 
+			Cardassian political system, the 
+			civilian leaders have no direct 
+			authority over military officers...
+
+	Dukat stares at the impudent young doctor, looks to Sisko to 
+	intervene... but Sisko is as curious as everyone else about 
+	what the doctor is doing, is content to observe the odd 
+	confrontation... so Dukat is forced to answer... tries to 
+	make light of this...
+
+					GUL DUKAT
+			Who's been tutoring you in Cardassian 
+			social studies, Doctor?
+
+					BASHIR
+			Your old friend, Garak.
+
+	Bashir waits to see the reaction to the name.  There is 
+	nothing more than a smile.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        20.
+
+24   CONTINUED:	(3)
+
+					GUL DUKAT
+			Well, remind my old friend that the 
+			withdrawal from Bajor was a decision 
+			made by the civilian leaders... one 
+			that I clearly opposed... and, yes, 
+			they were the ones who decided to 
+			leave the orphans behind.  I've 
+			regretted that decision ever since.  
+			Thank you for your concern, Doctor.
+				(to Sisko)
+			Good day, Commander.
+
+	The viewscreen blanks.  A long, long beat as Sisko and 
+	everyone else looks at Bashir, waiting for an explanation.  
+	Finally, Bashir warily looks to Sisko.  Sisko is not giving 
+	his feelings away -- is he upset?  is he intrigued?  - as he 
+	considers Bashir.
+
+					BASHIR
+			He's lying.
+
+					SISKO
+				(not harsh)
+			Is that an opinion or do you have 
+			some sort of evidence?
+
+					BASHIR
+			I have Garak.
+
+					SISKO
+				(even)
+			Garak.
+
+					BASHIR
+			He thinks there's more going on here 
+			than we realize.
+
+					KIRA
+			The Garaks of this world spend their 
+			lives weaving conspiracy theories, 
+			Doctor.
+
+					SISKO
+			What exactly does he think is going 
+			on?
+
+					BASHIR
+			I'm not sure.  He doesn't really 
+			tell me what he thinks... I sort of 
+			have to... deduce it.
+
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        21.
+
+24   CONTINUED:	(4)
+
+					SISKO
+			So, you "deduced" that Garak thinks 
+			Dukat is lying about something you're 
+			not sure of... and you proceeded to 
+			interrupt my conversation to confront 
+			him about whatever that might be.
+
+					BASHIR
+			I'm sorry, Commander.  It just seemed 
+			an opportune...
+
+					SISKO
+			Don't apologize.  It's been the high 
+			point of my day.
+				(beat)
+			Don't do it again.
+
+					DAX
+			Why would Garak want to undermine 
+			Gul Dukat?
+
+					BASHIR
+			I'm not sure, but I don't think he 
+			likes Dukat very much.
+
+					SISKO
+			I'd like to ask Garak about this 
+			myself.  Have him in my office at 
+			twenty-one-hundred-hours.
+
+					BASHIR
+				(pleased)
+			Yessir.
+
+	Sisko walks away.  HOLD on Bashir, watching after him...
+
+25   INT. O'BRIEN'S QUARTERS
+
+	O'Brien ENTERS, arriving home after a long day.  He sees 
+	Rugal sitting in the living area, totally concentrating on a 
+	PADD.  O'Brien frowns a little at the sight of a Cardassian 
+	boy in his quarters.  He moves into the dining area, where 
+	KEIKO is setting the dinner table.  She kisses him hello.
+
+					KEIKO
+			Hi.
+
+	O'Brien immediately begins to help.  He notices there are 
+	only three settings.  The two speak quietly...
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        22.
+
+25   CONTINUED:
+
+					O'BRIEN
+			Good idea.
+
+					KEIKO
+			What?
+
+					O'BRIEN
+			Three settings.  I assume you sent 
+			Molly over to stay with the 
+			Fredericks.
+
+					KEIKO
+			She's asleep.  She and Rugal played 
+			all afternoon.  He wore her out...
+
+					O'BRIEN
+			You let them play together?
+
+					KEIKO
+			Why not?
+
+					O'BRIEN
+			The boy almost bit somebody's hand 
+			off...
+
+					KEIKO
+			I was with them all day.  He's not 
+			like that... he's really very 
+			gentle...
+
+					O'BRIEN
+				(sotto)
+			"Gentle" was bred out of these 
+			Cardassians a long time ago.
+
+	She takes a beat, trying to hold it in, but can't.  Stops 
+	what she's doing, turning her back to Rugal so he can't 
+	hear...
+
+					KEIKO
+			You know, that's a very ugly thing 
+			you just said.
+
+					O'BRIEN
+			I only said...
+
+					KEIKO
+			I don't need to hear it twice.
+
+	She hands him a casserole dish from the replicator; he looks 
+	at it curiously, sees an interesting-looking stew (oddly 
+	shaped vegetables, green meat, white broth), reacts to the 
+	smell...
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        23.
+
+25   CONTINUED:	(2)
+
+					KEIKO
+			Rugal, dinner's ready.
+
+	Rugal puts the PADD down, comes over... O'Brien and he 
+	exchange an uncomfortable glance as they sit.
+
+	Keiko's hand reaches in with a ladle, dips it into the dish...
+
+					KEIKO
+				(to Rugal)
+			I hope you like it.
+
+	But as she looks over to make eye contact with Rugal, she 
+	sees he's saying a Bajoran prayer (holding his hands as Kira 
+	did in "The Circle").  O'Brien and Keiko exchange a glance 
+	as she pauses in her service until Rugal finishes and opens 
+	his eyes... as she serves the stew, O'Brien and Rugal are 
+	both looking at it none-too-thrilled, wondering what it's 
+	made of...
+
+					O'BRIEN
+			Keiko -- darling -- what is this?
+
+					KEIKO
+			I found some Cardassian recipes in 
+			the memory bank of our food 
+			replicator.  It's a stew, made with 
+			Cardassian zabu meat.
+				(smiles at Rugal)
+			I thought Rugal might enjoy a dish 
+			that's popular on his own world.
+
+	Rugal looks at her, makes no move to try the entree.  O'Brien 
+	lifts his spoon, tastes the stew...
+
+	Keiko tries it, doesn't find it too bad -- kind of good, 
+	actually -- then sees Rugal isn't eating...
+
+	O'Brien and Rugal simultaneously push their respective 
+	bowls away from them, O'Brien disliking the taste, Rugal 
+	having found the concept of Cardassian food unassimilable.  
+	The two are surprised they have done the same thing at the 
+	same time, surprised they might have something in common.
+
+	HOLD on the two looking at each other, neither giving anything 
+	away...
+
+26   INT. COMMANDER'S OFFICE - ON GARAK
+
+	sitting before Sisko at his desk.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        24.
+
+26   CONTINUED:
+
+					GARAK
+			There's obviously been a 
+
+			misunderstanding.
+
+27   THE SCENE - FULL
+
+	Garak sits in front of Sisko's desk.  He's his pleasant, 
+	plain-old-simple self.  Bashir is standing off to the side, 
+	embarrassed and upset...
+
+					SISKO
+			Obviously.
+
+					BASHIR
+			Garak, you know you made it perfectly 
+			clear that Dukat couldn't care less 
+			about those war orphans.
+
+					GARAK
+				(to Sisko)
+			The Doctor and I did discuss the 
+			tragic circumstances of the children.  
+			But I would never suggest that Gul 
+			Dukat...
+
+					BASHIR
+			You did.  You did.
+				(to Sisko)
+			He did.
+
+					SISKO
+				(be quiet)
+			Doctor.
+
+					GARAK
+			Doctor Bashir, I apologize if I've 
+			inadvertently put you in an awkward 
+			position...
+
+					SISKO
+			Sorry to put you to this trouble.
+
+					GARAK
+			Not at all.
+
+	He rises to leave.  Bashir shakes his head in frustration.  
+	As Garak reaches the door...
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT TWO           25.
+
+27   CONTINUED:
+
+					SISKO
+			By the way, Garak... how long have 
+			you known Gul Dukat?
+
+	Garak turns.
+
+					GARAK
+			I barely know the man at all.
+
+					SISKO
+			Really.  Somehow, I had the impression 
+			from him that he knew you rather 
+			well.  Called you "amiable," if I 
+			remember.
+
+					GARAK
+			I'm honored that I was noticed by 
+			such a great leader.
+
+	He exits.  Sisko glances at Bashir, who starts to say 
+	something, gives up and after a beat, rushes out after Garak.  
+	Sisko studies him through the doors... he knows something's 
+	going on and he knows that Bashir -- and Garak -- may be the 
+	key to finding out what...
+
+28   INT. PROMENADE - ANGLE ON TURBOLIFT
+
+	as the doors open, REVEALING Bashir and Garak as they exit...
+
+					BASHIR
+			How you could just sit there and lie 
+			with that irritating, pseudo-ignorant 
+			smile of yours...
+
+					GARAK
+			Doctor, I really am disappointed in 
+			you...
+
+					BASHIR
+			You're disappointed in me... ?!
+
+	Garak stops and turns to Bashir...
+
+					GARAK
+			The things we talk about are for 
+			your ears only.  That you would tell 
+			Commander Sisko anything I might 
+			happen to say in passing about Gul 
+			Dukat... is inappropriate and 
+			unacceptable.
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        26.
+
+28   CONTINUED:
+
+	Garak walks on out-of-frame.  Bashir slows, watches after 
+	him, still in shock.
+
+29   INT. O'BRIEN'S QUARTERS - NIGHT - LATE
+
+	O'Brien's working on the computer at the now-cleared dinner 
+	table.  It's quiet -- everyone else is asleep.  O'Brien  
+	stretches, yawns, then sips from a cup of tea in front of 
+	him.
+
+	As he resumes typing, Rugal comes out of the back wearing 
+	his own T-shirt and oversized pajama bottoms (O'Brien's) and 
+	plops down in a chair in the living room.  O'Brien pauses, 
+	looks up at the boy just sitting in the chair.
+
+					O'BRIEN
+			Can't sleep?
+
+	No answer.  Rugal doesn't look at him.
+
+					O'BRIEN
+			Want something to eat?
+
+					RUGAL
+			No.
+
+	O'Brien watches him a beat, then types a few more lines.  
+	Thinks of what Keiko said earlier, tries harder to get past 
+	his prejudice, looks over...
+
+					O'BRIEN
+			You can come with me in the morning, 
+			if you like.  I'm running a 
+			maintenance check on conduits in one 
+			of the upper docking pylons.  You 
+			get a terrific view of the station 
+			from up there...
+
+	No response.  O'Brien goes back to his work, telling himself -- 
+	Okay, I tried.  I can live with myself.
+
+					O'BRIEN
+			Suit yourself.
+
+	After a long beat.
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT TWO           27.
+
+29   CONTINUED:
+
+					RUGAL
+			What're they going to do with me?
+
+					O'BRIEN
+				(turns back; beat)
+			I'm not sure.
+				(after a beat)
+			You might have something to say about 
+			that, you know.  I mean, you should 
+			be telling Commander Sisko what you 
+			want.
+
+					RUGAL
+			I want to go home.
+
+					O'BRIEN
+			He'll understand that.  You're a 
+			Cardassian.  They should've taken 
+			you home when they left.
+
+					RUGAL
+			No, I mean home.  To Bajor.
+
+	O'Brien reacts to the error he made... turns off the computer, 
+	comes to sit nearer to Rugal... he's interested in this kid 
+	now... but also sees the opportunity to get some facts out 
+	of him that might help Sisko...
+
+					O'BRIEN
+			But it must be tough for you, living 
+			on Bajor...
+
+					RUGAL
+			Why?
+
+					O'BRIEN
+			Being Cardassian.
+
+					RUGAL
+			That's not my fault.  I was born 
+			that way.
+
+					O'BRIEN
+				(laughs uncomfortably)
+			That's not what I meant.  There's 
+			nothing wrong with being a 
+			Cardassian...
+
+					RUGAL
+			Yes there is.
+
+	O'Brien is taken aback by the simple, deep-seeded self-
+	loathing the child must have...
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        28.
+
+29   CONTINUED:	(2)
+
+					O'BRIEN
+			Who taught you that?
+
+					RUGAL
+				(shrugs)
+			It's the truth.  Everybody knows it.
+
+					O'BRIEN
+			How do your parents feel about 
+			Cardassians?
+
+					RUGAL
+			They hate them.
+
+					O'BRIEN
+			Why do you want to live with someone 
+			who hates you?
+
+					RUGAL
+			They hate other Cardassians.  Not 
+			me.  They've never done anything 
+			wrong to me.
+
+					O'BRIEN
+			Come on, even I got my fanny whacked 
+			by my Da once in a while.
+
+					RUGAL
+			Not me.  My parents follow the 
+			teachings of the prophets.
+
+	And this rings absolutely true and sounds quite different 
+	than story the businessman told.  As O'Brien digests this...
+
+					RUGAL
+			What do you think of Cardassians?
+
+					O'BRIEN
+			Me?
+				(Rugal nods)
+			I... can't really say.
+
+					RUGAL
+			Why not?
+
+         DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT TWO        29.
+
+29   CONTINUED:	(3)
+
+					O'BRIEN
+			Because you can't judge a whole race 
+			of people.  You can't hate all 
+			Cardassians or all humans or all 
+			Klingons...
+				(beat)
+			I mean I've met some Cardassians I 
+			didn't like.  And I've met some I 
+			did.  Like you.
+
+					RUGAL
+				(evenly, without 
+				emotion)
+			Do you know how many Bajorans the 
+			Cardassians murdered during the 
+			occupation?  Over ten million.  We 
+			had a test on it in school.
+				(beat, simply)
+			I wish I weren't Cardassian.
+
+	He yawns, getting sleepy... gets up, starts to go to the 
+	other room...
+
+					RUGAL
+			Good Night.
+
+					O'BRIEN
+			Night.
+
+	As the impact settles in on O'Brien...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT THREE       30.
+                           ACT THREE                            
+
+	FADE IN:
+
+30   INT. BASHIR'S QUARTERS - NIGHT - LATE
+
+	Bashir's asleep in bed on his side.  He takes in a deep 
+	breath, rolls over on his back, moans.  His eyes flutter 
+	open.  He suddenly sits up, instantly wary and alert...
+
+31   REVEAL GARAK
+
+	standing by Bashir's bed, looking down at him, smiling.  
+	Garak's wide awake -- the wheels are really turning.  It's 
+	like he's figured out something that just won't wait...
+
+					GARAK
+			Come, Doctor.  Get dressed.  We need 
+			to be going.
+
+					BASHIR
+				(utterly surprised)
+			Going?  Going where?
+
+					GARAK
+			To Bajor.
+
+	Off Bashir's total look of disbelief, we CUT TO:
+
+32   INT. SISKO'S QUARTERS - NIGHT - LATE (OPTICAL)
+
+	Sisko stands in his robe at the open door to his quarters... 
+	Bashir, now dressed, stands outside the door, a little 
+	nervous...
+
+					SISKO
+			I take it this couldn't wait 'til 
+			morning...
+
+					BASHIR
+			Nossir.  I need to use a runabout...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT THREE       31.
+
+32   CONTINUED:
+
+					SISKO
+				(beat)
+			I'm waiting --
+
+					BASHIR
+				(knowing this sounds 
+				funny)
+			It's Garak, Sir.  He wants to go to 
+			Bajor.
+
+					SISKO
+			Bajor?  What for?
+
+					BASHIR
+			He won't tell me.
+
+					SISKO
+			Oh, well, by all means.  Will one 
+			runabout be enough?
+
+					FEMALE COM VOICE
+				(interrupting)
+			Ops to Sisko.
+
+	Sisko's expression: "What now... ?"
+
+					SISKO
+			Go ahead.
+
+					FEMALE COM VOICE
+			Commander, there's an urgent 
+			communication for you from Gul Dukat --
+
+	Sisko and Bashir eye each other -- what could this be?  Sisko 
+	walks over to his living room terminal and presses a few 
+	panels.  Bashir ENTERS, stays behind the terminal, so as not 
+	to be seen.  Gul Dukat appears on the monitor, looking 
+	pleased.
+
+					GUL DUKAT
+			I'm sorry to disturb you at such a 
+			late hour, Commander... but thanks 
+			to the DNA gene type you sent us, 
+			we've discovered the boy you're 
+			holding is actually the son of one 
+			of our most prominent politicians: 
+			Kotan Pa'Dar.
+
+					SISKO
+				(beat; absorbing)
+			When was Pa'Dar on Bajor?
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT THREE       32.
+
+32   CONTINUED:	(2)
+
+					GUL DUKAT
+			Over eight years ago.  He was the 
+			exarch for a Cardassian settlement 
+			there.  The boy was thought to have 
+			died in a Bajoran terrorist attack.
+
+					SISKO
+			Has he been told his son is alive?
+
+					GUL DUKAT
+			Of course.  And as you can imagine, 
+			he's overwhelmed with joy.  He's 
+			already on his way to the station to 
+			reclaim him.
+
+					SISKO
+			It's not that simple.
+
+					GUL DUKAT
+			I don't understand.
+
+					SISKO
+			The boy wants to go back to Bajor.
+
+					GUL DUKAT
+			To live with those same brutal people?
+
+					SISKO
+			I can't find any evidence to support 
+			that accusation.  I can't even find 
+			the man who made it in the first 
+			place.
+
+					GUL DUKAT
+			Nevertheless when the boy finds out 
+			his real father is alive, he'll surely 
+			change his mind.  And even if he 
+			doesn't, it will be in the boy's 
+			best interests....
+
+					SISKO
+			I think we'll just have to see what 
+			happens when Pa'Dar gets here.  Sisko 
+			out.
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT THREE       33.
+
+32   CONTINUED:	(3)
+
+	The monitor goes blank.
+
+					BASHIR
+			It couldn't just be a coincidence.  
+			Garak must have heard about Pa'Dar 
+			before he woke me up.  But what could 
+			he be looking for on Bajor?
+
+	Sisko thinks a beat, turns to Bashir.
+
+					SISKO
+			I guess there's only one way to find 
+			out.
+
+33   EXT. SPACE - DEEP SPACE NINE & RUNABOUT (OPTICAL)
+
+	A runabout departs from the station and sails out into 
+	space...
+
+34   EXT. BAJORAN CITY - DAY (MATTE)
+
+	Establishing.
+
+35   EXT. ORPHAN RESETTLEMENT CENTER - DAY
+
+	An out-of-the-way (more rural than urban) children's 
+	clearinghouse, consisting of a drab courtyard and a 
+	dilapidated single-office structure... a place run on a 
+	threadbare budget (too little money, not enough hands)... a 
+	testament to the post-occupation shortages Bajor still suffers 
+	from...
+
+	The office has the feeling of being furnished through limited 
+	scavenging... there's a faded registration counter, behind 
+	which are a couple of secondhand Bajoran workstations... the 
+	workstations have third-hand Bajoran computer terminals on 
+	them... the terminals are dusty, looking little used (they're 
+	not on)...
+
+	In the courtyard, a somewhat weary Bajoran woman (DEELA) 
+	sits at a table with TWO BAJORAN CHILDREN, supervising a 
+	quiet activity (with PADDS).  The children are dressed in 
+	clean, hand-me-down clothes.
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT THREE       34.
+
+35   CONTINUED:
+
+	Bashir and Garak ENTER the courtyard... the moment the 
+	children see Garak, they run away... the woman looks curiously 
+	at Garak but has no fear, only a controlled hostility...
+
+					BASHIR
+			Excuse me... is this the Tozhat 
+			Resettlement Center...
+
+					DEELA
+			Yes...
+
+					BASHIR
+			I'm Doctor Bashir from the Federation 
+			command at Deep Space Nine.  I'm 
+			trying to find some information about 
+			a Cardassian war orphan who was 
+			apparently placed for adoption here...
+
+					DEELA
+				(for Garak)
+			Yes, the Bajorans have opened their 
+			hearts to many of the abandoned 
+			children...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT THREE       35.
+
+35   CONTINUED:	(2)
+
+					BASHIR
+			The boy's name is Rugal.  The Bajoran 
+			who adopted him is named Proka Migdal.
+
+					DEELA
+
+			I don't recognize either name.  What 
+			are you trying to find out about 
+			them?
+
+	Bashir has no answer for that, turns to Garak, with an edge --
+
+					BASHIR
+			Yes, exactly what are we trying to 
+			find out about them?
+
+					GARAK
+				(most pleasant, vague)
+			The circumstances surrounding the 
+			young man's adoption.  It took place 
+			about eight years ago.
+
+					DEELA
+				(reacts)
+			The Cardassians were still here.  
+			You'll never find anything from back 
+			then.
+
+					GARAK
+			The Cardassians are quite meticulous 
+			about keeping records, Madame.  
+			They've taught many worlds including 
+			this one how to keep records.  I 
+			find it difficult to believe that 
+			none exist from that time period.  
+			Weren't computer entries made on a 
+			regular basis?
+
+					DEELA
+			I can't tell you.  I wasn't a 
+			volunteer then.  I was in the 
+			Underground.
+
+					GARAK
+			Really.  Perhaps we've met before.
+
+	Defusing the conflict --
+
+					BASHIR
+			Do you mind if we check your computer?
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT THREE       36.
+
+35   CONTINUED:	(3)
+
+					DEELA
+			Our computers don't work.  And I 
+			can't get a technician to come out.  
+			We're not exactly a top priority.
+
+					GARAK
+			Perhaps I can be of service.
+
+					BASHIR
+				(reacts)
+			You know how to fix computers?
+
+					GARAK
+			I dabble with isolinear data 
+			subprocessors.  It's... a hobby of 
+			mine.
+
+	Off Bashir's reaction...
+
+	TIME CUT TO
+
+36   COMPUTER SCREEN (VPB)
+
+	coming on, with an Okudagram display...
+
+					BASHIR (O.S.)
+			I continue to underestimate you, 
+			Garak.
+
+	Moving to find Garak with his hands working in a complex 
+	micro-computer console... he even has a simple, single 
+	magnifying eyeglass, like a doctor's light, attached to his 
+	forehead... a piece of spy gear he carries with him.  Bashir 
+	is sitting in front of the monitor.
+
+					GARAK
+			No more difficult than sewing on a 
+			button, actually.
+
+37   ANGLE - REAR ENTRANCE FROM COURTYARD
+
+	A fourteen-year-old Cardassian (ASHA) wearing clean but 
+	distressed Bajoran clothes quietly ENTERS, staying along the 
+	back wall.  There's a cautious look in her eyes:  wary but 
+	wanting, hesitant but hopeful...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT THREE       37.
+
+38   RESUME BASHIR AND GARAK
+
+	neither one noticing the Cardassian girl.  Garak finishes 
+	his reassembly work on the console, moves to the seat Bashir 
+	is in...
+
+					GARAK
+				(to Bashir)
+			Excuse me.
+
+	Bashir gets up out of the way.  Garak takes off the eyeglass 
+	and hands it blindly to Bashir.  Garak is rather driven in 
+	all this.  His hands fly across the keyboard... the monitor 
+	revealing rows and pages of information...
+
+					BASHIR
+				(re: the eyeglass)
+			You carry this everywhere, do you?
+
+					GARAK
+			A simple tailoring tool.  You'd be 
+			surprised how often someone needs a 
+			pair of pants let out... Damn.  It's 
+			not there.
+
+					BASHIR
+			What's not there?
+
+					GARAK
+			Rugal's name.  The father's name.  
+			None of it.
+
+					BASHIR
+				(reacts)
+			You were able to find eight-year-old 
+			files that quickly...
+
+					GARAK
+			It's simply a matter of knowing what 
+			you're looking for, Doctor...
+
+        DEEP SPACE: "Cardassians" - REV. 08/18/93 - ACT THREE       38.
+
+39   REAR ENTRANCE
+
+	A twelve-year-old Cardassian boy ENTERS, followed by the two 
+	Bajoran children we initially saw with Deela... all the 
+	children are dressed similarly... they join Asha, watch Bashir 
+	and Garak with a mixture of curiosity and cautiousness...
+
+40   RESUME GARAK AND BASHIR
+
+	This time Bashir glances over, reacts curiously as he sees 
+	the children... his attention is brought back to Garak by --
+
+					GARAK
+			It could be misfiled, or under the 
+			wrong name... or this could even be 
+			the wrong relocation center.
+
+					BASHIR
+			I'm not going to any other district 
+			until I know...
+
+					GARAK
+				(interrupting)
+			That won't be necessary.  We can 
+			access the files of this entire 
+			province from here and download them 
+			onto a data clip.
+
+	He's already begun the process during the above speech.
+
+					BASHIR
+			That'll be thousands of files.
+
+					GARAK
+			Tens of thousands, actually.
+
+	He's finished... removes the clip and stands as does Bashir... 
+	as he does he's immediately face to face with...
+
+          DEEP SPACE: "Cardassians" - 08/16/93 - ACT THREE          39.
+
+41   EIGHT ORPHANS
+
+	six Bajorans and the two Cardassians, gathered together along 
+	the back wall, all dressed like ragamuffins, all watching 
+	Bashir and Garak with a fragile expectancy... Bashir, 
+	especially, seems taken back by the sudden physical presence 
+	of the unwanted.  He keeps looking from child-to-child, 
+	getting the same expression of need from each...
+
+	The Cardassian girl, Asha, and the Cardassian boy tentatively 
+	step forward to Garak...
+
+					ASHA
+			Excuse me, sir... have you come to 
+			take us back to Cardassia?
+
+					GARAK
+			I'm afraid not, child.
+				(moves for exit)
+			Come, Doctor...
+				(to Deela)
+			I believe you'll find your computer 
+			system fully operational, Madame.
+
+	Garak continues past the children and EXITS.  Bashir has 
+	trouble making his feet move... all of the children are 
+	staring at him... Asha and the Cardassian boy's hearts are 
+	sinking... Bashir finally, reluctantly slips by them... HOLD 
+	on the children watching after him, left behind once again...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FOUR        40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+42   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	The runabout travels through space...
+
+43   INT. RUNABOUT
+
+	Bashir flies the craft... Garak sits next to him, studying 
+	the resettlement center's files on the computer, working 
+	panels... Bashir is in a festering mood, unhappy with Garak, 
+	unhappy with having been unable to help the orphans... Garak 
+	doesn't notice...
+
+					GARAK
+				(enjoying his work 
+				despite the fact:)
+			Computer, set up a data bank, cross-
+			referencing age groups, sex and year 
+			of adopt...
+
+					BASHIR
+				(testily)
+			Computer, disregard that request.  
+			And shut down all engines.
+
+	The runabout's impulse engine suddenly SHUTS DOWN...
+
+					GARAK
+			I'm sorry if you're upset about the 
+			orphans.  Children without parents 
+			have no status in Cardassian society.  
+			The situation is unfortunate, but... 
+			I don't make the rules.
+
+					BASHIR
+			But you do play the game... don't 
+			you.  And there is a game going on, 
+			right now, as we speak... isn't there.
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FOUR        41.
+
+43   CONTINUED:
+
+					GARAK
+			There are always games, Doctor.
+
+					BASHIR
+			That's the trouble -- I don't have 
+			the slightest clue what this game's 
+			about.  So you're going to tell me 
+			what's going on inside that plain 
+			and simple head of yours, my 
+			Cardassian friend, or we're going to 
+			sit here until we rot!
+
+	A long moment as the two look at each other.  Garak's mind 
+	reacts to Bashir's pinning him to the wall by silently 
+	shifting, analyzing, sifting... this is not plain and simple 
+	Garak anymore... this is now a coolly calculating, slightly 
+	uncomfortable professional... a professional with a Byzantine 
+	mind... a mind filled with numerous lights and shadows, with 
+	rooms and closets and cubbyholes... a mind loathe to reveal 
+	itself... though it must...
+
+					GARAK
+			Tell me, Doctor -- why do you think 
+			the Cardassians left Bajor?
+
+					BASHIR
+			According to Dukat, the decision was 
+			made by your civilian leaders...
+
+					GARAK
+			Isn't it interesting that one of 
+			Cardassia's most notable civilian 
+			leaders has recently entered this 
+			scenario...
+
+					BASHIR
+				(reacts, thinks)
+			Rugal's father.  You're saying Kotan 
+			Pa'Dar was involved in the decision 
+			to evacuate Bajor... ?
+
+					GARAK
+			Very good, Doctor.  It appears all 
+			of our little get-togethers haven't 
+			been for nothing...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FOUR        42.
+
+43   CONTINUED:	(2)
+
+					BASHIR
+				(mind working)
+			... Which makes him a political enemy 
+			of Gul Dukat, who lost his job as 
+			Prefect when they withdrew...
+
+
+					GARAK
+			Now, seemingly out of nowhere, Dukat 
+			expresses an interest in this orphan 
+			boy who has shown up on the station... 
+			and very soon afterwards, with Gul 
+			Dukat's assistance, we find out that 
+			this orphan boy isn't really an orphan 
+			boy at all, but is in reality Pa'Dar's 
+			long lost son...
+
+					BASHIR
+			Another coincidence... ?
+
+					GARAK
+			I believe in coincidences.  
+			Coincidences happen every day.  But 
+			I don't trust coincidences.
+
+	On Bashir's reaction...
+
+44   INT. O'BRIEN'S QUARTERS - CLOSE ON THE DOOR
+
+	as it opens, REVEALING KOTAN PA'DAR, a middle-aged, 
+	distinguished-looking Cardassian wearing a civilian outfit.  
+	Pa'Dar is standing with an N.D. Federation escort who leaves 
+	as he enters.  He carries a small case.
+
+					PA'DAR
+			I am Kotan Pa'Dar.
+
+45   REVERSE ANGLE - O'BRIEN
+
+	somewhat nervously greeting Pa'Dar.
+
+					O'BRIEN
+			Miles O'Brien.  Come in...
+
+	Pa'Dar ENTERS.  O'Brien's uncomfortable about having an adult 
+	Cardassian there, uncomfortable with what they need to talk 
+	about... Pa'Dar turns to him...
+
+					PA'DAR
+			Where is my son?
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT FOUR          43.
+
+45   CONTINUED:
+
+					O'BRIEN
+			He's with my wife, Keiko.  They'll 
+
+			be here shortly.  I thought it would 
+			be a good idea if we talked first...
+
+	Pa'Dar eyes him curiously...
+
+					O'BRIEN
+			Your son... Rugal...
+
+					PA'DAR
+			... At least they didn't change his 
+			name...
+
+					O'BRIEN
+			... When was the last time you saw 
+			him?
+
+					PA'DAR
+			On Bajor... he'd just had his fourth 
+			birthday...
+				(beat, deciding he 
+				knows what O'Brien 
+				is going to tell him)
+			He probably doesn't even remember 
+			me, does he?
+
+					O'BRIEN
+			I think he's spent most of his life 
+			trying to forget you.
+
+					PA'DAR
+			I'm not sure I understand.
+
+					O'BRIEN
+			The boy hates everything that he is.  
+			Hates Cardassians.  Hates being a 
+			Cardassian.
+
+					PA'DAR
+				(underplaying)
+			Yes, I've heard those stories... 
+			well, I suppose after growing up 
+			among the Bajorans... but now that 
+			I'm back in his life...
+
+					O'BRIEN
+			He may not want you back in his life.
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FOUR        44.
+
+45   CONTINUED:	(2)
+
+					PA'DAR
+				(low anger, hurt, 
+				guilt)
+			I am his father.
+
+	Beat.  Pa'Dar softens a little.
+
+					PA'DAR
+				(continuing)
+			I know very little about human 
+			culture, Mr. O'Brien.  I don't know 
+			how you view The Family...
+
+					O'BRIEN
+			We'd do just about anything to protect 
+			our families.  I have a daughter 
+			myself.  Same age as your son was 
+			when you lost him.  Four.
+
+					PA'DAR
+			Then I expect you can imagine how I 
+			feel right now.
+
+	A long beat.  O'Brien does know how it would feel.  Just 
+	nods.
+
+					PA'DAR
+			On Cardassia, Family is everything.  
+			We care for our parents and our 
+			children with equal devotion.  In 
+			some households, four generations 
+			eat at the same table.  Family is... 
+			everything.
+				(beat)
+			And I have failed in my 
+			responsibilities to my family.
+
+					O'BRIEN
+			But you had no way of knowing he was 
+			alive.
+
+					PA'DAR
+				(sharply)
+			I should have tried harder.  I should 
+			have looked everywhere.
+				(beat, almost a whisper)
+			To abandon my son.  To allow him to 
+			be raised a Bajoran.  I have disgraced 
+			everything a Cardassian believes in.
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FOUR        45.
+
+45   CONTINUED:	(3)
+
+	A long beat.  Then the door opens and Keiko and Rugal 
+	enter.  O'Brien and Keiko move back to observe as the two 
+	face one another...
+
+					PA'DAR
+			Hello, Rugal...
+
+	A beat as each one studies the other... Pa'Dar moves a little 
+	closer to him... Rugal perceptibly moves away... Pa'Dar 
+	stops...
+
+					PA'DAR
+			Do you remember my face even a little?
+
+					RUGAL
+			No.
+
+	Struggling, Pa'Dar anxiously reaches into his case and pulls 
+	out a PADD.
+
+					PA'DAR
+			Would you like to see some pictures 
+			of you when you were a child...
+
+					RUGAL
+			No.
+
+	Rugal moves far away, now turns his back to Pa'Dar who is 
+	heartbroken...
+
+					PA'DAR
+			Rugal, you have to understand... 
+			there was nothing left... of the 
+			house... after the attack... your 
+			mother was dead... you...
+				(beat)
+			I cried for you, Rugal.  I missed 
+			you so much.  I could not even stay 
+			on Bajor.  It was too close to the 
+			happy memories of you.
+
+	A beat as he waits to see what Rugal's reaction will be.
+
+					RUGAL
+			It was your own fault.  You deserved 
+			it.  You are Cardassian.  What the 
+			Bajorans did, they had to do...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FOUR        46.
+
+45   CONTINUED:	(4)
+
+					PA'DAR
+			I understand why you're saying that 
+			but...
+
+					RUGAL
+				(rising fury)
+			You can't understand.  You're a 
+			Cardassian butcher!  A butcher.  
+			They killed your son for your 
+			crimes.
+
+					PA'DAR
+			Rugal...
+
+					RUGAL
+			You are not my father!  And I will 
+			never go back to Cardassia.  Never.
+
+	Rugal suddenly EXITS for the bedroom.  O'Brien, Pa'Dar and 
+	Keiko stand awkwardly in the vacuum of Rugal's absence...
+
+46   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+47   INT. COMMANDER'S OFFICE
+
+	Sisko, Proka and Pa'Dar are present.
+
+					PA'DAR
+			I have no intention of allowing a 
+			Bajoran court to rule on the custody 
+			of my son.
+
+					PROKA
+			You gave up custody when you abandoned 
+			him here.
+
+					PA'DAR
+			He is my natural born child.  As 
+			Cardassian law clearly stipulates...
+
+					PROKA
+			... there is no more Cardassian law 
+			on Bajor...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FOUR        47.
+
+47   CONTINUED:
+
+					SISKO
+				(beat, rises to stop 
+				the exchange)
+			Gentlemen, I think you may need an 
+			arbitrator to settle this.
+
+					PROKA
+			It would have to be someone who is 
+			neither Bajoran nor Cardassian.
+
+	Sisko nods.
+
+					PROKA
+				(the obvious question)
+			What about you?
+
+					SISKO
+				(expected this, to 
+				Pa'Dar)
+			I'd be willing but wouldn't you have 
+			objections... because of the 
+			Federation's relationship with 
+			Bajor... ?
+
+					PA'DAR
+			No, Commander... I know you are a 
+			father too.  You would be acceptable 
+			to me.
+
+					SISKO
+			Very well then... I'll schedule a...
+
+					ODO'S COM VOICE
+			Odo to Commander Sisko.
+
+					SISKO
+			Yes, Odo.  What is it?
+
+					ODO'S COM VOICE
+			I thought you might be interested to 
+			know... Gul Dukat has just arrived 
+			on the station...
+
+           DEEP SPACE: "Cardassians" - 08/16/93 - ACT FOUR          48.
+
+47   CONTINUED:	(2)
+
+	It's Sisko's turn to register mild surprise... and more 
+	than a little curiosity... HOLD on Sisko absorbing this 
+	information, the others looking at him, all wondering what 
+	Dukat's arrival means...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        49.
+                           ACT FIVE                             
+
+	FADE IN:
+
+48   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+					SISKO (V.O.)
+			Station log, Stardate 47177.2.  The 
+			arrival of Gul Dukat only powers my 
+			suspicion that we are being 
+			manipulated in some unseen manner.  
+			But how.  And for what purpose?
+
+49   INT. SURGERY ROOM (VPB)
+
+	Garak and Bashir huddle over workstations, examining evidence 
+	on computer screens.
+
+					SISKO (V.O.)
+				(continuing)
+			Doctor Bashir and Garak continue to 
+			search for anything of relevance in 
+			the adoption files.  So far, they've 
+			found nothing.
+
+50   INT. SCHOOLROOM
+
+	The desks have been moved to the side or removed, replaced 
+	by an informal semicircle of the 24th-century equivalent of 
+	folding chairs.  Sisko stands up front, asking questions.  
+	Seated in the audience are O'Brien, Rugal, Pa'Dar, Proka, 
+	Dukat.  Everything is extremely informal here.  (A director's 
+	decision: but perhaps when someone "testifies," he stands to 
+	speak to Sisko.)
+
+					SISKO (V.O.)
+				(continuing)
+			The decision on custody for Rugal 
+			cannot wait much longer...
+
+	We move to find Dukat standing in front of Sisko:
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        50.
+
+50   CONTINUED:
+
+					SISKO
+			You've come a long way just to view 
+			a custody hearing.
+
+					GUL DUKAT
+			Pa'Dar is an eminent member of the 
+			civilian assembly.  This matter has 
+			generated a great deal of interest 
+			at the highest levels of our 
+			government.
+
+					SISKO
+			So, you're here representing your 
+			government?
+
+					GUL DUKAT
+			Not exactly.
+				(beat)
+			I'd like to think that I'm here 
+			representing the children.  All of 
+			the children abandoned on Bajor.  I 
+			want to see Rugal reunited with his 
+			father.
+
+	Sisko nods... turns to Pa'Dar... Dukat sits.
+
+        DEEP SPACE: "Cardassians" - REV. 08/18/93 - ACT FIVE        51.
+
+50   CONTINUED:	(2)
+
+					SISKO
+			I'm sure Pa'Dar is grateful for your 
+			support.
+
+	Pa'Dar is as curious about Dukat's appearance here as 
+	anyone... he nods uncertainly...
+
+					SISKO
+			Because I was under the impression 
+			that you were political adversaries... 
+			isn't that so, Pa'Dar... ?
+
+					PA'DAR
+			We have disagreed in the past, but 
+			Commander, I don't see what you...
+
+					GUL DUKAT
+			And I must object as well, Commander.  
+			What's past is past.  It has no 
+			relevance here.  All that is relevant 
+			is the children.  What are we to do 
+			about the children?
+
+	Sisko nods evenly... has nowhere to go with this, at least 
+	for now... lets it go... changing subjects...
+
+					SISKO
+				(to Pa'Dar)
+			If you don't mind, I'd like you to 
+			go over the events leading to the 
+			disappearance of Rugal eight years 
+			ago...
+
+51   INT. SURGERY ROOM (VPB)
+
+	Bashir is still pounding the panels, looking at the monitor 
+	readouts of the files... moving to find Garak, standing, his 
+	mind working three steps ahead...
+
+					GARAK
+			How perfectly foolish of me.
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FIVE        52.
+
+
+51   CONTINUED:
+
+					BASHIR
+				(continuing to work)
+			Don't tell me you've decided you're 
+			wrong... not after scanning seven 
+			thousand, four hundred and twenty 
+			files for a misspelling...
+
+					GARAK
+			Dukat is smarter than that.
+
+					BASHIR
+			Than what?
+
+					GARAK
+			He would never leave a file to be 
+			found.
+
+					BASHIR
+			You really think he purged the file 
+			on Rugal?
+
+					GARAK
+			I would have.
+
+	Bashir takes a long beat... realizes...
+
+					BASHIR
+			There was something in that file he 
+			didn't want anyone to see.
+
+					GARAK
+			Exactly.
+
+	Garak has moved to a console... hands flying across the panels 
+	again...
+
+					GARAK
+			We have one last chance... if we can 
+			find the person who wrote that file 
+			in the first place...
+
+					BASHIR
+			How can you ever hope to find him?
+
+	Garak's hands have stopped.
+
+					GARAK
+			Her.
+
+        DEEP SPACE: "Cardassians" - REV. 08/18/93 - ACT FIVE        53.
+
+51   CONTINUED:	(2)
+
+					BASHIR
+			Her?  How do you know?
+
+					GARAK
+			Because I've already found her name.  
+			Jomat Luson.
+
+					BASHIR
+			But how...
+
+					GARAK
+			Really, Doctor.  You're not paying 
+			attention to detail.  There's one 
+			name we keep seeing... on all of the 
+			files from the Tozhat Resettlement 
+			Center during the time period Rugal 
+			would have been there... a Bajoran 
+			official named Jomat Luson.  Now, 
+			all we have to hope for is that she's 
+			still alive...
+
+	Off Bashir's reaction...
+
+52   INT. SCHOOLROOM
+
+	As before.  Sisko talking with Rugal.
+
+					SISKO
+				(casual, warm)
+			Do you remember anything from back 
+			then, Rugal?
+
+					RUGAL
+			No.
+
+					SISKO
+			Do you remember being adopted?
+
+					RUGAL
+			No.
+
+					SISKO
+			What's the first thing you do 
+			remember?
+
+	Rugal looks to Proka...
+
+					RUGAL
+			My father... teaching me how to 
+			swim.
+
+	Proka smiles at Rugal... on Pa'Dar's reaction...
+
+        DEEP SPACE: "Cardassians" - REV. 08/17/93 - ACT FIVE        54.
+
+53   INT. SURGERY ROOM - ON MONITOR (OPTICAL)
+
+	Bashir sits in front of the terminal.  Garak stands discreetly 
+	to the side.  A Bajoran woman bureaucrat, JOMAT LUSON is on 
+	the monitor...
+
+					JOMAT
+			I know exactly the one you're talking 
+			about.
+
+					BASHIR
+			You do?
+
+					JOMAT
+			He was the only Cardassian boy we 
+			had at the time... we had several 
+			girls...
+
+					BASHIR
+			You're sure his name was Rugal...
+
+					JOMAT
+			That's what we were told...
+
+	Garak immediately perks up and starts to speak but Bashir is 
+	on the same track...
+
+					BASHIR
+			Somebody told you his name?
+
+	Garak nods his approval at Bashir's quickness...
+
+					JOMAT
+			Yes, that was the most unusual thing 
+			about his arrival.  Virtually all of 
+			the other Cardassian children turned 
+			in to us were found on the streets 
+			by Bajorans... Rugal was brought in 
+			by a Cardassian.
+
+					BASHIR
+			A Cardassian military officer, by 
+			chance?
+
+					JOMAT
+			Yes, as a matter of fact, she was.
+
+					BASHIR
+				(disappointed)
+			A woman...
+
+					JOMAT
+			I don't remember her name... but she 
+			was attached to the command post at 
+			Terok Nor.
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        55.
+
+	And although Bashir doesn't get it yet, he glances up and 
+	sees Garak with a Cheshire cat smile.  After a beat...
+
+					JOMAT
+			Is there anything else, Doctor?
+
+	Garak just shakes his head, no.  They have everything they 
+	need.
+
+54   INT. SCHOOLROOM
+
+	As Bashir and Garak ENTER.
+
+					O'BRIEN
+			The boy accused him of being a 
+			butcher.  He just hates Cardassians, 
+			sir.  Pa'Dar was heartbroken.  I 
+			could only imagine how I'd feel in 
+			his shoes.
+
+					BASHIR
+			Commander, may I ask Chief O'Brien a 
+			few questions?
+
+	The group turns over their shoulders to the voice... Dukat 
+	makes first eye contact with Garak, who nods an 
+	acknowledgement.  Sisko sees that exchange, then turns to 
+	Bashir and nods an affirmative.  Bashir comes forward and 
+	Sisko moves aside or sits.
+
+					BASHIR
+			Chief, didn't Pa'Dar tell you about 
+			the humiliation he feels right now?
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        56.
+
+54   CONTINUED:
+
+					O'BRIEN
+			He said he'd disgraced everything a 
+			Cardassian believes in.
+
+					BASHIR
+				(to Padar)
+			Has the news of your son's discovery 
+			become public knowledge on Cardassia?
+
+					PA'DAR
+			The government has not chosen to 
+			reveal it to the people yet.
+
+					BASHIR
+			What happens when it is revealed?
+
+					PA'DAR
+			It will be the end of my political 
+			career.
+
+					BASHIR
+			That's a shame.  Especially 
+			considering the timing.
+
+					PA'DAR
+			The timing?
+
+					BASHIR
+			Isn't there an inquiry about to begin 
+			concerning the Cardassians who 
+			supported the recent, attempted coup 
+			on Bajor?
+
+					PA'DAR
+			Yes.
+
+					BASHIR
+			And isn't Gul Dukat a key witness in 
+			that inquiry...
+
+        DEEP SPACE: "Cardassians" - REV. 08/18/93 - ACT FIVE       56A.
+
+54   CONTINUED:	(2)
+
+					GUL DUKAT
+			This is irrelevant and an insult.  
+			You've lost control here, Commander.
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        57.
+
+54   CONTINUED:	(3)
+
+					SISKO
+				(you have my support, 
+				Doctor)
+			Yes, it seems that I have.  Again.
+
+	Dukat is enraged.
+
+					GUL DUKAT
+			I suggest we get back to the issue 
+			of the children.
+
+					BASHIR
+			All right, let's talk about children.  
+			Have you ever been to the Tozhat 
+			Resettlement Center on Bajor where 
+			Rugal was adopted?
+
+					GUL DUKAT
+			Never.
+
+					BASHIR
+			And of course Tozhat is the province 
+			where Pa'Dar was stationed eight 
+			years ago.
+
+					GUL DUKAT
+			I'm aware of that.
+
+					BASHIR
+			I've been trying to find the records 
+			of Rugal's adoption but they're 
+			missing from the files.
+
+					GUL DUKAT
+			How unfortunate.
+
+					BASHIR
+			But we have found someone who was 
+			working at the center at the time 
+			Rugal was brought in.  Do you know 
+			of a Bajoran social volunteer named 
+			Jomat Luson?
+
+        DEEP SPACE: "Cardassians" - REV. 08/18/93 - ACT FIVE        58.
+
+54   CONTINUED:	(4)
+
+					GUL DUKAT
+			No.
+
+					BASHIR
+			Jomat Luson remembers Rugal being 
+			brought in by a Cardassian military 
+			officer.  A woman who seemed familiar 
+			with him... even knew his name.
+
+	He waits for a response.
+
+					GUL DUKAT
+			Is there a question?
+
+					BASHIR
+			The question is whether or not this 
+			officer might have deliberately left 
+			the son of Kotan Pa'Dar at the 
+			relocation center... with full 
+			knowledge that he was not an orphan.  
+			Perhaps with the hopes of humiliating 
+			Pa'Dar someday.
+
+					GUL DUKAT
+			I wouldn't know.
+
+					BASHIR
+			Would you happen to know of a base 
+			known during the occupation as Terok 
+			Nor?
+
+					GUL DUKAT
+			Terok Nor?  It was here.  This space 
+			station.
+
+					BASHIR
+			Jomat Luson clearly recalls the 
+			officer who brought in Rugal was 
+			attached to Terok Nor.
+
+	With that, Dukat stands and moves to the exit, pausing a 
+	beat to stare knives at Garak.
+
+					BASHIR
+			Gul Dukat, who was the commander of 
+			Terok Nor eight years ago?
+
+	Dukat EXITS.  Bashir turns to Sisko.
+
+        DEEP SPACE: "Cardassians" - REV. 08/18/93 - ACT FIVE        59.
+
+54   CONTINUED:	(5)
+
+					BASHIR
+			For the record, the commander of 
+			Terok Nor eight years ago was Gul 
+			Dukat.
+
+	On reactions...
+
+55   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+					SISKO (V.O.)
+			Station log, Stardate 47178.3.  After 
+			long and difficult deliberations, I 
+			have decided to allow Pa'Dar to take 
+			his son back to Cardassia.  Although 
+			I am convinced his Bajoran foster 
+			parents treated him with love, Rugal 
+			has been the clear victim in this 
+			conspiracy.  I believe it's time for 
+			his healing to begin.
+
+56   INT. PROMENADE - NEAR AIRLOCK
+
+	Sisko and Kotan Pa'Dar wait by the airlock.
+
+					PA'DAR
+			Your doctor has given me the leverage 
+			I need, Commander...
+
+					SISKO
+			Leverage?
+
+					PA'DAR
+			Dukat will never allow these events 
+			to be made public now.  And I 
+			certainly won't choose to discuss 
+			them.
+
+					SISKO
+			A stalemate.
+
+					PA'DAR
+				(nods)
+			A stalemate.  You've helped me salvage 
+			my political career.  I won't forget 
+			that.
+
+					SISKO
+			Perhaps you'll use your influence to 
+			help the other Cardassian orphans on 
+			Bajor.
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        60.
+
+56   CONTINUED:
+
+					PA'DAR
+				(not interested)
+			Yes, well... we'll see.
+
+	Sisko eyes him, not liking it, but having to accept it... 
+	Pa'Dar glances up to see --
+
+57   ON O'BRIEN AND RUGAL
+
+	as they approach the airlock.  Rugal seems uncomfortable and 
+	wary, almost sullen, as if no decision would have been a 
+	good one.
+
+					O'BRIEN
+			Remember what I said.  If you ever 
+			want to come back and visit them -- 
+			let me know, and I'll arrange it...
+
+	Rugal is morose and noncommunicative...
+
+					PA'DAR
+				(carefully)
+			Hello, Rugal -- are you ready to go?
+
+	Rugal looks at him -- no response, no affection here, just 
+	one tough kid who's very closed off and is not going to open 
+	up all that easily... Rugal simply turns and walks through 
+	the airlock...
+
+					PA'DAR
+				(to Sisko and O'Brien)
+			I suppose it will take time...
+
+	Pa'Dar smiles sadly and follows his son, EXITING into the 
+	airlock... Sisko and O'Brien watch after him... then turn to 
+	look at each other...
+
+58   INT. REPLIMAT
+
+	The same setting as we opened with.  Garak has his Rokassa 
+	juice.  Bashir has his Tarkalean tea.
+
+					BASHIR
+			But there's still one more question 
+			I haven't been able to figure out, 
+			Garak... Why did you want to expose 
+			Dukat?  What's the truth about you 
+			and him?
+
+        DEEP SPACE: "Cardassians" - REV. 08/25/93 - ACT FIVE        61.
+
+58   CONTINUED:
+					GARAK
+			Truth is in the eye of the beholder, 
+			Doctor.  I never tell the truth 
+			because I don't believe there is 
+			such a thing.  That is why I prefer 
+			the simple straight line simplicity 
+			of cutting cloth.
+
+	Garak rises...
+
+					BASHIR
+			You're not going to tell me.
+
+					GARAK
+			But you don't need me to tell you, 
+			Doctor... if you'll just notice the 
+			details.  They're scattered like 
+			crumbs all over the table we regularly 
+			share.
+				(beat)
+			Until next time.
+
+	As he goes... off Bashir's reaction...
+
+59   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

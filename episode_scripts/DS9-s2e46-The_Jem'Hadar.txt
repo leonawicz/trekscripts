@@ -1,0 +1,3673 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "The Jem'Hadar" 
+                     (fka "The Dominion") 
+                          #40512-446 
+                              
+                          Written by 
+                        Ira Steven Behr 
+                              
+                          Directed by 
+                         Kim Friedman 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         April 11, 1994
+
+       STAR TREK: DS9   "The Jem'Hadar" - 04/22/94 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Jem'Hadar" 
+                             CAST 
+
+          SISKO                    ERIS
+          O'BRIEN                  TALAK'TALAN
+          ODO                      KEOGH
+          KIRA                     FIRST OFFICER
+          BASHIR                   SECOND OFFICER
+          DAX                      
+          QUARK                    
+          JAKE                     
+          NOG                      
+
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. JEM'HADAR
+
+      STAR TREK: DS9 - "The Jem'Hadar" - 04/22/94 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Jem'Hadar" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          COMMANDER'S OFFICE            
+          OPS                           RIO GRANDE
+          QUARK'S                       
+          RUNABOUT AIRLOCK              PLANET SURFACE
+          SISKO'S QUARTERS              
+                                        JUNGLE
+          MEKONG                          CAMPSITE
+                                          CAVE MOUTH
+          ORINOCO                       SPACE
+
+          RIO GRANDE                    
+
+          CAVERN CONTAINMENT AREA       
+          MAIN CAVERN                   
+
+          ODYSSEY                       
+            BRIDGE
+
+     STAR TREK: "The Jem'Hadar" - 04/22/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Jem'Hadar" 
+                      PRONUNCIATION GUIDE 
+
+          ANDORIAN                 an-DOOR-ee-uhn
+          BAJOR                    BAY-jor
+          BAJORAN                  buh-JOR-an
+          BAT'LETH                 BAT'leth
+          BIRYTHIUM                BIE-rith-ee-um
+          BOLIAN                   BOW-lee-ahn
+          CARDASSIAN               car-DASS-ee-en
+          DEVONIAN                 dih-VOE-nee-uhn
+          ERIS                     EAR-iss
+          IDIC                     ID-ick
+          ITAMISH                  ih-TAH-mish
+          JEM'HADAR                JEM-huh-DAR
+          KATTERPODS               KATT-er-pods
+          KEOGH                    KEY-oe (rhymes with "Leo")
+          KURILL                   kuh-RILL
+          MEKONG                   MAY-kong
+          PASCAL                   PASS-kal
+          NAGUS                    NAY-gus
+          ORINOCO                  OAR-uh-NOE-koe
+          POLARON                  POLE-uh-ron
+          TALAK'TALAN              tuh-LOCK tuh-LON
+          TULABERRY                TOO-luh-berry
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "The Jem'Hadar"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. SISKO'S QUARTERS
+
+	JAKE sits hunched over a table on which sit three pots, each 
+	containing a small, newly sprouted plant with a bulbous base.  
+	Jake is carefully watering each plant as the door opens and 
+	SISKO ENTERS.
+
+					SISKO
+			Hey, Jake.
+				(re: the plants)
+			What's all this?
+
+					JAKE
+			My science project.  I'm growing 
+			Bajoran katterpods to find out which 
+			hybrid yields the biggest root.
+
+					SISKO
+				(puzzled)
+			That's it?  You're just going to 
+			watch them grow?
+
+					JAKE
+			Yeah.  Pretty neat, huh?
+
+					SISKO
+			Not bad... But don't you think it's 
+			a little...
+				(trying to be 
+				diplomatic)
+			Low tech.
+
+					JAKE
+			I'm a low tech kind of guy, dad.
+
+	Sisko can't argue with that assessment, but still feels he 
+	has to push his son to try something a little more ambitious.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         2.
+
+1    CONTINUED:
+
+					SISKO
+			I still think you can do something a 
+			little more challenging.
+				(encouraging him)
+			If you could do any science project 
+			you wanted... anything at all... 
+			what would it be?
+
+	Jake thinks about it for a moment, then gets excited.
+
+					JAKE
+				(knows this is a long 
+				shot)
+			Learn how to pilot a runabout?
+
+					SISKO
+			That's not really a science project, 
+			is it?  What's your second choice?
+
+					JAKE
+				(after a beat)
+			Visit the Gamma Quadrant?
+
+					SISKO
+				(considers it)
+			What would you do once you got there?
+
+					JAKE
+			I don't know... I could... do a 
+			planetary survey?
+
+					SISKO
+			That's not bad.
+				(deciding)
+			All right.  Let's do it.
+
+					JAKE
+				(surprised)
+			Really?
+
+					SISKO
+			It'll be like a vacation.
+				(a beat)
+			A working vacation.
+
+					JAKE
+			That's fantastic.  Thanks, Dad.  I 
+			bet we'll have a great time.
+
+					SISKO
+			I know we will.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         3.
+
+1    CONTINUED:	(2)
+
+	And as they sit there looking forward to their trip...
+
+									CUT TO:
+
+2    INT. COMMANDER'S OFFICE
+
+	Sisko is discussing station business with KIRA and DAX.
+
+					KIRA
+				(reading off a PADD)
+			Let's see, we have a Bolian freighter 
+			due in the day after tomorrow... 
+			we'll be outfitting another group of 
+			settlers leaving for New Bajor...
+				(an aside)
+			I hear the colony's new irrigation 
+			system is something to see.  When 
+			you get to the Gamma Quadrant, you 
+			should take a look.
+
+					SISKO
+			Not this trip.  I really want to 
+			spend some time alone with Jake.
+				(a beat)
+			When's the Odyssey due back from the 
+			Cardassian border?
+
+					KIRA
+				(checking PADD)
+			Three days.
+
+					SISKO
+				(amused, to Dax)
+			It's a shame I'll have to miss your 
+			reunion with Captain Keogh.
+
+					DAX
+				(defensive)
+			I'm seven times as old as Keogh, and 
+			he treats me like some kind of...
+
+					SISKO
+				(playful)
+			Lieutenant?
+
+					DAX
+			Don't you find him just a little 
+			arrogant?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         4.
+
+2    CONTINUED:
+
+					SISKO
+			Funny, he said the same thing about 
+			you.
+
+					DAX
+				(wryly)
+			Did he?
+
+					SISKO
+				(the final word)
+			He's the Captain of a Galaxy-class 
+			starship and I expect him to be 
+			treated with the courtesy he deserves.
+
+					DAX
+			Don't worry.  I'll be on my best 
+			behavior.
+
+					KIRA
+				(to Sisko)
+			You just enjoy your vacation.  I'll 
+			keep everyone out of trouble until 
+			you get back.
+
+	Sisko has every confidence in his first officer.
+
+					SISKO
+			I don't doubt it.
+
+					O'BRIEN'S COM VOICE
+			Commander... your son's here to see 
+			you.
+
+					SISKO
+				(to com)
+			Send him in.
+				(to Dax and Kira)
+			He's really looking forward to this 
+			trip.
+
+3    NEW ANGLE
+
+	As Jake ENTERS.
+
+					JAKE
+			Dad, guess what... I was talking to 
+			Nog and it turns out that he's having 
+			trouble coming up with a science 
+			project.  So I told him he could be 
+			my partner.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER        4A.
+
+3    CONTINUED:
+
+	Dax and Kira stand up.  Neither one wants to sit on the 
+	sidelines during a family discussion.
+
+					KIRA
+				(smiling, to Sisko, 
+				re: PADD)
+			I think we can finish this later.
+
+
+	She and Dax EXIT.
+
+					SISKO
+				(to Jake)
+			Partner?
+
+					JAKE
+			We asked Mrs. O'Brien and she said 
+			it would be okay, so I invited Nog 
+			to come with us to the Gamma Quadrant.
+
+					SISKO
+			Now hold on a second, Jake...
+
+					JAKE
+			Dad, if Nog doesn't get a good grade 
+			on this science project, he's going 
+			to drop out of school.  And I can't 
+			let that happen.
+
+					SISKO
+			Maybe he can help you analyze the 
+			survey information when we get back.
+
+					JAKE
+			That's not enough.  Mrs. O'Brien 
+			said he'd have to be an equal partner.
+				(a beat)
+			Come on, Dad... he's my friend.  I 
+			have to help him.
+
+4    CLOSE ON SISKO
+
+	He can't say no, but this isn't going to be the trip he was 
+	hoping for.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         5.
+
+5    INT. QUARK'S - SECOND LEVEL
+
+	QUARK is seated at a table beside MORN, who stares morosely 
+	into his drink.
+
+					QUARK
+			Morn, you've been sitting there all 
+			day, staring into the same drink.  
+			Talk to me.  I want to help.
+				(Morn says nothing)
+			I'm not just your bartender... I'm 
+			your friend.  Whatever's wrong, I'm 
+			here for you.
+
+	Morn looks up at Quark, places a hand on his shoulder, and 
+	is about to pour out his life story, when Quark spots ODO 
+	coming up the stairs.
+
+					QUARK
+				(to Morn, dismissive)
+			Hold that thought.
+
+	Quark hurries over to Odo.
+
+					QUARK
+				(anxious)
+			Well... what did he say?
+
+					ODO
+			What did who say?
+
+					QUARK
+			Commander Sisko.  About my idea.
+
+					ODO
+			You mean using the monitors to sell 
+			merchandise throughout the station?
+
+					QUARK
+				(frustrated)
+			Stop torturing me, Odo.  Tell me 
+			what he said.
+
+					ODO
+			Guess.
+
+					QUARK
+				(hopeful)
+			He said yes?
+
+					ODO
+			Guess again.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER        5A.
+
+5    CONTINUED:
+
+					QUARK
+			But how could he refuse?  It would 
+			triple my profits.
+
+	In the background Morn, tired of waiting for Quark, shuffles 
+	away.
+
+					ODO
+			Maybe it's because he doesn't like 
+			you.
+
+					QUARK
+				(dismissive)
+			Don't be ridiculous.  Major Kira is 
+			the one that doesn't like me.  
+			Sisko...
+
+					ODO
+				(finishing the sentence)
+			Doesn't like you either.
+
+					QUARK
+			What did I ever do to him?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         6.
+
+5    CONTINUED:	(2)
+
+					ODO
+			Oh, I could think of one or two 
+			things.
+
+					QUARK
+				(dismissive)
+			One or two things?  That's nothing.
+				(more to the point)
+			So do you think there's any way I 
+			can change his mind?
+
+	Odo harumphs and EXITS.
+
+6    NEW ANGLE
+
+	As NOG approaches Quark.
+
+					NOG
+			Uncle Quark?
+
+					QUARK
+				(ignoring him)
+			Not now.
+
+					NOG
+				(trying to soft-sell 
+				this)
+			I just wanted to tell you, I'm not 
+			going to be able to work my shift 
+			for the next couple of days.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - TEASER         7.
+
+6    CONTINUED:
+
+	Quark is outraged.
+
+					QUARK
+			Why not?
+
+					NOG
+			I'm... going to the Gamma Quadrant... 
+			with Jake and his father.
+
+					QUARK
+				(surprised)
+			You're going to the Gamma Quadrant 
+			with Commander Sisko?
+
+	Quark senses an opportunity.
+
+					QUARK
+			How...
+				(getting an idea)
+			Lucky for you.
+
+	And as Quark throws a friendly arm around Nog...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE        8.
+                            ACT ONE                             
+
+	FADE IN:
+
+
+	(NOTE: Episode credits fall over opening scenes)
+
+7    INT. RIO GRANDE
+
+	Sisko, Jake and Nog ENTER the runabout carrying their gear.  
+	Nog's eyes light up when he sees the control panels.
+
+					NOG
+				(excited)
+			I always wanted to see what the 
+			cockpit of a runabout looked like.
+
+	He drops his bags in the doorway and goes to examine the 
+	controls.
+
+					NOG
+				(to Jake)
+			How do you fire the phasers?
+
+					JAKE
+				("Be cool")
+			Nog, you promised.
+
+					NOG
+				(defending himself)
+			I wasn't going to touch anything.
+
+					SISKO
+			Why don't you guys stow our gear in 
+			the back while I go through pre-
+			launch?
+
+					NOG
+				(trying to be helpful)
+			I'll do it.
+
+	Nog grabs up the bags.
+
+					JAKE
+				(to Nog)
+			I'll be right there.
+
+8    NEW ANGLE
+
+	As Nog goes off into the back, Jake sits down next to his 
+	father.
+
+					SISKO
+				(re: Nog)
+			Fire the phasers?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE        9.
+
+8    CONTINUED:
+
+					JAKE
+			He was kidding.
+				(serious)
+			Look, Dad.  I know this isn't exactly 
+			the trip you planned on.  But you'll 
+			see... Nog's a great guy.
+
+					SISKO
+			I'm sure he is.  I was just hoping 
+			that you and I could spend this 
+			time... together.
+
+					JAKE
+			We will.  Don't worry.  You won't 
+			even know Nog's along.
+				(a beat)
+			This is going to be a great trip.  
+			You'll see.
+
+					QUARK (O.S.)
+			Ah, there you are.
+
+	Jake and Sisko turn and see...
+
+9    QUARK
+
+	Standing in the doorway, heavily laden with luggage and 
+	wearing a loud fun-and-sun outfit.
+
+					QUARK
+			Where do I put my bags?
+
+10   NEW ANGLE
+
+	Sisko and Jake exchange looks.  Neither of them have any 
+	idea what Quark is up to.
+
+	Nog comes out from the back and sees Quark.  He's as surprised 
+	as anyone.
+
+					NOG
+			Uncle Quark... What are you doing 
+			here?
+
+					QUARK
+			What's it look like?  I'm coming 
+			with you.
+
+	Quark shoves his bags onto Nog.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       10.
+
+10   CONTINUED:
+
+					SISKO
+			Since when?
+
+					QUARK
+				(doing some fast 
+				talking)
+			Really, Commander, you don't expect 
+			my nephew to go all the way to the 
+			Gamma Quadrant without proper 
+			supervision.
+
+	Quark takes Sisko aside, shooing Jake and Nog away.
+
+					QUARK
+				(continues)
+			No offense... some of my best friends 
+			are humans.  But my brother Rom isn't 
+			as... liberal as I am.  Let's face 
+			it... he's never been comfortable 
+			about Nog's friendship with your 
+			son.
+
+					SISKO
+			You can tell Rom not to worry.  I'll 
+			take good care of the boy.
+				(a beat)
+			And I promise I won't try to corrupt 
+			him with my human values.
+
+					QUARK
+			I know that, but Rom is convinced 
+			all humans look down on Ferengis.  
+			And by allowing me to come on this 
+			trip, you can help prove him wrong.
+				(a beat)
+			He is wrong, isn't he?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE      10A.
+
+10   CONTINUED:	(2)
+
+	Quark smiles.  He knows he has Sisko in a bind.
+
+					JAKE
+			Dad, please...
+
+	A beat as Sisko looks at Jake and realizes how important 
+	this is to his son.  And that, more than Quark's weaseling, 
+	convinces Sisko.
+
+					SISKO
+				(to Jake, a good sport)
+			All right.  But let's get going before 
+			anyone else shows up.
+
+	Jake smiles in thanks at his dad.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       11.
+
+11   EXT. SPACE (OPTICAL)
+
+	The Rio Grande emerges from the wormhole into the Gamma 
+	Quadrant.
+
+12   EXT. PLANET SURFACE - DAY (MATTE SHOT)
+
+	A lush, green tropical world.
+
+13   EXT. JUNGLE - DAY
+
+	Sisko, Jake, Quark and Nog walk into a small clearing.
+
+					JAKE
+				(looking around)
+			This place is great.
+
+					SISKO
+			Our preliminary surveys suggest it's 
+			a lot like Earth during the early 
+			Devonian period.  A lot of plant 
+			life, fish, some insects, but no 
+			predators or large land animals.  
+			Pretty, isn't it?
+
+					QUARK
+			I don't see what's so pretty about 
+			it.
+
+					NOG
+				(helpful)
+			I think they mean the trees and stuff.
+
+					SISKO
+			Look around you, Quark.  This is as 
+			close to paradise as you'll ever 
+			get.  You just have to allow yourself 
+			to see it.
+
+					QUARK
+				(professorial)
+			I can tell you what I see in two 
+			words... "exploitable resources."
+
+	Quark begins scratching at his ears.
+
+					SISKO
+			I suppose you'd want to cut down all 
+			these trees and start strip mining 
+			the entire planet.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       12.
+
+13   CONTINUED:
+
+					QUARK
+			As a wise man once wrote... "Nature 
+			decays, but latinum lasts forever."
+
+					NOG
+			Rule of Acquisition number one-oh-
+			two?
+
+					QUARK
+			Good lad.
+				(scratches again)
+			Nog... I have some ointment in one 
+			of my bags... get it.
+
+	Nog begins digging through Quark's gear.
+
+					SISKO
+			What's the problem?
+
+					QUARK
+			Oh, I get a mild reaction now and 
+			then.
+
+					SISKO
+			To what?
+
+					QUARK
+			Nature.
+
+					SISKO
+			Maybe you'd be more comfortable 
+			sleeping on the runabout.
+
+					QUARK
+			And miss all the fun... never.
+				(giving Sisko a 
+				friendly pat on the 
+				back)
+			Besides, I'm really looking forward 
+			to our getting to know each other 
+			better.
+
+14   CLOSE ON SISKO
+
+	He's not looking forward to it at all.
+
+15   EXT. ANOTHER PART OF THE JUNGLE - DAY
+
+	Sisko and Quark are seated beneath a tree.  In the background, 
+	Jake and Nog are collecting soil samples.  Quark's ears are 
+	now totally slathered in ointment.  He finishes covering one 
+	last area, then puts down the tube.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       13.
+
+15   CONTINUED:
+
+					QUARK
+			Ahh... That's more like it.
+				(a beat)
+			Now if it only wasn't so hot.
+
+					SISKO
+			I hadn't noticed.
+
+					QUARK
+			I don't think it's the heat so much 
+			as the humidity.  And the insects.
+				(shooing off the bugs)
+			And the stench of these flowers.
+				(a beat)
+			I'm glad that we can talk like this.  
+			There's nothing like facing the 
+			wilderness to bring people closer.
+
+					SISKO
+			The answer is still "no," Quark.
+
+					QUARK
+			No?  No to what?
+
+					SISKO
+			I'm not going to let you sell 
+			merchandise over the station's 
+			monitors.
+
+					QUARK
+				(defiant)
+			Why not?  It's a brilliant idea.
+				(really selling it)
+			There's only room for so many stores 
+			on the Promenade.  With my 
+			connections, I could offer a whole 
+			range of merchandise that normally 
+			couldn't be acquired in this sector...
+
+					SISKO
+			Such as?
+
+					QUARK
+			Collectibles... Andorian jewelry... 
+			Vulcan Idic Pins... Bolian 
+			crystalsteel, and with my low 
+			overhead, I could offer these items 
+			at a significant discount.
+
+	Quark starts to scratch his nose.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE      13A.
+
+15   CONTINUED:	(2)
+
+					SISKO
+			Quark, you're wasting your time.  
+			And mine.
+
+	Sisko gets up and walks away.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       14.
+
+15   CONTINUED:	(3)
+
+					QUARK
+				(calling offer)
+			Did I mention I was going to donate 
+			two percent of my net profit to the 
+			Bajoran Fund for Orphans?
+				(no response)
+			Three percent.
+
+16   NEW ANGLE
+
+	As Sisko joins Jake and Nog.
+
+					SISKO
+			So... how's it going?
+
+					JAKE
+			The atmosphere's seventy-seven percent 
+			nitrogen, twenty-one percent oxygen, 
+			and two percent carbon dioxide.  The 
+			water contains traces of copper, 
+			nickel and a little birythium...
+
+	Sisko reads over Jake's shoulder.  He's proud of what Jake's 
+	accomplished in one day.
+
+					SISKO
+				(re: the water sample)
+			You're showing a little lead there 
+			too.
+
+					JAKE
+			It's from the surrounding soil.  But 
+			we think it's localized.
+
+					NOG
+			We're going to check some other water 
+			sources to be sure.
+
+					SISKO
+			Why not wait until tomorrow?  I was 
+			just about to start dinner.
+
+					JAKE
+			Jumbalaya?
+
+					SISKO
+			How'd you know?
+
+					JAKE
+				(pleased)
+			Great.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE      14A.
+
+16   CONTINUED:
+
+					NOG
+			Jumbowhat?
+
+					JAKE
+			You're gonna love it.
+
+	They start to walk.
+
+					SISKO
+			The two of you did good work today.
+
+
+	Jake and Nog exchange pround looks.
+
+17   EXT. JUNGLE - CAMPSITE - NIGHT
+
+	Everyone's gathered around the campfire.  Sisko and Jake on 
+	one side, Quark and Nog on the other.  They're finishing up 
+	their meal.  Sisko stirs the contents of a pot.
+
+					SISKO
+			Anyone want some more?
+
+					JAKE
+			Not me.
+
+					NOG
+			Me neither... but it was very good, 
+			Commander.  I think I'm developing a 
+			taste for human food.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       15.
+
+17   CONTINUED:
+
+					SISKO
+				(re: the food)
+			Quark?
+
+					QUARK
+			I still say some dirt got into the 
+			sauce.  And these bugs.  Look at 
+			this...
+				(he picks a tiny speck 
+				out of his food)
+			They get into everything.  It's 
+			disgusting.
+
+					SISKO
+			I thought Ferengis liked eating bugs.
+
+					QUARK
+			Only certain bugs.  Ferengi bugs.
+				(a beat)
+			Nog... get some more ointment for 
+			the back of my neck.
+
+					NOG
+			Yes, Uncle.
+
+	As Nog goes to get the ointment...
+
+18   NEW ANGLE
+
+	On Jake and Sisko, seated in the darkness.
+
+					SISKO
+			You should get a good night's sleep.  
+			You've got another big day tomorrow.
+
+					JAKE
+			Yeah, I want to start cataloguing 
+			the plant life first thing in the 
+			morning.
+
+	There's a moment of silence as father and son enjoy each 
+	other's company.
+
+					JAKE
+			You know what this reminds me of...
+
+					SISKO
+			That camping trip we took on Itamish 
+			Three.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       16.
+
+18   CONTINUED:
+
+					JAKE
+				(nods)
+			I don't think I remember you, me, 
+			and mom ever having more fun together.
+
+					SISKO
+			Isn't that where I taught you how to 
+			water ski?
+
+					JAKE
+				(smiling)
+			Mom taught me how to water ski.
+
+					SISKO
+			She was always the graceful one.
+				(a beat)
+			You know, Jake... we really need to 
+			get away more often.
+
+					JAKE
+			I'm ready whenever you are.
+				(ribbing him)
+			And I'm sure Nog is too.
+				(off Sisko's look)
+			I'm joking.
+
+	Sisko smiles and just as we hear an offscreen howl of panic 
+	from...
+
+19   QUARK
+
+	Who is hoping up and down waving his right arm.  The sleeve 
+	of his loud vacation shirt is on fire.
+
+					QUARK
+			I'm on fire... I'm on fire...
+
+20   NEW ANGLE
+
+	Sisko reacts immediately, grabbing a blanket and smothering 
+	the flames.
+
+					SISKO
+			Are you all right?
+
+					QUARK
+			No, I'm not all right.  My ears itch, 
+			my nose is running, I'm eating foreign 
+			bugs... and now look at me.
+
+	Quark waves his burnt sleeve in Sisko's face.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       17.
+
+20   CONTINUED:
+
+					QUARK
+			One minute I'm trying to pick out a 
+			couple of insects from the 
+			jumblewhatsit pot... and next thing 
+			I know... whoosh...
+
+					SISKO
+			Calm down, Quark.
+
+	Quark sneezes all over Sisko.
+
+					SISKO
+				(annoyed)
+			Look, do us all a favor... sit down... 
+			and try to stay out of trouble.
+
+					QUARK
+				(sneezes again)
+			What did I do?
+
+	An embarrassed Nog turns around and rushes off into the trees.
+
+					JAKE
+				(embarrassed for his 
+				friend)
+			I'd better see if he's okay.
+
+	Jake follows Nog into the darkness, leaving...
+
+21   SISKO AND QUARK
+
+	Alone in the camp.
+
+					QUARK
+				(to Sisko, accusatory)
+			Now see what you've done.
+
+					SISKO
+			What I've done?
+
+					QUARK
+			The boy couldn't stand to see his 
+			favorite Uncle insulted.
+				(a beat)
+			I guess Rom was right after all... 
+			You don't like Ferengis, do you?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       18.
+
+21   CONTINUED:
+
+					SISKO
+			That's not true.
+
+					QUARK
+			All right... name me one Ferengi you 
+			do like.
+
+	Sisko can't come up with a name quick enough for Quark.
+
+					QUARK
+			Hah.  You see?  I'm right.  You 
+			Federation types are all alike.  You 
+			talk about tolerance and 
+			understanding... but you only practice 
+			it toward people that remind you of 
+			yourselves.  Because you disapprove 
+			of Ferengi values, you scorn us... 
+			distrust us... and insult us every 
+			chance you get.
+
+					SISKO
+			Quark, I don't have to stand here 
+			and defend myself...
+
+					QUARK
+			Tell me, Commander, would you allow 
+			your son to marry a Ferengi female?
+
+					SISKO
+				(exasperated)
+			I never thought about it.
+
+					QUARK
+			Exactly my point...
+
+22   NEW ANGLE (OPTICAL)
+
+	Suddenly there's a rustling in the brush and suddenly ERIS, 
+	a beautiful, frail young woman comes racing out of the 
+	darkness.  She's scared, almost frantic.
+
+	Startled, Eris comes to a quick stop as she sees Sisko and 
+	Quark.  Sisko holds up his hand in a gesture of non-
+	aggression.
+
+					SISKO
+			Wait... don't be frightened... we --
+
+	During the above, Eris concentrates on Sisko who gets blown 
+	off his feet by a forced energy pulse.  She turns to Quark.
+
+					QUARK
+			Don't hurt me.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       19.
+
+22   CONTINUED:
+
+					ERIS
+				(to Quark)
+			How many of them are there?
+
+					QUARK
+				(not sure what she's 
+				talking about)
+			There's just the two of us.
+
+					ERIS
+			Not you.  The Jem'Hadar.
+
+	Sisko gets back onto his feet.
+
+					SISKO
+			We don't know who you're talking 
+			about, but we're not your enemies.
+
+	Quark starts to get up.  We hear the sound of more rustling 
+	in the undergrowth.  But this time, the rustling is more 
+	violent, as if several people are approaching.
+
+					ERIS
+			Then you'd better run.
+
+	But before they can, everyone notices...
+
+23   NEW ANGLE (OPTICAL)
+
+	the bushes part... As suddenly four JEM'HADAR soldiers shimmer 
+	into view.  (This is the same kind of invisibility effect 
+	used by Tosk in CAPTIVE PURSUIT.  The thought behind this is 
+	that the same people who breed the Tosks as gifts to the 
+	hunters breed the Jem'Hadar as well.)
+
+	The Jem'Hadar are genetically engineered soldiers.  Unlike 
+	the Klingons they have no interest in honor or glory.  And 
+	unlike the Cardassians and Romulans, they have no love of 
+	intrigue or politics.
+
+	The closest twentieth century analogy would be the 
+	professional mercenary, but unlike mercenaries, Jem'Hadar 
+	don't fight for material gain and can't be bribed or 
+	negotiated with.  They are the ultimate professionals.
+
+	And they look scary, too.
+
+	The Jem'Hadar leader (THIRD TALAK'TALAN) aims a sinister-
+	looking weapon at Eris.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT ONE       20.
+
+23   CONTINUED:
+
+					TALAK'TALAN
+			It's too late.  You're done running.
+
+	The other Jem'Hadar soldiers cover Sisko and Quark with their 
+	weapons.
+
+					QUARK
+			This has not been a good day.
+
+24   CLOSE ON SISKO
+
+	Reacting to the Jem'Hadar soldiers.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO       21.
+                            ACT TWO                             
+
+	FADE IN:
+
+25   EXT. JUNGLE - CAMPSITE - NIGHT
+
+	Nog and Jake are looking around the deserted camp.  A worried 
+	Jake hits his combadge.
+
+					JAKE
+				(to com)
+			Dad, this is Jake.  Where are you?
+				(a beat)
+
+			Dad, Answer me.
+
+					NOG
+			I tell you, something's happened to 
+			them.  Maybe they got attacked by 
+			some kind of wild animal.
+
+					JAKE
+			You heard my father.  There aren't 
+			any wild animals, just insects and 
+			plants.
+
+					NOG
+			Maybe they were attacked by a vicious 
+			tree.
+
+	Jake notices something in the dirt.
+
+					JAKE
+			Take a look at this.
+
+	Nog comes over.  Jake points out a series of footprints in 
+	the dirt.
+
+					JAKE
+			I don't know any trees that wear 
+			boots.
+
+					NOG
+				(nervous)
+			We'd better beam up to the runabout.
+
+					JAKE
+			Listen, we can't run away just 'cause 
+			we're scared.
+
+					NOG
+			Who said anything about being scared?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO      21A.
+
+25   CONTINUED:
+
+					NOG
+			I just thought the runabout would be 
+			a good place to... plan our next 
+			move.
+
+					JAKE
+			There's nothing to plan.  My dad 
+			never would've left here without 
+			telling me first.  Not unless he was 
+			in some kind of trouble.
+				(a beat)
+			We can track them with the tricorder.
+
+	As far as Jake is concerned, that's the end of the discussion.  
+	Jake strides off into the trees.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO       22.
+
+25   CONTINUED:	(2)
+
+					NOG
+			Wait for me.
+
+	Nog chases after him.
+
+26   INT. CAVERN CONTAINMENT AREA
+
+	Starting close on Quark:
+
+					QUARK
+			Hey!  Is anybody there?  Hello!  
+			We're humanoids!  We require food 
+			and water.  Hello!
+
+	Moving back to reveal Sisko, Eris and Quark are inside a 
+	circular containment area, bordered by a ring-shaped security 
+	field generator.  The area is lit by a reddish light from 
+	above.  Sisko is sitting, thinking, on one side of the cell, 
+	his combadge has been removed... Eris, now wearing a high 
+	tech collar locked around her neck, has separated herself 
+	from the others... she is irritated by Quark's yelling...
+
+					SISKO
+			Quark, shut up.
+
+	Quark moves over to Eris, who turns away from him...
+
+					QUARK
+			This is your fault... they were after 
+			you, not us... why don't you say 
+			something to them... ?  Tell them you 
+			never saw us before.
+
+	No response from Eris.
+
+					QUARK
+				(continuing, yelling 
+				out again)
+			We have nothing to do with her!  
+			This is a misunderstanding!
+
+	She loathes everything about Quark, turns her back to them 
+	completely...
+
+					SISKO
+			Quark...
+
+					QUARK
+			I have the right to express my 
+			opinion.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO      22A.
+
+26   CONTINUED:
+
+					SISKO
+				(calm and controlled)
+			I'm about to put my fist in your 
+			opinion.
+
+					QUARK
+			You don't scare me.  And you know 
+			why you don't scare me?  Because I'm 
+			already more scared than I've ever 
+			been in my life.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO       23.
+
+26   CONTINUED:	(2)
+
+					SISKO
+			You're not helping anything.
+
+					QUARK
+			I'm not helping.  I don't see you 
+			coming up with any ideas.  Or her.
+
+	Sisko glances over at her... and although he would never 
+	shove it in her face as Quark did, he knows she's the key to 
+	their escape.  He speaks to her indirectly by talking to 
+	Quark.
+
+					SISKO
+			If she wants to help us, she will.  
+			Right now, I'd say she's even more 
+			scared than you are.
+
+					QUARK
+			Believe me, she's not.
+
+	Quark sits, beaten, exhausted.
+
+					SISKO
+				(for her benefit)
+			She's obviously been running from 
+			these people for a while... she's 
+			probably been through a lot... she 
+			doesn't know who we are, what we're 
+			about... when she begins to trust 
+			us, maybe she'll work with us to 
+			find a way to get out of here...
+
+	She listens but gives no indication that it had an impact... 
+	Sisko sighs...
+
+					SISKO
+			I just hope Jake and Nog are smart 
+			enough to stay out of sight until 
+			help gets here...
+
+					QUARK
+			Trust me.  I didn't raise my nephew 
+			to be a fool.  He'll find the nearest 
+			dark hole and climb into it.
+
+					SISKO
+				(thoughtful)
+			I'm not so sure about Jake.  If I 
+			know him, he'll be looking for us...
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO       24.
+
+26   CONTINUED:	(3)
+
+	He frowns.  The thought motivates him to his feet... he 
+	examines the security grid...
+
+					QUARK
+			Don't they teach you how to neutralize 
+			security fields in Starfleet?
+
+					SISKO
+			I've never seen anything like this... 
+			it seems like it's generated by a...
+
+	As he speaks, he reaches down toward the grid perimeter...
+
+					ERIS
+			Don't.
+
+27
+thru   OMITTED
+28A
+
+29   INCLUDE ERIS
+
+					ERIS
+			The security barrier will kill you.
+
+					SISKO
+				(reacts to her 
+				speaking, smiles)
+			Thanks for the warning.
+
+					ERIS
+				(turning away again)
+			I have no wish to see you hurt.
+
+					QUARK
+			A lovely sentiment.
+
+	Sisko shoots him a look to shut up.  He takes the small 
+	opening and moves over closer to her to try and pry it open 
+	a little more... speaks softly, intimately...
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO       25.
+
+29   CONTINUED:
+
+					SISKO
+				(a beat)
+			How'd you know the security barrier's 
+			lethal?
+
+					ERIS
+				(bitter)
+			Because everything about the Jem'Hadar 
+			is lethal.
+
+					SISKO
+				(to Eris)
+			Anything you can tell me about them 
+			might be helpful...
+
+					ERIS
+				(amazed)
+			Are you saying you've never heard of 
+			the Jem'Hadar?
+
+					SISKO
+				(warm, friendly)
+			We're not from around here.  My name 
+			is Ben Sisko, I'm from the United 
+			Federation of Planets... we came 
+			through a wormhole to get here... 
+			our home is thousands of light years 
+			away...
+
+					ERIS
+			My name is Eris.
+
+					SISKO
+			I'm glad to meet you, Eris.  That's 
+			Quark.
+
+	She looks with contempt toward Quark... who smiles 
+	sarcastically at her.
+
+					SISKO
+			Tell me about the Jem'Hadar.
+
+					ERIS
+				(a beat)
+			They're the most feared soldiers in 
+			the Dominion.
+
+	Both Sisko and Quark react to the word "Dominion."
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO      25A.
+
+29   CONTINUED:	(2)
+
+					QUARK
+			The Dominion?
+				(to Sisko)
+			The Ferengi have been trying to open 
+			up trade negotiations with the 
+			Dominion for almost a year now.  But 
+			we've never met the Jem'Hadar.
+
+					ERIS
+			Then you've been fortunate.  
+			Negotiating with the Dominion can be 
+			a dangerous thing.
+
+					SISKO
+			If it's so dangerous, then why would 
+			anyone do business with them?
+
+					ERIS
+			The Dominion decides you have 
+			something they want, and they come 
+			and take it... either by negotiation 
+			or by force.
+				(sad)
+			Believe me, I know.  I've seen it 
+			happen on my own world.  Kurill Prime 
+			was offered entry into the Dominion.  
+			They thought our telekinetic abilities 
+			would be useful to them.
+
+					SISKO
+			Back there in the camp, that's what 
+			you used to knock me down.
+
+					ERIS
+				(nod)
+			When Kurill refused the Dominion's 
+			offer, they sent in the Jem'Hadar.  
+			They destroyed our communications 
+			centers, executed our leaders, and, 
+			before we realized it, they had seized 
+			control of the entire planet.
+
+					SISKO
+			How'd you manage to escape?
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO      25B.
+
+29   CONTINUED:	(3)
+
+					ERIS
+			I was on a freighter returning home 
+			when the attack occurred.  We fled, 
+			but they came after us.
+
+					SISKO
+			Why?
+
+					ERIS
+			My mother was an outspoken opponent 
+			of the Dominion.  I suppose they 
+			wanted to make an example of my 
+			family.
+
+					SISKO
+				(re: the collar)
+			That thing they put around your 
+			neck...
+
+					ERIS
+			It suppresses my telekinetic 
+			abilities.  Without it, I might be 
+			able to break through the security 
+			barrier.
+
+	Sisko gives Eris a reassuring smile.
+
+					SISKO
+			Then we'll just have to find a way 
+			to get this collar off.
+
+	Sisko begins examining the collar.
+
+					ERIS
+			Even if we do get past the barrier, 
+			no one escapes from the Jem'Hadar.
+
+	Sisko smiles, trying to keep up Eris's morale.
+
+					SISKO
+			Luckily for us, they seem as sure 
+			about that as you do.
+
+	Eris looks up at Sisko, surprised by his statement.
+
+					SISKO
+			Look around you.  They've placed the 
+			three of us in the same containment 
+			field.  I've never seen more than 
+			four guards on duty at any one time.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO      25C.
+
+29   CONTINUED:	(4)
+
+					SISKO
+			And as far as I can tell, there's 
+			only this single containment field 
+			between us and freedom.
+				(a beat)
+			They're overconfident.  And that's 
+			going to help us get out of here.
+
+	A beat, then Eris nods.  She may not seem totally convinced, 
+	but it's a start.
+
+					SISKO
+			Maybe if I can pry off that casing, 
+			I can get to the locking mechanism.
+
+	Sisko notices a broach on Eris's clothing.
+
+					SISKO
+				(re: the broach)
+			May I?
+
+					ERIS
+			Of course.
+
+	Sisko takes the broach from Eris and uses part of it as a 
+	lever to try and pry open a segment of the collar's casing.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO       26.
+
+30
+thru   OMITTED 
+31
+
+31A  EXT. JUNGLE - DAWN
+
+	Jake and Nog are walking through the jungle.  Jake has his 
+	tricorder out and is taking readings.
+
+					NOG
+			Are you sure you know how to read 
+			that thing?
+
+					JAKE
+			Pretty sure.
+
+					NOG
+				(outraged)
+			Pretty sure?  We've been walking for 
+			hours and you're only "pretty sure?"
+
+					JAKE
+				(in a softer voice)
+			Would you be quiet?
+				(off tricorder)
+			I'm picking up some kind of humanoid 
+			lifeforms.
+
+31B  NEW ANGLE
+
+	As Jake and Nog look through the brush and see...
+
+32   EXT. CAVE MOUTH - DAY
+
+	A Jem'Hadar guard stands outside the mouth of the cavern, 
+	which is barely visible behind him.  Two additional Jem'Hadar 
+	return from patrol, passing the first guard, and walk into 
+	the cave.
+
+33   CLOSE ON JAKE AND NOG
+
+	Watching the guards.
+
+					NOG
+			I don't know who they are, but they 
+			don't look friendly.
+
+					JAKE
+			I wish we could get closer.
+
+					NOG
+			I don't think they'll look any 
+			friendlier close up.
+
+        DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT TWO      26A.
+
+33   CONTINUED:
+
+	Hold on the two young men, trying to come up with a solution 
+	to their problem, then...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      27.
+                           ACT THREE                            
+
+	FADE IN:
+
+34   INT. CAVERN CONTAINMENT AREA
+
+	Quark stands near the rim of the holding area, calling to an 
+	unseen Jem'Hadar guard.  His voice has slipped into a sort 
+	of singsong monotone.  He's been talking for hours, he's 
+	hoarse, but he's not ready to give up.
+
+					QUARK
+			Hello... I know someone must be 
+			listening to me out there.
+
+35   INCLUDE SISKO AND ERIS
+
+	Who are seated away from Quark.  Sisko's still working at 
+	removing the collar casing.
+
+				ERIS
+			(SMILING)
+		If we escape, do we				QUARK
+		have to take him with us?		(continuing, 
+								overlapping, 
+				SISKO				wheedling)
+		He's not so bad.			Whoever's in charge, you're 
+							missing a very lucrative 
+				ERIS			opportunity.
+		Doesn't he realize he's 
+		not accomplishing anything?
+
+	Sisko does not seemed all that annoyed by Quark's behavior.
+
+				SISKO					QUARK
+		Don't be so sure.  We need		(continuing)
+		to find out what the 		Did I mention I happen to 
+		Jem'Hadar plan to do with 	be a close personal friend 
+		us.  Which means we need 	of the Grand Nagus.  He's 
+		to get their attention. 	a very powerful person.
+		And If there's one thing 	Whatever you want for 
+		I know...				releasing me, he can get.
+							Just name your price.
+
+					TALAK'TALAN (O.S.)
+			That's enough.
+
+	Quark stops talking.  Sisko pockets the broach.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      28.
+
+35   CONTINUED:
+
+					SISKO
+				(a satisfied smile)
+			It's that Quark is hard to ignore.
+
+36   ANGLE ON THE ENTRANCE
+
+	to include Third TALAK'TALAN, the Jem'Hadar leader.  
+	Talak'talan, like all Jem'Hadar, carries himself with a 
+	certain relaxed confidence.  He's not the kind of stiff-backed 
+	spit-and-polish Cardassian soldier we're used to.  Nor does 
+	he swagger like a Klingon.  He knows he's the best, and has 
+	nothing to prove.
+
+	Among Talak'talan's military gear and paraphernalia, there's 
+	a tube running up from his uniform into his neck.  This tube 
+	is common to all the Jem'Hadar.
+
+37   NEW ANGLE (OPTICAL)
+
+	Sisko stands up immediately, and Eris follows suit.  Quark 
+	backs away from the entrance as Talak'talan disengages the 
+	forcefield and ENTERS the cell.
+
+					SISKO
+			I'm Commander Benjamin Sisko of the 
+			United Federation of Planets.  I 
+			want to know why we're being held 
+			here.
+
+					TALAK'TALAN
+			That's not my concern.
+
+					SISKO
+			Then why won't you let us go?
+
+					TALAK'TALAN
+			Because the Founders don't want you 
+			released.
+
+					SISKO
+			And who are the Founders?
+
+					TALAK'TALAN
+			That's not your concern.
+
+					QUARK
+			This isn't getting us anywhere.
+				(to Sisko)
+			Commander, allow me.
+
+	Quark steps forward.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      29.
+
+37   CONTINUED:
+
+					QUARK
+				(to Talak'talan)
+			How would you like a thousand cases 
+			of tulaberry wine...
+
+	Talak'talan's hand shoots forward.  His fingers grip Quark's 
+	chest.  The Jem'Hadar begins squeezing.  Quark howls in pain 
+	as Talak'talan begins to crush his ribcage.
+
+	Sisko moves to save Quark, but suddenly there's a weapon in 
+	Talak'talan's other hand, aimed right at Sisko.
+
+					TALAK'TALAN
+			Don't bother, Commander.  I'm not 
+			going to do any permanent damage.
+
+	He shoves Quark away.  Quark stumbles back against the far 
+	wall and collapses in a heap, rubbing his chest and whimpering 
+	quietly.  Eris glances at him with contempt, then looks away.
+
+					SISKO
+			If the Founders are the ones who 
+			give you your orders, I want to meet 
+			them.
+
+					TALAK'TALAN
+			Those aren't my orders.
+
+					ERIS
+			He can't take us to the Founders 
+			because they don't exist.  They're a 
+			myth.
+
+					TALAK'TALAN
+			The Founders exist.  They created 
+			the Dominion...
+
+					SISKO
+				(fishing)
+			And the Jem'Hadar are their servants?
+
+					TALAK'TALAN
+				(ignoring him)
+			A Ferengi and a human.  I was hoping 
+			the first race I'd meet from the 
+			other side of the anomaly would be 
+			the Klingons.
+
+					SISKO
+			Sorry to disappoint you.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      30.
+
+37   CONTINUED:	(2)
+
+					TALAK'TALAN
+
+			It's too late for apologies.  The 
+			Dominion will no longer stand by and 
+			allow ships from your side to violate 
+			our territory.
+				(back to his favorite 
+				subject)
+			I hear that Klingons are effective 
+			warriors.  What's that weapon they're 
+			so fond of... the Bat'leth... ?
+
+					SISKO
+			I'm not interested in discussing the 
+			Klingons.
+
+					TALAK'TALAN
+			All right.  Then what about the 
+			Cardassians?  Are you satisfied with 
+			the treaty your Federation made with 
+			them.  It seems a tactical error.
+
+					SISKO
+			How do you know so much about our 
+			side of the galaxy?
+
+					TALAK'TALAN
+			We gain more knowledge every day.  
+			And now we have you to help us learn 
+			more.
+
+					SISKO
+			I don't plan on telling you anything.
+
+					TALAK'TALAN
+			I won't be the one asking the 
+			questions.
+
+					SISKO
+			Who will?
+
+					TALAK'TALAN
+				(smiles)
+			I was really hoping to meet a Klingon.
+
+37A  NEW ANGLE (OPTICAL)
+
+	With that, Talak'talan nods, turns, and leaves.  The 
+	forcefield reactivates.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE     30A.
+
+37A  CONTINUED:
+
+					QUARK
+				(still rubbing his 
+				chest)
+			Well, now that we're all friends, I 
+			feel much better.
+
+38   CLOSE ON SISKO
+
+	Doesn't bother to respond to Quark.  He's too busy studying 
+	Talak'talan as he leaves.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      31.
+
+39   EXT. SPACE (OPTICAL)
+
+	Establishing the Rio Grande in orbit around the planet.
+
+40   INT. RIO GRANDE (OPTICAL)
+
+	Jake and Nog MATERIALIZE onto the transporter pad and go to 
+	the control panel.
+
+					NOG
+			I hope this works.
+
+					JAKE
+			You wanted a plan... I came up with 
+			a plan.  Now let me concentrate.
+				(to com)
+			Computer, scan the region around our 
+			base camp for human and Ferengi 
+			lifesigns.
+
+					COMPUTER VOICE
+				(after a beat)
+			One human and one Ferengi located.
+
+					NOG
+				(excited)
+			That's them.
+
+					JAKE
+			I told you this would work.
+				(to com)
+			Computer, lock onto those two 
+			lifeforms and beam them up.
+
+					COMPUTER VOICE
+			Unable to comply.  Subjects are 
+			located inside a spatial distortion 
+			field.
+
+					NOG
+			I knew it couldn't be that easy.
+
+					JAKE
+			Maybe we'd better go back to the 
+			station for help.
+
+					NOG
+			Good idea.  Computer fly us back to 
+			the station.
+
+					COMPUTER VOICE
+			Please restate command.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      32.
+
+40   CONTINUED:
+
+					JAKE
+			Computer, disengage autopilot and 
+			lay in a course back to the wormhole.
+
+					COMPUTER VOICE
+			Enter authorization code.
+
+	A beat as Jake gets very quiet.
+
+					NOG
+			Go ahead.  What are you waiting for?
+
+					JAKE
+			I don't know the authorization code.
+
+	A warning light FLASHES on the console.
+
+					COMPUTER VOICE
+			Vessel approaching from the planet's 
+			surface.  Bearing one-seven-three 
+			mark two-eight-one.
+
+					NOG
+				(panicked)
+			Computer, evasive maneuvers... Fire 
+			Phasers... Launch escape pods.
+
+					COMPUTER VOICE
+			Enter authorization code.
+
+					JAKE
+				(to computer)
+			Computer, display the approaching 
+			ship on the monitor.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      33.
+
+40A  OMITTED
+
+41   INCLUDE A MONITOR (VPB)
+
+	The monitor displays a graphic symbol of a ship moving.  The 
+	graphic zips off-screen.
+
+					JAKE
+			Computer, where'd that ship go?
+
+					COMPUTER VOICE
+			The vessel has entered warp, bearing 
+			one-seven-one mark two-five-nine.
+
+					NOG
+				(relieved)
+			Maybe they didn't see us.
+
+					JAKE
+			Or maybe we're not what they're after.
+
+42   CLOSE ON JAKE AND NOG
+
+	Looking worried.
+
+					NOG
+			So what do we do now?
+
+					JAKE
+			We have to shut down the autopilot.
+
+					NOG
+			And how do we do that?
+
+					JAKE
+			I guess we're going to find out how 
+			much I've learned working for Chief 
+			O'Brien.
+
+	This does not buoy their confidence.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      34.
+
+43   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+44   INT. OPS
+
+	Dax and O'BRIEN are at their stations.  Kira ENTERS from a 
+	Turbolift.
+
+					KIRA
+				(to Dax)
+			Lieutenant, what's the E.T.A. of the 
+			Odyssey?
+
+					DAX
+			They're due in eight hours...
+				(her attention's drawn 
+				to a panel)
+			I'm reading elevated neutrino levels 
+			from the wormhole.
+
+44A  EXT. SPACE (OPTICAL)
+
+	As the wormhole opens and a Jem'Hadar ship emerges.  (For 
+	future reference, this type of Jem'Hadar ship is approximately 
+	the same size as a Klingon bird of prey.)
+
+45   INT. OPS (OPTICAL)
+
+	As the crew reacts to the Jem'Hadar ship on the viewscreen.
+
+					KIRA
+				(to Dax)
+			Hail them.
+
+					DAX
+				(she does)
+			They're not answering.
+
+					KIRA
+			Shields up.  Go to yellow alert.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      35.
+
+46   NEW ANGLE (OPTICAL)
+
+	As Third Talak'talan MATERIALIZES into Ops.  He faces Kira 
+	across the Ops table.
+
+					O'BRIEN
+			Computer, intruder in Ops.  Activate 
+			a level three containment field.
+
+	Red alert lights come up and a forcefield flashes into 
+	existence around Talak'talan, who pays it no notice.
+
+					KIRA
+			I'm Major Kira Nerys, First Officer 
+			of this station.
+				(a beat)
+			You'll have to excuse the containment 
+			field, but around here it's customary 
+			to identify yourself before 
+			transporting into someone else's 
+			command center.
+
+					TALAK'TALAN
+			I'm Third Talak'Talan of the 
+			Jem'Hadar.  I'm here to inform you 
+			that your commander has been detained 
+			for questioning by the Dominion.
+
+					KIRA
+			Detained?  For how long?
+
+					TALAK'TALAN
+			Indefinitely.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE      36.
+
+46   CONTINUED:
+
+					TALAK'TALAN
+			Commander Sisko will serve as an 
+			example of what happens to anyone 
+			who interferes with the Dominion.
+
+					KIRA
+			What kind of interference are you 
+			talking about?
+
+					TALAK'TALAN
+			Coming through the anomaly is 
+			interference enough.  Unless you 
+			wish to continue to offend the 
+			Dominion, I suggest you stay on your 
+			side of the galaxy.
+
+					DAX
+			You're making a mistake if you think 
+			that detaining Commander Sisko will 
+			stop us from exploring the Gamma 
+			Quadrant.
+
+					TALAK'TALAN
+			We anticipated that response.
+
+46A
+thru   OMITTED 
+46B
+
+47   NEW ANGLE (OPTICAL)
+
+	As Talak'talan walks through the security field.  Small tech 
+	devices on his uniform seem to absorb and neutralize the 
+	field.  He tosses a Bajoran PADD onto the Ops Table in front 
+	of Kira.
+
+					O'BRIEN
+			Security team to Ops.
+
+					TALAK'TALAN
+			Here's a list of vessels we've 
+			destroyed for violating our territory.
+
+					KIRA
+				(re: the PADD)
+			Where'd you get this datapadd.
+
+					TALAK'TALAN
+			From the Bajoran colony on our side 
+			of the anomaly.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT THREE     36A.
+
+47   CONTINUED:
+
+					TALAK'TALAN
+				(a beat)
+			You should be proud.  I hear they 
+			fought well... for a spiritual people.
+				(pointedly)
+			I hope we won't have to repeat this 
+			lesson.
+
+	Four Starfleet Security guards ENTER just as Talak'talan 
+	taps his forearm and transports away.
+
+					KIRA
+				(to O'Brien)
+			Chief, lock a tractor beam onto his 
+			ship.
+
+					O'BRIEN
+				(does so)
+			Acknowledged...
+				(looks troubled)
+			I can't establish a lock, Major...
+				(tries to compensate, 
+				fails)
+			They must have some kind of deflectors 
+			we haven't seen before...
+
+					DAX
+			They've entered the wormhole.
+
+48   CLOSE ON KIRA
+
+	As she reacts, already formulating a plan of action.  Hold 
+	on her determined expression for a beat, then...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       37.
+                           ACT FOUR                             
+
+	FADE IN:
+
+49   INT. CAVERN CONTAINMENT AREA
+
+	Close on Sisko still working to remove the casing surrounding 
+	the lock on Eris's collar.  Quark stands near the barrier, 
+	staring off into space, deep in thought.
+
+	Sisko is finally able to pry off the casing, revealing a 
+	locking mechanism.
+
+					SISKO
+			Got it.
+
+	Sisko pulls the fastening pin out of the broach and begins 
+	probing inside the collar.
+
+					SISKO
+				(frowns)
+			It looks like some kind of multiple 
+			locking system.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       38.
+
+49   CONTINUED:
+
+					ERIS
+			Even if I can break through the 
+			security barrier, how do you plan on 
+			getting off the planet?
+
+					SISKO
+			We'll try to find my son.  We can 
+			use his communicator to signal our 
+			ship and transport off the surface.
+
+					ERIS
+			And then what?
+
+					SISKO
+			You're welcome to come back to the 
+			station with us.  I'm sure Starfleet 
+			would like to hear anything you can 
+			tell them about the Dominion.
+
+					ERIS
+			I'd be glad to tell them all I know.
+
+	Sisko looks up at Eris and smiles his thanks.  She nods.  A 
+	deal's been struck.  Sisko resumes examining the lock.  He's 
+	not getting anywhere with the stickpin.
+
+					SISKO
+				(to Quark)
+			Quark, maybe you'd better take a 
+			look at this.
+
+					QUARK
+				(angry)
+			Sure, "Quark, be quiet."  "Quark, 
+			stand watch."  "Quark, pick a lock." 
+			All you ever do is order me around.
+				(moves toward Sisko)
+			You know, Commander, I think I've 
+			figured out why humans don't like 
+			Ferengis.
+
+					SISKO
+			Not now, Quark.
+
+	Sisko offers Quark the stickpin, but Quark wants to speak 
+	his mind.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR      38A.
+
+49   CONTINUED:	(2)
+
+					QUARK
+			The way I see it, humans used to be 
+			a lot like Ferengis.  Greedy, 
+			acquisitive, interested only in 
+			profit.  We're a constant reminder 
+			of a part of your past you'd rather 
+			forget.
+
+					SISKO
+				(holds out the pin)
+			Quark, we don't have time for this.
+
+					QUARK
+			But you're overlooking something.  
+			Humans used to be a lot worse than 
+			the Ferengi.  The Hundred Years War, 
+			Auschwitz, the Tarsus Four Massacre... 
+			we have nothing in our past that 
+			even approaches that kind of 
+			barbarism.
+				(driving home his 
+				point)
+			You see, we're nothing like you.
+				(a beat)
+			We're better.
+
+	Quark reaches over and plucks the pin from Sisko's hand.
+
+					QUARK
+			Now if you'll excuse me, I have a 
+			lock to pick.
+
+	Quark begins examining the collar.  Eris isn't exactly 
+	delighted to have Quark touching her, but she allows him to 
+	continue.
+
+49A  CLOSE ON SISKO
+
+	Quark hasn't convinced him of anything, but he's given him 
+	food for thought.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       39.
+
+50   EXT. SPACE (OPTICAL)
+
+	The Rio Grande in orbit.
+
+51   INT. RIO GRANDE
+
+	The floor of the cockpit is littered with isolinear chips 
+	and electronic components.  Jake is seated on the floor, 
+	reaching into an open panel, as Nog looks on.
+
+					JAKE
+				(puzzled)
+			This shouldn't be so hard.  I just 
+			watched Chief O'Brien run a 
+			maintenance check on the Mekong's 
+			navigational array a couple of weeks 
+			ago...
+
+					NOG
+				(staring at the 
+				scattered components)
+			From the looks of things, you weren't 
+			watching close enough.
+
+	Nog looks under the panel.
+
+					NOG
+			Try that one.
+
+					JAKE
+			I don't think that's it.
+
+					NOG
+			Try it.  I've got a hunch.
+
+					JAKE
+			All right.  Let's see.
+
+	Jake reaches into the panel and partially unscrews a 
+	component, triggering a red alert.  The cabin is washed in 
+	red light.
+
+					COMPUTER VOICE
+			Warning... Warp core collapse in ten 
+			seconds... nine... eight...
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       40.
+
+51   CONTINUED:
+
+					NOG
+			Put it back!  Put it back!
+
+					COMPUTER VOICE
+			Seven... six...
+
+	As the countdown continues, Jake hurried reattaches the 
+	component.
+
+					COMPUTER VOICE
+			Warp core containment field 
+			stabilized.
+
+	Red alert ends.  Jake shoots Nog a look.
+
+					NOG
+			Sorry.
+
+					JAKE
+				(still thinking)
+			Wait a second... The "G and N" relay.
+
+	Jake goes back into the panel.
+
+					NOG
+			What about it?
+
+					JAKE
+			I think O'Brien said something about 
+			the autopilot being connected to the 
+			guidance and navigation relay... If 
+			I could just find it...
+				(as he looks)
+			It was kind of round, except it had 
+			this square part, on the bottom... 
+			or was it the top.
+
+					NOG
+			Don't ask me.
+
+	Jake scrunches his arm deeper into the panel.  He feels 
+	around.
+
+					JAKE
+			There...
+				(excited)
+			I think I got it.
+				(trying to stay calm)
+			Okay... If that's the relay, then...
+
+	Jake twists his arm around inside the panel and suddenly 
+	yanks on something.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR      40A.
+
+51   CONTINUED:	(2)
+
+	He extracts his arm and looks at a small electronic component.
+
+					NOG
+			Is that it?
+
+					JAKE
+			I hope so.
+				(a beat)
+			Computer, what's the status of the 
+			autopilot?
+
+					COMPUTER VOICE
+			The automatic pilot system is not 
+			functional.
+
+	Jake and Nog exchange triumphant looks.
+
+					JAKE
+				(to com)
+			Lay in a course for the wormhole... 
+			at warp eight.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR      40A.
+
+51   CONTINUED:	(3)
+
+					COMPUTER VOICE
+			Unable to comply.  The automatic 
+			pilot system is not functional.
+
+	Oops.
+
+					NOG
+			Now what?
+
+					JAKE
+			I guess we'll have to try and fly it 
+			ourselves.
+
+	They both turn and look at the panels.  There's a bewildering 
+	array of controls.
+
+52   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Odyssey, a Galaxy-class starship, is docked at an upper 
+	pylon.
+
+53   INT. OPS
+
+	Kira, Dax, O'Brien, and BASHIR are seated around the Ops 
+	table with the Odyssey's Captain KEOGH, a burly, no-nonsense 
+	officer.
+
+					KEOGH
+			Starfleet's orders are simple.  
+			Traffic through the wormhole will be 
+			suspended until the Odyssey can 
+			investigate the Jem'Hadar's threat.
+
+					DAX
+			What about Benjamin and the others?
+
+	Keogh doesn't appreciate the interruption.
+
+					KEOGH
+			Don't worry, Lieutenant.  Commander 
+			Sisko's return is a top priority.
+
+					DAX
+			If you're going to try to rescue 
+			them, we're coming with you.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       42.
+
+53   CONTINUED:
+
+					KEOGH
+			Are you sure that's wise?  With the 
+			exception of Major Kira and Mister 
+			O'Brien, none of you have had much 
+
+			combat experience.
+
+					BASHIR
+			We fought the Maquis.
+
+					KEOGH
+			All the Maquis had were a pair of 
+			lightly armed shuttlecraft.  I expect 
+			the Dominion to have sharper teeth.
+
+					KIRA
+			Then you're going to need all the 
+			help you can get.
+
+	She's got a point.  A beat as Keogh thinks it over.
+
+					KEOGH
+			Mister O'Brien, can you equip your 
+			two remaining Runabouts with extra 
+			banks of photon torpedos?
+
+					O'BRIEN
+			I've already started retrofitting 
+			their weapons systems.  They'll be 
+			ready in a few hours.
+
+					DAX
+			It'll take at least that long to 
+			offload all the nonessential personnel 
+			from the Odyssey.
+				(off Keogh's look)
+			You were planning on doing that, 
+			weren't you?
+
+	Keogh looks at Dax long and hard.
+
+					KEOGH
+			Lieutenant, have you ever thought of 
+			serving on a starship?
+
+					DAX
+			I'm happy where I am.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR      42A.
+
+53   CONTINUED:	(2)
+
+					KEOGH
+				(smiling)
+			Good.
+				(to Kira)
+			Major, be ready to leave at thirteen 
+			hundred hours.
+
+					KIRA
+			Yes, sir.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       43.
+
+53   CONTINUED:	(3)
+
+					KEOGH
+			I'll be aboard the Odyssey if you 
+			need me.
+
+	Keogh EXITS.
+
+
+54   NEW ANGLE
+
+	As everyone reacts to Keogh.
+
+					BASHIR
+				(to Dax, kidding)
+			I thought you said Keogh didn't like 
+			you.
+
+					DAX
+			Did I say that?
+
+					KIRA
+				(to all)
+			Come on.  You heard him.  We've got 
+			three hours.
+
+54A  INT. DOCKING RING CORRIDOR
+
+	Odo is walking with one of his deputies and a Starfleet 
+	Security Officer.
+
+					ODO
+			Station security is to be on maximum 
+			alert... I want random patrols of 
+			all corridors and periodic sensor 
+			sweeps of every level.  The 
+			Provisional Government has agreed to 
+			send us a detachment of extra security 
+			personnel.
+				(he gives the deputy 
+				a PADD)
+			This outlines how I want them 
+			deployed.
+
+	Kira comes around a bend in the corridor.
+
+					KIRA
+			Odo...
+
+					ODO
+				(acknowledging)
+			Major.
+				(to his men)
+			That'll be all.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR      43A.
+
+54A  CONTINUED:
+
+	The two Security Officers head off.  Kira falls into step 
+	with Odo as they continue on.
+
+					KIRA
+			Captain Keogh wants us to move up 
+			our departure time.  We've got to be 
+			ready in fifteen minutes.
+
+					ODO
+			I'm on my way to meet Chief O'Brien 
+			and Lieutenant Dax at the Mekong 
+			right now.
+
+	Suddenly, Kira stops.  Odo looks at her curiously.
+
+					KIRA
+			Are you sure you don't want to stay 
+			and oversee things here on the 
+			station?  I don't know what we're 
+			going to be up against once we get 
+			there.  Your duties don't require 
+			you to come with us.
+
+					ODO
+			I realize that.  But I figure while 
+			you and the others are trying to 
+			rescue Sisko and the boys, someone 
+			better be there to look out for Quark.
+
+	They start walking again.
+
+					KIRA
+				(thinks he's joking)
+			Quark?
+				(sees that he's serious)
+			I thought you hated Quark.
+
+					ODO
+			I do.  But I'd rather see him in 
+			jail than in the hands of the 
+			Dominion.
+				(a beat, a slight 
+				admission)
+			Believe me, Major, if anything 
+			happened to him, you'd miss him too.
+
+					KIRA
+			I'd be willing to take that chance.
+				(a beat, softening)
+			But not today.
+
+    DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR 43B-C.      
+
+54A  CONTINUED:	(2)
+
+	They come to a branch in the corridor.  They stop.  This is 
+	were they have to go their separate ways.
+
+					KIRA
+			I'd better get to the Orinoco.
+				(with affection)
+			Odo... keep your head down.
+
+					ODO
+				(he's touched)
+			Make sure you do the same.
+
+	She nods and they part.
+
+54B
+thru   OMITTED
+54C
+
+55   EXT. SPACE (OPTICAL)
+
+	Hold for a beat on the quiet starfield and then the wormhole 
+	explodes into existence and the Odyssey emerges into the 
+	Gamma Quadrant, followed by the Mekong and the Orinoco.
+
+56   INT. ORINOCO
+
+	Kira is piloting, Bashir is copilot.
+
+					BASHIR
+			Where's the welcoming committee?
+
+57   INT. MEKONG
+
+	O'Brien at the helm, Dax and Odo at other stations.
+
+					DAX
+			Maybe the Jem'Hadar were bluffing.
+
+					ODO
+			Or maybe it's a trap.
+
+					KEOGH'S COM VOICE
+			Odyssey to runabouts.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       44.
+
+57   CONTINUED:
+
+	O'Brien brings up Keogh's transmission on the monitor.  
+	Keogh is flanked by his FIRST OFFICER and SECOND OFFICER.
+
+					O'BRIEN
+			Go ahead, Captain.
+
+	While Keogh talks to O'Brien, his officers are at work in the 
+	background.
+
+					FIRST OFFICER
+				(on monitor, in 
+				background)
+			Preliminary tachyon scans are 
+			negative.
+
+	Keogh nods and then turns his attention to O'Brien.
+
+					KEOGH
+				(on monitor)
+			We're not detecting anything on long 
+			range scanners, but for all we know, 
+			the Dominion could have cloaking 
+			technology.
+
+					DAX
+				(to Keogh)
+			We'll keep our eyes open, sir.
+
+58   OMITTED
+
+59   EXT. SPACE - RIO GRANDE (OPTICAL)
+
+	The Rio Grande moves slowly and erratically through space.
+
+60   INT. RIO GRANDE
+
+	Nog watches as a nervous Jake works the controls.
+
+					NOG
+			I'm telling you, we should go to 
+			warp.
+
+					JAKE
+			First let me get the hang of flying 
+			at impulse.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR      44A.
+
+60   CONTINUED:
+
+					NOG
+			How hard can it be?
+
+					JAKE
+			Are you kidding?  You think making 
+			course corrections manually is easy?
+
+					NOG
+			But at this speed, it'll take weeks 
+			to get home.
+
+					JAKE
+			Actually, it'll take about five years.
+
+					NOG
+			Can't we reassemble the autopilot?
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       45.
+
+60   CONTINUED:	(2)
+
+					JAKE
+			If Chief O'Brien taught me anything, 
+			it's that it's a lot easier to take 
+			things apart than put them back 
+			together.
+
+					COMPUTER VOICE
+			Warning.  Three ships coming out of 
+			warp.
+
+					NOG
+				(another panic attack)
+			Where?
+
+					JAKE
+				(answering Nog)
+			Right there.
+
+	Nog looks up and we...
+
+61   NEW ANGLE (OPTICAL)
+
+	We look past Jake and Nog's shoulders out the front window 
+	at the Odyssey and the two Runabouts which have dropped out 
+	of warp off screen.
+
+62   RESUME SCENE
+
+	As Jake and Nog react to the ship.
+
+					O'BRIEN'S COM VOICE
+			Mekong to Rio Grande.
+
+					JAKE
+				(to com, relieved)
+			Chief... It's me, Jake.
+
+					KIRA'S COM VOICE
+			Jake, are we glad to find you.  
+			Where's your father?
+
+					JAKE
+			He and Quark were taken prisoner.
+
+					O'BRIEN'S COM VOICE
+			Jake, come to a full stop.  I'll 
+			beam aboard.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FOUR       46.
+
+62   CONTINUED:
+
+	Jake hits the controls and from the sound of the engines, 
+	we can tell they're slowing down.  Almost immediately 
+	thereafter...
+
+63   NEW ANGLE (OPTICAL)
+
+	As O'Brien MATERIALIZES.  He steps off the pad, almost 
+	tripping on the pile of isolinear chips and discarded 
+	components.
+
+					O'BRIEN
+				(re: the mess)
+			Have some trouble getting her out of 
+			orbit?
+
+					NOG
+				(impressed)
+			How'd you know?
+
+	Jake gets up so O'Brien can take over the controls.
+
+					JAKE
+			Chief, we've got to go back and save 
+			my dad.
+
+					O'BRIEN
+				(determined)
+			Don't worry, son.  That's exactly 
+			what we're going to do.
+
+	And as O'Brien works the controls...
+
+64   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+65   INT. CAVERN CONTAINMENT AREA
+
+	Quark is hard at work, poking around in the locking mechanism 
+	of Eris's suppression collar with an improvised tool.  He 
+	pushes against the back of her head to get a better angle.  
+	Sisko is keeping watch for the Jem'Hadar.
+
+					QUARK
+				(making small talk)
+			This is a very sophisticated device.  
+			Most telepathic suppressors I've 
+			seen have been much bulkier.  You 
+			know, there could be a market for 
+			this in the Alpha Quadrant.
+
+					ERIS
+				(pulling away)
+			You're hurting me.
+
+					QUARK
+			I'm sorry.  But I don't have much to 
+			work with.
+
+					ERIS
+				(angry)
+			You've been at it for hours.
+
+					QUARK
+			If you'd just stay still, I'd be...
+
+	Just then, we hear an electronic PING and the collar CLICKS 
+	open.
+
+					QUARK
+				(continuing)
+			...done.
+
+	Eris ignores Quark.  She rips the collar off and tosses it 
+	aside.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE      47A.
+
+65   CONTINUED:
+
+					SISKO
+			All right, let's get out of here.
+
+					ERIS
+			Stand back.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       48.
+
+66   NEW ANGLE (OPTICAL)
+
+	Eris concentrates on the ring.  The mechanism sparks and the 
+	barrier fritzes out.
+
+67   INT. MAIN CAVERN (OPTICAL)
+
+	Sisko charges out of the containment area as a Jem'Hadar 
+	guard appears.  Sisko dives at the guard, knocking him to 
+	the ground.  Sisko grabs the guard's weapon as the guard 
+	gets back to his feet.  The guard pulls out another weapon, 
+	but Sisko shoots him.
+
+68   NEW ANGLE (OPTICAL)
+
+	He looks back to see Eris standing behind him, looking 
+	weakened from the effort of destroying the security barrier.  
+	There's no sign of Quark.
+
+					SISKO
+				(urgent)
+			Quark, move it.
+
+69   INT. CAVERN CONTAINMENT AREA
+
+	Quark is retrieving Eris's suppression collar.  He stuffs it 
+	into his pocket.
+
+					QUARK
+			Right behind you.
+
+70   INT. MAIN CAVERN (OPTICAL)
+
+	Sisko tosses Quark the weapon, then bends over to retrieve 
+	another one and a Jem'Hadar guard shimmers into visibility 
+	behind Sisko.  Sisko doesn't see him in time, but...
+
+71   INCLUDE QUARK (OPTICAL)
+
+	As he shoots the Guard.  The Guard is blown backwards.  Quark 
+	turns to Sisko, who rises to his feet.
+
+					SISKO
+			Thanks.
+
+					QUARK
+				(genuine)
+			You're welcome.
+
+	The three of them disappear around a bend in the cave.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       49.
+
+72   EXT. SPACE (OPTICAL)
+
+	The Odyssey and the three Runabouts move in formation.
+
+73   INT. ORINOCO (OPTICAL)
+
+	Kira and Bashir.  Bashir's now piloting.  Kira's got the 
+	weapons.
+
+					BASHIR
+			I'm picking up something on forward 
+			scanners.
+
+					KEOGH
+				(on monitor)
+			Odyssey to runabouts.
+
+					KIRA
+				(to com)
+			Go ahead, Odyssey.
+
+74   INT. ODYSSEY - BRIDGE
+
+	Keogh and his officers.
+
+					KEOGH
+				(to Kira)
+			We're detecting three incoming ships 
+			in attack formation.
+
+					FIRST OFFICER
+			Shields up.
+
+					SECOND OFFICER
+			Going to red alert.
+
+75   INT. MEKONG
+
+	Dax and Odo raise their shields as well.
+
+					DAX
+			Take the helm, Odo.  I'll handle the 
+			targeting controls.
+
+					ODO
+			Very good.
+
+76   INT. RIO GRANDE (OPTICAL)
+
+	O'Brien is frantically doing a diagnostic at the control 
+	panel.  The Odyssey is visible out one side window and another 
+	runabout can be seen out the other.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       50.
+
+76   CONTINUED:
+
+					O'BRIEN
+				(to com)
+			Captain, this is the Rio Grande.  
+			Half the systems on this ship are 
+			disabled.  I'm going to have to break 
+			formation.
+
+					KEOGH
+				(on monitor)
+			Understood.  Return to the wormhole.  
+			We'll try to screen you from enemy 
+			fire.
+
+					JAKE
+			What about my dad?
+
+					O'BRIEN
+				(to com)
+			Captain, I'd like to see if I can 
+			get close enough to the planet to 
+			locate Commander Sisko.
+
+76A  INT. ODYSSEY - BRIDGE
+
+					KEOGH
+			All right, but you have ten minutes, 
+			then I want you out of there.
+
+					SECOND OFFICER
+			Enemy ships within range.
+
+					FIRST OFFICER
+			Ready to fire at your command.
+
+					KEOGH
+				(to com)
+			Runabouts break formation.  Attack 
+			pattern Delta.
+
+76B  INT. ORINOCO
+
+	As Kira and Bashir prepare for battle.
+
+					KIRA
+			Here they come.
+
+77   EXT. SPACE (OPTICAL)
+
+	As three identical Jem'Hadar assault ships streak toward 
+	the Federation ships.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       51.
+
+77   CONTINUED:
+
+	The Rio Grande is no longer in formation.  The Orinoco 
+	and Mekong break away to engage the Jem'Hadar ships.
+
+	The Jem'Hadar and Federation ships exchange fire.  The more 
+	maneuverable runabouts avoid the Jem'Hadar weapons, but the 
+	Odyssey is hit and sustains damage.
+
+77A  INT. ODYSSEY - BRIDGE
+
+	The Bridge is full of smoke and fire.  Consoles are sparking, 
+	red alert is flashing.  It's a chaotic scene, but Keogh 
+	remains a stabilizing force in the center of the turmoil.
+
+	Another explosion rocks the Bridge as Keogh gets his officers 
+	reports.
+
+					FIRST OFFICER
+			I'm getting casualty reports from 
+			decks four, five, eight and seventeen 
+			and we have a plasma leak in our 
+			port nacelle.
+
+					KEOGH
+			Deploy damage control teams.
+				(to com)
+			Keogh to runabouts.
+
+					KIRA'S COM VOICE
+			Go ahead.
+
+					KEOGH
+			They're using some kind of phased 
+			polaron beam to penetrate our shields.
+
+78   INT. MEKONG
+
+	Dax and Odo are getting shaken by near misses.
+
+					DAX
+			Have you tried altering your harmonics 
+			to compensate?
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       52.
+
+78A  INT. ODYSSEY - BRIDGE
+
+					KEOGH
+				(to com)
+			We rotated through the full spectrum 
+			(TECH), but none of the frequencies 
+			were effective.
+				(a beat)
+			Divert your shield power to weapons.  
+			We'll give O'Brien five more minutes, 
+			and then we're getting out of here.
+
+79   OMITTED
+
+80   INT. ORINOCO
+
+	As before.
+
+					KIRA
+				(to com)
+			Understood.
+				(to Mekong)
+			Dax, let's see if we can take some 
+			pressure off the Odyssey.
+
+					DAX'S COM VOICE
+			We're with you.
+
+	Bashir puts the runabout into a tight turn.
+
+					BASHIR
+			Hang on.
+
+81   OMITTED
+
+82   INT. JUNGLE - DAY (OPTICAL)
+
+	Sisko and Eris are hurrying through the jungle.  An exhausted 
+	Quark is trying to keep up, but is rapidly falling behind.
+
+					QUARK
+				(out of breath)
+			Wait... stop...
+
+	Sisko turns around just as Quark collapses to his knees.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE      52A.
+
+82   CONTINUED:
+
+					QUARK
+				(re: his terrible 
+				physical condition)
+			I've got to start using those 
+			holosuite exercise programs.
+
+	Sisko helps Quark to his feet.
+
+					ERIS
+			He's slowing us down.  He can hide 
+			in the underbrush.  We'll transport 
+			him to safety once we get to your 
+			ship.
+
+					SISKO
+			I'm not leaving him behind.
+				(smiling at Quark)
+			We never would've gotten away from 
+			the Jem'Hadar without him.
+
+					QUARK
+				(pleased)
+			Thank you, Commander.
+				(glaring at Eris)
+			I'm glad someone around here 
+			appreciates me.
+
+	Suddenly, all three of them DEMATERIALIZE.
+
+83   INT. RIO GRANDE
+
+	Jake rushes to embrace his father.
+
+					JAKE
+			Dad.
+
+					SISKO
+			This has turned into some science 
+			project, huh, Jake?
+
+					NOG
+			Uncle Quark...
+
+					QUARK
+				(angry)
+			Nog, you are never going on a "field 
+			trip" again.
+
+	Sisko takes the co-pilot's seat.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       53.
+
+83   CONTINUED:
+
+					SISKO
+				(to Jake)
+			Take Eris and Nog back to the 
+			passenger compartment... And stay 
+			there.
+
+	They start to leave.
+
+					SISKO
+			And Jake...
+				(with affection)
+			You did good.
+
+	Jake smiles.  That's the best thing he could hear.
+
+84   EXT. SPACE (OPTICAL)
+
+	The Orinoco and the Mekong sweep past a Jem'Hadar ship, 
+	exchanging fire with it.  The Jem'Hadar ship is crippled.
+
+84A  INT. MEKONG (OPTICAL)
+
+	Looking over Dax and Odo's shoulders and out through the 
+	front window at the Jem'Hadar ship, which fires back, rocking 
+	the Mekong.
+
+85   NEW ANGLE
+
+	The runabout has been badly damaged.  Smoke leaks into the 
+	cockpit as Dax fights to work the weapons.
+
+					DAX
+			My control panel is dead...
+
+					ODO
+			We've lost our sensors.
+
+86   INT. ORINOCO
+
+	Kira continues firing while performing complex evasive 
+	maneuvers.
+
+					KIRA
+				(to com)
+			Break off, Mekong.  Initiate evasive 
+			maneuvers.  We'll lay down covering 
+			fire.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE      53A.
+
+86   CONTINUED:
+
+					ODO'S COM VOICE
+			Acknowledged.
+
+					O'BRIEN'S COM VOICE
+			Rio Grande to Odyssey.  We've got 
+			Sisko.
+
+	Kira and Bashir exchange smiles.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       54.
+
+86A  INT. ODYSSEY - BRIDGE
+
+	The situation has worsened.  The ship continues to be rocked 
+	by enemy fire.
+
+					KEOGH
+			Well done, Chief.
+
+					FIRST OFFICER
+				(shouting orders in 
+				background)
+			Damage control team to level seven.
+				(to Keogh)
+			Our tactical control systems are 
+			down.  We've lost power to phasers.
+
+					KEOGH
+				(to com)
+			Bridge to Engineering, get that port 
+			nacelle back on line.
+
+					COM VOICE
+			Aye, Captain.
+
+					KEOGH
+			Keogh to runabouts, we've got what 
+			we came for.  We'd better fall back 
+			to...
+
+	And suddenly the Odyssey shakes violently and Keogh is almost 
+	thrown off his feet.
+
+87   INT. RIO GRANDE (VPB)
+
+	Their monitor displays nothing but static.
+
+					O'BRIEN
+			Their communications array must've 
+			been hit.
+
+					SISKO
+				(to com)
+			Kira, Dax, you heard him.  Let's get 
+			out of here.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE      54A.
+
+87A  EXT. SPACE (OPTICAL)
+
+	The Odyssey and the Runabouts turn away from the remaining 
+	two Jem'Hadar ships.
+
+88   INT. ORINOCO
+
+					BASHIR
+				(off monitor)
+			Major... one of the Jem'Hadar ships 
+			is making a direct run at the Odyssey.
+
+					KIRA
+			Move to intercept.
+
+89   EXT. SPACE (OPTICAL)
+
+	But it's too late.  As the Odyssey makes a long, slow turn, 
+	a Jem'Hadar assault ship plunges straight at it in a kamikaze 
+	run.  The Orinoco fires but the Jem'Hadar ship crashes right 
+	into the Odyssey's forward hull near the main deflector dish.
+
+	Both ships explode in a ball of fire.
+
+90   INT. MEKONG
+
+	As orange light from the fireball reflects off Dax and Odo's 
+	face.
+
+91   INT. ORINOCO
+
+	Bashir and Kira also react to the destruction of the Odyssey.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       55.
+
+92   INT. RIO GRANDE
+
+	Sisko, O'Brien, and Quark react grimly to the loss.
+
+					O'BRIEN
+			We were retreating.  There was no 
+			need for a suicide run.
+
+					SISKO
+			They're showing us how far they're 
+			willing to go.
+				(grim, to com)
+			Set a course for the wormhole.
+
+93   OMITTED
+
+94   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Stock.  Re-establishing.
+
+95   INT. RIO GRANDE
+
+	The Rio Grande has docked.  Jake and Nog EXIT into the 
+	airlock, followed by Eris and O'Brien.  As they move off, 
+	Quark lags behind and stops Sisko in the doorway.
+
+					QUARK
+			Commander, wait.
+
+	Quark looks to see that everyone else is out of sight, then 
+	he takes out Eris's suppression collar.
+
+					QUARK
+			We need to talk.
+
+	And there's something about the serious tone in Quark's voice 
+	that makes Sisko listen.  Off Sisko's questioning look...
+
+96   INT. OPS
+
+	Eris and O'Brien have met up with Odo, Bashir, Kira and Dax.  
+	Eris is looking around at Ops.
+
+					ERIS
+			I can't believe I'm on the other 
+			side of the galaxy.
+
+					SISKO (O.S.)
+			You'll get used to it.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       56.
+
+97   NEW ANGLE
+
+	As Sisko, Quark, and two Federation Security Guards emerge 
+	from the Turbolift.  Sisko and the Security Guards immediately 
+	fan out and point phasers at Eris.
+
+					SISKO
+				(to the senior staff)
+			Move away from her.
+
+	Though unsure why, everyone backs away from Eris.
+
+					ERIS
+			I don't understand.
+
+					QUARK
+				(holding up the 
+				suppression collar)
+			I've been looking over this collar 
+			of yours.  I thought if I could 
+			replicate it, I might be able to 
+			turn a tidy profit.  Imagine my 
+			surprise when I discovered there's 
+			nothing in here.  It's just a 
+			complicated locking device.
+
+					SISKO
+			Which means you could've used your 
+			telekinetic abilities at any time.  
+			So the question is, why didn't you?
+
+	Eris looks at Quark with contempt, and then stares defiantly 
+	at Sisko.
+
+					ERIS
+			You seem to already know the answer.
+
+					SISKO
+				(he thinks he does)
+			The Jem'Hadar wanted us to escape, 
+			didn't they?  That was the plan all 
+			along... for us to bring you back 
+			here, so that you could spy on the 
+			Federation.
+
+					ERIS
+				(patronizing)
+			Well done, Commander.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       57.
+
+					SISKO
+			You're one of the Founders, aren't 
+			you?
+
+					ERIS
+			You think the Founders would waste 
+			their time with you?
+
+					SISKO
+			Constable...
+
+	Odo steps forward.
+
+					ODO
+				(to Eris)
+			Madam, if you'll come with us...
+
+	Eris takes one step backward from Odo and the Security guards.  
+	She keeps her eyes focused on Sisko.
+
+					ERIS
+				(to Sisko)
+			You have no idea what's begun here.
+
+	And with that...
+
+98   ERIS (OPTICAL)
+
+	Hits a concealed Transporter device and DEMATERIALIZES just 
+	like the Jem'Hadar did.
+
+99   NEW ANGLE
+
+	As everyone reacts to Eris's disappearance by going to their 
+	stations.
+
+       DEEP SPACE: "The Jem'Hadar" - REV. 04/22/94 - ACT FIVE       58.
+
+99   CONTINUED:
+
+					O'BRIEN
+				(checking panels)
+			I'm picking up a transporter 
+			signature, but I can't trace it.  
+			She didn't rematerialize anywhere on 
+			the station and there are no ships 
+			nearby.
+
+					BASHIR
+			Then where is she?
+
+	A beat.  No one has an answer.
+
+					KIRA
+			She'll be back.  The question is... 
+			who she'll bring with her?
+
+	That's a question they're all asking themselves.  But Sisko 
+	has more pressing concerns.
+
+					SISKO
+			If the Dominion comes through the 
+			wormhole, the first battle will be 
+			fought here.  And I intend to be 
+			ready for them.
+
+	We pan across the determined faces of our regulars, ending 
+	with...
+
+100  SISKO
+
+	Prepared for whatever waits ahead.  Hold on him for a beat, 
+	and then...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

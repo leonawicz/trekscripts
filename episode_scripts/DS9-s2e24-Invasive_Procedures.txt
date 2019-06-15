@@ -1,0 +1,3191 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "Invasive Procedures" 
+                          #40512-424 
+                              
+                           Story by 
+                         John Whelpley 
+                              
+                          Teleplay by 
+                      Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Les Landau 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         July 29, 1993
+
+   STAR TREK: DS9 - "Invasive Procedures" - 07/29/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Invasive Procedures" 
+                             CAST 
+
+          SISKO                    VERAD
+          KIRA                     MAREEL
+          ODO                      TIKAR
+          QUARK                    YETO
+          BASHIR                   
+          DAX                      
+          O'BRIEN                  
+
+          Non-Speaking             Non-Speaking
+
+   STAR TREK: DS9 - "Invasive Procedures" - 08/06/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Invasive Procedures" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK                       
+          DOCKING BAY                   
+          DOCKING BAY AIRLOCK           
+          DOCKING RING CORRIDOR         
+          HABITAT RING                  
+          INFIRMARY                     
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          RUNABOUT AIRLOCK              
+          SURGERY                       
+
+  STAR TREK: DS9 - "Invasive Procedures" - 08/03/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Invasive Procedures" 
+                      PRONUNCIATION GUIDE 
+
+          ANASTASIA                ANN-a-STAY-zee-a
+          ANDORIAN                 an-DOOR-ee-an
+          BAJOR                    BAY-jor
+          BAJORAN                  bah-JOR-an
+          BOLE                     BOWL
+          CARDASSIAN               car-DASS-ee-en
+          DELGORIAN                dell-GOR-ee-an
+          EKINA                    eh-KEY-nah
+          KHEFKA                   KEF-kah
+          KUSTANOIVCH              koo-STAHN-oe-vich
+          LATINUM                  IAT-i-num
+          MAREEL                   muh-REEL
+          ORINOCO                  OR-eh-NOE-koe
+          PELIOS                   PELL-ee-ohs
+          SENARIAN                 seh-NAIR-ee-an
+          SYMBIONT                 SIM-bee-ont
+          T'GLA                    TIG-la
+          T'KAR                    tuh-KAR
+          TOBIN                    TOE-bin
+          VERAD                    ver-RAD
+          YETO                     YEH-toe
+
+        DEEP SPACE: "Invasive Procedures" - 07/29/93 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                        "Invasive Procedures"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Energy discharges crackle off the station as DS-9 is buffeted 
+	by a plasma wave front.
+
+					SISKO (V.O.)
+			Station log, Stardate 47182.1.  DS-
+			Nine has been temporarily evacuated 
+			due to a violent plasma disruption 
+			in the Denorios Belt.  Until the 
+			disturbance ends, we'll be forced to 
+			maintain the station with a skeleton 
+			crew.
+
+2    INT. OPS
+
+	KIRA and DAX are at their stations.  Otherwise, Ops is 
+	deserted.  SISKO ENTERS from his office.
+
+					SISKO
+			How are we holding up?
+
+					KIRA
+			So far, so good.  I'll say one thing 
+			for the Cardassians, they built this 
+			place to last.
+
+					DAX
+				(playful)
+			And just in case it doesn't, I've 
+			got the Orinoco prepped and ready at 
+			Pad "C."
+
+					SISKO
+			Any word from Chief O'Brien?
+
+					DAX
+			He and Odo checked in about an hour 
+			ago.  They sealed off the airlocks 
+			in the upper and lower pylons and 
+			were moving on to the docking ring.
+
+					SISKO
+				(into com)
+			Sisko to O'Brien.
+
+        DEEP SPACE: "Invasive Procedures" - 07/29/93 - TEASER        2.
+
+2    CONTINUED:
+
+					O'BRIEN'S COM VOICE
+			O'Brien here.
+
+					SISKO
+			What's your status, Chief?
+
+3    INT. DOCKING RING CORRIDOR
+
+	O'BRIEN is working on a panel... ODO's a little further down 
+	the corridor, looking around.  (Intercut as needed with 
+	previous scene.)
+
+					O'BRIEN
+				(into com)
+			Almost done, Commander.  We've sealed 
+			all the airlocks on Levels Twenty-
+			One, Twenty-Two and Twenty-Three, 
+			but we still have to check the outer 
+			bulkheads to make sure there hasn't 
+			been any crystallization from the 
+			plasma discharges... Shouldn't take 
+			much longer.
+
+					SISKO'S COM VOICE
+			I thought you might like to know... 
+			we received a message from Bajor 
+			just before the plasma storm cut off 
+			communications.  The shuttle with 
+			your family aboard arrived safely.
+
+	O'Brien wasn't expecting any trouble, but he's relieved 
+	anyway.
+
+					O'BRIEN
+			Yes, sir.  Thank you.  O'Brien 
+			out.
+
+	While O'Brien has been talking to Sisko, Odo's been looking 
+	around at the far end of the corridor, near an airlock.
+
+					ODO
+			Did you hear that?
+
+					O'BRIEN
+			Hear what?
+
+	Odo moves over to an airlock door.
+
+        DEEP SPACE: "Invasive Procedures" - 07/29/93 - TEASER        3.
+
+3    CONTINUED:
+
+					ODO
+			I could've sworn I heard something.
+
+	Odo hits the door control and the airlock opens revealing...
+
+					O'BRIEN
+				(reacts)
+			Quark.
+
+4    ANGLE ON QUARK
+
+	Who stands up from where he's apparently been sitting inside 
+	the airlock.
+
+					ODO
+				(accusatory)
+			What are you doing here?  You're 
+			under strict orders from Sisko not 
+			to leave the bar.
+
+					QUARK
+			I'm not a prisoner, Odo.  I 
+			volunteered to stay and help you 
+			protect the station.
+
+					ODO
+			The only reason you "volunteered" 
+			was because there wasn't any room on 
+			the evacuation shuttles for six 
+			hundred bars of gold-pressed latinum.
+				(beat)
+			Which still doesn't explain what 
+			you're doing out here in the docking 
+			ring.
+
+					QUARK
+				(with dignity)
+			I was saying good-bye to my brother.
+
+					ODO
+			Your brother?  His shuttle left three 
+			hours ago.
+
+					QUARK
+				(crushed)
+			Funny, it's only been three hours... 
+			and I'm already lost without him...
+
+        DEEP SPACE: "Invasive Procedures" - 07/29/93 - TEASER        4.
+
+4    CONTINUED:
+
+					ODO
+			Oh, please.  Don't try to tell me 
+			you've been sitting here all this 
+			time pining for Rom.
+
+					QUARK
+			I know, I know.  He couldn't find a 
+			cup of water if you dropped him in a 
+			lake... but even if he is an idiot, 
+			he's still my brother...
+
+					ODO
+			And you'd betray him in a second if 
+			it suited your interests.
+
+					QUARK
+			But that doesn't mean I don't love 
+			him...
+				(to O'Brien)
+			Chief, do you have any brothers?
+
+					O'BRIEN
+				(not sure what Quark 
+				is getting at)
+			As a matter of fact, I have two...
+
+					QUARK
+			And did you ever have to say 
+			good-bye to them?
+
+					O'BRIEN
+			Sure, when I joined Starfleet...
+
+					QUARK
+			And did it bring a tear to your eye?
+
+					O'BRIEN
+				(thinking back)
+			I suppose it did.
+
+					QUARK
+				(triumphant, gestures 
+				to Odo)
+			Well try explaining that to him.
+
+	Quark walks off with wounded pride.  O'Brien and Odo exchange 
+	a look, then follow him down the corridor.  We stay behind, 
+	then move into...
+
+        DEEP SPACE: "Invasive Procedures" - 07/29/93 - TEASER        5.
+
+5    INT. AIRLOCK
+
+	Where Quark has hidden a strange-looking Ferengi device.  A 
+	small red light on the mechanism flashes ominously.  Hold on 
+	the light as we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT ONE     6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+6    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The storm rages on.
+
+7    INT. OPS
+
+	Sisko, Kira, and Dax are at their stations.
+
+					DAX
+				(off sensors)
+			The storm's intensity is up thirty-
+			seven percent.
+
+					KIRA
+			Is there any way to tell how long 
+			it'll last?
+
+					DAX
+			Your guess is as good as mine.  Plasma 
+			storms are extremely rare.
+				(off Kira's frown)
+			But look on the bright side, this 
+			gives us a great opportunity to study 
+			one.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE     7.
+
+7    CONTINUED:
+
+					KIRA
+				(mild sarcasm)
+			Lucky us.
+
+8    NEW ANGLE
+
+	As BASHIR ENTERS from the Turbolift.
+
+					BASHIR
+			You should see the view from the 
+			Promenade.  Simply amazing.
+
+					SISKO
+			I assume the Promenade is secure.
+
+					BASHIR
+			Yes sir.  I've struck the sails and 
+			battened the hatches... so to speak.
+
+	Dax's attention is brought back to her panel by a flashing 
+	alarm light.  She studies it carefully.
+
+					DAX
+			Benjamin...
+				(off reaction)
+			You'd better look at this.
+
+	Sisko joins Dax and checks her panel.
+
+					DAX
+			I'm detecting a small vessel headed 
+			this way at one quarter impulse.
+
+					KIRA
+			They're hailing us.
+
+					SISKO
+			On screen.
+
+	Kira operates her panel.
+
+					KIRA
+			I can't get a visual.
+
+	She patches the signal through audio only.  The signal is 
+	distorted, with frequent dropouts.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE     8.
+
+	(Underlined words can be heard clearly, the rest is 
+	garbled.)
+
+					VERAD (V.O.)
+				(through static)
+			... cargo ship Ekina.  We've been 
+			caught by the storm.  Our engines 
+			have been severely damaged.  We need 
+			emergency assistance.  Can you read 
+			me?  Repeat, this is the cargo ship 
+			Ekina...
+
+	The static grows worse until it totally drowns Verad out.
+
+9    OMITTED
+
+10   BACK TO SCENE
+
+	Kira tries in vain to regain the signal.
+
+					KIRA
+			I've lost it.
+
+					SISKO
+			Can you get a transporter lock on 
+			the crew?
+
+	Kira tries, but it's no use.
+
+					KIRA
+			There's too much interference.
+
+					SISKO
+			Engage the tractor beam.  Bring them 
+			into the closest docking bay.
+
+					KIRA
+				(operates controls)
+			It's not working.  The plasma storm 
+			is dispersing the beam.
+
+					DAX
+			Maybe if we modulate the frequency 
+			of the beam...
+
+	Dax takes over the operation at her own panel.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE     9.
+
+10   CONTINUED:
+
+					DAX
+				(worried)
+			I've got them.  But I don't know how 
+			long I can hold on.
+
+					SISKO
+			Bring them into docking bay five.
+
+					BASHIR
+			There might be casualties.  I'll get 
+			down to the Infirmary.
+
+					SISKO
+				(nods to Bashir; to 
+				com)
+			Sisko to O'Brien.
+
+11   INT. PROMENADE
+
+	(Intercut as needed)  The Promenade is empty.  O'Brien is in 
+	foreground; Odo is in the background, talking to Quark.
+
+					O'BRIEN
+			O'Brien here.
+
+					SISKO'S COM VOICE
+			We've got some storm victims coming 
+			into docking bay five.  They may be 
+			in need of assistance.
+
+					O'BRIEN
+			I'll have to release the emergency 
+			seals on the airlock before they can 
+			board the station.
+				(beat)
+			On my way.
+
+12   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A tractor beam holds a beat-up alien cargo ship.
+
+13   INT. DOCKING BAY AIRLOCK
+
+	Odo and O'Brien ENTER.  The hatchway of an alien ship fills 
+	the far side of the airlock.  O'Brien checks the ship's hull 
+	and locates an emergency hatch release.
+
+					O'BRIEN
+			Stand clear.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT ONE    10.
+
+13   CONTINUED:
+
+	Odo moves back a little and O'Brien opens the door.  Smoke 
+	pours out of the hatchway and a woman staggers into the 
+	airlock.
+
+	The woman, MAREEL, is a tall humanoid alien, attractive yet 
+	capable-looking.  She coughs spasmodically from the smoke.
+
+					O'BRIEN
+				(concerned)
+			Are you all right?  Is anyone hurt?
+
+	While O'Brien is distracted by Mareel, a grizzled Klingon 
+	mercenary, T'KAR, emerges from the smoking hatchway and aims 
+	a disruptor at O'Brien's head.
+
+					T'KAR
+			Not yet.
+
+	Mareel stops coughing and points a phaser at Odo.
+
+					O'BRIEN
+			What the hell do you think you're 
+			doing?
+
+					T'KAR
+				(gestures toward the 
+				airlock door)
+			No questions.  Into the corridor.
+
+	T'Kar shoves O'Brien through the airlock.
+
+14   INT. DOCKING BAY
+
+	O'Brien and Odo ENTER the docking bay, followed by Mareel, 
+	T'Kar and two other gunmen.  One of the gunmen, YETO, is 
+	also Klingon, younger and less battle-scarred looking than 
+	the first.  His eagerness and excitability make for a sharp 
+	contrast to T'Kar's professionalism.
+
+	The other, VERAD (seen earlier on viewscreen), is slight and 
+	nervous looking.  Leopard-like spots on the side of his head 
+	identify him as a Trill.  Like Mareel, he is equipped with 
+	Federation equipment.  He carries a strange high-tech box 
+	under one arm.
+
+					O'BRIEN
+			This is a fine way of showing your 
+			gratitude.  We just saved your lives 
+			out there.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE    11.
+
+14   CONTINUED:
+
+					T'KAR
+				(to Yeto)
+			You see?  The ever-helpful Federation.  
+			So predictable.
+
+					O'BRIEN
+			Listen here, friend... in case you 
+
+			haven't heard, the Federation and 
+			the Klingon Empire are allies now.
+
+					T'KAR
+				(spits)
+			The Empire is governed by doddering 
+			fools and frightened old women who 
+			aren't worthy of the name Klingon.
+				(to the woman)
+			Mareel, the combadges.
+
+	Mareel takes Odo and O'Brien's combadges and tosses them to 
+	T'Kar.  T'Kar puts on O'Brien's badge and hands Odo's to 
+	Verad.  Mareel gives Odo the once over.
+
+					MAREEL
+				(re: Odo)
+			This one must be the shape-shifter.
+
+	Yeto gives Verad a little shove.
+
+					YETO
+				(impatient)
+			Go on, what are you waiting for?
+
+	Verad, who has been hanging back, comes forward and places 
+	the high tech box at Odo's feet.
+
+					O'BRIEN
+				(to Verad, surprised)
+			You're a Trill.
+
+	Verad avoids O'Brien's gaze and, shielding his work with his 
+	hand, types a code into a panel on the side of the box.  The 
+	box unfolds like a flower.
+
+					T'KAR
+				(re: the box)
+			Inside.
+
+					ODO
+				(outraged)
+			And what if I refuse?
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE    12.
+
+14   CONTINUED:	(2)
+
+					VERAD
+				(jumpy)
+			Please.  Do as he says and no one 
+			will get hurt.
+
+	Odo studies Verad carefully.  He is middle-aged, a little 
+	out of shape... nervous... and very, very scared.  Verad 
+	averts his eyes.  Whenever Verad talks, he avoids making eye 
+	contact.
+
+					T'KAR
+			Now, shifter.
+				(re: O'Brien)
+			Or this one dies.
+
+15   ON ODO (OPTICAL)
+
+	Odo gives T'Kar an icy stare, clearly not intimidated, then 
+	MORPHS into liquid and pours himself inside the box.
+
+16   BACK TO SCENE
+
+	Verad retreats fearfully from the liquid-filled box.  Seeing 
+	that Verad will no longer approach it, Yeto snorts in disgust 
+	and taps the panel.  The box seals itself shut.
+
+	T'Kar prods O'Brien with the muzzle of his disruptor.
+
+					T'KAR
+			Let's go...
+				(sarcastically)
+			Ally.
+
+17   INT. SURGERY
+
+	Bashir's readying the Surgery Area for business when O'Brien 
+	steps into his peripheral vision.
+
+					BASHIR
+			Were there any casualties?
+
+	Bashir turns and sees the four intruders.  T'Kar has O'Brien 
+	at gunpoint.
+
+					T'KAR
+			That depends on you.
+
+	Yeto gestures with his disruptor for Bashir to raise his 
+	hands, while Mareel tears Bashir's combadge off his uniform 
+	and tosses it to Yeto, who puts it on.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT ONE    13.
+
+17   CONTINUED:
+
+					T'KAR
+			Yeto, get the Ferengi.
+
+	Yeto leaves.
+
+					BASHIR
+				(with an edge)
+			You mind telling me what this is all 
+			about?
+
+	T'Kar shoves his disruptor into Bashir's face.
+
+					T'KAR
+			Any more questions?
+
+					VERAD
+				(alarmed)
+			Don't hurt him.
+
+	T'Kar glares at the Trill with disgust.
+
+					T'KAR
+			Mareel, the box.
+
+	Mareel comes forward with the box.
+
+					T'KAR
+				(to Bashir)
+			Put it in your stasis chamber.
+
+	Bashir hesitates.  T'Kar aims his disruptor at the box.
+
+					T'KAR
+			Now.  Or I will destroy it.
+
+					BASHIR
+				(doesn't get it)
+			Is that supposed to be some kind of 
+			threat?
+
+					O'BRIEN
+			They've got Odo in there.
+
+					BASHIR
+				(registers surprise)
+			I see... In that case...
+
+	Bashir opens a small stasis chamber used for storing samples.  
+	He places the box containing Odo inside and seals the chamber.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT ONE    14.
+
+18   INT. OPS
+
+	Sisko, Dax and Kira are gathered around Dax's station.  They 
+	look worried.
+
+					DAX
+			I'm still not getting a response 
+			from O'Brien or Odo.
+
+					SISKO
+			Run a level three security scan.
+
+					T'KAR (O.S.)
+			Don't bother.
+
+	Sisko and the other look up to find T'Kar, Verad and Mareel 
+	at one of the entrances to Ops.  Their weapons are out and 
+	they're using Bashir and O'Brien as human shields.
+
+					VERAD
+				(extremely nervous)
+			Please... take your hands away from 
+			the controls.
+
+	Sisko, Dax, and Kira react in surprise, but keep their hands 
+	where they are.
+
+19   CLOSE ON T'KAR (OPTICAL)
+
+	As he fires his disruptor into the air.
+
+					T'KAR
+			Now.
+				(gestures with his 
+				disruptor)
+			To the center of the room.
+
+	Kira and Dax look to Sisko.  Sisko weighs the situation, 
+	then...
+
+					SISKO
+				(reluctantly)
+			Do as he says.
+
+20   CLOSE ON VERAD AND MAREEL
+
+	As Sisko, Dax and Kira move down to the Ops table, Mareel 
+	takes Verad's free hand and gives it a loving squeeze.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE    15.
+
+20   CONTINUED:
+
+					MAREEL
+			Don't worry, Verad.  Everything's 
+			going to be all right.
+
+	Mareel removes the combadges from Sisko, Dax and Kira and 
+	equips herself with one.
+
+21   BACK TO SCENE
+
+	T'Kar gives O'Brien a shove.
+
+					T'KAR
+			Get with the others.
+
+	O'Brien gives T'Kar a defiant look, then he and Bashir join 
+	the others.
+
+					T'KAR
+				(to Verad)
+			Your turn, little man.
+
+	Mareel and Verad immediately move to the consoles and begin 
+	operating the controls.
+
+					VERAD
+				(to Mareel)
+			Don't forget to disable the backups 
+			as well as the primary systems.
+
+	Verad and Mareel work the controls as if they've carefully 
+	rehearsed ever step.
+
+22   ANGLE ON SISKO AND THE OTHER CREWMEMBERS
+
+	As they watch Verad and Mareel shut down the station's 
+	controls... O'Brien talks quietly, bringing the others up to 
+	speed.
+
+					O'BRIEN
+			It's my fault, Commander.  They took 
+			us by surprise.  Somehow, they must 
+			have neutralized the security systems 
+			in the docking ring.
+
+					SISKO
+			And how did they manage that?
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE   15A.
+
+22   CONTINUED:
+
+					O'BRIEN
+			I'm not sure.
+				(a beat)
+			But I've got a pretty good idea.  We 
+			ran across Quark in an airlock a 
+			little while ago.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT ONE    16.
+
+22   CONTINUED:	(2)
+
+					KIRA
+			When this is over, Quark and I are 
+			going to have a little "talk."
+
+23   ANGLE ON SISKO
+
+	He notices that Dax's eyes are locked on Verad.
+
+					SISKO
+				(off her stare)
+			Do you know him?
+
+	Dax shakes her head.  She looks a little worried.  She 
+	suspects she knows why Verad is there, but she still doesn't 
+	want to admit it, even to herself.
+
+24   INT. QUARK'S
+
+	Quark's placing small vials of liquid into a padded case.  
+	He picks one up and holds it up to the light.  He's just 
+	about to put it into his pocket, when he notices...
+
+	Yeto looming in the doorway.  Quark's a little nervous.  
+	It's never easy doing business with Klingons.  They tend to 
+	be unpredictable.
+
+					QUARK
+				(walking on eggshells)
+			Ah, Yeto... It's such a pleasure 
+			doing business with Klingons.  You're 
+			so... punctual.
+
+	Quark notices the vial in his hand and slips it into the 
+	case.
+
+					QUARK
+				(continuing)
+			I see that your ship was "rescued" 
+			according to plan.  I've got your 
+			merchandise right here... but I don't 
+			see any latinum.
+
+					YETO
+				(shakes his head in 
+				disgust)
+			You Ferengi... you think you're so 
+			clever... but you're stupid.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT ONE    17.
+
+24   CONTINUED:
+
+					QUARK
+			Now, now.  There's no need for name 
+			calling.  If you don't want these 
+			liquid data chains, I'm sure I can 
+			line up dozens of other buyers.
+
+					YETO
+			Go right ahead.
+
+	Quark is taken aback at first, but then decides this is just 
+	a typically heavy-handed Klingon negotiation ploy.
+
+					QUARK
+				(chiding)
+			Yeto... this is no time to haggle 
+			for a better deal.  Where else are 
+			you going to get data chains of this 
+			quality for such a reasonable price?
+
+					YETO
+			You can keep your data chains...
+
+					QUARK
+			Don't be ridiculous... You expect me 
+			to believe you've come all this way, 
+			braved the storm, just to tell me 
+			the deal is off?
+
+	Yeto aims his disruptor at Quark.
+
+					YETO
+				(contemptuous)
+			Stupid Ferengi.
+
+	And as Quark quakes in his boots...
+
+25   INT. OPS
+
+	Verad and Mareel complete their work, while Sisko approaches 
+	T'Kar.  The Klingon raises his disruptor.
+
+					T'KAR
+			I said no one moves.
+
+					SISKO
+				(not backing down)
+			I'm the commander of this station.  
+			What's your business here?
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT ONE      17A.
+
+25   CONTINUED:
+
+					T'KAR
+			You'll have to ask my employer.
+
+	To everyone's surprise, T'Kar looks at Verad.
+
+26   ANGLE ON VERAD
+
+	Mareel joins him and stands protectively by his side.  Verad 
+	is jumpy and extremely agitated.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT ONE    18.
+
+26   CONTINUED:
+
+					VERAD
+			I... I'm sorry about this.  If 
+			everyone would just cooperate, I 
+			promise this will all be over soon.
+
+					SISKO
+			What will be over soon?
+
+27   ANGLE ON THE TURBOLIFT
+
+	Yeto and Quark ENTER Ops.  Yeto shoves Quark out of the lift.
+
+					QUARK
+			This is an outrage.  I demand that 
+			you release me at once.
+
+					YETO
+			Enough of your whining.
+
+28   NEW ANGLE
+
+	Yeto pushes Quark into Kira and O'Brien.
+
+					QUARK
+			Who are these people?  What do they 
+			want with us?
+
+	Kira grabs Quark by the lapels.
+
+					KIRA
+			Funny, I was just about to ask you 
+			that.
+
+	Quark pulls away from her.  Kira goes after him.  Quark 
+	retreats, accidently bumping into Mareel, who pushes him 
+	away and raises her phaser.
+
+					MAREEL
+			That's enough.
+
+	Sisko approaches Verad.
+
+					SISKO
+				(to Verad)
+			I agree.  Now tell me what you want 
+			here.
+
+	Verad averts his eyes, trying not to meet Sisko's gaze.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT ONE    19.
+
+28   CONTINUED:
+
+					VERAD
+				(softly)
+			Dax.
+				(stronger)
+			I want Dax.
+
+	Sisko glances at Dax.  She looks like she was half expecting 
+	this.
+
+					SISKO
+				(protectively)
+			She's not going anywhere with you.
+
+	Verad tries to look at Dax but can't bring himself to do it.
+
+					VERAD
+			No, no.  I... I don't want the girl.  
+			I only want what is rightfully mine... 
+			what should have been mine years 
+			ago.  I want Dax.
+
+29   ANGLE ON DAX
+
+	The only person who really understands what is going on here.  
+	She's resigned.  This is just what she was afraid of.
+
+					DAX
+			The symbiont, Benjamin.  He's come 
+			to steal my symbiont.
+
+	And on reactions, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT TWO    20.
+                            ACT TWO                             
+
+	FADE IN:
+
+30   INT. OPS (CONTINUOUS)
+
+	The crew reacts to the declaration that Verad has come to 
+	take Dax's symbiont.  Sisko hides his anger behind a 
+	calculated calmness.  O'Brien, Kira and Quark are stunned.  
+	Bashir is outraged.
+
+					BASHIR
+				(to Verad)
+			You can't remove Jadzia's symbiont.  
+			If you do, she'll die.
+
+					SISKO
+				(calm)
+			He knows that, Doctor.
+
+					VERAD
+			I'm sorry.  Please believe me, I 
+			wish I didn't have to do this.
+
+					SISKO
+			Then don't.
+
+	When Verad becomes upset his nervousness gets even worse.
+
+					VERAD
+			I don't have any choice.  I spent my 
+			whole life trying to qualify for the 
+			joining.  I studied constantly... 
+			every day... every waking hour...
+				(beat)
+			I sacrificed everything... And then 
+			I went before the Symbiosis Evaluation 
+			Board... and they reduced my entire 
+			life to one word... "Unsuitable... "
+
+					DAX
+				(almost sympathetic)
+			That's nothing to be ashamed of.  
+			Neither of my parents or my sister 
+			underwent symbiosis.  And they lead 
+			happy and productive lives.  Only 
+			one Trill in ten is chosen to be 
+			joined.
+
+					VERAD
+			That's easy for you to say.  They 
+			chose you.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT TWO    21.
+
+30   CONTINUED:
+
+					DAX
+			I was one of the lucky ones.
+
+					MAREEL
+			And now it's Verad's turn to be lucky.
+
+					KIRA
+			But why Dax?  There are thousands of 
+			symbionts on Trill.  Why her?
+
+					VERAD
+				(defensive)
+			I did research... I worked it all 
+			out... The Dax symbiont is the best 
+			match for me.  We have mutual 
+			interests in science... diplomacy...
+
+					SISKO
+			There's another reason, isn't there?
+
+	Verad looks surprised at his question, but doesn't answer.
+
+					SISKO
+			The wormhole.
+				(a beat)
+			Once you've stolen the symbiont, you 
+			plan on escaping into the Gamma 
+			Quadrant, don't you?
+
+					MAREEL
+			Can you think of a better place to 
+			start a new life?
+
+					DAX
+				(to Verad)
+			I understand your frustration... But 
+			there could be dozens of reasons why 
+			the Board didn't select you for 
+			symbiosis.  They have to be very 
+			careful.  An improper joining can 
+			cause permanent psychological 
+			damage... to both the symbiont and 
+			the host.  They were just looking 
+			after your best interests.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT TWO    22.
+
+30   CONTINUED:	(2)
+
+					VERAD
+			Your best interests, maybe... but 
+			not mine.  All they've done is condemn 
+			me to a life of mediocrity... Well, 
+			I refuse to accept it.  I won't spend 
+			the rest of my life dreaming about 
+			what I could have been... what I 
+			should have been.  I deserve more.  
+			And I'm going to get it.
+
+					MAREEL
+				(to the Klingons)
+			Yeto, T'Kar.  It's time.
+
+	Mareel grabs Dax and roughly pulls her away from the others.  
+	Yeto takes Bashir's arm, but Bashir pulls himself free.
+
+					BASHIR
+			I'll have no part in this.
+
+					VERAD
+			I... I understand.
+
+31   ON VERAD (OPTICAL)
+
+	Verad appears to deflate, but then he turns and fires his 
+	phaser at O'Brien, hitting him in the shoulder.
+
+	Sisko goes to check on O'Brien.  Bashir tries to follow.
+
+					VERAD
+			Keep away from him.
+
+	Verad menaces O'Brien with his phaser, forcing everyone to 
+	retreat.
+
+					VERAD
+				(to Bashir)
+			There.  You see?  I've taken the 
+			first step.  Even if I don't get 
+			what I want, my life is over.  So 
+			either you help me... or you and 
+			your friends will die.  It's your 
+			choice.
+
+32   ON DAX
+
+	As she appears to come to a decision.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT TWO    23.
+
+					DAX
+			He'll help.
+				(to Bashir)
+			I don't want anyone else hurt because 
+			of me.
+				(to Verad)
+			But you have to give me your word 
+			that no one else on the station will 
+			be harmed.
+
+					VERAD
+			I promise.
+				(turns to Bashir)
+			Doctor.
+
+33   BACK TO SCENE
+
+	Bashir still hesitates.
+
+					DAX
+			Do as he says, Julian.  Please.
+
+	This is an incredibly hard decision for Bashir... maybe the 
+	most difficult in his life, but finally...
+
+					BASHIR
+			Let me treat Chief O'Brien's phaser 
+			wound first.
+				(sees Verad's 
+				reluctance)
+			It won't take long.
+
+	Verad nods his permission.
+
+					BASHIR
+				(to T'Kar)
+			There's an emergency medical kit 
+			under that console.
+
+	T'Kar looks under the console and takes out a small case.  
+	He opens it and checks the contents, then hands it to Bashir.  
+	Bashir takes a tricorder from the case and scans O'Brien's 
+	wounded shoulder.
+
+					BASHIR
+			Hold still.
+
+	Bashir takes out another instrument and plays it over the 
+	wound.  The damage disappears (off camera).
+
+					BASHIR
+			There.  There should be no permanent 
+			damage.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT TWO   23A.
+
+33   CONTINUED:
+
+	Bashir gives the instrument to Kira.
+
+					BASHIR
+			Apply this every twenty minutes or 
+			so.  It'll help the wound regenerate.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT TWO    24.
+
+33   CONTINUED:(2)
+
+					T'KAR
+			Enough stalling.
+				(to Yeto)
+			Take them to the Infirmary.
+
+	Bashir looks like he still won't cooperate.
+
+					SISKO
+				(quietly)
+			Do as he says, Doctor.  This is no 
+			time to be a hero.
+
+	Bashir goes with them.
+
+34   NEW ANGLE
+
+	Dax hangs back, lingering near Sisko and Kira for a second.
+
+					KIRA
+			This isn't over, Dax.  I promise you 
+			that.
+
+	Dax smiles slightly, letting Kira know she appreciates her 
+	support, then turns to Sisko.
+
+					SISKO
+			Dax...
+
+					DAX
+				(anticipating what 
+				he's going to say)
+			I know, Benjamin... you'll do all 
+			you can.  But just in case it isn't 
+			enough, I want you to know...
+				(beat, searches for 
+				the words, smiles)
+			It's been fun.
+
+	Sisko nods, too torn with emotion to respond.  Dax allows 
+	Yeto to lead her out of the room.  Bashir follows her, as 
+	does Verad.  Mareel stops Verad as he heads for the door and 
+	kisses him softly on the forehead.
+
+					MAREEL
+			Good luck.
+
+					VERAD
+				(proudly)
+			It won't be long now.  And then you'll 
+			see.  Everything will be just as I 
+			promised.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT TWO      24A.
+
+					MAREEL
+			I know.
+
+	They share a moment together and then Verad EXITS.  Mareel 
+	exchanges a silent look with T'Kar and the two of them take 
+	up firing positions to cover Sisko and the others.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT TWO    25.
+
+35   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Plasma bolts flash around the station as the storm continues.
+
+36   INT. SURGERY
+
+	Bashir prepares the instruments necessary for the surgery.  
+	Dax and Verad are lying on operating tables, with Starfleet 
+	surgical platforms covering their abdomens.  Bashir brings a 
+	small device over to Verad and starts to place it on his 
+	forehead.
+
+	Verad stops him.  Verad's sudden movement puts Yeto on alert.
+
+					VERAD
+				(panicky)
+			What's that?
+
+					BASHIR
+			It's a delta wave inducer.  It will 
+			keep you asleep through the surgery.  
+			It also increases your body's natural 
+			endorphin production to help 
+			accelerate the healing process.
+
+	Bashir starts to place the device on Verad, but the Trill 
+	stops him again.
+
+					VERAD
+			I don't want it.
+
+					BASHIR
+			I strongly advise that you use it... 
+			the surgery will be much easier on 
+			you if you...
+
+					VERAD
+				(cuts him off)
+			I don't need your advice.  I want to 
+			be awake.  Use a neuro-electrical 
+			suppressor.  And set up a monitor so 
+			I can watch the procedure.  That 
+			way, if you run into any "trouble," 
+			I'll be able to assist you.
+				(beat)
+			Now let's get started.
+
+					BASHIR
+			And if I refuse.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT TWO    26.
+
+36   CONTINUED:
+
+	Verad activates his stolen combadge.
+
+					VERAD
+				(to com)
+			Verad to Mareel.
+
+37   INT. OPS
+
+	Mareel answers her communicator.  (Intercut as necessary)
+
+					MAREEL
+				(to com)
+			Is there a problem?
+
+38   INT. SURGERY
+
+	As before.  (Intercut as necessary)
+
+					VERAD
+				(to com)
+			That's up to the doctor.
+				(to Bashir)
+			Will you cooperate?  Or do I tell 
+			Mareel to shoot the hostages?  Who 
+			should she start with... The 
+			Bajoran... or maybe your commander...
+
+					BASHIR
+				(defeated)
+			No.  That won't be necessary.
+
+					VERAD
+			Good.  No more games.  If I don't 
+			survive this, neither will they.
+				(to com)
+			Did you hear that, Mareel?
+
+					MAREEL'S COM VOICE
+			I heard.  Mareel out.
+
+					VERAD
+				(to Bashir)
+			Now, Doctor...
+
+	Crestfallen, Bashir takes the delta wave inducer and brings 
+	it to Dax.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT TWO       27.
+
+38   CONTINUED:
+
+					BASHIR
+			I'm sorry, Jadzia.
+
+					DAX
+			Don't blame yourself, Julian.  You 
+			did all you could.
+
+					BASHIR
+				(at a loss for words)
+			I...
+				(re: the wave inducer)
+			This will help you sleep.
+
+					DAX
+			Thank you.
+
+	This whole situation is killing Bashir.  He reluctantly puts 
+	the inducer on Dax's forehead and she slowly slips into 
+	unconsciousness.
+
+					BASHIR
+				(whispers)
+			Forgive me...
+
+39   INT. OPS
+
+	T'Kar and Mareel keep watch over the hostages... Quark sits 
+	by himself, looking dejected, playing with a latinum coin... 
+	Sisko, Kira and O'Brien are seated on the other side of the 
+	room, talking quietly among themselves.
+
+					KIRA
+				(whispering)
+			How long can Jadzia survive without 
+			the symbiont?
+
+					SISKO
+			Once the symbiont's removed, the 
+			host usually dies within hours.  But 
+			Jadzia's young and healthy... Bashir 
+			will do all he can...
+				(beat)
+			She'll make it through the night.
+
+					O'BRIEN
+			That still doesn't give us much 
+			time...
+
+					T'KAR
+			No talking.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT TWO    28.
+
+39   CONTINUED:
+
+	T'Kar brutally kicks O'Brien in his wounded shoulder.  
+	O'Brien goes down.  Sisko charges T'Kar.  They struggle.
+
+40   NEW ANGLE
+
+
+	Mareel goes to help the Klingon, but Kira intercepts her.  
+	They fight and to Kira's and the audiences surprise, Mareel 
+	cleans Kira's clock, using some kind of intricate martial 
+	arts maneuver to put her out of commission.
+
+41   ANGLE ON SISKO AND T'KAR
+
+	Sisko is getting the best of the Klingon when Mareel places 
+	her phaser barrel against Sisko's back.
+
+					MAREEL
+			I don't want to kill you, Commander... 
+			but I will.
+
+	Sisko reluctantly lets go of T'Kar, and walks away.  T'Kar 
+	lets out a Klingon growl and starts to go for Sisko, but 
+	Mareel stops him.
+
+					MAREEL
+				(to T'Kar)
+			You had your chance.
+
+	T'Kar backs off while Sisko helps Kira to her feet.
+
+42   INT. SURGERY
+
+	Bashir removes the symbiont from Dax.  As we saw in "The 
+	Emissary," the symbiont is connected to Dax by an umbilical-
+	like cord.  Bashir takes a surgical tool and brings it up to 
+	the cord... and pauses.  This is the hardest thing he's ever 
+	had to do... his face is pained... but finally, he cuts the 
+	cord.
+
+43   NEW ANGLE
+
+	As Bashir takes the symbiont and places it on Verad's abdomen.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT TWO    29.
+
+44   CLOSE ON VERAD
+
+	Verad's face is filled with ecstatic enlightenment as the 
+	symboint burrows into him and he is flooded with knowledge... 
+	peace... and wisdom.
+
+44A  INT. OPS (FORMERLY SCENE 51)
+
+	The mood is grim.  Sisko tends to O'Brien under the watchful 
+	eye of T'Kar.  Mareel's across the room, lost in her own 
+	thoughts.  No one's talking much.
+
+44B  INCLUDE QUARK AND KIRA (FORMERLY SCENE 52)
+
+	Sitting off to one side.  Quark absentmindedly plays with 
+	his latinum coin, flipping it into the air, spinning it on 
+	the deck, walking it over his knuckles, just killing time.  
+	Finally, he can't take it anymore.
+
+					QUARK
+				(harsh whisper)
+			This is ridiculous.  Don't you realize 
+			they're going to kill us?  What are 
+			you people sitting around for?  Do 
+			something.
+
+					KIRA
+				(quietly)
+			Do you have any suggestions?
+
+	Kira's never exactly full of warmth toward Quark, but now 
+	she's even colder to him that usual.
+
+					QUARK
+			Why should I have any suggestions?  
+			I'm not the military mastermind.  
+			I'm just a victim of circumstances.
+
+					KIRA
+			A victim?  Really?  Then maybe you'd 
+			like to tell me how four armed 
+			terrorists got past the docking ring 
+			security grid.
+
+					QUARK
+			Security grid?  I don't know what 
+			you're talking...
+
+					KIRA
+				(cold burn)
+			Save it, Quark.  You've crossed the 
+			line this time.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT TWO   29A.
+
+44B  CONTINUED:
+
+					KIRA
+			You sold us out, and Dax may die 
+			because of it.  Whatever happens 
+			next, one thing's certain... You're 
+			through here.
+
+	Kira walks away from Quark, leaving him alone.  Quark watches 
+	her go, then looks at his latinum coin, turning it over an 
+	over again in his fingers, lost in thought.
+
+45   NEW ANGLE
+
+	Kira rubs her rib cage, grimacing at the pain.  Mareel looks 
+	at her with mild concern.
+
+					MAREEL
+			Are you all right?
+
+					KIRA
+			I'll live.
+
+					MAREEL
+			Don't try that again.  I don't want 
+			to have to hurt anyone.
+
+					KIRA
+			Tell that to Jadzia.
+
+	Mareel is stung.
+
+					MAREEL
+				(defensive)
+			That's different.
+
+					KIRA
+				(sarcastic)
+			Do you really believe that?
+
+					MAREEL
+			You heard Verad.  They didn't leave 
+			him any other choice.
+
+					KIRA
+				(skeptical)
+			That's his reason.  What's yours?
+
+					MAREEL
+			I owe him.  I grew up on the streets 
+			of Khefka Four.  I never would've 
+			made it out of there without Verad.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT TWO   29B.
+
+45   CONTINUED:
+
+					SISKO
+			What was he doing on Khefka Four?
+
+					MAREEL
+			He was the communications clerk for 
+			the Federation consulate.  He used 
+			to come by the accommodation house 
+			where I worked.  I'd help him relax.  
+			When he got recalled to Trill, he 
+			asked me to go with him... we've 
+			been together ever since.
+
+					KIRA
+			So that's it... He got you out of a 
+			bad situation and now you're willing 
+			to kill for him?
+
+     DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT TWO    30.
+
+45   CONTINUED:	(2)
+
+					MAREEL
+			He's an unhappy man.  And if there's 
+			anything I can do to make him happy, 
+			I'll do it.
+
+	Sisko sees an opportunity, but plays it cool.
+
+					SISKO
+				(almost a throwaway)
+			Even if it means losing him?
+
+					MAREEL
+			Losing him?
+
+					SISKO
+			After the surgery, Verad won't be 
+			just Verad anymore... He'll be a 
+			blending of Verad, Dax, and all the 
+			previous hosts.  Their memories, 
+			their knowledge... even their 
+			personalities.
+
+	Mareel shakes her head in dismissal.
+
+					MAREEL
+			Verad told me you'd say things like 
+			that.
+				(a beat)
+			I know he'll change... he'll be 
+			smarter, more confident... but in 
+			all the important ways, he'll be the 
+			same.
+
+					SISKO
+			I'm sorry, but if he told you that, 
+			he's lying.  When a Trill is joined, 
+			it's like a rebirth.  He'll be an 
+			entirely different person.
+
+					MAREEL
+			If you think I'm going to betray 
+			Verad, you're wrong.  It doesn't 
+			matter what you say.  I love him... 
+			and I'm going to stand by him... no 
+			matter what.
+
+					VERAD (O.S.)
+				(quietly)
+			I never doubted it.
+
+	Mareel turns around and sees Verad, who entered while she 
+	was speaking.
+
+     DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT TWO    31.
+
+45   CONTINUED:	(3)
+
+					MAREEL
+				(happy to see him)
+			Verad.
+
+	She embraces him.  He holds her for a moment, then moves her 
+	gently away.
+
+46   CLOSE ON VERAD
+
+	A changed man.  The differences are undeniable.  There's a 
+	look of confident serenity on his face.  He stands taller, 
+	carries himself better.  The nervousness is gone and when he 
+	speaks, he now looks people straight in the eye.
+
+					VERAD
+				(gently)
+			No.  Not just Verad.
+				(beat)
+			I'm Verad Dax.
+
+47   ANGLE ON SISKO AND KIRA
+
+	Hold for a beat as they react to the new Verad, and Sisko 
+	ponders what to do next, then...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT THREE   32.
+                           ACT THREE                            
+
+	FADE IN:
+
+48   INT. SURGERY
+
+	While Yeto stands guard, Bashir tries feverishly to save 
+	Dax.  She's on the 24th century version of complete life 
+	support, and all the indicator lights on the equipment are 
+	in the red.  From Bashir's expression, it's easy to tell 
+	that Dax is in serious danger.
+
+	Bashir runs a dermal regenerator over Dax's wounded abdomen.  
+	It doesn't seem to be helping.
+
+					BASHIR
+				(to Yeto, indicating 
+				the device)
+			Take this.
+
+	Yeto looks at Bashir in disbelief.
+
+					BASHIR
+				(with authority)
+			Come on, we haven't got much time.  
+			Just move it back and forth over the 
+			wound in slow even strokes.
+
+	Bashir continues to operate the instrument himself, 
+	demonstrating it.
+
+					YETO
+			Why bother?  She'll be dead in a few 
+			hours anyway.
+
+					BASHIR
+				(firm)
+			Not if I have anything to do with 
+			it.  Now help me.
+
+					YETO
+				(dismissive)
+			Why should I?  She let herself be 
+			slaughtered like a mindless t'gla.  
+			If she wanted to live, she should 
+			have fought back.
+
+					BASHIR
+			She did what she did to save the 
+			rest of us.
+
+					YETO
+			Then she's a fool and deserves her 
+			fate.
+
+    DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT THREE   33.
+
+					BASHIR
+				(ticked)
+			Now listen here, Yeto, or whatever 
+			your name is... I don't care about 
+			your warrior ethic, or your Klingon 
+			philosophy.  This woman's dying and 
+			you're going to help me save her.  
+			Now take the instrument.
+
+	Yeto is impressed, but he tries not to let it show.
+
+					YETO
+				(smiles)
+			So the little human's got some spark 
+			after all.
+
+	He takes the instrument and operates it sloppily while Bashir 
+	prepares a hypospray.  Bashir notices his poor technique.
+
+					BASHIR
+			I said smooth, even strokes.
+
+	Yeto grumbles, but he tries a little harder and evens out 
+	his stroke.  Bashir finishes preparing the hypo.  He injects 
+	Dax and checks...
+
+48A  THE MONITOR (VPB)
+
+	The indicator lights are still in the red.
+
+					BASHIR
+				(waiting for the hypo 
+				to take effect)
+			Come on... come on...
+
+	As the medication takes hold, some of the indicators slip 
+	down into the yellow, but most stay red.
+
+49   CLOSE ON DAX
+
+	As her eyelids slowly flutter open.  Her expression is pained, 
+	confused.  She finally focuses on Bashir.
+
+					DAX
+				(very weak)
+			Julian...
+
+					BASHIR
+			Thank God, I thought I'd lost you.
+
+					DAX
+			The symbiont... it's gone...
+
+      DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT THREE      34.
+
+49   CONTINUED:
+
+					BASHIR
+				(bitterly)
+			Everything went perfectly.  The 
+			operation was a complete success...
+
+					DAX
+			I feel so... alone...
+
+	Without the symbiont, Dax is somehow softer, more vulnerable.  
+	Bashir's obviously devastated by what has happened.
+
+					BASHIR
+				(trying to keep both 
+				their spirits up)
+			I... I've got you stabilized.  If we 
+			can just get the symbiont back in 
+			time...
+
+					DAX
+			Julian... I'm scared.
+
+	Dax closes her eyes.  She's slowly losing consciousness.
+
+					BASHIR
+			You're not going to die.  Do you 
+			hear me?  I won't let you die.
+
+					DAX
+				(as she drifts off)
+			I've never felt... so empty...
+
+	Dax falls asleep.  Bashir holds her hand tightly as the lights 
+	on the monitor hover in the red.
+
+50   INT. OPS
+
+	The tension in the room is still strong.  Kira and O'Brien 
+	talk quietly while T'Kar and Mareel cover them with their 
+	weapons.  Quark sits apart from the others, looking depressed, 
+	playing with his coin.  Sisko, having formulated a plan of 
+	action, approaches Verad.
+
+					SISKO
+			Dax?
+
+					VERAD
+				(with his newfound 
+				strength)
+			That's right, Benjamin... It's me...
+
+    DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT THREE   35.
+
+50   CONTINUED:
+
+					SISKO
+			Curzon, Tobin, Jadzia... all the 
+			others... they're part of you now.
+
+	Sisko's open, nonthreatening, almost admiring of the change 
+	in Verad.  But underneath, he's calculating his every move.
+
+					VERAD
+				(nods)
+			It's amazing.  So many ideas... so 
+			many memories...
+
+					SISKO
+				(seductive)
+			Eight lifetimes of memories.  It 
+			must be incredible.
+
+					VERAD
+				(looking Sisko in the 
+				eye)
+			It's better than I ever imagined.
+
+					SISKO
+			This station must look entirely 
+			different to you.
+
+					VERAD
+				(looks around)
+			It does.  I...
+				(thoughtfully)
+			I know this place.
+				(looks at Sisko and 
+				smiles)
+			And I know you... Benjamin.
+
+	And, on some level, he also knows Sisko's up to something.  
+	But he wants it so bad, Verad can't help going along.
+
+					SISKO
+			Of course you do.  Remember when we 
+			first met...
+
+					VERAD
+				(remembering)
+			Pelios Station.
+
+					SISKO
+			Anastasia?
+
+	Verad smiles fondly at the memory.
+
+      DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT THREE      36.
+
+50   CONTINUED:	(2)
+
+					VERAD
+				(playing top-that-
+				memory)
+			And that trip we took to the cliffs 
+			of Bole.
+
+					SISKO
+				(getting into it)
+			And all the months we served aboard 
+			the Livingston?
+
+					VERAD
+				(laughing)
+			Science officer Kustanovich.  What 
+			was it... eight helpings of Andorian 
+			Redbat?
+
+	Mareel and the others are listening, but by now they're 
+	totally lost.
+
+					SISKO
+			I've never seen anybody eat like 
+			that.
+				(the best of times)
+			Remember my wedding?
+
+					VERAD
+			I remember your bachelor party.  
+			Some of it, anyway.
+
+					SISKO
+				(looking to top that)
+			And the time we discovered the 
+			wormhole?
+
+					VERAD
+				(uncomfortable)
+			One of Jadzia's proudest moments.
+
+					SISKO
+				(simply)
+			And now that woman is bleeding to 
+			death in the Infirmary.
+
+	For the first time, Verad Dax can't look Sisko in the eye.
+
+					VERAD
+				(soft)
+			I'd rather not discuss that, Benjamin.
+
+      DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT THREE      37.
+
+50   CONTINUED:	(3)
+
+					SISKO
+				(lightly)
+			You have to discuss it, Dax.  You 
+			know as well as I do that we can't 
+			let her die.
+
+					VERAD
+			But she's not going to die.  She'll 
+			live on, in me.
+
+					SISKO
+			Jadzia's memories will live on.  But 
+			Jadzia herself will die.  You'll 
+			have killed her.
+
+					VERAD
+				(remorseful)
+			You think I don't know that.  I'll 
+			never be able to forget it.
+				(beat)
+			But I promise you, Benjamin... I'll 
+			do all I can to make up for it.  I'm 
+			not going to the Gamma Quadrant to 
+			hide.  There're entire worlds which 
+			can benefit from my knowledge and 
+			experience.  I can help them... and 
+			I will.
+
+					SISKO
+			I've got a better idea.
+				(strong)
+			Help Jadzia.  Come down to the 
+			Infirmary with me.  Put the symbiont 
+			back where it belongs.
+
+	Verad considers it for a beat.  Mareel watches him with 
+	concern.  Finally...
+
+					VERAD
+			I can't do that, Benjamin... even if 
+			I wanted to.  Don't you see... it's 
+			too late.  The integration is already 
+			under way.
+
+					SISKO
+			But there's still time to stop it.  
+			Jadzia's life can still be saved.
+
+	Mareel interrupts before Verad can answer.
+
+					MAREEL
+				(to Verad)
+			Don't listen to him.  He's just trying 
+			to confuse you.
+
+      DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT THREE      38.
+
+50   CONTINUED:	(4)
+
+					VERAD
+			It's all right, Mareel.
+				(to Sisko, conciliatory)
+			Benjamin, the symbiont's still weak 
+			from the operation.  If we attempt 
+			another joining so soon, it might 
+			not survive.  Are you willing to 
+			risk that?
+
+					SISKO
+			I am.  The question is... are you?
+
+	Mareel approaches Verad, trying to draw his attention away 
+	from Sisko.
+
+					MAREEL
+			Why are you wasting your time with 
+			him?
+
+					VERAD
+				(snaps at her)
+			Because he's my friend.  Now go watch 
+			the others.
+
+	Mareel steps aside, but you can tell from her surprised 
+	expression that Verad has never, ever spoken to her like 
+	this before.  Sisko sees it, too.
+
+					VERAD
+				(ignoring her, to 
+				Sisko)
+			We are still friends, aren't we 
+			Benjamin?
+
+					SISKO
+			I hope so.  Come down to the Infirmary 
+			with me and prove it.
+
+	Part of Verad wants to say yes, but he hold himself back.
+
+					VERAD
+				(guiltily)
+			I can't do that.
+
+					SISKO
+			Then you're not the Dax I know.  And 
+			our friendship's over.
+
+	Sisko walks away.  Hold on Verad, standing by himself, 
+	isolated and feeling guilty as charged.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR      39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+51   INT. OPS
+
+	Tensions are high.  T'Kar watches over Sisko, Kira, and 
+
+	O'Brien.  O'Brien still doesn't look too good.  Verad's in 
+	the Commander's Office, working.  Quark sits alone, still 
+	playing with his latinum coin.
+
+52   INCLUDE MAREEL
+
+	Who takes a bowl of steaming liquid out of the replicator, 
+	and brings it to O'Brien.
+
+					MAREEL
+			Here, drink this.
+
+51B  NEW ANGLE
+
+	O'Brien takes the bowl and looks skeptically at the contents.
+
+					O'BRIEN
+			What is it?
+
+					MAREEL
+			Senarian Egg Broth.  It'll keep your 
+			strength up.
+
+	O'Brien still hesitates.
+
+					MAREEL
+				(shrugs)
+			All right, don't drink it.  It makes 
+			no difference to me.
+
+	She reaches out for the bowl.
+
+					O'BRIEN
+			Hold on.
+
+	He sniffs it, then takes a sip.
+
+					O'BRIEN
+				(reacts)
+			Not bad.  Thanks.
+
+	She nods, but she's preoccupied.  She looks over to the 
+	Commander's Office, where Verad sits, brooding.  Sisko notices 
+	and approaches.
+
+    DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT FOUR   39A.
+
+51B  CONTINUED:
+
+					SISKO
+				(reading her mind)
+			He even looks different, doesn't he?
+				(off her reaction)
+			The way he stands, the way he moves... 
+			talks...
+
+					MAREEL
+			He's better than he was.
+
+					SISKO
+			I'm glad you think so.
+
+					MAREEL
+			I do.
+
+					SISKO
+			Really?  The way he dismissed you 
+			before... I'm sure Verad never did 
+			that.
+
+					MAREEL
+			He's under a lot of stress.
+
+					SISKO
+				(shrugging)
+			Verad was under stress from the minute 
+			he stepped onto this station.  But 
+			he never turned on you... did he?
+
+					MAREEL
+				(temper flaring)
+			What's your point, Commander?
+
+					SISKO
+			I think you know.
+
+					MAREEL
+			You're trying to turn me against 
+			Verad.
+
+					SISKO
+			Verad no longer exists.  You know 
+			that better than I do.
+
+					MAREEL
+			All right then, Verad Dax.  But 
+			it won't work.
+				(re: Verad)
+			Nothing's changed between us.
+
+					SISKO
+			You really believe that?
+
+    DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT FOUR   39B.
+
+51B  CONTINUED:  (2)
+
+	Mareel hesitates and looks up at the Commander's Office.
+
+					MAREEL
+			Yes.
+
+					SISKO
+				(a beat, smiling)
+			Then make me believe it.
+				(off her look)
+			Go in there and talk to him.
+
+					MAREEL
+			Talk to him... About what?
+
+					SISKO
+			I don't know... whatever you want.  
+			You must have a lot to say to one 
+			another.
+
+	A beat.  Mareel can't make herself climb the stairs to the 
+	office.
+
+					MAREEL
+			I don't want to disturb him.
+
+					SISKO
+			Why not?
+
+					MAREEL
+				(with an edge)
+			Because I don't want to.
+
+					SISKO
+				(with a gentle urgency)
+			But look at him... sitting there... 
+			all alone.  He needs you.
+
+	Mareel moves away.
+
+					MAREEL
+				(fed up)
+			That's enough.
+
+	Sisko follows after her.
+
+					SISKO
+			Why are you being so reluctant?  
+			This is a perfect time for the two 
+			of you to get reaquainted.
+
+	Mareel turns and points her phaser at Sisko.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR      40.
+
+51B  CONTINUED:	(3)
+
+					MAREEL
+				(loudly)
+			I said... that's enough.
+
+					VERAD (V.O.)
+			Mareel.
+
+	They turn to see Verad standing on the balcony outside the 
+	Commander's Office.
+
+					VERAD
+			Is anything wrong?
+
+	Mareel hesitates.
+
+					VERAD
+				(impatient)
+			Well?
+
+	Mareel looks at Sisko, blaming him.
+
+					MAREEL
+				(to Verad)
+			No.  Everything's fine.
+
+					VERAD
+				(stern)
+			Good.
+				(then softening)
+			Be careful.  I wouldn't want anything 
+			to happen to you.
+
+	She smiles at him, but he's already turned and walked back 
+	into the office.
+
+52   ANGLE ON QUARK
+
+	Who watches Verad return to the Commander's Office, 
+	thoughtfully fingering his latinum coin.  He looks over to...
+
+53   T'KAR
+
+	Keeping an eye on Kira, Sisko, and O'Brien.  Suddenly, a 
+	metal on metal sound catches T'Kar's attention.  He looks 
+	down.
+
+54   CLOSE ON QUARK'S COIN
+
+	Rolling slowly across the deck.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR     40A.
+
+55   RETURN TO SCENE
+
+	T'Kar watches the coin, puzzled... and Quark jumps him.
+
+					QUARK
+			I got him.
+
+	Quark leaps onto T'kar's back and scrambles to get a lock 
+	around the Klingon's windpipe.
+
+55A  NEW ANGLE
+
+	Sisko and Kira move to help him, but Mareel alertly aims her 
+	phaser at them.
+
+					MAREEL
+			Stay back.
+
+55B  ON T'KAR
+
+	Who's almost amused as the Ferengi futilely attempts to 
+	strangle him.  Quark realizes this was a very bad idea.
+
+					QUARK
+			Maybe we should talk about this?
+
+	Without a word, T'Kar hurls Quark into the Ops table.
+
+56   CLOSE ON QUARK
+
+	As he curls up in pain, holding onto...
+
+					QUARK
+				(groaning)
+			My ear...
+
+56A  BACK TO SCENE
+
+	Verad emerges from the office to see what's going on.  Quark 
+	clutches his ear and moans in pain.  He's clearly very badly 
+	hurt.
+
+					T'KAR
+			Pathetic.
+
+	Quark continues to moan pitifully.
+
+					VERAD
+				(bigger fish to fry)
+			Mareel... take him to the Infirmary.
+
+       DEEP SPACE: "Invasive Procedures" - 08/06/93 - ACT FOUR      41.
+
+56A  CONTINUED:
+
+	Mareel reluctantly complies.
+
+57   INT. SURGERY
+
+	Quark sits in a chair, moaning in pain.  Dax's unconscious 
+	body can be see in the background, surrounded by the 24th 
+	century equivalent of full life support.  Mareel and Yeto 
+	escort a reluctant Bashir away from Dax.
+
+					BASHIR
+				(his mind's still on 
+				Dax)
+			What is it now?
+
+					QUARK
+				(holding his ear)
+			Please, it hurts...
+
+					BASHIR
+				(exasperated)
+			All right.  Just hold on.
+
+	Bashir grabs his medical tricorder and scans Quark's ear.
+
+					BASHIR
+				(confused)
+			The damage appears to be fairly 
+			superficial.
+
+58   ANGLE ON BASHIR
+
+	Bashir looks thoughtful.  Clearly something's not right here.  
+	Quark makes eye contact with him.  Bashir clues in and quickly 
+	covers up.
+
+					BASHIR
+			Ferengi ears are incredibly sensitive.  
+			I'd better run some further tests.
+
+	Bashir looks up to see if Mareel has caught on to Quark's 
+	game, but she's lost in thought.
+
+59   INT. OPS
+
+	On Verad at Dax's science station.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR      42.
+
+59   CONTINUED:
+
+					VERAD
+			The storm's intensity's dropped 
+
+			another twenty percent.
+				(to Sisko)
+			I know this has been hard for you, 
+			Benjamin.  It's been hard for both 
+			of us.  But it's almost over.
+
+	Mareel ENTERS Ops.
+
+					MAREEL
+			Good.  I'm tired of waiting here.
+
+	Mareel approaches Verad.
+
+					MAREEL
+			How're you feeling?
+
+					VERAD
+			Better than ever... thanks to you.
+				(stroking her hair)
+			I couldn't have done this without 
+			you.  I would've spent the rest of 
+			my life a mediocre man... only 
+			dreaming of what might've been.
+				(beat)
+			You know what you have to do.
+
+					MAREEL
+				(nods)
+			You just worry about getting through 
+			the wormhole.  The Klingons and I'll 
+			make sure that no one stops you.
+
+					VERAD
+			Remember, I don't want you staying 
+			here any longer than you have to.  
+			Give me an hour, then head for the 
+			wormhole.  The runabout's on Pad "C."
+
+					MAREEL
+			The sooner you leave, the sooner I 
+			can follow.  And the sooner we can 
+			be together.
+
+       DEEP SPACE: "Invasive Procedures" - 08/06/93 - ACT FOUR      43.
+
+60   ANGLE ON VERAD
+
+	He stands there, and though he returns her hug, it's with a 
+	stiffness that she can sense.  She looks up at him, studies 
+	him for a beat, then...
+
+					MAREEL
+			It's going to be all right, isn't 
+			it?
+
+					VERAD
+				(with a reassuring 
+				smile)
+			Just wait for me at the rendezvous 
+			point.
+
+61   CLOSE ON MAREEL
+
+	As Verad moves to kiss her and, for just an instant, she 
+	hesitates, her eyes still locked on him, but it passes in a 
+	flash and she returns the kiss.
+
+62   ANGLE ON SISKO
+
+	who picks up on Mareel's hesitation and ponders its 
+	significance.
+
+63   INT. SURGERY
+
+	Bashir's still working on Quark, who's whimpering pitifully.  
+	Yeto watches impatiently.  Dax can still be seen in the 
+	background, unconscious and on life support.
+
+					YETO
+				(to Quark)
+			Stop whining or I'll put you out of 
+			your misery.
+
+					BASHIR
+				(defending Quark)
+			It's not his fault.  He's got a deep 
+			contusion of the auricular lobe and 
+			a possible dislocated malleus.  In a 
+			Ferengi, either condition can be 
+			fatal.
+
+	Quark groans horribly.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR     43A.
+
+63   CONTINUED:
+
+					BASHIR
+				(holds out a medical 
+				tool)
+			If you want him to stop, then give 
+			me a hand with this.
+
+       DEEP SPACE: "Invasive Procedures" - 08/06/93 - ACT FOUR      44.
+
+63   CONTINUED:	(2)
+
+					YETO
+			I'm not your nurse.
+
+					BASHIR
+			Look, let's not go through that again.  
+			Just hold this against his ear...
+
+	The Klingon takes the instrument and brings it to Quark's 
+	ear.  Quark moans loudly.
+
+					BASHIR
+			Not too hard.
+
+	Bashir makes up a spray hypo.
+
+					BASHIR
+			Just another second... There.
+
+	He finishes the hypo, but this time he injects the Klingon.
+
+64   ON YETO
+
+	Who looks and surprised as the medicine takes effect.  Yeto 
+	wobbles, then collapses across Quark's shoulder.
+
+65   OMITTED
+
+66   BACK TO SCENE
+
+	Quark immediately stops moaning and shrugs off the Klingon.
+
+					QUARK
+			Thank you, Doctor.  I feel better 
+			already.
+
+	Bashir takes back his combadge.  Quark grows serious and 
+	looks over at Dax's unconscious body.
+
+					QUARK
+			How is she?
+
+	Bashir opens the stasis drawer containing Odo's box.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR      45.
+
+66   CONTINUED:
+
+					BASHIR
+			I've got her stabilized.  But there's 
+			no telling how much time she's got 
+			left.  We have to get the symbiont 
+			back before it's too late.
+
+	Bashir takes out Odo's box and places it on the counter.
+
+					QUARK
+			What are you doing?
+
+					BASHIR
+			Odo's in here.
+
+					QUARK
+				(intrigued)
+			He is.
+
+					BASHIR
+			Yes, and we have to get him out.
+
+					QUARK
+			Are you sure?
+
+					BASHIR
+				(exasperated)
+			Quark.
+
+	Quark is properly chastised.  Bashir turns back to the box.
+
+					BASHIR
+				(continuing, worried)
+			If we only knew the access code...
+
+	Quark interlaces his fingers and cracks his knuckles... 
+	loudly, then rubs his fingertips together like a safecracker.
+
+					QUARK
+				(confident)
+			Allow me.
+
+67   CLOSE ON QUARK (OPTICAL)
+
+	Quark studies the access code pad for a beat, then punches 
+	in a code.  Nothing happens.  He studies it again... punches 
+	in another one... still nothing.
+
+    DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT FOUR   45A.
+
+67   CONTINUED:
+
+					QUARK
+			Hmmm, your standard Delgorian locking 
+			mechanism.  Sophisticated but 
+			vulnerable if you know its weak 
+			points.
+				(pointing across room)
+			Hand me that laser scalpel.
+
+	Bashir dubiously hands Quark the instrument.  Quark plays 
+	the laser across the keypad, cutting away the face.  He 
+	removes it and fiddles with the inner workings, until... 
+	CLICK.  The box opens.
+
+	Bashir looks at Quark in amazement.
+
+					QUARK
+				(shrugs)
+			It's a gift.
+
+68   INT. OPS
+
+	As before.  T'Kar is monitoring readings from the plasma 
+	disturbance at O'Brien's station.
+
+					T'KAR
+			The storm's decreased another fifteen 
+			percent.
+
+					VERAD
+			Excellent.  That should be more than 
+			enough to allow safe passage to the 
+			wormhole.
+
+	Verad hits his combadge.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR      46.
+
+68   CONTINUED:
+
+					VERAD
+				(into com)
+			Verad to Yeto.
+
+	There's no response.
+
+					VERAD
+			Verad to Yeto.
+
+	Verad looks at T'Kar, who uses his own communicator.
+
+					T'KAR
+			Yeto, report.
+
+	There's still no answer.
+
+					VERAD
+			The doctor must have overpowered 
+			him.
+
+					T'KAR
+				(doubtful)
+			The doctor?  Impossible.
+				(realization)
+			Unless...
+
+					VERAD
+			The shape-shifter.  He must've freed 
+			the shape-shifter.
+				(decisive)
+			T'Kar, get me to the ship.
+
+					MAREEL
+				(curiously flat)
+			You better take a hostage, just in 
+			case.
+
+	Sisko steps forward.
+
+					SISKO
+			I'll go with you.
+
+	Verad looks at Sisko and there's true sadness in his voice.
+
+					VERAD
+			I'd love your company, Benjamin.  
+			But somehow I don't think you have 
+			my best interests at heart.
+				(to Kira)
+			Kira, I hate to inconvenience you, 
+			but...
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FOUR      47.
+
+68   CONTINUED:	(2)
+
+					KIRA
+				(confident)
+
+			That's all right.  If Odo's free, 
+			there's no way you're getting off 
+			this station.
+
+	T'Kar leads Kira out of Ops.  Verad starts to follow, then 
+	suddenly stops and turns.
+
+					VERAD
+			Mareel...
+
+					MAREEL
+				(with finality)
+			Good luck.
+
+	Verad looks at Mareel strangely, then tries to give an 
+	encouraging smile, but his mind is already on his escape.  
+	He turns to Sisko.
+
+					VERAD
+			Well, Benjamin, I guess this is 
+			good-bye.  Not many friendships last 
+			over two lifetimes.
+				(beat, there's some 
+				honest regret here)
+			I wish we could have made it three.
+
+	Sisko looks at Verad coldly.
+
+					SISKO
+			You'll be seeing me again, Verad.
+
+	Verad looks at Sisko with surprise, and maybe, for the first 
+	time since his joining, there's the slightest trace of fear 
+	in his eyes.
+
+	Verad quickly EXITS.
+
+68A  CLOSE ON SISKO
+
+	We hold on Sisko's determined expression for a beat, then...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT FIVE    48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+69   INT. OPS
+
+	Mareel keeps a perfunctory watch over Sisko and O'Brien, but 
+	her mind's clearly elsewhere.
+
+					SISKO
+			So where's this rendezvous going to 
+			be?
+
+	Mareel doesn't want to talk about it, but Sisko's hard to 
+	ignore.
+
+					MAREEL
+			You don't really expect me to tell 
+			you?
+
+					SISKO
+				(softly)
+			No, but I hope you like it there, 
+			because you'll be waiting for Verad 
+			a long time.
+
+	Mareel tries to keep up a good front, but she knows Sisko's 
+	right.
+
+					MAREEL
+			How would you know?
+
+					SISKO
+			You told me yourself.
+				(a beat, off her 
+				reaction)
+			I saw the look on your face when he 
+			asked you to wait for him...
+
+	Mareel expression remains hard, but, slowly, the facade 
+	cracks.  She's really hurting.
+
+					MAREEL
+			The plan was that he was going to 
+			get there first... That he would 
+			wait for me... not the other 
+			way around.
+
+					SISKO
+				(playing devil's 
+				advocate)
+			I suppose it could've been an honest 
+			mistake... a slip of the tongue...
+
+    DEEP SPACE: "Invasive Procedures" - REV. 07/30/93 - ACT FIVE    49.
+
+69   CONTINUED:
+
+					MAREEL
+				(realistic)
+			No.  He lied to me.
+				(a beat)
+			He's never lied to me before.  He's 
+			not coming.  He doesn't need me 
+			anymore.
+
+					SISKO
+				(sympathetic)
+			You're wrong.  He does need you... 
+			now more than ever.
+
+					MAREEL
+				(knows what he's 
+				getting at)
+			You never give up, do you.  I told 
+			you, I'm not going to betray him.
+
+					SISKO
+			I'm not asking you to.  I'm asking 
+			you to save him... to help us save 
+			him.
+
+					MAREEL
+				(doesn't buy it)
+			All you care about is Jadzia.
+
+					SISKO
+			That's right.  And you care about 
+			Verad.  And we can save them both.
+
+	Sisko sees Mareel wavering and goes in for the kill.
+
+					SISKO
+			Don't you see, Dax and Verad were 
+			never meant to be joined.  We've got 
+			to remove the symbiont while there's 
+			still time.
+
+	Mareel wrestles with her conscious, then haltingly, she hands 
+	Sisko her phaser.
+
+					MAREEL
+			If you hurt him, I'll kill you.
+
+	Sisko takes the phaser and gives her a reassuring smile.
+
+					SISKO
+			I don't doubt it.
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FIVE      50.
+
+70   INT. DOCKING BAY
+
+	Verad, T'Kar and Kira arrive at the docking bay.  Verad rushes 
+	into the airlock...
+
+71   INT. AIRLOCK
+
+	Verad moves by an unobtrusive tool cart and reaches the far 
+	side of the airlock.  He hits the door control, but nothing 
+	happens.  He looks outside.
+
+72   NEW ANGLE (VERAD'S POV)
+
+	Verad's ship isn't there.
+
+73   INT. DOCKING BAY
+
+	Verad emerges from the airlock.
+
+					VERAD
+				(still in control)
+			The ship... it's gone.
+
+74   ANGLE ON AIRLOCK
+
+	Before T'Kar can react, Odo (who was the tool cart) rises up 
+	into frame behind T'Kar accompanied the oozing sound of a 
+	morph.
+
+					ODO
+			That's because I released the docking 
+			clamps.
+
+75   ANGLE ON KIRA
+
+	Who uses the opportunity to attack T'Kar.
+
+76   ANGLE ON VERAD (OPTICAL)
+
+	Who fires wildly at Odo and makes a run for it.
+
+77   NEW ANGLE
+
+	The phaser fire distracts Kira, giving T'Kar an opening.  He 
+	backhands her against a wall and brings up his disruptor to 
+	shoot her, forcing Odo to choose between chasing Verad and 
+	saving Kira.  He chooses Kira.
+
+	Odo jars the disruptor out of T'Kar's hand, then knocks him 
+	back toward...
+
+    DEEP SPACE: "Invasive Procedures" - REV. 08/06/93 - ACT FIVE    51.
+
+78   KIRA
+
+	Who finishes him off.
+
+79   INT. AIRLOCK CORRIDOR
+
+	Verad runs down a corridor.  He looks back for pursuit, but 
+	there's no one behind him.  He turns a corner and sees the 
+	airlock leading to Runabout Pad "C."  The way is clear.  He 
+	enters...
+
+80   INT. RUNABOUT AIRLOCK
+
+	And finds Sisko waiting for him, blocking his way to the 
+	Orinoco.  Both men react quickly, aiming their phasers at 
+	each other, only a few feet apart in the tight quarters of 
+	the airlock.
+
+					SISKO
+			Looks like that "goodbye" was a little 
+			premature.
+
+	Verad looks over Sisko's shoulder.  He can see the doors to 
+	the runabout.  Freedom is almost within his reach.
+
+81   CLOSE ON SISKO
+
+	Sisko keeps a steady aim on Verad.  The two men remain locked 
+	in place for a beat, each waiting for the other to make the 
+	first move, until...
+
+					VERAD
+			Don't be ridiculous.  You're not 
+			going to shoot me.
+
+					SISKO
+			What makes you so sure?
+
+					VERAD
+			This is Dax you're talking to, 
+			Benjamin.  We both know that if you 
+			shoot me, even on stun, you risk 
+			killing the symbiont.
+
+	Sisko's aim never wavers.
+
+					SISKO
+			If I let you go, Jadzia dies.
+
+       DEEP SPACE: "Invasive Procedures" - 08/06/93 - ACT FIVE      52.
+
+82   CLOSE ON VERAD
+
+	His face is sad, regretful.  He looks genuinely sorry for 
+	what has happened.
+
+					VERAD
+			But Dax will live.  What's one girl's 
+			life, compared to eight lifetimes of 
+			knowledge and experience?
+
+	Verad is honest, open, and convincing.
+
+					VERAD
+			You're not going to shoot me.  You 
+			know that... and so do I.
+
+	Verad lowers his phaser, leaving himself open to Sisko... 
+	confident that Sisko won't fire.
+
+					VERAD
+				(smiles serenely)
+			Goodbye, Benjamin.
+
+	Sisko never lowers his phaser, but Verad confidently steps 
+	around him and heads for the Runabout door.
+
+83   ANGLE ON SISKO
+
+	Not about to give up now.
+
+					SISKO
+			Verad...
+
+84   CLOSE ON VERAD
+
+	Who hesitates, then turns around to find...
+
+85   SISKO (OPTICAL)
+
+	still aiming his phaser.
+
+					SISKO
+			Don't call me Benjamin.
+
+	And Sisko, who knows what he has to do, shoots Verad with 
+	the phaser.
+
+86   INT. SURGERY
+
+	Close on Verad as he regains consciousness.  He looks up and 
+	sees...
+
+    DEEP SPACE: "Invasive Procedures" - REV. 08/03/93 - ACT FIVE    53.
+
+87   MAREEL
+
+	Looking down with concern.  Verad looks around in a panic.
+
+88   INCLUDE THE WHOLE INFIRMARY
+
+	Sisko is standing nearby, watching Verad.  Across the room, 
+	Bashir is reviving Dax, who is still stretched out on the 
+	examining table.
+
+					VERAD
+			I feel strange.  So...
+				(realizes what has 
+				happened)
+			Empty.
+
+					SISKO
+			It's over Verad.  The symbiont is 
+			back where it belongs.
+
+					VERAD
+				(shattered)
+			So close.  I had it.  I had it and 
+			now... I'm alone...
+
+	Verad's speech becomes more and more halting, until he trails 
+	off completely.
+
+					MAREEL
+			You're not alone, Verad.  I'm here.  
+			I'll always be here.
+
+	Mareel tries to comfort Verad, but nothing helps, and he 
+	sinks further and further into despair.
+
+					VERAD
+				(to Mareel)
+			I can't remember any of it... the 
+			knowledge... the confidence...
+				(incredible sadness)
+			It's all gone.
+
+89   CLOSE ON SISKO
+
+	As he reacts to Verad's loss.
+
+					BASHIR (O.S.)
+			Commander?
+
+       DEEP SPACE: "Invasive Procedures" - 07/29/93 - ACT FIVE      54.
+
+90   BACK TO SCENE
+
+	Sisko turns and sees that Jadzia is sitting up, apparently 
+	recovered.
+
+					SISKO
+				(excited)
+			Jadzia.
+
+	He goes to her and hugs her enthusiastically, surprising 
+	everyone, himself included.
+
+					SISKO
+				(concerned)
+			Are you...
+
+					DAX
+			I'm fine...
+
+91   CLOSE ON DAX
+
+	As she looks at Verad.
+
+					DAX
+				(reflective)
+			I remember it all, Benjamin.  
+			Everything he thought... everything 
+			he did... and it's so... sad.
+				(looks away)
+			I guess he'll always be with me now...
+
+92   CLOSE ON VERAD
+
+	Verad's stares blankly into the distance and rocks back and 
+	forth slowly... Hold on Verad's eerily empty stare for a beat, 
+	then...
+
+									FADE OUT.
+
+                       END OF ACT FIVE                          
+                            THE END                             

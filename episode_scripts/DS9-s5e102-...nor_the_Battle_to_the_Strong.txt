@@ -1,0 +1,3759 @@
+                   STAR TREK: DEEP SPACE NINE 
+                              
+              "... Nor the Battle to the Strong" 
+                  (fka "Portrait of a Life") 
+                          #040510-502 
+                              
+                           Story by 
+                         Brice Parker 
+                              
+                          Teleplay by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                         Kim Friedman 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1996 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         August 6, 1996
+
+   STAR TREK: DS9 - "... Nor the Battle... - 08/06/96 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+              "... Nor the Battle to the Strong" 
+                             CAST 
+
+          BASHIR                   BOLIAN
+          DAX                      BURKE
+          JAKE                     ENSIGN
+          KIRA                     GUARD
+          O'BRIEN                  KALANDRA
+          ODO                      KIRBY
+          QUARK                    NURSE
+          SISKO                    
+          WORF                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK: DS9 - "... Nor the Battle... " - 8/07/96 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+              "... Nor the Battle to the Strong" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE               SPACE
+          OPS                           DEEP SPACE NINE
+          SISKO'S QUARTERS              AJILON PRIME
+                                        RUNABOUT
+        CAVERN                          DEFIANT
+          INTENSIVE CARE                
+          MAIN WARD                     
+          MORGUE AREA                 PLANET
+          STAFF BUNK ROOM               A DITCH
+          TRIAGE AREA                   CAVE ENTRANCE
+          TUNNEL                        PLANET'S SURFACE
+
+        RUNABOUT                      
+
+        DEFIANT                       
+          QUARTERS                      
+
+  DEEP SPACE NINE:  "... Nor the Battle... " 8/07/96 - PRONUNCIATION
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "... Nor the Battle" 
+                      PRONUNCIATION GUIDE 
+
+          AJILON                   AZH-zha-lawn
+          CARTALIAN                car-TALE-ee-un
+          DISULFIDE                die-SULL-fide
+          FARRAGUT                 FAIR-uh-gut
+          GANALDA                  guh-NULL-dah
+          INOPROVALINE             EYE-no-pro-vuh-leen
+          KALANDRA                 kuh-LAN-drah
+          PAJAL                    puh-ZHAL
+          PRION                    PRY-on
+          RAKTAJINO                ROCK-ta-GEE-no
+          TANANDA                  tuh-NAN-dah
+
+      DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - TEASER      1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                  "... Nor the Battle to the Strong"                    
+                            TEASER                              
+
+FADE IN:
+
+1    EXT. SPACE - A RUNABOUT (STOCK OPTICAL)
+
+	traveling at warp.
+
+2    INT. RUNABOUT
+
+	BASHIR is in the pilot's chair, absently guiding 
+	the craft; JAKE sits nearby. Since the last time we saw 
+	him, Jake has taken to wearing CLOTHES he considers 
+	more adult. This might involve more muted colors, and 
+	maybe a layered look that includes a vest.
+
+					BASHIR
+			-- I knew my paper would be 
+			controversial, but I had no idea 
+			it was going to turn the entire 
+			conference upside-down. Believe 
+			me, Jake, panel discussions 
+			are usually a lot 
+			more civilized than that.
+
+					JAKE
+			I don't know... they seemed polite
+			enough to me.
+
+					BASHIR 
+			That was just a veneer. 
+				(secretly pleased) 
+			My paper stepped on quite a few 
+			toes. It's heresy to even 
+			consider the possibility that 
+			prion replication could be 
+			inhibited by quantum resonance 
+			effects.
+
+	Bashir glances over at Jake...
+
+					BASHIR
+			Aren't you going to take notes?
+
+	The truth is, Jake is less than enthusiastic about 
+	Bashir's story and doesn't see much point in taking 
+	notes.
+
+					JAKE
+			Good idea...
+
+       DEEP SPACE NINE: "Nor the... " - REV. 08/21/96 - TEASER       1A.
+
+2    CONTINUED:
+
+	Jake pulls out a small PADD and STYLUS...
+
+					BASHIR 
+			According to the so called 
+			"experts," it's all a matter of 
+			amino acid re-sequencing and 
+			disulfide shuffling -- quantum 
+			dynamics has nothing to do with 
+			it.
+
+	Jake jots something down, and we HEAR his thoughts as 
+	he writes.
+
+					JAKE (V.O.)
+			I have absolutely no idea what 
+			he's talking about.
+
+					BASHIR 
+			But how can that be? After all, 
+			peptide bonds can be reconfigured 
+			on a quantum level.
+
+	During the following, Jake will stand and move away. 
+	A beat later, Bashir will move to his side, determined 
+	to keep his attention.
+
+      DEEP SPACE NINE: "... Nor the... - REV. 08/21/96 - TEASER       2.
+
+CONTINUED:	(2)
+
+	(NOTE: it's not necessary to allot enough time for Jake 
+	to physically write everything indicated in the script. 
+	We can assume his notes are shorthand versions of his 
+	thoughts.)
+
+	The following dialog OVERLAPS, though Bashir's words 
+	drop into the background so we can hear Jake clearly as 
+	he writes.
+
+		JAKE (V. 0. ) 					BASHIR 
+	If I don't find a way 				Now get this:  a few
+	to get out of doing 				months ago I was
+	this article, my first 				running a neural scan 
+	writing assignment is 				and noticed some 
+	going to be my last 				anomalous protein 
+		(grasping) 					readings. I thought 
+	Maybe I should just 				there must be some 
+	write to the editors 				mistake, so I ran an 
+	at the Journal and 				amino acid sequence to 
+	tell them they should 				be sure. But there it 
+	find someone else to 				was again, the prion 
+	do the profile of 				mutation rate had 
+	Doctor Bashir.					spiked. I couldn't 										believe it. It meant 
+								the anomalous proteins 
+								had to have a strong 
+								quantum resonance.
+
+	Jake's interrupted when Bashir asks --
+
+					BASHIR
+			Do you follow so far?
+
+					JAKE
+			Sort of...
+
+					BASHIR 
+			Good. Because they're the key --
+			the protein anomalies.
+
+					JAKE (V. 0.) 
+				(scribbling) 
+			Who cares about anomalies!
+
+	As he writes, Jake occasionally nods at Bashir as if 
+	he's listening intently:
+
+       DEEP SPACE NINE: "Nor the... " - REV. 08/21/96 - TEASER       2A.
+
+2    CONTINUED:	(3)
+
+		JAKE (V.O.)						BASHIR
+	People want stories					(continuing)
+	about things they can				They indicate a
+	relate to: life and				correlative increase
+	death, good and evil.				in prion replication.
+		(grasping again)				And that can only mean
+	An outbreak of					one of two things --
+	Cartalian fever would				either the peptide
+	be perfect - the					bonds are unstable,
+	brave doctor battles				or some other factor
+	the deadly virus.					is causing the
+								mutations.
+
+      DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - TEASER      3.
+
+2    CONTINUED:	(4)
+
+		JAKE (V.O.)(Cont'd)				BASHIR (Cont'd)
+		(realizing what				Rather than start the
+		he's saying)				laborious process of
+	Listen to me, I'm 				running quantum scans
+	actually hoping for				on each peptide bond
+	a plague...						I decided to --
+
+	An urgent BEEP from the com-system interrupts both men. 
+	Bashir reaches and works the controls.
+
+					BASHIR
+				(off console) 
+			It's a distress call from the 
+			Federation colony on Ajilon Prime.
+				(reading on) 
+			They're under attack -- the 
+			Klingons have landed troops.
+
+	Jake and Bashir share a grim look --
+
+					JAKE
+			So much for the cease-fire.
+
+					BASHIR
+				(off console) 
+			The main hospital's been 
+			damaged... they're short on 
+			doctors, running low on 
+			supplies...
+
+	Bashir lets out a frustrated breath...
+
+					JAKE 
+			What are we waiting for? Let's 
+			go.
+
+					BASHIR
+				(hesitating) 
+			It's risky. The hospital's only 
+			fifty kilometers from the front 
+			lines.
+
+					JAKE 
+			You put yourself into dangerous 
+			situations all the time.
+
+					BASHIR 
+			Maybe, but that's not the same as 
+			putting you into one.
+
+      DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - TEASER      4.
+
+2    CONTINUED:	(5)
+
+					JAKE
+			Don't worry about me.
+
+					BASHIR
+				(wry)
+			You're too young to die.
+
+					JAKE
+			I'm eighteen.
+
+	Jake realizes how this must've sounded.
+
+					JAKE
+			You know what I mean.
+				(pressing on)
+			I've been on the station when it
+			was under attack plenty of times.
+			I can handle myself. I'm a Sisko.
+
+	Jake senses Bashir wants to say yes, keeps at him.
+
+					JAKE
+			Lives are at stake. Those people
+			need you.
+
+	Bashir considers for a beat, then reaches and works the 
+	controls.
+
+					BASHIR
+			I hope I don't regret this...
+
+	Jake suppresses a smiles as he realizes he's going to 
+	get his story after all.
+
+					BASHIR
+			I can only imagine what your
+			father's going to say...
+
+					JAKE
+			He'll understand.
+
+					BASHIR
+			I'll get you out of there as soon
+			as reinforcements arrive.
+
+      DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - TEASER      5.
+
+2    CONTINUED:	(6)
+
+	A beat, then Bashir smiles slyly.
+
+					BASHIR
+			I wouldn't want you to miss the 
+			deadline on your story. 
+				(kidding) 
+			Did they want a picture of me?
+
+	Jake smiles...
+
+					BASHIR
+			Anyway, about those quantum scans
+			I was telling you about --
+
+	Jake clears the PADD's screen.
+
+		JAKE (V.O.)					BASHIR
+		(as he writes)				(continuing in
+	"Surgery Under Fire."				background)
+							Instead of scanning
+	He smiles, looks down at the		each peptide bond,
+	PADD.						it occurred to me
+							that I could scan
+		JAKE (V.O.)				for irregularities in
+	Now we're talking...			the...
+
+	Off this moment we...
+
+3
+thru   OMITTED
+4
+								FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE      6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+5    EXT. SPACE - DEEP SPACE NINE (STOCK/OPTICAL)
+
+	Establishing.
+
+6    INT. OPS
+
+	We open on an improbable sight: DAX, WORF, O'BRIEN and 
+	ODO are standing in a circle around KIRA, who's just 
+	taken a glass MUG off a TRAY proffered by QUARK.
+
+					ODO
+				(re: the drink) 
+			What is it?
+
+					QUARK
+				(pleased with himself) 
+			The chief asked me to come up with 
+			a decaffeinated raktajino for 
+			Kira. I'm thinking of marketing 
+			it.
+
+	All watch as Kira takes a sip from the mug...
+
+					WORF 
+			Well... ?
+
+					KIRA
+				(grimacing) 
+			Ugh... it's awful.
+
+	O'Brien seems to take this personally.
+
+					O'BRIEN 
+			Give it a chance.
+
+	Kira shakes her head -- no way.
+
+					O'BRIEN 
+			Let me taste.
+
+	He grabs the mug from her, takes a big swig. He puts 
+	up a valiant struggle to keep from spitting up. 
+	Finally...
+
+					O'BRIEN
+				(gagging) 
+			Quark.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE       
+
+6    CONTINUED:
+
+					QUARK 
+			I did the best I could. The 
+			removal of caffeine from beverages 
+			has plagued bartenders and 
+			restauranteurs for centuries; you 
+			can't expect me to solve it 
+			overnight.
+
+	O'Brien slams the mug onto Quark's tray.
+
+					O'BRIEN 
+				(to Quark) 
+			I'm not paying for this.
+
+					ODO 
+			So much for "Quark"-tajino...
+
+					O'BRIEN
+			I wanted to get her off caffeine, 
+			not poison her.
+
+					KIRA 
+			You make me sound like some sort 
+			of addict.
+
+					DAX 
+			She only has maybe two raktajinos 
+			a day.
+
+					O'BRIEN
+			I just don't want my son to be 
+			born with a caffeine habit, that's 
+			all.
+
+					DAX 
+			You're being ridiculous. 
+				(to Kira) 
+			Why does pregnancy always make men 
+			hysterical?
+
+					O'BRIEN
+				(to Dax) 
+			Excuse me, this isn't the first 
+			baby I've had.
+
+					KIRA 
+			Excuse me, Keiko carried Molly.
+
+					DAX 
+			It's not up to you to tell Kira 
+			what she can and can't do.
+
+					WORF
+			She is carrying his child, he 
+			should have some say.
+
+	The battle lines are forming across the proverbial 
+	gender divide...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE      8.
+
+6    CONTINUED:	(2)
+
+					QUARK
+				(agreeing) 
+			As the lessee, he does have 
+			certain rights.
+				(off Kira's blank look) 
+			Back home, pregnancy is considered 
+			a rental.
+
+					KIRA/DAX
+				(outraged) 
+			Rental?
+
+	Before it can get more heated, SISKO ENTERS from his 
+	office -- the conversation is cut short when everyone 
+	sees the look of concern on his face.
+
+					ODO 
+			Something wrong, Captain?
+
+					SISKO
+			I just talked to Doctor Bashir. 
+			He's on his way to Ajilon Prime to 
+			answer a request for medical 
+			assistance.
+
+					KIRA
+				(realizing)
+			Jake's with him...
+
+	Everyone reacts, suddenly understanding Sisko's 
+	concern.
+
+					SISKO
+				(nods)
+			According to the latest reports, 
+			Klingon ground troops have already 
+			captured two settlements in the
+			northern hemisphere.
+
+					WORF 
+			Half the colonists are still 
+			trapped on the planet -- there are 
+			no ships in the area to evacuate 
+			them.
+
+					O'BRIEN
+				(frustrated) 
+			We're three days away, at best.
+
+					SISKO 
+			The Farragut will be there the day 
+			after tomorrow. Bashir said he 
+			and Jake would leave as soon as 
+			relief teams are in place.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE      9.
+
+6    CONTINUED:	(3)
+
+	Dax tries to reassure Sisko that it's going to be all 
+	right.
+
+					DAX 
+			In that case they'll be home by 
+			Thursday.
+				(smiling) 
+			Doesn't leave you much time to 
+			snoop through Jake's things.
+
+	Sisko musters a smile, tries to push the worry from his 
+	mind. Off this moment...
+
+7    EXT. SPACE - AJILON PRIME (STOCK/OPTICAL)
+
+	The Runabout entering orbit of the planet.
+
+7A   INT. RUNABOUT
+
+	Bashir is piloting the craft, Jake is ENTERING from the 
+	back with CARRYING CASES containing medical equipment.
+
+					JAKE 
+			Ready to beam down?
+
+					BASHIR 
+			We can't leave the runabout in 
+			orbit, not with the Klingons 
+			around. Besides, the colonists 
+			moved what was left of their 
+			medical equipment underground when
+			the hospital was destroyed. The 
+			rock-face contains magnesite... 
+			there's no way to transport 
+			through it.
+
+					JAKE
+				(studying the monitor) 
+			Guess we'll have to find a place 
+			to set down.
+
+					BASHIR
+				(off console) 
+			Looks like there's a clearing 
+			about a kilometer from the main 
+			settlement.
+
+	A beat as Bashir works the controls... he's sensed that 
+	Jake is almost eager about what's to come, decides to 
+	warn him.
+
+					BASHIR
+			Jake... things could get a little 
+			rough down there. They've got a 
+			lot of wounded.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE     9A.
+
+7A CONTINUED:
+
+					JAKE 
+			I'll be all right.
+
+	Bashir studies Jake's face, decides to believe him...
+
+8    INT. CAVERN - TRIAGE AREA
+
+	This is the entrance to the makeshift hospital that's 
+	been set up underground. It's a sort of natural 
+	hallway with SUPPORT STRUCTURES and power CONDUITS 
+	lining the rockface.
+
+	Harried looking medical personnel move among the 
+	wounded, performing triage. It's chaos -- bloodied 
+	bodies are being rushed in on stretchers, doctors are 
+	barking orders to nurses and orderlies, wounded people 
+	are crying out for help...
+
+	This is a Federation colony comprised mostly of humans, 
+	with a sprinkling of Federation aliens. The wounded 
+	are a mix of Starfleet officers and civilian colonists, 
+	including a few children.
+
+	The medical team is non-Starfleet -- they wear scrubs 
+	over their civilian clothes. Four of them have 
+	speaking parts: KIRBY, an orderly, is a human male not 
+	much older than Jake. KALANDRA, the head doctor, is a 
+	human woman of about forty. The BOLIAN, an orderly, is 
+	male, about thirty. The NURSE is human, a female in 
+	her late twenties.
+
+8A CLOSE - A STRETCHER
+
+	as its brought in through the main entrance by the 
+	Bolian and his partner.
+
+					BOLIAN 
+			We've got more wounded coming in... 
+			another hopper just landed.
+
+8B   PAN UP TO JAKE
+
+	as he reacts to the wounded patient --
+
+					NURSE
+				(in background) 
+			I need that plasma!
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE     10.
+
+8C   MOVE TO REVEAL
+
+	Bashir standing next to Jake, the triage area in the 
+	background. Kalandra sees him from across the room - 
+	she's standing next to one of the palettes, examining 
+	a patient.
+
+					KALANDRA
+			Are you Bashir?
+
+	Bashir nods, crosses toward her -- Jake follows, 
+	wanting to stay close to him.
+
+					BASHIR
+			We got your distress call.
+
+					KALANDRA
+			Resource said you were on your
+			way.
+
+	Kirby pushes past Jake and Bashir with a medical device 
+	in his hand --
+
+					KIRBY
+				(on the move)
+			Watch it --
+
+	And moves to join the Nurse at a nearby palette, hands 
+	her the device.
+
+					KIRBY
+			This is the last IP --
+
+					NURSE
+				(using the device)
+			His pulse is thready, he must be
+			bleeding somewhere.
+
+	The patient starts to CONVULSE.
+
+					KIRBY
+			We're losing him!
+
+					NURSE
+				(to Kalandra)
+			Doctor --
+
+8D   ON KALANDRA AND BASHIR
+
+	as she moves to join the Nurse.
+
+					KALANDRA
+				(to Bashir)
+			Jump right in, standard triage.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE    10A.
+
+8D   CONTINUED:
+
+	Kalandra pushes past Jake to get to the convulsing 
+	patient
+
+					KALANDRA
+				(to Nurse)
+			Give him fifteen mils
+			inoprovaline.
+
+8E   ON BASHIR
+
+	examining a wounded patient on the palette in front of him.
+
+					JAKE
+				(to Bashir)
+			What should I do?
+
+					BASHIR
+				(focused on his work)
+			Just try to stay out of the way.
+
+	Jake moves off -- we go with him, stretchers flying 
+	past -- in the background, Kalandra calls to some 
+	orderlies across the room.
+
+					KALANDRA
+			Get this man into surgery!
+
+9    ON JAKE
+
+	taking in his surroundings... reacting to the chaos 
+	around him...
+
+	He sees a child in a corner, being comforted by her 
+	mother.
+
+	The Bolian Orderly and his partner jostle past him, 
+	carrying a badly wounded person on a stretcher between 
+	them.
+
+					BOLIAN
+				(to partner)
+			The artery's severed --
+
+10   JAKE'S POV
+
+	as he looks down at the injured victim...
+
+					BOLIAN (O.S.)
+			His BP's bottomed out.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE     11.
+
+11   ON JAKE
+
+	as he nearly gags, presses the back of his hand to his 
+	mouth... 
+
+	In the background, the Nurse is giving instructions to 
+	two orderlies about the patient they're about to cart 
+	off.
+
+					NURSE
+			Oh-Two, three liters, run full
+			saline.
+
+	Jake steps back and his foot slips on something. He 
+	looks down to see he's standing in --
+
+12   A PUDDLE OF BLOOD
+
+	He sees that it's coming from a young man slumped 
+	against the wall, unconscious. Jake kneels, sees that 
+	the wounded man looks ashen, his breathing is shallow, 
+	strained.
+
+					JAKE
+			Somebody! This man needs help!
+
+	Kalandra turns at the sound of his voice, sees who Jake 
+	is referring to.
+
+	A panicked-looking Starfleet ENSIGN limps into the 
+	triage area, his foot a bloodied mess...
+
+					ENSIGN
+			Help me! Somebody help me!
+
+	Bashir rushes to his side.
+
+					ENSIGN
+			I've been hit...
+
+					BASHIR
+			Let me have a look.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE    11A.
+
+12   CONTINUED:
+
+					ENSIGN
+			Took a disruptor blast, real close --
+
+	The Bolian rushes past --
+
+					BOLIAN
+				(on the move)
+			Where's that blood plasma!
+
+	The Bolian takes us to --
+
+12A KALANDRA
+
+	kneeling and talking to Jake about the wounded, 
+	bleeding man.
+
+					KALANDRA
+			There's nothing we can do. He's
+			too far gone.
+
+	The look on her face says it all -- she doesn't like 
+	letting a man die, but she has no choice... there are 
+	too many other wounded to tend to. Kalandra moves 
+	away.
+
+	Jake swallows, tries to make sense of this seemingly 
+	cold decision. He looks at the dying man's face for a 
+	long beat... then moves OFF...
+
+12B   BASHIR
+
+	has helped the Ensign to a seat, is removing his boot.
+
+					BASHIR
+			It doesn't look that bad --
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE     12.
+
+12B   CONTINUED:
+
+	Jake enters in the background, starts to watch...
+
+					ENSIGN
+				(through the pain) 
+			I  was stepping over a Klingon, 
+			thought he was dead. Caught me 
+			right in the foot.
+
+	As Bashir examines his foot, the Ensign turns to Jake, 
+	fear in his eyes.
+
+					ENSIGN 
+			You people better get out of here 
+			while you still can... the 
+			Klingons -- there's no stopping 
+			them...
+
+					BASHIR
+				(baffled) 
+			This is a phaser burn.
+
+					ENSIGN 
+			What are you talking about?
+
+	The Ensign's strident tone gives him away -- he shot 
+	himself. But as a doctor, it's not Bashir's place to 
+	judge.
+
+					BASHIR
+				(giving a hypo 
+				injection) 
+			ust sit tight and we'll get to 
+			you as soon as we can.
+
+	Bashir moves off, and the young Ensign turns to Jake, 
+	his eyes pleading --
+
+					ENSIGN 
+			I took, my phaser... and I... It's 
+			not a phaser burn... It was a 
+			Klingon...
+
+	Jake doesn't know what to say or do... The young man 
+	breaks down, chokes back a sob...
+
+					ENSIGN
+				(continuing) 
+			You weren't there... you don't 
+			know what it was like...
+
+     DEEP SPACE NINE:  "... Nor the... " - REV. 08/21/96 - ACT ONE       
+
+12B   CONTINUED:	(2)
+
+					ENSIGN 
+			The Klingons had us pinned down... 
+			we were done for, we all knew it. 
+			Hendriks and Pajal got scared and 
+			ran -- they ran. Then Sully got 
+			hit in the leg and the medics 
+			pulled him off the line -- all I 
+			could think was I wish I was 
+			him... So I...
+
+	He looks down at his mangled foot, loses it...
+
+					ENSIGN
+			I took my phaser... and I... Oh,
+			God... what'd I do to myself...
+			what'd I do... ?
+
+	Jake doesn't know what to feel about the Ensign's 
+	anguished admission, he's torn between sympathy and 
+	revulsion...
+
+	The Bolian and his partner come in with a patient on a 
+	stretcher, approach the wall Jake's squatting near...
+
+					BOLIAN 
+			Better find somewhere else to 
+			sit...
+
+					JAKE
+				(moving off) 
+			No problem...
+
+	As they start to unload their patient, Jake moves
+	toward the entrance, tucks himself away in a quiet 
+	area.
+
+13   ON JAKE
+
+	as he pulls his PADD and stylus out. We can see that 
+	his hand shakes a little as he tries to write, 
+	everything he's seen has gotten to him. His thoughts 
+	come out jumbled, confused.
+
+					JAKE (V.O.)
+				(as he writes) 
+			Triage... the sorting of the 
+			wounded... forces decisions that --
+
+	He stops, tries to get control of himself.
+
+					JAKE (V.O.)
+				(putting pen to paper
+				again)
+			Decisions that test what it means
+			to be a doctor.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT ONE     14.
+
+13   CONTINUED:
+
+	Suddenly Kirby's voice from off-screen interrupts 
+	Jake...
+
+					KIRBY (O.S.) 
+			Hey, you!
+
+	Jake turns to see Kirby trying to get a wounded man 
+	onto a stretcher.
+
+					KIRBY 
+			Give me a hand.
+				(off Jake's hesitation) 
+			Come on!
+
+	An uncertain Jake moves to help... as he bends down to 
+	pick up the stretcher, the wounded man grabs his collar 
+	with a bloodied hand, looks at Jake with imploring 
+	eyes... a moment, then he collapses back in pain... off 
+	Jake's face as he looks down at his now BLOODIED 
+	shirt...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     15.
+                            ACT TWO                             
+
+									FADE IN:
+
+14   INT. CAVERN - MAIN WARD
+
+	There are about TWENTY COTS in the room, many of them 
+	already occupied with convalescing patients. Some of 
+	the cots have MEDICAL EQUIPMENT standing near them, 
+	some have IV RACKS holding thermos-like bottles. 
+	Nurses and Orderlies move around the room, 
+	administering HYPOS, adjusting BANDAGES, checking LIFE-
+	SUPPORT EQUIPMENT, etc.
+
+	Three tunnels lead into and out of the main ward -- an 
+	ENTRANCE from triage, a back EXIT, and a tunnel leading 
+	to another, unseen ward. This last tunnel has a cot or 
+	two inside it, and we see Orderlies with stretchers 
+	entering and exiting through it. As in the triage 
+	area, support beams and power conduits can be seen in 
+	the rockface.
+
+	Jake and Kirby ENTER with their patient on a stretcher 
+	between them --
+
+					KIRBY
+			This way --
+
+	Kirby starts to lead Jake between the cots toward an 
+	empty bed. Jake has to struggle to keep up as they 
+	wind through the tight spaces between cots. He knocks 
+	into an IV RACK standing near a patient's bed, almost 
+	tips it over.
+
+					KIRBY
+			Watch it!
+
+	Jake steadies the rack with his foot, keeps it from 
+	falling.
+
+					KIRBY
+				(meaning it)
+			Nice move...
+
+	They reach an empty bed near the rock wall, and as they 
+	prepare to move the unconscious patient, Kirby speaks 
+	to him --
+
+					KIRBY 
+				(wry) 
+			Here you are, sir, a nice private 
+			room with a view. 
+				(to Jake) 
+			On three... one, two, three --
+
+      DEEP SPACE NINE: "... Nor the... " - REV. 8/21/96 - ACT TWO    15A.
+
+14   CONTINUED:
+
+	They lift the patient onto the cot, set him down. 
+	Kirby looks up at Jake, smiles.
+
+					KIRBY 
+			You can count -- you're hired. 
+			Let's get you dressed.
+
+	As Jake follows him away...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     16.
+
+15   INT. CAVERN - TRIAGE AREA
+
+CLOSE ON a stretcher as it flies past, taking us to --
+
+15A THE NURSE
+
+	crouched near an unconscious patient. She sees Kirby 
+	and Jake, now in scrubs, ENTER in b.g.
+
+					NURSE
+			Over here --
+
+	They head toward the patient she indicated. The Nurse 
+	moves off, passing Bashir and Kalandra who're 
+	at another patient's side.
+
+					BASHIR 
+			I want to try an aortal graft.
+
+					KALANDRA 
+			All right, there's an extra 
+			surgical table in the back.
+
+	Another Nurse moves past, taking us to --
+
+15B   JAKE AND KIRBY
+
+	as they prepare to get the patient on their 
+	stretcher... Jake sees his pale skin and realizes --
+
+					JAKE
+				(recoiling)
+			He's dead...
+
+					KIRBY
+				(nods grimly) 
+			Come on... let's get him out of 
+			here...
+
+	Jake swallows back his reaction, crouches to help Kirby 
+	move the patient...
+
+									DISSOLVE TO:
+
+	A SERIES OF SILENT SCENES
+
+16   INT. CAVERN - MORGUE AREA
+
+	as Jake and Kirby ENTER with the dead man... Jake
+	reacts to something off-screen...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    16A.
+
+17   REVEAL
+
+	At least a DOZEN DEAD BODIES laid out on low tables in 
+	body bags. An ORDERLY attaches an ID bracelet to a 
+	dead person's ankle, then seals the bag.
+
+	Off Jake's face...
+
+									DISSOLVE TO:
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     17.
+
+18   INT. CAVERN - MAIN WARD
+
+	as Jake and Kirby rush between the beds with an empty 
+	stretcher, heading back toward triage. Jake has gotten 
+	a little better at this, doesn't have to work so hard 
+	to keep up.
+
+	By now, his SCRUBS have gotten BLOODIED from all the 
+	patients he's handled.
+
+									DISSOLVE TO:
+
+19   INT. CAVERN - INTENSIVE CARE
+
+	A small alcove with three or four beds and lots of 
+	medical equipment. Jake and Kirby move a patient off 
+	their stretcher and onto a bed.
+
+19A  INT. CAVERN - A TUNNEL
+
+	as Jake and Kirby hurry down it, a patient on the 
+	stretcher between them.
+
+									CUT TO:
+
+20   INT. CAVERN - TRIAGE AREA
+
+	as Jake and Kirby RUSH IN with an empty stretcher, 
+	ready to pick up another patient...
+
+	They stop in their tracks when they realize there are 
+	no more patients... they've all been taken where they 
+	belong.
+
+	Bashir, the Bolian and the Nurse are sitting on the 
+	ground, their backs against the wall, exhausted.
+
+	This is a team that's been working together under tough 
+	conditions for a long time, and they've developed a 
+	kind of gallows humor.
+
+					NURSE
+			Party's over...
+
+					KIRBY
+				(feigning 
+				disappointment) 
+			So soon?
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     18.
+
+20   CONTINUED:
+
+					BOLIAN 
+				(deadpan) 
+			And we were just starting to have 
+			fun...
+
+					BASHIR 
+				(wry) 
+			Since you two aren't busy, would 
+			you mind carrying me to the 
+			nearest replicator so I can get 
+			something to eat?
+
+	Off Jake's relief as he realizes he can finally get 
+	some rest...
+
+20A  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+20B   INT. CAPTAIN'S OFFICE
+
+	Odo limps in as a curious Sisko watches from behind his 
+	desk.
+
+					ODO
+			You wanted to see me, Captain?
+
+					SISKO
+			I heard you took a little trip to 
+			the Infirmary.
+
+					ODO
+			I'll be fine.
+
+	He settles into a seat across from Sisko.
+
+					ODO
+			The only permanent damage was to 
+			my pride.
+
+					SISKO
+			What happened?
+
+	Odo sighs, held rather not go into the details, but he 
+	knows that he has to answer.
+
+					ODO
+			Quark asked me to keep an eye on 
+			two Yridians he thought were 
+			cheating at dabo. Turned out he 
+			was right.
+					(MORE)
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    18A.
+
+20B CONTINUED:
+
+					ODO (Cont'd) 
+			I could see from the second level 
+			that one of them was using a 
+			miniature gravimetric scanner to 
+			predict where the ball would land 
+			on the wheel, then signaling the 
+			information to his partner.
+
+					SISKO
+			Ingenious.  Go on.
+
+					ODO 
+			I started down the stairs to make 
+			the arrest and one of them saw me. 
+			When they bolted, I... pursued. 
+			But in the rush I got a little 
+			carried away and I...
+
+					SISKO
+			You jumped off the stairs.
+
+					ODO 
+			I was planning to change form in 
+			mid-air and become a Tarkalean 
+			condor.
+
+					SISKO
+			That would've been impressive.
+
+					ODO
+			I thought so.
+
+	Sisko studies Odo for a beat.
+
+					SISKO 
+			It's an understandable mistake. 
+			You were a changeling a lot longer 
+			than you've been a solid.
+
+					ODO
+			Solid... I wonder why my people 
+			use that term -- humanoid bodies 
+			are so fragile.
+
+	This simple observation strikes a chord with Sisko.
+
+					SISKO
+			Yes, they are. And it's a 
+			dangerous universe out there.
+
+					ODO
+			You're worried about Jake.
+
+	Sisko doesn't deny it.
+
+					ODO
+			I'm sure Doctor Bashir is looking 
+			out for him.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    18B.
+
+20B CONTINUED:	(2)
+
+	Sisko nods, looks out the window...
+
+					SISKO
+			Seems just yesterday he was five
+			years old... clinging to me
+			because held scraped his knee and
+			I was the only one in the world
+			who could make it better.
+
+	Sisko smiles at the memory...
+
+					SISKO
+			I remember getting up sometimes in 
+			the middle of the night and 
+			slipping into his room just to 
+			make sure he was all right... I'd 
+			sit there and watch him sleep... 
+			and think to myself that no matter 
+			what, I'd never let anything bad 
+			happen to this child.
+
+	Sisko shakes his head in wonder...
+
+					SISKO 
+			Now he's a sector away, in the 
+			middle of a war zone, and there's 
+			nothing I can do to protect him.
+
+	Odo does his best to be helpful...
+
+					ODO 
+			Try not to worry, Captain. It's 
+			not going to do you or Jake any 
+			good.
+
+					SISKO
+			Can't help it, comes with the 
+			territory.
+
+					ODO
+			But Jake is eighteen years old. 
+				(surely not) 
+			Does your father still worry about 
+			you?
+
+					SISKO
+			All the time.
+
+	Odo takes this in...
+
+					ODO 
+			I never realized how stressful it 
+			is to be a parent. I have to say, 
+			I don't think it's for me.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    18C.
+
+20B   CONTINUED:	(3)
+
+					SISKO 
+			That's your choice. 
+				(smiles) 
+			But you don't know what you're 
+			missing.
+
+	A CHIME at the door.
+
+					SISKO 
+			Yes.
+
+	The door OPENS and Dax steps in, looking concerned.
+
+					DAX 
+			We just got word -- the Klingons 
+			destroyed the Farragut near the 
+			Lembatta cluster.
+
+					ODO
+			What about Ajilon Prime, without 
+			reinforcements --
+
+	Sisko interrupts, already on the move --
+
+					SISKO 
+			Dax, you're with me. We'll leave 
+			as soon as the Defiant's ready.
+
+	Off Odo's face as they leave...
+
+21   INT. CAVERN - STAFF BUNK ROOM
+
+	These are all-purpose accommodations for the medical 
+	personnel. There are TABLES and CHAIRS in the center 
+	of the room, BUNK BEDS against the walls, and a free-
+	standing REPLICATOR in a corner.
+
+	Kirby, the Bolian and the Nurse are sitting at one of 
+	the tables, SUPERNUMERARIES sit at a second table and 
+	Jake, still in his blood-splattered scrubs, is seated 
+	at a third, resting his head in his hands. Bashir 
+	approaches with two trays of food, sets one down in 
+	front of Jake.
+
+					BASHIR 
+			Here you go...
+
+					JAKE 
+			Thanks.
+
+					BASHIR 
+			So how're you holding up?
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    18D.
+
+21   CONTINUED:
+
+					JAKE 
+			Okay.
+
+					BASHIR 
+			You handled yourself well today. 
+			I'm impressed.
+
+	Embarrassed and not at all sure Bashir's right, Jake 
+	picks up his fork, changes the subject.
+
+					JAKE 
+			I'm starved.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     19.
+
+21   CONTINUED:	(2)
+
+					BASHIR
+				(picking up knife and 
+				fork)
+			Think I'll start with a lateral
+			incision across the thigh joint...
+
+	Jake looks down at the food in front of him, drops his 
+	fork, his face blanching.
+
+	Bashir realizes Jake's about to get sick, takes him by 
+	the arm, and rushes him toward the door... we DROP OFF --
+
+22   ON KIRBY AND THE OTHERS
+
+	as they listen to the off-screen SOUND of Jake puking
+	his guts out. Being medical professionals, they're not 
+	overly disgusted and continue eating...
+
+					NURSE
+			His first day?
+
+					KIRBY
+			Yeah.
+
+					BOLIAN
+			Pass the salt.
+
+23   INT. CAVERN - TUNNELS - LATER
+
+	as Bashir and Jake ENTER from the tunnel that leads to 
+	the surface. Jake, still in his scrubs, seems better 
+	now, his stomach is fine.
+
+					BASHIR
+			How do you feel?
+
+					JAKE
+			Fresh air did me good...
+
+	Jake is thoughtful as they start down the empty
+	tunnel...
+
+					JAKE
+			You remember that ensign, the one
+			who shot himself?
+
+					BASHIR
+				(nods)
+			How could I forget something like
+			that?
+
+					JAKE
+			What's going to happen to him?
+
+					BASHIR
+			He'll probably be court martialed.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     20.
+
+23   CONTINUED:
+
+	Jake considers for a beat...
+
+					JAKE 
+			He said that some of the people in 
+			his squad got scared and ran.
+
+					BASHIR
+			It happens.
+
+					JAKE 
+			But they're Starfleet -- they've 
+			passed psych-tests, spent hundreds 
+			of hours in battle simulations.
+
+					BASHIR 
+			Simulations can't prepare you for 
+			the real thing. Nothing can.
+
+	Jake is thoughtful for a beat...
+
+					JAKE 
+			Some people say you don't know 
+			what you're really made of until 
+			you've been in battle...
+
+					BASHIR
+				(throwing an arm around 
+				Jake's shoulder) 
+			Believe me, Jake, there are plenty 
+			of situations in life that test a 
+			person's character -- thankfully, 
+			most of them don't involve death 
+			and destruction...
+
+	As they continue around a bend in the tunnel and out 
+	of frame...
+
+24   INT. CAVERN - STAFF BUNK ROOM
+
+	as Jake and Bashir ENTER, Kirby approaches them. The 
+	Bolian and the Nurse have finished eating by now and 
+	gone elsewhere.
+
+					KIRBY 
+			Doctor Kalandra's looking for you. 
+			Something about that aortal graft 
+			you did.
+
+					BASHIR 
+			Thanks.
+				(to Jake) 
+			See you later.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    20A.
+
+24A  INT. RECOVERY WARD
+
+	A small chamber similar to Intensive Care, with two or 
+	three beds and some medical equipment in it. When 
+	Bashir ENTERS, Kalandra is scanning the patient from 
+	scene 15A, the one he wanted to do an aortal graft on.
+
+					BASHIR 
+			How is he? (or she)
+
+	Kalandra looks up from the unconscious patient.
+
+					KALANDRA 
+			The graft's holding -- blood 
+			throughput is almost a hundred 
+			percent.
+				(meaning it) 
+			Nice job.
+
+					BASHIR 
+			Thanks.
+				(returning the
+				compliment)
+			You've got a good team here. My
+			O.R. Nurse was sharp as they
+			come.
+
+					KALANDRA
+				(smiling) 
+			We do the best we can, considering 
+			the circumstances.
+
+	She indicates the rockface around them to emphasize her 
+	point. But she didn't call Bashir just to pay him a 
+	compliment, she wants to ask him something.
+
+					KALANDRA 
+			So are things going any better for 
+			us? Last I heard Starfleet had 
+			pulled out of the Arcanis sector.
+
+					BASHIR 
+			The fleet's regrouping to launch 
+			a counterattack.
+
+					KALANDRA 
+			Do you have any idea what ships 
+			are involved? We don't get much 
+			news down here, the Klingons have 
+			been jamming subspace traffic.
+
+					BASHIR 
+			I think the Rutledge and the 
+			Tecumseh are heading things up.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    20B.
+
+					KALANDRA 
+			The Tecumseh...
+				(off Bashir's look) 
+			My husband's the science officer.
+
+	Bashir knows the concern she must be feeling.
+
+					BASHIR
+				(reassuring) 
+			Captain Raymond's one of the best 
+			there is... he saw the Tecumseh 
+			through the Cardassian wars -- I 
+			don't think he's planning to lose 
+			her now.
+
+	Kalandra tries to take comfort in this, manages a 
+	hopeful smile...
+
+					KALANDRA 
+			No, I don't suppose he is.
+
+	The Nurse sticks her head into the room.
+
+					NURSE 
+			Doctor, we've prepped that spinal 
+			trauma, they're ready for you in 
+			surgery.
+
+					KALANDRA 
+			I'll be right there.
+
+	The Nurse moves off.
+
+					BASHIR
+				(to Kalandra) 
+			They're keeping you busy.
+
+					KALANDRA 
+			It helps keep my mind off things.
+
+	A look of understanding between them, then she turns 
+	and EXITS. Off Bashir's face...
+
+24B   INT. CAVERN - STAFF BUNK ROOM
+
+	where Kirby is sitting with Jake as he eats.
+
+					KIRBY 
+			Good to see you've got your 
+			appetite back.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     21.
+
+24B CONTINUED:
+
+					JAKE 
+			I've got a pretty strong 
+			stomach...
+				(apologetic)
+			... most of the time.
+
+					KIRBY
+				(shrugging it off) 
+			Don't worry about it. Same thing 
+			happened to me my first day.
+
+	Kirby remembers something --
+
+					KIRBY 
+			Know what I heard?
+				(off Jake's look) 
+			That ship Starfleet sent, the 
+			Farragut? The Klingons 
+			intercepted it.
+
+					JAKE 
+			Starfleet'll send another one, 
+			won't they?
+
+					KIRBY 
+			It won't get here for days. In 
+			the meantime we're looking at a 
+			ground war, which is just what the 
+			Klingons want. According to a 
+			lieutenant I talked to, they've 
+			got so many transport scramblers 
+			on-line we can't beam troops 
+			anywhere.
+
+					JAKE 
+			What about using hoppers?
+
+					KIRBY 
+			He said the Klingons have been 
+			shooting them out of the sky left 
+			and right. Unless something 
+			changes, he figures the 
+			Klingons'll capture the settlement 
+			the day after tomorrow.
+
+	Kirby doesn't come off overtly frightened by this. In 
+	fact, by telling Jake what he knows, he's venting some 
+	of his own anxiety and comes off a bit breathless, 
+	almost excited by it all.
+
+					KIRBY 
+			Did you see all the bat'leth 
+			wounds today?
+					(MORE)
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    21A.
+
+24B   CONTINUED:	(2)
+
+					KIRBY (Cont'd)
+				(off Jake's nod
+			When Klingons get mad, they forget 
+			about their disruptors, go hand-to-
+			hand.
+				(a beat) 
+			If you ask me, they're looking to 
+			get even for what happened on 
+			Ganalda Four.
+
+					JAKE 
+			What happened?
+
+					KIRBY 
+			They had to retreat -- Klingons 
+			hate that.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     22.
+
+24B   CONTINUED:	(3)
+
+	Jake swallows back his mounting anxiety, tries to act 
+	casual.'
+
+					JAKE 
+			At least we don't have to worry 
+			about them in here.
+
+					KIRBY
+				(working the Replicator) 
+			Don't be so sure. Medical 
+			personnel are fair game as far as 
+			Klingons are concerned. They'll 
+			even kill wounded, right in their 
+			beds -- they think they're giving 
+			them an honorable death, or 
+			something.
+
+	Now that Kirby's managed to transfer all his anxiety to 
+	Jake, he's ready to chat... he works the replicator 
+	panel... pulls a MUG from the slot.
+
+					KIRBY 
+			So... how'd you wind up here?
+
+	Jake is so troubled by all he's heard he finds it hard 
+	to focus on an answer...
+
+					JAKE 
+			I, uh... I'm writing an article 
+			about Doctor Bashir.
+
+					KIRBY 
+			You're a journalist?
+
+	Their continuing conversation drops into the background 
+	and we hear Jake's V.O. --
+
+		JAKE (V.O.)					JAKE
+	I wonder if Kirby				Not exactly.
+	knew that the whole
+	time we were talking,				KIRBY
+	all I could think				What does that mean?
+	about was how close
+	the Klingons were.				JAKE
+							I write stories mostly,
+							you know, fiction.
+
+	As Jake's V.O. continues we...
+
+									DISSOLVE TO:
+
+      DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO       
+
+25   INT. CAVERN - STAFF BUNK ROOM - LATER
+
+	The LIGHTS are dim, everyone is asleep except Jake, 
+	who's reclined on one of the bunks, writing. (NOTE: 
+	He's no longer in scrubs. The blood that was on his 
+	civilian shirt has been cleaned off.) The camera PUSHES 
+	slowly toward him as he writes...
+
+					JAKE (V.O.) 
+				(continuing) 
+			-- He didn't seem that worried, no 
+			one else seems to be losing sleep 
+			over it, so why's it the only 
+			thing I can think about? I've 
+			been on the station when it was 
+			under attack plenty of times... 
+			but somehow the danger never
+			seemed as real as it does here.
+
+	We can hear in Jake's voice that he's genuinely rattled 
+	by this and doesn't understand why.
+
+					JAKE (V.O.) 
+			Maybe it's because I spent all day 
+			seeing firsthand what the 
+			Klingons are capable of... or 
+			maybe it's because for the first 
+			time in my life, my father's not 
+			here to protect me.
+
+	Suddenly we hear the SOUND of a distant but massive 
+	EXPLOSION -- Jake is startled and some of the others 
+	jolt awake.
+
+					NURSE 
+			What was that?
+
+	The power fails and the LIGHTS go out. A beat later, 
+	AMBER EMERGENCY LIGHTS flicker on, accompanied by a 
+	warning ALARM.
+
+					BOLIAN 
+				(grim) 
+			The Klingons -- they must've taken 
+			out the reactor...
+
+	Everyone springs out of bed and starts for the door... 
+	Jake follows, his dread about what this all portends 
+	mounting...
+
+26   INT. CAVERN - MAIN WARD
+
+	as Jake ENTERS behind the others. Bashir is already 
+	there with some of the other medical personnel, 
+	moving between patients.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    23A.
+
+26   CONTINUED:
+
+	Emergency LIGHTS provide the only illumination, all 
+	life-support equipment is off-line, silent.
+
+	Bashir is with a patient hooked to a now useless life-
+	support machine -- he gasps, goes into a seizure...
+
+					BASHIR
+			He's fibrillating!
+
+      DEEP SPACE NINE: "... Nor the... "- REV. 08/21/96 - ACT TWO     24.
+
+26   CONTINUED:	(2)
+
+	Bashir grabs a HYPO, gives an injection, then uses a 
+	cardio-stimulator to begin CPR.
+
+	In the background, the Bolian shouts from another 
+	patient's bed --
+
+					BOLIAN 
+			Kidney failure, she's going into 
+			renal shock --
+
+					BASHIR 
+			If we don't get power back soon 
+			we'll lose half the ward.
+
+	Kalandra ENTERS, looking grim...
+
+					KALANDRA 
+			I just talked to Resource. It's 
+			going to be at least three hours 
+			before we have power again.
+
+	Everyone reacts to this impossible news
+
+					JAKE 
+			There must be some portable 
+			generators we could use.
+
+					KALANDRA 
+			They're using them to keep the 
+			shields up around the settlement.
+
+	A terrible moment as they realize there's nothing they 
+	can do...
+
+					BASHIR
+				(as it hits him) 
+			The runabout... there's a portable 
+			generator on the runabout.
+
+					KALANDRA
+				(leaping at this) 
+			Where is it?
+
+					BASHIR
+			About a kilometer south of here.
+				(to Jake) 
+			I'll need help carrying it.
+
+	Jake is so swept up in the moment he doesn't hesitate 
+	to nod that he'll do it...
+
+					KALANDRA 
+			You won't be able to beam through 
+			the shields, you'll have to take 
+			the east tunnel.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO     25.
+
+26   CONTINUED:	(3)
+
+					KIRBY
+			It lets out beyond the perimeter.
+			I'll show you.
+
+	As Jake and Bashir follow Kirby toward the back exit...
+
+27   EXT. PLANET - CAVE ENTRANCE - DAY (LOCATION)
+
+	As Jake and Bashir emerge and start off...
+
+27A EXT. PLANETIS SURFACE - DAY (LOCATION) 
+
+	As Jake and Bashir, trotting at a brisk pace, come onto 
+	the edge of an open expanse of land, a ridge cresting 
+	in the distance.
+
+					BASHIR
+			We set down just beyond that
+			bridge.
+
+					JAKE
+				(agreeing)
+			Looks familiar...
+
+	They continue on until suddenly a series of EXPLOSIONS 
+	rip into the ground all around them. Bashir 
+	immediately dives to the floor, pulling Jake with
+	him...
+
+					BASHIR
+			Get down!
+
+28   ON JAKE AND BASHIR
+
+	hunkered down on the ground as debris from the 
+	continuing EXPLOSIONS rains down on them. 
+	detonating ahead of them, behind them, and to both 
+	sides.
+
+					BASHIR
+			Stay close... keep your head 
+			low.
+
+	Jake is so terrified he can barely nod... a beat, then 
+	Bashir, his head low, starts for a large rock up ahead. 
+	Jake follows close behind...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT TWO    25A.
+
+29   NEW ANGLE - THE ROCK
+
+	as Jake moves in next to Bashir, panting from fear and 
+	exertion...
+
+					BASHIR
+				(re: explosions) 
+			No matter what happens, one of us 
+			has got to get that generator.
+
+	Bashir sets off, head low, for the next rock, maybe 
+	twenty yards away.
+
+      DEEP SPACE NINE: "... Nor the.. " - REV. 08/21/96 - ACT TWO     26.
+
+29   CONTINUED:
+
+	Jake starts after him, but his foot catches the edge of the 
+	crater as he sets off and he trips to the ground. 
+	By the time he stands, Bashir has already reached the 
+	next rock. Bashir looks back, waves him on.
+
+					BASHIR
+			Come on!
+
+	As Jake starts toward him an EXPLOSION rips into the 
+	ground between them... when the swirl of smoke and 
+	debris clears a bit, he can see Bashir urgently 
+	him forward.
+
+30   NEW ANGLE - ON BASHIR
+
+	as an EXPLOSION detonates near Jake, obscuring Bashir's 
+	view of him...
+
+					BASHIR
+			Jake!
+
+31   NEW ANGLE - ON JAKE
+
+	Another EXPLOSION, dangerously close, makes him stagger 
+	back... the area ahead of him is being hit by a volley 
+	of EXPLOSIONS, forcing him back... the area behind him is 
+	relatively unscathed.
+
+	He hesitates, then runs back the way he came...
+
+32   ON JAKE
+
+	his pace intensifying with each step... he's lost it, 
+	can think of nothing but getting away from the 
+	deafening explosions and the danger they represent... 
+	off this moment we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE   27.
+                           ACT THREE                            
+
+	FADE IN:
+33   EXT. PLANET'S SURFACE - DAY (LOCATION)
+
+	as Jake continues his panicked escape... he pushes 
+	through brambles and low-hanging branches, panicked and 
+	out of breath, totally oblivious to his surroundings.
+
+34   CLOSE - JAKE'S FOOT
+
+	as it catches on a rock...
+
+35   ON JAKE
+
+	as he crashes to the ground... it takes a moment for 
+	him to realize that he's landed atop the body of --
+
+36   A DEAD KLINGON
+
+	Horrified, Jake pushes himself away, staggers to his 
+	feet, gets his bearings...
+
+37   NEW ANGLE
+
+	as Jake sees TWO DEAD STARFLEET OFFICERS sprawled on 
+	the ground nearby, their limbs contorted at unnatural 
+	angles, as if their bodies had been tossed there...
+
+38   ON JAKE
+
+	as he backs away, trying to get away from the bodies... 
+	he scales a crest in the ground, only to find that he's 
+	come upon an even more horrific scene...
+
+39   NEW ANGLE
+
+	The landscape is scattered with dead -- they're mostly 
+	Starfleet, with a smattering of Klingons. Jake's 
+	effort to escape has only brought him to this scene of 
+	carnage, and it seems to him there's no way out of the 
+	nightmare...
+
+	He can only do the one thing his brain keeps telling 
+	him -- keep moving...
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE    28.
+
+40 ON JAKE
+
+	as his pace intensifies... he has to get out of here, 
+	it's all he can think about. He scrambles up a hill in 
+	front of him, panting and out of breath, he reaches the 
+	top, only to realize too late that the drop on the 
+	other side is steeper than he thinks... his momentum 
+	carries him forward, and he goes tumbling down the hill 
+	into --
+
+41 EXT. A DITCH
+
+	as Jake skids down it and suddenly collides with 
+	another body that we barely see... there's a glint of 
+	steel, then a RIFLE BUTT swings into view and connects 
+	with Jake's head... the impact of the blow sends Jake 
+	sprawling into the dirt -- he lies there, stunned and 
+	out of breath...
+
+42 NEW ANGLE
+
+	For the first time we see Jake's assailant, a badly 
+	wounded Starfleet Lieutenant, his uniform soaked with 
+	blood -- he's BURKE, a seasoned combat veteran of 
+	about forty.
+
+	He's lying on his side, the phaser rifle nearby, a 
+	terrible wound in his abdomen completely debilitating 
+	him -- hitting Jake with the rifle has left him lying 
+	helpless, unable to move...
+
+	For a moment, all either of them can do is lie there in 
+	the dirt and stare at the other man. We see them 
+	realize that the other is not the enemy, and they both 
+	lie there, fighting for breath. The shelling in the 
+	distance has stopped.
+
+					BURKE
+				(through the pain)
+			Medkit...
+
+	Jake doesn't respond, still too disoriented, still 
+	stunned by the blow to his head...
+
+					BURKE 
+			Over there...
+
+	He does his best to point toward a MEDKIT lying on the 
+	ground a few yards away. When Jake doesn't react, he 
+	orders him through clenched teeth --
+
+					BURKE
+			Now.
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE   29.
+
+42   CONTINUED:
+
+	Something in his voice makes Jake respond, he forces 
+	himself up to his knees, shakes his head to clear it, 
+	then moves to where the medkit lies on the ground...
+
+					BURKE
+			Hypo...
+
+	Jake rummages for it, crawls to Burke with it.
+
+					BURKE
+			Sit me up.
+
+	Jake takes him by the shoulder, starts to lift him, but
+	a sharp gasp of pain escapes Burke's lips, making Jake 
+	stop. He lets go, his hands now bloodied.
+
+					BURKE 
+			Do it. I'm not going to die with 
+			my face in the dirt.
+
+	Jake takes hold, and ignoring Burke's stifled groans of 
+	pain, helps get him into a sitting position, his back 
+	against the ditch wall. Burke struggles to catch 
+	breath, contain the pain.
+
+					BURKE
+				(getting a grip on 
+				himself)
+			Okay...
+
+	He takes the hypo from Jake, twists a dial, and injects 
+	himself. A moment, then the painkiller begins to take 
+	effect. His features soften a bit, but it's not 
+	enough, he's still in a great deal of pain.
+
+					BURKE 
+			How's your head?
+
+					JAKE
+				(touching his temple)
+			Hurts.
+
+					BURKE 
+			You're lucky I didn't kill you - 
+			thought you were a Klingon. Have 
+			you seen any?
+
+					JAKE
+			What?
+
+					BURKE
+				(impatient) 
+			Klingons -- are there any patrols 
+			around?
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE   30.
+
+42   CONTINUED:	(2)
+
+	Jake shakes his head.
+
+					BURKE 
+			What about Starfleet?
+
+					JAKE 
+			No one.
+
+					BURKE 
+			Just you and me then.
+				(beat) 
+			What the hell are you doing out 
+			here? Why'd you leave the 
+			settlement?
+
+	Jake hesitates, realizing he can't tell the truth...
+
+					JAKE 
+			I was outside when the shelling 
+			started. I guess I got lost 
+			trying to find cover.
+
+					BURKE 
+			Lucky me. I could use the 
+			company.
+
+	He reaches to his side, pulls out a small WATERPACK, 
+	offers it to Jake.
+
+					BURKE 
+			Here... water.
+
+					JAKE
+				(wanting it) 
+			What about you?
+
+					BURKE 
+			Go ahead.
+
+	Jake takes the bag, squeezes it into his mouth, gulping 
+	it eagerly.
+
+					JAKE 
+			Thanks.
+
+					BURKE
+				(wry) 
+			It probably would've leaked out of 
+			me anyway...
+
+	Jake's eyes falls to the terrible wound in Burke's 
+	side, and he can't hide his reaction. Burke sees the 
+	truth in his eye, and he knows -- he's not going to 
+	make it. He grabs Jake by the arm, pulls him close --
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE    31.
+
+42   CONTINUED:	(3)
+
+					BURKE 
+			Don't let me fall over. I want to 
+			go out looking up at the sky, not 
+			the ground, all right?
+
+					JAKE 
+			Don't worry.
+
+	With that assurance, he pushes Jake away. He lets his 
+	head fall back, considers for a beat. Suddenly --
+
+					BURKE
+				(with concern) 
+			You didn't see a crashed hopper 
+			around here, did you?
+
+					JAKE 
+			No.
+
+					BURKE
+				(smiles) 
+			They made it.
+
+					JAKE 
+			Who?
+
+					BURKE 
+			My platoon. The Klingons had us 
+			pinned down. We couldn't beam out 
+			because they had a transport 
+			scrambler running... so we called 
+			for a hopper. As soon as it set 
+			down, the Klingons came at us. 
+			Our C.O. ordered me and Brice to 
+			lay down cover so the squad could 
+			get up the ramp.
+				(shaking his head as he
+				remembers)
+			By the time Brice got in, the
+			Klingons were practically on top
+			of us. The hopper was taking such
+			a pounding, I didn't think it
+			would make it off the ground.
+
+					JAKE
+				(putting it together) 
+			You stayed behind on purpose, so 
+			they could get away.
+
+	Jake is stunned by this act of simple courage, so 
+	starkly opposed to his own act of cowardice... but 
+	Burke's mind is on his present predicament. He winces 
+	as a shaft of pain shoots into him...
+
+					BURKE 
+			The hypo... where is it?
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE    12.
+
+42   CONTINUED:	(4)
+
+	Jake reaches for it, realizes there's nothing left in 
+	it.
+
+					JAKE 
+			It's empty...
+
+	Burke shakes his head at the grim irony.
+
+					BURKE 
+			Figures...
+
+					JAKE
+				(impulsively)
+			I'm going to get you out of here.
+
+	Jake stands, needing to do something, to take action 
+	and help this man, as if in doing so, he will somehow 
+	redeem himself.
+
+					JAKE
+				(looking around) 
+			I'll make a stretcher...
+
+					BURKE
+				(not buying into it) 
+			With what?
+
+	Jake looks around, sees there's nothing.
+
+					JAKE 
+			Then I'll carry you.
+
+	Burke can't help but smile at Jake's well-meaning but 
+	impossible desire.
+
+					BURKE 
+			Kid, you try picking me up, and my 
+			guts'll wind up all over your 
+			shoes.
+
+	Jake is starting to get frantic as he realizes just how 
+	impotent he is...
+
+					JAKE 
+			But I've got to do something, I've 
+			got to try.
+
+					BURKE 
+			Forget it.
+
+	Jake is so bent on convincing himself that redemption 
+	is possible that he doesn't consider what he's 
+	admitting.
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE    33.
+
+42   CONTINUED:	(5)
+
+					JAKE
+				(desperate)
+			But I have to. That way this'll 
+			all make sense. I ran for a 
+			reason -- so I could find you and 
+			bring you back and save your life.
+
+					BURKE 
+			Ran -- ?
+
+					JAKE 
+			From the explosions -- we had to 
+			get to the runabout, for the 
+			generator, but then the shelling 
+			started and I couldn't see Doctor 
+			Bashir and the explosions kept 
+			getting closer and I had to get 
+			out of there so I ran, I ran and 
+			I kept running until I found you.
+
+					BURKE
+			The doctor -- you left him.
+
+	Jake looks, at him, unsure what to say to this.
+
+					JAKE 
+			It was a mistake.
+
+					BURKE
+			That's what you call it.
+
+					JAKE 
+			I didn't mean for it to happen.
+
+					BURKE 
+			And now you think that bringing me 
+			back is going to make everything 
+			all right.
+
+	Jake looks at him, the whole scenario he's constructed 
+	in his mind falling apart...
+
+	Burke shakes his head and smiles ruefully... a laugh 
+	starts to escape his lips, but it catches, becomes a 
+	cough...
+
+					BURKE 
+			Sorry, kid.
+				(coughing harder)
+			Life doesn't work that way.
+
+	His coughing becomes ragged, painful. Burke struggles 
+	to catch his breath, but he can't, his lungs are
+	filling with fluid --
+
+	He looks at Jake, confusion and panic in his eyes... 
+	he's realizing he's dying... his coughs become tortured 
+	gasps for breath...
+
+    DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT THREE   34.
+
+43   ON JAKE
+
+	as he watches in horror... the terrible sounds of 
+	Burke's losing struggle for life finally stop...
+
+44 NEW ANGLE
+
+	to include Burke, his lifeless eyes staring up into the 
+	sky...
+
+	Jake backs away... finally, he tears his eyes off 
+	Burke's still form, crawls out of the ditch, and runs 
+	off... off this moment we...
+
+									FADE OUT.
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    35.
+                           ACT FOUR                             
+
+	FADE IN:
+A45   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	traveling at warp.
+
+AA45   INT. DEFIANT - ENGINE ROOM
+
+	where Dax is calling into the Jefferies Tube entrance 
+	in the wall. SUPERNUMERARIES at other consoles as 
+	needed.
+
+					DAX 
+			Benjamin --
+
+					SISKO (O.S.)
+			Be right out...
+
+	A moment, then Sisko starts to slide out, a HAND TOOL 
+	between his teeth.
+
+					DAX 
+			What've you been doing in there 
+			for three hours?
+
+					SISKO
+			Oh, I was just tweaking the 
+			pattern buffers in the replicator 
+			systems.
+
+	Dax sees immediately that Sisko is just giving himself 
+	busy work.
+
+					DAX 
+				(wry) 
+			Great, I always thought the coffee 
+			could be a little hotter.
+
+	Sisko knows she's on to him.
+
+					SISKO
+			Just trying to keep busy.
+
+					DAX
+			Is it helping?
+
+					SISKO
+			Not really.
+
+	Dax looks at him with sympathy, she knows what he's 
+	going through.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   35A.
+
+AA45   CONTINUED:
+
+					DAX 
+			I wish there was something I could 
+			do, some way I could promise you 
+			that everything is going to be 
+			okay.
+
+					SISKO
+			But you can't. No one can.
+
+					DAX
+			I know what it's like to worry 
+			about a child. Raifi put Tobin 
+			through hell -- and when Neema was 
+			six, she came down with Regulan 
+			fever. Audrid spent two weeks in 
+			the hospital with her, never left 
+			her side. It was hundreds of 
+			years ago, and I still remember 
+			how helpless I felt. I read her 
+			all seventeen volumes of Caster's 
+			Down the River Light, even though 
+			I knew she couldn't hear me. It 
+			made me feel like I was doing 
+			something, that we were still 
+			connected. It wasn't until much 
+			later that I realized I was doing 
+			it as much for me as for her.
+
+					SISKO
+			To keep busy.
+
+					SISKO
+			So how did it turn out, with 
+			Neema?
+
+					DAX
+			She pulled through.
+
+					SISKO
+			I was hoping you were going to say 
+			that. If that story had an 
+			unhappy ending, I never would've 
+			forgiven you.
+
+					DAX
+			Of course, by the time she was 
+			twenty-one, Neema wouldn't even 
+			speak to me.
+
+					SISKO
+			For how long?
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   35B.
+
+AA45   CONTINUED:	(2)
+
+					DAX 
+			About eight years.
+
+					SISKO
+			Do me a favor, tell me about it 
+			some other time. Right now, all 
+			I care about is seeing Jake again.
+
+					DAX
+			You will -- tomorrow, when we get 
+			to Ajilon Prime.
+
+	Sisko does his best to take reassurance in this, but 
+	the truth is she's worried about Jake too.
+
+					DAX
+			You know, Ben... coffee can never 
+			be too hot. Are you sure you got 
+			the Replicator buffers synchronized?
+
+					SISKO
+				(catching on) 
+			You want to check for yourself?
+
+					DAX
+			I think I will. Can I borrow your 
+			decoupler?
+
+					SISKO
+			Get your own. I'm going to go 
+			check the sonic shower relays.
+
+					DAX
+			Good idea.
+
+	And as they exchange a supportive smile, we...
+
+									CUT TO:
+
+AAA45   EXT. SPACE - AJILON PRIME (OPTICAL)
+
+	Re-establishing.
+
+INT. CAVERN - MAIN WARD
+
+	Though the lights are DIM, the medical equipment is 
+	back on-line and the patients are sleeping quietly. 
+	Kirby has the night shift... he's moving between the 
+	beds, checking on patients.
+
+	Jake ENTERS, and when Kirby looks up from what he's 
+	doing and sees him, he couldn't be more surprised.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   35C.
+
+45   CONTINUED:
+
+					KIRBY 
+			Jake!
+
+	For once, words fail him.
+
+					KIRBY 
+			We thought you were... this is 
+			great.
+
+	He takes Jake by the shoulder, smiles, shakes his head 
+	in relief. He sees the wound on his forehead --
+
+					KIRBY 
+			What happened?
+
+					JAKE 
+			I got knocked out when we were 
+			trying to get to the runabout. 
+			Did Doctor Bashir make it back all 
+			right?
+
+	Jake has no idea what the answer will be, so when Kirby 
+	nods, his relief is palpable. Kirby inclines his head 
+	in the direction of the intensive care ward.
+
+					KIRBY 
+			He's in IC for the night, plasma 
+			burns on his arm and shoulder. I 
+			don't know how he managed it, but 
+			he carried the generator back here 
+			by himself.
+
+	Jake looks toward the tunnel that leads to IC -- his 
+	relief that Bashir's alive is giving way to a mounting 
+	sense of anxiety over what Bashir might think of him 
+	for running away.
+
+	Kirby looks Jake up and down, shakes his head as if he 
+	still can't believe he's really here.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    36.
+
+45   CONTINUED:	(2)
+
+					KIRBY 
+			We went looking for you when the 
+			shelling stopped. There was 
+			hardly anything left of the 
+			runabout... the whole place was 
+			nothing but bomb craters and 
+			smoke. We pretty much gave up 
+			hope.
+
+	Jake is so distracted by his thoughts of Bashir that he 
+	finds himself tossing off a lie, almost distractedly.
+
+					JAKE 
+			I must've wandered off in the 
+			wrong direction when I came to.
+
+					KIRBY 
+			You're lucky you didn't get picked 
+			up by the Klingons. Word is, 
+			they're massing to attack the 
+			compound.
+
+	Kirby sees that Jake is looking toward IC --
+
+					KIRBY 
+			You want to see him?
+
+	Jake isn't ready to face him yet...
+
+					JAKE 
+			I should probably let him rest.
+
+					KIRBY 
+			He's awake, I was just in there.
+
+	Kirby sees Jake's hesitation.
+
+					KIRBY 
+			Go ahead, he'll be glad to see 
+			you're okay.
+
+	Jake can't see a way out of it, nods... and moves 
+	off...
+
+46   INT. CAVERN - INTENSIVE CARE
+
+	Bashir is one of three patients in the unit. He's the 
+	only one awake, staring up at the ceiling in the dim 
+	light, lost in thought. His arm and shoulder are 
+	BANDAGED.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    37.
+
+46   CONTINUED:
+
+	When Jake appears in the entrance, Bashir can't believe 
+	what he's seeing at first and it takes a moment for him 
+	to react --
+
+					BASHIR 
+			Jake... ?
+
+	Bashir's been blaming himself for Jake's death, and the 
+	sight of him is such a relief it brings tears to his 
+	eyes.
+
+					BASHIR 
+			Thank God...
+
+	He covers his face with his hand, doesn't know whether 
+	to laugh or cry... when he finally looks up, his 
+	expression is strangely pained.
+
+					BASHIR
+			I thought you'd been killed. Once 
+			the shelling stopped and I 
+			couldn't find you, I assumed the 
+			worst.
+
+	His eyes are pleading, he needs Jake to understand. 
+	Jake finds himself in the odd predicament of having to 
+	comfort Bashir. Somehow, the more he has to do it, the 
+	worse it makes him feel.
+
+					BASHIR 
+			I'm sorry.
+
+					JAKE 
+			It's all right.
+
+					BASHIR
+			No, it's not. I never should've 
+			brought you here in the first place.
+				(angry with himself) 
+			Now we're stuck here, the Klingons 
+			are massing to attack -- what was 
+			I thinking!
+
+					JAKE 
+			Forget it, okay! What's done is 
+			done.
+
+	Jake and Bashir are both a little startled by his 
+	vehemence.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    38.
+
+46   CONTINUED:	(2)
+
+	After a beat, Bashir smiles, nods his agreement, and we 
+	hear Jake in V.O.
+
+					JAKE (V.O.) 
+			I couldn't stand hearing him 
+			apologize to me like that... not 
+			after what I'd done...
+
+	Kirby appears in the door...
+
+					KIRBY 
+			All right, you two, visiting hours 
+			re over.
+				(re: Jake's wound)
+			Let me have a look at that.
+
+					JAKE (V.O.) 
+			I keep turning it over in my
+			head...
+
+	Jake's V.O. carries into
+
+47   INT. CAVERN - STAFF BUNK ROOM - NIGHT
+
+	Jake, his head wound now gone, is at one of the tables, 
+	writing on his PADD in the DIM LIGHT. Sleeping figures 
+	can be seen occupying most of the bunks.
+
+					JAKE (V.O.)
+				(continuing) 
+			The shelling, losing sight of 
+			Bashir, running... and I keep 
+			trying to make sense of it all, to
+			justify what I did. But when it 
+			comes down to it, there's only one 
+			explanation. I'm a coward.
+
+	Jake's words, the rhythm of his writing, become 
+	angrier.
+
+					JAKE (V.O.) 
+			Part of me wishes Bashir had seen 
+			me run away and told everyone the 
+			truth. They deserve to know what 
+			I am... they should know they 
+			can't count on me... that if the 
+			Klingons attack, I'll run and hide 
+			just like I did before...
+
+	Off Jake as he lets his head fall into his hands...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   38A.
+
+47A  INT. CAVERN - MAIN WARD 
+
+	The place is busy with activity as Nurses and Orderlies 
+	move around, tending to patients. Jake wanders in, 
+	looking listless. The Nurse moves past with a TRAY of 
+	FOOD in her hand, notices him.
+
+					NURSE
+				(rushed)
+			Jake, take this to the patient in 
+			G-four, would you?
+
+	Jake shrugs a yes.
+
+					JAKE 
+			Sure. 
+
+	He takes the tray from her and she hurries off.
+
+47B   NEW ANGLE
+
+	as Jake approaches the patient, who's in a bed in the 
+	corner, facing away from him.
+
+					JAKE 
+			Here you go...
+
+	As Jake comes around he sees the patient's face and 
+	realizes it's the Ensign who shot himself in the foot. 
+	Jake wasn't expecting to see him and he's a bit taken 
+	off guard.
+
+					JAKE 
+			One of the nurses asked me to 
+			bring you this.
+
+	The Ensign barely acknowledges him, continues staring 
+	at the wall. Jake sets the tray down, turns and starts 
+	to move off.
+
+					ENSIGN
+				(still facing the wall)
+			Maybe I'll get a job as a cutter -- 
+			could be interesting work.
+
+	Jake stops, unsure if the Ensign was talking to him.
+
+					JAKE 
+			What's a cutter?
+
+					ENSIGN 
+			You know, on a mining team. 
+			They're the guys who split the 
+			asteroids up with phasers so the 
+			excavators can get at what's 
+			inside.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   38B.
+
+47B CONTINUED:
+
+	The Ensign turns away from the wall to face him.
+
+					ENSIGN 
+			You've got to have good aim... and 
+			no matter what else you can say 
+			about me, you can't say I don't 
+			have good aim.
+
+	Jake looks at him, unsure what to say to this odd 
+	announcement.
+
+					ENSIGN 
+			If I hadn't hit my foot just 
+			right, I would've taken my whole 
+			leg off.
+
+	Jake doesn't know what to make of the Ensign's ironic 
+	perspective. The Ensign smiles ruefully, continues.
+
+					ENSIGN 
+			It's funny... one minute your 
+			life's moving along just the way 
+			you always figured it would, the 
+			next... you do something that 
+			changes everything, that makes you
+			realize you're not who you thought 
+			you were.
+
+	He turns to Jake.
+
+					ENSIGN 
+			At the Academy, I did really well 
+			in the battle simulations - never
+			had any problems -- but when 
+			you're out there, live shells 
+			detonating all around you, it's a 
+			whole different thing.
+
+					JAKE
+				(more to himself) 
+			All you can think about is getting 
+			away from the explosions...
+
+	The Ensign looks at him, and Jake realizes his thought 
+	escaped his lips.
+
+					ENSIGN 
+			Yeah. That's pretty much it.
+
+	The Ensign studies Jake for a moment.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   38C.
+
+47B   CONTINUED:	(2)
+
+					ENSIGN 
+			You know something... you're 
+			first person I've talked to since 
+			I got here who hasn't made me feel 
+			like I'm taking up valuable bed 
+			space.
+
+	Jake feels the urge to talk to him, to tell him that he 
+	understands why he did what he did -- but he can't 
+	bring himself to do it.
+
+					ENSIGN 
+			The way everyone looks at me... I 
+			can't stand it. After the court 
+			martial, I'm going to sign up for 
+			the next mining expedition to the 
+			Gamma Quadrant.
+
+					JAKE 
+			Maybe there won't be a court 
+			martial.
+
+					ENSIGN 
+			You're right, none of us may get 
+			out of here alive.
+
+	Jake is too intent on what he wants to say to be 
+	derailed by this; he needs to hold out hope for the 
+	Ensign's redemption, thereby making his own redemption 
+	at least a possibility.
+
+					JAKE 
+			No, I mean -- Starfleet could 
+			decide to send you to counseling 
+			instead.
+
+					ENSIGN 
+			I won't go.
+
+	Jake looks at him, surprised.
+
+					ENSIGN 
+			I don't deserve to be in
+			Starfleet. Therapy won't change 
+			what I did. Nothing can.
+
+	The Ensign turns away, makes a gesture toward his 
+	head...
+
+					ENSIGN 
+				(quiet) 
+			I just wish I'd aimed that phaser 
+			a little higher...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR   38D.
+
+47B   CONTINUED:	(3) 
+
+	He falls to staring at the wall again, his features far 
+	away. After a long moment, Jake realizes he's 
+	forgotten all about him, turns and moves away... off 
+	the image of the Ensign, alone...
+
+48   OMITTED
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    39.
+
+49   INT. CAVERN - STAFF BUNK ROOM - DAY
+
+	Jake is now lying on a bunk, his face turned toward the 
+	wall. The Bolian is eating at one of the tables. A
+	few SUPERNUMERARIES as needed.
+
+	Kirby and the Nurse ENTER in mid-conversation.
+
+					NURSE
+			I saw the report on Doctor 
+			Kalandra's desk. According to
+			Resource, it's only a matter of 
+			time before the Klingons reach the 
+			compound.
+
+	Jake can't help but overhear this, and it makes his 
+	throat go dry. Kirby is rattled by the news too, but 
+	rather than show it, he vents his anxiety with a little 
+	gallows humor.
+
+					KIRBY 
+			I guess that means I have to 
+			decide.
+
+					NURSE 
+			Decide what?
+
+					KIRBY 
+			Whether I'd rather get hacked to 
+			bits, or blasted by a disruptor.
+
+					NURSE
+				(playing along) 
+			Disruptor, no doubt about it -- 
+			every molecule in your body 
+			vaporized in a flash. No time to 
+			feel pain.
+
+	The Bolian looks up from his food.
+
+					BOLIAN 
+			Don't be so sure about that. Some 
+			people think it's like being 
+			boiled alive.
+
+	This is all hitting Jake the wrong way -- far from 
+	being amused, it's only stoking his anxiety. He gets 
+	up, crosses to the replicator.
+
+					KIRBY 
+			Decapitation has its virtues. A 
+			clean blow with a nice, sharp 
+			bat'leth.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    40.
+
+49   CONTINUED:
+
+					BOLIAN
+				(disagreeing again) 
+			Your brain doesn't die for five, 
+			ten seconds at least...
+
+	Bashir, no longer in bandages, ENTERS, starts toward 
+	the replicator.
+
+					BOLIAN
+				(continuing) 
+			In theory, your headless corpse 
+			could be the last thing you see.
+
+					NURSE 
+			You're so negative.
+
+					BOLIAN 
+			I'm just telling you what I've 
+			heard.
+
+	The three of them are clearly enjoying themselves and 
+	making themselves feel better, but Jake is about to 
+	lose it. He crosses away from the replicator with a 
+	mug of tea, and as he passes, Kirby tries to pull him 
+	into the game.
+
+					KIRBY 
+			What do you think, Jake?
+
+					JAKE 
+			I think it's not funny.
+
+					KIRBY
+				(smiling) 
+			Of course not.
+				(reaching toward Jake to 
+				mime the action) 
+			There's nothing funny about having 
+			your throat slit by --
+
+	Jake shoves Kirby away, hard.
+
+					JAKE 
+			Cut it out!
+
+	Everyone is taken aback by his sudden anger --
+
+					JAKE 
+			You all think this is some big 
+			joke. It's not. People are 
+			dying!
+
+					KIRBY 
+			I was just kidding.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR    41.
+
+49   CONTINUED:	(2)
+
+					JAKE 
+			It's all so stupid. This whole 
+			stupid war is such a waste. In 
+			ten years, no one's going to 
+			remember what anyone did here.
+
+					BASHIR
+			Jake --
+
+					JAKE 
+			Maybe you saved a hopper full of 
+			people, maybe you shot yourself in 
+			the foot -- no one's going to
+			remember.
+
+	Jake slams his mug down on a table, hard.
+
+					BASHIR
+			Jake.
+
+	Bashir's tone brings Jake rant to a stop --
+
+					BASHIR
+			Come on. Let's take a walk.
+
+	Bashir heads for the door... after a beat, a chastened
+	Jake follows...
+
+50   INT. CAVERN - A TUNNEL
+
+	as Bashir turns to face Jake.
+
+					JAKE
+			I'm sorry.
+
+	Jake tries to contain the tears he feels welling up 
+	inside him...
+
+					BASHIR 
+			Look, I know you're scared -- we 
+			all are.
+
+					JAKE
+				(jumbled) 
+			No... yes, it's not that -- I...
+
+	He can't come out with it, shakes his head, looks away.
+
+					BASHIR
+			What, Jake -- what is it?
+
+	Jake feels the urge to confess pressing at him... but 
+	he can't, it's too humiliating, and he squelches it.
+
+ DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FOUR 42-43.    
+
+50   CONTINUED:
+
+					JAKE 
+			I just didn't think what they were 
+			saying was funny...
+
+					BASHIR 
+				(no dice) 
+			Come on. That's not what set you 
+			off. Something's eating at you,
+			I can see it.
+
+					JAKE 
+			I don't know what you're talking 
+			about.
+
+					BASHIR 
+			Ever since you came back you've 
+			been walking around here looking 
+			miserable.
+
+					JAKE 
+			Leave me alone.
+
+					BASHIR 
+			Jake --
+
+					JAKE 
+			Leave me alone!
+
+					BASHIR 
+			All right. If that's what you 
+			want. But you know where to find 
+			me if you want to talk...
+
+	And with that, Bashir moves off, EXITS. Jake waits for 
+	him to leave, then leans back against the tunnel wall. 
+	He slides down to a sitting position, tries to 
+	back the sobs welling up inside him. But it's 
+	impossible, and when they come, they come full force --
+	his body is wracked with them... hold on this image for 
+	a few beats, then...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    44.
+                           ACT FIVE                             
+
+	FADE IN:
+
+A53   INT. CAVERN - A TUNNEL - LATER (FORMERLY SC. 51)
+
+	Jake is curled up on the floor, fast asleep. Hold on 
+	his peaceful features for a long beat, until...
+
+AA53   AN EXPLOSION (FORMERLY SC. 52)
+
+	rocks the area, jolting Jake awake. A beat, then 
+	another EXPLOSION confirms it -- the settlement is 
+	under attack!
+
+	Jake staggers to his feet, moves off...
+
+53   INT. CAVERN - STAFF BUNK ROOM
+
+	where Kalandra is trying to give instructions to her 
+	worried staff as Jake ENTERS -- Bashir, Kirby, the 
+	Nurse, the Bolian, and some N.D. medical personnel are 
+	there.
+
+	The room SHUDDERS from another EXPLOSION, dust rains 
+	down and the LIGHTS start to FLICKER on and off --
+
+54   ON JAKE
+
+	as he struggles to fight back the onset of panic --
+
+		KIRBY						NURSE
+	Are they inside				What's going on?
+	the compound?
+
+		KALANDRA					BOLIAN
+	Everyone listen.			What are we going to do?
+
+					KALANDRA
+				(when they fall silent) 
+			We're evacuating.
+
+	Worried murmurs from the group... another explosion
+	rattles the room...
+
+					KALANDRA 
+			We're going to take the patients 
+			out the north tunnel to the 
+			surface. A hopper is going to 
+			take us down the peninsula to the 
+			base at Tananda Bay.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE   44A.
+
+54   CONTINUED:
+
+					KIRBY 
+			That tunnel is almost two 
+			kilometers long... we've got over 
+			seventy patients to move -- you 
+			know how long that's going to 
+			take?
+
+	Murmurs of agreement from the group --
+
+55   ON JAKE
+
+	listening to this with mounting anxiety...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    45.
+
+55   CONTINUED:
+
+					KALANDRA'S VOICE (O.S.) 
+			Resource is sending a security 
+			detail to defend the hospital and 
+			give us enough time to evacuate.
+
+56   RESUME SCENE
+
+					KALANDRA
+				(rallying her people) 
+			We can do this.
+
+	Another EXPLOSION shakes the room -- Bashir weighs in 
+	to help Kalandra.
+
+					BASHIR 
+			We have to stay calm. Focus on 
+			your job. Those people in there 
+			need us.
+
+					KALANDRA 
+			Let's move.
+
+	Galvanized by her words, the group breaks up, heads 
+	out... Jake makes to follow, but once the last of them 
+	is out the door he drops back, leans against the wall, 
+	struggles to steady his uneven breathing... an 
+	explosion triggers another cascade of dust.
+
+	Jake stands there in the FLICKERING LIGHTS, unable to 
+	move, paralyzed with dread...
+
+INT. CAVERN - MAIN WARD
+
+	The evacuation in progress. Nurses and orderlies are 
+	getting patients onto stretchers and taking them out a 
+	BACK EXIT. Their urgent shouts, the FLICKERING LIGHTS, 
+	the EXPLOSIONS -- it all adds up to a scene of utter 
+	Pandemonium.
+
+58   TWO STARFLEET GUARDS
+
+	armed with phaser RIFLES have taken up position near 
+	the entrance -- one is male, one female.
+
+59   KALANDRA
+
+	is standing near the back exit, motioning to some 
+	patients able to walk on their own.
+
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    46.
+
+59   CONTINUED:
+
+					KALANDRA
+			This way... keep moving.
+
+60   THE BOLIAN
+
+	shouts to a passing Orderly to come help him get a 
+	patient on a stretcher.
+
+					BOLIAN
+			Give me a hand --
+
+61   BASHIR AND KIRBY
+
+	ENTER from the back exit with an empty stretcher just 
+	as an EXPLOSION shatters the air. Kirby looks over at 
+	the two guards, dismayed that so few have been sent to 
+	protect the hospital.
+
+					KIRBY
+			Is that it -- two guards?
+
+					BASHIR
+			The rest must be out defending the
+			perimeter.
+
+	The male guard, after conferring with his colleague, 
+	moves into the tunnel.
+
+					KIRBY
+			Great, one's leaving.
+
+62   THE NURSE
+
+	is holding the hands of two convalescing children, 
+	helping them shuffle toward the back...
+
+					NURSE
+			We're going someplace safe, all
+			right?
+
+63   INT. CAVERN - STAFF BUNK ROOM
+
+	as Jake hides under one of the tables, lost in his 
+	fear. An EXPLOSION rocks the room, shaking a GIRDER 
+	loose from the ceiling. It smashes the table next to 
+	Jake's and crushes it instantly...
+
+	This snaps him out of it -- he realizes it's not safe 
+	here, scurries for the door...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE   46A.
+
+64   INT. CAVERN - A TUNNEL
+
+	as Jake moves down the dark passageway, lit only by the 
+	eerily FLICKERING LIGHTS. The explosions have stopped, 
+	it's strangely quiet.
+
+	Jake rounds a bend and runs smack into the male Guard, 
+	who's rushing back toward the main ward --
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    47.
+
+64   CONTINUED:
+
+					MALE GUARD
+			They're coming!
+
+	He shoves Jake down the corridor.
+
+					MALE GUARD
+			Move.
+
+	The Guard looks back the way he came, his phaser rifle 
+	at ready. We hear the ominous sound of heavy FOOTSTEPS 
+	coming down the corridor toward them...
+
+65   NEW ANGLE - JAKE
+
+	as he starts down the tunnel, in the background, we can 
+	see the main ward. The last three patients are being 
+	carried out the back exit on stretchers. Two of them 
+	are being carried by N.D. medical personnel, the third 
+	by Kirby and the Bolian. The female guard is standing 
+	at the back exit, waving them on.
+
+					FEMALE GUARD
+			Come on, let's go!
+
+66   INT. CAVERN - TUNNEL/MAIN WARD (OPTICAL)
+
+	as Jake nears the mouth of the tunnel Kirby looks up 
+	and sees him --
+
+					KIRBY
+			Anyone left back there?
+
+					JAKE
+				(on the move)
+			No --
+
+	Suddenly the Guard gets SHOT in the back by a disruptor 
+	BLAST -- as he falls forward, his phaser rifle flies 
+	from his grasp and clatters to the floor in the center 
+	of the ward. 
+
+	Jake turns to look over his shoulder --
+
+67 
+thru   OMITTED
+68   
+
+69   NEW ANGLE
+
+	to reveal TWO KLINGONS running down the tunnel after 
+	Jake, disruptors in their hands --
+
+      DEEP SPACE NINE: "Nor the... " - REV. 08/21/96 - ACT FIVE     47A.
+
+69A  INT. CAVERN - MAIN WARD (OPTICAL)
+
+	From the back exit, the Female Guard takes aim at the 
+	oncoming Klingons --
+
+					FEMALE GUARD 
+				(to Jake) 
+			Get down!
+
+	Jake dives behind some medical equipment for cover and 
+	the Female Guard opens FIRE at the Klingons behind him, 
+	the BLASTS whizzing just over Jake's head.
+
+69B   THE KLINGONS (OPTICAL)
+
+	as they take cover behind the pillar of rock in the 
+	tunnel entrance... phaser HITS exploding all around 
+	them --
+
+69C   ON JAKE
+
+	staying low, caught in the crossfire --
+
+69D   ON THE KLINGONS (OPTICAL)
+
+	as one opens FIRE on the Female Guard, the other on
+	Jake --
+
+70   ON JAKE (OPTICAL)
+
+	as disruptor BLASTS explode all around him -- he's 
+	forced to scurry behind a nearby bed for cover, right 
+	near where the dead Guard's weapon fell...
+
+70A ON THE FEMALE GUARD (OPTICAL)
+
+	takes a hit, staggers back onto the floor, dead...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    48.
+
+71   ON THE KLINGONS (OPTICAL)
+
+	as they both concentrate on hitting Jake...
+
+72   ON JAKE (OPTICAL)
+
+	as the shots hit around him, coming perilously closer 
+	and closer. A strangled cry of fear and panic tears 
+	from his throat -- he snatches the dead man's weapon 
+	and starts SHOOTING wildly... crouched behind the bed 
+	for cover, he holds it over his head and aims blindly 
+	toward the Klingons.
+
+73   ON THE KLINGONS (OPTICAL)
+
+	as Jake's wild SHOTS hit all around them...
+
+74   NEW ANGLE (OPTICAL)
+
+	From where the Klingons are, all they can see is 
+	weapon held up behind a piece of equipment across the 
+	room, FIRING blindly...
+
+75   ON JAKE
+
+	still firing the weapon above his head, afraid to let 
+	go...
+
+76   ON THE KLINGONS (OPTICAL)
+
+	as one of Jake's SHOTS hits the cavern ceiling above
+	them, splintering off chunks of rock and sending them
+	cascading down, forcing the Klingons back into the
+	passageway to avoid being crushed...
+
+77   ON JAKE
+
+	He's so panicked he doesn't realize how wild his shots 
+	are going... the off-screen AVALANCHE kicks up a CLOUD 
+	of DUST and DEBRIS that comes toward Jake and --
+
+	BLACKS OUT THE SCREEN.
+
+									FADE IN:
+
+78   INT. CAVERN - MAIN WARD - JAKES POV
+
+	as he tries to focus on the faces looking down on him - 
+	his father's and Bashir's.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    49.
+
+79   NEW ANGLE
+
+	as Sisko and Bashir kneel over Jake, lying strewn in 
+	the rubble.
+
+					BASHIR
+			Jake, looks who's here --
+
+					JAKE
+				(focusing)
+			Dad?
+
+	As much as Sisko would like to gather Jake up in his 
+	arms, he doesn't --
+
+					SISKO 
+			Don't move, let Doctor Bashir 
+			check for injuries.
+
+	Bashir starts to scan him with his tricorder.
+
+					JAKE 
+			What happened?
+
+					BASHIR
+			I came back when I realized you 
+			weren't on the hopper.
+
+					SISKO
+				(reassuring him) 
+			The cease-fire has been 
+			reinstated. The Klingons are 
+			pulling out. It's over.
+
+					BASHIR
+				(with irony) 
+			Admittedly, the timing could have 
+			been a little better, but...
+
+	Bashir shuts his tricorder, looks at Jake as if he 
+	still can't quite believe what he did...
+
+					BASHIR
+				(to Sisko)
+			He seems to be all right.
+
+	They start to help Jake up.
+
+					SISKO
+			Sealing the entrance way was a 
+			risky thing to do. You almost 
+			brought the whole ceiling down on 
+			yourself.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE   49A.
+
+79   CONTINUED:
+
+					BASHIR
+			Still, we never would've gotten 
+			all the patients out if he hadn't 
+			done it.
+				(smiles, to Jake) 
+			You're a hero.
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    50.
+
+79   CONTINUED:	(2)
+
+	As Sisko helps Jake stand, we begin to hear Jake in 
+	V.O.
+
+					JAKE (V.O.) 
+			More than anything, I wanted to 
+			believe what he was saying...
+
+80   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	as it travels at warp...
+
+					JAKE (V.O.) 
+				(continuing) 
+			But the truth is, I was just as 
+			scared in that hospital as I'd 
+			been when we went for the 
+			generator...
+
+81   INT. DEFIANT - QUARTERS
+
+	Bashir is alone, Jake has given him his PADD to read.
+
+					JAKE (V.O.) 
+				(continuing
+			So scared, that all I could think 
+			about was doing whatever it took 
+			to stay alive...
+
+82   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+					JAKE (V.O) 
+				(continuing)
+			Once that meant running away, and 
+			once it meant picking up a 
+			phaser...
+
+83   INT. SISKO'S QUARTERS
+
+	where Sisko is reading what Jake has written as his son
+	looks on...
+
+     DEEP SPACE NINE: "... Nor the... " - REV. 08/21/96 - ACT FIVE    51.
+
+83   CONTINUED:
+
+					JAKE (V.O.)
+				(continuing)
+			The battle of Ajilon Prime will
+			probably be remembered as a
+			pointless skirmish, but I'll
+			always remember it as something
+			more -- as the place I learned
+			that the line between courage and
+			cowardice is a lot thinner than
+			most people believe...
+
+	Sisko finishes, looks up at his son... a moment as they 
+	regard each other...
+
+					JAKE
+				(quiet)
+			So what do you think... ?
+
+					SISKO 
+			Anyone who's been in battle would 
+			recognize himself in this... but 
+			most of us wouldn't care to admit 
+			it.
+
+	He studies Jake's features, wants him to understand.
+
+					SISKO 
+			It takes courage to look inside 
+			yourself... and even more courage 
+			to write about it for other people
+			to see.
+
+	Jake takes in his father's words, and maybe even takes 
+	some comfort in them...
+
+	Sisko can see Jake is still raw from the whole 
+	experience, that he needs to be comforted... he pulls 
+	him into his arms, holds him close.
+
+					SISKO
+			I'm proud of you, son...
+
+	As Sisko holds Jake tight, we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END     

@@ -1,0 +1,3372 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                      "When it Rains... " 
+                          #40510-571 
+                              
+                           Story by 
+              Rene Echevarria & Spike Steingasser 
+                              
+                          Teleplay by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                         Michael Dorn 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1999 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. if
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department              FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                      February 16, 1999
+
+     STAR TREK: DS9   "When it Rains... " - 02/16/99 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "When it Rains... " 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     DAMAR
+          BASHIR                   DUKAT
+          O'BRIEN                  WINN
+          WORF                     RUSOT
+          EZRI                     ROSS
+          QUARK                    GOWRON
+          ODO                      MARTOK
+                                   ROMULAN
+                                   HILLIARD
+                                   WELDON
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+        STAR TREK: DS9 - "When it Rains... " - 02/16/99 - SETS          
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "When it Rains... "                           
+                             SETS                               
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 SPACE
+          INFIRMARY                     DEEP SPACE NINE
+          SECURITY OFFICE               AVANDI PRIME
+               WARDROOM                 RUNABOUT
+               AIRLOCK CORRIDOR         BAJOR
+               OPS
+               CAPTAIN'S OFFICE
+               MARTOK'S OFFICE
+               GOWRON'S OFFICE
+               (Formerly Martok's)
+
+        BAJOR 
+          KAI WINN'S OFFICE
+
+          DAMAR'S BASE
+          CAVERN
+          BARRACKS
+
+        RUNABOUT
+
+                              
+
+                              
+                              
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - TEASER     1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "When it Rains... "                           
+                            TEASER                              
+
+	FADE IN:
+
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+	(NOTE: The Defiant has yet to be replaced.)
+
+2    INT. WARDROOM
+
+	Where SISKO, MARTOK, ADMIRAL ROSS and a ROMULAN
+	GENERAL are listening to O'BRIEN brief them about
+	the Breen situation. On the WALL MONITOR we see a
+	STARCHART displaying the current tactical picture.
+
+					O'BRIEN
+			-- basically we stumbled onto it
+			by accident. At Chin'toka, our
+			entire fleet was disabled when
+			the Breen engaged their energy-
+			dampening weapon. Three hundred
+			and eleven ships -- Federation,
+			Romulan, and Klingon -- all lost
+			power.
+
+					SISKO
+			But one didn't -- a Bird of Prey
+			called the Ki'tang.
+
+	Ross and the Romulan perk up at hearing this.
+	Martok -- having already been briefed on the subject
+	-- lets them ask the questions.
+
+					ROSS
+			Why, what was different about the
+			Ki'tang?
+
+					O'BRIEN
+			We're not exactly sure. The only
+			thing we can figure is that right
+			before the engagement, her Chief
+			Engineer adjusted the tritium
+
+			intermix to compensate for a
+			containment problem in the warp
+			core.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - TEASER     2.
+
+2    CONTINUED:
+
+					MARTOK
+			I've ordered every ship in the
+			Klingon fleet to adjust its
+			reactor the same way.
+
+					ROMULAN
+			Our vessels are of a different
+			design -- can this technique be
+			adapted to protect them as well?
+
+					SISKO
+			Unfortunately, no. Your ships
+			are still vulnerable.
+				(to Ross)
+			And so are ours.
+
+					O'BRIEN
+			I've sent what we know about the
+			Breen weapon to the Romulan
+			Ministry of Science and to
+			Starfleet Engineering, but
+			realistically, it's going to be a
+			while before they can come up
+			with a way to protect our ships.
+
+					SISKO
+			Thank you, Chief.
+
+	O'Brien nods and EXITS. A beat, then Ross turns to
+	the others.
+
+					ROSS
+			Well, Gentlemen, it would seem
+			that the Klingon fleet is the
+			only thing standing between us
+			and the Dominion.
+
+					ROMULAN
+				(under his breath)
+			What have we come to... ?
+
+	Martok shoots him a look
+
+					MARTOK
+			By tomorrow, we'll have eleven
+			hundred Klingon vessels ready for
+			deployment.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - TEASER     3.
+
+2    CONTINUED:	(2)
+
+					ROMULAN
+				(dismissive)
+			With the Breen, the Cardassians
+			and the Jem'Hadar you're still
+			outnumbered twenty-to-one.
+
+					MARTOK
+				(sharp)
+			I'm aware of that, general.
+
+	Sisko intercedes before the argument becomes more
+	heated.
+
+					SISKO
+			Obviously the Klingons can't go
+			head-to-head with the Dominion.
+			But they might be able to keep
+			them distracted.
+
+					MARTOK
+			We'll operate in small battle
+			groups -- moving in under cloak,
+			engaging the enemy, then trying
+			to provoke them into pursuit.
+
+					SISKO
+			With any luck, they'll be able to
+			keep the Dominion off balance and
+			prevent them from launching an
+			offensive.
+
+					ROMULAN
+			For how long? They can't keep
+			them at bay forever.
+
+					SISKO
+			No, they can't. But fortunately
+			we're not the only ones the
+			Dominion has to contend with
+			right now.
+
+					ROSS
+			Damar's resistance movement...
+
+					ROMULAN
+				(dismissive)
+			What's left of it. Half his
+			troops were killed in their
+			assault on Rondac.
+
+					SISKO
+			They may have failed to capture
+			Rondac, but the attack sent a
+			message to the Cardassian people.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - TEASER     4.
+
+2    CONTINUED:	(3)
+
+					SISKO (Cont'd)
+			If the rebels can show them that
+			they have a chance of succeeding,
+			their support will grow.
+
+					ROMULAN
+			Does the rebellion have a chance
+			of succeeding?
+
+					SISKO
+			Yes, but they need to adjust
+			their tactics -- concentrate on
+			small-scale hit-and-run attacks,
+			sabotaging key facilities... 
+
+					ROSS
+			Damar's a by-the-book soldier.
+			Does he have any experience
+			waging that kind of campaign?
+
+					SISKO
+			No, he doesn't. That's why we
+			need to send him someone who
+			does...
+
+									CUT TO:
+
+3    INT. CAPTAIN'S OFFICE
+
+	where Sisko is talking to an incredulous KIRA.
+
+					KIRA
+			You want me to go behind enemy
+			lines and teach a bunch of
+			Cardassians how to be resistance
+			fighters?
+
+
+					SISKO
+			I'm aware of the irony. But the
+			tactics you used to drive the
+			Cardassians off Bajor are exactly
+			what this situation calls for.
+
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - TEASER     5.
+
+3    CONTINUED:
+
+					KIRA
+			But to work with Damar? He's a
+			murderer. When he killed Ziyal --
+			he murdered an innocent girl.
+
+					SISKO
+			You're going to have to put your
+			personal feelings aside. Whether
+			you like Damar or not is
+			irrelevant. We need him.
+				(laying it out for
+				her)
+			The Dominion knows it has to stop
+			his rebellion before it spreads.
+			It's your job to make sure they
+			don't. It's as simple as that.
+
+	Kira can't argue with him and she knows it.
+
+					KIRA
+			Yes, sir.
+				(beat)
+			I understand Damar and his men
+			went into hiding after the attack
+			on Rondac. Any idea how we can
+			locate them?
+
+					SISKO
+			I suggest you talk to Mister
+			Garak about that.
+
+					KIRA
+				(less than pleased)
+			Garak?
+
+					SISKO
+			He still has contacts on
+			Cardassia. In fact if I were
+			you, I'd ask him to join your
+			team. He could be useful.
+
+					KIRA
+			Damar, now Garak... should be an
+
+			interesting mission...
+
+	And off Kira as she grapples with what she's been
+	asked to do, we...
+
+4    OMITTED
+
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+  DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE  6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+5    INT. INFIRMARY
+
+	A nervous BASHIR is fumbling with an empty BEAKER,
+	trying to build up to asking ODO a favor. Needless
+	to say, the good constable is starting to lose
+	patience with him.
+
+					BASHIR
+			... it's very difficult to keep a
+			supply of synthetic organs on
+			hand in a battlefield situation.
+			You never know how many livers
+			you're going to need, how many
+			hearts --
+
+					ODO
+				(interrupting)
+			I can imagine. But what does
+			that have to do with me?
+
+					BASHIR
+			Well you see, the Holy Grail of
+			organ replacement is to come up
+			with a way to inject the patient
+			with undifferentiated tissue that
+			can become whatever organ is
+			needed. The problem is --
+
+					ODO
+			Doctor, get to the point.
+
+	Bashir holds up the beaker with a wan smile.
+
+					BASHIR
+			Can I borrow a cup of goo?
+
+					ODO
+			Excuse me?
+
+					BASHIR
+			I promise I'll give it back.
+
+ DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE     7   
+
+5    CONTINUED:
+
+					BASHIR
+			I just want to study your
+
+			morphogenic matrix to see if I
+			can synthesize organic tissue
+			that can change form the way your
+			cells do.
+
+
+					ODO
+				(putting it
+				together)
+			To use for organ replacement...
+
+					BASHIR
+			Exactly.
+
+	Odo considers, but some part of him is reluctant.
+
+
+					ODO
+			Can't you just... scan me or
+			something?
+
+					BASHIR
+			I need a sample...
+				(off Odo's
+				hesitation)
+			It's for a good cause.
+
+	Odo considers for a beat, then nods reluctantly.
+
+					ODO
+			All right, Doctor...
+
+	Bashir holds up the beaker, and Odo sticks his
+	finger in it.
+
+6    CLOSE - THE BEAKER (OPTICAL)
+
+	as a small quantity of changeling goo begins to
+	MORPH from Odo's finger and ooze to the bottom of
+	the glass.
+
+					BASHIR
+			Just a tad more...
+
+	Odo frowns and continues. Bashir holds up the
+	beaker of goo, happy as can be.
+
+					BASHIR
+			Thank you.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE    8.
+
+6    CONTINUED:
+
+					ODO
+				(a warning)
+			I'm going to want that back as
+			soon as Kira and I return from
+			our mission.
+
+					BASHIR
+
+			You're going with her?
+
+					ODO
+				(nods)
+			She thought I might be useful.
+
+					BASHIR
+			When do you leave?
+
+					ODO
+			As soon as Garak is able to
+			locate Damar.
+
+	With a last look at the goo sample he so reluctantly
+	parted with, Odo EXITS. Off a happy Bashir as he
+	takes his hard-won sample and gets to work...
+
+7    OMITTED
+
+ DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE 9-10.   
+
+8    EXT. BAJOR (STOCK) (OPTICAL)
+
+	Establishing.
+
+9    INT. KAI WINN'S OFFICE
+
+	A distraught KAI WINN is talking to a HIGH-LEVEL
+	BAJORAN SECURITY OFFICIAL. In the background, DUKAT
+	looks on.
+
+					WINN
+			I'm very concerned. It's not
+			like Solbor to disappear like
+			this. Please, do whatever it
+			takes to find him.
+
+	The Deputy nods and EXITS. As soon as he's gone,
+	Winn drops the pretense -- though there's a look of
+	guilt on her features. Dukat approaches...
+
+					DUKAT
+			Well done.
+				(smiling)
+			I almost believed you myself.
+
+	Winn gives him a cold look --
+
+					WINN
+			How like a Cardassian to find
+			amusement in an old man's death.
+			You don't know how much I regret
+			having to kill him.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE   11.
+
+9    CONTINUED:
+
+					DUKAT
+			He was going to expose us.
+				(reaching to touch
+				her)
+			No one can be allowed to stand in
+			our way...
+
+	But Winn pulls away from his touch.
+
+					WINN
+			Remember your place, Dukat.
+
+	Dukat can sense that the power dynamic between them
+	has shifted, and he chooses to play vulnerable.
+
+					DUKAT
+			I thought my place was in your
+			bed...
+
+					WINN
+				(icy)
+			That was before I knew who you
+			were.
+
+					DUKAT
+
+			I'm not the same man I was during
+			the Occupation. The Pah-wraiths
+			have changed me.
+
+					WINN
+			But they can't change what you
+			did. Do you really think I could
+			let myself be touched by a man
+
+			whose hands are stained with the
+			blood of my people?
+
+	Dukat fears her resolve for their plans may be
+	crumbling, and decides to risk testing it.
+
+					DUKAT
+			When we release the Pah-wraiths
+			from the fire caves, your hands
+			will be stained as well.
+
+
+					WINN
+			The Pah-wraiths will spare those
+			who are worthy.
+				(steely)
+			The rest... are of no
+			consequence.
+
+	Winn turns and moves over to the table, where the
+	BOOK of the Kosst Amojan is sitting. She stares
+	down at it for a moment...
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE   12.
+
+9    CONTINUED:	(2)
+
+					DUKAT
+			You've been studying that for
+			days... perhaps I could help?
+
+					WINN
+			The text of the Kosst Amojan is
+			for my eyes alone...
+
+	She sits and begins to study a page of the book.
+	Dukat's curiosity gets the better of him and he
+	crosses toward her.
+
+					DUKAT
+			Have you learned what we have to
+			do to release the Pah-wraiths?
+
+					WINN
+				(without looking up)
+			Only that it's not a simple
+			matter...
+				(beat)
+			Leave me. I've had enough of
+			your distractions.
+
+	Dukat bristles, then mustering as much dignity as he
+	can, turns and EXITS. Off Winn as she continues
+	working...
+
+10   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+11   INT. CAPTAIN'S OFFICE
+
+	where Sisko and Admiral Ross are talking.
+
+					ROSS
+			-- when is Gowron's ship due to
+			arrive?
+
+					SISKO
+			In the morning.
+
+					ROSS
+				(a small smile)
+			Martok seems a little nervous
+			about the ceremony.
+
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE   13.
+
+11   CONTINUED:
+
+					SISKO
+				(nods)
+			The Chancellor is coming all the
+			way from Kronos to induct him
+			into the Order of Kahless...
+				(smiles)
+			I'd be nervous, too.
+
+	The door CHIMES. Sisko sees Kira and Garak standing
+	outside, and waves them in.
+
+					KIRA
+			Good news. Garak was able to
+			contact Damar.
+
+					GARAK
+			He provided us with his location
+			and requested assistance as soon
+			as possible.
+
+					KIRA
+			With your permission, I'd like to
+			depart first thing tomorrow.
+
+					SISKO
+			By all means.
+
+	Kira nods and turns to go --
+
+					GARAK
+			There is one other thing...
+
+					SISKO
+			Yes?
+
+					GARAK
+			Damar expressed certain concerns
+			when I told him Colonel Kira was
+			going to be leading this mission.
+
+					KIRA
+			If he wants to defeat the
+			Dominion --
+				(with a glance
+				Sisko's way)
+			He's going to have to put his
+			feelings aside.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE   14.
+
+11   CONTINUED:	(2)
+
+					GARAK
+			He's willing to do that, he knows
+			your skills would be useful. But
+			he's concerned that his men would
+			see your uniform as an affront.
+			We Cardassians are a proud people.
+			Losing Bajor to a ragtag band of
+			terrorists -- no offense -- was a
+			humiliation.
+				(beat)
+			Simply put, taking on a Bajoran
+			officer as an advisor would
+			undermine his authority.
+
+	Kira fumes, but there's nothing she can do. With a
+	sympathetic glance Kira's way, Ross reluctantly
+	concludes:
+
+					ROSS
+			I'm sorry, colonel.
+				(to Sisko)
+			We'll have to send someone else
+			to head up the mission.
+
+					SISKO
+			No, sir. Colonel Kira is the
+			best person for the job. There's
+			another way around this problem.
+
+
+									CUT TO:
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE   15.
+
+12   INT. SECURITY OFFICE 
+
+	where Odo is talking to someone off-screen.
+
+					ODO
+			I don't know...
+
+13   REVEAL - KIRA IN A STARFLEET UNIFORM
+
+	standing in front of him. Unsatisfied with the way
+	it fits, Garak keeps tugging and fussing with it.
+
+					ODO
+			Do you really think it's going to
+			make a difference to the
+			Cardassians that you've been
+			given a Starfleet commission?
+			You're still a Bajoran.
+
+					KIRA
+			A Bajoran with the authority to
+			speak on behalf of the
+			Federation.
+
+	Garak stops fussing with Kira's uniform and turns to
+	Odo --
+
+					GARAK
+			You do realize you're going to
+			have to do something about your
+			"uniform," as well?
+
+					ODO
+			I was afraid you were going to
+			say that...
+
+	Garak gestures that Odo go ahead --
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT ONE   16.
+
+14   ODO DOES A 2-D MORPH (OPTICAL)
+
+	and his "clothes" change into the outfit he wore in
+	"Necessary Evil."
+
+
+					ODO
+			Well?
+
+					GARAK
+			It's a little... drab.
+
+					ODO
+			It's how I appeared when I worked
+			for the Cardassians.
+
+					GARAK
+			It should put them at ease,
+			anyway.
+
+	Garak looks Kira up and down for a beat --
+
+					GARAK
+				(half-joking)
+			I wonder if Doctor Bashir could
+			help us with that nose of yours?
+
+					KIRA
+			I'm only willing to go so far.
+			Damar's men are just going to
+			have to get used to the idea of
+			having me around.
+
+					GARAK
+			They'll tolerate you. To a
+			point.
+				(sincere)
+			But if I were you, I'd watch my
+			back.
+				(breezy)
+			See you in the morning.
+
+	And with that, he turns and EXITS. Off Odo and Kira
+	as they exchange a look, wondering what they've got
+	themselves into...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+  DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO 17.
+                            ACT TWO                             
+
+	FADE IN:
+
+15   EXT. SPACE - VANDEN PRIME (OPTICAL)
+
+	Establishing the planet.
+
+16   INT. DAMAR'S BASE - CAVERN
+
+	We see SUPPLIES stacked here and there, a makeshift
+	WORKTABLE strewn with PADDs, and a CARDASSIAN
+	VIEWSCREEN showing a STARCHART depicting the
+	deployment of Dominion forces.
+
+	DAMAR is studying a PADD watched by GUL RUSOT, his
+	right hand man. In the background N.D. CARDASSIANS
+	are working, ENTERING and EXITING through TUNNELS
+	that lead to adjacent caverns.
+
+					RUSOT
+			You see the problem.
+
+					DAMAR
+				(nodding)
+			Our food supplies are running
+			low.
+
+					RUSOT
+			We'll have to cut back our
+			rations until we get hold of some
+			food replicators.
+
+					DAMAR
+			When I spoke to Garak, I told him
+			to bring some.
+
+					RUSOT
+				(disgusted)
+			Federation food replicators?
+
+					DAMAR
+				(re: the PADD)
+			Rusot, we're in no position to
+			turn down help -- no matter where
+			it comes from.
+
+					RUSOT
+			Taking help from the Federation
+			is bad enough, but having to take
+			it from that Bajoran terrorist... 
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   18.
+
+16   CONTINUED:
+
+					DAMAR
+			Kira Nerys has certain "skills"
+			she's willing to teach us.
+			"Skills" we'll need if we're
+			going to defeat the Dominion.
+
+					RUSOT
+			I don't believe what I'm hearing.
+			When we were stationed on Terok
+			Nor, you spent hours telling me
+			how much you despised her.
+
+					DAMAR
+			I did hate her. But that's a
+			luxury I can no longer afford.
+				(pointed)
+			And neither can you. I need your
+			support in this, my friend.
+
+	After a beat, Rusot nods his head. Damar pats him
+	on the shoulder and EXITS. We hold on Rusot, who
+	seems less than convinced about the wisdom of
+	Damar's approach.
+
+17   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+18   INT. MARTOK'S OFFICE
+
+	As seen in "Once More unto the Breach." WORF is
+	looking on as a nervous Martok futzes with his
+	clothes. He's about to attach a KLINGON DECORATIVE
+	PIECE to his uniform when he suddenly thinks better
+	of it.
+
+					MARTOK
+			Maybe I shouldn't wear the
+			kro'jek...
+
+	Martok goes back and forth on the subject, then
+	suddenly catches himself --
+
+					MARTOK
+			Look at me! Fussing like a
+			woman! It's ridiculous.
+
+					WORF
+			Gowron is according you a great
+			honor. There is no shame in
+
+			being... anxious.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   19.
+
+18   CONTINUED:
+
+					MARTOK
+				(worried)
+			What if I make a mistake during
+			the ceremony tomorrow... ?
+
+
+					WORF
+			I'll help you memorize the proper
+			responses.
+
+
+	Martok nods, sighs deeply...
+
+					MARTOK
+			I tell you, my friend... I'd
+			rather be going into battle than
+			doing this...
+
+	Worf puts a hand to his friend's shoulder.
+
+					WORF
+			That is why you are being
+			honored. Because you've fought
+			the Dominion with all your heart.
+			Your name is known throughout the
+			Empire. They sing songs of your
+			exploits. You've earned this.
+
+					COM VOICE
+			Ops to General Martok. You asked
+			to be notified when Chancellor
+			Gowron's ship arrived.
+
+					MARTOK
+			Acknowledged.
+
+	Worf heads for the door. Martok hesitates and
+	considers whether to wear the kro'jek or not. A
+	beat, then he scowls and follows Worf out...
+
+19   INT. AIRLOCK CORRIDOR
+
+	where Sisko, Worf, Martok and Ross are gathered to
+	greet GOWRON and TWO KLINGON ADJUTANTS as they
+	EMERGE from the Airlock.
+
+					SISKO
+			Welcome to Deep Space Nine,
+			chancellor.
+
+					GOWRON
+			It's been too long, captain.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   20.
+
+19   CONTINUED: 
+
+					SISKO
+				(introducing him)
+			You know Admiral Ross.
+
+
+	Gowron studies him without recognition.
+
+					ROSS
+			We met at Khitomer.
+
+					GOWRON
+				(jovial)
+			Of course, admiral.
+				(seeing Martok)
+			Martok!
+
+	Martok bows his head respectfully.
+
+					GOWRON
+				(grabbing his
+				shoulders)
+			The man I came to honor!
+
+	Gowron's smile fades when he sees Worf standing
+	behind Martok.
+
+					GOWRON
+			The Son of Mogh...
+
+					WORF
+			Chancellor...
+
+	There's no love lost between these two, but Worf
+	remains respectful.
+
+					GOWRON
+				(to Martok;
+				suspicious)
+			They say you've made him part of
+			your House...
+
+					MARTOK
+			It's true.
+
+	It seems that Gowron is about to insult Worf, but
+	instead he breaks into a grin.
+
+					GOWRON
+			Then what's past is past!
+				(to Worf)
+			If Martok considers you his
+			brother, that's all I need to
+			know.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   21.
+
+19   CONTINUED:	(2)
+
+	And with that, he throws his arms around Worf and
+	Martok and leads them away.
+
+					GOWRON
+			Come! I brought a barrel of the
+			finest bloodwine and it must be
+			drunk tonight!
+
+	Sisko and Ross watch them go for a beat.
+
+					SISKO
+			I guess we're not invited...
+
+	Off this moment...
+
+20   INT. INFIRMARY (VPB)
+
+	Bashir is working at a console, talking with
+	O'Brien.
+
+					BASHIR
+			I finally tracked her down in
+			Quark's and said flat out, "Ezri,
+			why have you been avoiding me?"
+			She was just about to answer when
+			I got called away.
+
+					O'BRIEN
+			I haven't noticed her avoiding
+			you. Are you sure you're not
+			imagining things?
+
+					BASHIR
+			I haven't crossed paths with her
+			in days.
+
+					O'BRIEN
+			Neither have I. It's a big
+			station.
+				(smiles knowingly)
+			The truth is you want to spend
+			more time with her, so it seems
+			like she's never around.
+
+	Bashir's face tells us that O'Brien may have a
+	point, but he sidesteps it --
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   22.
+
+20   CONTINUED:
+
+					BASHIR
+			I'm telling you something's going
+			on. And I intend to find out
+			what it is when she gets here.
+				(conspiratorial)
+			I told her I have some test
+			results from her last checkup
+			that I want to discuss.
+
+					O'BRIEN
+			Isn't that unethical, or
+			something?
+
+	Bashir takes the BEAKER with Odo's sample in it and
+	sets it on a SCANNER.
+
+					O'BRIEN
+				(eyeing the beaker)
+			Is that Odo?
+
+					BASHIR
+			Part of him, anyway.
+
+					O'BRIEN
+			Never mind, I don't want to know.
+
+					BASHIR
+			Computer, begin a morphogenic
+			enzyme analysis...
+
+
+	The scanner begins to emit a soft BEEP every few
+	seconds that continues  underneath the rest of the
+	scene. EZRI appears in the doorway.
+
+					EZRI
+			Hi.
+
+	The two men turn and see her.
+
+		BASHIR                                  O'BRIEN
+     Ezri.                                Hi.
+
+					EZRI
+				(to Bashir)
+			You wanted to see me?
+
+					BASHIR
+			Yes, come in.
+
+	Bashir gives O'Brien a significant look.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   23.
+
+20   CONTINUED:	(2)
+
+					O'BRIEN
+				(to Ezri)
+			Good running into you.
+				(ribbing Bashir)
+			I haven't seen you in days.
+
+	And with that, he EXITS. Bashir and Ezri stand
+	there for an awkward moment, neither of them sure
+	what to say.
+
+					BASHIR
+			So...
+
+					EZRI
+			You said something about test
+			results... ?
+
+					BASHIR
+			Yes, of course.
+				(grabbing a PADD)
+			Let's see...
+
+	Bashir works the PADD, then casually asks...
+
+					BASHIR
+			You know, we never finished our
+
+			conversation the other day.
+
+					EZRI
+			Our conversation?
+
+					BASHIR
+			In Quark's. You were about to
+			tell me why you've been avoiding
+			me.
+
+	Ezri finds herself feeling both nervous and excited
+	that he remembered.
+
+
+					EZRI
+			I suppose this is as good a time
+			as any...
+
+	Ezri takes a breath, then tries to get it out.
+
+					EZRI
+			I guess it goes back to when Worf
+			and I were held prisoner by the
+			Breen. We spent a lot of time
+			together.
+
+   DEEP SPACE NINE: "'When it Rains... " - REV. 03/02/99 - ACT TWO   24.
+
+
+20   CONTINUED:	(3)
+
+					BASHIR
+			Naturally.
+
+					EZRI
+			You can imagine that it would
+			bring up all sorts of old
+			feelings.
+
+	Bashir's face starts to fall -- is she telling him
+	she's in love with Worf?
+
+					BASHIR
+			Sure.
+
+					EZRI
+			And, uh... one thing led to
+			another...
+
+	Bashir can't bear to hear her say it out loud and
+	cuts her off --
+
+					BASHIR
+			Ezri, you don't have to say
+			any more.
+
+					EZRI
+			But I want to.
+
+					BASHIR
+			Really, it's all right. I wish
+			you both all the happiness in the
+			world.
+
+					EZRI
+				(confused)
+			Who?
+
+					BASHIR
+			You and Worf.
+
+	Ezri realizes he's completely misunderstood. Before
+	she can say anything, Bashir's console begins to
+	BEEP INSISTENTLY and he moves to investigate.
+
+					EZRI
+			Julian, that's not--
+
+					BASHIR
+				(glancing at the
+				screen)
+			There's no need to explain.
+
+	Ezri can't believe it -- she finally built up the
+	nerve to tell him how she feels and he's taken it
+	all wrong.
+
+    DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT TWO   25.
+
+20   CONTINUED:	(4)
+
+					EZRI
+			You don't understand. What I'm
+			trying to tell you is that I'm in
+			love with --
+
+					BASHIR
+				(off monitor)
+			Oh, my God.
+
+	Bashir stares at the screen in utter shock.
+
+					EZRI
+			What is it, what's wrong?
+
+	Off Bashir, who looks like he's been kicked in the
+	stomach...
+
+21   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as it travels at warp.
+
+22   INT. RUNABOUT (OPTICAL)
+
+	Kira and Odo are in the cockpit talking to a grim-
+	faced Bashir on a MONITOR. Garak is sitting in a
+	side-chair.
+
+					BASHIR
+			-- I was running a scan on the
+			sample you left when I noticed
+			something unusual.
+
+					ODO
+			Unusual in what way?
+
+	Bashir wills himself to say the terrible words --
+
+					BASHIR
+			The disease that's killing your
+			people... you're infected...
+
+	And off Odo and Kira's stunned reactions, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  26.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+23   INT. RUNABOUT/INFIRMARY - MOMENTS LATER (OPTICAL)
+
+	Intercut as needed.
+
+					BASHIR
+			-- my guess is you became
+			infected the last time you Linked
+			with the Female Shape-shifter.
+
+					KIRA
+				(not wanting to
+				believe it)
+			Are you sure about this? He
+			doesn't have any symptoms.
+
+					BASHIR
+			So far.
+				(gently)
+			From what I can tell, the virus
+			is replicating quickly -- it may
+			not be long before symptoms start
+			to surface.
+
+	That's all Kira needs to hear --
+
+					KIRA
+				(to Odo)
+			We have to get you back to the
+			station.
+
+					ODO
+				(without hesitation)
+			No.
+				(beat)
+			We have a mission to accomplish and
+			I intend to see it through.
+
+					KIRA
+				(objecting)
+			Odo --
+
+					BASHIR
+			It's all right. At this point
+			there's not much I can do for
+			him.
+				(beat)
+			I feel confident that'll change.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  27.
+
+
+23   CONTINUED:
+
+					ODO
+			What do you mean?
+
+					BASHIR
+			I'm running a series of tests on
+			the sample you left. I'm going
+			to ask Starfleet Medical to send
+			me the results of the tests they
+			ran on you a few years ago.
+
+					ODO
+				(not a pleasant
+				experience)
+			I remember. They were very...
+			thorough.
+
+					BASHIR
+			By comparing the results, I might
+			be able to figure out how the
+			virus works. That may well lead
+			to a cure.
+
+	Odo takes this in with a nod.
+
+					KIRA
+			Thanks, Julian.
+
+	Bashir smiles reassuringly, and the TRANSMISSION ENDS.
+
+
+									END INTERCUT:
+
+24   INT. RUNABOUT - CONTINUOUS
+
+	Odo stares at the blank screen for a moment, and
+	Kira studies his profile, trying to gauge his state
+	of mind. He turns to his console --
+
+					ODO
+			We should be crossing into
+			Dominion space in a few minutes...
+
+	Kira can't believe Odo's pretending nothing's wrong.
+	She's about to say something when Garak catches her
+	eye and indicates that she should let it go.
+
+	A moment between them, then Garak turns to his
+	console, acting like it's business as usual.
+
+DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE 28-29. 
+
+24   CONTINUED:
+
+					GARAK
+			I'll start scanning for enemy
+			patrols...
+
+
+	Kira puts her fears aside, and for Odo's sake, sits
+	and busies herself at a console...
+
+25   OMITTED
+
+26   INT. KAI WINN'S OFFICE - NIGHT
+
+	A figure steals inside Winn's DIMLY LIT office. As
+	it emerges from the shadows we see that it's Dukat.
+
+	He looks around to make sure he's alone, then
+	crosses to where the Book of the Kosst Amojan lies
+	on the table. He rummages and finds the KEY, then
+	OPENS the book.
+
+					DUKAT
+			What have you been keeping from
+			me, my sweet? What dark
+			secrets... ?
+
+	He begins to page through it with a determined look
+	on his face. After a beat he stops, his attention
+	caught by a page bearing the SYMBOL of the Pah-
+	wraiths in addition to some text in ANCIENT BAJORAN.
+	As he stares at it --
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  30.
+
+27   THE SYMBOL BEGINS TO GLOW RED (OPTICAL) 
+
+	Dukat stares in wonder... suddenly --
+
+28   AN ANGRY ENERGY TENDRIL (OPTICAL)
+
+	snakes up from the page and lances him in the EYES
+	Dukat staggers back and lets out a HOWL of pain,
+	covering his eyes with his hands.
+
+	A moment later, Winn RUSHES inside -- dressed for
+	bed.
+
+					WINN
+			Dukat?
+
+					DUKAT
+				(eyes covered)
+			Adami, help me --
+
+	She sees the open book --
+
+					WINN
+			You fool --
+
+	Dukat uncovers his eyes, panicking when he realizes
+	he can't see --
+
+					DUKAT
+			I can't see...
+
+					WINN
+
+				(unmoved)
+			I warned you... the text of the
+			Kosst Amojan is for my eyes
+			alone...
+
+	If he could see, he'd be chilled to the core by the
+	sight of Winn smiling to herself over what's
+	happened to him. Off this moment...
+
+29   EXT. SPACE - DEEP SPACE NINE (STOCK) (OPTICAL)
+
+	Re-establishing. Several Klingon ships can be seen
+	in the vicinity.
+
+30   INT. INFIRMARY (OPTICAL)
+
+	An impatient Bashir is talking on a MONITOR with
+	ENSIGN WELDON, a young officer stationed at
+	Starfleet Medical.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  31.
+
+
+30   CONTINUED:
+
+	Weldon is at a DESK positioned in front of a ONE-
+	WALL SET bearing a Starfleet Insignia. He's
+	genuinely trying to help Bashir, but he's got
+	regulations he has to follow.
+
+					BASHIR
+				(exasperated)
+			-- no I don't want to talk to
+			Lieutenant Douglas. I already
+			talked to her. I need these test
+			results. My patient's life is at
+			stake.
+
+					WELDON
+			I wish I could help, but as I
+			said, the files you requested are
+			classified.
+
+					BASHIR
+				(exasperated)
+			Why would Odo's medical records
+			be classified?
+
+					WELDON
+			They are, that's all I know.
+
+					BASHIR
+			I want to talk to your
+			supervising officer.
+
+					WELDON
+			You did -- Lieutenant Douglas.
+
+					BASHIR
+			Then I want to talk to her
+			supervising officer.
+
+					WELDON
+			I'll patch you through, but he's
+			going to tell you the same
+			thing...
+
+	Weldon works the controls on his desk. His image is
+	replaced by a STARFLEET INSIGNIA. Bashir paces
+	impatiently while he waits.
+
+	Finally, the image of Lieutenant Commander HILLIARD
+	comes on screen. He's at a DESK in a different
+	office.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  32.
+
+30   CONTINUED:	(2) 
+
+					HILLIARD
+			Commander Hilliard, here.
+
+	Bashir tries to take charge of the situation --
+
+					BASHIR
+			Yes, commander. I was hoping you
+			could sort out this situation for
+			me. I realize that the files I
+			requested are classified, but
+			considering the circumstances, I
+			trust you can appreciate the need
+			for expediency.
+
+					HILLIARD
+			Of course.
+
+	Bashir breathes a sigh of relief over Hilliard's
+	helpful demeanor.
+
+					HILLIARD
+			You wouldn't mind answering a few
+			questions?
+
+					BASHIR
+			If that's necessary.
+
+	Hilliard picks up a PADD and studies it.
+
+					HILLIARD
+			You've requested Security Chief
+			Odo's medical records from
+			Stardate... ?
+				(scanning PADD)
+
+					BASHIR
+			Four-nine-four-one-nine.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  33.
+
+30   CONTINUED:	(3)
+
+					HILLIARD
+				(nods)
+			You state that he's contracted
+			the morphogenic virus that's
+			infected the Founders.
+
+					BASHIR
+			Correct.
+
+					HILLIARD
+			How did he contract it?
+
+					BASHIR
+			Presumably when he Linked with
+			one of them.
+
+	This seems to give Hilliard pause.
+
+					HILLIARD
+			You're saying he's been in
+			contact with the enemy?
+
+	Bashir can see Hilliard's disturbed and doesn't know
+	quite how to explain --
+
+					BASHIR
+			Not recently. It happened over a
+			year ago.
+
+	Hilliard studies Bashir for a beat, then makes a
+	note on his PADD.
+
+					HILLIARD
+			I assume you've done your own
+			scans of Odo over the years?
+
+					BASHIR
+			Of course.
+
+					HILLIARD
+			Then why do you need ours?
+
+	The answer's so obvious Bashir can't understand why
+	he's asking.
+
+					BASHIR
+			To use as a point of comparison,
+			in the hopes of finding a cure.
+
+					HILLIARD
+			A cure. 
+
+					BASHIR
+			That's right.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  34.
+
+30   CONTINUED:	(4)
+
+	Hilliard takes this in, then makes a note and sets
+	the PADD down. Eager to get his hands on the file,
+	Bashir continues --
+
+					BASHIR
+			Is there anything else?
+
+					HILLIARD
+			No. That pretty much covers it.
+
+					BASHIR
+			Good. So when can I expect to
+			receive a copy of the files?
+
+					HILLIARD
+			I'm afraid those files are
+			classified.
+
+	Bashir is utterly nonplussed by his response.
+
+					BASHIR
+			But... I thought you were asking
+			all these questions so you could
+			clear me to receive them.
+
+					HILLIARD
+			You misunderstood. I can't
+			release those files to anyone who
+			doesn't have Sigma Nine
+			Clearance.
+
+	Bashir loses his temper --
+
+					BASHIR
+			I don't give a damn about Sigma
+			Nine clearance, I'm just trying
+			to find a cure for this disease!
+
+	Hilliard's face hardens --
+
+					HILLIARD
+			I fail to see why you're so
+			determined to cure a disease
+			that's infected the enemy. We're
+			at war, doctor.
+
+					BASHIR
+			This has nothing to do with the
+			Founders -- I'm trying to save
+			Odo's life.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  35.
+
+30   CONTINUED:	(5)
+
+					HILLIARD
+			Ah, yes. Odo -- who by your own
+			admission has been known to
+			consort with the enemy.
+
+	Bashir isn't sure how to defend Odo against this
+	charge.
+
+					BASHIR
+			You have to understand the
+			circumstances --
+
+					HILLIARD
+			I don't care about the
+			circumstances. If you find a cure,
+			there's a good chance it could fall
+			into Dominion hands. That's a risk
+			Starfleet Medical is not willing to
+			take. Your request for the files
+			is denied.
+				(a warning)
+			If I were you, I'd drop this
+			matter. Otherwise I'll have to
+			refer it to Starfleet Security.
+
+	And with that, the transmission ENDS. Off Bashir as
+	he tries to make sense of what just happened...
+
+30A  INT. REPLIMAT
+
+	where Bashir is sitting with O'Brien at a table.
+	SUPERNUMERARIES as needed.
+
+					BASHIR
+			I'm telling you, Miles. It was
+			bizarre. This Commander Hilliard let
+			me think he was going to help me just
+			so he could ply me with questions.
+
+					O'BRIEN
+			Sounds like your typical
+			bureaucrat flexing his muscles.
+
+					BASHIR
+			No, it was more than that. He
+			practically accused me of being a
+			traitor. He made it sound like I
+			was in league with the Dominion
+			just because I want to help Odo.
+
+	O'Brien tries to makes sense of this strange
+	information.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE 35A.
+
+30A  CONTINUED:
+
+					O'BRIEN
+			Maybe the attack on Starfleet
+			Headquarters has him spooked --
+			guys like Hilliard are used to
+			sitting behind their desks, not
+			under them.
+
+					BASHIR
+			I've got to find a way to get
+			that file.
+				(thinking of it)
+			Maybe the captain could request
+			it.
+
+					O'BRIEN
+			Does he have "Sigma Nine
+			Clearance" -- whatever that is?
+
+					BASHIR
+			For Odo's sake, we'd better hope
+			so...
+
+	And with that, Bashir moves off to find Sisko...
+
+31   INT. WARDROOM - CLOSE ON THE STAR OF KAHLESS
+
+	as a drop of BLOOD DRIPS onto its etched metal
+	surface. ADJUST to REVEAL --
+
+32   A KNIFE SLIDING ACROSS AN OPEN PALM
+
+	The hand belongs to Gowron, who's standing in front
+	of Martok. The medal is in a BOWL sitting on a
+	PEDESTAL between them.
+
+	Sisko, Worf, Ross, Gowron's two Adjutants and SEVEN
+	N.D. KLINGONS are witnessing the ceremony.
+
+					GOWRON
+			-- today we honor our brother
+			Martok in the manner Kahless
+			taught us.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  36.
+
+32   CONTINUED: 
+
+	Gowron presents the knife to Martok, who takes it
+	and SLIDES it across his PALM, allowing BLOOD to
+	drip onto the medal as well.
+
+33   SISKO AND ROSS
+
+					SISKO
+				(sotto)
+			We're next...
+
+					ROSS
+				(blanching)
+			You're kidding.
+
+					SISKO
+			I wish I were...
+
+	Off Ross's face, we --
+
+
+									CUT TO:
+
+34   MARTOK
+
+	as he solemnly intones --
+
+					MARTOK
+			I accept this honor in the name
+			of the House of Martok... and I
+			ask only to be allowed to
+			continue to serve the Empire.
+
+35   WORF
+
+	allows himself a small smile, pleased that his
+	friend has remembered the ritual responses
+	perfectly.
+
+									CUT TO:
+
+36   CLOSE - A BARREL OF BLOODWINE
+
+	as two hands dunk TANKARDS in and fill them. ADJUST
+	to REVEAL Worf and Martok as they raise their
+	glasses to each other. The Star of Kahless is now
+	pinned to Martok's uniform. In the background,
+	people are milling about in small groups.
+
+					WORF
+			You did well.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  37.
+
+36   CONTINUED: 
+
+
+					MARTOK
+			Thank you for your help, my
+			friend.
+
+	And as they knock back their drinks, we go to --
+
+37   SISKO AND ROSS
+
+	their hands wrapped in makeshift BANDAGES.
+
+					ROSS
+			It still stings...
+
+					SISKO
+				(nods)
+			That's what the bloodwine's
+			for...
+
+	Ross smiles and takes a swig. Worf and Martok
+	approach and join them.
+
+					SISKO
+			Congratulations, general.
+
+	As Ross raises his tankard to toast him, suddenly
+	Gowron descends on the group --
+
+					GOWRON
+				(ebullient)
+			Martok! How does it feel to be
+			the most famous warrior in the
+			Empire?
+
+					MARTOK
+			I'm grateful to have been given
+			the opportunity to serve.
+
+					GOWRON
+			And you've served well.
+				(suddenly serious)
+			But you've borne the burden of
+			this war for a long time.
+
+					MARTOK
+			I do it gladly. And I'll fight
+			until victory is ours.
+
+					GOWRON
+			No, my friend. I can't ask you
+			to carry this weight forever.
+				(off Martok's look)
+			It's time for me to take a more
+			active role in this war.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  38.
+
+37   CONTINUED:
+
+					GOWRON (Cont'd)
+			As of today, I'm assuming direct
+			command of our forces.
+
+	Surprised reactions all around. Gowron is all
+	smiles, determined to keep up the facade that Martok
+	should take this as good news.
+
+					MARTOK
+			Chancellor, I don't understand.
+			Are you unsatisfied with the way
+			I've performed my duties?
+
+					GOWRON
+			Would I have given you the Star
+			of Kahless if I wasn't satisfied?
+				(slapping him on the
+				back)
+			You should be happy! You're a
+			warrior again. No more meetings,
+			no more reports to file -- you'll
+			be out there, savoring the quick
+			of battle. I envy you!
+
+	Gowron turns to Sisko and Ross --
+
+					GOWRON
+				(suddenly serious)
+			I intend to see an end to this war
+			-- and soon.
+				(for all to hear)
+			The Dominion will rue the day
+			they heard my name!
+
+	Off Worf as he realizes that Martok's proudest
+	moment has soured in the blink of an eye...
+
+38   EXT. SPACE - RUNABOUT (STOCK OPTICAL)
+
+	as it enters orbit around Vanden Prime.
+
+39   OMITTED
+
+39A  EXT. PLANET - DAY (STOCK)
+
+	The runabout is parked on the surface of a desolate,
+	arid planet.
+
+40    INT. DAMAR'S BASE - CAVERN
+
+	as Kira, Odo and Garak are escorted inside by a
+	CARDASSIAN GUARD.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT THREE  39.
+
+40   CONTINUED: 
+
+	All are carrying BACKPACKS, and Kira wears a Starfleet
+	PHASER.
+
+	Damar, Rusot and GLIN SESKAL, a steely-eyed Cardassian
+	with a military bearing, look up from the worktable.
+	In the background, THREE N.D. CARDASSIANS can be seen
+	working. Damar and Rusot approach our threesome.
+
+					DAMAR
+			Welcome to the headquarters of
+			the Cardassian liberation front.
+				(to Kira)
+			It's been a long time.
+
+	Kira and Damar are both determined to make the best
+	of this strained situation.
+
+					KIRA
+			Yes, it has.
+
+					RUSOT
+				(terse)
+			Did you bring the supplies we
+			requested?
+
+					ODO
+				(nodding)
+			Food replicators, weapons... I
+			believe you'll find everything
+			you asked for.
+
+					DAMAR
+			Excellent. The Cardassian people
+			won't forget the Federation's
+			generosity.
+
+					GARAK
+			How nice. And now that the
+			formalities are out of the way,
+			let's try to remember that our
+			enemy is the Dominion -- and not
+			each other.
+
+					RUSOT
+
+				(with faux
+				amiability)
+			I don't need to be reminded of
+			who my enemies are.
+
+	Off Kira, who senses trouble underneath Rusot's
+	false smile, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+41   INT. DAMAR'S BASE - CAVERN
+
+	A few hours later. Kira is briefing Damar, Rusot,
+	Seskal and THREE N.D. CARDASSIANS as Odo and Garak
+	look on.
+
+					KIRA
+			... a Resistance organization is
+			structured into cells --
+			autonomous groups of ten to
+			twenty people. That way if
+			anyone gets captured, their
+			ability to compromise the
+			organization is limited. They
+			can't be forced to name names
+			they don't know.
+
+					GARAK
+				(trying to be
+				helpful)
+			The Obsidian Order used to
+			operate the same way.
+
+					KIRA
+			We've got to decentralize your
+			operation. Having all your men
+
+			in one place is too risky.
+
+					RUSOT
+
+				(disagreeing)
+			If we scatter our resources, we
+			won't be able to defend ourselves
+			against a Dominion assault.
+
+					KIRA
+			And if you stay in one place,
+			they could wipe out your entire
+			Resistance movement in one
+			attack.
+				(beat)
+			Smaller groups are safer --
+			they're harder to track down.
+
+	Damar considers for a beat, then sides with Kira.
+
+					DAMAR
+				(nods grimly)
+			I'll have my men start
+			investigating possible locations
+			for other bases.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   40A
+
+41   CONTINUED:
+
+	Rusot chafes, but holds his tongue.
+
+					KIRA
+			Good.
+				(moving on)
+			Garak and Odo looked over your
+			intelligence reports and came up
+			with a list of vulnerable
+			facilities for us to target.
+
+	Odo consults a PADD in his hand, pointing out the
+	facilities he's talking about on the STARCHART
+	displayed on the VIEWSCREEN.
+
+					ODO
+			The weapons depot on Adarak Prime
+			is protected by only a single
+			garrison. And there's a weakness
+			in its perimeter defenses. A
+			small group could infiltrate the
+			compound and --
+
+					RUSOT
+				(looks up from his
+				own PADD)
+			Adarak Prime is defended by a
+			Cardassian garrison.
+
+					ODO
+			That's correct.
+
+					SESKAL
+				(incredulous)
+			You expect us to attack our own
+			people?
+
+	Kira knows this is a sticky subject, and proceeds
+	carefully.
+
+					KIRA
+			If necessary, yes.
+
+					RUSOT
+			That's out of the question.
+
+	Rusot turns to Damar, who nods in agreement.
+
+					DAMAR
+			I agree. We'll limit ourselves
+			to targets defended by Jem'Hadar
+			and Breen troops.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   41.
+
+41   CONTINUED:	(2)
+
+					KIRA
+			Believe me, I understand how you
+			feel. During the Occupation, I
+			didn't want to attack facilities
+			where Bajorans were working. But
+			I did. Because they were
+			collaborators -- they were
+			working with the enemy.
+
+					RUSOT
+				(with disdain)
+			We're not Bajorans. We don't
+			kill our own.
+
+	Kira ignores his insult and sticks to the facts --
+
+					KIRA
+			Then you might as well give up
+			now. Because the minute the
+			Dominion realizes you're not
+			willing to attack your own
+			people, they'll station
+			Cardassians at every base they
+			have.
+
+					ODO
+			She's right. The Founders won't
+			hesitate to play your own people
+			against you.
+
+					KIRA
+			And anyone who isn't fighting
+			with you, is fighting against
+			you.
+
+					GARAK
+			If we want to free our people
+			from the Dominion, we have to be
+			willing to use whatever means are
+			necessary.
+
+	Rusot turns to Damar, whose face tells us he's
+	grappling with the most difficult decision of his
+	life.
+
+	Damar can't bring himself to say the words out loud --
+	"yes, we'll kill our own if necessary" -- so he lets
+	his decision become known by asking Odo to continue.
+
+					DAMAR
+			You were saying that Adarak's
+			perimeter defenses are
+			vulnerable.
+
+					RUSOT
+			Damar.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   42.
+
+41   CONTINUED:	(3) 
+
+					DAMAR
+				(icy)
+			Not another word, Rusot.
+
+	Rusot glares at him, but bites his tongue.
+
+					DAMAR
+				(to Odo)
+			Continue.
+
+					ODO
+			We would need to disable the
+			garrison's security protocols.
+
+					GARAK
+			I believe that's where I come
+			in...
+
+	As everyone else focuses on the task at hand, Rusot
+	and Seskal exchange a private look, silently blaming
+	Kira for Damar's decision...
+
+42   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+43   INT. INFIRMARY (VPB)
+
+	where Bashir is working at a console as O'Brien
+	stands nearby. On the MONITOR we see Changeling
+	readouts as established in "The Begotten."
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   43.
+
+43   CONTINUED:
+
+					BASHIR
+				(loving it)
+			I would've loved to have seen
+			Hilliard's face when he realized
+			Captain Sisko had Sigma Nine
+			Clearance...
+
+	O'Brien smiles and glances at the screen --
+
+					O'BRIEN
+			So is the file worth all the
+			trouble you had to go through?
+
+					BASHIR
+				(nods)
+			There's more data here than I
+			expected. Starfleet Medical
+			certainly was thorough.
+
+	A beat, then O'Brien remembers something --
+
+					O'BRIEN
+			By the way, what happened with
+			Ezri?
+
+					BASHIR
+			Don't ask...
+
+					O'BRIEN
+			Come on.
+
+					BASHIR
+			Believe it or not, she and Worf
+			are involved.
+
+					O'BRIEN
+				(incredulous)
+			What?
+				(off Bashir's nod)
+			Did she tell you that?
+
+					BASHIR
+			Not in so many words...
+
+					O'BRIEN
+			Julian, I had a drink with Worf
+			the other day. He told me he and
+			Ezri are just friends. You
+			must've misunderstood her.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   44.
+
+43   CONTINUED:	(2)
+
+					BASHIR
+				(considers)
+			I suppose it's possible...
+				(hope springs
+				eternal)
+			She never actually came out and
+			said it...
+
+
+					O'BRIEN
+			Did you at least find out why
+			she's been "avoiding" you?
+
+					BASHIR
+
+				(frowning)
+			Actually... no.
+
+	O'Brien shakes his head and laughs.
+
+					BASHIR
+				(off monitor)
+			That's odd. The dispersal
+
+			pattern in this resonance scan...
+				(puzzled)
+			I've seen it before.
+
+					O'BRIEN
+			What do you mean?
+
+					BASHIR
+			When I first came to the station,
+			I had to familiarize myself with
+			Odo's physiology. Doctor Mora
+			was kind enough to share his data
+			with me.
+				(indicating monitor)
+			This looks like a scan he did
+			when he first found Odo.
+
+					O'BRIEN
+			Are you sure?
+				(studying the
+				screen)
+			There are a lot of numbers here.
+
+					BASHIR
+			I saw it with my own eyes not
+			seven years ago.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   45.
+
+43   CONTINUED:	(3)
+
+					O'BRIEN
+			You are genetically enhanced.
+
+	Bashir works the screen and reacts to what he sees --
+
+					BASHIR
+			According to the date, this scan
+			was done when Odo was at
+			Starfleet Medical.
+
+					O'BRIEN
+				(making sure)
+			There's no way two different
+			scans could have exactly the same
+			dispersal patterns.
+
+					BASHIR
+			It's impossible.
+
+	Bashir comes to the only possible conclusion
+
+					BASHIR
+			Someone took Mora's results and
+			built a phony medical workup
+			around them.
+				(stunned)
+			This isn't Odo's file. They sent
+			a fake.
+
+	The two men stare at the screen in shock.
+
+					O'BRIEN
+			I can't believe Starfleet Medical
+			would actually put together a
+			fake file just to throw you
+			off...
+
+	They look at each other, a terrible realization
+	dawning.
+
+					BASHIR
+			You're right. It's not something
+			Starfleet Medical would do.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR  45A.
+
+43   CONTINUED:	(4)
+
+					O'BRIEN
+			Are you thinking what I'm
+			thinking?
+
+					BASHIR
+				(a grim nod)
+			Section Thirty-one.
+
+					O'BRIEN
+			An organization that's prepared
+			to do whatever it takes to
+			"protect" the Federation wouldn't
+			blink at doing something like
+			this.
+
+					BASHIR
+			They don't want me to find a cure
+			because they're afraid the
+			Founders will get a hold of it...
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   46.
+
+43   CONTINUED:	(5)
+
+					O'BRIEN
+				(grim)
+			To keep that from happening...
+
+			they're willing to let Odo die...
+
+	And as Bashir and O'Brien absorb this ugly truth...
+
+44   INT. MARTOK'S OFFICE
+
+	Worf is talking to a stricken Martok.
+
+					MARTOK
+			First he gives me a medal, then
+			he takes over my command. It
+			makes no sense.
+
+					WORF
+			Our people have come to see you
+			as the saviour of the Empire.
+			That is something Gowron cannot
+			tolerate -- he wants to be its
+			saviour.
+
+					MARTOK
+				(incredulous)
+			What is he afraid of? That I'm
+			going to challenge his position?
+			I have no interest in politics.
+			I'm a soldier.
+				(anger rising)
+			By the hand of Kahless. I earned
+			my position, Worf. I've risen
+			through the ranks, fought
+			countless battles -- what has he
+			done except plot and scheme his
+			way to power?
+
+					WORF
+				(agreeing)
+			His military experience is
+			limited. He is not half the
+			tactician you are.
+
+	Martok takes a beat to consider --
+
+					MARTOK
+			Many brave warriors have given
+			their lives in this war...
+				(beat)
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   47.
+
+4   CONTINUED:
+
+					MARTOK (Cont'd)
+
+
+			Whatever Gowron's motives are,
+			it's our duty to help him defeat
+			the Dominion. We owe it to our
+			fallen comrades.
+
+	Worf is moved by Martok's ability to take the high
+	road.
+
+					WORF
+				(putting a hand to
+				his shoulder)
+			I am honored to be part of your
+			House.
+
+	A moment between them, then Martok looks around the
+	room.
+
+					MARTOK
+			I'd better gather my things.
+			This office belongs to Gowron
+			now...
+
+	Off Worf's face as he watches Martok gather his
+	things...
+
+45   EXT. SPACE - VANDEN PRIME (OPTICAL)
+
+	Re-establishing the planet.
+
+46   INT. DAMAR'S BASE - CAVERN
+
+	Odo is sitting with Kira as she eats. She's worried
+	about him, but tries not to show it.
+
+					ODO
+			How's the food?
+
+					KIRA
+			Replicated.
+
+	Kira is tense, knowing that she and Odo are being
+	closely watched by the Cardassians around them,
+	including Rusot and GUL SESKAL, eating their meals a
+	few feet away. Garak sits with Rusot and Seskal,
+	watching them watch Kira and Odo.
+
+					SESKAL
+				(to Rusot, re: Odo)
+			Are you going to ask him or not?
+
+					GARAK
+				(to Rusot)
+			I wouldn't recommend it.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   48.
+
+41   CONTINUED:
+
+					SESKAL
+			It's a legitimate question,
+			Garak.
+
+					GARAK
+
+			Maybe. But I don't think it's a
+			proper subject for discussion --
+			not if we're all supposed to be
+			getting along.
+
+					SESKAL
+				(to Rusot)
+			Well, if you won't ask him, I
+			will.
+				(louder)
+			Odo -- when you were the head of
+			security on Terok Nor, what did
+			you think was going to happen to
+			the Bajoran prisoners that you
+			arrested?
+
+					KIRA
+				(to Odo)
+			You don't have to answer that.
+
+	The moment Kira speaks, Rusot steps into the fray.
+
+					RUSOT
+			Why not?
+				(pointed)
+			It's a legitimate question.
+
+					KIRA
+			If you're looking to provoke an
+			argument.
+
+					GARAK
+				(to the Cardassians)
+			Just as I said.
+
+					ODO
+			I expected my prisoners to be
+			dealt with justly, though I soon
+			came to realize that Cardassians
+			had little interest in justice.
+
+	Kira allows herself a smile over Odo's reply --
+
+					SESKAL
+				(not letting it go)
+			Then why didn't you resign in
+			"protes?t"
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   49.
+
+46   CONTINUED:	(2)
+
+	Kira's had enough of this; she gets up from her
+
+	seat.
+
+					KIRA
+			What're you getting at?
+
+					ODO
+			Nerys -- don't.
+
+	But Kira isn't listening. She approaches the
+	Cardassians.
+
+					RUSOT
+				(to Seskal, re:
+				Kira)
+			I believe you struck a nerve.
+			Apparently, Commander Kira
+			doesn't like to be reminded that
+
+			her lover collaborated with her
+			enemies.
+
+					KIRA
+				(gritting her teeth)
+			Odo was not a collaborator.
+
+					RUSOT
+			I suppose that depends on your
+			definition of "collaborator."
+
+	Kira and Rusot are face to face, and every fiber in
+	her being is screaming to wipe the grin off Rusot's
+	face.
+
+					ODO
+			Nerys -- it isn't worth it.
+
+					GARAK
+			Odo's right, commander.
+
+	The moment hangs in the air. Then after a long
+	beat, Kira breaks the tension with --
+
+					KIRA
+			I guess we have a difference of
+			opinion.
+
+	And with that, she turns and walks away. Odo smiles
+	at Rusot and Seskal, knowing how disappointed they
+	are that they failed to provoke Kira further. And
+	with that, he follows her out of the room.
+
+					GARAK
+				(to Rusot)
+			You don't know how lucky you are.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR   50.
+
+46   CONTINUED:	(3)
+
+					RUSOT
+			Why's that?
+
+					GARAK
+			She'd have killed you.
+
+					RUSOT
+			I only wish she had tried.
+
+	And off this moment...
+
+46A  INT. DAMAR'S BASE - ANOTHER SECTION OF CAVERN
+
+	Kira leads Odo into a section of cavern that serves
+	as their quarters. There's a small, makeshift cot
+	in one corner and several boxes of supplies stacked
+	in another. Kira knocks over the first cargo box
+	within reach.
+
+					ODO
+				(dry)
+			I'm glad we're in agreement.
+
+					KIRA
+			You want to knock over some
+			supplies -- be my guest.
+
+					ODO
+			You did the right thing, Nerys.
+			Our enemy is the Dominion, not
+			Rusot.
+
+					KIRA
+			I don't need you to remind me of
+			that.
+
+	Odo's face makes Kira realize she's inappropriately
+	venting her anger at Odo.
+
+					KIRA
+			I'm sorry.
+				(off his nod)
+			It's just so hot in here.
+
+					ODO
+			Cardassians do love the heat.
+
+DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FOUR 51-52.  
+
+46A  CONTINUED:
+
+					KIRA
+			Well, I don't. I'm going to go
+			see if I can find a cooling unit.
+
+					ODO
+			I'll come with you.
+
+					KIRA
+			It's all right.
+
+				(wry)
+			I promise I won't hit anyone.
+
+					ODO
+			I'll hold you to that.
+
+	And with that, Kira EXITS. We stay on --
+
+46B  ODO
+
+	who watches Kira leave, then steps over to the cargo
+	box she knocked over. As he reaches down to pick up
+	the box, something catches his attention --
+
+46C  CLOSE ON HIS HAND
+
+	which is peeling and cracked. He's in the early
+	stages of the Founder's disease.
+
+46D  ON ODO
+
+	as he realizes that he can no longer ignore the fact
+	that he's ill. And we:
+
+47
+thru   OMITTED
+49
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   53.
+                           ACT FIVE                             
+
+
+	FADE IN:
+
+50   INT. DAMAR'S BASE - ANOTHER SECTION OF CAVERN
+
+	Moments later. Odo's still trying to cope with this
+	first manifestation of his disease, when --
+
+50A  KIRA
+
+	returns carrying a small cooling unit.
+
+					KIRA
+			You're not going to believe
+			this...
+
+51   ODO (OPTICAL)
+
+	as he quickly does a 2-D MORPH absorbing the peeling
+	skin on his hand so that he looks normal.
+
+					ODO
+			Believe what?
+
+					KIRA
+			Damar had this cooling unit
+			waiting for us.
+				(picking up Odo's
+				state of mind)
+			Something wrong?
+
+					ODO
+
+				(covering)
+			No, not at all. I was just
+			worried that you might have had
+			another run-in with Rusot.
+
+					KIRA
+			Don't worry --
+				(holding up the
+				cooling unit)
+			I'm going to keep a cool head.
+
+	Kira then sets down the unit and begins working a
+	panel.
+
+					KIRA
+			Assuming this thing actually
+			works...
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   54.
+
+51   CONTINUED: 
+
+	And off Odo as he moves to help, pretending
+	nothing's wrong --
+
+52   EXT. BAJOR (OPTICAL)
+
+
+	Re-establishing.
+
+53   INT. KAI WINN'S OFFICE
+
+	Dukat is sitting in a chair, his eyes staring
+	sightlessly. Winn ENTERS and approaches.
+
+					DUKAT
+			Adami... ?
+
+	Winn studies Dukat for a beat without answering.
+
+					DUKAT
+				(unnerved)
+			Are you there?
+
+	Winn allows herself a small smile, enjoying his
+	helplessness.
+
+					WINN
+			I'm here.
+				(knowing this will
+				irk him)
+			I spoke with the doctor. She
+			said she can't find anything
+			wrong with your eyes.
+
+					DUKAT
+			Then she's incompetent!
+				(grousing)
+			A Cardassian doctor would've
+			cured me by now...
+
+	Winn's features harden at the implication that
+	Bajoran Doctors are inferior.
+
+					WINN
+			You still don't understand, do
+			you? The Pah-wraiths have taken
+			your sight as punishment for your
+
+			arrogance.
+
+	Dukat's features falter at hearing this -- if
+	there's nothing physically wrong with him, then
+	maybe she's right.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   55.
+
+53   CONTINUED: 
+
+					WINN
+			Only they can give it back to
+			you.
+
+	Dukat stands and moves toward her to plead his case,
+	his hand groping in front of him.
+
+					DUKAT
+			I meant them no disrespect. I
+			only wanted to study the book to
+			see if I could help you learn how
+			to release them.
+
+					WINN
+				(not buying it)
+			You were trying to find out if
+			you could do it without me.
+
+	Winn's right, but Dukat doesn't admit it --
+
+					WINN
+			You can't.
+
+	Winn doesn't say why, but considering what's
+	happened to him, Dukat's in no position to challenge
+	her -- after all, she may know something he doesn't.
+
+					DUKAT
+				(pleading)
+			Pray with me, Adami. Help me
+			earn the Pah-wraiths'
+			forgiveness.
+
+					WINN
+			I'm afraid you'll have to do that
+			on your own.
+				(to com)
+			Door.
+
+	The door OPENS to reveal the Deputy we saw in Scene
+	Nine.
+
+					WINN
+				(to Dukat)
+			Deputy Bodan will see you out.
+
+					DUKAT
+			See me out? I don't understand.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   56.
+
+
+53   CONTINUED:	(2)
+
+					WINN
+			You need a lesson in humility.
+			I'm going to see you get it.
+
+					DUKAT
+			By putting me out on the street?
+
+					WINN
+			You'll find that Bajorans are a
+			kind people. I'm certain a blind
+			beggar will elicit their
+			sympathies. With any luck,
+			you'll make enough to eat, maybe
+			even enough to buy yourself
+			shelter each night.
+
+					DUKAT
+			You aren't serious.
+
+					WINN
+			Return when you've proved
+			yourself worthy and your sight
+			has been restored.
+				(turning to him)
+			Bodan.
+
+
+	The Deputy moves forward and takes Dukat by the arm
+	to lead him toward the door. Sightless, he's
+	powerless to resist.
+
+					DUKAT
+			Adami...
+
+	She ignores him, moves to her desk.
+
+					DUKAT
+			Please --
+
+	The Deputy hustles him out. Off Winn as she opens
+	the book and begins to study, a small smile on her
+	face...
+
+54   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+55   INT. GOWRON'S OFFICE (FORMERLY MARTOK'S OFFICE)
+
+	Gowron is working at his desk when Worf and Martok
+	ENTER. Gowron's Two Adjutants are working in the
+	background.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   57.
+
+55   CONTINUED:
+
+					GOWRON
+			Come in, come in.
+				(standing to greet
+				them)
+			I've been studying the strategic
+			situation. I want to share my
+
+			thoughts with you.
+
+					MARTOK
+			Of course.
+
+					GOWRON
+			The Dominion is deploying their
+			fleet in preparation for a final
+
+			offensive. They're destroying
+			our ships one by one.
+
+					WORF
+				(nods grimly)
+			We must hold the line until the
+			Federation and Romulan fleets
+			become operational again.
+
+					GOWRON
+			No. Don't you see? That's
+			exactly what the enemy is
+			expecting. The time to act is
+			now.
+
+	Worf and Martok exchange a look -- what could Gowron
+	possibly mean?
+
+					MARTOK
+				(carefully)
+			What are you proposing,
+			chancellor?
+
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   58.
+
+55   CONTINUED:	(2)
+
+					GOWRON
+			We're going on the offensive.
+			Starting tomorrow, I'm sending
+			sorties deep into enemy territory
+			-- to strike at the very heart of
+			the Dominion!
+
+	Worf and Martok can't believe what they're hearing.
+
+					MARTOK
+			But we're barely holding the line
+			as it is.
+
+					WORF
+			We need every ship we have to
+			defend the border.
+
+					GOWRON
+			What's wrong with you two! Don't
+			you understand? We must seize
+			the day!
+
+					MARTOK
+
+				(firm)
+			We're outnumbered twenty-to-one.
+
+					GOWRON
+			What of it?
+				(smiling at the
+				beauty of it)
+			We'll have the element of
+			surprise on our side.
+
+	Worf and Martok can see that Gowron is determined to
+	do something bold, no matter how foolhardy it may
+	be.
+
+					MARTOK
+			Chancellor, in my opinion we --
+
+					GOWRON
+				(silencing him)
+			Did I ask your opinion!
+				(undaunted)
+			Trust me, my friends. I can see
+			it all so clearly.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   59.
+
+55   CONTINUED:	(3)
+
+					GOWRON (Cont'd)
+			While our allies sit and do
+			nothing, the Klingon Empire will
+			score the final triumph over the
+			Dominion. We'll be the saviours
+			of the Alpha Quadrant. The glory
+			will be ours -- and ours alone!
+
+	Gowron's eyes blaze with thoughts of victory, but
+	Worf and Martok are two very worried Klingons 
+
+56   INT. INFIRMARY (VPB)
+
+	It's late, and an exhausted Bashir is working at a
+	console while O'Brien paces nearby.
+
+					O'BRIEN
+			-- I don't know, Julian. if
+			Section Thirty-one is involved in
+			this, we should tell the captain.
+
+					BASHIR
+			(as he works)
+			We've been through this, Miles.
+			If we go to him, he'll have to
+			report it to Starfleet Command.
+			Thirty-one will get wind of it
+			and realize that we figured out
+			the file was fake. Once they
+			know we're onto them, they'll
+			take steps to make sure I don't
+			find a cure.
+
+					O'BRIEN
+				(backing off)
+			I see your point.
+				(beat)
+			Just what kind of steps do you
+			think they'd take?
+
+					BASHIR
+			Believe me, we don't want to find
+			out.
+
+	QUARK appears in the doorway with a TRAY and TWO
+	MUGS of coffee.
+
+					QUARK
+			Excuse me, gentlemen.
+
+					O'BRIEN
+			Is that coffee?
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE  59A.
+
+56   CONTINUED:
+
+					QUARK
+				(nods)
+			I figured you were working on a
+			way to help Odo. I thought it
+			was the least I could do.
+
+	Bashir and O'Brien exchange a worried look.
+
+					BASHIR
+			Who told you Odo was sick?
+
+					QUARK
+				(shrugs)
+			I hear things.
+
+					O'BRIEN
+			Keep it under your hat, all
+			right?
+
+
+					QUARK
+			Why?
+
+					O'BRIEN
+				(sharp)
+			Just do it.
+
+					QUARK
+			All right, all right.
+				(beat)
+			Do you still want the coffee?
+
+					O'BRIEN
+				(softening)
+			Sure. Thanks, Quark.
+				(reaching for the
+				mugs)
+			Odo would be touched if he knew
+			you were doing this.
+
+					QUARK
+				(pulling the tray
+				away)
+			You're not going to tell him, are
+			you?
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   60.
+
+56   CONTINUED:	(2)
+
+					O'BRIEN
+			It'll be our little secret.
+
+	Satisfied with the arrangement, Quark extends the
+	tray to O'Brien, who takes the two mugs.
+
+					QUARK
+			Good luck.
+
+	And with that, he EXITS. O'Brien crosses over to
+	Bashir and extends him a mug --
+
+					O'BRIEN
+			Here you go...
+
+					BASHIR
+			Hang on, I'm trying to figure out
+			when Odo was infected.
+				(as he works)
+			I analyzed the sample he left and
+			mapped the life-cycle of the
+			virus. I'm programming the
+			computer to calculate how long it
+			took for the virus to achieve its
+			present level of concentration.
+
+					O'BRIEN
+			Makes sense...
+
+	On the MONITOR, we see a GRAPH showing STARDATES
+	along the HORIZONTAL AXIS, and VIRAL CONCENTRATION
+	alone the VERTICAL AXIS. As the line moves
+	backwards in time, the level keeps dropping, then
+	plateauing, then dropping again.
+
+	As the calculation continues, the line keeps working
+	backward towards zero.
+
+   DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE   61.
+
+
+56   CONTINUED:	(3)
+
+					O'BRIEN
+				(surprised)
+			According to this, Odo was
+			infected over two years ago.
+
+
+					BASHIR
+				(watching the
+				calculation
+				continue)
+			More than that...
+				(beat)
+			I don't understand. I assumed he
+			became infected when he Linked
+			with the Female Shape-shifter.
+
+					O'BRIEN
+			If it happened so long ago, why
+			hasn't he shown any symptoms
+			before?
+
+					BASHIR
+			Good question.
+
+	As they watch, the LINE reaches ZERO on Stardate
+
+					BASHIR
+			Got it. Stardate Four-nine-four-
+			one-nine.
+
+					O'BRIEN
+			Almost three years ago...
+
+	Suddenly the alarm bells go off for Bashir --
+
+					BASHIR
+			Four-nine-four-one-nine. That's
+			the day Odo was at Starfleet
+			Medical.
+
+					O'BRIEN
+			Are you sure?
+
+					BASHIR
+			Yes.
+
+	A moment as the terrible realization dawns on both
+	of them...
+
+					BASHIR
+			My god. That's why Hilliard
+			didn't want me to see the file.
+
+	Bashir can barely say the awful words...
+
+DEEP SPACE NINE: "When it Rains... " - REV. 03/02/99 - ACT FIVE 62-65.  
+
+56   CONTINUED:	(4)
+
+					BASHIR
+			Section Thirty-one must have
+			created the virus, and infected
+			Odo to use him as a carrier...
+
+	O'Brien is so stunned he can hardly speak.
+
+					O'BRIEN
+			So that when he Linked with other
+			changelings, he'd pass it on...
+			and eventually their entire race
+			would be infected...
+
+	They grapple with the enormity of this for a beat.
+
+					BASHIR
+			Thirty-one isn't just trying to
+			stop us from finding a cure...
+			they're trying to cover up the
+			fact that they set out to commit
+			genocide...
+
+					O'BRIEN
+
+			Julian, if they gave Odo this
+			disease, then they must have a
+			cure.
+
+					BASHIR
+			We've got to find a way to get
+			our hands on it...
+
+					O'BRIEN
+				(grim)
+			Before Thirty-one gets its hands
+			on us...
+
+	And off this ominous moment, we...
+
+57
+thru   OMITTED
+58   
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                           THE END                             
+

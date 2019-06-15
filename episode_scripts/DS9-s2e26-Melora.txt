@@ -1,0 +1,3097 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                           "Melora" 
+                          #40512-426 
+                              
+                           Story by 
+                      Evan Carlos Somers 
+                              
+                          Teleplay by 
+                      Evan Carlos Somers 
+                              and 
+                          Steven Baum 
+                              and 
+                        Michael Piller 
+                              and 
+                         James Crocker 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        August 26, 1993
+
+          STAR TREK: DS9 - "Melora" - 08/26/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Melora" 
+                             CAST 
+
+          SISKO                    MELORA
+          KIRA                     FALLIT KOT
+          ODO                      ASHROCK
+          QUARK                    KLINGON CHEF
+          BASHIR                   
+          DAX                      
+          O'BRIEN                  
+
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+          STAR TREK: DS9 - "Melora" - 08/27/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Melora" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK                       
+          AIRLOCK CORRIDOR              ORINOCO
+          COMMANDER'S OFFICE            
+          CORRIDOR TO QUARTERS          ORINOCO & RIO GRANDE
+          DOCKING RING CORRIDOR         
+          HABITAT CORRIDOR              GAMMA QUADRANT
+          INFIRMARY                     
+          MELORA'S QUARTERS             
+          OPS                           
+          PROMENADE                     
+                                        KLINGON KIOSK
+          QUARK'S                       
+          QUARK'S QUARTERS              
+          SECURITY OFFICE               
+
+          RUNABOUTS                     
+            ORINOCO
+            RIO GRANDE
+
+      STAR TREK: DS9 - "Melora" 08/27/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Melora" 
+                      PRONUNCIATION GUIDE 
+
+          ASHROCK                  AHSH-rok
+          ACETYCHOLINE             ah-see-tic-koh-LEEN
+          DELVOK                   DEHL-vahk
+          ELAYSIAN                 ehl-LAY-shan
+          FALLIT KOT               FAHL-iht KAHT
+          FAYLOCK                  FAY-lock
+          INVERNIAN                ihn-VUHR-neeahn
+          GARLANIC                 gahr-LAHN-ihk
+          GLADST                   GIAHDST
+          LOTHRA                   LOH-thrah
+          MELORA PAZLAR            meh-LAURA PAHZ-lar
+          TEROS                    TEH-rohs
+          NEO-ANALEPTIC            NEE-oh-ahn-uh-LEHP-tihk
+          ORINOCO                  ohr-in-OH-koh
+          OXYGENE                  OX-ih-jeen
+          PALTRIS                  PAHL-trihs
+          RACHT                    RAHKT
+          RHOMBOLIAN               rohm-BOH-lee-ahn
+          VAK                      VAHK
+          YOGRASSA                 yoh-GRAHS-uh
+          ZILMIKACH                ZIHLM-kak
+
+
+Page 2.
+
+                  KLINGON PHRASES
+
+Gagk Tek Or                    gag tehk ohr
+Drak doo                       drahk-doo
+P'kar tel Durg Le Frank'l      pih-KAHR tehl duhr-leh
+                               FRANK-nuhl
+Dug a bul rah'tar              duhg-uh-bull, rah-tar
+DItel klop a bul               dih-TEL klohp uh bull
+Pak't pol                      PAHKT pohl
+D'kar tel G'denna              dih-kahr-tehl guh-dehn-uh
+Aler acht'jar                  ah-ler akt-ih jahr
+T'lembda boool-gah toh-gal     tih-lehmb-duh-bool-gah
+                               toh-gahl
+to lohhh                       too-loh
+
+              DEEP SPACE: "Melora" - 08/26/93 - TEASER               1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                               "Melora"                                
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+					BASHIR (V.O.)
+			Medical log, Stardate 47229.1.  Chief 
+							O'BRIEN
+			and I have been working 
+			overtime to prepare for the arrival 
+			of a new cartographer.  Ensign Melora 
+			Pazlar is the first Elaysian to join 
+			Starfleet and, as such, requires 
+			special accommodations.
+
+2    INT. INFIRMARY
+
+	Close on a wheelchair.
+
+					DAX (O.S.)
+			I haven't seen one of these in three 
+			hundred years.
+
+	Moving to back to reveal DAX and BASHIR... Bashir can be 
+	testing the gears or something... he's quite enthusiastic 
+	about all this work he's been asked to do.
+
+					DAX
+				(continuing)
+			I'm surprised it was even on file in 
+			the replicator's data bank.
+
+					BASHIR
+			It wasn't.  Ensign Pazlar sent me 
+			the specifications.
+
+					DAX
+			She actually uses one like this?
+
+					BASHIR
+			Her normal anti-grav unit isn't going 
+			to work here... same problem we had 
+			with the Starfleet cargo lifts... 
+			Cardassian construction just isn't 
+			compatible.
+
+            DEEP SPACE: "Melora" - REV. 08/27/93 - TEASER            2.
+
+2    CONTINUED:
+
+				KIRA'S COM VOICE
+			Ops to Bashir.  The Yellowstone 
+			has just docked at airlock 
+			fourteen, Doctor.
+
+	Exiting, pushing the chair out...
+
+					BASHIR
+			On our way.
+
+3    INT. PROMENADE - CONTINUOUS
+
+					BASHIR
+			Think of what she's gone through to 
+			get here, Jadzia... what it must be 
+			like to adjust to our gravity after 
+			growing up on a planet with low 
+			surface gravity.
+
+	They run into O'BRIEN, who is coming to find them... 
+
+					O'BRIEN 
+			Doctor... !
+
+	Continuing to move with them...
+
+					O'BRIEN
+			We've done the best we can with 
+			the ramps... the Cardassians 
+			obviously didn't have her in mind 
+			when they built the place...
+
+					BASHIR
+				(pleased with himself)
+			I've managed to modify the maximum 
+			vertical clearance of the chair three 
+			centimeters to a slope of fifty-six 
+			degrees.
+
+					O'BRIEN
+			That still leaves a lot of places 
+			around here she won't have access 
+			to...
+
+					DAX
+			Can't we just use the transporter to 
+			help her get around?
+
+					O'BRIEN
+			Makes sense to me, but she sent 
+			word that it wouldn't be acceptable 
+			to her.
+
+					DAX
+			I wonder why...
+
+            DEEP SPACE: "Melora" - REV. 08/27/93 - TEASER            3.
+
+3    CONTINUED:
+
+	Feeling like he already knows her...
+
+					BASHIR
+			I know exactly why... she went through 
+			the Academy the same way.  Once her 
+			basic needs were met, she refused 
+			any special attention.  She's 
+			extraordinary.
+
+					DAX
+			You make it sound like you've known 
+			her for years...
+
+					BASHIR
+			I almost feel that way... I've pulled 
+			all her personnel and medical files 
+			to get ready...
+				(remembering)
+			Her quarters... they're ready, aren't 
+			they?
+
+	O'Brien pulls out a small remote control device... hands it 
+	to Bashir...
+
+					O'BRIEN
+			I have the bumps on my head to prove it.
+
+					BASHIR
+			Thanks, Chief.
+
+	Moving away...
+
+
+					O'BRIEN
+			Let me know if there's anything 
+			else I can do.
+
+	To Dax --
+
+					BASHIR
+			That'll be something to see... when 
+			we turn off the gravity and she flies 
+			around her room...
+
+	Smiles at the excitement of it all as they enter the airlock 
+	corridor...
+
+4    INT. AIRLOCK - CLOSE ON MELORA
+
+	A cool, professional YOUNG WOMAN (MELORA) in her mid- to 
+	late-20's, standing at the doorway to her ship, she is 
+	wearing braces that are attached electronically to a series 
+	of blinkies on her hands and wrists.
+
+              DEEP SPACE: "Melora" - 08/26/93 - TEASER               4.
+
+4    CONTINUED:
+
+	(They are really only a suggestion of braces as we know 
+	them today... far simpler and "lightweight."  Conceivably, 
+	they may even be under her uniform, although, I'd kind of 
+	like to see something of them outside)  Plus she has an ornate 
+	wood carved cane which supports her body weight in one hand... 
+	although her face is a mask, the extraordinary pressure from 
+	gravity is apparent in every move she makes.
+
+					MELORA
+			Ensign Melora Pazlar reporting for 
+			duty.
+
+	Moving to find Bashir and Dax.
+
+					DAX
+			Welcome to DS Nine, Ensign.  I'm 
+			Chief Science Officer, Jadzia Dax... 
+			and this...
+
+					MELORA
+			Doctor Bashir... we spoke on 
+			subspace...
+
+					BASHIR
+			Good to meet you in person...
+
+					MELORA
+				(re: the chair)
+			I see you have my trolley car ready 
+			to go...
+
+					BASHIR
+			As requested.
+
+	Melora braces herself on the cane and presses some blinkies 
+	on her arm and we HEAR the device activate under her uniform, 
+	creating mechanical motion forward.  Instinctively, Dax moves 
+	forward to assist...
+
+					DAX
+			Here, let me help...
+
+	Bashir knows what Melora's reaction will be, reacts too late 
+	to stop Dax.  Without rancor --
+
+					MELORA
+				(overlapping)
+			I'm fine, thank you.
+
+	And Dax gets out of her way, as Melora moves with great strain 
+	and lowers herself into the chair...
+
+            DEEP SPACE: "Melora" - REV. 08/27/93 - TEASER            5.
+
+4    CONTINUED:	(2)
+
+					MELORA
+				(with relief)
+			That's better.
+
+	She puts the cane into a holder built into the chair... and 
+	will always have it with her.  She's instantly unhappy with 
+	the chair.
+
+					MELORA
+			You've modified it.
+
+					BASHIR
+			I wanted to give you as much mobility 
+			as I could.
+
+	She begins to roll forward, still frowning.
+
+					MELORA
+			I've been practicing on the model I 
+			requested for a month...
+
+					BASHIR
+				(embarrassed)
+			It's... really no problem... I can 
+			replicate the other design...
+
+					MELORA
+			No, I'll just have to adapt.
+
+	Bashir reacts, glances at Dax... as they EXIT...
+
+5    INT. CORRIDOR TO QUARTERS
+
+	Ramps are in place as needed throughout... and all of this 
+	conflict should be subtle and polite and underplayed...
+
+					MELORA
+			I really don't think that'll be 
+			necessary, Lieutenant... I'm perfectly 
+			capable of piloting a runabout...
+
+					DAX
+			Commander Sisko thought...
+
+					MELORA
+			I'm sure he thought what every officer 
+			I've served with has thought... that 
+			I need extra help to get the job 
+			done.  Please tell him, I don't.
+
+            DEEP SPACE: "Melora" - REV. 08/27/93 - TEASER            6.
+
+5    CONTINUED:
+
+					DAX
+
+			Commander Sisko wouldn't let any 
+			Ensign take a runabout into the 
+			Gamma Quadrant the day after she 
+			gets here...
+
+					MELORA
+			I'm sure the Chief Science Officer 
+			has more important things to do than 
+			to chart a sector in the Gamma 
+			Quadrant...
+
+	Bashir is increasingly uncomfortable with her attitudes...
+
+					BASHIR
+			Here we are...
+
+					MELORA
+			You haven't modified the 
+			specifications I gave you for my 
+			quarters, I hope...
+
+	The door opens.
+
+					BASHIR
+			Not one iota.  You can control the 
+			gravity unit with this device.  If 
+			you'd like to try it out...
+
+	He hands it to her.  She rolls inside.
+
+					MELORA
+			Thank you, I will.  It's been a 
+			pleasure meeting both of you.
+
+	And as she pulls back, the door slams in their face.  They 
+	never get to see her turn off the gravity... on their 
+	reaction...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT ONE            7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(Note:  Episode credits fall over opening scenes.)
+
+6    EXT. SPACE - DEEP SPACE NINE (OPTICAL) - ESTABLISHING
+
+7    INT. QUARK'S
+
+	Before hours.  One Ferengi waiter setting up in the 
+	background.  At the bar, a tough-looking ALIEN (ASHROCK) 
+	sits across from QUARK.  Quark displays a beautiful ring 
+	with an intricate design etched on its outer surface... he 
+	holds it out for Ashrock to see...
+
+					ASHROCK
+				(dazzled by ring)
+			Paltriss only created eighty of 
+			them... each a work of art...
+
+					QUARK
+			And I've come into possession of 
+			forty-two.
+
+					ASHROCK
+				(reacts)
+			Forty-two?  My world will honor your 
+			name for returning the Rings of 
+			Paltriss to his birthplace...
+
+					QUARK
+				(drops ring in pouch, 
+				puts pouch in pocket)
+			Honor my name all you want... as 
+			long as your honor is accompanied by 
+			one hundred and ninety-nine bars of 
+			gold-pressed latinum...
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT ONE            8.
+
+7    CONTINUED:
+
+					ASHROCK
+				(sighs)
+			I've heard that you drive a hard 
+			bargain...
+
+					QUARK
+			Shall we celebrate our closing the 
+			deal with another drink... ?
+
+	At which point, Quark glances out of the corner of his eye 
+	toward the door, sees a compact, intense HUMANOID (FALLIT 
+	KOT) ENTER the establishment, start looking around...
+
+					QUARK
+			Excuse me, I'm sorry but we're not 
+			open yet... if you'll come back in...
+
+	He stops as he recognizes the face... swallows hard...
+
+					QUARK
+				(now nervous, to 
+				Ashrock)
+			Have another drink on me.
+
+	He moves around the bar to Kot...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT ONE            9.
+
+7    CONTINUED:	(2)
+
+					QUARK
+			Fallit... Fallit Kot... is that really 
+			you?  How long has it been?
+
+					FALLIT KOT
+				(evenly)
+			Eight years.  Eight long years.
+
+	Quark moves him toward a table... they sit...
+
+					QUARK
+			It can't be... I must say, you look 
+			terrific... tanned... toned up... 
+			all of that baby fat has disappeared 
+			from your face...
+
+					LLIT KOT
+			You don't keep extra weight on, where 
+			I've been...
+
+					QUARK
+				(ignoring)
+			Just passing through, are you?  I'll 
+			bet you have business in the Gamma 
+			Quadrant... you always had a sharp 
+			eye for fresh territory...
+
+					FALLIT KOT
+			I'm not going to the Gamma Quadrant.  
+			My business is right here.  With 
+			you.
+
+					QUARK
+			With me?
+
+					FALLIT KOT
+			That's right.
+				(leans in; no brag, 
+				just fact)
+			I've come to kill you, Quark.
+
+	Quark's stunned, his mouth open, surprisingly speechless...
+
+8    OMITTED
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT ONE           10.
+
+9    INT. COMMANDER'S OFFICE
+
+	Dax, Bashir and SISKO.
+
+					DAX
+			I've gone through her mission profile.  
+			She certainly knows what she's 
+			doing...
+
+					SISKO
+			Nevertheless, this is her first deep 
+			space assignment... and it doesn't 
+			make sense to me to...
+				(rising, interrupting 
+				himself)
+			Here she is...
+
+10   ANGLE TO INCLUDE OPS
+
+	as she comes up on the Turbolift on her wheelchair... they 
+	move out to greet her...
+
+11   INT. OPS
+
+	The motorized chair moves Melora to the center of Ops until 
+	it reaches the steps... there is no ramp capability here.  
+	Sisko, smiling, moves down the steps to greet her, Dax and 
+	Bashir a step behind...
+
+					SISKO
+			Ensign, I'm Commander Benjamin 
+			Sisko...
+
+	And this is subtle -- Melora is already defensive, having 
+	seen Dax and Bashir already meeting with Sisko in his office 
+	upon her arrival...
+
+					MELORA
+			Am I late?
+
+	(She already knows she's not.)  During the following, she 
+	pulls herself with great strain out of her chair to her feet, 
+	uses the cane to brace herself as she executes the difficult 
+	climb up the stairs using the mechanical body device.  Her 
+	voice, though she does her very best to cover it, is full of 
+	the strain and fatigue like an athlete talking during a 
+	competition.
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT ONE           11.
+
+11   CONTINUED:
+
+					SISKO
+			Not at all.
+
+					MELORA
+			It looked like the meeting had already 
+			begun.
+
+					SISKO
+			Dax and Bashir were just telling me 
+			about your request to pilot a runabout 
+			alone.
+
+					MELORA
+			Wouldn't it have been appropriate to 
+			include me in that conversation?
+
+					SISKO
+				(even)
+			I was getting a briefing by my senior 
+			officers, Ensign.  We talk about 
+			personnel matters all the time.
+
+					MELORA
+				(without sarcasm)
+			I'm sorry if I seem overly sensitive.  
+			But I'm used to being shut out of 
+			the "Melora" problem.  The truth is 
+			there is no "Melora" problem.  Until 
+			people create one.
+
+	They are now at the top of the stairs... and they go into 
+	the office and the doors close...
+
+12   INT. COMMANDER'S OFFICE - CONTINUOUS
+
+	And she continues to be charming as she maintains her 
+	aggressiveness.  She moves to a chair and sits.
+
+					MELORA
+			This may sound ungrateful, because 
+			Doctor Bashir has been wonderfully 
+			helpful in the preparations for my 
+			arrival, but frankly, I wonder why a 
+			medical opinion is necessary in this 
+			discussion.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT ONE           12.
+
+12   CONTINUED:
+
+					DAX
+			Julian knows more about your 
+			capabilities than any of us.
+
+					MELORA
+			I don't need a medical opinion to 
+			tell me my own capabilities...
+
+					BASHIR
+			I also know the station and the 
+			runabouts...
+
+					MELORA
+			I've studied the station's 
+			schematics... and I've flown 
+			runabouts...
+
+	Sisko is studying all this...
+
+					SISKO
+			Ensign...
+
+					MELORA
+			I simply object to being treated 
+			like someone who is ill.
+
+					SISKO
+			I don't see anybody doing that.
+
+					MELORA
+				(still charming)
+			Try sitting in the chair, Commander.  
+			No one can understand until they sit 
+			in the chair.
+
+	They study each other for a long beat.  Melora smiles, backs 
+	off the intensity...
+
+					MELORA
+			I've been in one chair or another 
+			since I left my homeworld.  My family 
+			gave me this cane made from the wood 
+			of a garlanic tree.
+				(chuckles at the 
+				naivete)
+			... they had no idea what it would be 
+			like to live off-world... in what 
+			you consider "normal" gravity.  Only 
+			a handful of Elaysians have ever 
+			left home.  But I always knew I had 
+			to be one of them.
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT ONE           13.
+
+12   CONTINUED:	(2)
+
+					MELORA (Cont'd)
+			I dreamed about exploring the stars 
+			as a girl.  And I wasn't going to 
+			allow any... "handicap," not a chair, 
+			not a Cardassian station... to stop 
+			me from chasing that dream.
+
+					SISKO
+			You must feel a great deal of pride 
+			in what you've been able to achieve.
+
+					MELORA
+				(you bet)
+			And I've achieved it without being 
+			dependent on anybody.  To be honest, 
+			I prefer working alone.  It's simply 
+			easier for me.
+
+					SISKO
+			I'm not comfortable sending you alone 
+			into the Gamma Quadrant.
+
+					MELORA
+			Sir, I can focus on the job better, 
+			I can work at my own pace without 
+			bothering anyone else...
+
+					SISKO
+			Lieutenant Dax will be going with 
+			you.
+
+	A beat.  This is really the first time that Melora gets 
+	visibly perturbed in this scene...
+
+					MELORA
+			Yes sir.
+				(turning to Dax)
+			When do you wish to leave, Lieutenant?
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT ONE           14.
+
+12   CONTINUED:	(3)
+
+					DAX
+			Your schedule is fine with me.
+
+	Melora nods a curt acknowledgment, turns and the doors open 
+	and she rises from the chair and as she begins the arduous 
+	journey down the stairs, we see Bashir watching her and...
+
+13   INT. HABITAT CORRIDOR
+
+	Bashir moves to Melora's door, hits the chime.  After a beat, 
+	we hear a sound effect from inside... Bashir reacts...
+
+					MELORA'S VOICE
+			Come in.
+
+	The door opens...
+
+14   INT. MELORA'S QUARTERS
+
+	She has just landed in her chair, which is anchored on the 
+	wall for anti-grav conditions... she unclips the chair from 
+	the wall...
+
+					BASHIR
+			Is it working?
+				(off her reaction)
+			The low-grav field actuator... I 
+			just heard it go off.
+
+					MELORA
+			It's working fine.
+
+					BASHIR
+			So you were just...
+
+	He motions flying around with his arm...
+
+					MELORA
+			For me, it's like slipping into a 
+			hot tub at the end of a long day.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT ONE           15.
+
+14   CONTINUED:
+
+					BASHIR
+				(really curious)
+			Really.
+				(because he can't ask 
+				what he wants to ask)
+			I'm... a shower man, myself.
+
+	Bashir notices a PHOTOGRAPH on the desk.
+
+15   ANGLE - PHOTOGRAPH
+
+	Melora and a young Man soaring playfully in mid air.
+
+16   RESUME SCENE
+
+					BASHIR
+				(smiles)
+			Look at this.  Is that your 
+			husband... ?  Boyfriend... ?
+
+					MELORA
+				(sincere)
+			If you came for an apology, Doctor, 
+			I apologize.
+
+					BASHIR
+			Apology?
+
+					MELORA
+			My speech was not intended to attack 
+			you personally.
+
+					BASHIR
+				(not mean, with charm)
+			I'm sure you never set out to attack 
+			anyone personally.  But you do seem... 
+			to attack a lot.
+
+					MELORA
+				(measuring him)
+			That's rather insensitive of you, 
+			Doctor.
+
+					BASHIR
+			Julian.  I'm no longer your doctor.
+
+					MELORA
+			I see.  You've decided I need a 
+			friend.
+
+              DEEP SPACE: "Melora" - 08/26/93 - ACT ONE             16.
+
+16   CONTINUED:
+
+					BASHIR
+			Was that an attack?  You do it so 
+			well, with such charm, it's hard to 
+			tell.
+
+					MELORA
+			I really don't mean to...
+
+					BASHIR
+			Sure you do.
+
+					MELORA
+			I beg your pardon?
+
+					BASHIR
+
+			Of course, you mean to... all of 
+			these broad shots you fire -- it's 
+			your way of keeping the rest of the 
+			universe on the defensive.  Has to 
+			be.  You're too good at it.
+
+					MELORA
+				(not a true admission)
+			Always seemed to work pretty well.  
+			Until now.
+
+					BASHIR
+			That's the nicest thing you've said 
+			to me.  Or anybody else for that 
+			matter.  Are you hungry?  I came 
+			here thinking about asking you to 
+			dinner.
+
+					MELORA
+				(instinctive)
+			Then afterward, we'll go dancing, I 
+			suppose.
+
+					BASHIR
+				(pointing out an attack)
+			Red alert.
+
+					MELORA
+			Sorry.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT ONE           17.
+
+16   CONTINUED:	(2)
+
+					BASHIR
+			Come on... there's a new Klingon 
+			restaurant on the Promenade... if 
+			you like that sort of thing.
+
+	She studies him a long beat.  No one has ever nailed her 
+	like this before and it makes him intriguing to her.
+
+					MELORA
+			All right.
+
+	Bashir smiles...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT TWO           18.
+                            ACT TWO                             
+
+	FADE IN:
+
+17   INT. QUARK'S
+
+	Fallit Kot seated at corner table, drinking his drink, his 
+	cold eyes studying the bar, always looking for Quark.  
+	Suddenly, a tablecloth is spread in front of him, he reacts 
+	and turns to see it's Quark who has arrived beside a food 
+	cart...
+
+					QUARK
+			Dinner is served.
+
+					FALLIT KOT
+			I didn't order dinner.
+
+	A Ferengi waiter is setting the table with flowers, silver 
+	and Quark's finest china... Quark serves a bowl of soup 
+	first... Kot tastes it...
+
+					QUARK
+			What better way to mollify -- I mean, 
+			satisfy -- a hungry traveler than 
+			with a delicious home-cooked meal... 
+			starting with a delicate Vak clover 
+			soup...
+
+	Kot puts down his soup spoon and pushes the bowl off the 
+	table.  It crashes to the floor and shatters.  Quark eyes 
+	the broken tureen...
+
+					QUARK
+			Why spoil your appetite with soup?
+
+	He picks up a dish with a covered entree, puts it front of 
+	Kot and removes the lid...
+
+					QUARK
+			Here's the real treat...
+				(lifts lid; seductively)
+			Jumbo Vulcan mollusks.
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT TWO           19.
+
+17   CONTINUED:
+
+					QUARK (Cont'd)
+			Sauteed in rhombolian butter... a 
+			taste so exquisite, it's to die for...
+				(realizes what he's 
+				just said)
+			... or to live for, for that matter...
+
+	Quark sets everything up just so, then stands by, the 
+	overattentive waiter... Fallit picks up a fork, tries 
+	a taste of the mollusk... as Quark pours the wine...
+
+					QUARK
+			Do you know dabo, Fallit?
+
+	Fallit just stares at him.
+
+					QUARK
+				(continuing)
+			A wonderfully entertaining game and 
+			easy to learn.  I took the liberty 
+			of lining up a couple of excellent 
+			tutors I happen to know...
+
+	He snaps his fingers and two gorgeous dabo girls immediately 
+	arrive and sit beside Kot.  Kot just continues eating his 
+	mollusk and stare at Quark.
+
+					QUARK
+				(continuing)
+			Be sure to ask them about their 
+			"double down" betting strategy.
+				(beat)
+			If I haven't made it clear, I intend 
+			to make your stay here as delightful 
+			as you could ever imagine.  So allow 
+			me to propose a toast... to...
+				(raises glass)
+			Old friends.
+
+					FALLIT KOT
+				(considers, then:)
+			Old debts.
+
+	Fallit tips Quark's glass.  Off Quark...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT TWO           20.
+
+18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A
+
+					KLINGON CHEF
+			Gruffs at Bashir to order --
+
+					CHEF
+			Gagh Tek Or!  (What'll it be?)
+
+	Merging back to find Bashir and Melora at the Kiosk...
+
+					BASHIR
+			Shall I order for us both?
+
+					MELORA
+			All right.
+
+	Quick back and forth --
+
+					BASHIR
+			Let's see... we'll have some racht 
+			of course...
+
+					CHEF
+			Racht...
+
+					BASHIR
+			And a double order of Gladst... no 
+			sauce please...
+
+					CHEF
+			Gladst... usu bal.
+
+					BASHIR
+			And, a side order of zilm'kach... is 
+			that too much for two people... ?
+
+              DEEP SPACE: "Melora" - 08/26/93 - ACT TWO             21.
+
+18   CONTINUED:
+
+	The Chef shrugs, shakes his head... serves up the plates 
+	without delicacy and shoves them at Bashir...
+
+					CHEF
+			Drak doo.
+
+	Bashir puts a couple of coins on the counter, the Klingon 
+	does his ritual bite...
+
+					MELORA
+			May I?
+				("look" implied)
+			As Bashir holds it down...
+
+					BASHIR
+			Don't be alarmed.
+
+19   CLOSE UP - THE PLATE
+
+	of slowly crawling things and such...
+
+	MELORA
+
+	frowns...
+
+					MELORA
+			Excuse me, Julian, I can't eat this.
+
+					BASHIR
+			I know how it looks but...
+
+	She looks up at the chef and barks at him in fluent Klingon... 
+	and this is dialogue on top of dialogue... (English 
+	translation is in parentheses.)
+
+					MELORA
+			P'kar tel Durg Le Frakn'l?  (You 
+			call this live?)
+
+					CHEF
+			Dug a bul, rah'tar!  (What's your 
+			problem, lady?)
+
+					MELORA
+			D'tel klop a bul!  (This slop you 
+			call food is the problem!
+
+					CHEF
+			Pak't pol!  (If you don't like it, 
+			don't eat it!)
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT TWO           22.
+
+					MELORA
+			D'kar tel G'denna!  (I want to see 
+			the blood running through the veins!)
+
+	The Chef smiles, speaks in English to Bashir...
+
+					CHEF
+			I like a customer who knows what she 
+			wants...
+
+	He reaches out and takes the two plates and throws them away 
+	behind him... leans down out of view, pulls up a handful of 
+	really active looking worms... holds them out for Melora's 
+	inspection...
+
+					CHEF
+			Eh?
+
+					MELORA
+				(pleased)
+			G'denna.
+
+	And as he prepares the plates...
+
+					MELORA
+			There's nothing worse then half dead 
+			Racht.
+
+	On Bashir, impressed...
+
+21   CLOSE ON AN ALMOST EMPTY PLATE
+
+	one last worm wriggling, Bashir picks it up and puts it in 
+	his mouth... slurps it down...
+
+					BASHIR
+			I was ten.  My father was a Federation 
+			diplomat on Invernia Two.  One day 
+			we were out on a remote part of the 
+			planet when a massive ionic storm 
+			hit.  While we were waiting it out, 
+			we found an Invernian girl about my 
+			age who was sick.  As soon as the 
+			storm cleared, my father went for 
+			help but it was too late.  I sat 
+			there... and watched her die.  The 
+			next day when my father returned, 
+			his guide told us we could have 
+			treated her with a simple herb that 
+			was growing all around us.
+
+              DEEP SPACE: "Melora" - 08/26/93 - ACT TWO             23.
+
+
+21   CONTINUED:
+
+					BASHIR
+				(a sad smile)
+			I could have saved her life.
+
+					MELORA
+			And so you started to study medicine.
+
+					BASHIR
+			Yes... well, actually, first I started 
+			to study tennis.
+
+					MELORA
+			Tennis?
+
+					BASHIR
+			I really thought about making a career 
+			of it for awhile...
+
+					MELORA
+			You must be very good...
+
+					BASHIR
+			I used to think so, then I went to 
+			my first major competition... my 
+			opponent served first and I heard 
+			it bounce past me and the computer 
+			announced it was good and I knew I 
+			was in trouble... it turned out I 
+			had a bit more talent at medicine 
+			than tennis...
+
+	She smiles, relaxed more than any time we've seen her before.
+
+					MELORA
+			This has been delightful.  Thank 
+			you.
+
+					BASHIR
+			I'll never look at a Racht the same 
+			way again.
+
+	Beat with sexual tension.
+
+					MELORA
+			I have an early mission tomorrow.  I 
+			better get some rest.
+
+					BASHIR
+			Of course.  Come on, I'll take you 
+			home.
+
+	And as they rise.
+
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT TWO           24.
+
+22   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Passage of time.
+
+23   INT. HABITAT CORRIDOR
+
+	Dax, with a mission attache case over her shoulder, arrives 
+	at Melora's door.  Hits the chime.  There is no response.  
+	Hits it again.  Reacts.  Hits her combadge.
+
+					DAX
+			Dax to Pazlar.
+				(beat, no response)
+			Computer, level one security access...
+
+	The door opens... she looks in...
+
+					DAX
+			Ensign Pazlar?
+
+	No response... on her curiosity...
+
+					DAX
+			Computer, locate Ensign Melora Pazlar.
+
+					COMPUTER VOICE
+			Docking Level Twenty-Two, Section 
+			Fourteen.
+
+					DAX
+				(to herself)
+			Section Fourteen?
+
+	She EXITS.
+
+24
+thru   OMITTED
+26
+
+              DEEP SPACE: "Melora" - 08/26/93 - ACT TWO             25.
+
+27   ANOTHER CORRIDOR
+
+	finds the chair at a doorway without a ramp... moves by it... 
+	reacts as she sees --
+
+28   ANGLE - MELORA
+
+	lying on the ground at the entrance to a tiny supply room... 
+	(there's another lip without a ramp at the room's entrance 
+	that she tripped on)... her mechanical control is caught in 
+	some kind of loop, so her leg is slowly flailing 
+	uncontrollably... at the same time, she is trying desperately 
+	to get off the ground, but just can't do it... the effect is 
+	like a robotic toy that has fallen over but keeps running... 
+	she has a serious bruise on her forehead... Dax moves quickly 
+	to her... Melora's eyes glance up to see her...
+
+					DAX
+			We've got to get you to the 
+			Infirmary...
+
+	She switches off the wrist control panel which stops the 
+	flailing leg but makes Melora almost completely helpless... 
+	Dax begins to help her up... it's all humiliating for 
+	Melora... she leans heavily on the cane with one arm, but 
+	requires Dax's support on the other side as they move to the 
+	wheelchair...
+
+					MELORA
+				(breathing heavily, 
+				agonizing)
+			It's my own fault... I decided... I 
+			could use an extra astrometric array 
+			after going through the mission 
+			profile again... I came to the storage 
+			bay to get one... my mind was already 
+			in the Gamma Quadrant... I wasn't... 
+			paying enough attention to what I 
+			was doing... I guess my boot... didn't 
+			make the lip of the door... I fell 
+			on my controls...
+
+	They get to the chair and she collapses with relief into 
+	it... Dax hits her combadge...
+
+					DAX
+			Dax to Bashir.  Ensign Pazlar's had 
+			a minor accident.  We need to see 
+			you in the Infirmary.
+
+					BASHIR'S COM VOICE
+			Acknowledged.  I'll be there in three 
+			minutes.
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT TWO           26.
+
+	Dax begins to roll the wheelchair forward...
+
+					MELORA
+			What kind... of architect would 
+			deliberately... design a raised rim 
+			at the entrance to every door...
+
+29   INT. INFIRMARY
+
+	Bashir works on Melora's head with a tech tool as she lies 
+	down... Dax is not there... the tech control is gone from 
+	her arm...
+
+					MELORA
+				(gallows humor)
+			So much for the dangers of the Gamma 
+			Quadrant... I didn't even make it 
+			there...
+
+					BASHIR
+			You will.  There's no concussion... 
+			you can reschedule your mission for 
+			tomorrow...
+
+					MELORA
+				(on the verge of tears)
+			It was so...
+				(sighs, "humiliating" 
+				is implied)
+			... flopping back and forth... like a 
+			broken toy... I didn't want anyone 
+			to find me like that... but I couldn't 
+			get up by myself...
+
+					BASHIR
+			Why didn't you wait for Dax before 
+			you went into an area that wasn't 
+			modified with ramps...
+
+					MELORA
+				(angry at herself)
+			I didn't need Dax... if I'd just 
+			paid attention...
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT TWO           27.
+
+29   CONTINUED:
+
+					BASHIR
+			Melora... no one on this station is 
+			completely independent... in space, 
+			we all depend on one another to some 
+			degree...
+
+					MELORA
+			I just want you all to know you can 
+			depend on me...
+
+					BASHIR
+				(smiles)
+			Okay, you've proven that... what do 
+			the rest of us have to do to convince 
+			you?
+
+					MELORA
+				(reacts)
+			Of what?
+
+					BASHIR
+				(simply)
+			That you can depend on us.
+
+	Melora sighs, smiles, liking Bashir an awful lot right now...
+
+30   INT. HABITAT CORRIDOR
+
+	As Bashir and Melora come from the Turbolift...
+
+					BASHIR
+			Have you ever heard of the work 
+			Nathaniel Teros did with low gravity 
+			species thirty years ago?
+
+					MELORA
+			Neuromuscular adaptation?  It had no 
+			practical success at all.
+
+					BASHIR
+			No, but the principles were sound... 
+			and a lot of progress has been made 
+			in neurochemistry since then...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT TWO           28.
+
+30   CONTINUED:
+
+					MELORA
+			You think some day I could throw 
+			away the chair... ?
+
+					BASHIR
+				(evasive)
+			Theoretically... perhaps...
+
+	As they reach the door, it opens...
+
+					MELORA
+			Would you like to come in... ?
+
+					BASHIR
+				(reluctant)
+			I know how much you look forward to 
+			turning down the gravity...
+
+					MELORA
+			Don't let that stop you...
+
+	Off his curious reaction, they enter...
+
+31   INT. MELORA'S QUARTERS (OPTICAL)
+
+	She moves to a device that anchors her chair on the ground... 
+	clicks in and then as she's about to touch her remote 
+	control...
+
+					MELORA
+			You may want to brace yourself until 
+			you get used to it...
+
+	He steadies himself on whatever the set has to offer... and 
+	she hits the remote, we hear a sound effect as the gravity 
+	adaptors take effect and she soars into the air... Bashir 
+	watches with delight as she rises gracefully to the ceiling, 
+	luxuriating in the freedom.  Reaching the apogee of her 
+	ascent, she turns, and pushes off, like a swimmer in slow 
+	motion.  (As production requires, she can stop and hover or 
+	land.)
+
+					MELORA
+			Come on, Julian.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT TWO           29.
+
+31   CONTINUED:
+
+					BASHIR
+			What do I do?
+
+					MELORA
+			Just give a gentle push... it's easy.
+
+	Bashir takes a deep breath, bends his knees and pushes off... 
+	SOARS out of control, awkwardly, she catches him, steadying 
+	him...
+
+					BASHIR
+				(laughs, delighted)
+			This is astonishing.
+
+	As they move back down to...
+
+31A  ANGLE - THE FLOOR
+
+					BASHIR
+			I can't tell you how curious I was 
+			about this...
+
+					MELORA
+			Most people are.  Sometimes they 
+			make me feel like a carnival 
+			attraction.  So, usually, I prefer 
+			to keep everyone out...
+
+					BASHIR
+			Thank you... for letting me in.
+
+	A warm smile between them... more sexual tension.
+
+					MELORA
+			He's my brother.
+
+	Bashir doesn't understand... she turns him to see --
+
+32   BASHIR'S POV - THE PICTURE
+
+32A  RESUME - BASHIR AND MELORA
+
+					BASHIR
+			Oh.
+
+	She turns to him and he kisses her, lightly at first.  She 
+	returns it.  And as they rise gently through the air...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+          DEEP SPACE: "Melora" - REV. 08/30/93 - ACT THREE          30.
+                           ACT THREE                            
+
+	FADE IN:
+
+33   EXT. SPACE - GAMMA QUADRANT (OPTICAL)
+
+	A Runabout comes out of the wormhole.
+
+34   INT. ORINOCO
+
+	Dax and Melora at the controls... pressing panels.
+
+					MELORA
+			Setting course... twenty-eight mark 
+			one-forty-two.
+
+	Dax Confirmed.
+
+	They sit back and relax as the journey begins...
+
+					MELORA
+			Computer, play us something by Delvok.
+
+	The music begins... it's Chopin meets Spock...
+
+					DAX
+			Delvok never seems Vulcan to me... 
+			there's too much emotion in his 
+			music...
+
+					MELORA
+			It's pretty.
+
+          DEEP SPACE: "Melora" - REV. 08/27/93 - ACT THREE          31.
+
+35   REVERSE ANGLE - THROUGH THE WINDOW
+
+	seeing the light show... they sit back and look at the stars 
+	a beat and listen to the music... we're off their faces for 
+	this at the start...
+
+					MELORA
+			Tell me something, Lieutenant... you 
+			think there's room for... romance... 
+			in Starfleet?
+
+					DAX
+				(glances at her)
+			I think so.
+
+					MELORA
+			You've made it work... ?
+
+					DAX
+			Now and then...
+
+					MELORA
+			I mean, really work...
+
+					DAX
+			Oh, really work.  For that, I've 
+			got to go back...
+				(beat, smiling at the 
+				memory)
+			... about a hundred and fifty years.
+
+					MELORA
+				(reacts)
+			That's a long time...
+
+					DAX
+			She was a hard act to follow.
+
+36   RESUME - FRONT VIEW
+
+					DAX
+				(continuing)
+			Could it be Doctor Bashir's bedside 
+			manner has won you over... ?
+
+					MELORA
+				(smiles, but concerned)
+			Our species are just so... different.
+
+          DEEP SPACE: "Melora" - REV. 08/27/93 - ACT THREE          32.
+
+36   CONTINUED:
+
+					DAX
+			Since when has that ever stopped 
+			anybody?... I knew a hydrogen-breathing 
+			Lothra who fell hopelessly in love 
+			with an Oxygene...
+
+					MELORA
+				(reacts)
+			You're kidding... how could they 
+			even stay in the same room?
+
+					DAX
+			Forty minutes a day without their 
+			breathing apparatus... that's all.  
+			Lovely couple... fifty-seven years 
+			they were together.
+
+					MELORA
+			What about career conflicts?  Two 
+			friends of mine from the Academy got 
+			engaged even though they knew they 
+			were assigned to different 
+			starships...
+
+					DAX
+			Subspace relationship?
+
+					MELORA
+			Uh huh.
+
+					DAX
+			That's a tough one.
+
+					MELORA
+			They may not be together for a year 
+			or more... and even then only for a 
+			few weeks...
+
+					DAX
+			Love across light years is just so...
+
+					MELORA
+			... it lacks intimacy...
+
+					DAX
+			... you could say that.
+
+          DEEP SPACE: "Melora" - REV. 08/27/93 - ACT THREE          33.
+
+36   CONTINUED:	(2)
+
+					MELORA
+			I finish my mission here... I move 
+			on to the next one... what kind of 
+			future is that for a romance?
+
+					DAX
+			Look at the alternative.
+
+					MELORA
+			I guess...
+
+					DAX
+			Maybe it's better not to look to the 
+			future... just look to tonight.
+
+					MELORA
+			I guess...
+
+					DAX
+			Smile, Ensign, you're in love.
+
+	Melora smiles gently...
+
+37   INT. SECURITY OFFICE
+
+	ODO's seated at his computer console, working.  Quark ENTERS.  
+	Odo looks up, sees who it is, continues working.
+
+					ODO
+				(drily)
+			Oh.  It's you.
+
+					QUARK
+			Don't be so happy to see me...
+
+					ODO
+			All right, I won't.
+
+	Quark sags a little... Odo's not helping...
+
+          DEEP SPACE: "Melora" - REV. 08/27/93 - ACT THREE          34.
+
+37   CONTINUED:
+
+					QUARK
+			Odo, there's a desperate criminal on 
+			board the station...
+
+					ODO
+			You wouldn't be talking about Fallit 
+
+			Kot... ?
+
+	Quark reacts...
+
+					ODO
+			... who just finished eight years in 
+			a labor camp for hijacking a shipment 
+			of Romulan ale.
+				(stops working, turns 
+				to Quark)
+			... whose name was right next to yours 
+			on the original indictment... ?
+
+					QUARK
+			I had nothing to do with the hijacking 
+			itself.  I was... only the 
+			middleman...
+
+					ODO
+			Trafficking in stolen goods should 
+			have been enough to get you your own 
+			cell at that Romulan camp... unless 
+			you sold out your partner...
+
+					QUARK
+			I can honestly say that justice was 
+			served.
+
+					ODO
+			I would imagine that Fallit Kot is 
+			looking for his own kind of justice 
+			now.
+
+					QUARK
+			He's threatened to kill me.
+
+	Odo just studies him a long beat... a pleasant look crosses 
+	his face...
+
+					QUARK
+			What?!
+				("are you looking at" 
+				implied)
+			Odo resumes his usual stern 
+			expression, sighs...
+
+          DEEP SPACE: "Melora" - REV. 08/30/93 - ACT THREE          35.
+
+37   CONTINUED:	(2)
+
+					ODO
+			Nothing.  Just a passing thought...
+
+					QUARK
+			Odo, he means it.  Nothing I do seems 
+			to change his mind.  You've got to 
+			do something.
+
+					ODO
+			I'll do my job, Quark.
+
+	Quark sighs satisfied and EXITS... Odo looks up at the door, 
+	too bad...
+
+					ODO
+			Unfortunately...
+
+38   INT. INFIRMARY
+
+	Bashir is working furiously at the computer... as Melora 
+	wheels in...
+
+					MELORA
+			Racht, anyone?
+
+	Bashir glances over and smiles...
+
+          DEEP SPACE: "Melora" - REV. 08/30/93 - ACT THREE          36.
+
+38   CONTINUED:
+
+					BASHIR
+			I've been waiting for you.  I want 
+			to show you something.
+
+	She moves to the computer console... he runs a program for 
+	her to see... we may even want to --
+
+39   INSERT COMPUTER SCREEN (VPB)
+
+	A complicated series of equations running by quickly, maybe 
+	a visual sketch, but deliberately complex beyond the viewer's 
+	comprehension...
+
+40   RESUME
+
+					MELORA
+				(reacts to the 
+				complexity)
+			What is it?
+
+         				BASHIR 
+			A computer model of an elevated 
+			neural output from the brain's gross 
+			motor cortex... it's stimulating 
+			acetylcholine absorption to increase 
+			tensile strength...
+
+					MELORA
+				(understands)
+			The neuromuscular adaptation theory?
+
+					BASHIR
+				(excited at the 
+				prospects)
+			It was a theory thirty years ago, 
+			Melora... but with the development 
+			of neo-analeptic transmitters during 
+			the last decade, it's not even that 
+			complicated... it's just that no 
+			one's gone back to reexamine the 
+			ideas of Nathaniel Teros...
+				(beat)
+			Until now.
+
+					MELORA
+				(stunned)
+			This... can actually work... ?
+
+          DEEP SPACE: "Melora" - REV. 08/27/93 - ACT THREE          37.
+
+					BASHIR
+			No more servo controls.  No more 
+			chair.
+
+	Off Melora's reaction...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR          38.
+                           ACT FOUR                             
+
+	FADE IN:
+
+41   INT. SECURITY
+
+	Odo sits and works.  A Deputy escorts Kot in... Odo nods, 
+	the Deputy EXITS.  He doesn't look up from his work yet...
+
+					FALLIT KOT
+			Have I done something wrong?
+
+					ODO
+			Not that I'm aware of.
+				(Kot studies him evenly 
+				a beat)
+			We have something in common.
+
+					FALLIT KOT
+			We do?
+
+					ODO
+			I don't like Quark either.
+				(beat, he looks up 
+				for the first time)
+			But I can't let you kill him.
+
+					FALLIT KOT
+			Kill him... did he tell you I was 
+			going to do that?
+
+					ODO
+			I know your history together.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR          39.
+
+41   CONTINUED:
+
+					FALLIT KOT
+				(cold)
+			Let bygones be bygones I always say.
+
+					ODO
+			I always say you can tell a man's 
+			intentions by the way he walks.
+
+					FALLIT KOT
+			How do I walk?
+
+					ODO
+			Like someone carrying a lot of weight 
+			on his shoulders.
+
+					FALLIT KOT
+			Must be the memory of those Romulan 
+			bricks I carried for eight years.
+
+					ODO
+			Must be.
+
+					FALLIT KOT
+			But you can't lock a man up for the 
+			way he walks, can you?
+
+	He smiles.  Having made his point, he EXITS.
+
+42   INT. PROMENADE
+
+	Odo comes out and looks hard in the direction that Kot walked 
+	away... A beat later, Quark moves up beside him...
+
+					QUARK
+			Well?
+
+					ODO
+			I'd say he's a man with nothing to 
+			lose.
+
+					QUARK
+			As opposed to me.
+
+					ODO
+			I have no reason to hold him for now 
+			and he knows it.  I'll watch him the 
+			best I can.
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT FOUR          40.
+
+42   CONTINUED:
+
+					ODO
+			But I suggest you carry a combadge 
+			with you at all times.
+
+	He hands one to Quark.
+
+					ODO
+				(continuing)
+			Call me at the first sign of trouble.
+
+					QUARK
+			What if the first sign is the last 
+			sign?
+
+					ODO
+			You people sell pieces of yourself 
+			after you die, don't you?
+
+					QUARK
+			Yes...
+
+					ODO
+			I'll buy one.
+
+	He goes back into Security, leaving Quark to mull over his 
+	fate.
+
+43   INT. INFIRMARY
+
+	Melora is lying down, undressed, under a blanket, connected 
+	to various medical gear... Bashir is nearby, working 
+	controls, monitoring computer readouts...
+
+					MELORA
+			My heart is pounding...
+
+					BASHIR
+			I'd like to think that has more to 
+			do with me than the neo-analeptic 
+			infusion...
+
+					MELORA
+			Would that also explain why my 
+			backside is getting warm...
+
+					BASHIR
+				(reading monitors)
+			That's more likely the result of the 
+			neuromuscular tissue stimulation due 
+			to increased activity in the motor 
+			cortex...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR         40A.
+
+43   CONTINUED:
+
+					BASHIR
+				(beat)
+			I'd say that's enough for the first 
+			time out...
+
+	He shuts everything down... moves to disconnect her...
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT FOUR          41.
+
+43   CONTINUED:	(2)
+
+					BASHIR
+			It's good that you've already been 
+			using your muscles in this gravity 
+			environment... it'll make it easier 
+			to adapt...
+
+	She's free... but still lying down...
+
+					BASHIR
+			Feel any different?
+
+					MELORA
+				(beat, wishing)
+			No.
+
+					BASHIR
+			Nothing at all?
+
+					MELORA
+			I'm sorry, Julian.
+
+	Bashir looks puzzled... this should be working... he moves 
+	back to the computer and begins to run analysis... she lays 
+	there...
+
+					BASHIR
+			The acetylcholine absorption was 
+			precisely at fourteen percent above 
+			normal...
+
+44   HER LEG
+
+	... as she tightens the muscle tentatively...
+
+					BASHIR (O.S.)
+				(continuing)
+			... increased tensile strength would 
+			be the inevitable result...
+
+45   HER FACE
+
+	as she looks down at her leg...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR         41A.
+
+46   HER LEG
+
+	She raises the leg slowly, flexing it toward her chest...
+
+					MELORA
+			Julian...
+
+
+47   BASHIR
+
+	looks over, reacts... moves back to her side...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR          42.
+
+47   CONTINUED:
+
+					MELORA
+			I can lift my leg.
+
+					BASHIR
+			Your neural pathways are getting 
+			used to the changes.  Endurance and 
+			coordination might take awhile, but 
+			you should be walking within the 
+			hour.
+
+	Melora shakes her head, incredulous, overwhelmed.
+
+48   INT. OPS
+
+					O'BRIEN
+			and Dax at his station as Sisko walks out of his 
+	office towards them.
+
+					SISKO
+			How's the upgrade coming?
+
+					O'BRIEN
+			We've been able to get it to about 
+			seventy percent of what we'd get 
+			with a standard EPS, but it looks 
+			like that's as far as it's gonna...
+
+	Sisko and Dax both notice O'Brien looking toward the 
+	Turbolift.
+
+					O'BRIEN
+			I'll be damned.
+
+	Sisko and Dax turn and react...
+
+49   ANGLE - CLOSE ON THE CANE
+
+	on the floor moving away from the Turbolift... moving up to 
+	find Melora and Julian walking into Ops... she's using the 
+	cane for support but moving quite well... she moves up the 
+	steps to Sisko...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR          43.
+
+49   CONTINUED:
+
+					MELORA
+			I wanted to give you our first day's 
+			mission summary myself, Commander.
+
+					SISKO
+			A pleasure, Ensign.
+
+					DAX
+			Julian, how did you...
+
+					BASHIR
+			Simply a matter of increasing the 
+			output from the brain's motor 
+			cortex... someone else's research 
+			actually... I just dotted the "i"s 
+			and crossed the "t"s...
+
+					O'BRIEN
+			You'll get your name into the medical 
+			journals for this one.
+
+					BASHIR
+			I know.
+
+					MELORA
+			Julian, I don't know how to say this 
+			but...
+				(beat, weakening)
+			I'm not sure I can get back down...
+
+	She grabs his arm for support...
+
+					BASHIR
+			Whups!  Easy does it now.  First 
+			treatment's beginning to wear off.  
+			Nothing to be concerned about...
+
+	Helping her down... she's still far stronger than we've ever 
+	seen before... he switches her wrist controls back on and 
+	the motor assistance begins to support her movements again.  
+	(But to a far lesser degree than before.  As she still has 
+	some residual muscle strength from the treatment.)
+
+					BASHIR
+			Let's get you back to your quarters... 
+			I want you to get a good night's 
+			rest.
+
+	Bashir nods to Sisko, who dismisses him with a nod and a 
+	look of respect...
+
+             DEEP SPACE: "Melora" - 08/26/93 - ACT FOUR            43A.
+
+50   INT. MELORA'S QUARTERS
+
+	As they ENTER...
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT FOUR          44.
+
+50   CONTINUED:
+
+					BASHIR
+			With each progressive treatment, you 
+			should get stronger and the effect 
+			should last longer...
+
+	She sits down, tired but delighted... picks up the remote 
+	control for the gravity adaptors...
+
+					MELORA
+			What about this?
+
+					BASHIR
+				(shakes his head)
+			A low-grav environment now would 
+			really confuse your motor cortex.
+
+					MELORA
+			I understand.
+				(beat, with gratitude)
+			Julian...
+
+	He puts a silencing finger to her lips...
+
+					BASHIR
+			You let me fly for the first time... 
+			I let you walk.  We're even.
+
+	He kisses her softly on the lips.
+
+					BASHIR
+			See you in the morning.
+
+	He leaves... she smiles after him.  But alone, she looks up 
+	at the space above her she no longer inhabits...
+
+51   HIGH ANGLE
+
+	looking down at her emphasizes how grounded she is... she 
+	misses her "hot bath"...
+
+52   INT. QUARK'S QUARTERS
+
+	The room is in shadows.  Quark ENTERS, distracted.  (He's 
+	either wearing his combadge or carrying it somewhere).  The 
+	door shuts behind him before he realizes there are no lights 
+	on.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR          45.
+
+52   CONTINUED:
+
+					QUARK
+			Lights...
+
+	The lights do not come on... he's taken several steps 
+	inside...
+
+					QUARK
+				(impatiently)
+			Computer, turn on the...
+
+	Quark stops, suddenly realizes, he in danger, immediately 
+	turns back toward the door... starts to move out quickly... 
+	as he presses his combadge...
+
+					QUARK
+			Quark to mmmppph...
+
+	He never gets it out... from behind, his head is braced in a 
+	hammerlock, his mouth covered... Kot grabs the badge and 
+	throws it away...
+
+					FALLIT KOT
+				(softly)
+			No one can hear you, Quark... it's 
+			just you and me...
+
+					QUARK
+			Fallit... I wasn't prepared to 
+			entertain this evening but please... 
+			make yourself at home...
+
+					FALLIT KOT
+			I already have...
+
+					QUARK
+			What's mine is yours... all you have 
+			to do is ask... !
+
+					FALLIT KOT
+			I'm tired of your gifts, Quark.  All 
+			I want is your miserable life.
+
+	He presses Quark's neck even harder... it may break...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FOUR          46.
+
+52   CONTINUED:	(2)
+
+					QUARK
+			Wait!  Everything's negotiable... 
+			believe me, I'm worth much more to 
+			you alive... !
+				(grabbing the first 
+				straw he thinks of)
+			How does one hundred and ninety-nine 
+			bars of gold-pressed latinum sound to 
+			you?
+
+	This piques Fallit's interest.  He loosens his grip.
+
+					FALLIT KOT
+			It's a start.
+
+	Quark breathes a momentary sigh of relief...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+53   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+54   INT. INFIRMARY
+
+	Bashir is completing another treatment of Melora... she's 
+	still lying down, undressed on the table...
+
+					MELORA
+			The mattress felt like rocks... and 
+			every one of my muscles ached all 
+			night long...
+
+					BASHIR
+			You'll adjust to that after a few 
+			treatments...
+
+	He comes over to release her... as she sits up... stretching 
+	her legs easily...
+
+					BASHIR
+				(continuing)
+			This time you should feel the effects 
+			for several hours...
+
+					MELORA
+				(tries to make it 
+				sound in passing)
+			Exactly when does it become 
+			irreversible?
+
+	And Bashir hears that word, "irreversible"... and it's the 
+	kind of thing a good doctor picks up in a patient's voice...
+
+					BASHIR
+				(studies her a long 
+				beat)
+			Melora, if you're not certain...
+
+					MELORA
+				(blowing it off)
+			Oh, I'm sure it's just some strange 
+			form of "buyers remorse"... I'll be 
+			fine...
+
+	A good doctor doesn't let it go...
+
+           DEEP SPACE: "Melora" - REV. 08/30/93 - ACT FIVE          48.
+
+					BASHIR
+			Tell me exactly what you're feeling...
+
+					MELORA
+			Last night, I just missed... I didn't 
+			feel like me...
+
+	A beat.  He sits.  Looks at her directly.  Some of this has 
+	been discussed before off-camera.
+
+					BASHIR
+			If you want to end your dependence 
+			on the chair and the servo controls, 
+			you have to give up the low-grav 
+			environment, Melora.  You knew that 
+			was the trade-off.
+
+					MELORA
+			It seemed like a good trade... until 
+			I realized I couldn't do it anymore... 
+			if I could just spend...
+
+					BASHIR
+				(interrupting)
+			I'm concerned that going back and 
+			forth would ultimately lead to a 
+			loss of fine motor control.
+
+					MELORA
+			Meaning?
+
+					BASHIR
+			Your ability to perform complex tasks 
+			could be affected.
+
+	She nods silently... understands the choice...
+
+					BASHIR
+			The effect is fully reversible for a 
+			few more days.  We can pull the plug 
+			anytime before then.  After that, if 
+			all goes well, your motor cortex 
+			impulses will kick in on their own.  
+			Permanently.
+
+	Off her look...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          49.
+
+55   EXT. SPACE - THE ORINOCO (OPTICAL)
+
+	in the Gamma Quadrant.  At impulse.
+
+56   INT. ORINOCO
+
+	Dax and Melora... the music as before.  Melora, trying to 
+	come to grips with this decision... she's beginning to feel 
+	the effects of gravity again...
+
+					MELORA
+			It's beginning to wear off again...
+
+	She switches on her wrist controls to give her more 
+	mobility... just the return to her original state argues in 
+	favor of the change... she shakes her head...
+
+					MELORA
+			I don't understand myself... how can 
+			I possibly have second thoughts... 
+			this would mean real independence... 
+			it's everything I ever wished for...
+				(beat)
+			But then I start to think about 
+			home... and how I won't ever be able 
+			to go back... maybe just for a short 
+			visit... but never really go back...
+
+					DAX
+			The Little Mermaid.
+
+					MELORA
+			Mermaid?
+
+					DAX
+			It's an Earth fable by Hans Christian 
+			Andersen.  She trades her magical 
+			life under the sea for a pair of 
+			legs to walk on land.
+
+	After a beat, Melora smiles, sadly...
+
+					MELORA
+			What happened?  Didn't she live 
+			happily ever after?
+
+	Dax doesn't respond.  She doesn't have to.  Off Melora...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          50.
+
+57   INT. AIRLOCK (OPTICAL)
+
+	Quark and Kot greet Ashrock as he steps off his ship... Quark 
+	holds a fair-sized alien pouch (the Rings of Paltriss).  
+	Ashrock carries a large, heavy satchel...
+
+					QUARK
+			Ashrock... right on time... may I 
+			present my longtime business 
+			partner... Fallit Kot...
+
+	They nod an acknowledgement.  Kot takes the satchel from 
+	Ashrock and kneels as he begins to examine its contents.  
+	Quark hands the pouch to Ashrock.
+
+					QUARK
+			For your inspection.
+
+	Ashrock takes several rings out of the pouch and admires 
+	them...
+
+					ASHROCK
+			Exquisite.
+
+	Kot is satisfied with his latinum, closes the satchel... 
+	Quark glances at Kot, assumes he's done a good count.
+
+					QUARK
+			Then, our transaction is complete.
+
+					FALLIT KOT
+			Not quite.
+
+	They turn to see Kot rising with a phaser drawn... motioning 
+	to the pouch of rings...
+
+					FALLIT KOT
+			I'll be taking them too.
+
+	Ashrock reacts... looks at Quark, decides he's been set up...
+
+					ASHROCK
+				(to Quark)
+			They warned me about you...
+
+					QUARK
+				(overlapping, quick)
+			Not true.  A deal is a deal.  Rule 
+			of Acquisition number sixteen.  Kot, 
+			you got what you came for... Now, 
+			let's be reasona...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          51.
+
+57   CONTINUED:
+
+	That's as far as he gets because Ashrock is pulling a 
+	small phaser of his own... and as he does, Kot fires his and 
+	Ashrock goes down, never getting off a shot... immediately 
+	alarms go off... Kot gets the pouch...
+
+					FALLIT KOT
+				(to Quark, re: the 
+				satchel)
+			Pick it up.  Move!
+
+	As Quark grabs the satchel and they begin to exit...
+
+58   INT. SECURITY OFFICE (VPB)
+
+	Odo's already zeroing in on a docking ring graphic... the 
+	section where the phaser blast occurred is flashing, 
+	accompanied by a WARNING SIGNAL...
+
+					ODO
+				(into com)
+			Priority one security to Level Twenty-
+			two, Section Five.
+
+59   INT. DOCKING RING CORRIDOR OUTSIDE AIRLOCK
+
+					(OPTICAL)
+			Alarms still sounding.  Kot and Quark 
+			come out of the Turbolift into the 
+			corridor, see two N.D. Security 
+			Personnel arriving... Kot fires 
+			several times, forcing them back... 
+			one Security Officer fires back, 
+			barely missing Quark and Kot... They 
+			take off in the opposite direction...
+
+60   INT. ANOTHER AIRLOCK
+
+	Dax and Melora innocently step out, having just returned 
+	from their latest mission... her chair is waiting for her 
+	outside the airlock.  Her motor controls help guide her 
+	there... but she never gets to it...
+
+					DAX
+			I'm sure Julian would understand.  
+			Besides, he'd still get to publish 
+			the results of your first 
+			treatments...
+
+	Suddenly Quark and Kot turn the corner in a rush... Kot waving 
+	the phaser at them...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          52.
+
+					FALLIT KOT
+			Back into the ship.
+
+	Dax and Melora retreat back into the runabout.  Kot shoves 
+	Quark in after them, perhaps kicks the chair back to impede 
+	the pursuers, then enters and closes the door...
+
+61   INT. ORINOCO
+
+	As Kot pushes Quark inside, Dax and Melora go without 
+	resistance... (Melora is on full robotic support)...
+
+					FALLIT KOT
+				(to Dax)
+			Get us out of here.
+
+					QUARK
+			He's already shot a man.  Do as he 
+			says.
+
+	Dax moves to the front...
+
+					QUARK
+			I'll just wait in the back...
+
+	Kot pushes Quark into the front seat beside her...
+
+					FALLIT KOT
+			In the front.  Where I can see you.
+				(to Melora, pointing 
+				out a seat)
+			There.  Hurry up.
+
+					MELORA
+			I'm moving as fast as I can.
+
+					DAX
+			She's an Elaysian.  She's needs motor 
+			support in our gravity.
+
+	Kot couldn't care less.  Melora finally gets into her seat... 
+	Kot remains standing, brandishing the phaser...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          53.
+
+62   INT. OPS
+
+	KIRA, O'Brien, Sisko and supernumeraries.
+
+					O'BRIEN
+			They're in the Orinoco... the docking 
+			clamps have been released... thrusters 
+			engaged...
+
+					SISKO
+			Ready a tractor beam.  Open a channel.
+
+					KIRA
+			Open.
+
+					SISKO
+			This is Commander Benjamin Sisko.  
+			Return to the station at once.
+
+	Bashir arrives, concerned...
+
+					KIRA
+			No reply.
+
+					SISKO
+			Engage tractor beam.
+
+63   OMITTED
+
+64   INT. ORINOCO (OPTICAL)
+
+	Feeling the shake of the effect.
+
+					DAX
+			They've locked on to us with a tractor 
+			beam.
+
+					FALLIT KOT
+			Open the channel to that Commander 
+			of yours.
+
+	Sisko appears on the monitors.
+
+					FALLIT KOT
+			Release this ship or I'll kill a 
+			hostage.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          54.
+
+					SISKO
+				(controlled)
+			I'm willing to negotiate for your 
+			freedom... but first release those...
+
+					FALLIT KOT
+				(overlapping, intense)
+			Didn't you hear what I just said?
+
+	He aims his phaser at Quark, ready to fire, then stops 
+	himself...
+
+					FALLIT KOT
+			No, I have something special in mind 
+			for you.
+
+	And arbitrarily, without further warning, he turns and fires 
+	at Melora, blasting her out of her chair... she lays motionless 
+	on the ground... her controls overload from the phaser blast 
+	and blink out...
+
+65   INT. OPS (OPTICAL)
+
+	Reactions.  Bashir's heart is in his throat.
+
+					FALLIT KOT
+			Do I make myself clear?  Release the 
+			ship now!
+
+	His transmission ends abruptly... Sisko moves quickly to the 
+	Transporter...
+
+					SISKO
+			Doctor, Chief... with me.
+
+	They follow...
+
+					SISKO
+				(to Kira)
+			Beam us to the Rio Grande.  Give us 
+			ten seconds and then disengage the 
+			tractor beam.
+
+					KIRA
+			Understood.  Energizing...
+
+	Sisko, Bashir and O'Brien DEMATERIALIZE...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          55.
+
+66   INT. ORINOCO
+
+					DAX
+			They've released us.
+
+					FALLIT KOT
+				(to Dax)
+			Through the wormhole.
+
+	Dax presses some panels and a beat later, the windows are 
+	filled with wormhole light...
+
+66A  INSIDE THE WORMHOLE (OPTICAL)
+
+	as the Runabout goes through...
+
+67   OMITTED
+
+67A  EXT. SPACE - THE GAMMA QUADRANT (OPTICAL)
+
+	The wormhole opens and the Orinoco comes out.  A beat later, 
+	behind it, the wormhole opens again...
+
+68   INT. ORINOCO
+
+	Some shaking from the space disruption behind them...
+
+					FALLIT KOT
+			What was that?
+
+					DAX
+			I'm not sure.
+
+					FALLIT KOT
+				(threatening)
+			What was it?
+
+					DAX
+				(calmly)
+			Another ship coming through the 
+			wormhole.
+
+					FALLIT KOT
+			Put it on the screen.
+
+	As she does...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE         55A.
+
+69   ANGLE ON MELORA'S HAND
+
+	which moves barely... PANNING down her arm to find her 
+	recovering consciousness slowly... it takes her a moment to 
+	get her bearings...
+
+					FALLIT KOT (O.S.)
+			Take us to warp.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          56.
+
+69   CONTINUED:
+
+					DAX (O.S.)
+			We haven't even set a course.
+
+					FALLIT KOT (O.S.)
+			I don't care about the course... 
+			just go to warp...
+
+	Melora is flat on the ground and can barely move... her servo 
+	controls are dead... and it seems almost that the pull of 
+	gravity has her locked down... nevertheless, she knows she 
+	has to do something and she has an idea... with unimaginable 
+	strain, she begins to drag her body across the floor an inch 
+	at a time... her face seems twisted into rubber by the pull 
+	of gravity...
+
+					DAX (O.S.)
+			If we don't set a course, we could 
+			warp ourselves into oblivion by 
+			crashing into a planet...
+
+					FALLIT KOT (O.S.)
+			Fine.  Set a course.  Just get us 
+			out of here.
+
+70   INT. RIO GRANDE
+
+	Sisko and O'Brien in front.  Bashir behind them.
+
+					O'BRIEN
+			They're powering up their warp drive.
+
+					SISKO
+			Stay with them.
+
+					O'BRIEN
+			Engaging warp engines.
+
+	They go to warp.
+
+					BASHIR
+			Can we beam them aboard at warp... ?
+
+					O'BRIEN
+			I wouldn't recommend it.
+
+	On Bashir's concern...
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          57.
+
+71   EXT. SPACE - THE TWO RUNABOUTS (OPTICAL)
+
+	at warp speed.
+
+72   INT. ORINOCO - ANGLE ON MELORA
+
+	who's made some critical progress across the floor... maybe 
+	a foot by now without being noticed... she keeps dragging 
+	herself, exhausted but pushing herself harder...
+
+					FALLIT KOT (O.S.)
+			Get the phasers ready.
+
+73   ANGLE IN FRONT
+
+					DAX
+			I'm not going to fire at them.
+
+					FALLIT KOT
+			You'll do it.  Or you'll die.
+
+	Suddenly, Dax stands, washing her hands of all 
+	responsibility...
+
+					DAX
+			Fine.  Then I hope you can fly this 
+			ship.
+
+	But as she's turned, she sees --
+
+74   DAX'S POV - PAST KOT TO MELORA
+
+	dragging herself across the floor...
+
+					FALLIT KOT
+			Sit down!
+
+75   RESUME
+
+	Dax knows she's got to keep Kot's attention away from the 
+	back... sits down immediately...
+
+					DAX
+			Quark, how well do you know this 
+			man?
+
+					QUARK
+			We've been friends for years.  Not 
+			counting today.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          58.
+
+76   ON MELORA
+
+					DAX (O.S.)
+			I suggest you explain to him that 
+			Starfleet isn't going to give up and 
+			stop chasing us...
+
+					QUARK (O.S.)
+			It's true, Fallit.  You don't know 
+			these Starfleet types...
+
+					FALLIT KOT (O.S.)
+			Then we'll all die.
+
+	She's reached a panel in the back... which she is able to 
+	remove only by lifting a single arm from the floor which is 
+	all she's capable of...
+
+					QUARK (O.S.)
+				(mostly, to himself)
+			Great.  We escape, he's got something 
+			"special" planned for me.  We don't 
+			escape, I just die with everyone 
+			else.  Am I missing a choice, Fallit?
+
+	Inside the panel is a red switch; with a last effort, she 
+	pushes the switch...
+
+77   VARIOUS ANGLES (OPTICAL)
+
+	as the gravity goes off... Dax reacts quickest, disengages 
+	the warp drive... Quark flies out of his seat and Kot's feet 
+	fly out from under him...
+
+78   MELORA (OPTICAL)
+
+	is off the floor, pushing off and...
+
+79   ANGLE (OPTICAL)
+
+	she hits the disoriented Kot with a flying tackle and slams 
+	him against the wall... the phaser falls harmlessly to the 
+	ground...
+
+           DEEP SPACE: "Melora" - REV. 08/31/93 - ACT FIVE          59.
+
+80   INT. RIO GRANDE
+
+					O'BRIEN
+			They've dropped out of warp...
+
+					SISKO
+			Go to impulse...
+
+					O'BRIEN
+			Sir, their gravity generators are 
+			off...
+
+	That's the first good news Bashir has heard...
+
+					BASHIR
+			Melora's alive.
+
+					O'BRIEN
+			Gravity's been reinstated... all 
+			engines are down...
+
+					SISKO
+			Come on, Doctor...
+
+	They move to the Transporter.
+
+81   INT. ORINOCO (OPTICAL)
+
+	Bashir and Sisko beam in... Quark is holding the phaser on 
+	Kot.  Dax is near the gravity switch, having just turned the 
+	gravity back on.  Melora is back on the floor in the general 
+	area where she slammed into Kot.
+
+					QUARK
+			I think we've got the situation in 
+			hand, Commander.
+
+81A  ANGLE ON MELORA
+
+	as Bashir goes to help her... she smiles weakly at him...
+
+					SISKO (O.S.)
+			Sisko to Rio Grande.  Everything's 
+			under control.  We're going home.
+
+					O'BRIEN'S COM VOICE
+			Aye, Commander.  Setting course for 
+			the wormhole.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          60.
+
+82   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The wormhole opening in the background as a runabout comes 
+	through.
+
+83   INT. PROMENADE - KLINGON KIOSK
+
+	At their table.  She's back in her wheelchair.  Eating racht.
+
+					MELORA
+			Why didn't the phaser kill me... ?
+
+					BASHIR
+			I don't know.  Maybe... all the neuro-
+			stimulants we've been pumping into 
+			your system...
+
+					MELORA
+			That's what I was wondering too...
+
+					BASHIR
+			It might turn out to be an interesting 
+			side effect of the treatment.  It's 
+			worth exploring...
+
+					MELORA
+			Julian, I'm not going ahead with the 
+			treatments.
+
+	He reacts, a little disappointed.
+
+					BASHIR
+			You can always try it again someday 
+			if you change your mind.
+
+					MELORA
+			I don't think I will.
+				(beat)
+			I like being independent.  That's no 
+			secret.  But to give up everything 
+			that I am to walk...
+				(quoting "Mermaid")
+			... on land...
+				(shakes her head)
+			Well, I might be more independent 
+			but I wouldn't be Elaysian anymore.  
+			I'm not sure what I'd be.  Besides, 
+			maybe independence isn't all it's 
+			cracked up to be.  I kind of like 
+			how it feels to depend on someone 
+			for a change.
+
+           DEEP SPACE: "Melora" - REV. 08/27/93 - ACT FIVE          61.
+
+83   CONTINUED:
+
+					MELORA
+				(smiles, understatement)
+			And I'm glad you got me to unlock 
+			the door to my quarters so I could 
+			finally let someone into my life.
+
+					BASHIR
+				(smiles, warm)
+			So am I.
+
+	A strange steel guitar-type sound from the side breaks their 
+	mood...
+
+84   ANGLE
+
+	to include the Klingon Chef who sits on a stool with his 
+	Klingon guitar and begins to sing a Klingon love song to the 
+	two or three couples who are sitting along with Bashir and 
+	Melora... it's Sigmund Romburgesque... the sort of thing 
+	Nelson Eddy would have sung to Jeanette McDonald if they 
+	were Klingons...
+
+					CHEF
+			Aler acht'jar... Aler act'jar... 
+			T'lembda boool-gah toh-gal...
+
+					BASHIR
+				(to melora)
+			You must be exhausted... if you don't 
+			want to stay...
+
+					MELORA
+				(tenderly)
+			Let's just sit here awhile and 
+			listen... I want to remember all of 
+			this...
+
+	And as she reaches out with her servo-mechanism assisted 
+	hand and takes his... like couples of all centuries have 
+	always done, they hold hands across the table... as the racht 
+	worms in their plate squirm even more at the sound of the 
+	music...
+
+					CHEF
+				(continuing)
+			Aler acht'jar... Aler acht'jar... 
+			T'lembda boool-gah to lohhhh...
+
+	And as we pull back on this shot of a little romance on Deep 
+	Space Nine...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+              
+

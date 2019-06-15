@@ -1,0 +1,3168 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "Armageddon Game" 
+                          #40512-433 
+                              
+                           Story by 
+                         Morgan Gendel 
+                              
+                          Teleplay by 
+                         Morgan Gendel 
+                              and 
+                Ira Steven Behr & James Crocker 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        November 8, 1993
+
+     STAR TREK: DS9 - "Armageddon Game" - 11/08/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Armageddon Game" 
+                             CAST 
+
+          SISKO                    NYDROM
+          KIRA                     SHARAT
+          ODO                      E'TYSHRA
+
+          QUARK                    JAKIN
+          BASHIR                   
+          DAX                      
+          O'BRIEN                  
+          KEIKO                    
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. KELLERUNS
+                                   N.D. T'LANI
+
+     STAR TREK:  DS9 - "Armageddon Game" - 11/08/93 - SETS
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Armageddon Game" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          OPS                           
+          COMMANDER'S OFFICE            MUNITIONS CRUISER
+          QUARK'S                       
+          O'BRIEN'S QUARTERS            T'LANI THREE
+          OPS                           
+          SURGERY                       GANGES
+
+                                        RIO GRANDE
+          RUNABOUT RIO GRANDE           
+          RUNABOUT GANGES               
+
+        T'LANI MUNITIONS CRUISER      
+          LAB                           
+          BRIDGE                        
+
+        T'LANI THREE                  
+          MILITARY COMMAND CENTER       
+
+STAR TREK: DS9 - "Armageddon Game" - 11/12/93 -PRONUNCIATION
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Armageddon Game" 
+                      PRONUNCIATION GUIDE 
+
+          ALTERIAN                 all-ter-EE-an
+          ANABOLIC                 an-uh-BALL-ik
+          BAJORAN                  bah-JOR-an
+          CARDASSIAN               car-DASS-ee-en
+          E'TYSHRA                 uh-TISH-ruh
+          GANGES                   GAN-Jeez
+          KELLERUN                 KELL-er-un
+          NUON                     MOO-on
+          NANO-BIOGENIC            NAN-oh bi-oh-dEg-ik
+          NYDROM                   NIE-droz
+          PALIS DELON              PAL-is DEH-lon
+          RIO GRANDE               RE-o grand
+          SHARAT                   sha-ROT
+          T'LANI                   tuh-LA-nee
+          UTTABERRY                OOT-uh-bear-ee
+          ZYDROLIAN                ZIE-droe-lee-uhn
+
+          DEEP SPACE: "Armageddon Game" - 11/08/93 - TEASER          1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "Armageddon Game"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - T'LANI MUNITIONS CRUISER (OPTICAL)
+
+	The Runabout Ganges and a much larger T'Lani Munitions Ship 
+	are in synchronous orbit around a small planet, T'Lani Three.
+
+					BASHIR (V.O.)
+			Chief Medical Officer's log, Stardate 
+			47529.4.  For the past week Chief 
+			O'Brien and I have been helping 
+			scientists from the Kellerun and 
+			T'Lani races find a way to eliminate 
+			their stockpile of Harvesters... a 
+			deadly biomechanical gene disrupter 
+			used by both sides in their centuries-
+			long war...
+
+2    INT. T'LANI MUNITIONS CRUISER - LAB
+
+	BASHIR hovers over a TRANSPARENT HALF-DOME filled with a 
+	pale green liquid -- a genetic bath.  He's surrounded by a 
+	joint team of T'Lani and Kellerun scientists.  (In looks 
+	only, the T'Lani should be to the Kelleruns like the Vulcans 
+	are to the Klingons... the T'Lani look like the more peaceful 
+	race.)  A T'Lani scientist named NYDROM is among the group; 
+	he wears the loose-fitting, colorful garb common to all the 
+	T'Lani we will see.
+
+	In another part of the room, O'BRIEN sits working at a 
+	monitor.  He pauses to sip from a MUG OF COFFEE, which he 
+	sets down next to him.  O'Brien, Bashir and the others appear 
+	to have been working around the clock for the past week.  
+	Everyone seems tired but determined.  (NOTE:  A transporter 
+	pad and panel should inconspicuously be part of this lab.)
+
+					BASHIR
+			Doctor Nydrom, how's our muon charge?
+
+	Nydrom moves to a circuit control station, which is off to 
+	the side of the room.  He checks the readings.
+
+					NYDROM
+			Coming up to full power.
+
+          DEEP SPACE: "Armageddon Game" - 11/08/93 - TEASER          2.
+
+2    CONTINUED:
+
+	Bashir then nods to an N.D. Kellerun scientist.  The 
+	scientist picks up a glass canister of Harvesters -- a DAY-
+	GLO ORANGE GEL.  The scientist carefully fastens the canister 
+	onto the top of the domed genetic bath.
+
+					BASHIR
+				(to computer)
+			Computer... this is Harvester test 
+			sequence three hundred and seventy-
+			five.
+
+					NYDROM
+				(still at control 
+				station)
+			Muon generator now at full power.
+
+	Bashir looks down at the genetic bath control panel, stares 
+	at it along with the other scientists.  O'Brien turns toward 
+	them in his chair, aware of how important the next few moments 
+	will be.
+
+					BASHIR
+				(wearily)
+			Once more into the breech... I hope 
+			this works, because frankly I'm 
+			running out of ideas.
+
+					NYDROM
+			It took ten years to perfect the 
+			Harvesters.  We've only been trying 
+			to eliminate them for a week.
+
+					BASHIR
+			Is that all it's been?  It feels 
+			like we've been working nonstop for 
+			a month.  I've never seen a nano-
+			biogenic weapon so resistant to broad 
+			spectrum radiation...
+
+          DEEP SPACE: "Armageddon Game" - 11/08/93 - TEASER          3.
+
+2    CONTINUED:	(2)
+
+					BASHIR
+				(eyeing muon bath; 
+				thinking  out loud)
+			It's all a matter of finding the 
+			right combination of muon 
+			frequencies...
+				(beat; to Nydrom)
+			It should be simple... but it's 
+			not...
+
+					O'BRIEN
+				(letting out some 
+				tension)
+			Doctor, start the sequence... or 
+			we will be here a month.
+
+					BASHIR
+			Right, Chief.
+				(announcing)
+			I'm introducing the Harvesters into 
+			the genetic bath...
+
+3    CLOSE ON GENETIC BATH
+
+	The orange Harvester canister is lowered into the bath.
+
+					BASHIR (V.O.)
+			Beginning muon influx now...
+
+	BLUE MUON RAYS begin crackling throughout the genetic bath... 
+	after a long beat, the canister rises back up.  The gel inside 
+	has been changed from a fiery orange to a placid green.
+
+4    RESUME SCENE
+
+	Bashir and the others are quietly stunned.
+
+					BASHIR
+				(softly; to Nydrom)
+			Doctor, would you please check for 
+			any gene-disrupter phasing...
+
+	Nydrom moves back to the circuit control station, checks the 
+	readings.
+
+					NYDROM
+			The genetic integrity of the sample 
+			is holding steady.  I'm not reading 
+			any genetic disruption at all.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - TEASER        4.
+
+
+4    CONTINUED:
+
+					BASHIR
+				(quietly hopeful)
+			Are you sure?  Run the sequence 
+			again...
+
+					NYDROM
+				(works panel; rechecks 
+				readings)
+			The results are identical...
+
+					O'BRIEN
+				(wondering)
+			What?  Did it work?
+				(beat)
+			Somebody say something... !
+
+					BASHIR
+				(grinning)
+			It worked all right...
+
+					NYDROM
+				(victorious smile)
+			The Harvesters have been destroyed.
+
+	A beat.  Smiles all around, weariness giving way to triumph.  
+	Nydrom slaps Bashir on the back; the Kellerun and T'Lani 
+	scientists congratulate each other.  Bashir turns to O'Brien, 
+	who gives him a "well-done" smile.
+
+	Amidst the celebration, the Kellerun Ambassador, SHARAT, 
+	ENTERS the room.  An elderly wisp of a man with long black 
+	hair, he calmly observes the others.
+
+					SHARAT
+			Good news, I take it...
+
+					NYDROM
+				(a bit formally)
+			Ambassador Sharat.  I'm pleased to 
+			inform you that we've found a way to 
+			eliminate the Harvesters...
+
+	Sharat smiles, begins shaking hands with all the scientists, 
+	Kelleruns and T'Lani alike...
+
+					SHARAT
+			Excellent.  Well done.  I knew if 
+			our people stopped killing each other 
+			and worked together, we'd put an end 
+			to these horrible weapons... this is 
+			a symbol of the new future we have 
+			embarked upon...
+
+DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - TEASER       4A.
+
+4    CONTINUED:	(2)
+
+					NYDROM
+			Yes.  And let's not forget, we never 
+			could have done this without the 
+			help of our friends from the 
+			Federation...
+
+					SHARAT
+				(to Bashir and O'Brien)
+			At first we had questioned Doctor 
+			Nydrom's decision to bring in outside 
+			help.  But obviously it was the right 
+			thing to do.  We're all grateful for 
+			your assistance.
+
+					BASHIR
+				(modestly)
+			It was our pleasure, I assure you.
+
+          DEEP SPACE: "Armageddon Game" - 11/08/93 - TEASER          5.
+
+4    CONTINUED:	(3)
+
+					SHARAT
+				(to Nydrom)
+			But eliminating the Harvesters is 
+			only half the task.  We must make 
+			certain that all scientific data 
+			concerning them is wiped out as well.
+
+	Nydrom and Bashir look to O'Brien...
+
+					O'BRIEN
+				(confirming)
+			I've purged every file in the T'Lani 
+			and Kellerun data banks pertaining 
+			to the Harvesters.  If anyone gets 
+			it in their head to build these things 
+			again, they'll have to start from 
+			scratch.
+
+					NYDROM
+			Then it's finished.
+
+					SHARAT
+			Not quite...
+
+	He turns and faces a wall behind them... and for the first 
+	time we reveal the full Harvester STOCKPILE: it's an entire 
+	wall LINED WITH CANISTERS, each filled with the bright orange 
+	Harvester gel.
+
+					SHARAT
+				(continuing)
+			We shouldn't rest until the entire 
+			Kellerun and T'Lani supply of 
+			Harvesters has been destroyed...
+
+	Everyone eyes the stockpile with an ominous respect...
+
+					BASHIR
+			We'll begin immediately.
+
+	Pull into the stockpile, death in every drop...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+    DEEP SPACE: "Armageddon Game" - REV. 11/12/93 - ACT ONE 6-7A.      
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+5    EXT. SPACE - DEEP SPACE NINE - ESTABLISHING
+
+	(OPTICAL)
+
+6    OMITTED
+
+
+7    INT. COMMANDER'S OFFICE
+
+	SISKO works on a PADD.
+
+					KIRA'S COM VOICE
+			Commander, I have Doctor Bashir for 
+			you on subspace.
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT ONE          8.
+
+					SISKO
+			In here.
+
+8    TIGHT ON SISKO'S MONITOR (OPTICAL)
+
+	Bashir and O'Brien APPEAR, speaking to Sisko from the T'Lani 
+	Munitions Ship Science Lab.
+
+					BASHIR
+			Commander, we have some good news to 
+			report...
+
+									INTERCUT:
+
+9    SISKO WITH MONITOR (OPTICAL)
+
+					SISKO
+				(with a smile)
+			I've already heard.
+
+					BASHIR
+				(mildly disappointed)
+			You have?
+
+					SISKO
+			I received a message from both the 
+			T'Lani and Kellerun ambassadors, 
+			informing me of your success in 
+			neutralizing the Harvesters.  
+			Congratulations, gentlemen.
+
+					O'BRIEN
+			Thank you, sir.  The Doctor here 
+			deserves the bulk of the credit.
+
+					BASHIR
+			Actually, it was a team effort...
+
+					O'BRIEN
+			The Doctor's just being modest.  He 
+			was the one who came up with muon 
+			rays as a possible solution.
+
+					BASHIR
+				(shrugging)
+			Luckily, it worked.
+
+					SISKO
+			When can we expect you back?
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT ONE          9.
+
+9    CONTINUED:
+
+					O'BRIEN
+			Soon, I hope.
+
+					SISKO
+			The ambassadors said something about 
+			a celebration on T'Lani Prime...
+
+					BASHIR
+			Yes... it's planned for tonight.  
+			But the Chief is anxious to return 
+			to the station.
+
+					O'BRIEN
+				(to Sisko; re: having 
+				been with Bashir)
+			It's been a long week.
+
+					SISKO
+			Still -- I think we can spare you 
+			for another day...
+
+					BASHIR
+				(brightens)
+			I agree... if that's okay with you, 
+			Chief.
+
+					O'BRIEN
+				(not thrilled)
+			I suppose another day won't kill 
+			me...
+
+					BASHIR
+			That's the spirit.
+
+					SISKO
+			Then we'll expect you back the day 
+			after tomorrow.
+				(more for the Chief's 
+				benefit)
+			Enjoy yourselves.  You've earned it.
+
+	Bashir's smiling... O'Brien manages a halfhearted grin... 
+	they disappear from the monitor.  End intercut.  HOLD on 
+	Sisko, both pleased and amused by the conversation...
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT ONE      10.
+
+10   EXT. SPACE - T'LANI MUNITIONS CRUISER AND
+	THE RUNABOUT GANGES (OPTICAL)
+
+	Re-establishing, both craft still in orbit around T'Lani 
+	Three.
+
+11   INT. T'LANI MUNITIONS CRUISER - LAB
+
+	Almost ceremoniously, Nydrom removes the final Harvester 
+	canister from the now emptied stockpile.  He brings it over 
+	to the genetic bath and holds it out for Bashir.  (The 
+	T'Lani and Kellerun scientists from before are present.  
+	O'Brien is off to the side, watching from the circuit 
+	control station.)
+
+					NYDROM
+			The last cylinder... I believe you 
+			should have the honor, Doctor.
+
+	Bashir carefully takes the cylinder from Nydrom.
+
+					BASHIR
+			My pleasure.
+
+					NYDROM
+				(to Bashir)
+			It's ironic that the war would finally 
+			come to an end up here, above T'Lani 
+			Three... a planet whose entire 
+			population was decimated by the 
+			Harvesters...
+				(beat)
+			I hope this will be a lasting peace.
+
+	Bashir nods in agreement, then fastens the Harvester canister 
+	on top of the dome.  The canister is entirely immersed into 
+	the genetic bath... the light effect begins...
+
+12   NEW SHOT
+
+	of the entrance to the Lab.  TWO KELLERUN SOLDIERS, armed 
+	with PHASER RIFLES, ENTER through the doorway.  Their weapons 
+	are pointed at the scientists.
+
+13   ANGLE ON BASHIR AND NYDROM (OPTICAL)
+
+	both surprised by the intruders.  Nydrom steps forward.
+
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT ONE      11.
+
+13   CONTINUED:
+
+					NYDROM
+			What is this?  You know weapons aren't 
+			allowed in here...
+
+	The lead Kellerun soldier SHOOTS him dead.  They bring their 
+	weapons to bear on the rest of the scientists...
+
+13A  TIGHT ON THE TWO KELLERUN SOLDIERS (OPTICAL)
+
+	as they OPEN FIRE directly into the camera.
+
+13BA   ANGLE - O'BRIEN					13BA
+
+	As he ducks behind the circuit control station.
+
+13B  ANGLE - BASHIR
+
+	as he dives for cover behind a table.  Three of the scientists 
+	are already down...
+
+13C  ANGLE - SOLDIER ONE
+
+	as he advances on Bashir, who crouches helpless before him.
+
+14   ANGLE - O'BRIEN
+
+	as he springs into action, leaping at Soldier One as he aims 
+	his rifle at Bashir.  O'Brien grabs hold of the soldier's 
+	phaser rifle and butts him in the head, gaining control of 
+	the weapon.
+
+15   WIDER ANGLE (OPTICAL)
+
+	Soldier Two has FINISHED OFF the remaining scientists, then 
+	FIRES at O'Brien, who ducks behind the genetic bath...
+
+16   BASHIR (OPTICAL)
+
+	Seeing Soldier Two advance on O'Brien, charges him from 
+	behind.  He grasps the soldier's arms... The soldier's phaser 
+	rifle GOES OFF, EXPLODING the genetic bath and the Harvester 
+	canister still in it...
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT ONE     11A.
+
+17   ON O'BRIEN
+
+
+	ducked down behind the genetic bath, now ducking further, 
+	covering his head with his arm to protect himself from the 
+	flying glass...
+
+18   CLOSE ON O'BRIEN'S ARM
+
+	still protectively over his head... a small blotch of muddy 
+	orange gel hits him on the forearm... 
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT ONE      12.
+
+19   ANGLE ON BASHIR AND SOLDIER TWO
+
+	Bashir swings the soldier around and punches him in the face, 
+	dropping him unconscious to the ground.
+
+20   BASHIR
+
+	picks up the phaser rifle and moves to the scientists.  He 
+	takes out his tricorder, begins taking readings from the 
+	inert bodies...
+
+					BASHIR
+			They're all dead...
+
+	O'Brien rushes to the door, presses a wall panel to CLOSE 
+	the door, then smashes the panel with the butt of his rifle.  
+	We hear an ELECTRONIC FRITZ, signaling the door mechanism 
+	has been disabled.
+
+					O'BRIEN
+			We will be, too, if we don't get out 
+			of here...
+				(hits combadge)
+			O'Brien to Ganges.  Computer, activate 
+			remote transporter sequence.
+
+	Nothing happens.
+
+					O'BRIEN
+				(hits combadge again)
+			O'Brien to Ganges...
+
+	No response.  O'Brien and Bashir share a concerned look.
+
+					BASHIR
+			They must be jamming communications 
+			with the runabout...
+
+	We hear MORE KELLERUN SOLDIERS as they start BANGING ON THE 
+	DOOR from the other side.
+
+					O'BRIEN
+			Well, we sure as hell can't stay 
+			here.
+				(sees transporter pad)
+			We'll have to beam down to the 
+			surface...
+
+	He crosses to the transporter panel and begins activating 
+	it.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT ONE      13.
+
+20   CONTINUED:
+
+					BASHIR
+			But they'll be able to follow us...
+
+					O'BRIEN
+				(still working)
+			I'm programming the system to overload 
+			thirty seconds after we transport...
+				(finishes; grabs Bashir)
+			Let's go...
+
+	Both of them step onto the pad, carrying their phaser rifles.  
+	They DEMATERIALIZE as the BANGING on the door continues...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      14.
+                            ACT TWO                             
+
+	FADE IN:
+
+21   INT. QUARK'S - SECOND LEVEL
+
+	Sisko sits at a table, ordering from a Ferengi waiter.
+
+					SISKO
+			I'll have a cup of Alterian chowder... 
+			uttaberry crepes... and a slice of...
+
+					KIRA'S COM VOICE
+				(interrupting)
+			Kira to Sisko.
+
+					SISKO
+			Go ahead, Major.
+
+					KIRA'S COM VOICE
+			The T'Lani and Kellerun ambassadors 
+			have just arrived on the station.  
+			They're asking to see you.
+
+					SISKO
+			Are O'Brien and Bashir with them?
+
+					KIRA'S COM VOICE
+			No, Commander.  And the ambassadors 
+			refuse to speak to anyone but you.
+
+					SISKO
+			Show them to my office.  I'll be 
+			right there.
+				(to waiter)
+			I'll have to cancel that order.
+
+	He EXITS Quark's...
+
+22   INT. COMMANDER'S OFFICE
+
+	Sharat and his T'Lani counterpart, AMBASSADOR E'TYSHRA, a 
+	woman, have just revealed the purpose of their visit to a 
+	stunned Sisko.
+
+					SISKO
+			Are you saying both of my officers 
+			are dead?
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT TWO         15.
+
+22   CONTINUED:
+
+					E'TYSHRA
+				(nods sadly; speaks 
+				for both Sharat and 
+				herself)
+			Along with some of our greatest 
+			scientists.
+
+					SHARAT
+			We're sorry you have to share in our 
+			misfortune.
+
+					SISKO
+			What happened?
+
+					E'TYSHRA
+			It was...
+
+	She can't find the words to describe... Sharat finishes the 
+	sentence for her.
+
+					SHARAT
+			... a terrible accident.  It appears 
+			one of your officers -- Chief O'Brien, 
+			I believe -- inadvertently tripped a 
+			security device.  A lethal pulse of 
+			radiation flooded the room, killing 
+			everyone...
+
+					E'TYSHRA
+			Ambassador Sharat transported off 
+			the ship only minutes before the 
+			accident occurred.
+
+					SISKO
+				(wanting more 
+				information)
+			This security device...
+
+					E'TYSHRA
+			It was built into the lab's computers 
+			decades ago... we didn't even know 
+			it existed.
+
+					SISKO
+				(trying to make sense 
+				of it)
+			If there were no survivors, how do 
+			you know Chief O'Brien caused the 
+			accident?
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT TWO        15A.
+
+22   CONTINUED:	(2)
+
+					SHARAT
+			I was able to return to the ship 
+			almost immediately after the accident.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      16.
+
+22   CONTINUED:	(3)
+
+					SHARAT (Cont'd)
+			The first thing I did was to check 
+			the internal security sensors.  They 
+			recorded the entire incident.
+				(hands Sisko a data 
+				clip)
+			We assumed you'd want to see for 
+			yourself.
+
+					SISKO
+				(taking clip)
+			Thank you.
+
+	An awkward beat of silence.
+
+					E'TYSHRA
+			Commander, I just want you to know 
+			we don't blame Chief O'Brien for 
+			what happened...
+
+					SHARAT
+			On the contrary, both he and Doctor 
+			Bashir will always be considered 
+			heroes to both the T'Lani and the 
+			Kelleruns.  Without their help, we 
+			would never have destroyed the 
+			Harvesters.
+
+					E'TYSHRA
+			Please extend our sympathies to their 
+			families.
+
+					SISKO
+				(sad but resigned)
+			I'll do that.
+
+	The T'Lani and Kellerun ambassadors solemnly rise, nod and 
+	EXIT.  Sisko ponders the data clip in his hand...
+
+23   EXT. T'LANI THREE - DAY - A CITY (MATTE SHOT)
+
+	A bombed-out husk of a city.  Dimly lit.  Totally deserted.
+
+24   INT. MILITARY COMMAND CENTER - DAY
+
+	Bashir manually forces the door open, ENTERS.  He looks around 
+	the dusty but well-stocked room... smiles... he's hit 
+	paydirt...
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT TWO         17.
+
+24   CONTINUED:
+
+					BASHIR
+				(calls out door)
+			Chief!  Chief, in here!
+
+	Bashir's about to open one of the crates, when O'Brien ENTERS 
+	and pulls him up by the shoulder...
+
+					O'BRIEN
+			Wait.  Don't touch anything...
+
+					BASHIR
+				(confused)
+			Why not?  There's food, medical 
+			supplies...
+
+					O'BRIEN
+			They could be booby-trapped.  The 
+			Cardassians used to rig the supplies 
+			they left behind with pressure 
+			grenades.  I've seen more than one 
+			soldier permanently lose his appetite 
+			that way...
+
+	Bashir looks at his cache of found "treasure" in a new light.  
+	O'Brien scans the room with his tricorder.
+
+					BASHIR
+			Find anything?
+
+					O'BRIEN
+				(still scanning)
+			It looks all right...
+
+	O'Brien scans a moment longer, then closes his tricorder.
+
+					BASHIR
+			Good.
+
+	Bashir opens the crate, pulls out a packet of T'Lani field 
+	rations.
+
+					BASHIR
+			At least we won't starve...
+
+	He tosses the packet to O'Brien, who eyes it with distaste.
+
+					BASHIR
+			What's the matter, Chief?  I thought 
+			you loved military rations...
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      18.
+
+24   CONTINUED:	(2)
+
+					O'BRIEN
+			Federation rations.  I've had enough 
+			T'Lani food this past week to last 
+			me a lifetime...
+
+					BASHIR
+			Still, you want to keep your strength 
+			up.  We're going to have to find 
+			some way to warn the T'Lani's that 
+			the Kelleruns have broken the 
+			treaty...
+
+	O'Brien has begun his own survey of the room, looking in 
+	corners, checking the contents of crates, eyeing a dusty 
+	work station...
+
+					O'BRIEN
+				(thinking out loud)
+			I still can't figure it -- why would 
+			the Kelleruns wait until the 
+			Harvesters were destroyed before 
+			they made their move?
+
+					BASHIR
+			Maybe they didn't turn over all of 
+			their Harvesters for destruction...
+
+					O'BRIEN
+			Or maybe they're convinced they can 
+			defeat the T'Lani with conventional 
+			weapons.
+
+					BASHIR
+			Whatever the reason, we need to get 
+			moving.
+
+					O'BRIEN
+			Listen to me, Julian... the Kelleruns 
+			are going to expect us to be on the 
+			move... we start running and their 
+			sensors will pick us up before we've 
+			gone a kilometer.  If we stay still... 
+			maybe, just maybe it will take them 
+			longer to find us...
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      19.
+
+24   CONTINUED:	(3)
+
+					O'BRIEN
+			The way I see it, we have only one 
+			chance to survive this thing... that's 
+			to stay alive long enough for 
+			Commander Sisko to find us.
+
+					BASHIR
+			But that won't be for at least another 
+			day... he thinks we're celebrating 
+			on T'Lani Prime...
+
+	O'Brien shoots him a "That's your fault, pal... " look.
+
+					O'BRIEN
+			I said it was our only chance, I 
+			didn't say it was a good one.
+
+	O'Brien comes to a small console next to which, built into 
+	the wall, is a companel.  The monitor facing has a crack in 
+	it, the panel's smudged, the readouts are unlit... all in 
+	all, it looks like it's been through a war.
+
+					O'BRIEN
+			What do we have here?
+				(wipes grime off panel)
+			Some kind of com system... maybe we 
+			can contact the T'Lani from here...
+
+					BASHIR
+				(joining him)
+			You think you can get it working?
+
+					O'BRIEN
+			I'll have to open it up... see if 
+			there's a backup power supply...
+
+	O'Brien finds Bashir almost breathing down his neck, curious 
+	about the communications system...
+
+					O'BRIEN
+			Why don't you have a seat, Doctor?
+
+					BASHIR
+			I thought maybe I could help... I 
+			took the engineering extension courses 
+			at Starfleet Medical...
+
+					O'BRIEN
+			Extension courses... ?
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO     19A.
+
+24   CONTINUED:	(4)
+
+					BASHIR
+			They were actually quite 
+			informative...
+
+					O'BRIEN
+				(enough already)
+			Julian...
+
+					BASHIR
+			Hmmm?
+
+					O'BRIEN
+			You really want to help?
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      20.
+
+24   CONTINUED:	(5)
+
+					BASHIR
+			Yes.
+
+					O'BRIEN
+			Then let me do my job.
+
+					BASHIR
+				(a little disappointed)
+			Of course.
+				(looks around)
+			I'll inventory the supplies.
+
+					O'BRIEN
+				(already starting to 
+				work)
+			Fine... you do that...
+
+	Bashir nods, heads for a small section of crates...
+
+25   INT. COMMANDER'S OFFICE
+
+	Sisko, Dax, ODO and Kira watch the visual record from the 
+	T'Lani Munitions Cruiser on the monitor.
+
+26   ON THE MONITOR (OPTICAL)
+
+	In the Lab, Nydrom brings the final Harvester cannister over 
+	to Bashir, who stands at the genetic bath with the other 
+	scientists (just like in Act One.) O'Brien, however, is not 
+	standing at the circuit control panel.  He now sits working 
+	at the monitor he was working at in the Teaser.  The MUG OF 
+	COFFEE is in its same place next to him.  (NOTE:  The security-
+	sensor record is a single WIDE MASTER, supered with T'Lani 
+	TIME INDEX.)
+
+					NYDROM (ON SCREEN)
+				(to Bashir)
+			The last cylinder... I believe you 
+			should have the honor, Doctor.
+
+	Bashir carefully takes the cylinder from Nydrom.
+
+					BASHIR (ON SCREEN)
+			My pleasure.
+
+	He fastens the Harvester cannister on top of the dome.  The 
+	Harvester orange gel is pumped into the genetic bath.  As in 
+	the Teaser, BLUE MUON RAYS begin crackling around the orange 
+	gel... they gradually restore the dome's contents to its 
+	original green color...
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      21.
+
+26   CONTINUED:
+
+					NYDROM
+				(as before, a 
+				pronouncement)
+			The Harvesters have been destroyed.
+
+	The room erupts in CHEERS, weariness giving way to triumph.  
+	Nydrom now turns to look at O'Brien, still at his monitor.
+
+					NYDROM
+			We must make certain that all records 
+			of their existence are wiped out.
+
+					O'BRIEN (ON SCREEN)
+				(confirming)
+			I've purged every file in the T'Lani 
+			and Kellerun data banks pertaining 
+			to the Harvesters.  If anyone gets 
+			it in their head to build these things 
+			again, they'll have to start from 
+			scratch.
+
+					NYDROM
+			Then it's finished.
+
+	O'Brien nods, picks up his mug of coffee and sips from it, 
+	then sets the mug back down.  He continues working at the 
+	monitor, finishing up, when he notices something odd...
+
+					O'BRIEN
+			Hold on... what's this?
+
+	An ALARM sounds.
+
+					BASHIR
+			Chief... ?
+
+					O'BRIEN
+			I don't know.  Closing the last file 
+			seems to have activated some sort of 
+			security program...
+				(starts working the 
+				panel)
+			It looks like it's part of the 
+			original operating system... I can't 
+			shut it down.
+				(as Nydrom comes over)
+			You know anything about this?
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      22.
+
+26   CONTINUED:	(2)
+
+					NYDROM
+				(eyeing monitor)
+			No... maybe you should try cutting 
+			the power...
+
+					O'BRIEN
+				(working at panel)
+			It's not responding...
+
+	Suddenly, the screen WHITES OUT.  The T'LANI TIME INDEX keeps 
+	running in the corner...
+
+27   RESUME SISKO AND THE OTHERS
+
+	An uncomfortable quiet as the senior staff stares at the 
+	monitor, mourning their loss.  Finally:
+
+					ODO
+			I've heard of security weapons like 
+			this.  A radiation pulse that 
+			vaporizes any intruder who doesn't 
+			enter the proper code.
+
+					KIRA
+			I'm surprised the Chief didn't detect 
+			it.
+
+					DAX
+			It must've been buried very deep in 
+			the system.
+
+					KIRA
+				(with some bitterness)
+			I'd like to talk to the head of 
+			security for that ship...
+
+					ODO
+			So would I.
+
+					SISKO
+			Remember, they lost people, too.
+
+					KIRA
+			But the T'Lani were responsible for 
+			O'Brien's and Bashir's safety... 
+			they should have known about that 
+			device and deactivated it...
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      23.
+
+27   CONTINUED:
+
+					SISKO
+				(quietly solemn)
+			That'll do, Major.
+				(knowing there's 
+				nothing to do but go 
+				on)
+			Major, I'd like you to get in touch 
+			with Bajoran medical officials.  
+			We'll need a doctor to be temporarily 
+			assigned to the station... until 
+			Starfleet can send us a replacement 
+			for Doctor Bashir...
+
+	Kira nods, torn but accepting.
+
+					SISKO
+				(continuing)
+			Dax, inform Starfleet about the 
+			accident... tell them we'll need a 
+			new medical officer and a new chief 
+			of operations.
+
+					DAX
+			Would you like me to go with you to 
+			see Mrs. O'Brien?
+
+					SISKO
+			No, I'll take care of it.  Find out 
+			how I can get in contact with Julian's 
+			family...
+				(beat)
+			Major, inform the crew we'll be 
+			holding a memorial service tomorrow 
+			evening at eighteen hundred hours.
+
+					KIRA
+			Yes, sir.
+
+					SISKO
+			All right, people.  I know the next 
+			few days are going to be hard.  But 
+			we all have jobs to do.
+
+	The others slowly leave.  Sisko watches after them, sharing 
+	their loss...
+
+28   INT. MILITARY COMMAND CENTER - DAY
+
+	O'Brien has taken the cover off the companel and is working 
+	on its insides, using some makeshift tools he's found.  By 
+	the look on his face, he's not having much success.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      24.
+
+28   CONTINUED:
+
+	He pauses, seems to be a little weary, then sighs and 
+	resumes his work.
+
+	Bashir holds the phaser rifle, stationed by the entrance to 
+	the center...
+
+					BASHIR
+			So... having any luck?
+
+					O'BRIEN
+				(pauses again; getting 
+				frustrated)
+			I wish you'd stop asking me that...
+
+					BASHIR
+			I'm sorry, it's just... all this 
+			standing around... at least you're 
+			doing something constructive...
+
+					O'BRIEN
+			Just keep your eyes open for any 
+			Kellerun soldiers...
+
+					BASHIR
+			Don't worry, I will.
+
+	O'Brien wipes the sweat off his forehead with the back of 
+	his hand, then surmises the problem he's having inside the 
+	companel...
+
+					O'BRIEN
+			It's a real mess in here...
+
+					BASHIR
+			You'll get it working, Chief.  This 
+			is the kind of challenge you live 
+			for...
+
+	O'Brien rolls his eyes, continues working.  A beat.
+
+					BASHIR
+				(musing out loud)
+			You know, I was really looking forward 
+			to that celebration on T'Lani Prime... 
+			I don't know if you've noticed, but 
+			the T'Lani women are quite 
+			attractive...
+
+					O'BRIEN
+			I'm not blind, Julian.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO      25.
+
+28   CONTINUED:	(2)
+
+					BASHIR
+			Of course not.
+				(wry smile)
+			But you are married.
+
+					O'BRIEN
+			Just because you're married doesn't 
+			mean you stop looking at women.
+
+					BASHIR
+			As long as you don't let your wife 
+			see you look.
+				(beat)
+			For me, tonight's celebration would 
+			have been an adventure.  The most 
+			you could have hoped for was... a 
+			good meal.
+
+					O'BRIEN
+			Women.  That's all you ever think 
+			about...
+
+					BASHIR
+			No, it isn't...
+				(beat)
+			Though I do think about them a lot.
+
+					O'BRIEN
+			Just wait until you fall in love 
+			with one.
+
+					BASHIR
+			I did once.
+
+					O'BRIEN
+			Didn't work out?
+
+					O'BRIEN
+			Close.  Not quite.  I don't know.  
+			Somehow marriage doesn't seem fair...
+
+					O'BRIEN
+			Fair?
+
+					BASHIR
+			Fair to them.  I mean look at us... 
+			Our lives are constantly in danger.  
+			There's enough to worry about without 
+			worrying about the wife and kids 
+			back home worrying about us.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO     25A.
+
+26   CONTINUED:	(3)
+
+					BASHIR (Cont'd)
+				(off O'Brien's reaction)
+			Sorry, Chief.  That's the way I feel.  
+			It's the way a lot of career officers 
+			feel.
+
+					O'BRIEN
+			Well, all of you "career officers" 
+			have no idea what you're missing.
+
+					BASHIR
+				(smiles)
+			Really?  Well, maybe so.  But I look 
+			at you and Mrs. O'Brien and I...
+
+	He stops himself.
+
+					O'BRIEN
+				(tempter stirring)
+			What about "me and Mrs. O'Brien?"
+
+					BASHIR
+			Nothing.
+
+					O'BRIEN
+			What?
+
+					BASHIR
+			Nothing.  Absolutely nothing.
+				(finally, off O'Brien's 
+				look)
+			It's no secret that being assigned 
+			to the station hasn't been conducive 
+			to your marriage.
+
+					O'BRIEN
+				(really looks at him)
+			Say that again?
+
+					BASHIR
+			Let's just forget the whole thing.
+
+					O'BRIEN
+				(beat)
+			That's the first intelligent thing 
+			you've said since we got here...
+
+	Rather offhandedly, O'Brien reaches over for a folded-up 
+	tarp and swings it around his shoulders.  Yet he's still 
+	sweating.  Bashir watches him a beat.
+
+       DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT TWO     25B.
+
+26   CONTINUED:	(4)
+
+					BASHIR
+			Are you cold?
+
+					O'BRIEN
+				(working)
+			Aren't you?
+
+					BASHIR
+			No.  In fact, it's quite warm in 
+			here...
+
+	Curious now, Bashir moves to O'Brien, studies him.
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT TWO         26.
+
+26   CONTINUED:	(5)
+
+					BASHIR
+			You're looking a little pale...
+
+					O'BRIEN
+			I'm fine...
+
+	O'Brien shivers suddenly.  Bashir takes out his medical 
+	tricorder, scans O'Brien.
+
+					BASHIR
+			Your blood pressure's low... and 
+			you're running a fever... you better 
+			sit down.
+
+					O'BRIEN
+			I don't feel like sitting down.  
+			I've got work to do...
+
+	Bashir, continuing to scan O'Brien, stops and holds the 
+	tricorder in the vicinity of O'Brien's forearm.
+
+					BASHIR
+				(with concern)
+			Roll up your sleeve.
+
+					O'BRIEN
+			Why?
+
+					BASHIR
+			Just do it.
+
+	O'Brien begins to roll up his sleeve...
+
+29   INSERT - O'BRIEN'S FOREARM
+
+	as the sleeve is rolled up, revealing a small, dark splotch 
+	on his forearm...
+
+30   BACK TO SCENE
+
+	Bashir uses his tricorder on the splotch, looks up at O'Brien 
+	with even more concern.
+
+					BASHIR
+			You were behind the genetic bath 
+			when it shattered, weren't you...
+
+					O'BRIEN
+				(reacting to Bashir's 
+				serious expression)
+			If you've got something to tell me, 
+			Doctor...
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT TWO         27.
+
+30   CONTINUED:
+
+					BASHIR
+				(beat)
+			You've been infected by the 
+			Harvesters...
+
+	Off O'Brien's sweat-stained, quietly shocked look...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT THREE        28.
+                           ACT THREE                            
+
+	FADE IN:
+
+31   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+32   INT. O'BRIEN'S QUARTERS
+
+	KEIKO is seated, working on a botany experiment.  She nudges 
+	tiny plants into a container of soil with a long-handled 
+	tool.  The door CHIMES.
+
+					KEIKO
+			Come in.
+
+	The door opens and Sisko ENTERS.  Keiko's a little surprised.
+
+					KEIKO
+			Commander Sisko...
+
+					SISKO
+			Keiko.
+
+	She stands to greet him, but is slowed by the look on his 
+	face.  It's the moment every soldier's wife dreads...
+
+					KEIKO
+			Something's happened to Miles...
+
+					SISKO
+				(gently)
+			There was an accident...
+
+	Off Keiko's look of concern...
+
+					SISKO
+			Both your husband and Doctor Bashir 
+			were involved...
+
+	A beat.  Keiko doesn't have to be told what's coming.
+
+					KEIKO
+			They're dead...
+
+					SISKO
+				(confirming)
+			I'm sorry.
+
+	Keiko holds onto her composure.
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT THREE        29.
+
+32   CONTINUED:
+
+					KEIKO
+			Tell me what happened.
+
+					SISKO
+			The T'Lani security sensors recorded 
+			the entire incident.
+
+					KEIKO
+				(steeling herself)
+			I want to see it.
+
+					SISKO
+			I'll have it sent to you.
+				(beat)
+			Miles was a fine officer and a fine 
+			man.  I'll miss him.
+
+					KEIKO
+				(nods)
+			Thank you, Commander.  I'd like to 
+			be alone now.
+
+					SISKO
+				(with simple sincerity)
+			If there's anything you need, just 
+			let me know.
+
+	He EXITS.  She stands there a moment, staring blankly off 
+	into space, then turns and sits back down at her botany 
+	experiment.  She picks up the tool, works the soil aimlessly 
+	for a beat.  Then she slowly lowers her head... (NOTE:  We 
+	cut away before she starts to cry.)
+
+32A  INT. MILITARY COMMAND CENTER
+
+	A pale, sweating, frustrated O'Brien is still struggling 
+	with the companel.  A concerned Bashir watches him from his 
+	position at the door.  O'Brien suddenly winces, drops a tool, 
+	shakes his hurt finger...
+
+					O'BRIEN
+			Damn T'Lani circuitry...
+				(sucks hurt finger)
+			The way they have everything packed 
+			in here...
+
+					BASHIR
+				(comes over, re: finger)
+			Let me take a look at that...
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT THREE        30.
+
+32A  CONTINUED:
+
+					O'BRIEN
+				(gruffly)
+			I'm fine, Doctor... go back to your 
+			post...
+
+	Bashir goes back to the door.  O'Brien peers up into the 
+	companel, at the problem that's annoying him...
+
+					BASHIR
+				(beat)
+			Look, Chief... about you and Mrs. 
+			O'Brien... I didn't mean to imply...
+
+					O'BRIEN
+				(cutting him off)
+			I'm trying to work here, Doctor...
+
+	He shakes his head a little, as if trying to clear the 
+	cobwebs.
+
+					BASHIR
+			Maybe you should rest a bit...
+
+					O'BRIEN
+				(annoyed)
+			I'm fine.  Just give me another one 
+			of those anabolic supplements.
+
+	Bashir eyes him a beat, then goes to a T'Lani medical supply 
+	kit, takes out a T'Lani hypospray.  He administers it to 
+	O'Brien's arm.
+
+					O'BRIEN
+				(exaggerating)
+			Ahhh, that's better.
+
+	O'Brien picks up the tool, resumes working.  A beat, then he 
+	has to stop.  He wipes his brow, rubs his eyes.  Staring 
+	into the companel, he squints slightly.  With renewed 
+	determination, he starts working again... pauses... squints 
+	harder at the companel.
+
+					BASHIR
+			Chief... ?
+
+					O'BRIEN
+				(hates to admit it)
+			It's my eyes... getting a little 
+			fuzzy...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE    30A.
+
+32A CONTINUED:	(2)
+
+					BASHIR
+				(softly)
+			You better sit down.  I'll take over 
+			here.
+
+					O'BRIEN
+			What makes you think you can fix 
+			this thing?
+
+					BASHIR
+			Because you're going to talk me 
+			through it.  Now have a seat...
+
+	A beat, then O'Brien hands him the tool.
+
+					O'BRIEN
+			Maybe just for a minute...
+
+	O'Brien drops heavily onto a crate, steadies himself...
+
+					O'BRIEN
+				(forcing a grin)
+			... or two...
+
+	Bashir turns to the companel, sizes it up like a battle that 
+	needs to be won...
+
+					BASHIR
+			All right, Chief... tell me where 
+			you left off...
+
+					O'BRIEN
+			Do you see that dark blue coil in 
+			the upper right hand corner?
+
+					BASHIR
+				(looking)
+			No.
+
+					O'BRIEN
+			It's right next to the green 
+			cylinder...
+				(remembering; seeing 
+				it in his mind)
+			Behind it a little bit...
+
+					BASHIR
+				(finds it)
+			Yes, I see it.
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE     31.
+
+32A  CONTINUED:	(3)
+
+					O'BRIEN
+			You have to lock the base of the 
+			coil into that tiny receptor right 
+			below it...
+
+	Bashir reaches inside with the tool, starts struggling... 
+	realizes it's harder than it appears... applies more effort... 
+	O'Brien watches him quietly...
+
+33
+thru   OMITTED
+34
+
+35   INT. QUARK'S - SECOND LEVEL
+
+	Kira and Dax sit at a table, still thinking about O'Brien 
+	and Bashir.
+
+					DAX
+			You know, I just remembered... I 
+			still have Julian's medical school 
+			diaries...
+
+					KIRA
+			He let you read them?
+
+					DAX
+			He felt they would make me understand 
+			him better.
+
+					KIRA
+			How?  By reading about all the women 
+			he went out with?
+
+					DAX
+			They're not about that.  When he 
+			gave them to me, he told me they 
+			were about his innermost thoughts... 
+			his struggle to graduate at the top 
+			of his class... his dreams of a career 
+			in Starfleet... his constant fear of 
+			failure...
+
+					KIRA
+				(a little impressed)
+			Really.  And did you understand him 
+			better?
+
+					DAX
+				(guiltily; with sadness)
+			I never got around to reading them...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE    31A.
+
+35 CONTINUED:
+
+					DAX
+				(beat)
+			I suppose I should send them to his 
+			parents.
+
+					KIRA
+			You could keep them...
+
+					DAX
+				(hoping)
+			Really?
+
+					KIRA
+				(smiles)
+			I think he'd like that.  He... cared 
+			about you a great deal.
+
+					DAX
+			I know.  I cared about him, too.
+
+	QUARK approaches with three drinks, sets two of them down on 
+	the table.
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT THREE        32.
+
+35 CONTINUED:	(2)
+
+					QUARK
+				(respectful of the 
+				moment)
+			These are on the house.
+
+					KIRA
+			How come?
+
+					QUARK
+			I thought we'd have a toast to the 
+			memory of Chief O'Brien and Doctor 
+			Bashir.
+
+	Both women are surprised and a little impressed by Quark's 
+	sensitivity.
+
+					DAX
+			That's very thoughtful, Quark...
+
+					QUARK
+				(looks at a doubting 
+				Kira)
+			I can be thoughtful.
+
+	He holds up his glass.  Dax joins him.  Kira reluctantly 
+	holds up hers.
+
+					QUARK
+				(making toast)
+			To our dear departed comrades... we 
+			may have had our differences, but 
+			I'll say this for them -- and there's 
+			no higher tribute I can think of...
+				(heartfelt)
+			They were good customers.  They always 
+			paid their bar bills on time.
+
+					KIRA
+			That's it?
+
+					QUARK
+			I'm not done yet.
+				(continuing toast)
+			At times like these I'm reminded of 
+			the Fifty-Seventh Rule of Acquisition: 
+			"Good customers are as rare as latinum -- 
+			treasure them."
+
+	Quark drinks.  Kira and Dax share a glance as they sip their 
+	drinks, oddly touched...
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT THREE        33.
+
+36   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+37   INT. OPS
+
+	Kira and Dax are back at their stations.  N.D. Supernumeraries 
+	as needed.  Keiko ARRIVES on the Turbolift, holding the T'Lani 
+	data clip.  She approaches Kira, looking quietly determined.
+
+					KIRA
+				(surprised at Keiko's 
+				presence in OPS)
+			Mrs. O'Brien... ?
+
+					KEIKO
+			Major, I have to see Commander Sisko.  
+			It's important.
+
+					KIRA
+			I'll tell him you're here.
+				(before she alerts 
+				Sisko)
+			I just want you to know how sorry I 
+			am...
+				(including Dax)
+			... how sorry we all are...
+
+					KEIKO
+			Thank you.
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE     34.
+
+38   INT. COMMANDER'S OFFICE - TIGHT ON MONITOR (OPTICAL)
+
+
+	We see the T'Lani ship's lab... we are watching the visual 
+	record of the accident that Sisko, Dax, Odo and Kira watched 
+	before.  The T'LANI TIME INDEX is plainly seen in the corner.
+
+					KEIKO (V.O.)
+			Watch -- it's coming up in just a 
+			few seconds --
+
+	On the monitor, we see O'Brien talking to Nydrom.
+
+					O'BRIEN (ON SCREEN)
+			... If anyone gets it in their head 
+			to build these things again, they'll 
+			have to start from scratch.
+
+					NYDROM (ON SCREEN)
+			Then it's finished.
+
+	O'Brien nods, picks up his mug of coffee and sips from it...
+
+					KEIKO (V.O.)
+			Computer, freeze image.
+
+	O'Brien is frozen on the screen, the mug at his lips.
+
+39   WIDER ANGLE
+
+	to show Keiko, Sisko, Kira and Dax watching the monitor.
+
+					KEIKO
+			There.  Do you see it?
+
+					SISKO
+			I see the Chief drinking coffee...
+
+					KEIKO
+			Exactly.  Now, look at the time index.
+
+40   INSERT - MONITOR (OPTICAL) - FAVORING TIME INDEX
+
+	The index reads:  0015:28:33:12.
+
+					KIRA (V.O.)
+			Fifteen hundred hours...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE     35.
+
+41   RESUME SCENE
+
+	Keiko turns to them, nodding excitedly.
+
+					KEIKO
+			That's right.  Late afternoon.
+				(beat for emphasis)
+			Miles never drank coffee in the 
+			afternoon.  It kept him up all night.
+
+					SISKO
+			Maybe he made an exception this time.  
+			He was working long hours, under a 
+			lot of stress...
+
+					KEIKO
+			I know my husband.  He never drank 
+			coffee that late in the day.
+
+					KIRA
+			Maybe he's not drinking coffee.
+				(nodding at the monitor)
+			Maybe it's tea...
+
+					KEIKO
+				(shakes head)
+			I checked the data clip and it 
+			contained a spectroscopic analysis.  
+			The liquid in Miles' cup consisted 
+			of vegetable-based oils and 
+			caffeine... it's coffee all right...
+
+					SISKO
+				(exploring the 
+				possibility)
+			You're saying this recording has 
+			been tampered with...
+
+					KEIKO
+			Yes, I am.  And I'd like to know the 
+			reason why.
+
+	So would Sisko.
+
+					SISKO
+				(to Dax)
+			When were you planning on bringing 
+			the Ganges back from T'Lani Three?
+
+  DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT THREE        36.
+
+41 CONTINUED:
+
+					DAX
+			Tomorrow.
+
+					SISKO
+			I don't see any reason to wait, do 
+			you?
+
+					DAX
+			I'll leave right away.
+
+					SISKO
+			Good.  I'll come with you.
+				(to Keiko)
+			Mrs. O'Brien... if this recording 
+			has been altered, we'll find out 
+			why.
+
+	Keiko nods slightly, with a tentative glimmer of hope...
+
+41A  INT. MILITARY COMMAND CENTER
+
+	Bashir has a few parts from the companel scattered on the 
+	console.  He's checking a transceiver assembly.  In the b.g., 
+	O'Brien now sits on the floor propped against the crate.  He 
+	has the blanket from before around his shoulders.  As he 
+	watches Bashir through half-mast eyes, his breathing is slow 
+	and audible.
+
+					BASHIR
+			You were right, Chief... the contacts 
+			on the subprocessor are corroded...
+
+					O'BRIEN
+				(a little raspy)
+			They need to be cleaned...
+
+					BASHIR
+			I think there's some sterile pads in 
+			the med kit...
+
+	Bashir crosses to the kit, rummages through it briefly, comes 
+	out with an enclosed sterile pad...
+
+					BASHIR
+			Here we go.
+
+	Returning to the console, he tears the pack open, takes out 
+	the sterile pad, begins cleaning the contacts... he glances 
+	at O'Brien, who looks like he's fading...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE     37.
+
+41A  CONTINUED:
+
+					BASHIR
+			Stay with me, Chief... I still need 
+			your help...
+
+	O'Brien shakes his head to keep himself awake.
+
+					O'BRIEN
+			Don't worry... I'm not going 
+			anywhere...
+
+	He forces himself to stay alert.
+
+					O'BRIEN
+			Who was she?
+
+					BASHIR
+			Who... ?
+
+					O'BRIEN
+			"Close.  Not quite."
+
+					BASHIR
+				(smiling at the memory)
+			Palis.  Palis Delon.  She was a 
+			dancer.  A ballerina.  She had 
+			exquisite feet...
+
+	O'Brien chuckles...
+
+					BASHIR
+				(continuing)
+			I'm serious... it's very important 
+			for a dancer to have good arches...
+				(a beat)
+			She was gorgeous... not to mention 
+			brilliant... I'd watch her on stage... 
+			I couldn't believe anyone could be 
+			that graceful...
+
+					O'BRIEN
+			And she was crazy about you...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE     38.
+
+41A  CONTINUED:	(2)  
+
+					BASHIR
+			We were crazy about each other.  I 
+			thought, "Julian, you lucky devil -- 
+			you've found the perfect woman."  We 
+			used to finish each other's 
+			thoughts...
+
+	Having cleaned the contacts on the assembly, he shows it to 
+	O'Brien.
+
+					BASHIR
+			What do you think?
+
+					O'BRIEN
+			Good.  Now put it back in the panel...
+
+	Bashir takes the assembly over to the open companel, inserts 
+	it in its place.  A few LIGHTS flicker to life.  Bashir 
+	reacts, pleased.
+
+					BASHIR
+			Looks like we have some power 
+			anyway...
+
+	He tries working the console.
+
+					BASHIR
+				(continuing)
+			Still no response from the 
+			transmitter...
+
+					O'BRIEN
+			Try retuning the R-F oscillator...
+
+	Bashir begins to make these delicate adjustments.  A beat of 
+	silence.  O'Brien's eyeing Bashir curiously...
+
+					O'BRIEN
+			So what happened?
+				(off Bashir's 
+				questioning look)
+			With you and Palis?
+
+					BASHIR
+			What happened is I graduated... her 
+			father was the top administrator for 
+			a medical complex in Paris... he 
+			offered me a job there... promised 
+			I'd be chief of surgery within five 
+			years...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT THREE    38A.
+
+41A  CONTINUED:	(3)
+
+					O'BRIEN
+			But that meant giving up your career 
+			in Starfleet...
+
+					BASHIR
+				(ruefully)
+			You have no idea how close I came...
+				(beat)
+			But... here I am...
+
+					O'BRIEN
+			You made your choice...
+
+					BASHIR
+			Yes... though sometimes I wake up in 
+			the middle of the night and I think 
+			to myself... will I ever find anyone 
+			that wonderful again... ?
+
+	A beat, then Bashir shakes off the memory.  He examines the 
+	companel...
+
+					BASHIR
+			The oscillator's working, but the 
+			frequency's still fluctuating...
+
+	O'Brien takes this opportunity to get back to the problem at 
+	hand.
+
+					O'BRIEN
+			Let me take a look at it...
+
+	He tries to push himself up... but then slides back down to 
+	the floor.  Bashir comes over, concerned...
+
+					BASHIR
+			What is it?
+
+					O'BRIEN
+				(labored breathing)
+			My legs... hard to move...
+				(beat; looks up at 
+				Bashir)
+			I can't feel them anymore...
+
+	HOLD on Bashir, realizing time is running out...
+
+42
+thru   OMITTED
+44
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT FOUR      39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+45   INT. RUNABOUT RIO GRANDE - IN MOTION
+
+	Dax pilots the craft, Sisko sitting next to her.
+
+					DAX
+				(checking panel)
+			We're approaching T'Lani Three.  
+			Establishing a synchronous orbit 
+			along side the Ganges.
+
+					SISKO
+			Open a channel to the T'Lani cruiser.
+
+	Dax works the panel...
+
+46   INCLUDE MONITOR (OPTICAL)
+
+	E'Tyshra appears on the screen from Bridge of the T'Lani 
+	ship.
+
+					E'TYSHRA
+			Commander Sisko -- what a pleasant 
+			surprise.  I take it you're here for 
+			your runabout...
+
+					SISKO
+			That's right.
+
+					E'TYSHRA
+			We were about to leave for the 
+			memorial service on T'Lani Prime.  
+			You're welcome to accompany us...
+
+					SISKO
+			Perhaps we will.  But first I'd like 
+			to see for myself where the accident 
+			took place...
+
+					E'TYSHRA
+				(sympathetically)
+			Of course.
+
+	The transmission ends.
+
+					DAX
+			While you're on the cruiser, I think 
+			I'll beam over to the Ganges and 
+			take a look around.
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FOUR        40.
+
+46   CONTINUED:
+
+					SISKO
+			Good idea.
+
+47   EXT. T'LANI THREE - DAY - THE CITY (MATTE SHOT)
+
+	Re-establishing.
+
+48   INT. MILITARY COMMAND CENTER
+
+	Bashir is tinkering in the companel.  O'Brien's still seated 
+	where we last saw him... his vision is dimmed to the point 
+	he can only make out shadows.  Bashir moves to the console, 
+	presses the panel...
+
+					BASHIR
+				(reacting)
+			Chief... Chief!  It's working...
+				(continues working 
+				the panel)
+			The signal's very faint...
+
+					O'BRIEN
+				(voice weak)
+			You'll have to shift... to a higher 
+			carrier frequency... go back into 
+			the companel... reset the actuators... 
+			on the chambers coil...
+
+	Bashir goes to the companel, follows O'Brien's instructions.  
+	He returns to the console, presses the panel.
+
+					BASHIR
+				(eyeing panel)
+			That's better... it's still pretty 
+			weak though...
+
+	Bashir's fingers fly across the console.
+
+					BASHIR
+			I'm sending a distress signal.  I've 
+			set it to repeat every two minutes...
+				(crosses to O'Brien)
+			Let's hope the T'Lani find us before 
+			the Kellerun do.
+
+					O'BRIEN
+			They better get here soon...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT FOUR      41.
+
+47A  CONTINUED:
+
+					BASHIR
+			Don't worry, Chief... I'm going to 
+			get you home...
+
+	Bashir checks O'Brien with the tricorder, but at this point 
+	there is very little he can do, and they both know it.
+
+					O'BRIEN
+			In a box, maybe...
+
+					BASHIR
+				(forcing himself to 
+				be optimistic)
+			Nonsense.  Don't go giving up on me 
+			now...
+
+					O'BRIEN
+			I'm not giving up... I'm dying... 
+			listen to me, Julian... you have to 
+			tell Keiko and Molly...
+
+					BASHIR
+				(interrupting)
+			You'll tell them yourself...
+
+	A beat.
+
+					O'BRIEN
+			You know, you're wrong... about 
+			marriage.
+
+					BASHIR
+				(placating)
+			Whatever you say, Chief.
+
+					O'BRIEN
+				(insistent)
+			Listen to me, Julian.  You're always 
+			talking about adventure... well 
+			marriage is the greatest adventure 
+			of all.  It's filled with pitfalls 
+			and setbacks and mistakes, but it's 
+			a journey worth taking... because 
+			you take it together.
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT FOUR      42.
+
+47A  CONTINUED:	(2)
+
+					O'BRIEN
+				(a beat)
+			I know Keiko's been unhappy... about 
+			our coming to the station... we still 
+			argue about it... But that's all 
+			right... because at the end of the 
+			day, we both know we love each other.  
+			And when you get right down to it, 
+			that's all that matters.
+
+	A beat.  Bashir nods, touched by O'Brien's words.
+
+					BASHIR
+			You'd better get some rest.  The 
+			T'Lani should be here soon...
+
+	O'Brien closes his eyes.  HOLD on Bashir watching him...
+
+48
+thru   OMITTED
+50
+
+51   INT. T'LANI MUNITIONS CRUISER - LAB
+
+	Sisko moves around the room with a tricorder as E'Tyshra 
+	matter-of-factly observes.
+
+					SISKO
+				(studying tricorder)
+			I see there's still residual traces 
+			of the radiatiopulse...
+
+					E'TYSHRA
+			That's to be expected, given the 
+			pulse's intensity.  But it poses no 
+			danger.
+
+	Sisko walks over to where O'Brien was sitting, looks at the 
+	now-blank monitor.
+
+					SISKO
+			Tell me, Ambassador -- have you been 
+			able to learn more about the fail-
+			safe device that caused the accident?
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FOUR        43.
+
+					E'TYSHRA
+			Not yet, Commander, but we're working 
+			on it...
+
+					SISKO
+			It was Ambassador Sharat who brought 
+			you the data clip...
+
+					E'TYSHRA
+			That's right.
+
+					SISKO
+			I suppose he showed it to you as 
+			soon as you arrived...
+
+					E'TYSHRA
+				(why shouldn't he?)
+			Of course.
+
+					SISKO
+			Could the clip have been altered 
+			before you saw it?
+
+					E'TYSHRA
+				(innocently wondering)
+			Why would Ambassador Sharat alter 
+			the data clip?
+
+					SISKO
+			I have no idea.
+
+	Sisko's combadge BEEPS.  He taps it.
+
+					SISKO
+			Sisko.
+
+					DAX'S COM VOICE
+			Commander, when you're through there, 
+			could you join me on the Ganges?
+
+					SISKO
+				(to Dax)
+			I'll only be a few more minutes.
+
+					E'TYSHRA
+			Commander, the T'Lani and Kellerun 
+			have finally made peace.  That peace 
+			cannot survive unless both sides 
+			trust each other...
+
+	HOLD on Sisko, absorbing this...
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FOUR        44.
+
+52   INT. RUNABOUT GANGES (OPTICAL)
+
+	Dax is at the console as Sisko MATERIALIZES on the Transporter 
+	pad.
+
+					SISKO
+			What've you got, Dax?
+
+
+					DAX
+			It looks like someone has erased 
+			five seconds from the Ganges's computer 
+			log --
+
+					SISKO
+				(approaches her)
+			Show me.
+
+					DAX
+			At first I thought it was just some 
+			kind of power fluctuation... but 
+			when I checked the log's memory core, 
+			it showed traces of a remote transport 
+			command...
+
+					SISKO
+			Did you find any indication of 
+			transporter activity at that time?
+
+					DAX
+			No.
+
+					SISKO
+			And you're saying somebody erased it 
+			later on...
+
+					DAX
+				(nods, then gestures 
+				at monitor)
+			Look at the time index when the call 
+			for transport came in...
+
+	Sisko looks at the monitor (which we don't have to see.)
+
+					SISKO
+				(off monitor)
+			At fifteen thirty four... that's a 
+			full three minutes after the accident 
+			on the T'Lani cruiser.
+
+					DAX
+			Which means if either Chief O'Brien 
+			or Julian made that request...
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FOUR        45.
+
+					SISKO
+				(finishing her sentence)
+			... they would've been alive after 
+			the fail-safe device went off...
+
+	Sisko and Dax exchange knowing looks.
+
+					SISKO
+			Good work, Lieutenant.
+
+	Dax permits herself a small smile...
+
+52A  INT. MILITARY COMMAND CENTER
+
+	Bashir, holding the phaser rifle, is on guard at the door.  
+	O'Brien, who appears to be sleeping, begins to cough.  The 
+	cough builds into a violent hacking.  He gasps for air.  
+	Bashir races over, grabs a hypospray, injects him in the 
+	neck.  O'Brien continues to gasp.  Bashir pulls him up into 
+	a straight position...
+
+					BASHIR
+			Come on, Chief... don't leave me... 
+			breathe... !
+
+	O'Brien finally is able to take air into his lungs.  He 
+	inhales and exhales greedily, wheezing.
+
+					BASHIR
+			That's it... you're doing it...
+
+	O'Brien calms a little, nods... he can breathe again...
+
+					O'BRIEN
+			Tell me, Julian... you ever talk to 
+			that ballerina of yours... ?
+
+					BASHIR
+			Not since I left Earth...
+
+					O'BRIEN
+				(after a beat)
+			Maybe you should...
+
+					BASHIR
+				(beat)
+			Maybe one day I will.
+
+	Suddenly both of them hear the sound of FOOTSTEPS moving 
+	outside.  Bashir takes up the rifle, aims it at the door 
+	as...
+
+      DEEP SPACE: "Armageddon Game" - REV. 11/08/93 - ACT FOUR      46.
+
+53
+thru   OMITTED
+54
+
+	E'TYSHRA AND TWO T'LANI SOLDIERS
+
+	step through the door.  Bashir approaches her, immensely 
+	relieved, feeling the cavalry has arrived...
+
+					BASHIR
+			Ambassador E'Tyshra... am I glad to 
+			see you.  Chief O'Brien was infected 
+			by the Harvesters when the Kelleruns 
+			attacked your ship... they killed 
+			all of the scientists...
+
+56   ANGLE - SHARAT
+
+	as he ENTERS behind the T'Lani's, accompanied by three 
+	Kellerun soldiers.
+
+					SHARAT
+			Not all of them...
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FOUR        48.
+
+56   CONTINUED:
+
+	Seeing Sharat and his soldiers, Bashir stands next to 
+	E'Tyshra.
+
+					BASHIR
+			You're too late, Sharat...
+
+	Sharat smiles at him.  Bashir wonders why he's so confident.  
+	He looks to E'Tyshra, who also smiles at him, coldly.
+
+					E'TYSHRA
+			No, Doctor -- he's right on time.
+
+	Bashir realizes E'Tyshra and Sharat are in this together.
+
+					BASHIR
+			But why kill Nydrom and the others?
+
+					E'TYSHRA
+			To ensure that the peace agreement 
+			between our two races will last.
+
+					BASHIR
+			But we'd already destroyed the 
+			Harvesters... there was no need for 
+			more killing... unless...
+
+	The truth dawns on Bashir...
+
+					SHARAT
+			It's not enough to simply destroy 
+			the Harvesters.  We have to make 
+			sure no one can ever recreate them.
+
+					E'TYSHRA
+			The only way to do that... was to 
+			eliminate everyone who possessed 
+			such knowledge...
+				(sadly)
+			... including the two of you.
+
+					BASHIR
+			But we have no use for such a horrible 
+			weapon...
+
+					SHARAT
+			As long as the knowledge exists, 
+			there's a danger it may be used.  
+			That's a risk we refuse to live with.
+
+         DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FOUR        48.
+
+56   CONTINUED:	(2)
+
+					E'TYSHRA
+			I truly am sorry, Doctor... but at 
+			least you have the consolation of 
+			knowing your deaths will be for a 
+			noble cause.
+
+	As the T'Lani and Kellerun soldiers raise their weapons, 
+	HOLD on Bashir, standing defiantly...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE        49.
+                              ACT FIVE                                
+
+	FADE IN:
+
+57   INT. MILITARY COMMAND CENTER - CONTINUOUS ACTION
+
+					(OPTICAL)
+			The T'Lani and Kellerun soldiers 
+			have their weapons trained on 
+			Bashir...
+
+					O'BRIEN
+				(in a croaked voice)
+			Wait...
+
+	E'Tyshra raises a hand, stopping the soldiers.
+
+					E'TYSHRA
+				(re: O'Brien)
+			Let him speak.
+
+					O'BRIEN
+				(to Bashir)
+			Help me up... want to die... on my 
+			feet...
+
+	Bashir goes over and lifts O'Brien, supports them as they 
+	stand side-by-side...
+
+					BASHIR
+			I'm sorry I couldn't get us home, 
+			Chief...
+
+					O'BRIEN
+			Did... best you could... been an 
+			honor... serving with you...
+
+	Bashir is surprised and honestly touched...
+
+					BASHIR
+			Thank you, Chief... that means a lot 
+			to...
+
+	Bashir's interrupted as both he and O'Brien DEMATERIALIZE... 
+	they are transported out of the scene...
+
+58   INT. RUNABOUT GANGES (OPTICAL)
+
+	Bashir and O'Brien MATERIALIZE on the transporter pad... 
+	Sisko's there to greet them...
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE       49A.
+
+58   CONTINUED:
+
+					BASHIR
+				(surprised and relieved)
+			Commander... am I glad to see you...
+
+	Sisko helps Bashir support O'Brien, who has slipped into 
+	unconsciousness.  As Sisko lowers him into a chair, Bashir 
+	darts to the back of the runabout and returns with a medical 
+	kit.
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE        50.
+
+58   CONTINUED:	(2)
+
+					BASHIR
+			Chief O'Brien will be dead within an 
+			hour unless we get him back to the 
+			station...
+
+					SISKO
+			What happened?
+
+					BASHIR
+			He was exposed to the Harvesters...
+
+	Bashir takes out a Federation hypospray, administers it to 
+	O'Brien...
+
+					BASHIR
+				(continuing)
+			That should keep him stabilized for 
+			a while...
+
+					DAX
+			They told us you were both dead, 
+			Julian...
+
+					BASHIR
+			We would have been, if the T'Lani 
+			and Kellerun had their way... they're 
+			killing everyone involved with the 
+			Harvester project.
+
+					DAX
+				(checking panels)
+			The T'Lani cruiser's coming this 
+			way... they're hailing us...
+
+					SISKO
+			Ignore them... send out a general 
+			distress signal on all Federation 
+			subspace frequencies.
+
+					DAX
+				(tries)
+			They're blocking all subspace 
+			communications with a broad band 
+			inversion.
+				(a beat)
+			They're hailing us again.
+
+					SISKO
+				(thoughtful)
+			Is the inversion field affecting 
+			sensors as well?
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE       50A.
+
+58   CONTINUED:	(3)
+
+					DAX
+				(confirming)
+			All short range sensors are useless...
+
+					SISKO
+				(forming a plan)
+			Which means... theirs are useless 
+			too...
+
+58A  EXT. SPACE - T'LANI MUNITIONS CRUISER AND
+
+	THE TWO RUNABOUTS (OPTICAL)
+
+	The three ships are in close proximity.  A beat, then one of 
+	the runabouts suddenly turns and veers off... the T'Lani 
+	cruiser starts off after it...
+
+     DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT FIVE      51.
+
+59   INT. T'LANI MUNITIONS CRUISER - BRIDGE
+
+	A T'Lani captain, JAKIN, is at the bridge controls.  As 
+	E'Tyshra and Sharat ENTER...
+
+					JAKIN
+				(to E'Tyshra)
+			Ambassador, Commander Sisko is 
+			attempting to escape... we are in 
+			pursuit...
+
+					SHARAT
+				(to E'Tyshra)
+			Can we overtake them?
+
+					E'TYSHRA
+			Their runabout is no match for this 
+			ship.
+				(to Jakin)
+			Fire a warning shot.
+
+	Jakin works panels.  We hear the SOUND of the T'Lani phaser 
+	firing.
+
+					JAKIN
+				(off panel)
+			Confirmed...
+				(a beat)
+			Commander Sisko is hailing us...
+
+					E'TYSHRA
+			I thought he would.
+
+	She nods to Jakin, who taps a console panel...
+
+60   ANGLE TO INCLUDE VIEWSCREEN (OPTICAL)
+
+	as Sisko APPEARS, defiantly angry.
+
+					SISKO
+			By firing on this vessel, you've 
+			committed an act of war against the 
+			Federation.
+
+					E'TYSHRA
+			Commander, we have no quarrel with 
+			the Federation or with you... but we 
+			must insist you turn over Doctor 
+			Bashir and Chief O'Brien.
+
+					SISKO
+			Why?  So you can murder them?
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE        52.
+
+60   CONTINUED:
+
+					SHARAT
+			Unfortunately, Commander, your 
+			officers are the only two people 
+			left who have seen the data concerning 
+			the development of the Harvesters.
+
+					SISKO
+			They have no intention of ever using 
+			that knowledge.  You have my word...
+
+					SHARAT
+			Their intentions are irrelevant.  
+			The fact is, the threat remains as 
+			long as the knowledge exists...
+
+					E'TYSHRA
+			I know this is painful for you, 
+			Commander.  It wasn't easy for us to 
+			order the deaths of our own people.  
+			But it is necessary...
+
+					SISKO
+			And if I refuse to turn them over?
+
+					E'TYSHRA
+			You can't outrun us and you can't 
+			fight us.  We can destroy your 
+			runabout at any time.
+
+					SISKO
+			But Lieutenant Dax and I know nothing 
+			about the Harvesters... are you 
+			willing to kill us, too?
+
+					SHARAT
+			We'll do whatever we have to do to 
+			ensure our safety...
+
+					E'TYSHRA
+			Commander... you're running out of 
+			options... you have one minute to 
+			turn over Doctor Bashir and Chief 
+			O'Brien...
+
+					SISKO
+			You want them?  You're going to have 
+			to take us all...
+
+	Sisko DISAPPEARS from the Viewscreen.
+
+					SHARAT
+				(to E'Tyshra)
+			He leaves us no choice...
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE        53.
+
+60   CONTINUED:	(2)
+
+					JAKIN
+				(off panel)
+			The runabout is turning... it's 
+			heading back in our direction...
+
+					E'TYSHRA
+			Full stop.
+
+	Jakin works panels.
+
+					JAKIN
+				(off panel)
+			He's preparing to fire.
+
+					E'TYSHRA
+			Employ shields.
+
+					JAKIN
+				(working panel)
+			Shields employed.
+
+					E'TYSHRA
+			Put the runabout on screen.
+
+	The Runabout appears on the VIEWSCREEN, heading straight 
+	toward the cruiser (the camera)...
+
+					SHARAT
+			He must know his phasers can't hurt 
+			us...
+
+	Two PHASER BLASTS from the Runabout hit right into camera, 
+	causing a very slight SHIP SHAKE...
+
+					JAKIN
+				(off panel)
+			He's aimed his vessel straight for 
+			us.
+
+					SHARAT
+			The man must be crazy.
+
+					E'TYSHRA
+				(to Jakin)
+			Fire phasers.
+
+61   CLOSE ON T'LANI CRUISER'S VIEWSCREEN (OPTICAL)
+
+	as PHASER BEAMS from the cruiser fire at the Runabout, BLOWING 
+	IT UP...
+
+62   ANGLE ON E'TYSHRA AND SHARAT
+
+	as they react.
+
+     DEEP SPACE: "Armageddon Game" - REV. 11/09/93 - ACT FIVE      54.
+
+62   CONTINUED:
+
+					SHARAT
+			It's over.
+
+					E'TYSHRA
+				(to Jakin)
+			Head back to T'Lani Three.  Prepare 
+			to take the other runabout in tow.
+
+	Jakin nods, works the panel.
+
+					JAKIN
+				(nonplussed)
+			Ambassador... sensors indicate the 
+			other runabout is no longer in 
+			orbit...
+
+					E'TYSHRA
+			Then where is it?
+
+					JAKIN
+			I don't know... It's gone.
+
+					SHARAT
+			It can't just have disappeared.
+
+	E'Tyshra and Sharat consult the monitors which show an 
+	Okudagram of T'lani Three -- there's no ship in sight.
+
+					JAKIN
+			I'm picking up a warp signature.
+
+					E'TYSHRA
+				(grimly realizing)
+			Sisko... Maybe he and the others 
+			weren't on that runabout we destroyed.
+
+        DEEP SPACE: "Armageddon Game" - 11/09/93 - ACT FIVE        55.
+
+62   CONTINUED:	(2)
+
+					JAKIN
+			They could have transported to the 
+			other runabout while our sensors 
+			were down.
+
+					E'TYSHRA
+			And then piloted the first ship by 
+			remote navigation.
+
+					SHARAT
+			But we saw them die.
+
+					E'TYSHRA
+				(numb)
+			Did we?
+
+	HOLD on E'Tyshra and Sharat as they look at each other, the 
+	bad news sinking...
+
+63
+thru   OMITTED
+65
+
+66   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+67   INT. SURGERY
+
+	O'Brien is convalescing in a bed as Keiko hands him a 
+	colorfully painted coffee mug.
+
+					O'BRIEN
+			What's this?
+
+					KEIKO
+			Something Molly made for you.  She 
+			painted it herself.
+
+					O'BRIEN
+				(the proud parent)
+			It's lovely.  She's got real talent...
+
+        DEEP SPACE: "Armageddon Game" - 11/08/93 - ACT FIVE        56.
+
+67   CONTINUED:
+
+	Bashir ENTERS, smiling.
+
+					BASHIR
+			How's my patient?
+
+					O'BRIEN
+			Better.  Can I go home now?
+
+					BASHIR
+			You should be out of here by tomorrow.
+				(beat)
+			I want you to know, I really 
+			appreciated what you said back on 
+			T'Lani Three.
+
+					O'BRIEN
+				(a little suspicious)
+			What did I say?
+
+					BASHIR
+				(touch of pride)
+			That it was an honor serving with 
+			me...
+
+					O'BRIEN
+			Oh... right.
+
+					BASHIR
+			I'd like to return the compliment, 
+			Chief -- it's been an honor to serve 
+			with you, too.
+				(to Keiko)
+			You know, Mrs. O'Brien -- they say 
+			when two people face death together, 
+			it creates a bond that can never be 
+			broken... I never believed that 
+			until...
+
+					O'BRIEN
+				(starting to get 
+				annoyed)
+			Julian...
+
+					BASHIR
+			Hmm?
+				(misunderstanding)
+			Oh, yes -- of course.  You want to 
+			be alone.  I understand.
+
+	He EXITS, smiling.  O'Brien looks after Bashir, disgruntled.
+
+       DEEP SPACE: "Armageddon Game" -  11/08/93 - ACT FIVE        57.
+
+67   CONTINUED:	(2)
+
+					KEIKO
+				(re:  O'Brien's 
+				expression)
+			He saved your life, you know.
+
+					O'BRIEN
+			And he's never going to let me forget 
+			it.
+
+	Keiko knows full well O'Brien's mixed feelings for Bashir.  
+	She's amused by it and can't help egging him on a bit...
+
+					KEIKO
+			So what was it like... spending all 
+			that time alone with him?
+
+					O'BRIEN
+				(good-natured 
+				exasperation)
+			It was... hell.  You can see for 
+			yourself -- the man never stops 
+			talking.
+
+	They share a smile.  O'Brien eyes Molly's cup.
+
+					O'BRIEN
+			You know, I wouldn't mind a cup of 
+			coffee right now...
+
+					KEIKO
+				(surprised)
+			Miles -- you never drink coffee in 
+			the afternoon --
+
+					O'BRIEN
+			Sure I do.
+
+					KEIKO
+			You do?
+
+	Off Keiko's stunned look.
+
+									FADE OUT.
+
+                           END OF ACT FIVE                         
+                               THE END 

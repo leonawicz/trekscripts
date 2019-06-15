@@ -1,0 +1,3028 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "The Quickening" 
+                   (fka "The Healing Touch") 
+                          #40510-495 
+                              
+                          Written by 
+                         Naren Shankar 
+                              
+                          Directed by 
+                       Rene Auberjonois 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1996 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         March 6, 1996
+
+      STAR TREK: DS9 - "The Quickening" - 03/08/96 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Quickening" 
+                             CAST 
+
+          SISKO                    TREVEAN
+          KIRA                     EKORIA
+          BASHIR                   EPRAN
+          DAX                      NORVA
+          O'BRIEN                  LATIA
+          ODO                      ATTENDANT
+          QUARK                    PATIENT
+          WORF                     
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+      STAR TREK: DS9 - "The Quickening" - 03/06/96 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Quickening" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          WARDROOM                      
+                                        RUNABOUT
+        PLANET                          PLANET'S SURFACE
+          HOSPITAL                      RUINED CITY
+          TENEMENT HOUSE                CITY STREET
+                                        TENEMENT DOORWAY
+        RUNABOUT                      
+
+  DEEP SPACE NINE -"The Quickening"- 03/08/96 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Quickening" 
+                      PRONUNCIATION GUIDE 
+
+          BORANIS                  bore-ON-us
+          CORDRAZINE               CORE-druh-zeen
+          EKORIA                   eh-CORE-ee-uh
+          EPRAN                    eh-PRAWN
+          GAVARA                   guh-VAR-uh
+          HEMANI                   heh-MAHN-ee
+          JENKATA                  jen-KAW-tuh
+          KENDI                    KEN-dee
+          KUKALAKA                 KOO-kuh-LAW-kuh
+          MILANI                   mill-LAWN-ee
+          NORVA                    NOR-vuh
+          NYKALIA                  nuh-KALE-ee-uh
+          OBATTA                   oh-BOUGHT-uh
+          TAKANA                   tuh-KAHN-uh
+          TAMAR                    tuh-MAR
+          TEPLAN                   TEP-lun
+          TREVEAN                  truh-VEE-un
+          TILO                     TEE-low
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER          
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "The Quickening"                            
+                            TEASER                              
+
+	FADE IN:
+
+             1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)               
+
+	Establishing.
+
+2    INT. WARDROOM (OPTICAL)
+
+	where KIRA is watching O'BRIEN as he opens a PANEL next 
+	to the WALL MONITOR, which is OFF. She's shaking her 
+	head as if something has happened that she can't quite 
+	believe. O'Brien studies the panel innards for a beat, 
+	then reaches to get a TOOL from his TOOLKIT.
+
+					O'BRIEN
+			Looks like he used some sort of 
+			encryption program to bypass the 
+			access protocols.
+
+					KIRA
+			Unbelievable... the nerve.
+
+	The DOOR OPENS and ODO escorts QUARK into the room. He 
+	sees the hard look on Kira's face and flashes his most 
+	ingratiating smile.
+
+					QUARK
+			You wanted to see me, Major?
+
+					ODO 
+			Don't pretend you don't know what 
+			this is about.
+
+	Quark shrugs that he doesn't.
+
+					KIRA
+			Maybe this'll jog your memory. 
+				(to computer)
+			Engage monitor.
+
+	The monitor engages, but instead of the familiar UFP 
+	insignia coming up, a MOVING GRAPHIC appears 
+	advertising Quark's, much like the one we've seen on 
+	monitors behind the bar itself. Quark's VOICE comes 
+	over the com-system, singing a JINGLE that might go 
+	something like this:
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER        2.
+
+2    CONTINUED:
+
+					QUARK'S VOICE
+				(sing-song)
+			Come to Quark's, Quark's is fun, 
+			come right now, don't walk, run!
+
+	A beat later, the usual UFP insignia APPEARS. Quark, 
+	who's been mouthing along with obvious pride in his 
+	handiwork, smiles with pleasure.
+
+					QUARK
+			I love the part where my name 
+			rotates around...
+
+	He trails off when he sees the cold stares from our 
+	people...
+
+					ODO 
+			Tampering with the station's com-
+			system is a class-three offense.
+
+					QUARK
+			It's just a little advertisement.
+				(when this doesn't sway 
+				them)
+			I didn't put one up in Ops.
+
+					ODO 
+			I'm sure the magistrate will take 
+			that into consideration when he 
+			calculates your fine.
+
+	The DOOR OPENS and WORF ENTERS, looking particularly 
+	annoyed. He's carrying a GLASS MUG at his side.
+
+					WORF
+				(to Quark)
+			You.
+
+
+	Quark has a bad feeling about what's coming next.
+
+					QUARK 
+			As you can see, we're very busy 
+			here. Station business.
+
+					WORF
+			How did you do it?
+
+					O'BRIEN
+			How'd he do what?
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER        3.
+
+2    CONTINUED:	(2)
+
+					WORF
+			I ordered a glass of prune juice 
+			from a Replicator in the Defiant's 
+			Mess Hall. This is what it came 
+			in.
+
+	He holds up the mug for all to see, and it starts to 
+	play the JINGLE from a tiny hidden speaker.
+
+3    INSERT - THE MUG
+
+	Etched in its surface is a drawing of Quark's face, and 
+	underneath it, the words: COME TO QUARK'S FOR FREE 
+	REFILLS! Below this, in smaller letters: LIMIT ONE PER 
+	CUSTOMER.
+
+4    RESUME SCENE
+
+	Kira is livid. She turns to Quark, keeps her anger in 
+	check.
+
+					KIRA
+			If all your little 
+			"advertisements" aren't purged 
+			from our systems by the time I get 
+			back from the Gamma Quadrant... 
+				(a threat)
+			I will come to Quark's, and 
+			believe me, I will have fun.
+
+	And with that, she turns and EXITS. A beat, then Quark 
+	steps toward O'Brien.
+
+					QUARK 
+			Let me help you with that, 
+			Chief... 
+
+	Off this moment...
+
+5    EXT. SPACE - RUNABOUT (OPTICAL/STOCK)
+
+	as it emerges from the wormhole in the Gamma Quadrant.
+
+6    INT. RUNABOUT
+
+	Kira and DAX are in the control seats, BASHIR is at a 
+	side console (The SIDE WINDOW PLUGS are in place). 
+	Bashir is excited about their mission and can't keep 
+	from sharing his enthusiasm.
+
+         DEEP SPACE NINE: "The Quickening" - 03/19/96 TEASER        3A.
+6    CONTINUED:
+
+					BASHIR 
+			According to Chief O'Brien the 
+			scan resolution on the new sensors 
+			is amazing. We could practically 
+			do the entire bio-survey from 
+			orbit.
+
+					KIRA
+			Suits me. The sooner we get out of 
+			the Gamma Quadrant the better.
+
+					BASHIR
+				(moving to stand between 
+				them)
+			How can you say that?
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER        4.
+
+7    NEW ANGLE
+
+	Including the front windows and the starfield in the 
+	distance.
+
+					BASHIR 
+			Those little points of light out 
+			there are the great unknown, 
+			beckoning to us. I wish I could 
+			visit every one.
+
+					KIRA
+			You might want to skip the ones 
+			with Jem'Hadar bases on them.
+
+	Bashir marvels at the starscape outside -- tongue half-
+	in-cheek, he knows how what he's about to say will go 
+	over...
+
+					BASHIR 
+			Is it my imagination... or are 
+			the stars a little brighter in the 
+			Gamma Quadrant?
+
+	Kira glances over at Dax with a "is-he-kidding" look.
+
+					DAX
+				(deadpan)
+			Is it my imagination, or has 
+			Julian lost his mind?
+
+	Bashir smiles good-naturedly...
+
+					KIRA
+				(smiling)
+			Setting course for the Gavara 
+			system...
+
+
+8    EXT. SPACE - RUNABOUT (OPTICAL/STOCK)
+
+	as it shoots into warp.
+
+
+9    INT. RUNABOUT
+
+	A few hours later. Kira is at the helm, Dax at a side 
+	console. Bashir ENTERS from the rear.
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER        5.
+
+9    CONTINUED:
+
+	Suddenly Kira reacts to something on her console.
+
+					KIRA
+			I'm picking up some kind of 
+			emergency signal. It's 
+			fragmented.
+				(off console)
+			They say their homeworld's been 
+			attacked... Massive destruction... 
+			heavy casualties...
+				(beat)
+			They're asking any passing vessel 
+			for assistance...
+
+					DAX
+				(off console)
+			Looks like the signal's coming f
+			rom somewhere in the Teplan 
+			system.
+
+					BASHIR 
+			That's just outside Dominion 
+			space.
+
+
+					KIRA
+				(grim)
+			Let's hope the Jem'Hadar know 
+			that...
+				(working)
+			Setting new course...
+
+10   EXT. SPACE - RUNABOUT (OPTICAL/STOCK)
+
+	as the Runabout banks off.
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER        6.
+
+11   EXT. PLANET'S SURFACE - DAY (OPTICAL)
+
+	Bashir and Dax MATERIALIZE on the surface... Both have 
+	PHASERS and TRICORDERS at their sides and he has his 
+	MEDKIT. They find themselves standing near a concrete 
+	outcropping.
+
+					KIRA'S COM VOICE
+			Let's stay in close contact. If 
+			the Jem'Hadar come this way, we're 
+			going to have to get out of here fast.
+
+					BASHIR 
+			Acknowledged.
+
+They move around the outcropping to see...
+
+12   EXT. RUINED CITY - DAY (OPTICAL/MATTE)
+
+	What might have once been a bustling modern city 
+	street. The few structures still standing are gutted, 
+	blackened and scorched by fire. Shanties and other 
+	makeshift structures are propped against them.
+
+	The inhabitants of the planet, dressed in tattered 
+	rags, can be seen milling about. They look human, but 
+	they all have BLUE, vein-like WELTS on their faces.
+
+	Some sit listlessly, with nothing to do. others are 
+	carrying water in makeshift containers, lugging 
+	firewood, tending fires burning in rusted-out 
+	cylindrical containers. A few push wheelbarrow like 
+	carts in front of them -- produce vendors, willing to 
+	barter their paltry merchandise.
+
+	There is no sign of power being generated anywhere, and 
+	the inhabitants use the now useless artifacts from 
+	their once-industrial civilization for other purposes -- 
+	what might have once been an alien refrigerator, 
+	for example, might now serve as part of someone's home.
+
+	A MAN passes by pulling a CART with three dead BODIES 
+	on it, partially covered by a tarp.
+
+	Our people react to the scene of devastation before 
+	them...
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER       6A.
+
+12   CONTINUED:
+
+					BASHIR
+			What happened here?
+
+	Some of the inhabitants have noticed our people, and 
+	are eyeing them warily from the distance.
+
+	Suddenly a woman comes staggering out of a nearby 
+	structure. We will come to know her, if only briefly, 
+	as NORVA. Unlike the others, her welts are RED and 
+	inflamed, and her face is covered with them.
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER        7.
+
+12   CONTINUED:	(2)
+
+	She's in obvious pain, is having difficulty walking, 
+	but manages to croak out a plea for help.
+
+					NORVA
+			Help me...
+
+	She collapses, and Bashir moves to assist her. She 
+	struggles to get the words out --
+
+					NORVA
+				(anguished)
+			Please... don't let me die here... 
+			take me to Trevean...
+
+					BASHIR 
+			Trevean?
+
+					NORVA
+			Hospital...
+
+					DAX
+				(to Bashir)
+			I'll try to find out where it 
+			is...
+
+	Dax moves off to try to talk with the inhabitants...
+
+					BASHIR
+			I'm going to give you something 
+			for the pain...
+
+
+	He takes out a HYPO, twists the dial, then injects her. 
+	A young man, who we'll come to know as EPRAN, sees this 
+	and approaches. He watches Bashir SCAN Norva with what 
+	might almost be disapproval.
+
+					EPRAN
+			You're not from this world.
+
+					BASHIR
+			No...
+
+	When Epran talks about the sick woman, he seems to have 
+	more disdain for her than sympathy.
+
+					EPRAN 
+			The Blight's quickened in her. 
+			There's nothing you can do.
+
+	Bashir can't accept this, continues to scan her.
+
+					EPRAN 
+			You should leave here. Now. Go 
+			back to where you came from and 
+			forget about this place.
+
+        DEEP SPACE NINE: "The Quickening" - 03/19/96 - TEASER       7A.
+
+12   CONTINUED:	(3)
+
+	And with that, he turns and moves away. Bashir 
+	continues working, through this unsettling moment...
+
+								FADE OUT.
+
+                         END OF TEASER                          
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE        8.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+13   EXT. RUINED CITY - DAY
+
+	Norva is still in a great deal of pain; Bashir scans 
+	her with his MEDICAL TRICORDER to find out why. In the 
+	background, some of the inhabitants watch our people 
+	with a mix of curiosity and suspicion.
+
+	Dax returns, and oddly her hair is down, no longer 
+	pinned by a barrette.
+
+					BASHIR 
+			The painkiller I gave her isn't 
+			having much effect.
+				(giving her another
+				hypo)
+			These people's neurophysiology is
+			so different from ours, I doubt
+			this "blight" is any danger to us.
+
+	Dax nods an acknowledgment.
+
+					DAX
+				(gesturing)
+			I got us transportation to the 
+			hospital.
+
+	Bashir looks over and sees a WOMAN approaching them, 
+	pushing a CART. She looks older than her forty years, 
+	beaten down by circumstance.
+
+					BASHIR
+				(sotto)
+			How'd you manage that? These 
+			aren't the friendliest people I've 
+			ever met.
+
+	As if in reply, Dax tosses her head to show her hair is
+	unbound. Bashir looks, and the Woman has her scraggly 
+	hair partially kept by Dax's barrette. The Woman 
+	flashes a craggy grin, pleased with the trade and how 
+	she looks. Off this moment...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE        9.
+
+14   INT. HOSPITAL
+
+	as Bashir and Dax ENTER holding Norva.
+
+	For a moment, our people think they've come to the 
+	wrong place -- it looks more like a restaurant than a 
+	hospital. There are two groups of people in different 
+	parts of the room, each sitting on cushions around low 
+	tables.
+
+	Each group is centered around someone who appears to be 
+	the guest of honor. He or she is dressed in nicely 
+	kept CLOTHING; not new or flashy, just clean and not 
+	tattered. The discerning viewer might notice that the 
+	two guests of honor have RED markings on their faces, 
+	while everyone else has the more common blue markings.
+
+	The guest of honor is the only person at each table 
+	partaking of a meal; while not opulent by our 
+	standards, the food, the drink, the very setting 
+	itself, is strikingly luxurious for this bleak world.
+
+	The room is LIT by OIL LAMPS positioned here and there,
+	and in one corner an Attendant is cranking an alien 
+	PHONOGRAPH by hand.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       10.
+
+14   CONTINUED:
+
+	It's been modified to work without power, and as the 
+	engraved cylinder rotates, the machine plays soft ALIEN 
+	MUSIC.
+
+					DAX
+			This is a hospital... ?
+
+	Before our people can figure out what's happening, an 
+	ATTENDANT approaches them. Like his colleagues he's 
+	wearing a robe over his street clothes, similar to a 
+	doctor's coat, but now tattered and no longer white. 
+	He zeroes in on Norva, sees her red markings.
+
+					ATTENDANT 
+			She's quickened...
+
+	He beckons two colleagues over.
+
+					ATTENDANT 
+			Take her to Trevean.
+
+	The two assistants start to carry her toward a door 
+	leading to a back room. The Attendant turns back to 
+	our people.
+
+					ATTENDANT 
+			You're offworlders.
+
+					DAX
+			Yes.
+
+					ATTENDANT 
+			Don't worry, we'll take care of 
+			her now.
+
+	He moves off.
+
+					DAX
+				(sotto)
+			I haven't seen a single person who 
+			doesn't have lesions on their 
+			face...
+
+	Bashir nods, indicates the two "guests of honor" in 
+	turn.
+
+					BASHIR
+			His look inflamed... so do that 
+			girl's over there --
+
+					DAX
+
+			Like the woman we brought in...
+
+	A moment as they ponder what it could mean...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       11.
+
+14   CONTINUED:	(2)
+
+	A distinguished-looking man of about forty ENTERS from 
+	the door through which Norva was taken. He wears a 
+	"wallet" full of vials at his side, and is just closing 
+	it up when he enters. It's TREVEAN, and as soon as the
+	male PATIENT (red welts) at the nearest table sees him 
+	he calls out to him.
+
+					PATIENT 
+			Trevean...
+
+	Our people react as they realize this is the man Norva 
+	asked to see.
+
+	Trevean turns at the sound of his name -- it's clear 
+	from the faces of everyone in the room that he is a 
+	respected, almost revered figure. The patient, who is 
+	not in any way debilitated by his condition, raises a 
+	goblet to toast him.
+
+					PATIENT 
+			Thank you...
+				(motioning around him)
+			For this.
+
+					TREVEAN
+			You deserve nothing less...
+
+	He says this with a simple kindness that speaks to a 
+	genuine generosity of spirit.
+
+					PATIENT
+				(to all)
+			Yesterday morning when I awoke, I 
+			saw that it had finally 
+			happened... I'd quickened. I 
+			always thought I'd be afraid...
+				(smiles)
+			But I wasn't. Because I knew I 
+			could come here.
+				(with emotion)
+			Last night I slept in a bed for 
+			the first time in my life.
+
+				indicating the phonograph)
+			I fell asleep listening to music.
+
+	There is an almost audible sigh from the gathered 
+	group, as if they can scarcely imagine the luxury.
+
+
+					PATIENT 
+			This morning I bathed in hot 
+			water... I put on clean clothes.
+				(to all at his table)
+			And now I'm here, with my family 
+			and friends...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE      11A.
+
+
+14   CONTINUED:	(3)
+
+				PATIENT (Cont'd)
+			Thank you, Trevean... for making 
+			this day everything I dreamed it 
+			could be.
+
+	The man holds his goblet up, then drinks its contents 
+	down. Everyone smiles as he does this except a young 
+	woman at the table who we'll come to know as EKORIA. 
+	She's trying not to show how upset she is.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       12.
+
+14   CONTINUED:	(4)
+
+	When the patient finishes and sits down, the people at 
+	his table move to hug him one by one.
+
+	Trevean turns away and approaches our people...
+
+					TREVEAN 
+			You're the strangers who brought 
+			Norva here...
+
+					DAX
+				(nodding)
+			How is she?
+
+					TREVEAN 
+			It was too late for her.
+
+	Our people react to this sad news...
+
+					TREVEAN 
+			If only she'd come sooner, I 
+			could've helped her.
+
+
+					BASHIR 
+			Then there is a treatment for the 
+			Blight?
+
+	Trevean is almost surprised by the question.
+
+					TREVEAN 
+			There is no cure. It's always 
+			fatal.
+
+					BASHIR 
+			I don't understand -- you just 
+			said you could've helped her.
+
+	Trevean takes a breath, considers for a beat.
+
+					TREVEAN 
+			Why are you here?
+
+					DAX
+			We received a distress call, we're 
+			here to help in any way we can.
+
+					BASHIR
+			I'm a doctor.
+
+	Trevean reacts to the word, nods thoughtfully.
+
+					BASHIR 
+			I have access to sophisticated 
+			diagnostic equipment.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE      12A.
+
+14   CONTINUED:	(5)	Trevean holds up a hand to stop him, impatient with 
+	where this is going.
+
+					TREVEAN
+			We had sophisticated equipment
+			once. Do you think our world was
+			always like this? Two centuries
+			ago, we were much like you. We
+			built great cities, traveled to
+			neighboring worlds...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       13.
+
+14   CONTINUED:	(6)
+
+					TREVEAN (Cont'd)
+			We believed nothing was beyond our 
+			ability. We even thought we could 
+			resist the Dominion.
+
+	Our people react.
+
+
+					TREVEAN
+			I see you've heard of them.
+				(beat)
+			Then take care not to defy them... 
+			or your people will pay the same 
+			price we did. The Jem'Hadar 
+			came... and left our world 
+			crushed, as an example to others.
+
+	Dax and Bashir exchange an uncomfortable look; the 
+	potential parallels to the Federation are ominous. 
+	Trevean motions to the Attendant.
+
+					TREVEAN
+			Bring Milani's child to me.
+				(turning to our people)
+			More than anything, the Dominion 
+			wanted my people to bear the mark 
+			of their defiance. And so they 
+			gave us the Blight.
+
+	Trevean holds the BABY out for us to see... it has the 
+	same blue welts on its face as everyone else. It's a 
+	tragic sight, a symbol of hopelessness.
+
+					TREVEAN 
+			We're all born with it... and we 
+			all die from it. The Blight 
+			quickens... the lesions turn 
+			red... and death comes soon 
+			after... Some die in childhood... 
+			most before they can have children 
+			of their own... only a few live to 
+			be my age.
+
+					BASHIR 
+			Trevean... if you're willing to 
+			tell us what you know about the 
+			Blight, we might be able to help.
+
+	Trevean shakes his head as if to say it's no use.
+
+					TREVEAN 
+			You should go.
+				(a warning)
+			If the Jem'Hadar find you here...
+
+					DAX
+			We're willing to take that risk.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       14.
+
+14   CONTINUED:	(7)
+
+	Suddenly we hear a clattering SOUND. Our people turn 
+	and see that the man who toasted Trevean has dropped 
+	his goblet onto his plate.
+
+	He's propped up against a cushion, his body TREMBLING, 
+	as if he's having some kind of mild seizure.
+
+	Strangely, no one is moving to help him. Instead, all 
+	watch him with almost wistful expressions.
+
+	Bashir makes to start toward him, but Trevean tries to 
+	grab his arm and stop him.
+
+					TREVEAN 
+			Don't --
+
+	Bashir breaks away and hurries toward the table.
+
+					BASHIR
+				(to the guests)
+			Give him some room...
+
+	The people at the table react to Bashir's approach with 
+	confusion, as if they have no idea why he's 
+	interfering.
+
+	Trevean motions to the Attendants to deal with Bashir. 
+	As Bashir tries to examine the man, the people near him 
+	try to push him away.
+
+					BASHIR 
+			I'm a doctor.
+
+	Ekoria reacts to the word... suddenly the Attendants 
+	are on Bashir, pulling him away.
+
+					ATTENDANT
+				(to Bashir)
+			Leave him alone, you're ruining 
+			everything.
+
+					BASHIR 
+			Can't you see he's dying?
+
+	They pull him back to Trevean, who's moved closer to 
+	the table.
+
+
+					TREVEAN
+				(calmly)
+			Of course he is. He came here to 
+			die.
+
+	Trevean sees our people's confused looks.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       15.
+
+14   CONTINUED:	(8)
+
+					TREVEAN
+			People come to me when they 
+			quicken. I help them leave this 
+			world peacefully, surrounded by 
+			their family and friends.
+
+					BASHIR 
+			What are you saying?
+
+					TREVEAN 
+			The herbs I give them cause death 
+			within minutes...
+
+					DAX
+			You poison them?
+
+					TREVEAN 
+			The Blight kills slowly. No one 
+			wants to suffer needlessly. 
+				(beat)
+			Like the woman you brought to me.
+
+					BASHIR
+				(in shock)
+			You... killed her...
+
+					TREVEAN
+				(nods)
+			I did what she asked of me.
+
+					BASHIR 
+			I thought this was a hospital... 
+			that you were a healer...
+
+					TREVEAN 
+			I am. I take away pain.
+
+	Trevean turns, sees the confusion and pain on the faces 
+	of the people whose death ritual was interrupted by 
+	Bashir.
+
+					TREVEAN 
+			You disrupted Tamar's death; it 
+			was supposed to be a very special 
+			moment for his family. I'm going 
+			to have to ask you to leave.
+
+Our people are too shocked by what they've learned to 
+	argue... off their faces as they turn to go...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       16.
+
+15   EXT. RUINED CITY - DAY
+
+	Bashir sits on a discarded crate of some kind, alone 
+	with his thoughts.
+
+	Alien SUPERNUMERARIES move through the street, going 
+	about their meager tasks, casting the stranger wary 
+	glances. The man we saw earlier carting bodies out of 
+	the city is now returning, his cart empty, his grim 
+	work done.
+
+	Dax approaches...
+
+					DAX
+			I found the distress beacon in an 
+			abandoned building not far from 
+			here. It has its own power 
+			source. My guess is that it's 
+			been repeating the same message 
+			for the last two hundred years.
+
+
+					BASHIR 
+				(resigned)
+			There's nothing for us to do 
+			here... we should go...
+
+	A small voice from off-screen interrupts.					EKORIA (O.S.)
+			Are you really a doctor?
+
+	Our people turn and see that Ekoria, the pregnant girl 
+	from the "hospital," has been standing in the shadows 
+	watching them.
+
+					BASHIR 
+			Yes.
+
+					EKORIA 
+			I've never met a doctor before.
+
+					DAX
+			Now you have. 
+				(smiles)
+			What do you think?
+
+	She half-smiles, disarmed by Dax's light manner.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       17.
+
+
+15   CONTINUED:
+
+					EKORIA
+			They say there's a woman in 
+			Nykalia who makes a potion that 
+			numbs the nerves. She gives it to 
+			people so they can withstand the 
+			pain of quickening and live a 
+			little longer. But Nykalia is so 
+			far away.
+
+	Her hand falls unconsciously to her swollen belly. 
+	Bashir realizes she's afraid she won't live long enough 
+	to have her baby.
+
+					BASHIR
+				(gently)
+			When are you due?
+
+					EKORIA 
+			Not for another two months.
+
+					DAX
+				(kindly)
+			That's not so long...
+
+
+					EKORIA
+			You never know when the quickening 
+			will come to you.
+
+					BASHIR
+			I'm Julian. What's your name?
+
+					EKORIA 
+			Ekoria...
+
+					DAX
+			I'm Jadzia....
+
+					EKORIA 
+			Did you come here to help us?
+
+					BASHIR 
+			No one here seems to want our 
+			help.
+
+					EKORIA 
+			I do. And I know others who'd 
+			welcome it, too.
+
+	Suddenly Dax's combadge CHIRPS.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT ONE       18.
+
+15   CONTINUED:	(2)
+
+					KIRA'S COM VOICE
+			Kira to Away Team.
+
+									INTERCUT WITH:
+
+15A  INT. RUNABOUT
+
+	Kira at the com.
+
+					DAX
+			Go ahead.
+
+					KIRA
+			Sensors just picked up two
+			Jem'Hadar ships headed this way...
+
+Bashir and Dax react to this unsettling news and we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       19.
+                            ACT TWO                             
+
+	FADE IN:
+
+16   INT. RUNABOUT
+
+	Dax and Bashir have beamed back up to the Runabout to 
+	discuss what to do with Kira.
+
+					KIRA
+				(off console)
+			The Jem'Hadar are leaving the 
+			Kendi system... looks like they're 
+			heading for the Obatta cluster.
+
+					DAX
+			Sounds like they're on a patrol 
+			route -- which means this system 
+			is probably next.
+
+					KIRA
+			We'd better go.
+				(working console)
+			Stand by to get underway.
+
+					BASHIR 
+			Hold on, Major... we can't just 
+			leave these people. They need our 
+			help.
+
+					KIRA
+			And they'll get it. As soon as we 
+			get back we'll notify Starfleet so 
+			they can put together a relief 
+			mission.
+
+					BASHIR 
+			That could take weeks, maybe even 
+			months. We're here now.
+
+	Bashir can see Kira considering what he's saying, 
+	presses his case.
+
+					BASHIR
+			Do you remember the plague on 
+			Boranis Three? People were dying 
+			by the thousands and no one there 
+			knew why. It took us an hour to 
+			identify the pathogen, and three 
+			days to dose the watertable and 
+			inoculate the entire population.
+				(beat)
+
+					DAX
+			We might be able to do the same 
+			thing here.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       20.
+
+16   CONTINUED:
+
+	Kira wants to help as much as Bashir and Dax do, and 
+	his argument has swayed her.
+
+					KIRA
+			All right... it's worth a try.
+			But we can't risk the Jem'Hadar 
+			detecting the runabout.
+				(glances at console)
+			I'll take it to the Jenkata
+			Nebula...
+
+					BASHIR
+			Come back for us in a week. With 
+			any luck, we'll have a cure by then.
+
+	Kira nods, wishing she could be as confident as 
+	Bashir... off this moment...
+
+16A  EXT. RUINED CITY - DAY (MATTE/OPTICAL)
+
+	Establishing...
+
+17   INT. TENEMENT HOUSE - DAY
+
+	A large room that has been subdivided by flimsy 
+	partitions and hanging curtains. Families live in 
+	areas no bigger than closets; CRATES and other scraps 
+	of wood and metal serve as makeshift tables and chairs. 
+	There's no running water, few windows, and the only 
+	LIGHT comes from oil lamps. Still, despite the 
+	poverty, the place is relatively clean and well-kept. 
+	There are even a few flowers here and there. We HEAR 
+	the constant background din of people talking, children 
+	squalling, etc.
+
+	Ekoria leads Dax and Bashir through the maze of 
+	partitions; they're carrying cargo containers full of 
+	MEDICAL SUPPLIES. They stack them with other supplies 
+	they've carried in and put in Ekoria's living area, a 
+	small room demarcated by curtains. There's a crude 
+	mattress in one corner, a makeshift table and stools. 
+	There are even attempts at decoration. Ekoria has 
+	collected various ARTIFACTS that have caught her eye -- 
+	pieces of now useless technology that she's using for 
+	other purposes.
+
+					EKORIA 
+			I'm sorry I don't have more space 
+			to offer you.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       21.
+
+17   CONTINUED:
+
+					BASHIR
+			Don't be. This is fine.
+				(gesturing)
+			Can I use this table for my 
+			equipment?
+
+					EKORIA 
+			Whatever you need.
+
+
+	Dax begins to clear a workspace as Bashir starts 
+	unpacking his equipment and setting it up. Ekoria 
+	helps Dax, who comes across a small PAINTING on a scrap 
+	of wood. It looks like it was done with homemade 
+	paint; the colors are a little faded and inconsistent, 
+	but even so, it's quite nice. It depicts what the city 
+	we've seen might have looked like before the 
+	destruction -- the buildings are graceful, trees line 
+	the streets, and the people are well dressed.
+
+					DAX
+			Did you do this?
+
+					EKORIA 
+			My husband did. He died last 
+			winter.
+
+	A flicker of grief flashes across her features, but she 
+	pushes past it, keeps helping Bashir and Dax set up.
+
+					EKORIA 
+			It's what he imagined our world 
+			used to be like. He painted a 
+			mural similar to it on the side of 
+			a building near here.
+				(shaking her head and smiling)
+			He traded a good pair of boots for 
+			the paint he needed.
+				(with pride in him)
+			He wanted to show people how 
+			things were, he thought it might
+			give them something to work 
+			toward...
+
+					DAX
+				(smiles)
+			Maybe later you could take us to 
+			see it...
+
+					EKORIA
+				(pleased)
+			All right.
+
+	They continue working for a beat... once the equipment 
+	is set up, Dax glances around with satisfaction.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       22.
+
+17   CONTINUED:	(2)
+
+					DAX
+			Well... looks like we have 
+			ourselves a clinic.
+
+	Bashir turns to Ekoria...
+
+					BASHIR
+			The first thing I need to do is 
+			run a complete biospectral 
+			analysis on an asymptomatic 
+			individual.
+
+	Dax smiles at his Doctorese, translates for Ekoria.
+
+					DAX
+			Loosely translated, that means he 
+			needs a volunteer.
+
+	Ekoria smiles and nods she's willing.
+
+					DAX
+			Great.
+				(wry)
+			If you'll just have a seat, the 
+			doctor will be with you in a 
+			moment.
+
+	Ekoria doesn't get it, looks confused.
+
+					DAX
+				(conspiratorial)
+			They love to keep you waiting, it 
+			makes them feel important.
+
+	Ekoria smiles, and Bashir beckons her over to the 
+	table.
+
+					BASHIR
+
+				(picking up his
+				tricorder)
+			How'd you like to see a picture of
+			your baby?
+
+	She is stunned by the possibility... off the hopeful 
+	image of Bashir beginning to scan we...
+
+								DISSOLVE TO:
+
+18   INT. TENEMENT HOUSE - LATER
+
+	where Bashir is hunched over some tabletop instrument 
+	studying a readout. Dax is preparing tissue samples 
+	for him, using a high-tech dropper to add small 
+	quantities of chemicals to a rack of tubes.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       23.
+
+18   CONTINUED:
+
+	They're engrossed in their work, and don't notice 
+	Ekoria rummaging through her shelves looking for 
+	something to offer her guests. We see her poke through 
+	some empty containers, and that it pains her not to 
+	have anything for them.
+
+	She considers for a moment, then takes a special box 
+	off the shelf. She looks inside, and we see she's 
+	saved a few cans of food, some jars with alien looking 
+	vegetables pickled in them, and two wine-like bottles. 
+	These are items she's been hoarding for her death 
+	ritual, the meal she one day plans to have in Trevean's 
+	hospital. She hesitates, as if unsure she wants to 
+	share these very precious items.
+
+	Suddenly --
+
+					BASHIR 
+			There it is.
+
+					DAX
+				(moving to look)
+			Let me see.
+
+	Ekoria can hear the excitement in their voices --
+
+					EKORIA 
+			What's happened?
+
+					DAX
+				(looking into scanner)
+			We've isolated the virus.
+
+					EKORIA 
+			Is that a good thing?
+
+					BASHIR 
+			It means we can start analyzing 
+			its molecular structure, look for 
+			binding sites so we can tailor an 
+			antigen.
+
+					DAX
+				(translating for Ekoria 
+				with a smile)
+			It's a very good thing.
+
+	Ekoria smiles --
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       24.
+
+18   CONTINUED:	(2)
+
+					BASHIR
+				(to Dax)
+			I'm going to start mapping the 
+			nucleotides. Do you know how to 
+			run a protein sequencer?
+
+					DAX
+			I think so.
+
+	Ekoria sees the enthusiasm with which they set to work, 
+	makes her decision -- she reaches and starts taking her
+	hoarded items out of the box. with genuine enthusiasm:
+
+					EKORIA 
+			I hope you two are hungry.
+
+					BASHIR
+				(without looking up)
+			Starving.
+
+
+					EKORIA 
+			Good.
+
+	Dax looks up and sees her laying out her hoard.
+
+					DAX
+			Looks like a feast.
+
+					EKORIA 
+			It was supposed to be.
+
+	Dax tweaks to something --
+
+					DAX
+			What do you mean?
+
+
+	Ekoria is reluctant to answer, she doesn't want to look 
+	like a bad host.
+
+					EKORIA 
+			Nothing. Do you like Takana root 
+			tea?
+
+					DAX
+				(moving to her)
+			Ekoria, where did you get all this 
+			food?
+
+					EKORIA
+				(admitting it)
+			I've been saving it for the 
+			hospital... for my death.
+
+	Our people react to this admission --
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       25.
+
+18   CONTINUED:	(3)
+
+					EKORIA
+				(smiling)
+			Something tells me I'm not going 
+			to need it anymore...
+
+	The hopefulness embodied in her gesture makes it 
+	impossible for our people to refuse to accept what 
+	she's offering them. Off this moment...
+
+19   EXT. CITY STREET - DAY (OPTICAL)
+
+	Alien SUPERNUMERARIES as needed. Ekoria watches as 
+	Bashir, in the background, talks to a woman sitting in 
+	front of her shanty. She has RED welts on her face, 
+	and Bashir is asking her if she's willing to let him 
+	study her. She shakes her head "no," and Bashir moves to 
+	join the others.
+
+					BASHIR
+			She's not interested either.
+
+					EKORIA 
+			I don't understand why you need 
+			people who've quickened to make 
+			your cure.
+
+					BASHIR
+				(as they continue on)
+			I need to study the progression of 
+			the--
+
+	Bashir bumps into someone heading the other direction, 
+	turns to apologize...
+
+
+					BASHIR
+			Sorry...
+
+	He realizes it's Epran, the young man from the Teaser, 
+	except he's quickened -- his welts have gone RED. 
+	Epran recognizes our people, studies them appraisingly 
+	for a beat. He's a man tempered by hardship, with a 
+	bitter wit.
+
+					EPRAN 
+			You're still here.
+
+					BASHIR 
+			Yes.
+
+					EPRAN 
+			I see the Blight has spared you. 
+			Maybe it doesn't like the taste of 
+			your blood.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       26.
+
+19   CONTINUED:
+
+					BASHIR
+			It seems to like yours.
+
+	Epran reacts to the fact Bashir has noticed his red 
+	welts.
+
+					EPRAN 
+				(sardonic)
+			I'd invite you to my death, but we
+			don't know each other that well.
+
+	He turns to move off...
+
+					BASHIR
+			What if I told you there was a
+			chance you didn't have to die?
+
+	Epran stops, hesitates, then turns to face Bashir 
+	again. A few other passersby heard what Bashir said, 
+	and look on out of curiosity.
+
+					BASHIR
+			I'm a doctor.
+
+	The crowd reacts to this claim.
+
+					EPRAN 
+				(mocking)
+			Don't tell me... you have a cure.
+
+					BASHIR
+			I'm working on one.
+
+					EPRAN
+			What will it cost me? A good
+			coat? A tilo of oil?
+
+A small knot of people are starting to gather.
+
+
+					BASHIR
+			It won't cost you anything.
+
+	The crowd responds skeptically, and Ekoria rises to 
+	Bashir's defense.
+
+					EKORIA 
+				(hard)
+			He can help us. Listen to him.
+
+	Bashir raises his voice, makes his case for all to 
+	hear.
+
+					BASHIR
+			I need volunteers, people who've
+			quickened.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       27.
+
+19   CONTINUED:	(2)
+
+					EPRAN
+			What will you do? See how loud we 
+			scream as the Blight burns through 
+			us?
+
+	This brings appreciative laughs from the gathering 
+	crowd.
+
+					BASHIR
+			I have medicines that dull pain; 
+			I have equipment unlike anything 
+			on your world.
+
+	He surveys the crowd, spots a young boy with his arm in 
+	a sling.
+
+					BASHIR
+			How'd you like me to fix that arm 
+			so you can go play with your friends?
+
+	The boy hesitates... Bashir moves to him, gently 
+	removes his sling.
+
+					BASHIR
+			I'm not going to hurt you...
+
+	He takes out his tricorder, scans the bone.
+
+					BASHIR
+			You've got a fracture right here. 
+			I'll bet it hurts.
+
+	The boy nods... Bashir passes a DEVICE over his arm, 
+	bathing it in a warm GLOW...
+
+					BASHIR
+			How's it feel now?
+
+	The boy flexes his arm... a look of utter astonishment 
+	crosses his features -- he's fine. He scampers off, 
+	happy as can be. A hush of awe comes over the crowd...
+
+					EPRAN
+				(amazed)
+			It isn't possible...
+
+					EKORIA
+			It is. You saw it. He can find 
+			a cure for us. But he needs our 
+			help.
+
+	Epran seems ready to consider it, but then Trevean 
+	steps out of the crowd...
+
+					TREVEAN 
+			Fixing a broken bone and curing 
+			the Blight are two different 
+			things.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT TWO       28.
+
+19   CONTINUED:	(3)
+
+					BASHIR 
+			I know that.
+
+	Trevean pitches his voice for all to hear...
+
+					TREVEAN 
+			Others have come to our city with 
+			promises of a cure. They stirred 
+			up hope... took food and clothes 
+			in exchange for their elixirs, 
+			then moved on.
+				(beat)
+			But their promises were always 
+			lies.
+
+	Murmurs of assent from the crowd...
+
+					TREVEAN 
+			And the poor wretches who believed 
+			in them always came to me in the 
+			end, begging for release...
+
+					BASHIR 
+			I just want to do what I can to 
+			help. I'm not making any 
+			promises.
+
+					TREVEAN 
+			Take care that you don't. Because 
+			we've dealt with those who give 
+			false hope before. Wherever 
+			they'd moved on to, we found 
+			them...
+				(with an edge)
+			And believe me, their deaths made 
+			the Blight look like a blessing...
+
+	With the crowd swayed to his side, their mood ugly, 
+	Trevean turns and moves away... off Bashir's face as he 
+	takes in his words...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      29.
+                           ACT THREE                            
+
+	FADE IN:
+
+20   INT. TENEMENT HOUSE
+
+	where a somewhat dispirited Bashir is hunched over a 
+	scanner, continuing to work despite the fact that no 
+	one volunteered to take part in his study. Ekoria is 
+	standing at the counter that serves as her kitchen, 
+	engaged in some domestic chore.
+
+	After a moment, Bashir smacks the table with his hand.
+
+					EKORIA
+				(concerned)
+			What's wrong?
+
+					BASHIR 
+			I'm trying to chart the life-cycle 
+			of the virus.
+				(frustrated)
+			It would be a lot easier if I'd 
+			gotten more tissue samples...
+
+	Ekoria realizes what he's saying, and feels ashamed for 
+	her people. Bashir lets out a tired breath, gets back 
+	to work. Ekoria studies him for a beat, amazed that 
+	he's still plugging away...
+
+					EKORIA 
+			Maybe you should go home. Maybe 
+			my people don't deserve your help.
+
+					BASHIR
+				(disagreeing)
+			They've just been suffering so 
+			long they've lost hope that things 
+			can be better.
+
+					EKORIA 
+			It's more than that. We've come 
+			to... worship death.
+
+	She turns to him, explains what she means.
+
+					EKORIA
+			I used to wake up --
+				(pointing to it)
+			-- look at myself in that mirror,
+			and be disappointed that I hadn't
+			quickened in my sleep.
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      30.
+
+20   CONTINUED:
+
+					EKORIA (Cont'd)
+			Going to Trevean seemed so much 
+			easier than going on living.
+
+					BASHIR 
+			But you don't feel that way 
+			anymore...
+
+					EKORIA 
+			Not since the baby...
+
+	She touches her swollen belly, smiles...
+
+					EKORIA 
+			My little boy... I wonder, can 
+			your machines tell me what he's 
+			going to look like when he grows 
+			up?
+
+					BASHIR 
+			Not really...
+
+					EKORIA 
+			Maybe he'll look like his 
+			father...
+
+	Her eyes go wet with emotion...
+
+					EKORIA 
+			I want to be here for him... to 
+			hold his hand when he takes his 
+			first step... kiss his knee when 
+			he scrapes it in a fall...
+
+      DEEP SPACE NINE: "The Quickening" - 03/1-9/96 - ACT THREE     31.
+
+20   CONTINUED:	(2)
+
+					BASHIR 
+			With any luck, you'll see him have 
+			children of his own...
+
+	A moment between them, then the SOUND of approaching 
+	footsteps. A beat later the curtains part and Dax 
+	appears.
+
+					DAX
+			There are some people here who 
+			want to see you...
+
+	She pulls back the curtain and reveals Epran standing 
+	there with two other symptomatic (red welted) people. 
+	He studies Bashir and his equipment with his typically 
+	skeptical manner.
+
+					EPRAN 
+			I suppose you're going to want to 
+			bleed me?
+
+	Bashir smiles slightly when he realizes Epran has come 
+	to volunteer.
+
+					BASHIR
+			Just a little.
+
+	Epran sits heavily, offers his arm.
+
+					EPRAN 
+				(glum)
+			I canceled my death for you... I 
+			was really looking forward to it.
+
+
+	Off this moment we...
+
+									DISSOLVE TO:
+
+21   INT. TENEMENT HOUSE - DAYS LATER - DUSK
+
+
+	Most of the curtains and partitions that once divided 
+	the room have been pulled aside -- the former 
+	inhabitants have sacrificed their rooms to make space 
+	for Bashir's expanding clinic.
+
+	Twenty-fourth century medical scanners, diagnostic 
+	readouts, and other equipment stand alongside primitive 
+	makeshift beds. There should be plenty of BLINKIES and 
+	LIT PANELS to indicate power is in use.
+
+	In addition to Epran and the other two people we saw in
+	the previous scene, there are about ten other patients 
+	in various stages of the Blight (all with red welts).
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      32.
+
+21   CONTINUED:
+
+	The atmosphere is busy, upbeat... and hopeful.
+
+22   ON BASHIR
+
+	as he hands Ekoria a HYPO, takes one for himself.
+
+					BASHIR
+			All right, everyone gets three
+			milligrams, including you.
+
+	She nods, and with endearing concentration, twists the 
+	unit to parcel out a dose, then carefully administers 
+	the hypo to herself.
+
+					BASHIR
+			Perfect.
+
+	She smiles and nods, and they part ways...
+
+23   ON DAX
+
+	as she tends to Epran, whose welts have gone to a deep 
+	red. He seems to be in some pain. She puts a NEURAL 
+	PAD on Epran's forehead and activates it. Once it 
+	starts to BLINK he visibly relaxes.
+
+					DAX
+			There... this'll dull the pain.
+
+	He nods, regards her for a beat.
+
+					EPRAN
+			I like your spots.
+
+					DAX
+			You told me that yesterday.
+
+					EPRAN
+				(shrugs)
+			I still like them.
+
+	She moves off with a smile... meets up with Bashir.
+
+					DAX
+			Epran has stopped responding to
+			the cordrazine... I had to put him
+			in an inhibitor field.
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      33.
+
+23   CONTINUED:
+
+					BASHIR
+				(nodding)
+			He's farther along than anyone 
+			here. But I'm hoping he'll be the 
+			first to respond to the antigen.
+
+	They watch as Ekoria chats with a patient, bringing a 
+	smile to his face before injecting them...
+
+					BASHIR 
+				(sotto)
+			Think of it... she might very well 
+			be holding the cure in her hand. 
+			Do you think we should tell her 
+			what she's giving them?
+
+					DAX
+			She's nervous enough about using 
+			that hypo. It's better to wait 
+			till we're positive.
+
+	The truth is, Bashir is sure... but doesn't want to say 
+	it.
+
+					BASHIR
+			I suppose.
+
+	He arches his back, stretches his tired muscles.
+
+					DAX
+			Why don't you take a break? 
+			You've been working nonstop for 
+			days.
+
+	He nods, moves away... off Dax's face as she watches 
+	him go...
+
+24   EXT. TENEMENT DOORWAY - NIGHT
+
+	(NOTE: IDEALLY THIS COULD BE CHEATED ON STAGE)
+
+	where Bashir is sitting on a crate, taking in the night 
+	air. After a beat, Ekoria comes out from inside the 
+	clinic.
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      34.
+
+24   CONTINUED:
+
+					EKORIA
+			Dax wanted me to tell you that 
+			Epran's white blood cell count has 
+			gone up another twelve percent.
+
+	Bashir is deeply pleased at this news...
+
+					BASHIR 
+			That's great news.
+
+					EKORIA 
+			It is?
+
+					BASHIR 
+			Trust me.
+
+					EKORIA
+				(simply)
+			I do.	He turns and sees the admiring look on her face...
+
+					EKORIA
+			I did from the start. I don't 
+			really know why.
+
+					BASHIR
+				(making light of it)
+			I'd like to think it's my bedside 
+			manner...
+				(off her look)
+			Doctors and nurses are supposed to 
+			project an air of caring 
+			competence.
+				(gesturing inside)
+			You were doing it in there.
+
+					EKORIA
+				(surprised)
+			Me?
+
+					BASHIR 
+			I've been watching you. You're 
+			very good with the patients.
+
+					EKORIA 
+			I'm just trying to be kind.
+
+
+					BASHIR 
+			A lot of people don't want to be 
+			around the sick. It reminds them 
+			of their own mortality.
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      35.
+
+24   CONTINUED:	(2)
+
+					EKORIA
+			It doesn't bother you?
+
+					BASHIR
+			Sometimes... but I think I'd 
+			rather confront mortality than 
+			hide from it. When you make 
+			someone well, it's like you're
+			chasing Death off, making him wait 
+			for another day.
+
+					EKORIA 
+			But Death comes to everyone in the 
+			end.
+
+					BASHIR 
+			Not to Kukalaka.
+
+					EKORIA 
+			Kuka-who?
+
+					BASHIR 
+			My first patient. A teddy bear.
+
+					EKORIA 
+			What's that?
+
+					BASHIR 
+			Sort of a soft puppet, stuffed 
+			with wadded cotton. When I was a 
+			boy, I took him everywhere I went. 
+			After a few years, he started to 
+			get a little threadbare, until one 
+			day his leg tore open and his 
+			insides spilled out and made a 
+			mess. My mother was all set to 
+			throw him out, but I wouldn't have 
+			it. At the tender age of five, I 
+			performed my first surgery. I re-
+			stuffed him, and stitched his leg 
+			closed. From then on, I did 
+			whatever it took to keep Kukalaka 
+			together. I must've sewn, 
+			stitched or patched every square 
+			inch of him.
+
+					EKORIA 
+			Why were you so determined to keep 
+			him in one piece?
+
+	He looks at her, wants her to know something about him:
+
+					BASHIR
+			I wouldn't be much of a doctor if 
+			I gave up on a patient, would I?
+
+      DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT THREE      36.
+
+24   CONTINUED: 	(3)
+
+	She hears the unspoken promise in his statement, made 
+	to her and her people. A moment, then...
+
+					EKORIA
+			Where's Kukalaka now?
+
+					BASHIR
+				(tossing it off)
+			Some closet somewhere...
+
+	Ekoria gives him a probing look...
+
+					BASHIR
+				(admitting it)
+			On a shelf in my room...
+
+	They share a smile... Suddenly --
+
+					DAX (0. S. )
+			Julian.
+
+	Dax emerges from inside, a panicked look on her face.
+
+					DAX
+			Get in here, now.
+
+									CUT TO:
+
+25   INT. TENEMENT HOUSE - NIGHT
+
+	as Dax leads Bashir and Ekoria to Epran's bed. The 
+	diagnostic console beside him is BEEPING URGENTLY and 
+	Epran is wracked with terrible pain.
+
+26   CLOSE ON EPRAN (OPTICAL)
+
+	as Bashir holds his head so he can examine his face. 
+	A large red WELT has formed underneath the Neural Pad 
+	on his forehead, and as we watch, red tendrils SNAKE 
+	OUT from it and crawl across his face... off this 
+	terrible moment we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      37.
+                           ACT FOUR                             
+
+	FADE IN:
+
+27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT
+
+	Epran continues to writhe in pain as Bashir scans him 
+	with a TRICORDER, desperate to find out what's gone 
+	wrong.
+
+	Dax administers a HYPO, but it has no effect on the 
+	pain.
+
+					BASHIR
+				(off tricorder)
+			Something's causing the virus to 
+			mutate...
+
+					DAX
+			Could it be a reaction to the 
+			antigen?
+
+					BASHIR
+				(urgent)
+			I don't see how -- I need a micro-
+			cellular scanner.
+
+	Dax hurries to get one...
+
+
+					EPRAN
+				(through the pain)
+			Bashir...
+
+	The word is as much an accusation as a plea for help... 
+	Ekoria does her best to comfort him.
+
+					EKORIA 
+			He'll take care of you... you're 
+			going to be all right...
+
+	She looks at Bashir, hoping that this is true... Dax 
+	hands Bashir the scanner and he activates it, passes it 
+	over Epran...
+
+28   CLOSE ON EPRAN (OPTICAL)
+
+	as the scanning beam passes over his face, several NEW 
+	WELTS surface on his skin, red and inflamed...
+
+29   RESUME SCENE
+
+	as Bashir reacts, realizing what this means...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      38.
+
+29   CONTINUED:
+
+					BASHIR
+			My god... it's the EM fields from 
+			our instruments.
+
+	Suddenly ANOTHER PATIENT, LATIA, lets out a moan of 
+	pain... a beat later, the diagnostic scanner next to 
+	her starts to BEEP URGENTLY...
+
+	Bashir snatches the Neural Pad off Epran's forehead.
+
+					BASHIR
+				(to Dax and Ekoria)
+			Shut everything down -- now!
+
+	Another patient gasps in pain and his scanner goes off. 
+	A WOMAN who was visiting a sick friend runs out of the room, 
+	terrified...
+
+	Bashir, Dax and Ekoria hurry around the room 
+	frantically shutting off equipment... the patients moan 
+	in pain, reach imploringly for help as our people 
+	pass...
+
+					DAX
+				(calling across the room)
+			All right, everything's off.
+
+	Bashir bends to examine Latia...
+
+
+					BASHIR 
+			The mutation rate hasn't slowed... 
+			the effect must be cumulative...
+
+					LATIA
+				(anguished)
+			Help me...
+
+					BASHIR
+				(giving him a hypo)
+			Give everyone four milligrams of 
+			cordrazine...
+
+
+	Ekoria and Dax set to work around the room with HYPOS. 
+	As Ekoria approaches Epran, he lets out a strangled 
+	cry... she sees his body go limp, puts a hand to his 
+	chest.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      39.
+
+29   CONTINUED:	(2)
+
+					EKORIA
+			His heart's stopped!
+
+	Bashir hurries over and immediately begins to 
+	administer CPR to Epran's still form... he massages his 
+	chest, gives him a few breaths, repeats the process...
+
+					BASHIR
+			Come on... breathe...
+
+	He continues giving CPR well past the point of no 
+	return...
+
+					BASHIR
+			Breathe.
+
+	Finally, Dax tries to stop him...
+
+					DAX
+			Julian...
+
+	But he keeps at it...
+
+					DAX
+			Julian.
+
+	She pulls him back... Bashir looks down at Epran's 
+	still form, devastated by what's happened.
+
+	Suddenly Trevean and two of his Attendants burst in, 
+	summoned by the woman who ran out. Trevean looks 
+	around, aghast at the suffering he sees. His features 
+	go hard, his voice cold.
+
+					TREVEAN 
+				(to Bashir)
+			What have you done?
+
+	Bashir doesn't answer him, his attention is on Latia, 
+	who's reaching a hand out to him...
+
+					LATIA
+			Help me...
+
+	Bashir gives her another HYPO, but it's no use -- the 
+	virus is burning through the poor woman's body. When 
+	she sees Trevean --
+
+					LATIA
+			Trevean, please...
+
+	Trevean moves toward her, reaching into his "wallet" 
+	for a VIAL of liquid.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      40.
+
+29   CONTINUED:	(3)
+
+	Bashir sees what he's going to do, moves to intervene.
+
+					TREVEAN 
+			Get out of my way!
+
+					LATIA
+				(imploring)
+			Trevean...
+
+					TREVEAN 
+			She's asking for me! You have no 
+			right to interfere!
+
+	A terrible moment as Bashir struggles with what to 
+	do... until finally, he let's Trevean push past him...
+
+	He watches as Trevean pours the contents of the vial 
+	into the dying woman's eager mouth...
+
+					LATIA
+				(through her pain)
+			Thank you...
+
+	A moment, then she dies... other patients spot Trevean 
+	and his Assistants in their midst, start calling out to 
+	them...
+
+	Dax looks to Bashir for guidance, sees that he's 
+	decided not to interfere... she watches as they go 
+	about their grim business... off Bashir's devastated 
+	features...
+
+									DISSOLVE TO:
+
+30   INT. TENEMENT HOUSE - MORNING
+
+	The room is now completely silent. In the span of one 
+	night, the once-thriving clinic has become a morgue. 
+	Every one of the Patients is now dead, every body on 
+	every bed covered with a dingy sheet.
+
+	Trevean and his men have gone, their work done. Bashir 
+	sits in a corner, shattered. Dax approaches him... 
+	after a quiet moment, he speaks, his voice far away...
+
+					BASHIR 
+			I remember running a hematology 
+			scan on Epran the other day... 
+			there were changes in the viral 
+			base-pair sequence, and I didn't 
+			know why...
+
+					DAX
+			There's no way you could've known 
+			it was because of our instruments.
+
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      41.
+
+30   CONTINUED:
+
+					BASHIR 
+			I should've put it together... I 
+			should've run more tests. But I 
+			was so bent on finding a cure I 
+			ignored the warning signs.
+
+					DAX
+			That's not fair and you know it.
+
+					BASHIR
+				(hard)
+			Isn't it?
+				(beat)
+			I'm going to let you in on a 
+			little secret, Jadzia. I was 
+			looking forward to tomorrow: to 
+			seeing Kira again and casually 
+			asking, "how was the Nebula?" 
+			By the way, I cured that Blight 
+			thing those people were having.
+
+					DAX
+			It's not a crime to believe in 
+			yourself, Julian.
+
+					BASHIR
+				(gesturing all around)
+			They believed in me. Look what it 
+			got them.
+
+	He stands, moves away...
+
+					BASHIR 
+			Trevean was right... there is no 
+			cure... the Dominion made sure of 
+			that.
+				(bitterly)
+			But I was so arrogant, I thought 
+			I could find one in a week...
+
+	Dax studies him for a beat before replying...
+
+					DAX
+			Maybe it was arrogant to think 
+			that. But it's even more arrogant 
+			to think there isn't a cure just 
+			because you couldn't find it.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      42.
+
+30   CONTINUED:	(2)
+
+	And with that, she turns and EXITS... leaving Bashir 
+	with a great deal to think about...
+
+31   EXT. RUINED CITY - DAY
+
+	as Bashir wanders through the street, lost in 
+	thought... As he passes, people point him out to each 
+	other -- there's the doctor who caused so many to die 
+	painfully.
+
+	A MAN passes in front of him, spits on the ground... 
+	Bashir can't even look him in the eye... continues 
+	on...
+
+32   EXT. ANOTHER PART OF THE CITY - DAY
+
+	as Bashir makes his way through the ruined street, 
+	something off-screen catches Bashir's eye...
+
+33   NEW ANGLE
+
+	revealing that Bashir's standing in front of the MURAL 
+	Ekoria's husband painted. Even though it's weathered
+	and damaged in places, from this angle, it looks like 
+	he's standing in the long-gone street itself -- 
+	magically transported to a better time and place.
+
+	He stands there, struck by the hopefulness embodied in 
+	the act of painting such a thing amidst all the 
+	destruction... until --
+
+					EKORIA (O.S.)
+			I'm glad you got a chance to see 
+			it before you left.
+
+
+	He turns at the sound of her voice... and reacts to the 
+	sight of her.
+
+34   INCLUDE EKORIA
+
+	We see that the welts on her face have gone RED -- 
+	she's quickened.
+
+					BASHIR
+				(stricken)
+			Ekoria...
+
+	She smiles sadly... her hand falls to her belly...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR     42A.
+
+34   CONTINUED:
+
+					EKORIA
+			I thought I was going to make 
+			it... I really did...
+
+					BASHIR 
+			I'm sorry...
+
+					EKORIA 
+			Don't be... you gave me hope. I 
+			hadn't felt that since my husband 
+			died...
+
+	She looks at the Mural, smiles as she remembers him.
+
+					EKORIA 
+			I'm going to see Trevean 
+			tomorrow... I wish you could be 
+			there...
+
+					BASHIR 
+			I have to go...
+
+					EKORIA 
+			I understand...
+
+	She moves to him, kisses him tenderly on the cheek...
+
+					EKORIA 
+			Good-bye...
+
+	A moment between them, then she turns and moves away... 
+	Bashir hesitates, then calls after her...
+
+					BASHIR
+			Ekoria, wait...
+
+	We see a look of determination on his features, then cut to --
+
+35   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	in orbit.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FOUR      43.
+
+35A  INT. RUNABOUT
+
+	Bashir and Dax have beamed up to the runabout to talk 
+	with Kira. The mood between them is somber... Bashir 
+	is saying good-bye.
+
+					KIRA
+			Are you sure about this?
+
+					BASHIR
+			I can't leave these people... not 
+			now.
+
+	Kira can see the depth of feeling in him, doesn't 
+	argue...
+
+					KIRA
+			Whenever you're ready, contact the 
+			station and we'll have a runabout 
+			here within days.
+
+	Dax moves to him...
+
+					DAX
+			You know what really worries me, 
+			Julian... ?
+				(off his look)
+			That without me, you won't have 
+			anyone to translate for you...
+
+	They share a smile... he moves toward the transporter 
+	pad, where some supplies are stacked in CONTAINERS.
+
+					DAX
+				(heartfelt)
+			Good luck...
+
+35B  EXT. RUINED CITY - DAY (OPTICAL)
+
+	as Bashir MATERIALIZES in the street, the supplies at 
+	his feet...
+
+	Passersby see him, give wide berth to the doctor who 
+	brought so much suffering... off his resolve to do what
+	he can for these people we...
+
+36   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "The Quickening" - 0-3/19/96 - ACT FIVE      44.
+                           ACT FIVE                             
+
+	FADE IN:
+
+37   INT. TENEMENT HOUSE - NIGHT
+
+	Ekoria is resting quietly in bed... Bashir is working 
+	at a table arrayed with test tubes, beakers, Bunsen 
+	burners, and other low-tech medical equipment. His 
+	twenty-fourth century equipment has been packed away 
+	in crates and stacked in one corner.
+
+	Bashir adds a drop of liquid to a tube, twirls it 
+	around, and the liquid changes color -- he lets out a 
+	frustrated breath. Ekoria comes out of her reverie at 
+	the sound...
+
+					EKORIA 
+			What is it?
+
+					BASHIR
+				(disappointed)
+			There's not a trace of the antigen
+			I gave you in your bloodstream...
+				(unable to figure out 
+				why)
+			Your immune system must've 
+			rejected it...
+
+	Ekoria winces and stiffens as she's hit with a spasm of 
+	pain. Bashir moves to her side...
+
+					BASHIR
+			Is it bad?
+
+
+	She nods, we can see her fighting the pain.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      45.
+
+37   CONTINUED:
+
+					BASHIR 
+			I can give you another hypo, but 
+			you've got a lot of cordrazine in 
+			your system already. It might be
+			hard on the baby's metabolism.
+
+	She nods that she understands...
+
+					EKORIA
+			I'll wait...
+
+	He smiles at her bravery in turning down the 
+	painkiller... off this moment we...
+
+									CUT TO:
+
+38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY
+
+	suspended on a wire frame over a Bunsen burner, a 
+	viscous yellow liquid bubbling inside.
+
+					EKORIA (O.S.)
+			What is that smell?
+
+39   WIDEN
+
+	to include Ekoria in bed, Bashir at his worktable. The 
+	progress of the disease can be seen on her face -- 
+	there are a few more welts, and they're redder and more 
+	inflamed.
+
+
+					BASHIR
+			I'm making a salve for your 
+			lesions...
+
+					EKORIA 
+				(wry)
+			As long as I don't have to drink 
+			it...
+
+	He moves to her side...
+
+					BASHIR 
+			How do you feel?
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      46.
+
+39   CONTINUED:
+
+
+						EKORIA 
+			I've been better...
+
+					BASHIR 
+			Can you sit up for me?
+
+	She nods, and he helps her to sit up. He takes an 
+	improvised STETHOSCOPE he's constructed -- a cone-
+	shaped tube -- and places it on her back.
+
+					BASHIR 
+			Breathe...
+
+	She does, and we hear that her breath is a bit ragged.
+
+					BASHIR 
+			Again...
+
+	Bashir doesn't like what he hears, but tries not to 
+	show it.
+
+					BASHIR 
+			Let's see how the baby's doing...
+
+	She pulls her blanket down off her belly, and Bashir 
+	feels her swell, touching to see what position the 
+	baby's in.
+
+
+					BASHIR
+			His head's over here now...
+
+					EKORIA 
+			I'm not surprised... feels like 
+			he's been turning somersaults in 
+			there...
+
+	He puts the stethoscope to her belly. After a beat, he 
+	repositions it, listens again.
+
+					BASHIR 
+			His heart's getting stronger every 
+			day... I'd say another six 
+			weeks...
+
+	Ekoria's features fall...
+
+					EKORIA 
+			I'll never make it that long...
+
+	Bashir isn't about to lie to her...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      47.
+
+39   CONTINUED:	(2)
+
+					BASHIR
+				(gently)
+			I can induce labor in another two
+			weeks... the baby will be old
+			enough then.
+
+	Ekoria nods, sets this as her goal in her mind...
+
+					EKORIA
+			Two weeks... 
+
+	Off her determination...
+
+									DISSOLVE TO:
+
+40   INT. TENEMENT HOUSE - NIGHT
+
+	Ekoria's resting fitfully, her disease having 
+	progressed still further. She moans in her sleep,
+	shifts uncomfortably. A HAND reaches into FRAME, dips 
+	a brush into a beaker... then dabs the yellow salve 
+	onto Ekoria's inflamed welts. After a moment, her eyes 
+	flutter open, she focuses...
+
+41   WIDEN
+
+	to include Trevean, sitting at her side with the brush 
+	in his hand, looking down at her with kindness. Bashir 
+	is not in the room, having gone to fetch supplies.
+
+	She reacts to Trevean's presence in the dim light cast 
+	by the oil lamps --
+
+					EKORIA
+			Trevean...
+				(softly)
+			Am I... dead?
+
+					TREVEAN
+				(gently)
+			Is that what you want?
+
+	Part of her wants it, but another part of her wants to 
+	hang on...
+
+					TREVEAN
+			I can end your suffering...
+
+	He touches her belly gently...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      48.
+
+41   CONTINUED:
+
+					TREVEAN 
+			Your child will die having known 
+			nothing but peace...
+
+	A moment as pain and hope fight it out within her...
+
+					EKORIA 
+			No... he deserves a chance to 
+			live...
+
+					TREVEAN 
+			The Blight will take him in the 
+			end.
+
+	Trevean says this from a deep weariness, a well of 
+	suffering. Suddenly --
+
+					BASHIR (O.S.)
+			I thought you let people come 
+			to you...
+
+
+	Trevean turns to see Bashir in the doorway, carrying 
+	two containers of water hung from a stick across his 
+	back.
+
+					BASHIR 
+			I didn't realize you made house 
+			calls.
+
+	Trevean stands, moves to face him.
+
+					TREVEAN 
+			I was concerned that she might be 
+			too weak to come.
+
+	Bashir studies Trevean for a beat...
+
+					BASHIR 
+			I don't understand why you're so 
+			obsessed with death, Trevean. 
+			From what I've seen, you've lived 
+			with the Blight longer than anyone else.
+
+					TREVEAN 
+			Yes... and I've seen more 
+			suffering than anyone else.
+
+	Trevean lets his words hang in the air... long enough 
+	to let Bashir realize that his question contained its 
+	own answer...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      49.
+
+41   CONTINUED:	(2)
+
+					TREVEAN 
+			Good-bye, Ekoria... I hope you 
+			live to see your baby...
+
+	She smiles, accepting the sincerity of his wish...
+
+	With a final look, Trevean walks past Bashir and out 
+	the door, having given him a glimpse of what drives 
+	him. A quiet moment, then...
+
+					EKORIA 
+			Trevean means well... he's a kind 
+			man, in his own way...
+
+	Off Bashir as he considers her words...
+
+									CUT TO:
+
+42   INT. TENEMENT HOUSE - DAYBREAK
+
+	as Ekoria arches her back and cries out in pain...
+
+43   WIDEN
+
+	to include Bashir, poised between her legs... she's in 
+	labor...
+
+					BASHIR
+			That's it... push.
+
+	Ekoria tries to gather her breath for another push...
+
+					BASHIR
+			Good... now breathe...
+
+	She pants, tries to swallow back the pain... after a 
+	beat, Bashir breaks into a grin...
+
+					BASHIR 
+			I can see his head. I'm going to 
+			turn it around... gather your 
+			strength for one last push...
+
+	She steals herself, draws in a breath... and pushes -- 
+	a moment, then she hears the SOUND she's been hanging 
+	on to life for: her baby's CRY...
+
+	She smiles through her pain... falls back on her bed. 
+	The effort of giving birth has brought her to the brink 
+	of death...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      50.
+
+43   CONTINUED:
+
+	Bashir sees that Ekoria is barely hanging on, brings 
+	the bloodied baby near her face so she can see...
+
+					BASHIR
+			Ekoria... 
+
+	Her eyes open partway; she's too weak to lift her 
+	head, but she smiles at the sight of her son...
+
+					EKORIA
+			He's beautiful...
+
+	Bashir gives him to her, starts to wipe away the blood 
+	and placental tissue... then a look of utter 
+	astonishment crosses his features...
+
+					BASHIR
+			My god...
+
+	He wipes away more blood to be sure...
+
+					BASHIR
+			He doesn't have any lesions...
+				(with awe)
+			The antigen must've been absorbed
+			through the placenta... he doesn't
+			have the Blight...
+
+					EKORIA
+			It's a miracle...
+
+	She dies, a smile on her lips... Bashir looks down at 
+	her still form, then picks up the baby, Ekoria's last 
+	gift to her people...
+
+	The emotion of it all overwhelms him... he doesn't know 
+	whether to collapse in tears or cry out for joy... off 
+	this bittersweet moment...
+
+44   OMITTED
+
+45   INT. HOSPITAL - DAWN
+
+	where Trevean is looking at the baby in Bashir's arms, 
+	awed by what it represents... Trevean's Attendants 
+	stand nearby, staring at the tiny bundle in his hands 
+	in stunned silence...
+
+					TREVEAN
+			I see that I misjudged you...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      51.
+
+45   CONTINUED:
+
+	Earlier, Bashir might've been tempted to throw what's 
+	happened in Trevean's face, but not anymore -- he's 
+	come to understand that Trevean is a compassionate man 
+	living in a terrible time.
+
+					BASHIR 
+			Every pregnant woman should be 
+			inoculated as soon as possible... 
+			the antigen will protect their 
+			babies...
+
+	The two men regard each other, the rancor between them 
+	has evaporated in the face of what's happened. 
+	Finally...
+
+					TREVEAN
+			I'll see that it's done...
+
+	Bashir acknowledges with a nod...
+
+					BASHIR
+			Ekoria had no family left...
+
+	A moment, then...
+
+					TREVEAN 
+			I'd be happy to raise her son as 
+			my own...
+
+					BASHIR
+				(smiling)
+			I think she'd have liked that...
+
+	Bashir hands him the child... off the moment between 
+	the two men...
+
+46   OMITTED
+
+									CUT TO:
+
+47   EXT. CITY STREET - DAY
+
+	where Trevean is holding the baby up for all to see... 
+	a crowd is gathering around him, people are running to 
+	Join and see the miracle for themselves...
+
+48   PULL BACK TO REVEAL
+
+	Bashir, standing at a distance... watching this scene 
+	of newfound hope... off this moment...
+
+49   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      52.
+
+49A  INT. INFIRMARY
+
+	where Bashir is sitting at a diagnostic console,
+	running tests on some samples he brought back from the
+	planet.
+
+					COMPUTER VOICE
+			Nucleotide sequencing complete... 
+			viral reproduction normal.
+
+	Bashir lets out a frustrated breath, takes a TUBE out 
+	of a SLOT in the console, slides in another.
+
+					BASHIR
+			Let's try an A-to-C base pair 
+			reshuffling...
+
+	The Computer BEEPS and sets to work... After a beat...
+
+					SISKO (O.S.)
+			Doctor...
+
+
+	Bashir turns to see SISKO has ENTERED, holding a PADD.
+
+
+					SISKO
+			I read your report.
+
+	Sisko says the two simple words an officer wants to 
+	hear from his captain.
+
+					SISKO
+			Good work.
+
+	Bashir accepts this politely, but with little 
+	enthusiasm.
+
+					BASHIR
+			Thank you, sir.
+
+					COMPUTER VOICE
+			Nucleotide sequencing complete... 
+			viral reproduction normal...
+
+	Sisko realizes what Bashir is doing; off his look...
+
+					BASHIR
+				(quiet)
+			People are still dying back there.
+
+					SISKO
+			Yes... but their children won't.
+
+	Bashir takes little solace in this...
+
+					BASHIR
+			That's what I keep telling 
+			myself...
+
+       DEEP SPACE NINE: "The Quickening" - 03/19/96 - ACT FIVE      53.
+
+49A CONTINUED:
+
+	Sisko nods that he understands what he's going 
+	through... a moment between them, then Sisko turns and 
+	EXITS...
+
+	A beat, then Bashir slides another tube into the slot, 
+	works the console.
+
+					BASHIR
+			Initiate reshuffling sequence...
+
+	The computer works, and Bashir sits there, patiently 
+	waiting... we start to PULL BACK, until Bashir is 
+	framed inside the Infirmary... off the lonely image of 
+	the doctor working into the night we...
+
+50   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

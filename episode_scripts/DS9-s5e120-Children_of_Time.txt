@@ -1,0 +1,3348 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                      "Children of Time" 
+                          #40510-520 
+                              
+                           Story by 
+                  Gary Holland and Ethan Calk 
+                              
+                          Teleplay by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       February 25, 1997
+
+     STAR TREK: DS9 - "Children of Time" - 02/25/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Children of Time" 
+                             CAST 
+
+          SISKO                    YEDRIN
+          KIRA                     MIRANDA
+          ODO                      BROTA
+          BASHIR                   GABRIEL
+          DAX                      LISA
+          QUARK                    MOLLY
+          O'BRIEN                  PARELL
+          WORF                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+     STAR TREK: DS9 - "Children of Time" - 02/25/97 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Children of Time" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+        DEFIANT                         DEFIANT
+          BRIDGE                        PLANET'S SURFACE
+          CORRIDOR                      SETTLEMENT
+          ENGINE ROOM                   TOWN SQUARE
+          MESS HALL                     FARMLAND
+          SICKBAY                       
+          KIRA'S QUARTERS               
+        MEETING HALL                  
+        CAVE                          
+
+    DS NINE - "Children of Time" - 02/26/97 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Children of Time" 
+                      PRONUNCIATION GUIDE 
+
+          GAIA                     GUY-uh
+          GOLIAN                   GO-lee-uhn
+          KAHLESS                  KAY-less
+          KENDA                    KEN-duh
+          MOLOR                    moh-LOR
+          PELIOS                   PELL-ee-ose
+          Q'APLA                   k-PLAH
+          STO'VO'KOR               STO-vo-kor
+          TORVIN'S                 TOR-vinz
+          YEDRIN                   YEH-drin
+          GYROMAGNETIC             GY-row-mag-NET-ik
+          KELIPATE                 KELL-ih-pate
+          MEK'LETH                 MECK-leth
+          TESSIPATES               TESS-ih-pates
+          TORGA                    TOR-guh
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       1.
+
+STAR TREK:  DEEP SPACE NINE
+                          "Children of Time"                           
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	as it travels at warp.
+
+					SISKO (V.O.)
+			Captain's Log, Stardate 50814.2. 
+			The Defiant is returning to Deep 
+			Space Nine after a weeklong 
+			reconnaissance mission in the 
+			Gamma Quadrant.
+
+2    INT. DEFIANT - MESS HALL
+
+	Where ODO is sitting with KIRA and DAX as they have 
+	breakfast. SUPERNUMERARIES as needed. Dax stretches 
+	her weary bones...
+
+					DAX 
+			I can't wait to get home and sleep 
+			in my own bed... the bunks on this 
+			ship are so uncomfortable.
+
+
+					KIRA
+			You know what I could use? A 
+			weekend at the Golian Spa.
+
+					DAX
+			Maybe you and Shakaar can slip 
+			away when we get back?
+
+					KIRA
+			We're not seeing each other 
+			anymore.
+
+	Dax and Odo react -- neither of them knew.
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       2.
+
+2    CONTINUED:
+
+					ODO
+			When did this happen?
+
+					KIRA
+			Last week.
+
+	Odo's heart leaps up into his throat. After feeling he 
+	lost Kira to Shakaar, she's suddenly available again, 
+	and it's bringing his long-buried feelings to the 
+	surface.
+
+					DAX 
+			No wonder you've been so down 
+			lately.
+
+					KIRA
+			I miss him. But last time we were 
+			on Bajor, we went to the Kenda 
+			Shrine and asked the Prophets if 
+			we were meant to walk the same 
+			path.
+
+					DAX
+			And?
+
+					KIRA
+			We're not.
+
+	Dax isn't sure what she thinks of this...
+
+					DAX 
+			You make it sound so... cut and 
+			dry.
+
+					KIRA
+			The way I see it, people are 
+			either meant to be together or 
+			they're not.
+
+					DAX
+			I guess I'd rather believe that 
+			any relationship can work if both 
+			people really want it to.
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       3.
+
+2    CONTINUED:	(2)
+
+	Dax and Kira glance at Odo to see if he has an opinion 
+	on the subject.
+
+					ODO 
+			I'm not sure I have an opinion on 
+			the subject...
+
+	He stands to go...
+
+
+					ODO 
+			Excuse me. I need to regenerate.
+
+	And with that, he moves off... Kira watches him head 
+	for the door...
+
+					KIRA 
+			Is he all right?
+
+					DAX
+			You know Odo. This sort of talk 
+			makes him uncomfortable.
+
+3    INT. DEFIANT - CORRIDOR
+
+	as Odo ENTERS from the mess hall. Now that he's out of 
+	sight, he leans his back against the wall... suddenly, 
+	he has a lot to think about...
+
+4    INT. DEFIANT - BRIDGE
+
+	SISKO is in the command chair with a MUG of coffee. 
+	Kira, Dax, WORF and O'BRIEN are manning side consoles. 
+	An N.D. is distributing coffee from a tray, offers a 
+	cup to Sisko.
+
+					SISKO
+				(no thanks)
+			I'm trying to cut down.
+
+	The N.D. nods and moves to...
+
+4A  O'BRIEN AND KIRA
+
+	As he smiles his thanks and takes a coffee...
+
+					O'BRIEN
+				(to Kira) 
+			I'm making Molly a dollhouse for 
+			her birthday.
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER      3A.
+
+4A  CONTINUED:
+
+					O'BRIEN (Cont'd) 
+			The house itself was easy, but the 
+			furniture -- even with a micro-
+			lathe, I'm not sure I'm going to 
+			be able to finish it all in time.
+
+					KIRA
+				(smiles) 
+			I guess her dolls are going to 
+			have to rough it for a while.
+
+5    DAX
+
+	as she spots something intriguing on her console.
+
+					DAX
+			Hmm, interesting.
+				(off Sisko's look) 
+			I'm getting some unusual readings 
+			from a nearby solar system.
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       4.
+
+5    CONTINUED:
+
+					WORF
+			What kind of readings?
+
+					DAX 
+			There's some sort of energy 
+			barrier surrounding the fourth 
+			planet.
+
+	His interest piqued, Sisko moves closer to Dax. On her 
+	MONITOR, we see a schematic of the planet and the 
+	barrier around it.
+
+					KIRA
+				(off her console) 
+			It's hard to tell from all the 
+			interference, but there could be 
+			lifeforms on the surface.
+
+					DAX
+			If there are, I'd be interested to 
+			see how they've adapted to the 
+			quantum fluctuations in the 
+			barrier.
+
+	This is an intriguing possibility, but O'Brien wants to 
+	get home.
+
+					O'BRIEN 
+			Maybe we can check it out the next 
+			time we come this way.
+
+					DAX
+			It'll be too late -- at the rate 
+			the interference is intensifying, 
+			in another few weeks, we won't 
+			even be able to send a probe 
+			through it.
+
+	Sisko can see where this is heading...
+
+					SISKO
+			Dax...
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       5.
+
+5    CONTINUED:	(2)
+
+					DAX 
+			I know everyone wants to go home, 
+			but if we're going to take a look 
+			at this planet, this is our only 
+			chance.
+
+	Sisko is on the fence...
+
+					SISKO 
+			You're sure it's safe to pass 
+			through the interference?
+
+					DAX
+			A few modifications to the shields 
+			and it'll be smooth sailing...
+
+	Sisko can't bring himself to deny his old friend...
+
+					SISKO 
+			All right. We'll make a quick 
+			survey.
+
+	O'Brien frowns, turns to his console.
+
+					SISKO
+				(to Dax) 
+			But if all we detect is some 
+			fungus, we're not beaming down.
+
+	As she sets to work...
+
+					DAX 
+				(sly) 
+			What if it's a smart fungus?
+
+	Off Sisko's playful scowl...
+
+6    OMITTED
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       6.
+
+EXT. SPACE (OPTICAL)
+
+	as the Defiant approaches the planet. We can see the 
+	barrier enveloping it like a cloud of evanescent 
+	energy.
+
+7    INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Sisko, Dax, Worf, Kira, O'Brien and SUPERNUMERARIES as 
+	before.
+
+					KIRA
+			We're approaching the barrier...
+
+					SISKO
+				(to Dax) 
+			All right, old man. Take us in.
+
+	As the ship enters the barrier, it starts to SHAKE 
+	slightly and INTERACTIVE LIGHT starts to play on our 
+	people's faces. Sisko clears his throat pointedly...
+
+					DAX
+				(working console) 
+			Adjusting shield harmonics to 
+			compensate...
+
+	A beat, then the ship starts to SHAKE more violently...
+
+					O'BRIEN
+				(off console) 
+			The quantum fluctuations are 
+			intensifying...
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       7.
+
+7    CONTINUED:
+
+	The ship goes to Red Alert. Suddenly CRACKLES of 
+	ENERGY shake across some of the Bridge consoles, 
+	causing one to SPARK. The tendrils start to dissipate, 
+	but one lashes over and catches Kira's body.
+
+8
+thru   OMITTED
+9
+
+10   KIRA (OPTICAL)
+
+	As the tendrils snake over her, her muscles tense up, 
+	and for an instant we see a DOUBLE-IMAGE of her, as if 
+	she were slightly out of phase. A moment, then it's 
+	over -- the tendrils dissipate.
+
+					DAX
+				(off console)
+			We're through...
+
+	On the VIEWSCREEN, we see the curved horizon of the 
+	planet, and the energy barrier in the distant 
+	background. Sisko moves to Kira, who's trying to clear 
+	her head.
+
+					SISKO 
+			Are you all right?
+
+					KIRA 
+			I think so...
+
+					SISKO
+				(to com)
+			Doctor Bashir to the Bridge...
+
+					KIRA 
+			I'm fine.
+
+	But Sisko wants her checked out anyway. He turns to 
+	O'Brien for a report.
+
+					O'BRIEN 
+			The inertial dampers are off-line, 
+			and the gyromagnetic stabilizers 
+			have depolarized.
+				(annoyed) 
+			We're going to be here for days.
+
+	Sisko turns to Dax, annoyed.
+
+					SISKO 
+			Smooth sailing?
+
+	Suddenly --
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       8.
+
+10   CONTINUED:
+
+					WORF
+			Sir, we are being hailed from the 
+			surface.
+
+	Sisko and Dax react --
+
+					WORF
+				(off console) 
+			There are several settlements 
+			scattered across the southern 
+			peninsula. I'm reading 
+			approximately eight thousand 
+			inhabitants... they appear to be 
+			human.
+
+					SISKO
+			On screen.
+
+11   INCLUDE VIEWSCREEN (OPTICAL)
+
+
+	where we see a human woman of about forty and a human
+	man of about the same age. They're speaking from 
+	inside a simple structure, made of wooden logs and 
+	mortar. They're dressed in simple work clothes, 
+	something a farmer or ranch hand might wear. Their 
+	faces and demeanor speak to a lifetime spent working 
+	outdoors.
+
+	The man, YEDRIN, smiles at the sight of our people, 
+	almost as if he recognizes them. He has a few Trill-
+	like spots on his face. The woman, MIRANDA, speaks 
+	first. we'll come to discover that she's the elected 
+	leader of the community.
+
+					MIRANDA 
+			Welcome to Gaia, Captain Sisko.
+
+					SISKO
+			You know my name.
+
+					MIRANDA 
+			We've been expecting you.
+
+	Yedrin can see that Sisko isn't sure what to make of 
+	this...
+
+					YEDRIN 
+			It's a long story, Benjamin. Why 
+			don't you come down and we'll talk 
+			about it over some raktajino.
+				(smiles) 
+			I forgot. You're trying to cut 
+			down.
+
+	Off Sisko's face as he reacts to the familiarity with 
+	which this stranger speaks to him...
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER       9.
+
+12   EXT. SETTLEMENT- MATTE SHOT (OPTICAL)
+
+	A cluster of adobe-like buildings, surrounded by  
+	farmland. Scattered around the main settlement we see 
+	other, smaller clusters of buildings. Windmills and 
+	irrigation pipes dot the landscape.
+
+13   EXT. TOWN SQUARE - DAY (OPTICAL)
+
+	as Sisko, Dax, Worf, and O'Brien MATERIALIZE. The 
+	buildings that surround them show a range of 
+	architectural styles, as if they were built over years 
+	of technological advances -- a wooden building with a 
+	thatched roof abuts an adobe-type building, which 
+	stands next to a brick and tile structure.
+
+	As the crew beams in, all activity in the settlement 
+	stops. Some CHILDREN who were playing with a BALL halt 
+	their game and stare at our people with a mixture of 
+	curiosity and awe. The people in the market stop 
+	inspecting the wares on the CARTS. A man who was DYEING 
+	FABRIC in a barrel pulls his hands out and wipes them 
+	on a cloth. A woman who was sifting pebbles from a 
+	sack of beans with a SIEVE stops what she's doing.
+
+	Like Yedrin and Miranda, the inhabitants are dressed in 
+	practical, worn-looking clothes. These are working 
+	people, and their physicality expresses this in every 
+	way. They are a racially mixed group -- Black, 
+	Caucasian, Asian. A few of the men wear beards, and we 
+	might notice that a few of the inhabitants have subtle 
+	Trill markings, while a few others have subtle Klingon-
+	style forehead ridges.
+
+	Yedrin and Miranda approach the crew, who are taking in 
+	their surroundings. Yedrin holds his hands clasped 
+	behind his back as he approaches, much the same way 
+	Jadzia does. As Miranda extends a hand to Sisko, 
+	Yedrin glances at Jadzia.
+
+					MIRANDA
+			Miranda O'Brien.
+
+	O'Brien reacts -- this is an odd coincidence. Yedrin 
+	introduces himself to Sisko.
+
+					YEDRIN
+			Yedrin...
+				(looking at Jadzia)
+			Yedrin Dax.
+
+	This is starting to get weird.
+
+					DAX
+				(wry)
+			What a coincidence...
+
+       DEEP SPACE NINE: "Children... " - REV. 03/11/97 - TEASER      10.
+
+13   CONTINUED:
+
+					SISKO 
+			Would one of you mind telling us 
+			what's going on here?
+
+					MIRANDA
+			This settlement was founded by the 
+			crew of a Starfleet vessel that 
+			crashed on this planet two 
+			centuries ago. I realize this is 
+			going to be hard for you to 
+			accept... but that ship was the 
+			Defiant.
+
+	Our people react
+
+					MIRANDA
+			Two days from now, when you leave 
+			here and try to pass through the 
+			energy barrier, you'll be thrown 
+			back in time two hundred years. 
+			You'll be stranded here... and 
+			become the founders of this 
+			settlement.
+				(beat) 
+			We're... your descendents.
+
+	And as our people react to this astonishing claim, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      11.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+14   EXT. TOWN SQUARE - DAY - CONTINUOUS
+
+	Yedrin looks at our people's faces, can see that 
+	they're not about to accept this claim at face value. 
+	He smiles, gestures to Dax's TRICORDER.
+
+					YEDRIN
+			Go ahead, Jadzia. Scan me --
+			you'll find the Dax symbiont right 
+			here.
+
+	He pats his abdomen. Dax glances to Sisko, who nods 
+	she go ahead.
+
+					DAX
+				(off tricorder)
+			It's true.
+
+					YEDRIN
+			The symbiont has been passed down 
+			to Jadzia's descendents for three 
+			generations.
+				(smiles) 
+			I remember all of you like it was 
+			yesterday.
+
+	Sisko looks at Yedrin, struggling to make sense of it 
+	all.
+
+					YEDRIN 
+			If you scan Miranda, you'll find 
+			that her DNA is substantially 
+			similar to the chief's.
+
+					DAX
+				(off tricorder) 
+			She's an O'Brien, all right.
+
+	Miranda hastens to point out --
+
+					MIRANDA 
+			And a Tannenbaum, too.
+
+	Miranda, like the rest of the descendents, is not just 
+	aware of her lineage, she's proud of it.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE     11A.
+
+14   CONTINUED:
+
+					O'BRIEN 
+				(shocked) 
+			As in... Ensign Tannenbaum? From 
+			Engineering?
+
+	Yedrin fills him in gently, knowing how it's going to 
+	make him feel.
+
+					YEDRIN 
+			You and Rita were married ten 
+			years after the Defiant crashed.
+
+	O'Brien reacts, thinking about Keiko and his family.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      12.
+
+14   CONTINUED:	(3)
+
+					YEDRIN 
+			You were trapped here, Miles. Two 
+			hundred years in the past. There 
+			was no going home, no chance of 
+			ever seeing your family again. 
+			You were the last to give up 
+			hope... but eventually, you 
+			realized you had to make a new 
+			life for yourself here.
+
+	When Yedrin looks at Sisko, he sees the doubt on his 
+	face.
+
+					YEDRIN 
+			I know that face, Benjamin. 
+			You're still not convinced we're 
+			telling the truth.
+				(playful)
+			If you want, I could tell you 
+			something only Curzon would know. 
+			Remember that dancer you met on 
+			Pelios station? The one who --
+
+					SISKO
+				(interrupting) 
+			That'll do, thank you.
+
+	A young boy of about ten, GABRIEL, runs up to the 
+	group. He and his friends have been watching from a 
+	distance, and they've dared him to come up and ask a 
+	question.
+
+					GABRIEL
+				(to Worf) 
+			Are you the Son of Mogh?
+
+					WORF
+			I am.
+
+					GABRIEL 
+			Is it true you can kill someone 
+			just by looking at them?
+
+	Worf doesn't know what to say -- clearly some very tall 
+	tales have grown around him over the past few 
+	centuries.
+
+					WORF
+			Only if I am angry.
+
+	The boy's eyes go wide and he scampers off to report 
+	this fact to his friends.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      13.
+
+14   CONTINUED:
+
+
+					MIRANDA 
+			Why don't we go inside? You can 
+			meet some of the others later. We 
+			still have a lot to talk about.
+
+	She indicates a nearby structure, one which appears to 
+	be the oldest in the settlement, made of logs and 
+	mortar. As the group moves off...
+
+15   INT. MEETING HALL - DAY (OPTICAL)
+
+	This is the room we saw on the bridge viewscreen, an 
+	odd mix of high and low technology. A VIEWSCREEN from 
+	the ship is built into one side of the room, a 
+	FIREPLACE into another. As Miranda and Yedrin lead 
+	Sisko, Dax, O'Brien and Worf inside they see a most 
+	improbable sight: two young girls are sitting at one of 
+	the tables near the viewscreen, doing schoolwork on 
+	pencil and paper. The girls are watching QUARK'S image 
+	displayed on the viewscreen. He's standing to the left 
+	side of the screen, in front of a black background.
+
+					QUARK
+				(to the girls) 
+			Ready for the next problem?
+
+					MIRANDA
+			This is our meeting hall...
+				(smiling at the girls) 
+			Which as you can see, we sometimes 
+			use as a schoolroom.
+
+	As Quark speaks, the relevant portions of what he says 
+	appear in LETTERS on the right side of the screen.
+
+					QUARK 
+			Say you have twenty-seven 
+			tessipates of land you want to 
+			plant with nice juicy yelg melons.
+				(rubbing his tummy) 
+			Yum.
+				(continuing) 
+			If each melon needs one square 
+			kerripate to grow in, what's the 
+			total number of melons you can 
+			plant?
+				(beat) 
+			Let me know as soon as you have an 
+			answer.
+
+	And with that, Quark's image DISAPPEARS, leaving only 
+	the words: TWENTY-SEVEN TESSIPATES, and on the next 
+	line, ONE MELON PER KERRIPATE.
+
+	Sisko and the others turn to Yedrin with curious looks.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE     13A.
+
+15   CONTINUED:
+
+					YEDRIN 
+			Jadzia designed it as an 
+			educational program. She took 
+			Quark's image from the Defiant's 
+			security logs.
+				(shrugs) 
+			I've always thought Quark would 
+			make a great math teacher, he's so 
+			good with numbers.
+
+	Jadzia smiles, crouches down next to one of the girls, 
+	LISA. Her skin is dark, and she has light-colored 
+	Trill-spots on her face -- fewer than Jadzia, but 
+	visible.
+
+					DAX
+			I like your spots.
+
+					LISA 
+			Most people don't have them 
+			because our ancestors were mostly 
+			human.
+				(beaming) 
+			My mother says they make me 
+			special.
+
+	The other girl, MOLLY, rolls her eyes --
+
+					MOLLY
+			It's just genetics, Lisa.
+				(touching her forehead) 
+			Like Torvin's ridges.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      14.
+
+15   CONTINUED:	(2)
+
+					LISA 
+			You're just jealous, Molly.
+
+					O'BRIEN
+			Molly?
+
+					YEDRIN 
+			There are a lot of them around 
+			here. The name's been passed down 
+			through the O'Brien line.
+
+	Miranda smiles at the little girl, introduces her to 
+	O'Brien.
+
+					MIRANDA 
+			Molly, this is your grandfather's 
+			great-great-great grandfather.
+
+					MOLLY
+				(smiling at O'Brien) 
+			Hello.
+
+	But O'Brien barely acknowledges her... she seems to make 
+	him uncomfortable.
+
+					O'BRIEN 
+			Hi.
+
+	With that, he turns to a nearby piece of equipment from 
+	the Defiant.
+
+					O'BRIEN
+				(to Yedrin)
+			How much were we...
+				(correcting himself)
+			... were you able to salvage from 
+			the Defiant?
+
+					YEDRIN 
+			A portable generator, a 
+			replicator... a few phasers and 
+			tricorders -- that sort of thing.
+
+					WORF 
+			Did anyone ever try to send out a 
+			distress signal?
+
+					YEDRIN 
+			To who? It was two hundred years 
+			ago.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE     14A.
+
+15   CONTINUED:	(3)
+
+					YEDRIN (Cont'd) 
+			The wormhole hadn't been 
+			discovered yet... there was no way 
+			to get back to the Alpha Quadrant.
+
+	Lisa pipes up, offers a tidbit she obviously learned 
+	in class. She sounds like a schoolchild talking about 
+	the Pilgrims.
+
+					LISA 
+			Our ancestors decided to make this 
+			their new home.
+
+	Not one to be upstaged, Molly chimes in.
+
+					MOLLY 
+			They needed to build a shelter 
+			quickly, before the winter came.
+
+					LISA
+				(indicating all around) 
+			This is it -- it's the oldest 
+			building there is.
+				(can you believe it?) 
+			At first, everyone had to sleep in 
+			here -- all forty-eight of them.
+
+	Sisko wheels around to face Yedrin --
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      15.
+
+15   CONTINUED:
+
+					SISKO
+			Forty-eight?
+
+	Yedrin knows this is going to be hard for our people to 
+	hear.
+
+					YEDRIN 
+			Kira died a few weeks after the 
+			crash. The energy discharge that 
+			struck her on the bridge damaged 
+			her neural pathways. The Defiant 
+			didn't have the medical equipment 
+			Julian needed to treat her.
+
+	Yedrin and Dax exchange a look -- they're both thinking 
+	the same thing: that they were responsible for bringing 
+	them through the barrier, and by extension, what 
+	happened to Kira.
+
+					LISA
+				(brightly) 
+			Do you want to see where she's 
+			buried?
+
+	Dax manages a smile --
+
+					DAX
+			Maybe later.
+
+	Miranda sees our people's discomfort, decides to send 
+	the girls away.
+
+					MIRANDA 
+			Girls, why don't you run along and 
+			help your parents? It's almost 
+			time for planting and there's a 
+			lot to be done.
+
+	The girls share a moan of protest, but gather their 
+	papers and scamper out of the room.
+
+					LISA/MOLLY 
+			Bye.
+
+	Sisko has been thinking about something... decides to 
+	come out with it...
+
+					SISKO 
+			Obviously we need to get Kira back 
+			to the station for treatment as 
+			soon as we can repair the Defiant.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      16.
+
+15   CONTINUED:	(5)
+
+					YEDRIN
+				(agreeing) 
+			Of course.
+
+	Yedrin doesn't seem to have caught Sisko's meaning...
+
+					SISKO 
+			I don't quite know how to say 
+			this... but now that we know 
+			about the accident that sent the 
+			ship back in time, we should be 
+			able to avoid it.
+
+					WORF 
+			If we do that, your timeline will 
+			collapse... and everything here 
+			will cease to exist.
+
+					YEDRIN 
+			Not necessarily.
+				(moving to the monitor) 
+			I have a plan. The key to it is 
+			what happened to Kira on the 
+			Bridge. The energy discharge 
+			caused a subspace doubling effect. 
+			For an instant, every molecule in 
+			her body had a corresponding 
+			quantum duplicate -- there were 
+			literally two Kiras.
+
+					SISKO
+			Go on.
+
+					YEDRIN 
+			If we make certain modifications 
+			to the Defiant's systems, we 
+			should be able to amiplify 
+			the doubling effect and create a 
+			quantum duplicate of the entire 
+			ship.
+
+	He works the controls...
+
+16   MONITOR (OPTICAL) 
+
+	A SCHEMATIC appears on the monitor, showing a diagram 
+	of the planet and the energy barrier that surrounds it. 
+	Yedrin indicates a representation of the Defiant as it 
+	moves away from the planet into the barrier.
+
+					YEDRIN 
+			When you encounter the temporal 
+			anomaly...
+
+	We see a second representation of the Defiant peel off 
+	from the first.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      17.
+
+16   CONTINUED:
+
+					YEDRIN
+				(continuing) 
+			The duplicate will be thrown back 
+			into the past, and the original -- 
+			you -- will pass through the 
+			barrier unaffected.
+
+	As Sisko and the others watch, one Defiant emerges from 
+	the barrier, and the second crashes on the planet.
+
+					O'BRIEN 
+			We go home, and your timeline is 
+			preserved.
+
+					YEDRIN 
+			Exactly.
+
+	Sisko stares at the monitor, wanting to believe that 
+	Yedrin's plan will work. Sisko turns to Dax and 
+	O'Brien
+
+					SISKO 
+			What do you think?
+
+					DAX
+			It might work.
+
+					YEDRIN 
+			According to the logs I retrieved 
+			from the wreckage, the Defiant 
+			encountered the anomaly thirty-
+			nine hours after it arrived in 
+			orbit.
+
+					WORF 
+			If your plan is going to work, we 
+			must do the same.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      18.
+
+16   CONTINUED:	(2)
+
+	Yedrin watches Sisko consider...
+
+					YEDRIN 
+			There are almost eight thousand 
+			people living on this planet. 
+			This is the only chance they have.
+
+	Sisko makes his decision...
+
+					SISKO
+				(to Jadzia) 
+			Dax, I want a full evaluation as 
+			soon as possible. If the plan is 
+			sound, start making the 
+			modifications immediately.
+
+					YEDRIN
+				(clasping his shoulders) 
+			Thank you, Benjamin.
+
+					SISKO
+			Anything for you...
+				(smiles) 
+			Old man.
+
+	Yedrin breaks into a wide grin... off the moment 
+	between the two men...
+
+17   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	in geo-synchronous orbit.
+
+18   INT. DEFIANT - SICKBAY 
+
+	where Kira is resting on a bio-bed, a NEURAL STABILIZER 
+	PAD on her forehead. BASHIR is at a side table, 
+	scanning a clear plastic vat containing Odo, in his 
+	gelatinous state.
+
+	They've both heard about the situation on the planet, 
+	and Bashir, for one, is intrigued.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      19.
+
+CONTINUED:
+
+					BASHIR 
+			Apparently the planet is crawling 
+			with Bashirs...
+
+					KIRA
+				(wry)
+			Maybe I'll stay up here...
+
+	Bashir takes her ribbing good-naturedly...
+
+					KIRA
+			How's Odo?
+
+	As he speaks, Bashir places the vat containing Odo into 
+	a stasis device about the size of a microwave.
+
+					BASHIR 
+			Resting comfortably. But he can't 
+			hold his shape because of the 
+			quantum fluctuations inside the 
+			barrier.
+
+	Bashir activates some BLINKIES on the device, starts to 
+	shut the door.
+
+					BASHIR
+				(to Odo)
+			Sweet dreams...
+				(turning to Kira) 
+			As soon as we leave orbit, he'll 
+			be right as rain.
+
+	Bashir moves to Kira's side, removes the Pad.
+
+					BASHIR 
+			You, on the other hand, are going 
+			to have to undergo a complete 
+			neural pathway induction as soon 
+			as we get back to the station.
+
+	Bashir starts getting ready to go.
+
+					KIRA 
+			If you say so. I feel fine.
+
+					BASHIR 
+			That's because your neural tissues 
+			haven't begun to deteriorate. But 
+			rest assured...
+				(playful) 
+			-- you'll be on my operating table 
+			eventually.
+
+	Bashir is almost out the door before she has a chance 
+	to thank him.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE     19A.
+
+18   CONTINUED:	(2)
+
+					KIRA 
+			Where are you off to?
+
+					BASHIR 
+				(smiling) 
+			I want to get down there -- meet 
+			some Bashirs.
+
+	He EXITS. Kira shakes her head, hops off the bio-bed. 
+	She moves to look at Odo for a moment. After a beat, 
+	the door OPENS to reveal a man who looks very much like 
+	Odo, though he's dressed like the colonists we've met 
+	on the planet. When Kira sees him, she does a double-
+	take.
+
+DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      20.
+
+18   CONTINUED:	(4)
+
+					ODO
+			Hello, Nerys.
+
+	Unlike our Odo, his features are more defined. His 
+	ears are fully formed, he has eyebrows, and his lips 
+	are more defined -- but the shape of his nose and 
+	cheekbones are unmistakably Odo-ish. He is Odo, two 
+	hundred years older than the Odo we know, and that much 
+	better at mimicking the human form. He's been waiting 
+	two centuries to see Kira again, and the emotion is 
+	evident on his face.
+
+					KIRA
+			Odo... ?
+
+					ODO
+			I came up from the surface as soon
+			as I heard you were here.
+
+	Kira has already figured out that he's from the planet, 
+	what's confusing her is something else.
+
+					KIRA
+			How are you holding your shape?
+				(glancing at the other
+				Odo)
+			I thought --
+
+					ODO
+				(explaining)
+			I learned to counter the barrier's
+			effects a long time ago.
+
+	He moves closer, as if drawn to her.
+
+					ODO
+			It's good to see you...
+
+	She smiles, recognizing that for him, it's been a long 
+	time.
+
+					KIRA
+			You look different.
+
+					ODO
+			I've gotten better at
+			shape-shifting over the years.
+
+	To her surprise, he reaches up and touches her face, 
+	her hair...
+
+					ODO
+			You're as beautiful as I
+			remember...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE     20A.
+
+18   CONTINUED:	(5) 
+
+	Kira isn't sure of what to make of this, it's so unlike
+	Odo to talk like this...
+
+					ODO 
+			You don't know how I've longed to 
+			hear your voice... see your smile.
+
+	She smiles uncomfortably...
+
+					KIRA
+			Odo... what's gotten into you?
+
+					ODO 
+			There's something I want you to 
+			know... something I've wanted to 
+			tell you for two hundred years....
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT ONE      21.
+
+18   CONTINUED:	(6)
+
+	He takes her hand, looks into her eyes.
+
+					ODO 
+			I love you, Nerys. I've always 
+			loved you.
+
+	And off her reaction, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      22.
+                            ACT TWO                             
+
+	FADE IN:
+
+19   INT. DEFIANT - SICKBAY - CONTINUOUS 
+
+	Kira is completely stunned by Odo's revelation, and the
+	intensity with which he's looking at her. She's not 
+	sure if he's pulling her leg, gently removes her hand 
+	from his and pulls back.
+
+					KIRA 
+			Wait a minute... what do you mean 
+			you love me?
+
+					ODO
+			Is it so hard to believe?
+
+	She sees that he's not joking...
+
+					KIRA 
+			I never knew you felt that way 
+			about me.
+
+	He shakes his head as he remembers the man he used to 
+	be...
+
+					ODO 
+			I did everything I could to make 
+			sure you didn't find out.
+
+					KIRA
+			It worked.
+				(gently) 
+			Why didn't you ever say anything?
+
+					ODO
+			I didn't think you could possibly 
+			care for me the way I cared for 
+			you. I suppose I was afraid of 
+			ruining what we had. Our 
+			friendship meant everything to me. 
+			It still does.
+
+	Kira looks at him, thinking back to their friendship, 
+	the clues she missed. Odo misinterprets, thinks he's 
+	said too much.
+
+					ODO
+			Maybe I shouldn't have said 
+			anything.
+
+      DEEP SPACE NINE. "Children... " - REV. 03/11/97 - ACT TWO     22A.
+
+19   CONTINUED:
+
+					KIRA 
+			No, it's not that. I'm just 
+			thinking about all the times I 
+			came to you for advice about 
+			Shakaar. And Bareil. It must've 
+			been so hard for you to listen to 
+			me go on about another man.
+
+					ODO
+			I can't say I enjoyed it. But I 
+			wanted to be a good friend to you.
+
+					KIRA 
+			You were.
+
+	He moves a little closer to her...
+
+					ODO 
+			Nerys, I didn't come here 
+			expecting you to throw yourself in 
+			my arms. But you're leaving here 
+			in two days, and I'm never going 
+			to see you again. All I'm asking 
+			is that you... spend some time 
+			with me. Gaia is very 
+			beautiful... I'd love to show it 
+			to you.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      23.
+
+19   CONTINUED:	(2)
+
+	Kira looks at her old friend, and despite the 
+	awkwardness she feels over his revelation, she would 
+	like to spend time with him...
+
+					KIRA 
+			I'd like that.
+
+	Off Odo's smile...
+
+20   INT. MEETING HALL 
+
+	As Miranda watches, Sisko is meeting two of his 
+	descendents for the first time. A young black WOMAN 
+	has come with her BABY to meet him, and it's a big 
+	moment for her. We cut in just as Sisko takes the baby 
+	into his arms, a huge smile on his face. The mother 
+	can't quite believe it's really happening, and all she 
+	can do is smile at the sight of her baby in Sisko's 
+	arms.
+
+	Sisko studies the child's face, coos to get a reaction. 
+	He's clearly moved by the experience of holding his 
+	descendent.
+
+					MIRANDA 
+			She has your eyes...
+
+					SISKO
+			You think?
+
+	Dax's com voice cuts in --
+
+					DAX'S COM VOICE 
+			Dax to Sisko.
+
+					SISKO
+			Go ahead.
+
+					DAX'S COM VOICE 
+			Good news, Benjamin.
+
+								INTERCUT WITH:
+
+21   INT. DEFIANT - ENGINE ROOM
+
+	where Dax and Yedrin are working at a console, looking 
+	very pleased. SUPERNUMERARIES as needed.
+
+					DAX
+			I've gone over the sensor logs 
+			from the crash.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      24.
+
+21   CONTINUED:
+
+					DAX (Cont'd) 
+			It looks like Yedrin's plan to 
+			create a duplicate Defiant is 
+			going to work.
+
+	Sisko is so glad to hear it he holds the baby up over 
+	his head and talks to her.
+
+					SISKO 
+			Did you hear that? Hmm? 
+			Everything's going to be all 
+			right.
+
+	Dax and Yedrin don't know what to make of his response 
+	until they HEAR the baby give a little YELP of delight. 
+	They realize what's going on, smile...
+
+					YEDRIN 
+			Sounds like you have your hands 
+			full down there, Benjamin.
+
+					SISKO
+			You could say that...
+
+					DAX
+			We'll keep you posted.
+
+	Off this moment...
+
+22   EXT. TOWN SQUARE - DAY
+
+	where Worf is inspecting the town WELL. Like 
+	everything else in the settlement, it is a mix of high 
+	and low technology. A stone-lined shaft has been cut 
+	into the ground, but the bucket and rope are vestiges 
+	from another time, replaced by a PUMP and a PIPE, 
+	which runs out of the shaft into a nearby wall.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      25.
+
+22   CONTINUED:
+
+	Bashir rounds a corner and sees him...
+
+					BASHIR 
+			Thirsty?
+
+	Worf ignores Bashir's teasing tone, studies the well-pump.
+
+					WORF 
+			The captain asked me to make a 
+			survey of the settlement's 
+			infrastructure so we can leave 
+			behind appropriate supplies.
+
+					BASHIR 
+			I was just doing the same thing at 
+			the clinic.
+
+	Bashir is pleased with himself about something, and he 
+	can't keep it from his face.
+
+					BASHIR 
+			I met one of my descendents.
+
+	Bashir is hoping Worf will ask for details. But, of 
+	course, he doesn't.
+
+					BASHIR 
+			My great-great-great-great 
+			granddaughter...
+				(beaming with pride) 
+			The doctor.
+
+	Worf barely nods --
+
+					BASHIR 
+			She made quite a fuss over me. 
+			Apparently my "healing touch" is 
+			something of a legend around here.
+
+	Gabriel, the boy from Act One, comes scampering up.
+
+					GABRIEL 
+			They're here!
+
+					WORF 
+			Who?
+
+					GABRIEL 
+			The Klingons!
+
+	We follow the boy's gesture to include...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      26.
+
+23   THREE	FIGURES
+
+	standing motionless in the street, holding SPEARS in 
+	their hands and wearing Klingon KNIVES in their belts. 
+	Despite the boy's appellation, two of the "Klingons" 
+	are genetically human. only one has the faint traces 
+	of Klingon forehead ridges, although his hair is 
+	strikingly BLOND. All are dressed in fur and leather, 
+	and wear their hair in the Klingon style -- the two men 
+	have Klingon beards, as well. They are the Sons of 
+	Mogh, and the colonists react to them much as the 
+	inhabitants of a town in the Old West react to a visit 
+	from some friendly, if exotic Indians. The leader of 
+	the group, BROTA, carries Worf's MEK'LETH, a prized 
+	possession. A scar is visible on his face. He gives 
+	Worf the traditional Klingon greeting..
+
+					BROTA
+			Q'apla.
+
+					WORF
+			Q'apla.
+
+	Worf eyes the newcomers, wondering what they're all 
+	about...
+
+
+					BROTA 
+			We are the Sons of Mogh.
+
+					WORF
+			You are my descendents?
+
+					BROTA 
+			Some by blood, some by choice. 
+			Our hearts are Klingon. We live 
+			as warriors. Just as you taught 
+			our ancestors long ago.
+
+					GABRIEL 
+				(excited) 
+			I'm going to be one of them 
+			someday. I'll ride a wild torga, 
+			and go hunting -- and only come to 
+			the settlement to trade furs for 
+			the things I need.
+
+	One of the other "Klingons," a woman named PARELL,
+	addresses the boy.
+
+					PARELL 
+			When you're older, you'll have the 
+			chance to prove yourself. If you 
+			are worthy, you can take a Klingon 
+			name and live among us.
+
+	The boy grins at this --
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      27.
+
+23   CONTINUED:
+
+					BROTA 
+			The Sons of Mogh are gathering to 
+			celebrate your return. It would 
+			honor us greatly if you would 
+			feast with us tonight.
+
+					WORF 
+			I look forward to it.
+
+					BROTA 
+			We'll come for you at nightfall.
+
+	And with that, Brota and the others turn away and head 
+	out of town. After a beat...
+
+					BASHIR 
+			Well... looks like I'm not the 
+			only legend around here...
+
+	Off Worf's face as he watches the "Klingons" go...
+
+24   INT. DEFIANT - ENGINE ROOM
+
+	where Jadzia and Yedrin are working. SUPERNUMERARIES 
+	as needed.
+
+					DAX 
+			Once the emitter array is re-
+			calibrated, we can start 
+			synchronizing the shield 
+			generators.
+
+					YEDRIN 
+			Good, we're ahead of schedule.
+
+	He watches as Jadzia adjusts her hair, smiles.
+
+					DAX
+			What?
+
+					YEDRIN 
+			You just reminded me of something. 
+				(explaining) 
+			The summer after the crash, it was 
+			so hot Jadzia cut her hair short. 
+			Worf hated it.
+
+	They share a smile...
+
+					YEDRIN 
+			I remember promising to grow it 
+			back in time for the wedding.
+
+					DAX
+			We got married?
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      28.
+
+24   CONTINUED:
+
+					YEDRIN 
+			The next fall. Benjamin performed 
+			the ceremony. I'll never forget 
+			Worf's voice when he said the 
+			vows. It was shaking.
+
+	Dax can't help asking...
+
+					DAX
+			Were we happy together?
+
+	Yedrin smiles, nods.
+
+					YEDRIN
+				(smiles) 
+			He's a good man, Jadzia.
+
+					DAX
+			I know. It's just sometimes he's 
+			so hard to get along with.
+
+					YEDRIN 
+			Don't worry.
+				(with a wink) 
+			You'll learn to handle him.
+
+	Off the moment between them...
+
+24A  INT. MEDICAL BAY
+
+	where Kira is talking to someone off-screen.
+
+					KIRA 
+			Maybe you're thinking I should've 
+			known, should've guessed. But I 
+			didn't have any idea. You realize 
+			that, don't you?
+
+	She stops, as if feeling suddenly ridiculous.
+
+					KIRA 
+			I know you can't answer me, I'm 
+			not even sure you can hear me.
+
+24B   NEW ANGLE
+
+	to reveal Kira's talking to the box containing Odo in 
+	his gelatinous state.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO     28A.
+
+24B   CONTINUED:
+
+					KIRA 
+			But if you can... I just want to 
+			say that I'm sorry I didn't see it 
+			sooner. I'm sorry if I hurt you 
+			in any way. I didn't mean to.
+
+	She pauses, collects her thoughts...
+
+					KIRA 
+			You're probably wondering what's 
+			going to happen next. So am I. 
+			The only thing I know for sure is 
+			that I don't want anything to get 
+			in the way of our friendship.
+
+	Kira thinks for a moment, making sure she's said her piece.
+
+					KIRA 
+			But do me a favor... if there's 
+			anything else you're keeping from 
+			me, any other deep dark secret I 
+			should know about but don't -- 
+			just tell me, okay?
+
+	Kira becomes aware of something out of the corner of 
+	her eye, turns to see an N.D. NURSE standing there 
+	watching her with an uncertain look on her face. It's 
+	unclear how long she's been there. Kira musters an 
+	embarrassed smile...
+
+					KIRA 
+			Hi.
+
+	The Nurse manages to smile back...
+
+					KIRA
+			Excuse me...
+
+	And with that, Kira crosses past her and EXITS... off 
+	the Nurse as she watches her go, wondering what that 
+	was all about...
+
+25   OMITTED
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      29.
+
+26   EXT. TOWN SQUARE - DAY 
+
+	where O'Brien is installing a new PUMP for the well as 
+	Bashir looks on. We should see other settlers 
+	interacting with Defiant crewmembers in the background. 
+	These background scenelets should have the feel of 
+	families reunited, generations interacting. Bashir 
+	doesn't realize it, but O'Brien is disturbed by the 
+	knowledge that his counterpart remarried after the 
+	crash.
+
+					BASHIR 
+			Did I mention she was a doctor?
+
+					O'BRIEN
+			Twice.
+
+					BASHIR
+			She showed me pictures of the 
+			family going all the way back to 
+			me.
+				(get this) 
+			Know who I ended up with after the 
+			crash?
+
+	O'Brien's seems barely interested...
+
+					BASHIR 
+			Angie Kirby.
+
+					O'BRIEN
+			Who's that?
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      30.
+
+26   CONTINUED:
+
+					BASHIR 
+			That's what I said. Apparently 
+			she transferred aboard last week. 
+			She's gorgeous.
+
+					O'BRIEN
+				(whatever) 
+			Congratulations.
+
+					BASHIR 
+			When we get back, I'm thinking of 
+			asking her out. We obviously got 
+			along here.
+
+	O'Brien keeps at his work, effectively derailing the 
+	conversation.
+
+					BASHIR 
+			So... you and Rita Tannenbaum.
+
+	O'Brien wheels around to face him
+
+					O'BRIEN 
+			I don't want to hear it, Julian. 
+			I have a wife and kids back home.
+
+					BASHIR 
+			Sorry... I didn't mean anything...
+
+O'Brien turns back to his work...
+
+					BASHIR 
+			I'll let you get on with your 
+			work...
+
+	O'Brien barely grunts an acknowledgement. Off Bashir's 
+	face as he moves off...
+
+26A  EXT. PLANET'S SURFACE - DAY (LOCATION) 
+
+	Kira and Odo in the shade of a tree. Kira is kneeling 
+	by her own grave, praying silently, her eyes shut. A 
+	GRAVE MARKER gives her name, and the dates of her life 
+	and death in the Bajoran calendar.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO     30A.
+
+26A  CONTINUED:
+
+	As Kira prays, Odo watches her with great tenderness. 
+	After a moment, she finishes...
+
+					KIRA 
+			Praying over your own grave... 
+			that's got to be a new one.
+
+					ODO
+				(smiles) 
+			If the Prophets were listening, 
+			they're probably very confused.
+
+	Odo's comment speaks to something she's been thinking 
+	about...
+
+					KIRA 
+			I wouldn't blame them. I've got 
+			to tell you... this whole quantum 
+			duplicate, two Defiants thing has 
+			me feeling a little strange.
+
+					ODO
+			Why? Thanks to Yedrin's plan our 
+			timeline is being preserved, and 
+			you're going back to the station 
+			for the treatment you need.
+
+					KIRA 
+			I know. It's just... I've always 
+			believed we're only given one 
+			Destiny. One path. And now we're 
+			going to use technology to get 
+			around that; I'm not sure how it 
+			makes me feel.
+
+					ODO
+			I know exactly how it makes me 
+			feel.
+
+	He looks at her, his features softening with emotion.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO     30B.
+
+26A  CONTINUED:	(2)
+
+					ODO 
+			You don't know how much it means 
+			to me to know you're going home, 
+			Nerys. It won't change things for 
+			me -- I lost you two hundred years 
+			ago. But for the other Odo up on 
+			the ship, it changes everything. 
+			He doesn't have to lose you. And 
+			somehow, knowing that makes me 
+			feel better. Does that make any 
+			sense?
+
+	Kira smiles, nods. She can't help but be moved by the 
+	depth of his emotion... she looks at Odo, at the man 
+	he's become, and realizes how much he's grown.
+
+					KIRA 
+			You've changed so much, Odo. I 
+			don't just mean the way you look. 
+			You used to be so... closed off.
+
+					ODO
+			I have changed. And the Odo you 
+			know will change too...
+				(gently testing the
+				water)
+			-- if you're patient with him.
+
+	Kira looks at him, understanding that he's talking 
+	about the possibility of her having a relationship with 
+	our Odo. She can't really think about that right now, 
+	she's still trying to get used to the whole idea that 
+	he loves her.
+
+					KIRA
+			Why don't we head back?
+
+	Odo nods, starts away from the tree. They have to step 
+	over something, and he offers her his hand to help. 
+	Once past the obstacle, they encounter that do-we-let-
+	go-of-each-other's-hands moment. He chooses not to, 
+	and Kira doesn't either. As they head off, hand in 
+	hand...
+
+27   OMITTED 
+
+28   EXT. TOWN SQUARE - DUSK 
+
+	Sisko is outside the meeting hall batting a baseball to 
+	Gabriel and some other kids.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT TWO      31.
+
+28   CONTINUED:
+
+					SISKO 
+			Nice catch --
+
+	Dax approaches him, carrying a PADD. She doesn't look 
+	too happy.
+
+					DAX 
+			We need to talk.
+				(off his look) 
+			I was looking over the sensor logs 
+			from the crash and I came across 
+			something odd -- the quantum 
+			fluctuations in the barrier 
+			factored out to zero. The chances 
+			of that must be a billion to one.
+
+					SISKO 
+			What are you getting at?
+
+					DAX
+			Yedrin faked the logs.
+
+					SISKO
+			Why would he do that?
+
+					DAX
+			So we'd think his plan was going 
+			to work. It's not.
+
+	Dax is feeling angry and betrayed, and the feelings are 
+	especially sharp because she was betrayed by a version 
+	of herself.
+
+					DAX
+			There was never going to be a 
+			duplicate Defiant -- just one. 
+			And Yedrin wanted to make sure it 
+			would go back in time.
+
+					SISKO
+				(putting it together) 
+			So that history would repeat 
+			itself...
+
+					DAX
+			If I hadn't realized what he'd 
+			done, we would've ended up 
+			stranded here... and Kira 
+			would've died.
+
+
+	And as Sisko considers the implications of this, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     32.
+                           ACT THREE                            
+
+	FADE IN:
+
+29   INT. MEETING HALL 
+
+	where Sisko and Jadzia have confronted Yedrin with what 
+	they've learned. A FIRE is burning in the hearth, 
+	casting light on Yedrin's devastated features. The 
+	discovery of his ruse means the end of his people, and 
+	it's all he can think about. Sisko's anger over Dax's 
+	deceit is barely under control, simmering underneath 
+	the surface. Jadzia's anger is out front and center.
+
+					DAX 
+			You betrayed us. You betrayed me. 
+			You call yourself Yedrin Dax,
+			but you're not anyone I recognize.
+
+	Yedrin speaks as if from far away, he's beyond 
+	questions of friendship and betrayal right now...
+
+					YEDRIN 
+			Now that you know... what are you 
+			going to do about it?
+
+					SISKO
+				(hard) 
+			What do you think?
+
+	Now it's Yedrin's turn to get angry --
+
+					YEDRIN 
+			Dammit, Ben -- if you don't take 
+			the Defiant back in time, the 
+			eight thousand people on this 
+			planet will cease to exist!
+
+					SISKO
+			Do you think I don't care? Come 
+			on, you know me better than that. 
+			But what am I supposed to do -- 
+			recreate the accident and 
+			deliberately maroon my crew?
+
+					YEDRIN 
+			It's what would've happened! 
+			Who's to say it's not what's 
+			supposed to happen?
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     33.
+
+29   CONTINUED:
+
+					SISKO 
+			I'm not going to stand here and 
+			argue philosophy with you. I have 
+			a duty to protect my people.
+
+					YEDRIN 
+			Look around you, Ben. Think of 
+			all the things you've seen since 
+			you got here. This is what your 
+			crew and their descendents will 
+			build if you let history play 
+			itself out. I'm not saying it 
+			won't be hard at first, but 
+			they'll have good lives here. 
+			Happy lives.
+
+					DAX
+			What about Kira? If we don't get 
+			her back to the station, she'll 
+			die.
+
+					YEDRIN 
+			Is one life too much to ask if it 
+			means saving eight thousand?
+
+	Sisko explodes --
+
+					SISKO 
+			Who are you to decide who lives 
+			and who dies? Who are you to make 
+			that call?
+
+					YEDRIN 
+			I have to make that call! Because 
+			I'm responsible for what happened 
+			here!
+
+	Yedrin's anguished vehemence stops Sisko in his tracks 
+	long enough for him to continue.
+
+					YEDRIN 
+			Jadzia knows what I'm talking 
+			about. She's the one who insisted 
+			the Defiant investigate this 
+			planet.
+				(to Jadzia) 
+			You know as well as I do that you 
+			should've been more careful... you 
+			should've seen that the barrier 
+			was unstable when you scanned it.
+
+	The two Dax's look at each other, both knowing this is 
+	true. She makes a difficult admission.
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     34.
+
+29   CONTINUED:	(2)
+
+					DAX 
+			But I didn't. I was so bent on 
+			making some great discovery that 
+			I missed it.
+
+					YEDRIN
+				(to Jadzia) 
+			And because of you, because of me -- 
+			Kira died, and forty-eight people 
+			were stranded here. You don't 
+			know what it was like to live with 
+			that.
+				(to Sisko) 
+			For years, every time I looked at 
+			you, all I could think of was 
+			Jake... and how because of me, 
+			he'd never see his father again. 
+			But eventually, I had to accept 
+			the fact that there was nothing I 
+			could do to change things. I 
+			couldn't bring Kira back. All I 
+			could do was look to the future. 
+			And make sure we survived. No 
+			matter what.
+				(with growing resolve) 
+			This community is my 
+			responsibility. For two 
+			centuries, I've watched it grow 
+			into something to be proud of. 
+			These people have worked for 
+			generations to make a life for 
+			themselves here, and they deserve 
+			the chance to hang on to it.
+
+	Sisko takes in the undeniable power of Yedrin's 
+	words... but in the final analysis, he's determined to 
+	protect his crew.
+
+					SISKO 
+			I'm not denying that. I wish 
+			there was a way we could help 
+			you... but my people have the 
+			right to go home to their 
+			families. And I can't ask Kira to 
+			sacrifice her life, not for eight 
+			thousand people, not for eight 
+			million. No one has the right to 
+			ask that...
+
+	Yedrin looks down, realizing he's lost his argument...
+
+					SISKO 
+			I'm sorry, old man... there's 
+			nothing I can do...
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE    34A.
+
+29   CONTINUED:	(3)
+
+	And with that, Sisko and Dax turn away and EXIT.
+
+30   OMITTED
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     35.
+
+31   EXT. TOWN SQUARE - NIGHT
+
+	where Worf and Kira are sitting near a FIREPIT. They 
+	both feel terrible about what's going to happen to the 
+	people around them tomorrow. The settlement is quiet. 
+	Though there are people around, their mood is somber.
+	News of their impending fate has spread, and they're 
+	talking quietly about it in small groups. Only the 
+	children are unconcerned, and Gabriel is playing with 
+	a few friends.
+
+					KIRA
+				(re: the children) 
+			Look at them. They have no idea 
+			what's going to happen.
+
+					WORF
+			It's for the best. They are 
+			children. They would not 
+			understand.
+
+					KIRA
+			I'm not sure I understand, 
+			either...
+
+	Worf looks at her, wondering what she means...
+
+					KIRA 
+			Eight thousand people, Worf... and 
+			they're all going to die because 
+			I have to go back to the station 
+			to be treated for some condition 
+			I can't even tell I have.
+
+					WORF
+			That is not the only reason we are 
+			going back, major. Do not blame 
+			yourself.
+
+	Kira looks into the fire for a long beat, trying to 
+	accept this...
+
+					KIRA
+			I'm going up to the ship.
+
+	Worf acknowledges with a nod... Kira moves off...
+
+32   MIRANDA 
+
+	in one corner, talking to a group of friends near an 
+	ANTI-GRAV PLATFORM stacked with SEEDLINGS. She fingers 
+	a budding leaf, her features tinged with sadness.
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE    35A.
+
+32   CONTINUED:
+
+					MIRANDA 
+			It would've been a good crop this 
+			year... spring came so early.
+
+	A MAN standing with her nods his agreement, sadness 
+	etched on his features. Gabriel approaches the adults.
+
+					GABRIEL 
+			Miranda, is something wrong? 
+			Everyone's so quiet.
+
+	She looks at him tenderly, her heart breaking at the
+	innocence in his face.
+
+					MIRANDA 
+			It's nothing you need to worry 
+			about.
+
+	He seems skeptical, but moves off to join his friends.
+
+33   WORF
+
+	as Brota, Parell and the third "Klingon" approach. 
+	They all regard him for a beat in silence.
+
+					PARELL 
+			We came to tell you there will be 
+			no feast tonight.
+
+					WORF
+			I understand. This is not a time 
+			for celebration.
+
+					BROTA 
+			Tomorrow we will see the sun rise 
+			again... but no one here will see 
+			it set.
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     36.
+
+33   CONTINUED:
+
+	Brota says this with quiet dignity. It is his fate. 
+	Worf is moved by their plight, but there's nothing he 
+	can do to change things.
+
+					WORF 
+			Sit with me. There is something 
+			I wish to say.
+
+	The three "Klingons" settle around the fire...
+
+					WORF 
+			It is a great honor to know that 
+			my legacy has thrived on your 
+			world for so long. I see that the 
+			Klingon heart beats strong here.
+
+					BROTA 
+			You honor us with your words. 
+			We've tried to live as you taught 
+			us to.
+
+					PARELL 
+			We've never plowed fields or 
+			milked chattel -- we've lived as 
+			warriors, hunters.
+
+					BROTA 
+			Last year, I slew a yar-bear three 
+			meters tall. Your mek'leth was my 
+			only weapon. The beast maimed me, 
+			and for a time, it seemed I would 
+			die from my wounds.
+				(with heavy heart) 
+			Now I wish I had. It would have 
+			been a warrior's death.
+
+					PARELL 
+			He could've taken his place among t
+			he honored dead in Sto'Vo'Kor.
+
+					WORF
+			Perhaps he will yet.
+
+					BROTA 
+			No. Ceasing to exist because my 
+			parents were never born -- that is 
+			not a death worthy of Sto'Vo'Kor.
+
+	Brota unsheaths his dagger...
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     37.
+
+33   CONTINUED:	(2)
+
+					BROTA 
+			Kill me, Worf.
+
+	He tries to hand Worf the dagger...
+
+					BROTA 
+			I have no enemies to fight, no 
+			glory to be won. Give me an 
+			honorable death.
+
+	Worf hesitates... Parell and the other "Klingon" 
+	unsheath their daggers as well...
+
+					PARELL 
+			Don't make us wait for the end 
+			like farm animals waiting for slaughter.
+
+	Worf makes is decision...
+
+					WORF
+			I will come to you tomorrow... and 
+			do what you ask.
+
+	And with that Worf takes his leave of them... off their 
+	faces as they watch him go...
+
+33A  EXT. SETTLEMENT - DAY BREAK (MATTE/OPTICAL)
+
+	As the sun rises over the hills...
+
+34   OMITTED
+
+34A  EXT. PLANET'S SURFACE - MORNING (LOCATION)
+
+	As Kira kneels to study the grave marker, Odo watches 
+	her for a long moment...
+
+					ODO 
+			Why did you want to come back 
+			here?
+
+					KIRA 
+			I needed to see it again... so I 
+			could be sure.
+
+					ODO
+			Sure about what?
+
+					KIRA 
+			That this is where I belong.
+
+     DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT THREE     38.
+
+34A  CONTINUED:
+
+	She turns to look at him..
+
+					KIRA 
+			The path the Prophets laid out for 
+			me ends here.
+
+					ODO
+			Not this time, Nerys. The 
+			captain's taking you back to D.S. 
+			Nine.
+
+	She speaks from the simple conviction that she's seen 
+	the truth.
+
+					KIRA 
+			I can't let him do that. Not if 
+			it's going to cost eight thousand 
+			lives. We have to let history 
+			take its course... even if it 
+			means I have to die here...
+
+	And off Odo's reaction we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+35   INT. DEFIANT - MESS HALL
+
+	Sisko, Dax, Worf, O'Brien and Bashir are reacting to 
+	what Kira has just told them.
+
+					O'BRIEN
+			What? Have you lost your mind?
+
+					BASHIR
+			Kira, if we don't go back to the 
+			station... you'll die within a few 
+			weeks. There's nothing I can do 
+			for you here.
+
+					KIRA
+			I know that, Julian. And I've 
+			accepted it.
+				(looking at the others) 
+			We have to take the Defiant back 
+			in time. If we don't, we'd be 
+			cheating fate.
+
+					O'BRIEN
+				(dismissing this) 
+			Yeah, well I wouldn't mind 
+			cheating fate all the way home to 
+			the station.
+
+					DAX
+			Neither would I.
+				(torn) 
+			But if we go home, eight thousand 
+			people will cease to exist.
+
+					O'BRIEN 
+			I don't know those people. I have 
+			a wife and kids back home who need 
+			me.
+
+					KIRA
+
+			They'll be all right, Miles, the 
+			Prophets will take care of them.
+
+					O'BRIEN 
+			No offense, but I don't believe in 
+			your Prophets.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     40.
+
+35   CONTINUED:
+
+					WORF
+			All Major Kira is saying is that 
+			our families will survive no 
+			matter what we do. The colonists 
+			will not.
+				(making his choice) 
+			If she is willing to sacrifice her 
+			life to save them, I am willing to 
+			remain here.
+
+	A moment as this hangs in the air... suddenly Dax, 
+	Sisko and Bashir have to ask themselves if they're 
+	willing to make the same choice. Only O'Brien refuses 
+	to consider it.
+
+					O'BRIEN 
+			That's easy for you to say... you 
+			hardly see your son.
+
+	Worf bristles --
+
+					WORF 
+			You are afraid to face your 
+			destiny.
+
+	Exasperated, O'Brien looks to Dax, Bashir and Sisko.
+
+					O'BRIEN 
+			We can sit here arguing Destiny 
+			until we're blue in the face... 
+			but the bottom line is, no one has 
+			the right to tell me I can't go 
+			home to my family.
+
+					SISKO
+			I want to go home as much as you 
+			do, Chief. I'm just listening to 
+			what everyone has to say.
+
+					O'BRIEN
+			So we're not actually considering this?
+
+	Sisko doesn't answer for a beat... but it's enough to 
+	tell us that the arguments have unsettled him and made 
+	him think. He answers to Kira, knowing how she'll 
+	react.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     41.
+
+35   CONTINUED:	(2)
+
+					SISKO 
+			No, we're not.
+
+					KIRA
+				(starting to object)
+			Captain --
+
+					SISKO
+				(stopping her) 
+			Major.
+				(beat) 
+			You've made your position clear.
+
+	Worf and Kira exchange a look... it seems their 
+	position has lost out.
+
+					SISKO 
+			All right, people. Dismissed.
+
+	Off Sisko's face as everyone files out...
+
+36   EXT. SETTLEMENT - DAY (MATTE SHOT/OPTICAL)
+
+	Re-establishing.
+
+37   EXT. TOWN SQUARE - MORNING
+
+	as Dax and Worf walk slowly together, taking in the 
+	settlement for a last time. Their mood is somber, and 
+	there doesn't seem to be anyone around.
+
+					WORF
+			By sunset... this will all be gone.
+
+	They come across Sisko, heading the other way.
+
+					DAX
+			Taking a last look around?
+
+	Sisko nods... Suddenly Gabriel comes tearing around the 
+	corner with a SHOVEL in his hand, nearly hitting Sisko.
+
+					SISKO 
+			Whoa...
+
+					GABRIEL 
+			Sorry.
+
+					SISKO
+			Where are you going in such a 
+			hurry?
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     42.
+
+37   CONTINUED:
+
+					GABRIEL
+				(excited) 
+			To the fields -- it's time for 
+			planting.
+
+	And with that, he runs off. Sisko, Dax and Worf 
+	exchange curious looks. They move around the corner 
+	to the main square, where they see the last twenty 
+	colonists getting ready to head out into the field. A 
+	few of them are taking a PLOW out toward the field, 
+	carrying FARM IMPLEMENTS over their shoulders.
+
+38   MIRANDA AND YEDRIN
+
+	at an ANTI-GRAV CART with SEEDLINGS stacked on it. 
+	They're supervising the children, who include Molly, 
+	Lisa, Gabriel and a few others. As Yedrin approaches 
+	our people, Miranda gathers the children.
+
+					MIRANDA
+				(to the approaching boy) 
+			Come on, Gabriel -- there isn't 
+			much time.
+
+
+	Miranda hands Molly a tube or bottle of lotion.
+
+					MIRANDA 
+			Put some of this on your face. 
+			The sun's strong today.
+
+39   SISKO, DAX AND WORF
+
+	as Yedrin approaches, seeing our people don't 
+	understand what's going on.
+
+					YEDRIN
+				(smiling sadly) 
+			Planting day has always been 
+			important here. It brings 
+			everyone together. Somehow... it 
+			feels right to see it through.
+
+	Sisko nods that he understands...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     43.
+
+40   EXT. FARM LAND - DAY (LOCATION)
+
+	A PLOW cuts a furrow in the soil
+
+41   WIDEN
+
+	to REVEAL Yedrin, carefully guiding the machine.
+	Behind him, we see other settlers at work.
+
+42   A SETTLER
+
+	cutting a cylindrical hole in the freshly plowed earth 
+	with a SOIL CORER...
+
+43   REVEAL SISKO
+
+	nearby, doing the same. Behind him, we can see 
+	Settlers and Starfleet N.D.s working at other tasks...
+
+44   GABRIEL
+
+	tossing a handful of granule-fertilizer into a freshly
+	cut hole...
+
+45   REVEAL KIRA
+
+	carrying the large SACK from which Gabriel is getting 
+	the fertilizer...
+
+46   MIRANDA
+
+	carefully taking a seedling off an anti-grav cart and 
+	handing it to Molly... other children are gathered 
+	around waiting to receive one as well...
+
+47   REVEAL BASHIR
+
+	as Molly comes up to him and hands him the seedling. 
+	She watches him unwrap the burlap around its roots for 
+	a beat, then scampers off to get another...
+
+48   A SETTLER
+
+	pushing a heavy WATERING APPARATUS...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     44.
+
+49   DAX 
+
+	bent over a seedling, watering it from the hose leading 
+	to the Settler's watering apparatus...
+
+49A  THE SUN
+
+	beating down from above...
+
+49B   O'BRIEN
+
+	as he approaches Sisko, carrying a PADD. His uniform 
+	is clean because he hasn't been working in the field.
+
+					O'BRIEN
+			The status report you asked for,
+			sir. We've finished the repairs,
+			the Defiant's ready to leave
+			orbit.
+
+	Molly is nearby, patting the earth around a newly 
+	planted seedling. She watches O'Brien stand there as 
+	Sisko reads the report.
+
+					MOLLY
+			Aren't you going to help?
+
+					O'BRIEN
+			I'm busy.
+
+					MOLLY
+			You don't look busy.
+
+					SISKO
+				(smiles)
+			She's an O'Brien, all right. 
+
+	Sisko hands O'Brien his soil corer...
+
+					SISKO
+			Better get to it, Chief.
+
+	Sisko moves off. O'Brien glances at Molly, who's 
+	staring at him expectantly. A beat, then seeing no way 
+	around it, he gets to work...
+
+50   MIRANDA
+
+	and the people around the cart reacting to something 
+	off-screen...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR    44A.
+
+51   NEW ANGLE
+
+	revealing Worf and the three "Klingons," standing 
+	motionless in the distance. They're just at the edge 
+	of the field, their bodies silhouetted against the 
+	sky...
+
+52   SISKO AND A SETTLER
+
+	Looking at the off-screen "Klingons," wondering why 
+	they came...
+
+S3   CLOSER - BROTA AND PARELL
+
+	As they turn to Worf...
+
+					PARELL 
+			I don't understand.
+
+					BROTA 
+			You said there was an enemy for us 
+			to fight.
+
+					WORF
+			They're trying to plant their 
+			fields before the sun sets.
+				(beat) 
+			Time is their enemy... we should 
+			help them defeat it.
+
+	Brota and Parell exchange a look as they realize what 
+	Worf is offering them -- a challenge, a fight.
+
+					BROTA
+				(to the third Klingon) 
+			Bring the others.
+
+	The third "Klingon" runs off to get the other Sons of 
+	Mogh... as Worf, Brota and Parell start down toward the 
+	field...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     45.
+
+54   SISKO
+
+	smiling as he sees that they're joining in...
+
+55   BROTA
+
+	watching a settler struggle with a plow stuck in the 
+	earth. He motions for him to get out of the way, gets 
+	behind the machine, and pushes it free...
+
+56   BASHIR
+
+	pausing to wipe the sweat from his brow. The SHOTS 
+	start getting tighter on the action and shorter in 
+	length, giving the scene a sense of growing momentum 
+	and pace. It becomes a rousing celebration of the 
+	indomitable spirit of the community.
+
+56A  THE SUN
+
+	now lower in the sky...
+
+57   OMITTED
+
+58   WORF
+
+	cutting a hole with a soil corer...
+
+59   GABRIEL AND KIRA
+
+	moving along the rows of planted seedlings, dispensing
+	fertilizer...
+
+60   MIRANDA
+
+	handing seedlings off the now half-empty cart...
+
+61   A SON OF MOGH
+
+	we haven't seen before, pushing a plow...
+
+61A  O'BRIEN
+
+	as he cuts a hole in the earth. Molly runs up to him 
+	with a fresh seedling.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     46.
+
+61A  CONTINUED: 
+
+	He kneels, helps her unwrap the burlap that's wrapped 
+	around its roots. O'Brien sees her sweet little face, 
+	can't help trying to make up for his earlier behavior 
+	toward her.
+
+					O'BRIEN 
+			I have a little girl named Molly, 
+			too.
+
+					MOLLY 
+			Really? Can I meet her?
+
+	O'Brien's features falter as he realizes this can never 
+	be...
+
+					O'BRIEN 
+			We'll see.
+
+	Molly runs her fingers up the planted seedling.
+
+					MOLLY 
+			By summer, this'll be taller than 
+			you are. After it's harvested, 
+			I'll help my mother make gelm 
+			bread with it.
+
+	O'Brien's heart breaks over her innocent hope -- She 
+	scampers off to get another seedling...
+
+62
+thru   OMITTED
+65
+
+65A  ANOTHER ANGLE
+
+	as O'Brien moves to join Sisko and Kira, his features 
+	sober. They stop what they're doing, look up at him.
+
+					SISKO 
+			Something wrong?
+
+	O'Brien has come to a difficult decision --
+
+					O'BRIEN 
+			We can't do it.
+
+	He hurls the hand-shovel he's been working with onto 
+	the ground, angry at the impossibility of his 
+	situation.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FOUR     47.
+
+65A  CONTINUED: 
+
+
+					O'BRIEN
+			We can't let these people die.
+
+	Sisko's been feeling the same thing, and after a beat, 
+	he nods his agreement. Kira smiles sadly, realizing 
+	they've come to the same terrible decision she came to.
+
+	As our crew looks around at the settlers still at work 
+	all around them, their quixotic labors seem to embody 
+	hope itself. Off this moment we...
+
+66
+thru   OMITTED
+70
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE     48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+71   EXT. TOWN SQUARE - LATE AFTERNOON
+
+	Sisko and Dax, still sweaty and dirty from their 
+	labors, have told Yedrin and Miranda their decision. 
+	They're still trying to assimilate the unexpected 
+	reprieve their people are getting. In the background, 
+	we see people returning from the field. Yedrin works 
+	a PADD, hands it to Dax.
+
+					YEDRIN 
+			The navigational logs from the 
+			original crash. Download them 
+			into the ship's auto-pilot and 
+			it'll match the original 
+			trajectory. That should send the 
+			Defiant back to the right point in 
+			time.
+
+	Miranda looks at Sisko, trying to get her mind around 
+	the sacrifice he's making. She takes Sisko's hand, 
+	squeezes it in a gesture of thanks.
+
+					MIRANDA 
+			I don't know how to thank you for 
+			what you're doing...
+
+	Sisko acknowledges with a nod...
+
+					DAX 
+			We'd better go, Benjamin. There 
+			isn't much time.
+
+	Sisko moves to Yedrin, they clasp each others arms, 
+	then pull each other into a hug... off the emotion 
+	between them...
+
+72   INT. DEFIANT - CORRIDOR
+
+	where Odo and Kira are saying good-bye. He can't stand 
+	the thought of her dying again, and the anguish on his 
+	face is palpable.
+
+					ODO
+			You can't do this.
+
+					KIRA 
+			Please don't make it any harder 
+			than it already is.
+
+					ODO
+			You have to go home, Nerys, you 
+			have to.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE    48A.
+
+72   CONTINUED:
+
+					KIRA
+			This isn't about me -- it's about 
+			the eight thousand people down on 
+			that planet, and their children 
+			and grandchildren.
+
+	Odo is desperate to say something to dissuade her...
+
+					ODO
+			What about the children who'll 
+			never be born because the Defiant 
+			doesn't go back to D.S. Nine?
+
+					KIRA
+			They don't exist yet. These 
+			people do.
+
+	He sees there's no talking her out of it... gets a hold 
+	of himself enough to ask...
+
+					ODO
+			Nerys, just tell me one thing. If 
+			you'd known how I felt about you, 
+			if I'd said something years ago, 
+			do you think things might've been 
+			different?
+
+	She looks at him, smiles gently...
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE     49.
+
+72   CONTINUED:	(2)
+
+					KIRA
+			Maybe...
+
+	He smiles through his sadness. She leans in, kisses
+	him tenderly... then turns and moves away down the
+	corridor. Off Odo's anguished features...
+
+73   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	in geo-synchronous orbit.
+
+74   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Sisko is in the command chair, Bashir stands at his 
+	side. Worf and O'Brien are at their posts; Dax and 
+	Kira are standing together at a side console. All are 
+	now in clean uniforms. The mood is sober, but our 
+	people are determined to go through with their 
+	decision.
+
+					SISKO 
+			Has everyone had a chance to 
+			record a message to their 
+			families?
+
+	Everyone has, including O'Brien -- who tries to keep 
+	the emotion from his voice.
+
+					O'BRIEN 
+			I've downloaded the recordings 
+			into a class four probe. It'll 
+			start transmitting a location 
+			signal as soon as it clears the 
+			barrier.
+
+	Sisko nods, gives the order.
+
+					SISKO
+			Launch the probe, Chief.
+
+	O'Brien works his console and we hear the SOUND of the 
+	probe launching. After a beat...
+
+					KIRA
+				(to Dax) 
+			It's time.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE    49A.
+
+74   CONTINUED:
+
+	Kira and Dax separate with a last look, move to their 
+	posts... Sisko takes a last look at the planet on the 
+	VIEWSCREEN.
+
+					SISKO 
+			Transfer helm control to auto-
+			pilot.
+
+					DAX
+			Auto-pilot engaged.
+
+					SISKO 
+			Raise shields.
+
+	Kira swivels around in her chair to look at Sisko. 
+	Their eyes lock -- this is the end and they both know 
+	it. Kira gives him a small smile to let him know she 
+	has no doubts about what they're doing... he gives her 
+	a small nod, letting her know he understands.
+
+					WORF
+			We're breaking orbit...
+
+					DAX 
+			Coming around to four two mark 
+			seven.
+
+	INTERACTIVE LIGHT starts to play on our people's 
+	faces...
+
+					O'BRIEN
+			I'm picking up an unusual temporal 
+			signature...
+
+					KIRA 
+			It's the anomaly, we're heading 
+			right for it.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE     50.
+
+75   O'BRIEN
+
+	bracing himself for the inevitable...
+
+76   DAX
+
+	as she turns to look back at Sisko and Bashir...
+
+77   WORF
+
+	as he looks to Kira, his first ally in thinking this 
+	was the right thing to do...
+
+78   RESUME SCENE (OPTICAL) 
+
+	The energy barrier fills the VIEWSCREEN.
+
+					DAX
+			Ten seconds to impact, eight,
+			seven --
+
+	Suddenly the ship banks hard to one side, throwing 
+	everyone off balance...
+
+					KIRA 
+			We're veering away from the 
+			anomaly!
+
+					SISKO 
+			Try to override the auto-pilot!
+
+					DAX
+				(works) 
+			I can't.
+
+					O'BRIEN
+			We're clearing the barrier --
+
+79   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	as it emerges from the barrier into normal space...
+
+80   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Sisko is staring at the starfield on the viewscreen.
+
+					SISKO
+			What happened?
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE    50A.
+
+80   CONTINUED:
+
+					O'BRIEN
+				(off console)
+			Someone changed our flight plan.
+
+	Sisko is so taken off-guard by this he just stares at 
+	O'Brien.
+
+					O'BRIEN
+			It wasn't me.
+
+	Sisko can see that he's telling the truth, and he has 
+	bigger things on his mind right now than finding out 
+	who was responsible. He turns to Kira --
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE     51.
+
+80   CONTINUED:	(2)
+
+					SISKO
+			Scan the surface
+
+	Kira doesn't want to accept what her sensors are 
+	telling her...
+
+					KIRA 
+			There's no sign of the 
+			settlement... or any of the 
+			inhabitants... Everything's... 
+			gone...
+
+	Our people react to this tragic loss. Sisko settles 
+	heavily into his chair... stares at the planet as it 
+	slowly recedes from sight on the VIEWSCREEN. 
+	Off this moment...
+
+81   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	as it travels at warp...
+
+82   INT. DEFIANT - CORRIDOR
+
+	as Sisko and Dax make their way down it...
+
+					SISKO 
+			Whoever changed our flight plan 
+			knew their way around the computer 
+			system. They bypassed the 
+			security protocols without leaving 
+			a trace.
+
+	Dax can see what Sisko is implying...
+
+					DAX
+			It must've been someone from the crew.
+
+					SISKO
+			Or someone who used to be.
+
+					DAX
+				(catching on) 
+			Yedrin?
+
+	Dax understands Sisko's reasoning, but one thing 
+	doesn't make sense to her.
+
+					DAX
+			But all he cared about was the 
+			settlement. What could've changed 
+			his mind?
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE    51A.
+
+82   CONTINUED:
+
+					SISKO
+			Seeing us again, maybe he decided 
+			he couldn't let us go through with 
+			it.
+
+	A quiet moment between them...
+
+					DAX
+			Everyone we met... they never 
+			existed.
+
+					SISKO 
+			They existed. And as long as we 
+			remember them, they always will...
+
+	Sisko smiles, taking a bit of comfort in the sentiment. 
+	They round the corner and Odo -- our Odo, ENTERS the 
+	corridor from the other direction. He moves to Kira's 
+	door, hesitates for a beat...
+
+83   INT. KIRA'S QUARTERS
+
+	where Kira is lying on the lower bunk, lost in thought. 
+	The door CHIMES.
+
+      DEEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE     52.
+
+83   CONTINUED:
+
+					KIRA 
+			Come in.
+
+	The door OPENS to reveal Odo...
+
+					KIRA 
+			Odo...
+
+	She sits up to greet him. She's feeling a bit awkward 
+	because she feels she knows something he doesn't, and 
+	she's not sure what to do. Odo, for his part, seems 
+	very uncomfortable about something as well.
+
+					ODO
+			There's something you should know. 
+			The other Odo, the one from the 
+			planet, came to Sickbay before he 
+			left the ship.
+
+					KIRA 
+			Oh?
+
+					ODO
+			He linked with me.
+				(awkward) 
+			Now I know... everything that 
+			happened.
+
+	She looks down, realizing the implications. A silent 
+	moment between them... Kira takes this in for a 
+	moment... asks about something she's been thinking 
+	about...
+
+					KIRA
+			The other day, when I told you 
+			that Shakaar and I weren't seeing 
+			each other anymore, you seemed so 
+			uncomfortable.
+
+					ODO
+			I'd come to accept the fact that 
+			you were involved with someone 
+			else, and suddenly... everything 
+			changed.
+
+	Odo can see Kira is still struggling to make sense of
+	it all...
+
+					KIRA
+			I don't know what to say. I'm 
+			still trying to sort it all out.
+
+					ODO
+			So am I. I think we both need 
+			time.
+
+	She nods... a quiet moment between them.
+
+      DFEP SPACE NINE: "Children... " - REV. 03/11/97 - ACT FIVE     53.
+
+83   CONTINUED:	(2)
+
+					ODO
+			There's something else the other
+			Odo wanted you to know.
+
+	Odo takes a beat to collect his thoughts...
+
+					ODO
+			He was responsible for changing
+			the Defiant's flight plan.
+
+					KIRA
+				(stunned)
+			Why?
+
+					ODO
+			So that you wouldn't have to die.
+
+	Kira grapples with the enormity of what he did... and 
+	it makes her suddenly angry.
+
+					KIRA
+			I can't believe it... eight
+			thousand people...
+
+	Odo finds himself defending what his counterpart did...
+
+					ODO
+			He did it for you, Nerys. He
+			loved you.
+
+					KIRA
+			And that makes it right?
+
+					ODO
+			I don't know.
+				(beat)
+			He thought so.
+
+	A quiet moment between them...
+
+					ODO
+			I'll see you in the morning.
+
+	And with that, Odo EXITS... off Kira's face as she 
+	considers everything that's happened, and wonders 
+	what's in store for the two of them...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

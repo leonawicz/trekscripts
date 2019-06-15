@@ -1,0 +1,3184 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "Profit and Loss" 
+               (fka "Here's Lookin' at You... ") 
+                          #40512-438 
+                              
+                          Written by 
+                  Flip Kobler & Cindy Marcus 
+                              
+                          Directed by 
+                         Robert Wiemer 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        January 13, 1994
+
+     STAR TREK: DS9 - "Profit and Loss" - 01/13/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Profit and Loss" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     NATIMA LANG
+          ODO                      HOGUE
+          QUARK                    REKELEN
+          BASHIR                   GUL TORAN
+          DAX                      
+          O'BRIEN                  
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+     STAR TREK: DS9 - "Profit and Loss" - 01/13/94 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Profit and Loss" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          CARGO BAY                     
+          COMMANDER'S QUARTERS          
+          DOCKING RING CORRIDOR         
+          GARAK'S SHOP                  
+          HOLDING AREA                  
+          NATIMA'S QUARTERS             
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          QUARK'S SECOND FLOOR          
+          SECURITY OFFICE               
+
+    STAR TREK: "Profit and Loss" - 01/13/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Profit and Loss" 
+                      PRONUNCIATION GUIDE 
+
+          BAJORAN                  bah-JOR-an
+          CARDASSIA                car-DASS-ee-uh
+          CARDASSIAN               car-DASS-ee-en
+          GARAK                    GAIR-uck
+          HOGUE                    HOEG (rhymes with Vogue)
+          IMPARR                   im-PARR
+          KANAR                    KUH-nar
+          KOLUZONA                 koe-loo-ZOE-nuh
+          MORDIAN                  MOR-dee-an
+          NATIMA LANG              nuh-TEE-muh LANG
+          REKELEN                  reh-KELL-en
+          RHYMUS                   RIE-mus
+          SAMARIAN                 suh-MARE-ee-an
+          TORAN                    tuh-RAN
+          TRELONIAN                tre-LONE-ee-an
+          YIRI                     YEER-ee (rhymes with Eerie)
+
+          DEEP SPACE: "Profit and Loss" - 01/13/94 - TEASER          1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "Profit and Loss"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    OMITTED
+
+2    INT. OPS (OPTICAL)
+
+	KIRA and DAX are at their stations, both zeroed in on their 
+	instruments.  SISKO is looking up at the viewscreen, which 
+	displays a close view of a small Cardassian ship, moving 
+	erratically, shimmering with plasma discharge, obviously in 
+	trouble.
+
+					KIRA
+			Definitely Cardassian.
+
+					DAX
+				(checking panel)
+			And in trouble.  Its engines are 
+			completely disabled.
+
+					SISKO
+			Open a hailing frequency.
+				(to screen)
+			This is Commander Sisko of Deep Space 
+			Nine.  Do you need assistance?
+
+	Nothing but STATIC from the screen.
+
+					DAX
+			They're not answering.
+				(checking monitor)
+			Their life-support systems are 
+			operating on reserve power.
+
+					SISKO
+			Better lock on a tractor beam and 
+			pull them into Docking Bay Seven.  
+			Notify Chief O'Brien to meet me there.
+
+	Sisko EXITS.
+
+          DEEP SPACE: "Profit and Loss" - 01/13/94 - TEASER          2.
+
+3    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The stations tractor beams pull in the damaged Cardassian 
+	ship.
+
+4    INT. CARGO BAY SEVEN
+
+	Sisko and O'BRIEN wait as the airlock door rolls back.  
+	Two young Cardassians step out.  They're dressed in civilian 
+	clothes and look nervous and a little scared.  The male, 
+	HOGUE, is wide-eyed and innocent.  The female, REKELEN, is 
+	edgy and hyperactive.
+
+	After they survey the scene, a statuesque, striking (for a 
+	Cardassian) female steps out.  This is NATIMA LANG.  She is 
+	older and much more composed than her two compatriots.  She 
+	measures Sisko and O'Brien with a long look.
+
+					SISKO
+			I'm Benjamin Sisko, commander of 
+			Deep Space Nine.
+				(indicating O'Brien)
+			My chief of operations, Miles O'Brien.
+				(concerned)
+			Do any of you need medical assistance?
+
+					NATIMA
+			I think we're all in good shape, 
+			considering.  I'm Professor Natima 
+			Lang.
+				(indicates the other 
+				Cardassians)
+			These are two of my students, Rekelen 
+			and Hogue.
+
+					O'BRIEN
+			What happened to your ship?
+
+					NATIMA
+			We were caught in a meteor swarm.  
+			I'm a decent teacher, but I'm afraid 
+			I'm not much of a shuttle pilot.
+				(to O'Brien)
+			Do you think you'll be able to repair 
+			our ship?
+
+					O'BRIEN
+			I'll have to take a look.  Excuse 
+			me.
+
+	He enters the airlock and disappears.
+
+       DEEP SPACE: "Profit and Loss" - REV. 01/24/94 - TEASER        3.
+
+4    CONTINUED:
+
+					NATIMA
+			We'd like to be on our way as soon 
+			as possible.  We know having 
+			Cardassians on a Bajoran station may 
+			cause trouble.  That's the last thing 
+			we want.
+
+					SISKO
+			If anyone can fix your ship, it's 
+			Mister O'Brien.  In the meantime, 
+			you're welcome to stay here.  If you 
+			stick to the Promenade, I'm sure 
+			there won't be any trouble.
+
+5    INT. QUARK'S - SECOND LEVEL
+
+	GARAK and BASHIR sit at a table, in mid-conversation.
+
+					BASHIR
+			Are you saying you agree with General 
+			Yiri's decision to execute his 
+			brother?
+
+	Garak rolls his eyes.  He senses an argument coming.
+
+					GARAK
+			Of course I agree.  Yiri's brother 
+			was a traitor to the Trelonian 
+			government.
+
+          DEEP SPACE: "Profit and Loss" - 01/24/94 - TEASER          4.
+
+5    CONTINUED:
+
+					BASHIR
+			But the evidence is all 
+			circumstantial.
+
+					GARAK
+			My dear Doctor... it all comes down 
+			to a question of loyalty.  Yiri had 
+			to choose between protecting his 
+			brother or protecting the state.  He 
+			chose the state... as would I, every 
+			time.
+
+					BASHIR
+			I suppose that's one way of looking 
+			at it.  Then again, "Before you can 
+			be loyal to another, you must be 
+			loyal to yourself."
+
+					GARAK
+			And who can we thank for those 
+			misguided words of wisdom?  Sarek of 
+			Vulcan?
+
+					BASHIR
+			Actually, it was Julian Bashir of 
+			Earth.  And it's not too bad 
+			considering I just made it up on the 
+			spot.
+
+					GARAK
+				(smiles)
+			With sentiments like those, you 
+			wouldn't last five seconds on 
+			Cardassia.
+
+	Bashir pounces.  This is the opening he's been waiting for.
+
+					BASHIR
+			Would you?
+
+       DEEP SPACE: "Profit and Loss" - REV. 01/24/94 - TEASER        5.
+
+5    CONTINUED:	(2)
+
+	Garak is a little taken aback.  Bashir's question cuts 
+	right to the heart of the cat-and-mouse game that the two of 
+	them have been playing for months.
+
+					GARAK
+			Fishing again, Doctor?
+
+					BASHIR
+			Well, assuming you're not a spy...
+
+					GARAK
+			Assuming.
+
+					BASHIR
+			Then maybe you're an outcast?
+
+					GARAK
+			Or maybe I'm an outcast spy?
+
+					BASHIR
+			How could you be both?
+
+					GARAK
+			I never said I was either.
+
+	Bashir grins and shakes his head.  He gives up.
+
+5    INT. QUARK'S (MAIN FLOOR)
+
+	Following ODO as he ENTERS the bar.  He scans the room and 
+	sees QUARK making drinks.
+
+					ODO
+				(approaching Quark)
+			I heard an interesting rumor.
+
+          DEEP SPACE: "Profit and Loss" - 01/13/94 - TEASER          6.
+
+6    CONTINUED:
+
+					QUARK
+			Only one?  I started at least twelve.
+
+	Odo slides onto a stool, glaring at Quark with that accusing 
+	look he's mastered so well.
+
+					ODO
+			Rumor has it you've managed to get 
+			your hands on a small cloaking device.
+
+					QUARK
+			And you believe everything you hear?
+
+	Quark busies himself making drinks.
+
+					ODO
+			When it's about you, yes.
+				(beat)
+			According to Bajoran law, such a 
+			device would be highly illegal.
+
+					QUARK
+			If I had one.  Which I don't.
+
+					ODO
+			I didn't expect you to admit it.  
+			I'm simply serving notice:  You try 
+			to sell it and I'll see to it that 
+			you spend the next fifty years digging 
+			trenches in a penal colony.
+
+	Quark turns away from Odo to get something off his backbar 
+	(under the window to the Promenade).
+
+					QUARK
+				(winces at the 
+				prospect, but:)
+			I told you... you have nothing to 
+			worry about, because...
+
+	Quark's voice trails off as he sees Natima and her students 
+	on the Promenade.  His face goes slack.
+
+					QUARK
+			Excuse me.
+
+	Quark leaves the Bar.
+
+          DEEP SPACE: "Profit and Loss" - 01/13/94 - TEASER          7.
+
+7    INT. PROMENADE
+
+	Quark steps out onto the Promenade and stares at the 
+	Cardassians.  He's visibly shaken, but finally finds his 
+	voice.
+
+					QUARK
+			Natima?
+
+	It's barely a whisper, but Natima turns and spots Quark.  
+	She stops in her tracks.  They stand there for a long moment, 
+	eyes locked and loaded with history.
+
+					NATIMA
+			Quark.
+
+	Natima steps up to Quark, still not quite believing her eyes.
+
+					QUARK
+			I knew you'd come b...
+
+	But before Quark can finish his sentence, Natima hauls back 
+	and slaps Quark.  Hard.
+
+					NATIMA
+			I told you never to speak to me again.
+
+	Natima storms off as Quark shakes off the blow.
+
+8    NEW ANGLE
+
+	As Odo approaches Quark.
+
+					ODO
+			Are you all right?
+
+	Quark holds his jaw as he watches Natima stalk away.
+
+					QUARK
+			All right?
+				(really means it)
+			This is the happiest day of my life.
+
+	Quark's eyes are still locked on Natima.  HOLD on Odo as he 
+	ponders Quark's connection to the Cardassian woman, then:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE          8.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+9    INT. PROMENADE (CONTINUOUS)
+
+	Natima and her students continue down the Promenade as Quark 
+	rushes up and blocks her path.
+
+					QUARK
+			Natima, wait.  At least let me buy 
+			you and your friends a drink.  I 
+			could make you a Samarian Sunset.
+
+					NATIMA
+			I don't drink Samarian Sunsets 
+			anymore.
+
+					QUARK
+			Why not?
+
+					NATIMA
+			Because they remind me of you.
+
+					HOGUE
+				(to Natima)
+			Is this...
+				(says it like an insult)
+			Ferengi bothering you?
+
+					QUARK
+			This Ferengi happens to be Natima's 
+			old and cherished friend.  Who are 
+			you?
+
+					NATIMA
+			These are my students.
+
+					QUARK
+			Students.  You don't say.
+				(to the students)
+			You know, she always told me she 
+			wanted to teach one day.
+				(to Natima)
+			And now, you're doing it.  
+			Congratulations.  It's so rare for 
+			someone to actually achieve their 
+			dreams.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE          9.
+
+9    CONTINUED:
+
+					REKELEN
+			Professor Lang isn't simply a teacher.  
+			She's our inspiration.
+
+					QUARK
+			Really?  I'd love to sit in on one 
+			of your classes.  What do you teach?
+
+					HOGUE
+			Political Ethics.
+
+					REKELEN
+				(with fervor)
+			Her teachings will change the future 
+			of Cardassia.
+
+					NATIMA
+			That's enough, Rekelen.
+
+					QUARK
+			Not at all.  I want to hear more.
+
+	Taking Rekelen and Hogue by the arms, he leads them back 
+	toward his bar.
+
+					QUARK
+			I always knew that Natima was destined 
+			for greatness.
+
+					NATIMA
+				(exasperated)
+			Quark...
+
+					QUARK
+			Just one drink.  It'll be like old 
+			times.
+
+					NATIMA
+			It'll never be like old times.
+
+					QUARK
+			You're right.
+				(to himself)
+			It'll be better.
+
+	Quark leads Rekelen and Hogue into the bar and Natima has no 
+	choice but to follow.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE         10.
+
+10   INT. QUARK'S
+
+	Quark ushers Natima and her students to a table.  They sit.
+
+					QUARK
+			I'll be right back with 
+			refreshments.
+
+	Quark leaves Natima alone with her students.
+
+11   FOLLOW QUARK
+
+	As he moves back to the door and starts to mix a drink.  Odo 
+	gives him a bemused look.
+
+					ODO
+			Your hands are shaking.
+
+	Indeed they are.  Quark steels himself, does his best to 
+	ignore Odo as he continues mixing.  But Odo isn't so easily 
+	dissuaded.
+
+					ODO
+			So how well does this woman know 
+			you?  Just enough to dislike you, or 
+			well enough to really hate you.
+
+					QUARK
+			She used to work here at the station.  
+			She was a correspondent for the 
+			Cardassian information service.  It 
+			was before your time.
+
+					ODO
+				(not giving up)
+			So which is it... dislike or hate?
+
+					QUARK
+			It's none of your business, but if 
+			you have to know... I was the love 
+			of her life.
+
+	And with that he sets a single drink on the tray and moves 
+	off, leaving Odo to contemplate someone actually loving Quark.
+
+					ODO
+				(harumphing)
+			Must have been some life.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE         11.
+
+12   NEW ANGLE (OPTICAL)
+
+	As Quark returns with the drink.  He sets it down gingerly 
+	in front of Natima.
+
+					HOGUE
+			What about our drinks?
+
+					QUARK
+				(dismissive)
+			If you want a drink, the bar's right 
+			over there.
+
+	Hogue and Rekelen look angry, but Natima nods, dismissing 
+	them.  They head for the bar, leaving Quark and Natima alone.
+
+					QUARK
+				(indicating the drink)
+			Your Samarian Sunset.
+
+	Quark reaches over and gently PINGS the glass with his finger.  
+	The clear liquid suddenly erupts with a bright orange color.
+
+					NATIMA
+				(there's no force 
+				behind her anger)
+			I said I didn't drink these anymore.
+
+					QUARK
+			Because they remind you of me.  But 
+			since I'm here anyway, you may as 
+			well enjoy yourself.  Besides, it's 
+			on the house.
+
+	She picks up the drink and holds it up to the light.
+
+					QUARK
+				(continuing)
+			You know, you're as beautiful as 
+			ever.
+
+	Natima sets the drink back down.
+
+					NATIMA
+			And you're as big a liar as ever.
+
+					QUARK
+				(exuberant)
+			You see... just like old times.
+				(a beat)
+			I've missed you, Natima.  And that's 
+			no lie.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE         12.
+
+12   CONTINUED:
+
+					NATIMA
+				(looking around the 
+				bar)
+			You seem to have kept busy.
+
+					QUARK
+			Oh, yes.  I'm very successful.  But 
+			as the two hundred and twenty-third 
+			Rule of Acquisition says...
+
+					NATIMA
+				(interrupting)
+			Please.  I haven't heard a Rule of 
+			Acquisition in seven years.  And I 
+			don't want to hear one now.
+				(a beat)
+			You never apologized, Quark.  You 
+			never admitted you were wrong.  I 
+			think that hurt more than anything.
+
+					QUARK
+			Would it really have made any 
+			difference?
+
+					NATIMA
+			Maybe not.  But it would've been 
+			nice if you'd tried.
+
+					QUARK
+			All right.  I'm sorry.  I was wrong.
+
+					NATIMA
+			It's too late.
+
+					QUARK
+			It's never too late.
+				(a beat)
+			So how long are you going to be on 
+			the station?
+
+	Before she can answer, she sees...
+
+13   GARAK AND BASHIR
+
+	coming down the spiral staircase.
+
+					GARAK
+			Thank you for another enjoyable lunch.  
+			Doctor.
+
+	Garak pulls up short as he spots Natima and her students.  
+	He and Rekelen lock eyes for a moment.  Garak betrays no 
+	emotion beyond a cold assessment of the situation.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE         13.
+
+13   CONTINUED:
+
+	Garak nods politely and EXITS.
+
+14   ANGLE ON NATIMA
+
+	Noticeably apprehensive.  Hogue and Rekelen also spot Garak 
+	and immediately rejoin Natima.
+
+					NATIMA
+			I didn't think there'd be any 
+			Cardassians left on the station.
+
+					QUARK
+			He's the only one.
+
+					HOGUE
+				(concerned)
+			What do we do now?
+
+					QUARK
+				(confused)
+			Why?  Is something wrong?
+
+					NATIMA
+				(to Hogue)
+			We have to leave... as soon as 
+			possible.
+				(to Quark)
+			Goodbye, Quark.  Thanks for the drink.
+
+					QUARK
+			But you didn't touch it.
+
+	Natima and the others head for the door.
+
+15   QUARK
+
+	watches Natima leave.  There's only one thing on his mind -- 
+	Now that he's found her again, he has to win her back.
+
+16   INT. OPS
+
+	The usual hub of activity.  Sisko, Dax and Kira are at the 
+	main console as O'Brien steps off the Turbolift and crosses.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE         14.
+
+16   CONTINUED:
+
+					SISKO
+			How are your repairs coming?
+
+					O'BRIEN
+			The damage is more extensive than I 
+			thought.
+				(pointed beat)
+			They were lucky to survive the attack.
+
+					SISKO
+			The attack?
+
+	O'Brien holds up the ship's navigation cell -- a blackened, 
+	partially melted cube.
+
+					O'BRIEN
+			They weren't in any meteor swarm.  
+			Their ship was hit by Cardassian 
+			disrupters.
+
+					KIRA
+			That doesn't make sense.  Why would 
+			Cardassians fire on other Cardassians?
+
+					DAX
+				(looking beyond Kira)
+			Maybe you should ask her.
+
+	Kira and Sisko turn to see Natima, Hogue and Rekelen step 
+	out of the Turbolift.  The crewmembers react to the 
+	Cardassians in Ops.  As Natima and her students come up:
+
+					NATIMA
+			I hate to be an imposition, Commander, 
+			but I need my ship.
+
+					SISKO
+			That's not possible.  Mister O'Brien 
+			is still working on it.
+				(pointedly)
+			Your ship sustained more damage than 
+			we originally thought, in fact...
+
+	Natima sees what's coming.
+
+					NATIMA
+				(interrupting)
+			You suspect our ship was damaged by 
+			Cardassian weapons.  You're right, of 
+			course.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT ONE         15.
+
+16   CONTINUED:	(2)
+
+					HOGUE
+			Professor...
+
+					NATIMA
+			It's all right, Hogue.  I should've 
+			told them the truth in the first 
+			place.
+
+					KIRA
+			Then why didn't you?
+
+					NATIMA
+			Because Cardassians don't involve 
+			outsiders in their internal politics.  
+			Especially Bajorans.
+
+					SISKO
+			Being shot at by your own people 
+			goes a little beyond politics.
+
+					NATIMA
+				(grim)
+			We take our politics very seriously.
+				(a beat)
+			Commander, if I don't get my students 
+			to safety they're going to be killed.  
+			And if they die, the future of 
+			Cardassia may die with them.
+
+	Hold for a beat as Sisko and the rest of the crew react to 
+	this pronouncement, then...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         16.
+                            ACT TWO                             
+
+	FADE IN:
+
+17   INT. COMMANDER'S OFFICE
+
+	Sisko is seated at his desk, with Natima seated across from 
+	him and her students standing behind her.
+
+					REKELEN
+				(in mid-speech)
+			To put it simply, not everyone inside 
+			the Cardassian Empire is satisfied 
+			with the way the Central Command 
+			governs.
+
+					SISKO
+			Not everyone outside, either.
+
+					NATIMA
+			There are some who believe the future 
+			of Cardassia shouldn't remain in the 
+			hands of the military.
+
+					SISKO
+			And you're among them?
+
+					HOGUE
+			Yes, we are.
+
+					NATIMA
+			Rekelen and Hogue are two of the 
+			most important leaders of our 
+			movement.
+
+					SISKO
+				(to the students)
+			Which makes you fugitives.
+
+					HOGUE
+			The military's afraid to let us speak 
+			our minds.
+
+					NATIMA
+			We only want a better future for all 
+			Cardassians.  A future based on peace 
+			and non-violence.
+				(somber)
+			But if we achieve peace, true peace, 
+			both inside and outside our borders, 
+			the military will no longer be able 
+			to justify their control of the 
+			Empire.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         17.
+
+17   CONTINUED:
+
+					SISKO
+			Military governments are notoriously 
+			reluctant to give up power.
+
+					NATIMA
+			Ours is no exception.
+
+					REKELEN
+			They've already tried to kill us 
+			once... they're sure to try again.
+
+					NATIMA
+				(forceful)
+			Which is why I have to get them off 
+			this station... as soon as possible.
+
+					SISKO
+			I'll dispatch additional work crews 
+			to help repair your ship.
+
+					NATIMA
+			The sooner the better, Commander.
+
+					HOGUE
+			We saw another Cardassian aboard the 
+			station... in the bar.
+
+					SISKO
+				(concerned)
+			Garak?  He saw you?
+
+					NATIMA
+			I'm certain of it.
+
+					SISKO
+			Then... we may have a problem.  Mister 
+			Garak is a bit of a mystery to us.  
+			One of my officers is convinced he 
+			works for Cardassian Intelligence.  
+			For all I know he could be right.
+
+					REKELEN
+			Why don't you arrest him?
+
+					SISKO
+			On what charge?
+
+					REKELEN
+			You're the commander.  You don't 
+			need a reason.
+
+					SISKO
+			That's not how we do things here.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         18.
+
+17   CONTINUED:	(2)
+
+					NATIMA
+				(reprimanding Rekelen)
+			Nor should it be.
+
+					SISKO
+			I'll assign you some guest quarters.  
+			You'll be safe there until your ship 
+			is ready.
+
+	Though neither Rekelen or Hogue seem satisfied, Natima nods 
+	her thanks.
+
+					NATIMA
+			We appreciate your assistance, 
+			Commander.
+
+18   INT. GARAK'S SHOP
+
+	Garak is nipping and tucking a jacket on a mannequin.  He 
+	hears someone behind him, turns to find Quark standing in 
+	the doorway, watching him.
+
+	Garak smiles coolly at Quark.
+
+					GARAK
+			Mister Quark, this is a surprise.  I 
+			don't believe you've ever been in my 
+			establishment before.
+
+					QUARK
+			You usually don't frequent mine, 
+			either... though I did see you in 
+			there today.
+
+					GARAK
+			The Replimat was a little crowded.  
+			So what brings you here now?
+
+					QUARK
+				(casually)
+			Oh, I just wanted to see what you're 
+			offering.
+
+	Quark picks up a beautifully embroidered dress, rubs the 
+	material between his fingers.
+
+					QUARK
+			What do you get for this?
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         19.
+
+18   CONTINUED:
+
+					GARAK
+			Seventeen strips of latinum.
+
+					QUARK
+			Tell you what, I'll give you twenty.
+
+					GARAK
+			Twenty?  How uncharacteristically 
+			generous... for a Ferengi.
+
+					QUARK
+			Just one businessman trying to help 
+			out another.  I figure we have to 
+			stick together.
+
+	Garak knows this is a lie, but he holds out the dress to 
+	Quark.
+
+					GARAK
+			This is the latest style on my 
+			homeworld.  Do you like it?
+
+					QUARK
+			I'm no expert on Cardassian fashions.  
+			What do you think?
+
+					GARAK
+			I don't know.  It's been so long 
+			since I've had a Cardassian customer.
+
+	The opening Quark was waiting for.
+
+					QUARK
+			Then you're in luck.  There're some 
+			on the station right now.
+
+					GARAK
+			Now that you mention it, I think 
+			your lady friend may find this style 
+			very appealing.  You are old friends, 
+			aren't you?
+
+					QUARK
+				(begrudgingly)
+			You're very perceptive, for a 
+			Cardassian.
+
+					GARAK
+			It would've been hard to miss the 
+			way you were looking at her.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         20.
+
+18   CONTINUED:	(2)
+
+					QUARK
+			It would've been hard to miss the 
+			way you were looking at her.
+
+					GARAK
+			I always try to observe the fashions 
+			of visitors to the station.
+
+	Garak holds the dress up and looks at it appraisingly.
+
+					GARAK
+				(continuing)
+			Personally I find this style a bit 
+			too radical, but your friend seems 
+			the type who appreciates that sort 
+			of thing.
+
+					QUARK
+			Different tastes for different people.
+				(fishing)
+			Nothing wrong with that, is there?
+
+					GARAK
+			You'd be surprised how detrimental a 
+			poor choice of fashion can be.  Take 
+			this dress.  It may be all the rage 
+			now... but it could quickly become 
+			tiresome, an affront to the eyes.  
+			Certain people may even find it... 
+			objectionable.  And then...
+				(Garak rips the dress)
+			Nothing but rags.
+
+					QUARK
+				(with an edge)
+			I see.
+
+					GARAK
+			Mister Quark, may I offer you some 
+			free advice?
+
+					QUARK
+				(not smiling)
+			As long as I'm under no obligation 
+			to follow it.
+
+					GARAK
+				(choosing his words)
+			I've been in this business a long 
+			time.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         21.
+
+18   CONTINUED:	(3)
+
+					GARAK (Cont'd)
+			And I know there's nothing worse 
+			than following the wrong trend.  Now 
+			you're a smart fellow.
+				(glances at Quark's 
+				clothing)
+			With your own inimitable style.  
+			Perhaps you should mention that to 
+			your lady friend.  I'd hate to see 
+			her become... a victim of fashion.
+
+					QUARK
+			Would you like to explain that?
+
+					GARAK
+			She's chosen to associate herself 
+			with some rather flamboyant 
+			companions.  It would be a tragedy 
+			if she got in the way when her 
+			friends... went out of style.
+
+					QUARK
+				(no longer dancing 
+				around)
+			If anyone tries to hurt her, they're 
+			going to have to deal with me.
+
+					GARAK
+				(not impressed)
+			What're you going to do?  Shortchange 
+			them at the dabo table?
+
+	Quark picks up the ripped dress and shoves it into Garak's 
+	arms.
+
+					QUARK
+				(defiant)
+			I think I'll buy this dress after 
+			all.  See that it's mended.
+
+	Quark EXITS.  Garak looks thoughtfully at the torn dress.
+
+19   INT. NATIMA'S QUARTERS
+
+	Natima sits at a table, while an agitated Rekelen and Hogue 
+	pace around her.
+
+					REKELEN
+			Professor, we have to do 
+			something.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         22.
+
+19   CONTINUED:
+
+					NATIMA
+			If you want to do something 
+			constructive, stop pacing... the 
+			both of you.
+
+					HOGUE
+			We can't just sit here while 
+			everything we've worked for is 
+			slipping away.
+
+					NATIMA
+			Have faith.  Your work is just 
+			beginning.
+
+					REKELEN
+			How can you say that?  The movement 
+			is in shambles... we're fleeing for 
+			our lives... the military's hold is 
+			stronger than ever.  Things are no 
+			better than when we started.
+
+					NATIMA
+			That's not true.  Look at all you've 
+			accomplished.  Five years ago there 
+			was no hope for progress.  The 
+			military's rule wasn't even 
+			questioned.  That's all changed now.
+
+					HOGUE
+			We could never have done it without 
+			your support.
+
+					NATIMA
+				(pep talk)
+			What we've started can't be undone.  
+			Don't you see, they can kill me... 
+			they can kill you, but they can't 
+			kill our ideas... our hope for a 
+			better Cardassia.
+
+	Rekelen and Hogue fall silent as Natima's words sink in.  
+	After a beat...
+
+					HOGUE
+				(worried, but putting 
+				up a good front)
+			You're right, Professor.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         23.
+
+19   CONTINUED:	(2)
+
+	Natima sees that Hogue is pretty scared.
+
+					NATIMA
+			Don't worry, Hogue.  I have no 
+			intention of letting you become 
+			martyrs.  I'll get you out of this 
+			somehow.
+				(venting her own 
+				frustration)
+			If we could only get to Sadera Six 
+			and join up with the others...
+
+	She's cut short by a BEEP, and:
+
+					COM VOICE
+				(Quark's voice, 
+				disguised)
+			Lieutenant Smith to Professor Lang.  
+			Commander Sisko is on his way to 
+			your quarters.  He'd like to speak 
+			to you in private.
+
+					NATIMA
+				(to comm)
+			Thank you.  I'll be waiting.
+				(to her students)
+			Why don't you two go see if Chief 
+			O'Brien's made any progress with our 
+			ship?
+
+	Rekelen nods, grateful for something to do, and she and Hogue 
+	EXIT.
+
+20   NEW ANGLE
+
+	As Natima consults her PADD to prepare for her meeting with 
+	Sisko.  The door CHIMES.
+
+					NATIMA
+			Enter.
+
+21   ANGLE ON THE DOOR
+
+	To reveal Quark
+
+					NATIMA
+			Quark.  I can't talk now.  I'm 
+			expecting Commander Sisko.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         24.
+
+21   CONTINUED:
+
+					QUARK
+			He's not coming.
+
+					NATIMA
+			What do you mean he's not coming?
+
+					QUARK
+			Trust me.
+
+					NATIMA
+				(figures it out)
+			Lieutenant Smith?
+
+					QUARK
+			At your service.
+
+	She allows herself a thin smile and shakes her head.
+
+					NATIMA
+			You haven't changed a bit.
+
+	Quark turns to her and we see a side of him we don't often 
+	see -- a softer, gentler Quark.
+
+					QUARK
+			You're wrong, Natima.  I haven't 
+			been the same since you left.
+
+					NATIMA
+			What is it you want from me?
+
+					QUARK
+			I know you're in trouble.  I want to 
+			help you.
+
+					NATIMA
+			I don't want your help.
+
+					QUARK
+			But I owe you.  You saved my life.  
+			If you had turned me over to the 
+			authorities, I'd've been executed.
+
+					NATIMA
+				(simply)
+			I admired your courage.  It was a 
+			brave thing you were doing... selling 
+			food to the Bajorans.  I thought you 
+			were a man of honor.
+
+					QUARK
+			I'm a Ferengi.  You should've known 
+			better.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         25.
+
+21   CONTINUED:	(2)
+
+					NATIMA
+			You're right.  I should have.  
+			Instead...
+
+	She trails off, not wanting to dwell on the past.
+
+					QUARK
+			Can't you even say it?
+
+					NATIMA
+			I can't even think it.
+
+					QUARK
+			Okay, then I'll say it for you.  We 
+			fell in love.  And that month we 
+			spent together was the best time of 
+			our lives... and you know it.
+
+					NATIMA
+			I think you're confusing lust with 
+			love.
+
+					QUARK
+			I admit... I'm capable of it.  But 
+			not this time.  I loved you, Natima.
+
+					NATIMA
+			Then how could you have betrayed me?
+
+					QUARK
+			I didn't betray you.
+
+					NATIMA
+			Don't lie to me, Quark.  I know 
+			better.  You used my personal access 
+			codes to authorize payments for goods 
+			you never provided.
+
+					QUARK
+			So I took a little money from the 
+			Cardassian Communication Service.  
+			They could afford it.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         26.
+
+21   CONTINUED:	(3)
+
+					NATIMA
+			You stole that money.
+
+					QUARK
+			I saw a chance for profit and I took 
+			it.  Maybe that was wrong.  I don't 
+			know.  But what I really regret was 
+			betraying your trust.
+				(totally honest)
+			That was the worst mistake of my 
+			life.
+
+					NATIMA
+			And you'd do it again in a second.  
+			I believed in you, Quark.  But you 
+			were using me.  Like you use everyone.  
+			For profit.
+
+					QUARK
+			Then let me make it up to you.  Let 
+			me help you.  I ask for nothing in 
+			return.
+
+					NATIMA
+			Nothing?
+
+					QUARK
+			Except that you'll stay with me 
+			forever.
+
+					NATIMA
+			I can't stay here, Quark.  My students 
+			need me.
+
+					QUARK
+			Listen to me, Natima.  You can't 
+			leave me.  Not now.  If you don't 
+			stay with me, I'll have to follow 
+			you.  And I will.  Wherever you go.  
+			Until you agree to take me back.
+
+					NATIMA
+			Quark, you don't even know me anymore.  
+			I'm part of the Cardassian 
+			underground.  Following me will only 
+			get you killed.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO        26A.
+
+21   CONTINUED:	(4)
+
+					QUARK
+				(desperate)
+			I'll take that chance.
+
+					NATIMA
+			What about the bar?
+
+					QUARK
+			I don't care about the bar.  I'll 
+			turn it over to Rom.  He'll run it 
+			into the ground in a month, but that 
+			doesn't matter.  I have to be with 
+			you.
+
+	Natima is tempted.  She didn't think Quark was prepared to 
+	make that kind of sacrifice, but...
+
+					NATIMA
+			It won't work, Quark.  You say you'd 
+			do anything for me.  Maybe right 
+			now, you even believe it.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         27.
+
+21   CONTINUED:	(5)
+
+					NATIMA (Cont'd)
+			But I know better.  In the end, you'd 
+			only care about yourself.
+
+					QUARK
+			But I love you.
+
+					NATIMA
+			I don't love you.
+
+					QUARK
+			Now which one of us is lying?
+
+					NATIMA
+				(trying not to let 
+				him get to her)
+			You'd better go.
+
+	Quark's not willing to push it any further... for now.
+
+					QUARK
+			All right.  But if there's anything 
+			you need... anything at all... I'll 
+			be waiting.
+
+					NATIMA
+			It'll be a long wait.
+
+	That cuts Quark to the bone.  He turns and EXITS.
+
+22   HOLD ON NATIMA
+
+	There's no joy in her victory.
+
+23   INT. OPS (OPTICAL)
+
+	O'Brien crosses to Sisko, Kira and Dax at the main console.
+
+					O'BRIEN
+			Professor Lang's ship should be ready 
+			to go in about an hour, Commander.
+
+					SISKO
+			Good, I'll let her know.
+
+	BEEP!  Kira turns to her scanners.
+
+					KIRA
+			We have a Cardassian warship 
+			approaching.  Fast.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT TWO         28.
+
+23   CONTINUED:
+
+					SISKO
+			On screen.
+
+	Kira punches buttons and here it comes, banking in hard.  
+	O'Brien hurries to his station.
+
+					SISKO
+				(continuing)
+			Dax, hail them.
+
+					DAX
+				(tries, then:)
+			No response.
+
+					KIRA
+			The ship's taking up an attack 
+			posture.
+
+					DAX
+			They're still ignoring us.
+
+					O'BRIEN
+			They're powering up their forward 
+			disrupters.
+
+					SISKO
+			Shields!
+
+					KIRA
+			Shields up.
+
+					SISKO
+				(to Kira)
+			Lock on phasers and photon 
+			torpedoes... Prepare to return fire 
+			if necessary.
+
+	Garak ENTERS during this, immediately drawing everyone's 
+	attention.
+
+					GARAK
+			Commander?
+				(off reactions)
+			We need to talk.
+
+	What the hell is Garak doing in Ops?  We hold on Sisko's 
+	curious reaction, then:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        29.
+                           ACT THREE                            
+
+	FADE IN:
+
+24   INT. COMMANDER'S OFFICE
+
+	Sisko and Garak ENTER.  As soon as the doors close, Sisko 
+	turns and confronts Garak.
+
+					SISKO
+			All right, Garak, you mind telling 
+			me why a Cardassian warship is 
+			threatening my station?
+
+					GARAK
+			No one is threatening you.  The 
+			Central Command merely wants to make 
+			sure that they have your undivided 
+			attention.
+
+					SISKO
+			Well, they have it.  I assume this 
+			has something to do with Professor 
+			Lang and her students?
+
+					GARAK
+			"Students" is a rather benign term 
+			for them.  "Terrorists" would be 
+			more accurate.  The Cardassian 
+			government would very much like Hogue 
+			and Rekelen returned home immediately.
+
+					SISKO
+			They haven't committed any crimes 
+			here.  As long as they're on my 
+			station, they're free to do whatever 
+			they want.
+
+					GARAK
+			This is all very embarrassing, 
+			Commander.  The Central Command would 
+			hate to see the Federation pulled 
+			into such an insignificant and purely 
+			internal affair.
+
+					SISKO
+			I would hardly call it insignificant.  
+			Judging from the behavior of that 
+			ship out there, it appears the Central 
+			Command considers Hogue and Rekelen 
+			to be extremely dangerous.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        30.
+
+24   CONTINUED:
+
+					GARAK
+			Not at all.  Annoying, perhaps.  
+			Inconvenient, maybe.  But dangerous?  
+			Hardly.  If they were dangerous, 
+			would the Central Command entrust 
+			the situation to me, a simple tailor?
+
+					SISKO
+			Which only confirms what I've 
+			suspected all along.  You, Mister 
+			Garak, are no simple tailor.
+
+					GARAK
+				(chuckling)
+			Really, Commander, that's another 
+			discussion, entirely.  All you need 
+			to know right now is that the return 
+			of Hogue and Rekelen is in the best 
+			interests of the Cardassian Empire.
+
+					SISKO
+			Or at least in the best interest of 
+			the Cardassian military.
+
+					GARAK
+			Is there a difference?
+
+					SISKO
+			Do you really expect a Bajoran 
+			station, under Federation command, 
+			to turn over Cardassian political 
+			refugees... on your say-so?
+
+					GARAK
+			The ultimate decision is yours of 
+			course.  I'm simply relaying a 
+			message.
+
+					SISKO
+			Then relay this.  Tell the Central 
+			Command that if anyone attempts to 
+			take Hogue and Rekelen by force, I 
+			will respond in kind.  Am I clear, 
+			Mister Garak?
+
+					GARAK
+				(an icy smile)
+			Absolutely.  Thank you for your time.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        31.
+
+24   CONTINUED:	(2)
+
+					GARAK
+
+				(an afterthought)
+			If you'd like, come by the shop some 
+			day.  I'm sure I have a number of 
+			suits that would look quite flattering 
+			on you.
+
+	And with that, Garak strolls out.
+
+25   INT. QUARK'S
+
+	The bar is busy.  Hogue and Rekelen are sitting at one of 
+	the side tables, looking grim.  Quark walks up to them, 
+	carrying a tray with two drinks.
+
+					QUARK
+			Here, you go.  Two mugs of Kanar... 
+			on the house.
+
+	He sets down the drinks.
+
+					HOGUE
+				(re: the drinks)
+			We didn't order these.
+
+					QUARK
+				(explaining himself)
+			They're the drinks I promised you 
+			the first time you were in here.  
+			Sorry they took so long but things 
+			have been a little hectic.
+				(gestures to a seat)
+			Do you mind?
+
+	Quark starts to sit down, but is interrupted by Rekelen.
+
+					REKELEN
+			I'm afraid we do.
+
+					HOGUE
+			Professor Lang told us you couldn't 
+			be trusted.
+
+					QUARK
+				(dismissive)
+			You Cardassians do hold grudges.  
+			Seven years ago Natima and I had 
+			some silly lovers' quarrel and... 
+			Well, all I can say is... I'm willing 
+			to let bygones be bygones.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE       31A.
+
+25   CONTINUED:
+
+					HOGUE
+				(not buying it)
+			But Professor Lang isn't.
+
+					QUARK
+			I have to say I find your loyalty to 
+			her extremely touching.
+
+					REKELEN
+			There's nothing we wouldn't do for 
+			her.  And if she says not to talk to 
+			you, then we don't talk to you.
+
+					QUARK
+			I understand.  She's your teacher... 
+			you're her students... you have to 
+			listen to her.
+
+	Quark gets back up.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        32.
+
+25   CONTINUED:	(2)
+
+					QUARK
+			So, if you don't want to talk to the 
+			only person who can get you off this 
+			station in one piece, that's fine 
+			with me.
+
+	Quark starts to walk off.
+
+					HOGUE
+			Wait.
+
+	Quark stops in his tracks.
+
+					REKELEN
+			You say you can help us get away?
+
+	Quark immediately spins around and takes a seat.
+
+					QUARK
+			It's possible.
+
+					HOGUE
+			How?
+
+					QUARK
+			One second.
+
+	Quark begins tapping on the table, his chair, their chairs, 
+	their glasses, and the tray.  Rekelen and Hogue exchange 
+	glances as they react to Quark's odd behavior.
+
+	Quark completes his search.
+
+					QUARK
+			The station's security chief's a 
+			shape-shifter.  You can never be 
+			too careful.
+				(moving closer to 
+				speak in confidence)
+			I take it you know what a cloaking 
+			device is?
+
+	Rekelen and Hogue nod.
+
+					QUARK
+			Well, I have one.  It's not in the 
+			best of condition... but it'll work 
+			for about fifteen minutes.  Long 
+			enough to get you away from here.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        33.
+
+25   CONTINUED:	(3)
+
+	The Cardassians exchange another look.  Hogue almost smiles 
+	in relief.
+
+					REKELEN
+				(to Quark, all business)
+			Sounds expensive.
+
+					HOGUE
+			We don't have much in the way of 
+			latinum, but whatever we do have is 
+			yours.
+
+					QUARK
+			Exactly how much latinum are we 
+			talking about?
+
+	Quark shakes his head as he remembers what he's there for.
+
+					QUARK
+				(continuing)
+			Forget I said that.  I don't want 
+			your money.  Consider the cloaking 
+			device a gift.
+
+					REKELEN
+			I'm surprised.  Ferengis aren't known 
+			for their generosity.
+
+					QUARK
+			We're a deeply misunderstood race.
+
+					HOGUE
+				(relieved)
+			You may've saved our lives.  Our 
+			movement owes you a debt of gratitude.
+
+					QUARK
+			And I know exactly how you can repay 
+			me.
+				(off their look)
+			You have to convince Natima to stay 
+			here.
+
+	Rekelen and Hogue exchange another look as they try to decide 
+	how to deal with this latest complication.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        34.
+
+25   CONTINUED:	(4)
+
+					QUARK
+				(re: the look)
+			Would you please stop doing that.
+
+					REKELEN
+			The Professor will never agree to 
+			stay behind.
+
+					QUARK
+				(shrugs)
+			No Natima... no cloaking device and 
+			no way off this station.
+
+					REKELEN
+			She won't do it.
+
+					QUARK
+				(cutting her off)
+			You'll have to talk her into it.  
+			After all, you're the ones the 
+			Cardassians are after.
+
+	A beat, then Hogue turns to Rekelen.
+
+					HOGUE
+			He's right.  She shouldn't have to 
+			risk her life for our crimes.
+
+					REKELEN
+			I suppose we could ask her.
+
+					QUARK
+				(forceful)
+			Don't ask her.  Tell her.
+
+					HOGUE
+			We'll do our best.
+
+					QUARK
+			I'm sure you will.  I shudder to 
+			think what would happen if the 
+			military gets its hands on you.
+
+	The thought doesn't sit well with Rekelen and Hogue either.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE       34A.
+
+25   CONTINUED:	(5)
+
+					HOGUE
+			Meet us at our quarters in an hour.
+
+					QUARK
+			I'll be there.
+
+	They go their separate ways.
+
+26   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Cardassian Warship hovers ominously above the station.
+
+27   INT. NATIMA'S QUARTERS
+
+	Natima stands calmly facing the front door, as if waiting.  
+	The door CHIMES.
+
+					NATIMA
+			Come in.
+
+	Quark ENTERS, with a small mechanical spheroid under one 
+	arm.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        35.
+
+27   CONTINUED:
+
+					QUARK
+				(looking around)
+			Where are Rekelen and Hogue?
+
+					NATIMA
+			They're waiting at the ship.
+
+					QUARK
+			Perfect.
+				(a beat)
+			I know my quarters might seem a little 
+			crowded at first, but tomorrow 
+			morning, I'll put in a request for 
+			something bigger.
+
+					NATIMA
+			That won't be necessary.
+
+					QUARK
+			All right, if you want your own 
+			quarters to start out with, I can 
+			arrange that, too.
+
+					NATIMA
+			I mean I'm not staying.
+
+					QUARK
+				(sees what's coming)
+			Now hold on.  Your students and I 
+			had an agreement.  They get the 
+			cloaking device...
+				(indicates the object 
+				under his arm)
+			And you stay with me.  That way 
+			everyone's happy.
+
+					NATIMA
+			Quark, you say you love me... then 
+			give me the cloaking device and let 
+			me be on my way.
+
+					QUARK
+			And let you disappear out of my life 
+			again?
+
+					NATIMA
+			I'm not a part of your life, Quark.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE       35A.
+
+27   CONTINUED:	(2)
+
+					QUARK
+				(baring his soul)
+			But you are.  You always have been.
+
+					QUARK
+			Don't you understand, since you left 
+			me, not a day goes by that I don't 
+			regret what I did.  And now you're 
+			asking me to lose you again.
+
+					NATIMA
+			You lost me a long time ago.
+
+					QUARK
+			All right, then say it... let me 
+			hear you say that there isn't a spark 
+			of love left in you.
+
+      DEEP SPACE: "Profit and Loss" - REV. 01/13/94 - ACT THREE     36.
+
+27   CONTINUED:	(3)
+
+					NATIMA
+				(after a beat)
+			There isn't a spark of love left in 
+			me.
+
+					QUARK
+				(triumphant)
+			I heard that.
+
+					NATIMA
+			What?
+
+					QUARK
+			You hesitated.  Admit it, you still 
+			care.
+
+					NATIMA
+			Quark, I don't have time for this.  
+			Give me that cloaking device.
+
+					QUARK
+			I can't.  I won't let you go.
+
+	Natima reaches into a dresser drawer and pulls out a 
+	Cardassian phaser.
+
+					NATIMA
+			I didn't want to have to get it this 
+			way, but I need that device... Give 
+			it to me.  Now.
+
+					QUARK
+			Or what?  You'll shoot me?
+
+					NATIMA
+				(uncertain)
+			If I have to.
+
+	But her voice betrays her.
+
+28   ANGLE ON QUARK (OPTICAL)
+
+	As he comes forward, knowing he has the upper hand.  Natima 
+	backs away, her aim wavering.
+
+					QUARK
+			Then go ahead and shoot.
+
+	He reaches out to gently take the weapon from her hand, but 
+	the PHASER BLAST catches Quark in the upper chest!  Slams 
+	him hard back against the wall!  Quark sinks to his knees, 
+	stares bug-eyed up at Natima, then collapses in a useless 
+	heap.
+
+        DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT THREE        28.
+
+28   CONTINUED:
+
+	Off Natima's pain-filled look, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        38.
+                           ACT FOUR                             
+
+	FADE IN:
+
+29   INT. NATIMA'S QUARTERS
+
+	Quark is still crumpled on the floor.  He slowly comes to, 
+	to see a distraught Natima, phaser still in hand, bent over 
+	him.
+
+					NATIMA
+			Quark... Quark, are you all right.
+
+					QUARK
+				(still doesn't believe 
+				it)
+			You shot me.
+
+					NATIMA
+			I didn't mean to.  It was an accident.
+				(holding up the gun 
+				for Quark to see)
+			I never fired a phaser before.  I 
+			barely touched the trigger...
+
+					QUARK
+			Careful.
+
+	Quark pulls the gun out of hand and tosses it across the 
+	room.  The movement makes him clutch his aching chest.
+
+					QUARK
+				(in pain)
+			Owww.
+
+					NATIMA
+			It hurts?
+
+					QUARK
+				(to himself)
+			She wants to know if it hurts?
+				(snaps)
+			Of course it hurts.  It's supposed 
+			to hurt.  It's a phaser.
+
+					NATIMA
+				(apologetic)
+			I made sure it was only on the first 
+			setting.
+
+					QUARK
+			How considerate of you.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        39.
+
+29   CONTINUED:
+
+					NATIMA
+			Should I get a doctor?
+
+					QUARK
+				(softening)
+			That's okay.  Maybe if you rub it a 
+			little.
+
+	Natima begins massaging Quark's chest.
+
+					NATIMA
+			Oh, Quark... I'm sorry.
+
+					QUARK
+			Really?
+
+					NATIMA
+			Yes, for everything... all those 
+			horrible things I said...
+
+					QUARK
+			You really didn't mean them?
+
+					NATIMA
+			I love you, Quark.  I've always loved 
+			you.  Even when I hated you.
+
+	She leans over a kisses him.  It starts out tentative, but 
+	soon both of them get swept away by years of repressed 
+	longings.
+
+					QUARK
+				(a whisper)
+			Natima.
+
+					NATIMA
+			I've missed you... I've missed you 
+			so much.  Being with you was the 
+			happiest time of my life.
+
+					QUARK
+			And now we're together again, and we 
+			have the rest of our lives to be 
+			happy.
+
+	Natima leans her head on Quark's shoulder and almost 
+	unconsciously stokes his lobes.  He responds by running his 
+	fingers up and down her neck.
+
+					NATIMA
+			I wish it was that easy.
+
+					QUARK
+			But it can be... if you let it.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        40.
+
+29   CONTINUED:	(2)
+
+					NATIMA
+			I'm not the same person I was seven 
+			years ago.  I have responsibilities...
+
+					QUARK
+			I'll share them with you.
+
+					NATIMA
+			The movement is my life now.  I don't 
+			have time for anything else.
+
+					QUARK
+			We'll make the time.  You're a woman, 
+			Natima.  Believe me, I know.  And 
+			it's not right for you to be alone.
+
+					NATIMA
+			I'm not alone.  I have my students... 
+			my dreams of a better Cardassia.
+
+					QUARK
+			But are dreams enough?  Can dreams 
+			make you laugh?  Can dreams hold you 
+			close at night?
+
+	Quark's struck a nerve.
+
+					NATIMA
+			No.  But my life demands that I make 
+			certain sacrifices...
+
+					QUARK
+			And you've made them.  But that 
+			doesn't mean you can't be happy.
+
+					NATIMA
+				(smiles)
+			We did have fun together, didn't we?
+
+					QUARK
+			Remember the day I installed my first 
+			holosuite.
+
+					NATIMA
+			I'd never been in one before.
+
+					QUARK
+			I still have that program... the 
+			picnic on Rhymus Major.  Two suns in 
+			the sky...
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        41.
+
+29   CONTINUED:	(3)
+
+					NATIMA
+			The sound of the waterfalls.
+
+					QUARK
+			The whisper of flitterbird wings 
+			over our heads...
+
+					NATIMA
+			You painted my face with honey...
+
+
+					QUARK
+			And a Mordian butterfly landed on 
+			your nose...
+
+					NATIMA
+				(correcting)
+			A Mordian butterfly got stuck on my 
+			nose.
+
+					QUARK
+			His wings were beating almost as 
+			fast as my heart.
+
+	Natima and Quark both smile at the memory.
+
+					NATIMA
+			Those were good times.
+
+					QUARK
+			The best.  And we can have them back 
+			again.  I'll give the cloaking device 
+			to your students.  Once they're gone, 
+			you'll be safe, and we can be 
+			together.
+
+					NATIMA
+			I can't just abandon them, Quark.  
+			They need me.
+
+					QUARK
+			I need you.  Don't you see, Natima, 
+			you've done enough for the movement.  
+			You lit the match.  Now let them 
+			carry the torch.
+
+	A beat, she hesitates.  Quark picks up on it.
+
+					QUARK
+				(continuing)
+			Or are you saying the movement won't 
+			survive without you?
+
+					NATIMA
+			Of course it will.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        42.
+
+29   CONTINUED:	(4)
+
+					QUARK
+			Then let it.  And let us have the 
+			happiness we deserve.
+
+					NATIMA
+				(hushed)
+			You really do love me, don't you?
+
+	They are looking deeply into each other's eyes by now.  We've 
+	never seen such sensitivity from Quark.  All of his Ferengi 
+	schtick seems to have disappeared.  His soul is revealed.
+
+					QUARK
+			With all that I am, Natima.  
+			Forever.
+
+	Quark leans forward, gently pulling her chin, guiding it 
+	toward his lips.
+
+					QUARK
+			Will you stay?
+
+					NATIMA
+				(after a long moment:)
+			Yes, Quark.  I'll stay.
+
+					QUARK
+			You don't know how I've waited to 
+			hear that.
+
+	And then they kiss again with a passion that rises in quantum 
+	leaps.  Quark is in heaven, and then... The door CHIMES.
+
+	Natima and Quark stand up.  Quark straightens out his 
+	clothing.
+
+					NATIMA
+			Enter.
+
+30   ANGLE ON THE DOOR
+
+	As Odo ENTERS the room.
+
+					ODO
+			Professor Lang?
+
+					QUARK
+			Not now, Odo.  Can't you see we're 
+			busy?
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        43.
+
+30   CONTINUED:
+
+					ODO
+				(to Natima)
+			I apologize for the interruption, 
+			but I'm afraid, madam... You're under 
+			arrest.
+
+					NATIMA
+			I'm... what?
+
+					QUARK
+			On what charge?
+
+					ODO
+			Commander Sisko will explain.
+				(to Natima)
+			I am truly sorry.
+
+	Odo reluctantly starts to lead Natima away, but Quark steps 
+	between them and the door.
+
+					QUARK
+			Now hold on.
+
+					NATIMA
+			It's all right, Quark.
+
+	She and Odo EXIT, leaving Quark heartbroken and alone.
+
+31   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Cardassian ship still holding its position.
+
+32   INT. HOLDING AREA
+
+	Natima, Rekelen, and Hogue have been placed in one of the 
+	cells.  Natima is stoic, Rekelen angry, Hogue stunned with 
+	disbelief.  Sisko and Odo ENTER.
+
+					NATIMA
+			Commander, would you please explain 
+			what we're doing here?
+
+					SISKO
+			I'm afraid the three of you are going 
+			to be turned over to the Cardassian 
+			government.
+
+					REKELEN
+				(furious)
+			You can't do that.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        44.
+
+32   CONTINUED:
+
+					SISKO
+			I wish I didn't have to.  But 
+			Cardassia has offered to hand over a 
+			half-dozen Bajoran prisoners in 
+			exchange for you.
+
+					NATIMA
+			And you've agreed to this?
+
+					ODO
+				(disgusted)
+			The Bajoran Provisional Government 
+			agreed to it.
+
+					SISKO
+			A Cardassian transport will deliver 
+			the Bajoran prisoners in a little 
+			over five hours.
+
+					NATIMA
+			Commander, you have no idea what 
+			they're going to do to us.
+
+					REKELEN
+				(re: Hogue)
+			We're the ones they're after.  At 
+			least let Professor Lang go.
+
+					SISKO
+			I'd like nothing better.  But the 
+			provisional government has ordered 
+			that you all be turned over.  I'm 
+			fighting this every way I can... and 
+			I'm not ready to give up yet.  I'm 
+			due to address the Chamber of 
+			Ministers on subspace in half an 
+			hour.  I'll do everything I can to 
+			convince them that they're wrong.
+				(a beat)
+			But in the end... this is a Bajoran 
+			station, and I have to abide by their 
+			decision.  No matter how much I 
+			disagree with it.
+
+	Hold on Natima and her students looking worried and afraid.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        45.
+
+33   INT. GARAK'S SHOP
+
+	Garak is doing paperwork behind his desk as a hulking frame 
+	darkens his doorway.  This is a huge Cardassian warrior named 
+	GUL TORAN.
+
+					GUL TORAN
+			How the mighty have fallen.
+
+	Garak manages to contain his shock at seeing this brute.
+
+					GARAK
+			Toran.
+
+					GUL TORAN
+			It's Gul Toran now.
+
+					GARAK
+				("what do you know")
+			They've made you a Gul.  I didn't 
+			realize the situation on Cardassia 
+			had gotten so desperate.
+
+					GUL TORAN
+			I find your bitterness extremely... 
+			gratifying.  I'm glad to see that 
+			you're adjusting so poorly to exile.
+
+	Ouch.  But Garak maintains his composure.
+
+					GARAK
+			Actually, I'm finding my time here 
+			to be most illuminating.
+
+					GUL TORAN
+			Then I don't suppose you'd be 
+			interested in going home again?
+
+	Garak is most definitely interested, but tries not to show 
+	it.
+
+					GARAK
+			Am I to be rewarded for informing 
+			the Central Command about Hogue and 
+			Rekelen's presence on the station?
+
+					GUL TORAN
+			Perhaps.  But only after you see to 
+			it that they don't leave this station 
+			alive.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FOUR        46.
+
+33   CONTINUED:
+
+					GARAK
+			But I suggested a prisoner exchange... 
+			the Central Command agreed...
+
+					GUL TORAN
+			I convinced them otherwise.
+
+					GARAK
+			They listened to you?
+
+					GUL TORAN
+			My voice is less tarnished than yours.
+
+					GARAK
+			Kill them and all you'll be creating 
+			are martyrs.
+
+					GUL TORAN
+			You overestimate their importance.
+
+					GARAK
+			So how do you propose to arrange 
+			this unfortunate incident?
+
+					GUL TORAN
+			I'm sure you'll think of something.  
+			You always did in the past.
+				(a beat)
+			Don't you see?  Lang's death will 
+			benefit us both.  Unless of course, 
+			you intend to spend the rest of your 
+			life as a tailor.
+
+	Garak meets the Gul's icy gaze, then he lowers his eyes and 
+	shakes his head.
+
+					GARAK
+			I see your point.
+
+					GUL TORAN
+			I knew you would.
+
+	Gul Toran wheels and strides out of the shop.  Garak watches 
+	him go.  We HOLD on Garak's thoughtful expression, then:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+34   INT. SECURITY OFFICE
+
+	Odo sits behind his desk, his nose buried in a PADD.  His 
+	doors slide open and Quark ENTERS.
+
+					QUARK
+			Odo, we have to talk.
+
+					ODO
+			I'm busy.  Come back later.
+
+	Odo goes back to his PADD.
+
+					QUARK
+			Later will be too late.
+
+	Quark reaches over and snatches the PADD out of Odo's hand 
+	and glances at the title.
+
+					QUARK
+				(continuing)
+			"I, the Jury" by Mickey Spillane?
+
+					ODO
+			Chief O'Brien loaned it to me.
+
+	He takes the PADD back and sets it aside.
+
+					ODO
+				(continuing, a threat)
+			This had better be important, Quark.
+
+					QUARK
+			It is.  Odo, you have to let Natima 
+			and her students go.
+
+					ODO
+			Do I?
+
+					QUARK
+			Those students could be the key to a 
+			new Cardassia.  A Cardassia free 
+			from military rule and oppression.
+
+					ODO
+			Since when have you become so 
+			interested in Cardassian politics?
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        48.
+
+34   CONTINUED:
+
+					QUARK
+			A freer more open society on Cardassia 
+			would benefit this entire sector...
+				(genuine enthusiasm)
+			And it'd be great for business.
+
+
+					ODO
+			So wanting me to free Natima and 
+			those students is strictly a financial 
+			consideration on your part?
+
+					QUARK
+			Now, Odo... Don't allow my greed to 
+			keep you from doing the right thing.
+
+					ODO
+			I know you better than you think, 
+			Quark.  This isn't about Cardassia.  
+			And for once, it isn't even about 
+			profit.
+				(accusatory)
+			This is about Professor Lang.
+
+	Quark is taken aback by Odo's perceptiveness.
+
+					QUARK
+			You're right.  It is.  Her life is 
+			in jeopardy as long as Rekelen and 
+			Hogue are on the station.
+
+					ODO
+			Why didn't you tell me that before.
+
+					QUARK
+				(working himself up)
+			What was I supposed to say?  That I 
+			love her?  That I'd do anything for 
+			her?  That without her, my life would 
+			be meaningless?
+				(almost shouting)
+			Sure I could say that, but what good 
+			would it do?  How could I expect you 
+			to understand?  You've never had 
+			those feelings.  You don't know what 
+			it means to really care about another 
+			person.  You've never been in love.  
+			You've got all the emotions of a 
+			stone.
+				(a beat, calmer)
+			No offense.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        49.
+
+34   CONTINUED:	(2)
+
+					ODO
+			Go on.
+
+					QUARK
+			Listen to me, Odo, you do this for 
+			me, and I promise you... there will 
+			be no more secrets between us.  I 
+			will tell you about every underhanded 
+			deal... every lying scheme... every 
+			dirty trick... my brother Rom's 
+			involved in.
+
+					ODO
+			Well when you put it that way... I'm 
+			not interested.
+
+					QUARK
+				(getting desperate)
+			Okay, let me put it another way.  Do 
+			it for me...
+
+					ODO
+			For you?
+
+					QUARK
+			That's right.  For all the years 
+			we've known each other... for 
+			everything we've been through 
+			together.  You say you know me better 
+			than anyone... well, I know you.  
+			Sure sometimes we're on opposite 
+			sides, but that doesn't mean we aren't 
+			close.  I've never told you this, 
+			Odo, but I consider you as dear to 
+			me as my brother.
+
+					ODO
+				(harumphs)
+			And I've seen how well you treat 
+			him.
+
+	Quark falls to his knees.
+
+					QUARK
+			Odo, look at me.  I'm on my knees... 
+			I'm begging you.  I don't care why 
+			you do it... pick any reason you 
+			want.  But please, let Natima and 
+			the others go.
+
+	A long beat as Odo looks at Quark, who's making his best big 
+	puppy dog eyes.  Finally...
+
+      DEEP SPACE: "Profit and Loss" - REV. 01/14/94 - ACT FIVE      50.
+
+34   CONTINUED:	(3)
+
+					ODO
+			All right.  I'll do it.
+
+					QUARK
+				(amazed)
+			You will.
+
+					ODO
+			But not for you.  Turning Hogue and 
+			Rekelen over to the Cardassians will 
+
+			mean their deaths.  I've read their 
+			files... and nothing they've done 
+			warrants that kind of punishment.
+				(a beat)
+			I'll free them, Quark.  But only in 
+			the name of justice.
+
+					QUARK
+			Justice... that was going to be my 
+			next suggestion.
+				(Quark gets up)
+			So, you're really not doing this for 
+			me?
+
+					ODO
+			That's right.
+
+					QUARK
+				(delighted)
+			Then I don't owe you a thing.  Thank 
+			you.
+
+	Quark impulsively throws his arms around Odo and hugs him.
+
+					QUARK
+				(continuing)
+			You'll never know how much this means 
+			to me.
+
+					ODO
+			Let go.
+
+	Quark stops hugging Odo.
+
+					QUARK
+			I'm sorry.  Now let's hurry before 
+			you change your mind.
+
+      DEEP SPACE: "Profit and Loss" - REV. 01/24/94 - ACT FIVE      51.
+
+34   CONTINUED:	(4)
+
+					ODO
+			Just one question.  How do you expect 
+			Rekelen and Hogue to get past that 
+			warship?
+				(off Quark's smile:)
+			I knew you had a cloaking device.
+
+					QUARK
+			I always said you were too smart for 
+			me, Odo.
+
+	Odo picks up his PADD and they head for the holding area.
+
+35   INT. HOLDING AREA (OPTICAL)
+
+	Quark and Odo ENTER.  Natima and her students are in the 
+	large holding cell.
+
+					NATIMA
+			Quark.  What are you doing here?
+
+					QUARK
+			Getting you out.
+
+	Odo goes to a panel and hits it and the force field winks 
+	off.
+
+36   NEW ANGLE
+
+	Natima, Hogue and Rekelen exit the cell.
+
+      DEEP SPACE: "Profit and Loss" - REV. 01/24/94 - ACT FIVE      52.
+
+36   CONTINUED:
+
+					NATIMA
+				(to Odo)
+			Thank you.
+
+					ODO
+			Good luck.
+
+	Quark ushers Natima, Rekelen and Hogue out, leaving Odo 
+	looking after them.
+
+37   INT. DOCKING RING CORRIDOR
+
+	Quark and Natima, Rekelen and Hogue come pounding up the 
+	corridor.  Quark hits a panel.  A door opens, and they 
+	enter...
+
+38   INT. CARGO BAY SEVEN
+
+	Quark hits another panel and the door shuts behind them.  
+	Quark leads them toward an airlock.
+
+					QUARK
+			I've installed the cloaking device 
+			in your central engine core.  You 
+			can activate it from the bridge as 
+			soon as the mooring clamps are 
+			released.  Then I suggest you take 
+			your ship to warp eight and don't 
+			look back.
+
+	Rekelen nods in agreement.
+
+					QUARK
+				(continuing, to all 
+				of them)
+			Now please, make your good-byes 
+			brief.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        53.
+
+38   CONTINUED:
+
+	And with that, he hits the panel for the airlock and the 
+	doors open, revealing...
+
+39   GARAK
+
+	Who stands holding a Cardassian phaser.
+
+					GARAK
+			What's the rush?
+
+	For a beat everyone's stunned, then Rekelen looks to Quark.
+
+					REKELEN
+			You've betrayed us.
+
+					QUARK
+			No.
+
+	Quark reaches for Natima's phaser, which he's still carrying.  
+	Garak instantly levels his phaser at Quark.
+
+					GARAK
+			Don't.  I'd hate to ruin such a nice 
+			suit.
+
+					QUARK
+			Why are you doing this?
+
+					GARAK
+			Exile tends to wear thin after a 
+			while, even when the surroundings 
+			are as pleasant as these.
+
+					QUARK
+				(re: Rekelen and Hogue)
+			Fine.  Take them, but leave Natima 
+			alone.
+
+					NATIMA
+				(outraged)
+			Quark.
+
+					HOGUE
+				(to Natima)
+			No.  He's right.  We're the fugitives, 
+			not you.
+
+					QUARK
+			You see, they agree with me.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        54.
+
+39   CONTINUED:
+
+					GARAK
+			Unfortunately, it's not their decision 
+			to make.  Nor mine.  Professor Lang, 
+			however minor her role in this matter, 
+			has come to the attention of the 
+			Central Command.
+
+					NATIMA
+			Do you think killing us is going to 
+			change anything?  Cardassia is 
+			slipping out of the military's grasp.  
+			And nothing you do can prevent it.
+
+					GARAK
+			Madam, I am not here to debate you.
+
+					QUARK
+			Garak, if you harm these people, 
+			I'll see to it that Commander Sisko 
+			prosecutes you to the fullest extent 
+			of the law.
+
+					GARAK
+			Which brings up another issue.  Quark, 
+			things would've been much simpler if 
+			you'd taken my advice and not gotten 
+			involved with these people.
+
+					QUARK
+				(re: Natima)
+			I was already involved.
+
+					GARAK
+			I know.  A pity, really.  Personally, 
+			I rather like you, Quark.
+
+	The light dawns on Quark.
+
+					QUARK
+			You mean, you're going to shoot me 
+			too.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        55.
+
+39   CONTINUED:	(2)
+
+					GARAK
+			Before I became a tailor, I lived by 
+			a simple motto:  "Never allow 
+			sentiment to interfere with your 
+			work."  A bit of a cliche, but true 
+			nonetheless.
+
+					QUARK
+			I'll keep that in mind.
+
+					GARAK
+			Well, then... Though I admit it's 
+			against my better judgement, I'm 
+			afraid I must carry out the verdict 
+			of the Central Command.
+
+					QUARK
+				(grasping for straws)
+			But you admit that they're wrong.  
+			Why don't you stand up for what you 
+			believe in?
+
+	This gives Garak the slightest of pauses, then...
+
+					GUL TORAN (O.S.)
+			More to the point...
+
+40   INCLUDE TORAN
+
+	As he steps out of the shadows, holding a phaser.
+
+					GUL TORAN
+				(continuing)
+			What do you believe in, Garak?
+
+					GARAK
+			What are you doing here, Toran?
+
+					GUL TORAN
+			Making sure that you carry out your 
+			assignment.  I suspected that two 
+			years living among Bajorans would 
+			make you soft.  I see I was right.
+
+					GARAK
+			You've never been right about 
+			anything, Toran.  Now step aside and 
+			let me finish this sorry business.
+
+					GUL TORAN
+			I'll take over from here.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE       55A.
+
+40   CONTINUED:
+
+					GARAK
+			Why?  So you can take the credit and 
+			make sure I remain in disgrace.
+
+					GUL TORAN
+				(a mean little smile)
+			I can't believe that you were once 
+			considered clever.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        56.
+
+40   CONTINUED:	(2)
+
+					GUL TORAN
+			Did you really think that completing 
+			this one simple task would restore 
+			your reputation with the Central 
+			Command?
+
+					GARAK
+			I suppose not.
+
+					GUL TORAN
+				(dismissive)
+			Go back to your sewing kit, tailor.
+
+	And as Toran takes aim at Rekelen...
+
+41   NEW ANGLE (OPTICAL)
+
+	Garak fires at Toran and DEMATERIALIZES him.  The others 
+	stare at him in surprise.
+
+					GARAK
+				(almost to himself)
+			Some people should never be promoted.
+
+	Garak calmly steps out of the airlock.
+
+					GARAK
+				(continuing, to Hogue 
+				and Rekelen)
+			Well, don't just stand there.  Your 
+			ship's waiting.
+
+					QUARK
+			I'm going to see to it that every 
+			Ferengi on the station shops at your 
+			store.
+
+					GARAK
+				(underwhelmed)
+			That alone makes this all worthwhile.
+
+					QUARK
+				(to Hogue and Rekelen)
+			You heard the man.  Get moving.
+
+					HOGUE
+			Thank you... both of you.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        57.
+
+41   CONTINUED:
+
+					QUARK
+			Yes, yes, yes.  Now go.  Quickly.  
+			And keep up the good work.
+
+	Rekelen and Hogue nod and EXIT into the airlock.
+
+42   ANGLE ON QUARK AND NATIMA
+
+	Natima turns to Quark and slips into his arms, kissing him 
+	softly on the lips.  It's a long gentle kiss.  And when it 
+	finally ends...
+
+					NATIMA
+			Quark, I've got to say good-bye.
+
+					QUARK
+			Just let them go.  It'll be less 
+			painful that way.
+
+					NATIMA
+			You don't understand.  I have to say 
+			good-bye... to you.  I'm going with 
+			them.
+
+					QUARK
+			But we had a deal.
+
+					NATIMA
+			I can't stay here.  Maybe one day, I 
+			can come back, and we'll be together 
+			again.  But not until my work is 
+			done.
+
+					QUARK
+				(wryly)
+			So all I have to do to get you back 
+			is wait until Cardassia becomes a 
+			free and democratic society.
+
+					NATIMA
+				(with a smile)
+			I promise, I'll make it worth the 
+			wait.
+
+					QUARK
+			I don't suppose I could come with 
+			you.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE       57A.
+
+42   CONTINUED:
+
+					NATIMA
+			No.  It's not your fight.  And I 
+			could never live with myself if 
+			something happened to you.  I need 
+			to know that you're here, safe.  
+			That way, part of me will always be 
+			safe, too.
+				(a beat)
+			I love you, Quark.  I always will.
+
+	He nods.  She turns and disappears into the airlock, which 
+	slides closed.
+
+					QUARK
+				(softly, to himself)
+			I love you, too.
+
+         DEEP SPACE: "Profit and Loss" - 01/13/94 - ACT FIVE        58.
+
+43   NEW ANGLE
+
+	Garak comes up beside him and the two of them look at the 
+	sealed airlock for a beat.
+
+					GARAK
+			I suggest we return to the Promenade 
+			without delay.
+
+	They turn away from the airlock and begin walking across the 
+	cargo bay.
+
+					QUARK
+			You have to tell me... why'd you do 
+			it?  Shoot Toran?
+
+					GARAK
+			Why did you let Professor Lang go?
+
+					QUARK
+			I had no choice.  I love her.
+
+					GARAK
+			And I love Cardassia.  Which is why 
+			I had to do what I did.
+
+					QUARK
+			I don't understand.
+
+					GARAK
+			That's the thing about love.  No one 
+			really understands it, do they?
+
+	We stay in the cargo bay as these two lonely men EXIT, and 
+	vanish down a corridor:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

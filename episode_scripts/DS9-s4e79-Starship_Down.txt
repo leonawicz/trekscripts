@@ -1,0 +1,3450 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "Starship Down" 
+                    (fka "Starships Down") 
+                          #40510-479 
+                              
+                          Written by 
+                 David Mack & John J. Ordover 
+                              
+                          Directed by 
+                          Alex Singer 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       September 11, 1995
+
+       STAR TREK: DS9   "Starship Down" - 09/11/95 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Starship Down" 
+                             CAST 
+
+          SISKO                    HANOK
+          KIRA                     CARSON
+          ODO                      STEVENS
+          BASHIR                   MUNIZ
+          DAX                      OFF SCREEN VOICES
+          QUARK                    
+          O'BRIEN                  
+          WORF                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+       STAR TREK: DS9   "Starship Down" - 09/11/95 - SET
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Starship Down" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          QUARK'S                       
+
+        DEFIANT                         ATMOSPHERE
+          MESS HALL                     
+          BRIDGE                        DEFIANT
+          ENGINE ROOM                   
+          JEFFERIES TUBE                
+          CORRIDOR                      
+          TURBOLIFT                     
+
+   STAR TREK: DS9   "Starship Down" - 09/11/95 - PRONUNCIATIO
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Starship Down" 
+                      PRONUNCIATION GUIDE 
+
+          GAVANINE                 GAV-uh-neen
+          HA'MARA                  huh-MAR-uh
+          HANOK                    HUN-ock
+          JANKLOW                  JAN-klow
+          JEM'HADAR                JEM-huh-DAR
+          JO'KALA                  juh-KALL-uh
+          KAREMMA                  CAR-em-ma
+          NAGUS                    NAY-gus
+          ORKANIAN                 oar-CANE-ee-un
+          TARKALIAN                tar-KAY-lee-uhn
+          TETRION                  TEH-tree-on
+          TIL'AMIN                 TILL-uh-min
+          TULABERRY                TOH-luh-berry
+          YRIDIAN                  yir-ID-ee-uhn
+
+      DEEP SPACE NINE: "Starship Down" - REV. 09/11/95 - TEASER      1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "Starship Down"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEFIANT (OPTICAL)
+
+	hanging in space near a KAREMMA SHIP. In the 
+	background we see a gas-giant planet, and further back, 
+	its sun.
+
+					SISKO (V.O.) 
+			Captain's Log, Stardate 49263.5. 
+			At the request of the Karemma 
+			Commerce Ministry, we've brought 
+			the Defiant to a remote system in 
+			the Gamma Quadrant to discuss 
+			problems that have surfaced 
+			regarding our recent trade 
+			agreement.
+
+2    INT. DEFIANT - MESS HALL
+
+	Where SISKO, QUARK and the Karemma Trade Minister, 
+	HANOK are in the midst of negotiations. Hanok, like 
+	most of his people, is tall, thin and elegant in 
+	bearing. Although the Karemma are mercantilist by 
+	nature, they're classy about it: think fine gem 
+	appraiser, not used car salesman.
+
+					HANOK 
+				(to Sisko) 
+			When we first agreed to use the 
+			Ferengi as intermediaries, we did 
+			it because we knew the Dominion 
+			wouldn't tolerate direct trade 
+			with the Federation.
+
+	Quark can't help playing the booster...
+
+					QUARK 
+			And we're glad to be of service. 
+			I'm happy to say that not a single
+			Ferengi vessel has been stopped by 
+			the Jem'Hadar.
+
+	Hanok gives Quark a polite smile, continues to Sisko.
+
+					HANOK 
+			Unfortunately, we've found there's 
+			little profit in trading with the 
+			Federation.
+
+      DEEP SPACE NINE: "Starship Down" - REV. 09/11/95 - TEASER      2.
+
+2    CONTINUED:
+
+					HANOK (Cont'd) 
+			In order to comply with your 
+			commerce laws, we've had to pay a 
+			series of taxes and fees that have 
+			made the cost of doing business 
+			with you too high.
+
+	Quark begins to look nervous; he's about to get busted, 
+	and he has to start thinking fast.
+
+					SISKO
+			What sort of taxes and fees are 
+			you referring to?
+
+					HANOK 
+				(off PADD) 
+			For example... on a recent 
+			shipment of Karemman Fleece, a 
+			four percent surcharge was added 
+			to pay for inspecting the cargo 
+			for "changeling infiltrators."
+
+					SISKO
+			What?
+
+	Quark tries to push past this with a "what can you do?" 
+	smile.
+
+					QUARK 
+			You never know where they might be 
+			hiding.
+
+	As Hanok continues to reel off the list of problems, 
+	Sisko begins to see what's going on here, and he 
+	doesn't like it.
+
+					HANOK 
+			Another three percent of the 
+			shipment's value was lost due to 
+			"unforeseen" currency 
+			fluctuations.
+
+					QUARK 
+			There was a run on the Bolian 
+			Credit Exchange... played havoc 
+			with the markets...
+
+					HANOK 
+			A six percent tariff was imposed 
+			to help offset the "lost income of 
+			Tarkalian sheep herders."
+
+					QUARK
+ 			Hardworking people... you have to 
+			feel for them...
+
+DEEP SPACE NINE: "Starship Down" - REV. 09/11/95 - TEASER      3.
+
+2    CONTINUED:	(2)
+
+					HANOK
+				(looking up)
+			Should I go on, Captain... ?
+
+					SISKO 
+			No... I think you've made your 
+			point...
+
+	Sisko turns pointedly to Quark, who manages a wan 
+	smile. OFF his face as he realizes how much trouble 
+	he's in...
+
+3    INT. DEFIANT - BRIDGE
+
+	WORF is in the Captain's chair, DAX and KIRA are at the 
+	back table, and a few N.D.'s man the other consoles.
+
+	A young Female Ensign, CARSON, approaches and gives 
+	Worf a report on a PADD.
+
+					CARSON
+			These are the results of the last 
+			weapons drill, sir.
+
+	Worf looks it over.
+
+					WORF
+			These response times are not 
+			acceptable, ensign.
+
+	Carson is a bit flustered by Worf's tone, tries to explain.
+
+      DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - TEASER      4.
+
+3    CONTINUED:
+
+					CARSON 
+			They are a little high, sir, but 
+			not if you take into account the --
+
+					WORF
+				(interrupting) 
+			I want these response times 
+			brought down fifteen percent. 
+			Schedule another drill.
+
+					CARSON 
+			Yes, sir.
+
+	As she moves off, Dax and Kira exchange a look that 
+	tells us they would've handled it differently.
+
+	Dax has gotten some small PASTRIES from the aft 
+	replicator, offers one to Kira.
+
+					DAX 
+			Want one?
+
+					KIRA
+				(shaking her head) 
+			I'm fasting. Today is Ha'mara.
+
+					DAX
+			Ha'mara?
+
+					KIRA 
+			It's the anniversary of the 
+			Emissary's arrival. We fast to 
+			show the Prophets our gratitude 
+			for sending him to us. Last 
+			night, there was a Festival of 
+			Lights in the Capital.
+
+					DAX
+			Sounds beautiful. I'm sorry we 
+			missed it.
+
+					KIRA 
+			Something tells me the captain 
+			scheduled these negotiations so he 
+			wouldn't have to attend.
+
+      DEEP SPACE NINE: "Starship Down" - REV. 09/15/95 - TEASER      5.
+
+3    CONTINUED:	(2)
+
+	Dax hears the tinge of regret in Kira's voice...
+
+					DAX 
+			Benjamin's never been one for 
+			ceremonies, especially where he's 
+			the center of attention.
+				(smiles) 
+			Curzon threw him a surprise 
+			birthday party once. What a 
+			disaster.
+
+					KIRA
+			I understand how the captain 
+			feels... but still, it would have 
+			meant a lot if the Emissary could 
+			have been there.
+
+					DAX
+			After being stuck in the mess hall 
+			with Quark and Hanok all morning, 
+			I bet he wishes he had gone.
+
+	Suddenly a console BEEPS...
+
+					CARSON
+				(urgent) 
+			Two ships have just entered sensor
+			range...
+
+					WORF
+			Can you identify them?
+
+					CARSON
+				(works) 
+			They're Jem'Hadar warships.
+
+					WORF
+			Red Alert.
+				(to com) 
+			Captain Sisko to the Bridge. All 
+			hands to battle stations.
+
+	Off the tension of the moment we...
+
+									FADE OUT..
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE      6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+4    INT. DEFIANT - BRIDGE
+
+	Where Sisko and Hanok are ENTERING to join Kira, Worf 
+	and Dax, who has taken the helm.
+
+					WORF
+				(from tactical console) 
+			The Jem'Hadar are powering their 
+			weapons systems. They are 
+			targeting the Karemma ship.
+
+5    ON VIEWSCREEN (OPTICAL)
+
+	where the TWO Jem'Hadar ships are bearing down.
+
+6    RESUME SCENE
+
+					HANOK 
+			They're here to punish us for 
+			meeting with you. If I give 
+			myself up and accept full 
+			responsibility, they might spare 
+			my ship.
+
+	Sisko is impressed with Hanok's gesture, but can't see 
+	giving him up.
+
+					SISKO 
+			I'm not about to turn you over to 
+			them.
+
+    Sisko swings into action.
+
+					SISKO
+				(to Kira) 
+			Open a channel.
+				(to com) 
+			This is Captain Benjamin Sisko of 
+			the USS Defiant. Stand down or 
+			we'll be forced to --
+
+	Suddenly the ship is ROCKED by Jem'Hadar fire...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE      7.
+
+6    CONTINUED:
+
+					SISKO 
+			Return fire.
+
+	We hear the SOUND of phasers firing.
+
+					DAX 
+			The Karemma. ship is coming 
+			about... they're moving away, 
+			Captain.
+
+					SISKO
+				(to Hanok) 
+			Tell your people to hold position. 
+			We can't protect them if they run.
+
+	Hanok moves to Kira's console, but...
+
+					KIRA 
+			The Karemma aren't responding to 
+			our hails.
+
+					WORF 
+			The Jem'Hadar are changing 
+			course... they're going after the 
+			Karemma ship.
+
+					SISKO
+			Move to intercept.
+
+	Dax works her controls...
+
+7    EXT. SPACE (OPTICAL)
+
+	The Defiant is hot on the tail of the Jem'Hadar, firing 
+	at both ships, who are right behind the Karemma ship 
+	firing at her in turn.
+
+	Suddenly the Karemma ship veers off and away, down 
+	toward the surface of the gas giant hanging in space 
+	nearby.
+
+8    INT. DEFIANT - BRIDGE
+
+					DAX 
+			What are they doing?
+
+					HANOK 
+			They must be gambling that the 
+			Jem'Hadar won't follow them into 
+			the atmosphere.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE      7.
+
+8    CONTINUED:
+
+					KIRA 
+			They'd be smart not to. 
+			That's a Class-J gas giant. I'm 
+			reading wind speeds of over ten 
+			thousand kilometers per hour.
+
+9    VIEWSCREEN (OPTICAL)
+
+	as the Karemma ship disappears into the planet's cloudy 
+	surface, and a beat later, the Jem'Hadar ships plunge 
+	in after it.
+
+10   RESUME SCENE
+
+	Sisko considers his options.
+
+					HANOK 
+			Twenty-three of my people are on 
+			that ship... and they're going to 
+			die because I was foolish enough 
+			to defy the Dominion.
+
+					SISKO
+			They're not going to die, 
+			Minister. Not if I can help it. 
+				(to com) 
+			Sisko to O'Brien.
+
+								INTERCUT WITH:
+
+11   INT. DEFIANT - ENGINE ROOM 
+
+	where O'Brien is working a console. Two young Enlisted 
+	Engineers, MUNIZ and STEVENS, work other consoles. 
+	N.D.s man the rest.
+
+					O'BRIEN
+				(to com) 
+			Go ahead, sir.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE      9.
+
+11   CONTINUED:
+
+					SISKO 
+			I'm taking the ship into the 
+			atmosphere.
+
+	Reactions.
+
+					SISKO 
+			I know it's not what she was built 
+			for, but I think the ship can 
+			handle it.
+
+					O'BRIEN 
+			Aye, sir. I'll see if I can get 
+			more power to the Structural 
+			Integrity Field.
+
+								END INTERCUT ON:
+
+12   INT. DEFIANT - BRIDGE
+
+					KIRA 
+				(working) 
+			Adjusting shield geometry for 
+			atmospheric entry...
+
+					WORF 
+				(working)
+			Transferring auxiliary power to 
+			forward shields...
+
+					SISKO 
+				(to Dax) 
+			Take us in.
+
+					DAX
+			Five seconds to atmosphere... 
+			four... three...
+
+	The ship SHUDDERS violently as it hits the atmosphere. 
+	Suddenly we hear an unfamiliar SOUND: the ROAR of wind 
+	slashing against the hull.
+
+13   EXT. SPACE - DEFIANT (OPTICAL)
+
+	As the Defiant descends through the atmosphere.
+
+14   INT. DEFIANT - BRIDGE
+
+	As before.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     10.
+
+14   CONTINUED:
+
+					KIRA 
+			There's so much interference our 
+			imaging systems are practically 
+			useless...
+
+14A  VIEWSCREEN (OPTICAL)
+
+	as it FRITZES and goes to STATIC.
+
+14B  RESUME SCENE
+
+	Suddenly the ship LURCHES and SHAKES...
+
+					DAX
+			We've hit a cross-current!
+
+					SISKO
+			Head into it!
+
+	Dax works, and after a beat, the ship stabilizes and 
+	the shaking subsides somewhat, though every few moments 
+	it might SHUDDER as it's buffeted by a blast of wind.
+
+					KIRA 
+			We've slipped between two thermal 
+			layers... wind velocities are a 
+			little more manageable here.
+
+					SISKO
+				(to Dax) 
+			Hold this altitude. 
+				(to Worf) 
+			Any sign of the Karemma or the 
+			Jem'Hadar?
+
+					WORF 
+			No, but sensor range is less than 
+			two kilometers.
+
+					DAX
+			There might be a way we can 
+			increase it.
+
+	Dax moves to a side console, and Carson takes the helm.
+
+					SISKO 
+			Minister Hanok, I think it would 
+			be best if you returned to the 
+			mess hall.
+
+					HANOK 
+			As you wish, Captain.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE    10A.
+
+14B  CONTINUED: 
+
+	Sisko nods to an N.D, who escorts Hanok off the Bridge.
+
+					SISKO 
+			Mister Worf, what's our weapons 
+			status?
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE    10A.
+
+14B  CONTINUED:	(2)
+
+					WORF 
+			The cloak is ineffective inside 
+			this atmosphere. And the 
+			interference will jam our torpedo 
+			guidance systems.
+
+					SISKO 
+			What about phasers?
+
+					WORF 
+			We'll have to target them 
+			manually.
+
+	None of this is good news, but Sisko takes it in 
+	stride. Kira and Dax turn to Sisko with a plan.
+
+					DAX
+			Benjamin, we have an idea.
+
+					KIRA
+			It's a little trick I learned
+			during the occupation. We'd
+			sometimes try to evade Cardassian
+			ships by hiding in the Badlands.
+			Sensor range was limited, so we
+			learned to use an old active-scan
+			system to navigate.
+
+					DAX 
+			It works by echo-location... we 
+			send out a modulated tetrion 
+			pulse, and if it reflects off the 
+			hull of a ship, we can approximate 
+			its location.
+
+					SISKO 
+			Won't these pulses give away our 
+			position as well?
+
+					KIRA 
+				(nods) 
+			We'll have to alter course and 
+			speed after each one.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     12.
+
+14B  CONTINUED:	(3)
+
+	Sisko nods that they get to work...
+
+15   INT. DEFIANT - MESS HALL
+
+	as Hanok ENTERS. Outside, we see the N.D. take up 
+	position in the corridor to guard the door. The SOUND 
+	of the wind outside is slightly less audible here. 
+	Quark, who's been looking over a PADD, glances up and 
+	immediately breaks into a smile...
+
+					QUARK 
+			Good news, Minister.
+
+	Hanok regards him impassively.
+
+					HANOK 
+			Really?
+
+					QUARK 
+			I think I've found the problem.
+
+	Quark crosses toward him with the PADD.
+
+					QUARK 
+			I made the mistake of letting my 
+			brother Rom execute these 
+			contracts.
+
+					HANOK
+				(skeptical) 
+			Your brother?
+
+					QUARK 
+			Yes. I'm ashamed to say it, but 
+			he's an idiot. You see, the 
+			Federation and the Karemma have 
+			very different laws governing 
+			commerce, and I think that Rom 
+			must've... gotten confused by all 
+			the legalisms.
+
+	Hanok looks unconvinced, but Quark is going to 
+	try to salvage this deal if he can.
+
+					QUARK 
+			Now, I'm more than willing to make 
+			up for any losses you might have 
+			suffered. In fact, I'll pay them 
+			back with interest.
+
+	Hanok has had enough, cuts him off.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     13.
+
+15   CONTINUED:
+
+					HANOK 
+			You cheated me, Quark. And you 
+			don't even have the courage to 
+			admit it. If we survive this, 
+			I'll see to it that you never do 
+			business in the Gamma Quadrant 
+			again...
+
+	Off Quark's reaction...
+
+16   INT. DEFIANT - BRIDGE (VPB) 
+
+	Where Kira, Dax and Sisko are looking at an OKUDAGRAM 
+	on a side console. An icon representing the Defiant is 
+	at its center, and there's a grid around it that 
+	represents three-dimensional space. We hear a "pulse" 
+	sound, and a sphere emanates from the icon, growing 
+	larger as it moves away.
+
+					KIRA
+			There's nothing within a thousand 
+			kilometers...
+
+					SISKO
+				(to Carson) 
+			Ahead, one quarter impulse.
+
+	Carson works her console.... after a beat:
+
+					SISKO
+			Try it again, Major...
+
+	We HEAR the (TECH) pulse, and this time, the expanding 
+	circle briefly illuminates a blip near the bottom of 
+	the screen.
+
+					KIRA
+			There's something about four 
+			hundred kilometers below us. It 
+			could be the Karemma... I can't 
+			tell at this range.
+
+					SISKO
+				(to Carson)
+			Close to ten kilometers...
+
+17   EXT. SPACE - DEFIANT (OPTICAL)
+
+	as it starts down deeper into the atmosphere.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     14.
+
+18   INT. DEFIANT - BRIDGE (VPB)
+
+	The ship SHAKES.
+
+					DAX
+				(off console) 
+			We're crossing into another 
+			thermal layer...
+
+	Another SHUDDER...
+
+					CARSON 
+			Holding position at ten 
+			kilometers.
+
+					SISKO
+			Major...
+
+	She works the scanner... we HEAR the pulse, and the 
+	icon kicks out a sphere... when it illuminates a 
+	blip...
+
+					KIRA 
+			From the size of it, I'd say it's 
+			the Karemma...
+
+	Just as the sphere is about to reach the edge of the 
+	monitor, it illuminates TWO MORE BLIPS near the top of 
+	the screen.
+
+					KIRA
+				(urgent) 
+			I'm picking up two more ships.
+
+	Suddenly the Defiant is ROCKED by phaser fire...
+
+19   EXT. ATMOSPHERE (OPTICAL)
+
+	as the two JEM'HADAR ships drop from above and head 
+	toward the Defiant... they open fire...
+
+20   INT. DEFIANT - BRIDGE
+
+	as the ship is ROCKED VIOLENTLY by the blasts. 
+	Consoles explode... warning KLAXONS sound...
+
+					WORF
+			Shields at sixty percent.
+
+					SISKO
+			Return fire.
+
+	We hear the SOUND of phasers firing, then take another 
+	blast ourselves, which ROCKS the ship hard. The LIGHTS 
+	flicker out and are replaced by EMERGENCY LIGHTS.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     15.
+
+20   CONTINUED:
+
+					KIRA
+				(off console). 
+			The Jem'Hadar are breaking off 
+			their attack...
+
+					SISKO
+			Are they going after the Karemma?
+
+					KIRA 
+			I don't think they've spotted 
+			them...
+
+					CARSON
+				(grim) 
+			Captain, impulse power is off 
+			line... we're losing altitude.
+
+					SISKO
+			Try using thrusters to stabilize.
+
+					CARSON
+				(works)
+			It's no use...
+
+	We hear the SOUND of the hull groaning under pressure.
+
+					WORF
+			Hull pressure is at two million GSC and rising.
+
+					SISKO
+				(to com) 
+			Sisko to Engine room. We need 
+			impulse power.
+
+								INTERCUT WITH:
+
+21   INT. DEFIANT - ENGINE ROOM
+
+	Where things are just as bad. Consoles have exploded, 
+	a conduit is spewing nitrogen. The SOUND of the hull 
+	groaning is no less ominous down here.
+
+					O'BRIEN
+				(to com) 
+			The primary ODN lines have 
+			overloaded, Captain... it's going 
+			to be a few minutes.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     16.
+
+21   CONTINUED:
+
+					DAX 
+			Chief, if you can spare someone to 
+			meet me in Jefferies Tube Four, 
+			I'll try to re-route power through 
+			the secondary couplings. 
+
+	O'Brien turns to Muniz.
+
+					O'BRIEN
+			Muniz.
+
+					MUNIZ 
+			Yes, sir.
+
+	He grabs a TOOLKIT and heads for the ladder to the 
+	second level.
+
+22   EXT. ATMOSPHERE (OPTICAL)
+
+	as the Defiant sinks deeper...
+
+23   INT. DEFIANT - MESS HALL
+
+	where Quark is holding his hands over his ears to shut 
+	out the terrible SOUND of the hull groaning. Hanok is 
+	sweating, looking around at the walls as if waiting for 
+	them to give way.
+
+24   INT. DEFIANT - JEFFERIES TUBE
+
+	as Dax and Muniz scramble into position and start 
+	opening a panel.
+
+					DAX
+			All right... let's recalibrate the 
+			ODN manifold.
+
+					MUNIZ 
+			I'll uncouple the plasma relay...
+
+	The hull GROANS ominously. Dax sees that Muniz's hands 
+	are shaking as he works...
+
+					DAX
+			Sounds a little like a Yridian 
+			Symphony, doesn't it?
+
+					MUNIZ 
+			I don't know, I've never heard 
+			one.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT ONE     17.
+
+24   CONTINUED:
+
+	The hull GROANS again, and Dax mimics the sound, 
+	picking it up and modulating it for a moment into 
+	another pitch. After a beat, the hull GROANS again, 
+	creating a bizarre sort of counterpoint.
+
+					DAX
+			Kind of nice, don't you think?
+
+	Muniz can't help but smile as he works, which is 
+	exactly what Dax was trying to do, release some of the 
+	tension of the moment.
+
+25   INT. DEFIANT - BRIDGE
+
+	Where the tension in the room is palpable. They're 
+	sinking, and right now, there's nothing they can do 
+	about it.
+
+					CARSON 
+			Hull pressure is at nine million 
+			GSC and still rising...
+
+					KIRA
+				(grim) 
+			If we keep losing altitude at this 
+			rate, the hull will collapse in 
+			less than six minutes.
+
+	Worf turns from a console...
+
+					WORF 
+			Sir, the phaser couplings 
+			overloaded during the attack. It 
+			will take at least two hours to 
+			repair them.
+
+					SISKO
+			The Jem'Hadar aren't going to let 
+			us tractor the Karemma out of here
+			without a fight.
+
+					KIRA 
+			Right now I'd say we're the ones 
+			who need to be tractored out of 
+			here.
+
+					SISKO 
+			One thing at a time, Major.
+
+	Sisko considers for a moment.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT ONE     18.
+
+25   CONTINUED:
+
+					SISKO
+				(to com) 
+			Sisko to O'Brien.
+
+								INTERCUT WITH:
+
+26   INT. DEFIANT - ENGINE ROOM
+
+					O'BRIEN 
+			O'Brien, here.
+
+					SISKO
+			How many atmospheric probes do we 
+			have on board?
+
+					O'BRIEN
+			Two.
+
+					SISKO
+			Could they be rigged with warheads 
+			from the quantum torpedoes?
+
+	O'Brien smiles as he realizes what Sisko's up to.
+
+					O'BRIEN
+			We'd have to pull out the imaging 
+			system to make room inside the 
+			casings, but I don't see why not.
+
+					SISKO
+			How long?
+
+					O'BRIEN
+			Twenty minutes.
+
+					SISKO
+			You've got ten.
+
+								END INTERCUT ON:
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT ONE     19.
+
+27   INT. DEFIANT - ENGINE ROOM
+
+	O'Brien and Stevens are looking through a TOOLKIT for 
+	the equipment they'll need to arm the probe. Like 
+	Muniz and most of the other Engineering N.D.s, Stevens 
+	is an enlisted man. These guys didn't go to Starfleet 
+	Academy, they're not as polished as our people, and 
+	they have their own work habits and codes of behavior.
+
+	The hull GROANS, and Stevens casts an anxious look 
+	around. O'Brien sees that the pressure is getting to 
+	him, tries to reassure him...
+
+					O'BRIEN
+			You okay... ?
+
+	Stevens tries to keep his chin up.
+
+					STEVENS 
+			I'm all right...
+
+	O'Brien knows his men are scared, and that they need 
+	encouragement.
+
+					O'BRIEN
+			The Captain's gotten us out of 
+			tougher spots than this.... last 
+			year, when the Romulans tried to 
+			invade the Founder's homeworld, we 
+			went up against a dozen Jem'Hadar 
+			ships
+
+					STEVENS 
+			I know, Chief. You've told me the 
+			story.
+
+					O'BRIEN
+			Yeah?
+				(smiling) 
+			Well unless you want to hear it 
+			again, you'd better get down to 
+			the torpedo bay and start working 
+			on those probes.
+
+					STEVENS
+				(grins) 
+			I'm going.
+
+	O'Brien smiles and Stevens moves off. O'Brien turns 
+	toward another N.D.
+
+					O'BRIEN
+			Janklow, I'm going to need a 
+			dualitic inverter. There's one in 
+			the Cargo Bay.
+
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT ONE    19A.
+
+27   CONTINUED:
+
+	The N.D. nods and heads for the door...
+
+28   INT. DEFIANT - CORRIDOR
+
+	as the N.D. rounds a corner and starts down it. 
+	Suddenly the wall ahead of him EXPLODES inward with a 
+	rush of nitrogen gas... the crewman is thrown back 
+	onto the ground...
+
+29   INT. DEFIANT - BRIDGE
+
+					WORF
+				(off console)
+			Hull breach on Deck Two.
+
+         DEEP SPACE NINE: "Starship Down" - 09/11/95 ACT ONE        20.
+
+29   CONTINUED:
+
+					KIRA 
+			An emergency forcefield is in 
+			place, but it won't hold up long 
+			against this pressure...
+
+					SISKO
+			How many people are down there?
+
+					WORF
+				(off console) 
+			Half a dozen in Sickbay... Dax and 
+			Muniz in Jefferies Tube Four.
+
+					SISKO
+			We've got to get them out of 
+			there.
+
+					KIRA
+			If we don't seal off that deck 
+			now, we'll lose the entire ship...
+
+	Off Sisko as he comes face to face with a terrible 
+	dilemma...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT TWO     21.
+                            ACT TWO                             
+
+	FADE IN:
+
+30   INT. DEFIANT - CORRIDOR (OPTICAL) 
+
+	where BASHIR and an N.D. Nurse are helping a few 
+	patients out of Sickbay, some of whom are injured and 
+	need assistance. Bashir has a MEDKIT... only EMERGENCY 
+	LIGHTS illuminate the corridor, and the door to Sickbay 
+	is only partly ajar, as if the power went out and it 
+	had to be forced open.
+
+	The entrance to the Jefferies Tube that Dax and Muniz 
+	are in can be seen in one wall, and in another, the 
+	door to a turbolift.
+
+	At the far end of the corridor, a FORCEFIELD is in 
+	place. Behind it we can see and HEAR the compartment 
+	rapidly filling with atmosphere.
+
+					SISKO'S COM VOICE  
+			Sisko to Bashir.
+
+					BASHIR 
+			Go ahead.
+
+					SISKO'S COM VOICE 
+			The emergency forcefield won't 
+			hold much longer. You've got to 
+			evacuate that deck so we can seal 
+			it off.
+
+	We follow Bashir's eye to the bulkhead at the other end 
+	of the corridor, opposite the forcefield. We can see 
+	the frame of the door jam, into which the door will 
+	slide.
+
+					BASHIR 
+			Aye, sir.
+				(to Nurse) 
+			Let's get everyone past that 
+			bulkhead...
+
+As they set to work assisting the others...
+
+31   INT. DEFIANT - JEFFERIES TUBE
+
+	where Dax and Muniz are working.
+
+					SISKO'S COM VOICE 
+			Dax, are you finished?
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT TWO     22.
+
+31   CONTINUED:
+
+					DAX 
+			Not quite.
+
+								INTERCUT WITH:
+
+32   INT. DEFIANT - BRIDGE
+
+	where Sisko is talking to Dax on the com as Kira and 
+	Worf look on. Dax and Muniz never stop working.
+
+					SISKO
+			Get out of there as soon as you're 
+			done.
+				(grim) 
+			In about thirty seconds I'm going 
+			to have to seal that deck.
+
+	Muniz reacts... Sisko is telling them he may have to 
+	trap them inside.
+
+					DAX
+			Understood.
+
+	Dax sees the look on Muniz's face, tries to reassure 
+	him.
+
+					DAX
+			We've got to get the engines back 
+			on-line. Just keep working and 
+			don't think about anything else.
+
+33   INT. DEFIANT - CORRIDOR (OPTICAL)
+
+	Where Bashir is prying the door to the turbolift OPEN 
+	to help an N.D. who was trapped inside.
+
+	At the far end of the corridor, the FORCEFIELD is 
+	FRITZING ominously from the pressure building up behind 
+	it.
+
+	When the last person is past the door frame, Bashir 
+	touches a wall panel and the BULKHEAD starts to slide 
+	closed.
+
+					BASHIR
+				(to com) 
+			Bashir to Bridge, I'm sealing the 
+			bulkhead.
+
+	Bashir looks down the corridor a last time and sees 
+	someone emerging from the Jefferies Tube entrance in 
+	the wall. It's Dax.
+
+					BASHIR 
+			Dax!
+
+        DEEP SPACE NINE: "Starship Down" - 09/11/95 - ACT TWO       23.
+
+33   CONTINUED:
+
+	He slaps the control panel and the bulkhead stops 
+	closing, leaving an opening just wide enough for a 
+	person to get through.
+
+					BASHIR
+			Hurry.
+
+	She helps Muniz get out of the Jefferies Tube, but 
+	before they can move away the forcefield collapses. 
+	Dax and Muniz are hit by the full force of the 
+	pressurized gas, throwing them partway down the 
+	corridor toward Bashir. In a split second, the 
+	corridor is so filled with gas that it's impossible to 
+	see what happened to them.
+
+	Bashir shouts through the opening in the door, into the 
+	rush of oncoming nitrogen streaming past him.
+
+					BASHIR
+			Jadzia!
+
+	But if she responds, we don't hear it over the roar of 
+	the incoming gas.
+
+34   INT. DEFIANT - BRIDGE
+
+					KIRA
+			The forcefield is down.
+
+	Sisko has no choice but to say the terrible words.
+
+					SISKO
+				(to com)
+			Doctor, close that bulkhead.
+
+					BASHIR'S COM VOICE
+			They're still in there.
+
+					SISKO
+			Now, Doctor. That's an order.
+
+35   INT. DEFIANT - CORRIDOR
+
+	Bashir is holding himself in the doorway, nitrogen 
+	streaming past him. He screams against it, desperate.
+
+					BASHIR
+			Dax!
+
+	Suddenly a hand reaches in from the roiling nitrogen: 
+	it's Muniz, and Bashir pulls him to safety. The young 
+	ensign is wracked with coughs from the poison gas.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT TWO     24.
+
+35   CONTINUED:
+
+	Bashir stares into the blinding jet of gas escaping 
+	through the opening in the bulkhead... he knows he has 
+	no choice, he has to shut it.
+
+	He reaches up to touch the control panel... but as the 
+	door starts to close, he unexpectedly steps through the 
+	opening and into the oncoming gas before it shuts 
+	behind him. Off the Nurse and N.D.s as they realize 
+	what he's done...
+
+36   INT. DEFIANT - TURBOLIFT 
+
+	Through the partly open door we can see the gas roaring 
+	down the corridor.  Out of the roiling cloud a figure  
+	emerges... it's Bashir, dragging Dax's limp form behind  
+	him...
+
+	As soon as they're both inside, he manually JACKS the  
+	door shut, muffling the roar outside in the corridor.  
+	Coughing and struggling to retain his breath, Bashir  
+	reaches to touch a control panel.
+
+	We hear a HISSING sound, and the compartment begins to  
+	clear as it's repressurized.
+
+	Bashir looks down at Dax's limp body, opens his Medkit,  
+	and gives her a HYPO. After a beat, she coughs to  
+	life, struggles to regain her breath.
+
+	Bashir slumps back against the wall, relief washing  
+	over him...
+
+					BASHIR  
+			Bridge.
+
+	Nothing happens... he tries to work the panel, but gets  
+	no response. They're trapped. Off Bashir's face as he  
+	reacts to this unexpected development...
+
+37   INT. DEFIANT - BRIDGE
+
+	We hear the SOUND of power coming on-line... the LIGHTS  
+	come back up.
+
+					KIRA
+				(quiet) 
+			She did it.
+
+	Sisko acknowledges with a small nod.
+
+					SISKO
+				(to Carson) 
+			Helm, take us to a higher 
+			altitude.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT TWO    24A.
+
+37   CONTINUED:
+
+	Sisko sits silently in his chair, contemplating the 
+	lose of Bashir and Dax. After a moment...
+
+					O'BRIEN'S COM VOICE 
+			O'Brien to Bridge. One of the 
+			atmospheric probes is armed and 
+			standing by. We'll have the 
+			second one ready in a few minutes.
+
+					SISKO 
+			Very good, Chief.
+
+	Sisko turns to Kira.
+
+					SISKO 
+			All right, Major. Now that we've 
+			got something to defend ourselves 
+			with, let's start looking for the 
+			Karemma.
+
+	As Kira activates the scanner and we HEAR the telltale 
+	pulse.
+
+37A  
+thru   OMITTED
+37B  
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT TWO     25.
+
+38   INT. DEFIANT - MESS HALL 
+
+	Where Quark and Hanok are reacting to the change in the 
+	SOUND of the hull.
+
+					QUARK
+			We're gaining altitude...
+
+					HANOK 
+			How can you tell?
+
+					QUARK
+				(indicating his ears)
+			I've got the lobes...
+
+	Hanok looks relieved... Quark decides the time is right 
+	to launch into another effort to try to salvage the 
+	deal.
+
+					QUARK
+			You've got them, too.
+				(off Hanok's look) 
+			It's a Ferengi expression. 
+			Usually, when we say someone has 
+			"the lobes," we mean they have a 
+			keen business sense. That's you.
+
+	Quark is laying it on thick, trying to flatter Hanok.
+
+					QUARK
+			I'll admit it. You fooled me. 
+			I thought you were just another easy 
+			mark. But you saw right through 
+			my little scam, and taught me a 
+			thing or two about doing business 
+			in the Gamma Quadrant.
+
+	Quark sits down, shakes his head sadly as if humbled.
+
+					QUARK
+			I guess I've gotten lazy. I'm 
+			used to dealing with the 
+			Federation. You think I was 
+			cheating you, you have no idea 
+			what I was doing to them. They 
+			still haven't caught on.
+
+	Hanok studies him, says nothing, waiting to see where 
+	Quark is going with this. After a beat, Quark gives 
+	him a sly look.
+
+  DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT TWO 26-28.    
+
+38   CONTINUED:
+
+					QUARK 
+			And if someone like me can put one 
+			over on them, think of what 
+			someone like you could do.
+
+	Hanok looks at him for a moment, then leans forward.
+
+					HANOK
+			Someone with my... lobes?
+
+					QUARK 
+			Exactly.  And I'm just the man to 
+			help you do it. we could become 
+			rich, rich beyond our dreams.
+
+	Hanok smiles for a moment, looks like he might go for 
+	it.
+
+					HANOK 
+			You... are despicable.
+
+	Hanok get up from the table, walks away from Quark, who 
+	sits back in his chair defeated...
+
+					QUARK
+				(to himself)
+			I hate the Gamma Quadrant...
+
+	Off his frustration...
+
+39   
+thru   OMITTED
+40   
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/19/95 - ACT TWO     29.
+
+41   INT. DEFIANT - BRIDGE (VPB)
+
+	Kira reacts as the scanner illuminates a BLIP.
+
+					KIRA
+			Sir, I have something. It's a 
+			Jem'Hadar ship.
+
+	She deactivates the scanning pings so as not to give 
+	away their position.
+
+					SISKO 
+			Just one?
+
+Kira nods an acknowledgement.
+
+					WORF
+			They must've split up to search 
+			for the Karemma.
+
+					KIRA
+			It's about seventy kilometers 
+			above us, on a roughly 
+			perpendicular course.
+
+	Sisko addresses Carson at the helmas he works a panel.
+
+					SISKO
+			Helm, come about to course zero-
+			seven-five mark four. Let's fall 
+			in behind them.
+
+					CARSON 
+			Aye, sir.
+
+	The deck cants as the ship swings around. The mood is 
+	tense... they're flying blind, and there's a Jem'Hadar 
+	ship nearby.
+
+	Sisko stands in the center of the room as if gauging 
+	the SOUND of the wind outside. He's relying on 
+	instinct now... tactical experience, asking himself, 
+	"What would I do if I were the Jem'Hadar captain?"
+
+					KIRA
+			Do you think they've detected us?
+
+      DEEP SPACE NINE: "Starship Down" - REV-09/19/95 - ACT TWO     30.
+
+41   CONTINUED:
+
+					SISKO 
+			I don't know. Let's make it a 
+			little harder on them... shut down 
+			every non-essential system. It'll 
+			minimize our power signature...
+
+	Kira and Worf set to work, moving quickly to a few 
+	consoles to shut them off... we hear the SOUND of power 
+	systems winding down.
+
+					SISKO 
+			All stop.
+
+	Carson works her console.
+
+					SISKO
+				(to Worf) 
+			Program the probe to home in on 
+			the first metallic signature it 
+			finds.
+
+	Worf reacts... this is dangerous stuff. As he works his 
+	console:
+
+					WORF 
+			If it doesn't locate anything 
+			within fifty kilometers, the probe 
+			might turn back and home in on the 
+			Defiant.
+
+					KIRA 
+			What if they've changed course, 
+			moved out of range?
+
+					SISKO 
+			Something tells me they're closer 
+			than you think...
+
+	He says this with the simple conviction that comes from 
+	instinct.
+
+					WORF 
+			The probe is ready, sir.
+
+	Sisko stands perfectly still for a beat, listening to 
+	the wind outside...
+
+					SISKO 
+			Fire.
+
+42   
+thru   OMITTED
+43   
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/19/95 - ACT TWO     31.
+
+44   EXT. ATMOSPHERE (OPTICAL)
+
+	The probe shoots forward and away from the Defiant, 
+	leaving a trail as it cuts through the atmosphere.
+
+	Suddenly the Jem'Hadar ship enters frame and 
+	immediately opens FIRE from behind, scoring a massive 
+	hit that cuts right through our shields.
+
+45   INT. DEFIANT - BRIDGE 
+
+	as the ship is ROCKED harder than we've ever seen it. 
+	People are thrown off their feet, including Sisko, who 
+	slams his head against something... consoles EXPLODE... 
+	systems crash... the lights BLACK OUT...
+
+46   EXT. ATMOSPHERE (OPTICAL)
+
+	as the probe arcs up, around, and back over the 
+	Defiant, toward the Jem'Hadar right on our tail. The 
+	probe hits home and the ship explodes in a FIREBALL.
+
+47   INT. DEFIANT - ENGINE ROOM
+
+	as the SHAKING subsides... people get their bearings, 
+	help each other to their feet...
+
+					O'BRIEN
+				(taps combadge)
+			O'Brien to Bridge... 
+
+	No response. O'Brien turns to Muniz.
+
+					O'BRIEN
+			Try the com-panel.
+
+					MUNIZ
+				(taps panel)
+			Engine Room to Bridge. 
+
+	Still nothing. O'Brien checks a console.
+
+					MUNIZ
+			Bridge, please respond.
+
+					O'BRIEN
+				(grim)
+			Save your breath, Muniz.
+				(off console)
+			I don't think there's anyone left
+			alive up there.
+
+        DEEP SPACE NINE: "Starship Down" - 09/11/95 - ACT TWO       32.
+
+47   CONTINUED:
+
+	The two men look at each other... off this dire moment 
+	we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT THREE    33.
+                           ACT THREE                            
+
+	FADE IN:
+
+48   INT. DEFIANT - BRIDGE 
+
+	Only EMERGENCY LIGHTS illuminate the room, and the dim 
+	light they give off is cut by the swirl of smoke from 
+	exploded consoles. The place is a wreck.
+
+	Worf is just sitting up... he clears his head, moves to 
+	help Kira.
+
+					WORF 
+			Are you all right, major?
+
+					KIRA 
+			I think so...
+
+	Kira moves to check on Sisko, who's lying unconscious 
+	on the floor. Carson moves to check on two N.D.s who 
+	are splayed out on the floor, one of whom is badly 
+	burned.
+
+					WORF 
+			Computer, lights.
+				(nothing happens) 
+			Bridge to Engine Room.
+
+	No response, not even a com-beep. Worf starts checking 
+	consoles, trying to power them up.
+
+					CARSON
+			Boyce and Peterson are dead,
+			sir...
+
+	Worf reacts, nods an acknowledgement. Kira crouches 
+	next to Sisko, who's barely conscious. He took a bad 
+	blow to the head and blood is trickling from a cut on 
+	his temple.
+
+					KIRA 
+			Captain... try not to move... you 
+			took a bad blow...
+				(to Carson) 
+			Get me a medkit.
+
+	Carson hurries over to a wall panel, brings the MEDKIT 
+	over.
+
+					WORF 
+			Bridge systems are completely off-
+			line. We're not getting power to 
+			these consoles.
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT THREE    34.
+
+48   CONTINUED:
+
+	Kira uses a CELLULAR REGENERATOR to staunch the blood-
+	flow.
+
+					KIRA
+				(to Sisko, gently)
+			There, the bleeding's stopped.
+
+	Carson crouches at Kira's side, ready to assist.
+
+					KIRA
+				(off tricorder) 
+			He's got a concussion... sub-
+			cranial bleeding. We need a 
+			medic.
+
+					CARSON
+			The com-system's down... I'll go  
+			below and try to find one.
+
+	Kira nods, and Carson moves toward the door... but it 
+	doesn't open. Worf moves to her side, and together 
+	they force the door OPEN. Carson EXITS to the 
+	corridor, and Worf comes to Kira's side.
+
+					KIRA 
+			I'm afraid if he loses  
+			consciousness, he could slip into  
+			a coma. But I don't think I can  
+			risk using a stimulant on him.
+
+					WORF  
+			You have to keep him awake. Talk  
+			to him. Give him something to  
+			focus on.
+
+					KIRA  
+			Right.
+
+					WORF  
+			I will attempt to get to the  
+			Engine Room and take control of  
+			the ship from there.
+
+					KIRA  
+			Good luck.
+
+	Worf acknowledges with a nod and EXITS. Kira turns to 
+	Sisko.
+
+					KIRA  
+			Captain...
+
+	He stirs at the sound of her voice...
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT THREE    35.
+
+48   CONTINUED:	(2)
+
+					KIRA  
+			Everything's going to be all  
+			right... but you have to try to  
+			stay awake for me...
+
+	But Sisko needs something to focus on... Kira struggles 
+	to think of something to say.
+
+					KIRA  
+			I'm just going to talk, okay?  
+			I want you to listen. It's very  
+			important that you listen  
+			because... because there's going  
+			to be a test later.
+
+	Sisko smiles faintly at this.. off Kira's face as she realizes she's 
+	just going to have to keep going like 
+	this.
+
+48A  INT. DEFIANT - TURBOLIFT 
+
+	where Bashir is scanning the roof of the Turbolift with 
+	his TRICORDER. Dax starts to come to, and he crouches 
+	to help her sit up.
+
+					BASHIR  
+			How do you feel?
+
+					DAX  
+			Terrible...
+
+					BASHIR 
+			That's not surprising considering 
+			that you took in a few lungfuls 
+			of Fluorine.
+
+					DAX
+			Next time remind me to hold my 
+			breath...
+				(looking around)
+			I take it we're stuck in here...
+
+					BASHIR 
+			I thought about trying to crawl up 
+			the turbolift shaft, but it's 
+			flooded with gas.
+
+					DAX
+			I think I've had enough Fluorine 
+			for one day. Maybe we should just 
+			stay put and wait for someone to 
+			come get us.
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT THREE   35A.
+
+48A  CONTINUED:
+
+					BASHIR 
+			They probably don't even know 
+			we're in here. Our com-signals 
+			can't cut through the 
+			interference.
+
+					DAX
+			Is there anything else I should 
+			know?
+
+					BASHIR 
+			We only have a few hours of 
+			breathable air...
+
+	Dax reacts to this grim news. Bashir slumps to a 
+	sitting position next to her... after a beat...
+
+					DAX 
+			Thanks, anyway.
+				(off his look)
+			For trying to rescuing me.
+
+					BASHIR
+			Lot of good it did you....
+
+					DAX 
+			I mean it.
+
+	He hears her simple sincerity, turns to her.
+
+					DAX
+			It's funny... if you'd have done 
+			something like this a year ago, I 
+			would've thought you were trying 
+			to be a hero.
+
+					BASHIR 
+			And now?
+
+					DAX
+			Now that I know you better... 
+				(smiles) 
+			I realize it was just a stupid 
+			thing to do.
+
+	He can't help but laugh.
+
+					BASHIR 
+			You're welcome...
+
+	They share a smile... off the warm moment between them.
+
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT THREE   35B.
+
+49   INT. DEFIANT - MESS HALL 
+
+	where Quark is pacing, and Hanok is ignoring him. 
+	Quark has been running it over in his mind and can't 
+	figure out why Hanok didn't go for his offer. Finally, 
+	he has to say something.
+
+					QUARK 
+			You're taking this too personally. 
+			Okay, I cheated you. I cheat 
+			everyone. It's business. You see 
+			what you can get away with, and 
+			you've got to figure the other 
+			guy's doing the same to you.
+
+					HANOK 
+			That's not the way the Karemma 
+			conduct business.
+
+					QUARK 
+			Oh, come on. You can't tell me 
+			you've never padded an inventory, 
+			or pawned off a load of 
+			substandard merchandise.
+
+	Hanok gives him a cold look.
+
+					HANOK 
+			No, I haven't. The Karemma 
+			believe that merchandise has a set 
+			value, determined by the raw 
+			materials and labor involved in 
+			creating it.
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/12/95 - ACT THREE    36.
+
+49   CONTINUED:
+
+					HANOK (Cont'd) 
+			Factor in transportation costs and 
+			a reasonable profit margin, and 
+			you arrive at a fair price.
+
+	Quark is appalled by this dry view of commerce.
+
+					QUARK
+			You make it sound so... 
+			antiseptic. Where's the 
+			bargaining, where's the 
+			scheming... where's the greed?
+
+					HANOK 
+			Greed leads to misjudgment, which 
+			can result in the loss of profit.
+
+					QUARK 
+			If there's no risk, there's no 
+			thrill. It's just... 
+				(with distaste)
+			...barter. If you want to win 
+			big, you have to be willing to 
+			play the odds, it's like.... 
+			gambling.
+
+					HANOK 
+			Gambling is the last recourse of 
+			the desperate. Only a fool would 
+			risk losing what he has to chance.
+
+	Quark throws his hands up in frustration, slumps into 
+	a chair. There's just no getting through to this 
+	guy...
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT THREE    37.
+
+50   OMITTED
+
+51   INT. DEFIANT - ENGINE ROOM
+
+	as the hatch to the Jefferies tube OPENS and Worf 
+	starts to emerge. O'Brien, Muniz, Stevens and an N.D. 
+	have been working to restore ship's systems.
+
+					O'BRIEN
+			Commander, am I glad to see you.
+
+					WORF
+				(all business) 
+			The captain is injured. 
+			All bridge functions are off-line.
+
+					O'BRIEN
+			We've been trying to route command
+			functions to these consoles.
+
+					WORF 
+			I will take command from here.
+
+	Worf turns to study the consoles O'Brien indicated, 
+	sees something not to his liking.
+
+					WORF 
+			Who configured these helm 
+			controls?
+
+					MUNIZ 
+			I did, sir.
+
+					WORF 
+			They are not laid out properly.
+
+	Muniz is stressed out enough as it is, and having a 
+	Klingon in his face isn't helping. He swallows back 
+	his nervousness, tries to explain.
+
+					MUNIZ 
+			I realize they're not the same as 
+			on the bridge, but I had to make 
+			some changes because --
+
+					WORF
+				(interrupting) 
+			I need to be able to ascertain our 
+			status at a glance. Reconfigure 
+			these controls to their standard 
+			layout.
+
+ DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT THREE 38-40.   
+
+51   CONTINUED:
+
+	Muniz is a little taken aback by the sharpness of 
+	Worf's command. He's not used to dealing with a 
+	commander in charge of a "bridge" in crisis, and it's 
+	all he can do to get out an acknowledgment.
+
+					MUNIZ 
+			Aye, sir.
+
+	Worf moves off and Muniz gets to work.
+
+					WORF 
+			Mister Stevens, you will operate 
+			the echo-location system we've 
+			been using to track the Jem'Hadar.
+
+					STEVENS 
+			I'll do my best.
+
+	Worf isn't used to this kind of informality and takes 
+	Stevens's comment literally.
+
+					WORF
+			I expect nothing less.
+
+	Stevens glances at O'Brien, unsure what he did wrong. 
+	O'Brien decides to just move past it.
+
+					O'BRIEN
+			Let's get to work...
+
+	They set about their various tasks. Off O'Brien's face 
+	as he glances over at his men, then at Worf... He's 
+	wondering how well they're going to work together...
+
+52   OMITTED 
+
+53   INT. DEFIANT - BRIDGE 
+
+	where Kira is talking to a semi-conscious Sisko. She's 
+	been having trouble thinking up things to say, and has 
+	fallen back on talking about work.
+
+					KIRA
+			-- so I was thinking if we went to 
+			a four shift rotation, it would 
+			give people more flexibility with 
+			their time. There is a little bit 
+			of a downside because it means 
+			that every shift is going to have 
+			to -- what am I talking about?
+
+	She let's out a frustrated breath...
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT THREE    41.
+
+53   CONTINUED:
+
+					KIRA 
+			I'm supposed to be keeping you 
+			awake, not boring you to tears. 
+				(beat) 
+			I'm sorry. I don't know why this 
+			is so hard. All I have to do is 
+			talk to you. I mean, what do we 
+			usually talk about?
+
+	Sisko smiles faintly, tries to speak, and Kira leans in 
+	to hear.
+
+					SISKO 
+			Work...
+
+	Kira can't help but smile; he's right...
+
+					KIRA
+			You're right. That is what we 
+			usually talk about. Even when 
+			we're not working.
+
+	Her smile fades, and for a beat she looks almost 
+	troubled.
+
+					KIRA
+			I get the feeling it's not that 
+			way with you and Dax, or you and 
+			Chief O'Brien.
+
+	She considers for a moment...
+
+					KIRA
+			Then again... you're not a revered 
+			figure in their religions.
+
+	She looks down at his still features.
+
+					KIRA
+			I know you don't like it when I 
+			talk about you as the Emissary. 
+				(a beat) 
+			But that is how I think of you. 
+			And maybe that's why it's 
+			sometimes hard for me to... relax 
+			around you.
+
+	Kira let's out a breath, wonders where to go from here. 
+	Sisko sees her frustration and reaches to take her arm 
+	in his hand...
+
+					SISKO 
+			Nerys... ?
+
+DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT THREE 42-42A.   
+
+53   CONTINUED:	(2)
+
+					KIRA 
+			Yes, sir?
+
+					SISKO
+			Tell me a story...
+
+	Kira smiles; that sounds easy enough.
+
+					KIRA 
+			All right. Do you know the one 
+			about the three brothers who went 
+			to Jo'kala?
+
+					SISKO
+			No...
+
+					KIRA 
+			They were kava farmers, and one 
+			day they went out into their field 
+			and found the biggest kava root 
+			they'd ever seen, big as a house. 
+			"This will make us rich," said the 
+			oldest. And they decided to dig 
+			it up and sell it in the city.
+
+	As Kira continues we...
+
+									CUT TO:
+
+54   INT. DEFIANT - ENGINE ROOM (VPB) 
+
+	where Stevens is working the echo-scanner which is now 
+	displayed on a monitor. We hear the telltale ping, and 
+	Stevens reacts to the readout.
+
+					STEVENS 
+			Sir, I have something.
+
+	Worf moves to study the readout.
+
+					WORF 
+			They're too small to be ships...
+
+					STEVENS 
+			They're closing fast...
+
+	In the distance, we hear a faint SOUND, gradually 
+	changing in pitch.
+
+    DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT THREE    43.
+
+54   CONTINUED:	(2)
+
+					O'BRIEN
+				(realizing) 
+			Torpedoes.
+
+					WORF
+				(to Muniz) 
+			Hard to port! 
+
+	The deck dants to one side as the Defiant banks off...
+
+					O'BRIEN
+				(works) 
+			I'm modulating the deflectors... 
+			it might confuse their guidance 
+			systems.
+
+55   EXT. ATMOSPHERE (OPTICAL) 
+
+	as the Defiant changes course, banking down. The first 
+	torpedo shoots toward it... a tense beat as it looks 
+	like it's going to hit... but then it misses by a 
+	hair's breadth and shoots past.
+
+56   INT. DEFIANT - ENGINE ROOM
+
+	We hear the SOUND of the second torpedo coming 
+	closer...
+
+					STEVENS 
+			The second one's still closing...
+			range, one hundred meters... 
+			seventy-five... fifty...
+
+	A beat, then a LOUD metallic thunk that jolts the ship. 
+	Everyone tenses up, waiting for the explosion... but 
+	nothing happens...
+
+									CUT TO:
+
+57   INT. DEFIANT - MESS HALL
+
+	on Quark and Hanok, both staring numbly at something 
+	off-screen.
+
+58   NEW ANGLE
+
+	to reveal the nose-cone of a Jem'Hadar TORPEDO 
+	sticking through the back wall. Nitrogen streams in 
+	from around the perimeter of mangled metal into which 
+	the torpedo is jammed. 
+
+	Off Quark and Hanok's stunned features we...
+
+									FADE OUT.
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/12/95 - ACT FOUR    44.
+                           ACT FOUR                             
+
+	FADE IN:
+
+59   INT. DEFIANT - MESS HALL (CONTINUOUS)
+
+	After a beat...
+
+					HANOK 
+			I suggest we leave this room 
+			immediately.
+
+					QUARK 
+			And go where? If that thing 
+			explodes, the entire ship will be 
+			destroyed.
+				(a beat) 
+			Maybe we should try to defuse it.
+
+	Hanok's not sure this is such a good idea.
+
+					HANOK
+			We should wait for help.
+
+					QUARK
+			What if no one can get to us?
+
+	The play of LIGHTS inside the torpedo changes, we hear 
+	a HUM of power.
+
+					QUARK 
+			I don't like the sound of that. 
+			It's up to us...
+
+	Quark's made his decision.
+
+					QUARK 
+			There should be an emergency tool 
+			kit around here somewhere.
+
+	Hanok moves to look for it. Quark cautiously moves 
+	toward the torpedo... studies its outer shell. Hanok 
+	moves to his side, TOOLKIT in hand. Quark indicates a 
+	specific part of the nose cone.
+
+					QUARK 
+			The arming mechanism must be 
+			somewhere in here.
+				(indicating)
+			We have to remove this casing...
+
+					HANOK 
+			How?
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/12/95 - ACT FOUR    45.
+
+59   CONTINUED:
+
+	They study its smooth, featureless surface. 
+	Undeterred, Quark blows on his fingertips, leans in, 
+	and gingerly puts his ear to the torpedo...
+
+					QUARK
+				(the safecracker) 
+			There's no lock that can't be 
+			opened...
+
+	As Hanok watches Quark begins...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FOUR    46.
+
+60   INT. DEFIANT - ENGINE ROOM (VPB)
+
+	where Worf, O'Brien, Muniz and Stevens are looking at 
+	a SCHEMATIC of the Defiant on a monitor.
+
+					O'BRIEN 
+			It looks like the torpedo hit 
+			somewhere in here.
+
+	O'Brien indicates a point on the schematic.
+
+					MUNIZ 
+			Problem is, we're cut off from 
+			that part of the ship.
+
+	Worf considers their options.
+
+					WORF 
+			Mister Stevens, recalibrate the 
+			Structural Integrity Field to 
+			minimize the strain caused by the 
+			torpedo.
+
+					STEVENS 
+			The field generators are already 
+			at their limit compensating for 
+			the hull breach on Deck Two.
+
+					WORF
+			I am aware of the situation, 
+			Mister Stevens. If you cannot 
+			carry out my orders, I will find 
+			someone who can.
+
+	Stevens reacts, tries to pull himself together.
+
+					STEVENS
+			That won't be necessary, sir.
+
+	Stevens sets to work, and Worf crosses to the center of 
+	the room; he's in a tough bind and is trying to come up 
+	with a way to save the ship.
+
+	O'Brien studies him for a beat from his console, then 
+	decides to approach.
+
+					O'BRIEN 
+			Could I have a word with you, sir?
+
+					WORF 
+			Of course.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FOUR    47.
+
+60   CONTINUED:
+
+					O'BRIEN 
+			With all due respect, I think 
+			you're riding these men a bit too 
+			hard. You have to understand, 
+			they're out of their element. 
+			They're not bridge officers, they 
+			didn't go to Starfleet Academy. 
+			They're Engineers. They're used 
+			to being told to repair something, 
+			and figuring out how to do it on 
+			their own.
+
+					WORF
+			What are you suggesting?
+
+					O'BRIEN 
+			Just give them a little slack, 
+			ease up on the reins. Let them do 
+			what they're good at... and give 
+			them a little encouragement now 
+			and then.
+
+	Worf takes this in...
+
+					WORF
+			I will take it under consideration.
+
+	O'Brien nods, and moves off to work a console. Off 
+	Worf's face as he considers how to proceed...
+
+61   INT. DEFIANT - TURBOLIFT 
+
+	where Bashir and Dax are sitting quietly. She shivers,
+	runs her hands over her shoulders for warmth.
+
+					DAX
+			I'm so cold...
+
+	Bashir moves closer to her, puts his arm around her, 
+	and they huddle together for warmth...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FOUR    48.
+
+61   CONTINUED:
+
+					BASHIR 
+			These walls aren't that well 
+			insulated... it's going to get 
+			even colder...
+				(holding her) 
+			Better?
+
+	Dax nods, presses herself to his chest... after a quiet 
+	moment, Bashir laughs softly to himself over some 
+	private thought.
+
+					DAX
+			What?
+
+					BASHIR 
+			Just remembering something.
+
+					DAX 
+			Tell me.
+
+	Bashir considers begging off, but decides "Why not?"
+
+					BASHIR 
+			When I first came to the station, 
+			I used to fantasize that you and 
+			I would go off on a runabout 
+			together on some mission. 
+			Something would go wrong with the 
+			ship... and we'd end up drifting 
+			around for a few days until they 
+			sent someone to rescue us.
+
+					DAX 
+			If you don't mind my saying, 
+			Julian, that's a very strange 
+			fantasy.
+
+					BASHIR 
+			I guess it seemed like the only 
+			way we'd ever get a chance to 
+			spend time alone together. You 
+			were always avoiding me.
+
+	Dax pulls herself away a bit so she can see his face. 
+	This is something they've never discussed head on, and 
+	it isn't easy.
+
+					DAX
+			It's just... you came on so 
+			strong. You didn't give me a 
+			chance to get to know you.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT FOUR    49.
+
+61   CONTINUED:	(2)
+
+	Bashir has enough perspective on it now to admit she's 
+	right.
+
+					BASHIR
+			You're right, I didn't...
+
+	A quiet moment passes... Dax shudders against the cold, 
+	and Bashir holds up his arm so she can huddle close 
+	again...
+
+					BASHIR
+				(lightly) 
+			Don't worry, Jadzia. It's been a 
+			while since I had that particular 
+			fantasy.
+
+	Dax smiles, moves close again. After a beat...
+
+					DAX
+			How long a while... exactly?
+
+					BASHIR 
+			I don't know. Couple of years, 
+			maybe.
+
+					DAX
+			Oh...
+
+	He hears something in her tone and a realization hits 
+	him...
+
+					BASHIR 
+			You're disappointed.
+
+					DAX
+				(objecting) 
+			Julian.
+
+					BASHIR 
+			That's it. You enjoyed being 
+			chased, and now you miss it.
+
+					DAX
+			That is preposterous.
+				(a warning) 
+			And if you start chasing after me 
+			again --
+
+					BASHIR 
+			Now that I know you liked it, I 
+			don't need to, do I?
+
+	Dax doesn't know what to say to this. Bashir smiles, 
+	leans back in his moment of victory... and Dax finds 
+	herself in the unusual position of not having anything 
+	to rebut him with... off this moment...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT FOUR    50.
+
+INT. DEFIANT - ENGINE ROOM
+
+	O'Brien is on the upper level repairing an open 
+	console. Muniz and Stevens are working their posts. 
+	Worf approaches them from behind.
+
+					WORF 
+			I require your assistance.
+
+	They're both startled by his sudden appearance behind 
+	him, and are expecting the worse.
+
+					WORF 
+			I need a weapon...
+
+					MUNIZ 
+			We still have one atmospheric 
+			probe.
+
+					WORF 
+			If my plan is to work, the probe 
+			will not be available to use as a 
+			weapon. I need something else.
+
+					STEVENS 
+			Phasers are out of the question, 
+			the emitters are completely fused.
+
+					MUNIZ 
+			But the phaser generator is 
+			working fine...
+
+	They consider for a beat...
+
+					STEVENS 
+				(realizing) 
+			The Deflector Array.
+
+	Muniz realizes what he's proposing, excitedly 
+	continues.
+
+					MUNIZ 
+			With a few modifications, we could 
+			use it as a phaser emitter.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FOUR   50A.
+
+62   CONTINUED: 
+
+	Suddenly they realize that they've been talking to each 
+	other about this and that Worf might not approve; they 
+	contain their enthusiasm, respectfully defer to him.
+
+					STEVENS 
+			It may not be what you had in 
+			mind, sir...
+
+					MUNIZ 
+			And there is one problem... It'll 
+			overload after the first shot.
+
+	Stevens and Muniz look at Worf anxiously awaiting his 
+	verdict... after a beat, Worf allows himself what 
+	might almost be a smile.
+
+					WORF
+			I only need one shot.
+
+	Stevens and Muniz share a look of relief; they're 
+	pleased because they finally did something Worf 
+	approves of.
+
+					WORF 
+			How long will it take to make the 
+			modifications?
+
+					MUNIZ
+				(to Stevens) 
+			Twenty minutes?
+
+					STEVENS 
+			Ten if we can bypass the safeties.
+
+					WORF 
+			Go.
+
+	The two men move off to climb the ladder to the second 
+	level, exchanging ideas about how to do it faster.
+
+	Worf turns to study a console, and we REVEAL O'Brien 
+	looking down at him from the second level with a 
+	satisfied grin...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/15/95 - ACT FOUR    51.
+
+63   INT. DEFIANT - BRIDGE
+
+	where Kira is continuing her story to an unconscious 
+	Sisko. She's scanning him with her tricorder as she 
+	speaks.
+
+					KIRA
+			... but then the brothers started 
+			to argue about how to divide the 
+			money they got for the kava root. 
+			The oldest said that since it was 
+			his idea to bring it to the city, 
+			he should get more. The youngest 
+			objected, saying he was the one 
+			who'd tended the field where...
+
+	Kira's voice trails off as she reacts to the readings 
+	on the tricorder. The situation is grim... she's losing 
+	him.  For the first time, her emotions start to get the 
+	best of her.
+
+					KIRA 
+			This can't happen... you can't 
+			die... You're the Emissary... 
+			there's still so much you have to 
+			do...
+
+	She gets a hold of herself, reaches to take out the 
+	hypo. She holds it in her hand as if deciding what to 
+	do...
+
+					KIRA 
+			I don't know if this is the right 
+			thing to do or not... but I'm 
+			going to give you a stimulant...
+
+	She steels herself, then injects Sisko in the neck... 
+	not knowing if this will save him or kill him. After 
+	a beat...
+
+					KIRA 
+			Captain... I know that my beliefs 
+			can make you feel uncomfortable 
+			around me. And that maybe they're 
+			the reason you keep me at arm's 
+			length sometimes.
+
+	We hear in her voice that this is something she
+	regrets, but now she pushes it aside, and a certain 
+	resolve enters her voice...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT FOUR    52.
+
+63   CONTINUED:
+
+					KIRA 
+			But right now, I don't care about 
+			that. And that's why I hope you 
+			don't mind if I pray for a little 
+			while. I don't know what else to 
+			do. I'm losing you. And I can't 
+			let that happen.
+
+	Kira takes his hand in hers, shuts her eyes, and begins 
+	to speak softly in Bajoran, almost a continuous murmur.
+
+					KIRA
+			Jia'kaja, tre'nu'tol'a rem...
+			La'por i'lanu kos... I'nar
+			tan'a'tali nor...
+
+	off the image of her quitely praying over his still form...
+
+64   INT. DEFIANT - ENGINE ROOM (VPB)
+
+	O'Brien is working a console, Worf is studying the 
+	schematic of the ship. Muniz and Stevens are coming 
+	down the ladder.
+
+					MUNIZ 
+			Everything's ready to go, sir.
+
+	Stevens moves to indicate a console.
+
+					STEVENS 
+			We can target the deflector from 
+			here.
+
+	Worf looks at Stevens, then to Muniz.
+
+					WORF 
+			Good work.
+
+	This is the first time he's complimented them and it 
+	has an immediate impact on them.
+
+					WORF 
+			Take your posts.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FOUR   52A.
+
+64   CONTINUED:
+
+	They move to their respective consoles, and we can see 
+	in their bearing that they have a little more 
+	confidence in themselves, and in Worf as their 
+	commander.
+
+					WORF
+			Mister O'Brien...
+
+	O'Brien activates the echo-scanner, and it begins to 
+	PULSE rhythmically.
+
+	Worf stands in the center of the room much like Sisko 
+	did on the bridge... watchful, his senses alert.
+
+					O'BRIEN
+				(off console) 
+			There's nothing within scanning 
+			range...
+
+					WORF
+			The Jem'Hadar are out there, 
+			Mister O'Brien... you can be 
+			certain of that...
+
+	As the "pinging" continues...
+
+65   EXT. ATMOSPHERE (OPTICAL)
+
+	OVERLAP SOUND with the "pinging" in the Engine Room. 
+	A Jem'Hadar ship takes form in the mist, moving 
+	slowly... closing in... off this moment we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/12/95 - ACT FIVE    53.
+                           ACT FIVE                             
+
+	FADE IN:
+
+66   INT. DEFIANT - MESS HALL
+
+	where Quark and Hanok are gingerly lifting the casing 
+	off the warhead.
+
+					QUARK
+			Gently...
+
+	They set it aside, breathe a sigh of relief. They look 
+	inside the warhead, and are dismayed to see that the 
+	alien technology is complex and far from clear.
+
+					QUARK
+			Okay... now what... ?
+
+	Quark pulls out the tricorder, scans the torpedo. 
+	Hanok studies the innards for a moment... then 
+	indicates a particular set of diodes.
+
+					HANOK
+			One of these diodes connects the 
+			warhead to the power source... the 
+			other is the firing mechanism.
+
+	Quark gives him a look.
+
+					QUARK
+			How do you know that?
+
+					HANOK 
+			I saw a design schematic once.
+
+					QUARK 
+			Where?
+
+					HANOK 
+			At the Ministry of Trade on 
+			Karemma.
+				(off Quark's look) 
+			We sell these torpedoes to the 
+			Jem'Hadar.
+
+	Quark is momentarily stunned...
+
+					QUARK
+			You're kidding.
+
+					HANOK 
+			No...
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FIVE    54.
+
+66   CONTINUED: 
+
+	The irony of the situation and the tension of the 
+	moment threatens to give Quark a case of the giggles...
+
+					QUARK 
+			I thought you said you'd never 
+			sold substandard merchandise...
+				(off Hanok's look) 
+			It was supposed to explode on 
+			impact, wasn't it?
+
+	Hanok can't help but smile...
+
+					HANOK 
+			Maybe I should offer them a 
+			refund...
+
+	And they both break into laughter... wracking, painful 
+	laughs like those that can strike in church or at a 
+	funeral.
+
+	Suddenly the SOUND of the torpedo's HUM increases in 
+	pitch. They both freeze, the laughter instantly cut 
+	off.
+					QUARK
+				(a whisper) 
+			We'd better do something about 
+			this torpedo of yours...
+
+	They look at each other, and they just can't help it... 
+	they break out laughing again...
+
+					HANOK
+				(through laughter) 
+			We have to remove the firing 
+			diode... but I don't know which 
+			one it is...
+
+					QUARK
+				(through laughter) 
+			And if we pick the wrong one... we 
+			die...
+
+	They calm down... get a grip on themselves...
+
+					QUARK 
+			This isn't funny... we just have 
+			to pick the right one... it's 
+			fifty-fifty... better odds than 
+			you get at the dabo table...
+
+					HANOK 
+			dabo?
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/12/95 - ACT FIVE   54A.
+
+66   CONTINUED:	(2)
+
+					QUARK 
+			It's a game... if we get out of 
+			this, I'll teach it to you.
+				(beat; re: diodes) 
+			Choose one.
+
+					HANOK 
+			How?
+
+					QUARK 
+			It's a gamble. Go with your
+			instinct.
+
+	Hanok hesitates, struggles to decide.
+
+					QUARK
+			You're thinking too much. You 
+			just have to reach in and grab 
+			one.
+
+	Without thinking about it, Quark reaches in and plucks 
+	one of the diodes out. The LIGHTS in the torpedo cut 
+	out and the hum stops. There's a beat before they 
+	realize what's just happened. Then a slow smile 
+	spreads on Quark's features.
+
+					QUARK
+			Looks like we have a winner.
+
+	They both move away, sit down with immense relief..,.
+
+					HANOK
+				(a realization) 
+			That was... exciting.
+
+					QUARK 
+			Feels good, doesn't it?
+
+					HANOK 
+			Yes...
+
+					QUARK 
+			That's how it works. The bigger 
+			the risk, the bigger the win.
+				(beat) 
+			You know... there's another risk 
+			you could take... staying in 
+			business with me.
+
+					HANOK 
+			You never give up, do you?
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/12/95 - ACT FIVE    55.
+
+66   CONTINUED:	(3)
+
+					QUARK 
+			No. I tried to cheat you, and I 
+			lost. That doesn't mean I'm going 
+			to give up the game... 
+				(a beat) 
+			Come on, Hanok. What do you 
+			say... do you want to keep 
+			playing?
+
+	Hanok studies him for a moment... picks up one of the 
+	PADDS...
+
+					HANOK
+     			Let's talk about these Bolian
+     			currency fluctuations...
+
+	Quark smiles, realizes he's back in business... as they 
+	pick up their PADDS...
+
+67   INT. DEFIANT - BRIDGE 
+
+	where Kira's head is bowed as she murmurs her prayer...
+
+					KIRA
+			Jia'kaja, tre'nu'tol'a rem...
+			La'por i'lanu kos... I'nar
+			tan'a'tali nor...
+
+	Sisko stirs...
+
+					SISKO
+				(groggy)
+			Major... ?
+
+	Kira reacts, a look of relief washes over her features. 
+	She makes a small gesture of thanks to the Prophets.
+
+					KIRA 
+			Yes, captain?
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/18/95 - ACT FIVE    56.
+
+67   CONTINUED:
+
+	She leans in close so she can hear his words...
+
+					SISKO
+				(softly)
+			What... happened... ?
+
+					KIRA 
+			The Jem'Hadar hit us pretty bad... 
+			Worf went down to the Engine Room 
+			to --
+
+					SISKO
+				(stopping her)
+			No, no...
+
+	Kira stops herself, uncertain...
+
+					SISKO
+			What happened to the three 
+			brothers?
+
+	Kira breaks into a grin...
+
+					KIRA 
+			They gave the money away, and went 
+			back to their farm where they 
+			belonged.
+
+					SISKO
+				(smiles)
+			Is good...
+				(a beat)
+			Can you tell me another story... ?
+
+					KIRA 
+			I'd love to, sir...
+
+	Off this moment of closeness...
+
+68   INT. DEFIANT - ENGINE ROOM (OPTICAL)
+
+	All are listening to the rhythmic pulses of the echo-
+	scanner. The tension in the room seems to rise with 
+	each ping. After a moment...
+
+					O'BRIEN
+				(urgent) 
+			Sir, I've got something.
+
+	Worf moves to the monitor. On the OKUDAGRAM, the hand 
+	illuminates a blip moving toward the center of the 
+	scanner.
+
+					O'BRIEN 
+			It's the Jem'Hadar... they've 
+			locked onto the tetrion pulse...
+
+	Worf turns to Stevens, who's ready at his console.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT FIVE    57.
+
+68   CONTINUED:
+
+					WORF
+			Stand by, Mister Stevens...
+
+	The steady "pinging" continues...
+
+69   EXT. ATMOSPHERE (OPTICAL)
+
+	as the Jem'Hadar ship moves toward camera... the sound 
+	of the "pinging" continues... the ship comes to a 
+	stop... and CAMERA PULLS back to REVEAL the source of 
+	the "pinging" SOUND...
+
+	Not the Defiant, but the atmospheric probe. . .hanging 
+	motionless in the atmosphere, a BLINKIE flashing in 
+	synch with the pinging. Defiant has set up a decoy...
+
+70   INT. DEFIANT - ENGINE ROOM
+
+	A tense beat, then...
+
+					WORF
+			Now.
+
+	Muniz and Stevens both reach to work their consoles...
+
+71   EXT. ATMOSPHERE (OPTICAL)
+
+	The Jem'Hadar ship starts to bank away from the probe, 
+	but suddenly the Defiant ENTERS frame behind it and 
+	opens FIRE... a bolt of ENERGY shoots out from the 
+	deflector array and destroys the Jem'Hadar in a fiery 
+	EXPLOSION...
+
+72   INT. DEFIANT - ENGINE ROOM
+
+	A moment of triumph between all the participants. 
+	Muniz and Stevens clasp hands...
+
+					O'BRIEN
+			What do you say we find the
+			Karemma and get out of here?
+
+	Off Worf's nod of acknowledgment...
+
+73   INT. DEFIANT - CORRIDOR
+
+	where two N.D.s are prying the door to the turbolift 
+	OPEN.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/14/95 - ACT FIVE    58.
+
+73   CONTINUED:
+
+					WORF (V.O.) 
+			Defiant Log, Supplemental.
+
+74   INT. DEFIANT - TURBOLIFT
+
+	as the door OPENS, casting light onto Bashir and Dax, 
+	who blink from the change in brightness...
+
+ 					WORF (V.O.) 
+				(continuing) 
+			Damage control teams are repairing 
+			the ship's systems and medics are 
+			tending to injured crewmembers.
+
+	As the N.D.s move to assist them we cut to:
+
+75   INT. DEFIANT - BRIDGE
+
+	where a MEDIC is tending to Sisko as Kira and Carson 
+	look on. He's going to be all right.
+
+					WORF (V.O.)
+			We have located the Karemma ship 
+			deep in the atmosphere and are 
+			moving to assist. It appears that 
+			it will have to be abandoned...
+
+76   INT. DEFIANT - MESS HALL
+
+	where Quark and Hanok are bent over their PADDS.
+
+					WORF (V.O.) 
+				(continuing)
+			... and its crew brought back to 
+			Deep Space Nine until 
+			transportation can be arranged to 
+			the Karemma Homeworld.
+
+	Muniz ENTERS with a toolkit and reacts to the 
+	incongruous sight of two men haggling while a torpedo 
+	sticks in the wall nearby...
+
+77   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/11/95 - ACT FIVE    59.
+
+77A  INT. QUARK'S (FORMERLY SC. 79) 
+
+	Worf and O'Brien are seated at a table having 
+	beverages, Bashir is trapped at the bar with MORN, who 
+	seems to be chewing his ears off, and Dax is playing 
+	darts with an N.D.
+
+	ODO is standing near the dabo table suspiciously 
+	watching Quark hovering over Hanok. Hanok is anxiously 
+	watching as the wheel winds down; he's got a lot of 
+	money riding on this spin. The wheel comes to a stop, 
+	and from the crowd's reaction we see that Hanok's lost. 
+	Quark tries his best to act sympathetic, even though 
+	Hanok's loss is his gain.
+
+					QUARK
+			Oh!  Pass five, too bad.
+
+	The dabo girl gives Hanok a sympathetic expression.
+
+					QUARK
+			You lose half your stake. You can 
+			either quit now, or try to double 
+			it.
+
+					ODO 
+			My advice is to take what latinum 
+			you have left and walk away.
+
+	Hanok looks at Quark, considers for a moment, and 
+	finally says...
+
+					HANOK 
+			Just because you lose a bet, that 
+			doesn't mean you give up the game.
+
+					QUARK 
+			Exactly.
+
+	Quark shoots Odo a satisfied look. He and Hanok have 
+	come a long way, but even so, there's no reason to risk 
+	getting himself cleaned out, so Quark decides to give 
+	him some bad advice.
+
+					QUARK 
+			May I suggest placing your next 
+			wager on double down.
+
+	Hanok studies the board, considers.
+
+					HANOK
+				(to the dabo girl) 
+			Put it all on triple over.
+
+	Quark reacts, and his face tells us this is exactly the 
+	right play.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/11/95 - ACT FIVE    60.
+
+77A  CONTINUED:
+
+					QUARK
+			I think you're making a big
+			mistake.
+
+					HANOK
+				(reaffirming)
+			Triple over.
+				(to Quark)
+			Nothing personal, Quark.
+
+					QUARK
+				(smiles wanly)
+			Of course not...
+
+	Quark watches with dread as the wheel spins. It comes 
+	to a stop... and this time the crowd's reaction tells 
+	us Hanok's won. Quark tries to muster a gracious 
+	smile...
+
+					QUARK
+			You're really catching on...
+
+	Off Quark's face as he realizes he's in for a long 
+	night...
+
+77B  ON BASHIR AND MORN (FORMERLY SC. 80)
+
+	where Bashir is trying to be polite.
+
+					BASHIR
+			... seventeen brothers and
+			sisters... ? That's quite a
+			family.
+
+	Morn nods, and is about to start in again when Dax 
+	comes up to them with a DART in her hands.
+
+					DAX
+			Excuse me, Morn.
+
+	She turns to Bashir.
+
+					DAX
+			It's your turn.
+
+					BASHIR
+			For what?
+
+					DAX
+				(holding it up)
+			Darts.
+
+	She fixes him with a look and he realizes she's giving 
+	him an excuse to get away.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/11/95 - ACT FIVE    61.
+
+77B  CONTINUED:
+
+					BASHIR 
+			Oh, right. Sorry, Morn. Nice 
+			talking to you.
+
+	They move away toward the dart board...
+
+					BASHIR 
+			Thanks for rescuing me.
+
+					DAX
+				(lightly) 
+			Now we're even.
+
+	As they share a smile and continue away, we DROP OFF on 
+	Stevens, who's ENTERED and is making his way over to...
+
+77C  O'BRIEN AND WORF (FORMERLY SC. 78)
+
+					STEVENS
+				(to Worf) 
+			Excuse me, sir.
+
+	Stevens indicates a PADD he's carrying.
+
+					STEVENS 
+			Here's the repair schedule we drew 
+			up for the Defiant.
+
+	He hands it to Worf.
+
+					STEVENS 
+			With your approval, we thought 
+			we'd start by tearing out the 
+			secondary ODN lines. They're 
+			shot, and it'll be easier to get 
+			to the manifolds that way. After 
+			that we figured we'd --
+
+					WORF
+				(interrupting) 
+			Proceed at your discretion, Mister 
+			Stevens.
+
+	Stevens is taken aback for a moment, then breaks into 
+	a grin...
+
+					STEVENS
+			Thank you, sir...
+
+					WORF 
+			How long will the repairs take?
+
+					STEVENS 
+			Sixteen hours.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/15/95 - ACT FIVE    62.
+
+77C  CONTINUED:
+
+	Worf nods, Stevens starts away..
+
+					O'BRIEN 
+			You can do it in twelve.
+
+					STEVENS 
+				(recovering) 
+			Sure, twelve. No problem.
+
+				WORF 
+			Very well.
+
+	Stevens moves off... Worf throws O'Brien a 
+	questioning look.
+
+					O'BRIEN 
+			You have to give them a lot of 
+			slack, but you can't take your 
+			hands off the reins...
+
+	As Worf ponders this...
+
+81   INT. CAPTAIN'S OFFICE 
+
+	where Sisko is sitting behind his desk as Kira finishes 
+	up a report.
+
+					KIRA 
+			-- the Karemma transport will be 
+			here by eighteen hundred tomorrow, 
+			and the Defiant should be ready to 
+			escort them back to the Gamma 
+			Quadrant.
+
+					SISKO 
+			Good.
+
+	Sisko brings up something he's been thinking about.
+
+					SISKO 
+			Major, it occurred to me that we 
+			should consider going to a four 
+			shift rotation. I think the crew 
+			might appreciate having more 
+			flexibility in their schedules.
+
+	Kira reacts, wondering if Sisko remembers her 
+	mentioning this to him.
+
+					KIRA 
+			I'll look in to it first thing in 
+			the morning.
+
+	Sisko nods, then pops another question.
+
+     DEEP SPACE NINE: "Starship Down" - REV. 09/13/95 - ACT FIVE    63.
+
+81   CONTINUED:
+
+					SISKO
+			What are you doing for the next
+			few hours?
+
+					KIRA
+			I'm going off duty, I thought I'd
+			just relax.
+
+					SISKO
+			You want to go to a ball game?
+
+	Kira reacts to this unexpected invitation...
+
+					KIRA
+			I'd love to, sir.
+
+	Sisko smiles, and moves to rummage through a cabinet or 
+	drawer.
+
+					SISKO
+			Meet me in Holosuite Three in half
+			an hour.
+
+					KIRA 
+				(smiles)
+			See you then.
+
+	She turns away...
+
+					SISKO
+			Nerys...
+
+	She turns back as he tosses her a baseball cap.
+
+					SISKO
+			You'll need this...
+
+	She catches the cap, sees the letter G on it, and puts 
+	it on. Sisko smiles at the sight.
+
+					SISKO
+			You get the hot dogs from Quark...
+
+					KIRA
+			Hot dogs?
+
+					SISKO
+			He'll know...
+
+	She smiles, and takes her leave. Sisko watches her go, 
+	and after a beat, puts on his own cap... off this 
+	moment we...
+
+78   
+thru   OMITTED
+80   
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

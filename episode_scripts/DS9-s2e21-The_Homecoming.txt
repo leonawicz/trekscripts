@@ -1,0 +1,3190 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "The Homecoming" 
+                          #40512-421 
+                              
+                           Story by 
+                          Jeri Taylor 
+                              and 
+                        Ira Steven Behr 
+                              
+                          Teleplay by 
+                        Ira Steven Behr 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                          July 2, 1993
+
+      STAR TREK: DS9 - "The Homecoming" - 07/02/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Homecoming" 
+                             CAST 
+
+          SISKO                    BORUM
+          KIRA                     BOSLIC CAPTAIN
+          ODO                      GUL DUKAT
+          QUARK                    JARO
+          BASHIR                   LI NALAS
+          DAX                      OVERSEER
+          JAKE                     CARDASSIAN V.0.
+          O'BRIEN                  TYGARIAN OFFICER
+          ROM                      
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          MORN                     THREE ASSAILANTS
+          SUPERNUMERARIES          
+
+      STAR TREK: DS9 - "The Homecoming" - 07/02/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Homecoming" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK CORRIDOR              
+          COMMANDER'S OFFICE            RUNABOUT
+          GUEST QUARTERS                
+          HABITAT RING CORRIDOR         CARDASSIA FOUR
+          INFIRMARY                     
+          KIRA'S QUARTERS               LABOR CAMP - DAY
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          REPLIMAT                      
+          SISKO'S QUARTERS              
+
+        RUNABOUT - RIO GRANDE         
+
+  STAR TREK: DS9 - "The Homecoming" 07/02/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Homecoming" 
+                      PRONUNCIATION GUIDE 
+
+          BAJOR                    BAY-jor
+          BAJORAN                  bah-JOR-an
+          BOSLIC                   BOZ-lik
+          CARDASSIA                car-DASS-ee-uh
+          CARDASSIAN               car-DASS-ee-en
+          GALOR                    GAL-or
+          HUTET                    HOO-tet
+          ICOBERRY                 EYE-co-berry
+          JACARINE                 JACK-ah-reen
+          JARO ESSA                JAR-oe ESS-uh
+          LAIRA                    LAY-rah
+          LAMENDA                  lah-MEN-duh
+          LATINUM                  LAT-i-num
+          LI NALAS                 LEE NAH-less
+          LISSEPIAN                li-SEP-ee-an
+          MARAYN                   muh-RAIN
+          MARTUK                   MAR-tuk
+          NANUT                    NAH-nut
+          NERYS                    nar-EES
+          PATRARK                  PAY-trark
+          PHALONIA                 fah-LONE-ee-ah
+          PHALONIAN                fah-LONE-ee-an
+          RIXX                     ricks
+          ROMAH DOEK               ROE-mah DOE-eck
+          RULOT                    RUE-lot
+          SAHVING                  SAH-ving
+          SUBYTT                   SUB-ite
+          YELIKAN                  YELL-i-kan
+          TYGARIAN                 tie-GAIR-ee-an
+          ZARALE                   zuh-RAIL
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "The Homecoming"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S
+
+	The usual crowd.  ROM is pouring a tall one for MORN as a 
+	gleeful QUARK hurries over waving a Ferengi PADD.
+
+					QUARK
+			Rom, I have delightful news.  It's 
+			finally arrived.
+
+					ROM
+			It has?
+
+					QUARK
+			And I guarantee we're the only 
+			establishment in this sector to offer 
+			the entire cycle.
+
+					ROM
+			We are?  Why that's marvelous, isn't 
+			it, Morn?  Really... amazing.
+				(stares blankly at 
+				PADD)
+			What cycle?
+
+					QUARK
+			Idiot, don't you recognize profit 
+			when you see it?  You're looking at 
+			the latest Holosuite programs from 
+			Phalonia Prime.
+
+	That gets Morn's attention.  He casually tries to peer over 
+	Quark's shoulder to get a look at the PADD but is ignored by 
+	the Ferengi.
+
+					QUARK
+			Yes, when it comes to designing adult 
+			Holosuite programs, the Phalonians 
+			display true genius.
+				(beat)
+			If you don't believe me, take a peek 
+			at the image menu.
+
+	Quark leans over and taps a code into the PADD.  He and Rom 
+	crowd around it, blocking Morn's view (we never get to see 
+	the contents of the menu either).
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           2.
+
+1    CONTINUED:
+
+					QUARK
+			Let's see, where to begin.  Ah, here 
+			we go, Scenario Fourteen-C, "A picnic 
+			with the Pleasure Goddess of Rixx."
+
+	Morn is determined to get a look at that Goddess.  But Quark 
+	pays no attention to him.
+
+					QUARK
+				(to Rom)
+			Now that's what I call a picnic.
+
+	Morn's heard enough.  He reaches over and grabs the PADD out 
+	of Quark's hands.  He stares at it and then at Quark, who 
+	finally takes notice of him.
+
+					QUARK
+				(to Morn, dryly)
+			I believe Holosuite Six is 
+			available.
+
+	Morn immediately gets up and heads for the stairs.  Quark 
+	watches him go, a satisfied smile on his face.
+
+					QUARK
+				(gloating)
+			That Morn, he always was a sucker 
+			for a Phalonian Holo-program.
+
+	He looks over to find Rom intently studying the discarded 
+	PADD.
+
+					QUARK
+				(continuing)
+			What do you think you're doing?
+
+					ROM
+			Nothing, brother.
+
+					QUARK
+			The story of your life.  Now get to 
+			work.
+
+	He yanks the PADD from Rom, who SCURRIES OFF.
+
+					QUARK
+				(calling after him)
+			If anyone wants me, I'll be in...
+				(checking PADD menu)
+			... Holosuite Three.
+
+	Quark makes a beeline for the stairs when he's stopped by..
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           3.
+
+1    CONTINUED:	(2)
+
+					ODO (O.S.)
+			Quark!
+
+2    NEW ANGLE
+
+	as a testy ODO makes his way through the crowd.
+
+					QUARK
+			Not now, Odo.
+
+					ODO
+			We have to talk.
+
+					QUARK
+			It'll have to wait.
+
+					ODO
+			It can't wait.
+
+					QUARK
+				(exasperated)
+			Of course not.  Well make it fast.  
+			I have... business to attend to.
+
+					ODO
+			You remember that Subytt freighter 
+			we were discussing the other day?  
+			The one you claimed was smuggling 
+			defective isolinear rods to Bajor?
+
+					QUARK
+			Yes, yes, what about it?
+
+					ODO
+			Well, I conducted a little 
+			investigation of that freighter, and 
+			do you know what I discovered?
+
+	Quark smiles.  He senses where this is going.
+
+					QUARK
+			That I was telling the truth?
+
+	Odo frowns.  He hates to admit it.
+
+					ODO
+			That's right.  I arrested the first 
+			officer and two of the crew.
+
+					QUARK
+			Congratulations, Constable, I knew 
+			you could do it.  Now if you don't 
+			mind I'm needed upstairs.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           4.
+
+2    CONTINUED:
+
+	Quark tries to step around him, but Odo blocks his path.
+
+					ODO
+			Hold on, I'm not finished with you.
+
+					QUARK
+			Really, Odo, sometimes I think there's 
+			no pleasing you.  I help you crack a 
+			notorious smuggling ring, yet you 
+			still insist on treating me like an 
+			enemy.
+
+					ODO
+			You are my enemy.
+
+					QUARK
+			Then how do you explain my helping 
+			you?
+
+	Odo's body tenses, that's exactly what's been bothering him.
+
+					ODO
+			That's just it, I can't explain it.
+
+					QUARK
+			It's simple, really.  I figured we'd 
+			been at each others' throats long 
+			enough.  It's time we called a truce.
+
+					ODO
+			A truce?  You must be joking.
+
+					QUARK
+			Ask that Subytt First Officer if I'm 
+			joking.  From now on, you and I are 
+			going to be friends.
+
+	Odo stares suspiciously at Quark
+
+					ODO
+			You're up to something.
+
+					QUARK
+			Now why would you say that?
+
+					ODO
+			Because you're always up to something.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           5.
+
+2    CONTINUED:	(2)
+
+					QUARK
+			I can see it's going to take time, 
+			but eventually you'll learn to trust 
+			me.
+
+					ODO
+			That'll be the day.
+
+	Odo LEAVES.  Rom, who's been listening, rejoins Quark.
+
+					QUARK
+				(very pleased with 
+				himself)
+			I don't think I can remember Odo 
+			looking quite so perplexed.
+
+					ROM
+			He's not alone.  Those Subytt 
+			smugglers were a potential source of 
+			great profit.
+
+					QUARK
+			Must I quote you the seventy-sixth 
+			Rule of Acquisition?
+
+					ROM
+				(searching his brain)
+			The seventy-sixth rule...
+
+					QUARK
+			"Every once in a while, declare 
+			peace."
+				(to Rom)
+			It confuses the hell out of your 
+			enemies.
+
+	Rom nods agreement, though he's not sure he understands that 
+	particular rule.
+
+3    NEW ANGLE
+
+	to include a FEMALE BOSLIC FREIGHTER CAPTAIN seated alone at 
+	a table by the stairs.
+
+					CAPTAIN
+			Hey Quark, how are your lobes?
+
+					QUARK
+			Tingling at the sight of you.
+
+	He sits down, distracted by her beauty.  All thoughts of 
+	Holosuite delights driven from his mind.  He notices her 
+	empty drink.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           6.
+
+3    CONTINUED:
+
+					QUARK
+			What will it be?  Another black hole?
+
+					CAPTAIN
+			Don't have the time.  Ship's about 
+			to pull out.  You know of anyone 
+			headed to Bajor?
+
+					QUARK
+			Ships go back and forth from there 
+			all the time.  Why?
+
+	The Captain holds up an elaborate Bajoran earring.
+
+					CAPTAIN
+			I promised someone I'd deliver this 
+			for them.  But it looks like I'm not 
+			going to make it there this trip.
+
+					QUARK
+			It's an earring.
+
+					CAPTAIN
+			I know it's an earring.  It was given 
+			to me by a maintenance worker on 
+			Cardassia Four.
+
+					QUARK
+				(interest piqued)
+			Are you saying a Cardassian gave you 
+			a Bajoran earring?
+
+					CAPTAIN
+				(nods)
+			He asked me to take it to Bajor.  
+			Said whoever I showed it to would 
+			understand.
+
+					QUARK
+				(wheels turning)
+			He said that?
+
+					CAPTAIN
+			Well, this is a Bajoran station, 
+			right?  There must be someone here 
+			who'll know what to do with it.
+
+					QUARK
+			Oh, there is.
+
+					CAPTAIN
+			Who?
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           7.
+
+3    CONTINUED:	(2)
+
+					QUARK
+			Me.
+
+	Quark plucks the earring out of her hands.  Gives a reassuring 
+	smile.
+
+4    INT. KIRA'S QUARTERS
+
+	KIRA, her tunic unbuttoned, stands before a Bajoran icon in 
+	silent meditation.  The DOORBELL CHIMES.
+
+					KIRA
+			Come in.
+
+	The door opens.  In steps Quark.
+
+					QUARK
+			Surprise.
+
+					KIRA
+			What do you want?
+
+	Quark's eyes are locked on her open tunic.
+
+					QUARK
+			I always wondered what your quarters 
+			looked like.
+
+	Kira buttons her tunic.
+
+					KIRA
+			That better not be your only reason 
+			for being here.
+
+	Quark scrutinizes her rather spartan living space.
+
+					QUARK
+			You don't entertain much, do you?
+
+					KIRA
+			I entertain a lot.  I just don't 
+			entertain you.
+
+	Quark indicates an adjoining room.  Kira disappears into 
+	another room.
+
+					QUARK
+			Let me guess, the bedroom.
+
+					KIRA (O.S.)
+			You take one step in here and I 
+			promise it'll be your last.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           8.
+
+4    CONTINUED:
+
+					QUARK
+			It could be worth it.
+
+					KIRA
+			You have five seconds to tell me 
+			what you want.
+
+					QUARK
+			Aren't you going to offer me a 
+			beverage?
+
+					KIRA
+			Five... four...
+
+					QUARK
+			Can we at least sit down?
+
+					KIRA
+			...three... two... one.
+
+	Kira comes out of the bedroom, moves toward Quark.  He backs 
+	away.
+
+					QUARK
+			Wait.
+
+	He holds up the earring.
+
+					QUARK
+			I brought you something...
+
+	Kira stops dead in her tracks, her eyes locked on the droplet.  
+	She slowly reaches out and takes it.
+
+					KIRA
+			Where did you get this?
+
+					QUARK
+			Is it valuable?
+
+	Kira grabs Quark by the collar.
+
+					KIRA
+				(urgent)
+			I said, where did you get it?
+
+					QUARK
+			From a Boslic Freighter Captain.  
+			She got it from a Cardassian.
+
+	She studies Quark, trying to decide if he's telling the truth.
+
+					KIRA
+			Where?
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - TEASER           9.
+
+4    CONTINUED:	(2)
+
+					QUARK
+			On Cardassia Four.  That's what she 
+			told me anyway.
+				(re: the earring)
+			Consider it a gift.
+
+	She lets him go.  Then, her mind made up, she EXITS out the 
+	door.
+
+5    ON QUARK
+
+	Glad she's no longer in his face.  And surprised that she's 
+	left him alone in her quarters.  He steps over to a dresser 
+	and begins to casually rummage through a drawer.
+
+6    NEW ANGLE
+
+	as the front door opens and Kira strides in.  She grabs Quark 
+	by the back of the neck and drags him into the hall.  And 
+	the door closes on the now empty quarters we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         10.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+7    INT. PROMENADE
+
+	SISKO is making his way through the street's hustle and bustle 
+	when he's stopped by a VOICE from above.
+
+					JAKE (O.S.)
+			Hey, Dad, wait up.
+
+	Sisko looks up to see --
+
+8    NEW ANGLE
+
+	JAKE double-timing it down the stairs from the second level.
+
+					JAKE
+			You got a minute?
+
+					SISKO
+			Sure.  What's up?
+
+	They head down the Promenade.
+
+					JAKE
+			I've got great news.
+
+					SISKO
+			You passed your algebra test?
+
+					JAKE
+			Better than that.
+
+					SISKO
+			You figured out how to hit Sandy 
+			Koufax's curve ball.
+
+					JAKE
+			No, even better.
+
+					SISKO
+			Better than hitting Koufax's curve?  
+			This I want to hear.
+
+					JAKE
+			You remember that Bajoran girl I 
+			told you about?
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         11.
+
+8    CONTINUED:
+
+					SISKO
+			The one with the great smile?
+
+					JAKE
+			That's right, Laira.  I decided to 
+			ask her out.
+
+	Sisko smiles.  Glad that his son includes him in these type 
+	of things.
+
+					SISKO
+			Good for you.  And now you've come 
+			to the old man for advice on what to 
+			say to her.
+
+					JAKE
+			Dad...
+
+					SISKO
+			The main thing is you can't be afraid 
+			of rejection...
+
+					JAKE
+			Dad, I already asked her out.  And 
+			she said yes.
+
+					SISKO
+			She did, well that's wonderful.
+
+					JAKE
+			I was just wondering if you had any 
+			ideas what we could do.  I was kinda 
+			thinking of taking her to the 
+			Holosuites.
+
+	That stops Sisko in his tracks.
+
+					SISKO
+			The Holosuites?  I don't think so.
+
+					JAKE
+			Why not?
+
+					SISKO
+			Because you're too young to take a 
+			girl to the Holosuites.
+
+					JAKE
+			Okay, then how about if I bring her 
+			to our quarters?
+
+					SISKO
+			No, no quarters.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         12.
+
+8    CONTINUED:	(2)
+
+					JAKE
+			We're just going to talk.
+
+					SISKO
+			You can talk in public.
+
+					JAKE
+			It's not the same.
+
+					SISKO
+			You want to talk?
+				(pointing to the 
+				Promenade's second 
+				level)
+			Take her upstairs.  That way you can 
+			talk and watch the ships go through 
+			the wormhole.
+
+					JAKE
+			That's boring.
+
+					SISKO
+			Since when?
+
+					JAKE
+			Since I started going out with girls.
+
+					SISKO
+			This is your first date.
+
+					JAKE
+			Yeah, and I don't want it to be my 
+			last.
+
+9    NEW ANGLE
+
+	to include Kira, who approaches Sisko.
+
+					KIRA
+			Commander, I need to speak with you.
+
+					SISKO
+			One moment, Major...
+
+					JAKE
+			Dad, I can see you're not ready to 
+			have this conversation.
+
+					SISKO
+			I'm not ready.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         13.
+
+9    CONTINUED:
+
+					JAKE
+			I'll just have to come up with some 
+			ideas on my own.  Really, don't worry 
+			about it.
+
+	He WALKS OFF.  Sisko watches him go.
+
+					SISKO
+				(trying to convince 
+				himself)
+			Who's worried?
+
+					KIRA
+				(interrupting his 
+				reverie)
+			Commander...
+
+	Sisko turns his attention to Kira.  He gestures for her to 
+	follow him.
+
+					SISKO
+			Join me, Major.
+
+10   INT. REPLIMAT (OPTICAL)
+
+	as Sisko and Kira ENTER.  Sisko approaches the beverage 
+	replicators.
+
+					SISKO
+				(ordering)
+			One Raktajino with a jacarine peel.
+
+	He looks over at Kira to see if she wants anything.
+
+					KIRA
+			Nothing for me.
+
+	The Raktajino APPEARS.  Sisko takes the cup and moves over 
+	to the food replicator.
+
+					SISKO
+				(ordering)
+			One icoberry torte.
+
+	As he waits for his order.
+
+					SISKO
+				(continuing)
+			So, what can I do for you, Major?
+
+	Kira leans forward, gets right to the point.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         14.
+
+10   CONTINUED:
+
+					KIRA
+			I need to borrow a runabout.
+
+					SISKO
+			What for?
+
+	Sisko removes his icoberry pie from the replicator (this 
+	time we don't see the optical).
+
+					KIRA
+				(smiles)
+			You really don't want to ask me that.
+
+					SISKO
+			It's too late.  I already have.
+
+					KIRA
+			Then you don't want to know the 
+			answer.
+
+11   NEW ANGLE
+
+	Sisko and Kira cross to a table.  They sit.
+
+					SISKO
+			Major, I can't loan you a Starfleet 
+			runabout without knowing where you 
+			plan on taking it.
+
+					KIRA
+				(fixing Sisko with 
+				her best level stare)
+			To Cardassia Four to rescue a Bajoran 
+			prisoner of war.
+
+	A beat.  Sisko sighs.
+
+					SISKO
+			You're right.  I wish you hadn't 
+			told me.
+
+	Kira shows Sisko the droplet.
+
+					KIRA
+			This earring was recently smuggled 
+			off the planet.
+				(points to part of 
+				the design)
+			See this?  It's the insignia of Li 
+			Nalas.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         15.
+
+11   CONTINUED:
+
+					SISKO
+				(surprised)
+			The resistance leader?
+
+					KIRA
+			The greatest we ever had.  His victory 
+			over Gul Zarale in hand-to-hand 
+			combat...
+
+					SISKO
+			I've heard the story, Major.  But 
+			wasn't he reported killed in action?
+
+					KIRA
+			The body was never found.
+				(pressing)
+			Look Commander, I wouldn't be asking 
+			this if I thought there was another 
+			way to rescue Li.  But Bajoran ships 
+			don't have the maneuverability or 
+			defensive capabilities to get me 
+			safely in and out of Cardassian 
+			territory.
+
+	Sisko ponders the earring.
+
+					SISKO
+			You're sure this is genuine?
+
+	Kira smiles.  She was expecting this.
+
+					KIRA
+			Dax found dermal residue on the 
+			backing.  A genetic analysis matched 
+			it to Li's DNA records.
+				(re: the earring)
+			It's genuine all right.
+
+					SISKO
+			Have you told the provisional 
+			government?
+
+					KIRA
+				(nodding)
+			I contacted three ministers.  Their 
+			responses were exactly what I 
+			expected.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         16.
+
+11   CONTINUED:	(2)
+
+					SISKO
+			In other words, they're unwilling to 
+			risk a war with Cardassia over an 
+			earring.
+				(a beat)
+			I can't say I blame them.
+
+					KIRA
+			Commander, we both know the 
+			provisional government is made up of 
+			political opportunists too busy 
+			fighting among themselves to care 
+			what happens to Bajor.
+				(a beat)
+			And since the loss of the Kai, the 
+			situation has only gone from bad to 
+			worse.  There are reports of factional 
+			fighting in half a dozen districts... 
+			religious riots have spread throughout 
+			the southern islands... Bajor needs 
+			a leader.  Someone the people will 
+			listen to.  Someone they can trust.
+
+					SISKO
+			And you think Li Nalas is that leader?
+
+					KIRA
+				(no trace of doubt)
+			I know he is.
+
+	Before Sisko can respond...
+
+					O'BRIEN'S COM VOICE
+			O'Brien to Sisko.
+
+					SISKO
+				(taps combadge)
+			Go ahead, Chief.
+
+					O'BRIEN'S COM VOICE
+			I think you and Odo had better join 
+			me in the Habitat Ring.  Level 
+			Thirteen, Section Four.  There's 
+			something you should see.
+
+					SISKO
+			We'll be right there.
+
+	But Kira isn't about to let him get away that easily.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         17.
+
+11   CONTINUED:	(3)
+
+					KIRA
+			So, do I get the runabout?
+
+	A beat.  Sisko wants to help, but he's also aware of the 
+	potential danger they would be risking.
+
+					SISKO
+			I'll have to think it over.
+
+12   CLOSE ON SISKO
+
+	faced with another tough decision.
+
+13   INT. HABITAT RING CORRIDOR
+
+	Odo, O'BRIEN and Sisko are examining graffiti scrawled across 
+	a wall; it's the Bajoran symbol modified in some ominous 
+	way.
+
+					O'BRIEN
+			I was on my way to Crossover Bridge 
+			Three to do some repair work on the 
+			field modulators.  I noticed this.
+
+					SISKO
+				(grim recognition)
+			It's the emblem of the Alliance for 
+			Global Unity.  They call themselves 
+			"The Circle."
+
+					O'BRIEN
+			"The Circle," huh.  Well, what gives 
+			them the right to go mucking up our 
+			station?
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT ONE         18.
+
+13   CONTINUED:
+
+					ODO
+			They're an extremist faction who 
+			believe in Bajor for Bajorans.  All 
+			other species are inferior and should 
+			be expelled from the planet.
+
+					SISKO
+			I understand this emblem has been 
+			appearing all over Bajor.
+
+					ODO
+			That's correct.  But this is the 
+			first time I've seen it here.
+
+					SISKO
+			I want to be informed immediately if 
+			it shows up anyplace else on the 
+			station.
+
+					ODO
+			Understood.
+
+	O'Brien stares at the drawing with undisguised hostility.
+
+					O'BRIEN
+			If they think scrawling a couple of 
+			signs is going to send us packing, 
+			they've got another thing coming.
+
+					SISKO
+			Right now they're just letting us 
+			know we're vulnerable.
+
+					ODO
+			I wouldn't be overly concerned, 
+			Commander.  This section is a low 
+			security area.
+
+					SISKO
+			As of now, Constable, there are no 
+			"low security areas" on this station.
+
+	Odo nods.  All three are aware that the tension level on DS9 
+	has just risen a notch.  And on this realization we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO         19.
+                            ACT TWO                             
+
+	FADE IN:
+
+14   INT. COMMANDER'S OFFICE
+
+	Sisko leaning back in his chair, lost in thought, lobbing a 
+	baseball into the air.  DAX ENTERS.
+
+					DAX
+			You wanted to see me, Benjamin?
+
+	Sisko tosses her the ball.
+
+					SISKO
+			Have a seat.
+
+	Dax sits.  Looks at the ball with amusement.
+
+					DAX
+			Am I to assume this conversation is 
+			going to be about baseball?
+
+					SISKO
+				(smiling)
+			Not this time.
+
+					DAX
+				(smiling right back)
+			Good.
+
+					SISKO
+			I thought you enjoyed talking about 
+			baseball.
+
+					DAX
+				(correcting him)
+			Curzon enjoyed it.  But not half as 
+			much as he led you to believe.
+
+	Dax tosses the ball back to him.
+
+					DAX
+			So what's on your mind, Benjamin.
+
+					SISKO
+				(beat)
+			I've been thinking about our mission 
+			here.  I look at the turmoil on Bajor 
+			and I see everything we fought for 
+			this past year starting to unravel.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO         20.
+
+14   CONTINUED:
+
+					DAX
+			I told you when we came here this 
+			was going to be a tough assignment.  
+			Of course, I didn't know it was going 
+			to be this tough...
+
+					SISKO
+			What if I told you I knew someone 
+			who could bring stability to Bajor.  
+			Someone who could unite the factions 
+			and give us a chance to do our job.
+
+					DAX
+				(smiling)
+			I'd say give Kira the runabout.
+
+	This catches Sisko off guard.
+
+					SISKO
+			How do you know about Kira wanting a 
+			runabout?
+
+					DAX
+				(simply)
+			She told me.
+
+					SISKO
+				(not pleased)
+			I thought this was supposed to be a 
+			covert mission.
+
+					DAX
+			I promise not to tell.
+
+					SISKO
+			All right, supposing I do help, and 
+			she does rescue Li Nalas.  What do 
+			we say to the Cardassians?
+
+					DAX
+			The question is, what do they say to 
+			us?  They swore they released all 
+			their Bajoran prisoners.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO         21.
+
+14   CONTINUED:	(2)
+
+	She rises, turns to leave.
+
+					SISKO
+			Dax...
+
+					DAX
+				(turns back)
+			Yes?
+
+					SISKO
+			You're sure Curzon didn't love 
+			baseball.
+
+					DAX
+				(grinning)
+			Positive.
+
+	And she EXITS.  Sisko leans back and tosses the ball 
+	back into the air.
+
+15   INT. OPS - CONTINUOUS
+
+	Regular crew.  Kira looks to Dax, gives her "I gave it my 
+	best shot" glance.  Just then Sisko EXITS from the Commander's 
+	Office.  He nods toward Kira who smiles triumphantly, then 
+	exits Ops for her quarters.  Sisko approaches engineering.
+
+					SISKO
+			Chief, Major Kira needs a runabout...
+
+					O'BRIEN
+				(with approval)
+			Then she will be going to Cardassia 
+			Four, after all.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO         22.
+
+15   CONTINUED:
+
+					SISKO
+				(not again)
+			How do you know about Cardassia Four?
+
+					O'BRIEN
+			She told me all about it.
+
+					SISKO
+			Is there anyone on this station she 
+			didn't tell?
+
+					O'BRIEN
+			I doubt she mentioned it to Quark.
+
+					SISKO
+			Well then, as far as Quark's 
+			concerned, she's going to Lamenda 
+			Prime to bring back mineral samples.
+
+					O'BRIEN
+			Very good, sir.
+
+					SISKO
+			Now, is there any way we can prevent 
+			the Cardassian sensors from picking 
+			up the runabout's signature?
+
+	O'Brien immediately rattles off an answer.
+
+					O'BRIEN
+			I could modulate the engine's power 
+			emissions, reconfigure the deflector 
+			shield grid, and install field buffers 
+			around the subspace emitter coil.  
+			By the time I'm done, the Cardies 
+			will think they're reading a Lissepian 
+			transport.
+
+					SISKO
+			I see you've already given this a 
+			bit of thought.
+
+					O'BRIEN
+				(faux surprise)
+			I suppose I have at that.
+
+	And as they share a smile...
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO        22A.
+
+15A  OMITTED
+
+16   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+17   OMITTED 
+
+18   INT. KIRA'S QUARTERS
+
+	Kira, wearing civilian clothes is just finishing up a meal.  
+	Door chimes.
+
+					KIRA
+			Come in.
+
+	Sisko and O'Brien ENTER.  O'Brien is in civilian clothes.
+
+					KIRA
+			Commander... Chief... I was just 
+			getting ready to leave.
+
+					SISKO
+			I just stopped by to wish you luck.
+				(a beat)
+			And to let you know that Chief O'Brien 
+			will be accompanying you on your 
+			mission.
+
+	Kira looks from Sisko to O'Brien.  Sees they're both 
+	serious...
+
+					KIRA
+			I don't think that's a good idea.  
+			Having a Federation officer along 
+			could cause complications for you 
+			later.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO         23.
+
+18   CONTINUED:
+
+					SISKO
+			I'm willing to risk that.
+				(a beat)
+			You're an excellent pilot, Major... 
+			but O'Brien here is better.
+				(smiling)
+			And I want to make sure I get my 
+			runabout back in one piece.
+
+	But Kira still isn't comfortable with the idea.
+
+					KIRA
+			I appreciate the offer.  But this is 
+			a Bajoran problem.
+
+					SISKO
+			I don't agree.  The truth is I need 
+			Li Nalas back on Bajor as much as 
+			you do.
+
+					O'BRIEN
+			Besides, I've seen how Cardassians 
+			treat their prisoners.  No one should 
+			have to suffer like that.
+
+					KIRA
+			If the Cardassians get their hands 
+			on us, we'll be the ones suffering.
+
+					O'BRIEN
+			They'll have to catch us first.
+
+	Kira realizes she's not going to be able to change their 
+	minds.
+
+					KIRA
+				(relents)
+			I suppose I could use the company.
+
+          DEEP SPACE: "The Homecoming" - 07/02/93 - ACT TWO         24.
+
+18   CONTINUED:	(2)
+
+	Sisko nods, glad Kira isn't going off on her own.
+
+19   INT. RUNABOUT - RIO GRANDE
+
+	as O'Brien slips into the seat beside Kira.
+
+					KIRA
+			You have the controls, Chief.
+
+					O'BRIEN
+			Right.
+
+	But there's something still on Kira's mind.
+
+					KIRA
+			Before we go, there's just one thing 
+			we need to clear up between us.
+
+					O'BRIEN
+			And what would that be?
+
+					KIRA
+			This mission can end only one of two 
+			ways.  Either we bring back Li 
+			Nalas... or we don't come back at 
+			all.
+
+	A beat.  O'Brien doesn't flinch.
+
+					O'BRIEN
+				(matter-of-fact)
+			Understood.
+
+	That's exactly what Kira was hoping to hear.
+
+					KIRA
+			Then take us out of here, Mister 
+			O'Brien.
+
+					O'BRIEN
+				(working panel)
+			Initializing launch sequence.
+
+20   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Runabout arcs away from the station.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        25.
+                           ACT THREE                            
+
+	FADE IN:
+
+21   INT. RUNABOUT - RIO GRANDE
+
+	Kira and O'Brien at their positions.
+
+					KIRA
+			How long until we reach Cardassia 
+			Four?
+
+					O'BRIEN
+			I'd estimate another thirty minutes.
+
+					KIRA
+				(reacting to panel)
+			Hold on... We're being scanned.
+
+	A concerned look passes between them.
+
+					O'BRIEN
+			Can you get a fix on the source?
+
+					KIRA
+				(off panel)
+			It's position is holding steady at 
+			bearing two-one-nine mark two-three.
+
+					O'BRIEN
+			It must be a navigational control 
+			post.  It's probably just a routine 
+			scan.
+
+					KIRA
+			We're being hailed.
+
+	That raises the tension in the cabin.
+
+					O'BRIEN
+			On the other hand we could be in 
+			serious trouble.
+
+					KIRA
+			They're repeating the hail.
+
+					O'BRIEN
+			We're on the edge of their scanner 
+			range.  That puts us out of visual 
+			contact.  I say we try and bluff 
+			'em.
+
+	A beat.  Then Kira nods agreement.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        26.
+
+21   CONTINUED:
+
+					KIRA
+				(working panel)
+
+	OPENING A CHANNEL
+
+					CARDASSIAN (V.O.)
+			This is Cardassian Navigational 
+			Control Post Twenty-Four.  Identify 
+			yourself.
+
+					KIRA
+			This is the Lissepian transport 
+			Martuk.
+
+					CARDASSIAN (V.O.)
+			According to our scan your subspace 
+			field emitters appear to be 
+			malfunctioning.
+
+	Kira turns off the communications link (as she will do 
+	whenever she doesn't want to be overheard by the Cardassians) 
+	and looks at O'Brien who is working to correct the problem.
+
+					O'BRIEN
+			The field buffers must be distorting 
+			our power signature.
+
+					KIRA
+				(re-opens comlink)
+			We've been having trouble with our 
+			phase modulators.  We're attempting 
+			to correct the problem.
+
+					CARDASSIAN (V.O.)
+			Do you require assistance?  We can 
+			dispatch a repair ship.
+
+					O'BRIEN
+			Bloody hell.  They want to help us.
+
+					KIRA
+				(on subspace)
+			Your offer is most appreciated, Post 
+			Twenty-Four.  But unnecessary.
+
+					CARDASSIAN (V.O.)
+			Are you certain?  Your power signature 
+			is still fluctuating.
+
+					O'BRIEN
+				(tight)
+			He's getting suspicious.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        27.
+
+21   CONTINUED:	(2)
+
+	A beat as Kira decides how to play it.
+
+					KIRA
+				(on subspace)
+			I believe we can correct the problem 
+			on our own.  Besides, Gul Marayn is 
+			waiting on Cardassia Four to receive 
+			my shipment of Rulot seeds.  Any 
+			delay could ruin the entire crop... 
+			and the Gul's mood.
+
+					CARDASSIAN (V.O.)
+			Understood.  You can put in for 
+			repairs after you deliver your cargo.
+
+					KIRA
+			My plan exactly.
+				(a beat; to O'Brien)
+			They've broken off their transmission.
+
+	They relax.
+
+					O'BRIEN
+			Tell me, Major, who's this Gul Marayn.
+
+					KIRA
+			Don't ask me.  I just made him up.
+
+	She smiles.
+
+22   EXT. SPACE - RUNABOUT - RIO GRANDE (OPTICAL)
+
+	arriving at Cardassia Four.
+
+23   INT. RUNABOUT - RIO GRANDE
+
+	O'Brien checking monitors.
+
+					O'BRIEN
+			We're in synchronous orbit above the 
+			Hutet Labor camp.
+
+	He works his console.
+
+					O'BRIEN
+			I've limited the bio-scan to detect 
+			only Bajoran lifeforms.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        28.
+
+23   CONTINUED:
+
+					O'BRIEN
+				(a beat)
+			Hold on.  I'm getting multiple 
+			readings.  There must be about a 
+			dozen Bajoran prisoners down there.
+
+					KIRA
+			Is there any way to beam up more 
+			than two at a time?
+
+					O'BRIEN
+			I'm afraid not.  And as soon as we 
+			beam up the first two all hell's 
+			gonna break loose in that camp.
+
+					KIRA
+			And there's no guarantee that Li 
+			will be one of the first two.
+				(a beat)
+			What's security like down there?
+
+					O'BRIEN
+			The compound's surrounded by a 
+			standard Cardassian forcefield.
+
+	Kira quickly reaches a decision.
+
+					KIRA
+			We'll have to land.  It's our only 
+			chance of getting them all out of 
+			there.
+
+					O'BRIEN
+			I'll find us a secluded spot to put 
+			down.
+
+	And as he works his console...
+
+24   EXT. HUTET LABOR CAMP - DAY (OPTICAL)
+
+	An arid, desolate plain.  Bajoran prisoners are breaking 
+	rocks in the hot sun (or some such grueling and ultimately 
+	meaningless task) as Cardassian overseers watch over them.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        29.
+
+25
+thru   OMITTED 
+27
+
+28   NEW ANGLE
+
+	A burly Cardassian OVERSEER is patrolling inside the perimeter 
+	of the Security Field.  He reacts as he spots something O.S.
+
+29   HIS POV
+
+	Kira and O'Brien headed his way.  Kira's blouse zipper is 
+	pulled down low enough to catch the eye.
+
+					KIRA
+				(sotto voce)
+			How do I look?
+
+					O'BRIEN
+			I doubt there's a Cardassian alive 
+			who could resist you.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        30.
+
+29   CONTINUED:
+
+					KIRA
+			I hope you're right.
+
+	As they EXIT frame...
+
+					O'BRIEN
+			So do I.
+
+30   ANGLE - THE PRISONERS
+
+	aware of the newcomers.  Among the prisoners is a tall, rangy, 
+	laconic Bajoran in his late forties.  This is LI NALAS.  Li, 
+	a man of great physical presence, has a quiet self-effacing 
+	Abraham Lincoln/Gary Cooper charisma.  He's intensely self-
+	conscious; but years of living with his reputation has taught 
+	him to hide his true feelings behind his public image.  
+	Standing beside him is his close friend BORUM.
+
+					LI
+				(re: O'Brien & Kira)
+			What's all this?
+
+					BORUM
+				(hope rising)
+			I'm not quite sure.
+
+31   ANGLE - KIRA AND O'BRIEN
+
+	as they approach the Overseer.
+
+					OVERSEER
+			Halt.
+
+	They stop a few feet from the security field.  O'Brien assumes 
+	a loud, overbearing manner.
+
+					O'BRIEN
+			We're here to see the prefect.
+
+					OVERSEER
+			What for?
+
+					O'BRIEN
+				(dripping innuendo)
+			She has an appointment with him.
+
+	The Overseer eyes Kira.  It's obvious he likes what he sees.
+
+					OVERSEER
+				(with sexual overtones)
+			I used to be stationed on Bajor.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        31.
+
+31   CONTINUED:
+
+					O'BRIEN
+			Then you know why the prefect doesn't 
+			want to be kept waiting.
+
+					OVERSEER
+			What would it cost me for an 
+			appointment.
+
+					KIRA
+			More than you can afford.
+
+					O'BRIEN
+				(ignoring her)
+			Two strips of gold-pressed latinum and 
+			she's all yours.
+
+					KIRA
+				(contemptuous)
+			He wouldn't know what to do with me.
+
+					OVERSEER
+				(to O'Brien)
+			She needs disciplining.
+
+					KIRA
+				(derisive laugh)
+			From a boy like you?  I don't think 
+			you're capable of it.
+
+	The Overseer waves O'Brien away.
+
+					OVERSEER
+			Step back.  I want to examine what 
+			I'm paying for.
+
+					O'BRIEN
+			Of course.  But no sampling the 
+			merchandise until the sale is 
+			completed.
+
+32   NEW ANGLE (OPTICAL)
+
+	The Overseer takes out a small Field Control Unit.  He points 
+	it at the invisible security field, illuminating a small 
+	portion which opens.
+
+					OVERSEER
+				(to Kira)
+			Come here.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        32.
+
+32   CONTINUED:
+
+	Kira enters the camp.  O'Brien tries to follow her inside 
+	but the Overseer hits a button and the field closes in front 
+	of him; separating him from Kira.
+
+33   NEW ANGLE
+
+	The overseer pulls Kira to him.
+
+					OVERSEER
+			Now, show me why you're worth two 
+			strips of gold press latinum.
+
+					KIRA
+			All right.
+
+	She reaches for the zipper of her blouse, then suddenly lashes 
+	out with a vicious forearm to the Overseer's face.  He 
+	staggers back.  Kira closes in, hits him again and he goes 
+	down.
+
+34   NEW ANGLE (OPTICAL)
+
+	as a second overseer rushes toward her.  Kira whips out a 
+	phaser and stuns him.  She picks up the Field Control Unit 
+	and opens a hole in the security field, allowing O'Brien to 
+	enter.
+
+35   ANGLE - O'BRIEN (OPTICAL)
+
+	as a third overseer fires at him.  O'Brien shoots him with a 
+	phaser.  There are no other Cardassians in sight.
+
+36   ANGLE ON O'BRIEN AND KIRA
+
+	as they hurry over to the prisoners.  Kira spots Li.
+
+					KIRA
+			Li Nalas?
+
+	Li is confused by the sudden turn of events.
+
+					LI
+			Who are you?
+
+					KIRA
+			Major Kira Nerys.  We've come to get 
+			you out of here.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        33.
+
+36   CONTINUED:
+
+					BORUM
+			The earring... you got it.
+
+					KIRA
+			Yes.
+
+					LI
+			I don't understand.  My earring was 
+			lost...
+
+					BORUM
+			No, I had it smuggled back to Bajor.
+
+					O'BRIEN
+			Gentlemen, I suggest you save this 
+			discussion for later.
+
+37   NEW ANGLE (OPTICAL)
+
+	As a phaser blast kills one of the Bajoran prisoners.  Li is 
+	also hit, a searing burn across his side.  Borum catches him 
+	as he falls.
+
+38   KIRA AND O'BRIEN'S POV (OPTICAL)
+
+	More Cardassian overseers are headed their way, firing as 
+	they come.
+
+39   BACK TO SCENE (OPTICAL)
+
+	Kira aims the control unit at the security field.  It opens.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        34.
+
+39   CONTINUED:
+
+					KIRA
+				(to the prisoners)
+			Come on.  We have a ship waiting.
+
+40   THE OVERSEERS
+
+	giving chase.
+
+41   NEW ANGLE (OPTICAL)
+
+	The prisoners are moving as fast as they can but the years 
+	of incarceration have taken their toll.  Kira and O'Brien 
+	bring up the rear, firing at the pursuing Cardassians, who 
+	are quickly gaining on them.
+
+					O'BRIEN
+				(to Kira)
+			We'll never make it at this rate.
+
+	Borum, supporting Li, and seven other prisoners fall back 
+	and wait for Kira and O'Brien.
+
+					BORUM
+				(to Kira)
+			Get Li to Bajor.
+				(pointing to three 
+				other prisoners)
+			We'll stay behind... hold them off 
+			until you reach your ship.
+
+					LI
+			No.  I won't allow it.
+
+					BORUM
+				(to Li)
+			Don't you see, we did this for you.
+				(to Kira)
+			Get him back safely.  That's all 
+			that matters.
+
+	A beat.  Kira hates to leave any of them behind.  But she 
+	knows he's right.
+
+					KIRA
+			You have my word.
+
+					BORUM
+			Then go.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        35.
+
+41   CONTINUED:
+
+	Kira nods her thanks as she hands her phaser to Borum.  
+	Then she's on her way with O'Brien, Li and the rest of the 
+	prisoners.  Borum, remaining behind with the others, fires at 
+	the advancing Cardassians.
+
+42   INT. RUNABOUT - RIO GRANDE
+
+	Kira, O'Brien, Li and the Bajorans pile in.  O'Brien eases 
+	Li into a chair.  Kira opens a 24th century first aid kit, 
+	zaps him with a sterilizing spray.  O'Brien takes the 
+	controls.
+
+					O'BRIEN
+			Ready to launch, Major.
+
+					KIRA
+			Not yet.  Some of the others still 
+			might make it.
+
+					O'BRIEN
+			Standing by.
+
+	O'Brien reacts to panel readings.
+
+					O'BRIEN
+			I'm picking up two Galor class  
+			warships entering orbit.  They 
+			should be overhead in one minute, 
+			forty-five seconds.
+
+					LI
+			Major, you can't leave those men 
+			behind.
+
+					O'BRIEN
+			One minute, thirty seconds.  If we 
+			don't leave now, Major, we never 
+			will.
+
+	Kira has to make the tough decision.
+
+					KIRA
+			Take us home, Chief.
+
+					O'BRIEN
+			Yes, sir.
+
+	He works the panels.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT THREE        36.
+
+43   EXT. SPACE - CARDASSIA FOUR
+
+	The Runabout streaks up and away from the planet.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         37.
+                           ACT FOUR                             
+
+	FADE IN:
+
+44   INT. AIRLOCK CORRIDOR
+
+	Bashir watching as the airlock gate slides open revealing 
+	Kira, who is supporting the injured Li.
+
+					KIRA
+			Careful, watch your step.
+
+	Bashir helps Li to step out of the airlock.
+
+					BASHIR
+			Easy now, I have you.
+
+					KIRA
+			He took a phaser hit.
+
+	Bashir does a quick scan of Li's injury as O'Brien begins 
+	bringing the rest of the prisoners out of the airlock.
+
+					LI
+			Doctor, these people have been 
+			prisoners for ten years.  They need 
+			medical attention...
+
+					BASHIR
+			And they'll get it.  But first we'd 
+			better see to this wound.
+				(hits combadge)
+			Bashir to Dax.
+
+					DAX
+			Go ahead, Doctor.
+
+	Bashir is holding on to Li.
+
+					BASHIR
+			I have a patient here requiring 
+			emergency treatment.  Beam us to the 
+			Infirmary.
+
+					DAX
+			Stand by.
+
+45   BASHIR AND LI (OPTICAL)
+
+	as they beam out.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         38.
+
+46   INT. COMMANDER'S OFFICE
+
+	The doors open and Kira strides in.
+
+					KIRA
+			Commander, I need to talk to...
+
+	She stops suddenly as she sees...
+
+47   KIRA'S POV (OPTICAL)
+
+	Sisko is in mid-conversation with GUL DUKAT, whose image 
+	appears on his monitor.
+
+48   NEW ANGLE (OPTICAL)
+
+	as both Sisko and Dukat look over at Kira.
+
+					SISKO
+			Ah, Major Kira, I'm glad you could 
+			join us.
+
+	Kira looks positively stricken... afraid she's implicated 
+	Sisko in the rescue mission.
+
+					KIRA
+				(to Sisko, trying to 
+				cover)
+			I'm sorry.  I didn't know you were 
+			busy.
+
+					SISKO
+			Apparently not.
+
+					KIRA
+			I'll just wait outside.
+
+	She turns to go.
+
+					SISKO
+			Hold on, Major.  There's something I 
+			want you to hear.
+				(a beat)
+			Go ahead, Dukat.
+
+	Kira prepares for the worst.
+
+					DUKAT
+			Major, I just informed Commander 
+			Sisko that the Cardassian High Command 
+			has issued a formal apology to the 
+			people of Bajor.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         39.
+
+48   CONTINUED:
+
+					KIRA
+			An apology...
+
+	Kira looks to Sisko in disbelief.
+
+					DUKAT
+			We had no idea that Bajoran prisoners 
+			were still being held on Cardassia 
+			Four.  Such detentions are a direct 
+			violation of supreme directive twenty-
+			six-forty-five.  I assure you the 
+			camp prefect will be chastised 
+			accordingly.
+
+					KIRA
+			What about the prisoners who were 
+			left behind?
+
+					DUKAT
+			They're already en route to Bajor.
+
+					KIRA
+				(one surprise after 
+				another)
+			Well... I look forward to their safe 
+			return.
+
+					DUKAT
+			I'm sure you do.  I hope our quick 
+			response to this unfortunate situation 
+			will prove once and for all that 
+			Cardassia is no longer your enemy.
+
+	The monitor goes blank as Dukat ends the transmission.
+
+					KIRA
+			Commander... ?
+
+					SISKO
+			I'm as surprised as you are.
+
+					KIRA
+			There must be a reason why they're 
+			being so accommodating.
+
+					SISKO
+			I'm sure there is.  But until we can 
+			figure out their motives, let's just 
+			be grateful that all the prisoners 
+			are being returned safely.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         40.
+
+48   CONTINUED:	(2)
+
+					SISKO
+				(smiling)
+			Congratulations on the success of 
+			your mission, Major.
+
+	Kira accepts the compliment, though she's still bothered by 
+	Dukat's generosity.
+
+49   INT. INFIRMARY
+
+	Bashir is administering a hypospray to Li's wound.
+
+					BASHIR
+			There, that should do it.
+				(steps back)
+			How do you feel?
+
+					LI
+			Better.
+
+					BASHIR
+			Luckily your wound wasn't as serious 
+			as it looked.  You've probably had a 
+			lot worse.
+
+					LI
+				(good humored)
+			Actually this one was bad enough.
+
+	Bashir is fascinated to be talking to such a great man.
+
+					BASHIR
+			You know, I've read all about your 
+			battle with Gul Zarale.
+
+					LI
+				(he's heard it all 
+				before)
+			That was a long time ago.
+
+					BASHIR
+			Well, I consider myself something of 
+			a history buff and I must say some 
+			of the campaigns you led against the 
+			Cardassians were truly remarkable 
+			examples of tactical...
+
+					LI
+			Doctor, I think you'll find that 
+			others enjoy talking about those 
+			days more than I do.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         41.
+
+49   CONTINUED:
+
+					BASHIR
+			Of course.
+
+				(impressed by Li's 
+				modesty)
+			I understand completely.
+
+	And as Bashir finishes up his examination...
+
+50   INT. PROMENADE
+
+	Sisko, Kira and Li walk along the street, passing Bajorans 
+	who stop and stare at Li.  Their reactions ranging from 
+	surprise, confusion, awe and joy.  It's as if JFK had survived 
+	Dallas and suddenly appeared on a public street 30 years 
+	later.  But for the moment Li is too lost in the sights of 
+	the Promenade to notice the attention that's building around 
+	him.
+
+					LI
+				(looking around)
+			Amazing.
+
+					KIRA
+			What is?
+
+					LI
+			Being here.
+				(to Sisko)
+			Years ago I worked in one of this 
+			station's ore processing plants.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         42.
+
+50   CONTINUED:
+
+					SISKO
+			I think you'll find that things have 
+			changed considerably.
+
+51   NEW ANGLE
+
+	as Odo comes out of security and joins them.
+
+					ODO
+			Commander, a transport carrying 
+			Minister Jaro has arrived from Bajor.
+
+					SISKO
+			Major, I think you should have the 
+			honor of welcoming him aboard.
+
+					KIRA
+			Thank you, Commander.
+
+	And with a nod to Li, she's off.
+
+52   ON LI
+
+	As he and Sisko continue their walk, he notices three Bajorans 
+	staring at him in rapt recognition.  Intensely uncomfortable 
+	under their scrutiny, he veers out of their path.
+
+53   INT. REPLIMAT
+
+	As Sisko leads Li over to the eatery.
+
+					SISKO
+			If you're hungry, the Replimat has 
+			some passable Bajoran food.
+
+	But all Li sees are the reactions of the Bajoran diners to 
+	his sudden appearance in their midst.
+
+					LI
+			Actually, I'm a bit tired.  I think 
+			I'd like to see my quarters.
+
+					SISKO
+			Of course.
+
+	But as Sisko turns to leave the Replimat, he becomes aware 
+	of the crowd that has begun to form around them.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         43.
+
+53   CONTINUED:
+
+					SISKO
+				(smiling)
+			It appears you've been recognized.
+
+	Li smiles back, but he's clearly not pleased to be the focus 
+	of all this attention.
+
+54   INT. AIRLOCK CORRIDOR
+
+	Kira meets MINISTER JARO and an aide at the airlock gate.
+
+					KIRA
+				(pleasant smile)
+			Minister Jaro.
+
+					JARO
+			Major...
+
+	Jaro's eyes search the corridor.
+
+					JARO
+			Where is he?
+
+					KIRA
+				(knowing he means Li)
+			He's on the Promenade with Commander 
+			Sisko.
+
+					JARO
+			And he's all right?
+
+					KIRA
+				(nodding)
+			Considering what he's gone through 
+			the last ten years.
+
+					JARO
+				(shaking his head in 
+				wonder)
+			Li Nalas... alive.  Who would have 
+			ever imagined...
+
+	They start down the corridor, the aide trailing behind them.
+
+					JARO
+			The prophets were kind to you today, 
+			Major.
+
+					KIRA
+			I'd say they were kind to all of us.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         44.
+
+54   CONTINUED:
+
+					JARO
+			You know your little adventure has 
+			made you some enemies in the Chamber 
+			of Ministers.
+
+	Jaro's tone implies he's not one of them.
+
+					KIRA
+			I'm not surprised.  All I did was 
+			risk my life...
+
+					JARO
+				(gently chiding)
+			What you did, Major, was declare war 
+			on Cardassia.  Thankfully they 
+			declined the invitation.
+
+					KIRA
+			I'd do it again if it meant bringing 
+			Li Nalas home.
+
+					JARO
+				(smiling)
+			I'm sure you would.  And though 
+			officially I have to warn you that 
+			the next time you disobey orders 
+			will mean the end of your military 
+			service... as a private citizen... I 
+			want to thank you for what you've 
+			done this day.
+
+					KIRA
+				(touched)
+			That's nice to hear.
+
+					JARO
+			Now, take me to see Li Nalas.
+
+	And as they EXIT frame...
+
+55   INT. PROMENADE - THE REPLIMAT
+
+	Sisko and Li have taken refuge in the Replimat as Odo and 
+	two N.D. security officers control the growing crowd of 
+	onlookers.
+
+					ODO
+			Let's move back, please.  No more 
+			pushing.
+
+					LI
+			I'm sorry about this, Commander.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         45.
+
+55   CONTINUED:
+
+					SISKO
+				(to Li)
+			I don't think they're going to leave 
+			until you say a few words.
+
+					ODO
+			I agree.
+
+					LI
+				(wishing there was 
+				some other way)
+			If that's what it takes...
+
+	Li steps forward.  The crowd quiets down.  Li is not 
+	comfortable standing before them, but his innate calm and 
+	dignity makes him an effective speaker.
+
+					LI
+			It's good to be free.
+
+	Hearing the great man speak brings an awed silence from the 
+	crowd.  We have a moment of absolute quiet.  Li allows himself 
+	a small almost rueful smile, then...
+
+					LI
+				(continuing)
+			It's good to know that Bajor is 
+			free.
+
+	Another beat of silence and then a wave of cheering starts 
+	to build.  It builds slowly, erupting finally into loud 
+	heartfelt cheers.  Then from out of the crowd we hear a voice 
+	rise above the shouting.
+
+					JARO
+			Yes, it is good to be free.
+
+56   NEW ANGLE
+
+	as Jaro and Kira push their way through the crowd.  Jaro 
+	stops in front of Li.  A beat as he stands there beaming 
+	with joy.
+
+					JARO
+			It really is you, isn't it.
+
+					LI
+				(simply)
+			I'm Li Nalas.
+
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR        45A.
+
+
+56   CONTINUED:
+
+					JARO
+			I'm Minister Jaro Essa and it's a 
+			great pleasure to welcome you home.
+
+					LI
+			Believe me, it's a pleasure to be 
+			here.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         46.
+
+56   CONTINUED:	(2)
+
+	Jaro stands in front of Li, visibly moved to be part of 
+	this momentous occasion... until the shouts of the crowd 
+	remind him he's still a politician.
+
+					JARO
+				(to Li, re: the crowd)
+			I hope you won't mind if I address 
+			the crowd.  After all, you can't 
+			expect a politician to pass up an 
+			opportunity like this...
+
+					LI
+			Go right ahead...
+
+	Jaro turns to the crowd.
+
+					JARO
+			Fellow Bajorans, I have only one 
+			thing to say to you today... To ask 
+			of you, really... Never forget this 
+			moment.  Because I promise you that 
+			years from now your children and 
+			your grandchildren will want to know 
+			what it was like the day Li Nalas 
+			returned to Bajor.
+
+	The crowd cheers.
+
+57   ANGLE SISKO
+
+	who looks over at Li, who seems gaunt and tired and 
+	surprisingly unhappy.
+
+58   INT. GUEST QUARTERS
+
+	Sisko and Li ENTER.  Away from the crowd Li's spirit seems 
+	to rise.
+
+					SISKO
+			I hope you'll find these quarters 
+			satisfactory.
+
+					LI
+			Commander, I just spent ten years in 
+			a Cardassian labor camp.  I'm just 
+			happy to have a moment's privacy.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         47.
+
+58   CONTINUED:
+
+					SISKO
+			Enjoy it while you can.  Judging 
+			from the crowd on the Promenade, a 
+			moment is all you're going to get.
+
+					LI
+				(subdued)
+			I thought they'd have forgotten me 
+			by now.
+
+					SISKO
+				(tongue in cheek)
+			It appears you were wrong.
+
+					LI
+			This morning I was a slave and tonight 
+			I'm a hero.
+
+					SISKO
+				(sympathetic)
+			It must seem a little overwhelming.
+
+	Li sits down.  His wound hurts, he's tired but he smiles 
+	wryly.
+
+					LI
+			I'll tell you what is overwhelming, 
+			Commander.  It's knowing that 
+			something I've waited for my whole 
+			life has finally happened.
+				(a beat)
+			The Cardassians are gone... we've 
+			won.
+				(a beat)
+			You've been there recently. What's 
+			it like, a free Bajor?
+
+					SISKO
+			I think you'll be pleased... for the 
+			most part.
+
+					LI
+			"Most part"?
+
+					SISKO
+			Bajor lacks strong leadership.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         48.
+
+58   CONTINUED:	(2)
+
+					LI
+				(thoughtful)
+			So that's what Major Kira meant.
+				(off Sisko's 
+				questioning look)
+			On the runabout, she told me my return 
+			would bring stability to Bajor.
+
+					SISKO
+			She's right.  Bajor could use your 
+			help.  And frankly so could I.
+				(sympathetic)
+			But before you go off saving Bajor, 
+			I suppose you could use a good night's 
+			sleep.
+
+					LI
+			Sounds like I'm going to need it.
+
+	Sisko EXITS.  Li leans back in his chair and stares at the 
+	ceiling, looking every bit like he's still in prison.
+
+59   INT. QUARK'S
+
+	It's late.  The bar is closed.  Quark and Rom are seated at 
+	a table.  Rom watches as Quark divides up their weekly latinum 
+	earnings.
+
+					QUARK
+			One for you... six for me.  One for 
+			you... six for me.
+
+	Quark glances up to see a morose Rom staring wistfully at 
+	his thin pile of latinum.
+
+					QUARK
+			Would you stop looking so glum.  
+			Payday is supposed to be a time of 
+			joy.
+
+					ROM
+			I know, brother.  But every week 
+			it's the same thing.  Six for you 
+			and only one for me.  It's not fair.
+
+					QUARK
+				(thoughtful)
+			You're right.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         49.
+
+59   CONTINUED:
+
+					ROM
+			I am?
+
+					QUARK
+			Yes, it's not fair.
+
+					ROM
+			It's not?
+
+					QUARK
+			Absolutely not.
+
+	He resumes divvying up the loot.
+
+					QUARK
+			One for you, and seven for me.  
+			One for you, and seven for me.  Is 
+			that better?
+
+	Rom gets up and heads for the door.
+
+					QUARK
+				(continuing)
+			And where are you going?
+
+					ROM
+			To bed.  To dream of an equal share 
+			of profits.
+
+	He EXITS.
+
+					QUARK
+				(muttering to himself)
+			Dream on.
+				(resumes counting)
+			One for you, seven for me.
+
+	He hears a noise behind him.
+
+					QUARK
+			What is it now?
+
+	He turns to see...
+
+60   QUARK'S POV
+
+	Three masked figures headed toward him.  Quark rises.
+
+					QUARK
+			I'm sorry, but we're closed.  You 
+			fellows on your way to a party?
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FOUR         50.
+
+61   NEW ANGLE
+
+	Without speaking, one of the figures grabs Quark's arms while 
+	another stuffs a gag in his mouth.
+
+61A  CLOSE ON THIRD ASSAILANT
+
+	who is carrying a small metal device (it should look like 
+	the 24th century version of a cattle prod).  He hits a button 
+	on the handle of the device.
+
+61B  CLOSE ON DEVICE
+
+	as it glows ominously.
+
+62   CLOSE ON QUARK
+
+	eyes widening in fear, he struggles harder to fight free, 
+	but to no avail.
+
+62A  BACK TO THIRD ASSAILANT
+
+	Though we can't really make out his features, we know he's 
+	smiling, as he advances on Quark.
+
+63   WIDER ANGLE
+
+	As a terrified Quark is forced onto the floor and out of 
+	frame.  The third intruder bends over him, and thrusts the 
+	brand home.  As we hear the SOUND OF SIZZLING FLESH and 
+	Quark's muffled howl of pain...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         51.
+                           ACT FIVE                             
+
+	FADE IN:
+
+64   INT. QUARK'S
+
+	Quark is being treated by Bashir, who uses a dermal 
+	regenerator to heal the burn on his forehead.  Sisko and 
+	Kira stand nearby.
+
+					BASHIR
+				(patience wearing 
+				thin)
+			Hold still.
+
+					QUARK
+				(panicked)
+			Doctor, will there be a scar?
+
+					BASHIR
+			I said, hold still.
+
+					QUARK
+			Does that mean yes?
+
+					BASHIR
+			No.  This dermal regenerator should 
+			repair the damaged tissue as well as 
+			prevent any scarring.
+
+	Quark sighs in relief.
+
+					BASHIR
+				(continuing)
+			Unless, of course, you don't hold 
+			still.
+
+					SISKO
+				(to Quark)
+			Did you recognize any of your 
+			assailants?
+
+65   NEW ANGLE
+
+	to include Odo and Li as they ENTER the bar.
+
+					QUARK
+			They were wearing masks.
+
+					KIRA
+			And you're sure they didn't say 
+			anything?
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         52.
+
+65   CONTINUED:
+
+					QUARK
+			Not a word.  They just came in...
+				(indignant)
+			... branded me and left.
+
+					ODO
+			The Promenade is usually deserted at 
+			this hour.  No one saw them enter or 
+			leave.
+
+					SISKO
+			Constable, I want all security 
+			personnel on full alert.
+
+					ODO
+			I've already seen to it.
+
+					LI
+				(to Kira)
+			Who's responsible for this?
+
+					KIRA
+			An extremist group from Bajor, who 
+			call themselves The Circle.
+
+					LI
+				(surprised)
+			Bajorans did this?
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         53.
+
+65   CONTINUED:	(2)
+
+					SISKO
+			I'm afraid so.
+
+					LI
+			But why?
+
+					KIRA
+			Their goal is to rid Bajor of all 
+			non-Bajorans.
+
+					LI
+			Hasn't the provisional government 
+			tried to stop them... ?
+
+					KIRA
+				(with contempt)
+			Oh, they've tried.  But the truth is 
+			the Circle is more organized than 
+			the government.
+
+					QUARK
+			Well, the government better get 
+			organized, because I intend to sue 
+			them for financial compensation.
+
+					SISKO
+				(in no mood for Quark's 
+				antics)
+			Not now, Quark.
+
+	Quark decides not to push it.
+
+					SISKO
+				(to Li)
+			People have grown impatient with the 
+			government's inability to get things 
+			done, so they turn to the Circle.
+
+					KIRA
+			We need someone to speak out against 
+			these reactionaries.  Someone the 
+			people will listen to.
+
+	A beat.  It's clear to Li that they mean him.  He nods 
+	thoughtfully.
+
+65A  NEW ANGLE
+
+	Bashir turns off the dermal regenerator and steps away from 
+	Quark.  Quark's forehead looks Ferengi normal.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE        53A.
+
+65A  CONTINUED:
+
+					BASHIR
+			There, that should do it.
+
+	Quark stands, running his hands over his head, checking for 
+	any remaining burn tissue.
+
+					QUARK
+			How do I look?
+
+					KIRA
+			As handsome as ever.
+
+					QUARK
+				(look of relief)
+			Really.
+
+	He grins happily.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         54.
+
+66   INT. SISKO'S QUARTERS
+
+	Sisko ENTERS.  It's late.  He's tired.  The first thing he 
+	sees is a mopey Jake lounging on the couch.
+
+					SISKO
+			Jake?  What are you doing up?
+
+					JAKE
+			I couldn't sleep.
+
+					SISKO
+			So, how was your date?  It was 
+			tonight, wasn't it?
+
+					JAKE
+			It was supposed to be.  She couldn't 
+			make it.
+
+	Sisko sits down, ready to give his son a fatherly pep talk.
+
+					SISKO
+			It happens.
+
+					JAKE
+			She said her father wouldn't let her 
+			go out with me.
+
+					SISKO
+			Why not?
+
+					JAKE
+			Because I'm not a Bajoran.
+
+	Sisko sighs in weary frustration.
+
+					SISKO
+			That's not much of a reason.
+				(a beat)
+			Jake... there are things happening 
+			on Bajor... bad things... I'm sorry 
+			you've become a victim of them.  You 
+			don't deserve it.  Nobody does.
+
+	He leans over and pulls Jake to him, kisses him on the head, 
+	holds on to him tightly.  A beat, then...
+
+					SISKO
+				(continuing)
+			Now it's time for bed, okay?
+
+	Jake gets up and heads for his room.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         55.
+
+66   CONTINUED:
+
+					JAKE
+			Night, Dad.
+
+67   ANGLE SISKO (OPTICAL)
+
+	He gets up, checks a pitcher on the table, sees that it's 
+	full, and pours himself some juice.  But before he can 
+	drink...
+
+					COM VOICE
+			Commander, there's a call for you 
+			from the Tygarian freighter docked 
+			on Upper Pylon Two.
+
+					SISKO
+			Put it through.
+
+	He goes over to the monitor.  A TYGARIAN OFFICER appears on 
+	screen.
+
+					TYGARIAN
+			Commander Sisko, I am Romah Doek, 
+			executive officer of the Nanut.  We 
+			were preparing to depart the station 
+			for the Gamma Quadrant when we 
+			discovered a Bajoran citizen trying 
+			to board our ship disguised as a 
+			crew member.
+
+	The Tygarian reaches off camera and pulls a solemn Li Nalas 
+	into frame.
+
+					TYGARIAN
+			I was hoping you'd know what to do 
+			with him.
+
+	Push in on Sisko's stunned reaction.
+
+68   INT. COMMANDER'S OFFICE
+
+	Li stands before Sisko who's seated at his desk.
+
+					SISKO
+			The Nanut isn't scheduled to return 
+			from the Gamma Quadrant for two years.
+
+					LI
+			Actually I planned on staying there 
+			considerably longer.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         56.
+
+68   CONTINUED:
+
+					SISKO
+			I don't follow.
+
+	Li studies Sisko.  It's as if he's sizing him up, deciding 
+	how much to tell him.
+
+					LI
+			Commander, I'm going to tell you a 
+			story.  You may even believe it.
+
+					SISKO
+			I'm listening.
+
+	Li launches into his story.  He paces around the office, 
+	lost in memory, speaking with a quiet urgency that compels 
+	belief.
+
+					LI
+			During the occupation I was a member 
+			of a minor resistance cell, the name's 
+			unimportant.  One day, this was in 
+			the mountains surrounding the Sahving 
+			valley, we were ambushed by Cardassian 
+			troops.  Only three of us managed to 
+			escape.  We hid in the hills for two 
+			days, but finally the lack of food 
+			and water forced us down into the 
+			valley.  We made our way to a ridge 
+			above a small lake.  As I was the 
+			only one still carrying a phaser, I 
+			went ahead to scout for the enemy.  
+			Halfway down the embankment I slipped 
+			and went sprawling on my back down 
+			to the edge of the lake just as a 
+			huge Cardassian emerged from the 
+			water.  He must have just finished 
+			bathing.  He stood there frozen in 
+			surprise, dressed only in his 
+			underwear, shivering from the cold.  
+			I lay there looking up at him too 
+			stunned to move.  It was only when 
+			he reached over for a phaser rifle 
+			lying across his clothes on a nearby 
+			rock that I realized I was still 
+			holding my own phaser.  I shot him, 
+			his body collapsed on top of me, 
+			which is how my companions found us 
+			a moment later.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE         57.
+
+68   CONTINUED:	(2)
+
+					LI (Cont'd)
+			One of them recognized him as Gul 
+			Zarale, responsible for the massacre 
+			of a half-dozen Bajoran villages.  I 
+			tried to tell them what happened, 
+			but they had already convinced 
+			themselves that I killed Zarale during 
+			some kind of savage struggle.
+				(a beat)
+			Which is what they insisted on telling 
+			every Bajoran we met.  And no matter 
+			how hard I denied it, the story 
+			continued to spread until it seemed 
+			all of Bajor had heard it.  Soon 
+			every victory won by the resistance 
+			was attributed to my leadership.  
+			Stories of my courage, my brilliance, 
+			my daring grew more and more 
+			unbelievable... yet people insisted 
+			on believing them.  My reputation 
+			even followed me into the labor 
+			camp... my presence alone seemed to 
+			inspire my fellow prisoners... and 
+			all I had done was shot an unarmed 
+			Cardassian in his underwear.  I'll 
+			never forget that look on his face 
+			as he died.  He was so... embarrassed.
+				(a beat; ruefully)
+			Commander, I did what Bajor needed 
+			me to do.  I've allowed myself to be 
+			a slave to my reputation all these 
+			years.  Isn't that enough?
+
+					SISKO
+			They still need you.
+
+					LI
+			But I'm not the man they think I am.
+
+					SISKO
+				(thoughtful)
+			Perhaps not.
+				(smiling)
+			But Bajor doesn't need a man, it 
+			needs a symbol, and that's what 
+			you are.
+
+	Sisko steps out from behind his desk and approaches Li.
+
+         DEEP SPACE: "The Homecoming" - 07/02/93 - ACT FIVE        57A.
+
+68   CONTINUED:	(3)
+
+					SISKO
+			No one's asking you to lead troops 
+			into battle, or to kill a hundred 
+			Cardassians with your bare hands.
+				(a beat)
+			But I saw you in front of that crowd 
+			on the Promenade.  They look at you 
+			and they see strength, and honor, 
+			and decency.
+
+       DEEP SPACE: "The Homecoming" - REV. 07/09/93 - ACT FIVE      58.
+
+68   CONTINUED:	(4)
+
+					SISKO
+			They look at you and they see the 
+			best of themselves.
+
+					LI
+			But it's all based on a lie.
+
+					SISKO
+			No.  It's based on a legend.  And 
+			legends are as powerful as any truth.  
+			Bajor still needs that legend.
+				(with simple finality)
+			It needs you.
+
+69   ON LI
+
+	unable to deny Sisko's words.
+
+70   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+71   INT. OPS
+
+	Everyone at their post.
+
+					DAX
+			The Yelikan transport is prepared 
+			for departure.
+
+					KIRA
+				(working panel)
+			Opening mooring clamps on Docking 
+			Bay Six.
+
+72   NEW ANGLE
+
+	Minister Jaro and Li step off the Turbolift.
+
+					JARO
+				(to Sisko)
+			Commander...
+
+					SISKO
+			Minister Jaro... Li...
+
+					JARO
+			Navarch Li, as of yesterday's 
+			unanimous assembly vote.
+
+       DEEP SPACE: "The Homecoming" - REV. 07/09/93 - ACT FIVE      59.
+
+72   CONTINUED:
+
+					KIRA
+			Congratulations.
+
+					LI
+				(self-deprecating 
+				humor)
+			Navarch.  There's never been one 
+			before.  They didn't feel any existing 
+			title was adequate.  So they created 
+			a new one for me.
+
+					SISKO
+				(to Li)
+			I hear that thousands of people showed 
+			up to greet your ship when it arrived 
+			on Bajor.
+
+					LI
+			It was quite a celebration.  I wish 
+			I could have stayed longer.
+
+					SISKO
+			What stopped you?
+
+	Jaro steps forward to take control of the situation.
+
+					JARO
+			The Navarch needed to return here to 
+			assume his new post.
+				(a beat)
+			He's been made the Bajoran Liaison 
+			Officer to Deep Space Nine.
+
+	Surprised looks from our crew.
+
+					SISKO
+				(re: Kira)
+			I already have a liaison officer.
+
+					JARO
+			Not anymore.  Major Kira is no longer 
+			assigned to this station.  She's 
+			been recalled to Bajor.
+
+73   ON KIRA
+
+	She can't believe it.  She turns to Sisko.
+
+74   SISKO
+
+	clearly angered by the news.  And as his frown deepens we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                      TO BE CONTINUED...                         
+
+

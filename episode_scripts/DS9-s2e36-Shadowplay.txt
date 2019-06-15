@@ -1,0 +1,3157 @@
+
+                              
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                         "Shadowplay" 
+                 (fka "Persistence of Vision") 
+                          #40512-436 
+                              
+                          Written by 
+                      Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                        Robert Scheerer 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        December 9, 1993
+
+     STAR TREK: DS9 - "Shadowplay" - REV. 12/10/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Shadowplay" 
+                             CAST 
+
+          SISKO                    BAREIL
+          KIRA                     COLYUS
+          DAX                      RURIGAN
+          O'BRIEN                  TAYA
+          ODO                      FEMALE VILLAGER
+          QUARK                    MALE VILLAGER
+          BASHIR                   
+          JAKE                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     YADERAN VILLAGERS
+          BAJORAN CIVILIAN         
+
+     STAR TREK: DS9 - "Shadowplay" - REV. 12/10/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Shadowplay" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          DOCKING RING CORRIDOR         
+          INFIRMARY                     RUNABOUT
+          KIRA'S QUARTERS               
+          OPS                           ALIEN PLANET
+          PROMENADE                     
+          QUARK'S                       YADERAN SETTLEMENT
+          REPLIMAT                      
+          SISKO'S QUARTERS              YADERAN OUTSKIRTS
+
+        RUNABOUT - ORINOCO              EMPTY PLAIN
+
+        PROTECTOR'S OFFICE            
+
+  STAR TREK: DS9 - "Shadowplay" - REV. 12/10/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Paradise" 
+                      PRONUNCIATION GUIDE 
+
+          ALDEBERAN                al-DEB-uh-ron
+          ANETRA                   ah-NET-rah
+          BAJOR                    BAY-jor
+          BAREIL                   buh-RILE
+          BOLIAN                   BOH-lee-ahn
+          BRINDA                   BRIN-dah
+          CARDASSIA                car-DASS-ee-uh
+          COLYUS                   COAL-ee-us
+          DEPNEN                   DEP-nen
+          FREYLA                   FRAYE-la
+          GARAK                    GAIR-uck
+          GHERGHER                 GERR-gerr
+          HARRID                   HAIR-id
+          HEDRIKSPOOL              HED-rick-spool
+          ILVIAN                   ILL-vee-un
+          JUMJA                    JUM-juh
+          KATTERPOD                KATT-er-pod
+          KONO                     KO-no
+          LYSIA ARLIN              LIE-see-ah AR-lin
+          MANWARING                MAN-war-ing
+          MERRUK                   MER-uk
+          MONRA                    MON-rah
+          PRYLAR RHIT              PRIE-lar RIT
+          RELLIKETH                RELL-ih-keth
+          RURIGAN                  RUR-ih-gan
+          SEELEE                   SEE-lee
+          SINGHA                   SING-uh
+          STREK                    STREK
+          TAYA                     TAY-uh
+          VEDEK                    VE-dik
+          YADERA                   yah-DER-ah
+          YADERAN                  yah-DER-ahn
+
+          DEEP SPACE: "Shadowplay" - REV. 12/16/93 - TEASER          1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                             "Shadowplay"                              
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. RUNABOUT (OPTICAL)
+
+	The Orinoco traveling at impulse.
+
+					DAX (V.O.)
+			Science Officer's Log, Stardate 
+			47603.3.  Commander Sisko has assigned 
+			me to investigate an unusual particle 
+			field detected on the other side of 
+			the wormhole.  Odo has come along as 
+			he often does on Gamma Quadrant 
+			missions, hoping to find a clue to 
+			his origin.
+
+2    INT. RUNABOUT
+
+	DAX is piloting the runabout, while running a series of scans 
+	and regaling ODO with an involved and, to Odo, pointless 
+	story.
+
+					DAX
+			So you see... Ensign Manwaring has 
+			spent the last two weeks avoiding 
+			the assay office because he thought 
+			that Freyla was in love with 
+			Lieutenant Strek, but all the time, 
+			Strek was seeing Security Officer 
+			Seelee and Freyla was waiting for 
+			Manwaring to ask her out.
+
+					ODO
+			Officer Seelee has seemed... 
+			distracted at work lately.
+				(a beat)
+			I'm going to have to talk to her 
+			about this when I get back to the 
+			station.
+
+					DAX
+				(reproachful)
+			Odo, I didn't tell you that story to 
+			get Seelee in trouble.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - TEASER             2.
+
+2    CONTINUED:
+
+					ODO
+			Frankly, Lieutenant, I fail to see 
+			any point in your story at all, except 
+			perhaps to illustrate the foolish 
+			humanoid preoccupation with romantic 
+			coupling.
+
+					DAX
+			The point of the story is that 
+			sometimes we don't recognize true 
+			love even when it's staring us right 
+			in the face.
+
+					ODO
+				(sarcastic)
+			How fascinating.
+
+					DAX
+			Let me give you another example... 
+			You know Lysia Arlin?
+
+	It's more a statement than a question.
+
+					ODO
+			The Bolian woman who runs the Jumja 
+			kiosk.
+
+					DAX
+			I've noticed she's been making a lot 
+			of visits to the Security Office 
+			lately.
+
+					ODO
+			She has a cousin who's interested in 
+			a career in law enforcement.
+
+					DAX
+				(not believing that 
+				excuse for a second)
+			You don't say.
+
+	Odo stares at Dax for a beat and then realizes what she's 
+	hinting at.
+
+					ODO
+			Are you implying that Lysia Arlin is 
+			interested in me?
+
+	Dax smiles.  That's exactly what she's implying.
+
+					ODO
+			Ridiculous... I would have noticed.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - TEASER             3.
+
+2    CONTINUED:	(2)
+
+					DAX
+				(triumphant)
+			Exactly my point.
+
+					ODO
+			You must be mistaken.
+
+					DAX
+			How can you be so sure?
+
+					ODO
+			Because women don't react to me in 
+			that manner.
+
+					DAX
+				(delicately)
+			Are you telling me that you've never 
+			had a... female friend?
+
+					ODO
+			I consider Major Kira a friend.
+
+					DAX
+			That isn't what I meant.  I'm talking 
+			about... an intimate friendship.
+
+	Odo gets the drift.  He instantly becomes very uncomfortable.
+
+					ODO
+			That's a very personal question.
+
+					DAX
+			I'm sorry, but after seven lifetimes, 
+			the impersonal questions aren't much 
+			fun anymore.
+
+					ODO
+			Why is it that whenever you do 
+			something socially unacceptable, you 
+			blame it on being a Trill?
+
+					DAX
+				(playful)
+			Why is it that whenever you get 
+			flustered, you start sounding like 
+			you're conducting a police 
+			investigation?
+
+	Odo harumphs.  Luckily, before Dax can press any further, 
+	one of the displays on her panel comes to life.  Odo and Dax 
+	turn their attention to the controls.
+
+          DEEP SPACE: "Shadowplay" - REV. 12/10/93 - TEASER          4.
+
+2    CONTINUED:	(3)
+
+					DAX
+			Looks like we found that particle 
+			field.
+				(mild surprise)
+			They're Omicron particles.
+
+					ODO
+			Is that unusual?
+
+					DAX
+			Omicron particles are incredibly 
+			rare.  They can only be created by 
+			certain types of matter/anti-matter 
+			reactions.
+				(off monitor)
+			The field seems to be coming from 
+			the second planet in this system.  
+			Let's go in a little closer.
+
+3    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	The Orinoco changes course.
+
+4    INT. RUNABOUT
+
+	Odo and Dax consult the Runabout sensor readouts.
+
+					DAX
+			That's strange.  The particles are 
+			concentrated in one small valley.  
+			And look at these field 
+			fluctuations...
+
+					ODO
+				(looks)
+			Totally non-random.
+
+					DAX
+			Someone or something must be 
+			manipulating the field.
+
+	Odo checks another set of sensors.
+
+					ODO
+			Sensors aren't picking up any life 
+			forms.
+
+          DEEP SPACE: "Shadowplay" - REV. 12/10/93 - TEASER          5.
+
+4    CONTINUED:
+
+					DAX
+			The particle field could be 
+			interfering with the sensors.
+				(gets up)
+			We'd better beam down and take a 
+			look.
+
+5    EXT. YOSHADRAN SETTLEMENT - NIGHT
+
+	Odo and Dax walk into the center of an alien village (having 
+	just beamed in off-camera) and approach a complex cylindrical 
+	structure, probably some kind of generator, covered with 
+	panels, circuitry and flashing diodes.  The surrounding 
+	village is hard to make out at night, but when we see it in 
+	the daylight, the architecture is distinctly non-human, yet 
+	open and inviting.  Dax tries to take readings with her 
+	tricorder.
+
+					DAX
+			I'm still getting a lot of 
+			interference.  The particle field 
+			must be blocking the tricorder 
+			functions.
+
+	Dax moves the tricorder around until it's pointed toward the 
+	generator.
+
+					DAX
+			The interference seems to be coming 
+			from here.
+				(re: the generator)
+			This must be the source of the field.  
+			It's probably some kind of matter/anti-
+			matter reactor.
+
+					ODO
+			Lieutenant, I suggest we leave before 
+			we're discovered.
+
+					DAX
+				(still studying 
+				generator)
+			Give me another minute.
+
+	As they are talking, we hear the sounds of voices in the 
+	distance.  Beams of light cut the darkness.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - TEASER            5A.
+
+6    NEW ANGLE
+
+	As first one, then another, then a half-dozen humanoid aliens, 
+	equipped with portable lights, emerge from the darkness.  
+	The aliens look frightened and surprised.
+
+					ODO
+				(ironic)
+			Take all the time you want.
+
+	One of the aliens (COLYUS) aims a phaser-like weapon at Odo 
+	and Dax.  And as Odo and Dax react.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT ONE            6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+7    INT. QUARK'S
+
+	It's after hours and QUARK's alone in the bar, sitting at a 
+	Dabo table, occasionally giving the wheel a halfhearted 
+	spin.  There's a satchel on the table next to him.
+
+	Quark hears a CHIME and looks up.
+
+8    NEW ANGLE
+
+	To include the bar's front door, which is closed.  A shadowy 
+	figure can be seen through the window.
+
+					QUARK
+				(to himself)
+			It's about time.
+				(louder)
+			Enter.
+
+	The door opens and the figure steps in, still hard to make 
+	out.
+
+9    ANGLE ON QUARK
+
+	As he picks up the satchel and moves toward the door.
+
+					QUARK
+				(continuing)
+			Where have you been?  I've been 
+			waiting hours...
+
+	He trails off as the shadowy figure steps into the light.  
+	It's KIRA.
+
+					QUARK
+				(not who he was 
+				expecting)
+			Major?
+				(polite)
+			I'm sorry.  We're closed.  You'll 
+			have to come back in the morning.
+
+	Quark tries to shoo her out of the bar.  Kira doesn't budge.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT ONE            7.
+
+9    CONTINUED:
+
+					KIRA
+			I didn't come here for a drink.
+				(cold)
+			I thought you might like to know... 
+			your cousin Kono just tried to come 
+			aboard the station...
+
+					QUARK
+				(feigned surprise)
+			Kono?  Here?  What an unexpected 
+			pleasure.
+
+					KIRA
+			He's gone, Quark.  When we tried to 
+			talk to him, he beamed onto a 
+			departing Tellarite freighter.
+
+					QUARK
+			There must be some mistake... Why 
+			would Kono be coming here?
+
+					KIRA
+			I wondered the same thing myself.  
+			So I did some checking.  Your cousin's 
+			wanted for robbing a museum on 
+			Cardassia Five.  My guess is that he 
+			thought someone here would help him 
+			sell the merchandise.
+
+					QUARK
+			Outrageous.  You have no proof of 
+			that.
+
+					KIRA
+			Quark, get this into that twisted 
+			little brain of yours... if you 
+			thought you were going to get away 
+			with anything while Odo's gone, think 
+			again.  I'm watching you.
+
+					ARK
+			Major, you make it sound like you 
+			don't like me.
+
+	Kira can't believe Quark's incredible understatement.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT ONE            8.
+
+9    CONTINUED:	(2)
+
+					KIRA
+				("Are you crazy?")
+			Don't like you?
+				(dispassionate)
+			You collaborated with the Cardassians, 
+			you cheat your customers, and you're 
+			a danger to this station.  I don't 
+			just not like you.  I... despise 
+			you.
+
+	She leaves.
+
+					QUARK
+			I'm sorry I mentioned it.
+
+9A   OMITTED
+
+10   INT. SISKO'S QUARTERS
+
+	SISKO and JAKE, both in night clothes, are having a late 
+	night snack.
+
+					JAKE
+			A job?  What do I need a job for?
+
+					SISKO
+			You're fifteen years old.  It's time 
+			you started taking on a little 
+			responsibility.
+				(trying another 
+				approach)
+			Look... Nog works, doesn't he?
+
+					JAKE
+				(begrudgingly)
+			Yeah.
+
+					SISKO
+			And you're almost as old as he is.  
+			I had a job at your age.  It was a 
+			terrific experience.
+
+					JAKE
+				(giving in)
+			All right.  I'll talk to Nog and see 
+			if he can get me a job at Quark's.
+
+					SISKO
+			I was thinking more along the lines 
+			of helping out Chief O'Brien.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT ONE          9.
+
+10   CONTINUED:
+
+					JAKE
+				(not thrilled)
+			Chief O'Brien?
+
+					SISKO
+			You like Chief O'Brien, don't you?
+
+					JAKE
+			He's okay... but I don't know anything 
+			about engineering.
+
+					SISKO
+			This is the perfect opportunity to 
+			learn.  Besides... it'll look great 
+			on your application to Starfleet 
+			Academy.
+
+	Which really sells it for Sisko, if not for Jake.
+
+					JAKE
+				(halfhearted)
+			Okay, I'll give it a try.
+
+					SISKO
+				(supportive smile)
+			That's all I ask.
+
+11
+thru   OMITTED
+12
+
+13   EXT. YADERAN SETTLEMENT - NIGHT
+
+	Re-establishing.
+
+14   INT. PROTECTOR'S OFFICE - NIGHT
+
+	Dax and Odo sitting across a desk from Colyus, the Yaderan 
+	colony's Protector, a combination mayor and sheriff.  The 
+	office is equipped with an array of alien tech equipment and 
+	Colyus is at work at a device that looks like a computer 
+	console, basically ignoring them.
+
+					ODO
+			Are you going to just sit there all 
+			night, or are you going to explain 
+			why you're holding us.
+
+	Colyus smiles and studies them for a bit.  He's middle-aged 
+	and a little overweight, friendly and soft-spoken by nature, 
+	and deceptively low key.
+
+
+      DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT ONE 10-11.        
+
+14   CONTINUED:
+
+					COLYUS
+			You say you're from the other side 
+			of the galaxy?
+
+					DAX
+			That's right.
+
+					COLYUS
+				(shaking his head in 
+				wonderment)
+			Amazing.  Our colony has never had 
+			visitors before, and now... we have 
+			two.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT ONE         12.
+
+14   CONTINUED:	(2)
+
+					DAX
+			We didn't mean to intrude.  In fact, 
+			we didn't even know there was a 
+			village here until we beamed down.  
+			So if it's all the same to you... 
+			we'll be on our way.
+
+	She starts to get up.  Colyus gestures for her to wait.
+
+					COLYUS
+			I'm afraid it's not that simple.
+
+	Colyus looks at Dax and Odo expectantly.  Odo recognizes the 
+	tactic.
+
+					ODO
+			Are we being accused of some kind of 
+			crime?
+
+					COLYUS
+			Have you committed one?
+
+					DAX
+				(offended)
+			We just arrived here.
+
+					COLYUS
+			So you keep saying.
+
+					DAX
+			If you want, you can check our ship's 
+			logs... they'll prove it to you.
+
+					COLYUS
+			Logs can be tampered with.
+				(turns to Odo)
+			You should know that... after all, 
+			you claim to be a Security Officer.
+
+					ODO
+			I am a Security Officer and I've had 
+			enough of this.  If we were guilty, 
+			we wouldn't even be here right now.  
+			I'll prove it.
+
+	He hits his communicator.
+
+					ODO
+				(to combadge)
+			Computer, one to beam up.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT ONE         13.
+
+14A  NEW ANGLE (OPTICAL)
+
+	As Odo DEMATERIALIZES.  Colyus reacts, grabbing his weapon.
+
+					DAX
+				(smiling)
+			Don't worry.  He'll be back.
+
+	Just then, Odo RE-MATERIALIZES.
+
+					DAX
+			What did I tell you?
+
+					COLYUS
+				(to Odo)
+			Interesting... you disappearing like 
+			that.  I've got twenty-two people 
+			who've disappeared without a trace.
+
+					ODO
+				(intrigued)
+			Twenty-two people missing?  Did they 
+			all disappear at the same time?
+
+					COLYUS
+			No.  It started in the fall.  But 
+			the last victim vanished six hours 
+			ago.
+
+					DAX
+			Six hours ago, we weren't even in 
+			this system.  If you want, you can 
+			accompany us back to our station.  
+			They'll verify everything we've told 
+			you.
+
+	Colyus considers the situation, then puts his weapon down.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT ONE           14.
+
+14A  CONTINUED:
+
+					ODO
+			Do you have any other suspects?
+
+	Colyus smiles wearily.
+
+					COLYUS
+				(defending himself)
+			You were my only ones.  I'm not saying 
+			everyone here is perfect.  We have 
+			some petty thefts, an occasional 
+			fight.  But kidnapping... or murder?  
+			We've never had anything like that 
+			before.
+
+					ODO
+			I see.  So naturally, when we 
+			arrived...
+
+					COLYUS
+			Naturally.
+
+					ODO
+				(theorizing)
+			I remember reading a report about a 
+			similar series of disappearances on 
+			Brinda Five.  Half the population of 
+			a small village vanished.
+
+					COLYUS
+				(very interested)
+			Did they ever find them?
+
+					ODO
+			As I recall, they'd been transported 
+			off the planet by Orion traders to 
+			work as forced laborers in their 
+			mining camps.
+				(a beat)
+			Have you scanned the area for signs 
+			of transporter activity?
+
+					COLYUS
+			It was the first thing I tried.  But 
+			I didn't find anything.
+
+	Colyus once again sizes up Odo and Dax.
+
+					COLYUS
+				(continuing)
+			I've been protector here for almost 
+			ten years.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT ONE         15.
+
+14A  CONTINUED:	(2)
+
+					COLYUS
+			And I like to think I'm pretty good 
+			at my job.  People trust me to solve 
+			their problems.  But whoever's behind 
+			these disappearances is a lot smarter 
+			than I am.  I have to admit, I'm 
+			starting to get desperate.
+
+					ODO
+			Maybe what you need is a little help.
+
+	Colyus grins, thankful for the offer to help.
+
+15   EXT. YADERAN SETTLEMENT - FRONT OF RURIGAN'S HOUSE
+
+					NIGHT
+			Dax, Odo, and Colyus approach the 
+			front of the house.  An elderly 
+			Yaderan man (RURIGAN) stands alone 
+			on the porch, looking out over the 
+			central square, lost in thought.
+
+					COLYUS
+				(calling to him)
+			Rurigan.
+
+	Rurigan looks down.  He's a craggy-faced old man with a blunt 
+	and combative manner.
+
+					RURIGAN
+				(examines Dax and Odo)
+			So these are the strangers I've heard 
+			about.  Shouldn't they be in a cell.
+
+					COLYUS
+			I'm satisfied they have nothing to 
+			do with the disappearances.  In fact, 
+			Odo here is a Security Officer.  
+			He's going to try to help us.
+
+					RURIGAN
+				(to Odo)
+			And how do you plan on doing that?
+
+					ODO
+			I understand your daughter was the 
+			latest victim.  When was the last 
+			time you saw her?
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT ONE         16.
+
+15   CONTINUED:
+
+					RURIGAN
+			This morning, at first meal.  But 
+			Taya says she saw her in her 
+			workroom... around midday.
+
+					ODO
+			Taya?
+
+					RURIGAN
+			My granddaughter.
+				(turns to Colyus)
+			Colyus... Anetra's gone.  Just like 
+			the others.  We're never going to 
+			find them.
+
+					ODO
+			How can you be so sure?
+
+					RURIGAN
+			Let's just say I haven't been proven 
+			wrong yet.
+
+					DAX
+			I'd like to scan the area again for 
+			transporter activity, in case you 
+			missed something.
+
+					COLYUS
+			Go right ahead.
+
+	Dax activates her tricorder.
+
+					DAX
+				(off tricorder)
+			I still can't get a clear reading.  
+			The Omicron particles put out by the 
+			reactor are creating too much 
+			interference.
+
+					COLYUS
+			It must be your equipment... our 
+			scanners never have any trouble.
+
+	Colyus takes out a small portable sensing device, the alien 
+	equivalent of a tricorder, and activates it.
+
+					DAX
+			Certain kinds of transporters leave 
+			behind a residual electrostatic 
+			charge.  If we could check Anetra's 
+			workroom...
+
+	Colyus looks to Rurigan, who nods.  Colyus gestures toward 
+	the door and he and Dax EXIT into the house.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT ONE         17.
+
+15   CONTINUED:	(2)
+
+	Odo hangs back.
+
+					ODO
+			If you don't mind, I'd like to talk 
+			to your granddaughter.
+
+					RURIGAN
+			Last time I saw her she was across 
+			the square.  I'll take you to her.
+
+16   EXT. ANOTHER PART OF YADERAN SETTLEMENT - NIGHT
+
+	An alien girl (TAYA) sits alone on a stairway, absentmindedly 
+	playing with an alien toy which vaguely resembles a large 
+	top.  Taya's about nine, and looks lost and forlorn.  She 
+	hears a noise... a footstep or some movement... and looks up 
+	and sees...
+
+17   ODO AND RURIGAN
+
+	walking toward her.  Odo's face is hidden by the darkness.
+
+					RURIGAN
+			Taya?
+
+	Rurigan steps into the light.  Odo follows and the beam of 
+	harsh light illuminates his face, making it look even more 
+	bizarre and unreal.
+
+18   ON TAYA
+
+	As she reacts to Odo's strange appearance, shying away.
+
+19   RESUME SCENE
+
+	Odo can't help but notice the girl's reaction.  Rurigan 
+	notices it, too.
+
+					RURIGAN
+			Don't be afraid, Taya.  He's a friend 
+			of Protector Colyus.  He just wants 
+			you to answer some questions.
+
+					TAYA
+			Do I have to?
+
+					RURIGAN
+			Not if you don't want to.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT ONE           18.
+
+19   CONTINUED:
+
+	Odo glances at Rurigan, having hoped for a little more 
+	support.  He turns to the girl and tries to talk to her as 
+	gently as possible.
+
+					ODO
+			But it would help if I could talk to 
+			you about your mother's disappearance.
+
+	Taya looks even more forlorn.
+
+					TAYA
+			She hasn't disappeared.  She'll be 
+			back.
+
+	Odo is very uncomfortable with the situation, but feels he 
+	has to push on.
+
+					ODO
+			The last time you saw your mother... 
+			did she seem... upset about anything?  
+			Nervous maybe, or worried?
+
+					TAYA
+			She was fine.
+				(to Rurigan, pleading)
+			When will she come home?
+
+					RURIGAN
+			I don't know, Taya.
+
+	He puts a protective arm around her and she buries her head 
+	in his side.
+
+					RURIGAN
+			Let's go.  It's time for bed.
+
+					ODO
+			I'd like to ask a few more questions.
+
+					RURIGAN
+			It can wait 'til morning.
+
+20   ANGLE ON ODO
+
+	watching Rurigan escort his despondent granddaughter away.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT ONE           19.
+
+20   CONTINUED:
+
+	As she's leaving, Taya looks back at Odo almost as if 
+	accusing him of causing her all this pain.  Hold on Odo's 
+	reaction, then...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         DEEP SPACE: "Shadowplay" - REV. 12/16/93 - ACT TWO         20.
+                            ACT TWO                             
+
+	FADE IN:
+
+A21   INT. OPS (FORMERLY SCENE 11)
+
+	O'BRIEN's at work in the pit; N.D.s man the other stations.  
+	Sisko and Jake step off the Turbolift into Ops.  Jake is no 
+	longer wearing one of his typical jumpsuits.  Instead, he 
+	wears loose-fitting work clothes.
+
+	Sisko sees O'Brien at work in the pit.
+
+					SISKO
+			Chief.
+
+	O'Brien looks up and notices Sisko and Jake.
+
+					SISKO
+				(re: Jake)
+			Here's that new apprentice we 
+			discussed.
+
+	O'Brien smiles.  He and Sisko have obviously already talked 
+	about this.
+
+					O'BRIEN
+			Yes, sir.
+				(climbs out of the 
+				pit)
+			Welcome aboard.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/16/93 - ACT TWO        20A.
+
+A21   CONTINUED:
+
+					O'BRIEN
+			Let's get to work.  I was just about 
+			to run a diagnostic on the primary 
+			system core.
+
+	O'Brien leads Jake away.  Sisko watches with mixed feelings 
+	about sending his son off to his first day at work.  He's 
+	proud, but he also realizes something is being lost here.  
+	His son is becoming a man.
+
+					SISKO
+				(calling after them)
+			Mister Sisko.
+
+	Jake turns around, surprised to hear his father address him 
+	as a fellow crewmember.
+
+					SISKO
+				(an afterthought)
+			I almost forgot.
+
+	He hands Jake a small object he's been holding in his hand.  
+	It's a COMBADGE.
+
+					SISKO
+			For you.
+
+	Jake takes the combadge and looks at it with a mixture of 
+	surprise and awe.
+
+					JAKE
+				(doesn't know what to 
+				say)
+			Thanks, Dad.
+
+	Sisko nods in acknowledgement, playing the role of commander 
+	instead of father.
+
+					SISKO
+				(dismissive)
+			It's standard equipment for all 
+			station personnel.
+
+B21   ANGLE ON JAKE (FORMERLY SCENE 12)
+
+	Who looks back at his dad, then puts on the combadge and 
+	follows O'Brien.  Once Jake's back is turned, Sisko drops 
+	his commander role and smiles proudly at his son.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT TWO        20B.
+
+21   INT. PROMENADE
+
+	In long shot, we see Quark wheel and deal with a Bajoran 
+	N.D. civilian.  Pull back to:
+
+22   INT. INFIRMARY
+
+	Kira and BASHIR standing in the doorway to the Infirmary, 
+	looking out at the Promenade.
+
+					BASHIR
+			Let me get this straight, Major.  
+			You want me to spy on Quark for you?
+
+					KIRA
+			I wouldn't call it spying, exactly.  
+			I just thought you could, you know... 
+			keep an eye on him while Odo's away.  
+			When you're not busy.
+
+	Bashir doesn't need much coaxing.
+
+					BASHIR
+			It's no problem, Major.
+
+					KIRA
+			Then you'll do it?
+
+					BASHIR
+			I look forward to it.  Garak's been 
+			lecturing me on surveillance 
+			techniques.  This will give me a 
+			chance to try some of them out.
+
+	She gives him a grateful smile as her combadge comes to life.
+
+					SISKO'S COM VOICE
+			Sisko to Kira.
+
+					KIRA
+				(to combadge)
+			This is Kira.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT TWO           21.
+
+22   CONTINUED:
+
+					SISKO'S COM VOICE
+			Major, I thought you might like to 
+			know, we've received word that Vedek 
+			Bareil is coming aboard the station.
+
+					KIRA
+			Coming aboard?  When?
+
+					SISKO'S COM VOICE
+			His ship just arrived at Docking Bay 
+			Twelve.
+
+	Kira reacts.  She's pleasantly surprised.
+
+23   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	With a Bajoran ship in port.
+
+24   INT. DOCKING RING CORRIDOR
+
+	Kira escorts BAREIL out of the docking ring airlock.  She's 
+	genuinely glad to see him, but there's a slight hint of an 
+	underlying nervousness.
+
+					KIRA
+			I wish you'd given us a little more 
+			notice.  We could've arranged a formal 
+			reception.
+
+					BAREIL
+				(smiles)
+			Exactly what I wanted to avoid.
+
+	There's a subtle difference in Bareil this time.  Where as 
+	before we've only see him "on duty," now he's a little more 
+	relaxed, more down to earth, maybe even a little vulnerable.  
+	Kira notices it, too.
+
+					KIRA
+			What brings you to the station?
+
+					BAREIL
+			Prylar Rhit invited me to speak at 
+			the station's shrine.
+				(a beat)
+			And to be honest, I've been looking 
+			for an opportunity to come see you.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT TWO           22.
+
+24   CONTINUED:
+
+					KIRA
+			Really?
+				(surprised but pleased)
+			I'm honored.
+
+	Which isn't exactly the reaction he wanted.
+
+					BAREIL
+			Honored?  Actually I was hoping you'd 
+			be happy to see me.
+
+					KIRA
+			Oh, I am.
+				(a beat)
+			Very happy.
+
+	He smiles as they walk off together.
+
+25   INT. PROMENADE
+
+	Kira and Bareil emerge onto the Promenade, and continue their 
+	now inaudible conversation as they join the steady stream of 
+	pedestrians.
+
+26   ANGLE ON QUARK
+
+	Watching the two of them together and smiling in self-
+	satisfaction.
+
+27   EXT. ALIEN PLANET (OPTICAL)
+
+	With the runabout in orbit.
+
+28   INT. RUNABOUT
+
+	Dax is at work at the controls.  Odo ENTERS from the back.
+
+					DAX
+			You're out of your bucket early today.
+
+					ODO
+			My regenerative cycle rarely varies.  
+			There's no reason to stay "in-the-
+			bucket" any longer than I have to.
+				(looks down at the 
+				monitors)
+			Have you found anything?
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT TWO         23.
+
+28   CONTINUED:
+
+					DAX
+			Not a thing.  There're no other ships 
+			in orbit... no other settlements on 
+			the planet... and no power source 
+			except the reactor...
+
+					ODO
+			So you're sure the woman wasn't 
+			transported out of her workroom?
+
+					DAX
+			It's too early to rule out anything, 
+			but Colyus and I couldn't find any 
+			residual electrostatic charge.
+				(a beat)
+			What about the little girl.  Did she 
+			see anything?
+
+					ODO
+				(uncomfortable)
+			I'm not sure yet.  I wasn't able to 
+			get much out of her last night.  
+			I'll try again today.
+				(reflective)
+			I'm afraid I'm not very good with 
+			children.
+
+					DAX
+				(mild surprise)
+			You're around children all the time 
+			on the Promenade.
+
+					ODO
+			Being around children and 
+			communicating with children are two 
+			entirely different things.
+
+					DAX
+				(wryly)
+			I'll let you in on a little secret, 
+			Odo... Children are just like adults, 
+			only smaller.
+
+					ODO
+				(doesn't buy it)
+			I'll keep that in mind.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT TWO         24.
+
+29   EXT. YADERAN SETTLEMENT - DAY
+
+	The village in daylight is a much less threatening, much 
+	more tranquil environment.  The Yaderan villagers are going 
+	about their daily business, going off to work, shopping, 
+	etc.
+
+30   NEW ANGLE
+
+	To find Odo and Dax making their way through the settlement 
+	to the area where Odo met Taya the night before.
+
+	Odo and Dax spot Taya, back at the stairs.  She and two other 
+	Yaderan children are playing with Taya's top.
+
+					DAX
+			I'll be with Colyus if you need me.
+				(mock concern)
+			Good luck.
+
+	Dax leaves.  Odo harumphs.
+
+31   NEW ANGLE
+
+	As Odo approaches Taya.
+
+					ODO
+				(formal)
+			Hello, Taya... Remember me?  We met 
+			last night?
+
+	Taya nods.
+
+					TAYA
+				(withdrawn)
+			You wanted to ask me questions.
+
+	Her friends leave as Odo sits down next to her.
+
+					ODO
+			That's right.  About your mother.  I 
+			understand you were the last one to 
+			see her.
+
+					TAYA
+			I guess.
+
+	It's clear she really doesn't want to talk about it, but Odo 
+	refuses to give up.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/16/93 - ACT TWO         25.
+
+31   CONTINUED:
+
+					TAYA
+				(continuing; innocent 
+				curiosity)
+			What happened to your face?
+
+	Odo's surprised.  That was the last thing he's expecting 
+	Taya to ask about.
+
+					ODO
+			Nothing "happened" to it.  I'm a 
+			shape-shifter... I just... don't do 
+			faces very well.
+
+	Taya just looks perplexed.
+
+					ODO
+				(trying to explain)
+			I have the ability to change my shape 
+			to look like other things.
+
+					TAYA
+			You mean you're a changeling?
+
+					ODO
+				(glad she understands)
+			That's right.
+
+					TAYA
+				(skeptical)
+			There's no such thing as changelings.  
+			They're make believe.  Everyone knows 
+			that.
+
+					ODO
+			I'm not make believe.
+
+					TAYA
+			All right... then let me see you 
+			change into something.
+
+					ODO
+			Maybe later.  Right now I feel like 
+			talking.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/16/93 - ACT TWO        25A.
+
+31   CONTINUED:	(2)
+
+					TAYA
+			If I were a changeling, I'd change 
+			shape all the time.  Everyone would 
+			want to be my friend.
+
+	Odo harumphs.
+
+					ODO
+			I wish it were that easy.
+
+					TAYA
+			Why wouldn't it be?
+				(sees Odo's reluctance)
+			If I have to answer your questions, 
+			then you have to answer mine.
+
+	Odo frowns.  She's got him in a corner.
+
+					ODO
+			When I was younger, people were always 
+			asking me to change shape for them.  
+			They'd pretend to be my friends, but 
+			all they wanted was to see me become 
+			a chair... or an animal... None of 
+			them ever really cared about me.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT TWO         26.
+
+31   CONTINUED:	(3)
+
+					TAYA
+			Maybe they were scared of you.
+
+					ODO
+			Some of them probably were.
+
+	Taya looks at Odo a long time, as if trying to make a decision 
+	about him.
+
+					TAYA
+				(reassuring him)
+			I'm not afraid of you.
+
+					ODO
+			I'm glad to hear that.
+
+					TAYA
+			Were your parents changelings, too?
+
+	There's something about the simplicity and genuine curiosity 
+	behind Taya's questions that disarms Odo.
+
+					ODO
+			I never knew my parents.
+				(a beat)
+			I've been looking for them a long 
+			time.
+
+					TAYA
+			My father died when I was four.  I 
+			don't remember him very well.
+				(sad)
+			The last time I saw my mother, she 
+			was in her workroom... making 
+			pottery... But when I went to get 
+			her for midday meal... she was gone.
+
+					ODO
+			How did she act, when you last saw 
+			her?
+
+					TAYA
+			Happy.  She was making a vase for 
+			Mister Depnen, the baker.  He really 
+			likes my mother so he always saves 
+			us the best loaves of greenbread.
+
+					ODO
+			Did your mother ever go anyplace 
+			before... on a trip... a vacation?
+
+         DEEP SPACE: "Shadowplay" - REV. 12/16/93 - ACT TWO         29.
+
+31   CONTINUED:	(4)
+
+					TAYA
+				(shakes her head)
+			We don't go on trips.
+
+					ODO
+			Never?
+
+					TAYA
+			We don't leave the valley.
+
+					ODO
+			Why not?
+
+					TAYA
+				(thinks it's a dumb 
+				question)
+			Nobody ever leaves the valley.  
+			Everything we need is right here.
+
+					ODO
+				(intrigued)
+			I see.
+
+					TAYA
+				(wistfully)
+			My mother's never coming back, is 
+			she?
+
+					ODO
+			Why do you say that?
+
+					TAYA
+			That's what grandfather told me.
+
+	Taya's on the verge of tears.  Odo reaches out and tentatively 
+	puts his hand on the girl's shoulder.
+
+					ODO
+				(trying to comfort 
+				her)
+			Taya, I don't know where your mother 
+			is, but I promise you... I'm going 
+			to do everything I can to find her 
+			and bring her back to you.
+
+	Taya nods, blinking away the tears.  She looks up at Odo 
+	with a child's trust and hope.
+
+            DEEP SPACE: "Shadowplay" - 12/09/93 - ACT TWO           28.
+
+32   ANGLE ON ODO
+
+	Odo sees how much this girl is depending on him and wants to 
+	give her some more assurances, but he's not sure how.  Finally 
+	he gives her a reassuring smile.
+
+	Taya smiles back.  Odo's surprised.  That was easier than he 
+	thought, and as we hold on this warm moment, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Shadowplay" - REV. 12/16/93 - ACT THREE        29.
+                           ACT THREE                            
+
+	FADE IN:
+
+33   INT. REPLIMAT
+
+	O'Brien and Jake are sitting at one of the tables.  O'Brien 
+	has an assortment of isolinear rods spread out on the table 
+	and is going over them with Jake.
+
+					O'BRIEN
+			Okay, one more time, these are all 
+			isolinear rods.  The ones with the 
+			white labels contain data relating 
+			to engineering system controls.  The 
+			red labeled ones are for library 
+			and information storage.  The blue 
+			ones are... ?
+
+	Jake stares at the isolinear rods.  It's still a foreign 
+	language to him.
+
+					JAKE
+				(defeated)
+			I'm never going to get this.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT THREE        30.
+
+33   CONTINUED:
+
+					O'BRIEN
+			Give yourself some time.  I didn't 
+			get a handle on this stuff until 
+			almost a year after I joined 
+			Starfleet.
+				("no big deal")
+			It's not like your going off to the 
+			Academy tomorrow.
+
+	O'Brien meant to give Jake encouragement, but his remark has 
+	exactly the opposite effect.  Jake looks even more morose.
+
+					O'BRIEN
+			What's wrong?
+
+					JAKE
+			Nothing.  It's just... why does 
+			everyone assume I'm going to go to 
+			the Academy?
+
+					O'BRIEN
+				(surprised)
+			You want to go... don't you?
+
+					JAKE
+				(getting it off his 
+				chest)
+			Not really.
+
+					O'BRIEN
+			Does your father know?
+
+					JAKE
+			He wouldn't understand.
+
+	Jake looks pretty glum.
+
+					O'BRIEN
+			I know how you feel.  You know what 
+			my dad wanted me to be?  A musician.
+
+	Jake looks up in disbelief.
+
+					O'BRIEN
+				(continuing)
+			It's true.  I was going to be a cello
+			player.  He made me practice every 
+			day.  I got to be pretty good.
+
+           DEEP SPACE: "Shadowplay" - 12/09/93 - ACT THREE          31.
+
+33   CONTINUED:	(2)
+
+					O'BRIEN
+			When I was seventeen, my father even 
+			sent a recorded audition to the 
+			Aldeberan Music Academy.
+
+					JAKE
+				(perking up)
+			What happened?
+
+
+					O'BRIEN
+			I got in.  It was the happiest day 
+			of his life.  I didn't know how to 
+			tell him I didn't want to go.  So 
+			two days before I was due to leave, 
+			I went into town and signed up for 
+			Starfleet.
+
+					JAKE
+			What did your dad do?
+
+					O'BRIEN
+			He was furious.
+				(a beat)
+			But once he calmed down a little, he 
+			saw how much I wanted to join.  
+			Nowadays, when I go home, he 
+			introduces me as...
+				(imitates his father, 
+				with pride)
+			"My son, Senior Chief Specialist 
+			Miles Edward O'Brien."
+				(smiles at the memory)
+			The point is, you've got to live 
+			your own life.
+
+					JAKE
+			I don't want to disappoint my dad.
+
+					O'BRIEN
+			Your father's not a bad guy.  He'll 
+			come around.  Just give him time.
+
+34   INT. PROMENADE - OUTSIDE BAJORAN SHRINE
+
+	A half-dozen or so Bajorans trickle onto the Promenade from 
+	the shrine, talking excitedly among themselves.  Bareil ENTERS 
+	from the shrine, accompanied by a Bajoran Monk (Prylar Rhit).  
+	Rhit thanks Bareil heartily.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT THREE        32.
+
+35   NEW ANGLE
+
+	On Kira as she emerges from the shrine.  She's the last one 
+	out.  Bareil sees her, parts with Rhit, and joins her.
+
+					BAREIL
+			So what did you think?
+
+					KIRA
+			Of your speech?
+				(he nods)
+			I liked everything about it... except 
+			the content.
+
+					BAREIL
+			You disagree with my interpretation 
+			of the Eighth Prophecy.
+
+					KIRA
+			"Disagree" might be a bit of an 
+			understatement.  Passionately 
+			disagree is more like it.
+				(a beat)
+			That way you have of taking a 
+			prophecy, and showing how it can 
+			mean exactly the opposite of the 
+			accepted interpretation is...
+
+	Kira's tries to come up with the precise word to express her 
+	feelings.
+
+					BAREIL
+				(egging her on)
+			Brilliant... insightful...
+
+	Kira can't help but smile, even as she comes up with the 
+	word she was looking for.
+
+					KIRA
+			Infuriating.
+
+					BAREIL
+				(smiles)
+			Maybe we'd better talk about something 
+			else.
+
+	Kira thinks about that for a second, then...
+
+					KIRA
+			Like what?
+
+        DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT THREE        33.
+
+35   CONTINUED:
+
+					BAREIL
+			The Ilvian katterpod crop maybe?  Or 
+			the new nature preserve in Hedrikspool 
+			Province?  Or how about the standings 
+			in the Springball Championship.
+
+					KIRA
+				(surprised)
+			You follow springball?
+
+					BAREIL
+			Religiously... if you'll pardon the 
+			expression.  I even used to play a 
+			little.
+
+					KIRA
+			Me, too.  I had Chief O'Brien design 
+			a springball holosuite program.
+
+					BAREIL
+			Really?
+				(enthusiastic)
+			Let's go.
+
+	Bareil heads for a turbolift.  Kira follows.
+
+					KIRA
+			You want to play springball?
+
+					BAREIL
+			Why not?
+				(a beat)
+			Unless you have a more pressing 
+			engagement?
+
+					KIRA
+				(smiles)
+			Not that I can think of.
+
+					BAREIL
+			Good.  I could use the practice.
+
+	Kira shakes her head in amazement.  This isn't anything at 
+	all like the Bareil she's used to.  The two of them EXIT 
+	toward the Turbolift.
+
+36   INT. PROTECTOR'S OFFICE - DAY
+
+	One of the Yaderan villagers gets up to leave the office, 
+	having concluded an interview with Odo.
+
+           DEEP SPACE: "Shadowplay" - 12/09/93 - ACT THREE          34.
+
+36   CONTINUED:
+
+					ODO
+			Thank you for coming in.  If I have 
+			any more questions, I'll let you 
+			know.
+
+	As the villager EXITS, Rurigan ENTERS.
+
+					ODO
+				(to Rurigan)
+			Please, have a seat.
+
+					RURIGAN
+			I've seen people coming in and out 
+			of this place all morning.  You plan 
+			on questioning the entire village?
+
+					ODO
+			If that's what it takes.
+
+					RURIGAN
+			So, what have you found out so far?
+
+					ODO
+			Surprisingly little.  No one seems 
+			to know anything about these 
+			disappearances.
+
+					RURIGAN
+			I could've told you that.  Saved you 
+			some time.
+
+					ODO
+			You don't hold out much hope that 
+			the missing villagers will be found, 
+			do you?
+
+					RURIGAN
+			Nobody's found anyone so far.
+
+					ODO
+			From what I understand, you were one 
+			of the founders of this colony.
+
+					RURIGAN
+				(proudly)
+			That's right.  I'm the oldest one 
+			left.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT THREE        35.
+
+36   CONTINUED:	(2)
+
+					ODO
+			This colony must be very important 
+			to you.  You helped found it.  You 
+			raised a family here.
+
+					RURIGAN
+			I'm very proud of all we've 
+			accomplished.
+
+					ODO
+			Then explain something to me.  This 
+			colony's undergoing a serious crisis, 
+			your daughter's among the missing, 
+			yet you hardly seem concerned.
+
+					RURIGAN
+				(gruff)
+			There's nothing I can do to change 
+			things.
+
+	Rurigan looks tired and a little weak.
+
+					RURIGAN
+				(continuing)
+			I wish there was.
+				(a beat)
+			Now is there anything else, or can I 
+			go?
+
+	Odo studies Rurigan for a beat.
+
+					ODO
+				(concerned)
+			Are you sure you're all right?
+
+					RURIGAN
+			Why wouldn't I be?
+
+					ODO
+			You seem to be in a great deal of 
+			pain.
+
+					RURIGAN
+				(defensive)
+			What makes you say that?
+
+					ODO
+			I can see it in your eyes.  Maybe 
+			you'd like to sit here a while and 
+			rest.
+
+           DEEP SPACE: "Shadowplay" - 12/09/93 - ACT THREE         35A.
+
+36   CONTINUED:	(3)
+
+					RURIGAN
+				(ironic smile)
+			Wouldn't do much good.
+				(matter of fact)
+			You see... I'm dying.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT THREE        36.
+
+36   CONTINUED:	(4)
+
+					ODO
+				(surprised)
+			I'm... sorry.
+
+					RURIGAN
+			I've had a good life... no regrets... 
+			I just wish I could see my daughter 
+			again.
+				(a little impatient)
+			Now, if there are no more 
+			questions... ?
+
+	Rurigan gets up, but Odo stops him before he reaches the 
+	door.
+
+					ODO
+			Actually, there is one thing I've 
+			been wondering about...
+				(get's Rurigan's 
+				attention)
+			How come no one ever leaves the 
+			village?
+
+	Rurigan is caught off guard by Odo's question.
+
+					ODO
+				(off Rurigan's reaction)
+			I haven't met a single person yet 
+			that's ever been outside this valley.  
+			Any idea why?
+
+					RURIGAN
+			I suppose people here don't like to 
+			travel.  After all, there's no place 
+			to go.
+
+					ODO
+			How can you be so sure?  Have you 
+			ever left the valley?
+
+					RURIGAN
+				(thinks it over)
+			Now that you mention it, no.
+
+					ODO
+			When I asked Colyus if he'd searched 
+			outside the valley for the missing 
+			people, he looked surprised, like 
+			he'd never thought of it before.  I 
+			find that very peculiar.  Where I 
+			come from, we'd have searched the 
+			entire countryside.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT THREE        37.
+
+36   CONTINUED:	(5)
+
+					RURIGAN
+			I guess he felt there was no point 
+			to it.  I guarantee you those missing 
+			people aren't out there.
+
+					ODO
+			You're sure of that.
+
+					RURIGAN
+				(smiles)
+			Absolutely.
+
+	Rurigan nods his goodbye and EXITS.  Hold on a thoughtful 
+	Odo.
+
+37   EXT. OUTSKIRTS OF YADERAN SETTLEMENT - DAY
+
+	Odo, Dax, and Taya climb a hillside above the Yaderan 
+	settlement.  Dax is carrying a Yaderan sensing device.  Taya 
+	is in the middle of a story.
+
+					TAYA
+			So then Great Minra said to the evil 
+			changeling, "Well maybe you can turn 
+			into a mountain, or a Ghergher Beast, 
+			or a tornado... those are big things 
+			and big things are easy... but I bet 
+			you can't turn into something small... 
+			like a loaf of greenbread." And so 
+			the changeling said "Yes I can." and 
+			he did... and then do you know what 
+			happened?
+
+					ODO
+				(gruff)
+			The Great Minra gobbled him up.
+
+					TAYA
+				(surprised)
+			How'd you know?
+
+					ODO
+			The changeling in your story wasn't 
+			very smart.
+
+	Taya absorbs this, then brightens.
+
+					TAYA
+			Could you turn into a loaf a 
+			greenbread?
+
+					ODO
+			I suppose I could.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT THREE        40.
+
+					TAYA
+			Show me.
+
+	Odo almost smiles.
+
+					ODO
+			And let you gobble me up?  I don't 
+			think so.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT THREE        39.
+
+38   EXT. CREST OF THE HILL - DAY
+
+	Dax, Odo and Taya reach the crest of the hill.  Odo looks 
+	around.
+
+					TAYA
+			You see that tree.
+
+	She indicates a nearby tree just below the crest.
+
+					TAYA
+				(continuing)
+			Sometimes we go there to play.  That's 
+			the farthest I've ever been from the 
+			village.
+
+					ODO
+				(to Taya)
+			Wait here.
+
+					TAYA
+			But I want to see, too.
+
+					ODO
+			Please, do as I say.
+				(to Dax)
+			Lieutenant, come with me.
+
+	Odo and Dax walk downhill past the tree.  Taya watches them 
+	go, looking frustrated.
+
+39   ANGLE ON DAX AND ODO (OPTICAL)
+
+	Dax consults the Yaderan sensing device as she and Odo emerge 
+	from some bushes.  
+
+						DAX 
+			I'm still not reading other lifeforms... no indications 
+			of any power source...
+
+	Dax and Odo walk a little further and the Yaderan sensing 
+	device suddenly DISAPPEARS out of Dax's hand.  Dax and Odo 
+	exchange surprised looks.
+
+					DAX
+			Did you see that?  It just vanished.
+
+        DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT THREE        40.
+
+39A  NEW ANGLE
+
+	Taya is gathering a fistful of berry-covered vines.  She 
+	starts down the hill.
+
+39B  ANGLE ON ODO AND DAX
+
+	Still reacting to the vanished sensing device.
+
+					DAX
+			It happened just as we passed those 
+			bushes.
+
+40   ANGLE ON TAYA
+
+	Holding the berry vine as she comes down the hill.
+
+40A  NEW ANGLE
+
+	Dax sees Taya coming toward them.  As Taya reaches the 
+	bushes...
+
+					DAX
+			Taya?
+
+					ODO
+				(urgent)
+			Don't come any closer.
+
+41   NEW ANGLE (OPTICAL)
+
+	Taya looks disappointed.
+
+					TAYA
+			But I brought you some Harrid berries.
+
+	She holds out the berries and her arm DISAPPEARS to the 
+	elbow.
+
+	Taya looks at her own arm in curiosity, apparently in no 
+	pain.  As she raises her arm to her face, the arm RE-
+	MATERIALIZES, a little bit at a time.
+
+42   ANGLE ON ODO AND DAX
+
+	And they react to this strange occurrence.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FOUR        41.
+                           ACT FOUR                             
+
+	FADE IN:
+
+43   EXT. YADERAN SETTLEMENT - DAY
+
+	Dax has opened a panel inside the reactor and is working on 
+	the systems inside.  Odo leads Colyus out of his office and 
+	the two men join her.
+
+					COLYUS
+				(to Dax)
+			Odo says you know what happened to 
+			the missing villagers?
+
+					DAX
+			I think I do.
+				(finishes tinkering 
+				with reactor)
+			It's a little complicated to explain.  
+			It'd probably be easier if I showed 
+			you.
+				(a beat)
+			May I have your coat?
+
+					COLYUS
+			My coat?
+
+					DAX
+			Please.
+
+	Colyus gives it to her.  Dax sets it down on the ground in a 
+	precisely predetermined location.
+
+					DAX
+			Now step back.
+
+	Colyus complies.  Dax reaches into the reactor and carefully 
+	begins to manipulate the controls.
+
+	Nothing happens.
+
+					COLYUS
+			I'm waiting.
+
+					DAX
+			This may take a minute.  I don't 
+			want to make any mistakes.
+
+	As Dax continues making minute adjustments to the controls...
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FOUR        42.
+
+44   NEW ANGLE (OPTICAL)
+
+	The coat winks out of existence.  Colyus reacts.
+
+					COLYUS
+			That was my favorite coat.
+
+	He starts walking to the spot, but Odo restrains him.
+
+					ODO
+			Please, stay where you are.
+
+	Dax works the controls... and the coat RE-MATERIALIZES.
+
+45   RESUME SCENE
+
+	Odo takes his hand off of Colyus's shoulder and Colyus picks 
+	up his coat and puts it back on.
+
+					COLYUS
+			Are you saying somebody used our 
+			reactor to transport the victims 
+			away?
+
+					DAX
+			No.  It's not a transporter.  It's a 
+			holographic projector.  It creates 
+			an Omicron particle field and then 
+			manipulates the field to form physical 
+			objects... like your jacket.
+
+					COLYUS
+			What does this have to do with the 
+			missing people?
+
+					DAX
+				(breaking it to him 
+				gently)
+			The people are made of Omicron 
+			particles, too.
+
+					COLYUS
+				(incredulous)
+			You mean they're holograms.
+
+	Colyus waits for Dax or Odo to deny his statement, but 
+	instead, Dax nods.
+
+					DAX
+			I'm afraid so.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FOUR       42A.
+
+45   CONTINUED:
+
+					DAX
+				(re: the reactor)
+			The component that controls the 
+			particle field is breaking down.  
+			That's why people are disappearing.
+
+					COLYUS
+			That's ridiculous.  Some of the 
+			victims were my friends.  One of 
+			them was my nephew.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FOUR        43.
+
+45   CONTINUED:	(2)
+
+					DAX
+				(with sympathy)
+			If I'm right, everyone and everything 
+			in this village is a holographic 
+			projection.
+
+	A beat.  Colyus just laughs.
+
+					COLYUS
+			And I thought I was desperate to 
+			find an answer.
+
+					ODO
+			Listen to me, Colyus.  I know this 
+			is difficult to accept...
+
+					COLYUS
+			It's going to take more than a 
+			vanishing jacket to make me believe 
+			that I'm some kind of hologram.
+
+					ODO
+			I'd be skeptical too if I were you.  
+			But we do have further proof.
+
+					COLYUS
+			What kind of proof?
+
+					DAX
+			The holographic field ends just 
+			outside this valley.  Earlier today, 
+			Taya tried to reach past the edge... 
+			and her arm disappeared.
+
+					COLYUS
+			Is she all right?
+
+					ODO
+			She's fine.  Her arm rematerialized 
+			once she pulled it back inside.
+
+					COLYUS
+			Where exactly did this happen?
+
+					DAX
+			We could show you, if you'd like.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/09/93 - ACT FOUR        44.
+
+45   CONTINUED:	(3)
+
+					COLYUS
+				(grim)
+			I think you'd better.
+
+46   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+
+	As before.
+
+47   INT. KIRA'S QUARTERS
+
+	Bareil and Kira are sitting at a low table in Kira's quarters, 
+	eating a Bajoran spiced meat pie, which vaguely resembles 
+	traditional Ethiopian or Moroccan food.  Kira and Bareil are 
+	dressed in casual workout clothes, having just returned from 
+	their game of springball.
+
+					KIRA
+			How's your shoulder?
+
+					BAREIL
+			Still a little sore.
+
+					KIRA
+			Maybe we should have Doctor Bashir 
+			look at it?
+
+					BAREIL
+			I'll be okay.  It's only a sprain.
+
+	He looks at Kira for a beat.  There's definitely an attraction 
+	here, though neither of them seems ready to acknowledge it.
+
+					KIRA
+			I'm sorry.
+
+					BAREIL
+			Don't apologize.  I should have seen 
+			it coming.
+				(a beat)
+			Where did you learn to play like 
+			that?
+
+					KIRA
+			My brothers and I used to play at 
+			the Singha Refugee Camp.  There wasn't 
+			much else to do.
+
+					BAREIL
+			I was at Relliketh.
+
+
+         DEEP SPACE: "Shadowplay" - REV. 12/09/93 - ACT FOUR        45.
+
+47   CONTINUED:
+
+	Again there is a bit of an awkward silence.
+
+					BAREIL
+				(continuing)
+			And now... here we are.
+
+	A beat as they finish eating.
+
+					BAREIL
+				(continuing)
+			That was delicious.
+
+					KIRA
+			Thank the replicators.
+
+	Kira gets up and starts to clear the table.
+
+					BAREIL
+			Here, let me help.
+
+	He gets up and they both reach for the same plate...
+
+					KIRA
+			That's not necessary.  Your 
+			shoulder...
+
+	They both take the plate.  Their hands are now touching and 
+	they're inches apart.
+
+					BAREIL
+			Never felt better.
+
+	They look into each other's eyes for beat.
+
+					KIRA
+			Maybe I could use some help after 
+			all.
+
+	They lean closer and kiss.  It's a long kiss and when it 
+	ends, they're both smiling.
+
+					KIRA
+				(smiles)
+			I'll have to remember to thank Prylar 
+			Rhit for inviting you here.
+
+					BAREIL
+			You better tell him soon.  Prylar 
+			Rhit is going to be returning to 
+			Bajor.
+				(off Kira's look)
+			It appears he fancies himself 
+			something of a Dabo player.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FOUR        46.
+
+47   CONTINUED:	(2)
+
+					KIRA
+			Really?
+
+					BAREIL
+			He's run up a sizable gambling debt.  
+			It's caused quite a scandal in the 
+			Vedek Assembly.
+
+	Kira is beginning to get a nasty suspicion.
+
+					KIRA
+			Let me get this straight.  The man 
+			who invited you to the station, owes 
+			money... to Quark.
+
+					BAREIL
+			Who?
+
+					KIRA
+			The little troll who runs the Dabo 
+			tables.
+
+	She heads for the door.
+
+					KIRA
+			I have to go.
+
+					BAREIL
+			Why?
+
+					KIRA
+			I need to talk to Prylar Rhit.  I 
+			think I know the real reason he 
+			invited you here.
+
+	Kira EXITS, leaving Bareil confused, not quite sure what 
+	just happened.
+
+48   EXT. YADERAN SETTLEMENT - DAY
+
+	The square around the reactor is full of villagers, including 
+	Rurigan and Taya.  Odo and Dax are standing by the reactor 
+	platform, watching as Colyus tries to settle down the unruly 
+	crowd.
+
+					YELLS FROM CROWD
+			I don't believe it... I'm not a 
+			hologram... Listen to Colyus... We're 
+			alive... This isn't going to bring 
+			anyone back... Let him talk...
+
+	Colyus hold his hands up for quiet.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FOUR        47.
+
+48   CONTINUED:
+
+					COLYUS
+			Please.  Everyone calm down.  We 
+			have to make a decision.
+
+					MALE VILLAGER
+			Colyus, you should be out looking 
+			for my wife and all the others who 
+			are missing.
+
+					FEMALE VILLAGER
+				(agreeing)
+			Not wasting time listening to these 
+			strangers and their lies.
+
+					COLYUS
+			You all witnessed what happened when 
+			they brought us to the edge of the 
+			field.
+				(to Male Villager)
+			Merruk, we both saw your hand 
+			disappear.
+
+	The crowd quiets down.  Many of them also experimented with 
+	the field.
+
+					MALE VILLAGER
+				(grasping at straws)
+			It could've been a trick.
+
+					DAX
+			It wasn't a trick.
+
+					FEMALE VILLAGER
+			Then how come we never learned about 
+			this before.
+
+					ODO
+			Because none of you ever tried to 
+			leave the valley.
+
+					COLYUS
+			It's possible that we were programmed 
+			not to leave, so we wouldn't learn 
+			the truth.
+
+	Colyus now has the full attention of the crowd.
+
+					COLYUS
+				(continuing)
+			We have to shut down the system.  If 
+			we don't fix it soon, the whole 
+			village will disappear.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FOUR       47A.
+
+48   CONTINUED:	(2)
+
+					RURIGAN
+			You don't know for certain...
+
+					COLYUS
+			Do you want to take that risk?
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FOUR        48.
+
+48   CONTINUED:	(3)
+
+					RURIGAN
+				(mocking)
+			If we're not real, then it really 
+			doesn't matter whether the village 
+			disappears or not.
+
+					COLYUS
+			It matters to me.
+				(playing his best 
+				card)
+			Dax, you said that if you can fix 
+			the machine, you might be able to 
+			bring the missing people back?
+
+					DAX
+			We hope so.
+
+					TAYA
+				(to Rurigan)
+			I could see my mother again.
+
+					COLYUS
+			We've all lost someone.  I say it's 
+			worth a try.
+
+					RURIGAN
+				(to Dax)
+			What if you turn off the projector, 
+			and you can't get it back on?
+
+					DAX
+				(concerned)
+			Then this village will cease to exist.  
+			But the system's only a few months 
+			away from complete failure.  At least 
+			this way, we have a chance to save 
+			you.
+
+					TAYA
+			Grandfather, please let her try.
+
+	Rurigan puts a comforting hand on Taya's shoulder.
+
+					MALE VILLAGER
+			Rurigan, what do you think?
+
+	Colyus looks to Rurigan, as do all the others.  Rurigan looks 
+	down at Taya and gives her a bittersweet, comforting smile.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FOUR        49.
+
+48   CONTINUED:	(4)
+
+					RURIGAN
+			We can't go on like this.  I guess 
+			we should let her shut it down.
+
+	This quiets the crowd.  Rurigan pulls a lot of weight.
+
+					COLYUS
+			Any objections.
+
+	There's some minor grumbling, but no one wants to step forward 
+	and oppose Rurigan.
+
+					COLYUS
+			Then it's settled.
+
+	He nods to Dax to get started.
+
+49   ANGLE ON TAYA
+
+	As she hugs Rurigan.
+
+					TAYA
+			I can't wait to see my mother.
+
+	Rurigan hugs her with a reassurance that isn't mirrored in 
+	his face.  As Dax goes to work, Taya looks at Odo.
+
+					TAYA
+			Your face isn't so scary... once you 
+			get used to it.
+
+					ODO
+				(touched)
+			Thank you.
+
+50   NEW ANGLE
+
+	As Dax looks up from her work and makes eye contact with 
+	Colyus.  Colyus nods.
+
+					DAX
+				(half to herself)
+			All right.  Here we go.
+
+51   ANGLE ON THE YADERANS
+
+	Rurigan holds Taya close.  The other Yaderans brace 
+	themselves, saying goodbye, hugging each other, trying to 
+	find the strength to face the unknown.  Odo and Taya exchange 
+	what they hope will not be a final look.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FOUR        50.
+
+52   ANGLE ON DAX
+
+	As she turns off the reactor, and...
+
+53   NEW ANGLE (OPTICAL)
+
+	The Yaderans and their entire village DISAPPEAR, to reveal 
+	an empty, rocky field surrounding the power plant, inhabited 
+	only by Dax, Odo, and...
+
+54   RURIGAN
+
+	Standing by himself, looking old, fragile, and very much 
+	alone.
+
+					RURIGAN
+				(defiant)
+			Don't look so surprised, Lieutenant.  
+			I'm as real as you are.
+
+	And as Dax and Odo react to Rurigan...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FIVE        51.
+                           ACT FIVE                             
+
+	FADE IN:
+
+55   EXT. EMPTY PLAIN - DAY
+
+	Dax, Odo and Rurigan stand alone by the reactor.
+
+					RURIGAN
+			I was happy living on Yadera 
+			Prime.  Until the Dominion took 
+			over.  And changed our whole way 
+			of life...
+
+	Dax and Odo exchange a look, but Rurigan is too deep into 
+	his memories to notice.
+
+					RURIGAN
+			I woke up one day and realized I 
+			didn't belong there anymore.  So I 
+			came here and used a holo-generator 
+			to recreate everything that I'd lost.
+				(proudly)
+			I've lived here in my village for 
+			thirty years.  I've watched its 
+			people marry, have children, grow 
+			old... Sometimes, I even forgot they 
+			were holograms.
+				(with regret)
+			But now it's over.
+
+	Rurigan takes one final look around the valley.
+
+					RURIGAN
+				(putting it all behind 
+				him)
+			I'd appreciate it if you'd take me 
+			back to Yadera Prime.
+
+					ODO
+			But what about the villagers?  What 
+			about your granddaughter?
+
+					RURIGAN
+				(rhetorical)
+			What granddaughter?  You mean Taya?  
+			She's not real.
+
+					ODO
+			Technically, I suppose you're right.  
+			Maybe by our definition, Taya's not 
+			real.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FIVE        52.
+
+55   CONTINUED:
+
+					ODO (Cont'd)
+			Her memories are stored in a computer 
+			and her body's made up of Omicron 
+			particles.  But who's to say that 
+			our definition of life is the only 
+			valid one.  I'm sure if you asked 
+			her, she'd say she was real.  She 
+			thinks, she feels...
+
+					RURIGAN
+			She only seems to... It's all an 
+			illusion, an illusion that I created.
+
+					ODO
+			You said you created this village 
+			thirty years ago.  Taya's only ten.
+
+					RURIGAN
+			I designed the program so that the 
+			villagers could have children if 
+			they wanted to.
+
+					DAX
+			Then Taya's personality is a 
+			combination of her parent's 
+			personalities.
+
+					ODO
+			Just like a real child.  You had 
+			nothing to do with it.
+
+					RURIGAN
+			But she's still a hologram.
+
+					ODO
+			Maybe, but I saw the way you held 
+			her hand when she was sad... how you 
+			comforted her when she was frightened.
+
+					RURIGAN
+				(defensive)
+			I didn't want to see her get hurt.
+
+					ODO
+				(provoking)
+			If she's not real, what does it 
+			matter?
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FIVE        53.
+
+55   CONTINUED:	(2)
+
+					RURIGAN
+				(angry)
+			It matters to me.
+
+					ODO
+			Why should it matter to you if a 
+			hologram cries?
+
+					RURIGAN
+				(learning it out)
+			Because... I love her.
+
+					DAX
+			And she loves you.
+
+	Rurigan's beginning to waver.
+
+					ODO
+			Don't you see... she's real to you.  
+			And she's real to me, too.  They're 
+			all real.  And you can't turn your 
+			back on them now.
+
+56   NEW ANGLE
+
+	On Rurigan, as he finally realizes what he's created... and 
+	what he stands to lose.
+
+57   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+58   INT. SISKO'S QUARTERS
+
+	Sisko is at his desk, working with a PADD.  Jake ENTERS, 
+	still wearing his work clothes.
+
+					SISKO
+				(glad to see him)
+			Jake... how was work?
+
+					JAKE
+			Okay.
+
+	Jake takes a seat.  He's serious, adult... a man with a 
+	mission.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FIVE       53A.
+
+58   CONTINUED:
+
+					JAKE
+				(all business)
+			It's kind of fun working with Chief 
+			O'Brien.  Of course, it'd be better 
+			if I knew what I was doing.
+
+					SISKO
+			You'll get there.
+
+	Jake nods but he's go something else on his mind.
+
+					JAKE
+			I guess so.
+
+					SISKO
+			I'm glad you decided to stick with 
+			it.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FIVE        54.
+
+58   CONTINUED:	(2)
+
+					JAKE
+			Yeah.
+				(almost blurting it 
+				out)
+			Dad, I don't want to join Starfleet.
+
+	That takes Sisko back for a second.  He didn't see that one 
+	coming.
+
+					SISKO
+			Since when?
+
+					JAKE
+			Since forever.  Starfleet is too 
+			much... like you.  And I have to 
+			find what's me.
+				(seeking approval)
+			Does that make any sense?
+
+					SISKO
+			Perfect sense.
+
+	Jake reacts with surprise.  He expected more of a fight.
+
+					JAKE
+			It does?
+
+					SISKO
+			It's your life, Jake.  You have to 
+			choose your own way.  There's only 
+			one thing I want from you.
+
+	Jake waits to hear what it's going to be.
+
+					SISKO
+				(continuing)
+			Find something you love... and do it 
+			the best you can...
+
+	Jake realizes that in some ways this a lot more responsibility 
+	than just following in his father's footsteps.  But it's an 
+	adult responsibility.
+
+					JAKE
+				(humble)
+			I'll try.
+
+					SISKO
+			Good.  Then you'll make your old man 
+			proud.
+
+	Jake gets up.
+
+           DEEP SPACE: "Shadowplay" - 12/09/93 - ACT FIVE           55.
+
+58   CONTINUED:	(3)
+
+					JAKE
+			I better go study.  I'm still trying 
+			to figure out those isolinear rods.
+
+	Sisko nods and watches Jake EXIT to his room with a mixture 
+	of disappoint and pride.
+
+59   INT. QUARK'S - SECOND LEVEL
+
+	Kira ENTERS from the Promenade.  She looks around, sees Quark 
+	waiting on a table, and makes her way purposefully toward 
+	him.
+
+					KIRA
+				(pleasant)
+			Hello, Quark.
+
+					QUARK
+				(a little nervous)
+			Major... to what do I owe this 
+			unexpected pleasure.
+
+					KIRA
+			Just thought I'd let you know... we 
+			caught your cousin trying to slip 
+			back onto the station.  And guess 
+			what we confiscated from him...
+				(smiles)
+			Bone-carvings... stolen from a museum 
+			on Cardassia Five.
+
+	For Quark, this is very bad news, but he tries not to 
+	show it.
+
+					QUARK
+			I always knew Kono was no good.
+
+					KIRA
+			I'm only sorry we didn't catch the 
+			two of you together.
+
+					QUARK
+			Life is full of disappointments.
+
+					KIRA
+				(smiling)
+			Oh, by the way...
+				(pointedly)
+			Prylar Rhit tells me you "encouraged" 
+			him to invite Bareil onto the station.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FIVE        56.
+
+59   CONTINUED:
+
+					QUARK
+			Is that a crime?
+
+					KIRA
+				(smiling)
+			Not at all... I just wanted to say 
+			thanks.  I found him very... 
+			diverting.
+
+	And as Quark watches, Kira EXITS onto the second level of 
+	the Promenade, where she joins Vedek Bareil and the two of 
+	them walk off, arm-in-arm.
+
+60   ON QUARK
+
+	Crestfallen, as he realizes his scheming has accomplished 
+	nothing but making Kira happy...
+
+					QUARK
+			Not diverting enough.
+
+61   EXT. EMPTY PLAIN - DAY
+
+	Dax and Rurigan finish their repairs to the reactor while 
+	Odo looks on with concern.  Dax gets ready to turn on the 
+	system.
+
+					DAX
+			All right, nothing to do now but 
+			reactivate the system and see what 
+			happens.
+
+					RURIGAN
+			Lieutenant... wait.  I have a favor 
+			to ask.
+				(off reactions, softly)
+			If it works, please don't tell any 
+			of the others that I'm... not like 
+			them.  I don't want to be treated 
+			any differently than before.
+
+	Dax looks surprised, like she might be about to object, but 
+	Odo speaks first.
+
+					ODO
+			Of course.
+
+	Dax nods her agreement.  Rurigan goes back to where he was 
+	when the system was shut down and signals Dax.  Dax 
+	reactivates the reactor, and...
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FIVE        57.
+
+62   EXT. YADERAN SETTLEMENT (OPTICAL)
+
+	The settlement REAPPEARS, complete with all its residents.  
+	In fact, if anything, there are a few more people than before.  
+	The new arrivals look very confused.
+
+	Taya searches the crowd until she finds a pretty Yaderan 
+	woman.  Taya reacts joyfully.
+
+					TAYA
+			Mother!
+
+	Taya rans embrace her mother and hugs her. Several
+	other Yaderans embrace other missing people who've been 
+	returned, including the vocal Male Villager, who reunites 
+	with his wife.
+
+63   NEW ANGLE
+
+	Colyus breaks away from hugging his long-lost nephew and 
+	joins Dax and Odo.
+
+					COLYUS
+				(relieved)
+			You did it.
+
+					DAX
+			We upgraded the system's memory core 
+			and realigned the field generator.  
+			You shouldn't have to worry about 
+			anyone disappearing now.
+
+					COLYUS
+			We just have to get used to the fact 
+			that we're holograms.
+
+					RURIGAN
+			We're alive and we have our families 
+			back.  That's the only thing that 
+			counts.
+
+					COLYUS
+				(looking around)
+			I wonder who created all this?
+
+					ODO
+			Whoever it was did a fine job.
+
+					COLYUS
+				(smiling)
+			They did.  Didn't they?
+
+         DEEP SPACE: "Shadowplay" - REV. 12/10/93 - ACT FIVE        58.
+
+63   CONTINUED:
+
+	Rurigan nods his thanks to Odo.
+
+					COLYUS
+			It was good working with you, Odo.  
+			Next time you're on this side of the 
+			galaxy... I hope you come see us.
+				(with a grin)
+			We don't get many visitors.
+
+					ODO
+			I would like that.
+
+64   NEW ANGLE
+
+	As Taya approaches Odo.
+
+					TAYA
+			Odo, my mother's back.
+
+					ODO
+			I'm glad.
+
+	Odo looks over at Dax, who is waiting for him.
+
+					TAYA
+			You're leaving.
+
+					ODO
+			I'm afraid so.
+
+					TAYA
+			I'll miss you.
+
+					ODO
+			I'll miss you, too.
+
+					TAYA
+			Thank you for bringing my mother 
+			back.
+				(quietly)
+			I hope you find your parents, too.
+
+					ODO
+				(touched)
+			Thank you, Taya.  So do I.
+
+	Odo walks over and joins Dax, then stops, as if something 
+	just occurred to him.
+
+         DEEP SPACE: "Shadowplay" - REV. 12/13/93 - ACT FIVE        59.
+
+					ODO
+				(calling over)
+			Taya.
+
+65   NEW ANGLE (OPTICAL)
+
+	Odo twists his body and MORPHS into an exact replica of Taya's 
+	top-like toy.
+
+66   ON TAYA
+
+	Who's surprised and delighted.  Yes, Taya, he really is a 
+	changeling.
+
+67   NEW ANGLE (OPTICAL)
+
+	As Odo rises back up out of frame, having shifted back off 
+	camera.  He smiles back at Taya, pleased and proud to see 
+	the delight on her face.
+
+					DAX
+			Computer, two to beam up.
+
+	Taya, who's joined by Rurigan, raises her hand in farewell 
+	as Odo and Dax DEMATERIALIZE.  And as life resumes in the 
+	Yaderan village...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

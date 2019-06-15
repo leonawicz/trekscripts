@@ -1,0 +1,3061 @@
+                   STAR TREK: DEEP SPACE NINE 
+                              
+                       "Favor the Bold" 
+                          #40510-529 
+                              
+                          Written by 
+                Ira Steven Behr & Hans Beimler 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        August 13, 1997
+
+      STAR TREK: DS9 - "Favor the Bold" - 08/13/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Favor the Bold" 
+                             CAST 
+
+          SISKO                    ROM
+          KIRA                     NOG
+          ODO                      DUKAT
+          BASHIR                   FEMALE SHAPE-SHIFTER
+          DAX                      WEYOUN
+          WORF                     DAMAR
+          O'BRIEN                  GARAK
+          QUARK                    ROSS
+          JAKE                     LEETA
+                                   ADMIRAL SITAR
+                                   BAJORAN OFFICER
+                                   ADMIRAL COBURN
+                                   MARTOK
+                                   ZIYAL
+                                   JEM'HADAR SOLDIER
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     MORN
+
+      STAR TREK: DS9 - "Favor the Bold" - 08/13/97 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Favor the Bold" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          (TEROK NOR)                   (TEROK NOR)
+          ODO'S BEDROOM                 
+          PROMENADE                     STARBASE 375
+          QUARK'S/SECOND LEVEL          
+          WARDROOM                      
+          CAPTAIN'S OFFICE              
+          HABITAT RING CORRIDOR         
+          HOLDING CELL                  
+          CARGO BAY                     
+
+        DEFIANT                       
+          BRIDGE                        
+          MESS HALL                     
+          CORRIDOR OUTSIDE ENGINEERING  
+
+        STARBASE 375                  
+          SISKO'S OFFICE                
+
+     DS NINE - "Favor the Bold" - 08/14/97 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                       "Favor the Bold" 
+                     PRONUNCIATION GUIDE
+
+          KOTANKA                  koh-TAN-kah
+          NAUSICAAN                NAW-sih-can
+          RAKTAJINO                ROCK-ta-GEE-no
+          TAMMERON                 TAHM-meh-roon
+          TARKALEAN                tar-KAY-lee-uhn
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                           "Favor the Bold"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE (OPTICAL)
+
+	CLOSE ON the Defiant adrift, helpless, its engines 
+	leaking plasma.
+
+2    INT. DEFIANT - BRIDGE
+
+	DAX is in the Captain's chair. O'BRIEN, BASHIR and 
+	NOG are at their stations. Everyone is tense and 
+	focused; they're in a precarious situation and they 
+	know that the slightest miscalculation could mean their 
+	lives.  (Note: We are at Red Alert.)
+
+					DAX 
+			Cadet.
+
+					NOG 
+			Continuing to emit distress 
+			signals on all frequencies, sir.
+
+					DAX
+			Chief.
+
+					O'BRIEN 
+			We're still venting plasma. Any 
+			ship passing within a hundred 
+			million kilometers will know we're 
+			here --
+				(concerned)
+			-- and that we're not going 
+			anywhere.
+
+	Dax ponders their situation.
+
+					BASHIR
+			In other words, we're sitting 
+			ducks.
+
+					O'BRIEN 
+			Looks that way.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       2.
+
+2    CONTINUED:
+
+					NOG
+				(off his console) 
+			We have company, Captain. Two 
+			Dominion ships heading this way, 
+			bearing one-nine-seven mark one-
+			three-five.
+
+					O'BRIEN
+				(a warning) 
+			They'll have us in weapons range 
+			in twenty-two seconds.
+
+					DAX
+			Shields?
+
+					NOG 
+			Shields at thirty percent.
+
+					DAX
+			Phaser banks?
+
+					O'BRIEN 
+			The entire weapons array is 
+			off-line.
+
+					BASHIR 
+			What do we do now, captain?
+
+					DAX
+				(grim) 
+			Now we find something to hold onto.
+
+	And as the crew braces themselves for an attack --
+
+									CUT TO:
+
+3    EXT. SPACE (OPTICAL)
+
+	Two Dominion ships strafe the vulnerable Defiant.
+
+4    INT. DEFIANT - BRIDGE
+
+	as the ship SHAKES under repeated HITS.
+
+					NOG 
+			Shields are down to twenty percent.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       3.
+
+4    CONTINUED:
+
+					O'BRIEN 
+			I don't know how much more of this 
+			we can take.
+
+					DAX 
+			Steady, people. 
+
+	And as the ship SHAKES again --
+
+5    EXT. SPACE (OPTICAL)
+
+	A Klingon Bird of Prey DECLOAKS right behind one of the 
+	Dominion ships and FIRES, blasting it to pieces.
+
+6    INT. DEFIANT - BRIDGE
+
+	as everyone kicks into action --
+
+					O'BRIEN
+			Now?
+
+					DAX
+			Now.
+				(barking orders)
+			Shields up. Engines at full
+			impulse. Power to main phasers.
+
+					O'BRIEN
+			Target locked.
+
+					DAX
+			Fire.
+
+7    EXT. SPACE (OPTICAL)
+
+	to see that the Defiant, which was playing possum, 
+	swing under the other Dominion ship and unload a 
+	barrage of phaser FIRE, OBLITERATING it.
+
+8    INT. DEFIANT - BRIDGE
+
+	as the crew reacts to their victory.
+
+					DAX
+			Cadet, any more Dominion ships out
+			there?
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       4.
+
+8    CONTINUED:
+
+					NOG
+				(off his console) 
+			None that I can see.
+
+					DAX
+				(to the com) 
+			This is the captain speaking. All 
+			hands, stand down. Good job, 
+			people.
+
+					NOG 
+			We're being hailed by the 
+			Rotarran. Commander Worf would 
+			like to speak to you.
+
+					DAX
+			Onscreen.
+
+9    ANGLE ON THE SCREEN (OPTICAL)
+
+	as the image of WORF appears.
+
+					DAX
+				(with a smile) 
+			My hero.
+
+					WORF
+			Well done, captain. You were a 
+			very effective decoy.
+
+					DAX 
+			How about next time we switch 
+			roles? That way, I can rescue you.
+
+					O'BRIEN
+				(off his console) 
+			You may have to wait awhile, 
+			captain. We've just received 
+			orders from Starfleet Command. 
+			All ships in this sector are to 
+			fall back to Starbase Three-Seven-
+			Five.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       5.
+
+ 9   CONTINUED:
+
+					DAX 
+			Fall back again?
+
+	Any sense of victory the Defiant crew might have felt 
+	at destroying the two Jem'Hadar ships is rapidly fading 
+	away.
+
+					O'BRIEN
+				(an old refrain) 
+			Engage and retreat. Engage and 
+			retreat. I'm telling you, that's 
+			become our favorite tune.
+
+					BASHIR
+			Well, we'd better learn a new one 
+			or the next song we'll be singing 
+			is "Hail the Conquering Dominion."
+
+					DAX
+				(determined) 
+			I wouldn't start learning those 
+			lyrics just yet, Doctor.
+				(to the viewscreen) 
+			Worf, we'll see you at Starbase 
+			Three-Seven-Five.
+
+					WORF 
+			I'll be waiting.
+
+	The image of Worf on the viewscreen disappears. Dax 
+	quickly taps her command console.
+
+					DAX
+				(snapping an order to
+				helm)
+			Set a course for these
+			coordinates. Warp seven.
+
+10   OMITTED
+
+11   INT. STARBASE 375 - SISKO'S OFFICE
+
+	as an angry Dax confronts SISKO.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       6.
+
+11   CONTINUED:
+
+					DAX 
+			I don't know what all you brass 
+			hats in Starfleet Command are 
+			thinking, but take it from a 
+			simple field officer, we're not 
+			going to win this war by running 
+			away from the enemy.
+
+	Sisko chooses to remain silent, allowing Dax to 
+	continue to vent.
+
+					DAX 
+			Benjamin -- troop morale is at an 
+			all-time low. Even the Klingons 
+			are starting to wonder if we can 
+			defeat the Dominion. We need a 
+			victory -- a big victory. And we 
+			need it soon!
+
+					SISKO
+			I couldn't agree with you more.
+
+					DAX
+				(pounding her fist on 
+				his desk) 
+			Then do something about it.
+
+					SISKO
+			I have.
+
+	This catches Dax somewhat flat-footed; she looks at 
+	Sisko expectantly.
+
+					SISKO 
+			In fact, I'm presenting a plan 
+			to Starfleet Command at oh-eight-
+			hundred, tomorrow.
+
+					DAX 
+			What plan?
+
+12   ANGLE ON SISKO
+
+	as he taps a panel and a graphic of Deep Space Nine 
+	surrounded by "attacking" Federation forces appears on 
+	the wall monitor.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - TEASER       7.
+
+12   CONTINUED:
+
+					SISKO 
+			We're going to retake Deep Space 
+			Nine.
+
+	Dax breaks into a smile -- this is what she was hoping 
+	to hear, and we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE      8.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+13   EXT. SPACE - STARBASE 375 (OPTICAL)
+
+	Establishing. The Defiant and Rotarran are in orbit
+	around Starbase 375.
+
+14   INT. DEFIANT - MESS HALL 
+
+	GARAK is seated at a table as Doctor Bashir scans Garak's 
+	head with a medical tricorder. Worf, Dax and O'Brien watch.
+
+					BASHIR 
+			Everything seems to be perfectly normal. 
+				(a beat)
+			I'm sorry, Garak.
+
+					GARAK
+			Keep looking, Doctor. I'm sure 
+			whatever Starfleet put in there 
+			is very well hidden.
+
+
+					O'BRIEN
+			Ridiculous.
+
+					GARAK
+			That's easy for you to say, Chief. 
+			You don't know them as well as I 
+			do. They're desperate people.
+
+					DAX
+			Garak, you're not going to get any 
+			of us to believe that Starfleet 
+			Intelligence has implanted some 
+			kind of neural transponder in your 
+			brain to monitor your thoughts.
+
+					GARAK
+			I would've if I were them. In 
+			fact, when I was conducting 
+			interrogations for the Obsidian 
+			Order, I did a lot worse.
+
+					BASHIR
+
+			I'm sure you did.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE      9.
+
+14   CONTINUED:
+
+	Bashir closes his medical tricorder and gets up from 
+	the table.
+
+					WORF
+			They're not interrogating you, 
+			Mister Garak, they're debriefing 
+			you. There is a difference.
+
+					GARAK
+			Not from where I'm sitting.
+
+	Bashir steps over to the replicator.
+
+					BASHIR 
+			Tarkalean tea.
+
+					DAX
+			I'll take a raktajino, Julian.
+
+					BASHIR
+				(to replicator) 
+			And a raktajino.
+
+					O'BRIEN
+			Look, Garak -- we're at war with 
+			the Dominion. Cardassia is part 
+			of the Dominion. You're a 
+			Cardassian. And at one time, a 
+			fairly important one. Of course 
+			Starfleet Intelligence is going 
+			to press you for specifics -- they 
+			need to know everything you know.
+
+	Bashir returns and sits down with the drinks.
+
+					WORF
+			The smallest detail could prove 
+			extremely important.
+
+					GARAK
+			Well take it from me, it's a lot 
+			more fun asking questions than 
+			answering them. All things 
+			considered, I'd prefer being on 
+			the Defiant with all of you.
+
+					O'BRIEN
+			Believe me, you haven't been 
+			missing much.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     10.
+
+
+14   CONTINUED: (2)
+
+					DAX 
+			Hopefully, that's about to change.
+
+					BASHIR
+			You think Starfleet Command will 
+			approve Sisko's plan?
+
+					DAX
+			We'll find out soon enough. He's 
+			presenting it now.
+
+	O'Brien lifts his glass to Bashir.
+
+					O'BRIEN
+			Here's to retaking the castle.
+
+	Bashir lifts his glass, they CLINK.
+
+					BASHIR 
+			And planting our flag on its 
+			battlements, once again.
+
+	They drink.
+
+					DAX
+			You two spent too much time in the
+			holosuites...
+
+	And as they all sip their drinks --
+
+									CUT TO:
+
+15   INT. STARBASE 375 - SISKO'S OFFICE
+
+	Sisko, ADMIRAL ROSS, ADMIRAL COBURN, a human in his 
+	late fifties, and a Vulcan, ADMIRAL SITAK, are gathered 
+	around the wall monitor which displays Sisko's plans 
+	for the retaking of Deep Space Nine.
+
+					SISKO 
+			By putting together a task force 
+			comprised of elements from the 
+			Second, Fifth and Ninth fleets, 
+			I believe that we can take back
+			Deep Space Nine -- the most 
+			important piece of real estate in 
+			the quadrant.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     11.
+
+15   CONTINUED:
+
+					ADMIRAL SITAK 
+			Your plan, Captain Sisko, is not 
+			without merit. However, I remain 
+			skeptical.
+				(considering) 
+			The Dominion will undoubtedly send 
+			a large fleet to stop you.
+
+					SISKO
+			Which will divert their forces and 
+			slow their advance into Federation 
+			territory.
+
+					ROSS 
+			As well as leave their flank 
+			vulnerable.
+
+					SISKO
+			Giving us a chance to go on the 
+			offensive, for a change.
+
+					ADMIRAL COBURN 
+			There's one thing that still 
+			concerns me...
+
+					SISKO
+			What's that, Admiral?
+
+					ADMIRAL COBURN 
+			Earth. You've left it a very 
+			tempting target.
+
+					ROSS
+			Earth would still be defended by 
+			the Third Fleet.
+
+					ADMIRAL COBURN
+			But what if you're wrong and the 
+			Dominion doesn't commit its forces 
+			to protect Deep Space Nine? What 
+			if they launch a full-scale 
+			assault on Earth instead?
+
+	A moment as they consider this possibility.
+
+					ADMIRAL COBURN 
+			If we do what you're 
+			proposing, we'll never get 
+			reinforcements there in time.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     12.
+
+15   CONTINUED: (2)
+
+					SISKO 
+			The Dominion won't attack Earth.
+
+					ADMIRAL SITAK
+			How can you be sure?
+
+					SISKO
+			Because Earth isn't the key to the 
+			Alpha Quadrant. The wormhole is. 
+			And whoever controls Deep Space 
+			Nine controls the wormhole.
+
+	And off this moment of decision --
+
+16   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Establishing.
+
+17   INT. QUARK'S
+
+	The, by now, "normal" clientele: BAJORAN, CARDASSIAN, 
+	and some JEM'HADAR. QUARK stands behind the bar 
+	reading a PADD across from MORN, seated on his stool, 
+	waiting expectantly.
+
+					QUARK
+			Unbelievable.
+				(reads a little more) 
+			Amazing.
+				(reading a little more) 
+			What nerve.
+
+	Quark looks up from the PADD, shaking his head.
+
+					QUARK
+			Morn -- you do have a problem.
+
+	Morn gives a melancholic nod.
+
+					QUARK 
+			But lucky for you, the solution 
+			is simple. You're a grown man. 
+			If you don't want to attend your 
+			mother's birthday party, you don't 
+			have to.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     13.
+
+17   CONTINUED:
+
+					QUARK (Cont'd)
+			And if she keeps whining about it,
+			just remind her there's a war on 
+			and you have things to do.
+				(checking Morn's glass) 
+			Another ale?
+
+	Morn nods. But before Quark can draw it for him, he 
+	spots something off screen --
+
+17A  QUARK'S POV
+
+	of MAJOR KIRA walking past his establishment.
+
+17B  ON QUARK
+
+	as he stops what he's doing and starts to hurry out, 
+	putting the still empty glass in front of Morn.
+
+					QUARK
+			Here. It's on the house.
+
+	Morn looks puzzled and disappointed at the empty glass 
+	as Quark EXITS onto the Promenade.
+
+18   INT. PROMENADE - LOWER LEVEL
+
+	Quark catches up to Kira.
+
+					QUARK 
+			Major, you ready?
+
+					KIRA
+				(not thrilled at the 
+				prospect) 
+			Now?
+
+					QUARK 
+			Right now.
+
+	After a beat of consideration, Kira nods.
+
+					KIRA 
+			All right, but I don't think it'll 
+			do any good.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     14.
+
+19   INT. HABITAT RING CORRIDOR
+
+	Kira and Quark walk briskly down the hallway.
+
+					QUARK 
+			I keep telling myself that Odo 
+			never meant for Rom to get 
+			arrested... that it was all a 
+			mistake. Bad timing. Bad luck.
+
+					KIRA
+			That's what I thought, too -- at 
+			first.
+
+					QUARK
+			I've known Odo a long time... 
+			he's not a collaborator.
+
+					KIRA
+			Then why's your brother still in 
+			a holding cell?
+
+	A good question to which he doesn't have an answer. 
+	They continue walking, disappearing around a corner.
+
+20   INT. ANOTHER HABITAT RING CORRIDOR - CONTINUOUS
+
+	Kira and Quark approach a JEM'HADAR SOLDIER and BAJORAN 
+	SECURITY OFFICER, standing guard at the entrance of 
+	Odo's Quarters.
+
+
+					QUARK 
+			We're here to see Odo.
+
+					JEM'HADAR SOLDIER
+			The Founders are not to be 
+			disturbed.
+
+					QUARK
+			Odo will make an exception for us.
+
+					JEM'HADAR SOLDIER
+			There are no exceptions.
+
+					KIRA
+			I'd like to hear that from Odo.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     15.
+
+20   CONTINUED:
+
+					BAJORAN OFFICER 
+			I'm sorry, major, but you're 
+			wasting your time.
+				(off her look) 
+			His orders were quite clear. He 
+			doesn't want to see anyone. Not 
+			until his guest leaves.
+
+					KIRA
+			And how long has his "guest" been 
+			visiting?
+
+					BAJORAN OFFICER 
+			As far as I know, the female 
+			changeling hasn't left his 
+			quarters for three days.
+
+	But Quark starts towards the door, not quite ready to 
+	give up.
+
+					JEM'HADAR SOLDIER 
+			Step away from the door, Ferengi.
+
+					KIRA
+			Hey, hey...
+
+					BAJORAN OFFICER 
+			Perhaps it would be best if you left.
+				(re: the Jem'Hadar soldier) 
+			My... colleague over here takes 
+			his duties very seriously.
+				(to Kira, conciliatory) 
+			I promise to tell Odo you were here.
+
+					KIRA
+			Let's go, Quark.
+
+	Kira takes Quark by the arm and guides him away. WE 
+	HOLD ON the door for a beat --
+
+21   INT. ODO'S BEDROOM
+
+	CLOSE ON ODO, seated on a rumpled bed. The FEMALE 
+	SHAPE-SHIFTER, standing by the window, turns to face him. 
+	The Female Shape-shifter scrutinizes Odo as they speak.
+
+					FEMALE SHAPE-SHIFTER 
+			So that is how Solids experience 
+			intimacy.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     16.
+
+21   CONTINUED:
+
+					ODO
+			Not all Solids. Humans,
+			Bajorans...
+
+	The Female Shape-shifter nods; she takes all this 
+	information very seriously.
+
+					FEMALE SHAPE-SHIFTER 
+			I really must thank you, Odo.
+
+					ODO
+			For what?
+
+					FEMALE SHAPE-SHIFTER
+			For giving me a new insight into 
+			the Solids.
+
+					ODO
+			And what have you learned?
+
+					FEMALE SHAPE-SHIFTER
+			That what they consider intimacy 
+			is only a shadow of what we 
+			experience in the Great Link. 
+				(off Odo's silence) 
+			You don't agree?
+
+					ODO
+			I didn't say that.
+
+	The Female Shape-shifter decides not to push it.
+
+					FEMALE SHAPE-SHIFTER 
+			You've done this before.
+
+					ODO
+			Not often.
+
+					FEMALE SHAPE-SHIFTER
+			But when you have, you enjoyed it.
+
+					ODO
+			Yes.
+
+					FEMALE SHAPE-SHIFTER
+			And you regret not having 
+			experienced it with Major Kira.
+
+	The conversation has taken an uncomfortable turn for 
+	Odo.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     17.
+
+21   CONTINUED: (2)
+
+					ODO 
+			I'd rather not discuss Major Kira.
+
+					FEMALE SHAPE-SHIFTER
+			I don't see why not. When we 
+			link, your feelings for her are 
+			made very clear.
+
+					ODO
+			Then why do you insist we "talk" 
+			about it?
+
+					FEMALE SHAPE-SHIFTER
+			Because talking is still important 
+			to you. But I promise you, one 
+			day it won't be. One day, the 
+			Link will be all you need.
+				(a beat) 
+			And that day is coming soon.
+
+					ODO
+				(surprised) 
+			Is it?
+
+					FEMALE SHAPE-SHIFTER
+				(nodding) 
+			It's amazing you've survived this 
+			long without it. 
+			It's only now, after I've been 
+			away from the Great Link myself, 
+			that I understand how painful it 
+			must have been for you.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     18.
+
+21   CONTINUED: (3)
+
+					ODO 
+			It hasn't always been easy.
+
+					FEMALE SHAPE-SHIFTER
+				(smiling) 
+			Well, you never have to be alone 
+			again.
+
+	That thought hangs in the air for a beat.
+
+					ODO 
+			I should be going. There's a 
+			meeting of the station's Ruling 
+			Council. Dukat and Weyoun are 
+			expecting me.
+
+					FEMALE SHAPE-SHIFTER
+			That meeting was held three days 
+			ago.
+
+					ODO
+			Three days? How could I have lost 
+			track of that much time?
+
+					FEMALE SHAPE-SHIFTER
+			Does that bother you?
+
+					ODO
+				(thinking it over)
+			Yes, it does...
+
+	Odo looks at the Female Shape-shifter, hoping she will 
+	provide a clarity to resolve his confusion.
+
+					FEMALE SHAPE-SHIFTER 
+			Don't let it. You've been living 
+			with the Solids' concept of time 
+			for too long. Let them worry 
+			about meetings, schedules, 
+			obligations...
+				(dismissive)
+			... none of that has anything to 
+			do with you. You're a changeling. 
+			You're timeless.
+
+	Odo doesn't disagree. She takes hold of his hand and 
+	cups it in hers.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT ONE     19.
+
+21   CONTINUED: (4)
+
+					FEMALE SHAPE-SHIFTER 
+			As am I.
+
+22   CLOSE ON THEIR HANDS (OPTICAL)
+
+	as they begin to MORPH together into the Link. And on 
+	that moment, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     20.
+ACT TWO
+
+	FADE IN:
+
+23   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Re-establishing.
+
+24   INT. WARDROOM
+
+	WEYOUN is leaning against the table, closely studying 
+	one of Ziyal's minimalist, ink brush paintings. It 
+	seems to puzzle him.
+
+	The door OPENS, Kira ENTERS.
+
+					WEYOUN
+			(without looking up)
+			You asked to see me, major?
+
+					KIRA
+			That's right.
+
+	But before she can explain what she wants, Weyoun holds 
+	the painting up for her to see.
+
+					WEYOUN
+			First, tell me something. What
+			do you think of this?
+
+					KIRA
+			It's one of Ziyal's paintings.
+
+					WEYOUN
+			I know who the artist is. Her
+			father gave it to me. He claims
+			that it won some sort of prize on
+			Cardassia.
+
+					KIRA
+				(poker-faced)
+			Gul Dukat must be very proud.
+
+					WEYOUN
+			I suppose.
+				(sincere)
+			Is it any good?
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     21.
+
+24   CONTINUED:
+
+					KIRA 
+			I think so. Why -- don't you?
+
+					WEYOUN 
+			I don't know how to judge it. You 
+			see, my people lack a sense of aesthetics.
+
+					KIRA
+				(could care less) 
+			That's too bad.
+
+					WEYOUN
+			I sometimes think so as well. But 
+			if aesthetics were truly 
+			important, the Founders would've 
+			included it in our genetic makeup.
+
+					KIRA
+			Or they made a mistake.
+
+					WEYOUN
+			Gods don't make mistakes.
+				(musing) 
+			Though sometimes I think it would 
+			be nice to be able to carry a 
+			tune.
+				(snapping out of it) 
+			So, what can I do for you, Major?
+
+					KIRA
+			It's about Rom.
+
+					WEYOUN
+			Ah, yes, the Ferengi saboteur.
+
+					KIRA
+			He's been in a holding cell for 
+			over a week.
+
+					WEYOUN
+			Has it really been that long?
+
+					KIRA
+			I was hoping you would consider 
+			releasing him.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     22.
+
+24   CONTINUED: (2)
+
+					WEYOUN 
+			Impossible. You can't release a 
+			man and then execute him. It 
+			makes no sense.
+
+					KIRA
+			Execute Rom?
+
+					WEYOUN
+			He committed an act of terrorism 
+			against the Dominion. Not only 
+			did he try to interfere with our 
+			efforts to bring down the 
+			minefield, but as I understand it, 
+			he was also the diabolical genius 
+			who came up with the idea of 
+			self-replicating mines in the 
+			first place. I'm afraid there's 
+			no getting around it, Major. He 
+			must be made an example so that 
+			others think twice before they act 
+			against us.
+
+					KIRA
+			Rom's married to a Bajoran 
+			citizen...
+
+					WEYOUN
+			I'm well aware of that. And I'm 
+			willing to believe -- for now -- 
+			that his wife isn't a 
+			co-conspirator. Otherwise, treaty 
+			or no treaty, she would share his 
+			fate. I'm sorry, major, but the
+			Dominion takes a dim view of 
+			terrorism.
+				(with finality) 
+			Your friend must pay the price for 
+			his crime.
+
+					KIRA 
+			We'll see what the Bajoran 
+			government says about that.
+
+					WEYOUN
+			I'm afraid their pleas will fall 
+			on deaf ears.
+
+	Kira heads for the door. Weyoun stops her --
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO    22A.
+
+24   CONTINUED: (3)
+
+					WEYOUN 
+			Major.
+
+	Kira turns to see Weyoun holding up the painting.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     23.
+
+24   CONTINUED: (4)
+
+					WEYOUN 
+			Would this be more aesthetically
+			pleasing if it were blue?
+
+	Kira stares coldly for a moment, then EXITS. We hold 
+	on Weyoun for a beat to see him shrug slightly, then 
+	stare back at the painting.
+
+25   INT. HOLDING CELL
+
+	CLOSE ON ROM, seated on a bench, looking faintly 
+	worried.
+
+					ROM
+				(a statement) 
+			I'm going to die.
+
+26   WIDER
+
+	to include Quark and LEETA, standing outside the 
+	holding cell. Leeta is fighting back tears. A 
+	Jem'Hadar guard is present, but some distance away.
+
+					LEETA 
+			Stop saying that.
+
+					ROM 
+			I didn't say it --
+				(pointing to Quark) 
+			-- he did.
+
+					QUARK 
+			What I said is that they're 
+			planning to execute you -- 
+			it's not the same thing.
+
+					ROM 
+			It is to me.
+
+					LEETA 
+			Rom -- we are not going to let 
+			them hurt you. Kira has gone to 
+			the Bajoran Council of Ministers. 
+			She's asking them to lodge an 
+			official protest.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     24.
+
+26   CONTINUED:
+
+					ROM
+				(sincere) 
+			That's sweet.
+				(then grimmer) 
+			But I doubt it'll do any good.
+
+					QUARK
+
+			And I've talked to Grand Nagus Zek 
+			himself and he's offered to buy 
+			your freedom from the Dominion.
+
+					ROM 
+			I don't think Weyoun cares much 
+			for latinum.
+				(a beat) 
+			I'm a dead man.
+
+	Leeta breaks down CRYING.
+
+					QUARK 
+			Would you please stop upsetting 
+			Leeta?
+
+					ROM 
+			Sorry.
+
+					QUARK
+			Besides, you think your big 
+			brother is going to let anything 
+			happen to you?
+
+					ROM 
+			What can you do?
+
+					QUARK. 
+			I'm not sure. But I'll think of 
+			something. No matter what it 
+			takes... no matter what I have to 
+			do... I'm going to get you out of 
+			here.
+
+					LEETA 
+			Oh, Quark -- you do that and I'll 
+			work your dabo tables for free.
+
+					QUARK
+			For how long?
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     25.
+
+26   CONTINUED: (2)
+
+					LEETA 
+			An entire year.
+
+					QUARK
+			Make it two.
+
+					ROM 
+			Brother!
+
+					QUARK
+				(indignant) 
+			Isn't your life worth two years? 
+			Now sit tight and trust your older 
+			brother.
+
+					ROM 
+			But I don't want you to try to 
+			save me.
+
+	Leeta is shocked to hear Rom say such a thing.
+
+					LEETA 
+			What are you talking about?
+				(to Quark) 
+			They must've done something to his 
+			mind.
+
+					QUARK
+			What mind?
+
+					ROM 
+			I'm serious. Brother, you have 
+			more important things to worry 
+			about.
+
+					QUARK
+				(misunderstanding) 
+			The bar's doing fine. But thanks 
+			for caring.
+
+					ROM 
+			I'm not talking about the bar.
+
+
+					LEETA 
+			Rom -- what could be more 
+			important than your life?
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     26.
+
+26   CONTINUED: (3)
+
+					ROM 
+			Destroying the anti-graviton beam 
+			to prevent the Dominion from 
+			taking down the minefield.
+				(to Quark) 
+			You've got to finish what I 
+			started. The fate of the entire 
+			Alpha Quadrant rests in your 
+			hands. Billions and billions of 
+			people are counting on you.
+
+					QUARK
+				(holding his head) 
+			Boy, are they going to be 
+			disappointed.
+
+	Rom stands up.
+
+					ROM 
+			Brother, you can do this. You 
+			have to do this. You will 
+			do this.
+
+					QUARK
+			What happens if I get caught?
+
+					ROM 
+			Then we'll die together. Side-by-
+			side, heads held high -- knowing 
+			we did our best.
+
+
+	Rom stands there, holding his head high, caught up in 
+	his own vision of noble self-sacrifice. So is Leeta.
+
+					LEETA
+				(my hero) 
+			Oh, Rom...
+
+					QUARK
+			But I don't want to die...
+
+					ROM
+				(still a man with a 
+				mission) 
+			If that's what's written, then 
+			that's what's written. Now get 
+			going, brother. You have a lot 
+			of work to do.
+
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     27.
+
+26   CONTINUED: (4)
+
+ 	Quark nods... who's he to argue with such 
+	determination? Rom smiles and turns to Leeta:
+
+					ROM 
+			So, tell me, Leeta... what else 
+			is new? Have they fixed the sonic 
+			shower in our quarters yet?
+
+27   INT. REPLIMAT
+
+	ZIYAL is seated at a table, sketching on an artist's 
+	pad with real ink and paper. Kira approaches.
+
+					KIRA 
+			Ziyal.
+
+	Ziyal looks up from her drawing.
+
+					ZIYAL 
+			Nerys -- I haven't seen you in 
+			weeks.
+
+					KIRA
+			Do you have a minute?
+
+					ZIYAL 
+			Sit down.
+
+	Kira does.
+
+					KIRA 
+			I need you to talk to your father 
+			for me.
+
+					ZIYAL
+				(surprised) 
+			About what?
+
+					KIRA 
+			Rom.
+
+	And off Ziyal's questioning look
+
+									CUT TO:
+
+  DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO 28-29.     
+
+28   INT. OPS
+
+	Ziyal gets off the turbolift, looks around and heads 
+	for Dukat's office.
+
+29   INT. CAPTAIN'S OFFICE
+
+	as it OPENS and Ziyal ENTERS, a hopeful, expectant look 
+	on her face. She steps up to Dukat and kisses him on 
+	the cheek.
+
+					ZIYAL 
+			Father, I need to talk to you.
+
+					DUKAT 
+			Is something wrong, my dear?
+
+					ZIYAL 
+			Nothing that you can't fix.
+
+					DUKAT
+				(pleased he can help his 
+				daughter) 
+			Name it.
+
+	Ziyal smiles, pleased to hear her father's attitude.
+
+					ZIYAL 
+			I want you to free Rom.
+
+					DUKAT 
+			You're joking.
+
+	That's the first hint to Ziyal that this may not turn 
+	out the way she thought.
+
+					ZIYAL 
+			Not at all.
+
+					DUKAT 
+			I can't free Rom. He's been 
+			sentenced to death by the Dominion.
+
+					ZIYAL 
+			You can pardon him. Don't you 
+			see, Father, this is your chance 
+			to show the Bajoran people -- to 
+			show Major Kira who you really 
+			are. A forgiving, compassionate 
+			man -- a great man.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     30.
+
+29   CONTINUED:
+
+	Ziyal's passion has given Dukat a new worry -- he takes 
+	his daughter's hands in his, staring into her eyes.
+
+					DUKAT 
+			Tell me, Ziyal, were you 
+			involved -- in any way -- with the 
+			plan to sabotage the station?
+
+					ZIYAL
+				(pulling her hands away;
+				angry)
+			No, I wasn't involved!
+
+					DUKAT 
+			You're sure of that? I can't help 
+			you unless you tell me the truth.
+
+					ZIYAL 
+			I am telling you the truth! The 
+			question is have you been telling 
+			me the truth.
+
+					DUKAT 
+			About what?
+
+					ZIYAL 
+			That the Bajorans are wrong about 
+			you. That you regret the horrible 
+			things you had to do during the 
+			occupation.
+
+					DUKAT 
+			I do regret them. Deeply.
+
+					ZIYAL 
+			Then this is your chance to prove 
+			it to everyone, including me. 
+			Show us that you're capable of 
+			mercy.
+
+					DUKAT 
+			Rom is an enemy of the state. And 
+			enemies of the state don't deserve 
+			mercy.
+
+	The words strike Ziyal's heart.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     31.
+
+29   CONTINUED: (2)
+
+					ZIYAL 
+			Spoken like a true Cardassian.
+
+					DUKAT 
+			I am a Cardassian. And so are you.
+
+					ZIYAL 
+			No... I'm not. I could never be 
+			like you.
+
+	And with that, she turns and walks out the door. We 
+	HOLD ON Dukat as he absorbs his daughter's punishing 
+	words.
+
+30   INT. QUARK'S
+
+	Kira is at the bar talking quietly to Quark.
+
+					KIRA
+				(skeptical) 
+			Nausicaans? You can't trust them.
+
+					QUARK
+			I trust latinum. And so do they. 
+			Five bars will buy me five 
+			Nausicaans, a fast ship and very 
+			few questions. Breaking Rom out 
+			of the holding cell will be 
+			child's play compared to the 
+			things they're used to doing.
+
+					KIRA
+			Forget it, Quark. Freeing Rom is 
+			going to take careful, precise 
+			planning. That's not the 
+			Nausicaan way -- they're thugs. 
+			They'll come strutting onto the 
+			station, look at a Jem'Hadar the 
+			wrong way and the next thing you 
+			know there'll be blood on the 
+			Promenade.
+
+	Quark thinks it over, sees her point.
+
+					QUARK 
+			You think I can get my money back?
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     32.
+
+31   NEW ANGLE
+
+	as Damar ENTERS and saunters up to the bar.
+
+					DAMAR 
+			Major, a freighter loaded with 
+			Tammeron grain is due to arrive 
+			within the hour. See to it that 
+			Cargo Bay Five is ready to receive 
+			it.
+
+					KIRA
+			I'll take care of it.
+
+					DAMAR 
+			Yes, you will. Now.
+
+	Kira stares at him, then deciding he's not worth a 
+	confrontation, she prepares to leave. But Damar hasn't 
+	had enough.
+
+					DAMAR 
+			That attitude of yours, major... 
+			it won't be tolerated forever.
+
+					KIRA
+			You don't like my attitude, Damar? 
+			You're welcome to try and change it.
+
+	And with that, she walks off. We HOLD ON Damar 
+	watching her leave.
+
+					DAMAR 
+			I don't understand what Dukat sees 
+			in that woman.
+
+					QUARK
+			Then you need to get your eyes 
+			examined.
+
+	Damar LAUGHS and sits on a stool. Quark knows Damar's 
+	drink, pouring him a glass of kanar.
+
+					QUARK 
+			One kanar. Want me to leave the 
+			bottle?
+
+	Damar nods.
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     33.
+
+31   CONTINUED:
+
+					DAMAR 
+			Maybe I should have you taste it 
+			first. Make sure it isn't 
+			poisoned.
+
+					QUARK
+			Poisoning customers is bad for 
+			business.
+
+					DAMAR 
+			True. But some people might place 
+			a brother's revenge above business.
+
+					QUARK
+			Not this Ferengi.
+
+	Damar smiles.
+
+					DAMAR 
+			You're a credit to your race, 
+			Quark. Unlike your brother, 
+			you've chosen to back the winning 
+			side.
+
+	Quark studies Damar for a beat. Quark pours him 
+	another drink -- a tall one.
+
+					QUARK 
+			All right, are you going to tell 
+			me or do you want me to guess?
+
+					DAMAR 
+			Tell you what?
+
+					QUARK
+			Don't be coy with me. Either 
+			someone you don't like has died 
+			or your promotion came through.
+
+					DAMAR 
+			It's better than that.
+
+	Damar takes a heavy swig.
+
+					DAMAR 
+			It's about the minefield.
+
+
+					QUARK 
+			What about it?
+
+      DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT TWO     34.
+
+31   CONTINUED: (2)
+
+					DAMAR 
+			It's coming down.
+
+					QUARK
+			I've heard that before.
+
+					DAMAR 
+			Remember those field tests I was 
+			telling you about? They were 
+			successful. We've begun to 
+			deactivate the mines.
+
+					QUARK
+				(hiding his worry) 
+			Well, you've got your work cut out 
+			for you. What's it going to 
+			take -- a couple of months? A 
+			year?
+
+					DAMAR
+
+				(smiling) 
+			One week.
+
+					QUARK
+				(no longer hiding 
+				anything) 
+			A week?
+
+					DAMAR 
+			That's right, one week and the 
+			Alpha Quadrant will be ours.
+
+	And as Quark absorbs this news, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE    35.
+                           ACT THREE                            
+
+	FADE IN:
+
+32   EXT. SPACE - STARBASE 375 (OPTICAL)
+
+	Re-establishing, surrounded by only a few starships.
+
+33   INT. STARBASE 375 - SISKO'S OFFICE
+
+	Sisko is in a heated conversation with Worf and GENERAL 
+	MARTOK.
+
+					SISKO 
+			Gentlemen, this mission cannot 
+			succeed without the involvement 
+			of the Klingon Defense Forces.
+
+					WORF 
+			We agree, Captain. But Chancellor 
+			Gowron does not.
+
+					SISKO
+			Then you have to change his mind.
+
+	The thought of being caught in a "political" situation 
+	between the Federation and the Klingon Empire does not 
+	appeal to Martok.
+
+					MARTOK 
+			The Chancellor is reluctant to 
+			commit such a large fleet to a 
+			single engagement.
+
+					WORF 
+			He feels it would leave the Empire 
+			vulnerable.
+
+					SISKO
+			Starfleet Command had the same 
+			concerns about Earth. But after 
+			careful consideration, they 
+			decided it was worth the risk.
+
+DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE     36-37  
+
+33   CONTINUED:
+
+					WORF
+			General, perhaps you should return 
+			to Kronos and make your plea in 
+			person. The Chancellor has great 
+			respect for you. If you cannot 
+			persuade him, no one can.
+
+					MARTOK
+			I will go see Gowron --
+				(to Worf) 
+			-- and you will come with me.
+
+					WORF
+				(reluctant) 
+			The chancellor no longer considers 
+			me a friend.
+
+					MARTOK 
+			I know. But what could be 
+			better -- an ally and an enemy, 
+			both telling him the same thing? 
+			He'll have no choice but to agree.
+
+					SISKO 
+			Gentlemen, I need those ships.
+
+					WORF
+			And you shall have them.
+
+	Worf and Martok EXIT; we HOLD ON a thoughtful Sisko.
+
+34   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Re-establishing.
+
+35   OMITTED
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE    38.
+
+36   INT. QUARK'S
+
+	A very concerned Kira sits at the bar as Quark hands 
+	her a raktajino.
+
+					KIRA
+			A week? You're sure about that?
+
+					QUARK
+			That's what he said. And believe 
+			me, this was no idle boast.
+
+					KIRA
+			We've got to stop them.
+
+					QUARK
+			And end up sharing a cell with my 
+			brother? No, thanks. If we could 
+			only get to Odo... make him see 
+			what's going on. He'd have to 
+			help us...
+
+					KIRA
+			Forget about Odo. First, we can't 
+			get to him, and second, he 
+			wouldn't help us even if we did.
+
+					QUARK
+			Then what we have to do is warn 
+			Starfleet.
+
+					KIRA
+			And how do you suggest we get a 
+			message out to them?
+
+					QUARK
+			You're asking me? You're the 
+			terrorist, I'm just a bartender.
+
+37   NEW ANGLE
+
+	to include JAKE approaching.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE    39.
+
+37   CONTINUED:
+
+					JAKE 
+			From the look on your faces I can 
+			see you haven't had much luck 
+			getting Rom out of jail.
+
+					QUARK
+			And the news just keeps getting 
+			worse.
+
+					JAKE 
+			It's not all bad.
+
+					KIRA
+			Trust us, Jake. It is.
+
+					JAKE
+				(confidentially) 
+			Not for me. I'm getting a message 
+			out to my Dad.
+
+	Kira and Quark exchange a look.
+
+					KIRA 
+			How?
+
+					JAKE
+				(cocky) 
+			I'm a reporter. I have my ways.
+
+					KIRA
+				(forceful) 
+			Jake -- this is no time for games.
+
+	Jake smiles, turns and points a finger at --
+
+38   ANGLE ON MORN
+
+	seated at a table, struggling to wrap a ribbon around 
+	a large present.
+
+					KIRA (O.S.) 
+			Morn?
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE    40.
+
+39   ON KIRA AND QUARK
+
+	as they exchange a surprised look.
+
+					JAKE
+			He's going home for his mother's
+			birthday or something. He has an
+			encrypted message for my Dad in
+			one of her presents.
+
+39A  ANGLE ON MORN
+
+	still struggling with the ribbon. Suddenly a finger 
+	comes down on the ribbon, allowing him to complete the 
+	knot. Morn looks up to see --
+
+39B  MORN'S POV
+
+	off Kira and Quark looking very, very serious indeed.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE    41.
+
+40   EXT. SPACE - STARBASE 375 (OPTICAL)
+
+	Now surrounded by a gathering assortment of ships. 
+	This is the fleet Sisko has been assembling.
+
+41   INT. STARBASE 375 - SISKO'S OFFICE
+
+	Sisko and Admiral Ross are examining an iridescent 
+	strip that was once the ribbon on Morn's birthday gift 
+	to his mother.
+
+					ROSS 
+			Are you sure this is reliable?
+
+					SISKO
+			I've known the courier for five 
+			years. I trust him.
+
+					ROSS
+			Then we have a problem. 
+				(re: the strip) 
+			According to this, the minefield's 
+			coming down in three days. The Ninth 
+			Fleet won't be here for at least four.
+
+					SISKO
+			Then I suggest we go without them.
+
+					ROSS
+			What about the Klingons?
+
+					SISKO 
+			Looks like we go without them, too. 
+			We've run out of time, Admiral.
+
+					ROSS 
+				(nodding) 
+			If those Dominion reinforcements 
+			come through the wormhole... we'll 
+			have lost everything.
+
+42   CLOSE ON SISKO
+
+					SISKO 
+			We take the ships we have, fight 
+			our way to Deep Space Nine, and 
+			destroy that anti-graviton 
+			emitter. It's our only hope.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT THREE   41A.
+
+42   CONTINUED:
+
+					ROSS 
+			Do it.
+
+	And off Sisko's look of determination, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     42.
+                           ACT FOUR                             
+
+	FADE IN:
+
+43   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Re-establishing.
+
+44   INT. WARDROOM
+
+	Dukat and Weyoun are looking out the viewing port.
+
+					DUKAT
+				(pointing) 
+			There.
+
+					WEYOUN
+			Where?
+
+					DUKAT 
+			Over there. That flash of light 
+			was the anti-graviton beam hitting 
+			a mine.
+
+					WEYOUN
+				(putting it together) 
+			And disabling its replication 
+			unit...
+
+					DUKAT 
+			Exactly. Didn't you see it?
+
+					WEYOUN 
+			I'm afraid not.
+
+					DUKAT
+				(exasperated) 
+			For months you've been demanding 
+			that I take down those mines and 
+			now that it's finally happening, 
+			you can't even see it?
+
+					WEYOUN
+			Weak eyes.
+
+	Weyoun walks away from the window.
+
+					DUKAT 
+			Excuse me?
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR    42A.
+
+44   CONTINUED:
+
+					WEYOUN 
+			My people have poor eyesight. 
+			It's something we've learned to 
+			live with. The Jem'Hadar, on the 
+			other hand, have excellent vision. 
+			I suppose they need it more than 
+			we do.
+
+					DUKAT
+				(pointing)
+			There's another one!
+
+	Weyoun peers out the window, shakes his head.
+
+					WEYOUN 
+			I'll have to take your word for it.
+
+	Dukat isn't going to let this detract from his moment --
+
+					DUKAT 
+			Once we've disabled the 
+			replication units in all the 
+			mines, we can detonate the entire 
+			minefield.
+				(a beat) 
+			And I guarantee, weak eyes or not, 
+			that explosion you'll see.
+
+					WEYOUN 
+			When will you be ready to proceed?
+
+					DUKAT 
+			Approximately seventy-eight hours.
+				(relishing the thought) 
+			Three more days and we can start 
+			bringing Jem'Hadar reinforcements 
+			through the wormhole.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     43.
+
+44   CONTINUED: (2)
+
+	Weyoun is quite excited by this news.
+
+					WEYOUN 
+			Excellent. I knew you could do 
+			it, Dukat.
+
+					DUKAT
+				(skeptical) 
+			Did you?
+
+					WEYOUN
+				(with absolute "Weyoun" 
+				sincerity) 
+			I never doubted you for a moment.
+
+45   NEW ANGLE
+
+	as Damar ENTERS.
+
+					DAMAR 
+			Sir, I have new information on 
+			enemy fleet movements.
+
+					DUKAT 
+			Go ahead.
+
+					DAMAR 
+			The Second Fleet has fallen back 
+			past the Kotanka System, while the 
+			Fifth Fleet has pulled out of the 
+			fighting along the Vulcan border.
+
+	Damar crosses over to a wall monitor, taps a few keys.
+
+46   ON THE MONITOR
+
+	as it comes to life, displaying a star system.
+
+					DAMAR (O.S.)
+			Both fleets have converged here --
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     44.
+
+47   RESUME
+
+					DAMAR
+				(pointing)
+			-- at Starbase Three-Seven-Five.
+
+					DUKAT 
+			Isn't that where Captain Sisko is 
+			stationed?
+
+	Damar nods.
+
+					DAMAR 
+			He's been made an adjutant to 
+			Admiral Ross.
+
+					WEYOUN
+				(sincere) 
+			Good for him.
+				(looking at the monitor) 
+			Now why have those fleets gathered 
+			there?
+
+					DAMAR 
+			I'm not sure.
+
+					WEYOUN
+				(forceful) 
+			You're not sure? Two large enemy 
+			fleets break off from the front 
+			lines to rendezvous at a starbase 
+			and you have no idea why?
+
+					DUKAT 
+			We'll have to find out, won't we?
+
+					WEYOUN
+			See that you do.
+
+	Weyoun nods at Dukat and EXITS.
+
+48   ANGLE ON DUKAT AND DAMAR
+
+	watching him go.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     45.
+
+48   CONTINUED:
+
+					DAMAR
+				(re: Weyoun) 
+			He should speak to you with 
+			greater respect.
+
+					DUKAT 
+			One day, I'll let you teach him 
+			that lesson.
+
+	Damar smiles, he looks forward to that day.
+
+					DUKAT 
+			But right now, there's something 
+			more pressing I need you to do. 
+			It's of a personal nature -- a 
+			matter of some delicacy. It's 
+			about my daughter.
+
+	This really surprises Damar.
+
+					DAMAR 
+			Ziyal?
+
+					DUKAT 
+			We've had a misunderstanding. I 
+			want you to go and convince her 
+			to speak with me.
+
+					DAMAR 
+			Sir -- I really think I could be 
+			more valuable tracking that enemy 
+			fleet.
+
+					DUKAT
+				(getting impatient) 
+			I've given you an order, Damar. 
+			We're on the verge of a great 
+			victory and when it comes, I want 
+			my daughter by my side. Is that 
+			understood?
+
+	Damar nods, though it's clear he neither understands 
+	nor fully approves of what Dukat is doing. He EXITS.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     46.
+
+49   INT. CARGO BAY
+
+	Kira is checking some cargo as a melancholic Ziyal 
+	brings her up to date.
+
+					ZIYAL 
+			I really believed that my father 
+			had changed... that he wanted to 
+			be a man of peace.
+
+					KIRA
+			I think he believes that, too. 
+			When it suits his purpose.
+
+					ZIYAL 
+			Everything he's ever said to me 
+			has been a lie...
+
+					KIRA
+			Not everything. He really does 
+			care for you.
+
+					ZIYAL 
+			I don't care. I'm not going back 
+			to him.
+
+	Kira remains silent.
+
+					ZIYAL 
+			You don't believe me, do you?
+
+					KIRA
+			Right now, you're angry and 
+			disappointed. But that'll pass. 
+			And then you'll have to decide 
+			what to do.
+
+	The cargo bay doors OPEN and Damar ENTERS.
+
+					DAMAR 
+			Ziyal, I need to speak to you.
+
+					ZIYAL 
+			You and I have nothing to talk 
+			about.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     47.
+
+49   CONTINUED:
+
+					DAMAR 
+			Maybe not. But you and your 
+			father do. He wants to see you.
+
+					ZIYAL 
+			Well I don't want to see him.
+
+					KIRA
+				(to Damar) 
+			You heard her.
+
+					DAMAR
+			Stay out of this, major.
+				(to Ziyal) 
+			Listen to me, Ziyal. Your father 
+			is a great man. A man of destiny. 
+			But he also carries great burdens. 
+			He knows our alliance with the 
+			Dominion is a dangerous one. If 
+			we show any sign of weakness, our 
+			allies will turn on us. That's 
+			why we must all help your father 
+			remain strong. So I ask you to 
+			be a true daughter of Cardassia 
+			and stand beside him.
+
+					ZIYAL 
+			It should be obvious even to you, 
+			Damar, that I am not a "true 
+			daughter of Cardassia."
+
+					DAMAR 
+			What's obvious to me is that your 
+			father should've left you to rot 
+			in that Breen prison camp.
+				(a beat) 
+			But he didn't. He took pity on 
+			you and it's your duty to repay 
+			him.
+
+	Damar grabs her by the arm.
+
+					DAMAR 
+			Now come with me.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     48.
+
+49   CONTINUED:	(2)
+
+	But Kira intercedes.
+
+					KIRA
+			Leave her alone.
+
+					DAMAR
+			And if I don't? What happens then?
+
+					KIRA
+
+			I was hoping you'd ask.
+
+	Kira starts to turn away, then swings back at Damar, 
+	landing a solid series of blows that drive Damar 
+	against the bulkhead. Kira has three months of 
+	frustration to work out and she sees to it that Damar 
+	is on the receiving end of every bit of it. By the 
+	time she's finished with him, Damar is an unconscious 
+	lump on the floor.
+
+					ZIYAL
+			Did you kill him?
+
+	Kira catches her breath, and checks Damar for a pulse.
+
+					KIRA
+			No, but I thought about it.
+
+					ZIYAL
+			What are you going to do when he
+			wakes up?
+
+					KIRA
+			That's up to him.
+
+	And as the two women walk away, we go to --
+
+50   EXT. SPACE - STARBASE 375 (OPTICAL)
+
+	TIGHT ON the Starbase.
+
+50A  INT. SISKO'S OFFICE
+
+	Sisko is seated, studying a Bajoran PADD. Admiral Ross 
+	ENTERS.
+
+					ROSS
+			I thought I'd stop by and wish you
+			luck.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR    48A.
+
+50A  CONTINUED:
+
+					SISKO 
+			Thanks. My father says you can 
+			never have too much luck.
+
+					ROSS 
+			Your father sounds like a wise man.
+
+					SISKO
+				(nodding)
+			And he makes a good jambalaya.
+
+	Ross smiles appreciatively as Sisko puts the PADD down 
+	on the table.
+
+					ROSS
+				(re: the PADD) 
+			What's this?
+
+					SISKO
+			It's the Bajoran Ancient Texts.
+
+					ROSS 
+			The Emissary looks for guidance 
+			on the eve of battle?
+
+					SISKO
+			Guidance, insights... loopholes. 
+			I'll take anything I can get.
+
+					ROSS 
+			And what do the Prophets tell you?
+
+					SISKO
+
+			That I have a long way to go 
+			before I can make any sense of 
+			their prophecies.
+
+	Sisko stands up and prepares to leave.
+
+					ROSS 
+			Maybe when this war's over you'll 
+			get the chance to study them 
+			closer.
+
+					SISKO
+			It would be a welcome change.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR    48B.
+
+51   INT. DEFIANT - CORRIDOR OUTSIDE ENGINEERING
+
+	O'Brien emerges from Engineering to find Nog 
+	approaching. Nog is now wearing a shiny new ensign's 
+	uniform -- engineering gold.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     49.
+
+51   CONTINUED:
+
+					NOG 
+			Chief, I was just coming to see 
+			you.
+				(re: his uniform) 
+			Can you believe it? They made me 
+			an ensign.
+
+					O'BRIEN
+				(dry) 
+			I didn't realize that things were 
+			going so bad.
+
+					NOG 
+			Scary, isn't it?
+
+	O'Brien and Nog start moving down the corridor.
+
+					NOG 
+			If my classmates at the Academy 
+			could only see me now...
+
+					O'BRIEN
+			They'd be surprised, would they?
+
+					NOG 
+			Amazed is more like it.
+
+					O'BRIEN
+				(dismissive) 
+			What do they know.
+
+					NOG 
+			Anyway, I just wanted to say 
+			thanks for all your help.
+
+					O'BRIEN
+			My help?
+
+					NOG 
+			I've learned a lot from you -- and 
+			not just about engineering. 
+			You've shown me what it takes to 
+			be a good soldier.
+
+					O'BRIEN
+			Well don't let that uniform go to 
+			your head. You've got a lot to 
+			learn yet.
+
+	Nog nods.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     50.
+
+51   CONTINUED: (2)
+
+					O'BRIEN
+			And you will.
+
+	Nog looks over at O'Brien, who gives him a small smile.
+
+					O'BRIEN
+			Congratulations, ensign. Wear it
+			with pride.
+
+					NOG
+			I intend to, Chief.
+
+52   INT. DEFIANT - BRIDGE
+
+	Dax is in the Captain's Chair. Bashir stands beside 
+	her. O'Brien and Nog ENTER and as they head for their 
+	stations, lead us to Sisko and Garak, also ENTERING 
+	from the other door.
+
+					NOG
+			Captain on the bridge.
+
+	Garak takes his place alongside Bashir as Sisko moves 
+	to Dax.
+
+					DAX
+				(getting out of the chair)
+			I've kept it warm for you, Ben.
+
+	Dax moves over to her station at the helm. Sisko looks 
+	around at the Bridge. His crew looks back at him 
+	expectantly.
+
+	Sisko sits in the Captain's Chair.
+
+					SISKO
+			Ensign, alert all ships. we're
+			moving out.
+
+					NOG
+			Aye, sir.
+
+	And as Nog taps his console --
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FOUR     51.
+
+53   EXT. SPACE - STARBASE 375 (OPTICAL)
+
+	WIDE shot of the large task force as they break orbit 
+	and begin their journey to Deep Space Nine.
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     52.
+                           ACT FIVE                             
+
+	FADE IN:
+
+54   INT. CAPTAIN'S OFFICE
+
+	Weyoun is listening to Dukat.
+
+					DUKAT 
+			Our initial intelligence reports 
+			have been verified. The 
+			Federation fleet is on the move.
+
+					WEYOUN
+			Do we know their destination?
+
+					DUKAT 
+			It would appear they're headed 
+			here.
+
+					WEYOUN
+			Here?
+
+	He thinks about it for a moment, then a smile dances 
+	across his lips.
+
+					WEYOUN 
+			He knows we're taking down the
+			minefield.
+				(a hard look) 
+			Someone must've gotten a message 
+			out.
+
+					DUKAT 
+			So it would seem.
+
+					WEYOUN
+			No matter. We'll crush them.
+
+	Dukat hands Weyoun a PADD.
+
+					DUKAT 
+			Yes, we will. And in order to do 
+			that, we're going to have to pull 
+			a significant number of our ships 
+			off the front lines.
+
+					WEYOUN
+			Do it.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     53.
+
+54   CONTINUED:
+
+	Damar ENTERS, his face bruised from his encounter with 
+	Kira. Dukat's attention immediately goes to Damar.
+
+					WEYOUN 
+			Once the minefield comes down, 
+			there'll be more than enough ships 
+			to take their place.
+
+					DUKAT
+				(nodding impatiently to 
+				Weyoun) 
+			I understand. One moment.
+
+	Dukat moves to Damar.
+
+					DAMAR 
+			I want your permission to arrest 
+			Major Kira.
+
+					DUKAT
+				(sotto voce) 
+			Kira? What about Ziyal -- did you 
+			talk to her?
+
+					DAMAR
+				(nodding) 
+			She doesn't want to see you. When 
+			I insisted, the major... objected.
+
+	Dukat is furious but, aware that Weyoun is in the room, 
+	he controls his temper and voice.
+
+					DUKAT 
+			What did you do to Ziyal?
+
+					DAMAR 
+			I did nothing to her.
+
+					DUKAT 
+			Then why did Kira attack you? You 
+			must've done something... 
+			threatened my daughter in some 
+			way. I told you to be tactful.
+
+	Weyoun is impatient with this interruption.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     54.
+
+54   CONTINUED: (2)
+
+					WEYOUN 
+			Excuse me, but don't you think 
+			resolving family squabbles can 
+			wait until after we've won this 
+			war?
+				(smiles at Dukat) 
+			Weak eyes, good ears.
+
+					DUKAT
+				(chagrined) 
+			Yes, of course. You're quite 
+			right.
+
+					WEYOUN
+			Then you're clear on what must be 
+			done.
+
+					DUKAT 
+			We will call back enough ships to 
+			destroy the Federation fleet and 
+			hold this station.
+
+	And with that, Weyoun nods and EXITS.
+
+					DAMAR
+				(excited) 
+			The Federation is moving against 
+			us?
+
+					DUKAT 
+			That's right. Now I want to hear 
+			exactly what went on between you 
+			and Ziyal.
+
+55   INT. PROMENADE - SECOND LEVEL
+
+	The Female Shape-shifter and Odo gaze down upon the 
+	passing crowd.
+
+					ODO 
+			Odd. I've stood here countless 
+			times... yet somehow everything 
+			looks different.
+
+					FEMALE SHAPE-SHIFTER
+			It's the Solids. They look small, 
+			don't they? Insignificant.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     55.
+
+55   CONTINUED:
+
+					ODO
+			It's not their fault.
+
+					FEMALE SHAPE-SHIFTER
+			I'm not placing blame.
+
+					ODO
+			They're trapped.
+
+					FEMALE SHAPE-SHIFTER
+			Confined to a single shape.
+
+					ODO
+			A single perspective.
+
+					FEMALE SHAPE-SHIFTER
+			It's so limiting.
+
+					ODO
+			I feel sorry for them.
+
+					FEMALE SHAPE-SHIFTER
+			They need our guidance, Odo. Not
+			our pity.
+
+					ODO
+			They cherish their freedom.
+
+					FEMALE SHAPE-SHIFTER
+				(pointed)
+			We'll have to break them of that.
+
+	And there's something about the way she says it -- 
+	so cold, so clinical, so frightening -- that it snaps Odo 
+	out of his reverie.
+
+					ODO
+			Break them?
+
+					FEMALE SHAPE-SHIFTER
+			In a manner of speaking. This
+			language of the Solids... it's so
+			imprecise.
+
+ 					ODO
+			What exactly do you plan to do?
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE    55A.
+
+55   CONTINUED: (2)
+
+					FEMALE SHAPE-SHIFTER 
+			The Solids are no longer your 
+			concern, Odo.
+				(a beat) 
+			What must be done, will be done. 
+			It's as simple as that.
+
+	It doesn't sound very simple to Odo, but before he can 
+	question her further, Weyoun approaches reverentially.
+
+					WEYOUN
+				(to the Female Shape-shifter) 
+			Forgive me for intruding but I 
+			have important news about the 
+			war.
+
+					FEMALE SHAPE-SHIFTER 
+			Why don't you return to your 
+			quarters, Odo. I'll join you 
+			there shortly.
+
+	Odo hesitates.
+
+					FEMALE SHAPE-SHIFTER 
+			Everything will be fine. I 
+			promise.
+
+	Odo nods, but it's clear that he is not convinced. He 
+	EXITS.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     56.
+
+55   CONTINUED: (3)
+
+					WEYOUN 
+			I must say, you're doing a 
+			wonderful job with Odo.
+
+					FEMALE SHAPE-SHIFTER
+			Meaning what?
+
+					WEYOUN
+			Meaning that he's always posed a 
+			potential threat to our plans. 
+			But you seem to have... 
+			neutralized him quite nicely.
+
+					FEMALE SHAPE-SHIFTER
+			Neutralize Odo? Is that why you 
+			think I'm here? Odo is a 
+			changeling. Bringing him home -- 
+			returning him to the Great Link 
+			means more to us than the Alpha 
+			Quadrant itself. Is that clear?
+
+					WEYOUN
+				(backpedaling)
+			I meant no disrespect...
+
+	The Female Shape-shifter stares impassively at Weyoun, 
+	who grows more and more nervous under her gaze. 
+	Finally, the Shape-shifter offers a thin smile.
+
+					FEMALE SHAPE-SHIFTER 
+			Of course you didn't. You are 
+			what you are... a loyal subject 
+			of the Dominion. Come, walk with 
+			me. You said you had important 
+			news...
+
+	And as they walk off --
+
+56   INT. PROMENADE - LOWER LEVEL
+
+	A troubled Odo heads for his quarters when he spots 
+	something off screen --
+
+57   ODO'S POV
+
+	of Kira headed for a turbolift.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     57.
+
+58   ON ODO
+
+	racing towards her and calling out:
+
+					ODO
+			Major!
+
+59   ON KIRA
+
+	who doesn't hear him or is too preoccupied to respond. 
+	The turbolift doors close behind her.
+
+	Odo races up to the turbolift, too late. Unwilling to 
+	pass up this opportunity to speak to her, Odo rushes 
+	off to catch another turbolift.
+
+60   INT. HABITAT RING CORRIDOR
+
+	Kira emerges from a turbolift and heads down the 
+	corridor.
+
+61   ANOTHER ANGLE
+
+	as Odo turns a corner and runs to catch up to Kira.
+
+					ODO
+			Kira.
+
+	Kira turns, sees Odo, and tries to ignore him 
+	continuing on her way. Odo catches up to her anyway.
+
+					ODO
+			Wait, please.
+
+					KIRA
+			I have nothing to say to you.
+
+					ODO
+			I understand that you're angry.
+
+					KIRA
+			You bet I'm angry.
+
+	Kira stops and faces Odo.
+
+					KIRA
+			Do you have any idea what's been
+			going on?
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE    57A.
+
+61   CONTINUED:
+
+					ODO 
+			Yes... somewhat... I've been 
+			occupied.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     58.
+
+61   CONTINUED:	(2)
+
+					KIRA
+				(the words pouring out) 
+			Dukat's bringing down the 
+			minefield, the Federation is about 
+			to be overrun by Dominion 
+			reinforcements, and Weyoun's 
+			ordered Rom's execution.
+				(a beat, pointed)
+			And you've been... occupied.
+
+	Kira resumes walking, leaving Odo to catch up again.
+
+					ODO 
+			It's so difficult to explain...
+
+					KIRA
+				(unmoved)
+			If you're going to tell me about 
+			the Link, don't bother. I'm a 
+			Solid, remember. I wouldn't 
+			understand.
+
+					ODO
+			Nerys...
+
+	Odo takes Kira's arm to stop her. They face each other.
+
+					ODO 
+			I'm sorry.
+
+					KIRA
+			Sorry?
+				(laughing) 
+			That's what you wanted to say to 
+			me? You're sorry?
+
+					ODO
+			Yes.
+
+					KIRA 
+			Let me tell you something, Odo.
+
+	Kira breaks free of Odo's grip.
+
+					KIRA
+			We are way past "sorry."
+
+	And with that, Kira leaves.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     59.
+
+61A  CLOSE ON ODO
+
+	watching his friend walk away. And on his troubled 
+	expression, we go to --
+
+62   EXT. SPACE (OPTICAL)
+
+	As Sisko's Federation fleet moves in battle formation. 
+	Small fighter ships lead the way, followed by 
+	progressively bigger ships -- all the way to Galaxy 
+	class. Even without the Second Fleet, it's an 
+	impressive sight.  (Note: the fleet moves at impulse 
+	power, not at warp.)
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     60.
+
+62   CONTINUED:
+
+	The Defiant, the flagship of the fleet, flies somewhere 
+	in the middle of the pack.
+
+63   INT. DEFIANT - BRIDGE
+
+	Dax is at the helm, O'Brien and Nog are at side 
+	consoles and Garak is at a science station, while 
+	Bashir stands near the Captain's Chair.
+
+					O'BRIEN 
+				(to Sisko) 
+			Sir, incoming message from the 
+			Cortez. They're still having 
+			trouble stabilizing the guidance 
+			thrusters on their port nacelle.
+
+					SISKO 
+			Tell them to drop back and make 
+			repairs. Bring up the Sarek to 
+			take its place.
+
+					O'BRIEN 
+			Will do.
+
+					GARAK
+				(gloomy) 
+			That's the eleventh ship to fall 
+			out of formation.
+
+					DAX 
+			Nice of you to keep track, Garak.
+
+					BASHIR
+			He can't help being negative -- 
+			it's his nature.
+
+					GARAK
+			On the contrary, I always hope for 
+			the best. Unfortunately, 
+			experience has taught me to expect 
+			the worst.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. 9/5/97 - ACT FIVE     61.
+
+63   CONTINUED:
+
+					O'BRIEN
+			I'm picking something up...
+				(a beat as he reads his 
+				console)
+			Sir, it's a large Dominion fleet,
+			bearing zero-zero-four mark zero-
+			zero-nine.
+
+					SISKO
+			How large?
+
+	At first O'Brien doesn't answer, slightly taken aback 
+	by what he's reading on his console.
+
+					O'BRIEN
+			Twelve hundred and fifty four
+			ships.
+
+	A beat as everyone absorbs this information.
+
+					BASHIR
+			They outnumber us two to one.
+
+					GARAK
+			Now who's being negative.
+
+					SISKO
+			Onscreen. Maximum magnification.
+
+64   ANGLE ON THE SCREEN - SPACE (OPTICAL)
+
+	The biggest enemy fleet we've ever seen is waiting to 
+	meet us. A solid wall of ships. It's an awesome 
+	sight.
+
+65   RESUME ON SISKO
+
+	as he taps his command console.
+
+					SISKO
+			To all ships, this is Captain
+			Sisko. Assume attack formation
+			Delta-two.
+
+	The ship goes to Red Alert.
+
+     DEEP SPACE NINE: "Favor the Bold" - REV. -9/5/97 - ACT FIVE    62.
+
+65   CONTINUED:
+
+	Sisko leans back in his chair as we drop out of warp.
+
+					SISKO 
+			There's an old saying, "Fortune 
+			favors the bold." 
+				(a beat) 
+			Well, we're about to find out.
+
+	And on that moment, we:
+
+66   
+and   OMITTED
+67
+
+									FADE OUT.
+
+                        TO BE CONTINUED                         
+
+                        END OF ACT FIVE                         
+                            THE END                             

@@ -1,0 +1,2970 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "The Alternate" 
+                          #40512-432 
+                              
+                           Story by 
+                  Jim Trombetta and Bill Dial 
+                              
+                          Teleplay by 
+                           Bill Dial 
+                              
+                          Directed by 
+                         David Carson 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        October 27, 1993
+
+      STAR TREK: DS9   "The Alternate" - 10/27/93 - CAST
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Alternate" 
+                             CAST 
+
+          SISKO                    MORA
+          KIRA                     WELD
+          ODO                      SECURITY OFFICER'S
+          QUARK                    COM VOICE
+          BASHIR                   KLINGON TENOR
+          DAX                      (ON SPEAKER)
+          O'BRIEN                  
+          JAKE                     
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D FERENGI
+
+      STAR TREK: DS9 - "The Alternate" - 10/27/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Alternate" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE           
+          QUARK'S                       
+          PROMENADE                     WORMHOLE
+          RUNABOUT                      
+          OPS                           PLANET SURFACE
+          SURGERY                       
+          SCIENCE LAB                   RUNABOUT
+          CORRIDOR (OUTSIDE SCIENCE LAB)
+          DARK CONDUIT                  
+          SECURITY OFFICE               
+          INFIRMARY                     
+          SISKO'S QUARTERS              
+            JAKE'S BEDROOM
+
+  STAR TREK: DS9 - "The Alternate" - 11/12/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Alternate" 
+                      PRONUNCIATION GUIDE 
+
+          BAJOR                    BAY-Jor
+          BAJORAN                  bah-JOR-an
+          DEKA TEA                 DEE-kuh tea
+          KHOSLA                   KOH-slah
+          MORA POL                 MAW-ra POHL
+          PLEGG                    PLEHGG
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "The Alternate"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S
+
+	We begin with a close angle on a small, iridescent disc in 
+	Quark's hand.  He turns it over and over as he talks.
+
+					QUARK (O.S.)
+			I am merely a businessman.  It would 
+			take an orator with the skills of 
+			the late, great Plegg himself, to 
+			sing the praises of the late, great 
+			Plegg.
+
+	We widen to see that QUARK is in the midst of a sales pitch 
+	to a curious fellow Ferengi at the bar.  The disc he is 
+	holding is a Ferengi "Memorial Disc." Near him is a 
+	ceremonially decorated box full of these discs.  Perhaps 
+	there are two or three others gathered to watch this.
+
+					QUARK
+				(continuing)
+			What Ferengi could resist the honor 
+			of owning a small piece of the man 
+			who took a computer chip and turned 
+			it into the modular holosuite 
+			industry... a small piece of the man 
+			who brought holographic entertainment 
+			to the most remote parts of this 
+			quadrant, creating profit centers 
+			from societies that could barely 
+			afford to feed their own people...
+
+	ODO arrives quietly joining the sales pitch...
+
+					ODO
+				(re: the disc)
+			How much are you asking?
+
+	Quark reacts, knowing Odo is here to screw up his pitch...
+
+					QUARK
+			As I was about to tell my good friend 
+			here, a mere three strips of 
+			latinum...
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - TEASER         2.
+
+1    CONTINUED:
+
+	The Ferengi hears the price and immediately walks... 
+	calling after him...
+
+					QUARK
+			And I'd be taking a loss at that 
+			price... okay, for you, two strips...
+				(sighs, he's lost 
+				him, to odo)
+			Thank you very much.
+
+					ODO
+			Three strips?  That's a fair price 
+			for Plegg.
+
+					QUARK
+				(reacts)
+			I suppose you're interested.
+
+					ODO
+			Humanoid death rituals are an interest 
+			of mine.
+
+					QUARK
+			Death rituals.
+
+					ODO
+			Everybody needs a hobby.
+
+					QUARK
+				(dubious)
+			Uh huh...
+
+					ODO
+			Some species burn their dead, others 
+			pack them in blocks of ice... some 
+			even surround themselves with the 
+			company of family corpses.  But the 
+			Ferengi ritual of chopping up their 
+			loved ones and selling them... I 
+			find that... irresistible.
+
+					QUARK
+				(not buying)
+			I'm very busy here.
+
+					ODO
+				(pursuing him)
+			What a fitting and dignified way to 
+			honor the memory of great Ferengi 
+			entrepreneurs.  I'm thinking of 
+			starting a collection.
+
+           DEEP SPACE: "The Alternate" - 10/27/93 - TEASER           3.
+
+1    CONTINUED:	(2)
+
+					ODO
+			Putting up a display case in my 
+			office.  There'll be a special space 
+			reserved for you in there, Quark.
+
+					QUARK
+			I'm sure.
+
+	Odo puts three strips of latinum on the bartop... and that 
+	really stops Quark.
+
+					QUARK
+			You're serious?
+
+					ODO
+			Have you ever known me not to be?
+
+	Quark's waiting for the payoff to the gag... he hesitantly 
+	takes the money and begins to slide the disc across the bar 
+	to Odo...
+
+					ODO
+			Oh, there is one thing I was curious 
+			about...
+
+					QUARK
+				(knows something's 
+				coming)
+			And what's that...
+
+					ODO
+			How do I know it's Plegg?
+
+					QUARK
+			It says so on the label.
+
+					ODO
+			Isn't there some sort of letter of 
+			authenticity?
+
+					QUARK
+				(pointing)
+			The Ferengi Seal of Dismemberment is 
+			right there.  What more do you want?
+
+					ODO
+			I want Plegg.
+
+					QUARK
+			You've got him!
+
+        DEEP SPACE: "The Alternate" - REV. 11/12/93 - TEASER         4.
+
+1    CONTINUED:	(3)
+
+					ODO
+			Not if he's still alive...
+
+					QUARK
+				(a beat)
+			Still alive?
+
+					ODO
+			Still alive.
+
+					QUARK
+				(aghast)
+			Plegg?
+
+					ODO
+			When I tracked him down on Khosla 
+			Two and told him about your little 
+			scheme, he was quite amused.  I'm 
+			not.
+
+	Odo takes back his latinum strips.
+
+					QUARK
+			Odo, I'm a victim here.  I bought 
+			these discs in good faith.  I have 
+			five thousand pieces of Plegg in my 
+			storeroom.
+
+					ODO
+			Not Plegg.
+
+					QUARK
+			Then who?
+
+					ODO
+			Good question.
+
+					QUARK
+			I demand an investigation...
+
+					ODO
+			You'll get one.  I promise you.
+
+					MORA (O.S.)
+			Odo...
+
+	Odo turns to the voice and reacts as he sees...
+
+2    ANGLE
+
+	Doctor MORA POL, standing there, smiling at him.
+
+					ODO
+				(surprised)
+			Doctor Mora...
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - TEASER         5.
+
+2    CONTINUED:
+
+					MORA
+			It's been too long.
+
+	He sticks his hand out and Odo shakes it, definitely 
+	uncomfortable... especially with Quark there to observe.
+
+					MORA
+			You're looking well.  Yes, coming 
+			along nicely.
+
+					ODO
+			Why didn't you let me know you were 
+			coming?
+
+					MORA
+			It was a last minute arrangement.
+
+					ODO
+			The trip from Bajor takes five hours.
+
+					QUARK
+				(terribly curious)
+			Ah, can I get you something... Doctor 
+			"Mora" was it?
+
+					MORA
+			Yes.  Some Deka tea would be nice...
+
+	Quark goes to work...
+
+					MORA
+				(in studying Odo)
+			You haven't quite managed the ears, 
+			yet, have you?  But, they're 
+			difficult.  Is the suit a suit, or 
+			part of you?  And what about the 
+			boots?
+
+	Quark arrives with tea...
+
+					QUARK
+			There we are... nice and hot...
+
+					MORA
+			Thank you...
+
+	Quark lingers, Odo waits for him to leave... but Quark can't 
+	resist...
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - TEASER         6.
+
+2    CONTINUED:	(2)
+
+					QUARK
+			So...
+				(beat)
+			You two seem to be old friends...
+
+					ODO
+				(getting it over with)
+			Doctor Mora is the Bajoran scientist 
+			who was assigned to me after I was 
+			found.
+
+					MORA
+				(with pride)
+			I was personally responsible for his 
+			development during his formative 
+			years.
+
+					QUARK
+			Then, this is a family reunion!  I 
+			had a hunch... well, Odo's dad is 
+			always welcome in Quark's... the tea 
+			is on the house...
+
+			MORA   				ODO
+		Well, actually...			He isn't my...
+
+	But Quark doesn't hear their denials beginning... he blows 
+	through it... continuing...
+
+					QUARK
+				(to Mora)
+			I know he wouldn't tell you himself.  
+			But Odo is doing a wonderful job 
+			here on the station if I may say 
+			so...
+
+					MORA
+			Is he...
+
+					QUARK
+			Absolutely.  As a matter of fact, 
+			when you came in, he was just 
+			beginning a fraud investiga...
+
+					ODO
+				(interrupting)
+			Quark!
+				(Quark turns to him)
+			Excuse us.
+
+	He pulls Mora away from the bar.
+
+           DEEP SPACE: "The Alternate" - 10/27/93 - TEASER           7.
+
+2    CONTINUED:	(2)
+
+					QUARK
+				(calling after them)
+			Of course.  You two have a lot of 
+			catching up to do.  If there's 
+			anything I can help you with, Doctor, 
+			don't hesitate to call on me.
+
+	Odo and Mora EXIT.
+
+2A   INT. PROMENADE
+
+	Mora is studying Odo carefully, picks up none of the 
+	discomfort that Odo is feeling.  But it is important to note 
+	that Mora is extremely likeable in every casual way possible.  
+	He has a warm sense of humor, is outgoing with people and 
+	even with Odo, he is comfortable in a superficial way.  But 
+	there is no intimacy from him toward Odo.  No personal 
+	relationship.  More of what you'd expect from a business 
+	relationship.  In fact, he is a scientist.   And Odo is his 
+	specimen.
+
+					MORA
+			That was uncalled for.
+
+					ODO
+			You don't know Quark.
+
+					MORA
+			I know he was trying very hard to 
+			present you in a positive light to 
+			someone he thought was important to 
+			you and you responded with...
+
+					ODO
+				("don't lecture me" 
+				implied)
+			Please...
+
+					MORA
+			Still having trouble with social 
+			integration... ?
+
+					ODO
+			I integrate as much as I want to.
+
+					MORA
+			Define "as much as I want to."
+
+           DEEP SPACE: "The Alternate" - 10/27/93 - TEASER          7A.
+
+2A   CONTINUED:
+
+					ODO
+			"As much as I want to" means as much 
+			as I want to.
+				(already tired of 
+				this, a last defense)
+
+			Quark is a thief, a con man, nobody 
+			you want to know...
+
+           DEEP SPACE: "The Alternate" - 10/27/93 - TEASER           8.
+
+2A   CONTINUED:	(2)
+
+	Mora studies him, gives a scientific "hmmm"... if we had 
+	pipes in this universe, he'd puff on one... They sit at the 
+	Replimat.
+
+					MORA
+			So how is this police thing you got 
+			yourself into working out?
+
+					ODO
+			I enjoy my work as chief of security.
+
+					MORA
+				(casual, not realizing 
+				the pain this causes)
+			"Chief of security."  At a weigh 
+			station in space.
+
+	As a shape-shifter, Odo probably shrinks a little at hearing 
+	this... Mora smiles at him...
+
+					MORA
+			Don't you miss it, Odo?
+
+					ODO
+			What.
+
+					MORA
+			Our work.
+
+					ODO
+			Never.
+
+					MORA
+			I don't believe it.  I know you too 
+			well.  You were unhappy in the lab.  
+			I couldn't blame you for that.  But 
+			the work, Odo.  The exploration of 
+			you.  What you are.  Where you came 
+			from.  That's never far from your 
+			mind, is it.  Tell me the truth.
+
+					ODO
+			That part of it... is true.
+
+					MORA
+			Good.  Because I came here counting 
+			on that.
+
+	Off Odo's curious expression...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT ONE        9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+3    INT. SISKO'S QUARTERS
+
+	SISKO is working at his computer as JAKE starts to exit...
+
+					JAKE
+			See you later, Dad...
+
+	It takes Sisko a beat to react...
+
+					SISKO
+			Hey... hey... hold on...
+
+					JAKE
+			I'm late...
+
+					SISKO
+			For what?
+
+					JAKE
+			For Nog.
+
+					SISKO
+			Your homework...
+
+					JAKE
+			It's done...
+
+					SISKO
+			You've studied that whole Klingon 
+			opera for your music test Friday?...
+
+					JAKE
+			I'm gonna ace the test, Dad, I 
+			promise...
+
+					SISKO
+			That isn't what I asked...
+
+					JAKE
+			It's not until Friday...
+
+					SISKO
+			This isn't about tests, Jake.  This 
+			is about learning.
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT ONE       10.
+
+3    CONTINUED:
+
+					SISKO
+			You can't learn to appreciate Klingon 
+			opera by just cramming the night 
+			before an exam.
+
+					JAKE
+			I'm never gonna learn to appreciate 
+			Klingon opera.  It's a waste of time.
+
+					SISKO
+			Being with Nog is not a waste of 
+			time but Klingon opera is?
+
+					JAKE
+			Yeah!
+				(beat)
+			What am I ever going to use Klingon 
+			opera for?
+
+					SISKO
+			First of all, you don't know what 
+			you'll be when you grow up... you 
+			may discover along the way you want 
+			to be a musician or you may wind up 
+			around Klingons in some job 
+			somewhere...
+
+					JAKE
+			Dad, even if I do, they won't be 
+			going around singing operas...
+
+					SISKO
+			It helps to understand their 
+			culture...
+
+					JAKE
+			When was the last time you listened 
+			to a Klingon opera?
+
+					SISKO
+				(beat, knowing that 
+				he's getting sucked 
+				in)
+			When I was your age.
+
+					JAKE
+			There, you see?
+
+					SISKO
+			Yes.  Do you?
+
+          DEEP SPACE: "The Alternate" - 10/27/93 - ACT ONE          11.
+
+3    CONTINUED:	(2)
+
+					JAKE
+			Dad, just because you had to suffer 
+			through all that doesn't mean I have 
+			to.
+
+					SISKO
+				(smiles)
+			Yes.  It does.
+
+	A chime at the door...
+
+					SISKO
+			Come in...
+
+	Odo is at the door as it opens...
+
+					JAKE
+			Dad...
+
+					SISKO
+				(the perfect solution)
+			Nog has the same test.  Why don't 
+			you invite him over to listen to the 
+			Klingon opera together?
+
+	Jake looks at him incredulously, laughs at the impossible 
+	notion and walks morosely back to his room.
+
+					SISKO
+			Sit down, Odo.
+
+	They sit.
+
+					ODO
+			Commander, I'd like to request the 
+			use of a runabout.
+
+					SISKO
+			Of course.  What's up?
+
+					ODO
+			Doctor Mora Pol from the Bajoran 
+			Institute of Science asked me to 
+			help him secure one from the 
+			Federation.
+
+					SISKO
+			Why did he come to you?
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT ONE       12.
+
+3    CONTINUED:	(3)
+
+					ODO
+			Doctor Mora was the scientist who 
+			was assigned to me in my first years 
+			here... if he went to the Board of 
+			Ministers to request permission to 
+			approach you, it would take months.  
+			And he's very anxious to investigate 
+			something in the Gamma Quadrant.  
+			And may I say, Commander, so am I.
+
+					SISKO
+			You've got me curious, Constable.  
+			Is it a secret?
+
+					ODO
+			No, but there isn't much to tell.  
+			One of the Bajoran science probes 
+			recently scanned a planet about six 
+			light years from the wormhole.  It 
+			picked up some very unique and 
+			familiar DNA patterns.  Patterns 
+			very much like my own, Commander.
+				(beat)
+			Doctor Mora thinks he may have found 
+			the origin of my people... of... 
+			me...
+
+	Off Sisko's reaction...
+
+4    EXT. SPACE - THE WORMHOLE
+
+	The Federation runabout comes out of it into the Gamma 
+	Quadrant... the wormhole closes...
+
+5    INT. RUNABOUT
+
+	DAX is the pilot.  Doctor Mora sits in the co-pilot seat.  
+	Odo and a second Bajoran scientist are in the background.  
+	We'll get to know this other scientist as DOCTOR WELD RAM.
+
+					MORA
+				(to Dax)
+			As a scientist yourself, Lieutenant, 
+			you can appreciate the difficulty of 
+			our dilemma, and the elegance of the 
+			solution.  When Odo was first found, 
+			no one knew who, or indeed, what we 
+			were dealing with.
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT ONE       13.
+
+5    CONTINUED:
+
+					MORA
+			A shapeless, viscous mass of fluid, 
+			a veritable organic broth.  That was 
+			our Odo in the beginning.
+
+					DAX
+			When did you realize you were dealing 
+			with a sentient lifeform?
+
+					ODO
+			He didn't.  I had to teach him that 
+			myself.
+
+					MORA
+				(laughs)
+			That's true.  That's very true.  
+			Tell her.
+
+					ODO
+			It was a dilemma for me.  I'd never 
+			seen anything like these creatures 
+			either.
+
+					MORA
+			"Seen" isn't really an appropriate 
+			description.  He had no eyes per 
+			se...
+
+					ODO
+			I was only trying to describe it in 
+			simple terms...
+
+					MORA
+				(ignoring that)
+			He had never perceived anything like 
+			us before... go on...
+
+					ODO
+			And I knew I had to find some way to 
+			communicate with them.  So I 
+			transformed myself into...
+
+					MORA
+				(taking the story 
+				away)
+			It was remarkable.  I'd been coming 
+			into the lab every morning, and every 
+			morning Odo was still in his liquid 
+			form, resting in a Krokan petri 
+			beaker.  Well... one morning, Odo 
+			wasn't there.  The beaker was empty, 
+			and beside it: an identical beaker 
+			that had not been there before.
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT ONE       14.
+
+5    CONTINUED:	(2)
+
+					MORA
+			A perfect replica in every way.  It 
+			was amazing.
+				(a look back at Odo)
+			It hasn't been the same since you 
+			left, Odo.  Working with you was the 
+			most rewarding part of my career.
+
+	Odo doesn't acknowledge.
+
+					DAX
+			We're approaching the planet.
+
+	We hear the engines disengage...
+
+					DAX
+				(continuing)
+			Preparing to enter standard orbit... 
+			planet designated L-S-Six.
+
+					WELD
+			Initiating scans.
+
+6    EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	moves into orbit around a planet...
+
+7    INT. RUNABOUT
+
+					DAX
+			There's a lot of seismic activity 
+			down there... possibly volcanic in 
+			origin...
+
+					MORA
+			That's consistent with the probe's 
+			analysis of the area...
+
+					ODO
+			Perhaps that's why the changelings 
+			had to leave this world...
+
+					MORA
+			"Changelings?"  That's a new one.
+
+					ODO
+			I've met people from the Gamma 
+			quadrant who've heard stories of a 
+			lifeform...
+
+          DEEP SPACE: "The Alternate" - 10/27/93 - ACT ONE          15.
+
+7    CONTINUED:
+
+					MORA
+				(laughs, interrupting, 
+				victorious)
+			And you said you weren't interested 
+			in our work anymore...
+
+					ODO
+			That's not what I said...
+
+					WELD
+			I think I've located the area where 
+			the probe identified the trace 
+			elements... I'm picking up the same 
+			DNA traces... entering coordinates...
+
+					DAX
+			Moving into synchronous orbit.
+
+					WELD
+				(off sensors)
+			Look at these readings, Doctor... I 
+			believe there's some kind of 
+			artificial structure on the surface...
+
+					MORA
+				(smiles, in 
+				anticipation)
+			Is it safe to go down, Lieutenant?
+
+					DAX
+			Surface disturbances are minor... 
+			for the moment anyway...
+
+					MORA
+			Let's do it.
+
+	As they begin to move...
+
+        DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT ONE       16.
+
+8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL)
+
+	Dax, Mora, Odo and Weld beam to the surface.  There are minor 
+	tremors throughout.  Dax and Weld have science cases to 
+	collect and preserve specimens.  Mora consults a tricorder.  
+	As they move through the ruins, we see Weld taking samples 
+	away from the main group... he eventually wanders out of 
+	view...
+
+9    WITH ODO AND MORA
+
+	As they move through shattered, stone ruins.  Followed by 
+	Dax, they approach the center of the ruins.
+
+10   A CEREMONIAL STELE
+
+	a truncated, white stone pillar standing at the center of 
+	the ruins.  There are raised letter shapes in the surface of 
+	the pillar.
+
+11   ODO
+
+	As he approaches the stele, studies it with an intensity... 
+	could the answer to his mystery be on this artifact... ?  He 
+	reaches out, almost reverently, to touch it.
+
+					MORA
+			Do the letters mean anything to you?
+
+	Mora and Dax have approached the stele and are near Odo as 
+	he studies it.
+
+					ODO
+			No.  I don't think so.
+
+					MORA
+			Well, judging by its position in the 
+			ruins, I think it's fair to say this 
+			pillar represented something important 
+			to the people who lived here.
+
+        DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT ONE       17.
+
+11   CONTINUED:
+
+					DAX
+			Why don't we take it with us... our 
+			computer back on the station might 
+			be able to decipher the inscription...
+
+	Mora acknowledges.  She begins to set small rods around the 
+	stele...
+
+					MORA
+			Where's Doctor Weld gone to?  
+			Weld?
+
+					WELD (O.S.)
+			Over here.
+
+12   WITH WELD
+
+	some distance away as he gathers specimens among the broken 
+	stones.  Mora and Odo cross to him.
+
+13   ANGLE DOWN
+
+	As Weld takes a sample of a very strange looking tiny lifeform 
+	and puts it in a containment case.
+
+					WELD
+			I may have found what we're looking 
+			for.
+
+					MORA
+			Is it carbon based?
+
+					WELD
+				(checking a reading)
+			No.  Silicate, but vegetative, and 
+			very much alive.
+
+	Odo studies it with a real intensity... Mora glances at him, 
+	grins...
+
+					MORA
+			Odo Junior, perhaps?
+
+	Odo doesn't acknowledge him.  In the background, WE HEAR the 
+	effect of the transport field enhancers ZAPPING into 
+	operation...
+
+        DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT ONE       18.
+
+14   WITH DAX (OPTICAL)
+
+					DAX
+			Computer, begin transport.
+
+	The pillar DEMATERIALIZES... and as Dax begins to gather the 
+	rods... the others return and there is a low rumbling, then 
+	a tremor, small at first, but gathering intensity.  Dax 
+	reacts, and this all happens very fast --
+
+					DAX
+				(urgent)
+			Computer, realign transporter... 
+			lock on to our combadges...
+
+					COMPUTER VOICE
+			Stand by...
+
+15   AT THE BLUFF
+
+	The ground is shaking more intensely... Mora, Odo and Weld 
+	move for shelter... there is a deafening roar.  A sudden 
+	jolt and loud cracking noise.  The air is suddenly filled 
+	with gas escaping from unseen fissures.
+
+16   OMITTED
+
+17   DAX, MORA, AND WELD (OPTICAL)
+
+	Covered by the dust and gas reel back from it toward the 
+	bluff.
+
+					COMPUTER VOICE
+			Ready for transport...
+
+	But by now, the three humanoids are severely affected and 
+	fall to the ground, coughing and trembling.  The shaking 
+	continues.  Mora seems almost paralyzed by the effects of 
+	the gas.  Dax is choking as Odo kneels to help her.  Weld is 
+	doubled over in a fetal position.  Mora is unconscious and 
+	not moving.  Odo hits his combadge...
+
+					ODO
+			Computer, energize!
+
+        DEEP SPACE: "The Alternate" - REV. 10/29/93 - ACT ONE       19.
+
+17   CONTINUED:
+
+	All DEMATERIALIZE.  Just as the last traces of them fade 
+	away, more gas comes up...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT TWO       20.
+                            ACT TWO                             
+
+	FADE IN:
+
+18   EXT. SPACE - THE WORMHOLE
+
+	As the Runabout flashes through and the wormhole closes behind 
+	it in the Alpha Quadrant.
+
+	INT. RUNABOUT
+19
+	A worried Odo pilots the ship.  Behind him we can see Doctor 
+	Mora, Doctor Weld and Dax, all very ill.
+
+					ODO
+				(to com)
+			Deep Space Nine... this is the Rio 
+			Grande.  I have seriously injured 
+			personnel on board.  Request emergency 
+			action.
+
+20   INT. OPS
+
+	KIRA, and O'BRIEN react to Odo's message.  Sisko ENTERS from 
+	his office and crosses down to them.
+
+					KIRA
+				(on communicator to 
+				Odo)
+			We read you, Odo.  Who's injured?
+
+					ODO'S COM VOICE
+			Dax, Doctor Mora, and Doctor Weld.  
+			There was some kind of volcanic gas...
+
+					O'BRIEN
+				(to com)
+			When you get within transporter range, 
+			I'll beam them directly to the 
+			Infirmary.
+
+					SISKO
+				(to Kira)
+			Alert Doctor Bashir.
+
+	Sisko EXITS, on his way to the Infirmary.
+
+21   EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	hurries home.
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT TWO       21.
+
+22   INT. SURGERY - LATER
+
+	BASHIR is hard at work stabilizing and checking out his 
+	patients, Dax, Doctor Mora, and Doctor Weld, who are all in 
+	bunks.  Mora and Weld are unconscious, using respirator masks.  
+	Dax is resting, but breathing normally.  Odo is sitting, 
+	fully dressed on a bed.  Bashir talks to Sisko as he works...
+
+					BASHIR
+			They're stable for now.  Dax is in 
+			fair condition, the Bajorans seem to 
+			be more seriously affected.  Perhaps 
+			they were exposed to more of the 
+			gas, or there may be something about 
+			Trill physiology... I'm not sure 
+			yet...
+
+					SISKO
+			And Odo?
+
+					ODO
+			I'm fine.
+
+					BASHIR
+			The paralyzing action occurred when 
+			the gas was taken into the respiratory 
+			system.  Since Odo doesn't have a 
+			respiratory system as we know it, he 
+			apparently wasn't affected at all.
+
+					SISKO
+			O'Brien's off-loaded the cargo they 
+			brought back.  He's set up everything 
+			in the Science Lab.  I understand 
+			there are some organic specimens 
+			from that planet.  Maybe there's 
+			something that can help you figure 
+			this out.
+
+					BASHIR
+			Good idea.
+
+	During the above, Odo has crossed slowly to Mora's bed...
+
+23   AT MORA'S BED
+
+	Mora is breathing irregularly, and with some difficulty.  
+	Odo looks at him a long moment.  His mentor seems very weak 
+	and small.
+
+        DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT TWO       22.
+
+23   CONTINUED:
+
+					ODO
+				(without emotion)
+			Will he be all right?
+
+					BASHIR
+			The molecule appears to have quite 
+			an unstable structure.  That might 
+			mean the effect is temporary.
+
+	Odo nods, EXITS.  Sisko follows him.
+
+24   INT. PROMENADE - CONTINUOUS
+
+	As Sisko and Odo walk together.
+
+					SISKO
+			I know how you feel, Constable.
+
+					ODO
+			Feel?  About what?
+
+					SISKO
+			When my father got ill... I remember 
+			thinking how small and weak he looked 
+			lying there in the bed.  He'd been 
+			so strong... independent... to me it 
+			always seemed there was nothing he 
+			couldn't do.  In the end, I realized 
+			that there was nothing he could do.  
+			And nothing I could do to help him.
+
+					ODO
+			I appreciate your thoughts, Commander.  
+			But Doctor Mora is not my father.
+
+	Odo moves off... and as Sisko watches him a beat...
+
+25   INT. SISKO'S QUARTERS
+
+	Sisko, his mind still on the scene with Odo, ENTERS to the 
+	sound of a Klingon tenor coming from the speakers... sees 
+	Jake sitting at the computer... trying desperately to follow 
+	the extensive Klingon dramatic text displayed on the screen... 
+	looks up doe-eyed at Sisko as he ENTERS... "Satisfied?" his 
+	eyes seem to say.
+
+        DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT TWO       23.
+
+25   CONTINUED:
+
+	Sisko smiles softly... moves across the room, pulls up a 
+	chair and sits next to his son, puts one arm around his 
+	shoulder, and points with the other hand to the Klingon 
+	symbols along with the song... after a beat, (if it still 
+	works in this set-up) Jake puts his head on Sisko's shoulder 
+	and follows the text... and it is one of those special father-
+	son moments that will stay with them to the end of their 
+	lives.
+
+					KLINGON TENOR
+				(on speaker)
+			Kak-lah... Kak-lah... Kah-pool-AYYY-
+			do-la-kak-lah... Yoh boo la to dah... 
+			Yoh boo la to da...
+
+			Ah... do ro may... do ro may... do 
+			ro may... do ro MAY de lat so 
+			may...
+
+			Uh clop-doh... uh gah... Uh clop-
+			doh uh gah dor... Uh cop-doh... uh 
+			gah... dor ray... dor ray... dor 
+			ray.
+
+26   OMITTED
+
+27   INT. SCIENCE LAB (VPB)
+
+	Close on the carved pillar from the planet in the Gamma 
+	Quadrant.  Moving to find O'Brien studying the lifeform sample 
+	magnified on a monitor as Odo ENTERS.
+
+28   WIDER ANGLE
+
+	There are several worktables with large glass or plastic 
+	cases on them.  O'Brien turns to Odo as he crosses to him 
+	and the pillar.
+
+					O'BRIEN
+			The computer's having a hard time 
+			classifying your new lifeform.
+
+					ODO
+			Why?
+
+        DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT TWO       24.
+
+28   CONTINUED:
+
+					O'BRIEN
+			Whatever it is keeps changing... 
+			somehow it goes through a 
+			metamorphosis every time it 
+			reproduces... and it reproduces like 
+			crazy.  Look at this...
+
+	He pulls the sample out of the scope... it's in a new larger 
+	container...
+
+					O'BRIEN
+			It's multiplied so much, I had to 
+			change containers... I'll put it in 
+			a level-five security field overnight.  
+			I wish Dax were here to take a look 
+			at it... how's she doing... ?
+
+					ODO
+			Doctor Bashir thinks she'll be fine...
+
+	O'Brien acknowledges, pleased.  Odo moves to the stele... 
+	studies it...
+
+					O'BRIEN
+			Have any idea what it is?
+
+					ODO
+			I'm hoping it's a key, Mister O'Brien.  
+			A key to my past.
+
+	Odo takes a dramatic beat and EXITS... O'Brien thoughtfully 
+	watches him go... turns back and looks at... the mysterious 
+	stele.
+
+29   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Time passage.
+
+30   INT. SISKO'S QUARTERS
+
+	Sisko's asleep in bed when the com line rings... he awakes 
+	gently...
+
+        DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT TWO       25.
+
+30   CONTINUED:
+
+					KIRA'S COM VOICE
+			Kira to Sisko.
+
+					SISKO
+			Go ahead, Major...
+
+					KIRA'S COM VOICE
+			Sorry to bother you, Commander.  But 
+			we need you up here in the Science 
+			Lab.
+
+	Sisko gets up...
+
+					SISKO
+			I'm on my way.
+
+31   OMITTED
+
+32   INT. SCIENCE LAB
+
+	Sisko ENTERS.  A second later, Odo ENTERS behind him.  Kira 
+	is there with O'Brien.  They are surrounded by wreckage.  
+	Someone or something has completely trashed the Lab -- tables 
+	are overturned, the glass cases have been smashed.  Odo moves 
+	to O'Brien at the table where the lifeform sample was stored.  
+	The cases are smashed.  As they look over the damage, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+
+       DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT THREE      26.
+                           ACT THREE                            
+
+	FADE IN:
+
+33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE
+
+	O'Brien will be taking readings with a tricorder...
+
+					SISKO
+			Any signs of a break-in?
+
+					KIRA
+			Not that we've been able to find... 
+			the security seal on the lab was 
+			still in place when we got here...
+
+					O'BRIEN
+			I can't imagine why anyone would 
+			want to steal that thing anyway...
+
+					SISKO
+			You're suggesting the lifeform itself 
+			did this...
+
+					O'BRIEN
+			I don't know what did this.  
+			Commander.  Unless a tornado passed 
+			this way without us hearing it.  The 
+			room was locked.  It's gone... that's 
+			all I know for now.
+
+	Sisko gives an uneasy look toward the mysterious pillar.
+
+					SISKO
+				(to Odo)
+			Let's go to yellow alert.  Get a 
+			Level Three Security Scan of the 
+			entire station underway.
+
+					O'BRIEN
+			Our scanners are probably gonna have 
+			trouble finding this lifeform.
+
+       DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT THREE      27.
+
+33   CONTINUED:
+
+					O'BRIEN
+			It has metamorphic qualities that 
+			were confusing the computer.  You 
+			better run the sweep two or three 
+			times.
+
+					ODO
+				(acknowledges)
+			Major, you could help me by reviewing 
+			the security camera records and the 
+			heat sensor readouts for the Lab and 
+			the surrounding areas.
+
+	Kira acknowledges, EXITS.  O'Brien has found something.
+
+					O'BRIEN
+			Commander, I'm picking up slight 
+			trace elements near the ventilation 
+			intake duct.  It looks as though 
+			the lifeform may have taken this way 
+			out.
+
+	Dax ENTERS.  She's still a bit shaky, but recovered enough 
+	to return to duty.  The others are surprised to see her.
+
+					SISKO
+			Doctor Bashir give you permission to 
+			be up and about?
+
+					DAX
+				(as she moves, 
+				examining the damage)
+			"Doctor Bashir" wouldn't listen to 
+			me and hid my clothes so I wouldn't 
+			leave.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT THREE      28.
+
+33   CONTINUED:	(2)
+
+					DAX
+			I had to sneak out to my quarters in 
+			a hospital gown that wouldn't close 
+			in the back... but I met a nice ensign 
+			on the way.  What did this...
+
+					SISKO
+			The working theory is that the 
+			lifeform you brought back is somehow 
+			responsible...
+
+					DAX
+			I don't believe it.
+
+					SISKO
+			Good.  Find me a better theory.
+
+	Dax pauses to study the stele... nods to Sisko thoughtfully, 
+	then remembers.
+
+					DAX
+			Odo, Doctor Mora is awake and wants 
+			to see you.
+
+	Odo reacts to this, then EXITS.
+
+34   INT. SURGERY - DARK
+
+	Doctor Mora is still lying in bed, better but weak.  The 
+	monitoring devices are still hooked up.  Odo is standing by 
+	the bed.  A night nurse may be visible through the door in 
+	the Infirmary.
+
+					MORA
+			I heard them say something had 
+			happened in the lab.
+
+					ODO
+			The lifeform sample is gone.
+
+					MORA
+			Gone?
+
+					ODO
+			We're not sure why or how yet...
+
+	Struggling to sit up...
+
+					MORA
+			I want to help...
+
+         DEEP SPACE: "The Alternate" - 10/27/93 - ACT THREE         29.
+
+34   CONTINUED:
+
+					ODO
+			Everything is under control...
+
+					MORA
+			I know more about shape-shifters than 
+			anyone in this sector...
+
+					ODO
+			Anyone except me, and I'll be running 
+			the investigation.
+
+	Odo easily controls him in the bed... and Mora's hand quite 
+	naturally winds up on his arm... and it's the first physical 
+	contact that is intimate in any way...
+
+					ODO
+			Besides we're not even sure it is a 
+			shape-shifting lifeform...
+
+					MORA
+			Any metamorphic characteristics?
+
+					ODO
+				(acknowledging)
+			It was changing faster than the 
+			computer could analyze.
+
+	Mora's eyes sparkle with enthusiasm.
+
+					MORA
+			Any indication of intelligence...
+
+					ODO
+			Not unless you consider wanton 
+			destruction of the lab an indication 
+			of intelligence...
+
+					MORA
+			It might be... It might be... Don't 
+			dismiss any possibility...
+
+	Mora is obviously tired...
+
+					MORA
+			Doctor Weld hasn't regained 
+			consciousness.  I feel... responsible.
+
+	Odo looks at the inert figure of Weld in the bed...
+
+					ODO
+			I know Doctor Bashir is doing 
+			everything possible.
+
+       DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT THREE      30.
+
+34   CONTINUED:	(2)
+
+	He looks back down at Mora, who is asleep.  And as he looks 
+	at him, there is a change somehow... as it always seems in 
+	life, sickbeds bring people closer together.  After a beat, 
+	Odo EXITS...
+
+35   OMITTED
+
+36   INT. DARK CONDUIT
+
+	As O'Brien climbs in a fairly bare shaft... this is a basic 
+	life support, air flow conduit... we might hear a background 
+	noise of the life support generators humming... O'Brien takes 
+	out a tricorder, takes a reading...
+
+					O'BRIEN
+			The same trace elements are inside 
+			the duct...
+
+	As he moves forward...
+
+									INTERCUT:
+
+37   INT. SECURITY OFFICE (VPB)
+
+	Sisko and Odo looking at monitors conducting Okudagram 
+	scans...
+
+					O'BRIEN'S COM VOICE
+				(continuing)
+			I'm following the trail, moving toward 
+			Corridor Two-H...
+
+					SISKO
+				(to com)
+			Nothing's showing up anywhere on the 
+			scanners, Chief.
+
+38   INT. DARK CONDUIT
+
+	O'Brien continuing to move... the palm beacon scouring the 
+	forward areas...
+
+       DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT THREE      31.
+
+38   CONTINUED:
+
+					O'BRIEN
+			Yeah, I figured as much.  Did the 
+			security cameras in the lab give you 
+			anything?
+
+					ODO'S COM VOICE
+			The security cameras stopped operating 
+			for forty-three seconds at zero-three 
+			hundred hours, five minutes... right 
+			when the alarm sounded...
+
+					O'BRIEN
+			Stopped... you mean somebody turned 
+			them off?
+
+39   INT. SECURITY OFFICE (VPB)
+
+	Working at panels on the security grid...
+
+					SISKO
+			More likely some kind of power 
+			interruption... It might have affected 
+			the security field around the lifeform 
+			too... We're trying to analyze it 
+			now...
+
+40   INT. DARK CONDUIT
+
+	O'Brien moving ahead cautiously... checking his tricorder...
+
+					O'BRIEN
+			Do the heat sensors in the lab show 
+			any thermal deviation at the same 
+			time?
+
+					SISKO'S COM VOICE
+			Almost a six degree increase during 
+			the forty-three seconds...
+
+					O'BRIEN
+			But then back to normal after that.
+
+					SISKO'S COM VOICE
+			Affirmative.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT THREE      32.
+
+41   INT. SECURITY OFFICE (VPB)
+
+					O'BRIEN'S COM VOICE
+			We might be dealing with an entity 
+			that absorbs low frequency R-F 
+			energy... it might be feeding off 
+			our power...
+
+					ODO
+			But an energy drain should be showing 
+			up on our scans...
+
+42   INT. DARK CONDUIT
+
+					O'BRIEN
+			Yeah, that's true, Constable.  I 
+			don't get it.  Maybe this thermal 
+			deviation was the result of...
+
+	He interrupts himself as he hears a strange sound ahead... a 
+	sort of structural groaning, although we might not be able 
+	to identify it as that...
+
+					SISKO'S COM VOICE
+			Chief?
+
+					O'BRIEN
+			Hold on, I hear something.
+
+43   INT. SECURITY OFFICE (VPB)
+
+	Sisko and Odo move to the same monitor...
+
+					SISKO
+			We've got your position.  Nothing 
+			else is showing up anywhere near 
+			you...
+
+44   INT. DARK CONDUIT
+
+	Moving...
+
+					O'BRIEN
+			Well, I definitely hear something 
+			ahead... can you hear it on the comm 
+			line... ?
+
+					SISKO'S COM VOICE
+			No...
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT THREE      33.
+
+44   CONTINUED:
+
+					O'BRIEN
+			It almost sounds like... I don't 
+			know how to describe it... I'm moving 
+			in closer...
+				(beat)
+			If you run into my wife, don't mention 
+			I did this...
+
+45   INT. SECURITY OFFICE
+
+					SISKO
+				(to Odo)
+			Move some backup to the nearest 
+			corridor...
+
+					ODO
+				(acknowledges, hits 
+				combadge)
+			Security to Core Section, Level Four, 
+			Corridor Two-H...
+
+					O'BRIEN'S COM VOICE
+				(overlapping)
+			I'll come home tonight and she'll 
+			ask me how my day was... and I'll 
+			say, fine, honey, how was yours?...
+
+46   INT. DARK CONDUIT
+
+	The strange sound is a little louder now as he gets closer...
+
+					O'BRIEN
+			Sometimes I think she really doesn't 
+			want to know the truth, so I do us 
+			both a favor and...
+
+	He's come to the sound... shines the light up at the top of 
+	the conduit... there's a sagging breach at a juncture line... 
+	the sound is of structural distress... O'Brien relaxes...
+
+					O'BRIEN
+			Just a structural breach... we need 
+			to get a maintenance crew up here...
+
+	As he examines the breach closer with his hand...
+
+					O'BRIEN
+			Shouldn't be any problem to...
+
+       DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT THREE      34.
+
+46   CONTINUED:
+
+	Suddenly, as he pulls at the breach just a little, the 
+	sag opens and shockingly the lifeform, a pailfull this time, 
+	cascades over O'Brien, startling him...
+
+					O'BRIEN
+				(startled)
+			Ahhh!
+
+	He starts to swipe at the stuff...
+
+					SISKO'S COM VOICE
+			O'Brien report!
+
+	Then quickly realizes it's harmless...
+
+					O'BRIEN
+			I'm okay... I'm fine... I found our 
+			missing lifeform...
+
+	With his tricorder...
+
+					O'BRIEN
+			Except it's not a lifeform anymore.  
+			It's dead.
+
+	In the Security Office, Sisko and Odo react...
+
+47   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+					SISKO (V.O.)
+			Station log, Stardate 47391.7.  
+			Engineering crews have been working 
+			for over fifteen hours searching 
+			conduits throughout the core section.  
+			There have been no additional 
+			incidents and no further evidence of 
+			the alien lifeform has been found.  
+			Yellow alert has been canceled.
+
+48   INT. INFIRMARY (VPB)
+
+	Bashir and Dax are studying the inert sample of the lifeform 
+	on a monitor...
+
+					BASHIR
+			With this kind of cellular structure, 
+			the lifeform would have needed a 
+			higher concentration of carbon dioxide 
+			than our atmosphere provides...
+
+       DEEP SPACE: "The Alternate" - REV. 10/27/93 - ACT THREE      35.
+
+48   CONTINUED:
+
+					DAX
+				(nods in agreement)
+			It just couldn't survive out of its 
+			own environment.
+
+					BASHIR
+			That'd be my analysis...
+
+					DAX
+			But with that in mind, do you still 
+			think this lifeform was capable of 
+			destroying the lab?
+
+					BASHIR
+			It's not impossible.  The 
+			environmental impact might have taken 
+			some time to set in.
+
+	Dax grunts, dubious.  Stands, getting ready to leave.
+
+					DAX
+			I really would like Doctor Mora's 
+			opinion on all this...
+
+					BASHIR
+			He's a lot better.  He should be up 
+			and around in the morning.
+
+	A beat... Dax nods, at the door...
+
+					DAX
+			Feel like a Raktajino before we call 
+			it a night?
+
+					BASHIR
+				(lightly)
+			My replicator or yours...
+
+					DAX
+			I was thinking of the Promenade.
+
+					BASHIR
+			I knew that.  Thanks anyway.  I have 
+			a few things to wrap up here.
+
+					DAX
+			Sleep tight, Julian.
+
+	She EXITS.  He watches her go... turns to his work... 
+	murmuring to himself...
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT THREE      36.
+
+48   CONTINUED:	(2)
+
+					BASHIR
+			She enjoys it... it gives her some 
+			perverse kind of pleasure.  One of 
+			these days, I'll stop chasing her 
+			and then we'll see...
+
+	There's a sound from surgery... Bashir reacts, moves into...
+
+49   INT. SURGERY
+
+	The room is dark and Bashir doesn't turn on the lights as he 
+	ENTERS.  Mora and Weld are both in bed asleep.  He looks 
+	around doesn't see anything unusual...
+
+50   ANGLE - HIS BACK TO THE VENTILATION SHAFT
+
+					(OPTICAL)
+			as he wonders to himself what the 
+			noise might have been, we see a vague 
+			figure drop silently from the ceiling 
+			behind him... Bashir doesn't react...
+
+50A  ANGLE - NEAR MORA'S BED
+
+	as Bashir relaxes, takes the opportunity to check the medical 
+	monitors... and this all happens extraordinarily fast -- 
+	suddenly a tentacle wraps around his neck from behind like a 
+	whip and pulls him...
+
+50B  ANGLE
+
+	as Bashir is pulled down sharply by the unseen creature... 
+	crashing into a medical supply table... which falls over...
+
+50C  MORA'S EYES
+
+	open... reacting to the noise... just getting his bearings...
+
+50D  BASHIR
+
+	struggling to breathe... reaches out...
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT THREE     36A.
+
+50E  HIS HAND (OPTICAL)
+
+	finds a laser scalpel from the floor... picks it up... fires 
+	over his shoulder, hitting the creature, which groans with 
+	impact and pulls away...
+
+50F  MORA
+
+	sits up... tries to see... but all there is...
+
+51   FAVORING HIS POV (OPTICAL)
+
+	The barest movement of something disappearing into the 
+	ventilation grill...
+
+52   BASHIR
+
+	out of breath and frightened, as he hits his combadge.
+
+					BASHIR
+			Emergency!  Emergency!  Intruder 
+			alert.
+
+	He leans back against the wall, laser scalpel at the ready.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FOUR       37.
+                           ACT FOUR                             
+
+	FADE IN:
+
+53   INT. SURGERY
+
+	A lot of activity.  A Starfleet engineer and a science officer 
+	examine the area.  O'Brien is up on a ladder shining a palm 
+	beacon into the open ventilator shaft.  Dax is using a 
+	tricorder to pick up any organic traces on the floor in the 
+	lab.  Bashir is seated nearby.  Doctor Mora is dressed now, 
+	stands with Odo and Sisko talking to the shaken Bashir.  
+	Weld is still unconscious in bed.
+
+					BASHIR
+			It happened so quickly.  I'm sorry I 
+			can't tell you more about it.  It 
+			was behind me, then it was gone.  
+			But it was big.  Very big.
+
+					SISKO
+			How badly did you injure it?
+
+					BASHIR
+			I don't know.  I don't know if I 
+			injured it at all.  I just hit it 
+			once with a laser scalpel on its 
+			arm, or leg, or tentacle... whatever 
+			it was, and it moved up the wall 
+			and... was gone.
+
+					MORA
+				(with scientific 
+				distance)
+			It appears our lifeform has survived 
+			and grown into something interesting.
+
+					ODO
+			Did you notice anything else about 
+			the room when you entered, Doctor... 
+			anything out of place, anything 
+			unusual...
+				(Bashir shakes his 
+				head, doesn't think 
+				so)
+			Was it unusually warm, perhaps?
+
+	Mora observes Odo at work...
+
+					BASHIR
+				(beat, thinking)
+			Now that you mention it, it was a 
+			bit warm in here...
+
+       DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT FOUR       38.
+
+53   CONTINUED:
+
+					ODO
+				(to Sisko)
+			Another thermal distortion... Did 
+			you try the lights, Doctor?
+
+					BASHIR
+			No, I didn't want to disturb the 
+			patients.
+
+					ODO
+			Commander, I suggest we check the R-
+			F energy flow to the Infirmary... we 
+			might find a power interruption just 
+			as we did in the lab.
+
+	Sisko acknowledges.  Mora is extremely impressed with Odo's 
+	line of investigation here... Dax crosses to them, checking 
+	her sensor.
+
+					DAX
+			No blood, or any fluid traces.  But 
+			I am picking up a very slight trail 
+			of something we didn't see last time.  
+			An organic residue.
+
+					SISKO
+			Enough to test?
+
+					DAX
+			We'll see.
+
+	She EXITS.
+
+					SISKO
+				(hits combadge)
+			Sisko to Ops.KIRA'S COM VOICE Go 
+			ahead.
+
+					SISKO
+			Restrict all nonessential personnel 
+			to their quarters and go to red alert, 
+			Major.
+
+					KIRA'S COM VOICE
+			Understood.
+
+					SISKO
+				(to Odo)
+			Keep in touch with Dax's progress... 
+			she might give us a way to track 
+			this thing...
+
+       DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT FOUR      38A.
+
+53   CONTINUED:	(2)
+
+					ODO
+			Until we can, I suggest we close 
+			down the Promenade.
+
+					SISKO
+				(acknowledges)
+			I'll give the order, Constable.
+
+	He EXITS... leaving Mora and Odo together.  Mora is still 
+	studying Odo with admiration.
+
+					MORA
+			"Constable."
+
+					ODO
+			It's a nickname that I barely 
+			tolerate.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FOUR       39.
+
+53   CONTINUED:	(2)
+
+					MORA
+			It's the expression of affection 
+			that you find uncomfortable.
+
+	Odo bristles at being analyzed even if it is accurate... 
+	EXITS... Mora notices his reaction, didn't mean to hurt him, 
+	follows with the intention of "making up"...
+
+54   INT. PROMENADE
+
+	As they come out of the Infirmary...
+
+					MORA
+			You know, that was really a remarkable 
+			display back there...
+
+					ODO
+			Display?
+
+					MORA
+			You were careful, attentive...
+
+					ODO
+			I was just doing my job.
+
+					MORA
+			Yes, well, I'm beginning to think 
+			that the scientific method and the 
+			police method have a lot in common.
+
+					ODO
+			I never thought of it that way.  
+			Perhaps they do.
+
+					MORA
+			In science we look for the obvious.  
+			We track in straight lines.  If 
+			something looks too good to be true, 
+			it probably isn't true.  If there 
+			seems to be more to something than 
+			meets the eye, there usually is 
+			more.  We take it step by step.
+
+					ODO
+			That would apply to criminal 
+			investigation also.
+
+       DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT FOUR       40.
+
+54   CONTINUED:
+
+					MORA
+			You do it very well.
+				(beat)
+			I'm proud of you, Odo.  Did you know 
+			that?
+
+	Odo just nods, but it's clear that he didn't know that.  
+	They walk a beat in silence...
+
+55   INT. SCIENCE LAB (VPB)
+
+	As they ENTER... Dax is examining the traces... checking the 
+	monitor... entering instructions, pressing panels... Mora 
+	stops to study the pillar, which has been moved...
+
+					ODO
+			Anything?
+
+					DAX
+				(shakes her head)
+			The computer's having trouble breaking 
+			down the DNA chains.
+
+					MORA
+			What about the pillar... has the 
+			computer had any success decoding 
+			the encryption?
+
+					DAX
+			No luck there either.  All things 
+			considered, the computer's having a 
+			bad week.  We have such a limited 
+			database for the Gamma Quadrant...
+
+					ODO
+			I have to shut down the Promenade... 
+			call me when you have something...
+
+	She nods... Odo starts to leave... pauses as he looks again 
+	at the stele, a thought... to Dax --
+
+					ODO
+			Wasn't that pillar over there before?
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FOUR       41.
+
+55   CONTINUED:
+
+					DAX
+				(without looking up 
+				from her work)
+			I had to have it moved.  It was in 
+			my way.
+
+	Odo nods, EXITS...
+
+					MORA
+			Have you compared this new organic 
+			sample to the lifeform we brought 
+			back from the planet... ?
+
+					DAX
+			Only enough to be sure that it's not 
+			the same...
+
+					MORA
+			It might be interesting to see if 
+			there are any commonalties at all.
+
+					DAX
+				(nods)
+			Let me run a cross-tabulation 
+			analysis... it should only take a 
+			couple of minutes...
+
+	As she enters the information in the computer... Mora smiles 
+	to himself, shares the thought --
+
+					MORA
+			Do you know Odo well, Lieutenant?
+
+					DAX
+			Not as well as I'd like to.  He... 
+			keeps to himself a lot.
+
+					MORA
+			I'm not surprised.
+				(beat)
+			I didn't realize... until I actually 
+			saw him...
+				(a private laugh)
+			... how much I missed him... we didn't 
+			part on very good terms...
+
+					DAX
+			So I've heard.
+
+       DEEP SPACE: "The Alternate" - REV. 11/04/93 - ACT FOUR       52.
+
+55   CONTINUED:	(2)
+
+					MORA
+			I didn't want him to leave.  We still 
+			had so much work to do...
+				(not entirely convinced 
+				of what he's saying)
+			But I see him now and I wonder if he 
+			wasn't right to go after all... he's 
+			come such a long way...
+
+					DAX
+			He's an invaluable man around here.
+
+					MORA
+			I never thought he could do it.  
+			Integrate successfully.  If you could 
+			have seen him back then, how ill-
+			prepared he was to be on his own...
+				(beat)
+			I was so sure he'd come back.  When 
+			he left, I told him he'd come back... 
+			And all these years, I was still 
+			certain that eventually, he'd show 
+			up one day at the lab...
+				(beat, a loss)
+			I guess I'd better get used to the 
+			idea that he's not going to.
+
+56   ANGLE (VPB)
+
+	Parallel monitors flash up two studies of the two samples... 
+	microscopic pictures with lots of data readouts along the 
+	side...
+
+					DAX
+			Here we are...
+
+	Mora has already seen something... moves to one monitor...
+
+					MORA
+			Which one is this?
+
+       DEEP SPACE: "The Alternate" - REV. 10/27/93 - ACT FOUR       43.
+
+
+56   CONTINUED:
+
+					DAX
+			That's the new one from the Infirmary.
+				(re: the other monitor)
+			This is the lifeform from the 
+			planet... but remember it went through 
+			several metamorphoses...
+
+					MORA
+			No, it's not the same entity... the 
+			nucleotide sequences are entirely 
+			different...
+
+					DAX
+			Some metachromic similarities...
+
+					MORA
+			Yes... on the most basic level... it 
+			may be a distant cousin at best...
+
+	A quiet beep from the computer signals Dax...
+
+					DAX
+			The computer's broken down the DNA 
+			chain on the new sample.
+
+	She presses panels and a new Okudagram comes up on the 
+	monitor... Mora moves closer to study it... he recognizes 
+	it, makes a conscious decision not to tell Dax...
+
+					DAX
+			I can run an analysis to see if it 
+			matches up with any other lifeform 
+			in the computer...
+
+					MORA
+			How long will that take?
+
+					DAX
+			Two, three hours, maybe.
+
+	Mora nods thoughtfully...
+
+					MORA
+			Let me know.
+
+	He EXITS.
+
+       DEEP SPACE: "The Alternate" - REV. 11/01/93 - ACT FOUR       44.
+
+57   INT. SECURITY OFFICE (VPB)
+
+	Odo is making a visual check through of all security camera 
+	shots of the station... primarily the Promenade... which is 
+	virtually deserted.  Mora ENTERS.
+
+					ODO
+			Doctor Weld has regained 
+			consciousness.  It looks like he'll 
+			be fine.
+
+					MORA
+				(preoccupied)
+			That's a relief.
+
+	He sits.  Odo reacts to the tension in his voice... his 
+	manner.
+
+					ODO
+			You don't seem relieved.
+
+					MORA
+				(appreciating him 
+				anew)
+			You can tell that just by observing 
+			me, can't you... the tone of my voice, 
+			my eyes, my body movements...
+
+					ODO
+			Yes.
+
+					MORA
+			You are such a remarkable lifeform, 
+			Odo.  But there is so much we still 
+			don't understand about you.
+
+					ODO
+				(impatient with him)
+			What are you getting at, Doctor... ?
+
+					MORA
+			The computer has broken down the 
+			DNA chain of the organic sample we 
+			found in the Infirmary.  Dax is 
+			running an analysis of it now.  She'll 
+			have it identified in a couple of 
+			hours.  But I already know what it 
+			is.  I've seen it before.  The organic 
+			sample... it's from you, Odo.
+
+	On Odo's reaction...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+          DEEP SPACE: "The Alternate" - 10/27/93 - ACT FIVE         45.
+                           ACT FIVE                             
+
+	FADE IN:
+
+58   INT. SECURITY OFFICE
+
+	A few minutes later.  Odo is seated, stunned by the news.  
+	Mora is more analytical, making the case that condemns Odo 
+	with scientific detachment.  More and more throughout the 
+	scene, the pressure builds on Odo... the claustrophobia of 
+	the Security Office seems to close in on him...
+
+					MORA
+			The destruction in the Science Lab 
+			occurred at zero-three hundred hours, 
+			five minutes.  Then the attack in 
+			the Infirmary occurred at nineteen-
+			thirty-five.  Roughly sixteen hours 
+			apart.  Is your rejuvenation period 
+			still sixteen hours...
+
+					ODO
+				(acknowledges)
+			I was in my pail during both attacks.
+
+	Mora rises moves around the desk, sits on the desk, subtly 
+	taking a power position, just above Odo...
+
+					MORA
+			But were you... I don't think so.  
+			I think, Odo, that you have been in 
+			the rather ironic position of trying 
+			to track down... yourself.
+
+					ODO
+				(a beat, softly)
+			How could this be?
+
+					MORA
+			Has anything like this happened 
+			before?
+
+					ODO
+			Of course not.
+
+					MORA
+			Are you certain?
+
+					ODO
+			Of course, I'm certain.  There would 
+			have been incidents.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       46.
+
+58   CONTINUED:
+
+					MORA
+			No unsolved crimes on the books?
+
+					ODO
+			There are always unsolved crimes.
+
+					MORA
+			Then, the possibility exists...
+
+					ODO
+				(desperate)
+			It doesn't.  I do not commit 
+			criminal acts.  It is not in my 
+			nature.
+
+					MORA
+				(the evidence before 
+				us)
+			Isn't it?
+
+					ODO
+				(a beat)
+			The gas.  Maybe it was the gas on 
+			the planet.  It must have affected 
+			me in some way.
+
+	And Mora has already considered this... it's very likely 
+	true... but he doesn't want Odo to be so comfortable with 
+	the explanation.  This is his chance.  The chance to get Odo 
+	back.
+
+					MORA
+			A possibility.
+
+					ODO
+			That has to be it.
+
+	Odo rises, about to leave...
+
+					MORA
+			It's certainly worth investigating.
+
+					ODO
+			Doctor Bashir might be able to...
+
+	Mora stops him with --
+
+					MORA
+			Doctor Bashir won't be able to 
+			understand anything about this... 
+			except that you turned into some 
+			kind of out-of-control thing that 
+			almost killed him.  Really, Odo.  
+			What do you think they'll do with 
+			you?
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       47.
+
+58   CONTINUED:	(2)
+
+					ODO
+			Do?
+
+					MORA
+			They won't know what to do.  They'll 
+			put you in some kind of high security 
+			prison, or quarantine you on a 
+			deserted asteroid in the Gamma 
+			Quadrant.  Odo, they'll put you in a 
+			zoo.
+
+					ODO
+			I don't believe that.  You don't 
+			know them...
+
+					MORA
+			What other humanoid have you ever 
+			been able to trust except me?
+
+					ODO
+			What makes you think I trust you...
+
+					MORA
+				(intense)
+			I resent that.  I really do.  After 
+			the time I invested in you.  The 
+			education I gave you.  The attention 
+			I gave you.  You wouldn't be here 
+			today without my guidance.  I gave 
+			you more than anyone else in my life.  
+			You were my life.  And you walked 
+			away.  Now, you don't trust me?  
+			Fine, put yourself in their hands 
+			then.  Always had to learn your 
+			lessons the hard way, didn't you...
+
+	Odo is really feeling it now... getting a little moist, 
+	turning his back on Mora, leaning his hands on one of the 
+	electronic security consoles...
+
+					ODO
+				(conflicted, soft)
+			I am not going back to the center 
+			with you...
+
+	Now warmer, but zeroing in, give and take "affection" --
+
+					MORA
+			Why?  We'll work through this 
+			together.  The two of us.
+
+          DEEP SPACE: "The Alternate" - 10/27/93 - ACT FIVE         48.
+
+58   CONTINUED:	(3)
+
+					MORA
+			We'll solve it together.  Just as we 
+			used to.
+
+	And Odo finally loses it, a fist pounding down on the console 
+	top... with a flat ---
+
+					ODO
+			No.
+
+	And suddenly the power in the security consoles begin to 
+	soak into...
+
+59   ODO'S HANDS (OPTICAL)
+
+	morphing into something hideous as the electricity from the 
+	console zaps into him...
+
+60   MORA
+
+	reacts with horror... as the unseen thing forms in front of 
+	him... he looks up... the sound of the thing lets out a 
+	guttural hiss... Mora runs out...
+
+61   INT. OPS
+
+	Kira and O'Brien are at their stations.  Sisko stands near 
+	Kira.  O'Brien notices something on his computer screen.
+
+					O'BRIEN
+			Commander, I've got a power failure 
+			in Security...
+
+					SISKO
+			Sisko to Odo...
+				(no response)
+			Sisko to Odo.
+
+					KIRA
+				(to com)
+			All deputies report to Security 
+			Office... possible intruder.
+
+					O'BRIEN
+			I'm tracking it...
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       49.
+
+62   ANGLE - MONITOR (VPB)
+
+	At O'Brien's station, seeing a vast network of conduits around 
+	the Promenade... moving as systems failures show up... Sisko 
+	comes over to look...
+
+					O'BRIEN
+				(continuing)
+			We have a power drain in the life 
+			support conduit above the Security 
+			Office.  If it's feeding off our 
+			power, we might be able to slow it 
+			down by shutting off the primary 
+			flow to the entire core section...
+
+					SISKO
+			Do it.
+
+	As O'Brien goes to work, the lights go down... Sisko studies 
+	the monitor intently...
+
+					SISKO
+			Where the hell did it come from?
+
+					KIRA
+				(worried)
+			And where's Odo...
+
+					SECURITY OFFICER'S COM VOICE
+
+			Security to Ops.
+
+					KIRA
+			Go ahead.
+
+					SECURITY OFFICER'S COM VOICE
+
+			There's no one down here, Major.
+
+					KIRA
+			No sign of Odo?
+
+					SECURITY OFFICER'S COM VOICE
+			Nossir.
+
+					MORA (O.S.)
+			I can help you with that, Major.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       50.
+
+62   CONTINUED:
+
+	They turn to see Mora arriving on the Turbolift... Mora 
+	is quite shaken by this turn of events... feels responsible...
+
+					MORA
+			The creature you're after is Odo.
+				(reactions)
+			There must have been... some kind of 
+			metamorphic reaction to the volcanic 
+			gas we encountered on the planet.
+
+					SISKO
+			Is there any way to communicate with 
+			him?
+
+					MORA
+			I don't know.  It's not Odo really... 
+			it's separate and independent from 
+			the Odo we know... and yet...
+				(thoughtful)
+			At the very least, it is aware... of 
+			me.
+
+					KIRA
+			How can you know that?
+
+					MORA
+			The incident in the Science Lab... I 
+			think it was an attempt to "rescue" 
+			the lifeform I put into containment... 
+			the second encounter was in the 
+			Infirmary where I was sleeping... 
+			the third took place minutes ago 
+			when we were having a... heated 
+			discussion in Security.  I think 
+			your... "Constable" himself would 
+			draw the same conclusion from the 
+			evidence... on some instinctual level, 
+			this creature is familiar with me.
+
+					SISKO
+			He might even conclude it has hostile 
+			intentions toward you.
+
+					MORA
+			That has occurred to me.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       51.
+
+62   CONTINUED:	(2)
+
+					O'BRIEN
+				(off monitors)
+			The power shutdown is complete, 
+			Commander.  Odo... or whatever it 
+			is... has stopped moving for the 
+			moment.
+
+					SISKO
+			Chief, based on your knowledge of 
+			its behavior, if we can lure him 
+			out, is there any way to set up a 
+			forcefield that can hold him...
+
+					O'BRIEN
+			We could reverse polarity on the 
+			energy fields and it might work... 
+			but that's only a guess.
+
+					SISKO
+			Set it up on the Promenade... I want 
+			a lot of room to operate... Major, 
+			station security teams along the 
+			perimeter...
+
+					KIRA
+			How do we get him to come out of the 
+			conduits?
+
+					O'BRIEN
+			Maybe we can use some R-F energy 
+			bursts to attract him...
+
+					MORA
+			I think there's only one thing that's 
+			going to attract that creature into 
+			your trap.  It's me he's after.
+
+63   INT. PROMENADE
+
+	Sisko, Kira, and several Security Men accompany Doctor Mora 
+	as they ENTER the area which has been closed down for 
+	security.  Mora has a combadge on.  It is dark.  Starfleet 
+	and Bajoran officers are positioned along the second level...
+
+					SISKO
+				(to com)
+			Mister O'Brien?
+
+					INTERCUT:
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       52.
+
+64   INT. OPS
+
+	Also dark...
+
+					O'BRIEN
+			Our plan seems to be working, 
+			Commander.  It's following my trail 
+			of energy crumbs right toward you...
+
+65   INT. PROMENADE
+
+					SISKO
+			On my signal, open the conduit and 
+			let him in...
+
+					O'BRIEN
+			Aye, sir...
+
+					SISKO
+				(to Mora)
+			We can't be sure which vent he'll 
+			come through.  Hopefully, it'll be 
+			the first one available to him...
+				(pointing over security)
+			... over there... but if not, there 
+			are seventeen others he might choose.  
+			We're not stationing officers near 
+			any of them... we don't want to scare 
+			him away.
+
+					MORA
+			I understand.
+
+					SISKO
+			Just get him to the forcefield.  
+			We'll do the rest.
+
+	Sisko nods to him, wishing him good luck... moves away with 
+	Kira...
+
+					SISKO
+				(continuing)
+			Pass the word that phasers are to be 
+			set on maximum stun... the moment 
+			Doctor Mora appears to be in jeopardy, 
+			I'll open fire.  Their orders are to 
+			follow my lead.  If maximum stun 
+			doesn't bring him down immediately, 
+			we set phasers to kill.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       53.
+
+65   CONTINUED:
+
+					KIRA
+			Commander...
+
+					SISKO
+			I know, Major.  Those are the orders.
+
+	As they reach the second level... ready to observe...
+
+					SISKO
+				(hits combadge)
+			Mister O'Brien, we're ready.
+
+					O'BRIEN'S COM VOICE
+			Releasing the conduit seal.
+
+					SISKO
+				(TO COM)
+			Doctor Mora, did you hear that?
+
+66   MORA
+
+					MORA
+			Ready and waiting.
+
+	And any music cue that's been going on should end right here 
+	as we go to:
+
+67   VARIOUS SHOTS
+
+	Mora, Sisko, Kira, Bashir, phasers loaded and ready, Mora 
+	again... listening for a sound, anything... silent... then --
+
+68   MORA
+
+	suddenly starts to talk out loud for Odo's sake but not 
+	yelling...
+
+					MORA
+			What are you waiting for?  I'm here.  
+			And I'm not going anywhere.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       54.
+
+69   MORE VARIOUS SHOTS OF WAITING IN SILENCE
+
+70   ANGLE (OPTICAL)
+
+	Mora is keeping an eye on the vent Sisko pointed out... behind 
+	him, there is a dark movement... he senses it, turns... 
+	suddenly the creature looms...
+
+71   MORA
+
+	stumbles back, falls...
+
+72   SISKO
+
+	reacts, readies to fire...
+
+73   MORA
+
+	scrambles back on the floor away from the advancing 
+	creature... and suddenly...
+
+74   ANGLE (OPTICAL)
+
+	The creature hits the field and it comes on, opaque, the 
+	creature stretching to get at Mora through it... its monstrous 
+	figure shaped by the field...
+
+75   MORA
+
+	looking up from the floor, beginning to get up... in an even, 
+	regretful tone of voice --
+
+					MORA
+			I've done it to you again, haven't 
+			I, Odo.  Made you a prisoner.  Dear 
+			God, what have I done.
+
+76   ANGLE (OPTICAL)
+
+	The creature struggles another beat and then exhausted... 
+	becomes the figure of Odo again... who then collapses behind 
+	the field...
+
+77   SISKO
+
+	reacts, rising from his position... hits the combadge --
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       55.
+
+77   CONTINUED:	(2)
+
+					SISKO
+			Mister O'Brien, drop the field.
+
+					O'BRIEN'S COM VOICE
+			Aye, sir.
+
+78   ODO
+
+	laying wet and exhausted on his back... no memory of what 
+	occurred... just panic in his eyes.  Mora is the first one 
+	there... Odo stares up at him...
+
+					MORA
+			We have a lot to talk about.
+
+	And then Mora puts his arms under Odo's limp body and picks 
+	him up like a child... and the crowd that has gathered, parts 
+	as Mora carries him across the Promenade toward the 
+	Infirmary...
+
+79   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+80   INT. INFIRMARY
+
+	Odo is lying down, stronger... Bashir is checking on readings, 
+	looks encouraged... Mora is observing...
+
+					BASHIR
+			I'm not going to try to explain 
+			exactly what happened to you, Odo... 
+			because I haven't the vaguest idea... 
+			I can tell you with Doctor Mora's 
+			help we've managed to eliminate all 
+			traces of the gas from your cellular 
+			structure... I'll prescribe rest 
+			because it's hard for a doctor to go 
+			wrong with that one... but otherwise, 
+			there's not much more I can do for 
+			you.
+
+					ODO
+			Thank you, Doctor.
+
+	Bashir nods, gives the two of them some time alone.  After a 
+	beat...
+
+					MORA
+			I'm going home.
+
+       DEEP SPACE: "The Alternate" - REV. 10/28/93 - ACT FIVE       56.
+
+80   CONTINUED:
+
+					ODO
+			Doctor Mora, I want to be sure you 
+			know that I had no idea...
+
+					MORA
+			You had to speak in a voice loud 
+			enough for me to hear.
+
+					ODO
+			I'm... sorry.
+
+					MORA
+			I'm sorry it was necessary.
+				(beat, hard to say)
+			I would like... in a small way... to 
+			be a part of your life again... your 
+			life on the station.  From time to 
+			time, we could talk.  About things 
+			that matter to you.  To us.
+
+					ODO
+			I'd... like that.
+
+	Mora reaches out in a true intimate way and pats Odo on the 
+	hand... Odo grabs his hand and holds it... the two men lock 
+	eyes for a long beat... and as Odo smiles gently...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

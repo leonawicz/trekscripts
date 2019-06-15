@@ -1,0 +1,3233 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "Honor Among Thieves" 
+                          #40510-539 
+                              
+                           Story by 
+                          Philip Kim 
+                              
+                          Teleplay by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                         Allan Eastman 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        December 1, 1997
+
+   STAR TREK: DS9 - "Honor Among Thieves" - 12/01/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Honor Among Thieves" 
+                             CAST 
+
+          SISKO                    BILBY
+          KIRA                     CHADWICK
+          BASHIR                   FLITH
+          DAX                      KROLE
+          WORF                     RAIMUS
+          O'BRIEN                  VORTA
+          QUARK                    YINT
+          ODO                      
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     CHESTER, the cat
+
+  STAR TREK: DS9 - "Honor Among Thieves" - 12/01/97 - SETS
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Honor Among Thieves" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS           
+          DEEP SPACE NINE               DEEP SPACE NINE
+          CAPTAIN'S OFFICE              PALOMAR PRIME
+          O'BRIEN'S QUARTERS            
+          OPS                           
+
+        PALOMAR PRIME                 
+          ALLEY                         
+          BILBY'S APARTMENT             
+          TAVERN                        
+
+  DEEP SPACE NINE - "Honor Among Thieves" - 12/03/97- PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                     "Honor Among Thieves" 
+                      PRONUNCIATION GUIDE 
+
+          BILBY                    BILL-be
+          BOLIAS                   BOW-lee-us
+          BORANIS                  BORE-ahn-us
+          DAYOS                    DA-yos
+          FARIAN                   FAIR-ee-un
+          FARIUS                   FAIR-ee-us
+          GRAIFE                   gray-f
+          JINAMI                   JIH-nah-mi
+          KIMIKO                   KEE-mee-ko
+          KRELLAN                  KRELL-uhn
+          NOZALA                   no-ZAH-luh
+          RAIMUS                   RAY-mus
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                        "Honor Among Thieves"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. FARIUS PRIME - DAY (MATTE SHOT/OPTICAL)
+
+	A gritty, industrial city set against a polluted grey 
+	sky. Modern skyscrapers abut older, brick structures
+	Despite the contrast in building materials, certain 
+	architectural elements peculiar to Farius remain 
+	consistent -- the shape of the windows, perhaps. The 
+	exception to this is a shantytown that can be seen at 
+	the edge of the city.
+
+2    INT. A TAVERN - DAY (VPB)
+
+	Housed in one of the city's older, rundown buildings. 
+	It's dark and dingy, with a bartop running along one 
+	wall, a few tables and chairs, and a public COM-UNIT on 
+	another wall, complete with a MONITOR. Alien graffiti 
+	is scrawled near the unit, presumably from patrons 
+	jotting down "phone numbers."
+
+	The bartender, a taciturn BOLIAN called Graife, is 
+	serving a sad-looking YRIDIAN. At one of the tables, 
+	a FARIAN man and a HUMAN are playing an alien CARD 
+	GAME. The Farian has some sort of TUBE running into 
+	one of his nostrils -- as he deals the cards, he takes 
+	a whiff of whatever substance the apparatus is feeding 
+	him.
+
+	We take in this scene for a moment, then MOVE TO REVEAL 
+	an unlikely customer sitting alone at the bar -- MILES 
+	O'BRIEN. He is UNSHAVEN and is wearing CIVILIAN CLOTHES 
+	suitable for a man used to working with his hands. 
+	He's fiddling with a small piece of broken HARDWARE, 
+	using non-Starfleet TOOLS from a beaten-up TOOLKIT at 
+	his side.
+
+	We'll come to learn that O'Brien has been on an 
+	undercover mission for several weeks, trying to 
+	infiltrate the Orion Syndicate. He's posing as a 
+	traveling handyman for hire -- just a guy trying to 
+	scrape together enough work to book passage off-world. 
+	He's been hanging out at this bar because he's learned 
+	that it's a haunt for certain low-ranking Syndicate 
+	members.
+
+	Three of them are sitting at a nearby table. LIAM 
+	BILBY, a human in his late forties, is the leader of 
+	the trio.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - TEASER         2.
+
+2    CONTINUED:
+
+	He has a glint of mischief in his eye and is capable of 
+	great charm, but his years of working in the Syndicate 
+	have toughened him and taught him to be wary.
+
+	FLITH, a Farian with a nervous energy, and KROLE, a 
+	dangerous-looking Alien with a brooding look, are his
+	right-hand men. They're talking quietly about some 
+	situation that has them concerned, and O'Brien 
+	surreptitiously tries to listen in on their 
+	conversation.
+
+					FLITH 
+				(worried) 
+			Raimus isn't going to be happy 
+			about this.
+
+					KROLE 
+				(to Bilby) 
+			What are you going to do?
+
+					BILBY 
+			I don't know. 
+				(beat) 
+			And don't you mean what are we
+			going to do?
+
+					KROLE 
+				(shrugs) 
+			Raimus told you to get the 
+			merchandise.
+
+	Despite the fact that Krole and Flith work for Bilby, 
+	they have an uneasy relationship built on a lack of 
+	trust -- Krole almost enjoys seeing Bilby on the ropes.
+
+					BILBY
+			I'll figure something out.
+
+					FLITH
+			You'd better.
+
+					BILBY
+				(sharp)
+			I said I'd figure it out.
+				(changing the subject)
+			I'm hungry.
+
+					FLITH
+			Let's have Krellan food.
+
+					BILBY
+			Last time it gave me heartburn.
+
+					FLITH
+			That's because you eat too fast.
+
+					BILBY
+			I eat when I'm hungry. And when
+			I'm hungry, I eat fast.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - TEASER         3.
+
+2    CONTINUED:	(2)
+
+	Behind them, the Yridian starts to get up to head for 
+	the com-booth.
+
+					FLITH 
+			If you're not careful, that 
+			appetite of yours will kill you 
+			someday.
+
+					BILBY
+			Don't get your hopes up.
+
+	Bilby tosses this off, but we can see that underneath 
+	the veneer of friendship between these men, there's 
+	always that element of tension and mistrust. Just as 
+	the Yridian approaches the com-booth, Bilby turns to 
+	him.
+
+					BILBY
+			We're using that.
+
+	Though they're obviously not, the Yridian backs away 
+	without argument -- clearly he knows these men are on 
+	their home turf.
+
+					BILBY
+				(to Krole)
+			Order some Nozala wraps.
+
+	Krole nods and moves to the com-booth.
+
+3    KROLE (VPB)
+
+	as he reaches into his pocket and pulls out a DATAPORT 
+	like the one seen in "A Simple Investigation." He 
+	separates the unit into two pieces, places one on the 
+	com-unit, and inserts the other in a port at the base 
+	of his skull. The two pieces start to BLINK 
+	simultaneously -- Krole's eyes flutter shut as he 
+	interfaces with the machine, and the Farian INSIGNIA on 
+	the monitor gives way to a series of data-filled 
+	SCREENS.
+
+					KROLE
+			I've accessed the system...
+
+					BILBY 
+				(to Krole) 
+			Tell them to deliver extra Vilm 
+			sauce.
+
+					KROLE 
+			Who should I bill this to?
+
+					BILBY 
+			I don't care who pays, as long as 
+			it isn't us.
+
+         DEEP SPACE NINE: "Honor... " - REV-12/17/97 - TEASER         4.
+
+3    CONTINUED:
+
+					FLITH
+			How about...
+				(smiling)
+			-- the police?
+
+					KROLE
+			No, we billed them for dinner last
+			night.
+
+					FLITH
+			Municipal Sanitation? Do you have
+			their account code?
+
+					KROLE
+				(smiles)
+			I will in a minute.
+
+4    O'BRIEN
+
+	makes a decision, surreptitiously aims a small DEVICE 
+	at the com-booth -- a BLINKIE flashes once, and we...
+
+									CUT TO:
+
+5    KROLE (OPTICAL)
+
+	Suddenly the com-unit overloads and an ENERGY TENDRIL 
+	arcs from the dataport on the console to the one on 
+	Krole's head. The monitor goes to STATIC, and Krole 
+	stands there, frozen in place, as if he can't pull away 
+	from the current.
+
+					BILBY
+			Krole.
+
+	Bilby and Flith leap up to help him, but before they 
+	can pull him away O'Brien intervenes --
+
+					O'BRIEN
+			Don't --
+				(pushing past them)
+			He's being spiked.
+
+	O'Brien works the controls quickly and the energy 
+	tendril DISSIPATES -- Krole's body immediately relaxes 
+	and he staggers back into Bilby and Flith.
+
+					BILBY
+			Are you all right?
+
+	They help him back into a chair --
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - TEASER         5.
+
+5    CONTINUED:
+
+					KROLE
+				(removing his dataport) 
+			That hurt.
+
+					BILBY
+				(to O'Brien; appalled) 
+			They spiked him. Somebody spiked 
+			him over a free lunch. What is 
+			this city coming to?
+
+	Krole looks at the burned-out dataport in his hand --
+
+					KROLE 
+			Look at this. Fused.
+
+	He slaps it on the table in dismay. They all look at 
+	it for a beat as if they can't believe their bad luck, 
+	then notice O'Brien still standing there.
+
+					O'BRIEN
+				(shrugs) 
+			Too bad. That's an expensive 
+			piece of hardware.
+
+					FLITH
+				(to Bilby, nervous) 
+			What are we going to do?
+
+					BILBY
+				(getting back at him) 
+			Don't you mean what is Krole going 
+			to do?
+
+					KROLE
+				(worried) 
+			I can't go to Raimus and ask him 
+			to pay for a replacement.
+
+	O'Brien can see that these men have a lot at stake in 
+	this piece of equipment --
+
+					O'BRIEN 
+			Mind if I have look?
+
+	The three men eye O'Brien for a beat, then Bilby nods.
+
+					O'BRIEN 
+			It might not be as bad as it 
+			seems...
+
+					BILBY 
+			Are you saying you can fix it?
+
+					O'BRIEN 
+			That depends.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - TEASER        5A.
+
+5    CONTINUED:	(2)
+
+					BILBY
+			On what?
+
+					O'BRIEN
+			How much are you willing to pay?
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - TEASER         6.
+
+5    CONTINUED:	(3)
+
+	A moment as the men react to his moxie --
+
+					BILBY 
+				(amused) 
+			Do you know who I am?
+
+					O'BRIEN 
+			No.
+
+					BILBY 
+			If you did, you wouldn't be asking 
+			that.
+
+					O'BRIEN 
+			All right, then. Who are you?
+
+	Bilby's smile fades a bit --
+
+					BILBY 
+			Listen, Mister... ?
+
+					O'BRIEN 
+			Connelly.
+
+					BILBY 
+			I've seen you around the last few 
+			weeks. You're always in here 
+			tinkering with one piece of junk 
+			or another, which tells me that 
+			things aren't exactly going too 
+			well for you. So here's my advice --
+				(handing him the 
+				dataport) 
+			Take this and bring it back here 
+			tomorrow morning fixed and 
+			polished.
+
+	O'Brien looks at the dataport in his hand, then at 
+	Bilby.
+
+					O'BRIEN 
+				(shrugs) 
+			Tomorrow morning it is.
+
+	And with that, O'Brien moves to the bar to get his 
+	things. Bilby turns to the others, his genial self 
+	again.
+
+					BILBY 
+			Come on. Let's get some lunch...
+
+	Off this moment...
+
+6    INT. ALLEY - NIGHT
+
+	O'Brien is here to meet his contact in Starfleet 
+	Intelligence, CHADWICK.
+
+        DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - TEASER        7.
+
+6    CONTINUED:
+
+	It's dark and narrow, and we can hear CITY SOUNDS from 
+	the nearby street. Chadwick is an ambitious fellow, 
+	eager to make his mark within Intelligence.
+
+					O'BRIEN
+				(showing the dataport) 
+			Bilby wants me to fix this for 
+			him.
+
+	Chadwick smiles, surprised to hear that O'Brien made 
+	contact with the Syndicate so quickly.
+
+					CHADWICK
+			I'm impressed. I don't think 
+			anyone's ever managed to make 
+			contact with the Orion Syndicate 
+			so quickly. How'd you do it?
+
+					O'BRIEN
+			I spiked one of Bilby's men while 
+			he was interfacing.
+
+	Chadwick is surprised to hear this, and a bit 
+	concerned.
+
+					CHADWICK
+			That was a risky thing to do.
+
+					O'BRIEN 
+			Maybe. But it got me noticed. I 
+			want to get this mission over with 
+			so I can go home.
+
+	Chadwick knows how O'Brien feels, and wants him to know 
+	he appreciates his work.
+
+					CHADWICK 
+			I realize you didn't exactly 
+			volunteer for this. Believe me, 
+			I wish we hadn't been forced to 
+			turn to someone outside Starfleet 
+			Intelligence for help.
+
+					O'BRIEN
+				(wry) 
+			Me, too.
+
+	Chadwick wants O'Brien to know something --
+
+					CHADWICK 
+			The Syndicate killed another one 
+			of our undercover operatives last 
+			week.
+
+        DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - TEASER        8.
+
+6    CONTINUED:	(2)
+
+					O'BRIEN 
+				(grim) 
+			That makes five in the past year.
+
+					CHADWICK 
+			We need you to find out who their 
+			informant in Starfleet is. Once 
+			you give me the name, I'll put you 
+			on the next transport home.
+
+	O'Brien nods -- he's counting on this.
+
+					O'BRIEN 
+			What do you want me to do now?
+
+					CHADWICK 
+			Bilby will check into your 
+			background. Everything he finds 
+			will confirm that you're a fix-it 
+			man down on your luck. Stick to 
+			that cover. The Syndicate is 
+			always looking for people with 
+			your skills. If Bilby offers you 
+			more work, take it. Get as close 
+			to him as possible.
+
+					O'BRIEN 
+			Right.
+
+					CHADWICK 
+			If you need anything, you know how 
+			to contact me.
+
+	O'Brien nods, turns to go.
+
+					CHADWICK 
+			O'Brien.
+
+	O'Brien turns back, and despite their contentious 
+	relationship, we get a glimpse of Chadwick's genuine 
+	concern for him.
+
+					CHADWICK 
+			Don't take anymore unnecessary 
+			risks. These are dangerous men. 
+			If they find out who you are, 
+			they'll kill you.
+
+	And off O'Brien's face as he takes in this warning, 
+	we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT ONE        9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+7    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+8    OMITTED
+
+8A   INT. OPS 
+
+	as ODO ENTERS from one door and QUARK ENTERS from the 
+	other. They both head straight for KIRA, who's working 
+	at her post. SUPERNUMERARIES at other posts as needed.
+
+		QUARK					ODO
+	Major, sorry to --            Excuse me, Major
+
+	They both stop and glare at each other.
+
+		QUARK					ODO
+	After you.                    Go ahead.
+
+	Each accepts the other's invitation --
+
+					QUARK/ODO
+				(at the same time) 
+			There's something wrong with --
+
+	They stop and glare at each other again.
+
+					KIRA 
+			All right.
+				(to Odo, then Quark) 
+			You first, then you.
+
+	Odo smiles at Quark, pleased at being chosen.
+
+					ODO
+				(to Kira) 
+			I need an engineering crew to run 
+			a diagnostic on the internal 
+			security sensors. We've been 
+			having an unusual number of false 
+			alarms lately.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT ONE       10.
+
+8A   CONTINUED:
+
+					KIRA 
+			I'll have someone take a look as 
+			soon as possible.
+
+	Kira turns to Quark --
+
+					QUARK 
+			There's something wrong with the 
+			fire suppression system in the 
+			bar. Every time I serve a flaming 
+			cocktail, the system engages and 
+			snuffs it out.
+
+					KIRA
+			I'll put it on the list.
+
+	In the background, BASHIR ENTERS through one of the 
+	DOORS and approaches --
+
+					QUARK 
+			Please do. You wouldn't believe 
+			what people are willing to pay for 
+			a glass of burning alcohol.
+
+					BASHIR 
+			Excuse me, major --
+
+					KIRA
+			Let me guess. There's a 
+			malfunction in the Infirmary.
+
+					BASHIR 
+			How did you know?
+
+	Before she can answer, a GRINDING SOUND gets their 
+	attention and the turbolift LURCHES into view, carrying 
+	DAX and WORF. It isn't completely level with the Ops 
+	floor, and they have to step up to exit.
+
+					WORF
+				(annoyed) 
+			Major, there is something wrong 
+			with the turbolift.
+
+					KIRA 
+			I can see that.
+
+					DAX
+			We seem to be having a lot of 
+			system glitches.
+
+					KIRA
+				(tell me about it) 
+			It happens every time Chief 
+			O'Brien goes away.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT ONE       11.
+
+8A   CONTINUED:	(2)
+
+	Everyone nods ruefully as they realize what's going on --
+
+					WORF
+			I do not understand why his staff 
+			can't keep the station running in 
+			his absence.
+
+					QUARK
+			He must've left my idiot brother 
+			in charge.
+
+					KIRA
+			The engineering crews are doing 
+			the best they can.
+
+					DAX
+			The problem is no one knows how 
+			the chief keeps all this 
+			Federation and Cardassian 
+			technology working together.
+
+					QUARK
+			We've got to do something. This 
+			can't go on.
+
+									CUT TO:
+
+8B   INT. CAPTAIN'S OFFICE - CLOSE ON SISKO
+
+	sitting at his desk.
+
+					SISKO 
+			Sorry, I can't discuss the chief's 
+			whereabouts.
+
+8C   NEW ANGLE
+
+	to reveal Bashir standing in front of his desk. His 
+	reply to Sisko is a bit too strident.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT ONE       12.
+
+8C   CONTINUED:
+
+					BASHIR 
+			I understand that, sir. But this 
+			is getting ridiculous. How much 
+			longer are we going to have to put 
+			up with these malfunctions?
+
+	Sisko studies Bashir for a beat, sensing that there's 
+	more going on here than he's letting on.
+
+					SISKO 
+			You know, it wouldn't surprise me 
+			if Major Kira or Commander Worf 
+			came in here demanding answers. 
+			But you? It's not your style.
+
+					BASHIR
+			Apparently it is. Here I am.
+
+	But Sisko knows what's really going on.
+
+					SISKO 
+			I'm not buying it, doctor. You 
+			didn't come in here to complain, 
+			you came in here because you're 
+			worried about your friend and you 
+			want me to put your mind at ease.
+
+	Bashir's face tells us he's right --
+
+					SISKO 
+			I wish I could. 
+				(beat) 
+			If it helps, I will tell you this --
+			the chief can take care of himself 
+			about as well as anyone I know.
+
+	Bashir takes this in, feeling somewhat reassured by 
+	Sisko's words.
+
+					BASHIR
+			You're right about that, sir.
+
+	A moment between them, then Bashir EXITS. Off Sisko's 
+	face as he hopes that what he said is true...
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT ONE       13.
+
+9    EXT. FARIUS PRIME - DAY (MATTE SHOT/OPTICAL)
+
+	Re-establishing.
+
+10   INT. TAVERN - DAY 
+
+	where O'Brien is sitting with Bilby, Flith and Krole. 
+	The Bolian bartender is behind the bar, the Yridian his 
+	only customer. A Farian WOMAN is at the public 
+	com-unit, engaged in an intense but hushed conversation.
+
+					BILBY
+			Did you fix it?
+
+	O'Brien nods, hands Krole the dataport, who studies it 
+	for a beat.
+
+					KROLE
+			Any feedback?
+
+					BILBY
+				(explaining)
+			Feedback gives him a headache.
+
+					O'BRIEN
+			There's no feedback.
+
+					KROLE
+			We'll see.
+
+	Krole separates the dataport into its two pieces, 
+	places one in the plug in his skull, and activates them 
+	so that the BLINKIES come on. After a tense beat, 
+	Krole nods approvingly.
+
+					O'BRIEN
+			I told you.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT ONE       14.
+
+10   CONTINUED:
+
+					BILBY 
+			Very impressive. If I was a 
+			suspicious man, I might ask myself 
+			how a tinkerer living in one room 
+			on Jinami Street managed to fix 
+			such a complicated piece of 
+			hardware so quickly.
+
+					FLITH 
+			Good question.
+
+					O'BRIEN
+			How do you know where I live?
+
+					BILBY 
+			I know a lot about you. Maybe 
+			more than you want me to.
+
+	O'Brien tries to show no reaction. A beat, then Bilby 
+	stands.
+
+					BILBY 
+			Come with me.
+
+					O'BRIEN
+			Where are we going?
+
+					BILBY 
+			For a walk.
+
+	O'Brien sees no choice but to comply. Off his face as 
+	he stands to join Bilby...
+
+11   INT. BILBY'S APARTMENT - DAY 
+
+	as the door OPENS to admit Bilby and O'Brien. Like the 
+	tavern, the apartment is in one of the old-style 
+	buildings. What's more, the place is a wreck -- boxes 
+	stacked everywhere, discarded knickknacks, etc.
+
+					BILBY 
+			Have a seat.
+
+	O'Brien has no idea why he's been brought here, and we 
+	can see he's trying not to act nervous about it. He 
+	moves to sit on a nearby armchair --
+
+					BILBY 
+			Not there.
+
+	As O'Brien watches, a cat trots up and hops into the 
+	chair.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT ONE       15.
+
+11   CONTINUED:
+
+					BILBY 
+			Chester doesn't like people 
+			sitting in his chair.
+
+	O'Brien settles into a different chair, looks around 
+	the cluttered apartment --
+
+					BILBY 
+			Don't touch anything.
+
+	O'Brien nods, and Bilby disappears behind some boxes to 
+	rummage around for something. A moment later, he 
+	reappears, holding a KLINGON DISRUPTOR RIFLE in his 
+	hand. O'Brien swallows hard at the sight -- suddenly 
+	it seems his suspicions were right about Bilby's 
+	intentions. Even so, he knows it's important to play 
+	it cool. A tense moment, then...
+
+					BILBY 
+			Something wrong?
+
+					O'BRIEN
+			You tell me.
+
+					BILBY 
+				(smiling) 
+			Do you think I brought you here to 
+			kill you?
+
+	Bilby shakes his head and laughs --
+
+					BILBY 
+			Why would I kill somebody who can 
+			fix things for me? 
+				(beat) 
+			I guess a man who's been knocked 
+			around as much as you have is 
+			always expecting the worst.
+
+					O'BRIEN
+				(agreeing) 
+			I've pretty much had to get used 
+			to the idea that I've got bad 
+			luck.
+
+					BILBY 
+			That was a tough break you had on 
+			Dayos Four -- two years for 
+			dealing in stolen goods.
+
+					O'BRIEN
+			I didn't know the stuff was 
+			stolen. I guess I should've asked 
+			the guy I bought it from, huh?
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT ONE       16.
+
+11   CONTINUED:	(2)
+
+					BILBY
+				(not necessarily) 
+			Who's to say he would've told you 
+			the truth?
+				(re: the rifle) 
+			Take this for example. My 
+			employer asked me to get three 
+			Klingon disruptors for him. Did 
+			the man I bought them from tell me 
+			they didn't work? No, he did not.
+				(beat) 
+			Have a look.
+
+	Bilby tosses the rifle to O'Brien --
+
+					O'BRIEN 
+			The induction coil is burned out.
+
+					BILBY 
+			Can you fix it?
+
+					O'BRIEN
+			Sure.
+
+					BILBY 
+			Glad to hear it. That's going to 
+			make my employer very happy.
+
+					O'BRIEN
+			What does he want with Klingon 
+			disruptors?
+
+					BILBY 
+			I didn't ask. When Raimus tells 
+			you to do something, you just do 
+			it.
+				(beat) 
+			Hungry?
+
+					O'BRIEN
+			A little.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT ONE       17.
+
+11   CONTINUED:	(3)
+
+	Bilby gets up to get something.
+
+					BILBY 
+			Have some cake. My wife sent it.
+
+					O'BRIEN
+			No, thanks.
+
+					BILBY 
+			Go ahead.
+
+	He hands the TIN to O'Brien, who takes a piece. The 
+	truth is it's not very good, but O'Brien pretends to 
+	enjoy it.
+
+					O'BRIEN 
+			It's good.
+
+					BILBY 
+			She made it herself.
+				(pointing out a FRAMED 
+				PICTURE) 
+			That's her. With my children.
+
+					O'BRIEN 
+			Very nice. Where are they?
+
+					BILBY 
+			New Sydney. I'd love to have them 
+			here on Farius, but considering 
+			the business I'm in, it's not a 
+			good idea.
+				(beat) 
+			Do you have a family?
+
+					O'BRIEN 
+			No.
+
+					BILBY 
+			You should. It's the most 
+			important thing.
+				(pointing to the 
+				picture) 
+			I send them everything. I pay my 
+			fare to Raimus, the rest goes 
+			straight to my wife.
+
+					O'BRIEN 
+			Your "fare?"
+
+					BILBY 
+			To Raimus. Every month. That's 
+			how it works. He's above me in 
+			the organization. 
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT ONE       18.
+
+10   CONTINUED:	(4)
+
+					BILBY (Cont'd)
+				(beat; carefully) 
+			You do know what organization I'm 
+			referring to, don't you?
+
+	O'Brien isn't sure which way to jump... makes a 
+	decision.
+
+					O'BRIEN 
+			I think so.
+
+	Bilby nods thoughtfully...
+
+					BILBY 
+			Good.
+				(beat) 
+			Krole and Flith -- the gentlemen 
+			you met earlier, they're below me.
+
+	O'Brien holds Bilby's gaze, let's him know he's 
+	interested.
+
+					O'BRIEN 
+			Lucky them.
+
+					BILBY
+				(smiling) 
+			If you fix these disruptors for 
+			me, you could be lucky, too.
+
+					O'BRIEN 
+			That's good to know.
+
+					BILBY 
+			Don't misunderstand. I'm not 
+			making any promises. I need to be 
+			sure I can trust you first.
+
+	O'Brien nods that he understands...
+
+					BILBY
+				(offering the tin) 
+			More cake?
+
+					O'BRIEN
+			No, thanks.
+
+					BILBY 
+			I thought you were hungry.
+
+					O'BRIEN 
+			I'm all right.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT ONE      18A.
+
+11   CONTINUED:	(5)
+
+					BILBY 
+			What's the matter? You don't like 
+			my wife's cake?
+
+					O'BRIEN
+			I didn't say that.
+
+					BILBY
+				(suddenly serious) 
+			Answer me. Do you like my wife's 
+			cake?
+
+	O'Brien isn't sure what to say --
+
+					O'BRIEN 
+			To tell you the truth, it's a 
+			little dry.
+
+	Bilby stares at him for a long beat...
+
+					BILBY 
+			You're right. It is.
+
+	He breaks into a smile --
+
+					BILBY 
+			I had you wondering which way to 
+			jump, didn't I? Flith and Krole 
+			always act like it's the best 
+			thing they've ever tasted.
+
+	O'Brien smiles --
+
+					BILBY 
+			What do you make of that, Chester? 
+			I found myself an honest man. 
+			Must be my lucky day...
+
+	Bilby breaks into a smile. Off O'Brien's face as he 
+	realizes he's dealing with a complicated and 
+	mercurial character...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       19.
+                            ACT TWO                             
+
+	FADE IN:
+
+12   INT. ALLEY - NIGHT
+
+	Chadwick is leaning against the wall as O'Brien 
+	approaches. He hands O'Brien a small PACKAGE, and the 
+	Chief tucks it away.
+
+					CHADWICK 
+			The induction coils you asked for. 
+			Courtesy of the Klingon Ambassador 
+			to Farius.
+
+					O'BRIEN
+			There's a Klingon Ambassador here? 
+			Gowron must not like him too much.
+
+	Chadwick smiles --
+
+					CHADWICK 
+			Do you have any idea why Raimus 
+			wants these disruptors?
+
+					O'BRIEN
+			Bilby doesn't even know.
+
+	O'Brien has something else on his mind...
+
+					O'BRIEN 
+			Listen... is there any way I can 
+			talk to my wife, let her know I'm 
+			all right?
+
+					CHADWICK 
+			We can't risk it.
+
+	Chadwick sees O'Brien's disappointment.
+
+					CHADWICK 
+			I'm sorry.
+
+	They stand there for a moment, having nothing else to 
+	say.
+
+					O'BRIEN 
+			I'd better be going.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT TWO       20.
+
+12   CONTINUED:
+
+	O'Brien moves off. Off Chadwick's face as he watches 
+	O'Brien leave... we can see that he's worried for his 
+	man in the field...
+
+12A  EXT. FARIUS PRIME - DAY (MATTE SHOT/OPTICAL)
+
+	Re-establishing.
+
+13   INT. TAVERN - MORNING
+
+	The bar hasn't opened yet, and in the background, the 
+	bartender is setting up for the day. O'Brien, now 
+	clean shaven, has brought the repaired disruptors for 
+	Bilby to inspect. As Bilby studies one, Krole holds 
+	another in his hand.
+
+					KROLE 
+			Flith, go stand over there.
+
+					FLITH 
+			Why?
+
+					KROLE
+				(aiming at him) 
+			I want to see if he really fixed 
+			this.
+
+					FLITH 
+			Very funny.
+
+					BILBY
+				(to Krole) 
+			Contact Raimus and tell him we 
+			have the disruptors.
+
+	Krole nods and moves to the com-unit on the wall.
+
+					BILBY
+				(to O'Brien; re: the 
+				disruptors) 
+			Good job.
+
+	Flith, ever suspicious of O'Brien, decides to ask a few 
+	questions.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT TWO       21.
+
+13   CONTINUED:
+
+					FLITH 
+			I'm curious about something... how 
+			did you get a hold of replacement 
+			parts? Klingon technology isn't 
+			easy to come by.
+
+	O'Brien tries to bluff his way past this --
+
+					O'BRIEN
+			You just have to know who to go
+			to.
+
+	But Flith won't let up --
+
+					FLITH 
+			Why don't you enlighten us? In 
+			case we need to procure something 
+			else.
+
+	O'Brien senses Flith suspects him, decides to go on the 
+	offensive --
+
+					O'BRIEN 
+			I have a better idea. Why don't 
+			you stay out of my business?
+
+					BILBY
+				(what's the big deal?) 
+			Tell us where you got the parts -- 
+			we can always use a good contact.
+
+	O'Brien isn't sure how he's going to get out of this 
+	one --
+
+					O'BRIEN 
+			I can't.
+
+	Now Bilby is starting to sense something's wrong --
+
+					BILBY 
+			Why not?
+
+					O'BRIEN
+			My supplier would rather remain 
+			anonymous.
+
+					BILBY 
+			I don't care what your supplier 
+			wants. I'm asking you a question.
+
+	Krole crosses over, glad to see the newcomer being 
+	challenged.
+
+					O'BRIEN 
+			I told him I wouldn't say.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT TWO       22.
+
+13   CONTINUED:	(2)
+
+	Suddenly Bilby slams O'Brien up against the wall and 
+	gets his face up close --
+
+					BILBY 
+			Where'd you get the parts?
+
+	O'Brien hesitates, until he hits on an idea to cover 
+	himself --
+
+					O'BRIEN
+				("reluctant") 
+			I stole them.
+
+	Bilby is momentarily taken off-guard --
+
+					BILBY 
+			You stole them?
+
+					O'BRIEN 
+			From a warehouse down on Degora 
+			Street.
+
+					BILBY 
+			Why didn't you just say so?
+
+					O'BRIEN 
+			I thought it'd be better you 
+			didn't know -- in case the police 
+			catch up with me.
+
+					BILBY
+				(challenging) 
+			You lied to me so that I wouldn't 
+			be implicated?
+
+					O'BRIEN 
+			I'm sorry.
+
+	A moment, then Bilby breaks into a smile.
+
+					BILBY
+				(to Flith and Krole) 
+			Did you hear that? He was willing 
+			to protect me if he got caught.
+				(studying them) 
+			As hard as I try, I can't imagine 
+			either of you being willing to do 
+			that.
+
+	Flith grits his teeth -- clearly this isn't how he 
+	wanted this to go. Bilby throws an arm around 
+	O'Brien's shoulder --
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT TWO       23.
+
+13   CONTINUED:	(3)
+
+					BILBY
+			You know something? I think it's
+			time we do something about the way
+			you look.
+
+									CUT TO:
+
+14   OMITTED
+
+15   INT. TAVERN - NIGHT (OPTICAL)
+
+	we start on a pair of SHOES, then PAN UP to reveal 
+	O'Brien wearing a NEW SUIT more in keeping with what 
+	Bilby and the others are wearing.
+
+	Bilby is showing him off to Flith and Krole, who don't 
+	look to happy about the fact that O'Brien is in such 
+	good graces with Bilby. It's after hours, and the 
+	bartender is sitting alone having a drink.
+
+					BILBY
+			What do you think?
+
+	Krole and Flith act unimpressed.
+
+					KROLE
+			He looks fine.
+
+					BILBY
+			What are you talking about? I
+			took him to the same tailor I use.
+
+	Krole lets him know he's not exactly crazy about what 
+	Bilby's wearing either --
+
+					KROLE
+				(unimpressed)
+			You look fine, too.
+
+	O'Brien gives Krole a once over, then comments on the 
+	colorful HANDKERCHIEF that he alone wears in one of his 
+	pockets.
+
+					O'BRIEN
+				(dry)
+			Nice handkerchief.
+
+	Before Krole can counter, the door OPENS and an 
+	imposing looking Alien ENTERS -- his name is YINT, and 
+	he's the man Bilby bought the Klingon disruptors from. 
+	As we'll see, Yint has no intention of admitting there 
+	was anything wrong with them.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       24.
+
+15   CONTINUED:
+
+					YINT 
+			I understand you've been looking 
+			for me.
+
+					BILBY 
+			That's right.
+
+					YINT 
+			I take it you're in the market for 
+			something.
+
+					BILBY 
+			If I was, I wouldn't buy it from 
+			the man who sold me three useless 
+			disruptors.
+
+					YINT 
+			You know me better than that.
+
+	Bilby gets one of the disruptor rifles --
+
+					BILBY 
+			I thought I did.
+
+					YINT 
+			Those disruptors were working fine 
+			when I gave them to you. What 
+			happened after that, I don't know. 
+			Maybe you dropped them.
+
+					BILBY 
+			I want my money back.
+
+					YINT 
+			You know I can't do that. You 
+			took delivery.
+
+	Bilby considers, studies the rifle in his hand --
+
+					BILBY 
+			Let me get something straight... 
+			you're telling me there was 
+			nothing wrong with this when you 
+			sold it to me?
+
+					YINT 
+			That's correct.
+
+	Bilby scratches his head, seems to change his tune.
+
+					BILBY 
+			Maybe I just don't know how to 
+			work it.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT TWO       25.
+
+15   CONTINUED:	(2) 
+
+	Bilby makes an elaborate show of studying the controls --
+
+					YINT 
+			That must be it.
+
+	Bilby nods thoughtfully, then suddenly swings the 
+	weapon around and SHOOTS Yint in the leg -- he falls to 
+	the floor in agony.
+
+					BILBY 
+			What do you know? I figured it 
+			out.
+
+	Bilby starts to take aim again, but O'Brien steps in to 
+	try to stop him --
+
+					O'BRIEN 
+			Bilby --
+
+					BILBY
+				(hard) 
+			Do you know what would've happened 
+			if I'd given Raimus three useless 
+			disruptors? He would've killed me.
+
+	Bilby pushes O'Brien away, turns to look down at Yint --
+
+					YINT
+				(through the pain) 
+			If you want your money back, you 
+			can have it...
+
+					BILBY 
+			Why would I want my money back? 
+			It works fine now.
+
+	Bilby FIRES again, hitting Yint square in the chest and 
+	killing him. Off O'Brien's face as he stands there in 
+	stunned silence...
+
+16
+thru   OMITTED 
+17
+
+18   INT. BILBY'S APARTMENT - NIGHT 
+
+	where O'Brien is sitting with Bilby, who has his cat in 
+	his lap. Through the windows, distant LIGHTNING 
+	illuminates the sky.
+
+					BILBY 
+			No one takes me for a fool.
+
+	Despite the apparent bravado with which he killed Yint, 
+	O'Brien can see that he's troubled.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       26.
+
+18   CONTINUED:
+
+					BILBY 
+			I will do whatever it takes to 
+			protect what I have.
+
+	O'Brien takes this in... a quiet moment passes...
+
+					BILBY 
+			This life... it's not for 
+			everyone. Sometimes I wish I 
+			could just get away from it all.
+				(rueful) 
+			But then, what would I do with 
+			myself? I'm too old to start 
+			over. Besides, who am I to 
+			complain? The organization has 
+			given me opportunities that I 
+			never thought I'd have. Once 
+			you're part of it, once you're 
+			accepted -- there are no limits to 
+			what you can do if you're smart 
+			about it.
+
+					O'BRIEN
+				(wry) 
+			Smart and careful.
+
+					BILBY
+				(smiles) 
+			I'm glad to see you're paying 
+			attention.
+				(back on track) 
+			We have people everywhere. Even 
+			Earth. Hell, we even have a man 
+			in Starfleet.
+
+	This gets O'Brien's attention --
+
+					O'BRIEN
+			Come on. Starfleet?
+
+					BILBY
+			That's correct.
+
+	Before O'Brien can try to get more information, Bilby 
+	moves on to another subject --
+
+					BILBY 
+			Do me a favor. Remind me to pick 
+			up something for my daughter 
+			tomorrow. Her birthday's coming 
+			up.
+
+					O'BRIEN
+			Sure thing.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       27.
+
+18   CONTINUED:	(2)
+
+					BILBY 
+			I'd like to be there. I hope I 
+			can get away.
+
+	As Bilby ruminates on this possibility, O'Brien 
+	cautiously tries to get more information.
+
+					O'BRIEN 
+			How'd you manage to get to someone 
+			in Starfleet?
+
+					BILBY
+			It wasn't me, it was Raimus.
+				(thinking of it) 
+			Do you want to come to New Sydney 
+			with me -- meet my family?
+
+					O'BRIEN 
+			If you go, sure.
+				(beat)
+			How did he do it?
+
+					BILBY 
+			Why all the questions?
+
+					O'BRIEN
+			Nothing. It's just hard to 
+			believe someone in Starfleet could 
+			be bought. It makes me wonder if 
+			he's a double-agent.
+
+					BILBY 
+			A double-agent? Then why would he 
+			have given us the names of all 
+			their undercover operatives?
+
+	O'Brien shrugs to concede the point...
+
+					BILBY 
+			Don't worry, he's the real thing. 
+			Raimus met him when he was 
+			vacationing on Risa last year. 
+			Mister Starfleet was in charge of 
+			the weather control system.
+				(smiling at the thought) 
+			Raimus offered him a very 
+			substantial amount of money to 
+			make it stop raining.
+
+       DEEP SPACE NINE: " Honor... " - REV. 12/17/97 - ACT TWO      27A.
+
+18   CONTINUED:	(3)
+
+	That's it -- that's all the information O'Brien needs. 
+	He smiles at Bilby's story.
+
+					O'BRIEN
+			I guess everyone has their price.
+
+	A BEEP from nearby gets Bilby's attention. He stands 
+	and moves to a small COM-UNIT, reads a message there.
+
+					BILBY
+			It's Krole. Raimus wants to see
+			me.
+
+	It's hard to tell if Bilby thinks this is a good thing 
+	or not.
+
+					O'BRIEN
+			In the middle of the night?
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       28.
+
+18   CONTINUED:	(4)
+
+	Off Bilby's face as he wonders what it could mean...
+
+19   INT. TAVERN - NIGHT (OPTICAL)
+
+	The place is empty except for O'Brien, Bilby, Krole, 
+	Flith and the bartender. Outside, the LIGHTNING storm 
+	continues. Bilby nervously straightens a chair and 
+	tucks it under a table. A beat, then four figures 
+	MATERIALIZE in the center of the room (NOTE: THIS 
+	SHOULD BE A NEW EFFECT).
+
+	From where O'Brien is standing, he can only see three 
+	people -- RAIMUS and his TWO BODYGUARDS (a Farian and 
+	another Alien) -- the fourth is blocked from view by 
+	the others.
+
+	Raimus is an impeccably dressed Farian. Younger than 
+	Bilby, his lined, sallow face shows the enormous 
+	pressure he's under running his organization.
+
+					RAIMUS
+				(a curt greeting) 
+			Bilby.
+
+					BILBY 
+			Raimus.
+
+	Bilby respects and fears this man, and we can see it on 
+	his face.
+
+					RAIMUS 
+			I brought someone here to meet 
+			you.
+
+	Raimus turns and we see the figure who's standing 
+	behind him -- it's a VORTA. O'Brien can't believe his 
+	eyes -- why the hell is a Dominion representative 
+	meeting with the Orion Syndicate?
+
+					VORTA 
+			I hope I didn't get you gentlemen 
+			out of bed.
+
+	Before anyone can respond, Raimus spies O'Brien's 
+	unfamiliar face.
+
+					RAIMUS 
+			Who's this? Bilby, who is this?
+
+					BILBY 
+			He's someone I know.
+
+					RAIMUS 
+			I've never seen him before. How 
+			well do you know him?
+
+	Bilby understands what he's being asked -- he glances
+	at O'Brien, then answers.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       29.
+
+19   CONTINUED:
+
+					BILBY
+			I know him.
+
+	This is all Raimus needs to hear --
+
+					RAIMUS
+			Then it's settled.
+
+	The Vorta steps forward as if to object, but we get the 
+	sense that what he's really doing is subtly mocking 
+	them.
+
+					VORTA
+			Is that the extent of your
+			security precautions?
+
+					RAIMUS
+			Bilby witnessed for him.
+
+	O'Brien reacts as he realizes that this is what Bilby 
+	just did.
+
+					RAIMUS
+		That's all that's necessary.
+
+	The Vorta turns to study O'Brien's face for a beat --
+
+					VORTA
+			If you say so.
+				(re: Bilby)
+			So... this is Bilby.
+
+	The Vorta studies Bilby for a beat...
+
+					VORTA
+			He seems capable enough.
+
+					RAIMUS
+			I told you.
+
+					VORTA
+				(putting him in his 
+				place)
+			I wanted to see for myself.
+
+	The Vorta turns back to Bilby, smiles...
+
+					VORTA
+			You procured the disruptors for
+			us.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       30.
+
+19   CONTINUED:	(2)
+
+					BILBY 
+			That's right.
+
+					VORTA 
+			We're going to ask you to do 
+			something else. Something very 
+			important.
+
+					BILBY
+			You can count on me.
+
+					VORTA
+				(almost a warning) 
+			I hope so.
+				(beat) 
+			We'll contact you when it's time.
+
+	And with that, the Vorta turns away and moves to the 
+	center of the room.
+
+					VORTA
+				(summoning him) 
+			Raimus.
+
+	Raimus isn't used to being ordered around, but he 
+	complies with as much dignity as possible. Before 
+	moving away --
+
+					RAIMUS
+				(to Bilby; sotto) 
+			Don't let me down.
+
+					BILBY 
+			I won't.
+
+	Raimus fixes him with a "you'd better not" look.
+
+					RAIMUS 
+			My love to your family.
+
+	And with that he moves to join the Vorta...
+
+20   O'BRIEN AND BILBY
+
+	We hear the SOUND of the beam out as they watch the 
+	four men dematerialize. After a beat...
+
+					BILBY 
+			Do you know what I just did for 
+			you?
+
+					O'BRIEN 
+			I think so.
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO      30A.
+
+20   CONTINUED:
+
+					BILBY 
+			I witnessed for you.
+
+	Bilby looks him straight in the eye --
+
+					BILBY 
+			If anything happens, I'm 
+			accountable.
+
+					O'BRIEN
+			I understand.
+
+					BILBY 
+			Good.
+
+	O'Brien hears the tone of warning in his voice. Off 
+	this moment...
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       31.
+
+21   INT. ALLEY - NIGHT
+
+	where O'Brien is meeting with Chadwick. (NOTE: IF 
+	POSSIBLE, THIS SHOULD PLAY AS A DIFFERENT ALLEY THAN 
+	WHERE THEY MET PREVIOUSLY.)
+
+					CHADWICK
+			Nice suit.
+
+					O'BRIEN
+			Bilby got it for me..
+
+					CHADWICK 
+			That's very generous.
+
+					O'BRIEN
+			He's like that.
+
+	Chadwick takes this in -- he's beginning to see that 
+	O'Brien is starting to like Bilby.
+
+					O'BRIEN 
+			I found out who the informant is.
+
+	This gets Chadwick's attention.
+
+					O'BRIEN 
+				(continuing) 
+			Bilby told me that he was in 
+			charge of the weather control 
+			system on Risa, about a year ago.
+
+					CHADWICK 
+				(pleased) 
+			It should be easy enough to find 
+			out who that was.
+
+					O'BRIEN
+			Yeah.
+
+	Chadwick can see that something's troubling O'Brien --
+
+					CHADWICK 
+			Something wrong?
+
+					O'BRIEN
+			Raimus brought someone to meet 
+			with Bilby. A Vorta.
+
+	It takes Chadwick a moment to assimilate this 
+	information --
+
+					CHADWICK 
+			You're telling me that the Orion 
+			Syndicate is working for the 
+			Dominion?
+
+        DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT TWO       32.
+
+21   CONTINUED:
+
+					O'BRIEN
+				(grim) 
+			Opens up a lot of possibilities, 
+			doesn't it?
+
+					CHADWICK 
+			None of them very pleasant.
+
+	A moment as they both consider what it could all 
+	mean... then O'Brien asks something, even though he 
+	already knows the answer.
+
+					O'BRIEN 
+			So... do I get to go home now?
+
+					CHADWICK 
+			Not until you find out what's 
+			going on.
+
+					O'BRIEN
+			I was afraid you were going to say 
+			that... 
+
+	And off O'Brien's face, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      33.
+                           ACT THREE                            
+
+	FADE IN:
+
+22   INT. TAVERN - DAY (VPB) 
+
+	The Bolian bartender is setting up the bar before it 
+	opens. O'Brien and Krole are working at the COM-BOOTH 
+	as Bilby and Flith look on anxiously. Krole is plugged 
+	in via his DATAPORT, and O'Brien is working the com-
+	unit's control panel. On the MONITOR we see the LOGO 
+	of the Bank of Bolias.
+
+					KROLE
+				(eyes closed) 
+			All right. I've accessed the 
+			Bank's data files.
+
+	On the MONITOR we see a tangle of encrypted DATA.
+
+					O'BRIEN
+				(working keypad) 
+			I'm reading a three-tier security 
+			protocol.
+
+					KROLE 
+			I see it.
+
+	We zoom toward the data and it becomes a kind of 
+	matrix...
+
+					O'BRIEN 
+			Looks like an isolation matrix is 
+			protecting the data. You'll have 
+			to bypass the encryption lockouts.
+
+					KROLE 
+			You make it sound so easy.
+
+	On the SCREEN, we seem to swoop atop the matrix...
+
+					O'BRIEN 
+			Watch out for recursive dataloops, 
+			you don't want to get diverted 
+			into a backflow.
+
+	We break past the matrix into another data-nest...
+
+					KROLE 
+			I'm past the lockouts.
+
+					O'BRIEN
+			Sweep the matrix... give me an 
+			access point...
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      34.
+
+22   CONTINUED:
+
+	O'Brien is so caught up in what he's doing, he's not 
+	even thinking about the fact that it's illegal --
+
+					KROLE
+			Stand by.
+
+	The data-nest rotates, and we ZOOM in on one point --
+
+					KROLE
+			Go.
+
+					O'BRIEN
+			Initiating data transfer --
+
+	After a beat...
+
+					KROLE
+			Faster.
+
+					O'BRIEN
+			I'm trying --
+
+	The data-nest seems to be collapsing in on itself...
+
+					KROLE
+			I can't hold the matrix open much
+			longer.
+
+					FLITH
+			Hurry.
+
+					O'BRIEN
+			Got it. Let's get out.
+				(beat)
+			Faster, Krole -- they're tracing
+			you.
+
+	We're now zooming AWAY from the matrix --
+
+					KROLE
+			The lockouts are closing --
+
+					O'BRIEN
+			Move.
+
+					BILBY
+			Come on --
+
+	A tense beat... then Krole yanks off his dataport.
+
+					KROLE
+				(eyes opening)
+			I'm out.
+
+					O'BRIEN
+			We did it.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      35.
+
+22   CONTINUED:	(2)
+
+	They all study the screen for a moment, which displays 
+	a kind of spreadsheet...
+
+					FLITH
+			Gentlemen, we just robbed the Bank
+			of Bolias...
+
+	They're all so stunned at having done this, none of 
+	them says anything for a beat...
+
+					BILBY
+				(musing out loud)
+			I was thinking about opening an
+			account there...
+
+	Another moment of stunned silence, then O'Brien sees 
+	the irony of Bilby's statement.
+
+					O'BRIEN
+			Better go with another bank.
+
+	Bilby looks at him, then cracks up. A beat, then 
+	O'Brien starts laughing too. Before long, they're all 
+	cracking up...
+
+					BILBY
+				(through gales of 
+				laughter)
+			One with... better... security...
+
+	After more laughter and congratulatory back-slapping...
+
+					FLITH
+				(re: O'Brien)
+			He's good.
+
+	Krole looks at O'Brien for a beat, then shrugs a smile.
+
+					KROLE
+			He's all right.
+
+	For the first time, O'Brien gets the sense that these 
+	two are accepting him.
+
+					BILBY
+			Let's celebrate.
+
+	As they move toward the bar --
+
+					O'BRIEN
+			Who's buying?
+
+					BILBY
+			You are.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE     35A.
+
+22   CONTINUED:	(3)
+
+	O'Brien hesitates, until Bilby smiles --
+
+					BILBY
+			I had you.
+				(to Knole)
+			Did you see the look on his face?
+				(pulling out some money)
+			Come on. What are you having?
+
+	Off the unlikely image of O'Brien celebrating with 
+	these criminals he's gotten himself involved with...
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      36.
+
+23   INT. ALLEY - NIGHT
+
+	An impatient Chadwick is waiting for O'Brien to show 
+	up. After a few beats, O'Brien ENTERS the alley and 
+	approaches.
+
+					CHADWICK 
+			You're late. I was starting to 
+			worry.
+
+					O'BRIEN
+			Sorry.
+
+					CHADWICK 
+			It's all right. I imagine the 
+			Dominion is keeping you busy.
+
+					O'BRIEN
+			Nothing's happened with that yet. 
+			I was just doing something with 
+			Bilby.
+
+					CHADWICK 
+			Anything worth reporting?
+
+					O'BRIEN
+			No. We went to the races. 
+				(a small grin) 
+			We came out ahead.
+
+					CHADWICK 
+			I'm glad to hear you're enjoying 
+			your assignment.
+
+					O'BRIEN 
+				(defensive) 
+			You told me to get close to him. 
+			He wanted to go, so I went with 
+			him.
+
+					CHADWICK 
+			There's no need to explain. I've 
+			been under cover.
+
+      DEEP SPACE NINE: "Honor... " - REV. 12/17/-97 - ACT THREE      37.
+
+23   CONTINUED:
+
+	A quiet moment passes... O'Brien brings up something 
+	that's been on his mind.
+
+					O'BRIEN 
+			Bilby witnessed for me.
+
+					CHADWICK 
+				(pleased) 
+			Sounds like you've really got your 
+			hooks in him.
+
+	But O'Brien can't seem to share Chadwick's enthusiasm --
+
+					O'BRIEN 
+			What's going to happen to him when 
+			you pull me out?
+
+	Chadwick realizes what's on his mind...
+
+					CHADWICK 
+			That's nothing you need to think 
+			about.
+
+					O'BRIEN
+			They're going to kill him, aren't 
+			they?
+
+					CHADWICK 
+			Listen to me. Bilby chose this 
+			life. Whatever happens to him is 
+			his fault, not yours.
+
+	Chadwick can see that O'Brien isn't entirely convinced 
+	of this. He decides to handle O'Brien -- he knows what 
+	he's going through, and it's his job to make sure he 
+	sees it through to the end.
+
+					CHADWICK 
+			Besides, if he's lucky we'll get 
+			to him before they do. He'll be 
+			safe in a Federation prison. 
+				(reassuring him) 
+			Just help us make a good case 
+			against him.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      38.
+
+23   CONTINUED:	(2)
+
+					O'BRIEN
+			Right
+
+	Off O'Brien's face as he decides to hang on to what
+	Chadwick seems to be offering
+
+24   OMITTED
+
+25   INT. BILBY'S APARTMENT - NIGHT
+
+	where Bilby has just arranged for O'Brien to have some 
+	time alone with a striking Farian WOMAN whose 
+	provocative dress suggests she might be a pro. Bilby 
+	is trying to talk O'Brien into spending some time with 
+	her.
+
+					BILBY
+				(sotto)
+			What do you mean you don't want
+			to? I brought her here for you.
+
+					O'BRIEN
+			I appreciate it, but...
+
+					BILBY
+			But what?
+				(ribbing him)
+			Don't tell me you don't like
+			girls?
+
+					O'BRIEN
+				(having to say 
+				something)
+			I've got a girl already.
+
+					BILBY
+				(pleased)
+			Since when?
+
+					O'BRIEN
+			A few days, a week. I don't know.
+
+					BILBY
+			That's great. Why didn't you say
+			anything?
+
+					O'BRIEN
+			I don't know. It didn't come up.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      39.
+
+CONTINUED:
+
+	Bilby leans in closer to make sure the woman can't 
+	hear.
+
+					BILBY
+				(quiet) 
+			I understand. But there's no 
+			reason to hurt this girl's 
+			feelings.
+
+	Bilby pats him on the shoulder and moves to pour them 
+	a couple DRINKS. O'Brien awkwardly approaches the 
+	woman, who smiles at him with a mixture of impatience 
+	and feigned interest.
+
+					O'BRIEN
+				(re: Bilby) 
+			We've got to discuss business.
+				(slipping her some 
+				money) 
+			Why don't you go home, I'll call 
+			you in a couple of days.
+
+	After a quick appraisal of the amount he handed over, 
+	she smiles, gives him a "don't forget me kiss," and 
+	slips out the door, leaving a very relieved looking 
+	O'Brien.
+
+					BILBY 
+			So who is she? This new girl?
+
+					O'BRIEN
+			Her name's... Kimiko.
+
+					BILBY
+				(handing him a drink) 
+			Where'd you meet her?
+
+					O'BRIEN
+			She works in a flower shop. 
+			Arranging flowers.
+
+					BILBY 
+			Bring her by sometime. I'd like 
+			to meet her.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      40.
+
+25   CONTINUED:	(2)
+
+					O'BRIEN 
+			I will.
+
+					BILBY 
+			A man your age should settle down 
+			and have a family -- it's the most 
+			important thing.
+
+					O'BRIEN
+			I don't know if it's that serious 
+			yet.
+
+					BILBY 
+			Let me talk to her for three 
+			minutes and I'll let you know if 
+			she's the marrying kind. I can 
+			read people right away. What's in 
+			their hearts. You for instance. 
+			I saw through you the first time 
+			I laid eyes on you.
+
+					O'BRIEN 
+			Oh, yeah?
+
+					BILBY 
+			I don't think I'd ever seen 
+			someone so alone in my entire 
+			life.
+
+	O'Brien looks away -- Bilby's right about this, even if 
+	he doesn't know the reason.
+
+					BILBY 
+			I said to myself, that man doesn't 
+			have a friend in the quadrant. 
+				(smiles) 
+			Flith and Krole thought you were 
+			a snake.
+
+					O'BRIEN 
+				(laughs) 
+			Really?
+
+					BILBY 
+			But I knew better. And when you 
+			came back the next day with that 
+			dataport repaired, that's when I 
+			knew -- we were going to do great 
+			things together.
+
+	Bilby leans forward, lowers his voice as if afraid to 
+	jinx what he's about to say.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT THREE      41.
+
+25   CONTINUED:	(3)
+
+					BILBY 
+			I'm about to take a step up in the 
+			organization. Raimus is giving me 
+			an opportunity and I'm going to 
+			make the best of it. Everything's 
+			changing, I can feel it. 
+				(smiles) 
+			And it all started when you came 
+			along. You changed my luck.
+
+	O'Brien takes in the irony in Bilby's words... he 
+	musters a smile, forces himself to say something...
+
+					O'BRIEN
+			And I thought you changed mine...
+
+					BILBY 
+			I'm going to take care of you. I 
+			don't forget my friends. Because 
+			friends are like family -- nothing 
+			is more important. Nothing.
+
+	Bilby raises his glass... O'Brien follows suit and 
+	knocks his drink back. Off his face as he takes in the 
+	sight of the utterly unsuspecting Bilby pouring them 
+	another drink...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       42.
+                           ACT FOUR                             
+
+	FADE IN:
+
+27   EXT. FARIUS PRIME - DAY (MATTE SHOT/OPTICAL)
+
+	Re-establishing.
+
+27   INT. TAVERN - DAY 
+
+	as the door OPENS and Bilby ENTERS with O'Brien, Flith 
+	and Krole in tow. The bartender is at the bar, looking 
+	even more somber than usual.
+
+					BILBY
+				(cheerful)
+			Morning, Graife.
+
+	The bartender turns his head to look away, and Bilby 
+	follows his gaze to see --
+
+28   RAIMUS AND THE VORTA
+
+	standing there waiting for them. Except for Raimus's 
+	bodyguards standing nearby, the place is empty. Bilby 
+	is clearly surprised to see them --
+
+					BILBY
+			Raimus... I didn't know you were
+			coming.
+
+					RAIMUS
+			I can see that.
+
+	Bilby recovers, tries to play host --
+
+					BILBY
+			Can I get you something?
+				(to bartender)
+			Graife, make us a strong pot of --
+
+					RAIMUS
+			Bilby. This isn't a social visit.
+
+	Bilby's smile fades when he sees the serious look on 
+	Raimus's face.
+
+					VORTA
+			(appraising the group)
+			So. Which one is it?
+
+	Before Raimus can answer, the Vorta stops him --
+
+					VORTA
+			Wait. Don't tell me. Let me see
+			if I can guess.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       43.
+
+28   CONTINUED:
+
+	The Vorta walks around the group, studying them --
+
+					VORTA
+			They say you can tell a traitor by
+			looking in his eyes.
+
+29   O'BRIEN
+
+	as he realizes they suspect a traitor in their midst.
+
+30   SCENE
+
+	as the Vorta moves to Bilby, studies his features for 
+	a beat.
+
+					VORTA
+			Do you think that's true?
+
+					BILBY
+			I wouldn't know.
+				(turning to Raimus)
+			Raimus, what's this all about?
+
+					RAIMUS
+			What does it look like?
+
+	The Vorta moves to study Flith...
+
+					VORTA
+				(to Raimus)
+			If you ask me, none of them look
+			particularly trustworthy.
+
+					BILBY
+			Raimus --
+
+					RAIMUS
+			Not now.
+
+					BILBY
+			But --
+
+					RAIMUS
+			I said not now.
+
+	The Vorta moves to O'Brien, lingers on him for a moment 
+	too long, then moves to study Krole. Just when O'Brien 
+	is starting to think he's not going to be fingered, the 
+	Vorta turns back and fixes his eyes on him.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       44.
+
+30   CONTINUED:
+
+					VORTA 
+			Him.
+
+					FLITH 
+			I've been saying so all along.
+
+	O'Brien swallows, looks to Bilby.
+
+					BILBY 
+			Raimus, this is crazy. He doesn't 
+			know what he's talking about.
+
+	The bartender suddenly steps up behind Flith, shoves a 
+	PHASER up into his armpit, and pulls the trigger. We 
+	hear the SOUND of the weapon firing, see the barest 
+	hint of a FLASH -- a beat, then the surprised Flith 
+	falls to the floor, dead. The Vorta looks down at 
+	Flith's still form --
+
+					VORTA 
+			He was going to be my second 
+			guess.
+
+					O'BRIEN
+			What did he do?
+
+					KROLE 
+			Whatever it was... it must've been 
+			very stupid.
+
+					RAIMUS 
+			Let's just say he conducted some 
+			business on the side and neglected 
+			to pay his fare.
+				(to Bilby) 
+			It's a good thing you never 
+			witnessed for him or you'd be 
+			lying there, too.
+
+	After a beat, the Vorta turns to Raimus, smiles.
+
+					VORTA 
+			Well, now that that's out of the 
+			way...
+				(crossing to the bar) 
+			Shall we discuss the matter at 
+			hand?
+
+	Raimus nods, and leads Bilby over to join the Vorta at 
+	the bar.
+
+					RAIMUS 
+			We mentioned we were going to ask 
+			you to do something for us.
+
+					BILBY 
+			Anything you need.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR      44A.
+
+30   CONTINUED:	(2)
+
+					VORTA 
+			So accommodating. He reminds me 
+			of a Jem'Hadar.
+
+					RAIMUS 
+			We want you to assassinate the 
+			Klingon Ambassador to Farius.
+
+					BILBY
+				(without batting an eye) 
+			All right.
+
+					VORTA 
+			You'll use the disruptors you 
+			procured earlier.
+
+					O'BRIEN
+				(realizing) 
+			You want it to look like he was 
+			killed by a rival House.
+
+	Bilby warns O'Brien off -- he doesn't want him asking 
+	so many questions.
+
+					BILBY 
+			Connelly --
+
+					VORTA 
+			It's all right.
+
+	The Vorta is clearly intrigued by O'Brien's comment --
+
+					VORTA
+				(to O'Brien) 
+			Very astute. Do you know much 
+			about political affairs?
+
+	O'Brien knows enough to back off a bit --
+
+					O'BRIEN 
+			Not really.
+
+	The Vorta can't resist trumpeting his own plan --
+
+					VORTA 
+			Then let me enlighten you. The 
+			ambassador has been advocating 
+			that the Klingons break off their 
+			alliance with the Federation and 
+			concentrate on defending the 
+			Empire against the Dominion. 
+			Chancellor Gowron, on the other 
+			hand, is adamantly committed to 
+			the alliance.
+
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       45.
+
+30   CONTINUED:	(3)
+
+					O'BRIEN
+				(putting it together) 
+			You're going to make it look like 
+			Gowron ordered the assassination.
+
+					VORTA
+				(pleased) 
+			Exactly. The ambassador will be 
+			seen as a martyr. And his cause 
+			will gain strength. If all goes 
+			well, the Klingons will retreat 
+			into their own territory, and all 
+			we'll have to deal with is the 
+			Federation.
+
+					O'BRIEN
+			Makes sense.
+
+					VORTA 
+			I'm glad you think so.
+				(turning to Bilby) 
+			Needless to say, it's very 
+			important that the Dominion's part 
+			in this be kept secret.
+
+					RAIMUS 
+			If something goes wrong and you 
+			get captured, you never met our 
+			friend here.
+
+					BILBY 
+			I understand.
+
+					RAIMUS 
+			I knew I could count on you.
+
+	The Vorta looks around at Raimus's men, musing out loud.
+
+					VORTA 
+			I never realized how much the 
+			Dominion and the Orion Syndicate 
+			have in common -- it seems that in 
+			both organizations...
+				(as his eyes settle on 
+				O'Brien) 
+			-- loyalty is everything.
+
+	A beat, then the Vorta smiles... off this moment...
+
+31   INT. ALLEY - NIGHT
+
+	where O'Brien is telling Chadwick what he's learned. 
+	O'Brien's a little agitated -- the pressure of the 
+	situation has been getting to him.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       46.
+
+31   CONTINUED:
+
+					CHADWICK 
+			How are they planning to get past 
+			the Embassy's security?
+
+					O'BRIEN
+			Bilby asked me the same thing. I 
+			figured out a way to interrupt the 
+			power grid for a few seconds - 
+			Bilby and his men will be able to 
+			beam in before the backup 
+			generator kicks in.
+
+	Chadwick takes this in, considers how best to proceed.
+
+					CHADWICK 
+			When is this supposed to happen?
+
+					O'BRIEN
+			Tonight.
+
+					CHADWICK 
+			I'll contact the Klingons so they 
+			can be ready for them.
+
+					O'BRIEN
+			What are you talking about? If 
+			the Klingons get their hands on 
+			Bilby and his men, they'll kill 
+			them.
+
+	Though he's not about to admit it, Chadwick wouldn't 
+	mind this at all.
+
+					CHADWICK 
+			That's not really our business, is 
+			it?
+
+	O'Brien realizes what Chadwick is planning --
+
+					O'BRIEN
+			You're setting them up to be 
+			murdered.
+
+					CHADWICK 
+			You have things backwards. Bilby 
+			and his friends are the ones that 
+			murder people. Not us.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       47.
+
+31   CONTINUED:	(2)
+
+					O'BRIEN 
+			No, we get the Klingons to do it 
+			for us.
+
+					CHADWICK 
+			All I'm doing is following 
+			procedures and warning our allies 
+			about a possible assassination 
+			attempt. What happens after that 
+			is not my concern.
+				(admitting it) 
+			But believe me, if the Klingons 
+			decide to go after Raimus and the 
+			Orion Syndicate, I won't shed any 
+			tears.
+
+					O'BRIEN
+			No. I don't suppose you will.
+
+	Chadwick looks at him, tries to make him understand.
+
+					CHADWICK 
+			Miles, listen to me. You've lost 
+			perspective. You're starting to 
+			sympathize with these people. 
+			It's a good thing we're pulling 
+			you out.
+
+					O'BRIEN
+			Pulling me out?
+
+					CHADWICK 
+			We're putting you on the next 
+			transport home. Your assignment's 
+			over.
+
+					O'BRIEN
+			You told me we were going to make 
+			a case against Bilby... you told 
+			me he was going to prison...
+
+					CHADWICK 
+			I'm sorry, I didn't want to 
+			mislead you, but you were starting 
+			to waver. I needed to keep you on 
+			track.
+
+	Chadwick can see O'Brien isn't happy about any of this, 
+	but there's nothing he can do.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       48.
+
+31   CONTINUED:	(3)
+
+					CHADWICK
+			Come on. Let's get you home.
+
+	Chadwick starts to turn away --
+
+					O'BRIEN
+			Chadwick.
+
+	As Chadwick turns back, O'Brien clocks him one - 
+	knocking him unconscious. O'Brien looks down at his 
+	still form... Off this moment...
+
+32   INT. BILBY'S APARTMENT - NIGHT
+
+	where Bilby is laying out a BOWL of food for his cat.
+
+					BILBY
+			Here you go, Chester.
+
+	As he tucks a weapon into his clothes, the door CHIMES. 
+	Bilby heads for the door.
+
+					BILBY
+				(to the cat)
+			Who could that be?
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FOUR       49.
+
+32   CONTINUED:
+
+	He moves to the door, OPENS it to REVEAL --
+
+33   O'BRIEN
+
+					BILBY 
+				(smiles) 
+			Come to see me off?
+
+					O'BRIEN
+			We need to talk.
+
+					BILBY 
+			It'll have to wait. I was just 
+			leaving.
+
+					O'BRIEN
+			You can't go.
+
+					BILBY 
+			What are you talking about?
+
+					O'BRIEN
+			Look, just trust me. You can't 
+			go.
+
+					BILBY 
+			Why not?
+
+					O'BRIEN
+			It's a trap.
+
+	And off Bilby's reaction, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE       50.
+                           ACT FIVE                             
+
+	FADE IN:
+
+34   INT. BILBY'S APARTMENT - NIGHT - CONTINUOUS
+
+	Bilby looks like he thinks he didn't hear O'Brien 
+	right.
+
+					O'BRIEN 
+			Listen to me. The Klingons know 
+			what you're planning to do.
+
+					BILBY 
+			That's impossible.
+
+					O'BRIEN
+			Someone traced my signal when I 
+			accessed the power grid.
+
+					BILBY 
+			I watched you access the grid -
+			you cut off the trace.
+
+					O'BRIEN
+			No, they just let me think I had.
+
+	Bilby thinks O'Brien has the jitters --
+
+					BILBY 
+			You're panicking.
+				(throwing an arm around 
+				his shoulder) 
+			Try not to worry so much.
+
+					O'BRIEN 
+			You're the one who should be 
+			worried. Do you have any idea 
+			what the Klingons will do to you 
+			when they catch you?
+
+					BILBY
+				(reassuring him) 
+			They're not going to catch me.
+
+					O'BRIEN 
+			Yes, they are! Starfleet 
+			Intelligence is going to warn them 
+			you're coming.
+
+					BILBY
+				(dismissing this) 
+			How do you know that? I suppose 
+			you work for them.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE       51.
+
+34   CONTINUED: 
+
+	Bilby smiles at this seeming absurdity -- until he sees 
+	the look on O'Brien's face.
+
+					O'BRIEN 
+			What if I said I did?
+
+	Bilby looks at O'Brien for a long beat, then breaks 
+	into a broad smile --
+
+					BILBY 
+			Very good. You had me. For a 
+			minute there I actually thought 
+			you were working for Starfleet.
+
+					O'BRIEN
+			I am.
+
+					BILBY 
+			Come on, enough. You had me. I 
+			admit it.
+
+					O'BRIEN
+			I am working for Starfleet --
+
+					BILBY
+				(exploding) 
+			I said enough! I don't want to 
+			hear it. Do you understand? I do 
+			not want to hear it.
+
+	Bilby collapses heavily into his chair. O'Brien stares 
+	at him, the realization dawning in his mind -- Bilby 
+	doesn't want to believe him. Bilby sits in silence, 
+	his world crumbling around him. After a long moment...
+
+					BILBY 
+			Why'd you have to come here... 
+			why'd you have to tell me that?
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE       52.
+
+34   CONTINUED:	(2)
+
+					O'BRIEN 
+			I couldn't just let you go. The 
+			Klingons will kill you.
+
+					BILBY 
+			I'm dead already! Can't you see 
+			that? I witnessed for you. Do 
+			you have any idea what that means?
+
+					O'BRIEN
+			What if I can get you off Farius -- 
+			help you find a place to hide?
+
+					BILBY 
+			There's no hiding from the 
+			Syndicate. You know that.
+
+					O'BRIEN
+			Then turn yourself in. You'll be 
+			safe in prison.
+
+					BILBY 
+				(standing) 
+			No. They'd go after my family. 
+			Make an example of me.
+
+	Bilby paces as he tries to sort out his options...
+
+					BILBY 
+			But Raimus would leave them alone 
+			if he thinks I died not knowing 
+			about you.
+
+	O'Brien can't believe what he's forcing Bilby to do...
+
+					O'BRIEN 
+			You can't just let the Klingons 
+			kill you...
+
+					BILBY 
+			What choice do I have!
+
+	Bilby stands there, trying to understand how this all 
+	could've happened...
+
+					BILBY 
+			How did I let this happen? I 
+			should've known... you were too 
+			good to be true. But I wanted so 
+			much to believe my luck had 
+			changed, I didn't see it. I 
+			didn't see.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE      52A.
+
+34   CONTINUED:	(3)
+
+	Bilby looks up at O'Brien, the sad irony of it all is 
+	right there in his eyes...
+
+					O'BRIEN 
+			Bilby, I never meant for this to 
+			happen. I wasn't after you, I was 
+			only trying to find out how the 
+			Syndicate had compromised 
+			Starfleet.
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE       53.
+
+34   CONTINUED:	(4)
+
+	Despite O'Brien's intentions, this just makes it
+	worse...
+
+					BILBY
+			I wasn't even your target.
+				(rueful)
+			I suppose I'm not important
+			enough.
+
+	Bilby stands there, shattered by everything that's 
+	happened.
+
+					BILBY 
+			I've always known something like 
+			this might happen.
+				(considers) 
+			The smart thing would be to kill 
+			you... but I guess I've already 
+			proved I'm not too smart...
+
+	Bilby takes a last look around the apartment...
+
+					O'BRIEN 
+			Bilby... I'm sorry.
+
+	Bilby studies him for a beat...
+
+					BILBY 
+			You'll never know how little 
+			comfort that is...
+
+	Bilby turns away, and his eyes settle on the cat...
+
+					BILBY 
+			If it's not too much trouble, can 
+			you make sure Chester's looked 
+			after?
+
+	O'Brien nods, looks away -- the request is so 
+	heartbreaking he can't meet his eye.
+
+					BILBY
+				(to the cat) 
+			Be good.
+
+	As Bilby moves toward the door, he sees the picture of 
+	his family. He stops and studies it for a beat...
+
+					BILBY
+			Can I ask you something?
+				(beat) 
+			Back home -- wherever that is -- 
+			do you have a family?
+
+	O'Brien nods...
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE      53A.
+
+34   CONTINUED:	(5)
+
+					BILBY 
+			Good. That's the most important 
+			thing.
+
+	And with that, he turns and walks out of the room. Off 
+	O'Brien's face as he watches him leave...
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE       54.
+
+35   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+36   INT. O'BRIEN'S QUARTERS
+
+	where a somber O'Brien, still in the suit Bilby bought 
+	for him, is standing by the window looking out at the 
+	stars. Bashir is standing nearby, just having heard 
+	O'Brien's story.
+
+					O'BRIEN
+			I'll never forget the look on 
+			his face when he found out who I 
+			really was...
+
+					BASHIR
+			You took an enormous risk telling 
+			him. He could've killed you.
+
+	O'Brien shakes his head...
+
+					O'BRIEN 
+			I knew he wouldn't.
+
+	Bashir has no way of knowing the impact of what 
+	happened to O'Brien. Right now, he's just glad he's 
+	back safe, and that he managed to stay out of trouble.
+
+					BASHIR 
+			Well, all I can say is you're 
+			lucky Chadwick decided not to put 
+			everything that happened in his 
+			report.
+
+	O'Brien turns to him, realizing he's not making himself 
+	clear to his friend.
+
+					O'BRIEN 
+			Julian, don't you understand what 
+			I'm trying to tell you? Bilby 
+			trusted me. He put his life in my 
+			hands. And I killed him. Just as 
+			sure as if I'd pulled the trigger 
+			myself.
+
+					BASHIR
+			That's not fair and you know it. 
+			You did what you had to do -- your 
+			duty.
+
+					O'BRIEN
+			Is that what I'm supposed to tell 
+			myself?
+
+       DEEP SPACE NINE: "Honor... " - REV. 12/17/97 - ACT FIVE       55.
+
+36   CONTINUED:
+
+					BASHIR 
+			It's the truth.
+
+	Bashir is smart enough to know he hasn't talked O'Brien 
+	out of what he's feeling. He puts a comforting hand on 
+	his friend's shoulder.
+
+					BASHIR 
+			Look, I'm sorry I don't have all 
+			the answers. All I know for sure 
+			is that I'm glad you're back.
+
+	A moment between them, then he turns and EXITS. 
+	O'Brien watches him go, then moves and sits heavily on 
+	the couch. After a beat, Chester trots over and hops 
+	onto his lap. O'Brien smiles ruefully, strokes his 
+	back. off his pensive features, we...
+
+37   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

@@ -1,0 +1,3049 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "Life Support" 
+                          #40513-459 
+                              
+                           Story by 
+                 Christian Ford & Roger Soffer 
+                              
+                          Teleplay by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                          Reza Badiyi 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       November 10, 1994
+
+       STAR TREK: DS9 - "Life Support" - 11/10/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Life Support" 
+                             CAST 
+
+          SISKO                    BAREIL
+          KIRA                     WINN
+          ODO                      NURSE
+          BASHIR                   RISKA
+          DAX                      TURREL
+          O'BRIEN                  LEANNE
+          QUARK                    
+          JAKE                     
+          NOG                      
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+STAR TREK DEEP SPACE NINE: "Life Support" - 11/10/94 - SETS       
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Life Support" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEFIANT                       DEEP SPACE NINE
+          AIRLOCK                       
+          BASHIR'S QUARTERS             
+          COMMANDER'S OFFICE            
+          CORRIDOR                      
+          HOLDING CELL                  
+          INFIRMARY                     
+          PROMENADE                     
+          SISKO'S QUARTERS              
+          SURGERY                       
+          QUARK'S                       
+            LOWER LEVEL
+            SECOND LEVEL
+          WARDROOM                      
+
+     STAR TREK: "Life Support" - 11/10/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Life Support" 
+                      PRONUNCIATION GUIDE 
+
+          HALIGIAN                 ha-LEE-gee-an
+          MAKARIAN                 MAH-kair-ee-an
+          NEUROGENIC               NUR-ro-gin-ik
+          ORAK                     OR-ak
+          OSINAR                   OH-sin-nar
+          RISKA                    RISK-ah
+          TERRELLIANS              tur-REL-ee-ans
+          TURREL                   tur-REL
+          AXONAL                   AX-oh-nal
+          CORDRAZINE               KOR-druh-zeen
+          INOPROVALINE             EYE-no-pro-vuh-leen
+          INOTRPOIC                EYE-no-tro-pik
+          NEUROGLIAL               NUR-ro-glee-ul
+          SERATONIN                SAIR-ruh-to-nen
+          SPINO-THALMIC            SPIN-no-thal-mik
+
+         DEEP SPACE: "Life Support" - REV. 11/11/94 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                            "Life Support"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. PROMENADE
+
+	JAKE is walking along the Promenade when a lovely young Human 
+	Girl named LEANNE catches his attention.
+
+					LEANNE
+			Jake!
+
+	Jake turns and gives her a big smile.  Leanne is a little 
+	older than Jake and has a confident, easy quality to her.
+
+					JAKE
+			Leanne.  I thought you were on Bajor.
+
+					LEANNE
+			I came back early.
+				(beat)
+			You know, I was just thinking about 
+			you.
+
+					JAKE
+			Really?
+
+					LEANNE
+			Yeah... I passed by the Klingon 
+			restaurant and I was thinking about 
+			the time you and I and Orak were 
+			having dinner...
+
+					JAKE
+			And you ordered the gagh...
+
+	They both chuckle at the memory.
+
+					JAKE
+			How is Orak?  I haven't talked to 
+			him in awhile.
+
+	Leanne brushes this off, but there's a quick look of regret 
+	on her face.
+
+					LEANNE
+			We stopped seeing each other a few 
+			weeks ago.
+
+         DEEP SPACE: "Life Support" - REV. 11/11/94 - TEASER         2.
+
+1    CONTINUED:
+
+					JAKE
+				(surprised)
+			Oh.
+
+	Leanne glances away then back at Jake awkwardly.
+
+					LEANNE
+			So... are you doing anything tomorrow 
+			night?
+
+					JAKE
+			I'm supposed to be playing dom-jot 
+			with Nog.
+
+	Leanne looks a little disappointed and Jake quickly changes 
+	his tune.
+
+					JAKE
+			But they're not really firm plans.  
+			In fact, I was thinking of canceling 
+			them.
+
+					LEANNE
+			Really?  Well... if you do cancel... 
+			would you be interested in... dinner?
+
+					JAKE
+				(quickly)
+			Sure.
+
+	She smiles back at him and the sexual tension rises a notch.
+
+					LEANNE
+			Great.  How 'bout eighteen hundred 
+			at the Klingon restaurant?
+
+					JAKE
+			I'll be there.  But this time we'll 
+			skip the gagh.
+
+					LEANNE
+			Definitely.  See you then.
+
+	Leanne leaves.  Jake looks after her for a moment with an 
+	obviously happy look on his face.  But just as he's savoring 
+	the moment, suddenly O'BRIEN, ODO, and TWO N.D. SECURITY 
+	GUARDS come running down the Promenade.
+
+					ODO
+			Look out!
+
+         DEEP SPACE: "Life Support" - REV. 11/11/94 - TEASER         3.
+
+1    CONTINUED:	(2)
+
+					O'BRIEN
+			Move aside!
+
+	Jake and the other Passersby on the Promenade quickly scatter 
+	out of the way as the group rushes by.
+
+									CUT TO:
+
+2    INT. AIRLOCK
+
+	As O'Brien, Odo, and the Guards come pounding up to the 
+	Airlock door.  BASHIR and a NURSE run up from another 
+	direction, carrying medical cases and equipment.  Odo goes 
+	to a wall console.  The mood is tense and urgent.
+
+					BASHIR
+			What do we have?
+
+					O'BRIEN
+			Bajoran transport coming in.  They 
+			said there was some kind of accident 
+			on board and they've got casualties.
+
+					ODO
+				(off console)
+			They're docking...
+
+					BASHIR
+			We should've beamed the wounded 
+			directly to the Infirmary.
+
+					O'BRIEN
+				(shakes his head)
+			They have a loose plasma coil.  We 
+			couldn't beam through the radiation.
+
+					ODO
+				(off console)
+			Docking clamps secure.  I'm opening 
+			the airlock.  Stand back.
+
+	He works for a moment, then the airlock OPENS, and a CLOUD 
+	OF SMOKE billows out from the damaged ship.  SEVERAL WOUNDED 
+	N.D. BAJORANS stumble out, coughing and hacking.
+
+					O'BRIEN
+				(to Guards)
+			Come on.
+
+	O'Brien and the Guards plunge into the airlock and go aboard 
+	the ship.
+
+         DEEP SPACE: "Life Support" - REV. 11/11/94 - TEASER         4.
+
+2    CONTINUED:
+
+	Odo, Bashir, and the Nurse move to help the wounded.
+
+					ODO
+				(to wounded N.D.)
+			It's going to be all right...
+
+					NURSE
+				(to wounded N.D.)
+			I've got you.
+
+	Suddenly KAI WINN comes staggering out of the airlock, aided 
+	by another Bajoran.
+
+					BAJORAN
+			This way, Eminence.
+
+					BASHIR
+				(shocked)
+			Kai Winn... ?
+
+					WINN
+				(coughing)
+			The Vedek... take care of the Vedek...
+
+	Two N.D. Bajorans now ENTER from the airlock carrying someone 
+	between them.  Bashir rushes up to them and reacts in shock 
+	to what he sees.  Odo sees his reaction and looks at the 
+	wounded man -- it's a badly wounded VEDEK BAREIL.
+
+					ODO
+				(to com)
+			Odo to Kira.
+
+					KIRA'S COM VOICE
+			Kira here.  
+									INTERCUT:
+
+2A   INT. OPS
+
+	As Kira listens to Odo.
+
+					ODO'S COM VOICE
+			I think you should meet us in the 
+			Infirmary, Major.  Vedek Bareil 
+			was on the transport... and he's 
+			been injured.
+
+	Off Kira's reaction...
+
+3    OMITTED
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE: "Life Support" - REV. 11/18/94 - ACT ONE 5-5A.        
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+4    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+
+	Establishing the station.
+
+					SISKO (V.O.)
+			Station Log:  Stardate 48498.4  A 
+			Bajoran transport carrying both Kai 
+			Winn and Vedek Bareil has docked at 
+			the station following an accident 
+			which nearly destroyed the vessel.
+
+5    INT. INFIRMARY
+
+	Winn is lying on one of the biobeds.  She appears unhurt, 
+	with only a few scrapes.  SISKO is standing nearby, and KIRA 
+	is pacing in the b.g.
+
+					SISKO
+			Chief O'Brien tells me that your 
+			ship suffered some kind of failure 
+			in the plasma relay.  You're lucky 
+			to be alive.
+
+					WINN
+			The Prophets must have decided that 
+			my work here is not yet complete.
+				(beat)
+			How is Bareil?
+
+					SISKO
+			Still in surgery.
+
+	Sisko and Kira exchange worried looks.
+
+        DEEP SPACE: "Life Support" - REV. 11/18/94 - ACT ONE         6.
+
+6    INT. SURGERY
+
+	Bashir and the Nurse seen earlier struggle to save Bareil's 
+	life as he lies on the operating table.  Bashir is checking 
+	equipment and making hands-on inspections of his patient.  
+	The mood is tense and urgent.
+
+					BASHIR
+			His heart rate is falling.
+				(to Nurse)
+			Fifty units inoprovaline.
+
+	The Nurse applies a hypospray to Bareil.
+
+					BASHIR
+				(off equipment)
+			Severe cerebral edema... with damage 
+			to the cerebral artery... and the 
+			neuroglial network.
+
+        DEEP SPACE: "Life Support" - REV. 11/18/94 - ACT ONE         7.
+
+6    CONTINUED:
+
+					BASHIR
+				(beat)
+			His vital signs are deteriorating 
+			too quickly, we can't wait any longer.
+				(to Nurse)
+			Prep him for surgery.
+
+	As they rush about and prepare Bareil for surgery...
+
+									CUT TO:
+
+7    INT. INFIRMARY
+
+	O'BRIEN ENTERS and hands Sisko a PADD.  Winn is sitting on 
+	the edge of the bed now as Kira looks on.
+
+					O'BRIEN
+			The report on the transport, sir.
+
+					SISKO
+			Give me the short version.
+
+					O'BRIEN
+			There was a molecular fracture in 
+			one of the warp plasma conduits.  It 
+			was only a matter of time until it 
+			gave way... once it collapsed the 
+			entire relay system exploded.
+
+					WINN
+			Was it sabotage?
+
+					O'BRIEN
+			I don't think so.
+
+					KIRA
+				(to Winn)
+			Why would you suspect sabotage?
+
+	Winn glances around.
+
+					WINN
+			I'd prefer to discuss that with the 
+			Emissary in private.
+
+        DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT ONE         8.
+
+7    CONTINUED:
+
+	Kira looks to Sisko, who indicates he'll handle it.  He 
+	and Winn EXIT.
+
+									CUT TO:
+
+8    INT. SURGERY
+
+	They have now moved the clamshell operating device over 
+	Bareil.  Bashir and the Nurse are wearing gloves and are in 
+	the midst of surgery.  Another N.D. Nurse is assisting them.
+
+					BASHIR
+			Put a pressor field on that artery.
+
+					NURSE
+				(works)
+			The arterial disruption is too 
+			severe... the pressor can't stop the 
+			hemorrhaging.
+
+					BASHIR
+			All right... clamp off the artery 
+			for now and increase the plasma level 
+			to maximum.
+
+	Another ALARM goes off.
+
+					NURSE
+			Cardiac arrest.
+
+	They work frantically again... Bareil is jolted... then jolted 
+	again... Bashir and the Nurse relax as the heart starts again.
+
+					BASHIR
+			He can't take much more of that...
+
+					NURSE
+			His arterial pressure is falling...
+
+					BASHIR
+			I see it.
+
+					NURSE
+			Neurotransmitter levels are falling 
+			too...
+
+					BASHIR
+			Two cc's cordrazine.
+
+	The Nurse hesitates, looks up at him for a beat.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT ONE         9.
+
+8    CONTINUED:
+
+					BASHIR
+			Do it.
+
+	The Nurse begins making adjustments on a hypospray.  But 
+	before the Nurse can apply the hypo, yet another ALARM goes 
+	off.
+
+					BASHIR
+				(urgent)
+			Synaptic failure!
+
+	They both frantically begin to work more medical equipment.
+
+									CUT TO:
+
+8A   INT. COMMANDER'S OFFICE
+
+	Winn and Sisko are sitting at his desk.  Sisko hands her 
+	something to drink.
+
+					WINN
+			Vedek Bareil and I were on our way 
+			to a secret meeting with a member of 
+			the Cardassian Central Command.  It 
+			was my intention to open talks between 
+			Bajor and Cardassia which would lead 
+			to a treaty... and to a final peace 
+			settlement.
+
+	Sisko is shocked... he takes a beat to let this sink in.
+
+					SISKO
+			You have been negotiating peace... 
+			with Cardassia...
+
+					WINN
+			The Prophets teach us that while 
+			violence may keep an enemy at bay... 
+			only peace can make him a friend.
+
+					SISKO
+			How long has this been going on?
+
+					WINN
+			Bareil has been working to set up 
+			this meeting with Legate Turrel for 
+			the past five months.  They've 
+			discussed issues ranging from war 
+			reparations to an exchange of 
+			ambassadors.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT ONE        10.
+
+8A   CONTINUED:
+
+					WINN (Cont'd)
+			They've even discussed the possibility 
+
+			of the Cardassians issuing a formal 
+			apology for the pain and suffering 
+			inflicted on the Bajoran people during 
+			the occupation.
+				(beat)
+			I was on my way to our first face-to-
+			face meeting with Turrel when we had 
+			the accident.
+
+	Sisko is genuinely surprised at this... it makes him look at 
+	Winn a little differently.
+
+					SISKO
+			Please don't take this the wrong 
+			way... but I never would've guessed 
+			that you would be the one to bring 
+			such a... bold vision of peace to 
+			Bajor.
+
+	Winn smiles at him, grateful for the praise as always... but 
+	her smile quickly fades.
+
+					WINN
+			A large share of the credit goes to 
+			Vedek Bareil.  Without him, the talks 
+			would've never come this far.
+
+					SISKO
+			It sounds like you've developed a 
+			deeper appreciation for Vedek Bareil.
+
+					WINN
+			I have to admit... he's been a very... 
+			loyal and trustworthy aide since the 
+			election.  I'm not sure I could've 
+			been as... forgiving if I'd been in 
+			his place.
+				(beat)
+			These talks were his idea... he's 
+			guided me through them... and without 
+			him in the future... the talks may 
+			never resume.
+
+									CUT TO:
+
+9    INT. INFIRMARY
+
+	Kira is pacing restlessly when Bashir ENTERS.  She turns and 
+	looks at him...
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT ONE       10A.
+
+9    CONTINUED:
+
+	... and there's a silent moment as she notices the grim look 
+	on Bashir's face and realize what's happened.  Bashir walks 
+	into the room, goes directly to Kira.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT ONE        11.
+
+9    CONTINUED:
+
+					BASHIR
+			I'm sorry.  The radiation severely 
+			damaged his neural pathways.  I did 
+			everything I could.
+
+					KIRA
+				(quiet)
+			I know you did.  Did he ever regain 
+			consciousness?
+
+					BASHIR
+			No.  I don't think he suffered.
+
+	There are no tears in Kira's eyes.  She takes the news 
+	stoically, like a soldier hearing about the death of a buddy.
+
+					KIRA
+			Thank you, Doctor.
+				(beat)
+			I'm on duty in Ops.  Excuse me.
+
+	She heads for the door, but Bashir stops her.
+
+					BASHIR
+			Kira.
+
+					BASHIR
+				(quietly)
+			I think they can get along without 
+			you in Ops today.
+
+					KIRA
+			Maybe so.  But I need to be there.  
+			I appreciate your concern... but 
+			I'll grieve in my own way... in my 
+			own time.
+
+	Bashir looks at her for a beat, wants to reach out and help... 
+	but realizes this is how Kira wants to handle it.  He finally 
+	nods.  Kira turns and leaves.  OFF Bashir's face as he watches 
+	her go...
+
+10   OMITTED
+
+									CUT TO:
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT ONE        12.
+
+11   INT. SURGERY
+
+	Bareil is lying on the operating table, still covered by the 
+	clamshell.  There is a faint green LIGHT covering his entire 
+	body, indicating a stasis field is in operation.  The Nurse 
+	is standing nearby and a cart of medical instruments has 
+	been wheeled next to the table.  Bashir ENTERS, goes over to 
+	Bareil and looks down at him with a somber expression.
+
+					NURSE
+			We're ready to begin the autopsy, 
+			Doctor.
+
+	Bashir takes a long beat... pushes aside whatever personal 
+	feelings he may have... then gets down to business.
+
+					BASHIR
+			Release the stasis field.
+
+	The Nurse hits a control and the green light SHUTS OFF.
+
+					BASHIR
+				(to Nurse)
+			Let's begin with a neural scan.  I 
+			want to map his central axonal 
+			pathways and find out exactly where 
+			the breakdown began.
+
+	Bashir picks up a large device shaped like a helmet and places 
+	it on Bareil's head, completely covering his face.  The Nurse 
+	activates the device, and Bashir moves to a monitor.
+
+12   INCLUDE MONITOR (OPTICAL)
+
+	It shows a schematic diagram of Bareil's brain.  The schematic 
+	rotates and then zooms in, and we see a complex pattern of 
+	synapses, neurons and other medical data on Bareil's brain.
+
+					NURSE
+			Should I begin taking neural tissue 
+			samples?
+
+	Bashir nods and concentrates on the monitor.  In the b.g., 
+	the Nurse holds up Bareil's arm and prepares to take tissue 
+	samples.
+
+					BASHIR
+			Looks like the damage began in the 
+			parietal lobe... and spread through 
+			the rest of his brain in a retrograde 
+			manner.
+
+        DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT ONE        13.
+
+12   CONTINUED:
+
+	Suddenly on the monitor, a PINPOINT OF LIGHT flashes on 
+	in Bareil's brain.  Bashir reacts.
+
+					BASHIR
+			Wait a minute... A neuron just fired 
+			in his cerebral cortex.
+
+	The Nurse places Bareil's arm back on the table and moves to 
+	Bashir.  And as she does so, another pinpoint of light appears 
+	in the brain schematic.
+
+					BASHIR
+			There it is again.
+
+	Bashir thinks... looks over at Bareil.  He moves over and 
+	touches Bareil's arm -- and as he does so, another pinpoint 
+	of light appears in his brain.
+
+					BASHIR
+			His nerves... his nerves are still 
+			transmitting electrical impulses to 
+			his brain...
+
+					NURSE
+			How can that be?  His brain activity 
+			level is zero.  His nervous system 
+			should be completely inactive.
+
+					BASHIR
+			I don't know... but it means that 
+			his body is still capable of sending 
+			messages to the brain... except the 
+			brain can't process those messages.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT ONE        14.
+
+12   CONTINUED:	(2)
+
+	Bashir moves back to the monitor, studies it.
+
+					BASHIR
+			The radiation he was exposed to might 
+			have fortified his peripheral cell 
+			membranes...
+
+	Bashir works for a moment... then sees something on the 
+	monitor.
+
+					BASHIR
+			The radiation has also left a residual 
+			imprint of the original axonal 
+			pathways in his brain.
+
+	Bashir takes a couple of paces.  We can see his mind at 
+	work...
+
+					BASHIR
+			If we could regenerate his pathways 
+			using his own neuron cells... it 
+			might be possible to revive him...
+
+        DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT ONE        15.
+
+12   CONTINUED:	(3)
+
+					NURSE
+			What about brain damage?  There's 
+
+			been no oxygen to his brain for almost 
+			forty minutes.
+
+					BASHIR
+			He was in stasis most of that time... 
+			that, combined with the strengthening 
+			of his cell membranes from the 
+			radiation might buy us the time we 
+			need...
+
+	As they work...
+
+								DISSOLVE TO:
+
+13   INT. SURGERY
+
+	A few hours later.  Bashir and the Nurse have their gloves 
+	on again.  Bareil's head is obscured by the clamshell, and 
+	they are clearly working on the brain itself with some medical 
+	equipment.  Bashir is glancing at the monitors as he works.
+
+					BASHIR
+			We need to repolarize his nerve cells 
+			with electrical impulses.  The spino-
+			thalamic tract will transmit that 
+			directly to the cerebral cortex.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT ONE        16.
+
+13   CONTINUED:
+
+					BASHIR
+			If the burst is the proper intensity, 
+			it might create a cascade effect 
+			within his brain.  The neurons might 
+			resume their normal firing patterns...
+
+	They both look at each other.  Bashir makes the decision.
+
+					BASHIR
+			Let's close up the cranial cavity.
+
+								DISSOLVE TO:
+
+14   INT. SURGERY
+
+	An hour later.  Bareil's head is covered with bandages.  
+	Bashir is placing small devices on Bareil's extremities.  
+	The Nurse is at a nearby console.  Bashir makes a final 
+	adjustment.
+
+					BASHIR
+			Neurogenic stimulators are in place... 
+			let's try a fifty millivolt burst.
+
+	The Nurse hits a control and Bareil's body stiffens ever so 
+	slightly.  Bashir looks at the Nurse, who looks at the 
+	console.  She shakes her head after a beat.
+
+					BASHIR
+			Increase to sixty.
+
+	She activates it again.  Bareil stiffens a little more.  The 
+	Nurse checks her console, shakes her head again.
+
+					BASHIR
+			Seventy.
+
+					NURSE
+			That's five millivolts above what 
+			normal tissue can withstand.  It'll 
+			burn out his cerebral cortex.
+
+					BASHIR
+			If I'm right... the inoprovaline 
+			drug I gave him should provide 
+			additional resistance against the 
+			excess electro-stimulation.
+
+           DEEP SPACE: "Life Support" - 11/10/94 - ACT ONE          17.
+
+14   CONTINUED:
+
+					BASHIR (Cont'd)
+				(beat)
+			Seventy.
+
+	The Nurse hits a few controls, and then Bareil stiffens 
+	rigidly.  A long beat as the Nurse watches her console.  
+	Suddenly she reacts in shock to something she sees.
+
+					NURSE
+			Doctor...
+
+	At that moment, Bareil suddenly inhales on the table.  He 
+	begins breathing again.  Other monitors come to life -- show 
+	a heartbeat, brain activity, respiration.  Bashir reaches 
+	and touches Bareil's neck -- there's a pulse.  He smiles a 
+	little, is about to say something to the Nurse when suddenly, 
+	Bareil's eyes flutter open... and he glances up at Bashir.  
+	OFF Bashir's face...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT TWO        18.
+                            ACT TWO                             
+
+	FADE IN:
+
+15   INT. SURGERY
+
+	A short time later.  Bareil is lying on the table, but now 
+	he's awake, if still weak and a little groggy.  Bashir is 
+	talking to Sisko, Kira, and Winn, while the Nurse is in the 
+	b.g.  Kira is standing next to the table, holding Bareil's 
+	hand and looking down at him with a mixture of astonishment 
+	and joy.
+
+					BASHIR
+			... it's too early to tell for certain, 
+			but I'm hoping he'll make a full 
+			recovery.  He may even be back on 
+			his feet again in a few weeks.
+
+					SISKO
+				(smiles)
+			You say that so calmly.  But it's 
+			not every doctor that loses a patient 
+			and then has him back on his feet in 
+			a few weeks.
+
+					WINN
+			Indeed, you're far too modest.  You've 
+			performed nothing less than a miracle 
+			here... the Prophets must walk with 
+			you, Doctor.
+
+	Bashir looks a little embarrassed at the praise.
+
+					BASHIR
+			Well, I -- and the Prophets, were 
+			lucky that the ionizing radiation 
+			left a residual signature on Bareil's 
+			axonal pathways.  That's what really 
+			made this possible.
+
+	Bareil manages to croak out a few words.
+
+					BAREIL
+				(difficult)
+			Whoever deserves... the credit... I 
+			am... grateful, Doctor.
+
+	Winn moves to him and looks down with a kind look on her 
+	face.
+
+					WINN
+			And I am grateful that you were not 
+			taken from us, Vedek Bareil.
+
+        DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT TWO        19.
+
+15   CONTINUED:
+
+					BAREIL
+			My work here... is not... yet 
+			finished.
+
+					WINN
+			No... it is not.  We must resume the 
+			negotiations immediately.  We can't 
+			risk losing the momentum we've 
+			established.
+				(to Sisko)
+			I would like to send a coded message 
+			to Legate Turrel... and invite him 
+			to come to DS Nine to continue the 
+			talks.
+
+					BASHIR
+			Wait a minute.  Bareil's in no 
+			condition to conduct negotiations.
+
+					WINN
+			Bareil will simply be advising me, 
+			Doctor.  I will conduct the actual 
+			talks.
+
+	Bashir thinks about this for a moment before answering.
+
+					BASHIR
+			I'll allow it as long as your visits 
+			don't tire him.
+
+					WINN
+			Agreed.
+				(to Bareil)
+			We will speak again soon.
+
+					BAREIL
+			Eminence...
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT TWO        20.
+
+15   CONTINUED:	(2)
+
+	Winn and Sisko now both EXIT.  Bashir moves off to check 
+	on some equipment, leaving Kira and Bareil alone for a minute.  
+	Bareil looks up at her... smiles slightly.
+
+					BAREIL
+			So... are we still playing springball 
+			next month?
+
+					KIRA
+				(smiles)
+			You bet... but I think I'll have an 
+			unfair advantage.
+
+					BAREIL
+			You mean playing against a dead man?
+
+					KIRA
+			No... I mean I've been practicing.
+
+	Bareil smiles and they share a moment together.
+
+									CUT TO:
+
+16   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The station as before.
+
+16A  INT. SISKO'S QUARTERS
+
+	Jake is waiting as NOG ENTERS.
+
+					NOG
+			My Dad said you were looking for me.
+
+					JAKE
+			Yeah.  Uh... it's about tomorrow 
+			night...
+
+					NOG
+			Don't worry, I've already taken care 
+			of it.  I met these three Terrellians 
+			who were bragging about how great 
+			they are at dom-jot.  So I arranged 
+			a game... us against them -- a strip 
+			of latinum a game, double-back rules.
+
+					JAKE
+			Look, Nog... we have a little 
+			problem...
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT TWO       20A.
+
+16A  CONTINUED:
+
+					NOG
+			No we don't.  I guarantee that we 
+			can beat them.
+
+					JAKE
+			It's not that.  I just can't do it 
+			tomorrow night.
+
+					NOG
+			But it has to be tomorrow night.  
+			They're leaving the next day.
+
+					JAKE
+			I... I made other plans.
+
+					NOG
+			What could be more important than 
+			dom-jot?
+
+					JAKE
+			I have a date.
+
+					NOG
+			Oh.  Well, that's different.
+
+					JAKE
+			It is?
+
+					NOG
+			Yeah.  Money is money, but women are 
+			better.
+
+					JAKE
+			Is that a Rule of Acquisition?
+
+					NOG
+			It's a personal rule.  So, who is 
+			she?
+
+					JAKE
+			Leanne.
+
+					NOG
+			Leanne!  Way to go, Jake.
+
+	He pats him on the shoulder.
+
+					NOG
+				(continuing)
+			So, what's the name of my date?  I 
+			hope she's as cute as Leanne.
+
+					JAKE
+			Your date?
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT TWO       20B.
+
+16A  CONTINUED:	(2)
+
+					NOG
+			She is humanoid isn't she?
+
+					JAKE
+			Nog... Leanne invited me out.  You... 
+			never came up in the conversation.
+
+					NOG
+			A pretty girl asks you out on a date 
+			and you get confused.  I understand.
+
+					JAKE
+				(relieved)
+			Good.
+
+					NOG
+			So... she has a friend, right?
+
+					JAKE
+			Well, I'm sure she does...
+
+					NOG
+			Then tell her to bring her along.
+
+					JAKE
+			Nog, that's not what I had in mind.
+
+					NOG
+			That's because you were confused.  
+			Would you rather the three of us go 
+			out?
+
+	Jake can see the writing on the wall here and gives in.
+
+					JAKE
+			Well, when you put it that way...
+
+					NOG
+			Exactly.
+				(beat)
+			One thing, Jake... you're still pretty 
+			new at this dating business... just 
+			promise me you won't do anything to 
+			embarrass me.
+
+					JAKE
+				(sarcastic)
+			I'll do my best.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT TWO        21.
+
+16A  CONTINUED:	(3)  
+
+					NOG
+				(smiling in 
+				anticipation)
+			This is going to be great.  I may 
+			even wash my lobes.
+
+	Off Jake's resigned expression...
+
+									CUT TO:
+
+17   OMITTED
+
+18   INT. INFIRMARY
+
+	DAX is here having a little fun teasing Bashir, who is working 
+	at a console.
+
+					DAX
+			You know Julian, I've been thinking.  
+			Once you publish your work on this 
+			case, they'll probably name a building 
+			after you at Starfleet Medical.
+
+					BASHIR
+			I doubt that.
+
+					DAX
+			Maybe a statue... you and your trusty 
+			tricorder, pushing the bounds of 
+			medical knowledge.
+
+					BASHIR
+			Jadzia, you're such a romantic.
+
+					DAX
+			What about a plaque?  A nice big 
+			plaque.
+
+	A concerned look comes over his face as he looks at something 
+	on the monitor.
+
+     DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT TWO 22-24.       
+
+					DAX
+			Julian, I'm just kidding.
+
+					BASHIR
+			It's not that.  Bareil's circulatory 
+			system is starting to fail.
+
+	Off Bashir's grim look...
+
+									CUT TO:
+
+19   OMITTED 
+
+20   INT. SURGERY
+
+	Bareil is now sitting up in bed and arguing with Winn.  Mid-
+	conversation.
+
+        DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT TWO        25.
+
+20   CONTINUED:
+
+					BAREIL
+			I suggest that we put off any 
+			discussion of the Cardassians 
+			returning the Orbs until after 
+			diplomatic relations have been 
+			established.
+
+					WINN
+			That will only delay an inevitable 
+			argument.
+
+					BAREIL
+			But it will give the peace process a 
+			chance to grow.  Once the Cardassians 
+			are invested in the process, it may 
+			be easier to discuss matters like 
+			this.
+
+	Winn isn't happy with that answer, but she can see the wisdom 
+	of it.  Bashir ENTERS in the b.g.
+
+					WINN
+				(reluctant)
+			Very well.
+
+					BAREIL
+			A wise decision, Eminence.
+
+					WINN
+			I hope so, Vedek Bareil.
+				(glances at Bashir)
+			The first meeting with Turrel is 
+			scheduled for tomorrow afternoon.  I 
+			will see you again before then.
+
+	Winn EXITS.  Bareil picks up on Bashir's grim look.
+
+					BAREIL
+			You're not here to deliver good news, 
+			I take it?
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT TWO        26.
+
+20   CONTINUED:	(2)
+
+					BASHIR
+			To revive you, I had to flood your 
+			nervous system with neurogenic 
+			radiation.  Unfortunately, it looks 
+			as though that caused some kind of 
+			selective vaso-constriction in your 
+			arteries.  The result is an inadequate 
+			blood flow to your internal organs.
+
+					BAREIL
+			So what do we do?
+
+					BASHIR
+			We need to place you back in stasis 
+			and do more research on your 
+			condition.
+
+					BAREIL
+			For how long?
+
+					BASHIR
+			I can't say right now.  It could be 
+			days, weeks... even months.
+
+					BAREIL
+			Maybe even years... ?
+
+					BASHIR
+			Maybe.
+
+					BAREIL
+			I'm sorry, Doctor, but that's not 
+			acceptable.  I can't allow myself to 
+			be put "in storage" when my people 
+			need me.  I don't want to wake up to 
+			find a Bajor still haunted by the 
+			memory of the occupation.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT TWO        27.
+
+20   CONTINUED:	(3)
+
+	Bashir studies him for a moment, trying to get understand 
+	his patient better.
+
+					BASHIR
+			I realize how important these talks 
+			are to Bajor... but as your physician 
+			my duty is to you first.
+
+					BAREIL
+			And my duty is to Bajor.  Help me 
+			heal my people.  That's all that 
+			matters to me, Doctor.
+
+	Bareil looks away for a long moment.
+
+					BAREIL
+				(quiet)
+			You could say I'm making up for past 
+			mistakes.
+				(off his look)
+			Winn would never have been selected 
+			Kai if I hadn't dropped out of the 
+			election.
+				(beat)
+			A lot of people were counting on me 
+			to lead Bajor.  They were... shocked 
+			when I backed out.
+
+					BASHIR
+			But you can't risk your life just to 
+			look better in their eyes.
+
+					BAREIL
+			I want to look better in my own eyes.  
+			This is important to me.  I want to 
+			bring a lasting peace to Bajor and 
+			Cardassia.  It's why the Prophets 
+			spared my life when the plasma relay 
+			exploded...
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT TWO       27A.
+
+20   CONTINUED:	(4)
+
+					BAREIL (Cont'd)
+			and it's why they let you bring me 
+			back to life.
+
+				(beat)
+			There must be some option besides 
+			placing me in stasis.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT TWO        28.
+
+20   CONTINUED:	(5)
+
+	Bashir thinks about this for a minute... he doesn't like 
+	it, but he has to make his patient aware of all the options.
+
+					BASHIR
+			There is an experimental drug -- 
+			called Vasokin -- that would increase 
+			the blood flow to your organs and 
+			might allow you to function normally 
+			for a while.  But there's a great 
+			deal of risk associated with it.
+
+					BAREIL
+			What sort of risk?
+
+					BASHIR
+			In twenty-two percent of the cases 
+			on record, Vasokin has severely 
+			damaged the patient's heart, lungs, 
+			and kidneys... sometimes the brain.  
+			In your condition, it could even be 
+			fatal.
+
+					BAREIL
+			But it would allow me to function 
+			normally for the next few days?
+
+					BASHIR
+			Yes.  But are those few days worth 
+			risking your life?
+
+					BAREIL
+			I have no great desire to die, Doctor.  
+			But I am determined to carry out the 
+			will of the Prophets as long as I'm 
+			able... and I can't carry out their 
+			will if I'm lying unconscious in a 
+			stasis tube.
+				(beat)
+			Please Doctor... begin the Vasokin 
+			treatments.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT TWO       28A.
+
+20   CONTINUED:	(6)
+
+	Bashir looks at him... still has grave doubts about this... 
+	but it's his duty to carry out the wishes of his patient.
+
+					BASHIR
+			All right.  We'll begin this 
+			afternoon.  I just hope we don't 
+			come to regret this.
+
+					BAREIL
+			So do I..
+
+	Bareil smiles a little and lies back on the bed.  But the 
+	look on Bashir's face is very concerned and it's clear that 
+	he's worried about the future.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+          DEEP SPACE: "Life Support" - 11/10/94 - ACT THREE         29.
+                           ACT THREE                            
+
+	FADE IN:
+
+21   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As before.
+
+					SISKO (V.O.)
+			Station Log:  Supplemental.  Legate 
+			Turrel has arrived aboard the station 
+			to resume the negotiations.  Vedek 
+			Bareil suggested that I sit in on 
+			the talks as an impartial observer, 
+			and Kai Winn has agreed.
+
+22   INT. WARDROOM
+
+	Winn is sitting across the table from LEGATE TURREL, a 
+	Cardassian member of the Central Command.  Sisko is sitting 
+	at the end of the table, between the two of them.  Winn is 
+	trying to be a diplomat here, but her deep-seated hatred of 
+	the Cardassians is still bleeding through.  For his part, 
+	Turrel has no love for Winn and is contemptuous of her lack 
+	of diplomatic skills.  Sisko is trying his best to keep the 
+	discussions moving.
+
+					TURREL
+				(patient)
+			Perhaps you didn't hear me.  There 
+			are no Bajoran prisoners left in 
+			Cardassian hands.
+
+	Winn glares at him, but manages to restrain her temper.
+
+					SISKO
+				(quickly)
+			Maybe we should redefine our terms.
+				(to Turrel)
+			Perhaps there are no official 
+			prisoners... but could there be a 
+			number of, shall we say... detainees?
+
+	Turrel takes that in for a moment.
+
+					TURREL
+				(brusque)
+			There are, of course, people being 
+			detained in the Justice Ministry for 
+			crimes against the state.
+
+          DEEP SPACE: "Life Support" - 11/10/94 - ACT THREE         30.
+
+22   CONTINUED:
+
+					TURREL
+			But that's a discussion for another 
+			time.  Let's move on.
+				(beat)
+			I'd like to discuss what you've called 
+			"war reparations."  We would be 
+			willing to pay for the destruction 
+			of all Bajoran property incurred 
+			during the occupation... as long as 
+			you are willing to return to us all 
+			Cardassian equipment and property 
+			left behind on Bajor.
+
+	Winn looks suspicious... this sounds reasonable, but is it 
+	some kind of trap?
+
+					WINN
+			What sort of... property?
+
+					TURREL
+				(casual)
+			Anything that is clearly of Cardassian 
+			origin and that was inadvertently 
+			left on Bajor when our forces pulled 
+			out.
+
+					SISKO
+			Could you be more specific?
+
+					TURREL
+			Of course.  I can provide lists of 
+			material... equipment... as long as 
+			we have an agreement in principle 
+			that anything of Cardassian origin 
+			does still belong to the Cardassian 
+			people.
+
+	Winn is uncertain what to do here... she opts to take the 
+	safe way out.
+
+					WINN
+			I... will consider your offer.
+
+					TURREL
+				(smiles)
+			Good.  Just remember that my offer 
+			to pay war reparations is linked to 
+			your acceptance of this principle.  
+			After all, it is our property we're 
+			asking to return.
+				(beat)
+			Shall we take a recess?
+
+          DEEP SPACE: "Life Support" - 11/10/94 - ACT THREE         31.
+
+22   CONTINUED:	(2)
+
+	Winn nods and Turrel EXITS.  Winn goes to the window... 
+	she looks weary, laden with stress and anxiety.
+
+					WINN
+			He's up to something.
+
+					SISKO
+			That much seems clear.
+
+					WINN
+			But what?  Why is he insisting on 
+			this... principle of his?  And what 
+			about that demand for mining rights 
+			he made earlier?  What was that all 
+			about?
+
+					SISKO
+			I wish I could be of more help... 
+			but without knowing the entire 
+			negotiating record of the talks, 
+			it's hard to see the larger strategy 
+			at work.
+
+	Winn looks out the window for a long beat.
+
+					WINN
+				(quiet)
+			I need Bareil.
+				(beat)
+			He's the only one who knows the entire 
+			negotiating record.  Bareil's been 
+			talking with Turrel for months... he 
+			understands him... respects him... I 
+			think he even likes him.
+
+					SISKO
+				(grim)
+			I'm afraid you may have to face the 
+			possibility that Bareil may not be 
+			able to help you much longer.
+
+					WINN
+			I was chosen by the Prophets to lead 
+			our people into a new era... I know 
+			that.  But I was never meant to sit 
+			in a room with a Cardassian and debate 
+			legalisms and "diplomatic nuances."
+
+	She faces Sisko directly... this is as genuine and honest as 
+	Winn gets.
+
+       DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT THREE        3.
+
+22   CONTINUED:	(3)
+
+					WINN
+			I can't do this without Bareil.  If 
+			he dies... then peace with Cardassia 
+			dies with him.
+
+	Off Sisko's somber look...
+
+									CUT TO:
+
+23   INT. QUARK'S - SECOND LEVEL
+
+	Jake, Nog, Leanne and a human girl named RISKA are sitting 
+	around a table with a large alien pot of green glop in the 
+	center -- this is a sort of fondue concoction, where each of 
+	them has long skewers which they plunge into the glop and 
+	pull out tasty treats.   They also have plates of food with 
+	various meats and other delicacies.
+
+	Jake and Leanne are chatting with an obvious interest in 
+	each other.  Nog is adopting a more superior, almost regal 
+	attitude.  Although he'll seem obnoxious and rude throughout 
+	the scene, from his point of view, he's acting perfectly 
+	normal for a Ferengi male on a date.  When he speaks to Riska, 
+	he addresses her with a smile... proud of himself and his 
+	prowess with women.
+
+					LEANNE
+			My father used to take me to the 
+			wilderness preserves on Vulcan.  So 
+			for years I thought their whole planet 
+			was like that -- animals and plants 
+			everywhere.  I didn't know there 
+			were any people on Vulcan.
+
+					NOG
+			Boy, does she talk a lot for a female.
+
+					LEANNE
+				(surprised)
+			Excuse me?
+
+       DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT THREE      32A.
+
+23   CONTINUED:
+
+					JAKE
+				(jumps in)
+			Riska... weren't you telling me your 
+			uncle runs a bar on Osinar Six?  You 
+			know, Nog's uncle runs this bar.
+
+       DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT THREE       33.
+
+23   CONTINUED:	(2)
+
+					RISKA
+			Is that right?
+
+					NOG
+			Let's not make foolish conversation.  
+			Just sit there and look beautiful.
+
+	A very uncomfortable silence.  Jake leans over to Nog as 
+	Riska and Leanne exchange a look.
+
+					JAKE
+				(sotto)
+			Nog, what do you think you're doing?
+
+					NOG
+				(sotto, confident)
+			Jake... I think I know how to handle 
+			females.
+				(in a loud voice)
+			Jake, you know I was thinking... 
+			after we're done eating, we could 
+			take these females into the 
+			holosuites.  I borrowed one of my 
+			uncle's private programs:  "The 
+			Massacre of Ferris Nine."  I thought 
+			we'd spend an hour pillaging and 
+			looting the frightened townspeople.
+
+					RISKA
+			I don't think so.
+
+					NOG
+			No one's asking you to think, my 
+			dear.
+				(gives her his plate 
+				of food)
+			Here, make yourself useful.  Cut up 
+			my food for me.
+
+					RISKA
+			You're joking, right?
+
+	Nog looks at her for a beat, and then he begins to laugh.  
+	The other three then laugh out of relief... it seems that 
+	Nog was just playing with them after all.
+
+       DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT THREE       34.
+
+23   CONTINUED:	(3)
+
+	But then Nog turns to Jake...
+
+					NOG
+				(chuckling, to Jake)
+			She's so dumb.
+				(beat)
+			She's perfect.
+
+					RISKA
+			That's it.
+
+	Riska gets up and storms off.  Leanne isn't far behind.  
+	Jake jumps up to stop Leanne.
+
+					JAKE
+				(to Leanne)
+			Wait, you're not going?
+
+					LEANNE
+			I suppose you want me to sit here 
+			and cut up your food, too?
+
+					JAKE
+			I never said anything about cutting --
+
+					LEANNE
+			I hope you and your friend have fun 
+			in the holosuites.
+
+	She turns and leaves.  A furious Jake turns back to Nog.
+
+					JAKE
+			Nog...
+
+					NOG
+				(angry)
+			Don't say another word, Jake.  I 
+			think you've done enough damage for 
+			one night.
+
+					JAKE
+			Me?
+
+					NOG
+			Yeah, you.  You were treating my 
+			female as if she was an equal.
+
+					JAKE
+			And you were behaving like an idiot.  
+			This is the last time I do you a 
+			favor, Nog.  From now on, you get 
+			your own dates.
+
+       DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT THREE       35.
+
+23   CONTINUED:	(4)
+
+					NOG
+			And you can find someone else to 
+			play dom-jot with.
+
+					JAKE
+			Fine!
+
+					NOG
+			Good!
+
+	The two of them storm off in different directions.
+
+									CUT TO:
+
+       DEEP SPACE: "Life Support" - REV. 11/18/94 - ACT THREE       36.
+
+26   INT. INFIRMARY OR SURGERY
+
+	Bareil is lying on the biobed, holding a PADD in his hand 
+	and trying to concentrate as Winn goes through the problems 
+	of the negotiation.  Kira is watching Bareil with grave 
+	concern.  Bareil is in serious pain here... it's hard to 
+	think straight, much less to give cogent advice to the 
+	demanding Winn.
+
+					BAREIL
+			Turrel is trying... to get a 
+			concession from you that I already... 
+			rejected.  Tell him the question 
+			of... Cardassian property on Bajor 
+			was dealt with in the armistice talks 
+			four years ago.  Don't worry... he'll 
+			still pay the reparations.
+
+					WINN
+			What about this question of mining 
+			rights?
+
+	Bareil tries to concentrate, but he's definitely having 
+	trouble putting aside the pain.  Bashir ENTERS and goes 
+	immediately to check on Bareil.  Winn turns and moves to 
+	Bashir.
+
+       DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT THREE       37.
+
+26   CONTINUED:
+
+					WINN
+			His attention has been wandering and 
+			he's in pain.  Give him more of the 
+			drug.
+
+					BASHIR
+			He's had enough.
+
+					WINN
+			Then you need to give him something 
+			else.  The negotiations resume in 
+			less than six hours and we have over 
+			forty pages of --
+
+					BASHIR
+				(deadly serious)
+			Listen to me.  I don't care about 
+			your negotiations, and I don't care 
+			about your treaty.  All I care about 
+			is my patient and at the moment, he 
+			needs more medical care and less 
+			politics.
+				(beat)
+			Now, you can leave here willingly or 
+			I'll call security and have you 
+			removed.
+
+					KIRA
+			You won't have to call them.  I'll 
+			do it myself.
+
+	Winn glares at them both, but knows they mean it.  She glances 
+	down at Bareil and softens a bit -- after all she needs Bareil 
+	and even genuinely cares for him in her own way.
+
+					WINN
+			Put yourself in the hands of the 
+			Prophets, Bareil.  They will not 
+			forsake you.
+
+					BAREIL
+			Yes... Eminence.
+
+	Winn EXITS.  Kira moves to Bareil and sits down next to him.  
+	Bareil is bathed in sweat and is in obvious agony.  Bashir 
+	takes a medical tricorder and begins checking the readings 
+	with some equipment.
+
+       DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT THREE       38.
+
+26   CONTINUED:	(2)
+
+	Bashir's face is getting grimmer as he examines the 
+	readings on the equipment.
+
+					KIRA
+				(to Bareil)
+			Anything I can do... ?
+
+					BAREIL
+			Just... be here.
+
+	Bashir closes the tricorder and faces his patient with a 
+	somber expression.
+
+					BAREIL
+			I'm getting to... dislike seeing 
+			that look... on your face, Doctor.
+
+	Kira looks up at Bashir with apprehension.  Bashir can't 
+	sugarcoat his news.
+
+					BASHIR
+			As I feared, the Vasokin has begun 
+			to damage your internal organs.
+				(beat)
+			The damage is irreversible.
+
+	That sinks in for a moment.
+
+					KIRA
+			What happens now?
+
+					BASHIR
+			I can replace the damaged organs 
+			with artificial implants.  But as 
+			long as you're taking the drug, I 
+			can't guarantee that the damage won't 
+			spread.  I think you should 
+			reconsider letting me put you in 
+			stasis.
+
+       DEEP SPACE: "Life Support" - REV. 11/17/94 - ACT THREE       39.
+
+26   CONTINUED:	(3)
+
+	Bareil focuses on Bashir with a great effort.  He fights 
+	to make sure that his wishes are clear.
+
+					BAREIL
+				(with a smile)
+			I'm afraid my mind's made up, Doctor.  
+			Just get me through these 
+			negotiations... I must carry out the 
+			will of the Prophets.  Please.  
+			Whatever it takes... just do it.
+
+	Bareil's head falls back on the pillow and Kira holds his 
+	hand.  Off Bashir's face as he contemplates the difficult 
+	and grim choices that lie ahead...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+        DEEP SPACE: "Life Support" - REV. 11/10/94 - ACT FOUR       40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+27   INT. WARDROOM
+
+	Winn is sitting at the table, poring over information on a 
+	large number of PADDS, when Bashir ENTERS.  Winn glances up 
+	at him and then resumes her studies.  Winn's first barb is 
+	pointed, but not truly harsh.
+
+					WINN
+			Are you going to call security and 
+			have me removed from this room now, 
+			Doctor?
+
+	Bashir manages a small smile.
+
+					BASHIR
+			It hadn't occurred to me... yet.
+
+	Winn looks up at him and we can see a small flash of what 
+	might be respect for Bashir as he verbally parries her thrust.  
+	She studies him, and then sits back with a tolerant look.
+
+					WINN
+			How is Bareil?
+
+					BASHIR
+			The organ replacement surgery went 
+			well.  He's still unconscious, but 
+			he should be awake within the hour.
+
+					WINN
+			Good.  There are several points I 
+			still have to discuss with him before 
+			the next negotiating session.
+
+					BASHIR
+			That's why I'm here.  When you see 
+			Bareil... I want you to tell him 
+			that you don't need him... that you 
+			can complete these negotiations 
+			without him.
+
+					WINN
+			But I do need him, Doctor.
+
+					BASHIR
+			I realize that.  But I want you to 
+			tell him that you don't.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT FOUR       41.
+
+27   CONTINUED:
+
+					WINN
+			You seem to be asking me to lie.
+
+					BASHIR
+			I'm asking you to free Bareil from 
+			his obligations to you.  And the 
+			only way he'll accept that is if you 
+			say he's no longer needed... that 
+			you can do this alone.  Now, if that's 
+			a lie... then so be it.
+
+	Winn studies him for a moment, Bashir meets her gaze steadily.
+
+					WINN
+			That doesn't sound like a... Starfleet 
+			officer.
+
+					BASHIR
+			I'm a doctor first.  And right now, 
+			I'm trying to give my patient his 
+			best chance to live.  The way to do 
+			that is to put him in stasis.  Bareil 
+			knows that... but his desire to 
+			complete these negotiations is so 
+			strong that he's forcing me to keep 
+			him conscious and mentally alert, 
+			even though it may kill him.
+
+					WINN
+			None of us wants that to happen, 
+			Doctor.  But unless I'm mistaken... 
+			the decision regarding Bareil's 
+			treatment is up to him.
+
+					BASHIR
+			Yes... as the patient, it's his right 
+			to make that choice.  But I'm asking 
+			you to help me change his mind.
+
+	Winn gets up and paces around the room for a moment.  Bashir 
+	is pulling out all the stops here in a desperate attempt to 
+	sway her.
+
+					BASHIR
+				(continuing)
+			Eminence... you're the Kai... these 
+			are your negotiations... let this be 
+			your moment in history.  Finish the 
+			talks on your own and you won't have 
+			to share the credit with anyone.
+
+        DEEP SPACE: "Life Support" - REV. 11/10/94 - ACT FOUR      41A.
+
+27   CONTINUED:	(2)
+
+	Winn thinks about this for a long moment... then turns back 
+	to Bashir.
+
+					WINN
+			You say that as though success is 
+			guaranteed, Doctor...
+
+	A beat as Bashir studies her... realizes --
+
+					BASHIR
+			Of course.  If the talks fail, you 
+			need someone to accept the blame, a 
+			scapegoat... you're a coward... you're 
+			afraid to stand alone!
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FOUR       42.
+
+27   CONTINUED:	(3)
+
+	Winn's eyes flash and she turns on him.
+
+					WINN
+				(icy)
+			Bareil's already made his decision, 
+			Doctor... I won't interfere.
+
+	Bashir turns to go.
+
+					WINN
+				(continuing)
+			And Doctor...
+				(Bashir pauses)
+			I will not forget what you've said 
+			here.
+
+	Bashir gives her a very direct look.
+
+					BASHIR
+			Neither will I.
+
+	Bashir EXITS.
+
+									CUT TO:
+
+28   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as before.
+
+29   INT. SISKO'S QUARTERS
+
+	Sisko and Jake are having dinner.  Jake seems distracted... 
+	morose.  Sisko notices.
+
+					SISKO
+			So... you never told me about your 
+			double-date...
+
+					JAKE
+			Not much to tell...
+
+					SISKO
+			That's not what I hear.  Quark tells 
+			me that you and Nog aren't speaking 
+			to one another.
+
+					JAKE
+			You should've seen the way he acted, 
+			Dad.  He was acting like a spoiled 
+			brat.  I've never been so embarrassed.  
+			I don't think Leanne will ever speak 
+			to me again.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FOUR       43.
+
+29   CONTINUED:
+
+					SISKO
+			So what did he do?
+
+					JAKE
+			All kinds of stupid things.  Riska 
+			couldn't say two words without him 
+			telling her to be quiet... he insisted 
+			that she cut up his food before he'd 
+			eat it... he treated her like she 
+			was some kind of slave.
+
+					SISKO
+			And you're surprised?
+
+					JAKE
+			Yeah.  Aren't you?
+
+					SISKO
+			It sounds like he's acting like a 
+			Ferengi to me.  You can't really 
+			blame him for that.
+
+					JAKE
+			Well, in that case, maybe you were 
+			right all along.
+
+					SISKO
+			About what?
+
+					JAKE
+			You once said that Humans and Ferengis 
+			are too different to ever really be 
+			friends.
+
+					SISKO
+			I remember saying that... and you 
+			know what?  I was wrong.  You and 
+			Nog proved that.  Sure, you have your 
+			cultural differences, but there's a 
+			real bond between you.
+
+	Jake thinks it over for a minute.
+
+					JAKE
+			Well, I know one thing... I'm never 
+			going to set him up on a date again.
+
+        DEEP SPACE: "Life Support" - REV. 11/16/94 - ACT FOUR       44.
+
+29   CONTINUED:	(2)
+
+					SISKO
+				(smiling)
+			That's probably not a bad idea.
+				(beat)
+			I think you two should talk this 
+			over before it gets to be too big a 
+			problem.
+
+					JAKE
+			I'm not sure Nog's going to be willing 
+			to talk to me so soon.
+
+					SISKO
+			Well... I guess you'll just have to 
+			do something to get his attention.
+
+	Off Jake's face as he thinks about this...
+
+									CUT TO:
+
+30   INT. BASHIR'S QUARTERS
+
+	Bashir is sitting at a desk, looking at a monitor screen 
+	which has an Okudagram of medical information on it.  A mug 
+	of coffee sits nearby.  Bashir looks haggard, tired, on the 
+	verge of exhaustion.  He rubs his eyes for a moment.
+
+					BASHIR
+			Physician, heal thyself...
+
+	He pushes the monitor away, gets up and lies down on a couch, 
+	closes his eyes for a much needed sleep.  But he no sooner 
+	closes his eyes when there's an urgent Com Voice.
+
+					NURSE'S COM VOICE
+			Doctor Bashir to the Infirmary.  
+			Medical Emergency.
+
+					BASHIR
+			On my way.
+
+	Bashir bolts out of the room.
+
+									CUT TO:
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FOUR       45.
+
+31   INT. INFIRMARY OR SURGERY
+
+	Bareil is lying on a biobed, and SCREAMING in agony as the 
+	Nurse tries to restrain him from doing any permanent damage.  
+	Winn is standing nearby with a shocked look on her face as 
+	Bashir ENTERS.
+
+					BASHIR
+				(to Nurse)
+			What happened?
+
+					NURSE
+			I don't know.
+
+	Bashir makes a few quick checks of Bareil, who is still 
+	moaning and writhing in pain.
+
+					BASHIR
+				(to Nurse)
+			Two cc's morphenolog.
+				(to Bareil)
+			It's going to be all right.  I'm 
+			going to help you.
+
+	The Nurse applies a hypospray to Bareil and he falls 
+	unconscious.  Bashir and the Nurse quickly begin scanning 
+	Bareil with tricorders and other medtech devices.  Bashir 
+	glances up at the visibly shaken Winn.
+
+					BASHIR
+				(to Nurse)
+			I left instructions that he wasn't 
+			to have visitors for another three 
+			hours.
+
+					WINN
+			It's not her fault.  Bareil called 
+			me himself... said he had some ideas 
+			on the treaty.
+
+					BASHIR
+				(to Winn)
+			And you just couldn't wait to hear 
+			them.
+
+	Bashir reacts to something on the tricorder... it's not good.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FOUR       46.
+
+31   CONTINUED:
+
+					BASHIR
+			The left temporal lobe is showing 
+			signs of massive synaptic failure.
+				(beat)
+			I hope you got all the advice you 
+			needed, Eminence... the Vasokin has 
+			damaged his brain.  And I'm afraid 
+			the damage... is irreversible.
+
+	OFF Bashir's grim face...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+32   INT. COMMANDER'S OFFICE
+
+	Sisko, Kira, Winn and Bashir.
+
+					SISKO
+			Will he regain consciousness?
+
+					BASHIR
+			Not in his present condition.
+
+					WINN
+			You were able to replace some of his 
+			internal organs with artificial 
+			implants... could you do something 
+			similar with the damaged areas of 
+			his brain?
+
+	Bashir looks troubled at this.
+
+					BASHIR
+			I'm not sure we should pursue that 
+			option.
+
+					WINN
+			But it is an option.
+
+					BASHIR
+			There have been cases where small 
+			portions of the brain have been 
+			replaced with implants.  But in this 
+			instance I'd have to replace his 
+			entire left hemisphere.  There's a 
+			good chance he might lose something 
+			in the process.
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       48.
+
+32   CONTINUED:
+
+					WINN
+			What do you mean exactly?  His memory?  
+			His personality?
+
+					BASHIR
+			It's hard to say with any certainty.  
+			There's still a great deal about the 
+			way the brain operates that we don't 
+			understand.
+				(beat)
+			One of my professors in medical school 
+			used to say that the brain had a 
+			"spark of life" that can't be 
+			replicated.  If we begin replacing 
+			parts of Bareil's brain with 
+			artificial implants, that spark may 
+			be lost.
+
+					KIRA
+			But you're saying if we don't do it, 
+			Bareil will never regain 
+			consciousness, and he'll die.
+
+	Bashir nods.  Sisko takes a deep breath, sits on the edge of 
+	his desk.
+
+					SISKO
+			I think we need to consider what 
+			Bareil would want us to do.
+
+	Kira turns and looks out the windows, lost in thought.
+
+					WINN
+			Vedek Bareil wanted to continue with 
+			the negotiations, no matter what the 
+			cost.
+
+					BASHIR
+			With all due respect, your Eminence, 
+			you're hardly an impartial observer 
+			here.  You have a personal interest 
+			in these talks.
+
+					WINN
+			There's more at stake than just one 
+			man's life.
+
+					BASHIR
+			One man's life is all I'm concerned 
+			about at the moment.
+
+	Kira turns to Bashir.
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       49.
+
+32   CONTINUED:	(2)
+
+					KIRA
+			I think she's right, Julian.  I think 
+			Bareil would want the positronic 
+			implant.
+
+					BASHIR
+			Kira... if I go through with this, 
+			the man who wakes up may not be the 
+			man you used to know.
+
+					KIRA
+			I realize that... but I know how 
+			important this was to him... and I 
+			know he wouldn't just want to be put 
+			into stasis indefinitely, waiting 
+			for a medical solution that may never 
+			come.
+				(beat)
+			Do the operation, Julian.  Let him 
+			finish what he started.
+
+	There's a long beat, then Sisko steps forward.
+
+					SISKO
+			I'd like to talk to the doctor alone 
+			for a moment.
+
+	Kira and Winn EXIT.
+
+					SISKO
+			I just want you to know that as far 
+			as I'm concerned, your word is final 
+			in this situation.  If you feel it's 
+			wrong to proceed with the operation, 
+			then that's the way it'll be.  Kai 
+			Winn can protest all she wants... 
+			but I'll support you.
+
+					BASHIR
+			Thank you.
+
+	Bashir EXITS.
+
+									CUT TO:
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FIVE       50.
+
+33   INT. SECURITY
+
+	Odo is sitting at his desk when Jake ENTERS.
+
+					ODO
+			Mister Sisko.
+
+					JAKE
+			Odo, I'd like you to do me a favor.
+				(beat)
+
+			I want to be arrested.
+
+	OFF Odo's look of surprise...
+
+									CUT TO:
+
+34   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as before.
+
+        DEEP SPACE: "Life Support" - REV. 11/10/94 - ACT FIVE       51.
+
+35   INT. HOLDING CELL (OPTICAL)
+
+
+	Jake is sitting in a cell, looking miserable as Odo brings 
+	in a protesting Nog.
+
+					NOG
+			This is outrageous!  I didn't steal 
+			anything from the Tholian Ambassador!
+
+					ODO
+			Just another innocent man arrested 
+			for a crime he didn't commit.
+
+	Nog sees Jake in the cell and reacts in surprise.
+
+					NOG
+			What's he doing here?
+
+					ODO
+			As if you didn't know.  Your 
+			accomplice here denied involvement 
+			as well... but I have an eyewitness 
+			who saw both of you breaking into 
+			the Tholian Ambassador's quarters 
+			last night.
+
+					NOG
+			I don't even know what a Tholian 
+			looks like!
+
+					ODO
+			Tell it to the Magistrate.
+
+	Odo deactivates the force field.  Nog eyes Jake with 
+	hostility.
+
+					NOG
+			At least put me in my own cell.
+
+					ODO
+			I'm sorry the accommodations aren't 
+			to your liking.  Please feel free to 
+			submit a complaint to the management.
+
+	Odo throws Nog inside with Jake and then activates the force 
+	field and EXITS, leaving an apparently Nog and Jake together.
+
+									CUT TO:
+
+36   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as before.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FIVE       52.
+
+37   INT. INFIRMARY
+
+	Kira and Winn are anxiously waiting for word about Bareil.  
+	After a few beats, Bashir ENTERS with a weary and solemn 
+	look.
+
+					BASHIR
+			The positronic implant is functioning 
+			normally... the mid-brain interface 
+			is on-line... and he's awake.
+
+	Kira and Winn exchange a look... neither of them knowing 
+	really what to expect and then they follow Bashir to...
+
+38   INT. SURGERY - CONTINUOUS
+
+	Bareil is lying awake on the table as Bashir, Kira and Winn 
+	ENTER.  Kira goes to him, searches for some sign of 
+	recognition.
+
+					KIRA
+			Bareil?
+
+	Bareil looks at her... but he could be looking at a potted 
+	plant for all the reaction he shows.  He's distant, his eyes 
+	vacant... and we get the inescapable feeling that Bareil has 
+	been diminished in some profound way.  Kira takes his hand 
+	in hers.
+
+					BAREIL
+				(flat)
+			Yes, Major.
+
+					KIRA
+			How do you feel?
+
+	He stares at her (or is it through her?) for a long beat 
+	before answering.
+
+					BAREIL
+			I'm... awake.
+				(looks around)
+			Everything is... different.
+
+					KIRA
+			Different in what way?
+
+	Bareil struggles for a moment to put this into words, but 
+	it's clear that he is only a shadow of his former self.  
+	Bareil looks down at her hand holding his.
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       53.
+
+38   CONTINUED:
+
+					BAREIL
+			It's hard to explain... but when you 
+			touch me... it doesn't seem real... 
+			it's more like... a distant memory 
+			of a touch...
+
+	Kira takes that in for a moment... it's a difficult statement 
+	to hear from someone you love.  Winn steps forward.
+
+					WINN
+				(gently)
+			Vedek... do you remember the 
+			negotiations?  I have some questions 
+			for you.
+
+	Bareil turns away from Kira to think about this and in that 
+	moment it's as if Bareil has forgotten that Kira even exists.  
+	He drops her hand and completely focuses on Winn.
+
+					BAREIL
+				(smiles)
+			Of course, I do Eminence.  The 
+			negotiations.  A giant puzzle that 
+			needs to be solved.
+
+	Everyone exchanges a look at this.
+
+					KIRA
+			It's a little more important than a 
+			puzzle.
+
+	Winn sits down on the bed next to him.
+
+					WINN
+				(smiles)
+			If the Vedek chooses to look at the 
+			talks as a puzzle, then so be it.  
+			All that's important is that he helps 
+			me solve the puzzle.
+
+					BAREIL
+			I'll do all I can.
+
+	Kira gives Bashir a stricken look... she doesn't know what 
+	to say or do... and then she EXITS.  Bashir watches Winn 
+	begin to call up information on the PADD she's carrying.  
+	OFF his face as he looks at what's become of his patient...
+
+									CUT TO:
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FIVE      53A.
+
+39   INT. HOLDING CELL (OPTICAL)
+
+	Jake is sitting in the cell, and Nog is pacing.
+
+					NOG
+			Something's wrong...
+
+        DEEP SPACE: "Life Support" - REV. 11/10/94 - ACT FIVE       54.
+
+39   CONTINUED:
+
+					JAKE
+			No kidding...
+
+					NOG
+			That's not what I mean.  My father 
+			told me that if I got caught stealing 
+			again, he was going to send me back 
+			to live on the Ferengi homeworld 
+			with my grandmother.  So where is 
+			he?  Why isn't he here yelling and 
+			threatening me?  And where's Uncle 
+			Quark?  I'm late for work.  And come 
+			to think of it, what are you doing 
+			here?
+
+					JAKE
+			Ask Odo.
+
+					NOG
+			No, no, no.  Throwing you in here 
+			wasn't Odo's idea.  You don't just 
+			arrest the station commander's son 
+			without some really strong evidence.  
+			And I know there is no evidence 
+			because I know we didn't do anything.  
+			So why are we here, Jake?
+
+	There's a beat -- Jake knows he's busted.
+
+					JAKE
+			All right... I put Odo up to it 
+			because I wanted to talk to you.
+
+					NOG
+			In here?
+
+					JAKE
+			I didn't think you'd listen to me 
+			otherwise.
+
+					NOG
+			Well, this better be good.
+
+					JAKE
+			I wanted to say... I'm sorry.  I 
+			guess I just forgot you're a Ferengi.
+
+					NOG
+			You forgot?  To most people, the 
+			lobes are a dead giveaway.
+
+        DEEP SPACE: "Life Support" - REV. 11/10/94 - ACT FIVE       55.
+
+39   CONTINUED:	(2)
+
+					JAKE
+			What I mean is... we spend so much 
+			time together... and we seem so much 
+			alike... I sometimes forget we're 
+			different.
+
+					NOG
+			I know we're different.  Anyone who 
+			would talk to a female with such 
+			fawning respect is no Ferengi.  It 
+			made me sick.
+
+					JAKE
+			You want to talk about sick?  Sick 
+			is making Riska cut up your food for 
+			you.
+
+					NOG
+			At least I didn't have her chew it 
+			for me.
+
+					JAKE
+			Chew it?
+
+					NOG
+			That's right.  In traditional Ferengi 
+			homes, the female softens the food 
+			with her teeth before serving it to 
+			the male.
+
+					JAKE
+			That is disgusting.
+
+					NOG
+			I knew you'd react that way, which 
+			is why I didn't ask her to do it.
+
+					JAKE
+			Well, do you have any other disgusting 
+			Ferengi customs I should know about?
+
+					NOG
+			Plenty.  And you have plenty of human 
+			customs that disgust me.
+
+					JAKE
+			Great.  So we both disgust each other.  
+			You know, as we get older, this is 
+			just going to get worse.  But I know 
+			one thing... I don't want to lose 
+			you as a friend.
+
+        DEEP SPACE: "Life Support" - REV. 11/10/94 - ACT FIVE       56.
+
+39   CONTINUED:	(3)
+
+					NOG
+			Well, in that case double-dating is 
+			definitely out.
+
+					JAKE
+			Agreed.  And I guess we'll have to 
+			deal with the rest of our disgusting 
+			habits as they come up.
+
+					NOG
+			I guess so.  You feel better?
+
+					JAKE
+			Yeah.
+
+					NOG
+			Good.  Now can we get out of here?
+
+					JAKE
+			Sure.
+				(calls out)
+			Odo?
+				(silence)
+			Odo?
+				(beat)
+			He's just playing around.  Odo!
+
+	Nog sits down on the bench as Jake starts to wonder if Odo's 
+	coming back.
+
+									CUT TO:
+
+40   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as before.
+
+					SISKO (V.O.)
+			Station Log, Supplemental.  Kai Winn 
+			has announced that Legate Turrel has 
+			signed the peace treaty.  The news 
+			has sent a shockwave throughout the 
+			quadrant...
+
+41   INT. WARDROOM
+
+	The room is gaily decorated for a celebration with food, 
+	drink, etc.  The room is filled with Bajoran N.D.s and 
+	dignitaries, along with Odo, DAX and Sisko.  Winn is here 
+	also, surrounded by Bajorans.  She is receiving thanks and 
+	toasts -- clearly, the woman of the hour.  QUARK has catered 
+	the occasion, and there are a couple of N.D. Ferengi waiters 
+	in evidence.
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       57.
+
+41   CONTINUED:
+
+					SISKO (V.O.)
+				(continuing)
+			And although there is still some 
+			opposition from hard-line elements 
+			on both Bajor and Cardassia... it 
+			looks as though they're finally 
+			willing to put their long conflict 
+			behind them.
+
+	Bashir is here also.  He takes a drink from a tray and sits 
+	in an out-of-the-way place.  His expression is somber, clearly 
+	not joining in the fun.
+
+	Dax notes his gloomy expression and she goes to sit next to 
+	him.
+
+					DAX
+			Remind me not to invite you to my 
+			next party.
+
+	Bashir manages to smile a little.
+
+					BASHIR
+			Sorry.  I guess I am sort of casting 
+			a pall over this gathering.
+
+					DAX
+			No one expects you to provide the 
+			entertainment, Julian.  But you should 
+			try to enjoy yourself.  After all, 
+			this celebration is for you, too.
+
+					BASHIR
+			Frankly, I'm not sure what I've done 
+			deserves a celebration.
+
+					DAX
+			Julian... you saved his life.  You 
+			kept him alive against incredible 
+			odds.  No matter what happens, you 
+			should always be proud of that.
+
+	Bashir seems to take a little bit of solace in this, gives 
+	her a smile.  Dax puts a hand on his shoulder.
+
+41A  NEW ANGLE
+
+	As Quark approaches Winn with a Ferengi who is carrying a 
+	tray which has a large and bizarre-looking souffle on it.
+
+        DEEP SPACE: "Life Support" - REV. 11/11/94 - ACT FIVE      57A.
+
+41A  CONTINUED:
+
+
+					QUARK
+			Excuse me, your Eminence.
+
+					WINN
+			Yes?
+
+					QUARK
+			Kai Winn, allow me to introduce...
+				(indicates souffle)
+			"Kai Winn."
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       58.
+
+41A  CONTINUED:	(2)
+
+					WINN
+			I don't understand.
+
+					QUARK
+			In honor of this occasion, I've named 
+			my latest creation after you.  It's 
+			a chocolate souffle with Haligian 
+			tongue sauce.
+
+					WINN
+			I'm honored.
+
+					QUARK
+			And you're also very popular.  Believe 
+			me, I can't keep up with the orders 
+			so far.
+
+	Quark walks off.  Bashir and Dax have overheard the above 
+	exchange, and they chuckle.  It's the first time we've seen 
+	Bashir laugh in a long time.  But in the middle of this, a 
+	Nurse's Com Voice suddenly interrupts:
+
+					NURSE'S COM VOICE
+			Doctor Bashir to the Infirmary.  
+			Medical emergency.
+
+	The joy leaves Bashir's face as he bolts for the door.  Winn 
+	reacts -- she knows what this might mean.
+
+					WINN
+				(to Bajoran ND)
+			Excuse me.
+
+	Winn heads for the door, as well.
+
+									CUT TO:
+
+42   INT. INFIRMARY OR SURGERY
+
+	Bareil is lying on the bio-bed, unconscious, Kira at his 
+	side.  Winn is nearby.  Bashir is looking over a PADD.  He 
+	looks up at them with a somber expression.
+
+					KIRA
+			It's the other half of his brain, 
+			isn't it?
+
+	Bashir nods.  A grim moment.
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       59.
+
+42   CONTINUED:
+
+					KIRA
+			But you can still help him can't 
+			you?  You can replace the other half 
+			of his brain with a positronic matrix.
+
+	Bashir puts down the PADD.  This is clearly deeply troubling 
+	him.  He looks at Kira as if making up his mind.
+
+					BASHIR
+			I'm sorry, Nerys.  But, this is where 
+			it ends.
+
+	Winn and Kira look up at him.
+
+					KIRA
+				(worried)
+			What do you mean?
+
+					BASHIR
+			I won't remove the last shred of 
+			whatever humanity Bareil has left.
+
+					KIRA
+			But it can be done.
+
+					WINN
+			Perhaps, my child, it's time to listen 
+			to Doctor Bashir.
+
+	Kira whirls on Winn.
+
+					KIRA
+			Sure, now that you've got your peace 
+			treaty and you're assured of a place 
+			in history, you don't need Bareil 
+			anymore.
+
+					WINN
+			Believe me child, I share your pain.  
+			But I think the Prophets are calling 
+			to Bareil.
+				(looks at Bareil)
+			I will see to it that Bajor never 
+			forgets him.
+				(beat, then a good-
+				bye)
+			Doctor.
+
+	Winn EXITS.  Kira turns to Bashir, her eyes pleading.
+
+					KIRA
+			Julian... you can't stop now.  You've 
+			got to keep going.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FIVE      59A.
+
+42   CONTINUED:	(2)
+
+					BASHIR
+				(gently)
+			Nerys, if I remove the rest of his 
+			brain... put a machine in its place... 
+			he may look like Bareil... and he 
+			may even talk like Bareil... but it 
+			won't be Bareil.  The "spark of life" 
+			will be gone.
+				(beat)
+			He'll be dead.  And I'll be the one 
+			who killed him.
+
+        DEEP SPACE: "Life Support" - REV. 11/15/94 - ACT FIVE       60.
+
+42   CONTINUED:	(3)
+
+	Kira is torn... doesn't want to give up.
+
+					KIRA
+			But if we do nothing... he'll die.
+
+	There's no way to sugarcoat this and Bashir doesn't try.
+
+					BASHIR
+			Yes, he will.  But he'll die as a 
+			man... not a machine.
+				(beat, then quiet)
+			Please... don't make me fight you on 
+			this.  Just... let him go.
+
+	Kira talks to Bashir, but her eyes never leave Bareil.
+
+					KIRA
+			How long?
+
+					BASHIR
+			It will be about three hours until 
+			all brain activity ceases.
+
+					KIRA
+			I'd like to stay here until then.
+
+					BASHIR
+			Of course.
+
+        DEEP SPACE: "Life Support" - REV. 11/14/94 - ACT FIVE       61.
+
+42   CONTINUED:	(4)
+
+	Bashir quietly EXITS.  Kira moves over to Bareil's bed, 
+	looks down at him with affection and sadness.
+
+					KIRA
+			Well... you got your treaty after 
+			all.  I just wish there'd been more 
+			time for us.  There's so much I never 
+			got to say to you.
+				(beat)
+			But this is all the time we have 
+			left, isn't it?  So I guess I better 
+			say it now.
+
+	She leans over and kisses him.  Then takes a deep breath... 
+	holds his hand... and as Kira talks to the unconscious Bareil 
+	we begin to PULL BACK...
+
+					KIRA
+				(continuing)
+			I'll never forget the first time I 
+			saw you... that day you came to the 
+			station.  There was a serenity about 
+			you... like you had all the answers...
+				(smiles)
+			It really got on my nerves for a 
+			while.  But as I got to know you... 
+			I realized that you were just as 
+			confused as the rest of us... you 
+			just accepted your confusion better 
+			than anyone I'd ever met.  And that's 
+			when I knew I loved you...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

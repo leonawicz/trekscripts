@@ -1,0 +1,3336 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                          "Homefront" 
+                (fka "Untitled Sisko on Earth") 
+                          #40510-483 
+                              
+                          Written by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                       David Livingston 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        October 23, 1995
+
+       STAR TREK: DS9 - "Homefront" - 10/23/95 - CAST
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Homefront" 
+                             CAST 
+
+          SISKO                    JOSEPH
+          KIRA                     LEYTON
+          ODO                      BENTEEN
+          BASHIR                   JARESH-INYO
+          DAX                      COM VOICE
+          QUARK                    HEAD OFFICER
+          O'BRIEN                  
+          WORF                     
+          JAKE                     
+          NOG                      
+
+          Non-Speaking             Non-Speaking
+          MORN                     
+          N.D. SUPERNUMERARIES     
+
+        STAR TREK: DS9 - "Homefront" - 10/23/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Homefront" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          PROMENADE/SECOND LEVEL        
+          QUARK'S                       STARFLEET HEADQUARTERS
+          OPS                           
+          ODO'S QUARTERS                NEWS ORLEANS/FRENCH
+          SISKO'S QUARTERS              QUARTER
+
+                                        EARTH
+        STARFLEET HEADQUARTERS        
+          SISKO'S TEMPORARY OFFICE      
+
+          SISKO'S CREOLE KITCHEN        
+
+          PRESIDENT'S OFFICE            
+
+    STAR TREK: DS9 - "Homefront" - 10/24/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Homefront" 
+                      PRONUNCIATION GUIDE 
+
+          AUDUBON                  ODD-uh-bon
+          BENTEEN                  BEN-teen
+          GRAZERITE                GRAY-zer-ite
+          JAMBALAYA                JUM-buh-LIE-UH
+          JARESH-INYO              JAR-esh IN-yoe
+          JEM'HADAR                JEM-huh DAR
+          LAKOTA                   luh-KOE-tuh
+          LEYTON                   LEY-tuhn
+          OKINAWA                  oh-kuh-NOW-uh
+          REMOULADE                ROME-a-lod
+          THOLIAN                  THO-lee-an
+
+           DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER            
+
+                  STAR TREK: DEEP SPACE NINE                    
+                             "Homefront"                               
+                            TEASER                              
+
+	FADE IN:
+
+1    OMITTED
+2    INT. PROMENADE - SECOND LEVEL (OPTICAL)
+
+	SISKO and DAX stand at a viewport on the Second Level
+	along with a crowd of other station residents. They
+	watch as the wormhole opens, stays open for a beat,
+	then closes. No ship enters or exits the wormhole. To
+	the humans and other Federation personnel, this is an
+	interesting scientific anomaly, but to the Bajorans,
+	the wormhole's behavior has deep religious significance
+	and they react accordingly.
+
+					DAX
+			There it goes again. That's the
+			seventh time in the last two
+			hours.
+
+					SISKO
+			Still no idea what's causing it?
+
+					DAX
+			So far it seems to be opening and
+			closing completely at random. No
+			unusual readings... no ships
+			coming through...
+
+	They begin to walk away from the viewport. As they
+	walk, Dax occasionally glances over the rail down at
+	the Second Level.
+
+					DAX
+			For all we know, the Bajorans are
+			right. Maybe it is a message from
+			the Prophets.
+
+	As Sisko and Dax walk by a Bajoran monk, he bows his
+	head in respect to the Emissary. Sisko nods back
+	uncomfortably.
+
+					SISKO
+				(joking)
+			If it is, they haven't told me.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER           2.
+
+2    CONTINUED:
+
+					DAX
+			Maybe the Prophets don't recognize
+			you with the new beard.
+
+	Sisko smiles at Dax's jibe.
+
+					SISKO
+				(half to himself)
+			There has to be a scientific
+			explanation for this.
+
+	Dax continues looking over the railing. As she
+	watches...
+
+3    NEW ANGLE
+
+	ODO emerges from an airlock and stalks onto the
+	Promenade, looking a little ticked off.
+
+4    ON SISKO AND DAX
+
+	Dax reacts to the sight of Odo with a private smile.
+	Sisko picks up on it.
+
+					SISKO
+			Something funny, old man?
+
+					DAX
+				(playing innocent)
+			Hmmm? Oh, nothing.
+
+	Just then, Sisko's combadge chirps.
+
+					WORF'S COM VOICE
+			Ops to Captain Sisko.
+
+	Sisko hits his combadge.
+
+					SISKO
+			Sisko here.
+
+					WORF'S COM VOICE
+			Captain, we're receiving a
+			priority one message from
+			Starfleet Security.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER           3.
+
+4    CONTINUED:
+
+					SISKO
+			On our way.
+
+	Sisko and Dax EXIT.
+
+5    INT. QUARK'S
+
+	QUARK is behind the bar, telling MORN a joke.
+
+					QUARK
+			So then, the Andorian says "That's
+			not my antenna."
+
+	Morn stares at Quark blankly. Quark's obviously
+	disappointed at Morn's lack of response.
+
+					QUARK
+				(dismissing him)
+			Why do I bother?
+
+	Just then, there's an angry growl from off-screen.
+
+					ODO (O.S.)
+			Quark!
+
+	Quark turns to the door as Odo ENTERS, looking steamed.
+
+					QUARK
+			What can I do for you, Constable?
+
+					ODO
+				(to the point)
+			Dax. Where is she?
+
+	Quark looks around the bar.
+
+					QUARK
+			She's not here.
+				(innocently)
+			Is there anything else I can do
+			for you?
+
+	Odo believes that Quark knows more than he's letting	on.
+
+					ODO
+			You think this is all very funny,
+			don't you? You and Dax probably
+			planned it together.
+
+					QUARK
+			Planned what?
+
+           DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER            
+
+5    CONTINUED:
+
+					ODO
+			Moving my furniture.
+
+	Morn knows this is bad news and EXITS.
+
+					QUARK
+			Is that what this is all about?
+			Someone moved your furniture?
+
+					ODO
+			Not someone. Commander Dax. This
+			is the fourth time she's done it
+			in the past year. She breaks into
+			my quarters while I'm
+			regenerating, and moves all my
+			furniture out of alignment. She
+			shifts one piece three centimeters
+			to the left, and the next four
+			centimeters to the right. Not one
+			object in my quarters is where
+			it's supposed to be.
+
+					QUARK
+			And that's a bad thing?
+
+					ODO
+			Everything I own is carefully and
+			painstakingly arranged. Dax knows
+			that... yet she takes perverse
+			delight in throwing my quarters
+			into chaos.
+
+					QUARK
+			I would hardly call three
+			centimeters chaos.
+
+					ODO
+			Maybe you wouldn't... but I would.
+				(a beat)
+			You humanoids are all alike... you
+			have no sense of order. And Dax
+			is the most... humanoid person I
+			know.
+
+					SISKO'S COM VOICE
+			Sisko to Constable Odo.
+
+					ODO
+				(to com)
+			Odo here.
+
+					SISKO'S COM VOICE
+			Please report to Ops, immediately.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER           5.
+
+5    CONTINUED:	(2)
+
+	Odo would much rather rant to Quark a little while
+	longer, but duty calls.
+
+					ODO
+			Acknowledged.
+
+	Odo starts to leave.
+
+					QUARK
+				(calling after him)
+			If you see Dax, say hello to her
+			for me.
+
+	Odo ignores him and EXITS. And Odo leaves, Quark
+	breaks into a wide grin.
+
+6    INT. OPS
+
+	Odo ENTERS to find Sisko, KIRA, WORF and O'BRIEN
+	already there.
+
+					KIRA
+			How many people were at the
+			conference?
+
+					SISKO
+			Including the Tholian observer,
+			twenty-seven.
+
+					O'BRIEN
+				(shocked)
+			Twenty-seven. That's
+			unbelievable.
+
+					SISKO
+				(to Kira and Odo)
+			The Federation President, Jaresh-
+			Inyo has declared a planetwide
+			day of mourning.
+
+	Sisko sees Odo enter.
+
+					SISKO
+			Constable, take a seat.
+
+					ODO
+			Of course.
+
+	Odo takes a seat at the Ops table. Sisko nods to Worf.
+	Worf stands and activates the monitors behind the Ops
+	table.
+
+					WORF
+			We received this less than ten
+			minutes ago.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER           6.
+
+6    CONTINUED:
+
+					WORF (Cont'd)
+			It's a recording of a high level
+			diplomatic conference between the
+			Federation and the Romulan Empire
+			held on Earth a few days ago.
+				(to com)
+			Computer, begin replay at time
+			index five nine eleven.
+
+7    NEW ANGLE (OPTICAL)
+
+	To include the viewscreen, which shows an M.O.S.
+	security recording of a conference room full of
+	Federation and Romulan diplomats. They're milling
+	around, talking in an informal session, when suddenly,
+	the room is irradiated by a high-tech weapon. The
+	viewscreen goes white and fritzes out as the recording
+	ends.
+
+8    CLOSE ON ODO
+
+	As he reacts to what he's seen.
+
+					ODO
+			A bomb.
+
+					WORF
+			Of unknown composition.
+
+					SISKO
+				(to Odo)
+			There hasn't been a crime like
+			this on Earth in over a hundred
+			years.
+
+					KIRA
+				(to Worf)
+			Go back. Show him what you showed
+			us.
+
+           DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER            
+
+8    CONTINUED:
+
+					WORF
+			Computer, restart at five nine
+			sixteen at one-tenth normal speed.
+
+9    NEW ANGLE (OPTICAL)
+
+	Back on the monitor which displays the diplomats,
+	moving in slow motion, seconds before the explosion.
+
+						WORF
+				(to com)
+			Freeze-picture. Enlarge section
+			F three and isolate.
+
+	A square on the monitor is isolated and enlarged. The
+	image is now a medium shot of three people, one Romulan
+	and two humans. They're standing in front of a small
+	pedestal holding a black Grecian vase.
+
+					WORF
+				(to Odo)
+			Keep your eye on the piece of
+			pottery.
+				(to com)
+			Resume at one-tenth speed.
+
+	The people in the picture start moving again. For a
+	split second, the Grecian vase can be seen beginning to
+	MORPH.
+
+					ODO
+			That's a changeling.
+
+	But before we or Odo can get a better look, the room
+	explodes and the recording ends.
+
+10   CLOSE ON ODO
+
+	As he reacts to what he's seen.
+
+11   NEW ANGLE
+
+	To include Sisko and Worf.
+
+					WORF
+			No sign of a changeling was found
+			in the aftermath. We must assume
+			that it escaped unharmed.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - TEASER           8.
+
+11   CONTINUED:
+
+					SISKO
+			I was hoping this would never
+			happen. But it finally has... the
+			changelings have reached earth.
+
+	And as Odo and the rest of the crew digest this grim
+	news, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE          9.
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+12   INT. ODO'S QUARTERS
+
+	Dax finishes moving a piece of Odo's jungle-gym
+	furniture while Odo supervises.
+
+					DAX
+			How's that?
+
+	Odo studies the placement for a beat, then...
+
+					ODO
+			Another centimeter to the left.
+
+	Dax has been at this for a while and is obviously
+	getting tired of it.
+
+					DAX
+			Shouldn't you be on the Lakota?
+
+					ODO
+			The Lakota won't depart for Earth
+			for another hour. Which gives us
+			plenty of time to repair the
+			damage you've done to my room.
+				(a beat)
+			And while I'm gone, I want your
+			solemn word that you'll stay out
+			of my quarters.
+
+					DAX
+			You've got it.
+				(a beat)
+			So how long do you think you and
+			Captain Sisko will be on Earth?
+
+					ODO
+			I have no idea. I just hope this
+			trip isn't a waste of time. I'm
+			not sure what Captain Sisko and I
+			can tell Starfleet about my people
+			that hasn't already been in our
+			reports.
+
+					DAX
+			Believe me, Odo, with changelings
+			on Earth, Starfleet's going to
+			need all the help it can get.
+
+           DEEP SPACE NINE: "Homefront" - 11/04/95 ACT ONE          10.
+
+12   CONTINUED:
+
+	She finishes moving the furniture.
+
+					DAX
+			There. How's that?
+
+					ODO
+			A little more to the left.
+
+					DAX
+				(playful)
+			Whatever you say, Constable.
+
+	Dax adjusts the furniture.
+
+13   INT. SISKO'S QUARTERS (OPTICAL)
+
+	Sisko is talking on a monitor to his father, JOSEPH
+	SISKO. Despite his advanced years, Joseph is as full
+	of life and energy as anyone you'd want to meet. He's
+	a gourmet cook who runs his own restaurant in New
+	Orleans, and his personality is as zesty and full-
+	bodied as his cooking. He's a big man with a big
+	personality to match.
+
+	Several years earlier Joseph fought a debilitating
+	battle against a severe illness, barely surviving.
+	He's never gotten back to full strength, but he's
+	determined to live out the rest of his years with
+	gusto. Unfortunately, the years are starting to run
+	out, a fact he's determined not to reveal to his son.
+
+					JOSEPH
+				(on monitor)
+			Wait until you see the size of the
+			eggplants I'm getting out of my
+			garden this year. As big as
+			crenshaw melons and twice as
+			heavy.
+
+					SISKO
+			How's Judith? She still helping
+			out at the restaurant?
+
+					JOSEPH
+				(on monitor)
+			I sent her home to Portland. Your
+			sister's got her own life to worry
+			about. Besides... she never puts
+			enough cayenne pepper in the
+			jambalaya.
+
+					SISKO
+			Just like mom.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE            
+
+13   CONTINUED:
+
+					JOSEPH
+				(on monitor)
+			Which means she has no business
+			being in a kitchen.
+				(smiles)
+			It'll be good to have you home
+			again Benjamin. Jake, too.
+
+					SISKO
+			You know, Dad, this isn't exactly
+			a vacation. I'll be spending most
+			of my time in San Francisco at
+			Starfleet Headquarters.
+
+					JOSEPH
+				(on monitor)
+			Whatever you do during the day is
+			your business. But at dinner
+			time, you better get yourself down
+			to New Orleans. No son of mine is
+			going to eat that replicated slop
+			Starfleet calls food. Not if I
+			have anything to say about it.
+
+					SISKO
+			You won't get any argument from
+			me.
+
+	Sisko looks at his father with affection for a beat,
+	then a look of concern crosses his face.
+
+					SISKO
+			So... Dad... You feeling okay?
+
+					JOSEPH
+				(on monitor)
+			Let's not start that again.
+
+					SISKO
+			It's just a question.
+				(a beat)
+			You look a little tired. How's
+			the new aorta holding up?
+
+					JOSEPH
+				(on monitor)
+			The doctors say I'm a medical
+			marvel. At the rate things are
+			going in another year or two I
+			won't have an original organ left
+			in my body.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE         12.
+
+13   CONTINUED:
+
+					SISKO
+			But you feel okay?
+
+					JOSEPH
+				(on monitor)
+			Just point me in the direction of
+			a party or a pretty girl and I'll
+			show you how good I feel.
+				(changing the subject)
+			Make sure to call me as soon as
+			you and Jake get here. The guest
+			rooms are always ready and waiting
+			for you.
+
+					SISKO
+			I know that, Dad. We'll be there
+			before you know it.
+
+	Joseph nods and terminates the transmission. Sisko
+	frowns. He doesn't completely believe his father's re-
+	assurances about his health. After a beat...
+
+14   NEW ANGLE
+
+	JAKE ENTERS.
+
+					SISKO
+			You just missed Grandpa Joe.
+
+					JAKE
+			Did you tell him we're staying in
+			San Francisco?
+
+					SISKO
+			I... didn't quite get around to
+			it.
+
+	Jake knows that means they're staying with Grandpa.
+
+					JAKE
+			Dad... You know if we stay with
+			Grandpa he's going to put me to
+			work in the kitchen.
+
+					SISKO
+			Is that so bad?
+
+					JAKE
+			Chopping vegetables for nine hours
+			a day isn't my idea of a vacation.
+
+					SISKO
+			Jake, you're not a kid anymore.
+			Grandpa won't expect you to chop
+			vegetables.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE         13.
+
+14   CONTINUED:
+
+					SISKO (Cont'd)
+				(smiles)
+			He'll want you to wait tables.
+
+	Off Jake's resigned expression...
+
+14A  INT. QUARK'S
+
+	It's a normal crowd. People barely take notice as
+	O'Brien and BASHIR walk down the spiral staircase,
+	wearing World War Two-era R.A.F. uniforms, complete
+	with leather headgear, and in Bashir's case, a silk
+	pilot's scarf.
+
+					O'BRIEN
+				(to Quark)
+			Barkeep.
+
+	Quark rolls his eyes. He's been through this before
+	with these guys.
+
+					QUARK
+			So what can I get you two flyboys.
+
+					BASHIR
+			A scotch neat, and a pint o'
+			bitters for me mate.
+
+					O'BRIEN
+			And be quick about it. The
+			cabbage crates'll be coming back
+			over the briny any minute now.
+
+	Quark puts the glasses down.
+
+					QUARK
+			All right, all right. I'd hate to
+			let the "Jerries" strafe that
+			"green and pleasant land" of yours
+			while you two were taking time out
+			for a drink.
+
+					BASHIR
+			No choice. Ritual, you know.
+
+	He and O'Brien raise their glasses.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE        13A.
+
+14A  CONTINUED:
+
+					0'BRIEN
+			To Clive. The best bloke ever to
+			prang his kite into the Channel.
+
+					BASHIR
+			Stiff upper lip.
+
+					O'BRIEN
+			Hear, hear.
+
+	They toast and drink.
+
+					QUARK
+			Now remember what I said about
+			throwing glasses.
+
+	They put the glasses down on the bar.
+
+					O'BRIEN
+				(to Bashir)
+			So, want to go back up and take
+			another crack at the Jerries?
+
+					BASHIR
+				(breaking character)
+			I don't know. To tell you the
+			truth, my heart's not in it.
+
+					QUARK
+			Aren't you taking Clive's death a
+			little seriously? After all, he
+			was just a holosuite character.
+
+					O'BRIEN
+			It's not Clive. It's Earth. You
+			probably wouldn't understand this,
+			Quark, but when you care about a
+			place, and it's in trouble... you
+			want to do something about it.
+			And when you can't, it's pretty
+			frustrating.
+
+					QUARK
+			I know exactly what you mean.
+			When the Great Monetary Collapse
+			hit Ferenginar, I was hundreds of
+			light years away, working as a
+			ship's cook on a long-haul
+			freighter. I can't tell you the
+			heartbreak I suffered, knowing
+			that rampant inflation and
+			currency devaluation were burning
+			like wildfires through the lush
+			financial landscapes of my home.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE        13B.
+
+14A  CONTINUED:
+
+					QUARK (Cont'd)
+				(a beat)
+			It still depresses me even today.
+			I remember thinking my accounts
+			needed me, and there was nothing
+			I could do. I felt so... so
+			helpless.
+				(eager to bond)
+			So you see, I do understand.
+
+					O'BRIEN
+			Somehow, hearing that doesn't make
+			me feel the least bit better.
+
+					QUARK
+				(dismissive)
+			Humans. All you care about is
+			yourselves.
+
+	Quark moves off-screen, to deal with more amiable
+	customers. Just then, O'Brien and Bashir notice Odo
+	walking down the Promenade.
+
+					O'BRIEN
+				(calling out)
+			Odo, hold on a minute.
+
+	O'Brien and Bashir head for the door...
+
+14B  INT. PROMENADE
+
+	O'Brien and Bashir join Odo.
+
+					ODO
+				(re: the uniforms)
+			I take it the Battle of Britain
+			has been won yet again.
+
+					BASHIR
+			There's a spitfire with your name
+			on it sitting in the hangar. When
+			you come back from Earth, you can
+			take Clive's place in the
+			squadron.
+
+					ODO
+			Somehow, I doubt it.
+
+					O'BRIEN
+			Look, Odo... Do me a favor? If
+			you get a chance, drop by and
+			visit my folks in Killarney.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE        13C.
+
+14B  CONTINUED:
+
+					O'BRIEN (Cont'd)
+			You know, make sure they're doing
+			okay.
+
+					ODO
+			I'll try to find the time.
+
+					O'BRIEN
+			Good. I'll tell them you might
+			stop by.
+
+					ODO
+			Anyone you want me to look up,
+			Doctor?
+
+					BASHIR
+			No, that's all right. I just wish
+			I was going with you.
+
+					ODO
+			To be perfectly honest, Doctor, I
+			wish you were both going with me.
+			I could use the company. I doubt
+			a Shape-shifter is going to be very
+			popular on Earth at the moment.
+
+					O'BRIEN
+			No one can hold you responsible
+			for what your people are doing.
+
+					ODO
+				(skeptically)
+			Really.
+				(a beat)
+			I better get over to the Lakota.
+			We'll be leaving shortly.
+
+					BASHIR
+			Good luck.
+
+	O'Brien nods, seconding the motion.
+
+					ODO
+			I don't believe in luck.
+				(softens)
+			But I appreciate the sentiment.
+
+	Odo EXITS.
+
+					BASHIR
+				(worried)
+			Changelings on Earth.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE        13D.
+
+14B  CONTINUED:
+
+					O'BRIEN
+			It's times like this that home
+			seems a long way off.
+
+	Bashir nods.
+
+					BASHIR
+			Let's get out of these uniforms.
+
+	They EXIT.
+
+									CUT TO:
+
+15   OMITTED
+
+16   INT. OPS
+
+	O'Brien, Worf and Kira are at their stations.
+
+					O'BRIEN
+			The Lakota has gone to warp.
+
+					WORF
+				(to Kira)
+			When was the last time the
+			wormhole opened?
+
+					KIRA
+			Twelve hours ago.
+
+					WORF
+			Perhaps it has returned to normal.
+
+					KIRA
+			I suppose so.
+
+					O'BRIEN
+			You seem disappointed, Major.
+
+					KIRA
+			I guess I am. Part of me was
+			hoping that the Prophets were
+			behind it. That they were finally
+			going to show themselves to the
+			Bajoran people.
+
+					WORF
+			I prefer Klingon beliefs.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE         14.
+
+16   CONTINUED:
+
+					KIRA
+			I suppose your gods aren't as
+			cryptic as ours.
+
+					WORF
+			Our gods are dead. Ancient
+			Klingon warriors slew them all
+			millennia ago. They were more
+			trouble than they were worth.
+
+	Worf turns his attention back to his panels. Kira
+	looks at Worf, puzzled.
+
+					KIRA
+			I don't think I'll ever understand
+			Klingons.
+
+					O'BRIEN
+			Don't worry about it, Major.
+			Nobody does. That's the way
+			they like it.
+
+	Worf is privately pleased as he continues to work.
+	Kira and O'Brien exchange a look of amusement.
+
+17   OMITTED
+
+18   EXT. STARFLEET HEADQUARTERS - DAY (OPTICAL) 
+
+	A green expanse of lawns and walkways leading up to a
+	cluster of official-looking buildings. The Golden Gate
+	Bridge can be seen in the background.
+
+19   EXT. STARFLEET HEADQUARTERS - GROUNDS - DAY
+
+	Sisko and Odo are walking toward one of the buildings
+	when ADMIRAL LEYTON, the head of Starfleet Operations
+	calls out to them.
+
+					LEYTON (O.S.)
+			Ben...
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE         15.
+
+19   CONTINUED: 
+
+	Sisko turns and smiles as Leyton approaches. Leyton is
+	in his mid-fifties, tall, healthy and looks younger
+	than he is. He's a veteran of conflicts with the
+	Romulans, Tholians, Cardassians and Borg.
+
+	At Leyton's side is his adjunct, COMMANDER ERIKA
+	BENTEEN, a career officer in her early thirties and of
+	slight build. She carries herself with the confidence
+	of someone who never doubts that she's doing the right
+	thing.
+
+					SISKO
+			Admiral Leyton. It's good to see
+			you again, sir.
+
+	They shake hands.
+
+					LEYTON
+			Captain Sisko, this is my
+			adjutant, Commander Benteen.
+				(to Benteen)
+			Benjamin was my executive officer
+			aboard the Okinawa. And a damn
+			fine one too.
+
+					SISKO
+			I did all right.
+
+					BENTEEN
+			Don't be modest. Admiral Leyton
+			has had his share of executive
+			officers and you're the only one
+			he ever speaks fondly of.
+
+					LEYTON
+				(re: Benteen)
+			Present company excluded.
+
+					SISKO
+				(to Odo)
+			Admiral Leyton is the one who
+			recommended me for the job on Deep
+			Space Nine.
+
+					LEYTON
+			One of my better ideas.
+
+	Leyton looks at Odo.
+
+					LEYTON
+			You must be Odo.
+
+					ODO
+			That's right.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE         16.
+
+19   CONTINUED:	(2).
+
+					LEYTON
+				(re: Odo)
+			Forgive me for staring, but you're
+			the first changeling I've ever
+			met.
+
+					BENTEEN
+			That you know of.
+
+	Benteen is making a joke, but neither she nor Leyton
+	are laughing. Sisko picks up on the tension in the
+	air.
+
+					ODO
+			I sympathize with your problem.
+			Uncovering changeling infiltrators
+			is no easy task.
+
+					LEYTON
+			Well with the help of the two of
+			you, hopefully it'll be a little
+			easier.
+
+					SISKO
+			What exactly do you want us to do,
+			Admiral?
+
+					BENTEEN
+			We'd like to confer with you and
+			Odo... see if there's anything
+			about the Founders that you left
+			out of your official reports.
+
+					ODO
+			I'll help any way I can. Though I
+			think you'll find my reports were
+			quite thorough.
+
+					SISKO
+			Admiral, somehow I doubt you
+			brought us all this way just for
+			a debriefing.
+
+					LEYTON
+			Of course not. Ben, Earth's in
+			danger. Maybe the greatest danger
+			it's faced since the last world
+			war. Something has to be done
+			about these Shape-shifters.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT ONE         17.
+
+19   CONTINUED:	(3)
+
+					LEYTON (Cont'd)
+				(a beat)
+			Which is where you come in. You
+			know more about the Dominion than
+			anyone in Starfleet. And that's
+			why, effective immediately, I'm
+			making you the new head of
+			Starfleet Security here on Earth.
+
+					BENTEEN
+			Congratulations, Captain.
+
+	And off Sisko's surprised reaction, we...
+
+									FADE OUT
+
+                        END OF ACT ONE                          
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         18.
+                            ACT TWO                             
+
+	FADE IN:
+
+20   OMITTED
+
+21   INT. SISKO'S CREOLE KITCHEN - NIGHT
+
+	Sisko's is an upscale restaurant, but you might not
+	realize that from a first glance. Though there are
+	tablecloths and fresh flowers on the tables, the
+	overall mood is homey and comfortable. There are
+	pictures of old-time baseball players on the walls and
+	a stuffed alligator hanging from the ceiling. Patrons,
+	humans with a sprinkling of aliens, are dressed
+	casually and the service is friendly and unpretentious.
+
+	Joseph Sisko, who is circulating around the room, stops
+	to chat with one of the customers, who has just been
+	served a large trout in butter-lemon sauce.
+
+					JOSEPH
+			That is one beautiful fish. Seems
+			a shame to eat a trout that
+			pretty. Why, you should thank me
+			for the privilege of simply
+			looking at it.
+				(a beat)
+			Well, go on, take a bite. It
+			won't bite back.
+				(to all)
+			Now I don't want to see anyone
+			studying the dessert menu. If you
+			order anything but the bread
+			pudding souffle, you'll be making
+			a mistake you'll regret for the
+			rest of your lives.
+
+					SISKO (O.S.)
+			You should listen to him. The man
+			knows his bread pudding.
+
+	Joseph turns and sees Sisko and Jake standing by the
+	front door. He smiles in delight.
+
+					JOSEPH
+			Benjamin.
+
+	Joseph and his son embrace. Joseph looks over at Jake
+	and gives him a bear hug as well.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         19.
+
+21   CONTINUED:
+
+					JOSEPH
+			Jake-o. When are you going to
+			stop growing? If you keep this
+			up, you'll be bumping your head on
+			that alligator before too long.
+
+					JAKE
+			I remember when you used to tell
+			me that alligator was just in
+			stasis, and you let it down at
+			night to guard the restaurant.
+
+					JOSEPH
+			I had to stop doing that. It got
+			to be too much trouble wrestling
+			it back up to the ceiling every
+			morning.
+				(winks)
+			Now take a seat. I'll have Nathan
+			bring you both something to eat
+			and we can catch up.
+				(to a passing waiter)
+			Nathan, some gumbo for these fine
+			young men.
+
+22   NEW ANGLE
+
+	Joseph leads them over to a corner table and they sit
+	down.
+
+					JOSEPH
+			So where's this shape-shifting
+			fellow you were coming with?
+
+					SISKO
+			With things the way they are, Odo
+			thought it would be better if he
+			stayed at Starfleet Headquarters.
+
+					JOSEPH
+			I don't blame him. I haven't seen
+			people so nervous since the Borg
+			scare.
+
+	Nathan comes and puts down two bowls of gumbo.
+
+					JOSEPH
+			Now personally, I'd like to meet
+			him, though I have to admit, I'm
+			a little suspicious of anyone who
+			doesn't eat.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         20.
+
+22   CONTINUED:
+
+	Sisko smiles as he starts eating, then notices that
+	Joseph isn't joining them.
+
+					SISKO
+			Aren't you having any?
+
+					JOSEPH
+			I ate before you got here.
+
+	Sisko stares at his father as if not totally buying
+	this explanation.
+
+					JOSEPH
+			Son, don't look at me that way.
+
+					SISKO
+			You've lost weight.
+
+					JOSEPH
+				(skeptical)
+			You think so?
+
+					JAKE
+			The doctors said you have to keep
+			your weight up.
+
+					JOSEPH
+			Don't you start, too.
+				(fair warning)
+			I've got a vat of crayfish in the
+			back that needs cleaning and it's
+			got your name on it.
+				(to both of them)
+			Now I'm going to say this one time
+			and one time only. I'm fine. I'm
+			happy, I'm healthy, and I'm
+			planning on celebrating at least
+			fifty more birthdays. Satisfied?
+
+	Sisko's not satisfied, but he's not going to press it.
+
+					SISKO
+			Gumbo's as good as I remember.
+
+	Which is Sisko's way of backing off.
+
+					JOSEPH
+			Starfleet must be taking this
+			Shape-shifter thing pretty
+			seriously, to have you come all
+			the way back here.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         21.
+
+22   CONTINUED:
+
+					SISKO
+			It's serious, Dad.
+
+					JOSEPH
+			Twenty-seven people murdered right
+			here on Earth.
+				(shakes his head)
+			Never thought I'd see the day.
+				(brightens)
+			But now that my son's on the case,
+			I feel a lot better.
+
+	Before Sisko can respond to Joseph's comments, NOG
+	calls from off-screen.
+
+					NOG (O.S.)
+			Jake!
+
+	Everyone turns to see Nog, dressed in a Starfleet
+	cadet's uniform, approaching from the entrance to the
+	restaurant.
+
+					JAKE
+			Nog.
+
+	Jake gets up. Nog pats Jake on the back and shakes
+	hands with Sisko.
+
+					NOG
+			Captain Sisko.
+				(re: his uniform)
+			What do you think?
+
+					SISKO
+			You look good, cadet.
+
+					NOG
+				(pleased)
+			You think so?
+
+					JAKE
+			Nog, I thought I was going to see
+			you tomorrow at Starfleet Academy.
+
+					NOG
+			You are. I'm just here for
+			dinner.
+
+	Nog sits down, then calls out to the waiter.
+
+					NOG
+			Nathan, the usual.
+
+	Nathan nods his acknowledgement.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         22.
+
+22   CONTINUED:	(3)
+
+					SISKO
+			I didn't know you liked Creole
+			food.
+
+					NOG
+			I don't. I like tube grubs, and
+			your father's the only person on
+			this planet who can get me live
+			ones.
+
+					JOSEPH
+			I'm thinking of adding them to the
+			menu. Of course I'll have to cook
+			'em for my human customers, serve
+			them with a nice remoulade.
+
+					NOG
+			Cook them? What good are tube
+			grubs if they don't wriggle on the
+			way down?
+
+					JAKE
+			So how's everything at the
+			Academy?
+
+	Nog tries to shrug the question off. The Academy is
+	clearly something he doesn't want to talk about.
+
+					NOG
+				(trying to avoid the
+				subject)
+			Jake, they call it the Academy,
+			but what it really is is school.
+
+					JAKE
+			I want to hear about it.
+
+					NOG
+			It's a lot of work. Lots of
+			classes, lots of studying. But
+			I'm doing okay.
+				(a beat)
+			Now where are those tube grubs?
+
+									DISSOLVE TO:
+
+23   INT. SISKO'S CREOLE KITCHEN - NIGHT - LATER 
+
+	It's closing time. Joseph is escorting the last of his
+	customers out the door.
+
+					JOSEPH
+			Good night. You come back soon.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         23.
+
+23   CONTINUED:
+
+	He closes the door behind them. Sisko's standing
+	nearby.
+
+					JOSEPH
+			Come on, Ben. I've got a nice
+			bottle of cognac I've been keeping
+			for a special occasion, and I think
+			this qualifies.
+
+					SISKO
+			I think you're right.
+
+	They EXIT into the back.
+
+24   NEW ANGLE
+
+	On Jake and Nog, still in the booth. Nog is drinking
+	root beer and patting his stomach.
+
+					NOG
+			Ahhh. There's nothing like a full
+			stomach to make life worth living.
+
+					JAKE
+			So you going to tell me what's on
+			your mind or not?
+
+					NOG
+			What do you mean?
+
+					JAKE
+			I mean you didn't stay here until
+			closing time just to have one more
+			root beer. Something's up.
+
+					NOG
+			My friend the writer. Always
+			looking for a good story.
+
+					JAKE
+			If you don't want to tell me,
+			fine. Don't tell me.
+
+					NOG
+			It's nothing. It's stupid.
+
+					JAKE
+			All right. Forget about it.
+
+	There's a beat, but Nog clearly can't forget about it.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         24.
+
+24   CONTINUED:
+
+					NOG
+			It's just... the Academy is
+			different than I thought it would
+			be.
+
+					JAKE
+			Different how?
+
+					NOG
+			Some of the cadets. They're kind
+			of standoffish. Especially the
+			upperclassmen.
+
+					JAKE
+			Because you're a Ferengi?
+
+					NOG
+			That's what I thought at first.
+			But then I heard some of the other
+			freshmen complaining about the
+			same thing.
+
+					JAKE
+			Complaining about what?
+
+					NOG
+			Little things. For instance,
+			there's this group called Red
+			Squad made up of all the top
+			students. They're always going
+			off on trips... getting special
+			training... None of them'll even
+			talk to me.
+
+					JAKE
+			You've only been at the Academy
+			for a month. You can't expect to
+			fit in right away. Who knows, one
+			of these days you might even be in
+			Red Squad. I'm sure if you let
+			them get to know you, show them
+			that you're a good guy to be
+			around, everything'll work out.
+
+					NOG
+			I am a good guy to be around,
+			aren't I?
+
+					JAKE
+			I always thought so.
+
+	Nog smiles. He feels a little better.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         25.
+
+25   OMITTED 
+
+26   INT. PRESIDENT'S OFFICE - DAY 
+
+	Sisko and Admiral Leyton ENTER to find PRESIDENT JARESH-
+	INYO sitting at his desk. We can see the Eiffel Tower
+	out the window behind him. Jaresh-Inyo is a Grazerite,
+	a willowy, contemplative, humanoid alien only recently
+	elected to the office of President. Grazerites are
+	evolved from herbivorous herd animals and as such loathe
+	violence and confrontation. Sisko's carrying a twenty-fourth
+	century briefcase, which he places on the ground by his
+	chair.
+
+					LEYTON
+			Mister President, I'd like to
+			introduce Captain Sisko.
+
+					JARESH-INYO
+			Captain. I've seen your record.
+			Most exemplary.
+
+					SISKO
+			Thank you, sir.
+
+					LEYTON
+			Captain Sisko has several
+			suggestions on how to combat
+			Dominion infiltration. I think
+			you'll find them very interesting.
+
+	Sisko takes a PADD out of the briefcase and hands it to
+	the President. Jaresh-Inyo takes the PADD and scans
+	the contents.
+
+					JARESH-INYO
+			Hmm. I understand the need for
+			increased security, but...
+				(referring to the PADD)
+			Blood screenings and phaser
+			sweeps?
+
+					SISKO
+			They've proven very effective on
+			Deep Space Nine.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         26.
+
+26   CONTINUED:
+
+					JARESH-INYO
+			I'm sure they have. But I hope
+			you'll keep in mind that this is
+			Earth, not a military
+			installation.
+
+					LEYTON
+			Which means it's a lot more
+			vulnerable. We have to take
+			precautions.
+
+					JARESH-INYO
+			Precautions may be advisable. But
+			I don't want to disrupt the lives
+			of the population.
+				(a beat)
+			Despite what happened at
+			Antwerp... I believe the
+			changeling threat is somewhat less
+			serious than Starfleet does.
+
+					LEYTON
+			Mister President, I assure you the
+			threat is real.
+
+					JARESH-INYO
+			For all we know, there was only
+			one changeling on Earth, and he
+			may not even be here anymore.
+
+					SISKO
+			But if he is here, we have a
+			problem. There's no telling how
+			much damage one changeling could
+			do.
+
+					JARESH-INYO
+			Forgive me for saying so, Captain,
+			but you sound a little...
+			paranoid.
+
+					SISKO
+			Do I?
+
+	Just then...
+
+27   NEW ANGLE (OPTICAL)
+
+	Sisko's briefcase MORPHS into Odo. Jaresh-Inyo jumps
+	up from his chair and backs away. Odo leans over the
+	desk toward the President.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO         27.
+
+27   CONTINUED:
+
+					ODO
+			Forgive the intrusion, Mister
+			President, but as you can see,
+			Starfleet has every right to be
+			concerned.
+
+					SISKO
+			Allow me to introduce Odo, my
+			chief of security.
+
+	The President relaxes slightly.
+
+					JARESH-INYO
+			A very... effective entrance,
+			Mister Odo.
+
+					ODO
+			One that never should've been
+			allowed to take place. Admiral
+			Leyton and Captain Sisko walked in
+			here without being searched,
+			without being blood-tested, and
+			without having their possessions
+			subjected to phaser sweeps.
+
+					SISKO
+			If Odo was a Dominion infiltrator,
+			he could've killed you.
+
+					LEYTON
+				(pointedly)
+			Or replaced you.
+
+	Jaresh-Inyo reacts to Leyton's pronouncement.
+
+					LEYTON
+			With security the way it is now,
+			a changeling could get anywhere on
+			Earth, replace anyone... even you.
+
+					SISKO
+			Sir, all we want is your
+			permission to increase security at
+			Federation and Starfleet
+			installations here on Earth.
+			Blood tests will be limited to
+			Starfleet officers and high-
+			ranking Federation officials.
+
+      DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT TWO 28-29.         
+
+27   CONTINUED:	(2)
+
+					SISKO (Cont'd)
+			The average citizen won't even
+			notice the difference.
+				(a beat)
+			I wish these security measures
+			weren't necessary. But the safety
+			of Earth... and the entire
+			Federation... depends on them.
+
+	The President considers Sisko's plan. He clearly would
+	rather not implement his suggestions, but he's
+	beginning to see the wisdom in Sisko's point-of-view.
+
+					JARESH-INYO
+			You present a very convincing
+			argument, captain. It would seem
+			I have no choice but to accept
+			your proposals.
+
+					SISKO
+			Thank you, Mister President.
+
+	But Jaresh-Inyo isn't happy with the decision he's been
+	forced to make and he wants to make sure both Leyton
+	and Sisko know it.
+
+					JARESH-INY0
+			Don't thank me. If I could think
+			of another solution, I would use
+			it. It took Earth centuries to
+			evolve into the peaceful haven it
+			is today. I would hate to be
+			remembered as the Federation
+			President who destroyed paradise.
+
+					SISKO
+			We're not looking to destroy
+			paradise, Mister President. We're
+			looking to save it.
+
+	And off the President's resigned expression, we...
+
+28   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        30.
+                           ACT THREE                            
+
+	FADE IN:
+
+29   INT. SISKO'S TEMPORARY OFFICE - DAY (OPTICAL)
+
+	Sisko and Benteen stand in the doorway of Sisko's
+	temporary office at Starfleet Headquarters. There's a
+	Starfleet Science Officer standing behind them.
+
+						SISKO
+			Activate the phaser.
+
+	Behind Sisko, the Science Officer taps a command into
+	a PADD and a phaser unit, newly installed in the
+	ceiling, sweeps the room with a wide beam of phaser
+	fire, covering the whole room. As it passes over a
+	plant which suddenly MORPHS into Odo, who grunts in
+	pain and shifts his body as if he's just gotten a bad
+	shock.
+
+						SISKO
+			That's enough.
+
+	The Science Officer deactivates the phaser.
+
+30   NEW ANGLE
+
+	As the phaser fire stops and Odo gets to his feet.
+
+						SISKO
+			How do you feel?
+
+					ODO
+			That time I definitely experienced
+			discomfort.
+
+					SISKO
+			What was the setting?
+
+					BENTEEN
+			Three point one. If we set the
+			phasers at three point four, we
+			should be able to stun any
+			Changeling we hit and force them
+			back into a gelatinous state.
+
+					ODO
+			I would make it three point five
+			just to be on the safe side. But
+			if you want to do more testing,
+			you'll have to find another guinea
+			pig. I've been shot quite enough
+			for one day.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        31.
+
+30   CONTINUED:
+
+					SISKO
+				(to Science Officer)
+			Three point five it is.
+				(to Benteen)
+			I want these units installed in
+			every room at Starfleet and
+			Federation Headquarters, then
+			start working on the orbital
+			stations.
+
+					BENTEEN
+			We'll have them in place by
+			tomorrow night.
+
+	Benteen smiles.
+
+					BENTEEN
+			I want to thank you, Commander.
+
+					SISKO
+			Thank me? For what?
+
+					BENTEEN
+			For convincing the President to
+			implement these security measures.
+			It feels like we're finally on the
+			right track.
+
+	She EXITS, followed by the Science Officer.
+
+					ODO
+				(to Sisko, once they're
+				alone)
+			You'd think she'd've thanked me,
+			too. After all, I'm the one who
+			got shot thirteen times today.
+
+	Sisko smiles at Odo's cynical observation. Just
+	then...
+
+31   NEW ANGLE
+
+	Nog ENTERS the room, looking a little overwhelmed by
+	being at Starfleet Headquarters.
+
+					NOG
+			Captain Sisko?
+
+	Sisko turns to Nog.
+
+					NOG
+			I hope I'm not interrupting
+			anything.
+
+					SISKO
+			We were just about finished.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        32.
+
+31   CONTINUED:
+
+					NOG
+			Can I speak to you for a minute?
+				(a beat)
+			In private.
+
+	Sisko considers it for a beat, then looks over at Odo
+	who EXITS.
+
+					NOG
+				(easing into things)
+			Captain, I just want to say, I
+			appreciate everything you've done
+			for me so far, and --
+
+					SISKO
+				(cuts to the chase)
+			Jake says you're having trouble at
+			school.
+
+					NOG
+			He told you that?
+
+					SISKO
+			He tells me everything.
+
+					NOG
+			I don't want you to get the wrong
+			idea.
+
+					SISKO
+			Nog, we both knew it would take
+			a while for you to adjust to the
+			Academy... and for the Academy to
+			adjust to you.
+
+					NOG
+			I know, but it turned out to be
+			even more difficult than I
+			expected.
+
+					SISKO
+			You've just got to stick with it.
+
+					NOG
+			And I intend to. In fact, I think
+			I've come up with something
+			that'll help me make some new
+			friends.
+
+					SISKO
+			Good.
+
+					NOG
+			But I need your help.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE       32A.
+
+31   CONTINUED:	(2)
+
+	Nog musters up his courage, then...
+
+					NOG
+			I want to join Red Squad.
+
+					SISKO
+				(no recognition)
+			Red Squad?
+
+					NOG
+			What do you think?
+
+					SISKO
+			I don't know what to think. I've
+			never heard of it.
+
+					NOG
+				(explains)
+			It's an elite squad of cadets at
+			the Academy. You know, the best
+			of the best. They get special
+			classes, simulated missions, off-
+			campus training sessions, all
+			kinds of things.
+
+					SISKO
+				(surprised)
+			An elite group of cadets? They
+			didn't have anything like that
+			when I was at the Academy.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        33.
+
+31   CONTINUED:	(3)
+
+					NOG
+			It's pretty new. It's a way of
+			rewarding excellence among the
+			cadets. I have the grades to
+			qualify, but I need to be
+			sponsored by a high-ranking
+			officer.
+
+					SISKO
+			You want me to put your name in
+			for consideration?
+
+					NOG
+			All I'm asking for is a chance to
+			prove myself.
+
+					SISKO
+			I'm kind of busy right now, Nog...
+				(relenting)
+			But if I get a chance, I'll see
+			what I can do.
+
+					NOG
+			Thank you, sir. This means a lot
+			to me.
+
+					SISKO
+			I can see that.
+				(a beat)
+			Dismissed cadet.
+
+					NOG
+				(with pride)
+			Yes, sir.
+
+32   OMITTED
+
+33   INT. SISKO'S CREOLE KITCHEN - DAY
+
+	Joseph and his staff are setting up the restaurant for
+	dinner when Sisko ENTERS.
+
+					JOSEPH
+			Well, look who's here. Come on in,
+			stranger.
+
+					SISKO
+			Sorry. I know I haven't been
+			around much. Things have gotten
+			a little busy.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE       33A.
+
+33   CONTINUED:
+
+					JOSEPH
+			You want to tell me about it?
+
+					SISKO
+			I'm afraid I can't.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        34.
+
+33   CONTINUED:	(2)
+
+	Joseph's upset that he's not getting much of his son's
+	time, and the fact that Sisko can't tell him what he's
+	been doing only makes things worse.
+
+					JOSEPH
+			You'd think that admiral could
+			spare you for a few hours a day to
+			visit your father. With you in
+			San Francisco and Jake off
+			visiting that school in New
+			Zealand, it's like the two of you
+			aren't even here.
+
+					SISKO
+			You know, Dad, you could come and
+			visit us on the station once in a
+			while.
+
+					JOSEPH
+			Don't start that again. Earth's
+			my home. It's where I belong.
+			Besides, what would happen to the
+			restaurant if I went gallivanting
+			around the galaxy? You think
+			Nathan could handle this place on
+			his own?
+
+					SISKO
+			Nathan'll be running things sooner
+			than you think if you don't take
+			better care of yourself. I just
+			had a talk with your doctor. He
+			says you haven't been to see him
+			in eight months.
+
+					JOSEPH
+			That man's an idiot. He's lived
+			in New Orleans for twenty years
+			and he can't tell the difference
+			between Creole food and Cajun
+			food.
+
+					SISKO
+			Maybe not, but he can tell the
+			difference between a healthy body
+			and one with progressive
+			atherosclerosis. He says if you
+			don't come in for vascular
+			regeneration therapy, this
+			restaurant's going to be looking
+			for a new owner.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        35.
+
+33   CONTINUED:	(3)
+
+					JOSEPH
+			Ben, at my age, staying healthy is
+			a full time job, and I'm too old
+			to work two jobs.
+				(a beat)
+			Now, how long until you're due
+			back at Starfleet Headquarters?
+
+					SISKO
+			I've got about an hour.
+
+					JOSEPH
+			Just enough time to take a walk
+			down to Audubon Park. You up for
+			a stroll with your old, man?
+
+					SISKO
+			Can't think of anything I'd rather do.
+
+	Joseph smiles.
+
+					JOSEPH
+			Nathan, don't forget to stir the
+			gumbo.
+
+	And together father and son EXIT the restaurant.
+
+34   EXT. STARFLEET HEADQUARTERS - DAY
+
+	A seagull flies into our view and lands on the lawn.
+
+35   NEW ANGLE (OPTICAL)
+
+	The sea gull MORPHS into Odo.
+
+					BENTEEN (O.S.)
+			Odo.
+
+	Odo looks around, embarrassed that someone has seen
+	him. He notices Benteen and Leyton, who have just
+	walked up from around a bend in the path.
+
+					BENTEEN
+			That was really something. I've
+			never seen you imitate a lifeform
+			before.
+
+					ODO
+			I was just taking a little aerial
+			tour of San Francisco.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        36.
+
+35   CONTINUED:
+
+					ODO (Cont'd)
+			It's quite nice. Not as ancient
+			as the cities on Bajor but almost
+			as impressive.
+
+					BENTEEN
+				(glancing up at the sky)
+			It makes me wonder how many other
+			changelings might be flying around
+			up there.
+
+					ODO
+			If all they're doing is flying
+			around imitating seagulls, we
+			don't have much to worry about.
+
+					LEYTON
+			I doubt that other Changelings are
+			wasting their time imitating
+			birds. They don't all share Odo's
+			lack of skill when it comes to
+			mimicking humans.
+
+	Odo looks at Leyton for a beat, surprised at his lack
+	of tact.
+
+					ODO
+			That's right, they don't. I'm
+			glad you're keeping that in mind.
+
+					BENTEEN
+				(trying to break the tension)
+			Well, if you ask me, that was a
+			pretty convincing seagull.
+
+					ODO
+			Thank you, but I don't know if the
+			other gulls would agree.
+
+					LEYTON
+			Commander, I think we've taken up
+			enough of Mister Odo's time.
+				(to Odo)
+			Keep practicing. You'll have
+			those birds fooled in no time.
+
+	Leyton starts to walk away. Odo looks slightly
+	troubled, then follows after him.
+
+					ODO
+			Admiral.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        37.
+
+35   CONTINUED:	(2)
+
+	The Admiral turns, a half smile on his lips.
+
+					LEYTON
+			Yes.
+
+					ODO
+			I know Starfleet Command has
+			always been a little uneasy about
+			a changeling working in their
+			midst. I just wanted to say... I
+			appreciate the trust you've shown
+			in me.
+				(holds out his hand)
+			Thank you.
+
+	Leyton pretends not to notice Odo's hand, which is
+	extended for a handshake.
+
+					LEYTON
+			You're welcome.
+
+	Leyton tries to turn away again, but to Leyton and
+	Benteen's surprise, Odo reaches out and grabs Leyton's
+	hand.
+
+36   NEW ANGLE (OPTICAL)
+
+	For a moment both men stare at each other, eyes
+	widening in intensity. Then Odo's hand MORPHS into
+	goo, as does Leyton's.
+
+					LEYTON
+				(slightly mocking)
+			Well done, Odo.
+
+	Leyton concentrates and a wave of Shape-shifter goo
+	pulses down Leyton's arm and washes up Odo, distorting
+	Odo's body and knocking him to the ground.
+
+	Leyton MORPHS into a seagull and flies away.
+
+37   CLOSE ON ODO AND BENTEEN
+
+	As she goes to see if he's all right.
+
+						ODO
+				(struggling to his feet)
+			I'm fine.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        38.
+
+38   INT. SISKO'S TEMPORARY OFFICE - DAY
+
+	Sisko, Odo, Leyton and Benteen are all present.
+	Leyton's just learned of the incident in the gardens,
+	and he's pretty steamed.
+
+					LEYTON
+			How did you know he wasn't me?
+
+					ODO
+				(thinking aloud)
+			I'm not sure exactly. It was as
+			if... I could feel the
+			changeling's hostility toward me.
+
+					SISKO
+			You're the only changeling who's
+			ever harmed one of your own
+			people. I'm sure that hasn't made
+			you many friends.
+
+					LEYTON
+			What I want to know is... why was
+			he imitating me?
+
+					BENTEEN
+			You have access to all our
+			security procedures and all our
+			protocols. That makes you a
+			logical target.
+
+					LEYTON
+			I suppose so.
+
+					BENTEEN
+			The bottom line is... a changeling
+			infiltrated the grounds of
+			Starfleet Headquarters, imitated
+			the admiral, and got away scot-
+			free. Our security measures
+			aren't working.
+
+					SISKO
+			We're doing everything the
+			President will let us do.
+
+					BENTEEN
+			Maybe that's not enough.
+
+	Sisko knows Benteen and Leyton have a point. He thinks
+	about it for a beat.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        39.
+
+38   CONTINUED:
+
+					ODO
+			We could talk to the President
+			again.
+
+					LEYTON
+			I'm afraid that would be a waste
+			of time. Jaresh-Inyo would be a
+			fine president in peacetime. But
+			we've got a war on our hands...
+			and he doesn't seem to understand
+			that. All he cares about is not
+			upsetting people. But humans are
+			tougher than he thinks. We've
+			created a paradise here and we're
+			willing to fight to protect it.
+
+					SISKO
+			And you think the president isn't
+			willing to fight?
+
+					LEYTON
+			I think the president's a long way
+			from home. This isn't his world.
+			We can't expect him to care about
+			it the way we do.
+
+	Just then Sisko's combadge chirps.
+
+					SISKO
+				(to com)
+			Sisko here.
+
+					COM VOICE
+			Your son is trying to contact you.
+			He says it's urgent.
+
+					SISKO
+			Put him through.
+
+	Sisko moves over to his monitor.
+
+39   NEW ANGLE (OPTICAL)
+
+	To include the monitor, which displays Jake talking
+	from the restaurant.
+
+					JAKE
+				(on monitor)
+			Dad, you'd better get down here
+			right away.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT THREE        40.
+
+39   CONTINUED:
+
+					SISKO
+			What's wrong?
+
+					JAKE
+				(on monitor)
+			It's grandpa. He's been arrested.
+
+`And as Sisko reacts to this disturbing news, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR           
+                           ACT FOUR                             
+
+	FADE IN:
+
+40   INT. SISKO'S CREOLE KITCHEN - DAY
+
+	Sisko ENTERS to find two Starfleet Security Officers
+	waiting with Joseph and Jake.
+
+						SISKO
+				(to the officers)
+			What's going on here?
+
+	The HEAD OFFICER looks uncomfortable.
+
+					HEAD OFFICER
+			Captain, we never meant for things
+			to get out of hand.
+
+					JOSEPH
+			What did you think would happen?
+			Storming in here and accusing me
+			and my nephew of being a couple of
+			Shape-shifters.
+
+					HEAD OFFICER
+				(to Joseph)
+			We never accused you of being a
+			Shape-shifter, Mister Sisko.
+				(to Sisko)
+			We were just carrying out our
+			orders.
+				(to Joseph)
+			All family-members of Starfleet
+			personnel are required to submit
+			to blood screenings. No
+			exceptions.
+
+					JOSEPH
+			That is the most ridiculous thing
+			I ever heard.
+				(to Sisko)
+			Do you believe that?
+
+					SISKO
+			I should. I signed the orders
+			myself.
+
+					JOSEPH
+			Now why would you go and do a
+			stupid thing like that?
+
+					SISKO
+			Dad, it has to be done.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         42.
+
+40   CONTINUED:
+
+					JAKE
+				(playing peacemaker)
+			Grandpa, look, I'll take the test
+			first.
+				(to the Security Officer)
+			Go ahead.
+
+	The Security Officer looks to Sisko, who nods. He then
+	uses a hypospray to take a blood sample from Jake (as
+	in "The Adversary"). He removes the vial and sets it
+	on a table. The contents remain red. Sisko steps up
+	to the officer.
+
+					SISKO
+			Now me.
+
+					HEAD OFFICER
+			Sir, that's not necessary.
+
+					SISKO
+			Do it anyway.
+
+	Sisko is tested as well. His blood also stays red.
+
+					SISKO
+				(to Joseph)
+			Your turn.
+
+	But Joseph's not budging.
+
+					JOSEPH
+			Jake, do you think I'm a
+			Shape-shifter?
+
+					JAKE
+			Come on, grandpa.
+
+					JOSEPH
+			Answer the question.
+
+					JAKE
+			No, I don't think you're a
+			Shape-shifter.
+
+					JOSEPH
+			At least someone in my family has
+			some sense.
+
+					SISKO
+			Dad...
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         43.
+
+40   CONTINUED:	(2)
+
+					JOSEPH
+			I don't want to hear it. Now tell
+			these two vampires to either sit
+			down and grab a menu or get out of
+			my restaurant.
+
+	Sisko sees that his father's not about to back down any
+	time soon.
+
+					SISKO
+			Jake, get them a menu.
+
+					HEAD OFFICER
+			But sir...
+
+					SISKO
+				(ending the discussion)
+			I'd try the shrimp Creole.
+
+	The Security Officers sit down. Jake goes to get them a
+	menu.
+
+41   NEW ANGLE
+
+	Joseph Sisko moves over to the open kitchen section of
+	the restaurant. He begins chopping vegetables. Sisko
+	follows him.
+
+					SISKO
+				(trying to be
+				reasonable)
+			Look, Dad...
+
+					JOSEPH
+			Save your breath.
+
+					SISKO
+			Listen to me. You have to take
+			the test.
+
+					JOSEPH
+			Why should I? If I were an enemy
+			spy looking to replace someone, I
+			could think of better choices than
+			an old chef.
+
+					SISKO
+			Yeah, you're probably right. But
+			this isn't just about you. We
+			have civilian family members
+			living on starships and Starfleet
+			installations all over the
+			Federation.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         44.
+
+41   CONTINUED:
+
+					SISKO (Cont'd)
+			The only way to secure those
+			facilities is to test everyone
+			there whether they wear a uniform
+			or not.
+
+					JOSEPH
+			I'm not living on a Starfleet
+			installation.
+
+					SISKO
+			Dad, we can't play favorites. If
+			we're going to test the family of
+			one Starfleet officer, we have to
+			test them all.
+
+	As he speaks, Joseph continues chopping vegetables.
+	But as he becomes more and more impassioned, Joseph
+	concentrates less and less on his work, trusting years
+	of experience to guide his hand.
+
+					JOSEPH
+			You may want to test everyone, but
+			that doesn't mean we all have to
+			cooperate. I didn't swear any
+			oath to Starfleet, and neither did
+			Jake... or your sister... or
+			anyone else in this family. We
+			have rights, Ben... including the
+			right to be as stubborn and 
+			thickheaded as we want.
+
+	Sisko's frustrations and concern about his father's
+	health begin to boil over. And though he does his best
+	to try to control the volume of his voice, there's no
+	keeping the edge out of it.
+
+					SISKO
+			Damn it, Dad. Can't you cooperate
+			just one time? You don't take
+			your medication, you don't go to
+			the doctor, you won't let Judith
+			help you out in the restaurant.
+			Just this once, please do what
+			you're asked.
+
+	Joseph doesn't want to get into a shouting match with
+	his son, but he's clearly not happy either.
+
+					JOSEPH
+			I wish I could. But what you're
+			asking me to do isn't right.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR           
+
+41   CONTINUED:	(2)
+
+					JOSEPH (Cont'd)
+			You can't go around constantly
+			making people prove they are who
+			they say they are. That's no way
+			to live and I won't go along with
+			it.
+				(that's his final word)
+			Now if you want to make yourself
+			useful, start boiling some water
+			for the shrimp.
+
+					SISKO
+				(also trying to stay calm)
+			Dad, don't be this way. If I have
+			to, I'll get a warrant and...
+
+					JOSEPH
+			And what? Hold me down and force
+			me to give you my blood? Because
+			that's the only way--
+
+	Suddenly Joseph flinches.
+
+					JOSEPH
+			Damnit. Now look what I've done.
+
+	Joseph has cut his finger. He throws down the knife in
+	disgust and goes to rinse off the wound with water.
+	Sisko starts to follow him, then stops and looks over
+	at...
+
+42   THE KNIFE
+
+	Which Joseph has left on the counter. There's a small
+	drop of blood on the knife-edge.
+
+					JOSEPH
+			Jake, I've got a dermal
+			regenerator under that...
+
+	Joseph trails off as he realizes that Sisko is looking
+	at the blood on the knife. Sisko looks up at Joseph,
+	conscious of the fact that he's letting his paranoia
+	override his common sense, but unable to overcome it.
+	He looks back at the knife.
+
+	The blood stays red.
+
+43   CLOSE ON JOSEPH
+
+	If he was angry before, he's furious now.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         46.
+
+43   CONTINUED:
+
+					JOSEPH
+			Benjamin Lafayette Sisko. What
+			the hell's gotten into your head?
+			You actually thought I was one of
+			them, didn't you?
+
+	Sisko's pretty shaken up about facing his own paranoia.
+
+					SISKO
+			I don't know. I wasn't sure.
+
+					JOSEPH
+			This business has gotten you so
+			twisted around that you can't
+			think straight. You're seeing
+			Shape-shifters everywhere.
+
+	Sisko can't deny it.
+
+					JOSEPH
+			Maybe you ought to think about
+			something for a minute. If I was
+			a smart Shape-shifter, a really
+			good one, the first thing I'd do
+			would be to grab some poor soul
+			off the street, absorb every ounce
+			of his blood, then let it out on
+			cue whenever someone like you
+			tried to test me.
+
+	Sisko looks up at his father in surprise. That hadn't
+	occurred to him.
+
+					JOSEPH
+			Don't you see? There isn't a test
+			that's been created that a smart
+			man can't find his way around.
+			You aren't going to catch
+			Shape-shifters using some gadget.
+			The only thing you can count on in
+			this life...
+
+	Joseph is suddenly overcome with pain as his own body
+	betrays him. He doubles up in pain, clutching his
+	head.
+
+44   INCLUDE JAKE
+
+	As he reacts to his grandfather's seizure.
+
+					JAKE
+			Grandpa.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         47.
+
+44   CONTINUED:
+
+					JOSEPH
+				(fighting the pain)
+			Ben... I...
+
+	Joseph crumples up and collapses to the floor. Sisko
+	rushes to his side.
+
+45   INT. SISKO'S TEMPORARY OFFICE - DAY
+
+	Sisko is seated at his desk. Odo's across from him.
+	Sisko is in a contemplative mood.
+
+					SISKO
+			The EMT's said he'd be okay. And
+			they were right. Turned out it
+			was just a mild stroke brought on
+			by his atherosclerosis.
+
+					ODO
+			How's Jake handling it?
+
+					SISKO
+			He was pretty upset. He knows as
+			well as I do that if my father
+			doesn't take better care of
+			himself...
+
+					ODO
+			I've found that when it comes to
+			doing what's best for you, you
+			humanoids have a distressing habit
+			of doing the exact opposite.
+
+					SISKO
+			I can't argue with that.
+				(a beat)
+			But what bothers me is... for a
+			few minutes there, I really
+			believed that my own father was a
+			changeling.
+
+					ODO
+			It was a reasonable assumption
+			given the circumstances.
+
+					SISKO
+			I don't care if it was reasonable
+			or not. When a son can't trust
+			his own father...
+
+	Sisko shakes his head and trails off.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         48.
+
+45   CONTINUED:
+
+					ODO
+			That's why my people came here.
+			To undermine the trust and mutual
+			understanding the Federation is
+			built on.
+
+					SISKO
+			What if my father's right? What
+			if all our precautions turn out to
+			be useless?
+
+					ODO
+			Maybe they will. But that doesn't
+			mean you should give up. My
+			people are here and you have to
+			fight them with whatever you've
+			got.
+
+	There's a beat as Sisko considers his situation.
+
+					SISKO
+			I hope you won't take this the
+			wrong way, Constable, but there
+			are times I wish you'd never found
+			your people.
+
+	Odo thinks about Sisko's statement for a beat.
+
+					ODO
+			Believe me, Captain, sometimes I
+			feel the same way.
+
+46   INT. SISKO'S CREOLE KITCHEN - NIGHT
+
+	Joseph is hard at work running the restaurant. It's
+	just before peak dinner hour, but there are a fair
+	number of people in the room. Jake is sitting at a
+	table set for two.
+
+					JAKE
+			Grandpa, would you please sit
+			down.
+
+	Joseph walks by a table of customers.
+
+					JOSEPH
+				(to the customers)
+		Your food'll be right out.
+
+	And then to Jake's surprise, Joseph takes a seat.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         49.
+
+46   CONTINUED:
+
+					JOSEPH
+			What's that look supposed to mean?
+
+					JAKE
+				(surprised)
+			You sat down.
+
+					JOSEPH
+			You're damn right I sat down. I
+			feel terrible.
+
+					JAKE
+			You should be in bed.
+
+					JOSEPH
+			Jake, the only time you should be
+			in bed is when you're sleeping,
+			dying, or making love to a
+			beautiful woman. I'm not tired,
+			I'm not dying, and the truth is,
+			I'm too old for beautiful women,
+			so I might as well be here.
+				(a beat)
+			Your father's the one you should
+			be worried about.
+
+					JAKE
+			Dad? Why?
+
+					JOSEPH
+			I've never seen him so tense.
+			It's like he's carrying the weight
+			of the world on his shoulders.
+
+					JAKE
+				(simply)
+			He is.
+
+					JOSEPH
+				(after a beat)
+			I suppose he is at that.
+
+	Just then...
+
+47   NEW ANGLE
+
+	The lights in the restaurant dim until they're barely
+	on at all, then flicker and die.
+
+					JOSEPH
+			What happened?
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         50.
+
+47   CONTINUED:
+
+	Jake goes to the window to see what's happening.
+	Joseph tries to calm the crowd, with is murmuring
+	discontentedly.
+
+48   CLOSE ON JAKE
+
+	As he looks out the window.
+
+					JAKE
+			The whole block's dark.
+
+49   INT. SISKO'S TEMPORARY OFFICE - NIGHT
+
+	Sisko's office is also dark. He's working on prying
+	open his automatic door. Sisko pulls at the door
+	again, and it opens a little. Hands reach in from the
+	other side and help him finish the job.
+
+	The door opens to reveal Odo and Leyton on the other
+	side.
+
+					ODO
+			You all right?
+
+					SISKO
+			I'm fine.
+				(to Leyton)
+			Admiral, what's going on?
+
+					LEYTON
+			From what we can tell, Earth's
+			entire power relay system's been
+			knocked off-line. Even
+			Starfleet's emergency backups
+			have been affected.
+
+					SISKO
+			How could that happen?
+
+					LEYTON
+			We don't know for certain. But,
+			if you ask me, there's only one
+			possible explanation...
+
+					ODO
+			Sabotage.
+
+	This is Sisko's worst fears realized.
+
+					SISKO
+				(voicing everyone's
+				suspicions)
+			The changelings.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FOUR         51.
+
+49   CONTINUED:
+
+					ODO
+			Take down the power relays, and
+			you neutralize sensors,
+			transporters, surface-based
+			defense installations.
+
+					SISKO
+			In other words, Earth's
+			defenseless.
+
+					LEYTON
+				(nodding)
+			If the Dominion attacks now, we
+			don't stand a chance.
+
+	And as Sisko, Odo and Leyton react to this grim
+	situation, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE         52.
+                           ACT FIVE                             
+
+	FADE IN:
+
+50   INT. PRESIDENT'S OFFICE - MORNING (OPTICAL) 
+
+	Power is out here as well. The President is talking to
+	one of his advisors.
+
+					JARESH-INYO
+			I'm not interested in excuses. We
+			need to get the power relay system
+			functioning again.
+
+	Just then, Sisko, Odo, Leyton and two Security Officers
+	MATERIALIZE in the President's office.
+
+					LEYTON
+			Mister President.
+
+					JARESH-INYO
+			How did you gentlemen get here?
+
+					SISKO
+			We contacted the Lakota and used
+			their transporters.
+				(getting to business)
+			Sir, as acting head of Earth
+			Security, I must advise you to
+			declare a State of Emergency.
+
+					JARESH-INYO
+			You're serious?
+				(sees he is)
+			With the exception of the Borg
+			incident, there hasn't been a
+			State of Emergency declared on
+			Earth in a century.
+
+					SISKO
+			I'm aware of that. But I have
+			reason to believe a Dominion
+			warfleet may be in the Alpha
+			Quadrant headed for Earth.
+
+					JARESH-INYO
+			Do you have evidence to back that
+			up?
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE           
+
+50   CONTINUED:
+
+					SISKO
+				(nods)
+			Just before we left Deep Space
+			Nine, the wormhole was exhibiting
+			some unusual behavior... opening
+			and closing for no apparent
+			reason.
+
+					ODO
+			We didn't detect any ships coming
+			through at the time. But the
+			Dominion may have been using some
+			kind of cloaking technology.
+
+					JARESH-INYO
+			I wasn't aware the Dominion had
+			cloaking technology.
+
+					ODO
+			The combined Cardassian and
+			Romulan fleet that the Dominion
+			destroyed in the Gamma Quadrant
+			was equipped with cloaking
+			devices. Who knows what my people
+			could've taken from the wreckage?
+
+					JARESH-INYO
+			How long until we get the power
+			relays working again?
+
+					LEYTON
+			From what we can tell, the
+			changelings infected the system
+			with some kind of self-replicating
+			computer protocal. It jumped from
+			one power relay to the next,
+			disrupting every system it came in
+			contact with.
+
+					ODO
+			The only way to correct the
+			problem is to shut down the entire
+			grid, purge all the operating
+			systems, and restart the relays.
+
+					LEYTON
+			And that could take days.
+
+					SISKO
+			Which is why it's imperative that
+			you declare a State of Emergency.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/951- ACT FIVE        53A.
+
+50   CONTINUED:	(2)
+
+					JARESH-INYO
+			What good will that do when we
+			have no way to defend ourselves?
+
+					LEYTON
+				(confident)
+			Mister President, we can use the
+			Lakota's transporters and
+			communications system to mobilize
+			every Starfleet officer on Earth
+			in less than twelve hours.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE         54.
+
+50   CONTINUED:	(3)
+
+	This is a surprise to the President, who had no idea
+	Starfleet had such capabilities.
+
+					LEYTON
+			We've been preparing for something
+			like this for a long time. We
+			have stockpiles of phaser rifles,
+			personal forcefields, photon
+			grenades, enough to equip an
+			entire army. I can start placing
+			troops in the streets immediately.
+
+					JARESH-INYO
+			What you're asking me to do is
+			declare martial law.
+
+					LEYTON
+			What I'm asking you to do is let
+			us defend this planet. We don't
+			know what the changelings will do
+			next, but we have to be ready for
+			them.
+
+	Leyton can see he's not reaching the President. He
+	turns to Sisko.
+
+					LEYTON
+			Tell him, Ben.
+
+	Turning Earth into an armed camp doesn't appeal to
+	Sisko but the alternatives don't seem any better.
+
+					SISKO
+				(to the President)
+			Sir, the thought of filling the
+			streets with armed troops is as
+			disturbing to me as it is to you.
+			But not as disturbing as the
+			thought of a Jem'Hadar army
+			landing on Earth without
+			opposition. The Jem'Hadar are the
+			most brutal and efficient soldiers
+			I've ever encountered. They don't
+			care about conventions of war, or
+			protecting civilians. They won't
+			limit themselves to military
+			targets. They'll be waging the
+			kind of war that Earth hasn't seen
+			since the founding of the Federation.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE        54A.
+
+50   CONTINUED:	(4)
+
+					ODO
+			At the same time, my people will
+			continue to undermine Earth's
+			defenses in any way they can. The
+			power outage is only the
+			beginning.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE         55.
+
+50   CONTINUED:	(5)
+
+	The President sits down in his chair, crushed under the
+	weight of his responsibility.
+
+					JARESH-INYO
+			I never sought this job. I was
+			content to simply represent my
+			people on the Federation Council.
+			When they asked me to submit my
+			name for election, I almost said
+			no. Today I wish I had.
+
+	Leyton's getting impatient.
+
+					LEYTON
+			We appreciate your feelings,
+			Mister President, but we don't
+			have time for regrets. You
+			accepted the job and now it's
+			yours.
+
+	But Odo's also a man who's shouldered responsibilities
+	he didn't ask for. He knows what the President's going
+	through.
+
+					ODO
+			Mister President, there are people
+			all over this planet right now
+			huddled in the dark, terrified
+			about what might happen next.
+			They're waiting for a sign...
+			something to reassure them that
+			everything's going to be all
+			right. But they won't wait long.
+			Fear is a powerful and dangerous
+			thing. And if you don't act, if
+			you don't show them that they're
+			not alone, then fear will surely
+			take over.
+
+	There's a long beat, then the President looks up at
+	Sisko.
+
+					SISKO
+			Just give us the authority we
+			need, Mister President. We'll
+			take care of the rest.
+
+	Jaresh-Inyo looks at Sisko for a beat, then picks up a
+	PADD and taps in his personal authorization code, and
+	hands the PADD to Sisko.
+
+					JARESH-INYO
+			Earth is in your hands, gentlemen.
+			Do what needs to be done.
+
+         DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE         56.
+
+50   CONTINUED:	(6)
+
+	Sisko hands the PADD to Leyton.
+
+					LEYTON
+			Thank you, sir. You've made the
+			right decision.
+
+					JARESH-INYO
+			I hope you're right... for all our
+			sakes.
+
+51   INT. SISKO'S CREOLE KITCHEN - DAWN 
+
+	Jake has put candles out all over the restaurant for
+	light. Joseph is asleep in a booth, a tablecloth
+	wrapped around him as an impromptu blanket. Jake hears
+	a noise coming from outside the restaurant. He goes
+	and peeks out of the curtained windows. He looks both
+	surprised and disturbed by what he sees. He goes to
+	wake his grandfather.
+
+					JAKE
+			Grandpa, wake up.
+
+	Joseph opens his eyes.
+
+					JOSEPH
+			I wasn't sleeping. I was just
+			checking my eyelids for holes.
+
+	But Jake's not in a joking mood.
+
+					JAKE
+			You'd better come take a look at
+			this.
+
+	Joseph can tell that whatever Jake has seen, it's
+	serious. He gets up and goes to the window.
+
+					JOSEPH
+			Take a look at what?
+
+	Jake gestures to the window and Joseph looks outside.
+
+52   NEW ANGLE - JOSEPH'S P.O.V. (OPTICAL) 
+
+	Outside the window, in the early light of dawn, a group
+	of StarfIeet officers take up positions in the street,
+	looking grim and carrying phaser rifles.
+
+	As Joseph and Jake watch, another group of soldiers
+	beam in in the middle of the street. Earth is
+	preparing for war.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE           
+
+53   CLOSE ON JAKE AND JOSEPH
+
+	As they exchange a look, then...
+
+									FADE OUT.
+
+	SUPER:	TO BE CONTINUED
+                           END OF ACT FIVE                             
+                             THE END                               ke his grandfather.
+
+					JAKE
+			Grandpa, wake up.
+
+	Joseph opens his eyes.
+
+					JOSEPH
+			I wasn't sleeping. I was just
+			checking my eyelids for holes.
+
+	But Jake's not in a joking mood.
+
+					JAKE
+			You'd better come take a look at
+			this.
+
+	Joseph can tell that whatever Jake has seen, it's
+	serious. He gets up and goes to the window.
+
+					JOSEPH
+			Take a look at what?
+
+	Jake gestures to the window and Joseph looks outside.
+
+52   NEW ANGLE - JOSEPH'S P.O.V. (OPTICAL) 
+
+	Outside the window, in the early light of dawn, a group
+	of StarfIeet officers take up positions in the street,
+	looking grim and carrying phaser rifles.
+
+	As Joseph and Jake watch, another group of soldiers
+	beam in in the middle of the street. Earth is
+	preparing for war.
+
+          DEEP SPACE NINE: "Homefront" - 11/04/95 - ACT FIVE           
+
+53   CLOSE ON JAKE AND JOSEPH
+
+	As they exchange a look, then...
+
+									FADE OUT.
+
+	SUPER:	TO BE CONTINUED
+                           END OF ACT FIVE                             
+                             THE END                               

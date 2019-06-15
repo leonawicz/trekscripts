@@ -1,0 +1,3209 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                  "The Changing Face of Evil" 
+                          #40510-570 
+                              
+                          Written by 
+               Hans Beimler and Ira Steven Behr 
+                              
+                          Directed by 
+                          Mike Vejar 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1999 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        February 3, 1999
+
+    STAR TREK: DS9   "The Changing Face... " - 02/03/99    
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "The Changing of Evil" 
+                             CAST 
+
+          SISKO                    WEYOUN
+          KIRA                     DAMAR
+          BASHIR                   FEMALE SHAPE-SHIFTER
+          O'BRIEN                  WINN
+          WORF                     DUKAT
+          EZRI                     SOLBOR
+          QUARK                    KASIDY
+          ODO                      MARTOK
+
+          COMPUTER VOICE           NOG
+                                   ROSS
+                                   RUSOT
+                                   THOT GOR
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK: DS9 - "The Changing Face... " - 02/04/99     SETS       
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "The Changing Face of Evil" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 SPACE
+          CAPTAIN'S OFFICE              DEEP SPACE NINE
+          AIRLOCK CORRIDOR              BAJOR
+          CORRIDOR                      CARDASSIA PRIME
+          INFIRMARY                     
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          SISKO'S QUARTERS              
+          SECURITY OFFICE               
+
+        DOMINION HEADQUARTERS         
+          DAMAR'S QUARTERS              
+
+        JEM'HADAR SHIP                
+          BRIDGE                        
+
+        BAJOR                         
+          KAI WINN'S OFFICE             
+
+        DEFIANT                       
+          BRIDGE                        
+
+  DS9 - "The Changing... " - 02/03/99 - PRONUNCIATION GUIDE
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "The Changing Face of Evil" 
+                      PRONUNCIATION GUIDE 
+
+          ANJOHL                   ahhn-JOLL (rhymes with roll)
+          CHINITOKA                chin-TAW-ka
+
+          RANJEN                   RAHN-jen
+          TENNAN                   ten-ARN
+          THOT GOR                 THOUGHT GORE (like the V.P.)
+          RONDAC                   RON-dak
+          KOSST AMOJAN             KOST ah-MOH-john
+          BATAL                    buh-TAHL
+
+     DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - TEASER     1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                     "The Changing Face of Evil"                       
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. AIRLOCK CORRIDOR
+
+	CAPTAIN SISKO, O'BRIEN and BASHIR are waiting by 
+	the airlock door, which OPENS to REVEAL WORF and 
+	EZRI, dressed as they were while held captive by the 
+	Dominion in "Eclipse." Sisko is all business, 
+	anxious to debrief his officers. But at the same
+	time, he can't help but smile in relief that his 
+	friends have returned safely. VARIOUS AD HOC 
+	greetings from all ("Ezri!" "Worf!" "Welcome 
+	back." "Good to see you!" etc.)
+
+					O'BRIEN 
+			I just want to say, I never 
+			doubted for a second that you'd 
+			be back.
+
+					BASHIR 
+			Neither did I.
+
+					O'BRIEN
+				(to Ezri and Worf,
+				re: Bashir)
+			Don't believe him. He was Mister
+			Doom and Gloom the entire time
+			you were away.
+
+					BASHIR 
+			Maybe I was a little concerned.
+
+	This makes both Ezri and Worf a little 
+	uncomfortable; neither one is prepared to deal with 
+	Julian's feelings.
+
+					O'BRIEN 
+			We were all concerned. Your well-
+			being was a constant source of 
+			conversation and speculation.
+
+
+					EZRI
+				(to Worf) 
+			You see, I told you they'd miss 
+			us. So who won the betting pool?
+
+     DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - TEASER    1A.
+
+1    CONTINUED:
+
+					BASHIR 
+			Morn. He guessed the exact day 
+			when you'd be back and only 
+			missed your arrival time by two 
+			hours.
+
+					O'BRIEN 
+			He's amazing.
+
+					BASHIR 
+			I don't know how he does it.
+
+	Ezri looks to Captain Sisko.
+
+					EZRI 
+			I know what you're going to say 
+			and the answer is yes, I left the 
+			station without your permission, 
+			and yes, I lost a runabout, but I 
+			did rescue Worf from the 
+			Dominion... well, maybe rescue 
+			isn't the right term... but I did 
+			find him...
+
+					SISKO
+				(cutting her off) 
+			We'll evaluate your actions 
+			later, old man. Right now --
+
+	Sisko leads the group down the corridor.
+
+					SISKO
+			-- I want you to tell me 
+			everything you've learned about 
+			this Dominion-Breen Alliance.
+
+					WORF 
+			I'm afraid we have very little 
+			information to share, captain.
+
+					EZRI 
+			Weyoun and the others were more 
+			interested in asking questions 
+			than answering them.
+
+     DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - TEASER     2.
+
+1    CONTINUED:	(2)
+
+					SISKO
+			What about Damar? Why do you 
+			think he helped you escape?
+
+					EZRI 
+			I'm not sure, but I'll tell you 
+			one thing -- he hates Weyoun.
+
+					WORF 
+			The Cardassians are a proud 
+			people. But the Dominion treats 
+			them as second-class citizens.
+
+					EZRI 
+			I think Damar's worried that this 
+			new alliance with the Breen is 
+			going to weaken Cardassia's 
+			status with the Dominion even 
+			more. But whatever his reasons, 
+			we owe him our lives.
+
+					SISKO
+			Who knows, maybe someday you can 
+			return the favor.
+				(to Bashir, re: Ezri 
+				and Worf) 
+			I want you to run a complete 
+			medical workup on both of them.
+
+					BASHIR 
+			Yes, sir.
+				(to Ezri) 
+			I can't tell you how good it is 
+			to see you again.
+				(then to Worf) 
+			The both of you...
+
+	Worf looks curiously at Ezri, wondering how she's 
+	going to handle things. Ezri's not so sure herself. 
+	But before either one has a chance to respond --
+
+     DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - TEASER     3.
+
+1    CONTINUED:	(3)
+
+					KIRA'S COM VOICE 
+			Kira to Sisko.
+
+					SISKO
+			Go ahead.
+
+					KIRA'S COM VOICE 
+			We just received a priority-one 
+			transmission from Starfleet 
+			Command. The Breen have attacked 
+			Earth.
+
+	And as Sisko and the others absorb this latest blow --
+
+2    OMITTED
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+  DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE     4   
+                            ACT ONE                             
+
+	FADE IN: 
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL)
+
+	of a badly battered Starfleet Headquarters with the 
+	Golden Gate Bridge partially submerged in the 
+	background.
+
+					SISKO (O.S.)
+			I had a lot of friends in those 
+			buildings.
+
+4    WIDER
+
+	to include Sisko and MARTOK, studying the image on 
+	the monitor.
+
+					SISKO
+			Starfleet was able to destroy 
+			most of the Breen attack force, 
+			but by then the damage had been 
+			done.
+
+	Martok shakes his head in admiration.
+
+					MARTOK 
+			We must give the enemy credit. 
+			To launch an attack against 
+			Starfleet Headquarters. Even my 
+			people never attempted that. 
+			We've learned one thing about the 
+			Breen today, captain. They're a 
+			race of warriors.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE     5.
+
+4    CONTINUED:
+
+					SISKO
+			And that's about all we know.
+			Our intelligence reports are 
+			sketchy at best.
+
+					MARTOK 
+			Captain -- every species has its 
+			weakness. They're no exception.
+
+					SISKO
+			Let's hope you're right. But 
+			whatever their weakness is... 
+			we'd better find it soon.
+
+	And as they look back at the damage inflicted on San
+	Francisco, we --
+
+5    EXT. CARDASSIA PRIME - DAY (OPTICAL) (STOCK)
+
+	Establishing.
+
+6    INT. DOMINION HEADQUARTERS - DAY
+
+	WEYOUN and the Breen commander, THOT GOR, are 
+	looking at an intelligence readout on a monitor. 
+	Weyoun can barely contain his enthusiasm. A few 
+	feet away, DAMAR is at another monitor.
+
+					WEYOUN
+				(pointing at the
+				readout)
+			There. Do you see that? The
+			news from Earth keeps getting
+			better. The Federation casualty
+			reports are being revised upward
+			once again.
+
+	The Breen issues some STATIC in response.
+
+					WEYOUN 
+			Well put. The casualties are 
+			merely a bonus. What matters is 
+			that we've struck fear into the 
+			hearts of our enemy and left them 
+			feeling weak and vulnerable.
+				(very satisfied, to
+				Thot Gor)
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE     6.
+
+6    CONTINUED:
+
+					WEYOUN (Cont'd)
+			General, please congratulate your
+			troops for us. They've done a
+			superb job. Don't you agree,
+			Damar?
+
+					DAMAR
+				(dry) 
+			Superb.
+
+	The Breen STATICS at Damar.
+
+					DAMAR 
+			It's just unfortunate that so few 
+			of your ships survived the 
+			assault.
+
+					WEYOUN 
+			Leave it to you, Damar, to point 
+			out the one cloud in the sky.
+
+	More STATIC from Thot Gor.
+
+					WEYOUN 
+			My thoughts exactly. It's a very
+			small price for such an important 
+			victory.
+				(rubbing his hands) 
+			Now, if you'll excuse me, I must 
+			make my report to the Founder.
+
+	And with that, Weyoun EXITS.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE     7.
+
+6    CONTINUED:	(2)
+
+					DAMAR
+				(to Thot Gor) 
+			By the way, in case Weyoun has 
+			neglected to mention it... the 
+			Dominion once sang Cardassia's 
+			praises as well.
+
+	More STATIC.
+
+					DAMAR 
+			It's really quite simple... they 
+			expected the war to be over long 
+			ago. It's not. And for that, 
+			they blame us.
+				(a warning) 
+			Now, if the war doesn't end soon, 
+			they'll shift the blame to you.
+
+	Breen STATIC.
+
+					DAMAR
+				(all innocent) 
+			Maybe so, but win or lose, I 
+			wouldn't turn my back on Weyoun 
+			if I were you.
+
+	And with that, Damar EXITS. We HOLD on the BREEN 
+	watching him go.
+
+7    OMITTED
+
+8    INT. DAMAR'S QUARTERS (VPB)
+
+
+	Damar is intently studying Dominion troop positions 
+	on a monitor when the door CHIMES. Damar turns off 
+	the monitor before answering --
+
+					DAMAR 
+			Enter.
+
+	The door OPENS and in comes
+
+9    GUL RUSOT
+
+	a competent officer possessing a healthy amount of 
+	gruff Cardassian arrogance. But at the moment, he's 
+	looking a bit tense. Rusot is holding a PADD, which 
+	he hands to Damar.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE     8.
+
+9    CONTINUED:
+
+					RUSOT
+				(re: the PADD) 
+			The information you requested.
+
+					DAMAR 
+			Excellent. Have a seat.
+
+					RUSOT 
+			I'm not sure it's wise for me to 
+			stay. What if the Vorta decides 
+			to pay you a visit?
+
+					DAMAR
+			And what if he does? He'll find 
+			me in conference with one of my 
+			officers. There's nothing 
+			suspicious about that.
+
+	But Damar can see that Rusot is still tense. Rusot 
+	crosses over to the table and pours himself a glass 
+	of kanar.
+
+					RUSOT 
+			It doesn't seem right... all this 
+			plotting and secrecy. What are 
+			we? Romulans?
+
+	Rusot hold up the bottle, but Damar refuses with a 
+	shake of his head.
+
+					DAMAR 
+			No, we're Cardassians. But right 
+			now, Cardassia is an occupied 
+			territory. And to defeat an 
+			occupying army takes careful 
+			planning and secrecy.
+
+					RUSOT 
+			Can we really hope to defeat the 
+			Dominion? With the Breen on 
+			their side, they're stronger than 
+			ever.
+
+	Damar steps over to Rusot and gently puts his arm on 
+	his shoulder, reassuringly.
+
+					DAMAR 
+			But we'll be fighting to win back 
+			our homes and our freedom. That 
+			will make us even stronger.
+
+	Damar and Rusot stare at each other for a moment; 
+	Damar practically willing his confidence onto Rusot. 
+	After a beat, Rusot nods.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE     9.
+
+9    CONTINUED:	(2)
+
+					RUSOT 
+			I remember the day I heard the 
+			news that Cardassia had joined 
+			the Dominion...
+				(taking a swig) 
+			Like everyone else, I rejoiced. 
+			We were going to be rulers of the 
+			Alpha Quadrant.
+				(taking another swig) 
+			Instead, we're a conquered 
+			people... servants in our own land.
+
+					DAMAR 
+			All that is about to change.
+				(glancing at the PADD) 
+			Now you're sure we can trust 
+			these officers?
+
+					RUSOT
+				(nodding) 
+			And the troops under their 
+			command. Still, it's not a very 
+			long list, is it?
+
+					DAMAR
+				(unfazed) 
+			It'll get longer. A victory or 
+			two and all of Cardassia will 
+			rise up with us.
+
+	Rusot wants to believe this very much.
+
+					RUSOT 
+			We'll need to know the exact 
+			location of the Dominion weapon 
+			emplacements on Rondac Three.
+
+					DAMAR 
+			Leave that to me. Now, I want 
+			you to send a message to every 
+			officer on this list...
+
+	And as the wheels of revolt begin to turn --
+
+10   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+11   INT. CORRIDOR
+
+	A burdened Sisko walks down the hallway and 
+	disappears into --
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    10.
+
+12   INT. SISKO'S QUARTERS
+
+	where he's met by a CLOUD OF SMOKE and an unhappy 
+	KASIDY YATES-SISKO, wearing an apron and standing 
+	over Sisko's STOVE. Various pots and pans contain 
+	the ruins of a burnt meal.
+
+					SISKO
+			Kas -- what happened?
+
+					KASIDY 
+			That's what I'm trying to figure
+			out.
+
+
+	Sisko steps in and quickly turns off the stove, 
+	frantically removing the smoking pots and pans. 
+	Once he has the situation under control --
+
+					SISKO
+			What're you doing? You don't 
+			cook!
+
+					KASIDY
+			I know...
+				(more to herself) 
+			I was just making sure.
+
+	Sisko nods; this is the last thing he needed. On 
+	one hand, he knows that in the greater scheme of 
+	things, a ruined pan is nothing to get upset 
+	about... nonetheless, he's not a happy man. And his 
+	mood sours further as a burnt, blackened mess in one 
+	of the pans catches his eye --
+
+					SISKO
+			My peppers?
+
+	Sisko picks up the remnants of a fresh pepper from 
+	out of the pan.
+
+					KASIDY 
+			I know how much you like roasted 
+			peppers in your casserole.
+
+					SISKO
+				(he can't believe it) 
+			It took me three months to grow 
+			them.
+
+	But Sisko is actually more bewildered than angry.
+
+					SISKO
+				(still can't believe 
+				it) 
+			No one touches my peppers.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    11.
+
+12   CONTINUED:
+
+	Sisko steps away and slumps on the couch.
+
+					KASIDY 
+			I'm so sorry.
+
+	Kasidy takes off her apron and sits down next to 
+	him, holding it in her hands.
+
+					KASIDY 
+			With all the bad news about 
+			Earth... I just wanted to do 
+			something nice for you.
+				(handing him the 
+				apron) 
+			But from now on, you wear the 
+			apron in the family.
+
+					SISKO
+			Good idea.
+
+					KASIDY 
+			I'm glad you're not mad. I'd 
+			hate anything to ruin our last 
+			few nights together.
+
+					SISKO
+			Last few nights?
+
+					KASIDY
+				(reminding him) 
+			My cargo run. I'm leaving early
+			next week.
+
+					SISKO
+			You're not going anywhere. It's 
+			too dangerous.
+
+					KASIDY 
+			Ben -- the Breen attacked Earth. 
+			That's not exactly next door.
+
+					SISKO
+			We don't know where they're going 
+			to strike next. I'd feel better 
+			having you close by.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    12.
+
+12   CONTINUED:	(2)
+
+					KASIDY 
+			That's sweet. But I'm going 
+			anyway.
+
+					SISKO
+			I can't talk you out of it?
+
+					KASIDY 
+			Not a chance.
+
+	They share a smile.
+
+					SISKO
+			C'mon -- help me clean out those 
+			pots.
+
+					KASIDY 
+			Can't we just replicate new ones?
+
+					SISKO
+			You really don't know anything 
+			about cooking, do you?
+
+	And off her sheepish grin, we go to --
+
+13   EXT. BAJOR - DAY (OPTICAL) (STOCK)
+
+	Establishing.
+
+14   INT. KAI WINN'S OFFICE
+
+	Where the KAI is at her desk, going over her 
+	schedule with RANJEN SOLBOR.
+
+					SOLBOR 
+			-- regarding your scheduled 
+			retreat to the Calash monastery.
+
+					WINN 
+			Cancel it.
+
+					SOLBOR
+				(making a notation) 
+			Very well. Now, about your 
+			appearance before the Vedek 
+			Assembly.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    13.
+
+14   CONTINUED:
+
+					WINN 
+			Cancel that, too.
+
+
+	This takes Solbor by surprise.
+
+					SOLBOR 
+			Cancel an appearance before the 
+			Vedek Assembly?
+
+					WINN 
+			Just do it. Cancel everything.
+
+					SOLBOR 
+			As you wish. May I ask what 
+			exactly you will be doing?
+
+					WINN 
+			You certainly may not.
+				(controlling her 
+				temper) 
+			But if you must know, I'll be 
+			devoting most of my time to study 
+			and meditation.
+
+	Just then the door opens to reveal --
+
+15   DUKAT
+
+	ENTERING as if he owned the place. Solbor looks at 
+	Dukat with thinly concealed disdain.
+
+					SOLBOR
+				(to Winn) 
+			I see.
+
+					DUKAT
+			Solbor, I'll have my breakfast in 
+			here this morning.
+				(to Winn) 
+			Eminence, would you care for 
+			anything?
+
+					WINN 
+			I'm not hungry.
+
+					DUKAT 
+			But you should eat. After all, 
+			Bajor is only as strong as its 
+			Kai --
+
+					WINN
+				(cutting him off)
+			I said I wasn't hungry.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    14.
+
+15   CONTINUED:
+
+	Winn can see Solbor's distress and crosses over to 
+	him.
+
+					WINN 
+			Do as he asks. And please, write 
+			a note to the Vedeks, expressing 
+			my sincere apologies for having 
+			to postpone our meeting.
+
+					SOLBOR
+				(pleased by her
+				concern)
+			I'll see to it immediately.
+
+	Solbor EXITS. Dukat watches him go.
+
+					DUKAT
+				(re: Solbor) 
+			What a tiresome little man.
+
+					WINN 
+			Sometimes, I think you forget 
+			your place, Anjohl.
+
+	Immediately, Dukat becomes solicitous.
+
+					DUKAT 
+			Forgive me if I've offended you 
+			in any way. I am but a moon made 
+			warm by the light of your sun.
+
+					WINN 
+			I hope you're a better farmer 
+			than you are a poet.
+
+	Winn crosses over to the window, Dukat follows in 
+	her wake.
+
+					DUKAT 
+			Something's wrong... tell me 
+			what's bothering you?
+
+					WINN 
+			Everything! The prayers... the 
+			rituals... these robes -- I can't 
+			keep pretending I follow the path 
+			of the Prophets any longer!
+
+					DUKAT 
+			You won't have to. The Pah-
+			wraiths are waiting to embrace 
+			you.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    15.
+
+15   CONTINUED:	(2)
+
+					WINN 
+			So you keep saying -- but when is 
+			it going to happen?
+
+					DUKAT 
+			As soon as we release them from 
+			the fire caves.
+
+	The thought of releasing the Pah-wraiths takes Winn 
+	aback.
+
+					WINN 
+			Release them? But... the 
+			prophecies...
+
+					DUKAT 
+			What about them?
+
+					WINN 
+			They warn that the release of the 
+			Pah-wraiths will mean the end of 
+			Bajor.
+
+					DUKAT 
+			The old Bajor, perhaps. But a 
+			new Bajor will arise from its 
+			ashes and the Restoration will 
+			begin.
+
+					WINN 
+			And who will be left to see it?
+
+					DUKAT 
+			Those that the gods find worthy. 
+				(moving closer to her) 
+			It will be the dawn of paradise. 
+			And you... you are destined to 
+			rule it.
+
+	This clearly appeals to the Kai.
+
+					WINN 
+			You're sure of this?
+
+					DUKAT 
+			It is meant to be.
+
+					WINN 
+			And what will become of you?
+
+					DUKAT 
+			I will be by your side for as 
+			ong as you need me. But first, 
+			we have to release the Pah-
+			wraiths...
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT ONE    16.
+
+15   CONTINUED:	(3)
+
+					WINN
+			And how do we do that?
+
+					DUKAT 
+			The answer is in the text of the 
+			Kosst Amojan.
+
+
+	This comes as a surprise to the Kai.
+
+					WINN 
+			But it is forbidden for anyone to 
+			open that book.
+
+					DUKAT 
+			Anyone except the Kai.
+
+					WINN
+				(still hesitant) 
+			It is said to contain great 
+			evil...
+
+					DUKAT 
+			You have nothing to fear. I'll 
+			be right there with you.
+
+	The moment hangs in the air, and then the Kai nods 
+	to herself.
+
+					WINN
+			Did I say I was afraid?
+
+
+	And with that, Dukat wraps his arms around her in a 
+	warm embrace. And on that image, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    17.
+                            ACT TWO                             
+
+	FADE IN:
+
+16   INT. QUARK'S
+
+	CLOSE ON a scale model of the Alamo compound, which 
+	sits on a table. Suddenly a hand reaches in and 
+	points to the wooden palisade next to the chapel.
+
+					BASHIR (O.S.) 
+			Right here. The wooden palisade 
+			on the south wall...
+
+	WIDEN to reveal --
+
+16A  BASHIR AND O'BRIEN
+
+	hunkered over the model, studying it carefully.
+
+					BASHIR 
+			If we could make that part of the 
+			compound less vulnerable...
+
+					O'BRIEN 
+			What are you talking about, 
+			Julian? It wasn't the south wall 
+			that was a problem. 
+				(pointing) 
+			They came over the north wall. 
+			By Travis's position.
+
+					BASHIR 
+			I know where they came over, 
+			Miles -- I'm Travis, remember? I 
+			say we strengthen the south wall, 
+			the north wall, and anything else 
+			that'll help keep the enemy out.
+
+					O'BRIEN 
+			But if we do that, it wouldn't be 
+			the battle of the Alamo, now 
+			would it?
+
+					BASHIR 
+			I don't care. I just want to win 
+			-- just once.
+
+					O'BRIEN 
+			Then be Santa Anna. He wins 
+			every time.
+
+	Bashir ignores the suggestion.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    18.
+
+16A  CONTINUED:
+
+					BASHIR 
+			Maybe if we put more cannon in
+			the long barracks...
+
+	QUARK approaches and tries to set two drinks in the 
+	courtyard of the Alamo. O'Brien immediately 
+	snatches up the glass and sets it on another table.
+
+					O'BRIEN 
+			What are you doing? Do you know 
+			how long it took me to build this 
+			thing?
+
+					QUARK 
+			I don't believe the two of you. 
+			Your homeworld has been attacked. 
+			The Breen have joined forces with 
+			the Dominion. And you sit there 
+			calmly playing games.
+
+					BASHIR 
+			Haven't you ever heard of grace 
+			under pressure?
+
+					QUARK 
+			But shouldn't you be doing 
+			something more productive?
+
+					O'BRIEN 
+			I just spent fourteen hours 
+			recalibrating the station's weapons 
+			array.
+
+					BASHIR 
+			And I just finished a complete 
+			run-through of the emergency 
+			support team protocols.
+
+	But this only serves to confirm Quark's worst fears.
+
+					QUARK 
+			Then you do expect an attack on 
+			the station?
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    19.
+
+16A  CONTINUED:	(2)
+
+					BASHIR 
+			Anything's possible.
+				(to O'Brien, re: the
+				model)
+			What if we build a moat?
+
+					O'BRIEN 
+			A moat? Around the Alamo?
+
+					BASHIR
+				(pointing) 
+			All we have to do is widen that 
+			stream -- maybe make it a little 
+			deeper.
+
+					QUARK 
+			I say we build a moat around the 
+			station. Tell me the truth, do 
+			you think this place can 
+			withstand an attack by the Breen?
+
+					O'BRIEN
+				(thinking it over) 
+			Good question.
+
+					QUARK 
+			How about a good answer -- like 
+			"yes, we can withstand an attack 
+			by the Breen"?
+
+					O'BRIEN 
+			Quark... I could say that. But 
+			I'd be guessing.
+
+					QUARK 
+			Guessing?
+
+					BASHIR 
+			What he means is that there's a 
+			good chance we're going to lose 
+			the station, lose the war, and 
+			wind up dead in the process.
+
+					QUARK 
+			Then how can you sit there 
+			enjoying yourselves pretending 
+			nothing's wrong.
+
+					O'BRIEN
+				(shrugging) 
+			Grace under pressure. Haven't 
+			you been listening?
+
+	With a GRUNT of disgust, Quark walks off. Bashir 
+	and O'Brien continue looking at their model.
+
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    20.
+
+17   ANGLE ON THE SECOND LEVEL
+
+	where Ezri and Worf are watching O'Brien and Bashir.
+
+					WORF 
+			He is a child.
+
+					EZRI 
+			Miles does have a certain 
+			cherubic quality...
+
+					WORF 
+			I am talking about Doctor Bashir, 
+			and you know it.
+				(looking at Bashir) 
+			Are you certain he's the one?
+
+					EZRI 
+			I'm not certain about anything.
+				(a beat) 
+			But he is handsome.
+
+					WORF 
+			You deserve more than "handsome."
+				(re: Bashir) 
+			He gets excited playing with 
+			toys.
+
+					EZRI 
+			He knows how to have a good time. 
+			Besides, it's not exactly a 
+			toy... you heard Chief O'Brien, 
+			he spent hours building it.
+
+					WORF 
+			I see it is hopeless to try to 
+			reason with you.
+
+
+					EZRI 
+			I know.
+				(a beat) 
+			Maybe I am in love with him. You 
+			think I should tell him how I 
+			feel?
+
+					WORF 
+			If that will make you happy, yes.
+
+					EZRI 
+			You're a good friend, Worf.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    21.
+
+17   CONTINUED:
+
+					WORF 
+			I know.
+				(then after a beat
+				of looking back at
+				Bashir)
+			They are wasting their time. No
+			matter how much planning they do,
+			they cannot successfully defend
+			that mission against an enemy
+			numbering in the thousands. Not
+			without more men.
+
+					EZRI 
+			If you want to go over there and 
+			help them...
+
+	Worf shoots her a glance.
+
+					EZRI 
+			Just a thought.
+
+	And off that moment --
+
+18   EXT. CARDASSIA PRIME - DAY (OPTICAL)
+
+	Establishing.
+
+19   INT. DOMINION HEADQUARTERS - DAY
+
+	Damar is staring at a monitor displaying Dominion 
+	security protocols. A jaunty Weyoun ENTERS. As he 
+	does, Damar deftly taps a few keys and changes 
+	what's on the monitor to display information about 
+	Breen ship movements.
+
+					WEYOUN
+			Damar? You're up early.
+
+					DAMAR 
+			Am I?
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    22.
+
+19	CONTINUED:
+
+					WEYOUN
+			Yes, you are. Unless you haven't 
+			gone to bed yet.
+
+					DAMAR 
+			Actually, I had a very restful 
+			sleep.
+
+
+					WEYOUN
+				(slightly suspicious) 
+			Did you? How nice.
+
+	Weyoun steps over to look at what's on Damar's 
+	screen.
+
+					DAMAR 
+			I had no idea the Breen could 
+			mobilize such a large fleet so 
+			quickly.
+
+					WEYOUN 
+			Our new allies are full of 
+			surprises, aren't they? You know 
+			those refrigeration suits they wear... 
+
+					DAMAR
+			What about them?
+
+					WEYOUN 
+			I'm sure you've read the 
+			intelligence reports that say 
+			their homeworld is a frozen 
+			wasteland.
+				(off Damar's nod) 
+			Well, it's not true.
+				(sotto voce) 
+			The climate on their planet is 
+			quite comfortable.
+
+					DAMAR 
+			Then why do they wear 
+			refrigeration suits?
+
+					WEYOUN 
+			They won't say. You see what I 
+			mean? They're full of surprises.
+				(a beat) 
+			There's something different about 
+			you today, Damar... I can't quite 
+			put my finger on it. It's like
+			you're only half-dressed... 
+
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    23.
+
+19   CONTINUED:	(2)
+
+					DAMAR
+
+			What are you talking about?
+
+	Weyoun steps back to study Damar.
+
+					WEYOUN 
+			You don't have a bottle in your 
+			hand...
+
+					DAMAR 
+			Don't you have anything better to 
+			do than to stand here and --
+
+	Weyoun suddenly understands what's bothering him 
+	about Damar.
+
+					WEYOUN 
+			You've regained your confidence.
+
+					DAMAR
+			I wasn't aware I'd lost it.
+
+					WEYOUN 
+			Come now, Damar... you thought 
+			you'd backed the wrong side.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    24.
+
+19   CONTINUED:	(3)
+
+					WEYOUN (Cont'd)
+			You thought the Dominion was
+			going to lose this war... and
+			drag Cardassia down with it.
+
+					DAMAR 
+			You must admit, things were 
+			looking rather grim.
+
+					WEYOUN
+			Perhaps for a moment or two... 
+			but that's no excuse to lose 
+			faith in oneself -- or in one's 
+			allies.
+
+	Weyoun begins to pace around the room, warming to 
+	his subject.
+
+					WEYOUN 
+			But now... it's as if you've 
+			groped your way through a dark 
+			tunnel and stepped into the light 
+			once again. And what does that 
+			light tell you? That the 
+			Dominion will prevail. That the 
+			Federation will be conquered and 
+			a new era of peace and prosperity 
+			will blanket the Alpha Quadrant.
+
+					DAMAR 
+			You know me so well.
+
+	Weyoun can't help notice the sarcasm in Damar's 
+	voice.
+
+					WEYOUN 
+			Really, Damar... I hope you won't 
+			allow that Cardassian-sized ego 
+			of yours to spoil our victory. 
+			And I do mean "our victory." 
+			Yours... mine...
+
+					DAMAR 
+			And the Breen.
+
+					WEYOUN 
+			Yes, and the Breen.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    25.
+
+19   CONTINUED:	(4)
+
+					DAMAR 
+			We're just one big, happy family, 
+			aren't we?
+
+	Weyoun pats Damar on the back.
+
+					WEYOUN 
+			I like it so much better when we 
+			agree on things, don't you?
+
+	Damar manages to smile in agreement.
+
+20   INT. KAI WINN'S OFFICE
+
+	Kai Winn is seated at her desk... Dukat is standing 
+	beside her as Solbor ENTERS holding a very thick, 
+	very old tome with a lock.
+
+					SOLBOR 
+			The text of the Kosst Amojan. As 
+			you requested...
+
+					WINN 
+			Very good.
+
+
+	Winn waits for him to place the book on the desk, 
+	but Solbor hesitates.
+
+					WINN
+			Well? Put it on my desk.
+
+
+					SOLBOR 
+			Eminence. May I speak frankly?
+
+					WINN 
+			If you must.
+
+					SOLBOR 
+			This book... it hasn't been 
+			removed from the archives -- not 
+			in seven hundred years.
+
+					WINN 
+			Your point being?
+
+					SOLBOR 
+			The knowledge it contains... 
+			about the Pah-wraiths... it's 
+			said to be very dangerous.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    26.
+
+20   CONTINUED:
+
+					WINN 
+			Knowledge is never dangerous --
+			in the right hands.
+
+					SOLBOR 
+			There's an old saying... "He who 
+			studies evil, is studied by 
+			evil."
+
+					WINN 
+			I'll keep that in mind. Now give 
+			me the book...
+
+	Solbor still hesitates.
+
+					DUKAT 
+			Your concern for her eminence is 
+			acknowledged and appreciated. 
+			Nevertheless, you must do as she 
+			says. I will see to it that no 
+			harm comes to her.
+
+
+					WINN
+				(to Solbor) 
+			There. That should make you feel 
+			better.
+
+					SOLBOR 
+			I wish it did.
+				(re: Dukat) 
+			But this man... he arrives one 
+			day on Deep Space Nine and the 
+			next, he's become your closest 
+			advisor. What do we know about 
+			him? Where does he come from? 
+			What does he want?
+
+					DUKAT 
+			I want only to serve the Kai.
+
+					SOLBOR
+				(to Winn, re: Dukat) 
+			This is his idea, isn't it? To 
+			study that hateful book.
+
+					WINN 
+			Anjohl was sent to me by the 
+			Prophets. That's all I need to 
+			know -- that's all anyone needs 
+			to know.
+
+ DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO     27   
+
+20   CONTINUED:	(2)
+
+					DUKAT 
+			I have no idea why I was chosen. 
+			But who are we to question the 
+			ways of the Prophets?
+
+					WINN
+				(to Solbor) 
+			Perhaps it would be best if you 
+			were to go to the temple and ask 
+			the Prophets forgiveness for 
+			questioning their wisdom.
+
+	Solbor still doesn't trust Dukat, but he's said his 
+	piece. He sets down the book and bows slightly, 
+	then turns to leave.
+
+					WINN 
+			Solbor --
+
+	Solbor turns to face his Kai.
+
+					WINN
+				(an order) 
+			The key.
+
+	Solbor takes out the key and hands it to Winn. And 
+	with that, he EXITS.
+
+					DUKAT 
+			Solbor doesn't approve of me.
+
+					WINN 
+			He's served me well for many 
+			years.
+
+					DUKAT 
+			And he may serve you for many 
+			more... if the Pah-wraiths find 
+			him worthy.
+
+	Kai Winn looks at the book for a beat; there's a 
+	part of her that fears going through with this.
+
+					DUKAT 
+			Well? Aren't you going to open 
+			it?
+
+	Winn still hesitates.
+
+					DUKAT 
+			The Pah-wraiths aren't evil, but 
+			they are powerful. 
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT TWO    28.
+
+20   CONTINUED:	(3)
+
+					DUKAT (Cont'd)
+			And they're willing to share
+			their power with you. The
+			question is, do you want it?
+
+	Dukat is tense with anticipation as Kai Winn makes
+	her decision and unlocks the book, then carefully --
+
+21   OPENS IT
+
+	to REVEAL a blank page of vellum. The Kai turns to 
+	the second page, it's blank as well.
+
+					DUKAT 
+			This can't be...
+
+	Dukat turns more and more pages -- they're all
+	blank!
+
+					DUKAT 
+			It's a trick.
+
+					WINN
+				(certain)
+			It's not a trick.
+
+
+					DUKAT 
+			Then Solbor brought the wrong 
+			book.
+
+					WINN
+				(shaking her head) 
+			He doesn't make those kinds of 
+			mistakes.
+				(a beat) 
+			The words are here... they've 
+			been hidden, that's all. Now 
+			it's up to us to find them.
+
+	And off her look of determination, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   29.
+                           ACT THREE                            
+
+	FADE IN:
+
+22   INT. SECURITY OFFICE
+
+	Where ODO hands Sisko a PADD.
+
+					ODO 
+			Here are the new security 
+			protocols you requested.
+
+					SISKO
+				giving them the
+				once over)
+			Very good.
+
+					ODO 
+			Though frankly I'm not sure how 
+			effective they'll be against the 
+			Breen.
+
+					SISKO
+			Neither am I. Let's hope we 
+			don't have to find out.
+
+					KASIDY (O.S.) 
+			Benjamin!
+
+	Sisko turns to see --
+
+23   KASIDY YATES-SISKO
+
+	ENTERS the office with a PADD of her own, which she 
+	thrusts into Sisko's hand.
+
+					KASIDY
+			You mind explaining this --
+
+	Sisko knows that he's entered treacherous waters.
+
+					SISKO
+				(to Odo) 
+			Constable, do you mind if we use 
+			your office a moment?
+
+	Odo nods and dutifully makes a hasty EXIT.
+
+					SISKO
+				(to Kasidy, re: the PADD) 
+			Looks like the Bajoran Freight 
+			and Shipping Authority wants you 
+			to take a vacation.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   30.
+
+23   CONTINUED:
+
+					KASIDY 
+			A month's paid vacation? This is 
+			your doing, isn't it? Let me guess, 
+			the Emissary asked for a little 
+			favor...
+
+					SISKO
+			I never mentioned the word 
+			Emissary.
+
+					KASIDY
+
+			But you did arrange this!
+
+					SISKO
+			I'm just trying to keep you out of 
+			harm's way. Is that such a 
+			terrible thing for a husband to do?
+
+					KASIDY 
+			I told you, I don't need or want 
+			that kind of protection. I want 
+			you to call whoever you called 
+			and have them put my name back on 
+			the active list.
+
+					SISKO
+			Kas -- it's only for a month.
+
+	The "discussion" grows more heated:
+
+					KASIDY 
+			I don't care if it's only for a 
+			day. How'd you like it if I 
+			called Admiral Ross and said, "Do 
+			me a favor... please don't send 
+			my husband on any dangerous 
+			missions this month."
+
+					SISKO
+			It's not the same thing.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   31.
+
+23   CONTINUED:	(2)
+
+					KASIDY 
+			It is from where I'm standing. 
+			My job is just as important to me 
+			as your job is to you.
+
+					SISKO
+			I know that.
+
+					KASIDY 
+			You don't act like you do. You 
+			crossed the line, Ben... this
+			time you really crossed the line.
+
+24   INT. PROMENADE
+
+	Where Quark and Odo watch the argument through the 
+	closed doors. Odo notices Quark smiling.
+
+					ODO 
+			What's so funny?
+
+					QUARK 
+			Marriage. It changes everything. 
+				(re: Sisko and 
+				Kasidy) 
+			If you're not careful... that 
+			could be you and Kira.
+
+	Odo shoots Quark a disdainful look, but after a 
+	beat, we see that Odo can't quite fully dismiss the 
+	comment.
+
+25   EXT. BAJOR - DAY (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE  31A.
+
+
+26   INT. KAI WINN'S OFFICE
+
+	On the desk, the Kosst Amojan text lies open, its 
+	blank pages staring back at the Kai. The desk is 
+	piled high with other books, which Winn is perusing, 
+	desperately searching for a way to "read" 
+	those blank pages.
+
+	Nearby, Dukat is pacing the room, impatiently 
+	waiting for the Kai to find some answers. Solbor 
+	ENTERS with another stack of books, placing them on 
+	Winn's desk.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   32.
+
+26   CONTINUED:
+
+					SOLBOR
+
+			Here are the other volumes you 
+			wanted.
+
+					WINN
+				(without looking up) 
+			Thank you. You can go now.
+
+	But Solbor hesitates, he has something on his mind.
+
+					SOLBOR 
+			Eminence. I must inform you that 
+			the archivists are very concerned.
+
+					DUKAT 
+			You heard the Kai, leave us.
+
+					SOLBOR
+				(ignoring Dukat) 
+			They're wondering why you need to 
+			consult so many of these... dark 
+			texts.
+
+					WINN 
+			Tell them that their Kai works 
+			for the good of Bajor. Now leave 
+			me, I have work to do.
+
+	Solbor nods, and heads for the door. But before he 
+	EXITS, he and Dukat exchange a parting look of 
+	mutual dislike.
+
+					DUKAT
+				(to Winn, re: 
+				Solbor) 
+			Something tells me that when the 
+			Restoration occurs, the Pah-
+			wraiths are going to find that 
+			little man... unworthy.
+
+	Winn looks up to Dukat, staring at him as if having 
+	forgotten that he was even in the room.
+
+					WINN 
+			Why are you still here?
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   33.
+
+26   CONTINUED:	(2)
+
+					DUKAT
+				(taken aback)
+			What would you like me to do?
+
+					WINN
+				(an order)
+			Go away.
+
+					DUKAT
+			I don't understand...
+
+					WINN
+			I need to concentrate.
+
+					DUKAT
+				(bristling)
+			But your eminence...
+
+					WINN
+				(with finality)
+			Not another word.
+
+	Dukat has half a mind to smack the Kai, but 
+	restrains himself.
+
+					DUKAT
+			As you wish.
+
+	With a bow, he EXITS. A tired Winn sighs to herself 
+	and returns to her reading.
+
+27   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+28   INT. QUARK'S
+
+	Where Ezri sits down to be met by Quark, who places a 
+	drink in front of her.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   34.
+
+28   CONTINUED:
+
+					EZRI
+			A Til'amin froth... thank you.
+
+					QUARK
+			Actually, I had one waiting for
+			you every day you were gone.
+
+					EZRI
+			That's so sweet.
+
+					QUARK
+			I know.
+
+29   ANGLE ON BASHIR
+
+	as he sits down next to her. Ezri is immediately 
+	uncomfortable in his presence.
+
+DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE 35-36.  
+
+29   CONTINUED:
+
+					BASHIR
+			Do you have a minute?
+
+					QUARK 
+			Doctor -- Ezri and I were in the 
+			middle of a conversation.
+
+					BASHIR 
+			I'm sorry. I'll wait for you to 
+			finish.
+
+					EZRI
+				(to Quark) 
+			What were we talking about?
+
+					QUARK
+			Forget it. 
+
+	And with that, Quark slouches away.
+
+					EZRI
+				(re: Quark) 
+			I guess we're finished. What can 
+			I do for you, Julian?
+
+					BASHIR 
+			Have I offended you in any way?
+
+					EZRI 
+			What do you mean?
+
+					BASHIR 
+			Ever since you and Worf returned 
+			to the station, it seems like 
+			you've been avoiding me.
+
+	Ezri's discomfort increases; she has been avoiding 
+	him.
+
+					EZRI 
+			I have?
+
+					BASHIR 
+			It seems that way.
+
+
+					EZRI 
+			Julian... I'm not sure if I'm ready 
+			to talk about this right now.
+
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   37.
+
+29   CONTINUED:	(2)
+
+					BASHIR 
+			I knew it. Something is wrong --
+
+					EZRI 
+			Would you stop saying that --
+			nothing's wrong. It's just... 
+			complicated.
+
+					BASHIR 
+			Well, whatever it is -- I'm sure 
+			we can work it out.
+
+					EZRI 
+			You think so?
+
+					BASHIR 
+			I'm positive.
+
+	Ezri takes a deep breath as she comes to a decision.
+
+					EZRI 
+			Maybe you're right. Maybe we 
+			just need to bring this out in 
+			the open... talk it over like two 
+			adults. I mean, here we are... 
+			you over there, me over here... 
+			when you think about it, it's a 
+			perfect opportunity.
+
+					BASHIR 
+			Ezri, please -- just tell me 
+			what's going on.
+
+					EZRI
+			I'm getting to that...
+
+	But before Ezri can say another word, the Computer 
+	Com Voice interrupts --
+
+					COMPUTER VOICE 
+			Doctor Bashir, please report to 
+			the Infirmary.
+
+	Bashir sighs, gives Ezri an apologetic smile.
+
+					BASHIR
+				(to com) 
+			On my way.
+				(to Ezri)
+			Hold that thought.
+
+	And with that, Bashir gets up and EXITS.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   38.
+
+30   INT. SISKO'S QUARTERS
+
+	CLOSE ON Kasidy holding a large bouquet of Bajoran 
+	lilacs.
+
+					KASIDY
+			They're beautiful...
+
+					SISKO
+			Then you forgive me?
+
+	Kasidy puts the flowers in a vase.
+
+					KASIDY 
+			That depends. Have you talked to 
+			Bajoran Freight and Shipping?
+
+					SISKO
+				(nodding) 
+			You're back on the active list.
+
+					KASIDY 
+			Then I forgive you. But from 
+			here on in...
+
+					SISKO
+				(completing the 
+				thought)
+			I won't interfere with your 
+			work again. Unless you ask me 
+			to.
+				(a beat) 
+			Or it's absolutely necessary.
+
+	She shoots him a glance.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   39.
+
+30   CONTINUED:
+
+					SISKO
+			I'm joking.
+
+					KASIDY 
+			You better be.
+
+	Kasidy steps over Sisko and gives him a kiss.
+
+					SISKO
+			What's that for?
+
+					KASIDY 
+			The flowers. And for being big 
+			enough to admit when you're 
+			wrong.
+
+	The door CHIMES.
+
+					SISKO
+			That must be Quark with the 
+			necklace.
+
+					KASIDY 
+			Necklace?
+
+					SISKO
+			In case the flowers didn't work. 
+				(to door) 
+			Come in.
+
+	But it's not Quark at the door...
+
+31   IT'S ADMIRAL ROSS
+
+	and he's not bearing a necklace either.
+
+					ROSS 
+			Ben, we just got word. The Breen 
+			have launched a counteroffensive 
+			against our forces in the 
+			Chin'toka System.
+
+					SISKO
+			Have they broken through?
+
+					ROSS 
+			In two places.
+
+	Sisko knows what this means.
+
+   DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT THREE   40.
+
+31  CONTINUED:
+
+					SISKO
+			When do I leave?
+
+	And as Sisko awaits his answer, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   41.
+                           ACT FOUR                             
+
+	FADE IN:
+
+32   INT. DEFIANT - BRIDGE
+
+	Abuzz with activity, as the CREW prepares the ship 
+	for departure. Kira is at helm, Worf is at Primary 
+	Tactical. Ezri's next to him at Science/Com, while 
+	Nog stands behind Engineering, working the panel.
+
+					NOG 
+			This is bad... very bad.
+
+					KIRA 
+			You say that every time we take 
+			the Defiant into battle.
+
+					NOG
+				(re: his panel) 
+			Impulse manifold purged and 
+			clear.
+				(re: Kira's comment) 
+			If we lose the Chin'toka System, 
+			we lose our only foothold in 
+			Dominion territory. I think that 
+			qualifies as "bad."
+
+					KIRA 
+			We haven't lost it yet. 
+			Initiating impulse pre-start 
+			sequence.
+
+					NOG 
+			Microfusion generators on line. 
+			But the Breen... they seem 
+			unstoppable. First Earth, now 
+			Chin'toka.
+
+					WORF
+				(to Nog) 
+			Ensign -- no one is unstoppable. 
+			Collimate the nadion emitters.
+
+	Nog quickly moves over to another position and works 
+	the panel.
+
+					NOG 
+			Collimation sequence in progress.
+
+33   O'BRIEN AND BASHIR
+
+	step onto the Bridge.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   42.
+
+33   CONTINUED:
+
+					BASHIR 
+			What more can I say? I'm sorry.
+
+					O'BRIEN
+				(to Kira) 
+			Dilithium matrix is aligned and 
+			calibrated.
+				(to Bashir) 
+			From now on, be more careful. 
+			That's all I ask.
+
+
+					KIRA 
+			Opening antimatter injector 
+			ports.
+				(re: O'Brien and 
+				Bashir's 
+				conversation) 
+			Trouble in paradise?
+
+	O'Brien sits at his usual station while Bashir sits 
+	next to him, checking a panel.
+
+					BASHIR 
+			It's nothing. Emergency life 
+			support and damage control 
+			systems standing by.
+
+					O'BRIEN
+				(to Kira) 
+			Antimatter stream is stable.
+				(to Bashir) 
+			I wouldn't call it "nothing."
+				(back to Kira and 
+				Ezri, re: Bashir) 
+			He lost Travis.
+
+					KIRA
+				(dry) 
+			Sounds serious.
+				(to Bashir) 
+			Verify astrometric database.
+
+					BASHIR 
+			Miles built this Alamo model, 
+			replete with little figures. 
+			Quite spectacular, actually.
+				(off his panel)
+			Datasets loaded and verified.
+			Anyway, he was showing it to me
+			in Quark's and somehow we -- or
+			rather I misplaced Colonel
+			Travis.
+
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR  42A.
+
+33   CONTINUED:	(2)
+
+					NOG 
+			Phaser safeties engaged. 
+				(to O'Brien) 
+			Can't you make another one?
+
+					O'BRIEN 
+			Why? So he can lose it again? 
+			Field stabilizers on-line.
+
+					KIRA 
+			That's what happens when you 
+			share your toys. Synchronizing 
+			warp plasma flow.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   43.
+
+33   CONTINUED:	(3)
+
+					O'BRIEN
+				(taking umbrage) 
+			It's not a toy -- it's a model. 
+			Built to scale! Nacelles holding 
+			at pre-warp threshold.
+
+					BASHIR
+				(to Kira) 
+			He really did a fantastic job.
+
+34   WORF
+
+	looks over at Ezri.
+
+					WORF
+				(re: Bashir)
+			He plays with toys.
+
+					EZRI 
+			It's a model.
+
+					WORF
+			With little figures...
+
+	Worf makes the SOUNDS of PRETEND GUNFIRE.
+
+					EZRI
+				(to Kira) 
+			Autonomous guidance system 
+			initialized and active.
+				(to Worf, re:
+				Bashir)
+			It's a form of therapy. He's
+			under a lot of stress...
+
+					BASHIR
+				(to O'Brien) 
+			Look, when we get back, I'll go 
+			to Quark's and search every 
+			centimeter on my hands and knees. 
+			Satisfied?
+
+					O'BRIEN
+				(relenting) 
+			It's a start.
+
+DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR 43A-44.  
+
+34   CONTINUED:
+
+					WORF 
+				(to Ezri) 
+			Perhaps you should crawl around 
+			Quark's with him... if you find 
+			the Travis figure, I'm sure 
+			Doctor Bashir would be very 
+			grateful.
+
+					EZRI 
+			Would you please stop?
+
+	Worf backs off, but after a beat he softly makes a 
+	couple more pretend GUNFIRE SOUNDS.
+
+35   CAPTAIN SISKO
+
+	ENTERS, all business.
+
+
+					SISKO
+				(to Worf) 
+			Commander.
+
+					WORF 
+			The weapons array is on-line. 
+			Phasers are fully charged. 
+			Quantum torpedo launchers are 
+			loaded and standing by.
+
+					SISKO
+				(to Kira) 
+			Colonel, set a course to 
+			rendezvous with the Federation 
+			assault fleet.
+
+					KIRA 
+			Course set.
+
+					SISKO
+			Take us out.
+
+					KIRA 
+			Airlocks are sealed. Releasing 
+			docking clamps.
+
+36   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the Defiant backs away from the station and then
+	swoops away.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR  44A.
+
+37   EXT. BAJOR - DAY (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+38   INT. KAI WINN'S OFFICE
+
+	CLOSE ON Winn, seated in her chair, asleep, an open 
+	book in her lap.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   45.
+
+39   REVEAL SOLBOR
+
+	quietly collecting a stack of books off the desk and 
+	carrying them towards the door. Just then, the door 
+	OPENS and Dukat ENTERS.
+
+					DUKAT
+				(re: the books)
+			Where are you going with those?
+
+					SOLBOR
+			I'm returning them to the
+			archives.
+
+					DUKAT
+			On who's authority?
+
+					SOLBOR
+			I believe her eminence has
+			finished....
+
+					DUKAT
+				(an order)
+			Put them back.
+
+					SOLBOR
+			How dare you use that tone with
+			me --
+
+	Dukat backhands him across the face, knocking Solbor 
+	off his feet.
+
+					DUKAT
+			Very well, I'll put them back.
+
+	And with that, Dukat pulls a frightened Solbor to 
+	his feet and shoves him out the door.
+
+40   DUKAT THEN PICKS UP THE BOOKS
+
+	and carries them back to Winn's desk. Moving around 
+	to Winn's side of the desk, he stares down at the 
+	still-sleeping Kai.
+
+	And as he studies this woman, his lover, the 
+	spiritual leader of the Bajoran people... his face 
+	betrays a mixture of curiosity, superiority and 
+	loathing. After a beat, he leans over and kisses 
+	her softly on the forehead.
+
+					DUKAT
+			Wake up, my love. There's work
+			to be done.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   46.
+
+40   CONTINUED:
+
+	A groggy Winn tries to clear the cobwebs.
+
+					WINN
+			Anjohl? I must've dozed off...
+
+					DUKAT 
+			You're tired. It's 
+			understandable.
+
+					WINN
+			I haven't made much progress...
+
+					DUKAT 
+			You'll find the answers we're
+			looking for. It's just a matter 
+			of time.
+
+					WINN
+				(taking comfort in 
+				his words) 
+			I'm glad you're here.
+
+					DUKAT
+				(smiling back at
+
+				her)
+			I'll see that you're brought
+			something to eat.
+
+	And as Dukat moves off --
+
+41   EXT. CARDASSIA PRIME	DAY (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+42   INT. DAMAR'S QUARTERS	DAY
+
+	CLOSE ON Gul Rusot downing a glass of kanar.
+
+					RUSOT 
+			According to the latest battle 
+			reports, it looks like the 
+			Dominion is going to retake 
+			Chin'toka.
+
+					DAMAR 
+			A few months ago, the thought of 
+			driving the Federation from 
+			Cardassian soil would've been 
+			cause for celebration. 
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   47.
+
+42   CONTINUED:
+
+					DAMAR (Cont'd)
+			But their victories are no longer
+			our victories.
+
+	Rusot goes to pour himself another drink, but Damar
+	gently takes the bottle from his hand and puts it
+	aside.
+
+					DAMAR
+			Now, are the troops in position?
+
+					RUSOT
+			They're awaiting your command.
+
+					DAMAR
+			Excellent. We strike in seven
+			hours.
+
+	But something is still bothering Rusot.
+
+					RUSOT 
+			We're going to lose many fine 
+			soldiers.
+
+					DAMAR
+				(nods) 
+			At least they will be dying for 
+			Cardassia -- not the Dominion.
+
+	And as Rusot takes comfort in his words, we go to --
+
+43   EXT. SPACE (OPTICAL)
+
+
+	A Jem'Hadar ship traveling at warp.
+
+44   INT. JEM'HADAR BRIDGE
+
+	Weyoun, wearing the distinctive headgear/viewscreen, 
+	and the FEMALE SHAPE-SHIFTER are on the Bridge along 
+	with the usual JEM'HADAR SUPERNUMERARIES.
+
+					WEYOUN 
+			The Federation reinforcements 
+			are approaching Chin'toka.
+
+					FEMALE SHAPE-SHIFTER 
+			The more of them, the better.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FOUR   48.
+
+44   CONTINUED:
+
+					WEYOUN 
+			Founder, it concerns me to have 
+			you this close to the front.
+
+					FEMALE SHAPE-SHIFTER 
+			Your concern is noted. But this
+			is one battle I intend to see 
+			firsthand.
+
+					WEYOUN 
+			Yes, it should be quite 
+			gratifying.
+
+	And off that moment --
+
+45   EXT. SPACE (OPTICAL)
+
+	The Defiant, surrounded by other Federation, 
+	Klingon and Romulan ships, approaches the Chin'toka 
+	System.
+
+
+46   INT. DEFIANT - BRIDGE
+
+	As everyone silently prepares themselves for battle, 
+	Sisko gets up from his chair, moving closer to the 
+	helm. And we --
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   49.
+                           ACT FIVE                             
+
+	FADE IN:
+
+47   EXT. SPACE (OPTICAL)
+
+	As the Defiant and the rest of the fleet approach 
+	the Dominion-Breen lines.
+
+48   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					O'BRIEN
+			Sir, they've locked weapons on
+			us.
+
+					SISKO
+
+			All auxiliary power to forward
+			shields.
+				(to Kira)
+			Colonel -- attack pattern Delta.
+
+					KIRA
+			Aye, sir.
+
+					SISKO
+			Mister Worf -- quantum torpedoes.
+
+					WORF
+			Target acquired.
+
+					SISKO
+			Fire!
+
+49   EXT. SPACE (OPTICAL)
+
+	The Defiant fires a spread of quantum torpedoes at a 
+	Breen ship, destroying it.
+
+50   ANOTHER ANGLE (OPTICAL)
+
+	as the Defiant swoops around to face another Breen 
+	ship. This time, the two ships exchange a round of 
+	fire.
+
+	The Breen ship is damaged, but not before their 
+	weapon creates some kind of strange FORCEFIELD that 
+	engulfs the Defiant.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   50.
+
+51   INT. DEFIANT - BRIDGE (OPTICAL)
+
+
+	The ship ROCKS VIOLENTLY! Lights FLICKER as the 
+	FORCEFIELD arcs through the bulkhead.
+
+					O'BRIEN
+				(off his console)
+			What the hell -- ?
+
+	The forcefield arcs stop and we go to a --
+
+52   NEW ANGLE
+
+	in time to hear the Defiant's engines GRIND to a 
+	halt.
+
+					KIRA
+			I've lost power to the helm.
+
+					EZRI
+			The com's down.
+
+	Suddenly the ship is ROCKED as it takes a hit.
+
+					WORF
+			So are weapons.
+
+					BASHIR
+			Primary computer systems are
+			off-line!
+
+
+	Another hit. Smoke and steam erupt.
+
+					KIRA
+
+			Manual controls are frozen.
+
+	Another violent ROCK.
+
+					SISKO
+			Chief?
+
+					O'BRIEN
+			I can't get anything back on
+			line. Somehow, they're draining
+			all our power...
+
+	And yet another HIT. This time, Kira is knocked off 
+	her chair. Sisko and Bashir rush over to her side. 
+	Bashir begins administering first aid as they 
+	withstand another HIT... and another!
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   51.
+
+52   CONTINUED:
+
+					O'BRIEN 
+			Sir -- the ablative armor is 
+			starting to buckle.
+
+
+					WORF 
+			We have hull breaches on Decks 
+			Three and Four.
+
+	ANOTHER HIT.
+
+					O'BRIEN 
+			Without power for emergency
+			forcefields, there's no way to 
+			seal them.
+
+	Sisko looks around the Bridge -- there's only one 
+	chance left for his crew.
+
+					SISKO
+				(calmly) 
+			Abandon ship.
+
+	For a beat, no one can believe it --
+
+					SISKO
+
+			You heard me. Get to the escape 
+			pods -- now!
+
+	Bashir helps Kira to her feet and out the door. 
+	Nog, Ezri and Worf follow. Only Sisko and O'Brien 
+	are left on the Bridge as they take another violent 
+	HIT.
+
+					O'BRIEN 
+			Captain...
+
+					SISKO
+				(looking around) 
+			She's a fine ship.
+
+					O'BRIEN 
+			No one'll argue with that.
+
+	They take another HIT.
+
+					O'BRIEN 
+			But like you said -- it's time to 
+			go.
+
+DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE  51A.
+
+53   SISKO TAKES A LAST LOOK AROUND 
+
+	and reluctantly follows O'Brien out the door. We 
+	HOLD on the empty Bridge for a moment before going 
+	to --
+
+54   EXT. SPACE (OPTICAL)
+
+	To see several escape pods bursting away from the 
+	Defiant. In the background, we see other 
+	Federation, Klingon and Romulan ships dead in 
+	space, also being abandoned.
+
+55   CLOSER ON THE DEFIANT (OPTICAL)
+
+	as it takes a final hit and EXPLODES in a giant 
+	fireball.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   52.
+
+56   INT. JEM'HADAR BRIDGE
+
+	To see Weyoun standing near the Female Shape-shifter.
+
+					WEYOUN
+				(with great satisfaction) 
+			Poor Captain Sisko... I believe 
+			he was quite fond of that ship.
+				(reverential) 
+			Founder... I'm happy to report 
+			that the Chin'toka System is ours 
+			once again.
+
+					FEMALE SHAPE-SHIFTER 
+			A step in the right direction.
+			Send my compliments to the Breen.
+
+					WEYOUN
+			I'm sure that will please them 
+			greatly.
+
+					FEMALE SHAPE-SHIFTER 
+			Really? I have no idea what 
+			pleases the Breen -- nor do I 
+			care, as long as they fight and 
+			win.
+				(pointed) 
+			I will not tolerate defeat any 
+			longer.
+
+					WEYOUN
+				(unctuously) 
+			Nor will I.
+
+	Weyoun turns his attention to something on his 
+	viewscreen.
+
+					WEYOUN
+				(continuing) 
+			Look at all those escape pods. So 
+			small... so vulnerable... I'll order 
+			their destruction immediately.
+
+					FEMALE SHAPE-SHIFTER 
+			No. Let them return to the 
+			Federation. Those pods are 
+			filled with frightened, 
+			demoralized troops.
+
+					WEYOUN
+				(catching on) 
+			... troops that will spread fear 
+			throughout the Federation with 
+			tales of what happened here today.
+				(a beat) 
+			The Founder is wise.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   53.
+
+56   CONTINUED: 
+
+	Weyoun bows to the Female Shape-shifter; they're both 
+	pleased with the turn of events.
+
+57   EXT. BAJOR - DAY (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+58   INT. KAI WINN'S OFFICE
+
+	Winn is sipping some tea, having just finished a 
+	light meal. Dukat stands solicitously nearby.
+
+					DUKAT
+			There... don't you feel better?
+
+					WINN
+			Much. Thank you, Anjohl.
+
+					DUKAT
+			I'm here to serve you -- any way
+			I can.
+
+	Dukat leans over to kiss her when --
+
+59   THE DOOR OPENS
+
+	and Solbor ENTERS.
+
+					SOLBOR
+				(to Dukat)
+			Get away from her!
+				(to Winn, re: Dukat)
+			Eminence -- that man is not
+			Anjohl Tennan.
+
+					WINN
+			What are you saying?
+
+					SOLBOR
+			Anjohl Tennan died nine years ago
+			in the labor camp at Batal.
+				(re: Dukat)
+			I warned you he wasn't to be
+			trusted. I had a sample of his
+			DNA sequenced -- he's not even a
+			Bajoran, he's Cardassian!
+
+	Winn gets to her feet.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   54.
+
+59   CONTINUED:
+
+					DUKAT 
+				(to Winn) 
+			We were brought together for a 
+			purpose -- a great purpose. Our 
+			destinies are linked.
+
+					SOLBOR 
+			Don't listen to him -- look in 
+			his eyes. Don't you recognize 
+			the face of your enemy? It's Gul 
+			Dukat!
+
+	Winn looks searchingly at Dukat, who doesn't bother 
+	to deny the accusation. Dukat remains calm and in 
+	control.
+
+					WINN 
+			It can't be...
+
+	Winn backs away from Dukat, picking up a knife from 
+	the dinner tray, holding it out to protect herself 
+	from him. She moves towards Solbor.
+
+					SOLBOR 
+			He lied to you. Used you!
+
+					WINN 
+			It's not true!
+
+	The Kai's world is crashing down upon her. And 
+	having turned her back on the Prophets, she's unsure 
+	of where to turn. Throughout, Dukat smiles at her 
+	calmly.
+
+					SOLBOR 
+				(to Dukat) 
+			I don't know why you've done this 
+			-- for what evil purpose. But 
+			it's not going to work!
+
+					DUKAT 
+				(to Winn) 
+			He doesn't understand -- he can't 
+			understand the love of the Pah-
+			wraiths.
+
+	Solbor looks at Winn -- he can't believe what he's 
+	hearing.
+
+					SOLBOR 
+			The love of the Pah-wraiths?
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   55.
+
+59   CONTINUED:	(2)
+
+	He looks over at the texts on the desk... then, back 
+	to Winn.
+
+					SOLBOR
+				(shocked and 
+				appalled) 
+			You're trying to release them... 
+			that's why you wanted the text of 
+			the Kosst Amojan...
+
+	Winn sees the accusatory disgust and fear on the 
+	Ranjen's face. He's judged her and found her 
+	wanting.
+
+					WINN 
+			Solbor -- you must try to 
+			understand... all I want is to 
+			bring about the Restoration.
+
+	But Solbor is unappeased.
+
+					SOLBOR 
+			You've betrayed the Prophets... 
+			you've betrayed us all!
+
+					WINN 
+			Listen to me -- the Pah-wraiths, 
+			they're the true gods.
+
+					SOLBOR 
+			You must be stopped...
+
+					WINN 
+			Solbor -- I beg you.
+
+	Winn grabs at Solbor, but Solbor pulls away and 
+	turns to leave.
+
+					WINN 
+			No!
+
+	Winn plunges the knife into his back. Solbor turns 
+	in surprise to look at Winn.
+
+	Solbor slowly falls to his knees, then collapses to 
+	the ground.
+
+DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE 55A-56.  
+
+60   CLOSE ON WINN 
+
+	as she drops the knife and stares numbly at her 
+	bloody hand. Dukat approaches.
+
+					DUKAT
+			It's going to be all right.
+
+	Dukat opens his arms to her, but she pushes him 
+	away.
+
+					WINN
+			Don't touch me.
+				(a beat)
+			My life is over. The Pah-wraiths
+			sent you to destroy me...
+
+					DUKAT
+			On the contrary. They sent me to
+			save you.
+
+					WINN
+			Lies... nothing but Cardassian
+			lies.
+				(a beat)
+			To think I let you touch me...
+
+	Winn turns to see the Kosst Amojan text on the desk, 
+	lying open on a blank page.
+
+					WINN
+				(a sudden thought)
+			The book... I have to destroy it!
+
+	Somehow, Winn feels that if she can just do that, 
+	everything will be all right.
+
+61   WINN
+
+	reaches for the book. As she does, a few drops of 
+	blood from her hand fall on --
+
+62   THE BLANK PAGE (OPTICAL)
+
+	and the book BURSTS into FLAMES. The flames consume 
+	the book for a moment, then disappear.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   57.
+
+62   CONTINUED: 
+
+
+	The book is unharmed, but the pages are now covered 
+	in ancient Bajoran writing.
+
+63   WINN AND DUKAT
+
+	stare upon the book in wonder.
+
+
+					DUKAT 
+			The Pah-wraiths have judged you 
+			and found you worthy. Their 
+			secrets are now yours... to do 
+			with as you please.
+
+	Winn hesitates.
+
+					DUKAT 
+			Take their gift and use it --
+			seize the power they're offering 
+			you!
+
+	Winn looks over at the book and begins turning the 
+	pages. As she turns each page, she becomes more and 
+	more resolute...
+
+					WINN 
+			What about Solbor?
+
+	Dukat smiles; he knows he has her right where he 
+	wants her.
+
+					DUKAT 
+			I'll take care of his body.
+
+	And as he smiles reassuringly --
+
+64   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+65   INT. CAPTAIN'S OFFICE
+
+	Sisko is with Admiral Ross.
+
+					SISKO
+			The Defiant was the finest ship I 
+			ever commanded. There'll never 
+			be another one like her...
+
+ DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE     58  
+
+65   CONTINUED:
+
+					ROSS 
+			It may take a little while, but 
+			we'll get you another ship. 
+			That's a promise. I just wish I 
+			knew how we were going to 
+			neutralize the Breen energy 
+			dissipaters.
+
+					SISKO
+			We need to buy some time.
+
+					ROSS 
+			Time may be the one thing we 
+			don't have...
+
+	Before Sisko can respond --
+
+					KIRA'S COM VOICE 
+			Captain. We're monitoring a 
+			transmission from Cardassian 
+			space. I think you're going to 
+			find it interesting.
+
+	Sisko and Ross EXIT into --
+
+66   OMITTED
+
+67   INT. OPS (OPTICAL)
+
+	Sisko and Ross join Kira, O'Brien, Worf and Ezri who 
+	are watching Legate Damar on the viewscreen. Damar 
+	is speaking from a subterranean base somewhere in 
+	Cardassian Space.
+
+					DAMAR
+			... and so two years ago, our 
+			government signed a treaty with 
+			the Dominion.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   59.
+
+67   CONTINUED:
+
+					DAMAR (Cont'd)
+			In it, the Dominion promised to
+			extend Cardassia's influence
+
+			throughout the Alpha Quadrant. In
+			exchange, we pledged ourselves to
+			join the war against the
+			Federation and its allies.
+			Cardassians have never been afraid
+			of war. A fact we've proven, time
+			and again over these past two
+			years. Seven million of our brave
+			soldiers have given their lives to
+			fulfill our part of the agreement.
+			And what has the Dominion done for
+			us in return? Nothing.
+
+68   INT. SECURITY OFFICE (OPTICAL) 
+
+	where Odo is watching the speech.
+
+					DAMAR
+			We've gained no new
+			territories... in fact, our
+			influence throughout the Quadrant
+			has diminished... and to make
+			matters worse, we're no longer
+			masters in our own home.
+
+69   INT. PROMENADE (OPTICAL)
+
+	where Bashir, Quark, and several PATRONS watch as 
+	well.
+
+					DAMAR 
+			Travel anywhere in Cardassia and 
+			what do you find? Jem'Hadar, 
+			Vorta... and now Breen. Instead of 
+			being the invaders, we've become 
+			the invaded. Our "allies" have 
+			conquered us without firing a shot.
+
+69A  INT. OPS (OPTICAL)
+
+	as Sisko and the others continue to listen to 
+	Damar's speech.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   60.
+
+69A  CONTINUED:
+
+					DAMAR
+			Well, no longer. This morning, 
+			detachments of the Cardassian 
+			First, Third, and Ninth Orders 
+			attacked the Dominion outposts on 
+			Rondac Three.
+
+	Sisko and Ross exchange a look --
+
+               SISKO                                      DAMAR
+          (to Kira)                                  (on the monitor)
+     See if we can get                          That assault marks the
+     confirmation on that.                      first step toward the
+                                                liberation of our --
+
+70   OMITTED
+
+71   INT. DOMINION HEADQUARTERS - DAY
+
+	where Weyoun, the Female Shape-shifter, and Thot Gor 
+	are watching the same transmission.
+
+					DAMAR
+				(on the monitor) 
+			-- homeland from the true oppressors 
+			of the Alpha Quadrant -- the 
+			Dominion. So I call upon Cardassians 
+			everywhere -- resist! Resist today. 
+			Resist tomorrow! Resist until the 
+			last Dominion soldier has been driven 
+			from our soil. Resist!
+
+	Weyoun glances away at another monitor.
+
+					WEYOUN 
+			It's confirmed. Our cloning 
+			facilities on Rondac Three have 
+			been destroyed.
+				(a beat)
+			I could be the last Weyoun...
+				(a realization) 
+			That's why he picked that target.
+
+	Without looking at him, Thot Gor responds with a 
+	burst of harsh STATIC.
+
+					FEMALE SHAPE-SHIFTER 
+			I want Damar and the rest of these 
+			traitors found and eliminated.
+
+    DEEP SPACE NINE: "The Changing... " - REV. 02/23/99 - ACT FIVE   61.
+
+71   CONTINUED: 
+
+					WEYOUN
+			I'll see to it immediately.
+
+	And with that, the Female Shape-shifter EXITS. We 
+	hold on Weyoun as he turns to Thot Gor --
+
+					WEYOUN 
+			I don't care how many Cardassians 
+			you have to kill. Find Damar. 
+			Is that clear?
+
+	Another burst of STATIC.
+
+					WEYOUN 
+			I'm going to hold you to that.
+
+72   INT. CAPTAIN'S OFFICE
+
+	Kira steps into the office to announce --
+
+					KIRA 
+			Captain, our listening posts have 
+			confirmed the attack on Rondac.
+
+					ROSS 
+			Damar may have just bought us 
+			some precious time... if the 
+			Dominion doesn't track him down 
+			too quickly.
+
+73   CLOSE ON SISKO
+
+
+	as he considers the ramifications.
+
+					SISKO
+			We have to find a way to help 
+			him. Legate Damar may be the key 
+			to saving the Alpha Quadrant.
+
+	And off this moment, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

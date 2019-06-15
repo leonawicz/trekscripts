@@ -1,0 +1,6377 @@
+
+				  STAR TREK: DEEP SPACE NINE
+                          "Emissary" 
+                          #40511-721 
+                              
+                          Teleplay by 
+                        Michael Piller 
+                              
+                           Story by 
+                          Rick Berman 
+                        Michael Piller 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          REV. FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION.
+                        AUGUST 10, 1992
+
+
+      STAR TREK: DS9   "Emissary" REV. FINAL 08/25/92 - C
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Emissary" 
+                             CAST 
+
+          BENJAMIN SISKO           PICARD
+          JAKE SISKO               CON OFFICER
+          MILES O'BRIEN            TACTICAL OFFICER
+          KIRA NERYS               OPS OFFICER
+          ODO                      VULCAN CAPTAIN
+          NOG                      MONK #1
+          QUARK                    MONK #2
+          KAI OPAKA                JENNIFER
+          JULIAN BASHIR            FERENGI PIT BOSS
+          JADZIA DAX               A LIEUTENANT
+          KEIKO                    FEMALE TRANS. CHIEF
+          GUL DUXAT                CHANCELLOR
+                                   (ON MONITOR)
+                                   CARDASSIAN OFF. #1
+          COMPUTER VOICE           CARDASSIAN OFF. #2
+          FEMALE COMPUTER VOICE    BATTER ALIEN
+                                   GUL JASAD
+                                   CARDASSIAN OFFICER
+                                   BAJORAN BUREAUCRAT
+                                   (ON MONITOR)
+                                   DORAN, WOUNDED WOMAN
+          Non-Speaking             CARDASSIAN OFF. #3
+          FERENGIS                 
+          2 YEAR OLD (Mollie)      
+          SEVERAL BAJORANS         
+
+          Non-Speaking             Non-Speaking
+          SEVERAL CARDASSIANS      BAJORAN DEPUTY
+          ALIENS                   CURZON,
+                                   DYING OLD MAN     STAR TREK: DS9 - "Emissary" REV. FINAL- 08/10/92 SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Emissary" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRL0CK                       
+          PROMENADE                     THE SARATOGA
+          MONASTERY                     
+          SISKO'S QUARTERS              BAJOR CITY
+          OPS                           
+          COMMANDER'S OFFICE            BEACH
+          ASSAYING OFFICE               CARDASSIAN WARSHIP
+          SECURITY OFFICE               
+          JAKE'S ROOM                   
+          QUARK'S                       RUNABOUT
+          INFIRMARY (MEDICAL FACILITY)  
+          LABORATORY                    BRUTAL TERRAIN
+          CORRIDOR                      
+          RUNABOUT                      GARDEN
+
+          MEDICAL FACILITY              
+          OPERATING ROOM                
+
+        BAJOR CITY                      ASTEROID BELT
+          TEMPLE                        
+          MONASTERY                     THE WORMHOLE
+          CHAMBER BENEATH MONASTERY     
+                                        BASEBALL FIELD
+        BEACH                         
+                                        PARK
+        THE SARATOGA                  
+          BRIDGE                        FISHING POND
+          CORRIDOR                      
+          SISKO'S QUARTERS              USS ENTERPRISE
+
+        BORG SHIP                     
+
+        ESCAPE POD                    
+
+        HOL0DECK (FISHING POND)       
+
+        CORRIDOR                      
+
+        USS ENTERPRISE
+          OBS. LOUNGE
+          O'BRIEN'S QUARTERS
+            BEDROOM
+          MAIN BRIDGE
+          TRANSPORTER ROOM
+
+
+        CARDASSIAN WARSHIP
+          CORRIDOR
+          BRIDGE  STAR TREK: "Emissary" - REV. FIN. 08/25/92 - PRONUNCIATION 
+
+                  STAR TREK: DEEP-SPACE NINE 
+                          "Emissary" 
+                      PRONUNCIATION GUIDE 
+
+          KIRA NERYS               KIH-ruh nar-EES
+          ODO                      OH-doo
+          KAI OPAKA                KI o-PAH-ku
+          BASHIR                   bah-SHEER
+          JADZIA DAX               jahd-ZEE-uh DAX
+          QUARK                    Kwark
+          GUL DUKAT                gull du-KOT
+          GUL JASAD                gull jahs-SAD
+          KYUSHU                   kee-OOSH-ooh
+          KUMOMOTO                 koo-moh-MUH-toh
+          BAJORAN                  bah-JOR-an
+          BAJORA                   bah-JOR-uh
+          CARDASSIAN               car-DASS-ee-en
+          LOCUTUS                  low-KEW-tus
+          UTOPIA PLANITIA          yew-TOH-pea-uh
+                                   plah-NIM-shee-uh
+          KAI TALUNO               XI tah-LOO-noh
+          IDRAN                    IH-drahn
+          DENORIOS                 dohn-OHR-ea-uhs
+          CURZON                   KIHR-zahn
+          GILGO                    GIHL-goh
+          DABO                     DAH-bow
+
+          LAPOLIS                  lah-PO-lis
+          MORAVIAN                 mohr-A-vee-ahn
+          SETLIK                   SET-lik
+          ROLADAN                  rohl-AH-dun
+          FRUNALIAN                frow-NAY-lee-an
+          RIO GRANDE               REE-oh GRAND
+          YANGTZEE KIANG           yang-se key-an
+          BAJOR                    BAY-jor
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - TEASER         1.
+                        DEEP SPACE NINE                         
+                              "Emissary"                               
+                            TEASER                              
+
+	FADE IN:
+
+1    WHITE LETTERS ON BLACK:
+
+	On Stardate 43997, Captain Jean-
+	Luc Picard of the Federation 
+	Starship Enterprise was kidnapped 
+	for six days by an invading force 
+	known as the Borg.  Surgically 
+	altered, he was forced to lead 
+	an assault on Starfleet at WOLF
+	359
+
+
+										FADE TO BLACK.
+
+	AFTER A BEAT:
+
+					PICARD/LOCUTUS (V.O.)
+			You will be assimilated.
+			Resistance is futile.
+
+	HARD CUT TO:
+
+2    CLOSE UP OF LOCUTUS (VIEWSCREEN) (OPTICAL)
+
+					PICARD/LOCUTUS
+			You will disarm all weapons and escort 
+			us to sector zero zero one.
+
+	If you attempt to intervene, we will destroy you.
+
+3    REVERSE ANGLE - INT. BRIDGE - THE SARATOGA (OPTICAL)
+
+	A Battle Bridge... a male Vulcan Captain, a burly male Bolian 
+	tactical officer (Lieutenant rank), female humans at Con and 
+	Ops (Ensign rank)... our primary attention is on Lieutenant 
+	Commander BENJAMIN SISKO, the first officer, a rugged, 
+	charismatic man in his late thirties... they react to the 
+	viewscreen pronouncement... Sisko is monitoring signals on a 
+	panel...
+
+					SISKO
+			Sir, Admiral Hanson has deployed the 
+			Gage, the Kyushu and the Melbourne...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - TEASER         2.
+
+3    CONTINUED:
+
+					CAPTAIN
+			Move us to position alpha, Ensign...
+
+					CON OFFICER
+			Aye, sir...
+
+					CAPTAIN
+			Load all torpedo bays... ready 
+			phasers...
+
+4    EXT. SPACE - THE SARATOGA (OPTICAL)
+
+	fires phasers and photons as the Borg ship sends out a cutting 
+	beam at the Melbourne... when the Melbourne's shields fail, 
+	there is a massive explosion.  The Borg ship immediately 
+	turns its attention to the Saratoga... sending out another 
+	tractor beam...
+
+5    INT. SARATOGA - BRIDGE
+
+	A shake...
+
+					TACTICAL OFFICER
+			The Borg are attempting to lock on 
+			to us...
+
+					CAPTAIN
+			Evasive maneuvers... delta pattern...
+
+5A   EXT. SPACE - THE BORG SHIP  (OPTICAL)
+
+	LOCKS ON TO THE SARATOGA
+
+5B   INT. SARATOGA - BRIDGE
+
+					CON OFFICER
+			Delta pattern initiated...
+
+					OPS OFFICER
+				(interrupting)
+			They've locked on...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - TEASER         3.
+
+6    EXT. SPACE - THE SARATOGA (OPTICAL)
+
+	caught in the Borg tractor beam... two more Starfleet ships 
+	come to the rescue... fire several rounds at the Borg without 
+	success...
+
+7    INT. BORG SHIP - LOCUTUS - (OPTICAL)
+
+	watches the battle on a viewscreen with dispassion...
+
+8    INT. SARATOGA BRIDGE
+
+	As before...
+
+					OPS OFFICER
+			Our shields are being drained...  
+			sixty-four percent... forty-two...
+
+					CAPTAIN
+			Recalibrate shield nutation...
+
+					TACTICAL
+			Modulation is having no effect...
+
+					OPS OFFICER
+			Shields have failed.
+
+					CAPTAIN
+			Full reverse... maintain...
+
+	He is interrupted by a huge explosion on the Bridge...  that 
+	obliterates our view... and when it clears there is smoke 
+	and fire... and massive damage... the forward consoles are 
+	spitting sparks... emergency lights come on... Sisko has 
+	been thrown to the floor, his forehead is cut... he tries to 
+	regain his bearings...
+
+					SISKO
+			Damage report...
+
+	No answer...
+
+					SISKO
+			Damage report... 
+
+	The tactical officer is the only other one alive in the room 
+	and he's hurt worse than Sisko... he struggles to his feet 
+	to read his console...
+
+					TACTICAL OFFICER
+			Direct hit... decks one through 
+			four...
+
+	Sisko has checked the dead Captain and other officers...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - TEASER         4.
+
+8    CONTINUED:
+
+					COMPUTER VOICE
+			Warning.  Damage to warp core.
+			Containment failure in four 
+			minutes...
+
+	The Tactical Officer is still trying to make something on 
+	his console work...
+
+					SISKO
+			Let's get the civilians to the escape 
+			pods, Lieutenant...
+
+	The Tactical Officer acknowledges, follows Sisko out...
+
+9    INT. CORRIDOR (OPTICAL)
+
+	engulfed in fire... yelling and cries in the background... 
+	stabilizers are failing, and everything is leaning left just 
+	a little bit... we find a Turbolift door opening and Sisko 
+	and the Tactical Officer come out... react to the sight... 
+	they fight their way through the fire... find some injured 
+	civilians, trying to gather personal possessions in their 
+	arms to take with them... Sisko is alert, professional...
+
+					SISKO
+			Leave everything... Go to your 
+			assigned evacuation area now.
+
+					COMPUTER VOICE
+			Warning.  Damage to warp core.
+			Containment failure in three 
+			minutes...
+
+	He reacts as they come to a wounded woman struggling to get 
+	down the hallway...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - TEASER         5.
+
+9    CONTINUED:
+
+					SISKO
+			Doran...
+
+	She leans exhausted into him... the Tactical officer lifts 
+	her...
+
+					TACTICAL OFFICER
+			I'll take care of her... go on...
+
+					SISKO
+				(to the woman)
+			Have you seen Jennifer...
+
+	She looks at Sisko with mournful eyes... and his heart jumps 
+	into his throat... he moves down the hallway with more 
+	focus... comes to a door that is jammed open...  smoke is 
+	billowing out...
+
+10   INT. SISKO'S QUARTERS  (OPTICAL)
+
+	Destroyed... an explosion has ripped a hole in the floor... 
+	fire and smoke is streaking up through it...
+	outside the window we can see evidence that the battle with 
+	the Borg ship is continuing... Sisko enters, sees his wife 
+	buried in rubble... He urgently pulls things away to get to 
+	her... he uncovers the upper part of her body... beside her 
+	is an unconscious nine year old boy...
+
+					SISKO
+				(calm, controlled)
+			It's gonna be okay... I'll get you 
+			out of there... you're gonna be 
+			okay...
+
+	But he can't lift the wreckage that has crushed her lower 
+	half... his calm demeanor is betrayed by...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/31/92 - TEASER         6.
+
+11   HIS HANDS
+
+	desperately trying to lift heavy debris...
+
+12   RESUME
+
+	as he ignores the pain... but fails to make any headway, so 
+	he returns to the front and tries to pull the boy free... 
+	he's small enough to be eased out...  he moves slightly, 
+	barely conscious, but not hurt critically...
+
+					SISKO
+			Okay, Jake... we'll just get your 
+			Mom now and get outta here...
+
+	Jake is still very groggy, doesn't respond...
+
+13   ANGLE
+
+	the tactical officer ENTERS...
+
+					TACTICAL OFFICER
+				(let's go)
+			Commander...
+
+					SISKO
+			Help me...
+
+	The officer moves in... examines Jennifer's lifeless body 
+	with his tricorder... quickly determines she's dead...
+
+					TACTICAL OFFICER
+			Sir, we have to get to the...
+
+	He stops, reacting as he sees --
+
+14   SISKO'S HANDS
+
+	incredibly bloody and burned...
+
+15   SISKO
+
+	glances numbly at the hands...
+
+					SISKO
+			Just help me get her free...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - TEASER         7.
+
+16   RESUME
+
+	as the Tactical Officer picks up the boy...
+
+					TACTICAL OFFICER
+			She's gone.  There's nothing we can 
+			do...
+
+					COMPUTER VOICE
+			Warning.  Damage to warp core.
+			Containment failure in two 
+			minutes...
+
+	Sisko shakes his head... takes her hand in his...
+
+					SISKO
+			You go ahead, Lieutenant.  Take the 
+			boy.
+
+	His voice is calm and reassuring and another man might leave 
+	him behind... but as a security man sticks his head in the 
+	door, making one last check through the quarters, the tactical 
+	officer hands off the boy to him and firmly pulls Sisko to 
+	his feet...
+
+					TACTICAL OFFICER
+			Now, sir...
+
+	His calm is undermined by the force he uses to resist the 
+	tactical officer's attempts to pull him out... the officer 
+	needs all of his Bolian strength to force his commanding 
+	officer to leave... Sisko is without emotion, tight... he 
+	feels no pain from his hands...  and yet he holds them up 
+	above the elbow level like a beggar...
+
+					SISKO
+			Dammit... we can't leave her here...
+
+	And they're out...
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - TEASER         8.
+
+17   INT. ESCAPE POD (OPTICAL)
+
+	as the tactical officer leads in Sisko... where the security 
+	officer is seated holding Jake... along with a dozen others 
+	in cramped lifeboat fashion.
+
+	The tactical officer presses panels... the door slides shut 
+	and then without ever cutting outside, there is a woosh and 
+	a shake and in the window, we see the Saratoga as our pod 
+	shoots away from it... and Ben Sisko never takes his eyes 
+	off it... and we may see other pods as we get further away... 
+	and other wreckage of broken ships... and notice the flashes 
+	of lightning from continued warfare with the Borg not far 
+	away...  but we stay inside the pod... and then the Saratoga 
+	explodes... and the light fills Ben's face...
+
+									FADE TO BLACK
+
+18   SUPER WHITE LETTERS:
+
+                            STARDATE 46421                             
+                          THREE YEARS LATER                            
+
+									HARD CUT TO:
+
+19   CORK ATTACHED TO A FISHING LINE  (DAY #1)
+
+	bobbing in the water...
+
+					SISKO (O.S.)
+			Jake?
+
+	And move to find twelve year old JAKE SISKO holding a fishing 
+	pole, sitting on a rock... and we're
+
+20   EXT. FISHING POND - DAY (OPTICAL)
+
+	Jake's trousers are rolled up to the knees, his bare feet 
+	dangling in the water, his shirt unbuttoned...  he turns to 
+	the sound of the voice... and a moment later, Sisko appears, 
+	dressed in his Starfleet uniform, a full Commander now... he 
+	smiles at the vision before him...
+
+					SISKO
+			There you are...
+
+	The boy gives him a reluctant grin.  Sisko comes over, sits 
+	beside him on the rock...
+
+					SISKO
+			How they biting?
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - TEASER         9.
+
+20   CONTINUED:
+
+					JAKE
+			Small fries.  Threw 'em back.
+			You want to go for a swim?
+
+					SISKO
+			Don't have time.  We've got to get 
+			ready.
+
+	Jake frowns.  Sisko notices.
+
+					SISKO
+			It won't be so bad.  I've heard Bajor 
+			is a beautiful world...
+
+					JAKE
+			So why can't we live on the planet 
+			instead of some old space station?
+
+					SISKO
+			Well, it's what Starfleet decided...
+
+					JAKE
+			You promised we'd stay on shore duty.
+
+					SISKO
+				(defensive)
+			The station is in orbit of Bajor, 
+			Jake.  It'll be just like shore duty.
+
+					JAKE
+			Will there be kids there?
+
+					SISKO
+			Absolutely.  Lots of kids.
+
+	Sisko hopes he's telling the truth.
+
+					FEMALE COM VOICE
+			Bridge to Sisko.
+
+					SISKO
+			Yes, Captain...
+
+					FEMALE COM VOICE
+			We're approaching Deep Space Nine, 
+			Commander.  We'll be docking in seven 
+			minutes.
+
+
+         DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - TEASER        10.
+
+20   CONTINUED:	(2)
+
+					SISKO
+			Acknowledged.
+				(puts his arm around 
+				Jake)
+			C'mon, we'll take the pond with us.
+
+	The boy is not happy and doesn't give his father the 
+	satisfaction of a smile.
+
+					SISKO
+			Computer, end program.
+
+	And the yellow grid of the Holodeck walls replace the woodsy 
+	setting... and as Jake carries his incongruous fishing pole...
+
+21   INT. CORRIDOR (NOT THE ENTERPRISE) (OPTICAL)
+
+	They exit the Holodeck, Jake carrying the pole over his 
+	shoulder... and as they come to an observation window... 
+	they pause as they see outside...
+
+					JAKE
+			Is that it?
+
+	Sisko acknowledges with a nod... and we move with them to 
+	see what they see -- the strange, intriguing shape of the 
+	alien space station designated Deep Space Nine by Starfleet...
+
+								FADE OUT.
+
+                         END OF TEASER                          
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT ONE        11.
+                            ACT ONE                             
+
+	FADE IN:
+
+22   EXT. SPACE - DS9 (OPTICAL)
+
+	Establishing.  In this angle, we can see the Enterprise and 
+	a few other ships are docked.
+
+					SISKO (V.O.)
+			Commence station log, Deep Space 
+			Nine, Commander Benjamin Sisko, 
+			Stardate xxxxx.x.  At the request of 
+			the Bajoran provisional government, 
+			Starfleet has agreed to establish a 
+			Federation presence in this system 
+			following the withdrawal of Cardassian 
+			occupational forces.
+
+23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN
+
+	his face straining with physical exertion...  sweating... 
+	pulling back to find him working inside an open panel manually 
+	working the levers and gears...  this is not Starfleet 
+	technology by any means... as he struggles, the airlock slowly 
+	opens to reveal Sisko and Jake standing there... they ENTER...
+
+					O'BRIEN
+			Sorry about that, Commander...  all 
+			the interlock servos in this airlock 
+			were stripped by the Cardassians...
+
+	He sticks out his hand to shake then realizes that it is 
+	covered with sludge from the panel he was just in and pulls 
+	it back...
+
+					O'BRIEN
+			Miles O'Brien, your chief operations 
+			officer...
+
+	Sisko is cordial... but throughout the first three acts, 
+	there is a grudging subtext... he's doing his duty but he 
+	doesn't want to be here.
+
+					SISKO
+			We would've transported aboard if 
+			we'd known you were having problems, 
+			Chief...
+
+	A Bajoran supernumerary manually closes the door behind them 
+	as O'Brien leads them down the corridor...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT ONE        12.
+
+23   CONTINUED:
+
+
+					O'BRIEN
+			That wouldn't have been possible 
+			either, sir.  We've got some stray 
+			nucleonic emissions that have to be 
+			tracked down before we can safely 
+			reinstate transporter operations.  
+			It's a junkyard the bloody Cardies 
+			left us with, if you ask me...
+
+	They EXIT and...
+
+24   INT. PROMENADE
+
+	As they enter from the Airlock Gate... they react with shock 
+	to what they see...  and we move with them to reveal our 
+	first look at this extraordinary setting....
+
+	The striking Cardassian/Bajoran architecture is mysterious 
+	and impressive... and we can see how exciting a locale this 
+	could once have been.  But now it is almost deserted... and 
+	it has been ravaged by vandals... storefronts have been broken 
+	out...  trash and broken stock from the stores litter the 
+	thoroughfare... phaser blasts have burned scars on the 
+	walls... a statue has been toppled...
+
+25   SISKO
+
+	reacts... his jaw tight... this is worse than he could have 
+	possibly imagined...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT ONE        13.
+
+26   MOVING WITH THEM
+
+	along the devastation... in one store, a Bajoran woman 
+	cleaning the mess glances up at them as they pass...  they 
+	go by an outdoor cafe where only one despondent man is having 
+	a drink...
+
+					O'BRIEN
+			I'm told the Cardassians decided to 
+			have some fun the day they left... 
+			four Bajorans were killed trying to 
+			protect their shops...
+
+	They pass by the Bar... looking inside, they can see QUARK, 
+	the Ferengi proprietor and a couple Ferengi AIDES are packing 
+	up gambling and bar equipment...
+
+					SISKO
+				(tight)
+			Why hasn't anybody cleaned this up...
+
+					O'BRIEN
+			We've got all available personnel 
+			assigned to repairing primary systems, 
+			sir... the Cardassians took every 
+			component of value, we have virtually 
+			no defenses...
+
+	I discussed it with Major Kira, the attache assigned here by 
+	the Bajoran government and we decided...
+
+					SISKO
+			Understood.  But what about the 
+			civilians who operated these shops... ?
+
+					O'BRIEN
+			A lot of them lost everything...
+
+	a few are trying to rebuild, but most are packing up to 
+	leave...
+
+27   ANGLE
+
+	to see ahead of them a Bajoran Monastery badly damaged by 
+	vandals, but repairs are clearly underway... and as they 
+	approach a strange old MONK (male) appears at the doorway... 
+	his eyes lock onto Sisko's as they approach... it's an eerie 
+	moment...
+
+28   AT THE MONASTERY
+
+					MONK #1
+			Welcome, Commander.  Please enter.
+
+	The prophets await you.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT ONE        14.
+
+28   CONTINUED:
+
+	Beat.  Sisko feels uncomfortable with the Monk's stare...
+
+					SISKO
+			Another time, perhaps.
+
+	They move on... And the camera lingers as the Monk's gaze 
+	follows him a mysterious beat...
+
+					MONK #1
+				(beat)
+			Another time.
+
+29   INT. SISKO'S QUARTERS
+
+	As they ENTER... it is dark and grim with a huge outrageous 
+	looking Cardassian master bed.  The room doesn't raise Sisko's 
+	spirits... O'Brien notices...
+
+					O'BRIEN
+			When my wife, Keiko, saw our quarters, 
+			she started talking about visiting 
+			her mother in Kumomoto...
+
+	Sisko examines the strange bed... as Jake goes and looks 
+	into an adjoining bedroom... O'Brien takes the
+	opportunity alone with Sisko to say quietly --
+
+					O'BRIEN
+			Sir, I wouldn't allow the boy to go 
+			roaming... we're still having some 
+			security problems...
+
+					JAKE (O.S.)
+			Dad... !
+
+	Appearing at the door...
+
+					JAKE
+			There's nothing to sleep on in here 
+			except a cushion on the floor!
+
+					O'BRIEN
+			We can get you a real bunk off the 
+			Enterprise...
+				(to Sisko)
+			Oh, and I almost forgot, Captain 
+			Picard wants to see you as soon as 
+			possible.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT ONE        15.
+
+29   CONTINUED:
+
+					SISKO
+				(eyes off O'Brien, a 
+				throwaway)
+			He does...
+
+	O'Brien wouldn't notice an attitude, but we do because we 
+	know of Sisko's experience with Locutus... a beat, as Sisko 
+	deliberately ignores the urgency of the request...
+
+					SISKO
+			Any word on our science and medical 
+			officers?
+
+					O'BRIEN
+			They're expected tomorrow.
+
+	Sisko acknowledges.
+
+					SISKO
+			Jake, I want you to stay here until 
+			I come back...
+
+					JAKE
+			Is this the food replicator?
+
+					O'BRIEN
+				(pained)
+			I'm afraid they're all off-line...  
+			there's plenty of emergency rations... 
+			I could send some down...
+
+					JAKE
+				(I hate this place)
+			Dad...
+
+					SISKO
+			We're just gonna have to rough it 
+			til we get things up and running, 
+			Jake... okay?
+
+					JAKE
+				(not okay)
+			Okay.
+
+					SISKO
+				(this isn't going to 
+				work, but I'll try 
+				to make it look that 
+				I really think it 
+				will, smiles)
+			Okay.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/17/92 - ACT ONE        16.
+
+29   CONTINUED:	(2)
+
+	He looks at O'Brien and they EXIT.  Jake frowns...
+
+30   INT. OPS
+
+	Sisko and O'Brien ENTER from a Turbolift... the multi-tiered 
+	facility lined with computer and life-support systems, 
+	tactical controls, a master communications panel and 
+	transporter pad.  It is in disarray... panels are open... 
+	noticeable gaps appear where machinery has been removed... 
+	conduits hang out of panels... several Bajorans and a couple 
+	of Starfleet supernumeraries are busily working on various 
+	repairs... A beat as they move deeper inside, Sisko looking 
+	around...
+
+					O'BRIEN
+			I'd like to ask the designer what he 
+			was thinking about when they built 
+			this place... I still haven't been 
+			able to find an O-D-N access... that's 
+			the Prefect's office up there...
+
+	Sisko looks up...
+
+31   ANGLE
+
+	The office is on the mezzanine with a balcony like Mussolini 
+	might have designed for himself... Sisko shakes his head...
+
+					SISKO
+			So all others have to look up with 
+			respect.  Cardassian architecture.
+
+					O'BRIEN
+			Yessir.
+				(awkward)
+			Major Kira has been using it...
+
+	They exchange a look.  Sisko starts to move toward the 
+	office...
+
+					SISKO
+			Is it my imagination or is it 
+			unusually warm... ?
+
+					O'BRIEN
+			The environmental controls in Ops 
+			are stuck at thirty-two "C"...  we're 
+			working on it.
+
+	As they reach the office...
+
+					SISKO
+			I guess it's time to meet Major 
+			Kira...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT ONE        17.
+
+31   CONTINUED:
+
+					O'BRIEN
+			Sir, have you ever served with any 
+			Bajoran women?
+
+					SISKO
+			No.  Why?
+
+					O'BRIEN
+				(I warned you)
+			Just wondering, sir.
+
+	Sisko nods... and walks up the stairs to his office...  as 
+	he reaches the door which is open... he can hear her raised 
+	voice in a conversation...
+
+					KIRA...
+
+			... YOU'RE THROWING IT ALL AWAY...
+			ALL OF YOU...
+
+					BAJORAN BUREAUCRAT...
+				(MONITOR)
+			... You're being a fool...
+
+32   INT. COMMANDER'S OFFICE (OPTICAL)
+
+	Seeing Major KIRA NERYS for the first time... a striking 
+	Bajoran woman in her early thirties... dressed in a Bajoran 
+	military uniform... ending her conversation to the Bajoran 
+	official on the monitor...
+
+					KIRA
+				(fuming)
+			... THEN DON'T ASK FOR MY OPINION 
+			NEXT TIME!
+
+	She turns off her monitor with a slap of her hand...  looks 
+	immediately to Sisko at the door...
+
+					KIRA
+			Yes?
+
+					SISKO
+			I'm Benjamin Sisko...
+
+					KIRA
+				(without a beat)
+			I suppose you want the office.
+
+	Sisko does a take... suppressing an incredulous smile... 
+	ENTERING...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT ONE        18.
+
+32   CONTINUED:
+
+					SISKO
+			Well, actually I thought I'd say 
+			hello first and then take the 
+			office... but we could do it in any 
+			order you'd like.
+
+					KIRA
+				(exaggerated)
+			Hello.
+
+					SISKO
+			Is something bothering you, Major?
+
+					KIRA
+			You don't want to ask me that, 
+			Commander...
+
+					SISKO
+			Why not?
+
+					KIRA
+			Because I have a bad habit of telling 
+			the truth... even when people don't 
+			want to hear it.
+
+					SISKO
+				(pleasant)
+			Perhaps I want to hear it.
+
+	A beat.  All right, fine...
+
+					KIRA
+			I don't believe the Federation has 
+			any business being here.
+
+	Sisko nods, takes a beat, then...
+
+					SISKO
+			The provisional government disagrees 
+			with you...
+
+					KIRA
+			The provisional government and I 
+			don't agree on a lot of things... 
+			which is probably why they've sent 
+			me to this god-forsaken place.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT ONE        19.
+
+32   CONTINUED:	(2)
+
+					KIRA
+				(beat)
+			I have been fighting for Bajoran 
+			independence since I was old 
+			enough to pick up a phaser...  
+			finally, we drive out the 
+			Cardassians... and what do our new 
+			leaders do... call up the Federation 
+			and invite them in...
+
+					SISKO
+			The Federation is only here to...
+
+					KIRA AND SISKO
+				(in unison)
+			... help us/you.
+
+					KIRA
+				(continuing)
+			... yes, I know.  The Cardassians 
+			said the same thing sixty years ago.
+
+					SISKO
+			Major, when I was ordered here, I 
+			requested a Bajoran national as my 
+			first officer.  It made sense.  It 
+			still does.  At least to me.  Now, 
+			you and I are gonna have to...
+
+	An alarm goes off... Kira reacts... presses some panels... 
+	moves to a companel... a map of the station comes on the 
+	monitor... with a signal flashing at a certain location... 
+	she hits a panel... the monitor changes to a closeup of ODO 
+	in the security office. Odo has an unfinished face without 
+	distinct features. We'll learn why later on.
+
+					KIRA
+			Odo, are you reading something at A-
+			fourteen?
+
+					ODO
+			My security array has been down for 
+			two hours... I'll meet you there...
+
+	The monitor goes back to standard feeds...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT ONE        20.
+
+32   CONTINUED:	(3)
+
+					KIRA
+				(on the move)
+			We've been having a lot of break-ins 
+			lately... no need to come along, 
+			Commander...
+
+	But he ignores that and follows her out...
+
+33   INT. ASSAYING OFFICE
+
+	A nervous teenage Ferengi (NOG), watching guard at the door, 
+	glances back...
+
+					NOG
+			Hurry up.
+
+	Following his look to see the interior of the office is burned 
+	out... finding a huge, hideous looking adult alien looting a 
+	safe of some valuable mineral samples... putting them into a 
+	pouch.  And as he moves toward the door...
+
+34   INT. PROMENADE
+
+	... they EXIT... react as they see Odo arriving...
+
+					ODO
+			All right, just stand where you are.
+
+	The thieves turn the opposite direction and take a few steps 
+	before they see Kira and Sisko arriving, cutting off that 
+	route of escape too... Nog knows he's caught, gives up (NOTE:  
+	He doesn't put up his hands) but the other alien takes out a 
+	knife-like weapon... and throws it at...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT ONE        21.
+
+35
+thru	OMITTED					  
+37
+
+38   ODO (OPTICAL)
+
+	who twists his entire mid-section out of shape... and the 
+	weapon flies by harmlessly and embeds itself in a wall... 
+	meanwhile, the alien tries to sprint by him but Odo reforms...
+
+39   WIDER (OPTICAL)
+
+	... and grabs him roughly... the alien's bulk makes him 
+	difficult to contain... and it looks like it could be a long 
+	fight but before it even gets started, they are interrupted 
+	by a phaser blast above their heads... they both react and 
+	turn to see --
+
+40   SISKO
+
+	holding a phaser...
+
+					SISKO
+			That's enough.
+
+					ODO
+			Who the hell are you?
+
+					KIRA
+			This is our new Starfleet Commander, 
+			Odo.
+
+					ODO
+				(unimpressed)
+			I don't allow weapons on the 
+			Promenade.  That includes phasers.
+
+					QUARK
+				(O.C.)
+			Nog?  What's going on?
+
+	They turn to see Quark arriving (we saw him earlier in the 
+	bar).
+
+					ODO
+				(to Quark)
+			The boy's in a lot of trouble.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT ONE        22.
+
+40   CONTINUED:
+
+	The boy looks away from Quark's inquiring look...
+	Quark turns to Sisko...
+
+					QUARK
+			Commander, my name is Quark.  I used 
+			to run the local gambling 
+			establishment... this is my brother's 
+			boy... surely you can see that he 
+			only has a peripheral involvement in 
+			all this... we're scheduled to depart 
+			tomorrow...  if we could be permitted 
+			to take him, I promise you he will 
+			be severely...
+
+	Sisko's mind is working... Interrupting --
+
+					SISKO
+			That won't be possible.
+				(to Odo)
+			Take him to the brig.
+
+	Odo acknowledges, leads Nog and the alien away as Quark stares 
+	bitterly at Sisko... then follows the others...
+
+					KIRA
+				(shakes her head)
+			Quark probably sent the two of them 
+			here to steal the ore samples in the 
+			first place...
+
+					SISKO
+				(thoughtful)
+			Major, there's a Ferengi legal 
+			tradition... it's called Plea 
+			Bargaining.  I might let the boy 
+			go... but I want something in exchange 
+			from Mister Quark...  something very 
+			important...
+
+	She looks at him curiously, before she can ask what he's 
+	talking about...
+
+					O'BRIEN'S COM VOICE
+			O'Brien to Commander Sisko.
+
+					SISKO
+				(presses his combadge)
+			Go ahead.
+
+					O'BRIEN'S COM VOICE
+			Sir, the Enterprise hailed us again.  
+			Captain Picard is waiting to see 
+			you.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT ONE        23.
+
+40   CONTINUED:
+
+					SISKO
+				(frowns)
+			Acknowledged.
+				(tight, to Kira)
+			This won't take long.
+
+	He leaves toward the airlock... as she watches him go...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT TWO        24.
+                            ACT TWO                             
+
+	FADE IN:
+
+41   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	docked at DS9.
+
+42   INT. OBSERVATION LOUNGE (OPTICAL)
+
+	Bajor is visible in the window... Picard sits at the end of 
+	the table, going over some information on a PADD... a chime...
+
+					PICARD
+			Come.
+
+	The door opens and Sisko ENTERS... Picard rises to greet him 
+	warmly...
+
+					PICARD
+			Commander, come in.  Welcome to Bajor.
+
+	Picard shakes his hand.
+
+					SISKO
+			It's been a long time, Captain.
+
+	Picard looks at him curiously as they sit.
+
+					PICARD
+			Have we met before?
+
+					SISKO
+			Yessir.  We met in battle.  I was on 
+			the Saratoga at Wolf 359.
+
+	Picard blinks, acknowledging that Sisko has said something 
+	entirely inappropriate.  He chooses to move on... but there 
+	is a definite subtext that runs through the scene... Picard 
+	is curt, remote... Sisko is Starfleet attentive but his eyes 
+	are cold and angry...
+
+					PICARD
+			I assume you've been briefed on the 
+			events leading to the Cardassian 
+			withdrawal.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT TWO        25.
+
+42   CONTINUED:
+
+					SISKO
+			Yessir... I understand they've spent 
+			the last half century robbing the 
+			planet of every valuable resource...  
+			before abandoning it...
+
+					PICARD
+				(nods)
+			They've left the Bajorans without 
+			any way to be self-sustaining...  
+			the relief efforts we've been 
+			coordinating are barely adequate.
+
+	He stands, deliberately putting distance between him and 
+	Sisko, looks out the window at the planet in the distance...
+
+					PICARD
+			I've come to know the Bajora.
+			I'm one of the strongest 
+			proponents for their entry into 
+			the Federation.
+
+					SISKO
+			Is it going to happen?
+
+					PICARD
+			Not easily.  The ruling parties 
+			are at each others throats...
+			factions that were united against 
+			the Cardassians have resumed old 
+			conflicts...
+
+					SISKO
+				(with an attitude)
+			Sounds like they're not ready.
+
+	Picard turns and looks at him sharply.
+
+					PICARD
+			Your job is to do everything short 
+			of violating the Prime Directive to 
+			make sure they are.
+
+	Sisko defensively acknowledges.  Picard moves closer.
+
+					PICARD
+			Starfleet has made me aware of your 
+			objections to this assignment, 
+			Commander.  I would think that after 
+			three years at the Utopia Planitia 
+			yards, you'd be ready for a change.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT TWO        26.
+
+42   CONTINUED:	(2)
+
+					SISKO
+				(not backing off a bit)
+			I have a son that I'm raising alone, 
+			Captain.  This is not the ideal 
+			environment.
+
+					PICARD
+			Unfortunately, as Starfleet officers, 
+			we do not always have the luxury of 
+			serving in an ideal environment.
+
+					SISKO
+			I realize that, sir.  And I'm 
+			investigating the possibility of 
+			returning to Earth for civilian 
+			service.
+
+	Picard reacts, studies him, doesn't like him.
+
+					PICARD
+			Perhaps Starfleet Command should 
+			begin to consider a replacement for 
+			you.
+
+					SISKO
+			That's probably a good idea.
+
+	A beat.
+
+					PICARD
+			I'll look into it.  In the meantime...
+
+	Sisko rises... interrupting...
+
+					SISKO
+			In the meantime, I'll do the job 
+			I've been ordered to do to the best 
+			of my ability, sir... thank you for 
+			the briefing.
+
+	He waits to be dismissed, locking eyes with Picard.
+	Obviously, Picard hadn't intended to end the discussion 
+	here... but finally after a long beat...
+
+					PICARD
+			Dismissed.
+
+	Sisko EXITS and...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT TWO        27.
+
+43   EXT. SPACE - DEEP SPACE NINE (OPTICAL)  (DAY #2)
+
+44   INT. SECURITY OFFICE - STARTING ON QUARK
+
+	who is sitting...
+
+					SISKO (O.S.)
+			It's really quite simple, Quark, 
+			you're not going to leave.
+
+	Moving to reveal Sisko who is leaning against a wall, 
+	casually... Odo's sitting at his desk... Odo reacts, looks 
+	at Sisko...
+
+					QUARK
+				(reacts)
+			Not going to leave... But we're all 
+			packed and ready to...
+
+					SISKO
+			Unpack.
+
+					QUARK
+			Why would you want me to stay?
+
+					ODO
+				(looking to Sisko)
+			I'm curious myself.  The man is a 
+			gambler and a thief.
+
+					QUARK
+			I am not a thief.
+
+					ODO
+			You are a thief.
+
+					QUARK
+			If I am, you haven't been able to 
+			prove it for four years...
+
+	Sisko moves to the door, looking out to the Promenade...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        28.
+
+44   CONTINUED:
+
+					SISKO
+			My officers, the Bajoran engineers, 
+			all their families depend on the 
+
+			shops and services of this 
+			Promenade... but if people like you 
+			abandon it, this is going to become 
+			a ghost town.  We need someone to 
+			step forward and say, "I'm staying"... 
+			"I'm rebuilding"... we need a 
+			community leader... and it's going 
+			to be...  you, Quark...
+
+					QUARK
+			Me?  A Community Leader?
+
+	He glances at Odo... who sort of leans back in his chair and 
+	grins, kind of liking this situation that Quark finds himself 
+	in...
+
+					ODO
+				(why not?)
+			You have all the character references 
+			of a politician.
+
+					QUARK
+			How could I possibly operate my 
+			establishment under Starfleet rules 
+			of conduct?
+
+					SISKO
+			This is still a Bajoran station.
+			We're just here to administrate.
+			You run honest games, you won't 
+			have any problems from me.
+
+					ODO
+				(grumps)
+			'Honest' games, hmph...
+
+	A beat.  Quark shakes his head.
+
+					QUARK
+			Commander, I've made a career out of 
+			knowing when to leave.  This Bajoran 
+			provisional government is far too 
+			provisional for my taste.  And when 
+			governments fall, people like me are 
+			lined up and shot...
+
+					SISKO
+			Well, there is that risk... but then 
+			you are a gambler, Quark...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        29.
+
+44   CONTINUED:	(2)
+
+					ODO
+			... and a thief...
+
+					SISKO
+				(preparing to leave, 
+				overly "sincere")
+			That poor kid is about to spend the 
+			best years of his life in a Bajoran 
+			prison.  I'm a father myself.  I 
+			know what your brother must be going 
+			through.  The boy should be with his 
+			family... not in a cold jail cell...
+				(beat)
+			Think about it.
+
+	He EXITS.  Quark is stunned... turns and looks at an amused 
+	Odo...
+
+					ODO
+			You know, at first I didn't think I 
+			was gonna like him.
+
+	On Quark's reaction...
+
+45   INT. PROMENADE
+
+	Kira lifting heavy fragments of a broken wall, putting them 
+	in a trash bin... usually far too mundane a job for an 
+	officer.  Sisko arrives, reacts.
+
+					SISKO
+			Major... ?
+
+					KIRA
+				(shrugs)
+			Everyone else is busy repairing the 
+			primary systems...
+
+	She pauses to make a point.
+
+					KIRA
+				(challenging)
+			I suppose Starfleet officers aren't 
+			used to getting their hands dirty...
+
+	Sisko raises an eyebrow, moves to pick up a nearby 
+	fragment...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        30.
+
+					KIRA
+			In the refugee camps, we learned to 
+			do whatever had to be done...  it 
+			didn't matter who you were...
+
+	And as they start to load the fragments into the bin...  two 
+	passersby react to the odd sight...
+
+					SISKO
+				(changing the subject)
+			I was just talking to our good 
+			neighbor Quark... he's laying odds 
+			the government's going to fall...
+
+					KIRA
+			Quark knows a sure bet when he sees 
+			it.
+				(off Sisko's reaction)
+			This government will be gone in a 
+			week... and so will you...
+
+					SISKO
+			What happens to Bajor then?
+
+					KIRA
+			Civil War....
+
+					SISKO
+			You think it's inevitable...
+
+					KIRA
+				(nods)...
+			The only one who can prevent it... 
+			is Opaka.
+
+					SISKO
+			Opaka?
+
+					KIRA
+			Our spiritual leader.  She's known 
+			as the Kai.  Our religion is the 
+			only thing that holds my people 
+			together.  If she would call for 
+			unity, they would listen.
+
+46   TWO SHOT
+
+	She kneels to pick up some smaller pieces, Sisko kneels down 
+	next to her and helps...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 09/03/92 - ACT TWO        31.
+
+46   CONTINUED:
+
+					KIRA
+				(continuing)
+			Leaders of all the factions have 
+			been trying to get to her... but she 
+			lives in seclusion and rarely sees 
+			anyone...
+
+	But on that line, a shadow falls over them and they
+	look up to see --
+
+47   LOW ANGLE - THE OLD MONK
+
+	standing above them looking down... a long beat.
+
+					MONK #1
+			Commander.  It is time.
+
+	He moves away...
+
+48   SISKO'S FACE
+
+	reacts curiously and he stands...
+
+49   WIDE
+
+	as he finds himself drawn to follow the Monk.   On Kira's 
+	reaction...
+
+50   EXT. BAJOR CAPITOL CITY - DAY - ESTABLISHING (MATTE)
+
+	Like Berlin after the war.  Devastated... wreckage...
+	burned out buildings... what remains is a mystical looking 
+	skyline with rounded domes and spherical shapes -- ancient 
+	architecture that has somehow survived...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT TWO        32.
+
+51   INT. MONASTERY - DAY
+
+	Dark, shadows... light streaming through cracks and holes in 
+	the walls... close on a Monk (#2) who chants in mournful 
+	three part harmony... as another, who is hobbled by injuries, 
+	makes repairs to the building...  moving to find Sisko who 
+	is shocked by the damage before him... the desecration is 
+	appalling... windows smashed out... walls crushed... statues 
+	beheaded...
+
+					KAI OPAKA (O.S.)
+			Commander Sisko...
+
+	Sisko turns toward the shadows of an entry way to see
+
+52   THE FIGURE OF A WOMAN
+
+	And as she emerges from the dark... we see a strange looking, 
+	middle aged Bajoran dressed in a colorful sheath... there is 
+	a centered calm in her, she seems to exist on a higher plane.  
+	Yet there is a deep sadness in this woman who carries the 
+	pain of her people.  She has been hurt... her face is badly 
+	bruised... her scalp has a small bandage... a cane supports 
+	a bad limp...
+
+					KAI OPAKA
+			I apologize for the conditions in 
+			which we greet you...
+
+					SISKO
+				(knowingly)
+			The Cardassians... ?
+
+	Opaka acknowledges, leads Sisko deeper into the Monastery... 
+	they reach a sacred area featuring a lovely reflecting pool 
+	in the center... Opaka sits not on a pulpit but in a casual 
+	area side by side with Sisko on a wooden bench...
+
+					KAI OPAKA
+				(continuing)
+			Your arrival has been greatly 
+			anticipated.
+
+	Sisko reacts, good, maybe this will be easy... and he can 
+	make a quick exit...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        33.
+
+52   CONTINUED:
+
+					SISKO
+			I'm glad to hear that.  If Bajor can 
+			join the Federation it will bring 
+			stability...
+
+					KAI OPAKA
+				(interrupting)
+			I do not speak of the Federation.
+			I speak of your arrival...
+
+					SISKO
+			Mine?
+
+	Opaka doesn't respond but reaches out with a hand and gently 
+	cups one side of Sisko's face like a grandmother studying 
+	the face of a child...
+
+					KAI OPAKA
+			Have you ever explored your pagh, 
+			Commander?
+
+					SISKO
+			Pagh?
+
+	Opaka's hand moves to Sisko's ear... a finger runs down the 
+	outer rim slowly...
+
+					KAI OPAKA
+			A Bajoran draws courage from his 
+			spiritual life... our lifeforce, our 
+			pagh, is replenished by the 
+			prophets...
+
+	An inner calm coming to her eyes, a witness to a miracle... 
+	terribly moved... Opaka squeezes the earlobe... surprising 
+	Sisko who's head jerks with pain...
+
+					KAI OPAKA
+				(knowingly, with 
+				sympathy)
+			Breathe.
+
+					SISKO
+				(uncomfortable)
+			Kai Opaka, if we could discuss your 
+			role in the post-Cardassian 
+			transition...
+
+					KAI OPAKA
+			Breathe.
+
+	And begins to run her fingers back up the edge of the ear...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT TWO        34.
+
+52   CONTINUED:	(2)
+
+					KAI OPAKA
+			Ironic.  One who does not wish to be 
+			among us is to be the emissary.
+
+	Sisko reacts, the emissary to Bajor?  What did she mean?  Is 
+	his lack of interest so obvious?  Her face studies every 
+	microridge... finally she is finished.
+
+					KAI OPAKA
+			Please come with me...
+
+	Opaka abruptly stands and Sisko reacts, rises ... as well... 
+	she takes a tiny remote control out of her pocket and when 
+	she touches it...
+
+53   ANGLE - THE REFLECTING POOL (OPTICAL)
+
+	Disappears... it was a hologram... revealing a carved stone 
+	stairway.  Sisko follows her down...
+
+54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY
+
+	Dark... mysterious... lit by candles... the...
+	stairway leads into a small dark cellar... Opaka, using her 
+	cane, leads Sisko down the stairs...
+
+					KAI OPAKA
+			You are correct that Bajor is in 
+			grave jeopardy... but it is the threat 
+			to our spiritual life that far 
+			outweighs any other...
+
+					SISKO
+			Perhaps, but I'm powerless until I 
+			have a unified...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        35.
+
+54   CONTINUED:
+
+					KAI OPAKA
+			I cannot give you what you deny 
+			yourself...
+
+					SISKO
+			I'm sorry... ?
+
+					KAI OPAKA
+			Look for solutions from within, 
+			Commander...
+
+	Sisko tries to figure that one out as Opaka moves to an ark 
+	and opens it...
+
+55   ANGLE (OPTICAL)
+
+	Inside, there is a mesmerizing sight... floating within a 
+	forcefield is a strange, floating orb, shaped like an hour 
+	glass... glowing green, transparent...  Opaka steps away...
+
+56   CLOSE ON SISKO
+
+	as he moves forward, studying it, his face green with the 
+	reflected light...
+
+					SISKO
+			What is it?
+
+57   ANGLE
+
+	to see Opaka behind him...
+
+					KAI OPAKA
+			The tear of the prophet.
+
+	She disappears behind a rockface, and as Sisko reacts, 
+	turns...
+
+58   REVERSE ANGLE (OPTICAL)
+
+	to see the orb's forcefield disappear... and suddenly the 
+	green light spins out and envelops Sisko, like a whirling 
+	cyclone, blinding out the surrounding chamber... and when it 
+	clears... he's standing just as before, but he's no longer 
+	in the chamber and no longer in his Starfleet uniform... 
+	instead he finds himself on...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        36.
+
+59   EXT. BEACH - DAY
+
+	wearing a bathing suit, holding a tray of three drinks... 
+	he's fifteen years younger... looking around him...
+
+					SISKO
+			What... the hell... Opaka?
+
+	Some passers-by give him an odd look... after a second, he 
+	realizes that
+
+60   HIS FEET
+
+	are burning on the sand...
+
+					SISKO
+				(re: his feet)
+			Ahh...
+
+	He prances on his tip-toes looking for some relief...
+
+61   ANGLE
+
+	Looking rather silly, finally, because he just has to do 
+	it... he jumps on a stranger's blanket...  inadvertently 
+	kicking sand on a woman who is laying on her stomach...
+
+					JENNIFER
+			Hey!
+
+					SISKO
+			I'm sorry... it's just that the sand 
+			was burning my...
+
+	He stops as she turns over, holding the loose bra to her 
+	breast... she's wearing 24th century sunglasses...  he is 
+	stunned as he looks at her... doesn't say a word... as he 
+	kneels down and reaches out... and she recoils a bit as she 
+	doesn't know what he's doing...  and he takes her sunglasses 
+	off...
+
+					SISKO
+			Jen... Jennifer... ?
+
+					JENNIFER
+				(unrecognized blinks)
+			Yes... ?  I'm sorry... did we meet 
+			last night at George's party... ?
+
+					SISKO
+			George?  Jennifer... wait a minute, 
+			this is impossible.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        37.
+
+61   CONTINUED:
+
+	He stands up... looks around in nightmarish confusion...
+
+					JENNIFER
+			Are you okay?
+
+					SISKO
+				(looking around, 
+				stunned, to himself)
+			I know this place... This is Gilgo 
+			Beach.  Where we met.
+
+					JENNIFER
+			We've met here... before?
+
+					SISKO
+			I was carrying...
+
+	He looks at the three lemonades.
+
+					SISKO
+			... three lemonades...
+
+	She looks at him uneasily... ties her brassiere on...
+
+					SISKO
+				(continuing)
+			My feet were burning... I stopped 
+			here... do you understand how 
+			incredible this is?  No of course 
+			you don't.  Jennifer.
+
+	He looks at her trying to contain the emotions... 
+	there are so many things he wants to tell her... but
+	all he can get out is --
+
+					SISKO
+			Have a lemonade.
+
+					JENNIFER
+			Sorry, I don't accept drinks from 
+			strange men on the beach...
+
+	She looks at him with vague amusement, gets up, starts to 
+	walk briskly along the water's edge... he gets up, follows 
+	her...
+
+62   ALONG THE BEACH
+
+	as he catches up... they continue to walk...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        38.
+
+					JENNIFER
+			Tell me the truth.  Did we really 
+			meet before?
+
+	A beat.  Sisko looks at her... how does he tell her...  what 
+	can he tell her... finally, he decides to tell the "truth"...
+
+					SISKO
+			No.
+
+					JENNIFER
+				(smiles, shakes her 
+				head)
+			So how did you know my name?
+
+					SISKO
+			I...
+				(beat)
+			George told me... at the party...
+
+					JENNIFER
+			Are you going to tell me your name?
+
+					SISKO
+			Oh.  Sorry.  Ben Sisko.  I...
+			I just graduated from Starfleet 
+			Academy... I'm waiting for my 
+			first posting...
+
+					JENNIFER
+			A junior officer.  My mother warned 
+			me to watch out for junior officers...
+
+					SISKO
+			Your mother's going to adore me.
+
+					JENNIFER
+			You're awfully sure of yourself.
+
+					SISKO
+			It's not every day you meet the girl 
+			you're going to marry.
+
+	That stops her in her tracks... she laughs at his impudence.
+
+					JENNIFER
+			Do you use this routine a lot with 
+			women... ?
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        39.
+
+62   CONTINUED:	(2)
+
+					SISKO
+			No.  Never before.  And never again.
+
+					JENNIFER
+			Sure...
+
+					SISKO
+			How about letting me cook dinner for 
+			you tonight... my father was a gourmet 
+			chef... I'll make his famous aubergine 
+			stew.
+
+					JENNIFER
+			I don't know...
+
+					SISKO
+			You're supposed to say yes...
+
+63   ANGLE (OPTICAL)
+
+	The Orb is floating in the air above the beach... only he 
+	can see it... he reacts... she looks at him and smiles, shakes 
+	her head...
+
+					JENNIFER
+			I'll probably be sorry...
+
+					SISKO
+				(urgently)
+			Jennifer...
+
+	The green light spins out of the orb... The light envelopes 
+	him... The light clears... he is back in...
+
+64   INT. CHAMBER UNDER THE MONASTERY (OPTICAL)
+
+	As the experience has ended... he... sees Opaka standing 
+	there... closing the ark, the orb inside...  he is shaken by 
+	the experience, his legs tremble...  his attempt to disguise 
+	the emotional impact of the event is far short...
+
+					SISKO
+				(softly)
+			Is it some kind of holographic device?
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT TWO        40.
+
+64   CONTINUED:
+
+					KAI OPAKA
+			No.  What you experienced barely 
+			begins to reveal its powers...
+			This orb appeared in the skies 
+			over ten thousand years ago.
+			Eight others have been discovered 
+			since. Tradition says they 
+			were sent from the Celestial Temple.
+			What they have taught us has 
+			shaped our theology.
+
+	She lifts the ark and hands it to Sisko... it is a meaningful, 
+	spiritual moment for Opaka... Sisko reacts with curiosity...
+
+					KAI OPAKA
+			It will lead you to the Temple.
+
+					SISKO
+			Excuse me... ?
+
+					KAI OPAKA
+				(with greater emphasis)
+			You must find the Celestial Temple 
+			and warn the prophets.
+
+					SISKO
+				(beat)
+			Warn "them" about what?
+
+					KAI OPAKA
+			The Cardassians took the other 
+			eight orbs.  They will stop at 
+			nothing to decipher their 
+			powers... even if it means 
+			discovering where they came from.
+			If they do, they might destroy 
+			the Celestial Temple itself... 
+			which could mean the spiritual 
+			disintegration of Bajor.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT TWO        41.
+
+64   CONTINUED:	(2)
+
+					SISKO
+			To expect me to go off on some sort 
+			of... of quest...
+
+					KAI OPAKA
+			I cannot unite my people until I 
+			know that the prophets have been 
+			forewarned.
+
+	She looks at him -- it's as simple as that.  Do this or I 
+	cannot help you.  A slight sympathetic smile crosses her 
+	face...  The Kai looks at him knowingly...
+
+					KAI OPAKA
+			You will seek the prophets.  In the 
+			end, not for Bajor and not for the 
+			Federation... but for yourself, for 
+			your own pagh.  It is, quite simply, 
+			Commander, the journey you have always 
+			been destined to take.
+
+	Off Sisko's reaction...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT THREE       42.
+                           ACT THREE                            
+
+	FADE IN:
+
+65   EXT. SPACE - DS9 (OPTICAL)
+
+	Establishing.  The Enterprise is still docked.
+
+66   INT. SISKO'S QUARTERS
+
+	Dark as he ENTERS... he moves through the first room without 
+	turning on the lights into...
+
+67   JAKE'S ROOM
+
+	where the boy is asleep in his clothes on the floor on the 
+	cushion, looking uncomfortable... we might see some 24th 
+	century teenage paraphernalia to establish that the kid has 
+	had something to do in his room all this time... Sisko looks 
+	down at him and grins, kneels to pull a blanket over him... 
+	finds that he has to remove a catcher's glove containing a 
+	baseball from the boy's hand... Sisko studies the boy's 
+	face...  after a beat, the boy's sleepy eyes open and see 
+	his father looking down at him...
+
+					JAKE
+				(sleepy)
+			What?
+
+					SISKO
+				(softly)
+			I was just thinking how much you 
+			look like your mom.
+
+	The boy smiles in his sleep and Sisko strokes his hair once 
+	and stands... and as he puts down the glove and baseball on 
+	a table and... moves out of the room...
+
+					KIRA'S COM VOICE
+			Kira to Sisko...
+
+	Sisko closes the door behind him before responding...
+
+					SISKO
+			Go ahead, Major.
+
+					KIRA'S COM VOICE
+			Sorry to disturb you, Commander.
+			But there's something on the 
+			Promenade you might want to see.
+
+	Off his reaction...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT THREE       43.
+
+68   INT. PROMENADE
+
+	On a Turbolift as Sisko arrives... reacts to what we don't 
+	see yet... but we do hear alien music and as he leads us 
+	there, we reveal that Quark's is open for business... and it 
+	is a beacon for the otherwise unlighted thoroughfare... people 
+	are arriving... we can see smiling faces for the first time...
+
+69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL
+
+	an alien version of roulette... moving to find the Ferengi 
+	Pit Boss running the game...
+
+					PIT BOSS
+			Fortune's fates are with you today, 
+			friends... prompt wagers, please... 
+			I'm sorry, Madame, Quark's does not 
+			accept travelers' vouchers... gold 
+			or hard currency, please... final 
+			wagers...
+
+	And as we continue to move to see a crowded, smoky gambling 
+	facility... various gaming tables, some games we recognize, 
+	some we don't... at one table, a voice yells --
+
+					FEMALE VOICE
+			Dabo!
+
+	And everyone at the table groans like someone lost big... we 
+	continue our move to see an alien musician playing a strange 
+	instrument... past the stairs, where a couple is being 
+	escorted up by a Ferengi... finally coming to the entrance 
+	where Sisko is ENTERING from the Promenade... glancing 
+	around... he moves toward the Bar...
+
+70   AT THE BAR
+
+	Quark moves to him...
+
+					QUARK
+			What'll you have, Commander?
+
+					SISKO
+			How's the local synthale?
+
+					QUARK
+			You won't like it.
+				(off Sisko's reaction)
+			I love the Bajorans... such a deeply 
+			spiritual culture... but they make a 
+			dreadful ale.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT THREE       44.
+
+70   CONTINUED:
+
+					QUARK
+			Don't ever trust an ale from a god 
+			fearing people...
+
+	During the above, Quark has been drawing an ale from beneath 
+	the bar... and as he places it front of Sisko, with 
+	punctuation...
+
+					QUARK
+				(continuing)
+			... or a Starfleet Commander who has 
+			one of your relatives in jail.
+
+	Over Sisko's even reaction...
+
+					PIT BOSS VOICE (O.S.)
+			Dabo!
+
+71   EXT. SPACE - DEEP SPACE NINE (OPTICAL)  (DAY #3)
+
+	The Enterprise still in dock.  Another ship arriving.
+
+					SISKO (V.O.)
+			Station log.  Stardate xxxxx.x.
+			The Enterprise has been ordered 
+			to the Lapolis system. They're 
+			scheduled to depart at zero-five 
+			hundred hours after offloading 
+			three runabout class vessels.
+			Meanwhile, our medical and science 
+			officers are arriving... and I'm 
+			looking forward to a reunion with 
+			a... very old... friend.
+
+72   INT. PROMENADE
+
+	Sisko and Kira ENTER from the Airlock Gate accompanied by 
+	two officers in Starfleet blue uniforms... one is DOCTOR 
+	JULIAN BASHIR, human, male, mid-twenties, wide-shouldered 
+	with a boyish face, cocky with a little too much confidence.  
+	He carries a shoulder bag.  The other is LIEUTENANT JADZIA 
+	DAX, late twenties, very attractive with a serene manner and 
+	a dry, affectionate sense of humor...
+
+					KIRA
+			Commander, if you'd like me to give 
+			them a tour of the station...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT THREE       45.
+
+72   CONTINUED:
+
+					SISKO
+			You and Doctor Bashir go ahead...
+
+	I'm afraid I have to put Lieutenant Dax right to work...
+
+	As she begins to lead him toward the Promenade, Bashir 
+	turns to Dax trying not very successfully to disguise
+	a deeper interest with a casual invitation --
+
+					BASHIR
+			Maybe we could get together later, 
+			Jadzia... for dinner or a drink...
+
+					DAX
+			I'd be delighted.
+
+	Sisko raises an eyebrow at Bashir's interest... and they 
+	separate.  We stay with Dax and Sisko as they move down a 
+	thoroughfare... There's a quick, familiar repartee to their 
+	exchanges...
+
+					SISKO
+			He's a little young for you, isn't 
+			he?
+
+					DAX
+				(slightly amused)
+			He's twenty-seven.  i'm twenty-
+			eight.
+
+					SISKO
+			Three hundred and twenty-eight, maybe.  
+			Did you tell him about that slug 
+			inside you?
+
+	Meant and received as an affectionate insult that only one's 
+	closest friend would make.  She smiles.
+
+					DAX
+			Yes, Benjamin, he knows I'm a 
+			Trill.  He finds it fascinating.
+			He's never met a joined species 
+			before.
+
+					SISKO
+			I wonder if he'd've been as fascinated 
+			if you still looked the way you did 
+			the last time I saw you.
+
+					DAX
+				(teasingly)
+			Perhaps not.
+
+	A beat.  Sisko grins, shakes his head...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT THREE       46.
+
+72   CONTINUED:	(2)
+
+					SISKO
+			This is going to take some getting 
+			used to.
+
+					DAX
+			Don't be ridiculous.  I'm still the 
+			same Dax...
+				(a beat)
+			... more or less...
+
+	They walk into a Turbolift.
+
+73   INT. INFIRMARY
+
+	Kira leads Bashir inside a small, examining room type 
+	facility... one table... some panels... major damage has 
+	been done by vandals...
+
+					KIRA
+			I'm afraid we've had some security 
+			problems... looks like looters got 
+			in here...
+
+	Bashir looks around... rather than being depressed by the 
+	size or lack of equipment... there is an excitement in his 
+	eyes...
+
+					BASHIR
+			This'll be perfect... real...
+				(searching for the 
+				right description)
+			... frontier medicine...
+
+					KIRA
+			Frontier medicine?
+
+					BASHIR
+			Major... I had my choice of any job 
+			in the fleet...
+
+	Noting the arrogance...
+
+					KIRA
+			Did you...
+
+					BASHIR
+				(gung-ho)
+			I didn't want some cushy job...  or 
+			a research grant... I wanted this.  
+			The farthest reaches of the galaxy. 
+			One of the most remote outposts 
+			available.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT THREE       47.
+
+73   CONTINUED:
+
+					BASHIR
+			This is where the adventure is.
+			This is where heroes are made.
+			Right here.  In the wilderness.
+
+					KIRA
+				(dry)
+			This wilderness is my home.
+
+					BASHIR
+				(reacts)
+			I didn't mean...
+
+					KIRA
+				(sharp, with sarcasm)
+			The Cardassians left behind a lot of 
+			injured people, Doctor... you can 
+			make yourself useful by bringing 
+			some of your Federation Medicine to 
+			the "natives"...  you'll find 
+			them a friendly, simple folk...
+
+	She EXITS... on his reaction... ...
+
+74   INT. LABORATORY - CLOSE ON THE ORB (OPTICAL)
+
+	behind the forcefield...
+
+					SISKO
+			We do have one advantage.  The monks 
+			have been studying these things for 
+			ten thousand years...
+
+	I've had our computers set up to interface with their 
+	historical data banks...
+
+					DAX
+			That should give us something...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT THREE       48.
+
+74   CONTINUED:
+
+					SISKO
+				(acknowledges)
+			Soon as possible, Dax.  The eight 
+			other orbs are undoubtedly in some 
+			Cardassian laboratory...  being turned 
+			upside down and inside out...
+
+	She nods.  He begins to leave...
+
+					DAX
+			Benjamin...
+				(he pauses)
+			I was happy when I heard you'd 
+			accepted this assignment... I'd been 
+			worried about you...
+
+	He looks at her evenly.  With affection --
+
+					SISKO
+			It's good to see you too, old man.
+
+	She smiles and he EXITS.  Dax takes a thoughtful beat, where 
+	to begin?... moves to a console...
+
+					DAX
+			Computer, create a chronological 
+			data base for all historical 
+			references to the orbs... plus...
+				(thinking, shrugs, 
+				why not)
+			... all reports of any unexplained 
+			phenomena in Bajoran space...
+			including all supernatural 
+			occurrences recorded in Bajoran 
+			mythology...
+
+					COMPUTER VOICE
+			Time parameters?
+
+					DAX
+			Ten millenia.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/31/92 - ACT THREE       49.
+
+74   CONTINUED:	(2)
+
+					COMPUTER VOICE
+			Initializing data base.  Requested 
+			function will require two hours to 
+			complete.
+
+	Dax nods, leans back... stretches, takes a deep breath... 
+	she looks at...
+
+75   ANGLE - INCLUDE THE ORB (OPTICAL)
+
+	behind the forcefield... and as she studies it, her curiosity 
+	cannot be denied... she stands... walks over and after a 
+	beat, presses a panel... and the forcefield disappears... 
+	and the green light swirls out and envelops her... and when 
+	it disappears she is no longer in the laboratory but in...
+
+76   OMITTED
+
+77   INT. OPERATING ROOM - DAY
+
+	Dax is on an operating table, dressed in a hospital gown, 
+	reacts to the sudden change.  She tries to get her bearings. 
+	Beside her on another table is a very old man (CURZON) who 
+	is dying...
+
+					DAX
+				(recognizes him, 
+				surprised)
+			Curzon... ?
+
+	The old man reaches out a frail hand and take her hand 
+	and squeezes it, smiles weakly at her...  in the 
+	background, we can see glimpses of people standing 
+	(no faces) as though some kind of ceremony is taking 
+	place...
+
+78   ANGLE - TWO SHOT
+
+	to see the old man's table in the background of Dax's table... 
+	as a dripping wet worm-like symbiont is guided by a pair of 
+	hands out of an orifice in the general area of the human 
+	navel... and as the hands lift it, another pair of hands 
+	uses ritual gold surgical scissors to clip an umbilical 
+	connection to the old man...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT THREE       50.
+
+79   ANGLE - DAX'S STOMACH
+
+	... when the worm is placed on her stomach, it burrows its 
+	way into her orifice... and as it does...
+
+80   DAX'S FACE
+
+	is filled with an enlightenment... a wonder... an 
+	excitement... new wisdom... new peace...
+
+81   ANGLE (OPTICAL)
+
+	to include the orb in the shot... and as the green light 
+	begins to swirl... the light envelopes her...  and when it 
+	clears... she is back...
+
+82   INT. LABORATORY (OPTICAL)
+
+	As before... as she stares at the orb....
+
+83   EXT.  SPACE - THE ENTERPRISE (OPTICAL)
+
+	docked at the station...
+
+84
+thru	OMITTED
+84A
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/7/92 - ACT THREE       51.
+
+85   INT.  MAIN BRIDGE
+
+	The Turbolift opens... O'Brien comes out, walks along the 
+	aft stations looking at command which is on nightwatch 
+	lighting, manned by supernumeraries... a Lieutenant glances 
+	over and sees O'Brien looking around...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT THREE       52.
+
+85   CONTINUED:
+
+					LIEUTENANT
+			The Captain's in the ready room, 
+			Chief... Should I tell him you're 
+			here?
+
+					O'BRIEN
+				(a beat, shakes his 
+				head)
+			That's okay.  Thanks.
+
+	After a last sentimental look around, O'Brien EXITS to the 
+	Turbolift.
+
+86   INT. TRANSPORTER ROOM
+
+	O'Brien ENTERS... a female transporter chief is waiting...
+
+					O'BRIEN
+			Transport me to the Ops pad, Maggie...
+
+					TRANSPORTER CHIEF
+			Yessir.
+
+	O'Brien moves to the pad when a voice behind him, stops 
+	him...
+
+					PICARD (O.S.)
+			Mister O'Brien...
+
+87   ANGLE
+
+	O'Brien turns to see Picard ENTERING...
+
+					PICARD
+			I believe I just missed you on the 
+			bridge...
+
+					O'BRIEN
+			Yessir... I didn't want to disturb 
+			you...
+
+	Picard motions for the transporter chief to leave...  she 
+	does.
+
+					PICARD
+			Your favorite transporter room, isn't 
+			it... ?
+
+					O'BRIEN
+			Number three, yessir.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT THREE       53.
+
+87   CONTINUED:
+
+					PICARD
+				(nods)
+			You know, yesterday, I called down 
+			here... and asked for you without 
+			thinking.  It won't be quite the 
+			same...
+
+					O'BRIEN
+				(shrugs)
+			It's just a transporter room, sir.
+
+	Picard nods, they grin at each other, knowing the sentiment 
+	that comes with leaving your old station...  it's about as 
+	much sentiment as O'Brien can handle.
+
+					O'BRIEN
+			Permission to disembark, Captain... ?
+
+					PICARD
+			Permission granted.
+
+88   ANGLE (OPTICAL)
+
+	O'Brien climbs onto the pad.  Picard moves to the console.  
+	They look at each other a long beat.
+
+					O'BRIEN
+			Energize.
+
+	Picard presses the panels and O'Brien DEMATERIALIZES...  on 
+	Picard...
+
+89   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	moves away from the docking position... and after a beat, it 
+	warps away...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT FOUR       54.
+                           ACT FOUR                             
+
+	FADE IN:
+
+90   INT. COMMANDER'S OFFICE  (DAY #4)
+
+	Sisko presses a control panel on a monitor and watches a 
+	recorded transmission from a university chancellor on Earth...
+
+					CHANCELLOR (MONITOR)
+			Just a follow-up, Ben... that old 
+			house you asked about on Moravian 
+			Lane is available... it's yours if 
+			you want it... we look forward to 
+			hearing your decision.
+
+	A panel appears noting the end of transmission.  Sisko stares 
+	at the screen.
+
+					KIRA'S COM VOICE
+			Kira to Commander Sisko.  A Cardassian 
+			warship has just entered Bajoran 
+			space...
+
+	He rises...
+
+					SISKO
+			On screen.
+
+	Walks out to his balcony...
+
+91   INT. OPS (OPTICAL)
+
+	O'Brien is at his station... Kira is at the command center... 
+	some Bajoran supernumeraries are continuing repairs... on 
+	the viewscreen: a huge Cardassian warship moves toward them...
+
+					O'BRIEN
+			Message coming in from their 
+			commander, Gul Dukat...
+
+					KIRA
+			Dukat.  He used to be the Cardassian 
+			Prefect of Bajor...
+
+					O'BRIEN
+			He's requesting permission to come 
+			aboard... to greet us...
+				(sarcastic)
+			Surely a coincidence that the 
+			Enterprise just left...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/31/92 - ACT FOUR       55.
+
+91   CONTINUED:
+
+	They look to Sisko for orders... as he studies the
+	screen --
+
+					SISKO
+			Mister O'Brien, tell Gul Dukat I 
+			look forward to meeting him.
+
+	And we push into him... as he awaits his first confrontation 
+	with the Cardassians...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/31/92 - ACT FOUR       56.
+
+92   OMITTED
+
+93   INT. PROMENADE
+
+	showing the Gestapo-like arrival of a dozen Cardassian 
+	officers.   The officers move toward Quark's.
+
+94   INT. COMMANDER'S OFFICE
+
+	Sisko is at his desk... Dukat ENTERS without knocking.
+
+					DUKAT
+			Good day, Commander.
+
+					SISKO
+				(nods a greeting, 
+				rising)
+			Gul Dukat...
+
+					DUKAT
+			Excuse my presumption, but this was 
+			my office only two weeks ago...
+
+	He sits down... he is overly cordial as classic bullies can 
+	be...
+
+					DUKAT
+			So, have you been able to get the 
+			food replicators to work properly?
+
+					SISKO
+			Frankly, no.
+
+					DUKAT
+			Neither could we.  That's one 
+			technology you have over us.  You do 
+			know how to make a perfect onion 
+			soup.
+
+	He stands up again, uncomfortable...
+
+					DUKAT
+			I'm not used to being on this side 
+			of the desk.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FOUR       57.
+
+94   CONTINUED:
+
+	He stands up, looks out at the Ops area below that used to 
+	be part of his domain.
+
+					DUKAT
+			I'll be honest with you, Commander.  
+			I miss this office.
+			I wasn't happy about leaving it.
+
+					SISKO
+			Drop by any time you're feeling 
+			homesick...
+
+					DUKAT
+			You are very gracious.  And allow me 
+			to assure you that we only want to 
+			be helpful in this difficult 
+			transition.  You are far from the 
+			Federation fleet, alone in this remote 
+			outpost, with poor defense systems.  
+			Your Cardassian neighbors will be 
+			quick to respond to any problems you 
+			might have.
+
+					SISKO
+			We'll try to keep the dog off your 
+			lawn.
+
+	Dukat looks at Sisko, measuring him.  Abruptly changing the 
+	subject...
+
+					DUKAT
+			So what did you think of Kai Opaka?
+
+	Sisko looks at him evenly for a beat... Dukat barely pauses...
+
+					DUKAT
+			Oh, I stay informed... I know you 
+			went to the surface to see her...
+
+	I understand you brought back one of the orbs.  We thought 
+	we had them all.  Perhaps we could have an exchange of 
+	information, pool our resources.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 09/15/92 - ACT FOUR       58.
+
+94   CONTINUED:	(2)
+
+					SISKO
+			I don't know anything about an orb.
+
+	Dukat takes a beat and nods, okay, if you insist on this 
+	game...
+
+					DUKAT
+			We will be in close proximity should 
+			you wish to reconsider my suggestion.  
+			In the meantime, I assume you have 
+			no objection to my men enjoying the 
+			hospitality of the Promenade.
+				(nods, goodbye)
+			Commander...
+
+	And he EXITS.  On Sisko's reaction...
+
+95   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Cardassian ship station moves about a kilometer away 
+	from DS9.
+
+96   INT. LABORATORY
+
+	Sisko ENTERS to find Dax at a computer station...  she's 
+	working panels... reading off monitors...
+
+					DAX
+			What do you know about the Denorios 
+			Belt?
+
+					SISKO
+			Your basic charged plasma field...  
+			nobody gets anywhere near it unless 
+			they have to...
+
+					DAX
+				(summarizing what 
+				she's reading)
+			In the twenty-second century, a ship 
+			carrying Kai Taluno was disabled for 
+			several days in the Denorios Belt...  
+			where he claims he had a vision...
+
+					SISKO
+			Let me guess -- he saw the Celestial 
+			Temple of the Prophets.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 09/15/92 - ACT FOUR       59.
+
+96   CONTINUED:
+
+					DAX
+			Not quite, but he did say "the heavens 
+			opened up and nearly swallowed his 
+			ship... "
+
+					SISKO
+			Are we reduced to chasing metaphors 
+			to solve this?
+
+	She punches up some data on the monitor...
+
+					DAX
+			That's not all.  At least five of 
+			the orbs were found in the Denorios 
+			Belt...
+
+	Calling up another reference on the monitor... he sits beside 
+	her...
+
+					DAX
+				(continuing)
+			... There have also been twenty-three 
+			navigational reports over the years 
+			of severe neutrino disturbances in 
+			the same area...
+
+	Pressing another panel...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FOUR       60.
+
+96   CONTINUED:	(2)
+
+					DAX
+				(continuing)
+			And thirty-two years ago, a vessel 
+			of unknown origin appeared there, 
+			carrying a single lifeform, a species 
+			never encountered before.
+
+	I've correlated all these reports in one analysis grid...
+
+97   ANGLE
+
+	To include the monitor so we can see it... the three 
+	dimensional grid creates and emphasizes a small delineated 
+	area in space...
+
+					DAX
+				(lightly)
+			Our Celestial Temple?
+
+					SISKO
+				(shrugs)
+			Worth a look...
+
+98   RESUME
+
+	Sisko stands... thoughtful...
+
+					SISKO
+			We've got a Cardassian on our back 
+			doorstep... we need to get by them 
+			undetected...
+
+	A thoughtful beat...
+
+99   INT. QUARK'S
+
+	Lots of action... a roar from the tables as the Cardassians 
+	win... they have accumulated a lot of gold... moving to find 
+	Kira and O'Brien ENTERING the door, she glances around, picks 
+	up a metal mug and bangs it loudly on the Bar... gets the 
+	attention of the room...
+
+					KIRA
+			Can we have your attention, please... 
+			this establishment is being closed...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FOUR       61.
+
+99   CONTINUED:
+
+	Groans from the crowd...
+
+100  ANGLE TO FIND QUARK
+
+	as he explodes in a rage... moving to confront Kira...
+
+					QUARK
+			What do you mean?  You can't do this.
+
+	O'Brien moves to block his accostment of Kira...
+
+					O'BRIEN
+			If you have a problem, sir, you'll 
+			have to take it up with Commander 
+			Sisko...
+
+					QUARK
+			I intend to.  This is outrageous... 
+			my apologies friends... a minor 
+			misunderstanding that will be 
+			rectified shortly...
+
+	People start to leave... Quark sees the Cardassians with all 
+	the gold before them... to one of his female croupiers...
+
+					QUARK
+			Give them something to put their 
+			winnings in...
+
+	The croupier acknowledges, moves a short distance away, 
+	reaches under a table and pulls out a knapsack...  As the 
+	Cardassians begin to load their gold into the knapsack, we 
+	may catch a glance passed between Quark and a deadpanned 
+	Kira and O'Brien...
+
+101  EXT. SPACE - THE CARDASSIAN WARSHIP (OPTICAL)
+
+102  INT. CARDASSIAN WARSHIP - CLOSE ON THE KNAPSACK
+
+	being carried by a Cardassian officer down a corridor...
+
+					CARDASSIAN OFFICER #1 (O.S.)
+			... because we were winning too much, 
+			of course...
+
+	Group laughter...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT       xx.
+
+102  CONTINUED:
+
+					CARDASSIAN OFFICER #2 (O.S.)
+			Leave it to Starfleet to ruin a fine 
+			day...
+
+	We never see who's talking as the knapsack is placed...
+
+103  INSIDE THE LOCKER (OPTICAL)
+
+	And the door is shut... a beat later the knapsack begins to 
+	lose its shape...
+
+103A
+thru   OMITTED
+103C
+
+104  INT. CARDASSIAN SHIP - ON THE LOCKER (OPTICAL)
+
+	Panning down to the floor to see an odd substance, the same 
+	color as the knapsack, oozing out of the cracks of the 
+	locker... a pool of it forming on the floor and then...
+
+105  ANGLE (OPTICAL)
+
+	the pool reshapes and grows into Odo... who looks both ways 
+	and moves quickly down the corridor...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT FOUR      62A.
+
+106  INT. RUNABOUT
+
+	Dax and Sisko ENTER, take their positions...
+
+					SISKO
+				(to com)
+			Rio Grande to Ops.  Initializing pre-
+			launch systems...
+
+					KIRA'S COM VOICE
+			Confirmed.
+
+107  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A hatch in the habitat ring opens and a runabout class ship 
+	comes up on an elevator...
+
+108  INT. OPS
+
+	Kira and O'Brien at master control...
+
+					O'BRIEN
+			Major, scanners are picking up 
+			fluctuations in the Cardassian's 
+			energy distribution net...
+
+	Kira checks her panels... reacts, delighted...
+
+ DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT FOUR       63.
+
+108  CONTINUED:
+
+					KIRA
+			Their computer's crashing...  shields 
+			and sensors are down...
+			Odo's done it... Ops to Rio Grande...
+
+					SISKO'S COM VOICE
+			Go ahead.
+
+109  INT. RUNABOUT
+
+	Sisko and Dax in the cockpit, going through pre-flight 
+	routine...
+
+					KIRA'S COM VOICE
+			We're in business.
+
+					SISKO
+			Beginning launch sequence.
+
+110  INT. OPS
+
+					KIRA
+			Maintain visual blackout.  Set audio 
+			to secure channel three-five-zero.
+
+111  OMITTED
+
+112  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	is launched...
+
+113  INT. OPS
+
+	A signal flashes on the master control panel...
+
+					KIRA
+			Odo's reached the transport site...
+
+					O'BRIEN
+			Trying to lock on...
+
+	A short delay...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FOUR       64.
+
+113  CONTINUED:
+
+					O'BRIEN
+			I've never done this with a Cardassian 
+			Transporter...
+
+	O'Brien presses more panels... nothing...
+
+					O'BRIEN
+			Dammit, what's the problem...
+
+	Finally, he kicks the control panel and...
+
+114  ANGLE (OPTICAL)
+
+	to include the Transporter pad... as Odo
+	MATERIALIZES...
+
+					KIRA
+			Nice work, Constable.
+
+	Odo acknowledges with a simple nod...
+
+115  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	races past the camera, the space station in the background...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       65.
+                           ACT FIVE                             
+
+	FADE IN:
+
+116  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as it moves at impulse into the Denorios Belt marked by 
+	streaks of blue space dust...
+
+117  INT. RUNABOUT (OPTICAL)
+
+	Dax and Sisko take readings... the plotted grid analysis is 
+	on her monitor...
+
+					DAX
+			Approaching grid perimeter...
+
+					SISKO
+			Slowing to one quarter impulse.
+
+	A beat.  They check their sensors.
+
+					DAX
+				(reacting to something)
+			Computer, give me visual at bearing 
+			two-three, mark two-one-seven, range 
+			thirty-one hundred kilometers...
+
+	The monitor display looks routine... off Sisko's look
+
+	--
+
+118  INT. OPS
+
+	Kira and O'Brien listening... monitoring the ship on 
+	sensors... Bajoran supernumeraries man other stations...
+
+					DAX'S COM VOICE
+				(curious)
+			Sensors are picking up unusually 
+			high proton counts...
+
+					SISKO'S COM VOICE
+			Setting a new course to those 
+			coordinates...
+
+119
+thru   OMITTED
+120
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       66.
+
+121  OMITTED
+
+122  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	moving deeper into the belt...
+
+123
+thru   OMITTED
+124
+
+125  INT. RUNABOUT  (OPTICAL)
+
+	Dax working panels with both hands... checking multiple read-
+	outs...
+
+					DAX
+				(hard to believe)
+			All external wave intensities are 
+			increasing rapidly but... checking... 
+			confirmed... there is no corresponding 
+			increase inside the cabin... how is 
+			that poss...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE       67.
+
+	Suddenly there is a lurch... a hard shift... an incredible 
+	burst of light through the windows...
+
+126  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	going into a giant rip in the fabric of space...
+
+127  INT. RUNABOUT (OPTICAL)
+
+	Sisko and Dax trying to maintain control...
+
+					SISKO
+			Sensors are not functioning...
+
+					DAX
+				(trying a panel)
+			We've lost all contact with the space 
+			station...
+
+128  INT. OPS
+
+	O'Brien at his station...
+
+					O'BRIEN
+			Scanners are reading a major subspace 
+			disruption at their last known 
+			coordinates...
+
+	Kira moving to join him...
+
+					KIRA
+			What the hell is happening out there?
+
+					O'BRIEN
+			I don't know, sir.  They're just...
+				(beat)
+			...gone.
+
+129  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	inside the wormhole now... an incredible light show surrounds 
+	the small craft...
+
+130  INT. RUNABOUT (OPTICAL)
+
+	Sisko is frantically checking readings... hitting panels...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT FIVE       68.
+
+					SISKO
+				(reacting)
+			Are your navigational readings going 
+			crazy?
+
+					DAX
+				(calm, confirming)
+			I'll recalibrate them when I have a 
+			moment.
+
+					SISKO
+				(hanging on for dear 
+				life)
+			Take your time.
+
+	Another lurch and suddenly they're out... into clear space...
+
+131  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	coming out of the other side of the wormhole... which 
+	disappears behind them...
+
+132  INT. RUNABOUT (OPTICAL)
+
+					SISKO
+			Can you get a fix on our 
+			coordinates... ?
+
+					DAX
+				(checking)
+			There's a star just under five light 
+			years away... no M class planets... 
+			Computer, identify closest star 
+			system...
+
+					COMPUTER VOICE
+			Idran... a ternary system consisting 
+			of a central supergiant and twin O-
+			type companions...
+
+					SISKO
+				(reacts)
+			Idran... that can't be right...
+
+					DAX
+			Computer, basis of identification...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       69.
+
+132  CONTINUED:
+
+					COMPUTER VOICE
+			Identification of Idran is based on 
+			the hydrogen-alpha spectral analysis 
+			conducted in the twenty-second century 
+			by the Quadros-One probe of the Gamma 
+			Quadrant.
+
+					SISKO
+				(stunned)
+			The Gamma Quadrant.  Seventy 
+			thousand light years from Bajor?
+			I'd say we just found our way into 
+			a wormhole...
+
+					DAX
+				(checking panels)
+			It's not like any wormhole I've ever 
+			seen.  There were none of the usual 
+			resonance waves...
+
+	A beat as they take this all in...
+
+					SISKO
+			Could this be how the orbs found 
+			their way into the Bajoran system?
+
+					DAX
+			Not an unreasonable hypothesis.
+
+					SISKO
+			If it's true, that would mean this 
+			has been here for ten thousand years.  
+			We might have just discovered the 
+			first stable wormhole known to exist.
+
+	As they exchange a glance...
+
+					DAX
+			You may want to wait until we get 
+			safely back before you put your name 
+			in the history books, Benjamin...
+
+					SISKO
+			Our names, old man, our names...  
+			bring us about, Lieutenant...
+
+133  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	comes around and moves forward... and the wormhole illuminates 
+	into view again... the Runabout moves back in...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 09/03/92 - ACT FIVE       70.
+
+134  INT. RUNABOUT (OPTICAL)
+
+	A light show in the window again... Dax works her panels...
+
+					DAX
+			I'm modifying the flight program to 
+			compensate for the spatial 
+			discontinuities.  We should have a 
+			smoother ride this time.
+
+	The shaking subsides a bit.
+
+					SISKO
+				(noticing something)
+			Did you reduce impulse power?
+
+					DAX
+			No...
+
+					SISKO
+			We're losing velocity...
+
+135  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	in the wormhole... slowing down...
+
+136  INT. RUNABOUT (OPTICAL)
+
+	Reactions.  Checking panels...
+
+					DAX
+				(confused)
+			Power output is still constant...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       71.
+
+136  CONTINUED:
+
+					SISKO
+			Increasing impulse reactor output...
+
+	He does... nothing...
+
+					DAX
+				(shakes her head)
+			Forward velocity down to one twenty 
+			kph...
+
+	He reacts... rechecking his controls...
+
+					SISKO
+				(incredulous)
+			Engine output is running seventy 
+			percent above normal...
+
+					DAX
+			Down to eighty kph...
+
+					COMPUTER VOICE
+			Warning, impulse system overload... 
+			auto shutdown in twelve seconds...
+
+					SISKO
+				(working)
+			Disengaging engines.
+
+					DAX
+			Velocity is twenty kph.
+				(reacts)
+			I'm picking up an atmosphere, 
+			Benjamin...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE       72.
+
+137  ANGLE
+
+	to include the windows... filled with bright light...
+
+					SISKO
+			Inside a wormhole?
+
+					DAX
+			Capable of supporting life...
+
+	Suddenly, there is a bump... a reaction... checking 
+	readings... glances at Dax...
+
+					DAX
+			We've just landed...
+
+					SISKO
+			On what?
+
+	Off reactions...
+
+138  EXT. RUNABOUT - DAY
+
+	Close on the hatch as it pops open... and Sisko comes through 
+	first, holding his phaser... as he comes out
+
+	and looks around... move with him to reveal --
+
+139  EXT. BRUTAL TERRAIN - DAY (OPTICAL)
+
+	Rock cliffs, dark, strange electrical storms, winds swirling 
+	around him...
+
+140  EXT. RUNABOUT - DAY
+
+	Angle back on the hatch as Dax comes out... holding a 
+	tricorder... and as we move with her, we reveal the
+
+	same setting to be --
+
+141  EXT. GARDEN - DAY
+
+	And Sisko is standing in the garden with her... but of course 
+	he doesn't see it at all...
+
+					DAX
+			It's beautiful.
+
+	He glances at her... and as we change
+
+142  ANGLE TO FAVOR HIM
+
+	we're back in the rugged terrain... storms everywhere...
+
+DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE 72A-73.      
+
+					SISKO
+			You have a strange eye for beauty...
+
+143  ANGLE TO FAVOR HER
+
+	in the garden...
+
+					DAX
+			You don't think this is one of the 
+			most idyllic settings you've ever 
+			seen... ?
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE       74.
+
+144  ANGLE TO FAVOR HIM
+
+	in the rugged terrain...
+
+					SISKO
+				(sarcastic)
+			It can't beat the sulfuric mine pits 
+			of Hadas Four...
+
+					DAX
+			How can you say that?  The colors... 
+			all the flora...
+
+	And now he begins to realize there is something more than 
+	meets the eye...
+
+					SISKO
+			I don't see any flora, Dax...
+
+	She reacts...
+
+145  ANGLE FAVORING HER
+
+	In the garden.
+
+					DAX
+			We're standing in a garden...
+
+146  ANGLE FAVORING HIM (OPTICAL)
+
+	in his rugged terrain...
+
+					SISKO
+			We're standing on a rockface...
+				(beat)
+			Do you see the storms?
+
+147  ANGLE FAVORING HER
+
+	In the garden.
+
+					DAX
+			Clear as a summer's day.
+
+	Their eyes are caught by...
+
+148  ANGLE (OPTICAL)
+
+	still in the garden... an orb appears floating twenty yards 
+	ahead... they both react to the appearance...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE       75.
+
+
+148  CONTINUED:
+
+					SISKO
+			You see it too...
+
+					DAX
+
+			Yes.
+
+149  ANGLE - FAVORING HIM (OPTICAL)
+
+	in the rugged terrain... the orb sends out a scanning green 
+	beam that probes these new entities from head to toe... Dax 
+	checks her tricorder...
+
+					DAX
+			Low level ionic pattern, it's probing 
+			us...
+
+					SISKO
+			Someone's idea of shaking hands, 
+			maybe...
+
+	The probe seems to stutter and change to uneven color as it 
+	reaches her abdomen... and then the scanning beam shuts off... 
+	Sisko takes a step forward to speak...
+
+150  ANGLE - FAVORING HER (OPTICAL)
+
+	in the garden, as Sisko takes another step...
+
+					SISKO
+			I am Commander Benjamin Sisko of the 
+			United Federation of Planets...
+
+	But suddenly the orb sends out a cutting blade of light which 
+	splits the reality in two... and for a brief instant we see 
+	both of Dax's and Sisko's perceptions as their universes are 
+	literally torn in half... and Sisko and Dax are thrown 
+	apart...
+
+151  DAX (OPTICAL)
+
+	Her garden collapses around her into a spinning orb-
+	like ball of green light on a blank background with only 
+	residual traces of the garden's color...
+
+152  SISKO (OPTICAL)
+
+	being sucked into an incredibly bright, white light... winds 
+	and storms crash around him...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       76.
+
+153  HIS P.O.V. (OPTICAL)
+
+	he sees the orb forming around Dax... but there is nothing 
+	he can do about it... she is completely wrapped by the orb 
+	and suddenly it is flung into the sky as...
+
+154  SISKO (OPTICAL)
+
+	disappears into the light...
+
+155  EXT. SPACE - THE WORMHOLE  (OPTICAL)
+
+	illuminates into view and the orb containing Dax comes out...
+
+156  INT. OPS
+
+	O'Brien at his station... Kira at master... Bajoran 
+	supernumeraries at various stations...
+
+					O'BRIEN
+				(reacting to sensors)
+			Another neutrino disruption...
+
+					KIRA
+			Scanners are picking up an object 
+			near their last known coordinates... 
+			it isn't a ship...
+
+					O'BRIEN
+				(checking)
+			Major, there's something inside it... 
+			some kind of lifeform...
+
+	More information in from the sensors.
+
+					KIRA
+			Are the Cardassian sensors picking 
+			it up?
+
+					O'BRIEN
+			They should be back on line by now... 
+			We have to assume they know everything 
+			we know...
+
+	Kira takes a moment to consider the consequences...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE       77.
+
+					KIRA
+			Yellow alert... secure Ops. Beam it 
+			aboard Mister O'Brien, but put it in 
+			a level one security field...
+
+					O'BRIEN
+			Aye, sir... locking on...
+
+	He presses some panels...
+
+157  ANGLE ON THE TRANSPORTER PAD (OPTICAL)
+
+	As the orb MATERIALIZES... and the orb disintegrates into 
+	spinning light and disappears revealing Dax.  Off reactions.
+
+158  WHITE SCREEN (OPTICAL)
+
+	Discovering a state-of-the-art optical effect to be 
+	determined... that suggests Sisko in an altered state... no 
+	reality we've ever experienced... it may be just his eyes in 
+	some disengaged fashion... for this draft, it will be 
+	described as "WHITE SCREEN - SISKO'S
+	EYES."  A heartbeat and breathing the only sounds...
+	suddenly --
+
+159  RUSH OF IMAGES (OPTICAL)
+
+	Five separate shots, each less than a second:
+
+		--Jennifer looking up at the beach...
+
+		--Sisko's bloody burned hands...
+
+		--A baseball landing in a catcher's mitt...
+
+		--Locutus on a viewscreen...
+
+		--Jennifer's lifeless hand on the Saratoga...
+
+160  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	As before.  Heartbeat... breathing...
+
+					SISKO
+			Who are you?
+
+	No response... only --
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT FIVE       78.
+
+161  ANOTHER RUSH OF IMAGES (OPTICAL)
+
+	Five, each less than a second --
+
+		--Jennifer and Sisko kissing on a picnic 
+		blanket...
+
+		--A newborn baby crying...
+
+		--Kai Opaka looking at Sisko as she cups her 
+		hand to his face...
+
+		--Jake fishing at the pond...
+
+		--Doran's mournful eyes in the burning 
+		corridor of the Saratoga...
+
+162  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	As before.  The heartbeat... the breathing...
+
+					SISKO
+			Who are you?
+
+163  EXT. BEACH - DAY
+
+	As we saw it in the first orb sequence... Jennifer is looking 
+	up, holding her brassiere, but it is not Jennifer, it is 
+	alien, remote...
+
+	(NOTE:  In this, and all "alien" sequences, extras beyond 50 
+	feet of camera position will be considered atmosphere and 
+	continue normal activity... all extras within 50 feet will 
+	be considered aliens and will stop whatever they're doing 
+	and display curiosity about Sisko and what he's saying... )
+
+					JENNIFER ALIEN
+				(observing him)
+			It is corporeal... a physical 
+			entity...
+
+164  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+					SISKO
+			What... what did you say...
+
+165  INT. ENTERPRISE OBSERVATION LOUNGE - PICARD
+
+	As we saw him in Act Two, except it is not Picard, it is 
+	alien...
+
+					PICARD ALIEN
+			It is responding to visual and 
+			auditory stimuli... linguistic 
+			communication...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT FIVE      78A.
+
+165A REVERSE ANGLE - SISKO IN THE OBSERVATION LOUNGE
+
+	stares at Picard, understands that he is not really Picard 
+	but an alien...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       79.
+
+165A CONTINUED:						 
+
+					SISKO
+			Yes, linguistic communication...  
+			are you capable of communicating 
+			with me?
+
+	A woman's hand cups his face and turns him to...
+
+166  INT. MONASTERY - DAY
+
+	And it is Kai Opaka who has his face in her hand...  as we 
+	saw in Act Two... but it is not Opaka... it is alien... making 
+	eye contact with him, talking to him, not about him...
+
+					KAI OPAKA ALIEN
+			What are you?
+
+167
+thru   OMITTED
+169
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/26/92 - ACT FIVE       80.
+
+170  REVERSE ANGLE - SISKO
+
+					SISKO
+			My species is known as human.
+
+	We come from a planet called Earth...
+
+170A EXT FISHING POND - DAY
+
+					JAKE ALIEN
+			Earth?
+
+	Sisko groping for definition... motions to the surrounding 
+	environment...
+
+					SISKO
+			This... this is what my planet looks 
+			like...
+
+	Jake alien looks around with no appreciation... A beat... 
+	this is getting nowhere...
+
+					SISKO
+			You and I are very different species.  
+			It will take time for us to understand 
+			one another.
+
+					JAKE ALIEN
+			Time.  What is this?  Time...
+
+	A reaction from Sisko as he realizes the magnitude of the 
+	situation he's in...
+
+171  THE WHITE SCREEN - SISKO'S EYES  (OPTICAL)
+
+	As before.  Heartbeat.  Breathing.
+
+172  EXT. SPACE - DEEP SPACE NINE (OPTICAL)  (DAY #5)
+
+	Establishing.
+
+173  INT. OPS
+
+	At the master control table... Kira, Odo, Dax, O'Brien and 
+	Bashir... planning a rescue attempt...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT FIVE       81.
+
+173  CONTINUED:
+
+					DAX
+			It's not an ordinary wormhole.
+			My analysis suggests it isn't even 
+			a natural phenomenon...
+
+					BASHIR
+			Not natural... you mean it was 
+
+			constructed... ?
+
+					DAX
+				(acknowledges)
+			It's very possible that whoever made 
+			the orbs also created this wormhole.
+
+	O'Brien is monitoring sensors on his panel... reacts as he 
+	sees something...
+
+					O'BRIEN
+			The Cardassians are leaving their 
+			position... on a course toward the 
+			Denorios Belt.
+
+	Kira frowns... stands...
+
+					KIRA
+				(beat, to O'Brien)
+			What would it take to move this 
+			station to the mouth of the wormhole?
+
+					O'BRIEN
+			This isn't a starship, Major.
+
+	We've got six working thrusters to power us and that's it.  
+	A hundred-sixty million kilometer trip would take two months.
+
+					KIRA
+			It's got to be there tomorrow.
+
+					O'BRIEN
+				(reacts)
+			That's not possible, sir...
+
+					KIRA
+			That wormhole might just reshape the 
+			future of this entire quadrant.  The 
+			Bajorans have to stake a claim to 
+			it...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       82.
+
+173  CONTINUED:	(2)
+
+					KIRA
+				(beat, character 
+				movement)
+			And I have to admit that claim will 
+			be a lot stronger if there's a 
+			Federation presence to back it up.
+
+
+					DAX
+				(calm, to O'Brien)
+			Couldn't you modify the subspace 
+			field output of the deflector 
+			generators... just enough to create 
+			a low-level field around the 
+			station...
+
+	A beat.  O'Brien begins to get her logic...
+
+					O'BRIEN
+			So we could lower the inertial mass...
+
+					DAX
+				(nods)
+			If you can make the station lighter, 
+			those six thrusters would be all the 
+			power we'd need.
+
+					O'BRIEN
+				(a beat, it might 
+				just work)
+			This whole station could break apart 
+			like an egg if it doesn't work...
+
+					DAX
+			Even if it does work, we're going to 
+			need help from Starfleet once we get 
+			there...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE       83.
+
+173  CONTINUED:	(3)
+
+					O'BRIEN
+			The Enterprise is still the nearest 
+			starship... it would take them two 
+			days to get here...
+
+					DAX
+			Advise Starfleet that we will require 
+			their assistance.
+
+	O'Brien acknowledges.
+
+					KIRA
+			You have Ops, Mister O'Brien...
+				(on the move)
+			Lieutenant, you're with me... you 
+			too, Doc, time to be a hero...
+
+					BASHIR
+			Yes, Sir...
+
+	As they EXIT... hold a beat on Odo, thoughtful...
+
+174  INT. CORRIDOR
+
+	Kira, Dax and Bashir on the move... after a beat, Odo moves 
+	up behind them, keeping step... Kira reacts to his arrival...
+
+					KIRA
+			Constable...
+
+					ODO
+				(anticipating, right 
+				on top of her voice)
+			This is a security matter... I'm in 
+			charge of security...
+
+					KIRA
+			... security here, on the station.
+
+	She stops.
+
+					KIRA
+				(continuing)
+			I can't justify taking you into this 
+			wormhole... we don't know what we're 
+			dealing with in there... it could be 
+			hostile...        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT FIVE      83A.
+
+174  CONTINUED:
+
+					ODO
+			Major, I was found in the Denorios 
+			Belt.  I don't know where I came 
+			from... no idea if there are any others 
+			like me.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT FIVE       84.
+
+					ODO
+			All my life, I've been forced to 
+			pass myself off as one of you...  
+			always wondering who I really am.
+			The answers to a lot of my 
+			questions may be somewhere on the 
+			other side of that wormhole.
+
+	He walks ahead...
+
+					ODO
+			You coming?
+
+	She reacts, glances at the others... and after a beat, they 
+	follow...
+
+175  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the Runabout is launched and runs by the camera into 
+	space...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SIX        85.
+                            ACT SIX                             
+
+	FADE IN:
+
+176  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Heartbeat.  Breathing.
+
+177  INT. ENTERPRISE OBSERVATION LOUNGE - SUBJECTIVE POV -
+
+					ECU OF PICARD
+			as we saw him in Act Two... but it 
+			is an alien Picard...
+
+					PICARD ALIEN
+			The creature must be destroyed before 
+			it destroys us.
+
+178  INT. SARATOGA BRIDGE - VIEWSCREEN - SUBJECTIVE POV -
+	LOCUTUS (OPTICAL)
+
+					LOCUTUS ALIEN
+			It is malevolent.
+
+179  EXT. BASEBALL FIELD - SUBJECTIVE POV - DAY -
+
+					BASEBALL PLAYER
+			in a batter's box, dressed in a 
+			Chicago Cubs uniform of the early 
+			1920s...
+
+					BATTER ALIEN
+			Aggressive.  Adversarial.
+
+180  INT. OBSERVATION LOUNGE
+
+					PICARD ALIEN
+			It must be destroyed.
+
+									INTERCUTTING:
+
+181  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+					SISKO
+			I'm not your enemy... I've been sent 
+			here by the people you contacted.
+
+					PICARD ALIEN
+			Contacted?
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/24/92 - ACT SIX       181.
+
+181  CONTINUED:
+
+					SISKO
+			With your devices.  Your orbs...
+
+					PICARD ALIEN
+			We seek contact with other 
+			lifeforms... not corporeal creatures 
+			who would annihilate us...
+
+					SISKO
+			I have not come to annihilate 
+			anyone...
+
+182
+thru   OMITTED
+183
+
+184  INT. SARATOGA BRIDGE (OPTICAL)
+
+	Locutus on the viewscreen.  Growing tension... voice upon 
+	voice...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/26/92 - ACT SIX        87.
+
+184  CONTINUED:
+
+					LOCUTUS ALIEN
+			Destroy it now...
+
+	Sisko sees that there is a growing danger here, moves
+
+	to encounter it head on... Aggressively --
+
+					SISKO
+			My species respects life above all 
+			else.  Can you say the same?
+
+	The aliens study him... Sisko is making progress...
+
+					SISKO
+			I do not understand the threat I 
+			bring to you.  But I am not your 
+			enemy.  Allow me to prove it.
+
+184A INT. CHAMBER BENEATH THE MONASTERY - OPAKA ALIEN
+
+					KAI OPAKA ALIEN
+			Prove it?
+
+					SISKO
+				(a beat, mind working)
+			It can be argued that a human is 
+			ultimately the sum of his experiences.  
+			You obviously have access to mine.
+
+185  EXT. FISHING POND - DAY
+
+					JAKE ALIEN
+			"Experiences" - what is this?
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT SIX        88.
+
+185  CONTINUED:
+
+					SISKO
+			Memories... events from my past...  
+			like this one...
+
+					JAKE ALIEN
+			Past?
+
+					SISKO
+			Things that happened before now...
+
+	Jake Alien looks at him blankly...
+
+					SISKO
+				(mostly to himself)
+			You have absolutely no idea what I'm 
+			talking about.
+
+					JAKE ALIEN
+			What comes before now is no different 
+			than what is now...  or what is to 
+			come.  It is one's existence.
+
+					SISKO
+				(beginning to 
+				understand)
+			Then, for you, there is no linear 
+			time...
+
+186  EXT. BEACH - DAY
+
+					JENNIFER ALIEN
+			"Linear time" - what is this?
+
+					SISKO
+			My species lives in one point in 
+			time.  And once we move beyond that 
+			point, it becomes the past.
+
+	The future... all that is still to come... does not exist 
+	yet for us...
+
+					JENNIFER ALIEN
+				(alarmed)
+			Does not exist yet?
+
+					SISKO
+			That is the nature of a linear 
+			existence.  And if you examine it 
+			more closely, you will see that you 
+			do not need to fear me.
+
+	A beat as Jennifer alien studies him and...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/17/92 - ACT SIX        89.
+
+187  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Breathing.  Heartbeat.  A long beat.
+
+188  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing...
+
+189  INT. OPS - MOVING WITH O'BRIEN
+
+	Bajoran supernumeraries in the background... with much 
+	urgency... lights dip and thrum... a definite strain to the 
+	reactor sounds...
+
+					O'BRIEN
+			Dammit!  Computer... analyze subspace 
+			field integrity...
+
+					COMPUTER VOICE
+			Power frequency imbalance is 
+			preventing field closure...
+
+					O'BRIEN
+			Add reactor three to the power grid...
+
+190  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	to see the warp field struggle to zap into place but reaches 
+	only about ninety percent of the station...
+
+191  INT. OPS
+
+
+	As before.
+
+					COMPUTER VOICE
+			Partial field established.
+
+	Instability at twelve percent.
+
+					O'BRIEN
+				(reacts)
+			Partial field.
+				(a beat, dammit)
+			Is the station's inertial mass low 
+			enough to break orbit?
+
+					COMPUTER VOICE
+			Procedure is not recommended.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT SIX        90.
+
+191  CONTINUED:
+
+					O'BRIEN
+			Dammit, I didn't ask for an opinion... 
+			just tell me whether or not we can 
+			get enough thrust with only a partial 
+			field established...
+
+
+					COMPUTER VOICE
+			Affirmative.
+
+					O'BRIEN
+			All right.  Initiate transit mode, 
+			three-axis stabilization.  Engage 
+			thrusters.
+
+192  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Close on the thrusters firing... the huge structure rumbles...
+
+193  ANGLE - LONG SHOT (OPTICAL)
+
+	as the station breaks orbit, gaining velocity...
+
+194  OMITTED
+
+195  INT. OPS
+
+	O'Brien moving along his console... checking readings... a 
+	klaxon rings...
+
+					COMPUTER VOICE
+			Warning.  Field integrity declining.  
+			Instability at twenty-one percent.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT SIX        91.
+
+195  CONTINUED:
+
+					O'BRIEN
+				(on the move, to 
+
+				supernumeraries)
+			We've got to close that gap in the 
+			field... or we're going to tear 
+			ourselves into a million pieces.
+
+					COMPUTER VOICE
+			Warning - Subspace field collapse in 
+
+			sixty seconds...
+
+	The vibrations continue... O'Brien moves to his console, 
+	searching for an answer... looking at the Cardassian 
+	symbols... after a beat... yells to the room--
+
+					O'BRIEN
+			Does anyone here know if the inertial 
+			dampers can feed the deflectors?
+
+	The Bajoran supernumeraries look at him with blank stares... 
+	O'Brien's on his own... he sighs, turns back to the 
+	console... ?
+
+					O'BRIEN
+				(to himself)
+			A good time to find out.
+
+	Starts working panels furiously...
+
+					O'BRIEN
+			Computer, transfer energy from the 
+			inertial dampers to reinforce the 
+			subspace field...
+
+					COMPUTER VOICE
+			Procedure is not recommended.
+
+					O'BRIEN
+			Dammit... transfer the energy!
+
+					COMPUTER VOICE
+			Unable to comply.  Level One safety 
+			protocols have cancelled request.
+
+					O'BRIEN
+				(reacts)
+			Cancelled it...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT SIX        92.
+
+195  CONTINUED:	(2)
+
+					COMPUTER VOICE
+			Warning.  Subspace field collapse in 
+			thirty seconds.
+
+					O'BRIEN
+				(yelling to 
+				supernumeraries)
+			I'm gonna transfer it manually...
+				(to one)
+			On my mark, redirect the flow to the 
+			deflectors...
+				(to another)
+			Keep the power balanced...
+
+					COMPUTER VOICE
+			Field collapse in fifteen seconds...
+
+					O'BRIEN
+			Now!
+
+	O'Brien and supernumeraries look like a trio of pianists 
+	playing three baby grands... hitting panels, flipping 
+	busbars... the lights dim again... the whine changes... 
+	O'Brien looks up, did it work...
+
+196  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the field zaps completely into place surrounding the 
+	station...
+
+197  INT. OPS
+
+	The vibration stops and the whine disappears...
+
+					COMPUTER VOICE
+			Field energy now within flight 
+			tolerances.
+
+	Everybody reacts... O'Brien smiles weakly at the others and 
+	then mutters...
+
+					O'BRIEN
+			Computer... you and I have to have a 
+			little talk...
+
+198  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	As it moves through space...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT SIX        93.
+
+199  INT. RUNABOUT (OPTICAL)
+
+	Kira and Dax in the pilot and co-pilot seats (left and right 
+	respectively)... Odo behind Kira, Bashir behind Dax...
+
+					DAX
+			The Cardassian warship is in visual 
+			range...
+
+					KIRA
+			On screen...
+
+	On monitors, the Cardassian ship appears... checking 
+	readings... confirmed...
+
+					KIRA
+				(sighs, angry)
+			They're going right to it...
+
+	Kira taps her fingers, thoughtfully...
+
+					BASHIR
+			They've got to listen to reason, 
+			haven't they?  When we warn them 
+			what could happen if they go in 
+			there...
+
+					ODO
+				(forever cynical)
+			Doctor, most people in my experience 
+			wouldn't know reason if it walked up 
+			and shook their hand.  You can count 
+			Gul Dukat among them.
+
+	Kira presses some panels... hailing the Cardassian ship...
+
+					KIRA
+			This is the Federation ship Yangtzee 
+			Kiang... Major Kira Nerys in 
+			command...
+
+	Some beeps and the image of Gul Dukat appears on the 
+	monitors...
+
+					DUKAT
+			Yes, Major...
+
+					KIRA
+			Gul Dukat, we know you're headed for 
+			the wormhole...
+
+					DUKAT
+			Wormhole?  Which wormhole is that?
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SIX        94.
+
+199  CONTINUED:
+
+					KIRA
+			I strongly suggest you do not proceed.  
+			We encountered a hostile lifeform 
+			inside...
+
+					DUKAT
+			Perhaps they would be less hostile 
+			to Cardassians than to humans...
+
+					ODO
+				(wearily impatient)
+			Dukat, you know I won't lie to you... 
+			and I know you probably won't listen 
+			to me... but these people are trying 
+			to save you from a lot of trouble.
+
+					DUKAT
+				(sarcastic)
+			Really... I suppose you'd also tell 
+			me these are not the lifeforms that 
+			sent the orbs...  or that your 
+			Commander Sisko is not negotiating 
+			for their technology...
+				(beat)
+			Thank you for your concern.  But I 
+			think we'll see for ourselves.
+
+	The monitor returns to the Cardassian ship moving
+
+	through the Denorios Belt... Odo glances at Bashir --
+
+					ODO
+			So much for reason...
+
+200  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Heartbeat.  Breathing.
+
+201  EXT. PARK - DAY
+
+	And Jennifer alien and a younger Sisko are on a picnic 
+	blanket... a basket of food spread out... she's wearing a 
+	flowered spring dress... they are reclining, she's laying, 
+	cradled in his arm...
+
+					JENNIFER ALIEN
+				(identifying herself)
+			Jennifer.
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SIX        95.
+
+201  CONTINUED:
+
+	He takes a moment to realize where he is, reacts...  quickly 
+	detaches himself from her... sits across from her... a beat...
+
+					SISKO
+			Yes, that was her name.
+
+					JENNIFER ALIEN
+			She is part of your existence.
+
+					SISKO
+			She is part of my past.  She's no 
+			longer alive.
+
+					JENNIFER ALIEN
+			But she is part of your existence.
+
+					SISKO
+			Yes, she was a most important part 
+			of my existence.  But I lost her 
+			some time ago.
+
+					JENNIFER ALIEN
+			"Lost" - what is this?
+
+					SISKO
+			In a linear existence, we can't go 
+			back to the past to get something we 
+			left behind... so it's lost...
+
+					JENNIFER ALIEN
+				(come on, you've got 
+				to be kidding)
+			It is inconceivable that any species 
+			could exist in such a manner... you 
+			are deceiving us...
+
+					SISKO
+			No, this is the truth...
+
+	Standing, taking in the setting...
+
+					SISKO
+			This day... this park... it was 
+			almost... fifteen years ago.  Far in 
+			the past.  It was a very important 
+			day to me... a day that shaped every 
+			day that followed.
+
+	That is the essence of a linear existence... each day affects 
+	the next...
+
+	She studies him intently... we pan to follow her look
+
+	as she sees --
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SIX        96.
+
+202  ANGLE (OPTICAL)
+
+	An exact duplicate of the setting we were just in...
+
+	a second set of Sisko and Jennifer are reclining on the 
+	ground... in each other's arms... playful children's voices 
+	are way in the background... this is a replay of the actual 
+	experience... Jennifer Alien and Sisko watch their doubles...
+
+					SISKO #2
+				(enjoying the moment)
+			Listen to it...
+
+					JENNIFER
+			To what?
+
+					SISKO #2
+			The sound of children playing.
+			What could be more beautiful...
+
+					JENNIFER
+			So you like children... ?
+
+					SISKO #2
+				(beat)
+			That almost sounds like a domestic 
+			inquiry...
+
+203  ANGLE - TWO SHOT
+
+	Losing Jennifer Alien and Sisko.
+
+					JENNIFER
+			I've heard Starfleet officers don't 
+			want families because they complicate 
+			their lives.
+
+					SISKO #2
+			Starfleet officers don't often find 
+			mates who want to raise families on 
+			a starship...
+
+					JENNIFER
+			That almost sounds like a domestic 
+			inquiry...
+
+					SISKO #2
+				(smiles, the question 
+				in his eyes)
+			I think it was...
+
+	Her answer to him is a deeply felt kiss...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT SIX        97.
+
+204  SISKO AND JENNIFER ALIEN
+
+	She reacts curiously to the kiss... the emotional impact is 
+	heavy on Sisko but he watches... tries to remain the detached 
+	instructor...
+
+					 SISKO
+
+			As corporeal entities, humans
+			find physical touch to cause
+			pleasure...
+
+					 JENNIFER ALIEN
+
+			"Pleasure" - what is this?
+
+					 SISKO
+			Good feelings... happiness...
+
+	... but the words get lost in his throat as the moment finally 
+	hits him... rack focus as Jennifer alien turns to observe 
+	him... Sisko turns his eyes away and finds
+
+	himself looking at --
+
+205  DORAN, THE WOMAN IN THE FIERY CORRIDOR
+
+	with the mournful eyes, except she's an alien... and suddenly 
+	he's back on the Saratoga...
+
+206  REVERSE ANGLE - INT. CORRIDOR (OPTICAL)
+
+	as he looks around... sees the Bolian Tactical Officer
+
+	(an alien) next to him... he reacts... he does not want to 
+	revisit what is at the end of this... the aliens notice the 
+	reluctance... he looks down the corridor toward his 
+	quarters... does not want to go...
+
+					DORAN ALIEN
+				(what's the problem?)
+			This is your existence...
+
+					SISKO
+			Yes.  But... it is difficult to return 
+			here... more difficult than any other 
+			memory...
+
+					TACTICAL OFFICER ALIEN
+			Why?
+
+	And this is hard for him, analyzing the death of his wife, 
+	standing by the flames that killed her...  impossible to 
+	stay detached from the emotions this raises...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SIX        98.
+
+206  CONTINUED:
+
+					SISKO
+			Because this was the day... I lost 
+			Jennifer...
+				(beat, exhausted)
+			... And I don't want to be here...
+
+	And now he looks up to see the incongruous arrival of Jennifer 
+	alien in her bathing suit... moving cooly down the fiery 
+	hallway to him...
+
+					JENNIFER ALIEN
+			Then why do you exist here?
+
+					SISKO
+			I... I don't understand...
+
+					JENNIFER ALIEN
+				(confused)
+			You exist here.
+
+	He looks at her... feeling miserable, confused... but before 
+	any further explanations can be attempted...
+	something startling occurs... the images freeze and begin to 
+	melt away...
+
+									INTERCUTTING:
+
+207  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+					SISKO
+			What's wrong... what's happening?
+
+	But like an optical version of film getting caught in a 
+	projector and burning, the effect continues, accompanied by 
+	an eerie shrill sound we've never heard before...
+
+208  EXT. SPACE - THE CARDASSIAN SHIP (OPTICAL)
+
+	is at the mouth of the wormhole which illuminates as the 
+	ship goes into it...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/17/92 - ACT SIX        99.
+
+209  INT. SARATOGA CORRIDOR (OPTICAL)
+
+	As it completely MELTS away...
+
+210  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	heartbeat... breathing... The shrill alien sound grows louder 
+	as...
+
+211  EXT. SPACE - THE CARDASSIAN SHIP (OPTICAL)
+
+	in the wormhole, being shaken badly by the turbulence... 
+	after a beat, it comes out the other end into the Gamma 
+	Quadrant, a piece of the ship clearly damaged by the 
+	experience...
+
+212  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Stronger heartbeat... heavier breathing... the shrill sound 
+	growing...
+
+212A INT. RUNABOUT (OPTICAL)
+
+	As before...
+
+					DAX
+			We should be reaching the wormhole 
+			coordinates in two minutes...
+
+					KIRA
+			Slowing to one-third im-...
+
+	Suddenly in the windows there is a huge explosion...
+
+213  EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	The wormhole shattering into a million points of light in 
+	front of them...
+
+214  EXT. SPACE - THE CARDASSIAN SHIP (OPTICAL)
+
+	as the shattering continues behind them... leaving them 
+	stranded...
+
+215  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	The shrill sound ends abruptly.  Stronger heartbeat...  
+	heavier breathing...
+
+216  EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	as the last sparks of the collapsed wormhole blink out...
+
+
+        DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SIX       99A.
+
+217  INT. RUNABOUT
+
+	The turbulence ends... off reactions...
+
+									FADE OUT.
+
+                        END OF ACT SIX                          
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SEVEN      100.
+                           ACT SEVEN                            
+
+	FADE IN:
+
+218  EXT. SPACE - DEEP SPACE NINE (OPTICAL)  (DAY #6)
+
+	still in transit, moving into the Denorios Belt...
+
+219  INT. OPS (OPTICAL)
+
+	seeing the Runabout crew on screen...
+
+					O'BRIEN
+			Are you sure it collapsed... it could 
+			have withdrawn deeper into subspace...
+
+	Dax is working furiously, pressing panels, taking readings...
+
+					DAX
+			We haven't found any indication of 
+			that, but we're still checking.
+
+					O'BRIEN
+			Should I turn this thing around and 
+			go back?
+
+									INTERCUTTING:
+
+220  INT. RUNABOUT
+
+	O'Brien on monitors.
+
+					KIRA
+			What's your position?
+
+					O'BRIEN
+			I'll be at your coordinates in less 
+			than three hours...
+
+					KIRA
+			Maintain your course.  We'll 
+			rendezvous here... by then our scans 
+			should be complete...
+
+					O'BRIEN
+			Aye, sir.
+				(beat)
+			By the way... we've been getting 
+			queries from the Cardassians since 
+			their ship disappeared from the sensor 
+			field...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT SEVEN      101.
+
+220  CONTINUED:
+
+					KIRA
+			I'm sure you have.
+
+					ODO
+				(without humor)
+			They'll see Gul Dukat in about sixty 
+			or seventy years if he starts back 
+			right away.
+
+	O'Brien acknowledges and...
+
+221  EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as it continues to search for some trace of the wormhole.
+
+222  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Heartbeat.  Breathing.
+
+					SISKO
+			Talk to me.  Are you still there?
+
+	What just happened?
+
+223  EXT. BEACH - DAY - JENNIFER ALIEN (OPTICAL)
+
+	walking along the shore as seen in Act Two...
+
+					JENNIFER ALIEN
+			More of your kind.
+
+									INTERCUTTING:
+
+224  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+					SISKO
+			Another ship... in the wormhole?
+
+					JENNIFER ALIEN
+			"Wormhole" - what is this?
+
+					SISKO
+			It is how we describe the kind of 
+			passage that brought me here...
+
+225  INT. OBSERVATION LOUNGE
+
+					PICARD ALIEN
+			It is terminated.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SEVEN      102.
+
+225A REVERSE ANGLE - SISKO IN THE OBSERVATION LOUNGE
+
+					SISKO
+			Terminated...
+
+					PICARD ALIEN
+			Our existence is disrupted whenever 
+			one of you enters the passage...
+
+226  INT. SARATOGA BRIDGE
+
+					CONN OFFICER ALIEN
+			Your linear nature is inherently 
+			destructive.
+
+					OPS OFFICER ALIEN
+			You have no regard for the 
+			consequences of your acts.
+
+					SISKO
+			That's not true.  We're aware that 
+			every choice we make has a 
+			consequence...
+
+					CAPTAIN OFFICER ALIEN
+			But you claim you do not know what 
+			it will be...
+
+					SISKO
+			We don't...
+
+227  EXT. FISHING POND - DAY - JAKE ALIEN
+
+					JAKE ALIEN
+				(interrupting)
+			Then how can you take responsibility 
+			for your actions...
+
+					SISKO
+			We use past experience to help guide 
+			us.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT SEVEN      103.
+
+					SISKO
+				(beat)
+			For Jennifer and me, all the 
+			experiences in our lives prepared us 
+			for the day we met on the beach... 
+			helped us recognize that we had a 
+			future together.  When we married, 
+			we accepted all the consequences of 
+			that act, whatever they might be... 
+			including the consequence of you.
+
+					JAKE ALIEN
+			Me?
+
+					SISKO
+			My son, Jake...
+
+228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY
+
+					BOY
+			and Sisko finds himself holding his 
+			child in his hands for the first 
+			time... as a Starfleet doctor and 
+			nurses, all aliens, tend to Jennifer 
+			in bed... who looks up in her post 
+			labor flush...
+
+					JENNIFER ALIEN
+			The child with Jennifer.
+
+					SISKO
+			Yes.
+
+					JENNIFER ALIEN
+				(beginning to 
+				understand)
+			Linear... procreation... ?
+
+					SISKO
+				(acknowledges)
+			Yes.  Jake is the continuation of 
+			our family...
+
+					JENNIFER ALIEN
+				(remembering)
+			"The sound of children playing."
+
+229  CATCHER'S MITT
+
+	as a bat swings and misses a ball as it pops into the glove.  
+	Pan up to find Jake Alien is the catcher... and a batter 
+	stands in front of him, both dressed in Chicago Cubs uniforms 
+	of the early 1920s...
+
+
+					BATTER ALIEN
+				(accusing)
+			Aggressive.  Adversarial.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/17/92 - ACT SEVEN      104.
+
+230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY
+
+	Sisko is standing on a pitcher's mound, wearing a Cubs cap 
+	circa 1923... and his Starfleet uniform...  in the background, 
+	the rest of the Cubs' team works out... playing catch, hitting 
+	fungos, fielding... a few spectators and reporters in straw 
+	hats mill about...
+
+					SISKO
+				(correction)
+			Competition.  For fun.  It's 
+			a game... that Jake and I play...  
+			on the Holodeck... it's called 
+			baseball.
+
+	And Jake alien stands out of his crouch and as he takes off 
+	the mask and looks at it curiously... and then looks around 
+	at the environment... joining Sisko on the mound...
+
+					JAKE ALIEN
+			"Baseball" - what is this?
+
+					SISKO
+			I was afraid you'd ask that...
+
+	A beat... How the hell do you explain baseball to an alien... 
+	he takes a deep breath, well, here goes...
+
+					SISKO
+			I throw the ball to you... and this 
+			other player stands between us with 
+			a bat, a stick... and he... he tries 
+			to hit the ball in between these two 
+			white lines...
+
+	Jake alien blinks with confusion, Sisko pauses...  regroups... 
+	getting another idea... his delivery growing with confidence 
+	as he continues...
+
+					SISKO
+			The rules aren't important...  what's 
+			important is -- it's linear.  
+			Every time you throw this ball a 
+			hundred different things can happen 
+			in the game... he might swing and 
+			miss, he might hit it...  the point 
+			is you never know...  you try to 
+			anticipate, set a strategy for all 
+			the possibilities as best you can... 
+			but in the end it all comes down to 
+			throwing one pitch after another... 
+			and seeing what happens.  With each 
+			new consequence, the game begins to 
+			take shape...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SEVEN      105.
+
+230  CONTINUED:
+
+					BATTER ALIEN
+				(grasping the meaning)
+			And you have no idea what that shape 
+			is until it is completed...
+
+					SISKO
+				(beat)
+			That's right.  In fact, the game 
+			wouldn't be worth playing if we knew 
+			what was going to happen.
+
+					JAKE ALIEN
+				(flabbergasted)
+			You value your ignorance of what is 
+			to come?
+
+					SISKO
+				(acknowledges, driving 
+				home his point)
+			That may be the most important thing 
+			to understand about humans.
+			It is the unknown that defines 
+			our existence.  We are constantly 
+			searching... not just for answers 
+			to our questions... but for new 
+			questions.  We are explorers... 
+			we explore our lives day by day...
+			and we explore the galaxy, trying 
+			to expand the boundaries of our 
+			knowledge.  And that is why I'm 
+			here.  Not to conquer you either 
+			with weapons or with ideas.  But 
+			to co-exist and learn.
+
+231  JAKE ALIEN
+
+	studies him curiously for a beat...
+
+232  SISKO
+
+	waits hopefully for a response... reacts as he looks down at
+
+233  HIS HANDS
+
+	bloody and burned as they were at the Saratoga.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT SEVEN      106.
+
+234  INT. SISKO'S QUARTERS
+
+	and he's back on the Saratoga... his quarters in flames... 
+	his wife dead... his son unconscious...  standing with the 
+	Tactical Officer...
+
+					TACTICAL OFFICER ALIEN
+			If all you say is true... why do you 
+			exist here?
+
+	Sisko reacts, confused and...
+
+234A THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Heartbeat.  Breathing.
+
+235  INT. OPS - VIEWSCREEN (OPTICAL)
+
+	Three huge Cardassian warships approaching.
+
+236  REVERSE ANGLE
+
+	to see Kira at Master watching... with O'Brien, Dax, Odo and 
+	Bashir at various stations...
+
+					KIRA
+			Mister O'Brien, can you establish a 
+			high energy Thoron field before they 
+			get into sensor range... I don't 
+			want them to be able to scan our 
+			defense systems...
+
+					O'BRIEN
+			Aye, sir...
+
+					DAX
+			They're hailing us.
+
+					KIRA
+			On screen.
+
+237  ANGLE - INCLUDE VIEWSCREEN  (OPTICAL)
+
+	The Cardassian Commander, GUL JASAD, appears, in his ready 
+	room.
+
+					KIRA
+			This is First Officer Kira Nerys.
+
+					JASAD
+				(arrogant)
+			May I speak with the Starfleet 
+			Commander?
+
+					KIRA
+			He's not available.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/26/92 - ACT SEVEN      107.
+
+237  CONTINUED:
+
+					JASAD
+			I'm not used to talking to Bajoran 
+			Majors.
+
+					KIRA
+			I'm all you've got.
+
+	A beat.  He studies her.
+
+					JASAD
+			I am Gul Jasad of the Cardassian 
+			Guard, Seventh Order.  Where is our 
+			warship?
+
+					KIRA
+			With any luck, they're in the Gamma 
+			Quadrant.  On the other side of the 
+			wormhole.
+
+					JASAD
+				(explodes)
+			What wormhole?  Our sensors show no 
+			indication of a wormhole in this 
+			sector.
+
+					KIRA
+			That's because it just collapsed.
+
+					DAX
+			We believe it was artificially 
+			created.  That may be why our sensors 
+			never picked up any of the usual 
+			quantum fluctuation patterns...
+
+					JASAD
+				(furious)
+			You expect me to believe that someone 
+			created a wormhole...
+			And now conveniently disassembled it?
+
+	He cuts transmission... his ship reappears on the viewscreen.
+
+
+   DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT SEVEN 108-109.     
+
+238  ANGLE - LOSING THE VIEWSCREEN
+
+					DAX
+			They're flooding subspace with anti-
+			lepton interference... it'll cut off 
+			our communications with Starfleet...
+
+					O'BRIEN
+			... They're powering up their forward 
+			phasers...
+
+					KIRA
+			Red alert.  Shields up.
+
+					O'BRIEN
+			What shields?
+
+	Kira reacts but before she has any time to pursue the 
+	matter...
+
+					DAX
+			They're hailing us again.
+
+					KIRA
+				(beat)
+			Open the channel.
+
+239  ANGLE INCLUDE THE VIEWSCREEN (OPTICAL)
+
+					JASAD
+			We do not accept your explanation.
+			Somehow you have destroyed our warship...
+
+					KIRA
+			Gul Jasad, I assure you...
+
+					JASAD
+			We demand the unconditional surrender 
+			of this station.  Or we will open 
+			fire.
+
+	A beat.  Kira glances at O'Brien, his last warning about the 
+	shields in her mind... back to the viewscreen.
+
+					KIRA
+				(playing for time)
+			I'll need at least a day to make the 
+			necessary preparations...
+
+					JASAD
+			You have an hour.
+
+	He signs off... his ship reappears... on reactions...
+
+									FADE OUT.
+
+                       END OF ACT SEVEN                         
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT EIGHT      110.
+                           ACT EIGHT                            
+
+	FADE IN:
+
+A240   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+B240   INT. OPS
+
+	As before.  O'Brien on the move to his station...
+
+					O'BRIEN
+			I can transfer all available power 
+			to establish partial shields around 
+			critical areas... but if they hit 
+			the docking ring we'll sustain heavy 
+			damage...
+
+					KIRA
+				(to Odo)
+			Constable... if you would coordinate 
+			moving all personnel to safer 
+			locations...
+
+	He acknowledges, EXITS... turning to Dax --
+
+					KIRA
+			What was the last reported position 
+			of the Enterprise?
+
+					DAX
+			At least twenty hours away...
+
+					KIRA
+			We've got to hold out till they get 
+			here...
+
+					BASHIR
+			I can't believe the Cardassians would 
+			ever attack a Federation outpost...
+
+					O'BRIEN
+			Doctor, you ever studied your military 
+			history of the border wars?  Ever 
+			heard of the Setlik Three massacre?
+
+					KIRA
+			I assume, Mister O'Brien you would 
+			agree that surrender is not a 
+			preferable option...
+
+
+    DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT 110A.       
+
+B240   CONTINUED:
+
+					O'BRIEN
+			You know what they do to their 
+			prisoners, sir...
+
+	Kira nods silently a beat... thoughtful... glances at 
+	Bashir...
+
+					KIRA
+			Did I mention, Doctor, that heroes 
+			often die young?
+
+	Off his reaction...
+
+C240   THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	Heartbeat.  Breathing.
+
+240  INT. SARATOGA - SISKO'S QUARTERS
+
+	As before... Sisko and the Tactical Officer alien...
+
+	the fire and smoke billowing up around them...
+
+					SISKO
+			What is the point of bringing me 
+			back again to this?
+
+241  ANGLE - JENNIFER ALIEN AND JAKE ALIEN
+
+	are there (Jennifer is dressed in her park costume, Jake is 
+	wearing his fishing pond costume)... standing by Jennifer's 
+	dead body and Jake's unconscious body still on the floor...
+
+					JAKE ALIEN
+			We do not bring you here.
+
+					JENNIFER ALIEN
+			You bring us here.
+
+					TACTICAL OFFICER ALIEN
+			You exist here.
+
+	Sisko blinks, not entirely understanding... but is impatient 
+	to be done with it...
+
+
+    DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT EIGHT 110B.       
+
+					SISKO
+			Then give me the power to lead you 
+			somewhere else.
+
+242  ANGLE - KAI OPAKA ALIEN
+
+	is there...
+
+					KAI OPAKA ALIEN
+			We cannot give you what you deny 
+			yourself...
+
+	Sisko reacts, looks at her... as she says the familiar 
+	words...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT      111.
+
+242  CONTINUED:
+
+					KAI OPAKA ALIEN
+			Look for solutions from within, 
+			Commander...
+
+					SISKO #2 (O.S.)
+			Just help me get her free...
+
+	Sisko turns to see --
+
+243  THE SAME SETTING
+
+	and a replay of the actual events (as we did with the picnic 
+	in the park)... Sisko and the alien versions of Jake, 
+	Jennifer, Opaka and the Tactical Officer watch Sisko #2 and 
+	the duplicate Tactical Officer...
+
+					TACTICAL OFFICER
+			She's gone... there's nothing we can 
+			do...
+
+					COMPUTER VOICE
+			Warning.  Damage to warp core.
+			Containment failure in two 
+			minutes...
+
+	Sisko #2 takes his dead wife's hand...
+
+					SISKO #2
+			You go ahead, Lieutenant.  Take the 
+			boy.
+
+	The security man ENTERS and the Tactical Officer gives Jake 
+	#2 to him... The real Sisko watches, his eyes glued to the 
+	horror, his mouth dry as cotton...
+
+					 SISKO
+
+			I was ready to die with her...
+
+					 TACTICAL OFFICER ALIEN
+
+			"Die" - what is this?
+
+	And it is Jennifer Alien who answers... as understanding 
+	begins to grow...
+
+					 JENNIFER ALIEN
+			The termination of their linear
+			existence.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT      112.
+
+244  JENNIFER ALIEN AND SISKO (OPTICAL)
+
+	As she studies him and sees his pain... and then reaches out 
+	and places it on his shoulder with comfort... he reacts to 
+	the touch of her hand and looks into her eyes... and they 
+	aren't so alien anymore...  it is the first overt physical 
+	contact they have made with him... a link... an 
+	understanding... she looks back at the scene --
+
+					TACTICAL OFFICER
+			Now, sir...
+
+	As the Tactical Officer lifts him by the shoulder...
+
+	He continues to pull him out of the room...
+
+					SISKO #2
+			Dammit... we can't leave her here...
+
+	During the above, Sisko is beginning to make a realization...
+
+					SISKO
+
+			I've never left this ship...
+
+					JENNIFER ALIEN
+
+			You exist here.
+
+					SISKO
+
+			I... exist here.
+
+	The Tactical Officer leads Sisko #2 out... Sisko steps slowly 
+	forward and moves to his dead wife taking the place of his 
+	double... picks up her hand...
+
+					SISKO
+				(to the aliens)
+			I don't know if you can understand.  
+			I see her like this every time I 
+			close my eyes... in the darkness in 
+			the blink of an eye, she's there... 
+			like this...
+
+					JENNIFER ALIEN
+			None of your past experiences helped 
+			prepare you for this consequence...
+
+	Sisko shakes his head, slowly...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT EIGHT      113.
+
+244  CONTINUED:
+
+					SISKO
+				(softly)
+			And I've never figured out how to 
+			live without her.
+
+					JENNIFER ALIEN
+			So you choose to exist here.
+
+	He nods, unable to speak... she moves closer...
+
+					JENNIFER ALIEN
+			It is not linear.
+
+	And of course it is so simple in its truth...
+
+					SISKO
+			No.  It's not... linear.
+
+	Sisko gently places down the hand of his dead wife... 
+	and as he accepts that this is really the end of their 
+	life together, tears roll down his cheeks, and he 
+	begins to truly grieve his loss.  After a beat, he 
+	stands, turns... and Jennifer alien is no longer there.
+	He understands, exchanges a meaningful look with the remaining 
+	three aliens (Tactical officer, Opaka, and Jake).  In this 
+	moment, two species have finally come to understand one 
+	another... to learn from one another... it is the end to the 
+	conflict... and the beginning of a shared future.  There is 
+	something of a compassionate smile from Jake alien that seals 
+	it... and as Sisko returns his smile with an appreciation 
+	for what they've done...
+
+245  THE WHITE SCREEN - SISKO'S EYES (OPTICAL)
+
+	thoughtful, showing the impact of what has occurred...  
+	heartbeat... breathing...
+
+246  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as before.
+
+247  INT. OPS
+
+	Kira, O'Brien, Dax, Bashir... O'Brien and Dax at their 
+	stations...
+
+					DAX
+			Their lead ship is hailing us...
+
+	Gul Jasad wants an answer...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT EIGHT      114.
+
+					KIRA
+				(acknowledges, a beat)
+			Are you ready, Mister O'Brien... ?
+
+					O'BRIEN
+			Yessir... when they penetrate our 
+			Thoron field, it should raise a few 
+			eyebrows over there...
+
+					KIRA
+			All right, then, let's give them our 
+			answer.  Fire six photon torpedoes 
+			across Jasad's bow...
+
+					O'BRIEN
+				(reacts)
+			We only have six photons, Major...
+
+					KIRA
+			We're not going to win this battle 
+			with torpedoes, Chief.
+
+					O'BRIEN
+			Aye, sir...
+
+247A
+thru   OMITTED
+247B
+
+248  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	launches six torpedoes... that explode off the lead ship's 
+	starboard bow...
+
+
+    DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT EIGHT 114A.       
+
+249  INT. OPS
+
+					O'BRIEN
+			An urgent hail from Jasad.
+
+					BASHIR
+			I guess we got his attention.
+
+					KIRA
+			On screen.
+
+250  ANGLE INCLUDE THE VIEWSCREEN (OPTICAL)
+
+	Jasad is incredulous, but calm.
+
+					JASAD
+			This is your answer... ?
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT      115.
+
+250  CONTINUED:
+
+					KIRA
+			You don't think Starfleet took command 
+			of this space station without the 
+			ability to defend it, do you?
+
+					JASAD
+			Defend it?  Your space station could 
+			not defend itself against one 
+			Cardassian warship...
+
+	A beat as she steps forward to the viewscreen...
+
+					KIRA
+			You're probably right, Jasad. And if 
+			you were dealing with a Starfleet 
+			officer, they'd probably admit we 
+			have a hopeless cause here... but 
+			I'm just a Bajoran who's been fighting 
+			a hopeless cause against Cardassians 
+			all her life... So if you want a 
+			war, I'll give you one.
+
+	Jasad shakes his head, cuts off transmission and the screen 
+	returns to the Cardassian ships... O'Brien studies her with 
+	a trace of admiration...
+
+					O'BRIEN
+			Major, remind me never to get into a 
+			game of Roladan Wild Draw with you...
+
+	Off her reaction...
+
+251  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	with the Cardassian ships.
+
+252  INT. CARDASSIAN BRIDGE (OPTICAL)
+
+	Jasad studies the space station on a viewscreen...
+
+	his officer ENTERS...
+
+					CARDASSIAN OFFICER #3
+			They were using a Thoron field to 
+			block our sensors but we were able 
+			to penetrate it...
+
+					JASAD
+			What are their defenses... ?
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT      116.
+
+					CARDASSIAN OFFICER #3
+			According to our scans, an estimated 
+			5000 photons... integrated phaser 
+			banks on all levels...
+
+	He hands Jasad a padd with information on it...
+
+					JASAD
+			When did they receive these armaments?  
+			How did they install them without 
+			our knowledge?
+
+	Jasad throws the padd across the room... the officer reacts...
+
+					JASAD
+			Somehow they've created a massive 
+			illusion of duranium shadows...
+
+					CARDASSIAN OFFICER #3
+			But if it is not an illusion...
+
+					JASAD
+			It is!
+
+					CARDASSIAN OFFICER #3
+			Why risk a confrontation?  The Fourth 
+			Order can be here in a day...
+
+					JASAD
+			And so can Starfleet.
+
+	A beat on Jasad as he thinks and...
+
+253  INT. OPS (OPTICAL)
+
+	The Cardassian ships on the viewscreen... the crew waits for 
+	a response...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/25/92 - ACT EIGHT      117.
+
+253  CONTINUED:
+
+	Dax is checking readings...
+
+					DAX
+			The lead ship is sending out a 
+			subspace message asking for 
+			reinforcements...
+
+					BASHIR
+			Yes...
+
+					KIRA
+				(watching the screen)
+			Too soon for a victory celebration, 
+			Doctor... Mister O'Brien... ?
+
+					O'BRIEN
+			The ships are being deployed into a 
+			standard attack formation, sir...
+
+	The mood quickly shifts...
+
+					KIRA
+				(quietly)
+			Battle stations.
+
+254  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the Cardassians open fire... several charges explode off 
+	the docking ring...
+
+255  INT. PROMENADE
+
+	Emphasis on Jake among civilians, who have crowded onto the 
+	main street... The area shakes with the impact of the 
+	explosions...
+
+256  INT. OPS
+
+	Shaking...
+
+					O'BRIEN
+			They may just be testing us...
+			I could run a pulse compression 
+			wave through the phaser banks, 
+			put out a blast that'll make them 
+			think twice...
+
+					KIRA
+			Do it...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/31/92 - ACT EIGHT      118.
+
+257  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	firing a huge phaser blast... connecting with a Cardassian 
+	ship that sustains some damage... but the Cardassians' fire 
+	shows no sign of letting up, connects with a lower deck...
+
+258  INT. OPS
+
+	A major shake...
+
+					KIRA
+			Damage report...
+
+					O'BRIEN
+			Direct hit... level fourteen...  
+			empty storage bays... no casualties...
+
+					DAX
+			Shields are down to twenty-seven 
+			percent...
+
+259  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The firing continues... the Cardassians connect with a fuel 
+	depot... there is a huge explosion... and a series of three 
+	smaller ones along a fuel line moving toward...
+
+260  INT. PROMENADE (OPTICAL)
+
+	where an underground line ruptures and the fire shoots through 
+	the floor... people scatter as Bajoran supernumeraries move 
+	quickly with 24th century fire gear to contain the damage... 
+	Jake quickly moves out of the path of the surging crowd...
+
+261  INT. OPS
+
+					DAX
+				(reacts)
+			A fuel conduit has ruptured on the 
+			Promenade...
+
+					KIRA
+				(to O'Brien)
+			Can you divert the main power flow...
+
+					O'BRIEN
+				(trying in vain)
+			Controls are locked...
+
+
+    DEEP SPACE: "Emissary" REV. FINAL 08/31/92 - ACT EIGHT 118A.       
+
+261  CONTINUED:
+
+					ODO'S COM VOICE
+			Odo to Ops...
+
+					KIRA
+			Go ahead.
+
+261A INT. PROMENADE
+
+	Odo tending to the wounded...
+
+					ODO
+				(barking)
+			I've got wounded people down here.
+			Have you seen that doctor of yours 
+			anywhere?
+
+261B INT. OPS
+
+					BASHIR
+				(reacts)
+			I'm on my way...
+
+	He EXITS onto a turbolift as the station is rocked with more 
+	explosions...
+
+					O'BRIEN
+				(on the move)
+			I'm gonna have to shut down the 
+			primary power flow or the whole 
+			promenade will go up...
+				(beat, to himself)
+			Bloody Cardies... we just fixed the 
+			damned thing...
+
+	He swings down into the hole and begins to work on a 
+	console...
+
+261C EXT. DEEP SPACE NINE (OPTICAL)
+
+	The Cardassians continue to pummel the station with phaser 
+	shots...
+
+261D INT. PROMENADE  (OPTICAL)
+
+	The lights go out... Jake and others react with alarm...
+
+	the shaking continues... moving to find Bashir arriving 
+	carrying a medical kit... he moves to Odo who is with a 
+	civilian Bajoran woman who is seriously hurt... her neck is 
+	bleeding... Bashir takes a quick tricorder reading, his eyes 
+	narrow with concern...
+
+
+    DEEP SPACE: "Emissary" REV. FINAL 08/21/92 - ACT EIGHT 118B.       
+
+261D CONTINUED:
+
+	Bashir grabs Odo's hand, surprising him, guides his finger 
+	to the woman's neck..
+
+					BASHIR
+			Press there... hard...
+
+					ODO
+				(awkward)
+			Look, Doctor... maybe I should find 
+			you someone...
+
+					BASHIR
+				(fully in command)
+			Hold it there...
+
+	And Odo blinks, obeys... Bashir uses a laser-like device on 
+	the woman's neck as he holds her head firm with his free 
+	hand (3 hands are clearly required... ) his eyes determined 
+	to save her... the lights come back on... reactions...
+
+261E INT. OPS
+
+	O'Brien still in the hole...
+
+					O'BRIEN
+			That should do it for awhile...
+
+	He climbs out of the hole as another blast rocks the 
+	station...
+
+					DAX
+			Shields at eighteen percent and 
+			falling...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT EIGHT      119.
+
+261E CONTINUED:
+
+					O'BRIEN
+			I might still be able to give you 
+			one more phaser blast, Major...
+
+	A beat.  Kira knows it's hopeless... there's nothing else to 
+	do...
+
+					KIRA
+			No.  Signal the lead Cardassian ship 
+			that we will proceed with the...
+
+					DAX
+			Major... I'm reading a huge neutrino 
+			disturbance... fifteen kilometers 
+			off the forward docking ring...
+				(beat)
+			It's the wormhole...
+
+					KIRA
+			On screen...
+
+262  ANGLE TO INCLUDE VIEWSCREEN (OPTICAL)
+
+	in time to see the wormhole explode into view...
+
+263  REACTIONS
+
+	interactive lighting from the screen...
+
+264  INT. CARDASSIAN BRIDGE - JASAD (OPTICAL)
+
+	As he reacts to the viewscreen displaying the wormhole... 
+	behind the space station...
+
+					KIRA'S COM VOICE
+			What did I tell you, Jasad...
+			There's your wormhole...
+
+265  EXT. SPACE - THE WORMHOLE (OPTICAL)
+
+	to see an incredible sight... the tiny Runabout towing out 
+	the huge Cardassian warship, at the end of a tractor beam, 
+	fifty times larger than the Starfleet vessel...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/14/92 - ACT EIGHT      120.
+
+266  INT. OPS
+
+					SISKO'S COM VOICE
+			Rio Grande to D-S Nine.
+
+					KIRA
+			On screen.  Go ahead, Commander.
+
+267  ANGLE INCLUDING VIEWSCREEN (OPTICAL)
+
+					SISKO
+			Sorry to be so late.  I didn't know 
+			we were having company.
+
+	Clear me for docking, Mister O'Brien.
+
+					O'BRIEN
+			Aye, sir... cleared for pad "C"...
+
+	On the elated reactions of the crew...
+
+268  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the Runabout moves in for a landing...
+
+269  INT. PROMENADE
+
+	As Sisko walks out of the Airlock gate... he sees the damage 
+	to the promenade, reacts, begins to move perceptibly faster... 
+	and he has to be wondering about Jake... he finally finds 
+	Odo and Bashir tending to the wounded... The Bajoran woman 
+	is lying nearby, conscious, holding hands with a member of 
+	her family...
+
+					SISKO
+			Casualties... ?
+
+					BASHIR
+			Thirteen injured, Commander...
+			No fatalities...
+
+	And Sisko's face eases immediately... as he looks up to motion 
+	in the crowd and Jake pushes to the front...  smiles as he 
+	sees his father... Sisko grins back with love... and as the 
+	boy runs to him, Sisko lifts him up and carries him on his 
+	hip... and as they move down the thoroughfare...
+
+										FADE TO BLACK.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/13/92 - ACT EIGHT      121.
+
+	FADE IN:
+
+270  EXT. SPACE - DEEP SPACE NINE (OPTICAL)  (DAY #7)
+
+	Revealing the Enterprise arriving...
+
+					SISKO (V.O.)
+			Station log, Commander Benjamin Sisko, 
+			stardate xxxxx.x.  The lifeforms who 
+			created the wormhole have agreed to 
+			allow safe passage for all ships 
+			traveling to the Gamma Quadrant. 
+			With the arrival of the Enterprise, 
+			the Cardassians have left the area...
+
+271  INT. COMMANDER'S OFFICE
+
+	there is no hostility from Sisko this time... Sisko has 
+	finished briefing him as we cut in...
+
+					PICARD
+				(dry)
+			I suspect the sight of their warship 
+			being towed back by a Starfleet 
+			runabout took the heart out of their 
+			fight...
+
+					SISKO
+			We're not done with the Cardassians 
+			yet.  Not with the strategic 
+			importance that wormhole brings...
+
+					PICARD
+			It seems you've put Bajor 
+			on the map, Commander.
+			This will shortly become a 
+			leading center of commerce and 
+			scientific exploration...
+				(beat, with purpose)
+			And for Starfleet, one of our most 
+			important posts...
+
+
+    DEEP SPACE: "Emissary" REV. FINAL 08/12/92 - ACT EIGHT 121A.       
+
+271  CONTINUED:
+
+					SISKO
+				(beat)
+			Captain, regarding our conversation 
+			about someone to replace me...
+
+					PICARD
+			I'm sorry, I haven't had the time to 
+			communicate it to Command...
+
+					SISKO
+			I would prefer you ignore it, sir.
+
+					PICARD
+				(a beat, not so easy)
+			I'm not sure I can, Commander...  
+			are you certain this is what you 
+			want?  Because we can't afford to 
+			have someone in command here who...
+
+					SISKO
+			I'm certain, sir.
+
+	A beat, Picard studies the man, quite a different man than 
+	the last time they met.  He nods... shakes his hand...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 08/10/92 - ACT EIGHT      122.
+
+271  CONTINUED:	(2)
+
+					PICARD
+			Good luck, Sisko.
+
+
+	And Picard EXITS... a beat on Sisko...
+
+272  EXT. BAJOR - MATTE SHOT - ESTABLISHING (OPTICAL)
+
+273  INT. MONASTERY - DAY (OPTICAL)
+
+	Pulling back on the ark as it's placed in a shrine... moving 
+	to find Opaka is doing it... and that Sisko is with her...
+
+					SISKO
+			Fourteen planets have already 
+			contacted us about opening trade 
+			routes through Bajoran space...
+
+					KAI OPAKA
+				(nods)
+			The prophets have been generous...
+
+					SISKO
+			I have a lot to tell you about your 
+			prophets, Opaka.
+
+					KAI OPAKA
+			Does it surprise you that I do not 
+			wish to hear?
+
+	Sisko reacts, not really.
+
+					KAI OPAKA
+			Perhaps that is why a disbeliever 
+			was destined to seek them -- one 
+			should never look into the eyes of 
+			his own gods...
+
+					SISKO
+				(wanting to share at 
+				least this much)
+			It was... quite a journey.
+
+					KAI OPAKA
+			It was only the beginning of your 
+			journey, Commander.
+
+	On Sisko's reaction...
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 09/14/92 - ACT EIGHT      123.
+
+274  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+275  INT. PROMENADE
+
+	Moving to find Bashir walking with Odo...
+
+					BASHIR
+			So, where can someone practice with 
+			his phaser around here... ?
+
+	Losing them as they pass by Quark's, where the camera picks 
+	up Kira and Quark coming out of the door...
+
+					QUARK
+			New rules... ?
+
+					KIRA
+			You're can't cheat every customer 
+			who walks through your door anymore, 
+			Quark... you're a community leader 
+			now...
+
+	Quark puts his hand on her hip in an awkwardly intimate 
+	move...
+
+					QUARK
+			Very well.  Very well.  Perhaps we 
+			could discuss these new rules over a 
+			drink...
+
+					KIRA
+			If you don't take that hand off my 
+			hip, you'll never be able to raise 
+			another glass with it.
+
+	She gives him a hard look, moves away... as Quark watches...
+
+					QUARK
+			I love a woman in uniform...
+
+	And he gasps as he sees Dax pass in her uniform with 
+	O'Brien... and we stay with them as they walk to greet Sisko 
+	arriving from the Turbolift...
+
+					DAX
+			Benjamin, three Frunalian science 
+			vessels are requesting permission to 
+			dock...
+
+					O'BRIEN
+			Problem is we've been retro-fitting 
+			the Airlocks, sir.
+
+
+       DEEP SPACE: "Emissary" REV. FINAL 09/14/92 - ACT EIGHT      124.
+
+275  CONTINUED:
+
+					O'BRIEN
+			Half of them were damaged during the 
+			move... and most of the others when 
+			the Cardassians blew out the...
+
+	And during the above, they move away out of earshot as we 
+	pull back for the wide shot of the activity...
+
+276  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the three ships arrive...
+
+									FADE OUT.
+
+                       END OF ACT EIGHT                         
+                            THE END                             
+
+

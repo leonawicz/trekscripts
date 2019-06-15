@@ -1,0 +1,2972 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                         "Second Skin" 
+                          #40513-451 
+                              
+                          Written by 
+                      Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Les Landau 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        August 19, 1994
+
+       STAR TREK: DS9 - "Second Skin" - 08/19/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Second Skin" 
+                             CAST 
+
+          SISKO                    ENTEK
+          KIRA                     GHEMOR
+          ODO                      ALENIS
+          BASHIR                   ARI
+          DAX                      GUL
+          QUARK                    YELN
+                                   YTEPPA
+          GARAK                    CARDASSIAN COM VOICE
+                                   N.D COM VOICE
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. CARDASSIAkS
+
+ STAR TREK DEEP SPACE NINE: "Second Skin" - 08/19/94 - SETS       
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Second Skin" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          REPLIMAT                      
+          SECURITY OFFICE               CARDASSIA
+
+          OPS                           
+          DOCKING RING/CORRIDOR         THE DEFIANT
+          WARDROOM                      
+          HABITAT RING CORRIDOR         
+          COMMANDER'S OFFICE            
+
+        DEFIANT                       
+          BRIDGE                        
+
+        GHEMOR'S HOME                 
+          MAIN ROOM                     
+          ILIANA'S ROOM                 
+
+        CARDASSIAN SHIP               
+
+      STAR TREK: "Second Skin" - 08/23/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Second Skin" 
+                      PRONUNCIATION GUIDE 
+
+          ALENIS                   uh-LEN-iss GREM
+          ARI                      ARE-ee
+          GUL BENIL                GULL buh-NIL
+          CORBIN ENTEK             KORE-bin EN-tek
+          DAHKUR                   duh-KOOR
+          DESEGRANINE              deh-SEG-ruh-NEEN
+          ELEMSPUR                 EL-em-SPUR
+          GALOR                    rhymes with valor
+          HARA                     HAR-uh
+          ILIANA GHEMOR            ill-ee-AN-uh ghe-MORE
+                                   (hard "G")
+          JALANDA                  juh-LAN-duh
+          KILOMETER                KIL-o-me-ter
+          KLAESTRON                KLY-stron
+          KOBHEERIAN               ko-BEER-ean
+          RAK-MIUNIS               rak-me-U-nis
+          SINGHA                   SING-uh
+          SHAAKAR                  sha-KAR
+          TEKENY                   tuh-KEN-ee
+          TORANIUM                 tore-AYN-ee-um
+          VITERIAN                 vih-TAIR-ee-uhn
+          YELN                     YELN (one syllable)
+          YTEPPA                   yuh-TEP-uh
+
+            DEEP SPACE: "Second Skin" - 08/19/94 - TEASER            1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                            "Second Skin"                              
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. REPLIMAT
+
+	DAX is sitting at one of the tables, nursing a drink, looking 
+	a little bored.  QUARK comes up and sits down without waiting 
+	for an invitation.
+
+					QUARK
+			Why don't you tell your Uncle Quark 
+			all about it?
+
+					DAX
+				(grumpy)
+			What are you talking about, Quark?
+
+					QUARK
+			You're fifteen minutes late for your 
+			appointment in the holosuites, and 
+			from the look of that drink, you've 
+			been nursing it for a while.  You got 
+			stood up, didn't you?
+
+					DAX
+			If you must know... I'm waiting for 
+			Major Kira.  We were supposed to go 
+			anti-grav sailing together... But 
+			you know how she feels about the 
+			holosuites.
+
+	Before Quark can answer...
+
+            DEEP SPACE: "Second Skin" - 08/19/94 - TEASER            2.
+
+2    NEW ANGLE
+
+	KIRA speaks up... having ENTERED during the preceding 
+	conversation.
+
+					KIRA
+			She thinks they're a complete waste 
+			of time.
+
+	Quark and Dax turn toward Kira.
+
+					KIRA
+				(continues)
+			Anything worth doing in a holosuite 
+			can be done better in the real world.
+
+					QUARK
+			You've obviously never been in the 
+			right holosuite program.
+				(sidles up to her)
+			If you'd like, I could...
+
+					KIRA
+				(cuts him off)
+			You could.  But you'd live to regret 
+			it.
+
+	Quark deflates, his pride hurt.
+
+					QUARK
+				(extricating himself)
+			Maybe some other time.
+
+	Quark EXITS.
+
+					KIRA
+			Sorry I'm late.  Sisko and I had to 
+			revise the crew rotations again.
+
+					DAX
+			You mean you're not canceling?
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - TEASER          3.
+
+2    CONTINUED:
+
+					KIRA
+			No... I'm kind of looking forward to 
+			it.  Except for the crashing part.
+
+	Dax gets up.  She's glad she's finally getting Kira to relax 
+	and have some fun.
+
+					DAX
+			Don't worry.  You won't crash.  We'll 
+			start with an easy simulation... 
+			like sailing across the Great Erg on 
+			New Mecca.
+				(excited)
+			You'll see... this'll be terrific.
+
+	Dax and Kira start toward the holosuites, but...
+
+					N.D. COM VOICE
+			Ops to Major Kira.
+
+					KIRA
+				(to com)
+			Kira here.
+
+					N.D. COM VOICE
+			You have an incoming communication 
+			from the Bajoran Central Archives.
+
+	Kira would like to ignore it, but duty calls.
+
+					KIRA
+				(to com)
+			I'm in the Replimat.  I'll take it 
+			down here.
+				(to Dax, apologetic)
+			This'll only take a minute.
+
+3    NEW ANGLE (OPTICAL)
+
+	Kira walks up to a monitor on one of the walls of the 
+	Replimat.  She activates it and the image of ARCHIVIST ALENIS 
+	GREM appears.  Alenis is an older, professorial Bajoran woman, 
+	someone more comfortable with books and data than people.
+
+            DEEP SPACE: "Second Skin" - 08/19/94 - TEASER            4.
+
+3    CONTINUED:
+
+					KIRA
+			This is Major Kira.
+
+					ALENIS
+				(on monitor)
+			Major... My name is Alenis Grem.  
+			I'm doing a study on the Elemspur 
+			Detention Center for the Bajoran 
+			Central Archives and I was hoping to 
+			ask you a few questions.
+
+					KIRA
+			I'd be glad to help...
+				(curious)
+			But why come to me?  I was never at 
+			Elemspur.
+
+					ALENIS
+				(on monitor, puzzled)
+			Cardassian records clearly indicate 
+			that a Kira Nerys was held at Elemspur 
+			for...
+				(checks her records)
+			Seven days.
+
+					KIRA
+			Sorry, but you've got the wrong Kira 
+			Nerys.  Believe me, if I'd been held 
+			in a Cardassian prison, I'd remember.
+
+					ALENIS
+				(on monitor)
+			I don't understand.  I have the 
+			records right here.  Kira Nerys of 
+			Dahkur Province... Member of the 
+			Shaakar Resistance Cell...
+
+	On the monitor, Alenis operates some computer controls and 
+	an image comes up on the screen.
+
+4    CLOSE ON THE MONITOR (OPTICAL)
+
+	The image changes to display a "mug shot" of a young Kira 
+	wearing fatigues and looking miserable.
+
+					ALENIS
+				(on monitor)
+			You see?
+
+            DEEP SPACE: "Second Skin" - 08/19/94 - TEASER            5.
+
+5    ANGLE ON DAX AND KIRA
+
+	As they react to the picture of Kira.
+
+					DAX
+				(surprised)
+			It's you.
+
+	Kira looks dumbfounded at the mug shot and we...
+
+	PULL BACK TO REVEAL:
+
+6    FEMALE ALIEN
+
+	Standing on the other side of the Promenade, spying on Kira.  
+	Hold on the Alien Woman (YTEPPA) as she surreptitiously 
+	observes Kira's reaction, then...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT ONE            6.
+                            ACT ONE                             
+
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+7    INT. SECURITY OFFICE (OPTICAL)
+
+	Kira and ODO are looking at the detention center records 
+	provided by Alenis.  In addition to the mug shot, the records 
+	display Okudagrams of Kira's genetic "fingerprint."  A graphic 
+	reads "Pattern Match."
+
+					ODO
+				(awkward)
+			If your memory and these prison 
+			records don't agree, then one of 
+			them must be wrong... Either the 
+			records... or...
+
+	Kira sees what Odo's getting at, and she doesn't like it.
+
+					KIRA
+				(confident)
+			My memory's fine.  I know exactly 
+			where I was that week.
+
+					ODO
+				(doubtful)
+			After ten years?
+
+					KIRA
+			I spent that whole winter with my 
+			Resistance group in the Dahkur Hills.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE         7.
+
+
+7    CONTINUED:
+
+					KIRA
+			We had no power cells for our phasers, 
+			almost no food, and we spent most of 
+			our time in caves hiding from 
+			Cardassian sensor sweeps.  Believe 
+			me, it was very... memorable.
+
+	She looks at the prison records once again.
+
+					KIRA
+				(continuing)
+			These records are fake.  The only 
+			question is who faked them... and 
+			why.
+
+	Odo nods, then turns his attention back to the monitor.
+
+					ODO
+			According to this, you supposedly 
+			shared a cell with three other 
+			inmates.  Maybe one of them can help 
+			us find out what's going on here...
+
+	Kira studies the monitor as Odo brings up the names of Kira's 
+	cellmates.
+
+8    INT. OPS (OPTICAL)
+
+	Kira is talking on a monitor to a Bajoran man in his late 
+	forties.  The man's name is YELN.  From his expression, the 
+	mention of Elemspur seems to have brought up painful memories.
+
+					YELN
+				(on monitor)
+			Elemspur... I haven't thought about 
+			that place in a long time.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE         8.
+
+8    CONTINUED:
+
+					KIRA
+			I was hoping you could answer some 
+			questions about your fellow prisoners.
+
+					YELN
+				(on monitor)
+			I'll try and...
+				(Yeln stops and stares 
+				at Kira)
+			Wait... I remember you... You were 
+			there, too, weren't you?
+				(remembers)
+			Kiri something?
+
+	Kira is stunned that Yeln remembers her, since she has no 
+	recollection of ever meeting him.
+
+					KIRA
+			Kira.  Kira Nerys.
+
+					YELN
+				(on monitor)
+			I almost didn't recognize you.  You 
+			used to wear your hair differently, 
+			didn't you?  Longer?
+
+					KIRA
+				(surprised)
+			You remember me... after all this 
+			time?
+
+					YELN
+				(on monitor)
+			When the Cardassians dragged you out 
+			of our cell, I gave you up for dead.  
+			Glad to see I was wrong.
+				(grim)
+			Those were bad times.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE         9.
+
+8    CONTINUED:	(2)
+
+					KIRA
+				(quiet)
+			Yes... they were.
+
+	As Yeln falls silent, Kira mulls the implications of what 
+	he's told her.
+
+9    INT. DOCKING RING CORRIDOR
+
+	Kira and SISKO walk together toward an airlock.  Kira's 
+	carrying a travel bag and seems worried.  Sisko is 
+	sympathetic.
+
+					SISKO
+			He could've been lying.
+
+					KIRA
+			Maybe.  But the records and the only 
+			surviving witness both say I was at 
+			Elemspur; my memory says something 
+			different.
+				(very worried)
+			I have to find out the truth.
+
+	Kira's clearly disturbed by this.  And maybe even a little 
+	afraid.
+
+					SISKO
+			I understand.  If there's anything 
+			you need...
+
+	Kira musters a smile of appreciation.
+
+					KIRA
+			I'll let you know.
+				(trying to be upbeat)
+			This shouldn't take long.  I'll only 
+			be on Bajor for a few days.
+
+					SISKO
+				(with affection)
+			We'll try to manage without you until 
+			you get back.
+
+	Kira smiles, then turns and leaves, EXITING into the Airlock.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE        10.
+
+10   CLOSE ON SISKO
+
+	As he watches her go.  He's concerned, but he knows Kira can 
+	handle herself.  After a beat, he heads back to Ops.  But as 
+	Sisko walks away...
+
+11   NEW ANGLE
+
+	Yteppa, the alien woman who was watching Kira on the 
+	Promenade, walks past him and follows Kira into the airlock.
+
+12   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+13   INT. REPLIMAT
+
+	GARAK is sitting at a table pouring himself a honey-like 
+	Cardassian drink when BASHIR joins him.
+
+					BASHIR
+			There you are, Garak.  I came by 
+			your shop, but it was closed.
+
+					GARAK
+			Business has been a bit slow... For 
+			some reason, living under the constant 
+			threat of Dominion attack has made 
+			people less eager to invest in new 
+			clothing.
+				(changing the subject)
+			How was your trip to Klaestron Four?
+
+					BASHIR
+			Terrific.  The Klaestrons have 
+			developed a burn treatment technology 
+			that has to be seen to be believed.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE        11.
+
+13   CONTINUED:
+
+					GARAK
+			You know... I envy you.
+
+					BASHIR
+			How so?
+
+					GARAK
+			When I was young, traveling was 
+			something of a hobby for me.  There 
+			are few things in life that compare 
+			with the thrill of immersing oneself 
+			in the culture of an alien world, 
+			meeting the inhabitants, earning 
+			their trust.  But aside from our one 
+			brief excursion to Bajor, I don't 
+			think I've been off this station for 
+			almost three years.
+
+					BASHIR
+			What's stopping you?  Ships leave 
+			Deep Space Nine almost every day.
+
+					GARAK
+			Space is dangerous, doctor.  You 
+			never know what might happen.
+
+					BASHIR
+			Garak, you're being paranoid.
+
+	Garak just stares at him.  Bashir reaches a realization.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE        12.
+
+13   CONTINUED:	(2)
+
+					BASHIR
+			Are you saying that the Cardassian 
+			government would have you killed if 
+			you left this station?
+
+	This is exactly what Garak's saying, but he's not about to 
+	admit that to Bashir.
+
+					GARAK
+			My dear doctor... you do have a vivid 
+			imagination.
+				(smiles)
+			Now please... I want to hear all 
+			about your trip to Klaestron Four.
+
+	Bashir decides not to press it and settles in to relate the 
+	details of his trip.
+
+14   INT. OPS
+
+	Sisko and Dax are in Ops, along with a number of 
+	supernumeraries.
+
+					DAX
+			Commander, we're receiving a 
+			transmission from the Bajoran Central 
+			Archives...
+
+					SISKO
+			I'll take it.
+
+15   NEW ANGLE (OPTICAL)
+
+	As Sisko moves over to a monitor and Alenis Grem appears.
+
+					SISKO
+			If you're looking for Major Kira, 
+			I'm afraid she isn't on the station 
+			right now.  She's on Bajor.
+
+					ALENIS
+				(on monitor)
+			I know.  That's why I called.  The 
+			Major contacted me before she left.  
+			She was supposed to meet with me so 
+			I could show her the information I 
+			retrieved from Elemspur.
+				(a beat)
+			She never came.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT ONE        13.
+
+15   CONTINUED:
+
+	Sisko's immediately concerned.  Dax, who's been 
+	eavesdropping, joins him.  She looks worried, too.
+
+					ALENIS
+				(on monitor)
+			I tried to contact the Major to 
+			reschedule... but she wasn't where 
+			she said she'd be... As far as I can 
+			tell no one's seen her since she 
+			left the spaceport for Elemspur.
+
+	And as Dax and Sisko exchange worried looks...
+
+									CUT TO:
+
+16   INT. GHEMOR'S HOME - ILIANA'S BEDROOM - NIGHT
+
+	This is obviously a woman's bedroom.  Wall hangings and other 
+	decorations soften the stark architecture.  Though we may 
+	not realize it right away, the architecture is Cardassian, 
+	as are the decorations and various knickknacks in the room.  
+	A window looks out over a forboding Orwellian city.
+
+	There are three people in the room.  Yteppa (the female 
+	alien), a man standing in the shadows by the door, who we 
+	will come to know as CORBIN ENTEK, and an unconscious woman 
+	lying on the bed.  The woman's face is in the shadows.
+
+					ENTEK
+				(in shadow)
+			Wake her.
+
+	Yteppa administers a hypospray to the unconscious woman.
+
+        DEEP SPACE: "Second Skin" - 08/19/94 - ACT ONE 14-15.          
+
+17   NEW ANGLE
+
+	As the woman regains consciousness, we see things through 
+	her P.O.V.  She looks up at Yteppa.
+
+					KIRA'S VOICE
+				(groggy)
+			Where... where am I?
+
+	From the voice, it's clear the woman is Kira, although we 
+	still don't see her face.
+
+					YTEPPA
+			It's all right.  You're safe.
+
+	Kira sits up and the room comes slowly into focus as 
+	she tries to get her bearings.  Something catches her 
+	eye in the background.
+
+18   MIRROR
+
+	Behind Yteppa reflects the scene.  Kira stares at the mirror, 
+	and she and the audience both finally see...
+
+19   HER FACE
+
+	In place of her Bajoran nose, Kira now has an instantly 
+	recognizable pattern of bony ridges.  Her complexion has a 
+	gray cast, her face is skull-like.  Kira is now a Cardassian.
+
+					KIRA
+			What have you done to me?
+
+20   NEW ANGLE
+
+	As Entek steps forward from the shadows and we see that he 
+	is also a Cardassian.
+
+					ENTEK
+				(matter-a-fact)
+			We've brought you back home... to 
+			Cardassia.
+
+	And as Kira reacts to this horrifying news, we...
+
+21   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT TWO 16-17.        
+                            ACT TWO                             
+
+	FADE IN:
+
+22   INT. GHEMOR'S HOME - ILIANA'S BEDROOM - NIGHT
+	(CONTINUOUS)
+
+	Kira backs away from Yteppa and Entek.  She sizes up 
+	the situation, trying to decide whether to fight or try 
+	to run.  Entek moves toward Kira.  He's ambitious and 
+	hyper-alert; you get the feeling he's always thinking 
+	of at least three different things at the same time.
+
+					ENTEK
+			Please... we're here to help you.
+
+	Kira doesn't believe that for a second.
+
+					KIRA
+			I don't know who you are... or what 
+			you're trying to do... but it's not 
+			going to work.  Whatever you think--
+				(indicates her face)
+			This is going to get you, you can 
+			forget it.
+
+					ENTEK
+			We don't think it's going to "get 
+			us" anything.  If all we wanted was 
+			information, we'd have it by now.
+
+					KIRA
+			Then what's stopping you?
+
+					ENTEK
+				(patiently)
+			We have no intention of hurting you.  
+			Why should we?  You're one of us.
+
+	Kira reacts angrily.
+
+					KIRA
+			This is absurd.  You can mutilate 
+			me, change my appearance, but you're 
+			never going to convince me I'm a 
+			Cardassian.
+
+					ENTEK
+			I know this is difficult for you.  
+			And I'm sorry.  I wish there was a 
+			better way to prepare you for what 
+			you're going through.
+
+         DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT TWO        18.
+
+22   CONTINUED:
+
+	As he's talking, Entek picks up a Cardassian picture frame 
+	off the desk and casually examines the picture inside.
+
+					ENTEK
+				(continues)
+			Sometimes I question the wisdom of 
+			our infiltration methods.  By altering 
+			the memories of our long-term 
+			operatives, we ensure that they'll 
+			never be discovered.  But it makes 
+			reintegrating them back into 
+			Cardassian society much more 
+			difficult.
+
+	Entek places the picture back on the desk.
+
+					ENTEK
+				(continuing)
+			Still, it's hard to argue with 
+			success.
+
+					KIRA
+				(incredulously)
+			You don't really expect me to believe 
+			all this, do you?
+
+					ENTEK
+			Of course not.  At least not yet.  
+			We've given you medication to reverse 
+			your memory loss, but it can take 
+			some time to become effective.  Until 
+			your original memories re-emerge, I 
+			don't expect you to believe a word I 
+			say.
+				(a beat)
+			But it's still not easy watching 
+			someone you care about suffer.
+
+					KIRA
+				("give me a break")
+			Then I suppose you and I are old 
+			friends.
+
+         DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT TWO        19.
+
+22   CONTINUED:	(2)
+
+					ENTEK
+			I supervised your training.
+				(a beat)
+			You're a field operative of the 
+			Obsidian Order named Iliana Ghemor.  
+			Ten years ago, you volunteered for 
+			an undercover assignment on Bajor.  
+			We kidnapped a Bajoran terrorist, 
+			gave you her memories and appearance, 
+			and placed you back on Bajor to 
+			infiltrate the resistance.
+				(off her reaction)
+			I know you don't believe me, but 
+			you'll remember. It will just take 
+			some time.  Being here...
+				(indicates their 
+				surroundings)
+			... should help.
+
+					KIRA
+			This place?
+				(looks around 
+				dismissively)
+			It's just another Cardassian prison.
+
+					ENTEK
+			This is not a prison, Iliana.  It's 
+			your room... in the house where you 
+			were born.  You're home.
+
+					KIRA
+			My home is in the Dahkur Province of 
+			Bajor.
+
+	Unfazed, Entek places a Cardassian isolinear datarod on the 
+	desk, next to the picture frame.  He obviously means for 
+	Kira to take it, but she just stares at it.
+
+					ENTEK
+			Here.  This contains a personal 
+			statement you recorded before you 
+			were sent to Bajor.  Watch it.  It 
+			should help explain things.
+				(smiles)
+			If you have any questions, just ask.
+
+	Entek EXITS.  Kira stares at the datarod, unsure of what to 
+	do next.  She notices the picture frame and picks it up and 
+	looks at it.
+
+         DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT TWO        20.
+
+23   CLOSE ON THE PHOTO
+
+	It's a picture of ILIANA GHEMOR.
+
+24   CLOSE ON KIRA
+
+	As she reacts to the picture and compares it to her reflection 
+	in the mirror.  Now that Kira's been altered into a 
+	Cardassian, the girl's resemblance to Kira is striking.
+
+	Hold on Kira's troubled reaction for a beat, then...
+
+25   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As before.
+
+26   INT. WARDROOM
+
+	Sisko, Dax, and Odo are in the middle of a meeting at the 
+	conference table.  All of them are worried about Kira, but 
+	Odo is especially on edge.
+
+					ODO
+			We interviewed all the residents in 
+			the vicinity of the Elemspur Detention 
+			Center.  One of them thinks he saw 
+			Kira walking up the old Cardassian 
+			Road toward the Center.
+
+					DAX
+			When we scanned the area, we found a 
+			residual electrostatic charge.
+
+	Dax passes Sisko a PADD.  Sisko looks at it.
+
+         DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT TWO        21.
+
+26   CONTINUED:
+
+					SISKO
+			This could be a transporter trace.
+				(more a statement 
+				than a question)
+			You think she was beamed away?
+
+	Dax nods.  Sisko is instantly in action.
+
+					SISKO
+			All right, I want the name of every 
+			ship that was in the area at the 
+			time of the beam out.
+				(to Odo)
+			Constable, contact your friends in 
+			the Bajoran militia.  Tell them we 
+			need to see the activity logs of all 
+			the ground based transporters in 
+			that area.
+				(to all)
+			That'll be all.
+
+	The meeting breaks up.  Odo EXITS, but Dax lingers behind.
+
+					DAX
+			Benjamin... those residual 
+			electrostatic charges... they could 
+			also have been left by a disrupter... 
+			or a phaser set to kill.
+
+	Sisko looks worried as he studies the PADD.
+
+					SISKO
+			I know.
+
+	But at least for now, he'd rather hope they weren't.
+
+27   EXT. CARDASSIA - DAY (MATTE SHOT)
+
+	A vast cityscape dominated by a large viewscreen broadcasting 
+	Cardassian propaganda.
+
+28   INT. GHEMOR'S HOME - ILIANA'S BEDROOM - DAY (OPTICAL)
+
+	Kira walks over to the window of Iliana's room and tries to 
+	reach outside.  Her hand is stopped by a force field.  
+	Somehow, Kira's not surprised.
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT TWO           22.
+
+28   CONTINUED:
+
+	Her attention is drawn to the isolinear rod containing 
+	Iliana's statement.  She picks it up, looks at it, then 
+	contemptuously tosses it aside.
+
+	To Kira's surprise, the door CHIMES.  At first, she doesn't 
+	respond, but in the end, her curiosity gets the better of 
+	her.
+
+					KIRA
+				(on her guard)
+			Enter.
+
+	Entek ENTERS.
+
+					ENTEK
+				(smiles)
+			There's someone here who wants to 
+			see you.
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT TWO           23.
+
+29   NEW ANGLE
+
+	Entek ushers in TEKENY GHEMOR, Iliana's father.  Ghemor's 
+	uniform marks him as a legate in the Cardassian military and 
+	a member of the Central Command.  Ghemor is a little grumpy.
+
+					GHEMOR
+			You took your time about it, Entek.  
+			I don't appreciate being kept waiting 
+			in my own house.
+
+					ENTEK
+			As I explained, Legate, the initial 
+			debriefings can be difficult.  We 
+			couldn't allow any interruptions.
+
+	Ghemor dismisses Entek with a wave, then turns and looks at 
+	Kira.  He instantly softens, becoming more gentle, and more 
+	tentative.
+
+					GHEMOR
+			It really is you.
+
+					ENTEK
+			Remember, her memory hasn't returned 
+			yet.
+
+	Though he'd been cautioned to expect this, Ghemor looks 
+	disappointed.
+
+					GHEMOR
+			I... understand.
+
+	He turns to Kira.
+
+					GHEMOR
+			Iliana... I...
+				(Ghemor trails off, 
+				at a loss for words)
+			I wish I could tell you how much 
+			this means to me.
+
+					KIRA
+			Am I supposed to know you?
+
+	Before Ghemor can answer, Entek cuts in.
+
+					ENTEK
+			Iliana, this is Legate Tekeny Ghemor.  
+			He's your father.
+
+	Kira looks at Entek, then Ghemor, in disbelief.
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT TWO           24.
+
+29   CONTINUED:
+
+					KIRA
+			My father?
+				(doesn't buy it)
+			My father died on Bajor... fighting 
+			the Cardassians.
+
+					GHEMOR
+				(impatiently)
+			That's not true.
+				(checks himself)
+			I'm sorry.  I know you don't remember 
+			me... but I've been waiting for this 
+			for so long.
+				(a beat, to Entek)
+			Please leave us.
+
+					ENTEK
+			Are you sure that's wise?
+
+					GHEMOR
+			She's my daughter.  She's not going 
+			to hurt me.
+
+					ENTEK
+			As you wish.
+
+	Entek EXITS, leaving...
+
+24   KIRA AND GHEMOR
+
+	Alone in the room.  Kira sizes up Ghemor.  He doesn't seem 
+	like a threat, but she still doesn't trust him.  On his part, 
+	Ghemor desperately wants to make some connection with the 
+	woman he believes to be his daughter.
+
+					GHEMOR
+			I've missed you, Iliana...
+
+        DEEP SPACE: "Second Skin" - 08/19/94 - ACT TWO 25-27.          
+
+30   CONTINUED:
+
+	He reaches out for her but she steps away from him.
+
+					KIRA
+			Don't call me that.  It's not my 
+			name... and I'm not your daughter.
+
+	Even though Kira is soft-spoken, her words hit Ghemor like a 
+	physical blow.
+
+					GHEMOR
+			I'm sorry.  I didn't mean to...
+				(trying not to let 
+				the pain show)
+			You're home now.  That's all that 
+			matters.  I should let you rest.  
+			You'll remember... in time.  Until 
+			then... please, consider yourself a 
+			guest in this house.
+
+	Ghemor starts to leave, then pauses and looks back at Kira.  
+	He's missed his daughter tremendously, but now that she's 
+	back, her lack of memory is incredibly painful to him.  Still, 
+	she's home, and for now, that's enough.  Ghemor EXITS.
+
+31   ANGLE ON KIRA
+
+	As she watches the sad man who claims to be her father leave, 
+	then looks around at her surroundings, not sure what to do 
+	next.
+
+	And as Kira tries to come to grips with her situation, we...
+
+	OMITTED
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Second Skin" - REV. 08/30/94 - ACT THREE       28.
+                           ACT THREE                            
+
+	FADE IN:
+
+OA   INT. INFIRMARY
+
+	A sleepy Bashir is closing down the Infirmary when Garak 
+	ENTERS.
+
+					GARAK
+			Good evening, Doctor.  When you're 
+			all through here, I was wondering if 
+			you might want to join me for a late 
+			snack.
+
+					BASHIR
+			Actually, right now, all I want is a 
+			little sleep.  Maybe tomorrow.
+
+	Bashir starts to go around Garak to finish closing up, but 
+	Garak steps in front of him and blocks his path.
+
+					GARAK
+			I'm afraid this won't wait until 
+			tomorrow.  I have some important 
+			news... about Major Kira.
+
+OB   CLOSE ON BASHIR (FORMERLY SC. 33)
+
+	Who is now instantly alert, all thought of sleep banished 
+	from his mind.
+
+39   INT. GHEMOR'S HOME - MAIN ROOM - DAY
+
+	This is a Cardassian home, similar in style to the quarters 
+	on the station, and sparsely decorated except for a few 
+	tastefully displayed military awards and war trophies.
+
+	Kira is alone in the room, systematically searching it for 
+	surveillance devices.  She's so intent on her search that 
+	she doesn't notice Ghemor ENTER, carrying a tray of food.
+
+					GHEMOR
+			In the left corner, above the window.
+
+	Startled, Kira looks back at Ghemor, not exactly sure what 
+	he's talking about.
+
+					KIRA
+			What?
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE      28A.
+
+39   CONTINUED:
+
+					GHEMOR
+			The Obsidian Order's surveillance 
+			devices.  That is what you're looking 
+			for, isn't it?
+
+	Kira looks a little sheepish, but she doesn't admit anything.  
+	Ghemor sets down the tray of food.
+
+					GHEMOR
+				(continues)
+			Don't worry.  They're not on.  As a 
+			member of the Central Command, they're 
+			only activated at my request.
+				(re: the food)
+			I thought you might want some 
+			breakfast.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       29.
+
+39   CONTINUED:	(2)
+
+					GHEMOR
+				(begins unloading the 
+				tray)
+			I assumed you'd be used to Bajoran 
+			food by now, so I took the liberty 
+			of replicating some hasperat.
+
+					KIRA
+			I'm not hungry.
+
+	Kira picks up an elaborate carving on one of the shelves and 
+	examines it closely.
+
+					GHEMOR
+			Recognize it?
+
+					KIRA
+				(shakes her head)
+			It's wonderful.
+
+	Ghemor smiles with pride.
+
+					GHEMOR
+				(re: the carving)
+			That's the bone-carving you made for 
+			me when I was promoted to Legate.
+
+					KIRA
+			Your daughter was very talented.
+
+	Kira places the carving carefully back on the shelf.
+
+					GHEMOR
+			Yes.  She is.
+				(a beat)
+			I always thought you should've been 
+			an artist.  You have such a wonderful 
+			eye for detail.  But you were 
+			determined to join the Order.  You 
+			thought it was your duty to Cardassia.  
+			Personally, I think Cardassia could 
+			use a few more artists.
+				(trying to make a 
+				connection)
+			You sure you won't have any hasperat?  
+			It's only good when it's warm.
+
+	Kira stares at Ghemor for a long beat, as if measuring him.  
+	Even though he's only trying to be nice, she doesn't want 
+	his hospitality.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       30.
+
+39   CONTINUED:	(3)
+
+					KIRA
+			No thank you.
+
+					GHEMOR
+			Still stubborn as ever.  You're as 
+			bad as your mother.  She could never 
+			do anything the easy way.
+				(sad)
+			You don't remember her either, do 
+			you?
+
+					KIRA
+				(quietly)
+			My mother was an icon painter from 
+			Dahkur Province.  She died of 
+			malnutrition in the Singha Refugee 
+			Camp when I was three.
+
+	Even though he expected this reaction, Ghemor's hurt.
+
+					GHEMOR
+				(quietly)
+			I wish you would stop that.  Your 
+			mother was an inquisitor at the 
+			Central University.
+
+	Ghemor looks sad and disappointed.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       31.
+
+39   CONTINUED:	(4)
+
+					GHEMOR
+			This is my fault.  I never should've 
+			let you go on that mission.  I 
+			could've prevented it.  A well placed 
+			word here, a favor from a friend 
+			there... you never would've known.  
+			But you were so determined to go... 
+			so proud that you'd been chosen, 
+			that I didn't have the heart to stop 
+			you.
+				(sad)
+			Your mother never forgave me.
+
+	Kira looks at Ghemor for a long beat, as if weighing what 
+	he's said.
+
+					KIRA
+			You're good.  Really good.
+				(off Ghemor's reaction)
+			The house... the food... the 
+			stories... It's all very convincing.
+				(cold)
+			But I don't believe a word of it.
+
+	Kira starts to walk away.
+
+					GHEMOR
+			Iliana... I just want you to know... 
+			I'm sorry.
+
+	Kira doesn't respond, but EXITS toward Iliana's room.
+
+40   CLOSE ON GHEMOR
+
+	As he reacts, saddened by Kira's utter lack of belief.
+
+41   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As before.
+
+42   INT. SECURITY OFFICE
+
+	Garak is in the middle of being questioned by Sisko and Odo.  
+	From the look of things, Sisko and Odo don't like his answers 
+	any more than Garak likes being there.
+
+					GARAK
+			Commander, I've already told the 
+			good doctor everything I know.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       32.
+
+42   CONTINUED:
+
+					SISKO
+			I'd like to hear it again,  
+			firsthand.
+
+					GARAK
+			This is pointless.  Believe me, 
+			there's nothing you can do.  If my 
+			friend is correct, and Major Kira is 
+			being held by the Obsidian Order, 
+			retrieving her would be quite 
+			impossible.
+
+					ODO
+			Maybe impossible for us... but not 
+			for you.
+
+	Garak's discomfort increases markedly.
+
+					GARAK
+			I'm afraid you overestimate my 
+			abilities.
+
+					SISKO
+			I hope not... Because I intend to 
+			put those abilities to the test.
+				(off Garak's reaction)
+			The three of us are going to 
+			Cardassia.
+
+					GARAK
+			The three of us?  You can't be 
+			serious.
+				(sees that they are)
+			Commander, if I were allowed on 
+			Cardassia, do you really think I'd 
+			be living here?
+
+					SISKO
+			Which brings up an interesting point.
+				(off Garak's reaction)
+			Garak, certain ministers in the 
+			Bajoran government have expressed 
+			concern about your presence on this 
+			station.  In fact, they want you 
+			removed.  Right now, I see no 
+			alternative but to agree with their 
+			request.
+				(going in for the 
+				kill)
+			Unless of course, I can show them 
+			that you might be valuable to them.
+
+          DEEP SPACE: "Second Skin" - 08/19/94 - ACT THREE          33.
+
+42   CONTINUED:	(2)
+
+					ODO
+			Rescuing Kira would go a long way 
+			toward improving your standing with 
+			the Bajoran government.
+
+					GARAK
+			Why should I care what the Bajoran 
+			government thinks of me?
+
+					SISKO
+			I don't know... It seems to me that 
+			if someone were in trouble with the 
+			Cardassian Central Command, a Bajoran 
+			space station under Federation control 
+			might just be the safest place in 
+			the galaxy.  Don't you agree?
+
+	Garak looks from Sisko to Odo and sees that he's trapped.
+
+					GARAK
+			This is extortion, Commander.
+
+					SISKO
+			Yes.  It is.
+
+	Sisko waits for Garak to voice further objections, but the 
+	Cardassian's been boxed into a corner.  Sisko places a 
+	dataclip on his desk.
+
+					SISKO
+			We'll be travelling under false 
+			transit documents prepared by 
+			Starfleet Inteligence.  Mister 
+			O'Brien's reconfigured the shield 
+			harmonics of the Defiant so that, on 
+			long-range sensors, it'll appear to 
+			be a Kobheerian freighter.  We leave 
+			in three hours.
+
+	Garak weighs his options, then reluctantly takes the dataclip 
+	from the desk.
+
+					GARAK
+			Fine.  I'll go along on your little 
+			fool's errand.  But I want one thing 
+			to be perfectly clear... I have no 
+			intention of sacrificing my life to 
+			save yours.  If it looks like we're 
+			in danger of being captured... if 
+			there are any signs of trouble at 
+			all... you're on your own.
+
+       DEEP SPACE: "Second Skin" - 08/19/94 - ACT THREE 34-35.         
+
+42   CONTINUED:	(3)
+
+					SISKO
+			Mister Garak, I believe that's the 
+			first completely honest thing you've 
+			ever said to me.
+
+					GARAK
+			How perceptive of you, Commander.
+
+	And with that, Garak EXITS.  Hold on Sisko and Odo as they 
+	contemplate their choice of allies.
+
+43
+thru   OMITTED
+44
+
+45   INT. GHEMOR'S HOME - MAIN ROOM - DAY
+
+	Entek and Ghemor ENTER the room.  Kira is waiting.
+
+	Entek seems a little worried.
+
+					ENTEK
+				(to Ghemor)
+			She doesn't remember anything?
+
+					GHEMOR
+			Not yet.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       36.
+
+45   CONTINUED:
+
+					ENTEK
+			That's unfortunate.  It would've 
+			made things easier.
+				(to Kira)
+			I'm afraid I'm going to have to ask 
+			you some questions.
+
+					GHEMOR
+			So soon?  I thought she would be 
+			given time to regain her memory.
+
+					ENTEK
+			She was given time.  The desegranine 
+			injections should've worked by now.  
+			Memories usually begin to resurface 
+			after only a few hours, and its 
+			been two days.  She should be well 
+			on her way to recovery.
+
+					GHEMOR
+			Maybe the medication wasn't properly 
+			administered.
+
+					ENTEK
+			I'm not a doctor; I wouldn't know.  
+			There may be something else we can 
+			do, but right now, the Order needs 
+			some information your daughter might 
+			have.
+				(pointedly)
+			So if you'll excuse us.
+
+	Ghemor sees he can't hold off the questioning any longer.
+
+					GHEMOR
+				(to Kira)
+			I'll be in the next room if you need 
+			me.
+
+					ENTEK
+			Legate, your concerns are baseless.  
+			She's one of our own people.  We 
+			have no reason to harm her.
+
+					GHEMOR
+			And I'll be nearby to remind you of 
+			that, in case you forget.
+
+	Entek sees that he can't win this, and backs down.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       37.
+
+45   CONTINUED:	(2)
+
+					ENTEK
+			As you wish... Legate.
+
+	Kira studies Ghemor, less sure than ever that his devotion 
+	to her is an act.
+
+								DISSOLVE TO:
+
+46   INT. GHEMOR'S HOME - MAIN ROOM - DAY
+
+	It's later.  Kira is still being questioned by Entek.  If 
+	Kira's worried inside, she's not showing it.  She comes off 
+	relaxed and helpful -- although the content of her answers 
+	leaves something to be desired.
+
+					ENTEK
+			What were your duties as first officer 
+			of Deep Space Nine?
+
+					KIRA
+				(deadpan)
+			I told you, I didn't do anything.  
+			The Federation ran everything.  I 
+			wasn't even allowed in Ops.
+
+					ENTEK
+			How many Starfleet personnel are on 
+			the station?
+
+					KIRA
+			Oh thirty... maybe forty thousand.
+				(conspiratorial)
+			But don't tell them I told you.
+
+	Entek finally loses his temper.
+
+					ENTEK
+			That's enough.
+
+	Kira stares at him defiantly.  Entek looks troubled.  This 
+	is killing him.
+
+          DEEP SPACE: "Second Skin" - 08/19/94 - ACT THREE          38.
+
+46   CONTINUED:
+
+					ENTEK
+			Iliana, don't you understand what's 
+			going on here?  I'm trying to give 
+			you a chance.  Even if you don't 
+			remember me, you're still one of my 
+			operatives.  I don't want to hurt 
+			you, but if you don't cooperate...
+
+	Entek studies Kira for a long beat, weighing his options.  
+	Finally he seems to have an idea.
+
+					ENTEK
+				(continuing, brightens)
+			Maybe there is a way to convince you 
+			to take what I say seriously.
+				(to com)
+			This is Entek.  Send me exhibit...
+				(checks his records)
+			"S" one-nine-eight-three "I."  
+			Immediately.
+
+					KIRA
+			There's nothing you can show me that 
+			will make any difference.
+
+	Entek doesn't bother to argue.  He's excited, and thinks 
+	he's found a way to keep from harming his ex-student.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT THREE       39.
+
+46   CONTINUED:	(2)
+
+					ENTEK
+			Did you know that the Obsidian Order 
+			saves everything that comes into its 
+			possession?  You never know what 
+			might come in handy.  We have 
+			libraries of data transcripts, vaults 
+			of ancient artifacts, even...
+
+47   NEW ANGLE (OPTICAL)
+
+	As a stretcher is BEAMED into the room.  Whatever is on the 
+	stretcher is hidden by a sheet.
+
+					ENTEK
+			Ah... here it is.
+				(picking up where he 
+				left off)
+			Even racks of cryogenic chambers 
+			containing biological research 
+			subjects like this one here.
+
+48   NEW ANGLE
+
+	As Entek flips back the sheet, revealing a dead body... It's 
+	Kira, with long hair, looking just like she did in the prison 
+	record.
+
+49   CLOSE ON KIRA
+
+	As she reacts to the body.
+
+					KIRA
+			It's not possible.
+
+					ENTEK
+			I assure you, when it comes to the 
+			Obsidian Order, nothing is impossible.
+
+	Kira looks down at the body, but doesn't move any closer.  
+	And as she stares at her dead self, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+50   INT. GHEMOR'S HOME - MAIN ROOM - DAY (CONTINUOUS)
+
+	Kira looks in disbelief at her own dead body.  It's hard to 
+	doubt what she's seeing, but she tries to come up with 
+	possible explanations.
+
+					KIRA
+			It's a fake.  A clone... or a 
+			hologram.  This whole place could be 
+			a holodeck for all I know.
+
+	Entek doesn't respond to her charges.  Instead, he tries a 
+	completely different tack.
+
+					ENTEK
+			Remember the time you were on long- 
+			range reconnaissance in the Bestri 
+			Woods.  You thought you saw a 
+			Cardassian soldier and opened fire 
+			on him.  You hit your target, only 
+			to find out...
+
+					KIRA
+				(surprised, finishing 
+				for him)
+			I killed a Hara Cat.
+
+					ENTEK
+			A mother Hara Cat, who was nursing 
+			her young.
+
+	The story saddens Kira and takes some of the wind out of her 
+	sails.
+
+					KIRA
+			How did you know about that?  I never 
+			told that story to anyone.
+
+					ENTEK
+			I know about it because we placed 
+			that story in your memories, Iliana.  
+			Just like we gave you every other 
+			memory you have.  What we couldn't 
+			extract from the real Kira, we got 
+			from other prisoners... or just 
+			invented ourselves.
+
+	Kira reacts to what he's said.  Maybe for the first time 
+	since she regained consciousness on Cardassia, Kira is 
+	beginning to doubt herself.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        41.
+
+50   CONTINUED:
+
+					ENTEK
+			Ask yourself two things, Iliana.  
+			First, is there anything that I've 
+			said we've done that's beyond the 
+			capabilities of the Obsidian Order?  
+			I assume you know there isn't.
+				(beat)
+			And second... if you're not my 
+			operative... if you're not who I say 
+			you are... why would I play this 
+			game?  Believe me, if I wanted to 
+			extract the information from you, 
+			I'd have it already.
+
+	Kira looks at the body and tries to make sense of what Entek 
+	has said.
+
+					ENTEK
+				(continuing)
+			But I don't want to do that.  I care 
+			about you.  You were one of my best 
+			students.  Watch the recording.  
+			Think about what I've said.  Because 
+			the Order won't wait much longer.
+
+51   CLOSE ON KIRA
+
+	As she looks at her own corpse.
+
+52   INT. GHEMOR'S HOME - ILIANA'S BEDROOM - NIGHT
+
+	Kira's alone in the bedroom.  As we watch, she wires a 
+	Cardassian PADD into an open console in the wall by the 
+	window.
+
+53   CLOSE ON KIRA (OPTICAL)
+
+	As she finishes wiring in the PADD, then carefully examines 
+	the results.  Punching a series of codes into the PADD, Kira 
+	manages to override the window's force field generator.  The 
+	force field fritzes out.
+
+					GHEMOR (O.S.)
+			I see you haven't forgotten all of 
+			your Obsidian Order training.
+
+        DEEP SPACE: "Second Skin" - REV. 08/24/94 - ACT FOUR        42.
+
+54   NEW ANGLE
+
+	Kira turns around and sees Ghemor, who entered the room while 
+	she was concentrating on the window.
+
+					KIRA
+			Actually, I learned that in the 
+			Resistance.
+
+					GHEMOR
+			Next time you might want to keep a 
+			contact wire running between the 
+			wall and the access plate.  You 
+			tripped a silent alarm when you 
+			separated them.
+
+					KIRA
+			I'll keep that in mind.
+				(a beat)
+			I suppose if I walk out of here, 
+			you'll try to stop me.
+
+					GHEMOR
+			I don't have to.  You wouldn't get 
+			half a kilometer without being 
+			detected by the Obsidian Order.
+
+					KIRA
+			Maybe I'm willing to take that chance.
+
+	Ghemor looks desperate.  Losing his daughter a second time 
+	would destroy him.
+
+					GHEMOR
+				(almost pleading)
+			Iliana...
+
+					KIRA
+				(gets angry)
+			Stop calling me that.  I'm not your 
+			daughter... and I never was.  I'm 
+			leaving.
+
+					GHEMOR
+			You'll never get off Cardassia.  In 
+			the end, you'll just make things 
+			worse for yourself.  I can only do 
+			so much to help you.
+
+					KIRA
+				(quietly)
+			If you want to help me, get me off 
+			this planet.  I'll never cooperate 
+			with the Order.
+
+        DEEP SPACE: "Second Skin" - REV. 08/24/94 - ACT FOUR        43.
+
+54   CONTINUED:
+
+					KIRA (Cont'd)
+			And eventually, they're going to 
+			realize that.  Then they'll have to 
+			interrogate me.  And I won't survive.
+
+	Ghemor knows Kira's right.  He doesn't want to lose her, but 
+	he also doesn't want her to get hurt.  He thinks about what 
+	she's saying for a long beat, then...
+
+					GHEMOR
+			I promise you that won't happen.
+				(a beat)
+			I'll never allow the Order to harm 
+			you.  No matter what you decide, I 
+			won't let them hurt you.  I only ask 
+			one thing.  Before you make your 
+			decision, I beg you, watch the 
+			recordings Entek gave you.  It's the 
+			only way you'll ever know the truth.
+
+	Ghemor looks at Kira for a beat, knowing that if she does 
+	decide to leave, he'll never see her again.  Then he EXITS, 
+	leaving her standing in front of the open window.
+
+55   CLOSE ON KIRA
+
+	Torn between risking a desperate escape attempt and staying 
+	to confront her fears.
+
+									CUT TO:
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        44.
+
+55A  NEW ANGLE - CLOSE ON A KIRA'S HAND
+
+	As she inserts the Cardassian datarod into a slot on the 
+	desk.
+
+56   NEW ANGLE - CLOSE ON A MONITOR (OPTICAL)
+
+
+	The monitor on Iliana's desk brings up a freeze frame of 
+	ILIANA, sitting in her room.  Kira looks at it for a beat, 
+	then seems to come to a decision.
+
+					KIRA
+			Begin playback.
+
+	In response to Kira's command, the image comes to life and 
+	Iliana starts talking.  Iliana is a young woman trying very 
+	hard to be brave and professional.
+
+					ILIANA
+				(on monitor, smiles)
+			Hello, Iliana.  Welcome home.
+				(gets serious)
+			I've been asked to make these 
+			recordings for myself, for you, to 
+			help my memory recover when I get 
+			back.
+
+57   INCLUDE KIRA
+
+	As she reacts to the recording.
+
+					ILIANA
+				(on monitor, continues)
+			I go in for my surgery tomorrow.  
+			I'm going to miss Cardassia.  But I 
+			know I'm doing the right thing.  The 
+			terrorism on Bajor has to be stopped.
+				(sadder)
+			Father doesn't want me to go.  Mother 
+			just looks unhappy all the time.  I 
+			hope they'll understand some day.  I 
+			want them to be proud of me.
+
+	And as Kira watches this Cardassian version of herself, we...
+
+									CUT TO:
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        45.
+
+58   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	Establishing.  The Defiant at warp.
+
+59   INT. THE DEFIANT - BRIDGE
+
+	Sisko is on the bridge, along with Dax and a crew of N.D.s.  
+	Sisko's in civilian clothing, although Dax and the crew are 
+	dressed normally.
+
+					SISKO
+			How're the modifications to the shield 
+			harmonics holding up.
+
+					DAX
+			So far so good.  Nobody here but us 
+			Kobheerians.
+
+					SISKO
+				(smiles)
+			We're well into Cardassian space, so 
+			keep a close eye on that shield 
+			modulator.  If it breaks down, we 
+			could be in for some unwelcome 
+			company.
+
+	Dax nods at continues to monitor the shield modulator.
+
+60   NEW ANGLE
+
+	As Odo ENTERS, escorting Garak.  Odo doesn't look happy.
+
+					ODO
+			Commander, I just caught Garak 
+			snooping around the access corridor 
+			outside the main phaser banks.
+
+					GARAK
+			I was merely taking a stroll to 
+			stretch my legs.  The quarters on 
+			this vessel are rather... 
+			claustrophobic.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        46.
+
+60   CONTINUED:
+
+					SISKO
+			Confine him to his cabin for the 
+			rest of the trip, and post a guard 
+			at the door.
+
+					GARAK
+			Commander, I must protest.
+
+					SISKO
+			Protest all you like, I...
+
+	But Dax cuts Sisko of.
+
+					DAX
+			Benjamin, I'm detecting two Galor 
+			class warships headed this way.
+
+					SISKO
+			What about the shield harmonics?
+
+					DAX
+			Still holding.  As far as their 
+			scanners are concerned, we should 
+			still look like a Kobheerian 
+			freighter.
+
+					GARAK
+			Probably just a routine security 
+			check.
+
+					DAX
+			They're hailing us.
+
+					SISKO
+			Drop out of warp.  I don't want to 
+			get too close to them.
+				(a beat)
+			Is the communications holo-filter 
+			ready?
+
+					DAX
+				(nods)
+			I can make your com image look like 
+			a three thousand ton screech rhino 
+			if you want me to.
+
+					SISKO
+			A Kobheerian Captain will do nicely, 
+			Lieutenant.
+				(a beat)
+			Engage the overlay.  Put them on 
+			screen.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        47.
+
+61   INCLUDE THE MONITOR (OPTICAL)
+
+	A Cardassian GUL appears on screen.
+
+					GUL
+			This is Gul Benil of the Eighth Order.  
+			Identify yourself.
+
+					SISKO
+			This is...
+
+62   INT. CARDASSIAN SHIP - CLOSE ON A MONITOR (OPTICAL)
+
+	The monitor (identical to the ones in Ops) displays a 
+	Kobheerian Captain (stock from DUET) speaking with Sisko's 
+	voice.
+
+					KOBHEERIAN/SISKO
+				(continuing)
+			... the Kobheerian freighter Rak-
+			Miunis...
+
+63   INT. THE DEFIANT - BRIDGE (OPTICAL)
+
+	As before.
+
+					SISKO
+			I'm Captain Viterian.  How can I 
+			help you?
+
+					GUL
+			What's your destination?
+
+					SISKO
+			Cardassia Prime.  We're carrying a 
+			shipment of Kobheerian toranium 
+			intended for military use.
+
+					GUL
+			Prepare to be boarded.
+
+					DAX
+				(shuts of speaker)
+			They're moving toward us.  If they 
+			get much closer, they might be able 
+			to identify us.
+
+	Sisko signals Dax to resume communications.
+
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR       47A.
+
+63   CONTINUED:
+
+					SISKO
+			Gul Benil, our toranium is urgently 
+			needed on Cardassia.  I would hate 
+			for you to have to explain why it 
+			was delayed.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        48.
+
+63   CONTINUED:	(2)
+
+					GUL
+			The toranium can wait.  Maquis 
+			activity in this sector is on the 
+			rise.  By order of the Central 
+			Command, all incoming ships are to 
+			be stopped and searched.
+
+	To everyone's surprise, Garak steps over to Dax's station 
+	and cuts the audio.
+
+					GARAK
+			Drop the holo-filter.
+				(sees their reluctance)
+			Do it.  I can get us out of this... 
+			if you let me talk to them.
+
+	Sisko reactivates the audio for a second.
+
+					SISKO
+				(to Gul)
+			Please stand by.
+				(shuts it off, to Dax)
+			Are we within their weapons range 
+			yet?
+
+					DAX
+			No.
+
+					SISKO
+				(after a beat)
+			Do as he says.  But be ready to get 
+			us out of here fast if this doesn't 
+			work.
+
+64   INT. CARDASSIAN SHIP - CLOSE ON A MONITOR (OPTICAL)
+
+	The image of the Kobheerian Captain fritzes out, to be 
+	replaced by Sisko and Garak.
+
+					GARAK
+				(on monitor, with 
+				authority)
+			Gul Benil.
+
+65   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As before.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        49.
+
+65   CONTINUED:
+
+					GUL
+			You... you're not Kobheerians.
+
+					GARAK
+			Very observant of you.  Now turn 
+			your ships around.
+
+					GUL
+			Excuse me?
+
+					GARAK
+			This is an Alpha Red priority mission, 
+			clearance verification Nine Two One 
+			Eight Black.  By the authority of 
+			the Central Command, you are ordered 
+			to turn your ships around.  Erase 
+			all record of this encounter from 
+			your logs and speak of it to no one.  
+			Is that clear?
+
+	The Gul looks blown away.
+
+					CARDASSIAN COMPUTER VOICE
+			Clearance code verified.
+
+					GUL
+				(flustered)
+			My apologies... I had no idea.
+
+					GARAK
+			You were doing your duty.  End 
+			transmission.
+
+	Dax cuts off the transmission.  Garak immediately breaths a 
+	sigh of relief.
+
+					SISKO
+			Mister Garak, I'm impressed.
+
+					GARAK
+			Just something I overheard while 
+			hemming someone's pants.  I suggest 
+			we get away from here as soon as 
+			possible.  In case Gul Benil decides 
+			to show some initiative.
+
+	Sisko nods to Dax, who brings the Defiant back into warp.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        50.
+
+66   OMITTED
+
+67   INT. GHEMOR'S HOME - ILIANA'S BEDROOM - DAY
+
+	Kira is once again being questioned by Entek.  But this time, 
+	she's exhausted, having undergone several hours of grueling 
+	questions.
+
+					ENTEK
+			All right.  One more time, Iliana.  
+			What are the names of the Starfleet 
+			ships deployed along the Demilitarized 
+			Zone?
+
+	Kira's reserves have been totally exhausted.  She's close to 
+	breaking.
+
+					KIRA
+				(without conviction)
+			I don't know.
+
+					ENTEK
+			That's not acceptable.  As a Bajoran 
+			liason officer, it's your duty to 
+			help coordinate Federation activity 
+			near Bajoran space.
+				(slowly)
+			Now, what are the names of the ships 
+			deployed along the Demilitarized 
+			Zone?
+
+					KIRA
+			I...
+
+	Kira falters, as if she's not quite sure what to say.
+
+					ENTEK
+				(shouting)
+			Their names, Iliana.  Give me their 
+			names.
+
+	But before Kira can answer...
+
+68   NEW ANGLE
+
+	The door opens and Legate Ghemor ENTERS.
+
+					GHEMOR
+			I think you've asked enough questions 
+			for today.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FOUR        51.
+
+68   CONTINUED:
+
+					ENTEK
+			Legate... You can't come in here.
+
+	Ghemor bridles at Entek's lack of respect.
+
+					GHEMOR
+			Do you presume to tell a member of 
+			the Central Command where he may and 
+			may not go... in his own home?
+
+					ENTEK
+			This is Obsidian Order business.  
+			Our autonomy--
+
+					GHEMOR
+				(cutting him off)
+			Is a privilege granted by the Central 
+			Command and is revokable at any time.  
+			Don't you agree?
+
+	Entek is about to continue the argument, but thinks better 
+	of it.
+
+					ENTEK
+			Of course, Legate.
+				(to Kira)
+			Iliana, I'm afraid the next time we 
+			talk, it will have to be at the 
+			Order's facilities.  Good day.
+
+	Entek EXITS.
+
+69   CLOSE ON GHEMOR
+
+	As he goes to check on Kira.
+
+					GHEMOR
+			Are you all right?
+
+70   CLOSE ON KIRA
+
+	Who doesn't respond.  Instead, she walks slowly up to the 
+	mirror on the other side of the room.
+
+71   INCLUDE THE MIRROR
+
+	Kira looks at her reflection for a long beat, then touches 
+	her face and slowly reaches out to touch the mirror.
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT FOUR          52.
+
+71   CONTINUED:
+
+					GHEMOR
+			Iliana?
+
+	Kira looks confused, unsure of her self.  But as she looks 
+	at her reflection, we get the feeling that, for the first 
+	time, she almost believes the Cardassians might be telling 
+	the truth.
+
+					KIRA
+				(a whisper)
+			No.
+
+	Voicing the small denial seems to trigger something inside 
+	Kira.  Working herself into a rage, Kira lashes out...
+
+					KIRA
+				(shouting)
+			No.
+
+	And smashes the mirror with her bare hands.
+
+72   INCLUDE GHEMOR
+
+	As he reacts to her outbursts.
+
+					GHEMOR
+				(trying to stop her)
+			Iliana!
+
+73   CLOSE ON KIRA
+
+	As she shrugs off Ghemor, yanks the mirror off the wall, and 
+	throws it to the floor.
+
+	Then, her energy spent, she falls to her knees, and her anger 
+	dissolves into pain and despair.
+
+					KIRA
+			No.
+
+	Ghemor kneels down next to her and puts his hand on her 
+	shoulder.
+
+					GHEMOR
+				(quietly)
+			It's all right... everything will be 
+			all right.
+
+	Kira does nothing to push him away.  Her need for comfort 
+	has overcome her distrust of the Cardassian.
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT FOUR          53.
+
+73   CONTINUED:
+
+	Kira averts her eyes to avoid seeing her reflection in 
+	the broken glass.  She begins to weep silent tears.
+
+	Ghemor holds Kira for a long beat as if coming to a decision.
+
+					GHEMOR
+			I am a selfish old man.
+				(off Kira's reaction)
+			I can't keep you here any longer, no 
+			matter how much I want to.
+
+	Kira looks up, startled that Ghemor would make such an 
+	admission.
+
+					GHEMOR
+				(continuing)
+			Entek will never rest until he's 
+			broken you.  If he takes you to Order 
+			Headquarter's...
+				(trails off, shakes 
+				his head)
+			We have to get you away from 
+			Cardassia.
+
+					KIRA
+			You would do that... for me?  But 
+			why?
+
+					GHEMOR
+			You're my daughter, Iliana.  There's 
+			nothing I wouldn't do for you.  Even 
+			if it means losing you again.
+
+	Kira looks at Ghemor in amazement.  This is the last thing 
+	she would've expected from him.  And as she studies the man 
+	who claims to be her father...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        DEEP SPACE: "Second Skin" - REV. 08/24/94 - ACT FIVE        54.
+                           ACT FIVE                             
+
+	FADE IN:
+
+74   INT. GHEMOR'S HOME - MAIN ROOM - NIGHT
+
+	Kira is studying the bone-carving Iliana made for her father.  
+	There's a small bag packed on the table.  Ghemor walks into 
+	frame behind her.
+
+					GHEMOR
+			Iliana?
+
+	Kira turns toward him.  Ghemor gently takes her wrist and 
+	fastens something around it.
+
+					GHEMOR
+				(continuing)
+			Here.  For you.
+
+	Kira looks her wrist.  Ghemor has given her a jeweled 
+	bracelet.
+
+					KIRA
+			It's beautiful.
+
+					GHEMOR
+			It was your mother's.  I want you to 
+			have it... to remember her by.
+
+	Ghemor's aware of the irony of the words.  He's hurting 
+	inside, knowing he's about to lose his daughter again, without 
+	ever having had her acknowledge him as her father.
+
+					KIRA
+			I can't take this.
+
+					GHEMOR
+			There's no use arguing.  I can be 
+			just as stubborn as you.
+				(a beat)
+			It runs in the family.
+
+					ARI (O.S.)
+			Legate?
+
+	Ghemor and Kira turn to see a young Cardassian soldier, barely 
+	out of his teens (ARI), enter from a side door.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FIVE        55.
+
+74   CONTINUED:
+
+					GHEMOR
+			Iliana... this is Ari.  He's... a 
+			friend.  He'll help you get off 
+			Cardassia.
+
+					KIRA
+			Without the Order's knowledge?
+				(Ghemor nods)
+			How's that possible?
+
+					GHEMOR
+			I have friends who can arrange 
+			things... friends who think the same 
+			way I do.
+
+					ARI
+			The Obsidian Order and the Central 
+			Command have been given too much 
+			power over our lives.  We're going 
+			to change that.
+
+	Kira is shocked by what Ghemor and Ari are saying.
+
+					KIRA
+				(to Ghemor)
+			You're a dissident?
+
+	Ghemor nods.
+
+					ARI
+			Your father is a great man.  He has 
+			everything any Cardassian could want, 
+			but he's willing to risk his life 
+			for what he believes.
+
+					GHEMOR
+			People like Ari are the real heroes.  
+			My position protects me.  The risk 
+			is theirs.
+
+	Kira can't believe what she's hearing.  This is the last 
+	thing she expected.
+
+					ARI
+			Legate... I have to get your daughter 
+			to our next contact.
+
+	As much as Ghemor hates to say goodbye to Kira, he knows Ari 
+	is right.  Ghemor looks at Kira for a long beat, knowing she 
+	can never return his love, but hoping for it anyway.  For 
+	her part, Kira looks troubled.  Something's bothering her.
+
+        DEEP SPACE: "Second Skin" - REV. 08/24/94 - ACT FIVE        56.
+
+74   CONTINUED:	(2)
+
+					GHEMOR
+			Goodbye, Iliana.  I love you.
+
+	Kira looks up at Ghemor for a beat, knowing he wants her to 
+	return his love, but not sure what to say.
+
+					KIRA
+			Legate, I...
+
+	But Kira trails off.  Something's bothering her.
+
+					ARI
+				(impatient)
+			We have to go now.
+
+					KIRA
+			Wait... this is wrong.
+
+					GHEMOR
+			Please, Ari's right.
+
+					KIRA
+			No, don't you see?  The fact that 
+			you're a dissident, that you're 
+			willing to help me... it can't be a 
+			coincidence.
+
+					GHEMOR
+			Iliana... You have to trust me.  
+			We're trying to help you...
+
+	Kira's slow to respond as she tries to piece things together.
+
+					KIRA
+			It's Entek I don't trust.
+				(thinking aloud)
+			Why did he go to so much trouble... 
+			changing me into a Cardassian, sending 
+			me to you?  Unless...
+				(putting it together)
+			It's not me he was after.
+
+					GHEMOR
+			What are you talking about?
+
+					KIRA
+			What if the Order suspects your 
+			involvement with the dissidents?
+
+        DEEP SPACE: "Second Skin" - REV. 08/24/94 - ACT FIVE       56A.
+
+74   CONTINUED:	(3)
+
+					GHEMOR
+			Impossible.  I'm too well protected.  
+			They couldn't have any evidence of 
+			my activities.
+
+					KIRA
+			But they could still suspect you.  
+			And without any evidence, they 
+			wouldn't dare interrogate you, would 
+			they?
+
+					ARI
+			The Central Command would never allow 
+			it.
+
+	Ghemor, who is stunned by Kira's line of reasoning, nods his 
+	head.
+
+					KIRA
+			Which is why they had to make you 
+			betray yourself.  And why they 
+			kidnapped me.  Because I resemble 
+			your daughter.  And because they 
+			knew you would never stand by and 
+			let me be tortured.  They wanted you 
+			to do this... They wanted you to try 
+			and rescue me.
+
+75   NEW ANGLE
+
+	As Entek ENTERS, along with two Obsidian Order Agents.  All 
+	three of them are armed and aim their weapons at Ghemor.
+
+					ENTEK
+			Very astute, Major.  You couldn't 
+			have done any better if you were one 
+			of us.
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FIVE        57.
+
+75   CONTINUED:
+
+	As Kira and Ari react to Entek's arrival...
+
+75A  ANGLE ON GHEMOR
+
+	Who steps close to Kira and Ari and hits his combadge.
+
+					GHEMOR
+				(to com)
+			This is Ghemor.  Three to beam-out.  
+			Now.
+
+	But nothing happens.
+
+					ENTEK
+			It won't work.  We've got a 
+			transporter suppression field (TECH) 
+			over this whole area.
+
+76   INCLUDE ARI (OPTICAL)
+
+	To everyone's surprise, Ari charges one of the agents and 
+	tries to wrest away his gun.
+
+					ARI
+			No.
+
+	But before anyone can react, Entek shoots Ari with his phaser 
+	and kills him.
+
+77   RESUME SCENE
+
+	As the two agents quickly cover Ghemor and Kira.
+
+					ENTEK
+			Let's not have any more foolishness.
+				(to Ghemor, smiles)
+			You don't know how long I've waited 
+			for this day... Imagine, in one bold 
+			stroke, the Obsidian Order will unmask 
+			a traitor in the Central Command and 
+			shatter the entire dissident movement.  
+			And we have you to thank for it.
+
+					GHEMOR
+				(defiant)
+			The movement will survive without 
+			me.
+
+					ENTEK
+			You underestimate your importance, 
+			Legate.
+
+        DEEP SPACE: "Second Skin" - REV. 08/25/94 - ACT FIVE        58.
+
+77   CONTINUED:
+
+					ENTEK
+			With your help, we'll be able to 
+			purge the government of all 
+			disloyalty.  The enemies of Cardassia 
+			will be destroyed.
+
+					GHEMOR
+			The enemies of the Order, you mean.
+
+					ENTEK
+			The Obsidian Order is Cardassia.
+
+	Entek nods to one of the agents, who roughly shoves Ghemor 
+	down into a chair.
+
+					GHEMOR
+			What are you doing?
+
+					ENTEK
+			I think you know.
+
+	Entek moves ominously toward Ghemor, but even if he isn't 
+	really her father, Kira knows that Ghemor has sacrificed 
+	everything for her, and she can't let him be tortured.
+
+	Kira starts toward the agent closest to her, but Entek quickly 
+	covers Ghemor and the other agent places a phaser against 
+	Kira's back.
+
+					ENTEK
+			Major, your testimony would make for 
+			a more dramatic trial, but I'd be 
+			willing to dispense with it if you 
+			give us any trouble.
+
+	Kira sees she'll probably be killed on the spot if she 
+	resists, but she's still thinking about going for it, when...
+
+					GARAK (O.S.)
+			The Major's the least of your 
+			problems, Entek.
+
+78   NEW ANGLE
+
+	As Sisko and Garak ENTER.
+
+        DEEP SPACE: "Second Skin" - REV. 08/25/94 - ACT FIVE       58A.
+
+78   CONTINUED:
+
+	Sisko draws a phaser from a small satchel and tosses it 
+	casually to the ground, off to one side.  Garak also takes 
+	aim at Entek and his accomplices.
+
+					SISKO
+			I suggest you lower your weapons.
+
+79   NEW ANGLE (OPTICAL)
+
+	Entek and the agents turn to face Sisko and Garak.  For a 
+	second, it looks like there might be a shootout, but to the 
+	agents' surprise, Sisko's satchel MORPHS into Odo behind 
+	them.  Odo takes away Entek's phaser.
+
+					ODO
+			I'll take that, thank you.
+
+	Caught flat-footed, Entek's agents have no choice but to 
+	place their weapons on the floor.  Kira picks up the discarded 
+	phasers.  Entek looks from Odo to Sisko to Garak in surprise.
+
+					ENTEK
+				(shocked)
+			Garak.  What are you doing here?
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FIVE        59.
+
+79   CONTINUED:
+
+					GARAK
+			I got homesick.
+				(to Kira and Ghemor)
+			I think we'd better be going.
+
+	Ghemor looks at Garak suspiciously.
+
+					KIRA
+			It's okay... He's on our side.
+				(to herself)
+			I think.
+
+	Sisko and Garak are both surprised to hear Kira's voice coming 
+	from a Cardassian.
+
+					GARAK
+			Major, I must say, I don't believe 
+			I've ever seen you looking so... 
+			ravishing.
+
+					SISKO
+				(concerned)
+			Are you all right?
+
+					KIRA
+			I'm fine.  How...
+
+					GARAK
+			Suffice it to say, I still have 
+			friends on Cardassia.
+				(smiles, to Entek)
+			I'm sure you'll derive years of 
+			enjoyment trying to determine exactly 
+			who they are.
+
+					SISKO
+			Legate, we've got a ship waiting... 
+			From the sound of things, I think 
+			you'd better come with us.
+
+					GHEMOR
+			Yes, I think that might be wise.
+
+	Sisko ushers Ghemor out of the room.  Garak, Kira and Odo 
+	are about to follow when...
+
+					ENTEK
+			Garak, I don't understand.  Why are 
+			you helping these people?
+
+        DEEP SPACE: "Second Skin" - REV. 08/23/94 - ACT FIVE        60.
+
+79   CONTINUED:	(2)
+
+					ENTEK
+			Ghemor is a traitor... an enemy of 
+			the Order.
+
+					GARAK
+			Treason, like beauty, is in the eye 
+			of the beholder.
+
+					ENTEK
+			You're making a serious mistake.  Up 
+			until now, the Order was satisfied 
+			to let you live in exile, but now...
+
+					KIRA
+			Garak, let's go.
+
+					GARAK
+			You know, I'd almost forgotten what 
+			a pleasure it was to be with my fellow 
+			Cardassians.  But as much as I'd 
+			like to stay and listen to you 
+			bluster... I simply don't have the 
+			time.
+
+	Garak turns to EXIT, leaving Entek to suffer the consequences 
+	of his blown operation.  But Entek loses it and draws a small 
+	hidden phaser to shoot Garak.
+
+80   CLOSE ON GARAK (OPTICAL)
+
+	Almost as if he'd been expecting this all along, Garak pivots 
+	and shoots Entek, vaporizing him instantly.
+
+	The two agents, who may have been about to act, see this and 
+	refrain.
+
+					GARAK
+			What a shame.  I rather liked him.
+
+	And as Kira and Odo look at Garak in surprise, he walks out 
+	of the house like it was just another day at the tailor shop.
+
+81   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+        DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT FIVE        61.
+
+82   INT. DOCKING RING
+
+	Kira (who's now a Bajoran again) walks with Ghemor down the 
+	docking ring corridor.  Ghemor looks saddened.  Kira's 
+	obviously already broken the news to him.
+
+					GHEMOR
+			So it was all a lie?
+
+					KIRA
+				(nods)
+			According to Doctor Bashir, my genetic 
+			structure is entirely Bajoran.  The 
+			alterations were surgical.
+
+					GHEMOR
+			What about the man who said he was 
+			with you at Elemspur?
+
+					KIRA
+			Gone.  Completely disappeared.  We 
+			suspect he was a Cardassian agent.  
+			He's probably the one who altered 
+			the detention center records in the 
+			first place.
+
+	Ghemor sees something is eating at Kira.
+
+					GHEMOR
+			I thought you'd be happy.
+
+					KIRA
+			I am.  It's just... I still don't 
+			understand.  If Iliana really was 
+			transformed into a Bajoran, then why 
+			did Entek have me kidnapped?  Why 
+			not bring Iliana back instead?
+
+					GHEMOR
+			Because the desegranine would've 
+			worked on Iliana.  Her memories 
+			would've returned and she would've 
+			cooperated with Entek.  But they 
+			knew you'd resist.  And that I'd be 
+			forced to try to get you off of 
+			Cardassia.
+
+					KIRA
+			You think Iliana's still alive?
+
+					GHEMOR
+			I have to.  I'm her father.  For all 
+			I know, she's still on Bajor.  And 
+			someday, I'll find her.
+
+        DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT FIVE       61A.
+
+82   CONTINUED:
+
+					KIRA
+			You sure you don't want to stay on 
+			the station?
+
+	Ghemor appreciates the offer, but...
+
+					GHEMOR
+			There's no place for me here.  The 
+			Mathenite government has offered me 
+			political sanctuary.  I'll be safe 
+			there.
+
+	They reach the airlock.  Other departing passengers walk by 
+	them.
+
+
+        DEEP SPACE: "Second Skin" - REV. 08/22/94 - ACT FIVE        62.
+
+82   CONTINUED:	(2)
+
+	One or two might even look askance at a Bajoran and a 
+	Cardassian speaking in friendly terms, but Kira and Ghemor 
+	pay no attention.
+
+					GHEMOR
+			One more thing, before I leave... 
+			Can I give you some fatherly advice, 
+			for old times sake?
+
+					KIRA
+			Of course.
+
+	Ghemor smiles, then gets deadly serious.
+
+					GHEMOR
+			This Garak fellow who helped you... 
+			helped us... Don't trust him, Nerys.  
+			Ever.  He's a dangerous man and he'd 
+			betray you and all your friends in 
+			an instant if he thought it would 
+			help him.
+
+					KIRA
+			I'll keep an eye on him.
+
+	Ghemor looks back at the airlock.
+
+					GHEMOR
+			I suppose it's time to go.
+
+	Kira nods.  She takes Ghemor's hand and places something 
+	inside it.
+
+					KIRA
+			Here.
+
+	Ghemor looks down at his hand.  Kira's given him back his 
+	wife's bracelet.
+
+					KIRA
+			It doesn't belong to me.  I can't 
+			keep it.
+
+	Ghemor looks at the bracelet for a beat then places it back 
+	in her hand.
+
+					GHEMOR
+			No.  I want you to have it.
+				(still gently holding 
+				her hand)
+			You may not be my daughter, but until 
+			I find Iliana, you're the closest 
+			thing I have to family.
+
+           DEEP SPACE: "Second Skin" - 08/19/94 - ACT FIVE          63.
+
+82   CONTINUED:	(3)
+
+	Ghemor starts to let go of Kira's hand so he can leave, 
+	but Kira holds his hand for a beat longer.
+
+					KIRA
+			I want you to know... that... despite 
+			what I might have said before... I 
+			realize now that you're an honorable 
+			man.  And I think your daughter 
+			must've loved you very much.
+
+	Ghemor smiles.  Kira and he look at each other for a long 
+	beat, then they let go of each other's hands and Ghemor slowly 
+	climbs the stairs into the airlock.
+
+83   CLOSE ON KIRA
+
+	As she watches the airlock door close behind Ghemor.  After 
+	he's gone, she looks down at the bracelet and holds it tight 
+	in her hand.
+
+	Hold on Kira for a beat, alone in the corridor, then...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

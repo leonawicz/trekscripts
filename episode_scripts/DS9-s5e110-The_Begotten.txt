@@ -1,0 +1,3080 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "The Begotten" 
+                          #40510-510 
+                              
+                          Written by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                         Jesus Trevino 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1996 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        October 30, 1996
+
+       STAR TREK: DS9 - "The Begotten" - 11/04/96 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Begotten" 
+                             CAST 
+
+          SISKO                    SHAKAAR
+          KIRA                     MORA
+          ODO                      Y'PORA
+          BASHIR                   
+          DAX                      
+          QUARK                    
+          O'BRIEN                  
+          WORF                     
+          JAKE                     
+          KEIKO                    
+          MOLLY                    
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+       STAR TREK: DS9 - "The Begotten" - 10/30/96 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Begotten" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 SPACE
+          AIRLOCK                       DEEP SPACE NINE
+          BIRTHING ROOM                 
+          HABITAT RING CORRIDOR         
+          INFIRMARY/OUTER ROOM          
+          O'BRIEN'S QUARTERS            
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          REPLIMAT                      
+          SCIENCE LAB                   
+          SECURITY OFFICE               
+
+  DEEP SPACE NINE - "The Begotten" - 11/01/96 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Begotten" 
+                     PRONUNCIATION GUIDE
+
+          ALVANIAN                 al-VEIN-ee-un
+          BIOMIMETIC               BIO-mih-meh-tic
+          EXETER                   EX-ih-ter
+          FENARI                   fen-ARH-ee
+          FILIAN                   FILLY-uhn
+          HIROMI                   hee-ROW-mee
+          KORVALIAN                core-VALL-uhn
+          MORPHEGENIC              MORE-foe-jen-ick
+          SYMBALENE                SIM-buh-leen
+          TARKALEAN                tar-KAY-lee-uhn
+          TETRYON                  TEH-tree-on
+          Y'PORA                   yeh-PORE-uh
+          YRIDIAN                  yir-ID-ee-uhn
+
+       DEEP SPACE NINE: "The Begotten" - REV. 11/12/96 - TEASER        
+
+                  STAR TREK: DEEP SPACE NINE                    
+                            "The Begotten"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+2    INT. INFIRMARY
+
+	BASHIR is working at his console when ODO walks in, 
+	holding himself very stiffly. Bashir almost smiles at 
+	the sight of him -- truth is, Odo's been coming in a 
+	lot lately with all sorts of minor ailments.
+
+					BASHIR
+			Good morning, Constable. What can
+			I do for you today?
+
+					ODO
+			It's my back...
+
+					BASHIR
+				(patient)
+			Let's have a look.
+
+	Bashir motions him to the bio-bed.
+
+					ODO
+			It happened this morning when I
+			got out of bed...
+
+	Odo lets out a gasp of pain as he sits on the bed. 
+	Bashir scans him with a MEDICAL TRICORDER...
+
+					BASHIR
+			Hmm...
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - TEASER      2.
+
+2    CONTINUED:
+
+	Odo takes this as a bad sign.
+
+					ODO
+			I have Alvanian spine mites, 
+			don't I?
+
+					BASHIR
+			Actually --
+
+					ODO
+			I'm going to be in pain for the 
+			rest of my life.
+
+					BASHIR
+				(stopping him)
+			Odo.
+				(calm down)
+			You have a pinched nerve.
+
+					ODO
+			Really?
+
+
+					BASHIR
+			It comes from bad posture.
+
+					ODO
+				(insulted)
+			Bad posture? Me? Ridiculous. 
+			You've never seen anyone sit so 
+			straight.
+
+	And indeed, Odo is sitting up straight -- ramrod 
+	straight.
+
+					BASHIR
+			Exactly. You're carrying yourself 
+			too rigidly.
+
+					ODO
+			This is how I've always carried 
+			myself.
+
+					BASHIR
+			You didn't always have a spinal 
+			column. You're not a changeling 
+			anymore. Now that you're 
+			humanoid, you need to learn 
+			to relax.
+
+					ODO
+			That's what you said last week.
+
+					BASHIR
+			And?
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - TEASER      3.
+
+2    CONTINUED:	(2)
+
+	Bashir prepares a HYPO.
+
+					ODO
+				(reluctant)
+			It helped. That and the prune 
+			juice.
+
+					BASHIR
+			There -- you see? I know what I'm 
+			talking about.
+
+	Bashir hypos Odo in the small of the back.
+
+
+					QUARK (O.S.)
+			Back trouble?
+
+3    NEW ANGLE
+
+	including QUARK at the doorway.
+
+					ODO
+			It's none of your concern, Quark.
+
+					QUARK
+				(to Bashir)
+			Bad posture?
+
+	Bashir nods --
+
+					ODO
+				(to Quark)
+			Will you get out of here!
+
+					BASHIR
+			What you need is a stretching 
+			regimen. Worf's morning exercise 
+			class would be just the thing.
+
+					QUARK 
+			Forget that. I've got a holosuite 
+			program that'll take care of him. 
+			Three Orion slave girls strap you 
+			into a --
+
+					ODO
+			Quark.
+
+					QUARK 
+			Go ahead. Suffer.
+
+					ODO
+			What do you want?
+
+	Quark changes his tone -- he has a deal in the works.     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - TEASER      4.
+
+3    CONTINUED:
+
+					QUARK 
+			A Yridian I've been dealing with 
+			sold me something that might 
+			interest you.
+
+
+					ODO
+			I don't think so.
+
+					QUARK 
+			You don't even know what it is.
+
+					ODO
+			I know I don't want it.
+
+					QUARK 
+			In that case, can you tell me how 
+			to get in touch with the Founders? 
+			I know they'll want it.
+
+	This gets Odo's attention.
+
+
+					ODO
+			What are you talking about?
+
+	Quark pulls a glass CONTAINER out of his vest and holds 
+	it up -- it contains about a pint of SHAPE-SHIFTER GOO. 
+	Unlike the goo we've seen, this has a BLUISH tint to it 
+	and exhibits neither movement nor evanescent glint.
+
+	Odo takes the container from him, studies it intently.
+
+					QUARK 
+			It's a changeling -- or it was, 
+			anyway. Since it's dead, I'll let 
+			you have it for five slips of 
+			latinum.
+
+					ODO
+			It's not dead.
+
+					QUARK 
+				(quick)
+			In that case, make it ten.
+
+					ODO
+			It's sick.
+
+					QUARK 
+				(quicker)
+			Eight and we'll call it even.
+
+	But Odo isn't paying attention to Quark; he's studying 
+	the goo with great interest. Quark pulls a PADD from 
+	his vest, taps in the cost, and takes the distracted 
+	Odo's hand to input his thumbprint.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - TEASER      5.
+
+3    CONTINUED:	(2)
+
+					QUARK 
+			Pleasure doing business with you.
+
+	Quark EXITS, happy as can be. Bashir moves to Odo's 
+	side.
+
+					BASHIR
+			Odo... if that is a changeling, 
+			we'd better get it into a security 
+			field.
+
+					ODO
+			That won't be necessary.
+
+					BASHIR
+			If it gets out of that container, 
+			it could be dangerous.
+
+					ODO
+			It's not going anywhere, Doctor. 
+			It doesn't know how... it's just 
+			a baby.
+
+	Bashir reacts... off Odo's intent gaze as he studies 
+	the goo, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+  DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE 6-6A.    
+                            ACT ONE                             
+
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+4    INT. INFIRMARY
+
+	SISKO has joined Odo and Bashir. The goo is now 
+	sitting atop a scanner.
+
+					SISKO
+			A baby changeling?
+
+					ODO
+				(nods)
+			Centuries ago, my people sent a 
+			hundred of us out into the galaxy 
+			so we could learn about other 
+			races. When I was found, I looked 
+			very much like this.
+
+	This strikes Sisko as odd -- it's so small compared to 
+	Odo's present size.
+
+					SISKO
+			You were this... small?
+
+					ODO
+				(nods)
+			Like a humanoid child, it'll grow. 
+			Its mass will increase as its 
+			shape-shifting abilities develop.
+
+					BASHIR
+				(off scanner)
+			From what I can tell, it was 
+			exposed to a massive dose of 
+			tetryon radiation. I'm going to 
+			have to purge the isotopes with an 
+			electrophoretic diffuser.
+
+					SISKO
+			Get on it.
+
+      DEEP SPACE NINE: "The Begotten" - REV. 11/12/96 - ACT ONE      7.
+
+	Bashir nods, gestures to a NURSE. As they prepare to 
+	work on the goo, Odo and Sisko move off to the other room.
+
+					SISKO
+			Are you sure it's no danger to us, 
+			Constable?
+
+					ODO
+				(nods)
+			When I was first discovered, I 
+			didn't know what I was, or have 
+			any memory of where I came from. 
+			I didn't even know I had the 
+			ability to mimic other forms.
+
+	Sisko takes this in, but something about it strikes him as odd.
+
+					SISKO
+			Why would the Founders send such 
+			helpless creatures out into space?
+
+					ODO
+			To find out if the species they 
+			encountered posed any threat. 
+			What better way to gauge another 
+			race than to see how it treats the 
+			weak and vulnerable?
+
+					SISKO
+			I see your point.
+
+	Sisko considers for a beat...
+
+				SISKO
+			How long will it be before the 
+			changeling's able to take humanoid 
+			form?
+
+					ODO
+			Several months. Why?
+
+					SISKO
+			There's a lot about your people we 
+			still don't know. The changeling 
+			could provide Starfleet with 
+			invaluable information about the 
+			Dominion.
+
+  DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE 8-11.    
+
+4    CONTINUED:	(2)
+
+					ODO
+			That being the case, I'd like to 
+			be allowed to work with it -- 
+			teach it how to shape-shift.
+
+					SISKO
+			I can't think of anyone better 
+			qualified.
+				(considers)
+			But you might want a little help.
+			Maybe you should contact Doctor 
+			Mora.
+
+					ODO
+			Mora? Why?
+
+					SISKO
+			He managed to find a way to 
+			communicate with you. He 
+			obviously knows what he's doing.
+
+	Odo doesn't necessarily agree with this assessment.
+
+					ODO
+			Maybe so. But I'd prefer to do 
+			this alone.
+
+	Sisko hears the restrained emotion in Odo's voice, 
+	decides to back off.
+
+					SISKO
+			It's your call.
+				(lightly)
+			But it's always nice to have 
+			someone around to help change the 
+			diapers.
+
+					ODO
+				(dry)
+			I'll keep that in mind...
+
+	Sisko EXITS. Odo moves to the doorway that leads to 
+	the examining area, watches as Bashir and the Nurse 
+	work on the changeling. We can see on his face how 
+	much he wants them to succeed.
+
+5    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+6    OMITTED
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE    12.
+
+7    INT. INFIRMARY
+
+	Bashir is showing Odo the goo, which is still on the 
+	scanner. It now has that yellowish tint we're used to 
+	seeing in Shape-shifter goo.
+
+					BASHIR
+			The purge was nearly a hundred 
+			percent effective -- the 
+			concentration of isotopes is 
+			almost negligible.
+
+	Odo is immensely relieved, looks down at the goo as if 
+	it were a baby in a crib.
+
+					ODO
+			It certainly looks healthier...
+
+	Bashir gets ready to leave.
+
+					BASHIR
+			I'd better go check on Kira. Did 
+			you hear? She's in labor.
+
+					ODO
+				(distracted)
+			Mm-mm...
+
+	Bashir sees the look on Odo's face, then glances down 
+	at what looks to him like a blob of yellow goo...
+
+					BASHIR
+				(smiling)
+			I guess you've got your own baby 
+			to think about.
+
+	Odo catches himself, looks up. As Bashir heads for the 
+	door --
+
+
+					BASHIR
+			There's still a small degree of 
+			instability in its morphogenic 
+			matrix. I'm hoping it'll level 
+			out. I set the computer to 
+			monitor for biomimetic 
+			fluctuations just in case.
+
+					ODO
+			Thank you, Doctor.
+
+					BASHIR
+			Good luck.
+
+And with that Bashir EXITS. Odo turns his attention back to the goo.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   12A.
+
+7    CONTINUED:
+
+					ODO
+				(gently)
+			How do you feel -- better?
+
+	He looks down at it with an almost serene expression.
+
+					ODO
+			I realize you can't understand a 
+			word I'm saying, but that doesn't 
+			matter. I know you're aware of 
+			me. You see, I was once like you. 
+			I spent months in a lab being 
+			poked and prodded by a scientist 
+			who didn't even realize I was a 
+			lifeform. I was just a specimen, 
+			a mystery that needed to be 
+			unraveled. He never talked to me. 
+			It didn't occur to him. I didn't 
+			know what I was, or what I was 
+			supposed to do. I was lost, 
+			alone.
+
+	Odo watches as the goo undulates slightly. He leans in 
+	closer, intent.
+
+					ODO
+			But it's not going to be that way 
+			for you. I'm not going to make 
+			the same mistakes that were made 
+			with me.
+
+				(beat)
+			Come on, I want to show you 
+			something...
+
+	Off this moment...
+
+OA   INT. BIRTHING ROOM (FORMERLY SC. 10)
+
+	These guest quarters have been set up as a traditional 
+	Bajoran birthing room. The standard furniture has been 
+	removed and replaced with PILLOWS, wall TAPESTRIES, and 
+	a small SHRINE with burning INCENSE.
+
+	Kira is wearing a cross between a hospital gown and a 
+	ornate ROBE. She's sitting on a waist-high TABLE with 
+	an inclined back support. Bashir is completing a scan 
+	of her...
+
+	Y'PORA -- the Bajoran midwife -- stands at the foot of 
+	the table, wearing traditional ROBES. O'Brien and 
+	KEIKO stand to either side. Each has a traditional 
+	Bajoran NOISEMAKER in their hands -- Y'Pora a CABASA 
+	type device, Keiko a beaded GOURD, and O'Brien, a small 
+	GONG.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   12B.
+
+OA CONTINUED:
+
+	In solemn, rhythmic succession, they each play their 
+	device-for a beat so that we hear a series of sh-sh's, 
+	rattles, and gongs. O'Brien, however, never quite 
+	manages to hit the gong in the same place twice, so it 
+	sounds slightly off-kilter each time. He's doing his 
+	best, despite the distraction posed by the cloud of 
+	incense that keeps wafting toward him, irritating his 
+	eyes and lungs.
+
+	Kira is practicing some kind of controlled breathing 
+	exercise keyed to these sounds, and it's up to each of 
+	them to carry the rhythm consistently so she can enter 
+	a state of deep relaxation.
+
+	Sh-sh, rattle, clink... sh-sh, rattle, clank... sh-sh, 
+	rattle, clunk -- this last tone is so flat Y'Pora opens 
+	her eyes and looks at O'Brien.
+
+	She starts another cycle: sh-sh, rattle, clink... sh-
+	sh, rattle, clank... sh-sh, rattle --
+
+OB O'BRIEN SNEEZES (FORMERLY SC. 11)
+
+	from the incense as he taps his gong, eliciting a 
+	clatter. Y'Pora and Keiko do their best not to get
+	thrown off by this, and Kira doesn't seem to notice 
+	she's lost -- in her breathing. After a beat, O'Brien 
+	leans in toward Keiko and Bashir and they move off a 
+	few paces, maintaining the rhythm throughout.
+
+					O'BRIEN
+				(quiet)
+			Something's wrong... Kira told me 
+			this would only take about an 
+			hour.
+
+					BASHIR
+			For Bajoran women, giving birth is 
+			all about being relaxed...
+
+					KEIKO
+				(glancing at the gong in 
+				his hand)
+			He's right, Miles... that's why 
+			it's important for us to keep the 
+			rhythm...
+
+	O'Brien nods as if to say "yeah, yeah" -- completely 
+	missing the hint.
+
+					O'BRIEN
+			I don't think she's going to relax 
+			until Shakaar gets here. 
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   12C.
+
+OB   CONTINUED:
+
+					O'BRIEN (Cont'd)
+				(annoyed)
+			I called almost six hours ago; it 
+			takes less than half that to make 
+			the trip from Bajor.
+
+					KEIKO
+			He's the First Minister of Bajor --
+			he's a busy man...
+
+					BASHIR
+			So am I... I've got three 
+			surgeries scheduled this 
+			afternoon. I'll try to pop in 
+			later.
+
+	Bashir EXITS...
+
+					KIRA
+				(far away)
+			Y'Pora... the baby... he's 
+			moving...
+
+	Keiko and O'Brien exchange a look, finally, something's 
+	going to happen...
+
+					Y'PORA
+				(softly)
+			Relax... breathe... it won't be 
+			long now.
+
+	Sh-sh, rattle, clink... Sh-sh, rattle, clank... sh-sh, 
+	rattle --
+
+OC A SWOOSH (FORMERLY SC. 12)
+
+	as the door OPENS and SHAKAAR rushes inside, every bit 
+	the panicked "husband."
+
+					SHAKAAR
+			Sorry I'm late --
+
+	Even Y'Pora can't ride out this interruption -- she 
+	stops the proceedings. O'Brien is annoyed because it 
+	looks like a few hours' work just went down the drain.
+
+	Shakaar doesn't notice, he only has eyes for Kira. She 
+	smiles as he moves to her side.
+
+					SHAKAAR
+			How are you?
+
+	She nods that she's all right.
+
+					SHAKAAR
+			I threw you off, didn't I?
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   12D.
+
+OC   CONTINUED:
+
+	O'Brien nods to himself --
+
+					KIRA 
+			It's all right, I'll get back on 
+			track. I'm glad you're here.
+
+	As if to say "lets get started," O'Brien taps his 
+	gong... Y'Pora picks up the rhythm with a shake of her 
+	cabasa, and they're off...
+
+      DEEP SPACE NINE: "The Begotten" - REV. 11/12/96 - ACT ONE     13.
+
+7A   INT. REPLIMAT
+
+	where Odo is sitting at one of the tables. 
+	SUPERNUMERARIES as needed. He's brought the goo here 
+	so he can "show" it some of his world, but he doesn't 
+	want people coming up and asking questions, so he's put 
+	it in a glass MUG and is acting as if it were a 
+	beverage.
+
+					ODO
+			This is the Replimat. Humanoids 
+			come here to eat. They -- we, 
+			rather -- need to ingest 
+			nutrients.
+
+	Odo sees someone notice him, picks up the mug and 
+	pretends to take a sip. After they turn their 
+	attention away from him...
+
+					ODO
+			This is my home. It's a space 
+			station. People of many different 
+			species live here together. Once 
+			you've learned to take humanoid 
+			shape, I'll show you everything. 
+			You can live here, too, if you 
+			want. It's a fascinating place.
+
+					WORF (O.S.)
+			Constable --
+
+7B   NEW ANGLE
+
+	to include Worf, standing nearby.
+
+					WORF
+			Why are you talking to your 
+			beverage?
+
+	Odo frowns, embarrassed.
+
+					ODO
+			It's not a beverage, it's a 
+			changeling.
+
+	Worf reacts -- he's heard about Odo's find, but he 
+	finds this all a bit strange.
+
+					WORF
+				(sitting down)
+			Why did you bring it here?
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   13A.
+
+7B   CONTINUED:
+
+					ODO
+			I wanted it to see the station.
+				(to the goo)
+			This is a Klingon.
+
+	Worf decides to stay out of it.
+
+					WORF
+			I came to talk to you about the 
+			Ferengi.
+
+					ODO
+				(to the goo)
+			He means Quark. I suppose you'll 
+			have to meet him sooner or later.
+
+					WORF
+			I believe he has been tapping into 
+			the station's computer and 
+			downloading secured information.
+
+					ODO
+				(to the goo)
+			That's illegal.
+
+	Worf's brow furrows in consternation, he wants Odo's 
+	undivided attention.
+
+					WORF
+			We need to set up a data reversion 
+			trace.
+
+					ODO
+				(to the goo)
+			I'm chief of security, that's my 
+			job.
+
+					WORF
+			If we can apprehend him, it may be 
+			possible to revoke his licence and 
+			force him to close his 
+			establishment.
+
+					ODO
+				(to the goo)
+			Quark runs a bar.
+
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   13B.
+
+7B   CONTINUED:	(2)
+
+					WORF
+			Odo.
+
+					ODO
+			What?
+
+	Worf contains his annoyance, stands.
+
+					WORF
+			Thank you for your time.
+
+	With a last look at the goo, Worf EXITS.
+
+					ODO
+				(to the goo)
+			As you can see, Klingons are a bit 
+			short-tempered.
+
+	Off this mcment...
+
+7C   INT. SCIENCE LAB
+
+	where Odo is pouring the goo into a large, shallow 
+	Petri DISH. The goo doesn't fill the dish like a 
+	liquid, but thickens up to form an irregular shape 
+	inside it.
+
+					ODO
+			There... doesn't that feel better? 
+			There's nothing like spreading 
+			yourself out after being cooped up 
+			in a jar.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE   13C.
+
+7C   CONTINUED:
+
+	Odo smiles down at the goo...
+
+					ODO
+			You have no idea of the marvels 
+			that are in store for you. Do you 
+			know what you are? You're a 
+			changeling. A Shape-shifter. 
+			You can be anything. A Tarkalean 
+			hawk, soaring through the sky. Or 
+			a Filian python, burrowing deep 
+			beneath the ground. It's all 
+			yours for the taking.
+
+	Odo is thoughtful for a beat, watches the goo move 
+	slightly.
+
+					ODO
+			I was never a very good 
+			Shape-shifter -- if you could see 
+			the face I'm stuck with, you'd 
+			know what I mean -- but I think I 
+			can be a good teacher. You'll be 
+			better than I ever was. And I 
+			promise, I'll never treat you the 
+			way I was treated. Never.
+
+	The goo seems to move slightly toward Odo, and he takes 
+	it almost as an acknowledgement of what he's said. The 
+	SOUND of the door SWOOSHING open breaks the moment.
+
+					MORA (O.S.)
+			Odo.
+
+	Odo turns to see DOCTOR MORA in the doorway -- although 
+	he tries not to show it, it's clear that Odo is not 
+	happy to see this man.
+
+					ODO
+			Doctor Mora... what are you doing 
+			here?
+
+	Mora is looking past Odo toward the changeling 
+	behind him --
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT ONE    14.
+
+7C   CONTINUED:	(2)
+
+					MORA
+			I heard about the changeling. I 
+			came to help.
+
+	This is definitely not what Odo had in mind...
+
+
+8    OMITTED
+
+									FADE OUT.
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    15.
+                            ACT TWO                             
+
+	FADE IN:
+
+9    INT. SCIENCE LAB 
+
+	Mora looks past Odo, his eyes on the goo atop the table -- 
+	he starts toward it, fascinated.
+
+					MORA
+			Is that it?
+
+	Odo seems tense as he watches Mora move past him to 
+	peer at the goo. The expression on Mora's face is 
+	remarkably similar to the look on Odo's face when he 
+	first saw it himself.
+
+					MORA
+			Remarkable...
+
+	Mora gauges its size like the scientist he is.
+
+					MORA
+			It looks a bit larger than you 
+			were. There must be what, a 
+			quarter of a liter?
+
+					ODO
+			I suppose so.
+
+					MORA
+				(a bit disapproving)
+			You haven't measured?
+
+					ODO
+			What difference does it make how 
+			big it is?
+
+					MORA
+			It could make a great deal of 
+			difference. Its size could be an 
+			indication that it's already 
+			exercised its shape-shifting 
+			abilities.
+
+	Mora's right, and Odo doesn't like it one bit. He 
+	steers the conversation elsewhere.
+
+					ODO
+			I thought you were on Earth, 
+			working with Starfleet on new ways 
+			to detect changeling infiltrators.
+
+					MORA
+				(nods)
+			Fortunately, I happened to be on 
+			Bajor visiting my parents when I 
+			got word of your find.
+
+      DEEP SPACE NINE: "The Begotten" - REV. 11/12/96 - ACT TWO     16.
+
+9    CONTINUED:
+
+	Mora finally tears his attention away from the goo and 
+	turns to Odo.
+
+					MORA
+			How are you, Odo? I've been 
+			worried.
+
+					ODO
+			Worried?
+
+					MORA
+			I heard your people had taken away 
+			your ability to shape-shift.
+
+					ODO
+			Thank you for your concern. But 
+			I'm fine.
+
+					MORA
+			I knew you were going to say that. 
+				(smiles knowingly)
+			You never want to give anything 
+			away. Even though it's all right 
+			there on your face.
+
+	Odo looks away, he doesn't like being read like this.
+
+					MORA
+			Well, why don't we get started? 
+			We have a lot of work ahead of us.
+
+	Mora turns his attention back to the goo --
+
+					ODO
+			Actually, doctor --
+
+					MORA
+			I told Starfleet that I won't be 
+			coming back for a few weeks.
+
+					ODO
+			That may have been premature.
+
+	Mora picks up a BIO-PROBE with the intention of 
+	inserting it into the goo.
+
+					MORA
+			It'll take at least that long to 
+			get the changeling to respond to --
+
+					ODO
+			Don't do that.
+
+	Odo snatches the probe from Mora. Mora looks him up 
+	and down, surprised by his outburst.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    17.
+
+9    CONTINUED:	(2)
+
+					MORA
+			I see you still have trouble 
+			controlling your temper.
+
+	Odo sets his jaw -- Mora has a way of getting under his skin.
+
+					MORA
+			I just wanted to determine its 
+			mass.
+
+					ODO
+				(controlled)
+			Doctor Mora... I understand that 
+			you want to help, but I'm going to 
+			do this alone.
+
+	Mora smiles in a way that Odo finds condescending.
+
+					MORA
+			Alone? But, Odo... you don't know 
+			the first thing about teaching a 
+			changeling how to shape-shift.
+
+					ODO
+			I'll muddle through somehow. You 
+			did.
+
+	Mora ignores this barb, takes another tack.
+
+					MORA
+			It's too warm in here. A 
+			changeling's morphogenic matrix is 
+			most malleable at seventeen 
+			degrees Celsius.
+
+					ODO
+				(dismissing this)
+			I used to be able to change my 
+			shape in almost any temperature.
+
+					MORA
+			But why not make it easy for the
+			changeling.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    18.
+
+9    CONTINUED:	(3)
+
+					MORA (Cont'd)
+				(driving home his point)
+			It took me weeks to determine the 
+			optimal temperature, humidity, 
+			even the light level. Don't you 
+			think that's information you could 
+			use?
+
+
+					ODO
+				(reluctant)
+			I suppose I could take a look at 
+			your reports.
+
+					MORA
+			You're free to, of course. But I 
+			was never one to keep extensive 
+			records. I always wanted to move 
+			on to the next test.
+
+					ODO
+			Believe me, I remember your 
+			"tests" very well.
+
+
+	Mora realizes what's driving Odo
+
+					MORA
+			Ah, that's what this is all about. 
+			You still resent the things I did 
+			to induce you to shape-shift. I 
+			know they weren't pleasant for 
+			you, but really, Odo -- I'd have 
+			hoped you'd have moved past that 
+			by now. I'm disappointed.
+
+	Odo stiffens -- Mora has a way of making him feel like 
+	a child.
+
+					ODO
+			I have my own ideas about how to 
+			teach the changeling.
+
+					MORA
+			Really? I take it they're less... 
+			invasive?
+
+					ODO
+			Exactly.
+
+					MORA
+			Hmm.
+
+	Odo studies Mora for a beat --
+
+  DEEP SPACE NINE: "The Begotten" - REV. 11/05/96 - ACT TWO 19-21.     
+
+9    CONTINUED:	(4)
+
+					ODO
+			You don't think I can do it, do 
+			you?
+
+					MORA
+			I didn't say that.
+
+	Mora is playing Odo to the hilt, knowing full well how 
+	badly he wants to prove himself to his teacher.
+
+					MORA
+			The truth is, I'd be fascinated to 
+			see what you have in mind.
+
+	Mora has thrown down a challenge he knows Odo can't 
+	refuse.
+
+					ODO
+			In that case, why don't you stay 
+			and observe?
+
+					MORA
+			If you insist.
+
+	Mora has gotten exactly what he wanted, and Odo doesn't 
+	even realize it...
+
+10
+thru   OMITTED
+12
+
+12A  INT. BIRTHING ROOM
+
+	It's been hours now, and everyone's tired. Sh-sh... 
+	rattle... clink... sh-sh... rattle... clank --
+	Suddenly Kira lets out a GASP of pain.
+
+					KEIKO
+			What's wrong?
+
+					KIRA
+			I don't know... it's like a cramp 
+			or something.
+
+					Y'PORA
+			You shouldn't be feeling any pain.
+
+	Y'Pora scans her with a BAJORAN TRICORDER. She seems 
+	a bit dismayed by her findings.
+
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    22.
+
+12A  CONTINUED:
+
+					Y'PORA
+			Well... it appears that you're not 
+			going to be having the baby today.
+
+					KIRA
+			What?
+
+					Y'PORA
+			You were in labor too long.
+
+	O'Brien glares at Shakaar --
+
+
+					O'BRIEN
+				(under his breath)
+			I wonder why...
+
+	But Y'Pora glances meaningfully at both O'Brien and Shakaar.
+
+					Y'PORA
+			For whatever reason... you weren't 
+			able to fully relax. Your system 
+			had to stop producing endorphins 
+			before they accumulated to toxic 
+			levels.
+
+					SHAKAAR
+			When will she have the baby?
+
+					Y'PORA
+			It could be a few more days, or a 
+			few more weeks.
+
+					KIRA
+			Weeks? If I don't have this baby 
+			soon, I'm going to lose my mind.
+
+					Y'PORA
+			If you want, you can go see Doctor 
+			Bashir and have him --
+
+					KIRA
+				(firm)
+			No. I want to have this baby the
+			traditional Bajoran way.
+
+					KEIKO
+			We're a hundred percent behind 
+			you. Aren't we, Miles?	O'Brien's thinking about the idea of going to Julian, 
+	until Keiko nudges him.
+
+					O'BRIEN
+			Absolutely.
+
+					KIRA
+				(to Shakaar)
+			Can you stay for a while?
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    23.
+
+12A  CONTINUED:	(2)
+
+					SHAKAAR
+				(smiles)
+			I'll have to rearrange my 
+			schedule, but I think so.
+
+					Y'PORA
+			Nerys, return to your quarters and 
+			rest. I'll come by and see you 
+			later.
+
+	As Y'Pora passes Shakaar --
+
+					Y'PORA
+			You... be punctual next time or 
+			don't come at all.
+
+	O'Brien looks pleased -- he couldn't have said it better 
+	himself.
+
+					Y'PORA
+				(to O'Brien)
+			And you... practice.
+
+	As if to demonstrate, Y'Pora flicks the gong with her 
+	finger, and for the first time, it gives off a 
+	distinctive PING that we can tell is how it's supposed 
+	to sound. off O'Brien's look as she EXITS...
+
+13   INT. SCIENCE LAB
+
+	Odo places a MARBLE into the flat Petri dish in which 
+	the goo forms an irregular puddle. As Mora watches, he 
+	gently rolls the marble around the perimeter of the 
+	dish as he talks to the changeling.
+
+					ODO
+			This is a sphere. It's one of the 
+			most basic forms in nature. See 
+			how it rolls? Interesting, isn't it?
+
+	Mora watches skeptically, moves closer just to make 
+	sure nothing is happening.
+
+					ODO
+			You're blocking my light.
+
+	He's not, really, but Mora moves off to the side 
+	anyway.
+
+					ODO
+				(to the goo)
+			Now... this won't hurt a bit...
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    24.
+
+13   CONTINUED:
+
+	He carefully pours the goo into a glass SPHERE. Once 
+	done, he leans in close, speaks to the changeling.
+
+					ODO
+			This is also a sphere. Feel its 
+			symmetry... the softness of its 
+			shape... the sameness.
+
+	He gives the changeling a moment to feel the sphere, 
+	then pours the goo back into the dish. He sets the 
+	sphere aside, turns to the goo.
+
+					ODO
+			Now you try it...
+
+	He waits for a beat. Mora watches, doubtful. After a 
+	beat, Odo rolls the marble into the dish.
+
+					ODO
+			Here's a little reminder.
+
+	Odo sits and waits. Behind him, we can see on Mora's face 
+	that he thinks Odo is going to be waiting a long 
+	time. After a moment, Odo leans in and talks to the 
+	goo.
+
+					ODO
+			I realize you prefer to remain 
+			shapeless... believe me, I 
+			remember how relaxing it could be. 
+			But you have to learn to take 
+			other forms. It's what 
+			changelings do. It's immensely 
+			rewarding. I remember the first 
+			time Doctor Mora here coerced me 
+			into taking the shape of a cube 
+			with one of his electrostatic 
+			gadgets. Once I did it, and he 
+			turned the infernal thing off, I 
+			was perfectly content to stay a 
+			cube for hours. It was 
+			fascinating -- all those right 
+			angles. of course, he had other 
+			plans. The next thing I knew, he 
+			had me spinning around in a 
+			centrifuge.
+
+	Mora fights the impulse to retort. A moment, then Odo 
+	uses this supposedly offhand mention of the cube as a 
+	cover to move on from what is clearly an unsuccessful 
+	effort. He reaches and takes a glass CUBE, shows it to 
+	the goo.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    25.
+
+13   CONTINUED:	(2)
+
+					ODO
+			If you're not interested in a 
+			sphere right now, we can always 
+			try a cube. 
+
+	Off Mora's face as he rolls his eyes...
+
+									DISSOLVE TO:
+
+13A  CLOSE - THE SPHERE
+
+	that Odo set aside earlier... a beat, then Odo's hand 
+	slides the cube over next to it...
+
+13B   CLOSE - MORA
+
+	controlling his impatience.
+
+13C   CLOSE - THE SPHERE AND THE CUBE
+
+	as Odo slides a PYRAMID next to them...
+
+13D   CLOSE - ODO
+
+	pouring the goo into another form with great care...
+
+13E   THE THREE ABOVE SHAPES
+
+	and a handful more clustered around them... a beat, 
+	then Odo's hand slides an OCTAGON next to them...
+
+13F   CLOSE - MORA
+
+	biting his tongue.
+
+13G   NEW ANGLE 
+
+	Odo has the goo in a tall glass CYLINDER that's sitting
+	upside down on the Petri dish. (NOTE: there's more goo
+	now -- the "exercise" it's had has caused it to
+	expand.) Mora watches, coming to his wits end.
+
+					ODO
+				(to the goo)
+			Now... all you have to do is hold 
+			this shape. Ready?
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    26.
+
+13G   CONTINUED: 
+
+	Odo lifts the cylinder straight up, but to his dismay, 
+	the goo glug-glugs its way out the bottom and spreads 
+	itself out onto the dish. Odo stares at it, trying not
+	to give Mora the satisfaction of showing his 
+	disappointment.
+
+					ODO
+			All right... you're starting to 
+			catch on...
+
+	Off Mora's exasperation...
+
+									DISSOLVE TO:
+
+14
+thru   OMITTED
+14A
+
+15   INT. SCIENCE LAB
+
+	where Mora is alone, scanning the beaker of goo with a 
+	TRICORDER. After a beat, Odo ENTERS and reacts to the 
+	sight of him.
+
+					ODO
+			What are you doing?
+
+					MORA
+			I'm just measuring its volume.
+
+	The two men have been at this for a week now, and
+	Mora's patience has worn thin.
+
+					MORA
+			It's been almost a week and it's 
+			only grown seventeen percent.
+			After three days in my lab, you 
+			were twice this size.
+
+					ODO
+			Maybe I was anxious to grow up so 
+			I could get out of there.
+
+	Mora ignores this, sticks to his point.
+
+					MORA
+			My point is that you've made no
+			progress. By this time, I'd 
+			already gotten you to mimic half 
+			a dozen simple forms.
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    27.
+
+15   CONTINUED:
+
+					ODO
+			I'm trying to gain its trust, not 
+			teach it tricks.
+
+	Mora slaps the tricorder down on the table in 
+	frustration.
+
+					MORA
+			It's a shame you're not a 
+			changeling anymore -- you could 
+			just link with it and teach it 
+			everything it needs to know.
+
+					ODO
+				(defensive)
+			You make it sound like it's my 
+			fault.
+
+					MORA
+			It might very well be.
+
+	Odo bristles at this notion, but Mora continues with a 
+	scientist's dispassion --
+
+					MORA
+			Let's face it, Odo, your 
+			shape-shifting abilities were 
+			somewhat limited. That may be why 
+			your people were able to force you 
+			to take humanoid form.
+
+	Odo stiffens --
+
+					ODO
+			That's pure speculation.
+
+					MORA
+			Why don't we run some tests and 
+			find out?
+
+	Odo breaks into a knowing smile...
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    28.
+
+15   CONTINUED:	(2)
+
+					ODO
+			You're just dying to get me into 
+			one of your contraptions, aren't 
+			you?
+
+					MORA
+			I'm trying to help.
+
+					ODO
+			I'm not about to submit myself to 
+			another round of your experiments.
+
+					MORA
+			Everything I did to you was for 
+			your own good. True, some of the 
+			tests I subjected you to proved 
+			inconclusive --
+
+					ODO
+			The vacuum chamber springs to 
+			mind, the cytoplasmic separator... 
+			and come to think of it, the 
+			protein decompiler, too --
+
+					MORA
+			How could I know until I tried? 
+			By the Prophets, Odo, I wasn't 
+			even sure you were a lifeform.
+
+					ODO
+
+			I wasn't sure about you either.
+
+					MORA
+			Once I realized you were sentient, 
+			the Cardassians wanted to know 
+			everything about you. I was under 
+			enormous pressure to get results. 
+				(with pride)
+			And I did. My techniques worked. 
+			The fact that you're standing here 
+			whining about them is proof.
+
+					ODO
+			You enjoyed watching me suffer.
+
+					MORA
+			Do you really believe that? How 
+			pathetic. If it weren't for me, 
+			you'd still be sitting on a shelf 
+			somewhere, in a beaker labeled 
+			"unknown sample."
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    29.
+
+15   CONTINUED:	(3)
+
+					ODO
+			If it weren't for me, you'd be a 
+			nobody -- Starfleet wouldn't hire 
+			you to judge a science fair.
+
+					MORA
+			I'm getting a little tired of 
+			standing around watching you. But 
+			I can't seem to pull myself away. 
+			I'm too curious to see what 
+			preposterous thing you'll try 
+			next.
+				(re: the goo)
+			Who knows, maybe after a few 
+			months, it'll get so tired of your 
+			incessant chatter it'll actually 
+			do something.
+
+					ODO
+			You'd love to get your hands on 
+			it, wouldn't you? You could sell 
+			tickets on the Promenade.
+				(with a flourish)
+			Doctor Mora's Chamber of Horrors --
+			open for business.
+
+	Odo turns to the door like a carnival barker...
+
+					ODO
+			Come on in...
+
+	Odo stops when he sees Sisko standing in the doorway... 
+	there's an uncomfortable moment as the two men wonder 
+	how long he's been standing there.
+
+					ODO
+			Captain...
+
+	Sisko gives nothing away.
+
+					SISKO
+			How's it going, gentlemen?
+
+					ODO
+				(stretching the truth)
+			Making progress.
+
+					SISKO
+			Glad to hear it. I was just 
+			talking with Starfleet Command. 
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    30.
+
+15   CONTINUED:	(4)
+
+					SISKO (Cont'd)
+			They want you to establish 
+			communication with the changeling 
+			as soon as possible.
+
+					MORA
+			At the rate we're going, that's 
+			still a long way off.
+
+					SISKO
+			Better not be too long, otherwise 
+			Starfleet is going to want to take 
+			over the project.
+
+					ODO
+				(alarmed)
+			Sir?
+
+					SISKO
+			As long as you're making progress, 
+			there's nothing to worry about.
+
+
+	Sisko heads for the door.
+
+					SISKO
+			By the way, Starfleet would like 
+			you to file daily reports for 
+			their review.
+
+					ODO
+			Understood, sir.
+
+					SISKO
+			Carry on.
+
+	Sisko EXITS, leaving a troubled Odo. After a beat, 
+	Mora turns to him...
+
+					MORA
+			Well... now you have an idea of 
+			the kind of pressure I was under.
+
+	Mora lets this sink in for a beat...
+
+     DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT TWO    31.
+
+15   CONTINUED:	(5)
+
+					MORA
+			I brought my old equipment up from
+			Bajor. Maybe it's time we started 
+			unpacking it.
+
+	Off Odo's look as he realizes he going to have to yield 
+	to the inevitable...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+  DEEP SPACE NINE: "The Begotten" -REV - 11/01/96 -ACT THREE 32-35.    
+                           ACT THREE                            
+
+	FADE IN:
+16
+thru   OMITTED
+21
+
+22   INT. SCIENCE LAB
+
+
+	where Mora has set up one of his apparatuses -- a 
+	shallow, square DISH fitted with a CONTROL PANEL that 
+	operates an electrostatic bottom. We can see that the 
+	device brings back unpleasant memories for Odo, 
+	although he does his best to hold them in check.
+
+					MORA
+			Whenever you're ready.
+
+					ODO
+				(to the goo)
+			Don't worry, you'll get through
+			this...
+
+	Odo pours the goo, now grown to about two pints, into 
+	the dish, where it forms an irregular puddle. He turns 
+	to Mora, nods that he go ahead.
+
+					MORA
+			No, no -- I'm just an observer.
+
+	The truth is, Mora wants Odo to have to do it himself. 
+	Odo swallows back his discomfort, reaches and activates 
+	the controls.
+
+	A BLUE CIRCLE appears in the center of the dish. The 
+	changeling, off to one side, does absolutely nothing.
+	Mora studies the controls, realizes why.
+
+					MORA
+			Odo, it won't respond to anything
+			less than six millivolts.
+
+	Odo hesitates...
+
+					ODO
+				(torn)
+			There must be some other way.
+
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT THREE   36.
+
+22   CONTINUED:
+
+					MORA
+			Spare the rod, spoil the child.
+				(off Odo's look)
+			Without discomfort, the changeling 
+			is perfectly content to stay in 
+			its gelatinous state. It'll just 
+			lie there, never realizing it has 
+			the ability to mimic other forms, 
+			never living up to its potential.
+				(beat)
+			Six millivolts isn't going to 
+			harm it. Once it realizes there's 
+			no charge inside the circle, the 
+			procedure will be over.
+
+	A moment, then Odo reaches and works the controls.
+
+23   NEW ANGLE (OPTICAL)
+
+	The goo immediately starts to send out tendrils, as if 
+	trying to find a safe place to be.
+
+	Odo turns and looks at Mora, who's watching with his 
+	scientific dispassion. Mora notices his gaze --
+
+					MORA
+			Checking to see if I'm enjoying 
+			myself... ?
+
+	Odo can see that he's not; embarrassed, he turns his 
+	attention back to the goo. As they watch, a TENDRIL 
+	finds the circle...
+
+					ODO
+				(to the goo)
+			That's it... you've found it...
+
+	A moment, then the goo quickly MOVES to fill the blue 
+	area, forming itself into a perfect circle so as to 
+	avoid the charge. Odo breaks into a wide grin, but 
+	Mora doesn't let him enjoy the moment long.
+
+					MORA
+			I smiled the first time you did
+			that... little did I know you'd 
+			end up hating me for it.
+				(all business)
+			Shall we move on?
+
+	The smile fades from Odo's face as he realizes the 
+	point Mora is trying to make...
+
+					ODO
+			Why not.
+
+ DEEP SPACE NINE: "The Begotten" - REV. 11/06/96 -ACT THREE 37-37A.    
+
+23   CONTINUED:
+
+	As Odo and Mora set to work...
+
+23A EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+23B   OMITTED 
+
+23C   INT. KIRA'S BEDROOM 
+
+	as Shakaar appears in the doorway and takes in the 
+	scene. Kira is lying down as O'Brien works on her legs --
+	he pours some OIL from a tube onto them, kneads it into 
+	her skin. Shakaar sees that they haven't noticed him --
+	trying not to let the scene bother him, he clears his 
+	throat. Kira looks up, smiles when she sees him.
+
+					KIRA
+			Edon...
+
+	O'Brien greets him with a nod, concentrates on his 
+	work. Shakaar would like nothing more than a few 
+	minutes alone with Kira, but seeing that she needs this 
+	massage, doesn't mention it. He moves to take a seat 
+	next to her.
+
+					SHAKAAR
+			How're you feeling?
+
+	Kira, never one to complain, puts her best face on it.
+
+					KIRA
+			I'm all right. My feet are a 
+			little swollen.
+
+					O'BRIEN
+				(as he works)
+			A little? They've never been this 
+			bad.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/90--ACT THREE   37B.
+
+23C   CONTINUED:
+
+	Shakaar does his best to ignore O'Brien --
+
+					SHAKAAR
+			There's a zero-grav tumbling 
+			performance on the Promenade 
+			tonight -- want to go?
+
+					KIRA
+			Well, maybe.
+
+					O'BRIEN
+			You can't be standing around for 
+			an hour.
+
+	Shakaar is a bit exasperated by the situation, but 
+	tries to be polite.
+
+					SHAKAAR
+			Chief, would you mind leaving us 
+			alone for a minute?
+
+					O'BRIEN
+				(working)
+			I'm almost done.
+
+					SHAKAAR
+			I'll take over.
+
+	Without waiting for O'Brien's response, Shakaar places 
+	a hand on Kira's leg, starts massaging. O'Brien 
+	watches, concerned that he's not doing it right.
+
+					KIRA 
+			I think it's time.
+
+	But the men don't hear her.
+
+					O'BRIEN
+			You have to do it harder.
+
+					SHAKAAR
+			I know what I'm doing.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT THREE   38.
+
+23C   CONTINUED:	(2)
+
+
+					KIRA 
+			It's time.
+
+					O'BRIEN
+			You have to work your way up the 
+			leg.				KIRA
+			It's time!
+
+	A moment as the two men look at her, then it hits them 
+	both -- It's time! They look at each other, the onset 
+	of panic in their eyes. Off this moment --
+
+									CUT TO:
+
+24   OMITTED
+
+25   INT. SCIENCE LAB
+
+	where Odo and Mora are working with the changeling, 
+	which has expanded to about half a gallon. They've got 
+	it in an upside-down CYLINDER centered on a BLUE CIRCLE 
+	of the same diameter, indicating that as presently 
+	positioned, the changeling is receiving no 
+	electrostatic charge.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT THREE   39.
+
+25   CONTINUED:
+
+					ODO
+				(to the goo)
+			If I were you I'd hold this 
+			shape... otherwise you'll be in 
+			for a little shock...
+
+26   NEW ANGLE (OPTICAL)
+
+	As Odo lifts the cylinder straight up and off the 
+	changeling... the goo starts to SAG, as if about to 
+	release its shape, but realizing that it'll receive a
+	charge if it spreads outside the circle, it MORPHS into
+	a solid column of goo, centered on the safe blue circle.
+
+	Though pleased, this time Odo is more circumspect in 
+	his reaction.
+
+					MORA
+			This is a smart one... I had to do 
+			that three times before you caught 
+			on.
+
+	Odo turns and looks at him...
+
+					ODO
+			Actually...
+				(enjoying this revelation)
+			The first two times I didn't hold 
+			the shape on purpose.
+
+					MORA
+			You're not serious.
+
+					ODO
+			I suppose I didn't want to give 
+			you the satisfaction.
+
+	This, more than any jab Odo has taken at Mora, hurts. 
+	He truly hadn't considered that Odo was actually 
+	resisting his efforts to teach him.
+
+					MORA
+			Well... if you're lucky, someday 
+			this changeling will give you the 
+			satisfaction of saying, "Thank you, 
+			you did so much for me."
+				(pressing his point)
+			Then again, maybe it'll just end
+			up leaving the way you did. 
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT THREE   40.
+
+26   CONTINUED:
+
+					MORA (Cont'd)
+			Without any warning, it'll just
+			announce that it's striking out on 
+			its own -- and you'll never hear 
+			from it again.
+
+	Odo looks away -- he knows he hurt Mora when he left, 
+	but he's not about to admit it.
+
+					MORA
+			I'm going to get something to 
+			eat...
+
+	As he turns away, a MORPHING SOUND gets his attention. 
+	He and Odo turn toward the column of goo and react --
+
+27   OMITTED
+
+28   NEW ANGLE (OPTICAL)
+
+	To their amazement, it starts to MORPH up and out of 
+	the Petri dish to form a single thick TENTACLE.
+
+	As the two men watch with fascination, the tentacle 
+	gropes its way toward them, as if trying to sense where 
+	they are. It comes to within two feet of Mora, hangs 
+	there for a moment as if taking him in, then turns its 
+	attention to Odo.
+
+	A beat, then something extraordinary happens... a FACE 
+	starts to form on the tentacle's leading surface. The 
+	features are vaguely defined, Odo-like -- but it's 
+	clear that the creature has formed eyes and is peering 
+	curiously at Odo.
+
+	They look at each other, face to face for a beat, then 
+	Odo smiles... as quickly as it formed, the goo returns 
+	to the Petri dish and settles back into its gelatinous
+	form...
+
+	Off Odo and Mora as they react to this surprising turn 
+	of events...
+
+								FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    41.
+                           ACT FOUR                             
+
+	FADE IN:
+
+29   INT. SECURITY OFFICE
+
+	as Odo and Mora ENTER. They're both excited about what 
+	happened, but Odo is less demonstrative, and has some 
+	PADDS to look over from work that's piled up.
+
+					MORA
+			And the eyes! Incredible.
+
+					ODO
+			For a minute there, I thought it 
+			was going to say something.
+
+	Odo picks up a PADD off his desk.
+
+					MORA
+			Put that down, we're celebrating.
+
+	Part of Odo wants to, but his meticulous nature is 
+	pulling him the other way.
+
+					ODO
+			It's just that I've fallen behind 
+			on my security reports these last 
+			few days.
+
+					MORA
+			You can catch up later. Aren't 
+			you excited about what happened?
+
+					ODO
+			Of course I am.
+
+					MORA
+			Tomorrow, we can start exposing 
+			the changeling to simple life-
+			forms so that it can mimic them. 
+			Algae, fungus -- in a few days, 
+			maybe even an invertebrate.
+
+	Odo sets down the PADD, getting caught up in Mora's 
+	enthusiasm.
+
+					ODO
+			I can't wait until I can actually 
+			talk to it. There's so much I 
+			want it to see, so much I want to 
+			share.
+
+					MORA
+			You'll get the chance sooner than 
+			you think. The changeling is 
+			developing far faster than you 
+			did.
+
+     DEEP SPACE NINE: "The Begotten" - REV. 11/12/96 - ACT FOUR     42.
+
+29   CONTINUED:
+
+	Odo looks up sharply -- this seems like another jab 
+	from Mora, but this time, Mora backpedals.
+
+					MORA
+			I didn't mean that as a criticism. 
+			If anything, it's a compliment.
+
+	Odo looks at Mora, unsure what he's saying. Mora 
+	swallows back his pride, comes out with it.
+
+					MORA
+			I was wrong. Your approach to 
+			communicating with the changeling 
+			was sound. Don't you see? It was 
+			reaching out to you. It was 
+			curious about you. The first time 
+			you did anything even close to 
+			that was when you formed a 
+			tentacle to slap my hand away from
+			the control panel.
+
+					ODO
+			I remember. I wanted you to stop 
+			zapping me.
+
+	The memory takes them both back, and despite the mixed 
+	feelings it brings back, they both find themselves 
+	smiling at it.
+
+					MORA
+			You've formed a connection with 
+			that changeling.
+				(with regret)
+			That's something I never managed 
+			to do with you.
+
+					ODO
+				(quickly)
+			That's not true.
+				(beat)
+			I respected you.
+
+					MORA
+			You feared me.
+
+	Odo dismisses this impatiently --
+
+					ODO
+			You didn't know what I was. You 
+			were experimenting on what looked 
+			like a lump of organic residue. 
+			And that's what I'd still be if it 
+			weren't for you.
+
+	This last statement just tumbled out of Odo's mouth 
+	unbidden -- but there it is, and Mora knows it's as 
+	close as Odo can come to making the admission.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    43.
+
+29   CONTINUED:	(2)
+
+					MORA
+			You don't know how much it means 
+			to me to hear you say that.
+
+	Odo looks away, uncomfortable with the emotion of the
+	moment.
+
+					MORA
+			I'm sorry. I know that sort of 
+			talk makes you uncomfortable.
+
+	Mora smiles ruefully...
+
+					MORA
+			I suppose it's my fault, in a way. 
+			If I hadn't poked and prodded at 
+			you so much, you might have ended 
+			up with a less... forbidding 
+			disposition.
+
+					ODO
+			Something tells me that no matter 
+			what we do to that changeling, 
+			it's going to have a more pleasant 
+			disposition than mine.
+				(a beat)
+			It's just the way I am.
+
+
+	A moment between the two men...
+
+				MORA
+			Well... I'll let you get to work.
+
+	Odo nods, and Mora turns and starts for the door.
+
+					ODO
+			Doctor Mora.
+
+	Mora stops, turns to see Odo crossing to the 
+	Replicator.
+
+					ODO
+			Two glasses of champagne, please. 
+				(beat)
+			We're celebrating...
+
+  DEEP SPACE NINE: "The Begotten" - REV. 11/06/96 - ACT FOUR 44-45.    
+
+29   CONTINUED:	(3)
+
+	He turns to Mora... who breaks into a smile. Off this 
+	moment...
+
+30   INT. BIRTHING ROOM
+
+	Kira is on the table as before, breathing deeply and 
+	trying to relax. Y'Pora stands at the foot of the 
+	table, Shakaar at the head, and O'Brien and Keiko are 
+	at either side. It's clear from everyone's energy 
+	level that they've been at this a while now.
+
+	Y'Pora, Keiko and O'Brien are trying to establish the 
+	rhythm, but O'Brien can never seem to get the same 
+	sound from his gong.
+
+	Ssh-sh, rattle, CLINK... sh-sh, rattle, CLANK... sh-sh 
+	rattle PING -- finally, he got it right. As if in 
+	response, Kira lets out a soft moan of pleasure.
+
+	The midwife places a hand on Kira's belly, takes stock 
+	of the situation...
+
+					Y'PORA
+			The baby's turned... it's time.
+
+	O'Brien reacts -- if he'd know this was going to do the 
+	trick, he would've practiced earlier. Y'Pora reaches 
+	and bends Kira's knees, pulls the robe up just above 
+	them. She motions that everyone can come around to the 
+	end of the table, then twists her Cabasa...
+
+					Y'PORA
+			Awake child...
+
+	As she moves to the end of the table, Keiko rattles her 
+	gourd...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    46.
+
+30   CONTINUED:
+
+					KEIKO
+			We await you with love...
+
+	Shakaar taps the gong...
+
+					SHAKAAR
+			And welcome you into the world....
+
+	As the rhythm continues without words, O'Brien comes 
+	around from the head of the table, but Shakaar blocks 
+	his path.
+
+					SHAKAAR
+				(quiet)
+			Why don't you stay there?
+
+					O'BRIEN
+			I can't see from here.
+
+					SHAKAAR
+			Exactly.
+
+	O'Brien realizes Shakaar doesn't want him to see Kira's 
+	nakedness.
+
+					O'BRIEN
+			Look, it's my baby.
+
+	Y'Pora scolds them --
+
+					Y'PORA
+			Shh.
+
+	But they keep at it --
+
+					SHAKAAR
+			I think it would make Nerys
+			uncomfortable.
+
+					O'BRIEN
+			She's been living in my home for
+			the last five months.
+
+					KEIKO
+			Ouiet.
+
+					SHAKAAR
+			What's that supposed to mean?
+
+	O'Brien tries to move around him, but Shakaar won't let 
+	him.
+
+					O'BRIEN
+			I missed Molly's birth, I'm not
+			about to miss this one.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    47.
+
+30   CONTINUED:	(2)
+
+	Finally Kira's eyes shoot open.
+
+					KIRA 
+			I'm trying to have a baby here.
+
+	They turn to her --
+
+					KIRA 
+			I'm sick of this ridiculous little 
+			competition you two have going. 
+			If either one of you says another 
+			word, you're going to have to 
+			leave.
+
+	But neither man can contain himself.
+
+			O'BRIEN						SHAKAAR
+		Fine, tell him to				Just tell him to
+		let me --					to stay where--
+
+					KIRA 
+			That's it. Get out. Both of you.
+
+			SHAKAAR						O'BRIEN
+		Nerys --					Kira --
+
+					KIRA
+			Go.
+
+					O'BRIEN
+			You're joking.
+
+					KEIKO
+				(firm)
+			Does it sound like she's joking?
+
+	Stunned, they head for the door... The two exiled men 
+	cast one last penitent glance back at Kira, then EXIT 
+	to --
+
+31   INT. HABITAT RING CORRIDOR
+
+	As they lean against the wall sullenly...
+
+					O'BRIEN
+			Nice going.
+
+					SHAKAAR
+			Do me a favor -- next time you 
+			have a baby, leave my girlfriend 
+			out of it.
+
+	But they're too shocked and depressed to keep 
+	fighting...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    48.
+
+32   INT. QUARK'S -
+
+	It's late, the bar is closed. Quark is coming in from 
+	the back room, a PADD in his hand, muttering to himself 
+	as he calculates the day's receipts.
+
+					QUARK 
+			-- comes to...
+				(works PADD)
+			Three hundred and twenty-four...
+				(disappointed)
+			I'm going to have to start 
+			watering the drinks again...
+
+	A SOUND from behind the bar gets his attention. He 
+	comes down the stairs and sees Odo behind the bar, 
+	pulling a bottle from a shelf.
+
+					QUARK
+			Constable?
+
+					ODO
+			Quark!
+
+					QUARK
+			What are you doing back there?
+
+					ODO
+			What does it look like?
+
+					QUARK
+			We're closed.
+
+					ODO
+			Have a seat.
+
+	Quark figures Odo is up to something, settles into a 
+	chair warily. He watches as Odo mixes up some 
+	elaborate concoction in a PITCHER, all but whistling as 
+	he works.
+
+					QUARK
+			You're in a good mood.
+
+
+					ODO
+			Yes, I am.
+
+					QUARK
+			Which means you're probably about 
+			to arrest me on some trumped up 
+			charge.
+
+	Nothing Quark says seems to bother Odo, he's as happy 
+	as we've ever seen him.
+
+					ODO
+			Not at all. I'm buying you a 
+			drink.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    49.
+
+32   CONTINUED: 
+
+					QUARK
+				(suspicious)
+			Why?
+
+					ODO
+			Because Doctor Mora went to bed, 
+			and I still feel like celebrating.
+
+	Quark watches Odo uneasily --
+
+					QUARK
+			What are you up to?
+
+					ODO
+			I'm happy, Quark. Can't you just 
+			accept that?
+
+					QUARK
+			No. It doesn't fit. If you're 
+			happy, something's very wrong in 
+			the world...
+				(growing agitated)
+			... the center cannot not hold.
+
+	Odo pours a glass for Quark.
+
+
+					ODO
+			There we go.
+
+					QUARK
+			I've got it -- you're getting back 
+			at me for selling you that sick
+			changeling.
+
+					ODO
+			Actually, I should thank you.
+
+					QUARK
+			If you want the money back, just 
+			say so.
+
+
+					ODO
+			It changed my life...
+				(holding up his glass)
+			To you, Quark.
+
+					QUARK
+				(snapping)
+			All right, all right -- I confess. 
+			I don't know what I did, but I did 
+			it. Just stop, I can't take it 
+			anymore.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR   49A.
+
+32   CONTINUED:	(2)
+
+	Odo ignores Quark's panic, asks almost wistfully --
+
+					ODO
+			Do you ever think about having 
+			children?
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    50.
+
+32   CONTINUED:	(3)
+
+					QUARK
+				(taken off guard)
+			Huh?
+
+					ODO
+			I never did. It seemed like too 
+			much trouble. But fate dropped 
+			one into my lap. And now... I 
+			couldn't be happier.
+				(a beat)
+			Cheers...
+
+	Odo clinks his glass against Quark's, who knocks back 
+	his drink.
+
+					ODO
+			It's strange... over the past few 
+			months, I came to accept the fact 
+			that I'd never have any contact 
+			with my people again. They'd 
+			rejected me, turned me into a 
+			humanoid. And a part of me was 
+			lost forever.
+				(smiles)
+			But that little ball of goo 
+			sitting in that lab changed 
+			everything. I feel like I'm 
+			experiencing what it is to be a 
+			changeling again. And somehow, 
+			being a solid doesn't seem so bad 
+			anymore.
+
+	Quark holds out his glass --
+
+					QUARK 
+			Fill me up.
+
+	As Odo pours Quark another glass, his COMBADGE BEEPS.
+
+					COMPUTER VOICE
+			Security Chief Odo, please 
+			acknowledge.
+
+
+					ODO
+				(concerned)
+			Go ahead.
+
+					COMPUTER VOICE
+			The lifeform being monitored is 
+			displaying biomimetic fluctuations 
+			beyond stated parameters...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR   50A.
+
+32   CONTINUED:	(4)
+
+					ODO
+			Have Doctor Mora meet me in the 
+			Science Lab.
+
+					COMPUTER VOICE
+			Acknowledged.
+
+	Odo rushes out, his features grim --
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FOUR    51.
+
+33   INT. SCIENCE LAB
+
+	as Odo rushes in to find a concerned Mora scanning the 
+	goo in its container.
+
+					ODO
+			What's happened?
+
+	As Odo approaches, he sees that the goo has returned to 
+	its former size and sickly BLUE COLOR...
+
+					MORA
+			It's morphogenic matrix is
+			destablizing...
+
+	Mora turns to Odo, his features grave.
+
+					MORA
+			It's dying...
+
+	This hits Odo like a kick in the stomach... off this moment 
+	we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    52.
+                           ACT FIVE                             
+
+	FADE IN:
+
+34   INT. INFIRMARY
+
+	Bashir and Mora are scanning the changeling as Odo 
+	looks on, feeling anxious and helpless.
+
+					BASHIR
+				(off tricorder)
+			Its lifesigns are fading. The 
+			radiation may have damaged its 
+			cytoplasm in some way we weren't 
+			able to detect.
+
+	Bashir and Mora share a grim look as they consider 
+	their options. Odo can't contain his anxiety
+
+					ODO
+			There must be something you can 
+			do.
+
+					MORA
+			We could try an enzymatic 
+			induction -- that might stabilize 
+			the biomimetic fluctuations.
+
+					BASHIR
+			It's worth a shot.
+
+					ODO
+			It has to work, it has to.
+
+					MORA
+			Odo, please... Why don't you wait 
+			outside. We'll do what we can.
+
+	Mora leads Odo toward the other room... with a last 
+	look at the changeling, he EXITS.
+
+35   INT. BIRTHING ROOM
+
+	where Kira is now very near giving birth, she's deeply 
+	relaxed, blissful.
+
+					KIRA
+				(far away)
+			I feel... so good...
+
+	Keiko smiles down at her...
+
+					KEIKO
+			You're doing great, Nerys.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    53.
+
+35   CONTINUED:
+
+	Y'Pora smiles excitedly as she stands poised between 
+	Kira's legs... even though she's probably seen this a 
+	thousand times before, it still awes her every time...
+
+					Y'PORA
+			Here he comes...
+
+	Kira smiles, looks up at Keiko.
+
+					KIRA
+			Keiko... would you do me a favor?
+
+									CUT TO:
+
+36   INT. HABITAT RING CORRIDOR
+
+	where O'Brien and Shakaar are diligently ignoring each 
+	other, slumped against the wall on opposite sides of 
+	the corridor. The door OPENS and Keiko pops her head 
+	out.
+
+					KEIKO
+			Kira says you can both come back 
+			in if you promise to behave.
+
+	For a moment, the two men are too stunned to reply. 
+	Then they're both on their feet in a flash.
+
+	They meet at the door as they both try to ENTER at the 
+	same time. For a moment we think they're going to 
+	start at each other, but they check themselves, and 
+	each man graciously motions that the other go first.
+
+					O'BRIEN
+			After you.
+
+					SHAKAAR
+			No -- after you.
+
+					O'BRIEN
+				(gesturing)
+			Please.
+
+					KEIKO
+			Will you two get in here... you're
+			going to miss everything.
+
+	The two men file inside...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    54.
+
+37   INT. BIRTHING ROOM
+
+	Y'Pora is at the foot of the table, ready to deliver 
+	the baby. O'Brien and Shakaar take their places next 
+	to Keiko. Shakaar casts a glance O'Brien's way, tries 
+	to let go of his discomfort over his presence at the 
+	foot of the table.
+
+					Y'PORA
+			That's it, Nerys... relax -- let 
+			it come...
+
+	As O'Brien and Shakaar watch the off-screen birth 
+	continue, we get the sense that neither man was quite 
+	prepared for what he's witnessing -- a beat as they 
+	exchange a glance, then they both gulp back a swallow.
+
+38   THE CAMERA PANS
+
+	across the array of smiling faces as they watch the 
+	birth: from Shakaar to Keiko, then O'Brien...
+
+	When the camera reaches Y'Pora, she smiles, and we hear 
+	the off-screen SOUND of a baby crying. She reaches 
+	down, and a beat later, lifts the --
+
+39   SQUIRMING INFANT
+
+	into FRAME...
+
+					KEIKO
+				(taking his arm)
+			Look at him, Miles...
+
+
+					O'BRIEN
+			He's beautiful...
+
+	Off the joyful faces of all gathered... even O'Brien 
+	and Shakaar share a smile.
+
+40   INT. PROMENADE
+
+	where Odo is pacing anxiously outside the Infirmary. 
+	It's morning now, and Supernumaries can be seen on the 
+	Promenade. After a moment, Bashir appears in the 
+	doorway. Odo looks at him, hoping against hope he has 
+	good news.
+
+					ODO
+			Well... ?
+
+					BASHIR
+			There's nothing we can do. I'm 
+			sorry. It won't be long now...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    55.
+
+40   CONTINUED:
+
+	A moment as this sinks in, then Odo pushes his way past 
+	Bashir into --
+
+40A  INT. INFIRMARY
+
+	where Mora is waiting for him. He puts a comforting 
+	hand to Odo's shoulder... a beat, then Odo moves to 
+	look at the goo...
+
+41   NEW ANGLE
+
+	as Odo approaches the goo, which is barely moving now.
+
+42   CLOSE - ODO
+
+	as he looks down at it, anguished. A moment, then he
+	reaches down and out of frame.
+
+43   NEW ANGLE
+
+	Odo has taken the goo into his cupped hands... its 
+	movement is ebbing, its life is slipping away...
+
+					ODO
+				(softly)
+			Please, don't die... there's so 
+			much I want to show you. I was 
+			going to teach you how to become 
+			a Tarkalean Hawk... remember? 
+
+	As he looks down at it, the goo stops moving...
+
+44   OMITTED
+
+45   WIDER (OPTICAL)
+
+	A moment, then the goo suddenly ABSORBS itself into the 
+	palms of Odo's hands.
+
+	A beat as Odo looks down at his now empty hands in 
+	confusion and amazement. Bashir immediately flips open 
+	his TRICORDER.
+
+					MORA
+				(to Odo)
+			What happened, where did it go?
+
+					BASHIR
+				(off tricorder)
+			It somehow integrated itself into
+			Odo's body...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    56.
+
+45   CONTINUED:
+
+	Odo suddenly staggers back, nearly falls --
+
+					MORA
+				(alarmed)
+			Odo --
+
+	Odo recovers, looks at Mora and Bashir...
+
+					BASHIR
+			What's wrong?
+
+	Odo doesn't answer, a realization is dawning...
+
+					ODO
+			It can't be...
+
+					MORA
+			What... ?
+
+	Odo turns, and MORPHS toward the door -- becoming a
+	TARKALEAN HAWK in midair.
+
+46   INT. PROMENADE
+
+	as the Condor EMERGES from the Infirmary and arcs up 
+	into the air... people react to the sight of the 
+	magnificent bird flying along the curved expanse of the 
+	room...
+
+47   NEW ANGLE
+
+	as the bird banks off, flies along the ceiling
+
+47A  ODO'S POV
+
+	As the bird glides high above the Promenade.
+
+48   ANOTHER ANGLE (OPTICAL)
+
+	as the creature lands on a quiet stretch of the upper
+	level and MORPHS into Odo. He stands, his arms 
+	stretched out above him, elation on his features -- 
+	he's a Shape-shifter again.
+
+	A moment, then the cost of his transformation hits him -- 
+	the changeling's death. His joy starts to give way to 
+	a deep sense of sorrow and loss...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    57.
+
+48   CONTINUED:
+
+	Off Odo as he struggles to make sense of these 
+	conflicting emotions...
+
+
+49   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+Re-establishing.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    58.
+
+50
+thru   OMITTED
+52
+
+	53   INT. DOCKING RING - AIRLOCK
+
+	Shakaar and Kira are leaning against the bulkhead, 
+	grabbing a last few minutes together before he leaves.
+
+					SHAKAAR
+			This might be a good time to take
+			some leave and come down to Bajor
+			for a while.
+
+					KIRA
+			Maybe in a few weeks. Right now,
+			I feel like staying around here.
+
+	Shakaar nods that he understands...
+
+					SHAKAAR
+			So you can be close to the baby...
+
+	Kira nods, and he can see the tinge of sadness in her eyes.
+
+					SHAKAAR
+			He's a good-looking boy.
+
+					KIRA
+				(proud)
+			He is, isn't he?
+
+					COM VOICE
+			All passengers bound for Bajor
+			should board at this time.
+
+					KIRA
+			You'd better go.
+
+	Sensing her melancholy, he gathers her in his arms...
+
+					SHAKAAR
+			I've got a few minutes left.
+
+	Off this moment...
+
+54   INT. DOCKING RING - CORRIDOR
+
+	as Odo accompanies Mora to the mouth of the airlock (we 
+	don't see Kira and Shakaar inside).
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    59.
+
+54   CONTINUED:
+
+	Mora turns to him, asks gently --
+
+					MORA
+			So... how does it feel to be 
+			yourself again?
+
+	Odo can't get past the cost of what happened.
+
+					ODO
+			I just wish it hadn't happened the
+			way it did...
+
+					MORA
+			I'm sorry. If it helps, think of 
+			it as a gift -- something the 
+			changeling wanted you to have.
+
+
+	Odo is able to take some solace in this thought, but 
+	there's something else he wants to say to Mora.
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    60.
+
+54   CONTINUED:	(2)
+
+					ODO
+			I think I finally understand how 
+			much I meant to you... and what 
+			you must've gone through when I left.
+
+	Mora hears the sadness in his voice, wants to make him
+	feel better.
+
+					MORA
+			You had to find your own way in 
+			the world.
+
+					ODO
+			I should've included you in my 
+			life.
+
+					MORA
+			You still can.
+
+	A beat, then Odo smiles, extends his hand... Mora takes 
+	it, then pulls him into a hug...
+
+					MORA
+			Take care of yourself, Odo...
+
+	After a moment, they separate, and with a last look 
+	between them, Mora EXITS through the airlock. Just 
+	then, Kira ENTERS and sees Odo. She know's what 
+	happened, looks at him with sympathy.
+
+					ODO
+			I thought the O'Briens were 
+			having a party.
+
+					KIRA
+				(nods)
+
+			Shakaar and I stopped by. But I 
+			didn't feel like celebrating.
+
+					ODO
+			Oh?
+
+					KIRA
+			I got into this because the 
+			O'Briens' needed my help -- I 
+			never wanted a baby. But right
+			now... I just wish I could hold 
+			him in my arms and never let go.
+
+	Odo nods thoughtfully...
+
+    DEEP SPACE NINE: - "The Begotten" - REV. 11/12/96 - ACT FIVE    61.
+
+54   CONTINUED:	(3)
+
+					ODO
+
+			I think I know how you feel,
+			Nerys...
+
+					KIRA
+			Want to take a walk?
+
+	Odo nods. Off the image of Odo and Kira walking down 
+	the corridor, we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

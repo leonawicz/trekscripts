@@ -1,0 +1,5947 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                  "Through the Looking Glass" 
+               (fka "Untitled Crossover Sequel") 
+                          #40513-466 
+                              
+                          Written by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        February 2, 1995
+
+       STAR TREK: DS9   "Through... Glass" 02/02/95 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Through the Looking Glass" 
+                             CAST 
+
+          SISKO                    TUVOK
+          KIRA                     JENNIFER
+          ODO                      CARDASSIAN OVERSEER
+          BASHIR                   REBELS
+          DAX                      
+          O'BRIEN                  
+          QUARK                    
+          GARAK                    
+          ROM                      
+          COMPUTER VOICE           
+
+          Non-speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. TERRANS
+                                   N.D. KLINGONS
+                                   N.D. BAJORANS
+                                   N.D. CARDASSIANS
+
+  STAR TREK DEEP SPACE NINE: "Through... Glass" - 02/02/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Through the Looking Glass" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          COMMANDER'S OFFICE            
+          OPS                           TEROK NOR
+                                        RAIDER
+        TEROK NOR                     
+          AIRLOCK CORRIDOR              
+          KIRA'S QUARTERS               
+          INTENDANT'S OFFICE            
+          ORE PROCESSING CENTER         
+          GUEST QUARTERS                
+          HABITAT RING                  
+          CORRIDOR                      
+
+        RAIDER                        
+          TRANSPORTER AREA              
+          QUARTERS                      
+          CORRIDOR                      
+          COCKPIT                       
+
+        CAVES                         
+          MAIN CHAMBER                  
+          PRIVATE CHAMBER               
+          CORRIDOR                      
+
+   STAR TREK: "Through... Glass" - 02/02/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Through the Looking Glass" 
+                      PRONUNCIATION GUIDE 
+
+          HISIK                    HISS-ik
+          TUVOK                    TOO-vahk
+          TEROK NOR                TAIR-awk NOR
+          TERRAN                   TEHR-rahn
+
+       DEEP SPACE: "Through... Glass" - REV. 02/10/95 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                     "Through the Looking Glass"                       
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE - STOCK (OPTICAL)
+
+	hanging in space with the wormhole opening in the background.
+
+2    INT. COMMANDER'S OFFICE
+
+	Sisko's seated at his desk.  ODO and QUARK stand before him.
+
+					ODO
+			I found twenty-seven voles in his 
+			storeroom.
+
+					QUARK
+			Vole infestations are not uncommon 
+			on this station.  If you don't believe 
+			me, ask Chief O'Brien.
+
+					ODO
+			When I came in, he and Morn were 
+			painting numbers on the voles' backs.
+
+					QUARK
+			We were just... counting them to see 
+			how many we'd caught.
+
+					SISKO
+			You were getting ready to stage a 
+			vole fight.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/10/95 - TEASER        2.
+
+2  CONTINUED:
+
+					QUARK
+				(feigns surprise)
+			A vole fight?  I'm appalled.
+				(to Odo)
+			Do you really think that was what 
+			Morn was up to?
+
+					SISKO
+				(to Odo)
+			I want the voles confiscated and 
+			removed from the station.
+
+					QUARK
+			But you can't confiscate Morn's voles.  
+			They're like... his pets.
+
+	Sisko knows this is nonsense.  He stands up.
+
+					SISKO
+			I'll see if I can get him some 
+			goldfish.  And now, if you gentlemen 
+			will excuse me, it's late.
+
+	Sisko EXITS.  They follow behind.
+
+					QUARK
+			Poor Morn.  This is going to break 
+			his hearts.
+
+3    OMITTED 
+
+4    INT. OPS
+
+	Sisko comes down the stairs and turns to an N.D. Starfleet 
+	Officer.
+
+					SISKO
+			Ops is yours, Lieutenant.
+
+	The Lieutenant nods.  Just then, O'BRIEN ENTERS from the 
+	Turbolift, dressed like he was in the Mirror universe.
+
+          DEEP SPACE: "Through... Glass" - 02/02/95 - TEASER          3.
+
+4  CONTINUED:
+
+					SISKO
+				(re: the clothes)
+			Going somewhere, Chief?
+
+	O'Brien stares at Sisko, Odo, and Quark with curious 
+	intensity.
+
+					O'BRIEN
+			Sir, I need to talk to you.
+				(eyeing Odo and Quark)
+			It's kind of private.
+
+					ODO
+			We were just leaving.
+				(to Quark)
+			Come on, let's go break the news to 
+			Morn.
+
+	Odo and Quark EXIT out a door.  O'Brien looks at them 
+	strangely.
+
+					SISKO
+				(to O'Brien)
+			Do you want to talk in my office?
+
+					O'BRIEN
+			Actually, I thought we'd go to my 
+			place.
+
+	O'Brien draws a phaser and shoves it under Sisko's neck.
+
+					O'BRIEN
+			Get onto the transporter pad...
+				(with an edge)
+			Now.
+
+	The Ops N.D.s are caught by surprise.
+
+					SISKO
+			What do you think you're doing?
+
+					O'BRIEN
+			Just get on the pad.
+
+	O'Brien prods Sisko toward the transporter.  Sisko coolly 
+	steps up onto the pad.  It doesn't seem like the time to 
+	argue.
+
+5    NEW ANGLE (OPTICAL)
+
+	Keeping his phaser trained on Sisko, O'Brien goes to Dax's 
+	station.  He runs a device over the console, then programs 
+	in a quick sequence of transporter commands.
+
+          DEEP SPACE: "Through... Glass" - 02/02/95 - TEASER          4.
+
+5  CONTINUED:
+
+					O'BRIEN
+			Computer, energize on my command.
+
+	Never taking his phaser off Sisko, O'Brien steps up to the 
+	transporter and plays the (TECH) device over the base, then 
+	joins Sisko on the pad.
+
+					O'BRIEN
+			Energize.
+
+	They beam out.
+
+6    EXT. SPACE (OPTICAL)
+
+	With a ship very similar to the Maquis raider we saw in the 
+	Voyager pilot.
+
+7    INT. RAIDER - TRANSPORTER AREA (OPTICAL)
+
+	A small transporter alcove like the one on the Defiant, but 
+	less "Starfleet clean."  Sisko and O'Brien beam in.
+
+	Sisko takes stock of his surroundings.
+
+					SISKO
+			Where are we?
+
+					O'BRIEN
+			I guess you might say we just stepped 
+			through the looking glass.
+
+	And as Sisko reacts to this, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+       DEEP SPACE: "Through... Glass" - REV. 02/6/95 - ACT ONE        5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+8    INT. RAIDER - QUARTERS
+
+	The doors open and Sisko ENTERS, followed by the Mirror 
+	O'Brien, who is still holding a phaser on him.
+
+					O'BRIEN
+			Why don't you sit down... make 
+			yourself comfortable?
+
+					SISKO
+				(re: the phaser)
+			Maybe I'm not feeling too comfortable 
+			right now.
+
+	Sisko turns his back to O'Brien to sit down.  O'Brien relaxes 
+	for a moment.  Suddenly Sisko pivots back to face O'Brien, 
+	knocking the phaser away with his forearm, and with his other 
+	hand clipping O'Brien on the jaw.  As O'Brien hits the wall, 
+	Sisko wrests the phaser away and turns it on O'Brien.
+
+					SISKO
+			There, that's better.
+
+	But to Sisko's surprise, O'Brien smiles as if Sisko's action 
+	has been somehow reassuring to him.
+
+					O'BRIEN
+			That was a pretty good move.
+
+					SISKO
+			I'm glad you liked it.
+
+					O'BRIEN
+			But it still doesn't change anything.  
+			You can't go home unless I reconfigure 
+			the transporter, and I'm not about 
+			to do that.
+				(off Sisko's reaction)
+			I guess you've got a lot of questions.
+
+					SISKO
+			Not as many as you think.
+
+					O'BRIEN
+			You know where we are?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         5A.
+
+8  CONTINUED:
+
+					SISKO
+			If I had to guess, I'd say this is 
+			the same parallel universe that two 
+			of my crewmembers visited a year 
+			ago.
+
+					O'BRIEN
+			You're quick.  Just like our Sisko.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE          6.
+
+8  CONTINUED:	(2)
+
+					O'BRIEN (Cont'd)
+			That saves me having to give you a 
+			history lesson.
+				(a beat)
+			But I'd better update you on current 
+			events.  Since your officers left, 
+			we've started a rebellion against 
+			the Klingon/Cardassian Alliance.  
+			We're fighting for our lives.
+
+					SISKO
+			I wish you luck, but I don't see 
+			what that has to do with me.
+
+					O'BRIEN
+			It has everything to do with you.  
+			You were the leader of the Terran 
+			Rebellion.  At least, our Benjamin 
+			Sisko was.
+
+					SISKO
+			Was?
+
+					O'BRIEN
+			Captain Sisko's dead.  The Cardassians 
+			blew up his ship.
+
+	Sisko doesn't need to have a picture drawn for him.
+
+					SISKO
+			And you want me to take his place.
+
+					O'BRIEN
+			Like I said, you're quick.
+
+					SISKO
+			Well I've got a better idea.  We're 
+			going to walk back to the transporter 
+			pad and you're going to send me home.
+
+					O'BRIEN
+			Wait.  Hear me out.  I'm not asking 
+			for a lifetime commitment.  I just 
+			need you to finish the mission Sisko 
+			was on when he was killed.
+
+					SISKO
+			I'm sorry, but you're going to have 
+			to find someone else.  I don't belong 
+			here and I'm not about to interfere 
+			with events in this universe.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE          7.
+
+8  CONTINUED:	(3)
+
+					O'BRIEN
+			At least let me tell you about the 
+			mission.  And then if you decide you 
+			don't want to help, I'll send you 
+			home.
+
+	Sisko nods.
+
+					O'BRIEN
+			There's a Terran scientist working 
+			for the Alliance.  According to our 
+			sources, she's close to completing a 
+			new transpectral sensor array that 
+			will allow the Alliance to locate 
+			our bases in the Badlands.  Without 
+			a safe place to hide, the Alliance 
+			will be able to track us down and 
+			kill us all.
+
+					SISKO
+			So you want me to make sure this 
+			scientist never finishes her project.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE          8.
+
+8  CONTINUED:	(4)
+
+					O'BRIEN
+			Captain Sisko was convinced he could 
+			change her mind, get her to work for 
+			us instead.
+
+					SISKO
+			How did he plan to do that?
+
+					O'BRIEN
+			She was his wife.
+
+	Off Sisko's surprised reaction, O'Brien hands Sisko a battered 
+	PHOTO.
+
+9    NEW ANGLE
+
+	To include the PHOTO, a passport style shot of the Terran 
+	Scientist.  It's JENNIFER SISKO.
+
+					SISKO
+			Jennifer.
+
+					O'BRIEN
+			You know her?
+
+					SISKO
+			She was my wife, too.  But in my 
+			universe, she's dead.
+
+					O'BRIEN
+			Not here she isn't.  Not yet, anyway.
+
+					SISKO
+			What do you mean "not yet?"
+
+					O'BRIEN
+			If you don't convince Professor Sisko 
+			to join our cause, we'll have no 
+			choice but to kill her.
+
+					SISKO
+			Kill her?
+
+					O'BRIEN
+			We can't allow her to finish the 
+			sensor array.  It'd mean the end of 
+			the rebellion.
+
+	Sisko reacts, looking down at Jennifer's picture.  After a 
+	long beat, Sisko finally responds, never taking his eyes off 
+	the picture.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         8A.
+
+9  CONTINUED:
+
+					SISKO
+			I can't let her die.  Not again.
+
+					O'BRIEN
+			You're the only one who can save 
+			her.
+
+	Sisko finally looks up at O'Brien.  And off this moment...
+
+10   EXT. SPACE (OPTICAL)
+
+	Terok Nor (the Mirror Universe's equivalent of Deep Space 
+	Nine) in orbit around Bajor.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT ONE       9.
+
+11   INT. KIRA'S QUARTERS
+
+	The mirror KIRA is lounging on floor cushions, her back 
+	cradled against the muscular chest of a handsome young Terran 
+	slave.  Her Vulcan Eunuchs fan her while the slave feeds 
+	her delicate morsels of food with his hands.  A second slave, 
+	this one female, is sitting on the other side of her, holding 
+	a bowl of food.
+
+					KIRA
+			Delectable.
+
+	Kira slowly turns her head and the female slave reaches out 
+	and delicately wipes Kira's lips with a napkin.  Kira gives 
+	her a soulful smile.
+
+					KIRA
+			And so are you.
+
+	But before Kira can elaborate, the door chimes.  Kira's been 
+	expecting this.  She smiles.
+
+					KIRA
+			Enter.
+
+	The door opens and...
+
+12   NEW ANGLE
+
+	A Terran woman ENTERS.  It's Sisko's wife, JENNIFER.  She's 
+	dressed severely and has a solemn, taciturn disposition.
+
+					JENNIFER
+			Mister Garak said you wanted to see 
+			me?
+
+					KIRA
+			That's right... Come... join us.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT ONE      10.
+
+12  CONTINUED:
+
+	But Jennifer stays where she is.
+
+
+					JENNIFER
+			If you're wondering when the new 
+			sensor array will be finished, the 
+			answer is--
+
+					KIRA
+				(finishing for her)
+			As soon as possible.  I know.
+
+					JENNIFER
+			Will that be all?
+				(off Kira's reaction)
+			I have to get back to work.
+
+	Kira stands up and approaches Jennifer.
+
+					KIRA
+			I have news about your husband.
+
+					JENNIFER
+			Nothing you could tell me about Ben 
+			would interest me.  I haven't even 
+			seen him in five years.
+
+					KIRA
+			I know that.  And I hope that will 
+			make this easier for you.  You see... 
+			Benjamin is dead.
+
+	Jennifer betrays no feeling whatsoever.
+
+					JENNIFER
+			Can I go now?
+
+					KIRA
+			You must've loved him very much to 
+			be so angry with him.  To have 
+			become... so cold.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT ONE      11.
+
+12  CONTINUED:	(2)
+
+					JENNIFER
+			Were other Terrans killed with him?
+
+					KIRA
+			A whole ship full.
+
+	Now we see a sense of sadness in Jennifer.
+
+					JENNIFER
+			All this killing.  It has to stop.
+
+					KIRA
+			And it will.  As soon as you complete 
+			your transpectral sensors.  Once we 
+			locate the rebel bases, we can disarm 
+			them and put an end to all this 
+			bloodshed.  And I can resume pressing 
+			the Alliance to be more reasonable 
+			to its Terran population.
+
+	Jennifer clearly doesn't have much hope for that, but ending 
+	the Rebellion is reason enough for her to continue her 
+	project.
+
+					KIRA
+				(continuing)
+			You do believe me, don't you?
+
+	Kira smiles warmly at Jennifer.
+
+13   EXT. SPACE (OPTICAL)
+
+	The Raider maneuvers through a Badland plasma storm.
+
+14   INT. RAIDER - CORRIDOR
+
+	The Mirror O'Brien escorts Sisko back to the transporter.  
+	Sisko is now dressed like his Mirror Universe counterpart.  
+	They pass some crewmembers, who salute him.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         12.
+
+14  CONTINUED:
+
+					SISKO
+			So it's agreed.  I help you get 
+			Jennifer away from the Alliance, 
+
+			then you send me home.
+
+					O'BRIEN
+			You get us Jennifer and we'll do 
+			anything you want.  I just hope you 
+			can convince her to leave Terok Nor.
+
+					SISKO
+			I don't understand what she's doing 
+			helping the Alliance in the first 
+			place.  I mean, didn't she know Sisko 
+			was leading the Rebellion?
+
+					O'BRIEN
+			Oh, she knew.
+				(a beat)
+			The truth is... She and Captain Sisko 
+			didn't get along too well.  But then 
+			again, the captain didn't really get 
+			along with anyone.
+
+15   NEW ANGLE
+
+	They reach the transporter pad.
+
+					O'BRIEN
+			In some ways I think the rebellion's 
+			better off without him.  Don't get 
+			me wrong, the captain knew how to 
+			fight... but that's about all he 
+			knew.
+
+	O'Brien sets up the transporter.
+
+					O'BRIEN
+			Ready?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         13.
+
+15  CONTINUED:
+
+					SISKO
+			You don't look very confident, 
+			Chief...
+
+					O'BRIEN
+			You better start calling me Smiley.  
+			That's what the Captain called me.
+
+					SISKO
+			All right... "Smiley."
+
+					O'BRIEN
+			I just wish we had more time to get 
+			you ready.  I probably haven't told 
+			you half of what you need to know.  
+			I hope you don't run up against too 
+			many surprises.
+
+	Sisko steps onto the transporter pad.
+
+					SISKO
+			If I do, I guess I'll just have to... 
+			improvise.
+
+	Sisko smiles.  O'Brien joins Sisko on the pad and they beam 
+	out.
+
+16   INT. CAVES - MAIN CHAMBER
+
+	The central meeting hall for Sisko's group of rebels.  There 
+	are a number of familiar faces in the crowd.  One or two 
+	supernumeraries we've seen before on Deep Space Nine, the 
+	scarred privateer from "CROSSOVER," and a hardened, heavily
+	armed professional soldier named ROM.
+
+	The rebels are in the middle of a vociferous argument, with 
+	one faction lead by JULIAN BASHIR and the other by TUVOK, 
+	the Vulcan from "VOYAGER."  They're a stark contrast in 
+	styles.  Tuvok is a coldly logical soldier, and Bashir's a 
+	hothead with a scruffy four days growth of beard and a 
+	permanent bad attitude.
+
+					BASHIR
+				(to all)
+			I told Sisko he'd never get close to 
+			Terok Nor, and I was right.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/03/95 - ACT ONE      14.
+
+16  CONTINUED:
+
+					ROM
+			I say we teach the Alliance a lesson.  
+			Throw everything we've got at Terok 
+			Nor and rip it to pieces.
+
+					TUVOK
+			I disagree.  Following your suggestion 
+			would do nothing to enhance our goals 
+			and would result in a significant 
+			loss of life.
+
+					ROM
+			That's easy for you to say.  Those 
+			Cardassian pigs didn't kill your 
+			brother.
+
+					TUVOK
+			We have all suffered losses at the 
+			hands of the Alliance.  Nonetheless, 
+			logic dictates caution in the face 
+			of a superior enemy.
+
+					ROM
+			Logic isn't going to win us our 
+			freedom.  We have to take action.
+
+					BASHIR
+			And we will.  But this time we do it 
+			my way.
+
+					TUVOK
+			And what do you propose we do?
+
+					BASHIR
+			We smuggle explosives on board the 
+			station, plant them in her quarters, 
+			and detonate them.
+
+					TUVOK
+			You realize it's highly unlikely 
+			that anyone assigned to such a mission 
+			would survive.
+
+					BASHIR
+			I say it's worth the risk.
+
+					SISKO (O.S.)
+			Does that mean you're volunteering 
+			for the job?
+
+	Rom, Tuvok, and the other Rebels turn in surprise at the 
+	sound of Sisko's voice.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         15.
+
+17   NEW ANGLE
+
+	To reveal Sisko, ENTERING with a swagger, flanked by O'Brien 
+	and Bashir.  The rebels react with surprise and happiness at 
+	Sisko's arrival.
+
+					REBELS
+				(ad lib)
+			Captain... You're back... Where have 
+			you been... Captain Sisko...
+
+					ROM
+			Captain, you're alive.
+
+	For a beat, Sisko's a little taken aback at seeing the mirror 
+	counterparts of Rom and Bashir.  O'Brien, seeing Sisko's 
+	hesitation, steps in.
+
+					O'BRIEN
+			Of course he's alive.  You can't 
+			kill the Captain.  He's too ornery 
+			to die.
+
+	Sisko picks up on O'Brien's cue and snaps into the Captain 
+	Sisko role.
+
+					SISKO
+				(re: Bashir)
+			I hope I haven't disappointed anyone.
+
+					BASHIR
+				(with some reluctance)
+			We're glad you're all right.
+
+					SISKO
+			I'm sure you are.
+
+					TUVOK
+			We heard your fighter had been 
+			destroyed.  The Alliance said you 
+			were dead.
+
+					SISKO
+			Just their propaganda machine, working 
+			overtime.  But you know what that 
+			tells me?
+				(smiles)
+			They're scared.
+
+	The smiles and affirmations from the crowd show that they 
+	agree with him.  Sisko's only been back a few seconds, and 
+	he's already got them in the palm of his hand.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE        15A.
+
+17  CONTINUED:
+
+					SISKO
+			And we're going to give them plenty 
+			of reasons to stay scared.
+
+	Just then someone pushes through the crowd toward Sisko.  
+	It's JADZIA DAX.
+
+					DAX
+			It's about time you came back.
+
+	This Dax is an aggressive rebel leader, even more roguish 
+	than her counterpart in our universe.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         16.
+
+17  CONTINUED:	(2)
+
+					SISKO
+				(covering his surprise)
+			Jadzia.
+
+	She pushes her way toward him, throws her arms around his 
+	neck, and gives him a passionate kiss.
+
+					DAX
+			That's to let you know I missed you.
+
+	Dax then steps back and slaps Sisko across the face.
+
+					DAX
+			And that's for letting me think you 
+			were dead.
+
+	Sisko smiles and rubs his cheek.
+
+					SISKO
+			Glad to see you still care.
+
+	Dax smiles, then turns and walks away.  She looks back at 
+	Sisko.
+
+					DAX
+			You coming or not?
+
+	All the rebels grin as Dax walks out of the room.  The scarred 
+	privateer gives Sisko a man-bonding pat on the back.  Sisko 
+	takes O'Brien aside.
+
+					SISKO
+				(sotto voce)
+			I thought you said I was married.
+
+					O'BRIEN
+			You are... technically.  She's your 
+			mistress.
+
+					SISKO
+			I see what you meant by surprises.
+
+	And as Sisko tries to decide what to do next, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT TWO      17.
+                            ACT TWO                             
+
+	FADE IN:
+
+18   INT. CAVES - PRIVATE CHAMBER
+
+	Dax pushes aside a tapestry hanging in front of a tunnel and 
+	ENTERS a small cavern room that's been converted into a 
+	private sleeping area.  She turns to the entranceway and as 
+	Sisko ENTERS, she pulls off her shirt, leaving only her 
+	undershirt.  She's very matter-of-fact and obviously 
+	comfortable with Sisko.  They've been here before.
+
+					DAX
+			I really am glad you're alive.
+
+	She walks over to him and begins unbuttoning his shirt.
+
+					DAX
+			And I'm going to make you glad you're 
+			alive, too.
+
+	He grabs her wrists as if to stop her.
+
+					SISKO
+			We have a lot of planning to do.
+
+	Dax looks at him like he's insane.
+
+					DAX
+			It can wait.
+
+	Sisko realizes he's in danger of blowing his cover.  There's 
+	no way out of this; he has to play his part.  He lets go of 
+	her wrists.
+
+					SISKO
+			I suppose it can at that.
+
+	And as she smiles and presses up against him...
+
+									CUT TO:
+
+19   INT. INTENDANT'S OFFICE
+
+	Kira disdainfully hands Garak a PADD.
+
+					KIRA
+			These progress reports are 
+			unacceptable.  Productivity in the 
+			Ore Processing Center is down fifteen 
+			percent.  We've got to do better.
+				(glares at him)
+			Or are you purposely trying to make 
+			me look bad to Sector Command?
+
+   DEEP SPACE: "Through... Glass" - REV. 02/02/95 - ACT TWO 17-18.      
+
+19  CONTINUED:
+
+					GARAK
+			Not at all.  I've done everything I 
+			can think of to motivate the workers.
+
+					KIRA
+			Such as?
+
+					GARAK
+			Bribes... torture... I've even given 
+			the overseers permission to execute 
+			any worker who's not meeting the 
+			quota.
+
+					KIRA
+			I'm sure that pleases the overseers, 
+			but it's not getting the job done.
+				(thinks a beat, then... )
+			Come with me.
+
+	She EXITS.  He follows her.
+
+20   OMITTED 
+
+21   INT. ORE PROCESSING CENTER (OPTICAL)
+
+	As hellish and dark as when we saw it in "CROSSOVER." Terran 
+	laborers work in terrible conditions to process the dirty 
+	ore.
+
+	Kira and Garak ENTER, and are immediately joined by a 
+	Cardassian overseer and two Bajoran guards.  Kira looks around 
+	at the hellish squalor, then points at three random workers.
+
+					KIRA
+			Lets start with...
+				(pointing at each)
+			Him, him, and her.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO         20.
+
+21   CONTINUED:
+
+					GARAK
+			And do what?
+
+					KIRA
+			Execute them.
+				(off his reaction)
+			I think you'll find that random and 
+			unprovoked executions will keep your 
+			entire workforce alert and motivated.
+
+	There's a beat as Garak reflects on these words of wisdom.
+
+					GARAK
+				(smiles)
+			I bow to your brilliance.
+
+	Garak turns to the overseer and his assistants, who begin 
+	rounding up the victims.
+
+					GARAK
+				(continuing, to Kira)
+			Though I hope your mood improves 
+			before we run out of workers.
+
+					KIRA
+			What does my mood have to do with 
+			anything?
+
+					GARAK
+			If you don't mind my saying so, I 
+			have noticed a certain amount of ill-
+			humor on your part lately.
+
+					KIRA
+			I don't know what you're talking 
+			about.
+
+					GARAK
+			As I recall, it began about the time 
+			you learned of Captain Sisko's death.
+
+					KIRA
+			Why would I be upset by such 
+			delightful news?
+
+					GARAK
+			I was always under the impression 
+			that you were rather fond of him.
+
+					KIRA
+			Then you were mistaken.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/03/95 - ACT TWO      21.
+
+21   CONTINUED:	(2)
+
+					GARAK
+			I will say one thing for him.  He 
+			had spirit.
+
+					KIRA
+			Too much spirit can be a dangerous 
+			thing.  It tends to infect others.
+
+	In the background, the overseer finishes rounding up the 
+	workers chosen by Kira.
+
+					GARAK
+			At least that's something we won't 
+			have to worry about anymore.  With 
+			Sisko's death, and the imminent 
+			completion of the transpectral sensor 
+			array, the Rebellion is certain to 
+			collapse.
+
+					KIRA
+			You sound very sure of yourself.
+
+					GARAK
+			I am.
+
+					KIRA
+			I'll remember that.  That way if the 
+			Rebellion continues, I'll know who 
+			to blame.
+
+	In the background, the guards execute the workers.  Kira 
+	EXITS.
+
+22   INT. CAVES - PRIVATE CHAMBER
+
+	Dax is lounging on the sleeping cushion.  Sisko is studying 
+	a PADD.
+
+					SISKO
+			Are you sure these Alliance patrol 
+			patterns are accurate?
+
+					DAX
+			You tell me.  You're the one who 
+			gathered the information.
+
+					SISKO
+				(covering)
+			Oh, that's right.
+
+					DAX
+			Are you okay?  You seem distracted.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO        21A.
+
+22   CONTINUED:
+
+					SISKO
+			Just thinking.
+
+					DAX
+			I've been thinking, too.  You know, 
+			we've been fighting against the 
+			Alliance for almost a year now.  And 
+			what has it gotten us?  Nothing.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/02/95 - ACT TWO      22.
+
+22   CONTINUED:	(2)
+
+					DAX (Cont'd)
+				(a beat)
+			Sometimes I feel we were better off 
+			when we were collecting tribute for 
+			the Intendant.
+
+					SISKO
+			Those days are gone.
+
+					DAX
+			Maybe... but I'm tired of living 
+			like this.  The rebellion's a lost 
+			cause and we both know it.
+
+					SISKO
+			Don't you want to see the Terrans 
+			gain their freedom?
+
+					DAX
+			Have you taken a good look at your 
+			troops lately?  They're nothing but 
+			ex-slaves with delusions of grandeur.  
+			They'll never overthrow the Alliance.
+				(urgent)
+			Let's just take a ship and go... 
+			Forget all about the rebellion.
+
+					SISKO
+			I'm not ready to give up just yet.
+
+					DAX
+			It's not like you're going to have 
+			much of a choice... once that witch 
+			you married finishes her new sensor 
+			array, Alliance ships are going to 
+			be all over these Badlands.  We'll 
+			have no place to hide.
+
+					SISKO
+			Then I suppose we'd better make sure 
+			she doesn't finish.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/02/95 - ACT TWO      23.
+
+23   INT. CAVES - MAIN CHAMBER
+
+	Sisko has gathered together his lieutenants for a strategy 
+	session.  In addition to O'Brien, Dax, and Bashir, Rom and 
+	Tuvok are also present.
+
+					SISKO
+			Trying to reach Terok Nor using small 
+			fighters didn't work.  But we need 
+			to get Jennifer off that station, 
+			and we need to do it soon.
+
+					BASHIR
+			We've been meaning to talk to you 
+			about that.
+
+					TUVOK
+			Mister Bashir is not convinced that 
+			you can persuade your former mate to 
+			join our cause.
+
+					SISKO
+			I can be very persuasive.
+
+					BASHIR
+			Look, I don't even know why we're 
+			bothering to discuss this.  The 
+			Cardassians destroyed your ship before 
+			you even got close to Terok Nor.
+
+			BASHIR					O'BRIEN
+		(overlapping				(overlapping, 
+		with O'Brien)				aside to Sisko)
+	And even if you had made 		Hit him.
+	it there, there was no				(off reaction)
+	guarantee you could've 			That's what the Captain 
+	convinced your wife of 			would do.
+	anything.						(pushing)
+		(a beat)				Go on, hit him.
+	Let's face it, Captain, the 
+	woman hates you.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO         24.
+
+23   CONTINUED:
+
+	Without missing a beat, Sisko decks Bashir.  Bashir lands 
+	on his butt.  Everyone smiles like this is an everyday 
+	occurrence.  Sisko stands over Bashir.
+
+					SISKO
+			What my wife thinks of me is no 
+			concern of yours.
+
+	Dax draws her phaser and casually looks around the room.
+
+					DAX
+			Anyone else want to disagree with 
+			the captain?
+
+					SISKO
+			Put it away, Dax.
+				(off her surprised 
+				look)
+			Go on, put it away.
+
+	Bashir seems emboldened by this more reasonable Sisko.
+
+					BASHIR
+			No one's questioning your authority, 
+			Captain.  But we've got to stop your 
+			wife before she finishes that sensor 
+			array.
+
+					ROM
+			And there's only one sure way to do 
+			that.
+
+					BASHIR
+			We have to kill her.
+
+					O'BRIEN
+				(to Bashir)
+			You've been saying that all along.
+
+					BASHIR
+			And maybe it's time he listened.
+
+	Dax hates to agree with Bashir, but he does make sense.
+
+					DAX
+				(to Sisko)
+			Killing her would be a lot easier 
+			than trying to get her away from the 
+			Alliance.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT TWO      25.
+
+23   CONTINUED:	(2)
+
+					O'BRIEN
+			Easier... but not smarter.  If she's 
+			so important to the Alliance, think 
+			how important she'd be to us.  I 
+			mean, we could use a scientist on 
+			our side.
+
+					SISKO
+			You tell them, Smiley.  At least 
+			someone here is using their brain.
+
+					O'BRIEN
+			Think about it.  Who knows what other 
+			weapons the Alliance is developing.  
+			Someone like Professor Sisko could 
+			counteract anything they come up 
+			with.
+
+					SISKO
+			She's valuable to us.  We need her.
+				(a beat, glowering)
+			Now, does anyone disagree?
+
+	No one has a problem.
+
+					SISKO
+			Good, then let's get to work.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT TWO      26.
+
+24   EXT. SPACE (OPTICAL)
+
+	Terok Nor.  Re-establishing.
+
+25   INT. KIRA'S QUARTERS
+
+	Kira is laying on a table, getting a massage from one of her 
+	Vulcan eunuchs while the other plays a traditional Vulcan 
+	harp.  Garak stands before her.  And next to Garak stands... 
+	Rom.
+
+					GARAK
+			Tell the Intendant what you told me.
+
+					ROM
+			It's about Captain Sisko.
+
+	This gets Kira's attention.
+
+					KIRA
+			Sisko?
+
+					ROM
+			He's alive.  He was able to get off 
+			his ship before it exploded.
+
+	Kira looks accusingly at Garak.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO         27.
+
+25   CONTINUED:
+
+					GARAK
+			I suppose it's possible.
+
+					ROM
+			It's more than possible.  It's true.
+				(grins evilly)
+			But I can tell you how to get your 
+			hands on him.  If you're interested.
+
+	Hold on Kira, looking very interested indeed.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        28.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. RAIDER - COCKPIT
+
+	O'Brien and Sisko are at the controls of the rebel ship.  
+	Sisko, now that he's alone with O'Brien, has dropped the 
+	Captain Sisko persona.  O'Brien looks apprehensive.  He 
+	scratches behind his ear.
+
+					SISKO
+			Don't do that.
+
+					O'BRIEN
+			I can't help it.  It itches.
+				(scratches a little)
+			I hope this works.
+
+					SISKO
+			It'll work.  Just stop scratching.
+
+	O'Brien forces himself to stop scratching behind his ear.
+
+					O'BRIEN
+			You know, you did pretty good back 
+			there.  I don't think anyone suspected 
+			you weren't Captain Sisko.
+				(a beat)
+			At least not once you hit Bashir.
+
+					SISKO
+			But you and I both know that was 
+			just a warm up.  Jennifer's the one 
+			I really have to convince.
+
+					O'BRIEN
+			I guess seeing her isn't going to be 
+			easy for you.  How long's it been 
+			since your wife died?
+
+					SISKO
+			Five years.
+
+					O'BRIEN
+			Well just remember... Jennifer may 
+			look like your wife, but she's not.  
+			She's a different person.
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        29.
+
+26   CONTINUED:
+
+					SISKO
+			I'll try to remember that.
+				(a beat)
+			Do you have any idea what went wrong 
+			between her and Captain Sisko?
+
+					O'BRIEN
+			From what I heard, they never 
+			should've been together in the first 
+			place.  I mean she came from one of 
+			the few privileged Terran families, 
+			people who "cooperated" with the 
+			Alliance, and the captain... he fought 
+			his way up from the mines.
+
+					SISKO
+			So what's she like, this Jennifer?
+
+					O'BRIEN
+			I wouldn't know.  They separated 
+			before I met the captain.
+				(a beat)
+			What was your Jennifer like?
+
+					SISKO
+			She was the kindest, most caring 
+			person I ever knew.
+
+					O'BRIEN
+				(a word of advice)
+			I wouldn't get my hopes up.
+
+	Suddenly O'Brien reacts to something on the panel.
+
+					O'BRIEN
+				(continuing, off 
+				console)
+			Hold on.  I'm reading a slight energy 
+			distortion in subspace.
+
+	This obviously means something to Sisko.
+
+					SISKO
+			What are the coordinates?
+
+					O'BRIEN
+				(alarmed)
+			It's coming from all around us.
+
+	Just then...
+
+      DEEP SPACE: "Through... Glass" - REV. 02/10/95 - ACT THREE     30.
+
+27   EXT. SPACE (OPTICAL)
+
+	A Cardassian and a Klingon ship uncloak, surrounding the rebel 
+	ship.
+
+28   INT. RAIDER - COCKPIT
+
+	Sisko and O'Brien know there isn't much hope for escape.
+
+					O'BRIEN
+			You know, Captain Sisko would've 
+			tried to fight his way out of this.
+
+					SISKO
+			Be glad I'm not him.
+
+	And as they await their fate...
+
+									CUT TO:
+
+29   INT. TEROK NOR - AIRLOCK CORRIDOR
+
+	Kira, Garak and two Klingon Soldiers wait outside an airlock 
+	in the Docking Ring Corridor.  Kira is like a coiled spring.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/10/95 - ACT THREE     31.
+
+29   CONTINUED:
+
+	The airlock door rolls open and Sisko and O'Brien ENTER, 
+	flanked by three Bajoran soldiers.
+
+					KIRA
+			Well, if it isn't the notorious 
+			"Captain" Sisko and his friend the 
+			Tinkerer.
+
+	Before anyone can prevent it, Sisko steps forward, takes 
+	Kira into his arms, and gives her a roguish kiss.
+
+					SISKO
+			It's good to see you, too, Intendant.
+
+					KIRA
+			Still the same old Benjamin.
+
+					SISKO
+			You wouldn't have me any other way.
+
+					KIRA
+			Perhaps not.  But I'm still going to 
+			kill you.
+
+					SISKO
+			Maybe.  But not right away.
+
+					KIRA
+			You flatter yourself.
+
+					SISKO
+			Not unjustly, I hope.
+
+					GARAK
+				(to Kira)
+			Intendant, let me teach him some 
+			manners.
+
+					KIRA
+			All in good time.
+				(a beat)
+			But first, whatever shall we do 
+			about O'Brien?
+				(approaches him)
+			I remember when I first saw you, 
+			Tinkerer.  You were fixing something.
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        32.
+
+29   CONTINUED:	(2)
+
+	O'Brien just averts his eyes.  Being in Kira's presence 
+	has made him revert to the same downtrodden slave we saw in 
+	"CROSSOVER."
+
+					KIRA
+			You were always fixing things... 
+			making things better.  And everyone 
+			loved you for it.
+				(a beat)
+			Even me.
+				(hardens)
+			But that wasn't enough for you, was 
+			it?  You couldn't be happy, staying 
+			here, being loved.  You had to lash 
+			out, to betray everyone who was ever 
+			good to you.  Why?
+
+	O'Brien finally looks her in the eye.
+
+					O'BRIEN
+			I wanted to be free.
+
+					KIRA
+			Free?
+				(cold)
+			You're a Terran.  You were born a 
+			slave.  And you'll die a slave.
+				(to a guard)
+			Take him to ore processing.  Remind 
+			him where he belongs.
+
+	One of the Bajoran soldiers escorts O'Brien away.
+
+					GARAK
+			What about Sisko?
+
+	Kira thinks about it for a beat, then...
+
+					SISKO
+				(to Garak)
+			Bring me to the Intendant's quarters.  
+			She'll decide what to do with me.
+
+	Garak loses his cool.
+
+					GARAK
+			Of all the impudent...
+
+					KIRA
+				(interrupting)
+			Do as he says.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE     33.
+
+					GARAK
+			Intendant.  I demand you...
+
+	Garak trails off.
+
+					KIRA
+			You... "demand?"
+
+	Garak realizes he's overstepped his bounds.
+
+					GARAK
+				(almost whining)
+			But you promised me he'd die.
+
+					KIRA
+			And he will... When I say so, and 
+			not a moment sooner.
+
+	Kira turns and walks away.  Sisko turns to Garak and gestures 
+	that they should follow her.
+
+					SISKO
+			Shall we?
+
+					GARAK
+				(with contempt)
+			After you.
+
+30   INT. KIRA'S QUARTERS
+
+	Sisko's kicking back in one of the couches, looking like he 
+	doesn't have a care in the world.  Kira studies him.
+
+					KIRA
+			I really don't know what to do with 
+			you.
+
+					SISKO
+			I sympathize.  It's a difficult 
+			decision.
+				(smiles)
+			But you'll come up with something.
+
+					KIRA
+			The only reason I can think of to 
+			keep you alive is to infuriate Garak.
+
+					SISKO
+			What better reason do you need?
+
+  DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE 34-35.     
+
+30   CONTINUED:
+
+					KIRA
+			Suppose I let you live... What would 
+			I get from you in return?
+
+					SISKO
+			What do you want?
+
+					KIRA
+			Your loyalty.  That's all I've ever 
+			wanted.  For you to be at my side... 
+			to be my strong right hand.  But I'm 
+			afraid I'll never be able to trust 
+			you again.
+				(making a decision)
+			Which means I'll have to dispose of 
+			you eventually.  The only question 
+			is, should it be sooner, or later.
+
+					SISKO
+			Do I get a vote?
+
+					KIRA
+			Of course you do.
+				(a beat)
+			It just doesn't count.
+
+	She looks at him, weighing her options.
+
+					KIRA
+			I'd better think this over.
+
+					SISKO
+			You will let me know what you decide?
+
+					KIRA
+			I wouldn't dream of keeping it a 
+			secret.
+
+31
+thru   OMITTED 
+32
+
+33   EXT. SPACE (OPTICAL)
+
+	Terok Nor.  Re-establishing.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE     36.
+
+34   INT. GUEST QUARTERS
+
+	Sisko is seated in some sparsely furnished guest quarters, 
+	probably wondering exactly how he let himself get into this 
+	situation.
+
+	The door opens and Garak ENTERS with Jennifer.  For a second, 
+	upon seeing Jennifer, Sisko's composure cracks and he drops 
+	his role.
+
+					SISKO
+			Jennifer.
+
+					JENNIFER
+				(cold)
+			Hello, Ben.
+				(to Garak)
+			Please leave us.
+
+					GARAK
+			And miss this happy reunion?
+
+					SISKO
+			You heard her.
+
+	Garak considers mixing it up with Sisko, then thinks better 
+	about it.
+
+					GARAK
+				(to Jennifer)
+			If you need someone to beat him into 
+			submission for you, don't hesitate 
+			to call me.
+
+	Garak EXITS.
+
+35   NEW ANGLE
+
+	On Jennifer and Sisko.
+
+					JENNIFER
+			All right, I'm here.  What did you 
+			want to see me about?
+
+					SISKO
+			I was hoping we could talk.
+
+					JENNIFER
+			Really?  You never seemed interested 
+			in talking to me when we were married.
+
+					SISKO
+			I made a lot of mistakes back then.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE    36A.
+
+35   CONTINUED:
+
+					JENNIFER
+			Save the apologies Ben.  They're not 
+			going to work.  You are without a 
+			doubt, the most insensitive, self-
+			absorbed, egotistical...
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        37.
+
+35   CONTINUED:	(2)
+
+					SISKO
+				(interrupting)
+			You've made your point.
+
+					JENNIFER
+			I doubt it.  You never listened to 
+			me before.  You were too busy trying 
+			to impress every woman who crossed 
+			your path.
+
+					SISKO
+			Where there really that many?
+
+	Her look says there were.
+
+					JENNIFER
+			There were enough.
+				(a beat)
+			And if it wasn't women, it was that 
+			ship of yours.  Sometimes I think it 
+			was the only thing you ever loved.
+
+					SISKO
+			Maybe I loved you both.
+
+					JENNIFER
+			Then why did you leave me to run off 
+			and play pirate for the Intendant?
+
+					SISKO
+			That's a good question.
+
+					JENNIFER
+			And now this Rebellion of yours.
+				(a beat)
+			Do you know how many deaths you've 
+			caused?  How much destruction?
+
+					SISKO
+			I'm fighting to help free our people.
+
+					JENNIFER
+			You're fighting because you like to 
+			fight, Benjamin.
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        38.
+
+35   CONTINUED:	(3)
+
+					JENNIFER
+			All you've accomplished is to give 
+			the Alliance an excuse to treat the 
+			Terrans even worse than before.
+				(a beat)
+			I only hope that with your capture, 
+			the Rebellion can be ended peacefully.
+
+					SISKO
+			Who said I'd been captured?
+
+					JENNIFER
+			Oh, I suppose you came here just to 
+			see me?
+
+					SISKO
+				(with simple sincerity)
+			Actually, I came here to rescue you.
+
+	And on Jennifer's surprised reaction, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   INT. GUEST QUARTERS (CONTINUOUS)
+
+	As before.  Jennifer reacts to Sisko's statement.
+
+					JENNIFER
+			Rescue me?
+
+					SISKO
+			That's what I said.
+
+					JENNIFER
+			I'm not going anywhere with you.
+
+					SISKO
+			You can't stay here.
+
+					JENNIFER
+			I have a job to finish.
+
+					SISKO
+			You mean the sensor array?
+
+					JENNIFER
+			That's right.
+
+					SISKO
+			Jennifer, if you finish that array 
+			you'll destroy any hope our people 
+			have for a better future.  I don't 
+			think you want that.
+
+					JENNIFER
+			All I want is to put an end to all 
+			this fighting.  To force the rebels 
+			to seek a peaceful settlement with 
+			the Alliance.
+
+					SISKO
+			It's not that simple.  The Alliance 
+			isn't interested in a peaceful 
+			settlement.  If we lay down our arms, 
+			we'll be killed.
+
+					JENNIFER
+			The Rebellion is killing people every 
+			day.  It has to stop.
+
+					SISKO
+			Not this way.  Not with the Terrans 
+			still at the mercy of the Alliance.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        40.
+
+36   CONTINUED:
+
+					SISKO
+				(a beat)
+			They're your own people, Jennifer.
+
+					JENNIFER
+			You've got no right to talk to me 
+			like that.  Since when do you care 
+			about what happens to "our           
+			people?"  You've never cared about 
+			anyone but yourself.
+
+	But to Jennifer's surprise, this doesn't get a rise out of 
+	Sisko.
+
+					SISKO
+			Maybe I've changed in the past few 
+			years.
+
+					JENNIFER
+				(a bitter smile)
+			How many times have I heard you say 
+			that?
+
+	A beat as Sisko realizes just how deeply hurt Jennifer must 
+	have been by the other Sisko.
+
+					SISKO
+			I guess I was a pretty lousy husband.
+
+					JENNIFER
+				(with an edge)
+			You guess?
+
+					SISKO
+			Look, I know it's too late for an 
+			apology...
+
+					JENNIFER
+				(jumping in)
+			You're right about that.
+
+					SISKO
+			But for what it's worth, I'm sorry.
+
+	Jennifer looks at Sisko in surprise.
+
+					SISKO
+			What is it?
+
+					JENNIFER
+			For a second, I almost believed you.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        41.
+
+36   CONTINUED:	(2)
+
+	Jennifer turns away from Sisko and stares off into the 
+	distance.
+
+					JENNIFER
+			You know what I wish?
+				(off his look)
+			I wish I'd never met you.
+
+					SISKO
+			And I wish things could've been better 
+			between us.  But this isn't about 
+			us.
+
+	Sisko pauses as he realizes something.
+
+					SISKO
+			Or is it?
+				(off her reaction)
+			Why are you working for the Alliance?  
+			Is it because you believe in what 
+			they're doing or is it something 
+			else?
+
+					JENNIFER
+			I don't know what you're talking 
+			about.
+
+					SISKO
+			I think you and I have been fighting 
+			each other for so long that you've 
+			gotten used to us being on opposite 
+			sides.  But I'm not the enemy this 
+			time, Jennifer.  The Alliance is.
+
+					JENNIFER
+			The Alliance is your enemy.  Not 
+			mine.
+
+					SISKO
+			That's where you're wrong.  Don't 
+			you see, you're no different than 
+			the slaves working in the Ore 
+			Processing Center.  In fact, you 
+			might be even worse off.  At least 
+			they know they're prisoners.
+
+	This time Sisko's gotten through to her.  Jennifer deflates 
+	a little.
+
+					JENNIFER
+			And what if I am a prisoner?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR       41A.
+
+36   CONTINUED:	(3)
+
+					SISKO
+			You don't have to be.  You can fight 
+			back.  Come with me, Jennifer.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        42.
+
+36   CONTINUED:	(4)
+
+					JENNIFER
+			You want me to join the Rebellion.
+
+					SISKO
+			The way I see it... Freedom is a lot 
+			better than slavery.
+
+	Jennifer looks appraisingly at Sisko for a long beat, but 
+	she still can't come to a decision.
+
+					SISKO
+			Think about it.
+
+	Sisko presses a spot behind his ear, three times in rapid 
+	succession.
+
+					JENNIFER
+			What are you doing?
+
+					SISKO
+			Sending a message.
+
+					JENNIFER
+				(surprised)
+			You've got a subdermal communicator?
+
+					SISKO
+			Courtesy of the Ferengi.  I hope it 
+			works.
+
+37   INT. ORE PROCESSING CENTER
+
+	O'Brien labors in the Ore Processing Center, carting ore 
+	into the smelter.  A Cardassian Overseer keeps a watchful 
+	eye on the workers.  As O'Brien passes close to the Overseer, 
+	he reaches behind his ear and touches the spot he was 
+	scratching earlier.  He smiles.
+
+					O'BRIEN
+				(to himself)
+			Took him long enough.
+
+	O'Brien moves to another part of the processing area.  Once 
+	he's out of sight of the Overseer, he goes to an access panel 
+	and pops it open.
+
+	O'Brien begins working on the circuitry inside the panel, 
+	when someone approaches him from behind.
+
+					CARDASSIAN OVERSEER
+			Terran, what are you doing down there?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        43.
+
+37   CONTINUED:
+
+					O'BRIEN
+			Re-routing the central ODN processor.  
+			Intendant's orders.
+
+	The Cardassian crouches down to get a better look at the 
+	panel.
+
+					CARDASSIAN OVERSEER
+			I don't recall receiving clearance 
+			for any repairs.
+
+	Suddenly, O'Brien lashes out and cold-cocks the Overseer.  
+	The Cardassian crumples to the ground.
+
+					O'BRIEN
+			You don't say?
+
+	O'Brien turns back to the panel and triggers something in 
+	the circuitry.  Suddenly the lights short out, things explode 
+	inside the ore processing equipment and the doors open.  
+	The workers and the two Bajoran guards stand around, not 
+	sure what's happening.
+
+38   NEW ANGLE (OPTICAL)
+
+	As O'Brien grabs the Overseer's phaser and shoots one of the 
+	Bajoran guards.  That wakes the workers up.  They begin 
+	swarming over the last guard, rapidly overwhelming them.
+
+					O'BRIEN
+				(addressing the workers)
+			All right, anyone who wants to get 
+			out of here, follow me.
+
+	O'Brien heads for the door, and with a cheer, the Terran 
+	workers follow him.
+
+39   INT. HABITAT RING CORRIDOR (OPTICAL)
+
+	Two Klingons stand guard in the corridor.  Suddenly the lights 
+	go down, and a half second later, the door opens and Sisko 
+	spins out.  The First Klingon barely has time to react before 
+	Sisko stops him cold with a one-two combination to the head.
+
+	The Second Klingon manages to draw his disruptor, but, before 
+	he can fire, Sisko retrieves the disruptor from the First 
+	Klingon and shoots the Second one.
+
+	As Jennifer ENTERS the corridor and looks at the unconscious 
+	Klingons, Sisko picks up the Second Klingon's disruptor.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        44.
+
+39   CONTINUED:
+
+	Jennifer stares at the weapons in Sisko's hands, almost 
+	as if she expects him to use them on her.
+
+					SISKO
+			I need an answer, Jennifer.  Are you 
+			coming with me or not?
+
+					JENNIFER
+			Do I have a choice?
+
+					SISKO
+			Of course you do.  If you want, you 
+			can go back to your quarters and 
+			forget we ever spoke.
+
+	She hesitates.  Sisko presses.
+
+					SISKO
+			It's up to you.
+
+	Jennifer thinks for a moment longer, then walks over to him.
+
+					JENNIFER
+			All right, but lets get one thing 
+			clear.
+
+					SISKO
+			What's that?
+
+					JENNIFER
+				(with a smile)
+			I still hate you.
+
+					SISKO
+				(with regret)
+			I know.
+
+	They head off together down the corridor.
+
+40   OMITTED
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        45.
+
+41   INT. HABITAT RING CORRIDOR
+
+	Sisko and Jennifer on the move.
+
+					JENNIFER
+			You still haven't told me where we're 
+			going.
+
+					SISKO
+			Airlock Seven.  There should be a 
+			ship waiting for us.  Providing we 
+			can get there before the security 
+			systems reactivate.
+
+	They turn a corner and almost run right into...
+
+42   THREE CARDASSIAN SOLDIERS (OPTICAL)
+
+	The Cardassians open fire.  Sisko and Jennifer duck back 
+	down the corridor.  A firefight ensues.  Sisko shoots one of 
+	the soldiers, but he and Jennifer are pinned down.
+
+					JENNIFER
+			Now what?
+
+      DEEP SPACE: "Through... Glass" - REV. 02/10/95 - ACT FOUR      46.
+
+					SISKO
+			I'll think of something.
+
+	Suddenly we hear the sound of more phaser fire.
+
+43   NEW ANGLE (OPTICAL)
+
+	To reveal O'Brien and the escaped Terrans coming up from 
+	behind the remaining Cardassian soldiers.  The two Cardassians 
+	are caught in a crossfire between Sisko and O'Brien and soon 
+	go down.
+
+					SISKO
+				(to Jennifer)
+			You see.  I told you I'd think of 
+			something.
+				(to O'Brien)
+			Good work, Smiley.
+
+					O'BRIEN
+			Yeah, but the problem is there's 
+			thirty more of them behind us.
+
+					SISKO
+			Then we'd better get to the airlock.
+
+	Sisko leads O'Brien, Jennifer and the rest of the Terrans 
+	away down a corridor.
+
+44   INT. AIRLOCK CORRIDOR
+
+	Sisko and the others move down the corridor.  They reach the 
+	airlock, only to stop in their tracks as they see Rom's dead 
+	body, hung spreadeagled across the airlock door.
+
+					JENNIFER
+			Something tells me that's not part 
+			of your plan.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        47.
+
+44   CONTINUED:
+
+	And as they all react to Rom's death, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+45   INT. AIRLOCK CORRIDOR - CONTINUOUS (OPTICAL)
+
+	As Sisko and the others react to Rom's dead body.
+
+					O'BRIEN
+			We better find another way out of 
+			here.
+
+					SISKO
+			Got any suggestions?
+
+	Just then, a hail of phaser fire comes from down the hall, 
+	hitting one of the slaves.
+
+					SISKO
+			Fall back.
+
+	Sisko and the Terrans move back around the opposite corner, 
+	so that they're out of the line of fire, just as...
+
+46   NEW ANGLE (OPTICAL)
+
+	Kira, Garak, and a squad of Alliance Guards appear from around 
+	the corner.  Kira signals the Guards and they hold their 
+	fire.
+
+					KIRA
+			That was very clever, Benjamin, having 
+			one of your own men betray you so 
+			you could get aboard the station.  
+			You had me totally fooled.  Luckily 
+			Mister Garak is somewhat more cynical 
+			than I.
+
+					GARAK
+			Your Ferengi friend told us your 
+			entire plan... with a little 
+			persuasion.
+
+					KIRA
+			I'm afraid there's no escape.  Your 
+			ship's locked down, your pilot's 
+			dead.  There's no way out.
+				(a beat)
+			You might as well surrender.
+
+47   ANGLE ON THE TERRANS
+
+	As they realize they're trapped.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        49.
+
+47   CONTINUED:
+
+					O'BRIEN
+			If we surrender, she'll kill us.
+
+					SISKO
+			Us, maybe, but not Jennifer.
+
+	Jennifer isn't about to let Sisko and the others sacrifice 
+	themselves for her.
+
+					JENNIFER
+			What if we offer a trade?  I stay 
+			here and she lets you live.
+
+48   ANGLE ON KIRA AND GARAK
+
+	As they wait to see what Sisko will do.
+
+					KIRA
+			Benjamin, you know how I hate to be 
+			kept waiting.
+
+	Kira signals to some of her men who move off in an attempt 
+	to flank Sisko.
+
+49   ANGLE ON SISKO'S GROUP
+
+	As Sisko makes a decision.
+
+					SISKO
+				(to Jennifer)
+			I came a long way to get you out of 
+			here, and I'm not leaving without 
+			you.
+
+	Jennifer stares at Sisko for a beat, puzzled.
+
+					SISKO
+			What is it?
+
+					JENNIFER
+			Nothing.
+
+	But she still continues to study Sisko.
+
+					SISKO
+				(thinking on his feet)
+			Smiley, how far is the Ore Processing 
+			Center?
+
+					O'BRIEN
+			Only a couple of levels away.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        50.
+
+49   CONTINUED:
+
+					SISKO
+			Take us there.
+
+					O'BRIEN
+				(doesn't see the point)
+			What for?
+
+					SISKO
+			I'll show you when we get there.
+
+	O'Brien nods.
+
+50   ANGLE ON KIRA
+
+	As she runs out of patience.
+
+					KIRA
+				(calling out)
+			Time's up, Benjamin...
+				(no response)
+			Benjamin?
+
+	Garak signals to the Guards who cautiously round the corner.  
+	We stay with Kira and Garak.  They listen for phaser fire, 
+	but when they don't hear any, they follow the Guards around 
+	the corner.
+
+51   NEW ANGLE
+	As Kira reacts to the fact that Sisko and the rest of the 
+	Terrans have retreated down a side corridor.
+
+					KIRA
+			He always has to make things 
+			difficult.
+
+					GARAK
+			It's one of his least endearing 
+			qualities.
+
+	Kira marches off down the corridor, followed by Garak and 
+	her soldiers.
+
+52   INT. HABITAT RING CORRIDOR (OPTICAL)
+
+	Sisko and the rest of the Terrans retreat down the corridor.  
+	The Terrans are slowed down because they have to help one of 
+	their injured members along.  Sisko brings up the rear, his 
+	stolen disruptor at the ready.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        51.
+
+52   CONTINUED:
+
+					SISKO
+			Hurry.  They're right behind us.
+
+	Sisko catches a glimpse of a Bajoran soldier.  He opens fire.  
+	The Bajorans return fire.
+
+53   INT. ORE PROCESSING CENTER (OPTICAL)
+
+	Under heavy phaser fire, the Terrans retreat into the Ore 
+	Processing Room.  One of them gets hit in the doorway.  Sisko, 
+	the last man in, drags the wounded Terran to safety.
+
+					SISKO
+				(shouting, to O'Brien)
+			Smiley, seal the doors.
+
+	But the room is full of phaser fire and O'Brien's having a 
+	tough time staying alive, let alone reaching the door 
+	controls.
+
+					O'BRIEN
+				(to himself)
+			Easy for you to say.
+
+	But O'Brien makes a lunge for the controls and the doors 
+	begin to seal.  With one last burst of energy, Sisko manages 
+	to get the wounded Terran inside the Processing Center just 
+	as the doors close behind him.
+
+	Sisko joins Jennifer.
+
+					SISKO
+				(to Jennifer)
+			I'll get you out of this, I promise.
+
+					JENNIFER
+				(simply)
+			I believe you.
+
+	A moment passes between them.  It's brief, but for the first 
+	time since Sisko met this Jennifer, some of her hard veneer 
+	slips away.
+
+	Sisko moves to a control panel, where he's joined by O'Brien.
+
+					O'BRIEN
+				(aside, to Sisko)
+			Captain, I don't know what you're up 
+			to, but there's no way out of this 
+			place except through that door.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        52.
+
+53   CONTINUED:
+
+					SISKO
+				(aside to O'Brien)
+			Don't worry.  I know what I'm doing.
+				(almost to himself)
+			I just hope your Terok Nor was 
+			designed by the same Cardassian who 
+			built my Terok Nor.
+
+	And as he works on the panel...
+
+54   INT. CORRIDOR
+
+	Kira, Garak and the rest of Kira's troops have arrived outside 
+	the Ore Processing Center doors.
+
+					KIRA
+				(to a soldier)
+			You're sure they're all in there?
+
+	The soldier nods.  Kira looks satisfied.
+
+					KIRA
+			Good.  Then we've got them.  Use the 
+			manual override to open the doors.
+
+					GARAK
+			Intendant, I trust this time you 
+			won't be so lenient with our dear 
+			Mister Sisko.
+
+					KIRA
+			Don't worry.  He's disappointed me 
+			for the last time.
+
+	Garak smiles.  That's what he wanted to hear.
+
+55   INT. ORE PROCESSING CENTER
+
+	As the doors open and Alliance troops rush in to find...
+
+56   NEW ANGLE
+
+	Sisko and the other Terrans standing there, waiting for them, 
+	with no weapons in sight.
+
+	Kira marches in with Garak at her side.  Kira surveys the 
+	Terrans and notices Jennifer.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        53.
+
+56   CONTINUED:
+
+					KIRA
+			Jennifer.  I was so worried about 
+			you.  But you're safe now.  In fact, 
+			I can assure you your husband will 
+			never annoy you again.
+
+	Kira holds out her hand to Jennifer, but Jennifer doesn't 
+	take it.
+
+					JENNIFER
+			Actually, for the first time since I 
+			met him, he's not annoying me.  In 
+			fact, he's been making a lot of sense.
+
+					KIRA
+			He can be persuasive when he wants 
+			to be.  I suppose that means you 
+			won't be finishing the sensor array.
+
+	Sisko looks to Jennifer to see what she will decide.  Jennifer 
+	catches his eye and gives him a slight smile.
+
+					JENNIFER
+				(a simple explanation)
+			I'm a Terran.
+
+	Kira nods.  It's like an iron door has been closed.  Any 
+	feelings she might have had for Sisko or Jennifer are gone.
+
+					KIRA
+				(to her troops)
+			Keep her alive.  Kill the others.
+
+	But before the soldiers can execute her orders, Sisko steps 
+	forward.
+
+					SISKO
+			I wouldn't.  You'd be making a 
+			mistake.
+
+					KIRA
+			My only mistake was not executing 
+			you in the first place.
+
+					SISKO
+			You don't know how right you are.
+				(points to a panel)
+			I've activated the station's self-
+			destruct sequence.  Unless I disarm 
+			it, this whole place will blow up 
+			in...
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        54.
+
+56   CONTINUED:	(2)
+
+	Sisko checks the readout on the panel.
+
+					SISKO
+			Nine minutes.
+
+					KIRA
+			That's impossible.  There's no way 
+			you could know the station's command 
+			access code.
+
+					SISKO
+			Alpha Nine One Seven Five Blue.
+
+	Judging from Kira's reaction, Sisko's right.
+
+					KIRA
+				(to com)
+			Computer, disengage self-destruct 
+			sequence.  Authorization Kira Alpha 
+			Nine One Seven Five Blue.
+
+					COMPUTER VOICE
+			Authorization denied.
+
+					SISKO
+				(playful)
+			I changed it.
+				(checks panel)
+			You've got eight minutes and thirty 
+			seconds to let us go.  Otherwise we 
+			all die.
+
+					GARAK
+			Don't listen to him.  He's bluffing.
+
+	Kira stares at Sisko for a long beat, taking his measure.  
+	Sisko returns her stare, unflinchingly.
+
+					KIRA
+			He's not bluffing.
+
+					GARAK
+			How do you know?
+
+					KIRA
+			I know.
+				(to Sisko)
+			Give me the new access code and I'll 
+			let you go.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        55.
+
+56   CONTINUED:	(3)
+
+					SISKO
+			You'll get the access code once my 
+			friends and I are safely away from 
+			the station.
+				(a beat)
+			Do we have a deal?
+
+	Kira looks at Sisko for a beat longer, then nods to the 
+	guards.  Sisko and the rest of the Terrans begin to walk 
+	out.  Kira stops Sisko for second.
+
+					KIRA
+			This isn't over Benjamin.  I'll hunt 
+			you down.  I swear it.
+
+					SISKO
+			You're welcome to try.
+
+	Once the last Terran has left the room, Sisko follows them 
+	out.
+
+57   EXT. SPACE (OPTICAL)
+
+	The Badlands.
+
+58   INT. CAVE CORRIDOR
+
+	Sisko is walking with Bashir and O'Brien, having just returned 
+	to the rebel encampment.
+
+					BASHIR
+			I still don't understand why you 
+			gave them the access code.  You 
+			could've gotten away and still 
+			destroyed the station.
+
+					SISKO
+			But we gave our word.
+
+					BASHIR
+			Our word.  Who gives a damn whether 
+			we keep our word?
+
+					O'BRIEN
+			I do.
+
+	Bashir is surprised by the air of conviction in O'Brien's 
+	voice.  The three of them ENTER...
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        56.
+
+59   INT. CAVES - MAIN CHAMBER
+
+	Where Jadzia and Jennifer are seated together talking quietly.  
+	We don't hear what they're saying.  Neither does Sisko as he 
+	walks up to them.
+
+					SISKO
+			I'm glad to see the two of you are 
+			getting along.
+
+					DAX
+			We have a lot in common.
+
+	All three of them know that she means Sisko.
+
+					DAX
+				(to Jennifer)
+			He's all yours.
+
+	Dax smiles to herself and EXITS.  O'Brien and Bashir realize 
+	Sisko wants to be alone with Jennifer, and they follow after 
+	Dax.
+
+60   CLOSE ON JENNIFER AND SISKO
+
+	Jennifer studies Sisko's face.
+
+					JENNIFER
+			Dax tells me you're leaving.
+
+					SISKO
+			I'm going to pay a call on the 
+			Romulans.  See if I can convince 
+			them to help us.
+
+					JENNIFER
+			Then I guess this is good-bye.
+
+	Already this isn't easy for Sisko.  He's torn with emotion.  
+	He knows he's not saying good-bye to his Jennifer, but it 
+	feels like it anyway.
+
+					SISKO
+			Again.
+				(a beat)
+			Jennifer, there's so much I want to 
+			say to you, but I don't know where 
+			to start...
+
+					JENNIFER
+				(with a slight smile)
+			You can start by telling me what 
+			happened to my husband.
+
+	Before Sisko can deny it, Jennifer presses on.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        57.
+
+60   CONTINUED:
+
+					JENNIFER
+			Don't bother.  I don't know who you 
+			are, but you're not Ben Sisko.
+
+	Sisko considers trying to continue the charade, but thinks 
+	better about it.
+
+					SISKO
+			When did you figure it out?
+
+					JENNIFER
+			I think I suspected from the 
+			beginning.  It was your eyes.
+
+					SISKO
+			What about them?
+
+					JENNIFER
+			They're too kind.
+				(a beat)
+			There was nothing kind about Ben.
+				(another beat)
+			He's dead, isn't he?
+
+					SISKO
+			I'm sorry.
+
+					JENNIFER
+			Don't be.
+				(a beat)
+			So, who are you, really?
+
+					SISKO
+			It's a long story.  Talk to Smiley.  
+			He can fill you in on the details.
+
+					JENNIFER
+			He seems like a good man.
+
+					SISKO
+			He does at that.
+				(a beat)
+			So what are you going to do now?
+
+					JENNIFER
+			Oh, I'm sure Smiley will find 
+			something to keep me busy.
+				(a beat)
+			You're not really going to visit the 
+			Romulans, are you?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        58.
+
+60   CONTINUED:	(2)
+
+					SISKO
+				(shakes his head)
+			The deal was I get you off the 
+			station, and then I go home.
+
+					JENNIFER
+			Will I see you again?
+
+					SISKO
+			I don't know.
+
+	Jennifer leans over and kisses Sisko on the cheek.
+
+					JENNIFER
+			Thank you for... rescuing me.
+
+					SISKO
+			It was... my pleasure.
+
+	They stand there for a beat, looking at each other, then the 
+	mood is broken by O'Brien, returning to the chamber.
+
+					O'BRIEN
+			Ready, Captain?
+
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "The Die is Cast" 
+               (fka "Improbable Cause, Part II") 
+                          #40513-467 
+                              
+                          Written by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                       David Livingston 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       February 14, 1995
+
+      STAR TREK: DS9 - "The Die is Cast" 02/14/95 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Die is Cast" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     TAIN
+          ODO                      LOVOK
+          BASHIR                   EDDINGTON
+          DAX                      TODDMAN
+          O'BRIEN                  PILOT
+          QUARK                    ROMULAN COM VOICE
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. ROMULANS
+
+  STAR TREK DEEP SPACE NINE: "The Die is Cast" - 02/14/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Die is Cast" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK CORRIDOR              
+          OPS                           CARDASSIAN SHIP
+          GARAK'S SHOP                  GAMMA QUADRANT
+          COMMANDER'S OFFICE            DEFIANT
+          WARDROOM                      FLEET
+          REPLIMAT                      WORMHOLE
+
+        DEFIANT                       
+          BRIDGE                        
+          TRANSPORTER                   
+
+        ROMULAN SHIP                  
+          BRIDGE                        
+          CORRIDOR                      
+          QUARTERS                      
+          READY ROOM                    
+
+        RUNABOUT                      
+
+    STAR TREK: "The Die is Cast" - 02/14/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Die is Cast" 
+                      PRONUNCIATION GUIDE 
+
+          ALGIRA                   al-GI-ruh
+          ARGELIAN                 R-gee-lee-un
+          BELAK                    BEH-lak
+          ELIM                     EE-lim
+          ENABRAN TAIN             en-AH-bran TAIN
+          JEM'HADAR                JEM-huh-DAR
+          KELDON                   KEL-don
+          KORANAK                  KOR-ruh-nak
+          LOVOK                    LOW-vok
+          MAKAR                    muh-KAR
+          MILA                     MEE-lah
+          MARION                   O-mar-ee-on
+          PARMAK                   PAR-mak
+          PORANIA                  POOR-ran-ee-uh
+          PROCAL,                  PRO-cul
+          TAL SHIAR                TAL she-ARE
+          CARIAN                   KAH-rye-an
+          PLOMEEK                  PLO-meek
+
+          DEEP SPACE: "The Die is Cast" - 02/14/95 - TEASER          1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "The Die is Cast"                            
+                            TEASER                              
+
+	FADE IN:
+
+                     RECAP OF "IMPROBABLE CAUSE"                       
+
+1    INT. REPLIMAT
+
+	BASHIR and O'BRIEN are having lunch.  O'Brien is eating with 
+	a hearty appetite, while Bashir picks at his food.  Bashir 
+	is trying to get a conversation going, but not having much 
+	success -- O'Brien's responses are limited to nods and shrugs.
+
+					BASHIR
+			... if you ask me, modern human 
+			theater has been on the decline since 
+			the late twenty-third century.
+
+	O'Brien makes a motion that might be a shrug.
+
+					BASHIR
+				(continuing)
+			I mean, look at the plays coming out 
+			of Earth for the last fifty years 
+			and then compare them to the works 
+			of Willemheld, Barton or Chow-yun.
+
+	O'Brien gives him a distracted nod as he concentrates on the 
+	food.  Bashir makes one last attempt.
+
+					BASHIR
+				(continuing)
+			Modern playwrights have become 
+			obsessed with writing human 
+			interpretations of alien theatrical 
+			works and they're ignoring our own 
+			unique cultural heritage in hopes of -- 
+			Chief, are you listening to me?
+
+	O'Brien looks up in surprise with a mouthful of food.
+
+					O'BRIEN
+			What?
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - TEASER        2.
+
+1    CONTINUED:
+
+					BASHIR
+			I thought so.
+
+					O'BRIEN
+			I heard every word you said.
+				(off Bashir's look)
+			I have.
+				(thinking)
+			Chow-yun, Barton, alien theatrical 
+			works, ignoring our cultural 
+			heritage...
+
+					BASHIR
+			And what do you think?
+
+					O'BRIEN
+			About what?
+
+					BASHIR
+			Any of it.
+
+					O'BRIEN
+			I... don't know.  What do you want 
+			me to say?
+
+					BASHIR
+			Say you agree.  Say you disagree.  
+			Say you hate theater.  Just say 
+			something.
+
+					O'BRIEN
+			Look, Julian, you said you wanted to 
+			have lunch... so we're having lunch.
+
+					BASHIR
+			Yes.  But I was hoping for a little 
+			more... conversation with my plomeek 
+			soup.
+
+					O'BRIEN
+			My mother taught me that if you 
+			combine eating and talking, you'll 
+			end up doing neither one very well.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - TEASER       2A.
+
+1    CONTINUED:	(2)
+
+					BASHIR
+				(smiles)
+			Well, I suppose Garak taught me to 
+			think of lunch as a sort of... arena 
+			for philosophical debate.
+
+	Bashir's face looks a little melancholy... concerned about 
+	his friend.
+
+					BASHIR
+			I take it there's still no word about 
+			Garak and Odo?
+
+					O'BRIEN
+				(shakes his head)
+			The starship Portland and a Cardassian 
+			cruiser are still searching the Algira 
+			Sector for the runabout.
+				(beat)
+			That's not entirely bad news.  If 
+			the runabout had been destroyed they'd 
+			certainly have found debris by now 
+			or some kind of--
+
+					KIRA'S COM VOICE
+			Kira to O'Brien.
+
+          DEEP SPACE: "The Die is Cast" - 02/14/95 - TEASER          3.
+
+1    CONTINUED:	(3)
+
+					O'BRIEN
+				(to com)
+			O'Brien here, Major.
+
+					KIRA'S COM VOICE
+			Report to Ops, Chief.  There's 
+			something here we'd like you to take 
+			a look at.
+
+					O'BRIEN
+			I'm on my way.
+				(to Bashir)
+			Sorry.
+
+					BASHIR
+			It's all right.
+
+	O'Brien EXITS.  Bashir contemplates the empty seat.
+
+					BASHIR
+				(to chair)
+			So... read any good books lately?
+
+									CUT TO:
+
+2    INT. OPS (VPB)
+
+	SISKO and DAX are showing something to O'Brien on a monitor 
+	as KIRA looks on.
+
+					SISKO
+				(re: monitor)
+			About ten minutes ago, our sensors 
+			picked up high concentrations of 
+			tetryon particles moving toward the 
+			station.
+
+					DAX
+			I've never seen readings like this 
+			before.  What do you think?
+
+					O'BRIEN
+				(off monitor)
+			Subspace energy fluctuations... 
+			quantum fractures in the 
+			electrodynamic field... EM spikes 
+			across the spectrum... you've got 
+			me.
+
+					KIRA
+			Whatever it is, it's getting closer.
+
+          DEEP SPACE: "The Die is Cast" - 02/14/95 - TEASER          4.
+
+2    CONTINUED:
+
+					DAX
+			And larger.  The tetryon 
+			concentrations have increased ten 
+			percent in the last thirty seconds.
+
+	An ALARM goes off on one of the consoles.
+
+					DAX
+				(off console)
+			There's an energy surge bearing two 
+			one zero mark three one five... a 
+			ship is decloaking.
+				(beat)
+			It's a Romulan warbird.
+
+					SISKO
+			Romulans?  Open a channel to--
+
+	Another ALARM.
+
+					DAX
+			Another warbird decloaking at zero 
+			one zero -- no!  It's a Cardassian 
+			ship.
+
+					KIRA
+				(shocked)
+			A Cardassian ship with a cloaking 
+			device?
+
+					DAX
+			Definitely Cardassian.  Keldon class.
+				(she reacts to 
+				something on the 
+				screen)
+			Benjamin... there's an entire fleet 
+			decloaking out there.
+
+					SISKO
+			Red Alert.  Shields up, stand by 
+			weapons.
+
+3    EXT. SPACE - THE FLEET (OPTICAL)
+
+	An entire FLEET of Romulan and Cardassian ships is now hanging 
+	off the station.  The ships begin in the foreground and 
+	stretch off into the distance until they become mere specks 
+	of light.  A couple of the ships are still decloaking.
+
+4    INT. OPS
+
+	Everyone is watching the viewscreen in shock.
+
+          DEEP SPACE: "The Die is Cast" - 02/14/95 - TEASER          5.
+
+4    CONTINUED:
+
+					SISKO
+				(to Dax)
+			Try to hail them, lieutenant.
+
+					O'BRIEN
+				(off monitor)
+			Their weapons are charged... but 
+			they haven't locked onto us yet.
+
+					KIRA
+			The lead ship is heading for the 
+			wormhole, commander.
+
+5    INCLUDE VIEWSCREEN (OPTICAL)
+
+	which shows a Romulan warbird starting to enter the wormhole.
+
+					DAX
+			No response to our hails.
+
+					KIRA
+			The fleet is following the lead 
+			ship... they're heading for the Gamma 
+			Quadrant.
+
+					SISKO
+				(grim, to Dax)
+			Lieutenant, open a priority channel 
+			and get me Starfleet Command.  Now.
+
+	Off Sisko's face as he watches the endless parade of ships 
+	heading for the Gamma Quadrant...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE          6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+6    INT. ROMULAN READY ROOM
+
+	TAIN is seated at the table with a drink as GARAK pours 
+	himself a glass of Romulan ale.  The mood here seems to be 
+	friendly; after all, these are two old comrades-in-arms who 
+	haven't seen each other in a long time.  But underlying all 
+	that is a definite tension... a feeling that there are issues 
+	and frictions between the two of them that have yet to be 
+	resolved and which may never be fully addressed.
+
+					TAIN
+			... you should've seen the look on 
+			Legate Porania's face when I told 
+			him I was going into retirement three 
+			years ago.  He was literally 
+			speechless -- a rare event.
+
+					GARAK
+				(smiles)
+			I remember wanting to invent charges 
+			of treason against him just so I 
+			didn't have to hear his voice again.
+
+					TAIN
+			You would've done it, too, if I hadn't 
+			held you back.  You had quite a 
+			vicious streak in those days.
+
+					GARAK
+				(re: Tain)
+			I learned from the best.
+
+					TAIN
+			No, no.  You had a gift.  I never 
+			met anyone else who relished a good 
+			interrogation as much as you did.  
+			Do you remember getting that 
+			confession out of Doctor Parmak?
+
+					GARAK
+				(smiles)
+			I never even touched him.
+
+					TAIN
+			That was the beauty of it.  You just 
+			sat there for -- what, three hours?
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE         6A.
+
+6    CONTINUED:
+
+					GARAK
+			Four.
+
+					TAIN
+			And after four hours of watching you 
+			stare at him... he confessed.
+
+					GARAK
+			I was good, wasn't I?
+
+					TAIN
+			You were brilliant.  Afterwards, he 
+			just kept saying...
+				(shocked whisper)
+			"His eyes... his eyes... "
+
+	They both chuckle over the memory and then there's a quiet 
+	beat.
+
+					TAIN
+			I missed you, Elim.  Things just 
+			weren't the same after you left.
+
+	Garak looks away... uncomfortable with the honest statement 
+	of affection, but touched by it nonetheless.
+
+					GARAK
+			I... missed you too, Enabran.
+
+	Tain breaks the moment by chuckling a little.
+
+					TAIN
+			We're both getting sentimental in 
+			our old age... next thing you know, 
+			we'll be crying over our lost youth.
+
+	Garak also smiles with a little embarrassment.  He shifts 
+	the conversation back to a safer topic.
+
+					GARAK
+			So whatever happened to Doctor Parmak?
+
+					TAIN
+			He spent three years in a labor camp, 
+			then returned to Cardassia Prime.  I 
+			think he's practicing medicine again.
+				(beat, joking)
+			When we get back, you should look 
+			him up.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT ONE      6B.
+
+6    CONTINUED:	(2)
+
+					GARAK
+			There are a lot of people I intend 
+			to look up when we get back.
+
+					GARAK
+				(beat)
+			For instance, do you remember a Gul 
+			named Dukat?
+
+					TAIN
+				(thinks)
+			Dukat... ?
+
+					GARAK
+			He's the son of the late Justice 
+			Procal.
+
+					TAIN
+			Oh, yes... the business with the 
+			arms merchant.
+				(beat)
+			I take it, you'd like to have him 
+			eliminated...
+
+					GARAK
+			The thought had crossed my mind.
+
+					TAIN
+			After this mission is completed, 
+			you'll be in a position to... 
+			eliminate anyone you want.
+
+					GARAK
+			I'll make a list and give it to Mila.
+
+					TAIN
+				(casual)
+			You better give it to me personally.  
+			Mila may not be around much longer.  
+			She knows a great deal about me... 
+			too much for her own good.
+
+	Garak reacts slightly... this is a disturbing comment.  But 
+	Garak has to be careful here -- he doesn't want to admit 
+	that he actually cares about Mila lest Tain start to think 
+	of him as being "soft." Garak sips his ale with practiced 
+	nonchalance.
+
+					GARAK
+			Still... it would be a shame to have 
+			her killed.  She's proven that she 
+			can be trusted on numerous occasions.  
+			And you'd be hard pressed to find a 
+			better housekeeper.
+
+					TAIN
+			Is that a request I hear?
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE          7.
+
+6    CONTINUED:	(3)
+
+					GARAK
+			Not at all.  Just an observation.
+
+					TAIN
+			There's no reason to pretend, Garak.  
+			You're fond of Mila and you don't 
+			want her hurt, right?
+
+					GARAK
+			If you're looking for an excuse to 
+			spare the life of your own 
+			housekeeper, you don't need me to 
+			provide you with one.  You can do it 
+			out of... the kindness of your heart.
+
+	They look at each other for a long beat, each of them studying 
+	the other and running their own internal evaluations of the 
+	other's motive and intent.
+
+					TAIN
+				(quiet)
+			Mila always believed you were innocent 
+			of betraying Cardassia... and me.
+
+	Something flickers across Garak's face at this comment... 
+	some of the light bantering drops away from his tone.
+
+					GARAK
+			Really?  I'm surprised that alone 
+			didn't earn her a place on your 
+			execution rolls.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE          8.
+
+6    CONTINUED:	(4)
+
+					TAIN
+			It occurred to me.  But then I suppose 
+			part of me wanted to believe you 
+			were innocent too.
+
+	Garak gives him a very direct look.
+
+					GARAK
+				(tight)
+			I was.
+
+					TAIN
+				(not quite believing 
+				it)
+			Of course.
+
+	Tain moves to take a drink from his glass.  He sniffs the 
+	glass and puts it aside in distaste.
+
+					TAIN
+			No wonder the Romulans haven't 
+			conquered the galaxy.  No one can 
+			stomach their cuisine.
+
+	Garak nods ruefully.  At that moment, a Romulan Colonel in 
+	the Tal Shiar named LOVOK ENTERS the room.  Lovok is a male 
+	Romulan in his late forties and has a clipped, no-nonsense 
+	attitude about him.
+
+					TAIN
+			Ah.  Colonel Lovok.  Allow me to 
+			introduce my associate, Elim Garak.
+
+	Lovok glances over at Garak with little interest.
+
+					LOVOK
+				(to Tain, re: Garak)
+			And what is his role to be in this 
+			operation?
+
+					TAIN
+			He will do whatever I require of 
+			him.  Elim is a cherished colleague 
+			of long standing.
+
+	Lovok gives Garak a direct look with the flat and lifeless 
+	eyes of a shark.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE         8A.
+
+6    CONTINUED:	(5)
+
+					LOVOK
+
+			You will not enter the bridge or any 
+			other secured space aboard this ship 
+			unescorted.  If you do so, you will 
+			be killed.
+
+					GARAK
+			Direct isn't he?
+
+					TAIN
+			I'm afraid the Colonel believes in 
+			wasting little time with pleasantries 
+			or idle conversation.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE          9.
+
+6    CONTINUED:	(6)
+
+	Lovok ignores Garak and speaks to Tain.
+
+					LOVOK
+			The fleet has recloaked and is about 
+			to set course for the Founders' 
+			homeworld at warp six.
+
+					GARAK
+			Warp six?  That's a bit slow isn't 
+			it?  Something wrong with your 
+			engines?
+
+	Lovok ignores him, keeps talking to Tain.
+
+					LOVOK
+			If we travel any faster, our warp 
+			signatures may be detected by the 
+			Jem'Hadar... even through the cloaking 
+			devices.
+
+					GARAK
+			Very clever.
+
+					LOVOK
+				(to Tain)
+			The changeling is in quarters on "C" 
+			deck.  There are forcefields in place 
+			to prevent his escape.
+
+					TAIN
+			Good.
+				(to Garak)
+			Which brings us to your first 
+			assignment, Garak.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE         10.
+
+6    CONTINUED:	(7)
+
+					TAIN
+			I'd like you to explain to Odo that 
+			it would be in everyone's best 
+			interests -- especially his -- if he 
+			were to provide us with all the 
+			information he has on his people.
+
+					GARAK
+			That may prove to be difficult.  He 
+			can be quite stubborn.
+
+					TAIN
+				(casual)
+			Then you'll have to find a way of 
+			convincing him.
+
+	Tain says this without any hint of threat, but it hangs there 
+	in the air, nonetheless.  Garak nods in understanding.
+
+									CUT TO:
+
+7    INT. ROMULAN QUARTERS
+
+	ODO is looking around the sparsely furnished room with a 
+	professional eye, looking for any means of escape, but not 
+	really expecting to find any.  The door suddenly OPENS, 
+	revealing Garak and a Romulan N.D. Guard standing in the 
+	Corridor.  Garak's attitude is friendly as he ENTERS, but 
+	Odo regards him coolly.
+
+					GARAK
+			Well, Odo... I trust the 
+			accommodations meet with your 
+			approval?
+
+	Odo says nothing.
+
+					GARAK
+			You have to admit, this is certainly 
+			better than a prison cell.
+
+					ODO
+			There are forcefields around the 
+			bulkheads and a guard outside the 
+			door.  Sounds like a prison cell to 
+			me.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE         11.
+
+7    CONTINUED:
+
+					GARAK
+			I see your point.  And believe me, 
+			if it were my decision, things would 
+			be--
+
+					ODO
+			I don't believe you, Garak.  And I 
+			doubt I'll believe much of what you 
+			have to say from now on.  So save us 
+			both some trouble and leave me alone.
+
+					GARAK
+			Why Constable, you seem positively 
+			disappointed in me.
+
+	Odo harumphs.
+
+					GARAK
+				(sarcastic)
+			Well, I suppose it's understandable.  
+			After all, I did pledge my undying 
+			devotion and eternal allegiance to 
+			both you and the Federation.  And 
+			you and I've been through so much 
+			together... shared so many 
+			experiences... I know you considered 
+			me a close friend.  No wonder you 
+			feel betrayed.
+
+					ODO
+			You're wasting your time, Garak.  I 
+			don't care about the rationalizations 
+			you've come up with to justify your 
+			actions.
+
+					GARAK
+			Justify?  I don't need to justify 
+			anything to you.
+
+					ODO
+			Living on Deep Space Nine has made 
+			you a little rusty... your lies are 
+			becoming more transparent.  You should 
+			be careful -- you don't want Tain to 
+			know that you're feeling guilty about 
+			what you've done.
+
+					GARAK
+			You are imaginative, Constable, I'll 
+			grant you that.  But I suggest you 
+			put those creative powers to better 
+			use.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT ONE      12.
+
+7    CONTINUED:	(2)
+
+					GARAK (Cont'd)
+			We would like you to share your... 
+			unique insights on the Founders.
+
+					ODO
+			Would you?
+
+					GARAK
+			We would be most grateful for any 
+			information you could provide.
+
+					ODO
+			And if I refuse...
+
+					GARAK
+			Really Odo, you must stop reading 
+			those human crime novels that Chief 
+			O'Brien gives you.  It's poisoning 
+			your thinking.  I'm not here to 
+			threaten you -- I just want to talk.
+
+					ODO
+			I don't feel like talking.
+
+					GARAK
+			Surely you can see that we have a 
+			common enemy: the Founders.  By 
+			cooperating, you'll be helping us 
+			provide security for the entire Alpha 
+			Quadrant.
+
+					ODO
+			The only common enemy you and I share 
+			is Enabran Tain.  The difference 
+			between you and I is that you don't 
+			know it.
+
+	The two men share a look for a long moment.
+
+					GARAK
+			I suggest you think over what I've 
+			said, Constable.
+
+					ODO
+			That's funny... I was about to make 
+			the same suggestion.
+
+	Another beat, and then Garak EXITS.
+
+									CUT TO:
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing the station.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT ONE      13.
+
+9    INT. WARDROOM - ON MONITOR (OPTICAL)
+
+	The large wall monitor is showing a recorded message by Tain 
+	as Sisko, Kira, Dax, O'Brien, Bashir, and COMMANDER EDDINGTON 
+	watch.
+
+					TAIN
+			... since the Jem'Hadar are 
+			genetically addicted to a drug that 
+			only the Founders can provide, we 
+			expect the Jem'Hadar to weaken and 
+			die once their supplies of the drug 
+			run out -- a matter of days by our 
+			estimates.  However that will give 
+			them enough time to stage some kind 
+			of counterattack against the Alpha 
+			Quadrant so I suggest you place the 
+			Cardassian fleet on alert.
+
+	Worried looks go around the table as Tain pauses on the 
+	viewer.
+
+					TAIN
+				(continuing)
+			I take this action not in defiance 
+			of the Cardassian state, but in 
+			defense of it.  You in the Central 
+			Command have neglected the security 
+			of our people and allowed peace with 
+			Bajor and the Federation to blind 
+			you to the real threat: the Dominion.  
+			I intend to remove that threat.  Let 
+			history be my judge.
+
+	The recording ENDS and is replaced by the symbol of the 
+	Obsidian Order, and then by image of VICE ADMIRAL TODDMAN of 
+	Starfleet Security.  Toddman is a man in his late fifties 
+	and has a gruff, dour manner.
+
+					TODDMAN
+			That message was intercepted by a 
+			Federation outpost earlier today.  A 
+			similar message was sent to the 
+			Romulan Senate.  Both governments 
+			are denying any prior knowledge of 
+			Tain's plan and are calling this a 
+			rogue operation.
+
+					BASHIR
+			Are they going to do anything to 
+			stop Tain?
+
+	Toddman peers at Bashir for a moment, as if remembering 
+	something.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT ONE     13A.
+
+9    CONTINUED:
+
+					TODDMAN
+			Doctor Bashir, isn't it?
+
+					BASHIR
+			Yes, sir.
+
+					TODDMAN
+			You are in trouble.
+
+					BASHIR
+			Sir?
+
+					TODDMAN
+			I bet two cases of Saurian Brandy 
+			that you were going to win the 
+			Carrington Award this year.  You 
+			lost, which means I lost.  And I 
+			don't like to lose.
+
+	Bashir is at something of a loss here... he has no idea what 
+	to say.
+
+					BASHIR
+			I'm... sorry, admiral.
+
+					TODDMAN
+			Good.  Now to answer your question, 
+			both the Romulans and the Cardassians 
+			claim to be studying ways to stop 
+			Tain.  But we believe that they're 
+			going to sit back and wait to see if 
+			he succeeds or not.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT ONE      14.
+
+9    CONTINUED:	(2)
+
+					DAX
+			But sir, that could plunge both 
+			Romulus and Cardassia into war with 
+			the Dominion.
+
+					TODDMAN
+			Only if he fails, Lieutenant.  And 
+			it looks like his plan has a fair 
+			chance of success.  He's commanding 
+			a fleet of twenty ships manned by 
+			combat veterans.  They know the 
+			location of the Founders' homeworld 
+			and they've modified their cloaks so 
+			the Jem'Hadar can't detect their 
+			approach.
+
+					KIRA
+			You sound like you're hoping Tain 
+			will succeed.
+
+					TODDMAN
+				(sharp)
+			I never hope for war, Major.  But if 
+			it comes... I'd rather see the 
+			Dominion on the losing side.
+				(takes a deep breath, 
+				looks more grim)
+			But we have to be prepared for the 
+			worst.  Ben, I want you to evacuate 
+			DS Nine of all non-essential personnel 
+			and have the Defiant on standby 
+			alert.  Even if Tain succeeds, the 
+			Jem'Hadar are going to come screaming 
+			out of the wormhole looking for 
+			revenge and they may not be too 
+			particular about who their targets 
+			are.
+
+					SISKO
+			Admiral, we believe Security Chief 
+			Odo is aboard one of the Romulan 
+			ships.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE         15.
+
+9    CONTINUED:	(3)
+
+					EDDINGTON
+			Odo's message said that the runabout 
+			had been caught in a tractor beam, 
+			sir.  That suggests he was captured 
+			and taken aboard one of their ships.
+
+					SISKO
+			I'd like permission to take the 
+			Defiant into the Gamma Quadrant and 
+			try to determine if he's still alive 
+			and --
+
+					TODDMAN
+			The answer's no, Ben.  I'm sorry 
+			about your officer, but there's 
+			nothing we can do.  I want the Defiant 
+			guarding Bajor.  That's your top 
+			priority.  Toddman out.
+
+	The transmission ENDS.  There's a long quiet moment.
+
+					SISKO
+			Commander Eddington, am I correct in 
+			assuming that Starfleet is sending 
+			substantial reinforcements to this 
+			sector?
+
+					EDDINGTON
+			Yes, sir.  A task force of nine 
+			starships is due to arrive tomorrow.
+
+					SISKO
+			Nine starships...
+				(beat, then to all)
+			I want the Defiant ready to leave 
+			for the Gamma Quadrant in two hours.
+
+					EDDINGTON
+			Sir, Admiral Toddman's orders were 
+			quite clear and...
+
+					SISKO
+				(cutting him off)
+			I'm not going to just abandon one of 
+			my officers.  Toddman's concerned 
+			about the defense of Bajor -- so am 
+			I.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE        15A.
+
+9    CONTINUED:	(4)
+
+					SISKO
+			If we detect a Jem'Hadar strike force 
+			heading for the Alpha Quadrant, we'll 
+			use the Communications Relay to warn 
+			DS Nine, and we'll do everything we 
+			can to stop them before they reach 
+			the wormhole.
+				(beat)
+			I consider this a volunteer mission.
+				(to all)
+			But, don't volunteer yet.  I want 
+			you to think about this.  There's a 
+			very good chance you won't be coming 
+			back from this mission...
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT ONE         16.
+
+9    CONTINUED:	(5)
+
+					SISKO (Cont'd)
+			... and even if you do, you'll probably 
+			be facing a general court-martial.  
+			If you decide to go, be aboard the 
+			Defiant at fifteen thirty hours.  
+			Dismissed.
+
+	Everyone EXITS, leaving Sisko to think about what he's about 
+	to do.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT TWO         17.
+                            ACT TWO                             
+
+	FADE IN:
+
+10   INT. AIRLOCK CORRIDOR
+
+	Dax and QUARK are heading for the airlock.  Dax is carrying 
+	a shoulderbag and Quark seems very concerned about her.
+
+					QUARK
+			How long do you think you'll be gone?
+
+					DAX
+			At least three or four days, maybe 
+			longer if we run into trouble.
+
+					QUARK
+			Trouble?  You mean if you run into 
+			the Jem'Hadar.
+
+					DAX
+			It's a possibility.
+
+	Quark stops her, fixes her with a sincere and heartfelt look.
+
+					QUARK
+			Just... be careful, Lieutenant.  I'd 
+			hate to see anything happen to you... 
+			or the others.
+
+					DAX
+				(touched)
+			I always knew you were an old softy 
+			at heart, Quark.
+
+	Quark looks a little embarrassed.
+
+					QUARK
+			Well...
+
+					DAX
+			Don't worry, your secret's safe with 
+			me.
+
+					QUARK
+			I appreciate that... Jadzia.  But 
+			the most important thing is that you 
+			all come back safe and sound.  I 
+			mean if something were to happen...
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT TWO      18.
+
+	Quark looks away in horror, seems choked up by the thought.
+
+					DAX
+				(concerned)
+			Hey... take it easy.
+
+					QUARK
+			I know, I know.  I won't even think 
+			about it.
+
+					DAX
+			Good.
+
+					QUARK
+				(getting choked up)
+			But just in case something awful... 
+			does happen....
+				(pulls out a PADD 
+				from his pocket)
+			Could you sign your bar tab before 
+			you leave?
+
+	Dax looks at him for a moment... too surprised to say 
+	anything.  Then when she realizes this is what Quark's been 
+	after all along, she turns, and walks away shaking her head.  
+	Quark watches her go realizing he's blown it.
+
+					QUARK
+				(to himself)
+			Just a little too quick at the end...
+
+	Quark turns and heads off in the opposite direction.
+
+									CUT TO:
+
+11   INT. DEFIANT - BRIDGE
+
+	Sisko, Kira, O'Brien, Bashir at their places.  Eddington is 
+	working at a back console.  Dax ENTERS and goes to the helm 
+	console as Sisko approaches the captain's chair.  Everyone 
+	is wearing phasers and there are a couple of extra Security 
+	N.D.s on the Bridge.
+
+					SISKO
+			All stations report.
+
+					KIRA
+			Tactical ready.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT TWO         19.
+
+11   CONTINUED:
+
+					O'BRIEN
+			Warp and impulse engines on-line, 
+			cloaking device standing by.
+
+					DAX
+			Helm ready.
+
+					EDDINGTON
+			The Security detachment is aboard 
+			and phaser rifles have been issued 
+			to every fire team.
+
+					SISKO
+			Very well.  Release docking clamps, 
+			aft thrusters at--
+
+					KIRA
+			Commander, there's an incoming 
+			priority message from Starfleet 
+			Command.
+				(off monitor)
+			It's Admiral Toddman.  He's repeating 
+			his order not to enter the Gamma 
+			Quadrant.
+
+	A beat as everyone looks at Sisko.  Sisko calmly looks at 
+	the monitor screen in front of Kira.
+
+					SISKO
+			That's what you think it says.
+				(off her look)
+			But, how can you be sure when a 
+			transmission is as badly garbled as 
+			that one?
+
+	Kira looks at him for a beat, then picks up on what Sisko is 
+	saying.
+
+					KIRA
+			You're right.  There's an awful lot 
+			of subspace interference on this 
+			channel.  Must be an ion storm or 
+			something.
+
+					SISKO
+			Must be.
+
+	A few smiles go around the Bridge as Sisko returns to the 
+	Captain's chair.
+
+12   ANGLE ON EDDINGTON
+
+	the only one on the Bridge who looks disturbed by this.  But 
+	he says nothing.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT TWO        19A.
+
+13   RESUME SCENE
+
+					SISKO
+				(to Dax)
+			Aft thrusters back one quarter, port 
+			and starboard at station keeping.
+
+					DAX
+			Aye, sir.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT TWO         20.
+
+14   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship pulls away from the station (STOCK).
+
+15   OMITTED 
+
+16   EXT. SPACE - THE WORMHOLE (OPTICAL)
+
+	as it OPENS and the Defiant ENTERS (STOCK).
+
+17   EXT. SPACE - GAMMA QUADRANT (OPTICAL)
+
+	The Defiant EXITS the wormhole and the ship CLOAKS (STOCK).
+
+17A  INT. DEFIANT - BRIDGE (FORMERLY SCENE 15)
+
+	The Bridge is now DARK -- the cloak in operation.
+
+					DAX
+			The cloaking device is operating 
+			within normal parameters.
+
+					SISKO
+			Set course for the Founders' homeworld, 
+			warp eight.
+
+									CUT TO:
+
+18   INT. ROMULAN BRIDGE
+
+	This is a different type of ship from the typical warbird -- 
+	it is used exclusively by the Tal Shiar -- and the design 
+	and decor of the room should reflect that.  There are Romulan 
+	N.D.s manning the consoles and there's a PILOT at the helm.  
+	The Bridge is DARK, indicating the cloaking device is in 
+	operation.  Garak, Lovok, and Tain are examining a tactical 
+	map on one of the consoles.
+
+					LOVOK
+				(pointing to map)
+			We know the Founders' planet lies at 
+			approximately these coordinates within 
+			the Omarion nebula.  As you can see, 
+			there are no Jem'Hadar bases nearby.  
+			That means that even if the Founders 
+			do send out a distress call, it would 
+			take at least seven hours before any 
+			help could arrive.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT TWO         21.
+
+18   CONTINUED:
+
+					TAIN
+				(to Garak)
+			Our plan is to wait until we've 
+			entered orbit of the Founders' planet, 
+			then decloak and begin a massive 
+			bombardment.
+
+					LOVOK
+			Computer analysis indicates that the 
+			planet's crust will be destroyed 
+			within one hour, and the mantle within 
+			five.
+
+					GARAK
+			That should more than take care of 
+			the Founders...
+
+					TAIN
+			Yes, it should.  Unless they have 
+			some planetary defenses we don't 
+			know about.  And the only person 
+			here who might know the answer to 
+			that question is Mister Odo.
+
+					GARAK
+			Anything he knows about the Founders 
+			and their planet was undoubtedly 
+			included in his report to Starfleet.  
+			The constable is remarkably thorough 
+			in these matters.
+
+	Tain frowns at Garak's evasion.
+
+					TAIN
+			There was a time when you were eager 
+			to begin an interrogation, Elim.  In 
+			fact, I remember having to restrain 
+			your... enthusiasm on several 
+			occasions.
+
+					GARAK
+			I do remember having a certain... 
+			pride in my work.  But I doubt that 
+			interrogating someone who can alter 
+			their form at will is likely to 
+			provide either amusement or 
+			information.
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT TWO      22.
+
+18   CONTINUED:	(2)
+
+					TAIN
+			I wouldn't worry about Mister Odo's 
+			shape-shifting if I were you.  The 
+			Obsidian Order has developed a device 
+			which should prove most effective in 
+			neutralizing him.
+
+					LOVOK
+			I was not informed about this device.
+
+					TAIN
+			It's only a prototype... there's 
+			never been a chance to test it... 
+			before now.
+
+	Tain studies Garak evenly for a moment.  Garak is lost in 
+	thought... clearly disturbed by something.  Tain watches him 
+	for a moment, then turns to Lovok.
+
+					TAIN
+				(to Lovok)
+			Perhaps the Tal Shiar should take 
+			over the interrogation of the 
+			changeling.
+				(off Garak's reaction)
+			It's all right, Garak.  It's my fault.  
+			I should've known that you'd develop 
+			feelings for the people you lived 
+			with for the past few years.
+				(beat)
+			I just never expected that you would 
+			become friends with someone who worked 
+			for the Bajorans.
+
+					GARAK
+			This has nothing to do with my 
+			"friends" or my "feelings."  I simply 
+			don't believe he has the information 
+			you want.
+
+					TAIN
+			Possibly.  Colonel Lovok will find 
+			out.
+
+	Tain turns away, but Garak stops him.
+
+   DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT TWO 23-23A.     
+
+18   CONTINUED:	(3)
+
+					GARAK
+			No.  I brought Odo here.  He's my 
+			prisoner and my responsibility.
+
+	Tain looks at him for a moment.
+
+					TAIN
+			You don't have to do this.
+
+					GARAK
+			Yes, I do.  And I think we both know 
+			that you won't trust me until I do.
+
+	A long beat.
+
+					TAIN
+			All right.  I look forward to hearing 
+			the results.
+
+	Garak nods and Tain and Lovok move away.  Off Garak's 
+	expression as he thinks about what he has to do...
+
+									CUT TO:
+
+19   INT. DEFIANT - BRIDGE
+
+	The Bridge is DARK, indicating the cloak in operation.  Sisko, 
+	O'Brien, Kira and Dax at their stations.  Dax suddenly frowns 
+	at her console.
+
+					DAX
+			Commander... I'm reading some kind 
+			of power fluctuation in the cloaking 
+			device.
+
+	Sisko moves to her in concern.
+
+					SISKO
+			What kind of fluctuation?
+
+					DAX
+			I don't know... I can't locate the 
+			source of the problem... but it's 
+			getting worse...
+
+	Dax works frantically, and then suddenly the lights come UP 
+	on the Bridge.
+
+					KIRA
+			We're decloaking!
+
+       DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT TWO      24.
+
+19   CONTINUED:
+
+					SISKO
+			All stop.  Full scan, Lieutenant.  
+			Are there any other ships in the 
+			area?
+
+					DAX
+			No, sir.  Nothing in sensor range.
+
+					KIRA
+			Commander, if the Jem'Hadar show up 
+			while we're decloaked...
+
+					SISKO
+			We'll have to fight our way out of 
+			here.
+
+	Off Sisko's grim face...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        25.
+                           ACT THREE                            
+
+	FADE IN:
+
+20   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship hangs in space.
+
+21   INT. DEFIANT - BRIDGE
+
+	Sisko is looking over O'Brien's shoulder as he works one of 
+	the consoles.  Kira looks on while Dax is at the helm.
+
+					SISKO
+			What the hell happened, Chief?
+
+					O'BRIEN
+			I still don't know.  I've run three 
+			separate diagnostics and everything 
+			looks fine... the power converters 
+			are on line... the projection matrix 
+			is normal...
+
+	Eddington ENTERS in the b.g.
+
+					O'BRIEN
+				(continuing)
+			The cloaking device should be working.
+
+					KIRA
+			Maybe there's some kind of spatial 
+			anomaly nearby that's interfering 
+			with the cloak's power systems...
+
+					EDDINGTON
+			This isn't the result of a spatial 
+			anomaly, Major.  The tetryon 
+			compositor on the cloaking device 
+			has been sabotaged.
+
+					KIRA
+			How do you know that?
+
+					EDDINGTON
+			Because I sabotaged it.
+
+	There's a moment of shocked silence, then Sisko steps forward.
+
+					SISKO
+			Why?
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        26.
+
+21   CONTINUED:
+
+					EDDINGTON
+			I was under orders from Admiral 
+			Toddman to stop you from pursuing 
+			the Romulan/Cardassian fleet.
+
+	O'Brien is furious and moves toward Eddington.
+
+					O'BRIEN
+			You've turned us into sitting ducks 
+			for the Jem'Hadar!
+
+	Sisko holds up a hand and stops O'Brien before he can get 
+	any closer to Eddington.
+
+					EDDINGTON
+				(to Sisko)
+			We can still defend ourselves.  I 
+			didn't damage any of the ship's weapon 
+			systems or the engines.  But without 
+			the cloak, we'll have to return to 
+			DS Nine.
+				(beat, then impassioned)
+			I'm sorry Commander, I didn't want 
+			to do this... Odo's my friend too... 
+			but I report directly to Admiral 
+			Toddman... and he gave me an explicit 
+			order.  I couldn't disobey it.
+
+	Sisko looks at him for a moment.
+
+					SISKO
+				(quiet)
+			No... I don't suppose you could.
+				(to O'Brien)
+			Chief, now that you know the problem 
+			is in the tetryon compositor, how 
+			long until you can fix it?
+
+					O'BRIEN
+			I'd say at least ten hours.
+
+					SISKO
+			You have two.  On your way.
+
+	O'Brien glares at Eddington for a moment, then EXITS the 
+	Bridge.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT THREE     27.
+
+21   CONTINUED:	(2)
+
+					SISKO
+				(to Eddington)
+			I'm afraid I'll have to confine you 
+			to quarters, Mister Eddington.
+
+	Eddington moves closer to Sisko, makes his case forcefully 
+	and with an element of passion.
+
+					EDDINGTON
+			Sir, if we run into the Jem'Hadar, 
+			you're still going to need a chief 
+			security officer.
+
+					KIRA
+			What makes you think we're going to 
+			trust you again?
+
+					EDDINGTON
+			Because I give you my word.
+
+	Sisko studies him for a long moment.
+
+					SISKO
+			I make it a policy not to question 
+			the word of anyone who wears that 
+			uniform.  Don't make me change that 
+			policy.  Man your station, commander.
+
+	Eddington looks grateful and then moves to the security 
+	station.
+
+					SISKO
+				(to Eddington)
+			But I'd stay out of the chief's way 
+			if I were you.
+
+	Eddington nods and then takes up his post.
+
+									CUT TO:
+
+22   INT. ROMULAN QUARTERS
+
+	Garak ENTERS with two Romulan N.D.s.  Garak is carrying a 
+	bucket, and the N.D.s are carrying different components of a 
+	large, complex-looking DEVICE which they place on the table 
+	and begins to set up in the b.g.  Garak places the bucket 
+	near Odo.
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        28.
+
+22   CONTINUED:
+
+					GARAK
+			I realize it must be nearly time for 
+			you to return to your liquid state.  
+			So I thought I'd bring you something 
+			to relax in.
+
+					ODO
+			How kind.
+
+					GARAK
+			But before you go for a swim, I have 
+			a few questions I'd like to ask you.
+
+					ODO
+			I have nothing to say, Garak.
+
+					GARAK
+			I had hoped that a few hours alone 
+			might jog your memory... but I can 
+			see that I'm going to have to take 
+			steps I had hoped to avoid.
+
+					ODO
+				(mock despair)
+			Oh, no... you're going to torture 
+			me, aren't you?  How I've dreaded 
+			this moment.  Please have mercy, 
+			Garak.
+
+					GARAK
+			You do have a certain... flair for 
+			sarcasm.  It's one of the things I 
+			like about you.
+
+	Garak nods to one of the Romulan N.D.s, who activates a 
+	control on the now assembled device, which lights up and 
+	comes to life.
+
+					GARAK
+				(to N.D.)
+			You can go now.
+
+	The N.D.s EXIT.
+
+					ODO
+			I would bring the guard back in, if 
+			I were you, Garak.  I'm not in a 
+			very good mood.
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        29.
+
+22   CONTINUED:	(2)
+
+					GARAK
+			Yes, under normal circumstances, you 
+			would pose quite a threat to me.  
+			You could turn yourself into a 
+			Vicarian Razorback... or stretch out 
+			your arms and strangle me from across 
+			the room... but not this time.
+
+					ODO
+			Oh?  And why is that?
+
+					GARAK
+			Because that device is emitting a 
+			quantum stasis field... designed to 
+			prevent any changeling from altering 
+			his biomolecular structure.
+
+	Odo looks at him for a moment, wondering whether to believe 
+	him or not... then he moves his arm and tries to change his 
+	form.  Nothing happens.  Odo stretches and moves... but still 
+	nothing happens.  A look of worry comes across his face.
+
+					GARAK
+			It must be very disconcerting for 
+			you to be locked into a humanoid 
+			form.  Especially now... you must 
+			have been looking forward to returning 
+			to your liquid state.
+				(beat)
+			Tell me... what will happen if you 
+			can't revert to a liquid?
+
+					ODO
+			I don't know.
+
+					GARAK
+			An honest answer.  But it's probably 
+			safe to say it won't be pleasant.
+
+	Odo is getting concerned.  He looks at his hands a moment, 
+	stretches his fingers, moves closer to Garak.
+
+					ODO
+			Garak, this is pointless.  There's 
+			nothing I can tell you about the 
+			Founders you don't already know.
+
+    DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE 30-31A.       
+
+22   CONTINUED:	(3)
+
+					GARAK
+			I wish I could believe that.
+
+					ODO
+			Then why don't you?
+
+					GARAK
+			Because you and I are a lot alike.  
+			We both value our privacy... our 
+			inner secrets... that's why I know 
+			there's something about the Founders 
+			you haven't told anyone.  Something 
+			you didn't want to share with 
+			Starfleet or Commander Sisko.
+				(beat)
+			But you are going to tell me, Odo.
+
+					ODO
+				(hard)
+			There's nothing to tell.
+
+	Garak pulls up a chair and sits down.
+
+					GARAK
+			Maybe something will come to you.  I 
+			can wait.  The question is, can you?
+
+	OFF Odo's concerned face...
+
+									CUT TO:
+
+23   OMITTED 
+
+23A  INT. DEFIANT - BRIDGE
+
+	Sisko is slowly pacing the Bridge, while Eddington, Kira, 
+	and Dax are at their posts.  The waiting and the silence is 
+	starting to get on everyone's nerves.  After a long beat, 
+	Kira finally gets up and starts to head for the door.
+
+					SISKO
+			Major.  Leave the chief alone.
+
+					KIRA
+			What makes you think I was going to 
+			see O'Brien?
+
+	Sisko gives her a "who are you kidding" look and Kira relents.
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        32.
+
+23A  CONTINUED:
+
+					KIRA
+				(continuing)
+			All right.  But it's been three hours 
+			now.  I wanted to see if he needed 
+			any help.
+
+					SISKO
+			If he needed help he'd ask for it.  
+			For now, the best thing we can do is 
+			stay out of his way.
+
+	Kira reluctantly sits back down.  Sisko lets out a long 
+	breath... although he's trying not to show it, this is 
+	starting to get to him too.  He resumes his pacing.
+
+									CUT TO:
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        33.
+
+24   INT. ROMULAN QUARTERS (OPTICAL)
+
+	Garak sitting in the chair, watching Odo.  Odo's entire body 
+	is desiccated -- it's as if all the moisture has been sucked 
+	out of him, his face cracked, his skin flaking off... even 
+	his "uniform" is cracked, the material falling to the deck.  
+	We should feel as if Odo is about to collapse into a pile of 
+	dust, and as the scene progresses his skin and uniform should 
+	literally be falling apart.  Garak watches him with an even 
+	but disturbed expression.  Odo has trouble speaking -- he's 
+	in great pain.
+
+					ODO
+				(difficult)
+			What's wrong, Garak... you don't 
+			look very happy.  Aren't you enjoying 
+			yourself?
+
+					GARAK
+			There's no pleasure in this for me 
+			Constable, I assure you.  I'm simply 
+			doing my job.
+
+					ODO
+			Your job... yes... this is the job 
+			you've been waiting for.  All those 
+			years of exile... and now here you 
+			are... interrogating a prisoner again.  
+			It must fill you with pride.
+
+					GARAK
+				(quiet)
+			Odo... just tell me what I want to 
+			know, and this will end.
+
+	Odo stiffens, reacting to some internal spasm of agony.
+
+					ODO
+			But you don't want it to end, do 
+			you, Garak?  You're enjoying it... 
+			isn't this what you've been dreaming 
+			about?  Back at work... serving 
+			Cardassia...
+
+        DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT THREE        34.
+
+24   CONTINUED:
+
+					GARAK
+				(defensive)
+			That's right.  And you have 
+			information that I need... information 
+			that it's my duty to extract from 
+			you.
+				(trying to convince 
+				himself)
+			It's not personal.
+
+	Odo spasms again, and Garak looks away.  We can tell that 
+	this is hard on him -- he doesn't like what he's doing.  Odo 
+	collapses onto the floor.  Instinctively, Garak leaps out of 
+	his chair and moves to help him.  But he stops himself before 
+	actually touching Odo.  He stares down in shock at the image 
+	of the Constable... and then rages at him:
+
+					GARAK
+			Talk to me, Odo... tell me something -- 
+			anything!  Lie if you have to!  But 
+			say it -- now.
+				(beat)
+			Please.
+
+	Odo lies there for a moment, trembling... finally, his voice 
+	breaking, Odo makes a whispered confession.
+
+					ODO
+			Home... I want to go home...
+
+	Garak kneels next to him.
+
+					GARAK
+			And you will.  I promise.  When this 
+			is all over, I promise I'll take you 
+			back to Deep Space Nine.
+
+					ODO
+			No... not the station... home... 
+			with my people...
+
+	Garak looks at him in surprise.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT THREE     35.
+
+24   CONTINUED:	(2)
+
+					GARAK
+			The Founders?  You want to go back 
+			to the Founders?  I thought you turned 
+			your back on them.
+
+					ODO
+			I did... but they're still my 
+			people... I tried to deny it... tried 
+			to forget... but I can't...
+				(beat)
+			I'm one of them... and I want to be 
+			with them... in the Great Link.
+
+	Garak looks at him for a moment... he's accomplished what he 
+	had to do, but now he wishes he hadn't.
+
+					GARAK
+			I knew there was something... 
+			something you were holding back...
+
+	Odo is on the verge of losing consciousness.
+
+					ODO
+			And now you've found it... I hope 
+			it's useful...
+
+	Garak looks at him for a long moment... finally stands up, 
+	moves to the device and deactivates it... He turns away from 
+	Odo, giving him a moment of privacy.  Behind Garak, we 
+	suddenly see Odo MORPHING into a liquid and then streaming 
+	into the bucket.  Garak sits down in the chair, takes a deep 
+	breath... then puts his head in his hand and closes his eyes 
+	in a mixture of relief and guilt...
+
+25
+thru   OMITTED
+26
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FOUR        36.
+                           ACT FOUR                             
+
+	FADE IN:
+
+27   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	hanging in space.
+
+28   INT. DEFIANT - BRIDGE
+
+
+	Sisko, Kira and Dax at their positions.  Eddington sitting 
+	at a console.  O'Brien ENTERS carrying a burnt piece of 
+	circuitry.  He walks over and tosses it onto Eddington's 
+	lap.
+
+					O'BRIEN
+				(re: circuitry)
+			A souvenir of your handiwork.
+				(to Sisko)
+			Repairs complete, sir.  The cloaking 
+			device is on-line.
+
+					SISKO
+				(to Dax)
+			Engage cloak.
+
+	The Bridge DARKENS, indicating the cloak is in operation.
+
+					DAX
+			The cloak appears to be operating 
+			normally.
+
+					SISKO
+			Resume course for the Founders' 
+			planet, maximum warp.
+
+									CUT TO:
+
+29
+thru   OMITTED
+30
+
+31   INT. ROMULAN READY ROOM
+
+	Tain and Lovok are listening to Garak.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FOUR      37.
+
+31   CONTINUED:
+
+					GARAK
+			... At that point, I deactivated the 
+			device and allowed him to return to 
+			his liquid state.
+
+					TAIN
+			Did you get anything out of him at 
+			all?
+
+					GARAK
+			Nothing.  He never broke.
+
+					TAIN
+			Well... that's unfortunate.  I don't 
+			see any further use for Mister Odo.
+				(beat)
+			Terminate him.
+
+	Garak thinks quickly, but he has to appear casual, as if 
+	only trying to help Tain.
+
+					GARAK
+			On the other hand, Odo is a member 
+			of the Bajoran militia... and an 
+			officer on Deep Space Nine.  We may 
+			not want to provoke the Federation 
+			by killing him.
+
+	Tain looks at him and frowns, but before he can say anything 
+	Lovok steps in.
+
+					LOVOK
+			I agree with Garak.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT FOUR      38.
+
+31   CONTINUED:	(2)
+
+					TAIN
+				(surprised)
+			Do you?
+
+					LOVOK
+			Yes.  There is no way to be certain 
+			that all of the Founders will be on 
+			the planet when we attack.  We should 
+			be prepared to encounter other 
+			changelings in the future and we 
+			could use more information on their 
+			capabilities.
+				(beat)
+			I want to take Odo back to Romulus 
+			for further study.
+
+					TAIN
+			All right.  In the interest of 
+			cooperation...
+
+	Lovok nods his head in thanks.
+
+					ROMULAN COM VOICE
+			Bridge to Colonel Lovok.
+
+					LOVOK
+			This is Lovok.
+
+					ROMULAN COM VOICE
+			We have entered the Omarion Nebula 
+			and dropped out of warp.  We should 
+			be in orbit of the planet in fifteen 
+			minutes.
+
+					LOVOK
+			Acknowledged.
+
+					TAIN
+			Well... seems like the moment is 
+			nearly at hand.  Gentleman.
+
+	Tain gets up and walks out of the room, Garak and Lovok 
+	following him.
+
+32   INT. ROMULAN CORRIDOR - CONTINUOUS
+
+	Tain, Lovok and Garak ENTER from the Ready Room and head up 
+	the corridor, Tain in the lead.  As Tain rounds a corner, 
+	Lovok suddenly stops and steps directly in front of Garak, 
+	blocking his way.
+
+					GARAK
+			Can I do something for you, Colonel?
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FOUR        39.
+
+32   CONTINUED:
+
+					LOVOK
+			Why were you trying to protect the 
+			changeling?
+
+					GARAK
+
+			I wasn't trying to protect him.  And 
+			as I recall, you thought it was a 
+			good idea to keep him alive, as well.
+
+	Lovok studies his face for a moment.
+
+					LOVOK
+			My interest in the changeling is 
+			based on what I believe to be the 
+			strategic interests of the Romulan 
+			Empire.  But you... you seem to have 
+			a personal interest in him.
+
+					GARAK
+			Tell me -- what else am I feeling?  
+			I've never been psychoanalyzed by a 
+			Romulan before.  This is a fascinating 
+			experience.
+
+					LOVOK
+			You are a practiced liar, Mister 
+			Garak.  But I am a practiced observer.  
+			And I can assure you... I'm going to 
+			be observing you very closely.
+
+	Lovok turns and walks away.  OFF Garak's disturbed face...
+
+									CUT TO:
+
+33   INT. ROMULAN BRIDGE (OPTICAL)
+
+	Lovok, Tain and Garak watch the viewscreen, which shows the 
+	FOUNDERS' PLANET.
+
+					LOVOK
+				(to Pilot)
+			Scan the planet for life-signs.
+
+					PILOT
+				(works)
+			Sensors show multiple lifeforms on 
+			the surface... they appear to be in 
+			a liquid state.
+
+					GARAK
+			The Founders...
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT FOUR     39A.
+
+33   CONTINUED:
+
+					TAIN
+			Signal the fleet to charge weapons 
+			and lock onto their targets.  We 
+			should open fire the moment we drop 
+			our cloaks.
+
+	The Pilot works and the Bridge goes to Green Alert.
+
+					PILOT
+				(works)
+			All ships report ready.  All weapons 
+			charged.
+
+	Tain takes a deep breath, smiles a little.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT FOUR      40.
+
+33   CONTINUED:	(2)
+
+					TAIN
+			So much for the Dominion.
+				(beat)
+			Open fire.
+
+	The lights come UP as the cloak goes off.  On the viewscreen, 
+	we see dozens of PHASER BEAMS leap out from the o.s. fleet 
+	and slam into the Founders' planet.
+
+					PILOT
+				(off console)
+			The first barrage has hit the 
+			surface...
+
+					TAIN
+			Effect?
+
+					PILOT
+			Thirty percent of the planetary crust 
+			destroyed on opening volley...
+				(puzzled)
+			No change in lifeform readings.
+
+					TAIN
+				(frowns)
+			What?  That's impossible.  Some of 
+			them had to be killed.
+
+					PILOT
+			Our sensor readings have been 
+			confirmed by three other warbirds.  
+			There has been no change in the number 
+			of life-signs on the surface.
+
+	A stunned beat.  Garak quickly moves to a console and works 
+	the controls.
+
+					GARAK
+				(off console)
+			It's a ruse.  They're using an 
+			automated transponder to send back 
+			false sensor readings.  The planet's 
+			deserted.
+
+					TAIN
+				(to Lovok)
+			Colonel, signal the fleet to --
+
+	The Pilot's console BEEPS.
+
+					PILOT
+				(off console)
+			Colonel -- there are ships coming 
+			out of the nebula.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FOUR      41.
+
+33   CONTINUED:	(3)
+
+					LOVOK
+			What type of ships?
+
+					PILOT
+			Jem'Hadar fighters.
+
+					TAIN
+			How many?
+
+	The pilot looks at her console, then reacts in shock.
+
+					TAIN
+				(hard)
+			I asked you a question.
+
+					PILOT
+				(knows she's dead)
+			One hundred fifty.
+
+	There's a shocked moment.
+
+					TAIN
+			Tactical display, on screen.
+
+	The viewscreen shows a GRAPHIC of the Romulan/Cardassian 
+	fleet now being surrounded by DOZENS of Jem'Hadar ships.
+
+					GARAK
+			It's a trap... they've been waiting 
+			for us all along.
+
+	OFF Garak and Tain's shocked reactions...
+
+34
+thru   OMITTED 
+35
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        42.
+                           ACT FIVE                             
+
+	FADE IN:
+
+36   EXT. SPACE - A CARDASSIAN SHIP (OPTICAL)
+
+	is under heavy attack by TWO JEM'HADAR ships.  The Cardassian 
+	cruiser tries to fight back, but it's just no use -- the 
+	Cardassian ship is DESTROYED.
+
+37   ANGLE ON ROMULAN WARBIRD (OPTICAL)
+
+	which is also under heavy attack.
+
+38   INT. ROMULAN BRIDGE
+
+	The ship is ROCKED and JOLTED throughout the scene as the 
+	ship takes hit after hit.  A console has already been blown 
+	out, and there are a couple of DEAD N.D. ROMULANS on the 
+	deck.  Lovok is calmly giving orders and fighting his ship 
+	in the midst of chaos, while Tain and Garak struggle to hang 
+	on.
+
+					PILOT
+				(off console)
+			The Cardassian cruiser Koranak has 
+			been destroyed... Romulan warbirds 
+			Makar and Belak have lost main 
+			power...
+
+					LOVOK
+			Bring us about to three-one-eight 
+			mark two-one-five.  Concentrate fire 
+			on ships attacking on the port 
+			quarter.
+
+	An edge of desperation has crept into Tain's voice.  The 
+	ship is ROCKED and another console EXPLODES.  Tain and Garak 
+	look over a console near the back of the Bridge.  Garak turns 
+	to face Lovok.
+
+					GARAK
+			The Jem'Hadar will destroy every 
+			ship if we stay.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        43.
+
+38   CONTINUED:
+
+					GARAK
+			The only hope is to return to the 
+			Alpha Quadrant.
+
+					LOVOK
+			There's no way out of here, Garak.  
+			The Jem'Hadar have cut us off.  We 
+			need to consolidate the fleet and 
+			make our stand here.
+
+	The ship is ROCKED.
+
+					TAIN
+				(in shock)
+			It can't be... how could this have 
+			happened... ?
+
+					GARAK
+				(quiet)
+			I'm afraid the fault, dear Tain, is 
+			not in our stars... but in ourselves.
+
+					TAIN
+			What?
+
+					GARAK
+			Just something I learned from Doctor 
+			Bashir.
+
+	The ship is ROCKED again and the lights FLICKER, then go 
+	DIM.
+
+					PILOT
+			Main power is out.  Switching to 
+			emergency backups.
+
+					LOVOK
+				(to com)
+			Bridge to Engineering.  We need power 
+			to the weapons.
+				(beat)
+			Bridge to Engineering.  Respond.  
+				(beat)
+			I will be in Engineering.  Tain, 
+			take command of the Bridge.
+
+	Lovok heads for the EXIT.
+
+					PILOT
+			Four more Jem'Hadar vessels are 
+			closing on our position.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE       43A.
+
+38   CONTINUED:	(2)
+
+	The ship is ROCKED again, nearly throwing everyone off their 
+	feet as ANOTHER CONSOLE explodes and a FIRE starts on the 
+	Bridge.  N.D. Romulans rush to put out the fire and Tain 
+	hangs on for dear life.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        44.
+
+38   CONTINUED:	(3)
+
+	Garak takes advantage of the chaos to make a quick EXIT 
+	from the Bridge without anyone noticing.
+
+									CUT TO:
+
+39   INT. ROMULAN CORRIDOR
+
+	The Corridor is ROCKING and shaking... the lights FLICKERING.  
+	The Romulan N.D. Guard standing outside Odo's quarters is 
+	having a hard time standing up.  Romulan N.D.s RUN down the 
+	Corridor, on their way to deal with some emergency.  As they 
+	race down the Corridor, we see Garak waiting around the 
+	corner, watching the Guard.  The Guard is momentarily 
+	distracted by the other Romulans running down the Corridor 
+	and that's when Garak makes his move -- he rushes up behind 
+	the Guard and quickly dispatches him with a few well placed 
+	blows.  He then grabs the Guard's disruptor and OPENS the 
+	door to...
+
+40   INT. ROMULAN QUARTERS - CONTINUOUS (OPTICAL)
+
+	as the door OPENS.  Odo is standing inside the room as Garak 
+	ENTERS with the disruptor.
+
+					ODO
+			I take it that the attack on the 
+			Founders is not proceeding according 
+			to plan.
+
+					GARAK
+			No, it's not.  I suggest we make our 
+			way to the runabout.
+
+	The ship is ROCKED again.
+
+					ODO
+			For once, Garak, I agree with you.
+
+	They both turn and head for the doorway, only to find it 
+	blocked by Lovok, who is standing there with a disruptor in 
+	his hand.  He has them both covered and they have no chance.  
+	Odo and Garak are surprised as Lovok steps forward and hands 
+	them a PADD.
+
+					LOVOK
+			You will need this in order to gain 
+			access to your runabout.
+
+	Odo takes the PADD in surprise.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FIVE      45.
+
+40   CONTINUED:
+
+					ODO
+			Why are you doing this?
+
+	Lovok looks him straight in the eye, and as he does so, his 
+	entire demeanor seems to change -- no longer the Romulan 
+	Colonel, but now the ethereal superior attitude of a Founder.  
+	His speech is slower, more assured.
+
+					LOVOK
+			Because no changeling has ever harmed 
+			another.
+
+	Garak and Odo are stunned as they realize that Lovok is a 
+	changeling.
+
+					GARAK
+			You... are one of the Founders?
+
+					ODO
+			Of course... this whole plan was the 
+			Founders' idea in the first place.  
+			You wanted the Tal Shiar and the 
+			Obsidian Order to combine forces and 
+			come into the Gamma Quadrant so you 
+			could wipe them out.
+
+					LOVOK
+			Not exactly.  Tain originated the 
+			plan.  But when we learned of it, we 
+			did everything we could to carry it 
+			forward.  The Tal Shiar and the 
+			Obsidian Order are both ruthless, 
+			efficient organizations -- a definite 
+			threat to us.
+
+					ODO
+			But not after today.
+
+					LOVOK
+			After today the only real threats to 
+			us from the Alpha Quadrant are the 
+			Klingons and the Federation.  And I 
+			doubt either of them will be a threat 
+			for much longer.
+
+	The ship is ROCKED again, the lights go down even LOWER.
+
+					LOVOK
+			It is not too late for you, Odo.  
+			Come with me.  You can still become 
+			one with the Great Link -- if you 
+			wish.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        46.
+
+40   CONTINUED:	(2)
+
+	Odo glances at Garak, wondering what Garak said to Lovok.
+
+					ODO
+			Thank you.  But my answer is still 
+			no.
+
+	Lovok nods in acknowledgement, then steps back and 
+	DEMATERIALIZES.  The ship is ROCKED again.
+
+					ODO
+			Come on.  I don't think we have much 
+			time.
+
+	They EXIT to the Corridor.
+
+41   INT. ROMULAN CORRIDOR - CONTINUOUS
+
+	Garak and Odo ENTER from the Quarters.  The ship is still 
+	ROCKING and we can HEAR the sound of distant EXPLOSIONS.
+
+					GARAK
+				(pointing)
+			The runabout is that way, two decks 
+			down in Section Twenty-five.  I'll 
+			meet you there.
+
+					ODO
+			Where are you going?
+
+					GARAK
+			To the Bridge... to get Tain.
+
+	Odo can't believe what he's hearing.
+
+					ODO
+			What?!
+
+					GARAK
+			I know it's hard for you to 
+			understand, Constable... but I still 
+			owe him a personal debt... and I 
+			have to try and repay it.  Wait for 
+			us as long as you can.
+
+	With that, Garak turns and runs down the Corridor.  Odo looks 
+	after him for a stunned beat.
+
+									CUT TO:
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        47.
+
+42   INT. ROMULAN BRIDGE
+
+	The Bridge is a shambles -- consoles blown out, small fires 
+	everywhere, dead bodies on the deck, the main viewer reduced 
+	to a slab of twisted metal.  Tain -- the only person alive -- 
+	is sitting calmly in the commander's chair, a thoughtful 
+	expression on his face, as if giving careful consideration 
+	to some interesting ideas.  Garak ENTERS, goes quickly to 
+	Tain.
+
+					GARAK
+			Tain!  We have to go.
+
+	Tain looks up at him calmly, oblivious to the destruction 
+	around him or the dire circumstances.
+
+					TAIN
+			There must have been an informant.  
+			It's the only explanation.
+
+					GARAK
+			You're right.  There was an informant -- 
+			Colonel Lovok is a changeling.
+
+	Tain sits back as if physically assaulted.  There's a new 
+	expression on his face -- defeat.
+
+					TAIN
+			Lovok...
+
+					GARAK
+			Yes.  But we can discuss it at a 
+			later time.  Right now I think --
+
+					TAIN
+				(interrupting)
+			It appears I underestimated the 
+			Founders.  I should have seen it 
+			coming.  There was a time when nothing 
+			got past me.  You remember, don't 
+			you, Elim?
+
+	The ship is ROCKED hard... there's another EXPLOSION on the 
+	Bridge.  Garak grabs him by the shoulders, tries to get his 
+	attention.
+
+					GARAK
+			Yes, I do.  But now, we have to go!
+
+					TAIN
+			Go where?  Back to Mila and my... 
+			quiet retirement?  I don't think so.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        48.
+
+42   CONTINUED:
+
+					TAIN
+				(smiles to himself)
+			I must be getting old... I let my 
+			pride override my instincts... 
+			wouldn't have played it that way in 
+			the old days... in the old days I 
+			would've kept Lovok at arms length... 
+			he was too cagey... too smart...
+
+	Garak begins to realize that he's not going to get Tain out 
+	of that chair, but he won't leave without him.
+
+					GARAK
+			I can't just leave you here.
+
+					TAIN
+			I always did have a soft spot for 
+			you, Garak... another of my flaws...
+
+	Garak is about to make another plea, when suddenly Odo's 
+	hand HITS Garak hard from o.c. and KNOCKS HIM OUT.  Garak 
+	crumples to the deck.  Tain barely takes note of this.
+
+					TAIN
+			... these Founders, Elim... they're 
+			very good... next time we'll have to 
+			be more careful...
+
+	Odo ignores Tain and starts to pick up the unconscious form 
+	of Garak.
+
+									CUT TO:
+
+43   OMITTED 
+
+44   INT. RUNABOUT
+
+	Odo in the pilot seat, Garak is now conscious in the other 
+	seat and rubbing what is now a large bruise on his head 
+	ruefully.
+
+					GARAK
+			You can be very persuasive on 
+			occasion, Constable.  But you might 
+			consider using... gentler language 
+			in the future.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        49.
+
+44   CONTINUED:
+
+					ODO
+				(working console)
+			I'll keep that in mind.
+				(beat)
+			A Jem'Hadar ship is following us.  
+			Raise shields and charge the weapons.
+
+	Garak shakes off his grogginess and goes to work.  The ship 
+	is suddenly ROCKED HARD.
+
+					GARAK
+			Aft shields down to fifty percent.  
+			More speed would be advisable.
+
+					ODO
+			The warp drive is off-line.
+
+	The ship is ROCKED again.  And then AGAIN.  A console EXPLODES 
+	behind them.
+
+					GARAK
+			Shields down to thirty percent.
+
+					ODO
+			Another Jem'Hadar ship approaching 
+			to starboard.  Hang on!
+
+	Odo works the console and the ship BANKS HARD to the LEFT.
+
+					GARAK
+			Shields down to fifteen percent.
+
+	The ship is ROCKED and the lights go DIM.
+
+					ODO
+			Main power's failing.  We're losing 
+			speed.
+
+	The ship is ROCKED and all the lights go OUT.
+
+					GARAK
+			The shields are gone.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FIVE      50.
+
+44   CONTINUED:	(2)
+
+	There's a beat as they both realize that they're dead.  
+	Garak looks over at Odo.
+
+					GARAK
+			Odo... I hope that you'll accept my 
+			sincere apologies for all this.
+
+					ODO
+			A little late isn't it?
+
+					GARAK
+			Nevertheless...
+
+	There's a beat, and then Odo nods his forgiveness.
+
+					ODO
+			I may not agree with what you did, 
+			but I... can certainly understand 
+			your... desire to return home.
+
+					GARAK
+				(smiles)
+			Thank you.
+
+	Odo looks out the window and reacts in shock at what he sees.
+
+					ODO
+			What... ?
+
+45
+thru   OMITTED 
+46
+
+47   ANGLE ON WINDOW (OPTICAL)
+
+	Through the window of the runabout, we can suddenly see the 
+	DEFIANT DECLOAK directly ahead of us and roar overhead.
+
+47A  EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The Defiant passes the runabout and FIRES on the pursuing 
+	Jem'Hadar ships, DESTROYING THEM BOTH.
+
+48   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Sisko, Eddington, Kira, and Dax at their stations.  The ship 
+	is at RED ALERT and the mood is tense and urgent.
+
+					KIRA
+			Three more coming in off the port 
+			bow!
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FIVE     50A.
+
+48   CONTINUED:
+
+					SISKO
+			Fire on the lead ship, then bring us 
+			back to the runabout.
+
+	Kira works and on the viewscreen, we can see the lead 
+	Jem'Hadar ship HIT by the Defiant's PHASERS and it is 
+	DESTROYED.
+
+					DAX
+			Two life-signs on the runabout, 
+			Commander.
+
+					SISKO
+				(to Eddington)
+			Drop shields.
+				(to com)
+			Bridge to Transporter Room.  Beam 
+			them aboard, Chief.
+
+					O'BRIEN'S COM VOICE
+			Aye, sir.
+
+					EDDINGTON
+			Four more Jem'Hadar ships closing to 
+			starboard.
+
+					O'BRIEN'S COM VOICE
+			O'Brien to Bridge.  I've got them.
+
+					SISKO
+			Raise shields.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FIVE      51.
+
+48A  INT. DEFIANT - TRANSPORTER ROOM
+
+	O'Brien at the console, Bashir standing nearby with a medkit 
+	as Odo and Garak step off the stage.
+
+					O'BRIEN
+			Welcome back.
+
+					ODO
+			Thank you.
+
+	Bashir sees the bruise on Garak's head.
+
+					BASHIR
+			That looks painful.
+
+					GARAK
+			It is.
+				(glances at Odo)
+			But it did save my life.
+
+	The ship is ROCKED...
+
+48B  INT. DEFIANT - BRIDGE
+
+	As the ship continues to ROCK.
+
+					DAX
+			Cloaking device is off-line.
+
+					EDDINGTON
+			Shields holding.
+
+					SISKO
+				(to Dax)
+			Attack pattern omega four.  Full 
+			impulse power.
+				(to Kira)
+			Hold your fire until we're within 
+			five hundred meters.
+
+					KIRA
+			We might get pretty singed at that 
+			range.
+
+					SISKO
+			Not as singed as they're going to 
+			get.  Engage.
+
+49   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship roars directly into the teeth of INTENSE FIRE from 
+	the THREE JEM'HADAR SHIPS.
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FIVE     51A.
+
+49A  INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Phaser fire from the Jem'Hadar ships fills the screen as 
+	everyone steels themselves.
+
+					DAX
+			Fifty thousand meters and closing.
+
+49B  EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship twists and rolls to avoid the Jem'Hadar fire.
+
+49C  INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As before.
+
+					DAX
+			Two thousand meters...
+
+	On the viewscreen, the Defiant closes in on the three 
+	Jem'Hadar ships.
+
+					DAX
+			Five hundred!
+
+					SISKO
+			Fire!
+
+49D  EXT. SPACE - DEFIANT & JEM'HADAR SHIPS (OPTICAL)
+
+	The Defiant almost runs into the three Jem'Hadar ships before 
+	opening fire.  The first ship is hit and banks away... the 
+	second and third ships are destroyed.
+
+50   INT. DEFIANT - BRIDGE
+
+	As before.  Odo and Garak ENTER the Bridge along with Bashir 
+	and O'Brien.  The ship is ROCKED again.
+
+					KIRA
+			The third Jem'Hadar fighter is still 
+			pursuing.
+
+					SISKO
+			Aft torpedoes.  Fire.
+
+	Kira watches her console.
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE        52.
+
+50   CONTINUED:
+
+					KIRA
+			Direct hit on their port nacelle.  
+			They're losing speed... we're out of 
+
+			their weapons' range.
+
+					SISKO
+			Any other signs of pursuit?
+
+					DAX
+			Negative.  The other fighters are 
+			still concentrating on the remaining 
+			Romulan and Cardassian ships.
+
+					SISKO
+			Let's not wait around for them to 
+			change their minds.  Set course for 
+			the wormhole, Lieutenant.  Warp eight.
+
+	Dax works her console as Kira moves to Odo.
+
+					KIRA
+			It's... good to see you again, 
+			Constable.
+
+					ODO
+			Likewise... major.
+
+					DAX
+			Course laid in.
+
+					SISKO
+			Engage.
+
+	OFF Sisko's face as he relaxes for the first time.
+
+									CUT TO:
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/15/95 - ACT FIVE      53.
+
+
+51   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+
+51A  INT. COMMANDER'S OFFICE (OPTICAL)
+
+	Sisko is standing in front of his monitor, talking to Admiral 
+	Toddman.
+
+					SISKO
+			There's still no indication that any 
+			Romulan or Cardassian vessels survived 
+			the attack.
+
+					TODDMAN
+				(shakes his head)
+			Sounds like Wolf Three-Five-Nine all 
+			over again.
+
+					SISKO
+				(grim)
+			I had the same thought.
+
+	Toddman nods, then moves on to other business.
+
+					TODDMAN
+			You may be interested to know, I've 
+			decided not to file charges against 
+			anyone on the Defiant.
+
+					SISKO
+			Thank you, sir.
+
+					TODDMAN
+				(tough)
+			But if you pull a stunt like that 
+			again, I'll court martial you... or 
+			promote you.  Either way, you'll be 
+			in a lot of trouble.
+
+	A beat, and we can see just a hint of amusement in Toddman's 
+	gruff exterior.
+
+					SISKO
+			I'll keep that in mind.  Sir.
+
+	Toddman nods and then reaches over and touches a control, 
+	ENDING the transmission.  OFF Sisko's pleased reaction...
+
+									CUT TO:
+
+         DEEP SPACE: "The Die is Cast" - 02/14/95 - ACT FIVE       53A.
+
+52   INT. GARAK'S SHOP
+
+	The shop is still ruined from the explosion.  Nothing has 
+	been repaired or cleaned up.  Garak is poking about in the 
+	rubble, contemplating the destruction.  After a beat, he 
+	turns and finds Odo standing in the doorway, watching him.  
+	Odo eyes him evenly, and says without preamble...
+
+					ODO
+			I read the report you wrote... and I 
+			wanted to thank you.
+
+					GARAK
+				(surprised)
+			Me?  For what?
+
+					ODO
+			For not mentioning my... desire to 
+			return to my people.
+
+					GARAK
+			I consider the entire conversation 
+			as... something best forgotten.
+
+					ODO
+			As do I.
+
+	There's a beat and then Odo takes a few steps in the wreckage.
+
+					ODO
+				(continuing)
+			Quark has expressed an interest in 
+			renting this space if you're not 
+			going to be using it.
+
+					GARAK
+			Oh?
+
+      DEEP SPACE: "The Die is Cast" - REV. 02/16/95 - ACT FIVE      54.
+
+52   CONTINUED:
+
+					ODO
+			He mentioned something about an 
+			Argelian massage facility.
+
+					GARAK
+			Unfortunately, I don't think Commander 
+			Sisko will approve of such an... 
+			interesting facility on the Promenade.
+
+					ODO
+			I tend to agree.  But I think he 
+			would approve of... a tailor's shop.
+
+	There's a quiet beat as Garak looks over the ruins.
+
+					GARAK
+			You know what the sad part is, Odo... 
+			I'm a pretty good tailor.
+
+	Odo nods and then heads for the door.  He pauses on the 
+	threshold.
+
+					ODO
+			Garak... I was thinking that... we 
+			should have breakfast together... 
+			sometime.
+
+					GARAK
+				(surprised)
+			Why, Constable... I thought you didn't 
+			eat.
+
+					ODO
+			I don't.
+
+	There's a quiet moment and then Garak nods his head in 
+	acknowledgment of Odo's unspoken invitation for something 
+	that might be akin to friendship and Odo nods back.  Odo 
+	EXITS, leaving Garak alone to contemplate his future.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+
+					JENNIFER
+			You'd better go.
+
+	Sisko nods, then turns to O'Brien.
+
+					SISKO
+			Take me home, Smiley.
+
+	Sisko reluctantly turns and EXITS with O'Brien.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

@@ -1,0 +1,2905 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "Battle Lines" 
+                          #40511-413 
+                              
+                           Story by 
+                         Hilary Bader 
+                              
+                          Teleplay by 
+                         Richard Danus 
+                              and 
+                          Evan Somers 
+                              
+                          Directed by 
+                          Paul Lynch 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        JANUARY 21, 1993
+
+         DEEP SPACE: "Battle Lines" - 01/21/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Battle Lines" 
+                             CAST 
+
+          BENJAMIN SISKO           SHEL-LA
+          MILES O'BRIEN            ZLANGCO
+          KIRA NERYS               
+          ODO                      
+          JULIAN BASHIR            
+          JADZIA DAX               
+
+          KAI OPAKA                
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          SUPERNUMARIES            NIMA
+          BAJORAN MONK             VARIOUS ENNIS
+                                   VARIOUS NOL-ENNIS         DEEP SPACE: "Battle Lines" - 01/21/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Battle Lines" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          PROMENADE                     
+          OPS                           MOON
+          COMMANDER'S OFFICE            
+          AIRLOCK                       RUNABOUT
+
+        RUNABOUT                        SATELLITE
+
+     DEEP SPACE: "Battle Lines" - 1/25/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Battle Lines" 
+                      PRONUNCIATION GUIDE 
+
+          BAJOR                    BAY-Jor
+          BAJORAN                  bah-JOR-an
+          CARDASSIAN               car-DASS-ee-en
+          ENNIS                    EH-nis
+          GOLIN                    GOH-lin
+          HYSTERESIS               his-teh-REE-ses
+          IDRAN                    IH-dran
+          KAI OPAKA                KYE oh-PAH-kah
+          NOL-ENNIS                NOHL EH-nis
+          RIO GRANDE               REE-oh GRAND
+          SHEL-LA                  shel-LAH
+          VAYAN                    VAYE-yahn
+          YANGTZEE KIANG           YANG-se KEY-an
+          ZLANGCO                  ZLANG-koe
+          MESON                    MAY-zon
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        xx.
+
+                  STAR TREK: DEEP SPACE NINE                    
+
+                            "Battle Lines"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. COMMANDER'S OFFICE
+
+	DAX and O'BRIEN are standing before the Commander's desk as 
+	SISKO examines a series of files on his access monitor.
+
+					O'BRIEN
+			What's funny is where the files were 
+			located: right there in Ops protocols.
+
+					DAX
+			The encryption system was extremely 
+			easy to break.
+
+					SISKO
+				(looking up)
+			So they wanted us to find these.
+
+					DAX
+			Or they didn't care.
+
+	Sisko pops out a data clip and the monitor goes blank.
+
+					SISKO
+			Well, there's nothing of strategic 
+			value here.  Just personal logs and 
+			some files on Bajoran terrorists.  
+			But it is a glimpse into the 
+			Cardassian mind.
+
+					O'BRIEN
+			You might want to warn Kira before 
+			she sees her file.
+
+	KIRA ENTERS at that moment and Sisko immediately stands.
+
+					KIRA
+			Warn me about what?
+
+					SISKO
+			Oh, ah, Dax and Chief O'Brien 
+			discovered some of the last Prefect's 
+			personal files.  There's a file on 
+			you, but you may find it... 
+			disappointing.
+
+            DEEP SPACE: "Battle Lines" - 1/21/93 - TEASER            2.
+
+1    CONTINUED:
+
+					KIRA
+			I'm a big girl, Commander.
+
+	Sisko reluctantly places the data clip on his desk, then 
+	EXITS, quickly followed by Dax and O'Brien.
+
+2    INT. OPS - CONTINUOUS
+
+	Sisko, Dax and O'Brien assume their Ops stations alongside 
+	various N.D.s to await the fallout from Kira.
+
+					BASHIR'S COM VOICE
+			Bashir to Sisko!
+
+					SISKO
+			Sisko here.
+
+					BASHIR'S COM VOICE
+				(excited)
+			I'm at Airlock Fourteen, Commander.  
+			I think you'd better get down here.
+
+					SISKO
+			What's the problem, Doctor?
+
+					BASHIR'S COM VOICE
+			I was about to begin off-loading 
+			some medical specimens from the 
+			Bajoran transport... and... well... 
+			The Kai is here!
+
+					SISKO
+				(disbelieving)
+			Kai... Opaka?  Why would she be here?
+
+					BASHIR'S COM VOICE
+			She says you once offered her a tour 
+			of the station.
+
+	Sisko, O'Brien and Dax exchange surprised looks.  At that 
+	moment Kira bursts out of the Commander's Office, furious.
+
+					KIRA
+			"A minor operative whose activities 
+			are limited to running errands for 
+			the terrorist leaders."
+
+            DEEP SPACE: "Battle Lines" - 1/22/93 - TEASER            3.
+
+2    CONTINUED:
+
+					SISKO
+				(to Bashir)
+			Tell her I'll be right there.
+				(approaching Kira)
+			Major, when you're through feeling 
+			underappreciated, perhaps you'd join 
+			me in welcoming the Kai aboard.
+
+	Kira stares at Sisko, speechless.
+
+3    INT. PROMENADE AT BAJORAN TEMPLE
+
+	OPAKA and Kira emerge from the temple, followed by one Bajoran 
+	monk.  A beat later Sisko and BASHIR emerge.  ODO and a few 
+	strategically scattered BAJORAN DEPUTIES watch vigilantly 
+	from across the Promenade.
+
+4    BASHIR AND SISKO
+
+	They watch as Opaka moves along the Promenade, oblivious to 
+	the passersby who stare reverently or curiously at her.
+
+					BASHIR
+				(quietly)
+			You say she's never been here before?
+
+					SISKO
+			She's never even left Bajor before.
+
+					BASHIR
+			Excuse me for saying so, Commander, 
+			but she looks preoccupied.
+
+5    THE SECOND LEVEL - KIRA AND OPAKA
+
+	entering from the stairway... The Kai, strangely silent, 
+	drifts to a viewport, gazes out into open space.
+
+					KIRA
+				(all concern)
+			Is something wrong, Opaka?
+
+	Opaka is thoughtfully fingering a pendant she wears around 
+	her neck.  She takes Kira's hand.
+
+					OPAKA
+			... Contemplating prophecy.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - TEASER          4.
+
+5    CONTINUED:
+
+					KIRA
+			Interesting you chose this viewport.
+				(pointing)
+			The wormhole is just out there.
+
+	Sisko and Bashir step up behind them.					BASHIR
+			It's a spectacular sight to see.
+
+					SISKO
+			Unfortunately, it can only be seen 
+			when a ship enters it or exits, and 
+			nothing's scheduled for today.
+
+					OPAKA
+			A shame.
+
+	Opaka smiles inwardly.  She turns to Sisko and stares at him 
+	with anticipation.  After a beat...
+
+					SISKO
+				(tapping com badge)
+			Sisko to O'Brien.
+
+					O'BRIEN'S COM VOICE
+			Go ahead Commander.
+
+					SISKO
+			Prepare the Yangtzee Kiang for launch, 
+			Chief.  Kira and I are taking the 
+			Kai through the wormhole.
+
+	Kira acknowledges her inclusion with a thankful nod.
+
+					O'BRIEN'S COM VOICE
+			Right away, sir.
+
+	Sisko looks to Opaka for confirmation that he read her mind 
+	correctly.  She has an almost relieved expression.
+
+					OPAKA
+			Thank you.
+
+	Sisko notices Bashir staring plaintively at him.
+
+					SISKO
+			I didn't want to keep you from your 
+			duties, Doctor.
+
+					BASHIR
+			It's a slow day.
+
+            DEEP SPACE: "Battle Lines" - 1/22/93 - TEASER            5.
+
+5    CONTINUED:	(2)
+
+					SISKO
+				(beat)
+			All right.
+				(takes Opaka's arm)
+			This way --
+
+	He leads her away.  Kira and Bashir follow.
+
+6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG
+
+	O'Brien and a Bajoran crewmember emerge from the Runabout, 
+	wiping their hands and packing up a tool chest.  Sisko, Kira 
+	and Opaka approach, followed by Bashir.  Seeing the Kai, the 
+	Bajoran bows his head and O'Brien straightens up.
+
+					SISKO
+			Is the ship ready, Chief?
+
+					O'BRIEN
+			Prepped and ready for departure, 
+			Commander.
+				(to Opaka, sincerely)
+			Ma'am --
+
+					SISKO
+				(to Opaka)
+			After you.
+
+	Opaka and Sisko step toward the Runabout, but Opaka stops 
+	just short of entering.  She fingers the pendant around her 
+	neck, then looks up at O'Brien.
+
+					OPAKA
+			You have a child, don't you?
+
+					O'BRIEN
+			I do.  I have a little girl, ma'am.
+
+					OPAKA
+				(pleased)
+			Would you give her this for me.
+
+	Opaka removes the pendant and hands it to him, then enters 
+	the Runabout.  Baffled, O'Brien looks to Sisko for an answer 
+	but he has none.  He simply shrugs his shoulders and follows 
+	Kira and Bashir into the Runabout.  The doors shut as O'Brien 
+	walks away, gazing curiously at the pendant.
+
+            DEEP SPACE: "Battle Lines" - 1/21/93 - TEASER            6.
+
+7    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Yangtzee Kiang rises off of its launch elevator on the 
+	habitat ring and arcs away from the station...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+           DEEP SPACE: "Battle Lines" - 1/21/93 - ACT ONE            7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+8    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	Traveling at impulse speed.
+
+9    INT. RUNABOUT
+
+	Sisko and Kira in the pilot and co-pilot seats... Bashir and 
+	Opaka behind them.
+
+					SISKO
+				(to Opaka)
+			We'll be entering the wormhole in 
+			about a minute.
+
+					OPAKA
+			Thank you again for indulging me.
+
+					KIRA
+				(beating Sisko)
+			Not at all, Opaka.  You honor us 
+			with your presence.
+
+					SISKO
+				(to com)
+			Yangtzee Kiang to DS Nine.  Estimating 
+			time of return, fourteen hundred 
+			hours.
+
+					DAX'S COM VOICE
+			Logged in... We'll expect you then.
+
+					KIRA
+			Flight stabilization at maximum...
+
+	Sisko examines a display, then quickly works controls.
+
+					SISKO
+			Here we go.
+
+	A jolt, then a burst of light explodes through the windows.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT ONE         8.
+
+
+10   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	The ship is suddenly drawn forward into the kaleidoscopic 
+	vortex which appears before them.
+
+11   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	In the wormhole...
+
+12   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	emerges from the other side of the wormhole...
+
+13   INT. RUNABOUT - ON OPAKA
+
+	The last flickers of interactive light on her face...
+
+					BASHIR
+			Spectacular, isn't it...
+
+					OPAKA
+			More than I imagined...
+
+14   ANGLE - KIRA AND SISKO
+
+	Kira works controls briefly.
+
+					SISKO
+			My smoothest ride yet, Major.
+
+	Everyone turns to Opaka, anticipating her response to the 
+	experience, but she gazes off into space silently.  Leaning 
+	forward, Bashir points out the window for her.
+
+					BASHIR
+			There's Idran, the closest system.  
+			It's a ternary star.
+
+	Oblivious, Opaka continues to gaze off into space silently.
+
+					OPAKA
+				(after a beat)
+			A doorway to the unknown...
+
+					SISKO
+			The other side of the galaxy, to be 
+			precise.  The Gamma quadrant is 
+			seventy thousand light years from 
+			Bajor.  (MORE)
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT ONE            9.
+
+13   CONTINUED:
+
+					SISKO
+			It would take our fastest starship 
+			over sixty-seven years to get here.
+
+					OPAKA
+			I'm glad I got the chance to see it.
+
+					SISKO
+			You'll be seeing what this wormhole 
+			means to Bajor in a few years.
+
+					OPAKA
+			If that is to be my fate, Commander.
+
+					KIRA
+				(to Sisko)
+			Should I reverse course?
+
+					OPAKA
+			So soon?
+
+					SISKO
+				(regretfully)
+			There isn't much else to show you 
+			yet.
+
+					OPAKA
+			Prophecy is often vague, Commander, 
+			that's why we must test it...
+
+	Sisko and Kira exchange confused looks.
+
+					SISKO
+			I don't understand, Opaka.
+
+					OPAKA
+			... You may return.
+
+	Sisko waits, hoping for a better answer, but none comes.
+
+					SISKO
+			Take us back to the wormhole, Major.
+
+					KIRA
+			Coming about...
+
+	But before she completes that, a short on-off pinging sound 
+	emanates from her console.  Kira studies a readout.
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT ONE           10.
+
+13   CONTINUED:	(2)
+
+					KIRA
+			Sensors are picking up a narrow band 
+			subspace signal...
+
+					SISKO
+			What do you make of it?
+
+	Kira presses panels and studies a display closely.
+
+					KIRA
+			Just a long stream of statistical 
+			data followed by a request for 
+			response... but I'm not reading a 
+			reply.
+
+					SISKO
+			Launch a class two probe.  We'll 
+			follow it up later.
+
+					OPAKA
+				(genuinely surprised)
+			You're not going to investigate it 
+			now?
+
+					SISKO
+			I'm not sure that's a good idea --
+
+					OPAKA
+			Because of my presence?
+
+					KIRA
+			There's no telling what it may be.
+
+	Opaka leans toward Sisko, smiling her most beguiling smile.
+
+					OPAKA
+			Please, Commander... I don't get out 
+			here often.
+
+	Sisko glances at Kira and his expression says it all -- how 
+	can you refuse the spiritual leader of Bajor?
+
+					SISKO
+			Can you get a fix on the source, 
+			Major?
+
+					KIRA
+			... Point three-five light years.  
+			Bearing... two-two-nine mark four-
+			one.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT ONE        11.
+
+
+13   CONTINUED:	(3)
+
+					SISKO
+				(reluctantly)
+			I guess we'd better take a look.
+
+	Kira hits some panels...
+
+					KIRA
+			Engaging warp...
+
+14   OMITTED
+
+15   EXT. MOON (OPTICAL)
+
+	A small meteor-pocked moon with a cloud-shrouded atmosphere... 
+	move to find the Runabout moving into orbit.
+
+16   INT. RUNABOUT
+
+	Opaka is leaning on the back of Sisko's chair, fascinated by 
+	what she sees...
+
+					KIRA
+			This is definitely the origin of the 
+			signal, but I'm having trouble 
+			pinpointing the source... It isn't 
+			coming from the surface...
+
+	Sisko presses panels and a graphic appears on a monitor.
+
+17   INSERT - MONITOR (VPB)
+
+	The graphic reveals a network of dozens of satellites 
+	distributed evenly around the moon.  One of them is slowly 
+	falling into the atmosphere...
+
+					SISKO (O.S.)
+			There's your answer: a network of 
+			artificial satellites -- one of them 
+			looks like it's malfunctioning -- 
+			its orbit is unstable...
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT ONE       11A.
+
+18   RESUME
+
+					SISKO
+				(continuing)
+			I'd bet the signals we picked up 
+			were from the system trying to repair 
+			it...
+
+	Something on Bashir's console gets his attention.
+
+					BASHIR
+			Commander, sensors are indicating 
+			lifeforms... localized to a twelve 
+			square kilometer area on the moon's 
+			surface...
+				(checking)
+			They may be humanoid, sir...
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT ONE        12.
+
+18   CONTINUED:
+
+					SISKO
+				(reacts)
+			Humanoid... can you verify that?
+
+					BASHIR
+			I can't resolve the bio-patterns -- 
+			there's too much interference.
+
+
+					SISKO
+				(to Kira)
+			Take us in a little closer.
+
+	Kira presses panels... she reacts to a flashing light on her 
+	console.
+
+					KIRA
+			We're being scanned by one of the 
+			satellites.
+				(checking sensors)
+			I don't like this... it's heading 
+			toward us...
+
+					SISKO
+			Shields up!
+
+					KIRA
+				(urgent)
+			... Reading a significant power build-
+			up in the satellite... six hundred 
+			megawatts... nine hundred...
+
+19
+thru   OMITTED
+20
+
+20A  ANGLE - MONITOR (VPB)
+
+	to see the growing image of a satellite approaching... 
+	releasing an energy burst...
+
+					KIRA
+				(continuing)
+			... it's firing... !
+
+21
+thru   OMITTED 
+23
+
+24   RESUME - WIDE
+
+	A huge shake... Red warning lights flash and a klaxon sounds.  
+	Kira frantically presses panels.  Smoke fills the cabin.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT ONE        13.
+
+24   CONTINUED:
+
+					KIRA
+			Shields are down... forward thrusters 
+			are gone... we're losing power...
+
+					SISKO
+			Attempting to compensate with 
+			secondary boosters.
+
+					KIRA
+			Impulse generators failing --
+
+	Sisko and Kira struggle to control the shaking craft.
+
+					SISKO
+			Hold on... we're going down!
+
+	Opaka grabs Bashir's hand, holds it tightly.  Kira shoots a 
+	desperate glance back at the Kai...
+
+25   ANGLE - TOWARD FRONT WINDOW (OPTICAL)
+
+	as they move down into the atmosphere... glimpses of the 
+	moon peek through the cloud cover...
+
+					SISKO
+			Check contingency fuel cell output...
+
+					KIRA
+			Holding at sixty-five percent...
+
+					SISKO
+			Doctor, watch the hull temperature.
+
+					BASHIR
+			Aye, sir...
+
+					KIRA
+			Stabilizing attitude control response.
+
+					SISKO
+			Pitching up to twenty degrees...
+
+					BASHIR
+			Hull temperature nine hundred C... 
+			nine-fifty... eleven hundred...
+
+         DEEP SPACE: "Battle Lines" - REV. 1/26/93 - ACT ONE        14.
+
+26   INT. RUNABOUT
+
+	Kira and Sisko look forward, concentrating...
+
+					KIRA
+			We're holding profile...
+
+					BASHIR
+			Twelve hundred C... thirteen...
+
+					SISKO
+			Ejecting antimatter pod...
+
+	He hits a panel... we hear a clang/woosh...
+
+					KIRA
+			Pitching up to sixty degrees... 
+			prepare for final braking maneuvers...
+
+					SISKO
+			Brace for impact... !
+
+	After a beat, the Runabout shakes and rolls as it hits the 
+	ground roughly.  The four of them toss violently from side 
+	to side.  The lights fail, leaving the ship in utter 
+	darkness... A final sound of twisting metal, and then...
+
+27   EXT. MOON'S SURFACE
+
+	A barren, lifeless landscape dotted with gray, jagged rocks.  
+	A fog hovers over everything.  CAMERA PANS through the murk 
+	until we see the broken Runabout.  It has crashed against a 
+	huge boulder... it is covered with smoke, broken vents spewing 
+	nitrogen, sparks...
+
+28   SISKO
+
+	claws his way out.  He's dazed but able to function.  He 
+	tears at twisted metal.  Bashir emerges from a distorted 
+	doorway, coughing, dragging the limp body of the Kai with 
+	Kira's help...
+
+	They manage to carry her a few yards away before collapsing 
+	from exhaustion.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT ONE        15.
+
+29   OMITTED
+
+30   BASHIR
+
+	scans Opaka with his medical tricorder.
+
+					BASHIR
+			Pulmonary collapse... her upper 
+			thoracic vertebrae have been 
+			crushed...
+
+	He checks her pulse manually, then desperately tries standard 
+	CPR techniques...
+
+					KIRA
+			Stay with us, Opaka... stay with 
+			us...
+
+	But Bashir's efforts fail... he shakes his head sadly.
+
+					BASHIR
+			... I'm sorry.
+
+	Tears fill Kira's eyes as she realizes the Kai is dead.  She 
+	lays Opaka down.  Holding her head low, and whispers a Bajoran 
+	death chant in a deep, somber voice.
+
+					KIRA
+			Ahn-kay ya, ay-ya vasu.  Coh-ma-ra, 
+			di-nay-ya.
+
+	She repeats the sad chant as Sisko and Bashir watch 
+	helplessly.  Something disturbs Sisko.  He spins around 
+	rapidly to see...
+
+31   NEW ANGLE
+
+	From the opposite side of a rocky knoll above them, hands 
+	appear reaching over the rock's crest.
+
+					SISKO
+			... We've got company.
+
+	They start to reach for phasers but stop as they see it's 
+	too late -- five humanoids have risen over the crest 
+	brandishing menacing-looking weapons and have us well covered.  
+	They wear an alien form of rugged but tattered outer garments 
+	and their faces are battle-scarred to various degrees.
+
+	Off reactions...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT TWO           16.
+                            ACT TWO                             
+
+	FADE IN:
+
+32   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+33   INT. OPS
+
+	Dax and O'Brien prepare for an away mission.  They are 
+	selecting phasers and tricorders when Odo ENTERS, clearly 
+	worried.  He follows them around Ops as they hurriedly finish 
+	last minute business.
+
+					ODO
+			Still no contact with Sisko?
+
+					DAX
+			Not yet.
+
+					ODO
+			They're nearly three hours overdue.
+
+					O'BRIEN
+			Three and a half.
+
+	Dax accepts a data clip from an N.D. and joins O'Brien on 
+	his way to the Transporter.  Odo dogs their heels.
+
+					ODO
+			Opaka's people are on subspace to me 
+			every five minutes...
+
+					O'BRIEN
+			Tell them one of our runabouts found 
+			a trace of a warp eddy current... 
+			it's gotta be from their ship...
+
+					DAX
+			With a little luck, we might be able 
+			to determine the direction they were 
+			heading...
+
+					ODO
+			That's not going to satisfy them on 
+			Bajor... you have no idea what the 
+			Kai means to them... when they heard 
+			Sisko had taken her into the 
+			wormhole...
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT TWO        17.
+
+	O'Brien gets on the Turbolift...
+
+					O'BRIEN
+				(testy, worried)
+			Constable... you tell them we're 
+			doing the best we can... okay...
+
+	As Dax joins him...
+
+					O'BRIEN
+				(to com)
+			Runabout Pad C...
+
+	The Turbolift begins to move...
+
+					DAX
+				(gentler)
+			Have the Bajorans station a ship on 
+			the Gamma side, we'll stay in close 
+			touch by subspace...
+
+	Odo acknowledges and they're gone... on his concerned 
+	reaction...
+
+34   INT. CAVE
+
+	The cave is really a tunnel which expands into a larger 
+	chamber.  Strings of odd-shaped lights are crudely hung on 
+	the ceiling.
+
+	As Sisko, Kira and Bashir pass, the Ennis inhabiting the 
+	cave halt their mundane activities (sewing, cleaning weapons, 
+	eating) to stare at the strange aliens.  All of them wear 
+	tattered clothes.
+
+	They arrive before SHEL-LA, the Ennis leader, standing by a 
+	fire.  He is battle-scarred and tough-looking, but a great 
+	weariness surrounds him.  NIMA places the phasers and Bashir's 
+	medical kit by him.  Shel-la picks up a phaser and briefly 
+	examines it, stands to examine his new arrivals.
+
+					SHEL-LA
+			Our first visitors...
+				(stops before Kira)
+			You are not all the same race.
+
+					KIRA
+				(angry and in pain)
+			I am a Bajoran!
+
+            DEEP SPACE: "Battle Lines" 1/22/93 - ACT TWO            18.
+
+34   CONTINUED:
+
+					SISKO
+			I'm Commander Benjamin Sisko.
+				(gesturing)
+			Major Kira Nerys and Doctor Julian 
+			Bashir.
+
+	Shel-la turns toward Bashir and laughs a grim laugh.
+
+					SHEL-LA
+			A doctor?  How... ironic.
+				(faces Sisko)
+			I'm Golin Shel-la, leader of the 
+			Ennis.  Why are you here?
+
+					SISKO
+			We were attacked by one of your 
+			satellites.  Our ship was damaged 
+			and we crashed.
+
+					SHEL-LA
+				(impatient)
+			Of course -- but why did you come 
+			here?
+
+					SISKO
+			We were exploring.  We've recently 
+			discovered a permanent wormhole 
+			linking our quadrant of the galaxy 
+			to yours.  I command a space station 
+			at the mouth of that wormhole.
+
+					SHEL-LA
+			So you know nothing of our home 
+			planet... or the punishment?
+
+					SISKO
+			We're just beginning to explore this 
+			sector.  As I said, our home is on 
+			the other side of the galaxy.
+
+	Shel-la is relieved.  He resumes his position by the fire 
+	and studies the phaser.  Kira stifles a cry of pain and falls 
+	to her knees, clutching her shoulder.  Bashir helps her onto 
+	a bench.
+
+					KIRA
+			I'm all right --
+
+					BASHIR
+			The hell you are.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT TWO        19.
+
+34   CONTINUED:	(2)
+
+	Bashir approaches Shel-la.  Nima's gun is instantly on 
+	him.  Despite Nima's threat, Bashir points to the medical 
+	kit next to Shel-la's throne.  He is well aware of the danger 
+	he's courting.
+
+					BASHIR
+			She needs treatment.  Do you mind?
+
+	After a beat... Shel-la nods to Nima who picks up the kit, 
+	looks through it briefly, then tosses it to Bashir.  Bashir 
+	hurries over to Kira.  He scans her with his tricorder and 
+	administers a hypospray.
+
+					SHEL-LA
+			I apologize for our cautious nature.  
+			If you haven't realized... we are at 
+			war.
+
+					SISKO
+			Who are you fighting?
+
+					SHEL-LA
+				(cold anger)
+			A brutal enemy who attacks at whim.  
+			We must maintain a constant vigil.
+				(casual, re: the phaser)
+			Is this some sort of energy weapon?
+
+					SISKO
+				(beat, acknowledges 
+				reluctantly)
+			Yes...
+
+	Shel-la grunts a laugh of uninterest... tosses it aside...
+
+					SHEL-LA
+			The Ennis stopped using directed 
+			energy weapons centuries ago -- not 
+			damaging enough.
+
+	Shel-la rises, gestures Sisko to follow him...
+
+35   SISKO AND SHEL-LA
+
+	as they walk through the cave-encampment.
+
+					SHEL-LA
+			Your arrival complicates matters...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT TWO          19A.
+
+35   CONTINUED:
+
+					SISKO
+			We don't plan to be here long.
+
+					SHEL-LA
+				(laughing)
+			You expect to repair your ship?
+
+					SISKO
+			No, but a rescue team is probably on 
+			it's way right now.
+
+           DEEP SPACE: "Battle Lines" - 1/21/93 - ACT TWO           20.
+
+35   CONTINUED:	(2)
+
+					SHEL-LA
+			Like you, they'll have to deal with 
+			the defense-net -- and that is beyond 
+			my influence.
+
+					SISKO
+			You don't control the satellites?
+
+					SHEL-LA
+			We are all prisoners on this moon.
+
+					SISKO
+			Then, this is a penal colony...
+
+					SHEL-LA
+			My immediate concern regards your 
+			partisanship.  By your presence here, 
+			you will be considered our ally.  
+			Your lives are in danger.
+
+	Shel-la stops before a group of wounded Ennis.
+
+					SHEL-LA
+			The most recent victims of our enemy -- 
+			the Nol-Ennis.
+
+					SISKO
+			Where are your doctors?
+
+					SHEL-LA
+			We have none.
+
+	Sisko bends down and looks over the wounded -- they're all 
+	in obvious agony.  He stands and faces Shel-la, shocked.
+
+					SISKO
+			You have no medical personnel?  How 
+			can you survive without...
+
+					SHEL-LA
+			... We were "thrust" into this 
+			situation with few resources.  And 
+			since you are here under similar 
+			circumstances... I was hoping we 
+			could help each other.
+
+	As Sisko reacts curiously...
+
+36   BASHIR AND KIRA
+
+	as he applies a dressing to her wounded shoulder.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT TWO        21.
+
+
+					BASHIR
+			This should make you feel better...
+
+	But Kira is silent... the pain she feels is not for herself 
+	but for the loss of the Kai... Bashir understands...
+
+					BASHIR
+				(after a beat)
+			Major, I'm sorry.  I would've done 
+			anything --
+
+					KIRA
+				(uncharacteristically 
+				subdued)
+			It's all so senseless.  Opaka has 
+			always been a symbol of hope for me.  
+			Her words gave meaning to our 
+			struggle.  Now she's dead, her life 
+			ends on some unknown moon...
+				(a beat)
+			... and for what?
+
+37   SISKO AND SHEL-LA
+
+	return with a few other Ennis.  Bashir stands up to meet 
+	them.
+
+					SISKO
+			Doctor Bashir will offer any medical 
+			assistance he can.  But understand 
+			that we can't take sides in your 
+			battle...
+
+					SHEL-LA
+			It doesn't matter what I understand 
+			if the Nol capture you.
+
+38   FAVORING SISKO, BASHIR AND KIRA (OPTICAL)
+
+					SISKO
+			Seems we're in the middle of a pretty 
+			ugly war.
+
+					BASHIR
+			I gathered that.
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT TWO           22.
+
+38   CONTINUED:
+
+					SISKO
+			Shel-la says his people will protect 
+			us from their enemy in exchange for 
+			your services... they have no 
+			doctors...
+
+					BASHIR
+			Perhaps I can train some of them in 
+			the basics of field triage?
+
+	Sisko pats him on the back approvingly.  He turns to Kira.
+
+					SISKO
+			How's the shoulder, Major?
+
+					KIRA
+				(as if it's a 
+				punishment)
+			I'll live...
+
+					BASHIR
+			I still have to run a neuromuscular 
+			scan on her when we get back.
+
+					SISKO
+				(confidentially)
+			Don't count on a quick rescue.  This 
+			moon is some kind of high security 
+			prison colony.
+
+	Suddenly, the sounds of weapons fire at the mouth of the 
+	cave... Shel-la grabs a weapon... and this all happens very 
+	quickly...
+
+	Three Nol-Ennis charge into the cave, led by their commander, 
+	ZLANGCO.  They wear similar clothing to the Ennis but the 
+	color patterns are different and they all have headbands.
+
+	A flurry of weapons fire ensues.  Screams of pain fill the 
+	air.  Through the smoke, Zlangco sees Shel-la.  Before 
+	Shel-la can react, he is burned down by Zlangco.  Distracted 
+	by Shel-la's death, another Ennis is killed where she stands.
+
+         DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT TWO        23.
+
+39   SISKO AND BASHIR
+
+	do the smart thing and move for cover... react as --
+
+40   KIRA (OPTICAL)
+
+	scrambles toward where the phasers were left... in the middle 
+	of the firestorm...
+
+					SISKO
+			Major... !
+
+	A Nol-Ennis fires at her, misses... a beat later, he is shot 
+	and killed by Nima... who in turn is shot and killed a moment 
+	later... Kira rolls painfully to a phaser... fires a burst 
+	at the cave ceiling, bringing it crashing down on the Nol.  
+	Zlangco moves back out of the way in time and quickly 
+	retreats... A cloud of dust erupts... then silence.
+
+41   VARIOUS ANGLES
+
+	As the smoke and dust begins to clear... Sisko, Bashir and 
+	Kira stare at the scene of carnage before them.  A groan of 
+	pain breaks the silence.  Bashir locates the survivor and 
+	bandages his bleeding arm.  Kira tears strips from another 
+	survivor's shirt to wrap his leg.
+
+42   SISKO
+
+	is searching through rubble for survivors when he notices 
+	the silhouette of a person standing in the diffuse light at 
+	the mouth of the cave.  As the figure approaches, him -- 
+	slowly, unsteadily -- his mouth drops in amazement.
+
+43   KIRA
+
+	notices the figure approaching Sisko and grabs her phaser.
+
+					KIRA
+			Commander, get down!
+
+	Sisko looks back at Kira without fear.
+
+					SISKO
+			... Put the phaser away, Kira.
+
+	The figure emerges from the shadows, revealing herself to be 
+	Kai Opaka.  Sisko, Kira and Bashir stand before her in stunned 
+	silence.
+
+           DEEP SPACE: "Battle Lines" - 1/21/93 - ACT TWO          23A.
+
+43   CONTINUED:
+
+	Off their expressions...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+          DEEP SPACE: "Battle Lines" - 1/22/93 - ACT THREE          24.
+                           ACT THREE                            
+
+	FADE IN:
+
+44   INT. CAVE
+
+	Dead from both camps are strewn about the cave floor like 
+	discarded broken dolls.  A group of the surviving Ennis are 
+	separating the Nol from their fallen comrades and dragging 
+	them off toward a holding pen at the rear of the cave.
+
+	PAN TO Opaka sitting on a bench staring blankly at Bashir as 
+	he scans her with his tricorder.  Kira sits protectively by 
+	her side.  Sisko watches them.
+
+					BASHIR
+				(amazed)
+			... Her vital signs appear to be 
+			normal.
+				(to Kira, defensively)
+			But I'm certain she was...
+
+					KIRA
+				(interrupting, equally 
+				stunned)
+			I was there, Doctor...
+
+					SISKO
+			Opaka, are you aware of what's 
+			happened?
+
+					OPAKA
+				(shaking her head, as 
+				confused as anyone)
+			The surface was approaching so 
+			quickly... I must admit I closed my 
+			eyes, Commander... I felt the 
+			impact... there was a deafening 
+			whine... a wall of heat seemed to 
+			pass through me... and then... 
+			nothing...
+
+	She looks to Sisko for an explanation.
+
+					SISKO
+			After we crashed, we pulled you from 
+			the wreckage... but you were...
+
+					OPAKA
+				(suddenly intuiting)
+			-- Dead?
+
+          DEEP SPACE: "Battle Lines" - 1/22/93 - ACT THREE          25.
+
+44   CONTINUED:
+
+	Sisko gives her an even look that answers her question... 
+	she considers this a beat, exploring her pagh for answers... 
+
+	rises, moves away thoughtfully... Kira studies her, grateful 
+	for her return, not easily accepting miracles, trying to 
+	figure all of this out herself... trails her like a protective 
+	guard...
+
+45   ANGLE FAVORING BASHIR AND SISKO
+
+	watching as the Kai takes in the bloody carnage... she moves 
+	to a wounded Ennis and comforts him...
+
+					SISKO
+			How do you explain this, Doctor?
+
+	Bashir is still studying his tricorder readings...
+
+					BASHIR
+			Although she appears normal... her 
+			physiology has been radically altered.
+
+					SISKO
+			How?
+
+					BASHIR
+			I'm not sure.  The tricorder indicates 
+			some kind of bio-mechanical presence 
+			on the cellular level.
+
+					SISKO
+			Bio-mechanical?  You mean something 
+			artificial?
+
+					BASHIR
+			I wish I could tell you.  Whatever 
+			it is, it seems to be directly 
+			controlling her metabolic processes.
+
+					SISKO
+			Is she in any danger?
+
+	Frustrated, Bashir looks at his tricorder as if it were 
+	useless.
+
+					BASHIR
+			I'm sorry to keep saying it, but I 
+			just don't know.
+
+          DEEP SPACE: "Battle Lines" - 1/22/93 - ACT THREE         25A.
+
+45   CONTINUED:
+
+					BASHIR
+				(beat, thinking)
+			If the Runabout's computer were 
+			functional, I might be able to do a 
+			full analysis.
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT THREE       26.
+
+45   CONTINUED:	(2)
+
+					KIRA (O.S.)
+			Commander, over here!
+
+46   KIRA
+
+	is standing over Nima's body, which is starting to revive.  
+	Sisko and Bashir quickly join her.  Bashir moves to treat 
+	Nima but she roughly shakes him off.  Kira points to Shel-la 
+	and the other "dead" Ennis who are also starting to move.  
+	Off reactions...
+
+47   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	in the Gamma Quadrant...
+
+48   INT. RUNABOUT
+
+	O'Brien and Dax in pilot and co-pilot's seats.  Both are 
+	studying sensor readings.
+
+					DAX
+			There's still no sign of them on any 
+			of the long range scanners...
+
+					O'BRIEN
+			Not even a transponder signal... if 
+			they went down, we should at least 
+			get something from their 
+			transponder...
+				(pressing panels, 
+				frustrated)
+			The warp eddy has traces of meson 
+			particle emissions... that makes it 
+			a Starfleet power reactor...
+
+					DAX
+			The current shows their heading was 
+			approximately two-three-zero mark 
+			four...
+
+					O'BRIEN
+			Anything interesting in that 
+			direction... ?
+
+					DAX
+				(checking, sighs - a 
+				big job)
+			An uncharted binary star system...
+
+          DEEP SPACE: "Battle Lines" - 1/22/93 - ACT THREE          27.
+
+48   CONTINUED:
+
+					O'BRIEN
+			Guess it's time to chart it...
+
+					DAX
+			Setting a new course...
+
+49   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	Makes a quick turn as it prepares to go to... but doesn't 
+	quite get to... warp...
+
+50   INT. CAVE
+
+	Shel-la is still lying down as Bashir examines his injuries.  
+	He gives Shel-la a hypospray, then scans him with his 
+	tricorder from head to toe.
+
+					BASHIR
+			The same as Opaka.  Virtually every 
+			cell in his body shows signs of this 
+			bio-mechanical presence... somehow 
+			it has literally brought him back to 
+			life...
+
+	This is not anything new to Shel-la, who is weak and in pain -- 
+	he will very slowly recover strength as the scene continues...
+
+					SISKO
+			You've died before.
+
+					SHEL-LA
+			Many times... too many to count.
+
+	All of this is an incredible discovery to Bashir...
+
+					BASHIR
+			Commander, I'd like to return to the 
+			Runabout and try to get the computer 
+			up and running...
+
+					SISKO
+			Doctor, we're in the middle of a 
+			war...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT THREE       28.
+
+50   CONTINUED:
+
+					BASHIR
+			This could be a breakthrough of 
+			unprecedented magnitude...
+
+					SISKO
+			It's too dangerous...
+
+	But Shel-la is thinking three moves ahead... he might be 
+	able to use this knowledge somehow... he slowly rises...
+
+					SHEL-LA
+			I'll see to his protection...
+				(off Sisko's reaction)
+			I'd like to know more about this 
+			"breakthrough" myself...
+
+	Bashir looks to Sisko... who glances to see the Kai in the 
+	background, moving among the wounded... turns to Bashir and 
+	nods his approval...
+
+	As he moves off, Shel-la signals two ND Ennis to accompany 
+	him... they EXIT as... Sisko glances toward the holding pens 
+	at the rear.
+
+	As they walk and talk, Shel-la looks with compassion to the 
+	recovering members of his group... makes eye contact, 
+	acknowledges their pain... (but note: since Bashir has left, 
+	all the doctoring requirements should be complete by now)...
+
+					SHEL-LA
+			Your doctor acts as though he's seen 
+			a miracle.
+
+					SISKO
+			He's not alone.
+
+					SHEL-LA
+			If you lived with it as we have, 
+			you'd see it as a curse.
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT THREE       29.
+
+50   CONTINUED:	(2)
+
+					SISKO
+			How long have you been here?
+
+					SHEL-LA
+			It feels like an eternity... It's 
+			all part of the punishment.
+
+					SISKO
+			What is this punishment, Shel-la... ?
+
+					SHEL-LA
+			Everything here has been designed to 
+			prolong our suffering.
+
+	Their movements have brought them closer to Kira and the 
+	Kai... Kira overhears the last line and moves over... the 
+	Kai will drift this way too during the scene to listen...
+
+					SISKO
+			What was your crime?
+
+	Shel-la takes a beat... with irony, motioning to the scene 
+	around him...
+
+					SHEL-LA
+			The Ennis and the Nol-Ennis sects 
+			are ancient enemies.  Generation 
+			after generation fought the same 
+			war.  Our planet's leaders were unable 
+			to mediate a peace.  They finally 
+			just sent us all to this moon... and 
+			told us that we would serve as an 
+			example to the rest of civilization.
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT THREE       30.
+
+50   CONTINUED:	(3)
+
+					OPAKA
+				(with compassion)
+			How did your fight begin?
+
+	Shel-la studies her a beat...
+
+					SHEL-LA
+			Some say it was land.  Others say it 
+			was water.  It is isn't very relevant 
+			now...
+
+					OPAKA
+			Then what do you hope to gain by 
+			continuing?
+
+					SHEL-LA
+			Vengeance.
+				(beat, quiet loathing)
+			Every one of us has seen our families 
+			suffer incredibly at the hands of 
+			the Nol.
+
+					SISKO
+			The Nol could say the very same 
+			thing...
+
+					SHEL-LA
+				(so be it)
+			And probably do.
+
+	This makes sense on some level to Kira... she's listening to 
+	the problem without looking beneath the surface... yet... so 
+	it makes perfect sense to her when she says...
+
+					KIRA
+			If you must fight your war, the least 
+			you can do is to learn to fight it 
+			more effectively...
+
+					SISKO
+			Major, this is not our...
+
+					SHEL-LA
+				(overriding)
+			What do you mean?
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT THREE       31.
+
+50   CONTINUED:	(4)
+
+					KIRA
+				(growing angry)
+			... There were no guards at the 
+			entrance when we arrived, you have 
+			no system to alert your forces of an 
+			attack, and your people are obviously 
+			unprepared for fighting close-
+			quarter...
+
+					SISKO
+			That's enough, Major.
+
+					KIRA
+			We're trapped on this moon with only 
+			his forces standing between us and 
+			damnation.  We've got to defend 
+			ourselves to stay alive!  When the 
+			Nol attack again we have to be ready --
+
+					SISKO
+			I said, that's enough, Major!
+
+	Kira's about to protest again when Opaka takes her hand.
+
+					OPAKA
+				(gently but firmly)
+			It's not your war, Kira... It's not 
+			your war.
+
+	Kira suddenly realizes the truth of Opaka's statement.  She 
+	slowly backs off, embarrassed.  Shel-la seems amused by her 
+	outburst.
+
+					SHEL-LA
+			We used to defend ourselves better... 
+			Safety perimeters, counter-offensives 
+			and preemptive strikes... but we 
+			realized it was pointless.  When you 
+			cease to fear death, the rules of 
+			war change.
+				(to Kira)
+			You'll understand as the years begin 
+			to pass, Major...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/29/93 - ACT THREE       32.
+
+50   CONTINUED:	(5)
+
+					SISKO
+			Listen to me, Shel-la... our rescue 
+			is not going to take years... days, 
+			weeks maybe, but they will find us... 
+			and then they'll find a way to 
+			penetrate the defense-net and 
+			transport us out of here...
+
+					SHEL-LA
+			Then you'll be luckier than we have 
+			been...
+
+					SISKO
+			We'd be willing to transport all of 
+			you away from here if that's what 
+			you want.
+
+	Shel-la reacts... so moved by the possibility... that he 
+	steps away to consider what it might be like...
+
+					SHEL-LA
+				(mostly to himself)
+			Away from here?  To live one life 
+			and then die... in peace?  To us, 
+			that's an ancient prayer that's never 
+			been answered, Commander.
+
+	A long emotional beat.
+
+					SHEL-LA
+			You would do this for us?
+
+					SISKO
+			For both sides... the Ennis and the 
+			Nol-Ennis alike...
+				(off Shel-la's 
+				skeptical look)
+			After you leave, you can go wherever 
+			you want to... just end this 
+			nightmare.  Stop fighting long enough 
+			for all of us to get off this moon...
+
+	Shel-la takes a beat to think about it... he slowly moves 
+	back into the reality of his existence here... abandons the 
+	possibility...
+
+					SHEL-LA
+			Zlangco, the leader of the Nol would 
+			never agree to a cease-fire...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/29/93 - ACT THREE      32A.
+
+50   CONTINUED:	(6)
+
+					SISKO
+			Ask him...
+
+					SHEL-LA
+			You don't understand them... all 
+			they care about is...
+
+					SISKO
+			What do you care about?  If you want 
+			to end the suffering of your people, 
+			at least try.  Set up a meeting with 
+			this Zlangco... talk about this... 
+			what do you have to lose, Shel-la -- 
+			another day of fighting?
+
+	A beat.
+
+					SHEL-LA
+			You'll find that it's hopeless.
+				(beat)
+			But I will agree to meet... if he 
+			will.
+
+	A small victory, but a crucial first step toward peace... 
+	and on Sisko's satisfied look of hope...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+        DEEP SPACE: "Battle Lines" - REV. 1/26/93 - ACT FOUR        33.
+                           ACT FOUR                             
+
+	FADE IN:
+
+51   EXT. SPACE - RUNABOUT
+
+	moving at impulse within a system...
+
+52   INT. RUNABOUT
+
+	O'Brien glances with increased frustration up from a 
+	readout...
+
+					O'BRIEN
+			I'm not reading a single M Class 
+			planet in the system... if they went 
+			down anywhere around here, they 
+			couldn't have survived...
+
+					DAX
+				(reading her sensors)
+			I'm not sure we can believe the scans, 
+			Chief... the star is putting out 
+			abnormal levels of delta radiation...
+
+					O'BRIEN
+				(reacts, checks for 
+				himself, sighs)
+			That would foul up our long range 
+			scanners...
+
+					DAX
+			We'll have to survey each planet one 
+			at a time...
+
+					O'BRIEN
+			Not to mention...
+				(trying to count)
+			... two dozen or so moons and an 
+			asteroid belt...
+				(beat)
+			Bloody needle in a haystack...
+
+	He gets an idea, stands and goes to a rear work station, 
+	begins to take some small tech gear out of a panel...
+
+					O'BRIEN
+				(murmuring to himself 
+				again)
+			Bloody needle in a haystack... what 
+			we need is a magnet...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR         33A.
+
+52   CONTINUED:
+
+					DAX
+			A magnet?
+
+					O'BRIEN
+			You want to pick a piece of metal 
+			out of the straw, you need a magnet...
+
+					DAX
+			I don't think I'm following you...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR        34.
+
+52   CONTINUED:	(2)
+
+					O'BRIEN
+			Runabout hulls are made out of 
+			metallic composites that interact 
+			with magnetic fields... We could 
+			send out a few probes to scan the 
+			system for those specific magnetic 
+			resonance patterns.  If Sisko's 
+			Runabout is in the system, we might 
+			just pick up a fluctuation in the 
+			hysteresis curve...
+
+					DAX
+			The magnetic deflection of a Runabout 
+			hull's going to be extremely weak.  
+			The probes'll never be able to detect 
+			it.
+
+					O'BRIEN
+			They will if I can outfit them with 
+			a differential magnetomer...
+
+					DAX
+			A differential magnetomer?
+
+					O'BRIEN
+				(working)
+			Uh huh.
+
+					DAX
+			I've never heard of a differential 
+			magnetomer, Chief.  How does it work?
+
+					O'BRIEN
+			I'll let you know as soon as I've 
+			finished making one...
+
+	Off her reaction...
+
+53   EXT. MOON SURFACE
+
+	at the site of the Runabout... two Ennis guards stand outside 
+	keeping watch...
+
+54   INT. RUNABOUT - CLOSE ON FRONT PANEL
+
+	Bashir has his head inside the front panel... after a beat, 
+	the front console lights up... makes a few beeps and Bashir 
+	pushes himself out, delighted...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR         34A.
+
+54   CONTINUED:
+
+					BASHIR
+			Nice work, Julian... wait till O'Brien 
+			hears about this...
+
+	He begins to enter information from his tricorder into the 
+	main computer... by setting the tricorder on download and 
+	holding it to a side panel...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR          35.
+
+55   INT. CAVE
+
+	Shel-la ENTERS with another Ennis, a messenger... moves to 
+	Sisko who waits, sitting with Kira and the Kai as the 
+	messenger branches off...
+
+					SHEL-LA
+			I'm surprised.  Zlangco has agreed 
+			to listen to your proposals...
+
+					SISKO
+			Good.  When.
+
+					SHEL-LA
+			Right away.  We'll meet them at a 
+			neutral site near your vessel.  We've 
+			both agreed to bring no firearms.
+
+					KIRA
+			What if they use the opportunity to 
+			set a trap?
+
+					SHEL-LA
+				(smiles with respect 
+				at Kira)
+			We have taken appropriate precautions, 
+			Major... but if you'd like to 
+			personally check the security...
+
+	Sisko stands...
+
+					SISKO
+			Major Kira will be staying here with 
+			the Kai...
+
+					SHEL-LA
+			A shame.
+
+	Sisko doesn't like any of this and gives a look to Kira who 
+	avoids his eyes... Opaka studies her closely as Sisko and 
+	Shel-la EXIT... after a long beat...
+
+					OPAKA
+			You can't bury it, Kira.
+
+					KIRA
+				(surprised)
+			What?
+
+					OPAKA
+			Do you recognize yourself in these 
+			people?
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR          36.
+
+55   CONTINUED:
+
+					KIRA
+			Me?  Not at all.  They're content to 
+			die.  I've always fought to survive.
+
+	Opaka studies her for a long beat.  Finally...
+
+					KIRA
+				(important)
+			I don't want you to have the wrong 
+			impression of me, Opaka.
+
+					OPAKA
+			What impression do you think I have?
+
+					KIRA
+			That... that I... like... any of 
+			this.  I don't enjoy fighting.  Yes, 
+			I've spent my life... fighting... 
+			for a good cause, our independence, 
+			our freedom... but it was brutal and 
+			ugly and... I had to be...
+				(beat)
+			... it's over for me... it's not who 
+			I am any more.  I don't want you to 
+			think that I'm... this... violent 
+			person... without a conscience... 
+			without a soul... it's not who I am.
+
+	Kira stares at Opaka, begging with her eyes for Opaka to accept 
+	her words even though she herself does not... Opaka looks at 
+	her with compassion, reaches out with her right hand and 
+	touches two fingers to the ridge of Kira's ear... at the touch, 
+	tears come streaming down Kira's cheeks, she chokes back a sob 
+	and moves into the Kai's embrace, burying her face in shame...
+
+					OPAKA
+			Don't deny the violence in yourself, 
+			Kira.  Only when you accept it, can 
+			you move beyond it.
+
+					KIRA
+			I've known nothing but violence since 
+			I was child.
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR        37.
+
+55   CONTINUED:	(2)
+
+					OPAKA
+			In the prophets' eyes, we are all 
+			children... Bajor has much to learn 
+			from peace...
+
+					KIRA
+			Opaka, I'm afraid the prophets will 
+			never forgive me.
+
+					OPAKA
+			They're just waiting for you to 
+			forgive yourself.
+
+	Off Kira's reaction...
+
+56   EXT. SPACE - RUNABOUT (OPTICAL)
+
+57   INSERT - CLOSE ON AN OKUDAGRAM (VPB)
+
+	of three probes moving through a star system... on each probe 
+	there is a number indicating the hysteresis readings...
+
+					COMPUTER VOICE
+			Twenty-two minutes into launch.  All 
+			readings within normal parameters...
+
+58   INT. RUNABOUT
+
+	As Dax and O'Brien watch...
+
+					DAX
+			Probe "B" approaching planet six... 
+			three moons...
+				(beat)
+			No change in the hysteresis curve... 
+			Probe "C" approaching planet seven...
+				(beat)
+			... no change.
+
+					O'BRIEN
+			What the hell would they be doing in 
+			this system anyway... it's a waste 
+			of time... they could be twenty light 
+			years from here and we wouldn't have 
+			the first clue...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR       37A.
+
+58   CONTINUED:
+
+					DAX
+			Probe "A" approaching planet three... 
+			one moon...
+				(reacts)
+			Chief...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR        38.
+
+58A  INSERT - THE GRAPHIC (VPB)
+
+	While numbers on two probes remain constant, the numbers on 
+	the third suddenly rise and fall in a flutter of activity...
+
+					COMPUTER VOICE
+			Probe "A" measuring a point zero-
+			zero-one-two fluctuation in the 
+			hysteresis curve...
+
+58B  RESUME
+
+					O'BRIEN
+			It's the third planet...
+
+					DAX
+			No, look... it isn't... we're picking 
+			up something from its moon...
+
+	Hands flashing across the console...
+
+					O'BRIEN
+			Laying in a new course... full 
+			impulse...
+
+59   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	moves at full impulse...
+
+60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE
+
+	Two fire poles light the hazy night... Bashir comes out of 
+	the Runabout to see what is going on, just as Sisko and 
+	Shel-la arrive with Nima and two Ennis lieutenants... his 
+	two guards are gone... Shel-la motions to Sisko to stay 
+	here while they go forward... the Commander moves to join 
+	his doctor...
+
+					SISKO
+			Any progress, Doctor?
+
+					BASHIR
+			Yessir, I've got the computer up, 
+			more or less... it's processing the 
+			data now... but I've already confirmed 
+			that these microbes are artificial... 
+			rather like nanites in a way... I 
+			should have a complete analysis from 
+			the computer in a few minutes...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR         38A.
+
+60   CONTINUED:
+
+					BASHIR
+				(beat, re: the fire 
+				poles)
+			What's going on?
+
+					SISKO
+			Talks about a cease fire.
+
+					BASHIR
+			No kidding... how'd you manage that?
+
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR          39.
+
+60   CONTINUED:	(2)
+
+					SISKO
+			I told them we'd transport them off 
+			this moon.
+
+					BASHIR
+				(casual humor, looking 
+				at the fire)
+			Isn't that a bit like assisting a 
+			jailbreak?
+
+					SISKO
+				(tight)
+			I don't need you to interpret the 
+			prime directive for me, Doctor.
+
+					BASHIR
+			I only meant...
+
+					SISKO
+			Whatever crimes they've committed 
+			have been paid for a hundred times 
+			over.  They've been altered somehow 
+			and abandoned by their world... I 
+			believe the Federation would recognize 
+			them as separate and unique.
+
+					BASHIR
+			Yessir.  I... should be checking on 
+			that analysis...
+
+	He retreats back inside the Runabout... a beat later, 
+	Shel-la moves away from the pow-wow at the poles, motions 
+	Sisko forward...
+
+61   ANGLE - BY THE FIREPOLES
+
+	Shel-la and three lieutenants (including Nima) stand by one 
+	pole near to, but clearly separated from, Zlangco and three 
+	of his lieutenants who stand by the other pole... all are 
+	armed with a variety of hand weapons... knives, swords, 
+	tomahawks and the like...
+
+					ZLANGCO
+			So you are the leader of the aliens...
+
+					SISKO
+			Benjamin Sisko, Commander of a 
+			Federation space station...
+
+					ZLANGCO
+			Federation?
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR        40.
+
+61   CONTINUED:
+
+					SHEL-LA
+				(impatient)
+			What does it matter to us, Zlangco?
+
+					ZLANGCO
+			It matters to me.
+
+					SISKO
+			The Federation is made up of over a 
+			hundred planets who have allied 
+			themselves for mutual scientific, 
+			cultural and defensive benefits.  
+			The mission that my people and I are 
+			on is to explore the galaxy.
+
+					ZLANGCO
+				(suspicious)
+			Such a noble purpose... there will 
+			be no reward for our release, you 
+			know...
+
+					SHEL-LA
+			You're being a fool as usual...
+
+					ZLANGCO
+			A fool who can always outwit you, 
+			Shel-la... as I have proven over and 
+			over again...
+
+					SHEL-LA
+			If you care to die once more, all 
+			you need to do is ask...
+
+	The two of them seem ready to move into conflict... Sisko 
+	speaks over their heads to the lieutenants...
+
+					SISKO
+			If you've had enough of this, then 
+			make your leaders stop and listen... 
+			you are fighting a war for the sake 
+			of war... your only reason to live 
+			is to make each other suffer.  If 
+			you've suffered enough, then make 
+			your leaders stop.
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR        41.
+
+61   CONTINUED:	(2)
+
+	Sisko makes eye contact with them all as the silence is 
+	filled only with a breeze and the fluttering of the 
+	firepoles... Shel-la and Zlangco move away from their 
+	confrontation... the others listen, watch, interested...
+
+					SISKO
+			I'm not here to be a mediator... but 
+			if you ask me for an alternative... 
+			I'll give you one.
+
+					ZLANGCO
+			We're listening.
+
+					SISKO
+			In a matter of days, when our rescue 
+			party arrives, I can arrange to 
+			transport you and your people off 
+			this moon... if both sides can simply 
+			cooperate until then...
+
+					SHEL-LA
+			They will resettle us on different 
+			planets, Zlangco...
+
+					SISKO
+			If that's what you wish...
+
+					ZLANGCO
+				(continually suspicious)
+			The two of you seem to have discussed 
+			this plan in detail...
+
+					SHEL-LA
+			Of course.  His crew has been with 
+			us for two days...
+
+					ZLANGCO
+				(to Sisko)
+			Explain why you choose to ally 
+			yourselves with the Ennis...
+
+					SISKO
+			We have allied ourselves with no 
+			one...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FOUR        42.
+
+61   CONTINUED:	(3)
+
+					ZLANGCO
+			One of your people fired some kind 
+			of weapon at us...
+
+					SISKO
+			We were defending ourselves...
+
+	And it quickly gets out of hand from here... Zlangco accepts 
+	none of this, shakes his head...
+
+					ZLANGCO
+			I think you're lying...
+				(at his own lieutenants)
+			I don't know the alien.  But I know 
+			Shel-la.  I know how his mind works.  
+			I promise you this is an Ennis trick 
+			to lure our entire population out of 
+			hiding so they can be slaughtered...
+
+					SISKO
+			That's not...
+
+					ZLANGCO
+			Fine... then the Ennis will surely 
+			be willing to make the first gesture 
+			of peace... let them bring all of 
+			their people out in the open first... 
+			to prove their honorable intentions...
+
+	Sisko looks to Shel-la who sees that the jig is up... Zlangco 
+	has been right about him all along, he laughs coldly, found 
+	out...
+
+					SHEL-LA
+			Do you honestly think I would let a 
+			single Nol escape this moon alive?
+
+					ZLANGCO
+			No more than I would let an Ennis go 
+			free...
+
+	They pull weapons but before they can engage, Nima has gored 
+	Zlangco from behind... and everyone joins in hand to hand 
+	combat... Sisko finds himself in the middle of it... a Nol 
+	comes at him with a weapon and Sisko takes him out niftily 
+	with some quick moves and a punch to the jaw, but from behind 
+	him another Nol has just "killed" Shel-la and now raises a 
+	tomahawk about to throw at Sisko's blind side... just as the 
+	man throws, Sisko is suddenly hit with a flying tackle and 
+	knocked down... and the tomahawk clangs off the firepole 
+	behind him...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FOUR          43.
+
+62   ANGLE - BASHIR
+
+	is sprawled on the ground on top of Sisko...
+
+					BASHIR
+			Sorry, Commander, but I've discovered 
+			we can't afford to die here -- not 
+			even once.
+
+	Sisko reacts, curious at the words... but there's no time for 
+	questions now as the two of them scramble away to safety, 
+	we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        44.
+                           ACT FIVE                             
+
+	FADE IN:
+
+63   OMITTED
+
+64   INT. RUNABOUT (VPB) - CLOSE ON OKUDAGRAM
+
+	moving to find O'Brien standing, studies the same Okudagram 
+	showing the ring of satellites around the moon...
+
+					O'BRIEN
+				(disappointed)
+			It's some kind of artificial satellite 
+			system... that's what our probe must 
+			have picked up...
+
+					DAX
+				(more hopeful)
+			Our sensors are reading lifeforms on 
+			the surface, Chief...
+				(checking)
+			I think some of them are human...
+
+					O'BRIEN
+				(curious)
+			If the ship's down there, why wouldn't 
+			the transponder be sending out a...
+
+	An answer comes to him... just as a signal alarm hits the 
+	console...
+
+					DAX
+			We're being scanned...
+
+	And without warning, he jumps into his seat... presses lots 
+	of panels...
+
+					O'BRIEN
+			Increasing orbital altitude...
+
+	The ship lurches a tad as it makes an adjustment..
+
+					DAX
+			Why?
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        45.
+
+64   CONTINUED:
+
+					O'BRIEN
+			I'm thinkin' the only thing that 
+			could block out a transponder signal 
+			is a broad band damping field... and 
+			that would require a low altitude 
+			satellite system like this one... 
+			and then suddenly we're being scanned 
+			by these satellites and I'm 
+			thinking...
+
+					DAX
+				(finishing his thought)
+			... maybe they had something to do 
+			with our missing Runabout...
+
+					O'BRIEN
+			Exactly.
+				(checking sensors, 
+				nods)
+			See, they're putting out a mutual 
+			induction field that would block 
+			ninety-nine percent of all 
+			transmissions to and from the 
+			surface...
+
+					DAX
+			Is there any way for us to get a com 
+			line through the field?
+
+					O'BRIEN
+			I've got one percent to work with, 
+			don't I?
+
+	Off her reaction...
+
+65   EXT. MOON SURFACE
+
+	Starting on the "dead" face of Shel-la... fallen beside 
+	Zlangco... Nima and the others (note - since these are hand 
+	weapons, this time the make-up must include wounds and 
+	blood)... coming to one Nol who is stirring and on his knees 
+	in pain... slowly the others begin to show vague signs of 
+	life as we move to find Sisko and Bashir studying the grisly 
+	scene...
+
+					BASHIR
+			The analysis is very clear.  Once 
+			these microbes restore a body after 
+			death, that body becomes permanently 
+			dependent on them for all cellular 
+			functions...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        46.
+
+65   CONTINUED:
+
+					SISKO
+				(reacts)
+			Permanently...
+
+					BASHIR
+			It gets worse... The designers made 
+			them environment specific... If the 
+			microbes are removed from this 
+			ecosystem, they'll stop functioning...
+
+					SISKO
+				(stunned)
+			So, if we transport anyone off this 
+			moon, we'd kill them.
+
+					BASHIR
+			I'm afraid so.
+
+					SISKO
+				(realizing)
+			The Kai?
+
+	A look from Bashir confirms that she's infected too.
+
+	This is devastating news to Sisko... he searches his mind 
+	for answers but can't find any... A moment later, O'Brien's 
+	voice crackles over his com badge, obstructed by interference.
+
+					O'BRIEN'S COM VOICE
+			... Rio Grande to Sisko... do you 
+			read me... ?  This is O'Brien, come 
+			in...
+
+	Bashir and Sisko exchange surprised looks.  Sisko taps his 
+	com badge.
+
+					SISKO
+			Go ahead, Chief... I can barely read 
+			you...
+
+					DAX'S COM VOICE
+			Is everyone all right?
+
+	A beat, how does he answer that...
+
+					SISKO
+			We're alive.  But the Yangtzee Kiang 
+			was destroyed.
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FIVE          47.
+
+65   CONTINUED:	(2)
+
+					SISKO
+			Will you be able to beam us up?
+
+									INTERCUT:
+
+66   INT. RUNABOUT
+
+					O'BRIEN
+			Not quite yet, Commander... we've 
+			got to find a way to penetrate this 
+			network of satellites... they're 
+			making it impossible to lock on to 
+			anything down there...
+
+					SISKO'S COM VOICE
+			Understood.  By the way, those 
+			satellites will come after you if 
+			you get too close... they're armed... 
+			one of them cut us down without any 
+			trouble at all...
+
+					O'BRIEN
+			Yeah, we figured as much.
+
+67   EXT. MOON SURFACE
+
+					SISKO
+			Let me know before you're ready to 
+			make an attempt...
+
+					O'BRIEN'S COM VOICE
+			Acknowledged.  Rio Grande out.
+
+	Sisko notices a few of the Nol and Ennis are starting to 
+	revive.
+
+					SISKO
+				(to Bashir, heavily)
+			... We have to talk to the Kai.
+
+	Bashir follows Sisko into the fog.
+
+68   INT. CAVE
+
+	As they ENTER, Opaka and Kira move to meet them.
+
+					KIRA
+			Is there a cease-fire?
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FIVE          48.
+
+68   CONTINUED:
+
+					SISKO
+			Neither side took it seriously.
+
+	Opaka looks away, considering what this means to her...
+
+					OPAKA
+			I'm not at all surprised.
+				(beat)
+			You were right, Kira.  They don't 
+			know how to do anything else but die -- 
+			they've forgotten how to live.
+
+					SISKO
+			The Rio Grande just made contact.  
+			O'Brien and Dax are in orbit.
+
+	Kira is greatly relieved, but she notices Opaka looking 
+	pensive as ever.
+
+					SISKO
+				(continuing)
+			They're working on a way to penetrate 
+			the defense system...
+
+	He takes a beat and turns to Opaka about to break the news 
+	that she must stay behind.  Before he can speak...
+
+					OPAKA
+			I'll be staying, Commander.
+
+					KIRA
+				(astonished)
+			What... ?
+
+					OPAKA
+			It's the answer to all the prophecies 
+			of my life...
+
+					KIRA
+			It's the wrong answer, Opaka... you 
+			can't stay here...
+
+	Kira looks into Opaka's eyes and suddenly realizes Opaka is 
+	deadly serious.
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        49.
+
+68   CONTINUED:	(2)
+
+					OPAKA
+			I didn't know how or why... but when 
+			we came through the wormhole, I knew 
+			I wouldn't be returning.  You must 
+			tell our people, Kira, that I have 
+			answered the call of the prophets... 
+			I have been brought here because it 
+			is time for these people to begin 
+			their healing process...
+				(beat)
+			... just as you were brought here to 
+			begin yours.
+
+	Kira is beyond words.
+
+69   INT. RUNABOUT (VPB)
+
+	Dax and O'Brien are studying a monitor with the satellite 
+	ring graphic...
+
+					O'BRIEN
+			You know, all we really need to do 
+			is find a way to create a gap in the 
+			net...
+
+					DAX
+			Maybe a photon would destroy one of 
+			the satellites...
+
+					O'BRIEN
+			Maybe.
+				(beat)
+			But you'd think they'd build a defense 
+			network with that in mind... hell, 
+			shoot one and the rest might swarm 
+			up like Vayan horn flies.  We should 
+			go for something simpler... all I 
+			need is about a fifteen percent wider 
+			opening in the net...
+				(an idea, thoughtful, 
+				to com)
+			Rio Grande to Sisko...
+
+									INTERCUT:
+
+70   INT. CAVE
+
+	As before...
+
+           DEEP SPACE: "Battle Lines" - 1/22/93 - ACT FIVE          50.
+
+70   CONTINUED:
+
+					SISKO
+			Go ahead, Chief.
+
+					O'BRIEN
+			We're going to try to poke a hole up 
+			here, sir, if you're about ready to 
+			end your stay...
+
+					SISKO
+			Only three of us will be coming 
+			back... Kai Opaka is remaining...
+
+	In the Runabout, O'Brien and Dax react to the scratchy 
+	transmission...
+
+					DAX
+			Benjamin, please confirm... did you 
+			say we're not transporting the Kai?
+
+					SISKO
+				(eyes on Opaka)
+			That's correct.  I'll explain later.
+
+	O'Brien and Dax exchange a glance...
+
+					O'BRIEN
+			We'll need a few minutes, Commander.  
+			Rio Grande out.
+
+71   ANGLE - SHEL-LA
+
+	and a few Ennis have returned and are standing inside the 
+	entrance to the cave.  Shel-la holds his weapon loosely in 
+	his hand.
+
+					SHEL-LA
+			Leaving without us?
+
+	Shel-la approaches them with a limp.  A burn on his arm is 
+	causing him obvious pain.  Bashir steps forward.
+
+					BASHIR
+			My analysis of the microbes that 
+			keep you alive showed that if you 
+			were to leave the moon, you would 
+			die...
+
+	As the reality of Bashir's words sink in, Shel-la turns 
+	grim...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        51.
+
+71   CONTINUED:
+
+					SHEL-LA
+			So there is no end.
+
+	Wrestling with confusion, Bashir turns to Sisko...
+
+					BASHIR
+			Commander, I find myself caught in a 
+			moral dilemma.  As much as I'm 
+			dedicated to the preservation of 
+			life, I wonder if we shouldn't help 
+			these people end this torture...
+
+					SISKO
+			How could you do that?
+
+					BASHIR
+			Anything that is programmed can be 
+			reprogrammed.  If I can disable the 
+			mechanism in these microbes, they 
+			would no longer function when someone 
+			was killed... these people would be 
+			allowed to finally die...
+
+	This is a deliverance to Shel-la... who looks to Sisko with 
+	urgency...
+
+					SHEL-LA
+			You've seen our lives here.  Please... 
+			it is the only solution left.  Give 
+			us a way to reprogram these 
+			microbes... and it will mean the end 
+			to this war.
+
+					KIRA
+			You really think the fear of death 
+			would stop the fighting?  It never 
+			has in any other war.
+
+					SHEL-LA
+			No... but it will allow us to finally 
+			win.  Wipe out the Nol for good.  On 
+			this world, your disabled microbes 
+			would be the ultimate weapon, Doctor -- 
+			one that we could use to truly destroy 
+			our enemies.
+
+	Off stunned reactions...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        52.
+
+71   CONTINUED:	(2)
+
+					O'BRIEN
+			Rio Grande to Sisko... stand by for 
+			transport...
+
+					SISKO
+				(eyes on Shel-la)
+			Ready.
+
+72   INT. RUNABOUT (VPB)
+
+					DAX
+			Coordinates set.
+
+					O'BRIEN
+			Launching probe.
+
+	A sound effect and on the monitor, an Okudagram traces a 
+	probe moving toward the satellite ring...
+
+					DAX
+			Twelve seconds to intercept...
+
+					O'BRIEN
+				(watching the monitor)
+			Come on, come on, go for it...
+
+					DAX
+			One of the satellites is breaking 
+			orbit... moving toward the probe...
+
+					O'BRIEN
+			That's it...
+
+73   OMITTED
+
+73A  ANGLE - MONITOR (VPB)
+
+	seeing the probe move into the satellite net... one satellite 
+	moves toward it...
+
+					DAX
+			The satellite is showing a power 
+			buildup... about eight hundred 
+			megawatts...
+
+	It fires, destroying the probe...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE        53.
+
+74   RESUME - WIDE ANGLE
+
+					DAX
+			Probe destroyed...
+
+					O'BRIEN
+				(to com)
+			Rio Grange to Sisko.  Trying to lock 
+			on, Commander...
+
+	As he presses buttons...
+
+75   INT. CAVE
+
+					O'BRIEN'S COM VOICE
+				(continuing)
+			Establishing pattern lock...
+
+					SHEL-LA
+			Wait... you can't leave without giving 
+			us the...
+
+					SISKO
+				(interrupting, firm)
+			Energize when ready, Chief...
+
+	Suddenly, by the sound of massive firing and yells and screams 
+	of pain outside the cave... Shel-la turns, drawn by the noise, 
+	turns back to Sisko, angry, frustrated... runs out to join 
+	the fight... the noise continues throughout as... Sisko turns 
+	to Opaka...
+
+					SISKO
+			Opaka... if we can ever find a way...
+
+	She holds up her hand to stop him...
+
+					OPAKA
+			My work is here now, Commander... 
+			But your pagh and mine will cross 
+			again...
+
+	Sisko raises an eyebrow as...
+
+76   KIRA (OPTICAL)
+
+	and the Kai exchange a long last look... and we know that 
+	Kira has begun her healing...
+
+					O'BRIEN'S COM VOICE
+			Energizing...
+
+        DEEP SPACE: "Battle Lines" - REV. 1/25/93 - ACT FIVE       53A.
+
+76   CONTINUED:
+
+	They DEMATERIALIZE... and we are left with the Kai looking 
+	pensive as the sounds of fighting continue behind her... she 
+	turns her head a tad toward the sound... knows the work that's 
+	ahead of her... as we push in to her face...
+
+					FADE TO BLACK:
+			The sounds of fighting continue over 
+			a black screen...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

@@ -1,0 +1,3010 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "Resurrection" 
+                          #40510-532 
+                              
+                          Written by 
+                        Michael Taylor 
+                              
+                          Directed by 
+                         LeVar Burton 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                     September 17, 1997
+
+        STAR TREK: DS9   "Resurrection" - 09/17/97 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Resurrection" 
+                             CAST 
+
+          SISKO                    BAREIL
+          KIRA                     INTENDANT
+          ODO                      OSSAN
+          BASHIR                   SECURITY GUARD
+          DAX                      
+          WORF                     
+          O'BRIEN                  
+          QUARK                    
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+       STAR TREK: DS9 - "Resurrection" - 09/17/97 - SETS 
+
+                  STAR TREK:  DEEP SPACE NINE
+                        "Resurrection" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          KIRA'S QUARTERS               
+          HABITAT RING CORRIDOR         
+          TURBOLIFT                     
+          OPS                           
+          CORRIDOR                      
+          DOCKING RING CORRIDOR         
+          HOLDING CELL                  
+          SISKO'S OFFICE                
+          PROMENADE                     
+          DAX & WORF'S QUARTERS         
+          REPLIMAT                      
+          QUARK'S                       
+          CARGO BAY                     
+          BAREIL'S QUARTERS             
+          BAJORAN SHRINE                
+
+      DS NINE: "Resurrection" - 09/18/97 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Resurrection" 
+                     PRONUNCIATION GUIDE
+
+          ALVAS                    ALL-vus
+          ANTOS                    ANN-toze
+          BODAY                    boh-DAY
+          DAHKUR                   duh-KOOR
+          ILVIA                    ILL-vee-uh
+          KAVA                     KAH-vuh
+          LISEA                    lih-SAY-ah
+          PAGH                     PAH
+          RAKTAJINO                ROCK-ta-GEE-no
+          TRAG'TOK                 tragh-TOKE
+          VENTAR                   VEN-tahr
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER       1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                            "Resurrection"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. KIRA'S QUARTERS
+
+	Early morning. KIRA is hanging one of Ziyal's framed 
+	ink brush paintings on her wall. PULL BACK TO REVEAL 
+	two more of Ziyal's paintings already hanging on the 
+	same wall. The door CHIMES.
+
+					KIRA
+			Come in.
+
+2    DAX ENTERS
+
+	as Kira finishes hanging the picture and steps back to 
+	see the effect. Dax YAWNS, not yet fully awake.
+
+					DAX 
+			Is it my imagination or does oh-
+			six-hundred seem to come earlier 
+			and earlier?
+
+					KIRA
+			Either that, or you've been going 
+			to bed later and later.
+
+					DAX
+			I'd forgotten how... strenuous 
+			married life can be.
+
+	Kira and Dax exchange wry grins as Kira finishes 
+	hanging the paintings.
+
+					KIRA
+				(re: the paintings) 
+			What do you think?
+
+	Dax takes a moment to take in the Ziyal memorial wall.
+
+					DAX 
+			I think Ziyal was talented... but 
+			not that talented.
+
+	Kira tries to study the wall with a more objective eye.
+
+					KIRA
+			Too much?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER       2.
+
+2    CONTINUED:
+
+	In answer, Dax walks over to the wall and takes down 
+	two of the paintings, leaving a single picture. Dax 
+	steps back and stands next to Kira.
+
+					DAX 
+			There, that's better.
+
+	Kira has to agree.
+
+					KIRA
+			How did you know that was my 
+			favorite one?
+
+					DAX
+			I guessed. Come on, we're going 
+			to be late.
+
+	Kira nods and they head for the door.
+
+					DAX 
+			You really miss her, don't you?
+
+3    INT. HABITAT RING CORRIDOR - CONTINUOUS
+
+	Dax and Kira emerge from her quarters and walk down the 
+	hallway.
+
+					KIRA
+			I'll get over it. Death and I are 
+			old friends.
+
+					DAX
+				(joking) 
+			Maybe he can be your date tomorrow 
+			night.
+
+					KIRA
+				(an old argument) 
+			I told you, I'm not bringing 
+			anyone.
+
+					DAX
+			I know what you told me, but 
+			people change their minds.
+
+					KIRA
+			Not me. Not about this.
+
+	Dax isn't about to let Kira off so easy.
+
+					DAX
+			What about Captain Boday?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER       3.
+
+3    CONTINUED:
+
+					KIRA
+				(surprised) 
+			You want me to bring Captain Boday 
+			to your quarters for dinner?
+
+
+					DAX
+			It's just a suggestion...
+
+					KIRA
+			A bad suggestion. One, you used
+			to go out with Captain Boday.
+			Two, Worf hates him. And
+			three -- as we have discussed many
+			times -- Captain Boday has a
+			transparent skull.
+
+	They enter a turbolift.
+
+					DAX
+				(oh, yeah) 
+			And you don't like to see a man's 
+			brains...
+
+					KIRA
+				(nods "that's right," 
+				then to com) 
+			Ops.
+
+	The turbolift doors close.
+
+4    INT. TURBOLIFT - CONTINUOUS
+
+					DAX
+				(unfazed) 
+			What about Doctor Trag'tok? He's 
+			intelligent, a good physique, and 
+			he has a very opaque cranium.
+
+					KIRA
+			True. But his eye bothers me.
+
+					DAX
+			Which one?
+
+					KIRA
+			The middle one.
+
+					DAX
+			You really are obsessed with 
+			appearances, aren't you?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER      3A.
+
+4    CONTINUED:
+
+					KIRA
+			And your taste in men... frightens
+			me.
+
+	The two women step out of the Turbolift as they've
+	arrived at --
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER       4.
+
+5    INT. OPS - CONTINUOUS
+
+	As Kira and Dax head for the replicator. WORF and
+	O'BRIEN are manning their consoles as are the needed
+	SUPERNUMERARIES.
+
+					DAX
+			I'll tell Worf you said so.
+
+					WORF
+			Tell me what?
+
+					DAX
+				(to Worf)
+			Don't be so nosy.
+
+6    CLOSE ON KIRA AND DAX
+
+	at the replicator.
+
+					KIRA
+			Two raktajinos.  Extra strong.
+			And a Kava roll.
+
+					DAX
+				(sotto)
+			You could always invite Odo...
+
+	Kira gives Dax a reprimanding look.
+
+					DAX
+			... as a friend.
+
+					KIRA
+				(quietly, but firmly)
+			I'm not ready for that. Odo's not
+			ready for that. Let's just forget
+			you ever brought it up. I'm
+			coming to dinner -- alone.
+			Got it?
+
+					DAX
+			I got it. Three place settings.
+
+					KIRA
+				(handing Dax her cup)
+			I'll bring the wine.
+
+	Kira moves off to her station.
+
+7    AT ENGINEERING
+
+	O'Brien reacts to a console display, works his panel.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER       5.
+
+7  CONTINUED:
+
+					O'BRIEN 
+				(to com) 
+			Captain, you'd better get out here.
+
+	Dax's attention snaps to her console... she quickly 
+	manipulates the controls. SISKO emerges from his 
+	office.
+
+					SISKO 
+			What is it?
+
+					O'BRIEN 
+			I'm showing a power buildup in the 
+			transporter buffer.
+
+					DAX
+			Someone's attempting to beam 
+			aboard.
+
+					SISKO 
+			From where?
+
+					DAX 
+			I don't know. There are no ships 
+			within transporter range.
+
+	Kira starts towards the transporter.
+
+8    THE TRANSPORTER (OPTICAL)
+
+	A kneeling humanoid figure (BAREIL) MATERIALIZES within 
+	the unit. His clothes are disheveled. A battered 
+	pouch dangles from one shoulder. He's hunched over, 
+	as if clutching a bad belly wound, concealing his face. 
+	He moans softly.
+
+					SISKO
+			Sisko to Bashir. We have a 
+			medical emergency in Ops.
+
+					BASHIR'S COM VOICE
+			I'll be right there.
+
+	Kira kneels next to the injured man.
+
+					KIRA 
+			Are you hurt?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - TEASER       6.
+
+9    THE MYSTERY VISITOR
+
+	As if in response to Kira's question, he puts the 
+	muzzle of a disruptor against her stomach.
+
+					BAREIL 
+			No, but you will be, unless you 
+			do exactly what I say.
+
+	Their eyes lock. His face is streaked with dirt, but 
+	there's no mistaking that face... it's the face of 
+	Vedek Bareil, Kira's long-dead Bajoran lover.
+
+10   KIRA
+
+	stares, stunned.
+
+					KIRA 
+			It can't be... 
+
+	And off her expression, we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE      7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+11   INT. OPS - CONTINUOUS
+
+	Bareil gets to his feet, forcing Kira up with him 
+	placing the weapon at her back and using her body as 
+	a shield.
+
+					SISKO
+				(to Bareil) 
+			What do you want?
+
+					BAREIL 
+			A fast ship would be nice.
+
+					SISKO
+				(tapping his combadge) 
+			Security, we have a hostage 
+			situation. Clear a path to 
+			Landing Pad A. Authorization 
+			Sisko seven-one-green.
+
+					ODO'S COM VOICE 
+			Seven-one-green acknowledged, 
+			captain.
+
+					SISKO
+				(to Bareil) 
+			Your runabout's waiting.
+
+					BAREIL
+				(to Kira) 
+			Let's go.
+
+	Bareil and Kira step off the transporter pad. Bareil's 
+	careful to keep his back to the bulkhead.
+
+					SISKO 
+			Hurt her and you'll never get off 
+			this station, I promise you that.
+
+					BAREIL 
+			Follow me and she dies -- I 
+			promise you that.
+
+12   BAREIL AND KIRA
+
+	move toward the doors leading to the corridor. As they 
+	pass Kira's desk --
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE      8.
+
+12   CONTINUED:
+
+					BAREIL
+			Hold it.
+
+	Kira stops in her tracks. Everyone tenses, waiting to 
+	see what he's going to do. Keeping the gun on her, 
+	Bareil reaches over and picks up the Kava roll and 
+	takes a ravenous bite. As they continue toward the 
+	doors, they pass the turbolift. Kira takes a step 
+	towards it, but he stops her.
+
+					BAREIL
+			Not the turbolift. Someone cuts
+			the power and we're trapped inside.
+
+					KIRA
+			I guess we walk.
+
+	They exit into --
+
+13   INT. CORRIDOR - CONTINUOUS
+
+	Kira leads Bareil down the empty corridor. Bareil's 
+	eyes dart around, sensing an ambush at every turn.
+
+					BAREIL
+			Your uniform... I've never seen
+			one like it. You're not with the
+			Alliance, are you?
+
+					KIRA
+			There is no Alliance here.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE      9.
+
+13   CONTINUED:
+
+					BAREIL
+				(smiling) 
+			Then it's true. I've crossed to 
+			the alternate universe.
+				(finishing off the Kava 
+				roll) 
+			Tell you one thing... I like your 
+			food better.
+
+					KIRA 
+			I take it you're running from the 
+			Alliance.
+
+					BAREIL 
+			Now you know the story of my life.
+
+					KIRA
+			And once you get your ship, what 
+			then?
+
+					BAREIL 
+			I find a place where I can stop 
+			running.
+
+					KIRA
+			Where's that?
+
+					BAREIL 
+			I don't know -- I'm making this 
+			up as I go along. Believe me, no 
+			matter where I end up, it's going 
+			to be a lot better than where I've 
+			been.
+
+					KIRA
+			I can believe that. I've spent 
+			time in your universe.
+
+					BAREIL 
+			I bet you were glad to leave it.
+
+	They come to a fork in the corridor.
+
+					BAREIL 
+			Which way?
+
+					KIRA
+				(pointing) 
+			That way.
+
+					BAREIL 
+			How many levels until we reach the 
+			landing pads?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE     10.
+
+13 CONTINUED:	(2)
+
+					KIRA
+			Fifty-seven.
+
+					BAREIL
+				(resigned)
+			Lead the way.
+				(an afterthought)
+			You don't happen to have another
+			one of those Kava rolls, do you?
+				(off her look)
+			I didn't think so.
+
+	They move down the corridor.
+
+14   INT. DOCKING RING CORRIDOR
+
+	CLOSE ON Kira and Bareil as they approach an airlock.
+
+					KIRA
+			We're here. Landing Pad A.
+
+					BAREIL
+			Open it.
+
+					KIRA
+			I have a better idea
+
+	Kira turns around and faces him.
+
+					KIRA
+			Why don't you hand me that
+			disruptor.
+
+	Bareil points the weapon at her chest.
+
+					BAREIL
+			You've been so cooperative up to
+			now. I'd hate to have to kill you.
+
+					KIRA
+			You're not going to kill me.
+
+					BAREIL
+			You're sure of that?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE     11.
+
+14   CONTINUED:
+
+					KIRA
+			You're not going to kill anyone.
+			Not with that disruptor. The
+			power cell's cracked.
+
+	Bareil sighs, he's disappointed but not surprised.
+
+					BAREIL
+			How long have you known?
+
+					KIRA
+			Since we left Ops.
+
+					BAREIL
+			Then why'd you come with me?
+
+					KIRA
+			I needed the exercise.
+
+	A beat as Bareil seems to come to a hard decision.
+
+					BAREIL
+			And I need to get away.
+
+	Bareil lifts the gun to hit Kira over the head, but the 
+	Major parries the blow, steps in close and flips Bareil 
+	on his back with a judo-like move.
+
+15   ANOTHER ANGLE
+
+	Bareil hits the deck hard as the airlock OPENS. ODO 
+	and TWO BAJORAN SECURITY OFFICERS step up to Kira.
+
+					ODO
+			Are you all right, major?
+
+					KIRA
+			I'm fine.
+
+	They both look at the unconscious Bareil.
+
+					ODO
+			The resemblance to Vedek Bareil
+			is remarkable.
+
+	Odo looks at Kira for a beat, trying to determine her 
+	feelings towards the man that looks like her dead lover.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE     12.
+
+16   INT. HOLDING CELL
+
+	Bareil is seated, looking quite at home in his cell.
+
+					BAREIL 
+			This is the cleanest interrogation 
+			chamber I've ever been in -- and 
+			believe me, I've been in quite a 
+			few.
+
+	PULL BACK to reveal Kira, standing outside the cell.
+	Kira is holding the multi-dimensional transporter
+	device last seen in "Through The Looking Glass."
+
+					KIRA
+			I'm glad you're comfortable.
+				(re: the device) 
+			Mind telling me how you got your 
+			hands on this?
+
+					BAREIL
+			A Terran rebel gave it to me.
+
+	Kira knows he's lying.
+
+					KIRA
+			A multidimensional transporter 
+			device -- nice gift.
+
+					BAREIL 
+			We were very close.
+
+	Looking to change the subject, Bareil steps up to the 
+	forcefield, trying to get as close to Kira as possible.
+
+					BAREIL
+				(with cheerful 
+				anticipation) 
+			So, when do I get to meet myself?
+
+					KIRA
+				(taken by surprise) 
+			Meaning what?
+
+					BAREIL 
+			This is the alternate universe, 
+			correct? Everything's the same... 
+			but different. Which means 
+			there's another Bareil Antos here.
+
+					KIRA
+			There was.
+
+					BAREIL 
+			Was?
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE     13.
+
+16   CONTINUED:
+
+	This is hard for Kira to talk about.
+
+					KIRA
+			He's dead.
+
+	Bareil can see the sadness in her eyes.
+
+					BAREIL
+				(a realization)
+			You knew him, didn't you? That's
+			why you seemed to recognize me.
+				(a beat)
+			What was he like?
+
+					KIRA
+			Does it matter?
+
+	Bareil can see that her feelings for the man ran deep.
+
+					BAREIL
+			He was someone you cared about.
+
+	She turns to go.
+
+					BAREIL
+			Major.
+
+	Kira stops and looks back to him.
+
+					BAREIL
+			I know I have no right to ask this
+			but you could do me a very big
+			favor --
+				(re: the transporter device) 
+			-- destroy that device.
+
+					KIRA
+			Why?
+
+					BAREIL
+			Because then they can't send me back.
+
+					KIRA
+			Sorry, I can't do that.
+
+					BAREIL
+				(with urgency)
+			Please, major. You've been
+			there -- you know what it's like.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE     14.
+
+16 CONTINUED:	(2)
+
+					BAREIL (Cont'd) 
+			Put me in prison... in a labor 
+			camp... whatever you want -- just 
+			let me stay.
+
+	And off this moment --
+
+17   INT. SISKO'S OFFICE
+
+	Sisko and Kira, both standing, face each other across 
+	his desk.
+
+					SISKO 
+			Let me get this straight, major... 
+			you're refusing to press charges?
+
+					KIRA
+
+			That's right. I don't think... 
+			Bareil ever intended to hurt me.
+
+	Sisko thinks this over.
+
+					SISKO 
+			I suppose we could just send him 
+			back where he came from.
+
+					KIRA
+			No.
+				(off Sisko's look) 
+			He doesn't want to go back to that 
+			universe and I don't blame him.
+
+    DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT ONE 15   -16.
+
+17   CONTINUED:
+
+					SISKO
+			I know what you're going through, 
+			major. When I met the "other" 
+			Jennifer Sisko, it was... 
+			confusing to say the least. I 
+			knew she wasn't my wife, but 
+			sometimes she would smile at me 
+			a certain way -- or the light 
+			would hit her eyes, and... she was 
+			my Jennifer. or at least that's 
+			what I wanted to believe.
+
+					KIRA
+			Captain -- I know this man isn't 
+			Vedek Bareil. He doesn't talk 
+			like him, he doesn't act like 
+			him... he's a totally different 
+			person.
+
+					SISKO
+			But you still feel a connection 
+			to him that you can't explain, 
+			don't you?
+
+					KIRA
+			It's not a problem.
+
+	Sisko looks at her closely, then decides:
+
+					SISKO
+			Good. Just see that it doesn't
+			become one.
+
+18   CLOSE ON KIRA
+
+	as she contemplates the captain's admonition, and we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     17.
+                            ACT TWO                             
+
+	FADE IN:
+
+19   INT. PROMENADE
+
+	Bareil slowly strolls down the Promenade, taking in the 
+	sights, absorbing the world around him. He's also 
+	aware that he is being stared at by various Bajoran 
+	shopkeepers, kiosk operators and one or two passersby.
+
+	He stops in front of Quark's, drawn by the thought of 
+	a little liquid refreshment and relaxation in what 
+	appears to him as a very inviting bar.
+
+	But before he enters, Bareil spots Kira heading toward 
+	the Bajoran shrine, where the venerable VEDEK OSSAN is 
+	out front, ringing the chimes, summoning the faithful 
+	to prayer.
+
+					BAREIL 
+			Major!
+
+	Bareil hurries over to her.
+
+20   NEW ANGLE
+
+	as he catches up to Kira.
+
+					BAREIL 
+			I just wanted to say thank you for 
+			putting in a good word on my 
+			behalf.
+
+					KIRA
+			What are you going to do now?
+
+					BAREIL 
+			I'm not sure. I've been reading 
+			up on your world -- it's very 
+			different from the Bajor I know.
+
+					KIRA
+			Is that where you intend to go?
+
+					BAREIL 
+			I'm thinking about it.
+
+	TWO BAJORANS pass by on their way to the shrine, both 
+	staring at Bareil with surprise and curiosity, making 
+	him feel very self-conscious.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     18.
+
+20   CONTINUED:
+
+					BAREIL
+				(to Kira) 
+			Did you see that? People keep 
+			staring at me.
+
+					KIRA
+			It's because the man you look like 
+			was respected and loved by a lot 
+			of people. He was a Vedek.
+
+					BAREIL
+			A Vedek?
+
+					KIRA
+			A religious leader.
+
+	Bareil LAUGHS.
+
+					BAREIL 
+			Imagine that -- me, a religious 
+			leader...
+
+					KIRA
+			I'm glad you find it amusing.
+				(turning away) 
+			I'm going to be late for services.
+
+	Kira starts to move away, but Bareil catches her arm.
+
+					BAREIL 
+			Wait -- I didn't mean to offend 
+			you. It's just the kind of life 
+			I've led... it hasn't been very 
+			spiritual. In fact, I don't think 
+			I've ever been inside a temple.
+
+	This gives Kira an idea.
+
+					KIRA
+			Well, now's your chance. You're 
+			welcome to join me.
+
+					BAREIL
+				(surprised at the 
+				thought) 
+			In there? I don't think so. 
+			Besides, if I go in there, people 
+			are going to start believing I 
+			really am Vedek Bareil. And 
+			that's something I'd like to avoid.
+
+					KIRA 
+			I can understand that.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     19.
+
+20 CONTINUED:	(2)
+
+	And with that, she moves away toward the shrine. We 
+	HOLD ON a thoughtful Bareil watching her walk away.
+
+21   INT. BAJORAN SHRINE
+
+	Kira is standing amidst a gathering of BAJORANS 
+	listening to Vedek Ossan recite the traditional words 
+	of the service. Ceremonial candles light the area 
+	around him.
+
+					OSSAN 
+			Tolata impara no takash... with 
+			humility and gratitude, we accept 
+			this gift...
+
+	The Vedek turns to face the shrine entrance, raises his 
+	arms and calls out.
+
+					OSSAN
+			... Veshanoo yavar ha iktasho... 
+			the sacred Orb of Prophecy.
+
+	The congregation rises, turns to face...
+
+22   THE SHRINE ENTRANCE
+
+	where a pair of ACOLYTES ENTER, RINGING prayer chimes. 
+	Following them, TWO BAJORAN SECURITY GUARDS take 
+	stations next to the doorway.
+
+23   KIRA
+
+	becomes aware of a small commotion around her. She 
+	turns and finds Bareil standing next to her.
+
+					KIRA
+				(low, surprised) 
+			What are you doing here?
+
+					BAREIL
+				(whispering) 
+			I figured I could use a little 
+			spiritual guidance.
+
+					KIRA
+			That's not funny.
+
+					BAREIL 
+			It wasn't meant to be.
+
+	Kira looks at him intently.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     20.
+
+23   CONTINUED:
+
+					BAREIL 
+			I plan on making a new life for 
+			myself here and I'm going to need 
+			all the help I can get.
+
+	Kira nods -- she can understand his outlook. The eerie 
+	SOUND of the T'fan (a traditional Bajoran wind 
+	instrument that sounds like a haunting cross between 
+	an Australian didgeridoo and a Hebrew shofar) abruptly 
+	attracts Bareil's attention.
+
+24   THE TEMPLE ENTRANCE
+
+	The Monk playing the T'fan leads a small procession 
+	carrying an orb case toward the dais.
+
+					BAREIL 
+				(quietly) 
+			What's in the box?
+
+					KIRA
+			The Orb of Prophecy and Change.
+
+25   KIRA AND BAREIL
+
+	both face the procession, occasionally glancing at each 
+	other and SPEAKING IN WHISPERS.
+
+					BAREIL 
+			"Orb?"
+
+					KIRA
+			A gift from the Prophets. It can 
+			foresee the future -- or a 
+			possible future, anyway.
+
+					BAREIL 
+			That could come in handy. 
+				(a beat) 
+			Who are the Prophets?
+
+	This makes her smile.
+
+					KIRA
+			Our gods. You do have gods, don't 
+			you?
+
+					BAREIL 
+			Of course we do.
+
+					KIRA
+			You don't sound too sure.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     21.
+
+25   CONTINUED:
+
+					BAREIL 
+			That's because I leave them alone 
+			and they leave me alone.
+
+	From behind them, we hear a loud SHUSHING sound. Kira 
+	and Bareil look at each other, then revert their 
+	attention to the elaborate ceremony being performed by 
+	the Vedek.
+
+26   VEDEK OSSAN
+
+	stands at the dais, where the orb has been placed, and 
+	solemnly places both hands on the sides of the box. 
+	Closing his eyes, he begins to chant:
+
+					OSSAN 
+			Yelim cha ono... tarnah purono 
+			dhar jeek... teram far che... 
+			yavar ha iktasho...
+
+
+27   BAREIL AND KIRA
+
+	as she and the other Bajorans close their eyes and join 
+	in on the chant.
+
+					KIRA
+				(to Bareil) 
+			Close your eyes.
+
+					BAREIL 
+			Excuse me?
+
+					KIRA
+			Close your eyes.
+
+	After a beat he does, joining the chant as best he can.
+
+					GROUP 
+			Yelim cha ono... tarnah purono 
+			dhar jeek... teram far che... 
+			yavar ha iktasho...
+
+	And as we hold on the moment --
+
+									CUT TO:
+
+28   INT. PROMENADE
+
+	Bajorans file out of the shrine, Kira and Bareil among 
+	them. They walk together down the Promenade.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     22.
+
+28   CONTINUED:
+
+					KIRA 
+			Well, what did you think?
+
+					BAREIL 
+			I'm not sure. It was an 
+			interesting ceremony, but...
+
+					KIRA
+			But what?
+
+					BAREIL 
+			Everyone seemed to take it so 
+			seriously.
+
+					KIRA 
+			What's wrong with that?
+
+					BAREIL 
+			It must be nice to have that kind 
+			of faith. I've always preferred 
+			to believe in nothing -- that way 
+			I'm never disappointed.
+
+					KIRA
+			Doesn't sound like much of a life.
+
+					BAREIL 
+				(smiling) 
+			Maybe not, but it's all mine.
+
+	Kira smiles back, she can't help but finding this man 
+	charming.
+
+					BAREIL 
+			Anyway... I'm glad I got a chance 
+			to see you again -- it was very... 
+			enlightening.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     23.
+
+28 CONTINUED:	(2)
+
+	Kira nods. There's an awkward beat between them. 
+	Finally:
+
+					BAREIL 
+			Thank you, major.
+
+	He takes a couple of steps away before Kira impulsively 
+	calls out to him.
+
+					KIRA
+			Bareil.
+				(after he turns to face 
+				her) 
+			Do you like Klingon food?
+
+	And before he can answer, we go to --
+
+29   INT. DAX AND WORF'S QUARTERS
+
+	We open on Bareil taking a long gulp of bloodwine, 
+	mid-story:
+
+					BAREIL 
+			An hour later, the Klingon guard 
+			returned to my cell. And as he...
+
+30   NEW ANGLE
+
+	to see Kira, Dax and Worf seated around a dinner 
+	table, clearly entertained by Bareil's tale.
+
+					BAREIL
+				(remembering)
+			... put down my "last meal"... I 
+			slipped his mek'leth out of his 
+			scabbard and hid it in my shirt. 
+			That night, I used the blade to 
+			deactivate the sensor alarm, and 
+			used my earring to open the cell 
+			door.
+				(a beat) 
+			By the time they realized I was 
+			gone, I was halfway to the Ventar 
+			system.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     24.
+
+30   CONTINUED:
+
+					DAX 
+			That's one hell of a story.
+
+	Dax gets up and goes to a side table to pick up a 
+	cake-like dessert.
+
+					WORF 
+			And that's all it is -- a story.
+
+					BAREIL 
+			Excuse me?
+
+					WORF 
+			It was well told, but there's no 
+			truth to any of it.
+
+					BAREIL 
+			You're sure of that?
+
+	Dax returns to the table with the dessert, setting it 
+	in the middle of the table.
+
+					WORF 
+			You expect us to believe you stole 
+			a mek'leth from a Klingon warrior?
+
+					DAX
+			Worf -- it's not polite to accuse 
+			a guest of lying.
+
+					BAREIL 
+				(to Dax) 
+			It's all right. Obviously, I was 
+			exaggerating.
+
+	Dax takes a serving knife and offers it to Worf.
+
+					DAX 
+			Would you like to do the honors?
+
+	But before Worf can take the knife:
+
+					BAREIL 
+			Allow me.
+
+	Bareil whips out a mek'leth from his shirt sleeve. 
+	Worf instinctively reaches behind his back for his 
+	mek'leth -- but it's not there.
+
+	Bareil then slices the dessert with two lightning-fast 
+	slashes, dividing the cake into four even pieces. 
+	Bareil then holds out the blade for Worf to take.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     25.
+
+30   CONTINUED:	(2)
+
+					BAREIL 
+			I believe this is yours.
+
+	Kira and Dax smile.
+
+					KIRA
+			What do you think now, Worf?
+
+	After a beat, Worf takes back his blade.
+
+					WORF
+				(magnanimous) 
+			Obviously, Bareil is a better 
+			thief than I gave him credit for.
+				(grabbing a flask) 
+			More bloodwine?
+
+					BAREIL 
+			Why not.
+
+
+					WORF 
+			Now I will tell you one of my 
+			stories.
+
+					BAREIL 
+			And I suppose every word of it 
+			will be true.
+
+					WORF 
+			Mostly.
+
+	Worf finishes pouring the bloodwine, and begins telling 
+	his story to Bareil.
+
+					WORF 
+			I was seventeen and serving as an 
+			ensign on the U.S.S. Hawk. We 
+			were two days out of port when 
+			this anomaly hit us --
+
+	As Worf goes on with his tale, Dax leans over to Kira.
+
+					DAX
+				(sotto voce; re: Bareil) 
+			I'll say this for him, he might 
+			not be as spiritual as Vedek 
+			Bareil -- but he's a lot more fun.
+
+	Kira smiles... she might not agree fully with Dax's 
+	statement, but she's happy to know her friends like her 
+	"date."
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     26.
+
+31   INT. HABITAT RING CORRIDOR
+
+	Later. Kira and Bareil are walking back to her
+	quarters after the dinner party. They're not drunk,
+	but they are... relaxed.
+
+					BAREIL
+			You know you're a lucky woman?
+
+					KIRA
+			Why's that?
+
+					BAREIL
+			You have good friends.
+
+					KIRA
+				(agreeing)
+			They liked you.
+
+					BAREIL
+			You think so?
+
+					KIRA
+			Why do you sound so surprised?
+			You must've had friends back home.
+
+					BAREIL
+			I can think of one...
+
+	Bareil gets suddenly serious, as if a dark memory has 
+	taken over his mood. Kira senses this and probes 
+	gently:
+
+					KIRA
+			If you don't want to talk about
+			it...
+
+					BAREIL
+			There's not much to say. She died.
+
+					KIRA
+			I'm sorry.
+
+					BAREIL
+			It's all right, it was a long time
+			ago.
+
+	They arrive at Kira's quarters.
+
+					KIRA
+			This is home.
+				(a beat)
+			I'm sorry the evening had to end
+			on such a sad note.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     27.
+
+31   CONTINUED:
+
+					KIRA
+				(continuing; a beat) 
+			Would you like to come in -- have 
+			a raktajino?
+
+	And off Bareil's smile of acceptance.
+
+32   INT. KIRA'S QUARTERS
+
+	Bareil is seated on a couch, drinking a cup of 
+	raktajino. Kira's seated next to him.
+
+					BAREIL 
+			Her name was Lisea. I first saw 
+			her on the street in Ilvia. I 
+			couldn't take my eyes off her -- 
+			she had the most attractive little 
+			money sack hanging from her waist.
+
+	Kira smiles is disbelief.
+
+					KIRA
+			Don't tell me you stole it --
+
+					BAREIL 
+			She should've known better than to 
+			carry her money so carelessly in 
+			Ilvia. It's a very dangerous place.
+			Turns out she had just arrived from 
+			one of the mining camps in the hills 
+			of Dahkur Province.
+
+					KIRA
+			I come from Dahkur Province, 
+			except here it's all farmland.
+
+					BAREIL 
+			When I met her she was working in 
+			an Ilvian pleasure center.
+
+					KIRA
+			And you decided to "take her away 
+			from all that?"
+
+					BAREIL
+				(chagrined) 
+			I taught her how to be a thief. 
+			The funny thing is she was so 
+			grateful. She felt I saved her 
+			life.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     28.
+
+32   CONTINUED:
+
+					KIRA 
+			Maybe you did.
+
+					BAREIL
+				(shaking his head)
+			If anyone was saved it was me...
+
+	Bareil lets out a long breath, he hasn't thought about 
+	this in a long time and he's surprised how much it 
+	still affects him.
+
+					BAREIL 
+			We were having dinner in a bar... 
+			a fight broke out. A drunken 
+			Cardassian pulled out a disruptor 
+			and started firing. The next 
+			thing I knew, she was lying dead 
+			in my arms...
+
+	Bareil's eyes are filled with deep sadness.
+
+					BAREIL
+				(continuing) 
+			We were together five years... and 
+			in all that time, I never told her 
+			how much she meant to me.
+
+	Kira gently picks up his hand and intertwines her 
+	fingers with his.
+
+					KIRA
+			I know what it's like to lose 
+			someone.
+
+	She squeezes his fingers with support. He looks down 
+	at their clasped hands, then up to her face. He allows 
+	himself a small smile.
+
+      DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT TWO     29.
+
+32 CONTINUED:	(2)
+
+					BAREIL 
+			When I activated that transporter 
+			device... I had no idea where I 
+			would end up. I never thought I'd 
+			be sitting here... with you.
+
+					KIRA
+			Two days ago all I wanted was to 
+			be alone.
+
+					BAREIL
+			Major...
+
+					KIRA
+			Don't you think it's time you 
+			called me Nerys?
+
+	And with that, they both slowly lean forward and kiss.
+	And on this, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    30.
+                           ACT THREE                            
+
+	FADE IN:
+
+33   INT. KIRA'S QUARTERS - NEXT MORNING
+
+	Kira is in bed. She's half asleep, but Bareil, sitting 
+	on the bed, is holding a bowl of a grape-like fruit 
+	which he relishes.
+
+					BAREIL
+				(holding up a piece of 
+				fruit)
+			What did you say these are called?
+
+					KIRA
+			Alvas. They grow all over Bajor.
+
+					BAREIL
+			Not my Bajor.
+
+	Bareil pops another one into his mouth. Kira can't 
+	help smiling.
+
+					KIRA
+			I can't believe you're still 
+			hungry. After a Klingon meal, I
+			usually don't eat for two days.
+
+					BAREIL
+			Ever since I got here, I can't 
+			seem to stop eating.
+
+	Kira stares at Bareil with obvious warmth. After a 
+	long beat, he notices her gaze.
+
+					BAREIL
+			What is it?
+
+					KIRA
+			Nothing.
+
+					BAREIL
+				(thinks he knows) 
+			This must be very... strange for 
+			you. You and I here, together... 
+			me looking like him.
+
+					KIRA
+			You're not anything like him.
+
+					BAREIL
+			You mean he didn't eat in bed?
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    31.
+
+33   CONTINUED:
+
+					KIRA
+			Antos was very disciplined.
+				(smiling at the memory) 
+			He had a set routine that he never 
+			deviated from. He ate only two 
+			meals a day... simple food. He 
+			always used to say "When you 
+			overindulge the body --
+
+					BAREIL
+				(completing the quote)
+			-- you starve the soul."
+
+	Kira is taken aback by Bareil's knowledge.
+
+					KIRA
+			How'd you know that?
+
+					BAREIL 
+			I did a little research. Enough 
+			to know that when he died, Bajor 
+			suffered a great loss.
+
+					KIRA
+			I would've given my life to save 
+			his.
+				(a beat) 
+			But all I could do was stand there 
+			and watch him slip away...
+
+	Bareil takes her hand and comforts her the way she 
+	comforted him. After a long beat:
+
+					BAREIL 
+			Are you tired?
+
+					KIRA
+			Not anymore.
+
+					BAREIL 
+			Want to get an early breakfast?
+
+					KIRA
+				(smiles) 
+			Sounds good.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    32.
+
+33 CONTINUED:	(2)
+
+	And as they both slip out of bed, we go to --
+
+34   INT. OPS
+
+	Dax and Worf are at their stations. BASHIR is there 
+	too, handing Dax a PADD.
+
+					BASHIR 
+			My medical requisitions.
+
+	Bashir's eyes sweep the room.
+
+					DAX 
+			Why didn't you just download them 
+			into the computer?
+
+					BASHIR 
+			I don't know... I just thought I'd 
+			stretch my legs... see what's 
+			happening in Ops.
+
+					DAX
+			Kira hasn't shown up yet.
+
+					BASHIR
+				(all innocence) 
+			Kira?
+
+					DAX 
+			You are so transparent.
+
+					BASHIR 
+			I don't know what you're talking 
+			about.
+
+					WORF
+
+			Your guilt is quite clear, Doctor.
+
+					BASHIR 
+			Guilt? About what -- medical 
+			requisitions? Don't be ridiculous.
+
+					DAX
+			Julian -- Kira's personal life is 
+			her own. We're her friends and 
+			we should respect her privacy.
+
+	The doors OPEN and Kira ENTERS, all eyes upon her.
+
+					DAX
+				(without missing a beat) 
+			Morning, Nerys. How'd things go 
+			last night?
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    33.
+
+34   CONTINUED:
+
+					KIRA 
+			You mean dinner? We had a great 
+			time. Why?
+
+	Bashir gives Dax a pot-calling-the-kettle-black look.
+
+					BASHIR 
+			She means after dinner. But you 
+			don't have to answer that 
+			question -- we wouldn't want to 
+			invade your privacy.
+
+					DAX
+			But, if you want to tell us about 
+			it -- we'll listen.
+
+	Kira looks at all of her friends, then smiles.
+
+					KIRA
+			It went... well.
+
+					DAX
+				(to Worf)
+			I told you.
+
+					WORF
+			I never doubted it.
+
+	There's a pregnant pause before everyone goes back 
+	about their business.
+
+					BASHIR
+			Well, I'd better get back to the
+			Infirmary...
+				(to Kira)
+			... unless there are any more 
+			details forthcoming.
+
+					KIRA
+			Good-bye, Doctor.
+
+	Bashir takes his cue and EXITS as Kira turns her 
+	attention to her console.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    34.
+
+34   CONTINUED:	(2)
+
+					KIRA 
+			Worf -- any news from General 
+			Martok's scout ships?
+
+					WORF
+			They report no signs of Dominion 
+			activity along the border.
+
+					KIRA
+			Let's hope it stays that way.
+
+
+	Dax steps up to Kira, almost whispering in her ear.
+
+					DAX 
+			So, you going to see him tonight?
+
+					KIRA
+				(nods) 
+			At the Bajoran shrine.
+
+					DAX
+			That doesn't sound very romantic.
+
+					KIRA
+				(ignoring the comment) 
+			He's going to have his first orb 
+			experience.
+
+					DAX
+			Your idea, I suppose?
+
+					KIRA 
+			Actually, it was his. He's 
+			curious about Bajoran 
+			spirituality -- it's a new concept 
+			for him.
+
+					DAX
+			It's not a midnight swim in the 
+			Holosuites... but as long as it 
+			makes you happy...
+
+	Dax shrugs and returns to her work.
+
+35   INT. BAJORAN SHRINE
+
+	Kira and Bareil wait together, alone. Kira is seated 
+	on a stone bench as Bareil paces. The Orb of Prophecy 
+	and Change sits on the altar, surrounded by a 
+	protective forcefield.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    35.
+
+35   CONTINUED:
+
+					BAREIL 
+			So where's this Vedek?
+
+					KIRA 
+			He'll be here -- now stop pacing. 
+			This is an orb experience, not an 
+			execution.
+
+					BAREIL 
+			I just don't want to... disappoint 
+			anybody.
+
+					KIRA
+			That's sweet, but I'm not going 
+			to judge you.
+
+					BAREIL 
+			I know that. I meant the 
+			Prophets. What do I say to them?
+
+					KIRA
+			You don't have to say or do 
+			anything...
+
+					BAREIL 
+			I just stare into the orb?
+
+					KIRA 
+			Actually, it's more like the orb 
+			stares into you.
+
+36   ANOTHER ANGLE
+
+	as Vedek Ossan appears from the shadows behind the 
+	altar.
+
+
+					OSSAN
+				(to Bareil) 
+			Welcome, my child. Are you ready 
+			to proceed?
+
+	Bareil looks at Kira who stands to offer support.
+
+					BAREIL 
+			Yes.
+
+37   NEW ANGLE (OPTICAL)
+
+	Vedek Ossan approaches a panel to one side of the altar 
+	and taps in an authorization code.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    36.
+
+37   CONTINUED:
+
+	The Vedek then places his hand on a scanner, which 
+	temporarily GLOWS around his fingers. The forcefield 
+	FRITZES OFF.
+
+					OSSAN 
+			Come.
+
+	Bareil steps up to the altar... Ossan grasps his ear.
+
+					OSSAN 
+			Your pagh is strong. You're ready 
+			to face the will of the Prophets.
+
+38   CLOSE ON BAREIL
+
+	as he glances uneasily at Kira, who offers him an 
+	encouraging smile.
+
+	Bareil turns to face the orb case, takes a deep breath, 
+	then OPENS it. BLUE ORB LIGHT SHIMMERS across his 
+	face --
+
+39   THE ORB (OPTICAL)
+
+	Its radiance increases.
+
+40   BAREIL
+
+	His face suddenly softens. His eyes widen. His mouth 
+	opens slightly in awe.
+
+									CUT TO:
+
+41   INT. REPLIMAT
+
+	Kira takes a Raktajino and a Kava roll from the 
+	replicator and brings it over to where Bareil is 
+	sitting, lost in thought. She sets the food down in 
+	front of him, momentarily shaking him out of his 
+	reverie.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    36.
+
+41   CONTINUED:
+
+					BAREIL 
+			Thank you, but I'm not hungry.
+
+					KIRA
+			That's a change.
+
+					BAREIL 
+			When you had your first Orb 
+			experience... did you understand 
+			it?
+
+					KIRA
+			I don't know if anyone can fully 
+			understand an Orb experience -- 
+			not at first anyway. You have to 
+			live with it for a while... absorb 
+			it.
+
+					BAREIL 
+			And then?
+
+					KIRA
+			And then one day it becomes a part 
+			of you... a part of who you are.
+
+					BAREIL 
+			I thought I was going to get a 
+			glimpse into the future... but it 
+			was more than that.
+				(half to himself) 
+			It changes you.
+				(rubbing his head) 
+			There were so many images... I 
+			could hardly keep track of them 
+			all.
+				(looking at Kira) 
+			He was there...
+
+	Kira says nothing, but she suspects she knows who he's 
+	talking about.
+
+					BAREIL
+				(continuing) 
+			Vedek Bareil. We were 
+			together -- talking -- but it was 
+			all mixed up. I was him, he was 
+			me... it was very confusing.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    38.
+
+41 CONTINUED:	(2)
+
+					KIRA 
+			I don't think we should be talking 
+			about this.
+
+					BAREIL
+			If I can't tell you about it -- 
+			who can I tell?
+
+					KIRA
+			No one. An Orb experience isn't 
+			meant to be shared.
+
+	Bareil tries to grasp all this, rubs his head.
+
+					BAREIL 
+			I feel like I could sleep for days.
+
+					KIRA
+			That's a pretty common reaction. 
+			You should get some rest.
+
+					BAREIL 
+			I will.
+
+	But Bareil has something else to say to Kira.
+
+					BAREIL
+			Nerys...
+
+	Kira understands and doesn't need the words of 
+	gratitude.
+
+					KIRA
+			It's all right. I'll see you 
+			tomorrow.
+
+	She leans over and kisses him. It's a tender, loving 
+	kiss. After a beat, Kira gets up and EXITS. We hold 
+	on Bareil.
+
+42   INT. BAREIL'S QUARTERS
+
+	Bareil ENTERS and sinks into a chair, leaning his head 
+	back, and closing his eyes. This is a deeply tired 
+	man. After a beat, we hear a voice from off screen:
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT THREE    39.
+
+42   CONTINUED:
+
+					INTENDANT 
+			I was wondering when you'd get 
+			back.
+
+	Bareil's eyes pop open to find the INTENDANT, from the 
+	alternate universe, slide her black leather-encased 
+	body onto his lap.
+
+					BAREIL 
+			What are you doing here?
+
+					INTENDANT 
+			I know I'm early. But my 
+			curiosity got the better of me... 
+				(a beat) 
+			Besides, the thought of you pining 
+			away for me was too much to bear.
+
+	She kisses him, passionately.
+
+					INTENDANT 
+			Now, tell me... how's our little 
+			plan progressing?
+
+					BAREIL 
+			Couldn't be better. We're right 
+			on schedule.
+
+					INTENDANT 
+			That's what I was hoping to hear.
+
+	And as she kisses him again, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+43   INT. BAREIL'S QUARTERS - CONTINUOUS
+
+	As before. The Intendant is still curled up on 
+	Bareil's lap.
+
+					INTENDANT 
+			I want you to tell me everything 
+			that's happened since you got 
+			here.
+
+					BAREIL
+				(sighing) 
+			Later. I'm too tired. Right now 
+			all I want to do is go to bed.
+
+					INTENDANT 
+			Even better.
+
+					BAREIL
+				(annoyed)
+			I said I was tired.
+
+					INTENDANT
+				(suspicious) 
+			You've never been tired before.
+
+					BAREIL 
+			It's been a long day.
+
+	Not satisfied with his answer, she pushes herself off 
+	his lap, and confronts him.
+
+					INTENDANT 
+			I don't think you're pleased to 
+			see me.
+				(suddenly smiling) 
+			It's her, isn't it? The major's 
+			gotten to you.
+
+					BAREIL
+				(with growing irritation) 
+			Don't be stupid.
+
+					INTENDANT 
+			I'd be very disappointed if you 
+			didn't find the major... 
+			intoxicating. After all, she is 
+			me...
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     41.
+
+43   CONTINUED:
+
+					INTENDANT (Cont'd)
+				(a beat)
+			Or the next best thing to me. So
+			what do you think of her?
+
+					BAREIL
+			You're crazy.
+
+					INTENDANT
+			We already know what I'm like...
+				(insistent)
+			... what about her?
+
+					BAREIL
+			I'm not going to discuss this.
+
+	He gets up, heads for the bedroom. She stops him with 
+	a hand on his chest.
+
+					INTENDANT
+				(seductive)
+			Please... I really want to know.
+
+					BAREIL
+				(the simple truth)
+			She's... wonderful.
+
+	The Intendant studies Bareil; she can see he means it. 
+	There are myriad reactions the Intendant could have -- 
+	and for a moment, its not clear which one she'll pick.
+
+					INTENDANT
+			I knew it.
+
+	She shoves him away.
+
+					INTENDANT
+			She's too good for you.
+				(only half joking)
+			We both are. You're nothing but
+			a petty thief.
+
+					BAREIL
+			I know what I am.
+
+	The Intendant is disappointed by Bareil's failure to 
+	fight back.
+
+					INTENDANT
+			That's it? That's all you have
+			to say?
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     42.
+
+43 CONTINUED:	(2)
+
+					BAREIL 
+			I told you -- I'm tired.
+
+					INTENDANT
+				(smiling) 
+			The major must be very --
+
+					BAREIL
+				(cutting her off) 
+			It has nothing to do with the 
+			major. I looked into the orb 
+			today.
+
+					INTENDANT 
+			You did? How very exciting.
+
+	She propels him onto the couch and sits next to him --
+	prepared to hang on to his every word.
+
+
+					INTENDANT 
+			How soon can we get our hands on 
+			it?
+
+					BAREIL 
+			The Vedeks are holding a twenty-
+			six hour vigil in the shrine. I 
+			can't get near the place until 
+			tomorrow night. The Orb is behind 
+			a forcefield keyed to a decryption 
+			matrix.
+
+					INTENDANT 
+			Which you can bypass.
+
+					BAREIL 
+			That's what thieves do.
+
+					INTENDANT 
+			Today you're a thief, but 
+			tomorrow -- once we get our prize 
+			home -- you'll be "Bearer of the 
+			Orb." A holy man who'll unite the 
+			Bajoran people in a war against 
+			the Alliance.
+
+					BAREIL
+				(more to himself, seeing 
+				the irony) 
+			Just call me Vedek Bareil...
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     43.
+
+43 CONTINUED:	(3)
+
+					INTENDANT 
+			Think of it... power, wealth -- 
+			you'll be like a god.
+
+					BAREIL 
+			You're putting a lot of faith in 
+			that Orb.
+
+					INTENDANT
+			And so will every other Bajoran.
+				(looking at him with a 
+				smile) 
+			You and I are going to have so 
+			much fun. I can hardly wait.
+
+	She looks to Bareil and sees his deep weariness.
+
+					INTENDANT 
+			You do look tired. You should get 
+			some rest.
+
+	Bareil nods and starts to rise from the couch -- but 
+	before he can get up, the Intendant grabs him by the 
+	hair and yanks his head back.
+
+					INTENDANT
+			And tomorrow -- when you see the
+			major...
+
+	She gives him a fierce, hard kiss, then releases him.
+
+					INTENDANT
+				(continuing)
+			... give her that kiss for me.
+
+	He stares at her for a moment, thinks better of 
+	confronting her, and EXITS into the bedroom. We hold 
+	on the Intendant looking quite pleased.
+
+44   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+45   INT. QUARK'S
+
+	Normal crowd. A large portion of the customers are 
+	Bajoran and their attention is focused on the bar, 
+	where Bareil is seated, finishing a drink. As QUARK 
+	walks by, Bareil flags him down.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     44.
+
+45   CONTINUED:
+
+					BAREIL 
+			One more.
+
+					QUARK 
+			Coming right up.
+
+	Quark reaches for a bottle and pours Bareil another 
+	drink. As he does, Bareil catches TWO BAJORANS down 
+	the bar staring at him.
+
+					BAREIL
+				(temper rising) 
+			What are you two staring at?
+
+	The two Bajorans quickly look away. Bareil looks 
+	around the room.
+
+					BAREIL 
+			The same goes for the rest of you. 
+			I'm not Vedek Bareil. I just want 
+			to be left alone.
+
+	The other Bajoran customers go back about their 
+	business.
+
+					QUARK 
+			You heard the man. Now leave him 
+			be.
+				(to Bareil) 
+			I'm sorry about that. People can 
+			be so rude. You know I used to 
+			see the Vedek all the time, 
+			walking down the Promenade with 
+			Major Kira. Never came in here, 
+			though. I guess dabo wasn't his 
+			game.
+
+	Quark studies Bareil for a beat.
+
+					QUARK 
+			It is an amazing resemblance. Put 
+			you in a Vedek's robe and no one 
+			would know the difference.
+
+					BAREIL 
+			Believe me, there's a difference.
+
+					QUARK 
+			Not to the paying public.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     45.
+
+45   CONTINUED:	(2)
+
+					BAREIL
+				(studying Quark) 
+			You've got a business proposition 
+			for me? Spit it out.
+
+	To Quark, that's an invitation from a soulmate.
+
+					QUARK
+				(confidentially) 
+			Picture this. You seated here, 
+			wearing robes. A long line of 
+			Bajorans waiting patiently to pay 
+			good money just to meet Vedek 
+			Bareil... maybe touch his hand.
+
+					BAREIL 
+			But like I said, I'm not Vedek 
+			Bareil.
+
+					QUARK 
+			A mere technicality. You're the 
+			closest thing to Vedek Bareil that 
+			they're ever going to see, which 
+			is why they're going to love you.
+
+					BAREIL 
+			I wouldn't know what to say to 
+			them.
+
+					QUARK 
+			The less, the better. Just nod 
+			your head every once in a while 
+			and smile benignly. It's simple. 
+			Later on, once you get the hang 
+			of it, you might want to throw in 
+			a blessing or two. What do you 
+			think?
+
+					BAREIL
+				(shaking his head in
+				weary disgust)
+			I've known people like you my
+			whole life. Nasty, greedy little
+			minds... willing to do whatever
+			it takes to make money. I know
+			just how you think.
+
+					QUARK 
+			That's because you think the same 
+			way.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     46.
+
+45 CONTINUED:	(3)
+
+					BAREIL
+				(a beat; an admission) 
+			I suppose I'm a lot more like you 
+			than I'll ever be like Vedek Bareil.
+
+					QUARK
+				(hopeful) 
+			Perfect. Then we have a deal?
+
+	Bareil gets up from his stool.
+
+					BAREIL 
+			I'm afraid not.
+
+					QUARK 
+			Why?
+
+					BAREIL 
+			Because right now, I don't like 
+			either one of us.
+
+	With that, he EXITS. We hold on a puzzled Quark.
+
+					QUARK
+				(to himself) 
+			Shame to see such a good 
+			opportunity go to waste.
+
+46   INT. PROMENADE
+
+	Bareil leaves Quark's. He's angry with the Ferengi and 
+	angry with himself. He stops short, confronted by --
+
+47   BAREIL'S POV
+
+	of the Bajoran shrine.
+
+48   CLOSE ON BAREIL
+
+	feeling as if the shrine was sitting in judgment of 
+	his entire life.
+
+49   INT. CARGO BAY
+
+	Kira is taking inventory of a newly arrived shipment 
+	of cargo.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     47.
+
+50   ANGLE ON THE DOOR
+
+	as Quark arrives with TWO FERENGI WAITERS and a cargo 
+	cart. We see a Starfleet SECURITY GUARD stationed 
+	outside.
+
+					QUARK 
+			Major, any idea where they put my 
+			shipment of Saurian brandy?
+
+					KIRA
+				(indicating) 
+			Over there.
+
+					QUARK
+				(to the waiters) 
+			You heard her.
+
+	The Ferengi waiters begin to load the crates onto the 
+	cart. Kira holds out her manifest PADD for Quark to 
+	sign with his thumbprint.
+
+					QUARK 
+			Your new boyfriend came into my 
+			bar today.
+
+	Kira's in a good mood and she refuses to allow Quark 
+	to change it.
+
+					KIRA 
+			Did he.
+
+					QUARK 
+			He's a little different, isn't he?
+
+					KIRA
+			From what?
+
+					QUARK 
+			From some of your previous 
+			choices. Don't get me wrong, I 
+			had nothing against Vedek Bareil 
+			or Shakaar... but let's face it, 
+			they were a little too 
+			controlled... a little too 
+			controlling. They lacked fire... 
+			excitement. But this Bareil -- 
+			he's a different story. He's full 
+			of surprises.
+
+					KIRA
+			I take it you like him.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR    47A.
+
+50   CONTINUED:
+
+					QUARK 
+			Let's just say I like the idea of 
+			you with him. 
+				(a beat) 
+			But I'll tell you one thing, 
+			Major. You'd better brace 
+			yourself. You're in for a rough 
+			ride.
+
+					KIRA
+			What are you talking about?
+
+					QUARK 
+			I've been a bartender a long time. 
+			I've seen all sorts of customers. 
+			Happy ones, sad ones, complicated 
+			ones...
+
+					KIRA
+			And Bareil -- where does he fit in?
+
+					QUARK 
+			He's one of the... tormented ones.
+
+	This actually gets Kira's attention, she looks over to 
+	Quark to see if he's kidding. He's not.
+
+					KIRA
+			Tormented? I don't think so. 
+			You've had an Orb experience, 
+			Quark -- you know what they're 
+			like.
+
+					QUARK 
+			He had an Orb experience? 
+			Interesting.
+
+					KIRA
+			Meaning what?
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     48.
+
+50   CONTINUED:	(2)
+
+					QUARK
+			After he left the bar, I saw him 
+			hanging around the Bajoran shrine. He 
+			must've been there a couple of hours.
+
+					KIRA
+			He has a lot on his mind -- he 
+			probably went there to think 
+			things over.
+
+					QUARK
+				(shrugs) 
+			Either that... or he was figuring 
+			out a way to rob the place.
+
+	Quark turns to see that the Ferengi waiters have 
+	finished loading the cart and are waiting for him.
+
+
+					QUARK
+			What is this, a union meeting? 
+			Let's get moving.
+				(over his shoulder) 
+			Nice chatting with you, major. I 
+			hope you two are very happy together.
+
+	And with that, he EXITS. We HOLD ON an uneasy Kira, 
+	clearly disturbed by Quark's observations.
+
+51   INT. BAREIL'S QUARTERS
+
+	As a grim Bareil ENTERS to find the Intendant dressed 
+	in Major Kira's uniform, waiting for him. She still 
+	has her distinctive headband on, which she takes off, 
+	completing the illusion.
+
+					INTENDANT 
+			Well? What do you think?
+
+					BAREIL 
+			Even I'd have trouble telling you 
+			apart.
+
+					INTENDANT 
+			Wearing the major's clothes... it 
+			feels so intimate.
+
+	The Intendant approaches Bareil, putting her arms 
+	around him.
+
+					INTENDANT 
+			Admit it -- you've never found me 
+			more exciting. It's like having 
+			the best of both worlds.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FOUR     49.
+
+51   CONTINUED:
+
+	Bareil disengages himself from her grasp.
+
+					BAREIL 
+			Let's try and stay focused, all 
+			right? We both have jobs to do.
+
+					INTENDANT 
+			You're right, we'll celebrate 
+			later. Did you get the combadges?
+
+	Bareil takes out a pair of combadges.
+
+					INTENDANT 
+			Such nimble fingers...
+
+
+	Bareil puts one on his shirt and hands the other to the 
+	Intendant. The Intendant places the combadge on her 
+	uniform.
+
+					INTENDANT 
+			Contact me as soon as you have the 
+			Orb.
+
+					BAREIL 
+				(nods) 
+			Right.
+
+					INTENDANT 
+			You are going to look so good 
+			wearing a crown.
+
+	And as she smiles with anticipation, she kisses him 
+	passionately. And we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE     50.
+                           ACT FIVE                             
+
+	FADE IN:
+
+52   INT. BAJORAN SHRINE - NIGHT
+
+	Bareil ENTERS. The place is empty and dark, except for 
+	the glow emanating from the Orb chamber. Bareil 
+	approaches the chamber security panel and begins to 
+	bypass the protocols.
+
+53   INT. DOCKING RING CORRIDOR
+
+	The Intendant approaches a cargo bay door. She spots 
+	the Starfleet Security Guard at his post.
+
+					INTENDANT 
+			Everything quiet?
+
+					SECURITY GUARD 
+			Yes, major.
+
+					INTENDANT 
+			Good. Carry on.
+
+	She takes a few steps to go past the Guard into the 
+	cargo bay, but he stops her.
+
+					SECURITY GUARD 
+			I'm sorry, but I need your level 
+			six authorization code.
+
+					INTENDANT 
+			Is that really necessary?
+
+					SECURITY GUARD 
+			It's the new protocol...
+				(by way of explanation)
+			... the war.
+
+					INTENDANT 
+			Of course.
+
+	Suddenly, the Intendant winces with pain.
+
+					SECURITY GUARD 
+			Is everything all right?
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE     51.
+
+53   CONTINUED:
+
+					INTENDANT
+				(rubbing her shoulder) 
+			I must've pulled a muscle 
+			exercising in the holosuites. 
+			It's been bothering me all day.
+				(as if getting an idea) 
+			Would you mind massaging my 
+			shoulders?
+
+	The Guard is a bit uncomfortable with the idea, but 
+	before he can answer, the Intendant has eased over to 
+	him, practically burying her back in his chest.
+
+					INTENDANT
+				(playful)
+			I could make it an order...
+
+	The Guard begins to gently message her shoulder. The 
+	Intendant gives in to the feeling, closing her eyes.
+
+					INTENDANT 
+			A little harder, please.
+				(enjoying herself) 
+			Such strong hands... if only we 
+			had some warm Somata oil... that 
+			would be nice, don't you think?
+
+					SECURITY GUARD
+			I guess...
+
+	Suddenly, the Intendant drives her elbow into the 
+	Guard's stomach, pivots and gives him a blow to the 
+	back of his neck. He's out cold.
+
+					INTENDANT 
+			You have a lot to learn about 
+			giving a massage..
+
+54   INT. CARGO BAY
+
+	The Intendant drags the Guard's unconscious body into 
+	the bay, stashing him behind some cargo.
+
+	She then moves over to the transporter pad, takes out 
+	the multidimensional transporter device and starts 
+	working on the console.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE     52.
+
+55   INT. BAJORAN SHRINE
+
+	Bareil taps in a final code into the security panel. 
+	He then crosses over and puts his hand on the scanner, 
+	which activates. After a beat, the forcefield FRITZES 
+	OFF.
+
+	A thoughtful Bareil then steps up to the Orb box and 
+	gently rubs his hand over it. From out of his pocket, 
+	he takes out a handle-like device with suction cups on 
+	each end. He places the device on top of the Orb box, 
+	clicking it into place.
+
+					KIRA (O.S.) 
+			What's that old saying?
+
+	Bareil turns to see --
+
+56   KIRA
+
+	ENTERING the shrine.
+
+					KIRA
+			Once a thief...
+
+	Bareil mistakes her for the Intendant.
+
+					BAREIL 
+			What are you doing here?
+
+					KIRA
+				(angry, taking out her 
+				phaser) 
+			The question is what are you doing 
+			here?
+
+					BAREIL
+				(realizing who she is) 
+			Nerys...
+				(a beat)
+			... how'd you know?
+
+					KIRA
+			I didn't. You had me completely 
+			fooled. The thief in search of 
+			redemption... who could resist 
+			that? Obviously, not me.
+				(a beat) 
+			Luckily, Quark didn't fall for 
+			your little act. Step down from 
+			the altar.
+
+					BAREIL 
+			I wish I could do that, Nerys. 
+			But I can't...
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE     53.
+
+56   CONTINUED:
+
+	Bareil places a hand on the box handle he applied.
+
+					BAREIL 
+			I've come too far.
+
+					KIRA 
+			Then you've come a long way for 
+			nothing.
+
+					INTENDANT (O.S.) 
+			Nerys... you look as beautiful as 
+			ever.
+
+	Kira turns to see --
+
+57   ANGLE ON THE DOOR
+
+	as the Intendant ENTERS, holding a phaser on Kira.
+
+57A  CLOSE ON KIRA
+
+	as she reacts to seeing the Intendant. This is 
+	something she didn't expect, and it makes Bareil's 
+	betrayal even more painful.
+
+	Bareil steps over to Kira and takes the phaser from 
+	her. After a beat, Kira regains her composure --
+	hiding any sign of vulnerability.
+
+					KIRA
+				(to Bareil) 
+			You're full of surprises, aren't you?
+
+					INTENDANT 
+			It's only fair -- you had your 
+			Bareil, I have mine.
+
+					BAREIL
+				(to the Intendant) 
+			You're suppose to be waiting for 
+			me at the transporter pad.
+
+					INTENDANT
+				(holding up the multi-
+				dimensional control) 
+			Don't worry, I have the 
+			transporter keyed to this (TECH). 
+			All I have to do is tap this key 
+			and we're on our way home. 
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE    53A.
+
+57A  CONTINUED:
+
+					INTENDANT (Cont'd) 
+				(to Kira) 
+			Besides, I couldn't leave without 
+			saying hello to myself. 
+				(to Bareil) 
+			The transporter sensors showed you 
+			weren't alone in the shrine. 
+
+ DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE 54-54A.    
+
+57A  CONTINUED:	(2)
+
+					INTENDANT (Cont'd)
+				(to Kira) 
+			I was hoping it would be you, 
+			Nerys. Bareil is smart... but 
+			you're smarter. We really are 
+			alike, aren't we?
+
+					KIRA
+				(to Bareil) 
+			You can't let her have the Orb. 
+			It's too dangerous.
+
+					INTENDANT 
+			Stop wasting your breath. Antos 
+			and I are a team. We're destined 
+			to do great things together...
+
+	Bareil is clearly uncomfortable under Kira's gaze.
+
+					BAREIL
+			If we're going, let's go.
+
+					KIRA
+				(to Bareil) 
+			You don't have to do this.
+
+					NTENDANT 
+			Isn't that sweet. She's still 
+			trying to save your soul. But of 
+			course, you don't have one...
+
+					BAREIL
+				(to Kira) 
+			She's right. I'm not worth saving.
+
+					KIRA 
+			You sound pretty certain of that.
+
+					INTENDANT
+				(to Kira) 
+			Look at him -- look at him 
+			closely. It's important that you 
+			see him for what he truly is.
+
+	Kira looks over at Bareil and when she speaks, it's 
+	with strong conviction.
+
+					KIRA 
+			I do.
+				(to Bareil) 
+			So you were just using me to get 
+			to the Orb... is that what I'm 
+			supposed to believe?
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE     55.
+
+57A  CONTINUED:	(3)
+
+					BAREIL 
+			Believe anything you want.
+
+					INTENDANT 
+			Please, Nerys, don't embarrass 
+			yourself... you made a mistake. 
+			You allowed Bareil to make a fool 
+			of you. That's bad enough... 
+			don't make it worse by denying 
+			what's happened. Accept it and 
+			move on.
+
+					KIRA 
+			Why should I? It's not true.
+				(to Bareil) 
+			You know that as well as I do. 
+			You may have come here for the 
+			Orb, but you found something else.
+
+					INTENDANT 
+			And people say I have a large ego.
+				(to Bareil) 
+			Tell her, Antos. Tell her how you 
+			used her... that everything you 
+			told her was a lie. That every 
+			time you touched her -- all you 
+			could think about was me...
+
+57B   ON BAREIL (OPTICAL)
+
+	as he turns to the Intendant and stuns her with a 
+	PHASER BLAST.
+
+57C   WIDER
+
+	as Kira and Bareil stare at the Intendant for a beat, 
+	then look to each other.
+
+					BAREIL 
+			When she wakes up, I'm going to 
+			have a lot of explaining to do.
+
+					KIRA 
+			And if you don't have the Orb... 
+			she'll kill you.
+
+					BAREIL 
+			Maybe.
+				(smiling) 
+			That'll certainly be her first 
+			reaction.
+
+     DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE     56.
+
+57C   CONTINUED:
+
+					BAREIL (Cont'd) 
+			But I've talked my way back into 
+			her good graces before. I'll be 
+			all right.
+
+					KIRA
+			I guess this is good-bye.
+
+	Bareil nods; resigned to this fate.
+
+					BAREIL 
+			It's for the best.
+				(a beat) 
+			You know what I saw when I looked 
+			into the Orb? You and me. 
+			Together... on Bajor. We had a 
+			life. A family.
+
+					KIRA
+			What's wrong with that?
+
+					BAREIL 
+			Nothing. It might even work for 
+			a while... but eventually, I'd 
+			find some way to ruin it.
+				(with finality) 
+			I'm a thief.
+				(looking over at the 
+				Intendant) 
+			I belong with her.
+
+					KIRA
+				(simply)
+			Then you should go.
+
+	And with that, Bareil nods slightly and steps over to 
+	the Intendant and picks up the multidimensional 
+	transporter control.
+
+57D   ANOTHER ANGLE (OPTICAL)
+
+	as Kira and Bareil look at each other one last time. 
+	The moment hangs in the air, then Bareil taps the 
+	control and he and the Intendant DEMATERIALIZE.
+
+  DEEP SPACE NINE: "Resurrection" - REV. 10/22/97 - ACT FIVE 57-58.    
+
+58   OMITTED
+
+59   CLOSE ON KIRA
+
+	as she stares at where Bareil was standing. And on 
+	that moment, we:
+
+60
+and   OMITTED
+61
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

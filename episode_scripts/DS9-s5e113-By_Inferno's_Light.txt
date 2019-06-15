@@ -1,0 +1,3120 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "By Inferno's Light" 
+                          #40510-513 
+                              
+                          Written by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Les Landau 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1996 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        December 2, 1996
+
+    STAR TREK: DS9 - "By Inferno's Light" - 12/02/96 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "By Inferno's Light" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     GUL DUKAT
+          ODO                      ZIYAL
+          BASHIR                   GOWRON
+          DAX                      MARTOK
+          QUARK                    IKAT'IKA
+          O'BRIEN                  DEYOS
+          WORF                     JEM'HADAR OFFICER
+                                   FEMALE ROMULAN
+                                   PILOT
+                                   SECOND JEM'HADAR
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. JEM'HADAR
+
+    STAR TREK: DS9 - "By Inferno's Light" - 12/02/96 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "By Inferno's Light" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          CAPTAIN'S OFFICE              INTERNMENT CENTER/
+          DOCKING RING CORRIDOR         YARD
+          INFIRMARY                     RUNABOUT
+          OPS                           
+          PROMENADE/SECOND LEVEL        
+          QUARK'S                       
+          WARDROOM                      
+
+        DEFIANT                       
+          BRIDGE                        
+
+        BARRACKS                      
+        CRAWLSPACE                    
+
+        RUNABOUT                      
+
+    DEEP SPACE NINE - "By Inferno's Light" - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "By Inferno's Light" 
+                      PRONUNCIATION GUIDE 
+
+          DEYOS                    DAY-oss
+          GILHOULY                 gill-HOO-lee
+          GRISHNARLS               GRISH-narls
+          KEEDERA                  KEE-der-a
+          TZENKETH                 TSEN-keth
+          Y'TEM                    EE-tem
+          ZIYAL                    zee-ALL
+          GRAVITON                 GRAV-ih-tahn
+          YAMOK                    YA-mok
+
+     DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - TEASER     1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                         "By Inferno's Light"                          
+                            TEASER                              
+
+	FADE IN:
+
+		90 SECOND RECAP OF "IN PURGATORY'S SHADOW"
+
+1    EXT. SPACE (OPTICAL)
+
+	The last few Dominion ships pour out of the wormhole to 
+	join a swarm of other vessels.
+
+2    INT. DEFIANT - BRIDGE
+
+	Red Alert lights flash. KIRA and DAX join an N.D. crew 
+	on the bridge. Kira immediately takes the Captain's 
+	Chair. Dax goes to the helm.
+
+					KIRA
+			Release docking clamps.
+
+					DAX
+			Clamps released.
+
+					KIRA
+			Shields up. Power to phasers and
+			quantum torpedoes.
+
+					DAX
+			Weapons ready.
+
+					KIRA
+			Bring us around.
+
+3    EXT. SPACE (OPTICAL)
+
+	As the Defiant moves around the station to take up a 
+	position protecting its left flank. It's joined by two 
+	Runabouts and Dukat's Klingon Bird of Prey.
+
+4    OMITTED
+
+   DEEP SPACE NINE: "Inferno's Light... " - REV. 12/17/96 - TEASER    2.
+
+5    INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As before. Kira has her eyes on the viewscreen, which 
+	displays the Dominion fleet arrayed against them. It 
+	looks like the Dominion ships could roll over DS9 like 
+	a wave.
+
+					DAX
+			Dukat's bird of prey is in position.
+
+					KIRA
+			Maintain communications blackout. 
+			Nobody fires until we have orders 
+			from Captain Sisko.
+
+					DAX
+				(re: the Dominion ships)
+			There sure are a lot of them.
+
+					KIRA
+			That'll just make it harder for us 
+			to miss.
+
+
+6    INT. OPS
+
+
+	SISKO is standing in front of the Ops table. A 
+	Security Officer is distributing phasers. Sisko takes 
+	one. O'BRIEN is at his station, trying to hail the 
+	Dominion ships, without success.
+
+					O'BRIEN
+				(frustrated)
+			They still aren't responding to 
+			our hails.
+
+					SISKO
+			I think they're trying to 
+			intimidate us.
+
+					O'BRIEN
+
+				(with a smile)
+			It's working.
+
+	Suddenly O'Brien sees something on his console.
+
+					O'BRIEN
+			I don't believe it. The Dominion 
+			ships are turning away from the 
+			station. They're laying in a new 
+			course.					SISKO
+			Heading?
+
+					O'BRIEN
+			Straight for Cardassia.
+
+
+7    OMITTED
+
+     DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - TEASER     3.
+
+8    INT. DEFIANT - BRIDGE
+
+	As before. Kira, Dax and the crew react to this 
+	sudden change in the situation. Suddenly Dax's 
+	attention shifts to her controls.
+
+
+					DAX
+			Dukat's ship is breaking 
+			formation. He's going after the 
+			Dominion fleet.
+
+					KIRA
+			Open a channel.
+
+9    INCLUDE THE VIEWSCREEN (OPTICAL)
+
+	Which shows DUKAT standing in his Ready Room.
+
+					KIRA
+			Dukat, stop trying to be a hero. 
+			Get back to the station.
+
+					DUKAT
+				(on viewscreen)
+			Your concern is touching, major.
+			But I think you misunderstand me. 
+			I'm not attacking the Dominion 
+			fleet... I'm joining it.
+
+
+					KIRA
+			What are you talking about?
+
+					DUKAT
+				(on viewscreen)
+			I'm afraid I have a confession to
+			make.
+
+     DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - TEASER     4.
+
+9    CONTINUED:
+
+
+					DUKAT (Cont'd)
+			For the past few months, I've been 
+			conducting secret negotiations 
+			between the Dominion and 
+			Cardassia. And as of last week, 
+			Cardassia has agreed to become 
+			part of the Dominion.
+
+	Kira can't believe what she's hearing.
+
+					KIRA 
+			You can't be serious.
+
+					DUKAT
+				(on viewscreen)
+			Good-bye, Major.
+				(smiles)
+			You and I on the same side. It 
+			never seemed quite right, did it?
+
+	The viewscreen goes dead.
+
+					KIRA
+				(snap decision)
+			Lock phasers. open fire.
+
+					DAX
+			Too late. He's gone.
+
+	And as Kira reacts to this, we...
+
+10
+thru   OMITTED
+11
+									FADE OUT.
+
+                         END OF TEASER                          
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE   5-7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+12   EXT. SPACE (OPTICAL)
+
+	An establishing shot of the asteroid which houses the 
+	Dominion's Internment Center.
+
+13   OMITTED
+
+14   INT. BARRACKS - NIGHT
+
+	This is the barracks which houses BASHIR, WORF, GARAK 
+	and MARTOK. Worf looks at the FEMALE ROMULAN, who 
+	stands at the door.
+
+					FEMALE ROMULAN
+			All clear.
+
+	Worf turns to Martok.
+
+					WORF
+			The transmitter Tain used to 
+			contact the station. Where is it?
+
+	Martok thinks about it, then goes over to Tain's bed. 
+	He and Bashir shove it aside.
+
+	Bashir reaches under the bottom of the bedframe and 
+	pulls out a thin, curved lever made of scavenged metal.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE     8.
+
+19   CONTINUED:
+
+	He kneels down at the wall panel covered by the head of 
+	Tain's bed and carefully inserts the lever into a 
+	nearly invisible slot in the panel.
+
+	Pulling on the lever, Bashir pops open the panel. 
+	Martok catches it before it hits the ground and lays it 
+	aside. Martok then reaches up into the opening, 
+	struggles with some unseen catch, and pulls a second 
+	panel out of the hole.
+
+	Worf looks inside the hole.
+
+					BASHIR
+			You have to crawl through the hole 
+			and kind of slide up into the 
+			wall.
+
+					MARTOK
+			It took him over a year to modify 
+			the old life-support system into 
+			a transmitter.
+
+					WORF
+			How did he operate it?
+
+					MARTOK
+			He wired the message and 
+			transmission coordinates directly 
+			into the system circuitry. That 
+			way all he had to do was connect 
+			the transmitter to the power grid 
+			and let it run.
+
+					WORF
+			Could the coordinates and message 
+			be changed?
+
+	Garak realizes what Worf's thinking.
+
+					GARAK
+				(to Worf)
+			You're planning to contact the 
+			runabout.
+
+					WORF
+			We could activate the 
+			transporters, beam ourselves onto 
+			the ship...
+
+					BASHIR
+				(interrupting)
+			And run like hell.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE     9.
+
+19   CONTINUED:	(2)
+
+					GARAK
+			Re-encoding the transmitter won't 
+			be easy. We'll have to 
+			reconfigure the array, one circuit 
+			at a time.
+
+					BASHIR
+			Can you do it?
+
+					GARAK
+			Me?
+
+					BASHIR
+			I'm no engineer and neither is 
+			Mister Worf. But you, my dear 
+			Garak, are a man of many hidden 
+			talents.
+
+	All eyes turn to Garak. He knows Worf won't settle for 
+	anything less than a definite answer. He looks up into 
+	the hole, less than enthusiastic.
+
+					BASHIR
+			If you can't do it, no one can.
+
+					GARAK
+			It's nice to feel needed.
+
+	Just then, the com system activates.
+
+					COM VOICE
+			All prisoners assemble 
+			immediately.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE    9A.
+
+19   CONTINUED:	(3)
+
+	Worf and Bashir exchange a look. Garak is instantly 
+	out of the hole, and Bashir and Martok replace the 
+	panels and move the bed back into position with 
+	impressive rapidity. They've obviously had practice.
+
+					COM VOICE
+			I repeat. All prisoners assemble 
+			immediately.
+
+	And with that we...
+
+									CUT TO:
+
+20   EXT. INTERNMENT CENTER - NIGHT
+
+	Worf, Bashir, Garak, Martok and the rest of the 
+	Prisoners are lined up in ranks, surrounded by 
+	Jem'Hadar soldiers. A Vorta approaches the assembly.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE    10.
+
+20   CONTINUED:
+
+	As we will learn, this is DEYOS.
+
+					WORF
+			Who's that?
+
+					MARTOK
+			Deyos. The Vorta who runs the camp.
+
+					IKAT'IKA
+			No talking.
+
+					BASHIR
+				(sotto voce, to Garak)
+			Touchy, aren't they?
+
+	The Vorta stops in front of the assembled prisoners.
+
+					DEYOS
+			All Cardassian prisoners, step 
+			forward.
+
+	The prisoners exchange suspicious looks. Garak doesn't 
+	like the sound of this, but he knows he doesn't have 
+	much choice. He and the rest of the Cardassians, who 
+	make up about a third of the prison population, step
+	forward.
+
+					DEYOS
+			I am pleased to announce that the 
+			hostilities between our peoples 
+			have ended.
+
+	The prisoners look at each other in surprise. But 
+	Deyos has a final bomb to drop.
+
+					DEYOS
+				(smiles)
+			As of today, Cardassia has joined 
+			the Dominion. Therefore, you are 
+			all being sent home. 
+			Congratulations on your new status 
+			as Dominion citizens.
+
+21   NEW ANGLE
+
+	Garak glances back at the others. He looks confused 
+	and can't quite believe this is happening.
+
+22   CLOSE ON BASHIR, WORF, AND MARTOK
+
+	Who are also surprised. But Bashir realizes there's an 
+	opportunity here and makes eye contact with Garak.
+
+     DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE      
+
+23   CLOSE ON GARAK
+
+	Who nods to Bashir, telling him with a glance that this 
+	is a chance to help them all and Garak won't let it 
+	pass by. The Jem'Hadar begin escorting the Cardassians 
+	away. Garak turns to leave with them, but is 
+	intercepted by Deyos.
+
+					DEYOS
+			Not you, Mister Garak.
+
+					GARAK
+			Excuse me?
+
+					DEYOS
+			You're staying.
+
+					GARAK
+			Perhaps there's been some sort of 
+			misunderstanding. The last time 
+			I checked, I was a Cardassian.
+
+					DEYOS
+			But not a very popular one, I'm 
+			afraid. At least not with the 
+			head of the new Cardassian 
+			government.
+
+					GARAK
+			And who would that be?
+
+					DEYOS
+			Gul Dukat.
+
+	And as Garak reacts to this bit of very bad news, we...
+
+									CUT TO:
+
+24   EXT. CARDASSIA - DAY (OPTICAL)
+
+	Cardassian passersby look up at the omnipresent 
+	viewscreens which dominate the Cardassian skyline. On 
+	the viewscreen, Gul Dukat is addressing his people.
+
+					DUKAT
+				(on viewscreen)
+			You might ask... should we fear 
+			joining the Dominion? And I 
+			answer you... Not in the least. 
+			We should embrace the opportunity. 
+			The Dominion recognizes us for 
+			what we are... the true leaders of 
+			the Alpha Quadrant.
+
+     DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE      
+
+24   CONTINUED:
+
+	As Dukat continues his speech, we...
+
+									CUT TO:
+
+25   INT. WARDROOM (OPTICAL)
+
+	Dukat's speech continues. Sisko, Kira, Dax, O'Brien 
+	and the BASHIR CHANGELING watches it on the wall 
+	monitor.
+
+					DUKAT
+				(continues, on monitor)
+			And now that we are joined 
+			together, equal partners in all 
+			endeavors, the only people with 
+			anything to fear... will be our 
+			enemies.
+
+	Sisko reacts to Dukat's threat.
+
+					DUKAT
+				(continues, on the monitor)
+			My oldest son's birthday is in 
+			five days. To him and to 
+			Cardassians everywhere, I make the 
+			following pledge. By the time his 
+			birthday dawns, there will not be 
+			a single Klingon alive in 
+			Cardassian territory... or a 
+			single Maquis colony left inside 
+			our borders.
+
+26   OMITTED
+
+27   CLOSE ON KIRA
+
+	as she reacts to Dukat's naked imperialistic ambition. 
+	She knew Cardassia the last time it was strong, and 
+	she's not looking forward to those days coming back 
+	again.
+
+					DUKAT
+				(continues, on the 
+				monitor)
+			Cardassia will be made whole. All 
+			that we have lost will be ours 
+			again. And anyone who stands in 
+			our way will be destroyed. 
+
+    DEEP SPACE NINE. "Inferno's Light" - REV. 12/17/96 - ACT ONE    13.
+
+27   CONTINUED:
+
+					DUKAT (Cont'd)
+			This I vow with my life's blood.
+			For my son... for all our sons...
+
+	The transmission ends.
+
+28   NEW ANGLE
+
+	As they all react to Dukat's speech.
+
+					DAX
+			Somebody tell me this is a bad 
+			dream.
+
+					SISKO
+			It's no dream.
+
+					KIRA
+			Well, I've got a vow to make too. 
+			The next time I see Dukat... I'm 
+			going to kill him.
+
+	No one leaps to Dukat's defense.
+
+					SISKO
+			Right now we have more immediate 
+			concerns. Such as who sabotaged 
+			our graviton emitters.
+
+					O'BRIEN
+			I don't know who it was, but they 
+			did a pretty thorough job. The 
+			emitters had the exact opposite 
+			effect from what we'd intended. 
+			They were supposed to collapse the 
+			wormhole's spatial matrix and 
+			close it forever. But instead 
+			they made the matrix even more 
+			stable. Not even trilithium 
+			explosives would destroy it now.
+
+					DAX
+			So the Dominion can send 
+			reinforcements through the 
+			wormhole whenever they want.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT ONE    14.
+
+28   CONTINUED:
+
+					BASHIR CHANGELING
+			Looks like it's time for another 
+			round of blood screenings. 
+				(off reactions)
+			Obviously we have a changeling 
+			infiltrator on the station.
+
+					DAX
+			What makes you think it's a 
+			changeling?
+
+					BASHIR CHANGELING
+			That's who I'd send.
+
+					KIRA
+			I think Julian's right. Odo tells 
+			me that one of the Bajoran 
+			maintenance engineers has been 
+			missing ever since the Dominion 
+			fleet arrived in the Alpha 
+			Quadrant.
+
+					BASHIR CHANGELING
+			If that was our changeling, he's 
+			either gone... or assumed a new 
+			identity.
+
+					SISKO
+			We can't afford to take chances. 
+			I want blood screenings and phaser 
+			sweeps. If he's out there, we've 
+			got to find him.
+
+
+	They all look determined, none more so than the Bashir 
+	Changeling, who is confident he's going to stay one 
+	step ahead of these unsuspecting Solids.
+
+	And as we look on the self-assured face of the Bashir 
+	Changeling, we...
+
+29   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    15.
+                            ACT TWO                             
+
+	FADE IN:
+
+30   INT. BARRACKS - NIGHT
+
+	The Female Romulan stands guard in the doorway, 
+	watching the yard.
+
+31   NEW ANGLE
+
+	Worf, Bashir and Martok are gathered near the open 
+	panels which give access to the space inside the wall.
+
+					BASHIR
+			How long has he been in there?
+
+					WORF
+				(thinks about it)
+			Close to an hour.
+
+	Bashir goes over and crouches by the open panel.
+
+					BASHIR
+			Garak? How's it coming?
+
+32   INT. CRAWLSPACE
+
+	(Intercut as necessary with the above.) This is a 
+	cramped, tight, narrow space, less than a foot wide. 
+	There's barely room for Garak to fit in with his back 
+	to one wall and his chest against the other. He can't 
+	turn around or sit down. He just has to slide one way 
+	or the other. The only source of fresh air is the open
+	panel.
+
+	The walls of the crawlspace are covered with a grid of 
+	cables, relay switches and couplings, which show signs 
+	of extensive rewiring. There's a light source that's 
+	been wired into one of the cables. It's probably an 
+	old work light that was scavenged by Tain and it's 
+	flickery and unreliable. Garak has pried open one of 
+	the relay switches, and is modifying it's interior.
+
+					GARAK,
+			I only wish I were still in the
+			Obsidian Order. This would make
+			a wonderful interrogation chamber.
+
+	Garak brushes against a relay and it sparks against his 
+	back. We can tell by his reaction that this isn't the 
+	first time this has happened.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    16.
+
+32   CONTINUED:
+
+					GARAK
+			Tight quarters, no air, bad 
+			lighting, random electric shocks. 
+			It's perfect.
+
+					BASHIR (O.S.)
+			I'm glad you're enjoying yourself.
+
+					GARAK
+			If you'd like, I'd happily trade 
+			places with you.
+
+					BASHIR (O.S.)
+			I suppose you could give me a 
+			crash course in Cardassian field 
+			engineering. I'd probably be 
+			ready to take over from you in... 
+			five or six weeks.
+
+33   INT. BARRACKS - NIGHT
+
+	Suddenly, the Female Romulan turns to the others.
+
+			FEMALE ROMULAN Visitors.
+
+	That's all the warning Worf and the others 
+	need. without hesitation, they spring into action.
+
+					BASHIR
+				(into hole)
+			Quiet.
+
+	Bashir pops in the first panel, Martok the second.
+
+34   INT. CRAWLSPACE
+
+	Garak can do nothing but stand there and try to remain 
+	calm.
+
+35   INT. BARRACKS - NIGHT
+
+	As soon as Bashir and Martok have gotten the panels in 
+	position, they immediately move away and Worf puts the 
+	bed back in place and sits down on it, Martok sits on 
+	the bed next to him and they lean toward each other 
+	like they're talking.
+
+	Bashir starts to move away. Just as he does...
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    17.
+
+36   NEW ANGLE
+
+	First Ikat'ika ENTERS the barracks, flanked by a pair 
+	of Jem'Hadar guards.
+
+37   CLOSE ON BASHIR
+
+	As he reacts to the Jem'Hadar and then catches a 
+	glimpse of metal out of the corner of his eye.
+
+38   NEW ANGLE
+
+	Close on the metal tool the prisoners use to open the 
+	panels. It's in plain sight, near the foot of the bed. 
+	Bashir quickly places his foot over the tool.
+
+39   CLOSE ON IKAT'IKA
+
+	Who looks around the room, then focuses on Worf.
+
+					IKAT'IKA
+			It's time.
+
+					WORF
+			I'm ready.
+
+					IKAT'IKA
+			I've been looking forward to this.
+
+40   CLOSE ON WORF
+
+	As he gets to his feet. If the Jem'Hadar want to fight 
+	him, he's going to give them everything they bargained 
+	for and more.
+
+					WORF
+			So have I.
+
+	Ikat'ika leads Worf out and the other Jem'Hadar follow. 
+	Martok looks to the others, then trails after Worf and 
+	Ikat'ika.
+
+41   NEW ANGLE
+
+	As soon as the Jem'Hadar have cleared the barracks, the 
+	Female Romulan hurries over to door and makes sure 
+	they're really gone. Once she's sure the coast is 
+	clear, she nods to Bashir.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    18.
+
+42   CLOSE ON BASHIR
+
+	Who moves his foot and picks up the tool. He turns to 
+	the male Romulan.
+
+					BASHIR
+				(urgent)
+			Give me a hand.
+
+	The male Romulan comes over and together they shove the 
+	bed away. Bashir starts to use the tool to open the 
+	panel.
+
+					BASHIR
+			Hold on, Garak.
+
+	Suddenly the Female Romulan at the door holds up a 
+	hand.
+
+					FEMALE ROMULAN
+			Wait.
+
+	Bashir waits.
+
+43   EXT. INTERNMENT CENTER - NIGHT
+
+	The Female Romulan looks out into the yard. There's a 
+	Jem'Hadar guard standing by the entrance to their 
+	barracks. He's watching something across the yard.
+
+44   INT. BARRACKS - NIGHT
+
+	Bashir keeps his eye on the Female Romulan, who 
+	continues to monitor things outside. Bashir looks at 
+	the bed. He realizes he has no choice but to move it 
+	back to its original place.
+
+					BASHIR
+				(to Garak, quietly)
+			Just a little while longer.
+
+									CUT TO:
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    19.
+
+45   EXT. INTERNMENT CENTER - YARD - NIGHT
+
+	The Jem'Hadar Guard still stands outside the barracks. 
+	We follow his gaze to...
+
+46   NEW ANGLE
+
+	Worf, Martok and a group of Jem'Hadar standing around 
+	the combat circle. Worf is removing his sash in 
+	preparation for combat. His eyes are focused on a Wiry 
+	Jem'Hadar Soldier standing at the other side of the 
+	circle, waiting impassively. Martok gives Worf a few 
+	final words of advice.
+
+					WORF
+			I thought I would be fighting 
+			Ikat'ika.
+
+					MARTOK
+			I wouldn't be so eager if I were 
+			you.
+				(indicates his eye)
+			This is his handiwork.
+
+					WORF
+			He has much to answer for.
+
+					MARTOK
+			His time will come.
+				(getting back to the
+				matter at hand)
+			Now remember, every time you hit
+			the ground, you must touch one of
+			those posts or forfeit the match.
+
+	Worf nods slightly, but his eyes remain locked on his 
+	opponent. Ikat'ika ENTERS the area and addresses the 
+	Jem'Hadar spectators.
+
+					IKAT'IKA
+			Today we train against a worthy 
+			adversary. Observe. Analyze. 
+			Remember. Soon, we will face his 
+			people in combat. The lessons you 
+			learn here will ensure victory.
+				(a salute)
+			Victory is life.
+
+					ASSEMBLED JEM'HADAR
+			Victory is life.
+
+	Ikat'ika looks over at Worf and the Wiry Jem'Hadar.
+
+					IKAT'IKA
+			Begin.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO   19A.
+
+46   CONTINUED:
+
+	The Wiry Jem'Hadar hits his post and Worf follows suit. 
+	They move toward each other. The Jem'Hadar strikes 
+	out with a lethal combination of punches, knocking Worf 
+	to the ground. But Worf is on his feet in an instant.
+	He touches the post and the fight resumes.
+
+									CUT TO:
+
+47   INT. BARRACKS - NIGHT
+
+	Bashir waits impatiently, worried about being 
+	discovered.
+
+					BASHIR
+			Come on.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    20.
+
+48   EXT. INTERNMENT CENTER - NIGHT
+
+	The Female Romulan continues to watch the Jem'Hadar 
+	Guard, who's in turn watching the fight. After a beat, 
+	however, the Jem'Hadar Guard moves toward the fight, 
+	deciding to get a better look. The Female Romulan 
+	instantly turns inside.
+
+49   INT. BARRACKS - NIGHT
+
+	The Female Romulan nods to Bashir.
+
+					FEMALE ROMULAN
+			Clear.
+
+	Bashir finally removes the first panel, then the second one.
+
+50   NEW ANGLE
+
+	As Garak, his legs wobbly, slides down into view. 
+	Bashir helps him out of the crawlspace. Garak is 
+	sweating and out of breath, but fights to regain his 
+	composure.
+
+					GARAK
+			That... was thoroughly unpleasant.
+
+					BASHIR
+
+			Are you all right?
+
+	Bashir takes Garak's pulse.
+
+					GARAK
+			I'm fine. It's just... hotter in 
+			there than I thought. I got a 
+			little lightheaded. Give me a 
+			minute and I'll go back in.
+
+					BASHIR
+			You need more than a minute. Your 
+			pulse is racing. And I don't even 
+			want to think about your blood
+			pressure. Maybe you should wait 
+			until tomorrow.
+
+ 					GARAK
+				(testy)
+			Do you want to get off this 
+			hellhole or not?
+
+						BASHIR
+			You know I do.
+
+					GARAK
+			Then let me get back to work.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    21.
+
+50   CONTINUED:
+
+	Bashir considers this for a beat, then nods.
+
+					BASHIR
+			Rest for five minutes. And from 
+			here on in you take a fifteen 
+			minute break every hour. Doctor's 
+			orders.
+
+	Garak nods and we...
+
+									CUT TO:
+
+51   EXT. INTERNMENT CENTER - YARD - NIGHT
+
+	Worf and the Wiry Jem'Hadar are locked together, 
+	wrestling for position. They both look pretty banged 
+	up. Finally Worf is able to break the hold, and hits 
+	the Wiry Jem'Hadar with a devastating kick and punch 
+	combination.
+
+	The Wiry Jem'Hadar is barely able to tap the pillar, 
+	but as he turns to continue their fight, Worf hits him 
+	with another combination and he goes down.
+
+	Worf turns defiantly to Ikat'ika.
+
+					WORF
+			Was that the best you have to 
+			offer?
+
+					IKAT'IKA
+				(unconcerned)
+			He was our youngest and least 
+			experienced. I promise, your next 
+			opponent will provide more of a 
+			challenge.
+
+	Ikat'ika turns his back on Worf and walks away. The 
+	other Jem'Hadar pick up the Wiry Jem'Hadar and EXIT.
+
+52   CLOSE ON WORF
+
+	His warrior blood running hot.
+
+									CUT TO:
+
+53   INT. DEEP SPACE NINE - PROMENADE - SECOND LEVEL
+
+	ZIYAL stands by one of the windows, staring off into 
+	space. Kira comes up behind her.
+
+					KIRA
+			The view's even better from Upper 
+			Pylon Two.
+
+	Ziyal turns to Kira.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    22.
+
+53   CONTINUED:
+
+					ZIYAL
+			I keep hoping the wormhole will 
+			open. That Garak's runabout will 
+			come through and everything will 
+			be all right again.
+
+					KIRA
+			Maybe it will.
+
+					ZIYAL
+			My father says Garak's dead.
+
+					KIRA 
+			Right now I wouldn't believe your 
+			father if he said rain was wet.
+
+
+	This touches a sore point for Ziyal. She's been 
+	thinking a lot about her father.
+
+					ZIYAL
+			I used to think my father was a 
+			hero. That even when he did 
+			something bad, he had a good 
+			reason.
+
+					KIRA
+			Everyone has their reasons. 
+			That's what's so frightening. 
+			People can find a way to justify 
+			any action, no matter how evil.
+
+					ZIYAL
+			You think my father is evil?
+
+					KIRA 
+			I think you can't judge people by 
+			what they think or say... only by 
+			what they do.
+
+	Ziyal nods. It's a hard truth, but she has to accept 
+	it.
+
+54   EXT. SPACE (OPTICAL)
+
+	The Klingon flagship, the Negh'var, uncloaks at the station.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    23.
+
+55   INT. OPS
+
+	Dax and O'Brien are at their stations. Sisko is at the 
+	Ops table.
+
+					O'BRIEN
+			We're being hailed.
+
+					DAX
+			It's Chancellor Gowron. He's 
+			requesting permission to dock. 
+			They've got wounded.
+
+					SISKO
+			Permission granted.
+
+				(a beat)
+			I have a feeling the Klingons' war 
+			against the Cardassians has taken 
+			a turn for the worse.
+
+
+56   INT. INFIRMARY
+
+	The Bashir Changeling is treating Chancellor GOWRON, 
+	who's been burned on his hand, as Sisko looks on.
+
+					GOWRON
+			This is a dark day, not only for 
+			the Klingon Empire, but for the 
+			Alpha Quadrant itself.
+
+					SISKO
+			So what are we going to do about 
+			it?
+
+	The Bashir Changeling moves to a discreet distance.
+
+					GOWRON
+			I will do what must be done. Fall 
+			back.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    24.
+
+56   CONTINUED:
+
+					GOWRON (Cont'd)
+			Pull my forces out of Cardassian 
+			space. Fortify the Klingon 
+			Empire. And prepare for a fight 
+			to the death.
+
+					SISKO
+			Maybe there's a better way.
+
+	Sisko hands Gowron a PADD. Gowron scans it.
+
+					GOWRON
+			The Khitomer Accords?
+				(dismissive)
+			The treaty between the Federation 
+			and the Klingon Empire is dead.
+
+					SISKO
+			But we can bring it back to life. 
+			All it would take is your 
+			thumbprint.
+				(selling it)
+			This is the most fortified 
+			position between here and the 
+			Klingon Empire. A Starfleet task 
+			force will be here soon. If you 
+			were to bring your fleet here...
+
+					GOWRON
+			Then we could stand united against 
+			the Dominion. And if we do...
+
+					BASHIR CHANGELING
+			We might have a chance.
+
+	Gowron thinks it over for a beat, then places his 
+	thumbprint on the PADD.
+
+					GOWRON
+			Think of it. Five years ago no 
+			one had ever heard of Bajor or 
+			Deep Space Nine. Now all our 
+			hopes rest here.
+				(a beat)
+			Where the tides of fortune take 
+			us, no man can know.
+
+					SISKO
+			They're tricky, those tides.
+
+	They EXIT and the Bashir Changeling watches them go, 
+	his face betraying nothing.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT TWO    25.
+
+57   EXT. SPACE (OPTICAL)
+
+	More Klingon ships arrive at the station.
+
+58   INT. DOCKING RING CORRIDOR
+
+	Two Security Officers armed with phaser rifles patrol 
+	the corridor. They pass one of the runabout airlocks, 
+	then EXIT around a corner. We linger on the runabout 
+	hatchway and...
+
+									CUT TO:
+
+59   INT. RUNABOUT
+
+	The runabout appears to be empty, but after a beat, 
+	Bashir ENTERS. He immediately pops open a panel and 
+	goes to work.
+
+	We watch him work for a beat, and then...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   26.
+                           ACT THREE                            
+
+	FADE IN:
+
+60   EXT. INTERNMENT CENTER - YARD - NIGHT
+
+	We open close on Worf as he takes a hard punch to the 
+	face and goes flying, landing hard on his back. He's 
+	momentarily stunned.
+
+61   NEW ANGLE
+
+	To reveal that Worf is once again involved in a 
+	"training exercise" with the Jem'Hadar guards. 
+	However, this time he's up against a bigger, more 
+	imposing opponent, and things aren't going well. 
+	Martok and Ikat'ika are among the spectators.
+
+62   ANGLE ON WORF
+
+	Who slowly gets to his feet, reaches over, and touches 
+	the post, indicating he's willing to continue fighting. 
+	The moment he touches the post, his Jem'Hadar opponent, 
+	smelling victory, attacks him from behind. He grabs 
+	Worf in a chokehold and starts to lift the Klingon off 
+	the ground, but suddenly Worf shifts his weight, 
+	flinging the Jem'Hadar over his hip and right into the 
+	post.
+
+	The Jem'Hadar is stunned and Worf doesn't give him time 
+	to regain his balance. He's all over the Jem'Hadar 
+	with a nasty combination of punches and kicks that 
+	pound the Jem'Hadar into the ground.
+
+	Worf steps back and the Jem'Hadar lays there, 
+	motionless. He won't be touching any posts for a 
+	while.
+
+	Worf, his adrenaline flowing, lets out a roar of 
+	triumph. Martok embraces him in a congratulatory hug. 
+	He looks over his shoulder at Ikat'ika.
+
+					MARTOK
+			Five matches. Five victories.
+				(to Worf)
+			You truly have the spirit of
+			Kahless within you.
+
+	But Worf's gaze remains locked on Ikat'ika. It's a 
+	defiant, challenging glare, but Ikat'ika doesn't seem 
+	fazed. He nods at Worf, acknowledging his victory, but 
+	he's clearly convinced that Worf's time will come.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   27.
+
+62   CONTINUED:
+
+					IKAT'IKA
+			Until tomorrow.
+
+	Ikat'ika turns on his heels and walks away.
+
+					WORF
+			I'll be waiting.
+
+63   INT. BARRACKS - NIGHT
+
+	Bashir examines Worf, feeling his torso for injuries. 
+	It's low-tech, but effective. Martok watches Bashir 
+	work while the male Romulan keeps an eye on the 
+	courtyard and the Breen sits impassively and stares 
+	into space.
+
+					BASHIR
+			You've got three broken ribs... 
+			maybe four.
+
+					WORF
+			They will heal.
+
+					BASHIR
+			Not if you keep fighting they 
+			won't. You're lucky you didn't 
+			puncture a lung. A body, even a 
+			Klingon body, can only take so 
+			much punishment.
+
+
+					WORF
+			I will fight.
+
+					MARTOK
+			It is the only honorable thing to 
+			do.
+
+					BASHIR
+				(to Martok)
+			He'll lose. And in this 
+			condition, he might even die.
+
+					WORF
+			Then I will die. But I will not 
+			yield.
+
+					MARTOK
+			You heard him. Now bandage his 
+			ribs.
+
+	Worf starts taking off his uniform. It's a painful 
+	process.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   28.
+
+64   INT. CRAWLSPACE
+
+	Garak is inside the wall. He's working on the jury-
+	rigged-transmitter. The worklight, the only 
+	illumination inside the wall, is only inches away from 
+	his face, and he's sweating from the heat. He mops his 
+	brow and face with the back of his hand. The work is 
+	difficult and frustrating but he's forcing himself to 
+	concentrate despite his discomfort.
+
+	Suddenly the worklight starts to flicker.
+
+					GARAK
+				(to the light)
+			I'm sorry. That's absolutely 
+			unacceptable. I'm under enough 
+			strain as it is, I can't have you 
+			quitting on me.
+
+	The light continues to flicker and even when it's 
+	shining, its power is significantly dimmer.
+
+					GARAK
+			Get a hold of yourself, Garak. 
+			After all, you haven't had one of 
+			these attacks in years. Yes, this 
+			is a tight enclosed space. Yes, 
+			there's not a lot of room to move. 
+			But a disciplined mind doesn't 
+			allow itself to be sidetracked by 
+			niggling psychological disorders 
+			like claustrophobia.
+				(rallying himself)
+			Besides, this isn't like Tzenketh. 
+			These walls won't collapse around 
+			you. There's plenty of air. And 
+			you have friends close by. You 
+			have nothing to be concerned 
+			about.
+
+	The light continues to flicker. Garak's heart begins 
+	racing. He feels the panic beginning to build and he 
+	starts talking much faster.
+
+					GARAK
+			Focus on the job. You're the only 
+			one who can contact the runabout. 
+			People are depending on you. 
+			Ziyal is depending on you. You 
+			promised her you'd come back. And 
+			that young lady has had quite 
+			enough disappointments in her life 
+			without you adding to them. So 
+			control yourself. You're stronger 
+			than this.
+				(a mantra)
+			A disciplined mind...
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE  28A.
+
+64   CONTINUED:
+
+	The light goes out. It's now pitch black. We can 
+	barely see Garak, but what we can see of him is not a 
+	pretty picture.
+
+65   INT. BARRACKS - NIGHT
+
+
+	Worf is zipping back up his jumpsuit.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   29.
+
+65   CONTINUED:
+
+					BASHIR
+			I'm afraid that's the best I can
+			do. Does it feel any better?
+
+	It doesn't, but Worf doesn't want make an issue out of 
+	it.
+
+					WORF
+			Much better.
+
+	Bashir knows better.
+
+					BASHIR
+			You're not a very good liar,
+			Mister Worf.
+
+	Suddenly, there's a muffled bang close by. Everyone 
+	(except the Breen) reacts to the sound.
+
+					MARTOK
+			What was that?
+
+	Bashir listens carefully. There's another muffled 
+	bang, followed by another, and then a steady stream of 
+	hollow pounding.
+
+					WORF
+			It's coming from inside the wall.
+
+					BASHIR
+				(realizing)
+			Garak.
+
+					MARTOK
+			How long has he been in there?
+
+					BASHIR
+			Maybe half an hour.
+
+	They all move to the wall panels.
+
+					BASHIR
+				(into the wall)
+			Garak. Garak, what is it?
+
+	The pounding continues, growing more and more frantic.
+
+	Martok and Worf sweep the bed aside. Bashir grabs the 
+	tool and hurriedly removes the panels. once the panels 
+	are out of the way, the pounding can be heard much 
+	louder. Bashir looks up into the crawlspace.
+
+					MARTOK
+			Tell him to stop before they hear
+			him.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   30.
+
+65   CONTINUED:	(2)
+
+						BASHIR
+				(to Garak)
+			Garak, the panel's open. You can 
+			come out.
+
+	The pounding continues. After a beat, Bashir realizes 
+	that Garak's not coming out.
+
+					BASHIR
+			We've got to get him out of there.
+
+	He crawls into the hole.
+
+66   INT. CRAWLSPACE
+
+	The only light is what's coming in through the open 
+	panel. Bashir sidles through the crawlspace, 
+	eventually reaching Garak. A panicked Garak is trying 
+	to turn around in the restricted space, but there's not 
+	enough room and as a result he keeps banging his 
+	shoulder and arms into the walls. Every time this 
+	happens, he becomes more and more agitated, and keeps 
+	repeating the action at a faster and faster pace (which 
+	is the source of the pounding noise).
+
+	Bashir slides up alongside him.
+
+					BASHIR
+			Garak. Garak, you have to stop. 
+			You're making too much noise.
+
+	Garak keeps trying to turn, banging against the wall.
+
+					BASHIR
+				(more forceful)
+			Garak. Garak.
+
+	Bashir physically restrains Garak. He eventually calms 
+	down and stops twisting.
+
+
+					GARAK
+			The light... the light went out.
+
+					BASHIR
+			I know. Come on. I think you can 
+			take your break a little early.
+
+	And as Bashir begins guiding Garak back to the open 
+	panel, we...
+
+									CUT TO:
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   31.
+
+67   INT. BARRACKS
+
+	Garak is huddled up in a blanket. A few beds away, 
+	Worf and Martok stand watching. Bashir, who's just 
+	finished examining Garak, joins them.
+
+					BASHIR
+			It appears he's severely 
+			claustrophobic. It's a wonder he 
+			lasted as long as he did.
+
+					WORF
+			Then one of us will have to finish 
+			reconfiguring the transmitter.
+
+					BASHIR
+			And who, would you suggest, could 
+			do that?
+
+	There's no answer.
+
+					BASHIR
+			Exactly.
+
+					MARTOK
+			If Garak can't finish re-aligning 
+			the transmitter, we're not going 
+			anywhere.
+
+	And as the three of them ponder their fate, we...
+
+									CUT TO:
+
+68   EXT. SPACE (OPTICAL)
+
+	Deep Space Nine is surrounded by Klingon ships.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   32.
+
+69   OMITTED
+
+70   INT. OPS
+
+	Sisko is signing off on a PADD held by a Starfleet N.D. 
+	Dax is updating him on their situation. O'Brien's at
+	his station.
+
+					DAX
+			The last of Gowron's ships have 
+			arrived.
+
+					O'BRIEN
+			I'll have repair crews get to work 
+			on them right away.
+
+					SISKO
+			Any word from Starfleet?
+
+					DAX
+			Admiral Gilhouly's task force is 
+			less than four light years away.
+
+					SISKO
+			I'll feel a lot better when they 
+			get here.
+
+					O'BRIEN
+			You're not the only one.
+
+	Kira ENTERS from the turbolift.
+
+					KIRA
+				(before the lift has 
+				even stopped)
+			Captain.
+
+
+	Sisko turns to Kira.
+
+					SISKO
+			Yes, Major.
+
+					KIRA
+			I just talked to Odo. Someone 
+			overrode the security blocks on 
+			the industrial replicator on Level 
+			Seventeen.
+
+					SISKO
+			Sounds like our saboteur. Did 
+			they catch him?
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE  32A.
+
+70   CONTINUED:
+
+					KIRA 
+			No such luck.
+
+					DAX
+			Do they know what he replicated?
+
+
+	Kira shakes her head.
+
+					KIRA 
+			He wiped the memory core.
+
+					SISKO
+			Tell Odo I want all security 
+			details to pull double shifts as 
+			of now. If he needs more men, 
+			have him talk to Gowron. I'm sure 
+			the Chancellor would be willing to 
+			assign some Klingon troops to 
+			guard key facilities.
+
+					KIRA
+			Klingons helping to protect Deep 
+			Space Nine. That's an interesting 
+			concept.
+
+					SISKO
+			These are interesting times.
+
+	Just then, Dax sees something on her console.
+
+					DAX
+			Captain, incoming message. It's 
+			Gul Dukat.
+
+					SISKO
+			In my office.
+
+70A  INT. CAPTAIN'S OFFICE (OPTICAL)
+
+	Sisko's desk monitor displays Gul Dukat, speaking from 
+	Cardassia.
+
+					SISKO 
+			Dukat.
+
+					DUKAT
+				(on monitor)
+			Please, Captain. Show a little 
+			respect. You're talking to the 
+			head of the Cardassian government.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE  32B.
+
+70A  CONTINUED:
+
+					SISKO
+			I don't recognize that government.
+
+					DUKAT
+				(on monitor)
+			Your recognition is irrelevant.
+
+					SISKO
+			If that's what you think, then why 
+			are we having this conversation?
+
+					DUKAT
+				(on monitor)
+			Because the fact is, Captain, 
+			I feel a certain obligation toward 
+			you. After all, I freely admit 
+			you saved my life on more than one 
+			occasion.
+
+					SISKO
+			Don't remind me.
+
+					DUKAT
+				(on monitor)
+			You should be glad you did. 
+			Because now I'm going to return 
+			the favor... give you a chance to 
+			save your precious Federation.
+				(a beat)
+			All you have to do is convince 
+			them to follow Cardassia's example.
+
+					SISKO
+			You expect us to join the 
+			Dominion?
+
+					DUKAT
+				(on monitor)
+			I expect you to behave rationally. 
+			Joining the Dominion will save 
+			billions of lives. And keep the 
+			Federation from fading into the 
+			mists of history.
+
+					SISKO
+			By allowing it to exist under 
+			Dominion rule? No thank you.
+
+					DUKAT
+				(on monitor)
+			I'm afraid you'll like the 
+			alternative even less.
+
+   DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT THREE   33.
+
+70A  CONTINUED:	(2)
+
+					SISKO
+			Dukat, if you have something to 
+			say to me, say it.
+
+					DUKAT
+				(on monitor)
+			I'll make it simple then... A few 
+			days ago, I swore that all 
+			Cardassia had lost would be 
+			regained.
+				(smiles)
+			That space station you're so fond 
+			of was built by Cardassia.
+
+					SISKO
+			Funny, I thought it was built by 
+			Bajoran slave labor.
+
+	Dukat's smile disappears.
+
+					DUKAT
+				(on monitor)
+			Either surrender the station, or 
+			I'll take it by force. The choice 
+			is yours.
+
+					SISKO
+			You want to retake this station, 
+			Dukat? You're welcome to try.
+
+	Sisko turns off the monitor and on his determined face, 
+	we...
+
+								FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   34.
+                           ACT FOUR                             
+
+	FADE IN:
+
+71   INT. BARRACKS - NIGHT
+
+	The barracks doors open and Bashir and Martok ENTER 
+	supporting a badly battered Worf between them.
+
+	In the background, we can see Garak lying in bed with 
+	his face turned toward the wall. As soon as they 
+	enter, Martok begins speaking to the Romulans, the 
+	Breen and even an unresponsive Garak.
+
+					MARTOK
+			Seven battles and seven victories. 
+			Could any hero of legend have done 
+			as well?
+
+	They ease Worf to the cot. He's conscious, just 
+	exhausted and banged up. Bashir begins examining him.
+
+					WORF
+			Heroes of legend do not ache this 
+			much.
+
+					MARTOK
+			Your Federation friends have 
+			taught you modesty. But this is 
+			no time for modesty. 
+				(an idea)
+			When we return to the Klingon 
+			Empire, I will seek out Keedera 
+			himself and tell him your glorious 
+			tale, and he will write a song 
+			worthy of you.
+
+					BASHIR
+			Make sure to send me a copy.
+
+					MARTOK
+			I'll do better than that. I'll 
+			make sure Keedera mentions you... 
+			the healer who bound the warrior's
+			wounds so he could fight again.
+
+					WORF
+			Right now, the only part of that 
+			song I want to hear is the verse 
+			that tells of our escape. 
+
+DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR 35-36.   
+
+71   CONTINUED:
+
+					WORF (Cont'd)
+			What good is defeating every 
+			Jem'Hadar soldier in this compound 
+			if it doesn't bring us any closer 
+			to freedom?
+
+					BASHIR
+			We have to come up with a new 
+			escape plan.
+
+					GARAK (O.S.)
+			That won't be necessary.
+
+72   NEW ANGLE
+
+	As they look over to see Garak, who is sitting on the 
+	edge of his bed, no longer facing the wall. His face 
+	is haggard, but he's trying to be his jaunty old self.
+
+					GARAK
+			Our original plan will work. I 
+			just have to finish what I 
+			started.
+				(smiles)
+			After all, a verse about how the 
+			Cardassian panicked in the face of 
+			danger would ruin General Martok's
+			song.
+
+					MARTOK
+			And that would be unfortunate.
+
+					GARAK
+			Now, if you'll excuse me...	Garak stands up, shaky but determined.
+
+					GARAK
+			My dungeon awaits.
+
+	Garak walks over to the bed blocking the entrance 
+	panels. The Female Romulan takes up her post. Bashir 
+	goes to help him open the hole. Worf and Martok follow 
+	Bashir.
+
+					MARTOK
+				(aside, to Worf)
+			There is no greater enemy than 
+			one's own fears.
+
+					WORF
+				(aside, to Martok)
+			It takes a brave man to face them.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR      
+
+73   ANGLE ON GARAK
+
+	As he's about to slip into the hole, and we...
+
+									CUT TO:
+
+74   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	With the Klingon fleet in orbit.
+
+74A  INT. PROMENADE - SECOND LEVEL 
+
+	Ziyal is sitting at a table outside Quark's sipping tea 
+	and looking out at the stars. QUARK brings her a tray 
+	of food.
+
+					QUARK
+			Your asparagus with yamok sauce. 
+			The last of my fresh asparagus, I 
+			might add. Not that I'll need to 
+			stock it anymore. Somehow I get 
+			the feeling there won't be much of 
+			a demand for human food once the 
+			Jem'Hadar are finished with this 
+			place.
+
+					ZIYAL
+			Aren't you being a little 
+			pessimistic?
+
+	Quark sits down.
+
+					QUARK
+			Am I? The Jem'Hadar don't eat, 
+			don't drink, and they don't have 
+			sex. And if that wasn't bad 
+			enough, the Founders don't eat, 
+			don't drink, and they don't have 
+			sex either. Which, between you 
+			and me, makes my financial future 
+			less than promising.
+
+					ZIYAL
+			It might not be so bad. For all 
+			we know the Vorta could be 
+			gluttonous, alcoholic sex 
+			maniacs.
+
+	Quark mulls this over and then brightens.
+
+					QUARK
+				(hopefully)
+			I never thought of that.
+
+	He gets up and walks off, already planning for the 
+	future.
+
+					QUARK
+				(to himself)
+			I wonder what their favorite 
+			food is?
+
+DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR 38-40.   
+
+75   
+thru   OMITTED
+76
+
+77   INT. OPS
+
+	Sisko ENTERS from his office. Kira is at the Ops 
+	table.
+
+					SISKO
+			Good news. The Starfleet task 
+			force under Admiral Gilhouly has 
+			entered Bajoran space.
+
+					KIRA
+			I hope they know what they're in 
+			for.
+
+77A  EXT. SPACE
+
+	As the Starfleet task force moves through the Klingon 
+	ships.
+
+78
+thru   OMITTED
+80
+
+81   EXT. INTERNMENT CENTER - YARD - NIGHT
+
+	Worf and Martok stand together in the sparring area, 
+	surrounded by Jem'Hadar. There's no one standing 
+	across from them.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   41.
+
+81   CONTINUED:
+
+					WORF
+			First they demand we come out 
+			here, then they make us wait.
+
+					MARTOK
+			They are worthy fighters, but they 
+			have no sense of honor.
+
+	Just then, Ikat'ika ENTERS the yard accompanied by 
+	Deyos. The Jem'Hadar steps into the ring.
+
+					WORF
+			Is there no Jem'Hadar willing to 
+			face me?
+
+					DEYOS
+				(to Ikat'ika)
+			Fascinating. Even after all he's 
+			been through, the Klingon still 
+			thirsts for battle. Doesn't he 
+			ever tire of it?
+
+					IKAT'IKA
+			I never do.
+
+					DEYOS
+			You fight because that's what you 
+			were designed to do. All that 
+			motivates him is some barbaric 
+			sense of honor.
+
+					IKAT'IKA
+			And that is something you will 
+			never understand.
+				(to Worf)
+			Prepare yourself. I've found you 
+			a worthy opponent.
+
+					WORF
+			Where is he?
+
+					IKAT'IKA
+			Right in front of you.
+
+
+	Worf nods. Like Ikat'ika, he's been waiting for this.
+
+					IKAT'IKA
+			Victory is life.
+
+	The Jem'Hadar hits his post.
+
+					WORF
+			Today is a good day to die.
+
+	Worf hits his too and with that, the battle is joined.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   42.
+
+82   INT. BARRACKS- NIGHT
+
+	Bashir is seated on the bed that blocks the entrance to 
+	the hole. The two Romulans are at the door. The Breen 
+	still hasn't moved.
+
+	Bashir looks tense and preoccupied. He's worried about 
+	Garak.
+
+83   INT. CRAWLSPACE
+
+	Garak maneuvers to get to a particularly hard-to-reach 
+	relay. After straining, he manages to just get it. He 
+	pauses to take some deep breaths to steady his nerves, 
+	then looks suspiciously at the light (which is now 
+	working again).
+
+84   EXT. INTERNMENT CENTER - YARD - NIGHT 
+
+	As Worf and Ikat'ika fight. This should be a grueling, 
+	desperate battle between two very formidable fighters. 
+	But Worf, who's suffering the cumulative effects of his 
+	previous fights, is definitely getting the worst of it.
+
+85   INT. BARRACKS - NIGHT
+
+	As Bashir continues to wait.
+
+86   NEW ANGLE
+
+	As the Female Romulan steps away from the door.
+
+					FEMALE ROMULAN
+			Jem'Hadar.
+
+						BASHIR
+			Can we get him out?
+
+					FEMALE ROMULAN
+			No time.
+
+	Bashir bangs twice on the wall...
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   43.
+
+87   INT. CRAWLSPACE
+
+	Hearing the signal, Garak stops working and stays as 
+	still as possible. He closes his eyes and tries not to 
+	let his fears overwhelm him.
+
+88   INT. BARRACKS - NIGHT
+
+	Bashir and the Female Romulan are both assuming more 
+	relaxed postures as three Jem'Hadar Soldiers, storm 
+	into the room.
+
+					JEM'HADAR OFFICER
+			The Cardassian. Where is he?
+
+					BASHIR
+			Outside, I suppose.
+
+	A Jem'Hadar clobbers Bashir with his rifle, knocking 
+	him to the ground.
+
+					JEM'HADAR OFFICER
+			He's not outside.
+
+	The two other Jem'Hadar begin offhandedly checking out 
+	the barracks, overturning the beds, spilling the 
+	foot lockers, etc.
+
+89   INT. CRAWLSPACE
+
+	From Garak's reaction, we can tell he hears this. He 
+	turns back to his work, sensing it's now or never.
+
+					BASHIR (O.S.)
+				(very muffled)
+				What do you want with him?
+
+90   INT. BARRACKS - NIGHT
+
+	Bashir glances at the Jem'Hadar who are searching the 
+	room. They're about to flip over the bed in front of 
+	Garak's wall.
+
+					JEM'HADAR OFFICER
+			He is to be put to death.
+
+					SECOND JEM'HADAR
+			Sir.
+
+	The Second Jem'Hadar holds up the metal tool, which 
+	he's found while searching the beds. The Jem'Hadar 
+	officer takes it and then kneels down next to Bashir
+	and holds the tool up to his face.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   44.
+
+90   CONTINUED:
+
+					JEM'HADAR OFFICER
+			Now, if you wish to live, explain 
+			this.
+
+91   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A tight shot of Ops.
+
+92   INT. OPS
+
+	Kira looks down at her readouts on the Ops table. 
+	O'Brien and Dax are at their stations, Sisko's at the 
+	top of the stairs.
+
+					KIRA 
+			The Bird of Prey Y'tem is in 
+			position.
+
+
+					O'BRIEN
+			That's everybody.
+
+
+					SISKO
+			Major, commander, report to the 
+			Defiant.
+
+					DAX
+			Yes, sir.					SISKO
+			Good luck.
+
+					KIRA
+
+			To all of us.
+
+	Kira and Dax EXIT.
+
+					SISKO
+				(to O'Brien)
+			Deploy the runabouts.
+
+									CUT TO:
+
+93   INT. RUNABOUT
+
+	Close on the back of the pilot's head slowly moving 
+	around toward his face.
+
+					O'BRIEN'S COM VOICE
+			Runabout Yukon, prepare for 
+			departure.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   45.
+
+93   CONTINUED:
+
+					PILOT (O.S.)
+			Ready.
+
+					O'BRIEN'S COM VOICE
+			Launch doors are open. You're 
+			clear to go in three, two, one. 
+			Now.
+
+	We finally come around so we can see the pilot's face. 
+	It's the Bashir Changeling, but when he speaks it's not 
+	with Bashir's voice, but with someone else's.
+
+					BASHIR CHANGELING
+			Engines engaged.
+
+94   NEW ANGLE
+
+	To reveal the dead bodies of the runabout's crew lying 
+	on the ground behind the Bashir Changeling as he 
+	launches the runabout.
+
+95   INT. OPS
+
+	O'Brien watches his readouts.
+
+					O'BRIEN
+				(to Sisko)
+			Runabouts deployed.
+
+	Suddenly he reacts in surprise to something he sees.
+
+					O'BRIEN
+			Sir, I'm reading a large tachyon 
+			buildup. Multiple vectors. 
+				(a beat, alarmed)
+			Ships decloaking!
+
+96   EXT. SPACE (OPTICAL)
+
+	A number of Romulan ships decloak near the station and 
+	its protecting fleet.
+
+97   INT. OPS
+
+	O'Brien and Sisko react to the Romulans' sudden appearance.
+
+					SISKO
+				(amazed)
+			Romulans.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FOUR   46.
+
+97   CONTINUED:
+
+					O'BRIEN
+			They're requesting permission to 
+			join the fleet.
+
+	Sisko looks pleasantly surprised.
+
+					SISKO
+			I'll be damned. Permission 
+			granted.
+
+	Just then...
+
+					KIRA'S COM VOICE
+			Defiant to Ops.
+
+					O'BRIEN
+			Go ahead, Major.
+
+					KIRA'S COM VOICE
+			Sensors have just detected 
+			Dominion and Cardassian ships 
+			entering Bajoran space. ETA... 
+			ten minutes.
+
+
+	And as Sisko and O'Brien ready themselves for the 
+	battle ahead, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+98   INT. BARRACKS - NIGHT (OPTICAL)
+
+	The Jem'Hadar Officer holds the tool to Bashir's face. 
+	In the background, the other Jem'Hadar are still searching the room.
+
+					JEWHADAR OFFICER
+			I ask you for the last time, what 
+			is this?
+
+					BASHIR
+			It's either a self-sealing 
+			stem bolt or a reverse ratcheting 
+			router, I'm not sure which.
+
+	The Jem'Hadar Officer stands and shoots the male 
+	Romulan, disintegrating him. He shifts his aim 
+	instantly to the Female Romulan.
+
+					JEM'HADAR OFFICER
+			She's next.
+
+					SECOND JEM'HADAR
+				(excited)
+			Sir! If you'll allow me.
+
+	He takes the tool, goes to the panel that accesses the 
+	crawlspace, and fits it in. He looks back at his 
+	superior and smiles.
+
+99   INT. CRAWLSPACE
+
+	Garak hears the panel opening and turns out the light. 
+	He continues working frantically in the dark.
+
+100  EXT. INTERNMENT CENTER - YARD - NIGHT
+
+	Worf continues his fight with Ikat'ika. Worf is on his 
+	knees. Ikat'ika kicks him in the head. Worf collapses 
+	to the ground. Martok kneels over him.
+
+					MARTOK
+			Worf, honor has been satisfied. 
+			Stay down.
+
+	Worf turns his battered face to look up at Martok, then 
+	over at Ikat'ika, who stands there, confidently 
+	expecting Worf to throw in the towel.    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   48.
+
+100  CONTINUED:
+
+	Without a word, Worf forces himself to his feet. He 
+	defiantly taps the post.
+
+					DEYOS
+				(to Ikat'ika)
+			Finish this.
+
+	Ikat'ika moves towards Worf. Worf takes his best shot, 
+	but Ikat'ika is able to evade it. He decks Worf again.
+
+101  INT. BARRACKS - NIGHT
+
+	Close on the Second Jem'Hadar as he pops the panel 
+	open, revealing the entrance into the crawlspace. He 
+	kneels down to look inside the opening. The other two 
+	Jem'Hadar are keeping their rifles pointed at Bashir 
+	and the Female Romulan, but they're both curious about 
+	what's behind the panel.
+
+					JEM'HADAR OFFICER
+			What do you see?
+
+	It's dark.
+
+	Just then...
+
+102  NEW ANGLE (OPTICAL)
+
+	The Breen looms up behind the Jem'Hadar Officer. He 
+	grabs the unsuspecting soldier's sidearm. The Officer 
+	turns, but as he does, the Breen fires, vaporizing him.
+
+	There's a blur of activity. The Female Romulan grabs 
+	a foot locker and hits the third Jem'Hadar, who staggers 
+	back. The Jem'Hadar officer extracts himself from the 
+	wall and turns just in time to exchange point-blank 
+	shots with the Breen. They both are disintegrated just 
+	as Bashir grabs the panel tool and stabs the third 
+	Jem'Hadar, killing him.
+
+					FEMALE ROMULAN
+			My people have a saying. Never 
+			turn your back on a Breen.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   49.
+
+103  INT. CRAWLSPACE - NIGHT
+
+	Garak continues to work.
+
+					GARAK
+			Doctor, would you please keep the 
+			noise down. I'm trying to work in 
+			here.
+
+104  INT. BARRACKS - NIGHT	104
+
+	Bashir grabs a gun.
+
+					BASHIR
+			How many transtator circuits do 
+			you have left?
+
+104A INT. CRAWLSPACE - NIGHT
+
+	Garak switches a circuit.
+
+					GARAK
+			Three.
+
+104B INT. BARRACKS - NIGHT	104B
+
+	Bashir and the Female Romulan try to hide the lone 
+	Jem'Hadar body.
+
+					BASHIR
+			Well work fast. Pretty soon we're 
+			going to be up to our necks in 
+			Jem'Hadar.
+
+105  EXT. INTERNMENT CENTER - YARD - NIGHT
+
+	Worf is thrown to the ground by Ikat'ika. For a beat, 
+	he just lays there and it looks like he won't be 
+	getting up. But then he begins dragging himself toward 
+	the post.
+
+	Ikat'ika leans over and puts a restraining hand on his 
+	shoulder.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE  49A.
+
+105  CONTINUED:
+
+					IKAT'IKA
+			Enough, Klingon. You have proven
+			your worth.
+
+	But Worf ignores him and crawls out of his grasp, 
+	headed toward the post.
+
+					MARTOK
+			Worf, you heard him. Enough.
+
+					WORF
+			I will not yield.
+
+	Worf touches the post and slowly gets to his feet. 
+	Ikat'ika can't believe it. Worf takes a weak swing at 
+	Ikat'ika, who doesn't even bother to parry. He just 
+	steps back and lets it miss. But he doesn't retaliate.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   50.
+
+105  CONTINUED:
+
+					DEYOS
+			What are you waiting for? End this.
+
+					IKAT'IKA
+			It's over.
+
+					WORF
+			It's not over.
+
+	Worf stumbles over to Ikat'ika and gets in his face, as 
+	if daring him to kill him.
+
+					DEYOS
+				(to Ikat'ika)
+			You heard him.
+
+	Ikat'ika locks eyes with Worf, who's bloodied, bruised, 
+	and clearly in no condition to stand, let alone fight. 
+	The hint of a smile appears on Ikat'ika's face.
+
+					IKAT'IKA
+				(softly, just for Worf)
+			I yield.
+
+	Now it's Worf's turn to look confused at Ikat'ika.
+
+					DEYOS
+			You what?
+
+					IKAT'IKA
+				(louder, for all)
+			I yield. I cannot defeat this 
+			Klingon. All I can do is kill 
+			him. And that no longer holds my 
+			interest.
+
+	Deyos turns to one of the Jem'Hadar.
+
+					DEYOS
+				(re: Worf and Ikat'ika)
+			Shoot them both.
+
+	The Jem'Hadar raises his weapon...
+
+106  OMITTED
+
+107  INT. CRAWLSPACE
+
+	Garak flicks some kind of switch...
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   51.
+
+107  CONTINUED:
+
+					GARAK
+			Got it!
+
+	And...
+
+108  EXT. INTERNMENT CENTER - YARD - NIGHT (OPTICAL)
+
+	Just as the Jem'Hadar fires at Worf, Worf and Martok
+	DEMATERIALIZE.
+
+109  INT. BARRACKS - NIGHT (OPTICAL)
+
+	Bashir and the Female Romulan also beam out.
+
+110  INT. RUNABOUT (OPTICAL)
+
+	Bashir and the Female Romulan MATERIALIZE on the 
+	Transporter pad. Worf, Garak and Martok, who arrived 
+	seconds earlier, have just stepped off the pad into 
+	the cockpit. Garak immediately takes a seat and begins 
+	piloting the runabout. Bashir looks at Worf in 
+	concern.
+
+					BASHIR
+			Get him to one of the cabins in 
+			the back. I'll be right with you.
+
+	Martok and the Female Romulan begin helping Worf to the 
+	back, but he stops them for a second.
+
+					WORF
+				(still in pain)
+			You did well.
+
+					GARAK
+			So did you.
+
+	Worf nods. He lets himself be led out.
+
+					BASHIR
+				(to Garak)
+			Take her to maximum warp. We've 
+			got to get a message through to 
+			the station.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   52.
+
+111  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Close on Ops. (Re-use of Scene 91.)
+
+112  INT. OPS
+
+	A larger than normal Ops crew is on hand to coordinate 
+	the battle. Sisko checks his readouts.
+
+					O'BRIEN
+			The Dominion fleet should be in 
+			visual range.
+
+					SISKO
+			On screen.
+
+113  INCLUDE THE VIEWSCREEN (OPTICAL)
+
+	Which displays nothing but stars.
+
+					SISKO
+			Where are they?
+
+					O'BRIEN
+			According to the warp signatures, 
+			they should be right there.
+
+					SISKO
+			Some kind of cloaking device?
+
+					O'BRIEN
+			I didn't know the Dominion had 
+			them.
+
+					SISKO
+			or the Cardassians for that 
+			matter.
+
+					O'BRIEN
+				(alarmed)
+			I'm reading additional warp 
+			signatures. Bearing one-eight-
+			three mark nine-seven. Two-four-
+			four mark twelve. Three-oh-two 
+			mark one-three-three.
+
+	Just then...
+
+					KIRA'S COM VOICE
+			Defiant to Ops.
+
+					SISKO
+			Go ahead.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE  52A.
+
+114  OMITTED
+
+115  INT. DEFIANT - BRIDGE
+
+	Dax is at the helm, Kira's in the Captain's chair.
+
+					KIRA 
+			Sir, according to our sensor 
+			readings, there're Dominion ships 
+			all around us. But we can't see 
+			them or get any kind of targeting 
+			lock.
+
+116  OMITTED
+
+117  INT. OPS
+
+	As before. Intercut as necessary with the Defiant 
+	Bridge.
+
+					SISKO
+			We're reading the same thing.
+
+					O'BRIEN
+			They're everywhere.
+
+					DAXIS COM VOICE
+			Captain, what are your orders?
+
+					SISKO
+				(urgent, to O'Brien)
+			Chief, I need targets.
+
+					O'BRIEN
+			I'm trying. But I can't get 
+			anything. We may have to wait for 
+			them to open fire and then...
+				(off console, surprised)
+			Captain, I'm receiving a priority 
+			one message from the Gamma 
+			Quadrant.
+				(shocked)
+			It's... Doctor Bashir.
+
+					SISKO
+			Bashir?
+				(to com)
+			Computer, locate Doctor Bashir.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   53.
+
+117  CONTINUED:
+
+					COMPUTER VOICE
+				(after a beat)
+			Doctor Bashir is not on the 
+			station.
+
+					SISKO
+			What was his last known location?
+
+ 					COMPUTER VOICE
+			Doctor Bashirls last known 
+			location was Runabout Pad "E."
+
+	Sisko reacts instantly.
+
+					SISKO
+				(to com)
+			Sisko to Defiant.
+
+118  INT. DEFIANT - BRIDGE
+
+	(Intercut to Ops as necessary) As before. Suddenly... 
+
+					KIRA 
+			Go ahead.
+
+					SISKO'S COM VOICE
+			Major, you have new orders. I 
+			want you to find the Yukon and 
+			destroy it at any cost. Is that 
+			clear?
+
+	Kira looks surprised, but she knows he doesn't give 
+	orders without a reason.
+
+					KIRA 
+			Yes, sir.
+				(to Dax)
+			Commander.
+
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   54.
+
+118  CONTINUED:
+
+
+					DAX
+				(surprised)
+			The Yukon is headed straight for 
+			the Bajoran sun.
+
+119  OMITTED
+
+120  EXT. RUNABOUT (OPTICAL)
+
+	The Runabout heads toward the sun.
+
+121  INT. RUNABOUT
+
+	The Runabout is on automatic pilot. The Bashir 
+	Changeling has a hatch open on the floor and is 
+	activating a device that he's built into the ship. 
+	Suddenly the ship shakes. The Bashir Changeling looks 
+	up, expressionless.
+
+122  INT. DEFIANT - BRIDGE
+
+	As before.
+
+					DAX
+			Its shields are holding.
+
+					KIRA 
+			How can that be?
+
+					DAX
+			It looks like someone's been doing 
+			some modifications to the Yukon.
+				(alarmed)
+			I'm also picking up large amounts 
+			of trilithium, tekasite, and proto-
+			matter on board.
+
+	Kira gets to her feet.
+
+					KIRA
+				(realizing)
+			A bomb. If it explodes inside the 
+			sun...
+
+					DAX
+			It could trigger a supernova. 
+			Wipe out the entire fleet... the 
+			station...
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   55.
+
+122  CONTINUED:
+
+
+	And worst of all...
+
+					KIRA
+			And Bajor...
+				(coming to a decision)
+			We have to use the tractor beams.
+
+					DAX
+				We're too far.
+
+					KIRA
+			Wanna bet? Take us to warp.
+
+					DAX
+				(concerned)
+			Inside a solar system?
+
+					KIRA
+			If we don't, there won't be a
+			solar system left.
+
+	Kira reaches over Dax's shoulder, hits a command on the 
+	helm, and...
+
+									CUT TO:
+
+123  EXT. SPACE (OPTICAL)
+
+	The Defiant goes to warp.
+
+124  EXT. RUNABOUT (OPTICAL)
+
+	The Runabout plunges toward the sun when suddenly, the 
+	Defiant drops out of warp almost right on top of it, 
+	snags it with a tractor beam and pulls it off course.
+
+125  INT. RUNABOUT
+
+	The Bashir Changeling looks surprised.
+
+126  EXT. RUNABOUT (OPTICAL)
+
+	The Runabout explodes.
+
+127  INT. DEFIANT - BRIDGE
+
+	Which shakes violently from the tremendous explosion.
+
+128  INT. OPS
+
+	As Sisko and O'Brien react to their readouts.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   56.
+
+128  CONTINUED:
+
+					O'BRIEN
+			The runabout's been destroyed.
+
+						SISKO
+				(thinking aloud)
+			If the sun had gone nova, it 
+			would've wiped out the Dominion 
+			fleet too.
+				(realizing)
+			Chief, scan for those warp 
+			signatures again.
+
+	O'Brien doesn't quite get it, but he begins to scan.
+
+					O'BRIEN
+				(surprised)
+			Captain...
+
+					SISKO
+			They're gone, aren't they?
+
+					O'BRIEN
+			All I'm reading is normal 
+			background radiation.
+
+					SISKO
+			The warp signatures must've been 
+			faked. The Dominion's real fleet
+			never left Cardassian space. This 
+			was all an elaborate trap... an 
+			attempt to destroy the station and 
+			Bajor, and cripple the Federation 
+			and Klingon fleets... without ever 
+			firing a shot.
+				(a beat)
+			Tell our friends out there to 
+			stand down. Armageddon will have 
+			to wait for another day.
+
+129
+thru   OMITTED
+130
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   57.
+
+131  INT. QUARK'S
+
+	Garak ENTERS. He sees Ziyal sitting alone at a table, 
+	waiting for him. He approaches her.
+
+					GARAK
+			Ziyal.
+
+	She looks up.
+
+					GARAK
+			I told you I'd be back.
+
+	She gets up and kisses him. He stands there feeling 
+	faintly embarrassed, but pleased.
+
+					ZIYAL
+			I never doubted it.
+
+132  INT. INFIRMARY
+
+	Bashir and O'Brien ENTER from the back.
+
+					O'BRIEN
+			Over a month? I've been hanging 
+			around with a changeling for over 
+			a month?
+
+					BASHIR
+			You never even suspected it wasn't 
+			me?
+
+					O'BRIEN
+			The worst part is, the clues were 
+			right in front of me.
+
+					BASHIR
+			What clues?
+
+					O'BRIEN
+			He was... so much easier to get 
+			along with.
+
+	Bashir shoots O'Brien a dirty look. O'Brien smiles. 
+	He's glad to have his friend back.
+
+132A NEW ANGLE
+
+	Worf is laying on a table, waiting to be treated. But 
+	at the moment, he's getting a welcome-back kiss from 
+	Dax.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE  57A.
+
+132A CONTINUED:
+
+					DAX
+			I suppose this means you're going 
+			to want your Klingon Opera 
+			collection back.
+
+					WORF
+			Intact.
+
+					DAX
+			More or less.
+
+	They kiss again.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   58.
+
+133  INT. PROMENADE - SECOND LEVEL	133
+
+	Sisko, Gowron and Martok look out over the Promenade. 
+	Klingons and Romulans mix with the usual crowd.
+
+
+					GOWRON
+				(referring to a PADD)
+			Then it's settled. In light of 
+			the new treaty and the continued 
+			Dominion threat to the Alpha 
+			Quadrant, there will be a 
+			permanent Klingon military 
+			presence on this station.
+
+					SISKO
+			But I choose their commander.
+
+					GOWRON
+			Agreed.
+
+	Gowron puts his thumbprint on the PADD and hands it to 
+	Sisko. Sisko turns to Martok.
+
+					SISKO
+			Mister Worf thinks very highly of 
+			you, General.
+
+					MARTOK
+				(looks warily toward
+				Gowron)
+			And I think highly of him.
+
+	Gowron frowns. He's still not ready to forgive and 
+	forget.
+
+					SISKO
+			Then I can't think of a better man 
+			for the job. If you'll take it?
+
+					MARTOK
+			I would be... honored.
+
+	Just then...
+
+					KIRA'S COM VOICE
+			Ops to Sisko.
+
+					SISKO
+			Sisko here.
+
+					KIRA'S COM VOICE
+			You're receiving an incoming 
+			message. It's from Dukat.
+
+	Sisko, Gowron and Martok react. They know their 
+	troubles are far from over.
+
+134  INT. CAPTAIN'S OFFICE (OPTICAL)
+
+	Sisko talking with Dukat on his desk top monitor.
+
+    DEEP SPACE NINE: "Inferno's Light" - REV. 12/17/96 - ACT FIVE   59.
+
+134  CONTINUED:
+
+					DUKAT
+				(on monitor)
+			Captain, I must congratulate you. 
+			If that proto-matter device had 
+			gone off inside the sun... well, 
+			the death toll would've been 
+			enormous.
+
+					SISKO
+			And your daughter would've been 
+			one of the casualities.
+
+	Dukat looks uncomfortable, but covers up.
+
+					DUKAT
+			Ziyal made her choice. As far as 
+			I'm concerned, she's no longer my 
+			daughter.
+
+					SISKO
+			You know, I thought you'd changed 
+			in the last five years. I see I 
+			was wrong.
+
+					DUKAT
+			One man's villain is another man's 
+			hero. You should see the monument 
+			they're erecting in my honor at 
+			the gateway to the Imperial Plaza.
+
+					SISKO
+			Is that why you sold out your people 
+			to the Dominion? For a monument?
+
+					DUKAT
+			What I did I did to make Cardassia 
+			strong again. And mark my words, 
+			captain. I succeeded. You may 
+			have escaped defeat this day... 
+			but tomorrow...
+
+					SISKO
+				(interrupting)
+			We'll see about tomorrow.
+
+					DUKAT
+			Yes. We will.
+
+	And with that, Dukat's image disappears.
+
+135  CLOSE ON SISKO
+
+	As he realizes he has a long fight ahead of him and we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

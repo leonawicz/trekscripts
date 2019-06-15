@@ -1,0 +1,2924 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                    "In the Pale Moonlight" 
+                        (fka "Patriot") 
+                          #40510-543 
+                              
+                           Story by 
+                      Peter Allan Fields 
+                              
+                          Teleplay by 
+                        Michael Taylor 
+                              
+                          Directed by 
+                          Victor Lobl 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        January 26, 1998
+
+  STAR TREK: DS9 - "In the Pale Moonlight" - 01/26/98 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "In the Pale Moonlight" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     DAMAR
+          ODO                      WEYOUN
+          BASHIR                   TOLAR
+          DAX                      VREENAK
+          WORF                     
+          QUARK                    
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+ STAR TREK: DS9 - "In the Pale Moonlight" - 01/26/98 - SETS       
+
+                  STAR TREK:  DEEP SPACE NINE
+                    "In the Pale Moonlight" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          SISKO'S QUARTERS/             
+          BEDROOM                       
+          WARDROOM                      
+          CAPTAIN'S OFFICE              
+          OPS                           
+          GARAK'S SHOP                  
+          QUARK'S                       
+          PROMENADE                     
+          TURBOLIFT                     
+          HOLOSUITE/DOMINION MEETING ROOM
+          CORRIDOR                      
+          AIRLOCK CORRIDOR              
+          LANDING BAY                   
+
+   DS9 - "In the Pale Moonlight" - 01/26/98 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                    "In the Pale Moonlight" 
+                      PRONUNCIATION GUIDE 
+
+          BETAZED                  BAY-tuh-zehd
+          BIO-MEMETIC              BIE-oe-muh-MEH-tik
+          BIOGENIC                 BIE-oe-GEE-nic
+          CALANDRA                 kuh-LON-druh
+          CENTAURI                 SIN-tar-ree
+          GLINTARA                 GLIN-tar-uh
+          GRATHON                  GRAY-thun
+          KALI-FAL                 KAL-eh-fall
+          M'PELLA                  meh-PEL-uh
+          OPTOLYTHIC               op-TOE-li-thic
+          PROCONSOL NERAL          PRO-con-sol neh-RALL
+          SOUKARA                  sue-KAR-uh
+          TAL SHIAR                TAL she-ARE
+          TATALIA                  tah-TALL-ee-ah
+          TELLAR                   TELL-ar
+          TOLAR,                   TOE-lar
+          VREENAK                  VREE-neck
+          WHELAN                   WE-lan
+
+      DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - TEASER      1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                       "In the Pale Moonlight"                         
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. SISKO'S QUARTERS
+
+	SISKO is sitting on his couch, his finger on a control 
+	pad on a nearby table. The room is DARK and moody. 
+	The captain has just gone through a long and trying 
+	ordeal and now wants to unburden himself. He faces
+	camera and addresses us directly as he begins to 
+	dictate his private log.
+
+					SISKO
+			Captain's Personal Log: Stardate
+			Five-one-seven...
+				(unsure) 
+			Five-one-seven... four?
+
+	He trails off, suddenly aware of the fact that he 
+	doesn't even know what day this is.
+
+					SISKO
+				(annoyed) 
+			Computer -- what day is it?
+
+					COMPUTER VOICE 
+			Thursday. Stardate 51721.3.
+
+					SISKO
+				(to himself)
+			It's only been two weeks...
+
+	He loses himself for a beat, then remembers that he's 
+	recording a log. He looks up at us again.
+
+					SISKO 
+			I need to talk about this. I have 
+			to justify what's happened... what 
+			I've done... at least to myself. 
+			I can't talk to anyone else... not 
+			even Dax. Maybe if I just lay it 
+			all out in my log, it'll finally 
+			make sense... and I'll see where 
+			it all went wrong... where I went 
+			wrong.
+
+      DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - TEASER      2.
+
+1    CONTINUED:
+
+					SISKO (Cont'd) 
+				(beat) 
+			I suppose it all started two weeks 
+			ago when I was posting the weekly 
+			casualty list in the wardroom...
+
+									CUT TO:
+
+2    INT. WARDROOM
+
+	Sisko is working the control pad next to the large wall 
+	monitor.
+
+					SISKO (V.O.)
+			... every Friday morning, for the 
+			past three months, I've posted the 
+			official list of Starfleet 
+			personnel killed, wounded or 
+			missing in the war.
+
+	Sisko hits a final control and a large OKUDAGRAM 
+	APPEARS on the monitor: a long list of NAMES. They're 
+	grouped by ship or starbase and then alphabetized by 
+	last name. Each name has a brightly colored tag next 
+	to it: KIA, WIA, MIA. Sisko steps away from the 
+	monitor and we REVEAL that the room is FILLED with 
+	Starfleet Officers: BASHIR, WORF and DAX are among 
+	the many N.D. Officers waiting to take a look at the 
+	list. They all move slowly toward the list and begin 
+	reading it over. The mood is grim -- everyone is here 
+	hoping against hope that they won't find the name of 
+	a loved one or friend on that list.
+
+      DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - TEASER      3.
+
+2    CONTINUED:
+
+	FOLLOW Sisko as he moves across the room and watches 
+	the reactions as the officers read the board. As the 
+	scene continues, there should be MORE N.D. Officers 
+	ENTERING the Wardroom, while others EXIT after checking 
+	the board.
+
+					SISKO (V.O.)
+				(continuing, over above
+				action)
+			It's become something of a grim
+			ritual around here. Not a week
+			goes by that someone doesn't find
+			the name of a loved one, a friend
+			or an acquaintance on that damned
+			list.
+				(beat) 
+			I've grown to hate Fridays.
+
+	Dax is running her finger down the list looking for 
+	anyone she knows. Worf and Bashir are relieved when 
+	they don't see anyone they recognize, but then Dax 
+	finds a name she knows and reacts. Worf puts an arm 
+	around her as they move aside to let others check the 
+	board. Sisko sees the look on her face and joins them 
+	just as Dax takes a seat in one of the lounge chairs.
+
+					SISKO
+			Someone you knew?
+
+					DAX
+			Leslie Wong.
+
+					SISKO
+			The skipper of the Cairo?
+
+					DAX
+				(nods) 
+			She was an instructor at the 
+			Academy when I was a sophomore.
+
+					BASHIR 
+			Do you know what happened to the 
+			Cairo?
+
+					SISKO
+			Just that they disappeared on 
+			patrol near the Romulan Neutral 
+			Zone. But I'll look into it.
+
+      DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - TEASER      4.
+
+2    CONTINUED:	(2)
+
+					DAX 
+				(bitter) 
+			Don't bother. I'm sure it's the 
+			same old story -- the Jem'Hadar 
+			crossed over the Romulan border 
+			and caught them off-guard. It's 
+			only about the hundredth time it's 
+			happened.
+
+					BASHIR 
+			I can't believe the Romulans are 
+			allowing them to violate their 
+			territory so brazenly. How do 
+			they get away with it?
+
+					SISKO
+			The Romulans have a treaty of non-
+			aggression and friendship with the 
+			Dominion. In practical terms that 
+			means they're willing to turn a 
+			blind eye to almost anything in 
+			the name of "friendship."
+
+					WORF 
+				(bitter) 
+			It's an intolerable situation. 
+			We should cross the Neutral Zone 
+			and destroy the Dominion bases.
+
+					DAX
+			And risk war with the Romulans? 
+			No, thank you. We're losing 
+			enough good people as it is. The 
+			last thing we need is a war on two 
+			fronts.
+
+      DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - TEASER      5.
+
+2    CONTINUED:	(3)
+
+					BASHIR
+			What we need is to bring the 
+			Romulans into the war on our side. 
+			With the combined forces of the 
+			Federation, the Klingons and the 
+			Romulans we could finally go on the 
+			offensive.
+
+	We PUSH in on Sisko as he listens to this idea and to 
+	Dax's response -- a thoughtful look comes over his face 
+	and we can see that he's mulling over something.
+
+					DAX 
+			That's the last thing the Romulans 
+			want. Think about it -- they're 
+			in the perfect position. They get 
+			to sit back and watch as their 
+			biggest rivals slug it out in a 
+			long, bloody war. No one's 
+			threatening their interests. Why 
+			should they risk their necks? 
+			There's simply no reason for them 
+			to get involved in our war. No
+			reason at all...
+
+	HOLD on Sisko's thoughtful expression for a moment...
+
+					SISKO (V.O.) 
+			That was the moment I made the 
+			decision. It was like I had 
+			stepped through a door and locked 
+			it behind me. I was going to 
+			bring the Romulans into the war.
+
+									CUT TO:
+
+3    INT. SISKO'S QUARTERS
+
+	As before.
+
+      DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - TEASER      6.
+
+3    CONTINUED:
+
+					SISKO 
+			I was absolutely sure it was the 
+			right decision -- that's the
+			frightening part -- how right it 
+			seemed at the time. And now... 
+			now all I can do is learn to live 
+			with that decision. 
+				(beat) 
+			And I'll have to live with it for 
+			the rest of my life...
+
+	Off the dark and brooding expression on Sisko's face...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE      7.
+                            ACT ONE                             
+
+	FADE IN:
+
+4    INT. CAPTAIN'S OFFICE
+
+	Sisko is pacing, thinking out loud and using Dax as a 
+	sounding board.
+
+					SISKO 
+			It's in their own best interest 
+			to join the war -- that's the key, 
+			that's the reason the Romulans 
+			will finally take action. Not to 
+			do us any favors, but to protect 
+			themselves from the Dominion.
+
+					DAX
+			Okay. Let's say I'm the Romulan 
+			Proconsol. From where I'm 
+			sitting, the Dominion isn't a 
+			threat to me. I have a 
+			nonaggression pact with them. 
+			They're my allies.
+
+					SISKO
+			You're not going to put your faith 
+			in some piece of paper are you?
+
+					DAX
+			Not at all. I've been watching 
+			the Dominion very closely since 
+			the beginning of the war. And so 
+			far, they've kept their part of 
+			the bargain.
+
+	The tone here starts getting more heated -- they're 
+	both pushing their roles and their arguments as hard 
+	as they can.
+
+					SISKO 
+			They're violating your territory 
+			almost every day -- what kind of 
+			an ally is that?
+
+					DAX
+			So they're crossing through my 
+			backyard to give the Federation 
+			a bloody nose. I can't say that 
+			makes me very sad.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE      8.
+
+4    CONTINUED:
+
+					SISKO 
+			You can't be naive enough to think 
+			the Dominion will stop with the 
+			Federation? When they're finished 
+			with us, they'll be coming after 
+			you.
+
+					DAX
+				(dismissive) 
+			That's speculation.
+
+					SISKO
+			The Founders see it as their 
+			sacred duty to bring order to the 
+			galaxy. Their order. Do you 
+			think they'll sit idly by and let 
+			you keep your chaotic empire next 
+			to their perfect order? No. If 
+			you watch us go under, what you're 
+			really doing is writing your own 
+			death warrant.
+
+					DAX
+			You're asking me to start a war 
+			based on wild theories.
+
+					SISKO
+			They're not theories, they're 
+			facts!
+
+					DAX 
+			Prove it!
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE      9.
+
+4    CONTINUED:	(2)
+
+					SISKO 
+			How?
+
+					DAX
+			That's your problem. But before 
+			I plunge my people into a conflict 
+			that'll kill millions of loyal 
+			Romulan citizens, I'll need 
+			something more concrete than the 
+			self-serving arguments of a 
+			Starfleet officer. I'll need 
+			proof of Dominion duplicity. Not 
+			more words, proof!
+
+	They glare at each other for a beat before Sisko breaks
+	the moment and lets go of the emotion of the moment.
+
+					SISKO 
+			Not bad, old man. You'd have made 
+			a decent Romulan.
+
+					DAX
+				(relaxing) 
+			Thanks. But I prefer spots to 
+			pointed ears.
+
+					SISKO
+			Okay you convinced me. They're 
+			going to need evidence...
+				(beat) 
+			But, if there is evidence of a 
+			Dominion plan to attack Romulus, 
+			it's probably buried deep in the 
+			bowels of their headquarters on 
+			Cardassia Prime.
+
+					DAX
+			Not exactly the most accessible 
+			place in the galaxy.
+
+	Beat.
+
+					SISKO 
+			Not for us, maybe. But there is 
+			someone on this station who 
+			specializes in gaining access to 
+			places he's not welcome.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE     9A.
+
+5    INT. WARDROOM
+
+	GARAK is looking at Sisko with a surprised expression.
+
+					GARAK
+			I must say I'm flattered, Captain. 
+			I had no idea you held such a 
+			lofty opinion of me. 
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE     10.
+
+5    CONTINUED:
+
+					GARAK (Cont'd) 
+			Your faith in my ability to 
+			retrieve classified information 
+			from my former homeland is most 
+			gratifying.
+
+					SISKO
+			I'm happy that you're happy. Now, 
+			can you do it?
+
+	Garak pauses for a moment, then shifts gears.
+
+					GARAK 
+			You know, I had assumed this 
+			meeting was about the 
+			modifications I suggested for your 
+			new dress uniform -- you have had 
+			an opportunity to look over my 
+			design, haven't you? The new 
+			piping along the collar, the 
+			exaggerated cut of the jacket 
+			hemline emphasizing the--
+
+					SISKO
+			Mister Garak. Let's dispense with 
+			the usual repartee and concentrate 
+			on the issue at hand. Can you do 
+			the job or not?
+
+	Garak sits back and considers Sisko with a cold eye as 
+	something icy and unpleasant comes over his features.
+
+					GARAK 
+			No one wants to see the Dominion 
+			destroyed more than I do. But asking 
+			me to go to Cardassia Prime, 
+			penetrate one of the most heavily 
+			guarded facilities in the quadrant, 
+			steal top secret war plans and then 
+			return them safely to you is not just 
+			another "job." It's more like a 
+			suicide mission and that is well 
+			outside my field of expertise.
+
+					SISKO
+			I didn't say you had to go there 
+			yourself. I have to believe that a 
+			man like you still has a few contacts 
+			back home. A colleague from the 
+			Obsidian Order... 
+
+ DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE 11-11A.    
+
+5    CONTINUED:	(2)
+
+					SISKO (Cont'd)
+			... an old friend... a reliable 
+			informant... someone who might owe 
+			you a favor.
+
+					GARAK 
+			Perhaps...
+
+					SISKO
+			Well, then. I'd say it's time to 
+			call in a favor.
+
+	Garak considers this for a long beat.
+
+					GARAK 
+			It would mean calling in all my 
+			favors, captain. To do what 
+			you're asking would use up every 
+			resource I have left on Cardassia. 
+			And it may be a very messy, very 
+			bloody business. Are you prepared 
+			for that?
+
+					SISKO
+			I posted my fourteenth casualty 
+			list this morning. I'm already 
+			involved in a very messy, very 
+			bloody business. And the only way 
+			I can see to end it is to bring 
+			the Romulans into the war. I'm 
+			prepared to do whatever it takes 
+			to accomplish that goal, but I 
+			can't do it alone. I need help. 
+			Now, are you in or out?
+
+	Garak looks into his eyes for a long beat, takes the 
+	measure of Sisko and his commitment, then stands and 
+	puts out his hand.
+
+					GARAK 
+			I'm in.
+
+	They shake hands.
+
+					SISKO (V.O.) 
+			My father used to say that the 
+			road to hell is paved with good 
+			intentions.
+
+									CUT TO:
+
+  DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT ONE 12-13.    
+
+6    INT. SISKO'S QUARTERS
+
+	Sisko is pacing around the room.
+
+					SISKO
+				(continuing) 
+			I laid the first stone right 
+			there. I'd committed myself. I'd 
+			pay any price, go to any lengths, 
+			because my cause was righteous.
+				(beat) 
+			My... intentions were good. In 
+			the beginning, that seemed like 
+			enough.
+
+	On this disquieting note...
+
+									FADE OUT.
+
+7    OMITTED
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     14.
+                            ACT TWO                             
+
+	FADE IN:
+
+8    INT. SISKO'S QUARTERS - BEDROOM
+
+	Sisko is sleeping.
+
+					SISKO (V.O.) 
+			If there's one thing I've learned 
+			over the years, it's that bad news 
+			invariably comes in the middle of 
+			the night.
+
+					KIRA'S COM VOICE 
+			Kira to Captain Sisko.
+
+	Sisko hits a control near his bed.
+
+					SISKO
+				(to com) 
+			Go ahead, major.
+
+					KIRA'S COM VOICE 
+			We just received a priority-one 
+			communication from Starfleet 
+			Command.
+				(beat) 
+			The Dominion has invaded Betazed.
+
+	As he flings off the covers...
+
+									CUT TO:
+
+9    INT. OPS
+
+	Sisko, Kira, Worf and Dax are gathered around the Ops 
+	table, which has a MAP of the Federation and the 
+	Dominion. A large ARROW is thrusting into the heart 
+	of the Federation.
+
+					SISKO 
+			From the initial reports, it seems 
+			that the invasion force must have 
+			come from somewhere in the 
+			Calandra Sector.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     15.
+
+9    CONTINUED:
+
+					DAX 
+			Did Starfleet Intelligence know 
+			anything about a buildup in that 
+			Sector?
+
+					WORF 
+			No. They believed Calandra was 
+			too far from Dominion supply lines 
+			to be a threat.
+
+					SISKO
+			There's plenty of blame to go 
+			around. The Tenth Fleet was 
+			supposed to be protecting Betazed 
+			and its outlying colonies, but 
+			they were caught out of position 
+			on a training exercise. What's 
+			worse, Betazed's own defense 
+			systems are obsolete and 
+			undermanned.
+				(beat) 
+			The planet was theirs in less than 
+			ten hours.
+
+	A grim, quiet beat.
+
+					KIRA 
+			With Betazed in the hands of the 
+			Jem'Hadar, the Dominion's in a 
+			position to threaten Vulcan... 
+			Andor... Tellar... Alpha 
+			Centauri...
+
+					DAX
+				(pointed, to Sisko) 
+			If we ever needed a new ally... 
+			it's right now.
+
+	Off the look of frustration on Sisko's face..
+
+10   INT. GARAK'S SHOP
+
+	Sisko ENTERS to find Garak working on some clothes. 
+	Garak seems unusually subdued.
+
+					SISKO 
+			It's been three days, Garak. Have 
+			you made any progress?
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     16.
+
+10   CONTINUED:
+
+					GARAK 
+			Well... I suppose that depends on 
+			how you look at it.
+
+					SISKO
+				(pushing) 
+			How I look at it is that Betazed has 
+			just fallen to the Dominion and we 
+			need to get this operation underway.
+
+					GARAK
+			I share your desire for swift 
+			action, captain. In fact, after 
+			our last conversation, I made a 
+			few discreet inquiries among my 
+			former associates still living on 
+			Cardassia. As I anticipated, they 
+			shared my loathing for the current 
+			government and were more than 
+			willing to take on an assignment 
+			aimed at its destruction.
+
+					SISKO
+			That sounds like progress to me.
+
+					GARAK
+			Doesn't it? Unfortunately... 
+			they're all dead now.
+
+					SISKO
+			What?
+
+					GARAK 
+				(distant) 
+			Yes. All killed within one day 
+			of speaking with me. I suppose 
+			that's a testament to the 
+			effectiveness of Dominion 
+			security. One should admire 
+			such... efficiency.
+
+	He goes back to working on the clothes.
+
+					SISKO 
+			I'm sorry.
+
+	He turns to go, but Garak stops him.
+
+					GARAK 
+			I hope you're not giving up that 
+			easily.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     17.
+
+10   CONTINUED:	(2)
+
+					GARAK (Cont'd) 
+				(beat) 
+			After all, the stakes are much 
+			higher than a few dead operatives. 
+			The fate of the entire quadrant 
+			hangs in the balance -- or at 
+			least that's the case you made to 
+			me.
+
+					SISKO
+			Do you have another plan?
+
+					GARAK 
+			As a matter of fact, I do. But 
+			I suspect that you won't like it.
+
+					SISKO
+			Try me.
+
+					GARAK
+			If you want to guarantee that we 
+			obtain evidence of a Dominion plan 
+			to attack the Romulans... I 
+			suggest we manufacture that 
+			evidence ourselves.
+
+	Sisko looks at him in surprise.
+
+									CUT TO:
+
+11   INT. SISKO'S QUARTERS
+
+	Sisko is rubbing his temples.
+
+					SISKO 
+			Maybe I should have put a stop to 
+			it right there. Said, "Thank you, 
+			very much for your input, Mister 
+			Garak, I'll take your suggestion 
+			under advisement," and then gone 
+			back to my office and forgotten 
+			about the whole thing. 
+				(beat) 
+			But I didn't. Because in my 
+			heart, I knew what he was saying 
+			made sense.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     18.
+
+12   INT. GARAK'S SHOP
+
+	As before.
+
+					SISKO 
+			I'm listening.
+
+	Garak holds his eyes for a beat, then picks up a PADD 
+	and hands it to Sisko.
+
+13   ON PADD - INSERT
+
+	The PADD has a PHOTO of a Romulan Senator -- VREENAK.
+
+					GARAK'S VOICE 
+			His name is Vreenak. He's been 
+			a key member of the Romulan Senate 
+			for the past fourteen years.
+
+14   RESUME
+
+					GARAK
+				(continuing) 
+			He's Secretary of the War Plans 
+			Council, Vice-Chairman of the Tal 
+			Shiar, and one of the most trusted 
+			advisors to Proconsul Neral.
+
+					SISKO
+			He's also the man who negotiated 
+			the non-aggression pact with the 
+			Dominion.
+
+					GARAK
+			Since you're familiar with him, 
+			I'll skip the rest of his 
+			biography. What's important is 
+			that he continues to be one of the 
+			most ardently pro-Dominion voices 
+			in the Senate. If we can convince 
+			him that the Dominion is a threat, 
+			the rest of the Senate will follow.
+
+					SISKO
+			Okay. How?
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     19.
+
+14   CONTINUED:
+
+					GARAK 
+			Ten days from now, Senator Vreenak 
+			will be making a trip to Soukara 
+			for a diplomatic meeting with 
+			Weyoun. I'm certain he could be 
+			persuaded to make a secret detour 
+			to D.S. Nine if he were invited 
+			by one Captain Benjamin Sisko.
+
+					SISKO
+			How do you know Vreenak's visiting 
+			Soukara?
+
+					GARAK
+			There are some things I'd rather 
+			not discuss. May I continue? 
+				(off his nod) 
+			When the Senator arrives, you will 
+			show him a holographic recording 
+			of a secret meeting held at the 
+			highest levels of the Dominion in 
+			which the planned invasion of 
+			Romulus is being discussed. You 
+			will tell the Senator that this 
+			information was obtained through 
+			various covert means at great cost 
+			to the Federation -- "at least ten 
+			good men lost their lives bringing 
+			it across the lines" -- that sort 
+			of thing. He will immediately 
+			suspect that it's a forgery, but 
+			you will assure him that such a 
+			thing would be impossible. 
+				(beat) 
+			"You see Senator, this is an 
+			official Cardassian transcript. 
+			It was recorded on a one-time 
+			optolythic data-rod used for 
+			official record-keeping. These 
+			rods are manufactured only as 
+			needed on Cardassia Prime. 
+			Information can only be 
+			transcribed on them once, and then 
+			cannot be altered."
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     20.
+
+14   CONTINUED:	(2)
+
+					SISKO
+			He'll want to examine it.
+
+					GARAK 
+			Of course. And he'll discover to 
+			his amazement, that it's 
+			completely genuine. At least, so 
+			it will appear.
+
+					SISKO
+			And in reality... ?
+
+					GARAK 
+			You will have handed him a genuine 
+			optolythic data-rod, but it will 
+			contain one of the most perfect 
+			forgeries ever fashioned. I'm 
+			still working on obtaining the 
+			data-rod, but I have located the 
+			man who will create the holo-
+			recording.
+
+	Garak pauses and looks at Sisko expectantly. Sisko 
+	takes a few steps around the room. It's a huge leap 
+	he's about to take.
+
+					SISKO 
+			You realize, I can't authorize 
+			something like this on my own. 
+			I'll have to clear it with 
+			Starfleet Command.
+
+					GARAK
+			Of course. But I suspect that 
+			with the fall of Betazed they'll 
+			be ready to do whatever it takes 
+			to bring the Romulans into the war.
+
+					SISKO 
+			I'll let you know.
+
+	Sisko heads for the door, but Garak stops him.
+
+					GARAK 
+			One last thing, captain. The man 
+			we need to forge the holo-program 
+			is currently sitting in a Klingon 
+			prison awaiting execution. 
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO    20A.
+
+14   CONTINUED:	(3)
+
+					GARAK (Cont'd) 
+			To save time and incidentally his 
+			life, I thought that perhaps you 
+			could contact Chancellor Gowron 
+			today and arrange a pardon.
+
+					SISKO
+			What's his name?
+
+					GARAK
+			Grathon Tolar.
+
+									CUT TO:
+
+15   INT. WARDROOM
+
+	GRATHON TOLAR is sitting across from Sisko with a 
+	relieved expression on his face. Tolar is a small, 
+	weasel-faced ALIEN and does not look like someone who'd 
+	last very long in a Klingon prison. His clothes are 
+	clean and neatly worn, but there's a palpable oiliness 
+	to him that makes you want to bath immediately after 
+	any visit. He has a low, nervous laugh that only 
+	serves to get under Sisko's skin.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     21.
+
+15   CONTINUED:
+
+					TOLAR 
+			I can't tell you how grateful I 
+			am, captain. The Klingons were 
+			going to execute me tomorrow. Of 
+			course, they say that every 
+			day -- one of the little games 
+			they like to play.
+
+	There's that laugh.
+
+					SISKO
+			You do understand the terms of 
+			your parole?
+
+					TOLAR 
+			Oh, yes. I have to promise to 
+			stay away from the Klingon Empire.
+				(laugh)
+			That'll be tough.
+				(laugh) 
+			And I have to create some kind of 
+			"special" holo-program for you.
+				(laugh)
+			I can't wait. I've never worked 
+			for Starfleet before.
+
+					SISKO
+			Let's be very clear about this -- 
+			you're not working for Starfleet. 
+			This entire matter is strictly off 
+			the record. As far as you're 
+			concerned, you're working for me.
+
+					TOLAR 
+			Oh. Oh, I see. This is a 
+			personal matter.
+				(laugh, then leering) 
+			Something "special." For your 
+			eyes only. Something with... 
+			perhaps, five or six Orion slave 
+			girls and--
+
+					SISKO
+				(stands) 
+			I suggest you go wait in your 
+			quarters. Mister Garak will 
+			provide you with all the 
+			information you need.
+
+	The fun all disappears from Tolar's demeanor and he 
+	shrinks back in his chair.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     22.
+
+15   CONTINUED:	(2)
+
+					TOLAR 
+			Garak's here?
+
+					SISKO
+			That's right.
+
+					TOLAR
+			Oh.
+				(half-laugh) 
+			Well. That's different. I'll...
+			go wait in my quarters.
+
+	Tolar EXITS to the Corridor, with a somewhat subdued 
+	and nervous attitude.
+
+					SISKO (V.O.) 
+			Why I didn't listen to the voice 
+			in the back of my mind telling me 
+			not to believe a word he said, 
+			I'll never know.
+
+16   INT. CAPTAIN'S OFFICE
+
+	Sisko is working at his desk.
+
+					SISKO (V.O.) 
+				(continuing) 
+			But it didn't take long for me to 
+			come face to face with the fact 
+			that I'd made a mistake.
+
+					ODO'S COM VOICE 
+			Odo to Captain Sisko.
+
+					SISKO 
+				(to com) 
+			Go ahead, Constable.
+
+					ODO'S COM VOICE 
+				(awkward) 
+			I'm sorry to disturb you, but do 
+			you know a man named Grathon Tolar?
+
+	Sisko is immediately concerned.
+
+					SISKO 
+			Why do you ask?
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT TWO     23.
+
+16   CONTINUED:
+
+					ODO'S COM VOICE
+			Because he just tried to kill Quark.
+
+	Sisko reacts with disbelief -- this is the last thing 
+	he needs.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    24.
+                           ACT THREE                            
+
+	FADE IN:
+
+17   INT. QUARK'S
+
+	Sisko ENTERS to find Odo waiting for him by the door. 
+	Tolar is sitting at a table, his hands in restraints 
+	and a pair of Bajoran Deputies standing guard over him. 
+	QUARK, whose chest is covered with BLOOD, is being 
+	attended to by Bashir on the other side of the room. 
+	A dabo girl with a torn dress sits near Quark, shooting 
+	Tolar daggers with her eyes. The bar has been emptied 
+	of all customers.
+
+					SISKO 
+			What happened?
+
+					ODO
+			As I understand it, Mister Tolar 
+			over there came in about two hours 
+			ago and ordered a bottle of Whelan 
+			Bitters. Fifteen minutes later, 
+			he ordered a second bottle. Then 
+			a third. He was halfway through 
+			his fourth when he decided to 
+			dance with...
+				(re: dabo girl)
+			...M'Pella. She was otherwise 
+			engaged running the Dabo wheel at 
+			the time and declined his 
+			invitation. He decided to force 
+			the issue and there was a brief 
+			struggle before Quark, in an 
+			uncharacteristic display of 
+			chivalry, attempted to intervene. 
+			So Tolar stabbed him.
+
+	Sisko glares at Tolar, who gives him a half-smile and 
+	a shrug.
+
+					ODO 
+			Normally, he'd be sitting in a 
+			holding cell, but he claimed that 
+			he was a friend of yours.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    25.
+
+17   CONTINUED:
+
+					SISKO
+			He's no friend of mine.
+				(beat, then sotto) 
+			But... he is working for me. It's 
+			an extremely sensitive matter 
+			involving Federation security. 
+			I can't afford to have any record 
+			of him being on the station.
+
+					ODO
+			I see.
+				(beat) 
+			I'm certainly aware of the need 
+			for special security measures 
+			during wartime... but as a matter 
+			of law, if Quark chooses to press 
+			charges against Tolar, I have no 
+			choice but to make an arrest.
+
+					SISKO
+			Let me speak to Quark.
+
+	Sisko moves over to where Bashir is scanning Quark with 
+	a tricorder. A medkit is sitting on a nearby table.
+
+					SISKO
+				(to Bashir) 
+			How is he?
+
+					QUARK
+				(re: blood) 
+			How do I look? I'm a man who just 
+			had a brush with death
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    26.
+
+17   CONTINUED:	(2)
+
+					BASHIR 
+			He'll be fine. His ribs deflected 
+			the knife from his vital organs. 
+			The bleeding was superficial.
+
+					QUARK
+			Superficial? Do you know how much 
+			this shirt cost?
+
+					SISKO
+			Doctor, will you excuse us for a 
+			moment?
+
+					BASHIR 
+				(to Quark) 
+			I'll check on you again tomorrow.
+
+	Bashir EXITS and Sisko sits down next to Quark.
+
+					SISKO 
+			Do you intend to press charges?
+
+					QUARK
+			You bet I do.
+
+					SISKO
+				(awkward) 
+			What would it take... to... 
+			convince you... otherwise?
+
+	Quark stares at him in disbelief for a moment, then 
+	leans across the table.
+
+					QUARK 
+			Are you offering me... a bribe?
+
+	Sisko looks away, extremely uncomfortable with the 
+	position he's being forced into. Quark is positively 
+	gleeful.
+
+					QUARK 
+				(smiles) 
+			I knew it. I've always liked you, 
+			captain. I suspected that 
+			somewhere deep down in your heart 
+			of hearts there was a tiny bit of 
+			Ferengi just waiting to get out.
+
+					SISKO
+			What's your price?
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    27.
+
+17   CONTINUED:	(3)
+
+					QUARK 
+			Well... let's start with replacing 
+			my clothes... and M'Pella's 
+			clothes.
+
+					SISKO
+			All right.
+
+					QUARK 
+			I'm not finished. I think I 
+			should also be compensated for the 
+			loss of business I've suffered 
+			today, which I would calculate as 
+			no less than five bars of gold-
+			pressed latinum.
+
+					SISKO
+				(grudging)
+			Done.
+
+					QUARK
+			I'm also having a problem with 
+			station security -- they're 
+			holding some cargo containers I've 
+			been waiting for because of some 
+			kind of... missing import license 
+			or something.
+
+					SISKO
+			I'll handle it. Anything else?
+
+	Quark looks at him with a satisfied grin.
+
+					QUARK 
+			No. I think we can call it a 
+			bribe. And thank you, captain. 
+			Thank you for restoring my faith 
+			in the ninety-eighth Rule of 
+			Acquisition: "Every man has his 
+			price."
+
+	Sisko gets up and heads for Odo just as Garak ENTERS 
+	the bar from the Promenade.
+
+					SISKO
+				(to Odo)
+			He's dropped the charges.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE   27A.
+
+17   CONTINUED:	(4)
+
+					ODO 
+			Hmm.
+				(to Deputies) 
+			Let him go.
+				(to Sisko)
+			If you'll excuse me...
+
+	Odo EXITS. The Deputies release Tolar from his 
+	restraints and then EXIT also. While this is going on, 
+	Sisko has a moment with Garak. Sisko keeps his voice 
+	low, but there's barely restrained fury behind his eyes.
+
+					SISKO
+				(quietly boiling) 
+			Tolar is your responsibility. 
+			Keep him out of sight and under 
+			control or the next man needing 
+			medical attention will be you. 
+			Do you understand?
+
+					GARAK
+			Completely.
+
+	Garak approaches Tolar, who visibly shrinks back from 
+	Garak as the Cardassian leans over him at the table.
+
+					GARAK 
+			Hello, Grathon.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    28.
+
+17   CONTINUED:	(5)
+
+	Sisko turns and EXITS.
+
+18   INT. SISKO'S QUARTERS
+
+									CUT TO:
+
+	Sisko has discarded his jacket and has opened his vest 
+	by now.
+
+					SISKO 
+			Bribery and cover up -- those were 
+			new for me. That was my first 
+			moment of real doubt. I started 
+			to wonder if the whole thing was 
+			a mistake.
+				(beat) 
+			Then I got back to my office and 
+			there was a new casualty list 
+			waiting for me.
+				(angry) 
+			People are dying out there. Every 
+			day. Entire worlds are struggling 
+			for their freedom and here I am 
+			still worrying about the finer 
+			points of morality. I had to keep 
+			my eye on the ball. Winning the 
+			war, stopping the bloodshed -- 
+			those were the priorities.
+
+									CUT TO:
+
+18A  INT. PROMENADE
+
+	Sisko is walking toward a turbolift.
+
+					SISKO (V.O.) 
+			So I pushed on. And every time 
+			another doubt appeared before me, 
+			I just found another way to shove 
+			it aside.
+
+	Sisko presses the control outside the lift and waits. 
+	Garak steps up next to him.
+
+					GARAK
+			Mind if I join you?
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE   28A.
+
+18A  CONTINUED:
+
+						SISKO 
+			Be my guest.
+
+	The doors OPEN and they both EXIT to...
+
+18B  INT. TURBOLIFT - CONTINUOUS
+
+	As they ENTER.
+
+					SISKO 
+			Ops.
+
+
+	The lift starts MOVING.
+
+					GARAK 
+			Hold.
+
+	The lift STOPS.
+
+					GARAK 
+			The less I'm seen parading through 
+			Ops the better.
+
+					SISKO
+			I couldn't agree more.
+
+					GARAK 
+			You seem angry.
+
+					SISKO
+			Who's watching Tolar?
+
+					GARAK 
+			I've locked him in his quarters. 
+			I've also left him with the 
+			distinct impression that if he 
+			attempts to force open the door, 
+			it may... explode.
+
+					SISKO
+			I hope that's just an impression.
+
+					GARAK 
+			It's best not to dwell on such 
+			minutiae. In any case, we have 
+			far more important matters to 
+			discuss. I've located a gentleman 
+			willing to sell us a genuine 
+			optolythic data-rod.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE   28B.
+
+18B  CONTINUED:
+
+					SISKO 
+			How do you know it's genuine?
+
+					GARAK
+			I trust the source, but rest 
+			assured I will confirm the rod's 
+			authenticity before I make 
+			payment -- which brings me to you.
+
+					SISKO
+			How much does he want?
+
+					GARAK
+			I'm afraid he's not interested in 
+			latinum. The gentleman in 
+			question has requested to be 
+			compensated with two hundred 
+			liters of bio-memetic gel.
+
+					SISKO
+				(surprised)
+			What?
+
+					GARAK 
+			I don't know why, exactly. One 
+			would assume that it has something 
+			to do with genetic experimentation.
+
+					SISKO
+			Offer him something else.
+
+					GARAK 
+			Believe me, I wouldn't be relaying 
+			this request if I thought he'd 
+			accept anything else.
+
+					SISKO
+			Bio-memetic gel is strictly 
+			controlled by the Federation and 
+			not for sale at any price. Find 
+			someone else willing to sell us 
+			a rod.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE   28C.
+
+18B  CONTINUED:	(2)
+
+					GARAK 
+			I was not exaggerating when I told 
+			you about the near-impossibility 
+			of obtaining a genuine Cardassian 
+			data-rod. It's something of a 
+			minor miracle that I've found one 
+			source, I'm virtually certain that 
+			I'll never find another. I'm 
+			afraid we either have to give him 
+			what he wants or forget the whole 
+			enterprise.
+
+					SISKO
+			Then let's forget it. 
+				(to com) 
+			Ops.
+
+	The Turbolift starts MOVING again. There's a quiet 
+	beat as Garak decides not to push the matter. But 
+	Sisko hasn't really let it go. He struggles for a 
+	moment...
+
+					SISKO 
+				(to com) 
+			Hold.
+
+	The lift STOPS.
+
+					SISKO 
+			Two hundred liters is out of the 
+			question. There isn't that much 
+			gel in this entire sector.
+
+					GARAK 
+			I believe... the quantity is open 
+			to negotiation.
+
+	Sisko thinks about that for another beat.
+
+					SISKO 
+				(to com) 
+			Ops.
+
+	The lift starts MOVING once more.
+
+19   INT. CAPTAIN'S OFFICE
+
+	Bashir is looking at Sisko with an incredulous 
+	expression.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    29.
+
+19   CONTINUED:
+
+					BASHIR 
+			Captain... bio-memetic gel is an 
+			extremely dangerous compound. I 
+			can't release it without some idea 
+			of where it's going. In the wrong 
+			hands, it could be used to develop 
+			biogenic weapons, or for illegal 
+			replication experiments or organo-
+			explosives or--
+
+					SISKO
+			Perhaps I didn't make myself 
+			clear, Doctor. This isn't a 
+			request, it's an order. You will 
+			package eighty-five liters of bio-
+			memetic gel for interstellar 
+			transport and then deliver it to 
+			Cargo Bay Three, is that 
+			understood?
+
+					BASHIR
+				(stiffly) 
+			Yes, sir. But I'd like that order 
+			in writing. Sir.
+
+					SISKO
+				(hands him a PADD) 
+			I thought you might.
+
+	Bashir glances at the PADD.
+
+					BASHIR 
+			You should know that I'll note 
+			this in my log and file a protest 
+			with Starfleet Medical.
+
+					SISKO
+			That's your right. But I want the 
+			gel by the end of the day. Dismissed.
+
+	Bashir is furious, but there's little he can do about 
+	it. He EXITS.
+
+									CUT TO:
+
+20   INT. HOLOSUITE/DOMINION MEETING ROOM
+
+	WEYOUN, DAMAR, and two N.D. Cardassian Legates are 
+	sitting around a table in a conference room somewhere 
+	on Cardassia Prime.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    30.
+
+20   CONTINUED:
+
+	The room should have Dominion and Cardassian symbols 
+	prominently displayed.
+
+					WEYOUN 
+			The Founders have decided to 
+			implement Stage Two ahead of 
+			schedule.
+
+					DAMAR 
+			The invasion of Romulus? It's too 
+			soon. We're engaged in heavy 
+			fighting all along the border with 
+			the Federation. The Klingons are 
+			preparing to go on the offensive 
+			and --
+
+					WEYOUN
+			Fortunately, the Founders have 
+			better vision than you do. They 
+			can see the opportunities in front 
+			of us even when you cannot.
+				(beat) 
+			Consider: the Romulans do not 
+			expect an attack from Cardassia. 
+			The bulk of the Romulan fleet is 
+			still deployed along the Neutral 
+			Zone with the Federation. The 
+			Founders estimate that we could 
+			be on Romulus itself in less than 
+			three weeks.
+
+					DAMAR
+				(skeptical) 
+			Three weeks? I heard the same 
+			kind of estimates before we 
+			attacked the Federation.
+
+					WEYOUN
+			Those plans were ruined by the 
+			incompetency of your predecessor.
+
+21   NEW ANGLE (OPTICAL)
+
+	Revealing Sisko, Garak and Tolar watching the 
+	simulation from a far corner of the room. Tolar is 
+	standing at a holosuite console and he taps a control 
+	or two as he watches the simulation play out with a 
+	practiced eye.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    31.
+
+21   CONTINUED:
+
+					DAMAR
+				(fierce) 
+			Gul Dukat is a great man.
+
+					WEYOUN
+				(getting hot) 
+			Gul Dukat is a preening egotist 
+			and a fool. We offered him 
+			unchallenged control of the Alpha 
+			Quadrant and all he could think 
+			about was his daughter.
+				(pleasant) 
+			Now... shall we get back to the 
+			business at hand?
+
+					GARAK
+			That's it. Freeze program.
+
+	The Holograms FREEZE.
+
+					GARAK
+				(to Sisko) 
+			That's all the new material. The 
+			rest of the program plays out just 
+			as you saw before. What do you 
+			think?
+
+					SISKO
+			It's better. They seem more real.
+
+					GARAK
+			All I had to do was add a little 
+			petty bickering and mutual 
+			loathing.
+
+					TOLAR 
+			So you're happy?
+
+					SISKO
+			It's satisfactory.
+
+					GARAK
+			You may record the program onto 
+			the data-rod now.
+
+	Tolar works a control and the entire Dominion room 
+	VANISHES, leaving them in the empty Holosuite. Tolar 
+	then opens a small case on the floor and carefully 
+	removes a unique-looking DATA-ROD. He places it into 
+	a slot on the console and begins to work.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    32.
+
+21   CONTINUED:	(2)
+
+					SISKO
+				(quiet) 
+			I've received a message from 
+			Senator Vreenak -- he's on his way.
+
+					GARAK
+			Excellent.
+
+	Tolar finishes his work and removes the rod from the 
+	console. He holds it up as if to toss it to one of 
+	them.
+
+					TOLAR 
+			Done. Who gets it?
+
+
+					GARAK
+				(no humor) 
+			Just put it in the case.
+
+	Tolar carefully replaces the rod.
+
+					TOLAR 
+			Well. It's been a... a pleasure 
+			doing business with you, 
+			gentlemen. Call me again if you 
+			ever need --
+
+					SISKO
+			You're not going anywhere.
+
+					TOLAR
+				(flustered, angry) 
+			What do you mean?
+
+					SISKO
+			You're not leaving until your work 
+			has been accepted by our... 
+			"client."
+
+ DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE     33   
+
+21   CONTINUED:	(3)
+
+					TOLAR
+				(yelling) 
+			That isn't fair! You can't keep 
+			me here against my will! I 
+			haven't done anything wrong! We 
+			had an agreement!
+
+	Sisko grabs him and slams him against the wall.
+
+					SISKO
+			I'm making a new agreement. If 
+			that program passes inspection, 
+			you walk free -- but if there's 
+			even the slightest flaw, I'll send 
+			you back to that Klingon prison 
+			and tell Gowron to take his time 
+			when he executes you.
+
+	The ferocity of Sisko's anger takes all remaining 
+	bravado out of Tolar. There's fear in those eyes. 
+	Sisko lets him go and Tolar takes a few steps away 
+	before regaining his composure.
+
+					TOLAR
+				(nervous) 
+			Okay. It'll pass. You'll see. 
+			It'll pass.
+
+					GARAK
+			I sincerely hope so. Why don't 
+			you wait in your quarters. I'll 
+			be along shortly to... say hello.
+
+	Tolar looks at the two of them with fear for a moment, 
+	then EXITS.
+
+					GARAK 
+			Felt good, didn't it?
+
+	Sisko looks at him, taken a little off-guard by the 
+	question.
+
+					GARAK
+				(continuing)
+			To put your hands on a man and
+			say, "You will do this or else."
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    34.
+
+21   CONTINUED:	(4)
+
+					GARAK (Cont'd) 
+				(beat) 
+			After all the intrigue and 
+			deception you've had to engage in 
+			over the past week, you must've 
+			found that moment of pure brute 
+			force to be a... refreshing change 
+			of pace.
+
+	Garak smiles at him pleasantly. There may be an 
+	element of truth in what he's saying, but what Sisko 
+	can't believe is the way Garak keeps poking and 
+	prodding at his psyche. Sisko begins to smile at the 
+	absurdity of it all.
+
+					SISKO 
+			Mister Garak... why is it that no 
+			one has killed you yet?
+
+					GARAK
+			My innate charm?
+
+	Sisko laughs and Garak smiles wider. Sisko laughs 
+	louder -- it's a release of tension and anxiety that's 
+	been building in him for over a week. As he laughs...
+
+									CUT TO:
+
+22   INT. SISKO'S QUARTERS
+
+	Sisko is standing behind the couch, and while there's 
+	a smile on his face at the memory, there's a bitter, 
+	rueful quality to his expression.
+
+					SISKO 
+			It wasn't that funny. But I 
+			couldn't stop laughing. 
+				(beat) 
+			Maybe... I was under more pressure 
+			than I realized. Maybe it really 
+			was starting to get to me. 
+				(beat) 
+			At the time, I thought I was off 
+			the hook. Starfleet Command had 
+			given the plan their blessing and 
+			I thought that would make things 
+			easier.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    35.
+
+22   CONTINUED:
+
+					SISKO (Cont'd) 
+				(beat) 
+			But I was the one who had to make
+			it happen. I was the one who had 
+			to look Senator Vreenak in the eye 
+			and convince him that a lie... was 
+			the truth.
+
+23   OMITTED
+
+24   OMITTED
+
+24A  INT. CORRIDOR
+
+	Sisko and Garak are walking down the Corridor.
+
+					GARAK 
+			While you're entertaining the 
+			Senator in the wardroom, I'll take 
+			the opportunity to make a quick 
+			search of his ship's database.
+
+					SISKO
+			For what?
+
+					GARAK 
+			For any intelligence information 
+			on the Dominion he may have picked 
+			up on Soukara.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE   35A.
+
+24A  CONTINUED:
+
+					SISKO
+			What if you get caught?
+
+					GARAK 
+			I think that's highly unlikely. 
+			I doubt the senator will be 
+			traveling with more than four 
+			bodyguards at the most -- two will 
+			stand watch outside the wardroom 
+			and two will stay in the Landing 
+			Bay. I assure you, they'll never 
+			know I was anywhere near their 
+			ship.
+
+					SISKO
+			Just make sure you don't get 
+			caught.
+
+24B  INT. ANOTHER CORRIDOR
+
+	Sisko and Garak round a corner and are met by Worf and 
+	a team of three armed N.D. Starfleet Security Guards.
+
+					SISKO
+			Report.
+
+					WORF 
+			Sections Fifty-two Baker through 
+			Sixty-two Baker have been secured. 
+			I've posted armed guards at all 
+			entry points and I have personally 
+			scanned all compartments for signs 
+			of surveillance equipment.
+
+					SISKO
+			Very good, commander. Maintain 
+			your security measures until 
+			further notice. No one is to 
+			enter this area except for Mister 
+			Garak and myself.    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE   35B.
+
+24B  CONTINUED:
+
+					WORF 
+			Aye, sir.
+
+	Sisko passes by Worf and heads down the Corridor. 
+	Garak pauses for just a moment.
+
+					GARAK 
+			It's always a pleasure to see you, 
+			Mister Worf.
+
+	He gives Worf that infuriating smile and then follows
+	Sisko down the hallway.
+
+25   OMITTED
+
+26   INT. AIRLOCK CORRIDOR (OPTICAL)
+
+	As Sisko and Garak round the corner.
+
+					KIRA'S COM VOICE 
+			Ops to Captain Sisko.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    36.
+
+26   CONTINUED:
+
+					SISKO
+				(to com)
+			Go ahead Major.
+
+					KIRA'S COM VOICE
+			We've just received the coded
+			subspace signal you were waiting
+			for. Should I reply?
+
+					SISKO
+			No reply, major. Sisko out.
+
+	Sisko and Garak stop outside a doorway that has a 
+	MONITOR on the wall next to it. Sisko activates the 
+	monitor and it shows a high-angle view of the interior 
+	of a LANDING BAY. The space doors are closed and no 
+	one is inside. He works the controls for a moment and 
+	then FLASHING LIGHTS come on inside the bay.
+
+27   INT. LANDING BAY (OPTICAL)
+
+	The lights continue to FLASH and then the giant space 
+	door begins to OPEN.
+
+28   INT. CORRIDOR (OPTICAL)
+
+	As before. Sisko and Garak watching the doors on the 
+	monitor.
+
+29   INT. LANDING BAY (OPTICAL)
+
+	The doors STOP. Nothing stirs in the huge, silent bay.
+
+30   INT. CORRIDOR (OPTICAL)
+
+	As before. Sisko watches the image of the empty bay 
+	for a moment... then something BEEPS and Sisko works 
+	the controls again.
+
+31   INT. LANDING BAY (OPTICAL)
+
+	The space doors begin to CLOSE.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    37.
+
+32   INT. CORRIDOR (OPTICAL)
+
+	The doors just finish closing on the monitor. The 
+	flashing lights go OFF inside the bay, and Sisko and 
+	Garak wait again.
+
+33   INT. LANDING BAY (OPTICAL)
+
+	Suddenly a ROMULAN SHUTTLE DECLOAKS in the middle of 
+	the landing bay. Almost immediately, a GANTRY begins 
+	EXTENDING from the Landing Bay Airlock toward the hatch 
+	on the shuttle.
+
+34   INT. AIRLOCK CORRIDOR (OPTICAL)
+
+	The gantry can be seen moving toward the shuttle on the 
+	monitor.
+
+					GARAK 
+			I'll take my leave of you now, 
+			captain.
+				(hesitates) 
+			And one last thing -- Vreenak 
+			thinks he's on the winning side. 
+			Until you can prove otherwise, you 
+			may have to put up with a 
+			certain... acerbic attitude.
+
+					SISKO
+			After working with you for a week, 
+			Mister Garak, I've developed a 
+			very, very thick skin.
+
+					GARAK
+				(smiles) 
+			Good luck.
+
+	Garak EXITS down the Corridor just before the Airlock 
+	hatch ROLLS OPEN and two armed N.D. Romulans ENTER. 
+	They look around for a moment, and then SENATOR VREENAK 
+	ENTERS.
+
+					SISKO 
+			Welcome aboard, senator. I'm 
+			Captain Benjamin Sisko.
+
+	Vreenak is a little bemused by this whole adventure and 
+	we get the feeling it may be hard for him to take Sisko 
+	seriously.
+
+    DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT THREE    38.
+
+34   CONTINUED:
+
+					VREENAK 
+			So you're the commander of Deep 
+			Space Nine. And the Emissary of 
+			the Prophets. Decorated combat 
+			officer, widower, father, mentor...
+				(as if he just 
+				remembered) 
+			Oh and yes, the man who started 
+			the war with the Dominion.
+				(beat) 
+			Somehow I thought you'd be taller.
+
+					SISKO
+			Sorry to disappoint you.
+
+					VREENAK 
+			To be honest, my opinion of 
+			Starfleet Officers is so low that 
+			you'd have to work very hard 
+			indeed to disappoint me.
+
+					SISKO
+				(unfazed) 
+			If you'll come with me, I'll show 
+			you to your quarters.
+
+	Vreenak doesn't move for a beat, enjoying making Sisko
+	wait for him.
+
+					VREENAK 
+			I'm looking foward to seeing your 
+			station -- while it's still here, 
+			that is. With the way the war's 
+			going for the Federation, it may 
+			not be around much longer.
+
+	Vreenak smiles broadly, driving the point home. Sisko 
+	politely smiles back and then leads the Senator toward 
+	the EXIT.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+35   INT. WARDROOM (OPTICAL)
+
+	Sisko is sitting with Vreenak over in the "lounge" area 
+	of the Wardroom. They each have something to drink, 
+	but only Vreenak seems interested in his beverage.
+
+					VREENAK
+				(re: glass) 
+			A fair approximation. But 
+			somewhat lacking in aroma. Real 
+			kali-fal should forcibly open 
+			one's sinuses well before the 
+			first sip.
+
+					SISKO
+			We don't have much experience in 
+			replicating Romulan beverages. Of 
+			course, all that would change if we 
+			were allies instead of cold warriors.
+
+					VREENAK 
+			You are persistent, I'll grant you 
+			that, captain. But I'm afraid 
+			dogged determination isn't enough 
+			to change the reality of your 
+			situation. Time is definitely not 
+			on your side.
+				(beat) 
+			The Dominion shipyards are working 
+			at one hundred percent capacity -- 
+			your facilities are still being 
+			rebuilt. The Dominion is breeding 
+			legions of Jem'Hadar soldiers every 
+			day -- you're experiencing a 
+			manpower shortage. But more 
+			important, the Dominion is resolved 
+			to win the war, no matter what the 
+			cost -- and we both know the 
+			Federation has already put out peace 
+			feelers.
+				(beat) 
+			Now I ask you, captain -- in all 
+			candor -- if you were in my 
+			position, which side would you 
+			choose?
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    40.
+
+35   CONTINUED:
+
+					SISKO 
+			I'd pick the side most likely to 
+			leave me in peace when the dust 
+			settles. Maybe you're right, maybe 
+			the Dominion will win in the end. 
+			Then the Founders will control what 
+			is now called Cardassia, the Klingon 
+			Empire and the Federation. So 
+			instead of facing three separate 
+			opponents with three separate 
+			agendas, you'll find yourselves 
+			facing the same opponent on every 
+			side. There's a word for that -- 
+			surrounded.
+
+	Vreenak takes another sip of his drink.
+
+					VREENAK 
+			It really is a good replica. Even 
+			the aroma is starting to grow on 
+			me. For a moment there, I almost 
+			forgot that it wasn't the real 
+			thing. But only for a moment. 
+				(beat) 
+			You make some very good points, 
+			captain, but it's still all 
+			speculation and theory. Nothing that 
+			would warrant abrogating our treaty 
+			and plunging the Empire into war.
+
+					SISKO
+			What if I told you that the 
+			Dominion is planning a sneak 
+			attack on the Romulan Empire at 
+			this very moment?
+
+	Vreenak stops his glass halfway to his mouth. His eyes 
+	narrow.
+
+					VREENAK 
+			I'd want proof.
+
+					SISKO 
+			And what if I showed it to you? 
+			What then? Would you join us in 
+			the war? Or would you wait until 
+			there were Jem'Hadar soldiers 
+			standing in your Senate Chamber 
+			before you decided that the 
+			Founders weren't your friends 
+			after all?
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    41.
+
+35   CONTINUED:	(2)
+
+	Vreenak sets down the glass and takes a moment.
+
+					VREENAK 
+				(quiet) 
+			If what you say is true... that 
+			would be... a different matter 
+			entirely.
+
+	Sisko hits his combadge.
+
+					SISKO 
+			Sisko to Worf.
+
+					WORF
+			Worf here.
+
+					SISKO
+			Have you secured the holosuite?
+
+					WORF'S COM VOICE
+			Yes, sir.
+
+					SISKO 
+			Very good, commander. Sisko out. 
+			Computer: stand-by to initiate 
+			site to site transport, 
+			authorization Sisko Two Five Alpha.
+
+					COMPUTER VOICE
+			Standing by.
+
+	Sisko stands.
+
+					SISKO
+			Senator... ?
+
+	Vreenak hesitates for a beat, then stands up.
+
+					SISKO
+			Computer -- energize.
+
+	They DEMATERIALIZE.
+
+									CUT TO:
+
+36   INT. HOLOSUITE/DOMINION MEETING ROOM (OPTICAL)
+
+	Sisko and Vreenak are watching the end of the same 
+	Dominion planning session we saw earlier between 
+	Weyoun, Damar and the N.D. Legates.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    42.
+
+36   CONTINUED:
+
+	(The free-standing console with the data-rod is in 
+	front of Sisko.) Weyoun is now at the large monitor, 
+	which has a schematic display of the Cardassian/Romulan 
+	border. Several clearly marked ARROWS are thrusting 
+	from Cardassia to points deep inside Romulan territory.
+
+					WEYOUN
+			... and with the Cardassian Fourth 
+			Order protecting their flank, the 
+			Twenty-third Jem'Hadar division can 
+			begin its thrust across the Glintara 
+			Sector. They should begin the 
+			invasion of Romulus itself on the 
+			following day. Once we've taken the 
+			homeworld, organized resistance will 
+			crumble when the outlying systems 
+			and colonies begin looking out for 
+			themselves. Consolidation of the 
+			entire Empire will take three months 
+			at most.
+
+					DAMAR 
+			What if the Romulan fleet reacts 
+			faster than you're anticipating? 
+			What if they pull all their forces 
+			away from the Federation border 
+			at the first sign of our attack?
+
+					WEYOUN
+				(growing tired of this) 
+			They've been staring across the 
+			Neutral Zone at the Federation for 
+			the better part of two centuries. 
+			It's become an obsession with 
+			their military leaders. There's 
+			not the slightest chance of them 
+			leaving the Neutral Zone 
+			undefended until they're sure the 
+			Federation isn't going to take 
+			advantage of the situation. And 
+			by then, it'll be too late.
+
+					DAMAR 
+			You're placing a lot of faith in 
+			your ability to predict what the 
+			Romulans will or will not do. They 
+			could surprise us all -- they could 
+			even be anticipating this attack 
+			already. If that's the case, we 
+			could find ourselves fighting a war 
+			on two fronts without any --
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    43.
+
+36   CONTINUED:	(2)
+
+					WEYOUN 
+			I place my faith in the Founders. 
+			And they say that the Romulans are 
+			not ready for war and that they 
+			will not react fast enough once 
+			it begins. Now, do you wish to 
+			dispute their judgment?
+
+	Damar doesn't like it, but he knows where his bread is 
+	buttered.
+
+					DAMAR 
+			No. Of course not. I serve the 
+			Founders.
+
+					WEYOUN
+			As do we all. Meeting adjourned.
+
+	The simulation VANISHES and is momentarily replaced 
+	with the FLOATING 3-D image of the CARDASSIAN LOGO, 
+	then that too VANISHES. Sisko turns to look at 
+	Vreenak, whose face carefully betrays no feelings. 
+	Vreenak takes a few steps around the room as he mulls 
+	over what he's just seen.
+
+					VREENAK 
+				(quiet) 
+			I'd like to examine that data-rod.
+
+	Sisko removes it from the console, and holds it out to 
+	Vreenak. The Senator moves to him, but before he takes 
+	it, he stares into Sisko's eyes, and seems to search 
+	them for a long beat, as if looking for the truth 
+	somewhere inside. Finally, Vreenak takes the data-rod 
+	and looks at it.
+
+					CUT TO:
+
+37   INT. CAPTAIN'S OFFICE
+
+	Sisko is pacing in his office, lost in thought when Dax 
+	ENTERS.
+
+					DAX 
+			Got a minute?
+
+					SISKO
+			Sure. What can I do for you?
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    44.
+
+37   CONTINUED:
+
+	Dax takes her time, this is a delicate subject and she
+	doesn't want to rush into anything.
+
+					DAX 
+			This may sound... crazy. But, 
+			think about it before you say no.
+
+					SISKO
+			Just say it.
+
+	Beat.
+
+					DAX 
+			What if we... tricked the Romulans 
+			into believing that the Dominion 
+			was about to attack them?
+
+	Sisko is thunderstruck for a moment and Dax takes it 
+	as a reaction to her crazy idea.
+
+					DAX 
+			Hear me out. 
+				(beat) 
+			We find a way to manufacture 
+			evidence of a planned Dominion 
+			attack. I'm not sure what it 
+			should be, uh... a series of coded 
+			messages from their central 
+			command, a Cardassian defector who 
+			smuggles out secret war plans -- 
+			I don't know. Something. Then 
+			we show it to the Romulans and try 
+			to convince them that they're one 
+			step away from disaster.
+
+	Sisko takes a moment, decides to become his own devil's 
+	advocate.
+
+					SISKO 
+			You want to start a war based on 
+			a lie?
+
+					DAX
+			I want to end a war, Benjamin. 
+			And I want the good guys to win. 
+			Besides, let's face it -- the 
+			Dominion will attack the Romulans 
+			eventually, it's just a matter of 
+			time. So, in a way we'd be doing 
+			them a favor by pulling them in 
+			now.
+
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    45.
+
+37   CONTINUED:	(2)
+
+					SISKO 
+				(hard) 
+			That's an easy way of 
+			rationalizing something you know 
+			is wrong.
+
+	Dax takes a beat, goes cold and hard.
+
+					DAX 
+			More wrong than war?
+
+	Beat.
+
+					SISKO
+			I'll... think about it.
+
+					DAX
+			That's all I ask.
+
+	She heads for the door, then stops, smiles to herself.
+
+					DAX 
+			I suppose it's one thing to come 
+			up with an idea like this... and 
+			another to put it into motion.
+
+					SISKO 
+				(re: pips) 
+			That's why they put these on my 
+			collar, old man.
+
+	She smiles at him and then EXITS.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR    46.
+
+38   INT. SISKO'S QUARTERS
+
+	Sisko on the couch. He's got a bottle of something 
+	dark and amber now and he pours himself a drink.
+
+					SISKO
+			It was good to know that the old 
+			man was on my side, even if she 
+			didn't know what was really going 
+			on.
+				(beat) 
+			In any case, I was way past the 
+			point of no return. There was 
+			nothing to do but wait and see how 
+			masterful Tolar's forgery really 
+			was.
+
+	He takes a drink.
+
+					SISKO
+			So I waited. Tried to catch up 
+			on my paperwork, but I couldn't 
+			really focus on criminal activity 
+			reports or cargo manifests... I 
+			went back to pacing and staring 
+			out the window.
+				(beat)
+			I don't think of myself as an
+			impatient man. I don't agonize
+			over decisions once they're made.
+			I got that from my father. He
+			always said that worry and doubt
+			were the greatest enemies of a
+			chef. "The souffle will rise or
+			it won't," he used to say.
+			"There's not a damn thing you can
+			do about it, so just sit back and
+			see what happens."
+
+  DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FOUR     47   
+
+38   CONTINUED:
+
+					SISKO (Cont'd) 
+				(beat) 
+			But this time, the cost of failure 
+			was so high, that I found it hard 
+			to follow his advice.
+
+39   INT. CORRIDOR
+
+	Sisko is walking through the empty Corridor.
+
+					SISKO (V.O.) 
+			If Vreenak discovered the data-rod 
+			was a forgery, if he realized that 
+			we were trying to trick them into 
+			war, it could push the Romulans 
+			even farther into the enemy camp. 
+			They could start to openly help 
+			the Dominion. If worse came to 
+			worst, they could actually join 
+			the war against us. I had the 
+			distinct feeling that victory or 
+			defeat would be decided in the 
+			next few minutes.
+
+	Sisko pauses outside the door for a moment, takes a 
+	deep breath, and then EXITS to...
+
+40   INT. WARDROOM - CONTINUOUS
+
+	As Sisko ENTERS. Vreenak is already here, his face 
+	carefully neutral, giving no hint as to what he's 
+	found. He stares at Sisko for a long moment... then 
+	finally he lets his true feelings show.
+
+					VREENAK 
+				(furious) 
+			It's a fake.
+
+	Off the stricken look on Sisko's face...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+41   INT. SISKO'S QUARTERS
+
+	Sisko is rubbing his temples. The bottle has been set 
+	aside.
+
+					SISKO 
+			So it blew up in my face. The 
+			lies and the compromises, the 
+			inner doubts and the 
+			rationalizations -- all for 
+			nothing. Vreenak was furious. 
+			I can't say I blamed him. I'd 
+			have reacted the same way. After 
+			telling me in no uncertain terms 
+			that he intended to expose this 
+			"vile deception" to the entire 
+			Alpha Quadrant, he got back in his 
+			shuttle and headed home.
+				(beat) 
+			There didn't seem to be anything 
+			more to do... so I went back to 
+			work.
+				(beat) 
+			Two days later we got the news.
+
+									CUT TO:
+
+42   INT. WARDROOM
+
+	Sisko posts another casualty list on the monitor and 
+	turns to face another room full of N.D. officers, along 
+	with Dax and Bashir. Sisko's mind is far away and he 
+	moves through the crowd of people without seeing most 
+	of them. He finds a quiet corner of the room and sits 
+	down heavily in a chair as the others crowd around the 
+	monitor, searching the list of names once again. 
+	Bashir and Dax emerge from the crowd and move toward 
+	him. Sisko looks at them expectantly.
+
+					BASHIR
+				(to Sisko)
+			No one for me today.
+
+					DAX
+			I had one -- Maria Tatalia -- 
+			wounded in action.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    49.
+
+42   CONTINUED:
+
+					BASHIR 
+			Friend?
+
+					DAX
+			Friend of a friend. I met her 
+			once, but I doubt she'd remember 
+			me.
+
+					BASHIR
+			Only one friend of a friend 
+			between the two of us -- as 
+			strange as it sounds, I'd say 
+			today's off to a good start.
+
+	Worf ENTERS, looks around and goes directly to them. 
+	Worf is clearly excited.
+
+					WORF
+			Captain, we just received word from 
+			Starfleet Intelligence that a 
+			Romulan shuttle carrying a high-
+			ranking senator has been destroyed.
+
+	A chill goes down Sisko's back.
+
+					SISKO 
+			Which Senator?
+
+					WORF 
+			Senator Vreenak. He was returning 
+			to Romulus from a diplomatic 
+			mission to Soukara when his 
+			shuttle exploded. 
+				(beat) 
+			The Tal Shiar is investigating, 
+			but their preliminary report 
+			points to sabotage... 
+				(grins)
+			... they believe the Dominion is 
+			responsible.
+
+	Dax and Bashir immediately realize what this means and 
+	they're ecstatic.
+
+					DAX 
+			The Dominion assassinated a 
+			Romulan Senator...
+
+					BASHIR
+			On a diplomatic mission...
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    50.
+
+42   CONTINUED:	(2)
+
+					WORF
+			This changes everything. It could 
+			even bring the Romulans into the 
+			war.
+
+	Sisko is on his feet and heading for the door.
+
+					SISKO
+				(abrupt) 
+			Excuse me.
+
+43   INT. CORRIDOR
+
+	Sisko marching down the Corridor, fury on his face.
+
+44   INT. PROMENADE
+
+	Sisko comes out of the turbolift and stalks across the 
+	Promenade, the anger still building on his features. 
+	He storms into...
+
+45   INT. GARAK'S SHOP - CONTINUOUS
+
+	Where Garak is working on some clothes. He looks up
+	at Sisko dispassionately -- he was expecting a
+	confrontation, but he wasn't expecting Sisko to haul
+	off and DECK HIM. Garak hits the ground and looks up
+	at the furious captain warily.
+
+					SISKO 
+			Get up.
+
+	Garak gets up, and warily keeps his distance. Sisko 
+	presses him and Garak backs away, but it's clear he 
+	won't give much ground here.
+
+					SISKO 
+			You killed him.
+
+					GARAK
+			That's right.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    51.
+
+45   CONTINUED:
+
+					SISKO 
+			That's what you planned to do all 
+			along. You knew the data-rod 
+			wouldn't hold up to scrutiny, you 
+			just wanted to get him on the 
+			station so you could plant a bomb 
+			on his shuttle.
+
+					GARAK
+			It wasn't quite that simple. I 
+			did have hopes that the rod would 
+			somehow pass inspection. But I 
+			suspected that Tolar may not have 
+			been up to the task.
+
+					SISKO
+			What about Tolar? Did you kill 
+			him too?
+
+					GARAK
+			Think of them both as tragic 
+			victims of war.
+
+	Sisko throws a punch, Garak blocks, but Sisko follows 
+	up and lands another blow to Garak's face, rocking him 
+	back, but not flooring him.
+
+					GARAK
+			If you can allow your anger to 
+			subside for a moment, you'll see 
+			that they did not die in vain -- 
+			the Romulans will enter the war.
+
+	Sisko glares at him, his fury just barely restrained.
+
+					SISKO 
+			There's no guarantee of that.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    52.
+
+45   CONTINUED:	(2)
+
+					GARAK 
+			Oh, but I think there is. You 
+			see, when the Tal Shiar finishes 
+			examining the wreckage of 
+			Vreenak's shuttle, they'll find 
+			the burnt remnants of a Cardassian 
+			optolythic data-rod which 
+			miraculously survived the 
+			explosion. After painstaking 
+			forensic examination, they'll 
+			discover that the rod contains a 
+			recording of a high-level Dominion 
+			meeting at which the invasion of 
+			Romulus was being planned.
+
+					SISKO
+			And then they'll discover it's a 
+			fraud.
+
+					GARAK
+			I don't think so. Any 
+			imperfections in the forgery will 
+			appear to be a result of the 
+			explosion.
+				(building, forceful) 
+			So, with a seemingly legitimate 
+			data-rod in one hand and a dead 
+			senator in the other, I ask you 
+			captain, what conclusion would you 
+			draw?
+
+	Sisko takes a beat, tries to let his temper subside.
+
+					SISKO 
+			That Vreenak obtained the rod on 
+			Soukara and that the Dominion 
+			killed him to prevent him from 
+			returning to Romulus with it.
+
+					GARAK
+			Precisely. And the more the 
+			Dominion protests their innocence, 
+			the more the Romulans will believe 
+			they're guilty... because it's 
+			exactly what the Romulans would've 
+			done in their place!
+
+	Sisko glares at him, but it's clear that he sees the 
+	logic of what Garak's saying, as much as he doesn't 
+	like to hear it.
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    53.
+
+45   CONTINUED:	(3)
+
+					GARAK
+				(continuing) 
+			That is why you came to me, isn't 
+			it, captain? Because you knew I 
+			could do the things you weren't 
+			capable of doing yourself? Well, 
+			it worked. And you'll get what 
+			you wanted -- a war between the 
+			Romulans and the Dominion. If 
+			your conscience is bothering you, 
+			you should soothe it with the 
+			knowledge that you may have just 
+			saved the entire Alpha Quadrant. 
+			And all it cost was the life of 
+			one Romulan senator, one criminal, 
+			and the self-respect of one 
+			Starfleet Officer. I don't know 
+			about you, but I'd call that a 
+			bargain.
+
+									CUT TO:
+
+46   INT. SISKO'S QUARTERS
+
+	Sisko is toying with a full glass of scotch.
+
+					SISKO 
+			This morning, at oh-eight-hundred 
+			hours, station time... the Romulan 
+			Empire formally declared war 
+			against the Dominion. They've 
+			already struck fifteen bases along 
+			the Cardassian border.
+				(beat) 
+			So it's a huge victory for the 
+			good guys... perhaps the turning 
+			point of the entire war. There's 
+			even a "Welcome to the Fight" 
+			party in the wardroom tonight.
+				(beat) 
+			I lied. I cheated. I bribed men 
+			to cover up the crimes of other 
+			men. I was an accessory to 
+			murder. But most damning of 
+			all... I think I can live with it. 
+
+     DEEP SPACE NINE: "In the Pale... " - REV. 2/11/98 - ACT FIVE    54.
+
+46   CONTINUED:
+
+					SISKO (Cont'd) 
+			And if I had to do it all over 
+			again... I would. Garak was right 
+			about one thing -- a guilty 
+			conscience is a small price to pay 
+			for the safety of the Alpha 
+			Quadrant. So I'll learn to live 
+			with it.
+
+	He almost takes a drink, then firmly sets it aside and 
+	pushes it away.
+
+					SISKO
+			Because I can live with it.
+
+	He glares into the lens and we're not sure if he's 
+	trying to convince us or himself.
+
+					SISKO
+			I can live with it.
+
+	Sisko stares into the camera for a long beat.
+
+					SISKO 
+			Computer -- erase that entire 
+			personal log.
+
+									CUT TO BLACK.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

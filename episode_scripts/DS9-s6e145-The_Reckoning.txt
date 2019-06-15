@@ -1,0 +1,3499 @@
+
+
+                  STAR TREK:  DEEP SPACE NINE
+                              
+                        "The Reckoning" 
+                   (fka "Untitled Prophets") 
+                          #40510-545 
+                              
+                           Story by 
+              Harry Werksman & Gabrielle Stanton 
+                              
+                          Teleplay by 
+                David Weddle & Bradley Thompson 
+                              
+                          Directed by 
+                         Jesus Trevino 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       February 13, 1998
+
+      STAR TREK: DS9 - "The Reckoning" - 02/13/98 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Reckoning" 
+                             CAST 
+
+          SISKO                    KAI WINN
+          KIRA                     KORAL
+          ODO                      
+          BASHIR                   
+          DAX                      
+          WORF                     
+          QUARK                    
+          JAKE                     
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+      STAR TREK: DS9 - "The Reckoning" - 02/13/98 - SETS 
+
+                  STAR TREK:  DEEP SPACE NINE
+                        "The Reckoning" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK                       
+          AIRLOCK CORRIDOR              
+          CAPTAIN'S OFFICE              
+          HABITAT RING CORRIDOR         
+          INFIRMARY                     
+          OPS                           
+          PROMENADE/SECOND LEVEL        
+          QUARK'S/SECOND LEVEL          
+          SCIENCE LAB                   
+          SISKO'S QUARTERS              
+          TURBOLIFT                     
+
+        EXCAVATION TUNNEL             
+        EXCAVATION SITE - CHAMBER     
+        PASSAGE OF TUNNEL             
+
+       DS9 - "The Reckoning" - 03/23/98 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Reckoning" 
+                      PRONUNCIATION GUIDE 
+
+          B'HALA                   bah-HA-la
+          CHRONITON                CRONE-eh-ton
+          KORAL                    kor-RAL
+          PAH-WRAITH               PA-rayth
+          RAKANTHA                 ruh-KAN-tha
+          RANJEN                   RAHN-jen
+          SHABREN                  shah-BREN
+          TAMULNA                  tam-UL-nah
+          DORALA                   door-AH-la
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 2/17/98 - TEASER       1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                           "The Reckoning"                             
+                            TEASER                              
+
+	FADE IN:
+
+Al   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+B1   INT. WARDROOM
+
+	SISKO is standing at an OKUDAGRAM briefing his senior 
+	staff about the war with the Dominion. DAX, WORF, 
+	BASHIR and KIRA are seated at the table; ODO stands 
+	near the window. The mood is somber.
+
+					SISKO
+				(indicating the star 
+				map) 
+			-- the Dominion has solidified its 
+			hold on the Kalandra Sector. 
+			They're trying to establish a 
+			supply line running through 
+			Betazoid space into the Argolis 
+			Cluster.
+
+					WORF 
+			If they succeed, they would be 
+			able to launch an attack on 
+			Vulcan.
+
+					SISKO
+				(nods) 
+			Starfleet's going to try to cut 
+			them off near the Tibor Nebula. 
+			The Seventh Fleet will be engaging 
+			the enemy in the morning.
+
+					DAX
+			The Seventh Fleet is still at half-
+			strength. They took heavy losses 
+			at Sybaron.
+
+					SISKO
+			We'll just have to hope they can 
+			get the job done.
+				(beat) 
+			On a happier note, I do have a bit 
+			of good news.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 2/17/98 - TEASER      1A.
+
+Bl   CONTINUED:
+
+					BASHIR
+			That's a welcome change.
+
+					SISKO 
+			The Romulans have forced the 
+			Dominion to retreat from the 
+			Bolian System.
+
+	The senior staff break into enthusiastic WALLAH. Sisko 
+	smiles, gives them a moment to enjoy the good news. 
+	Then Odo chimes in with a sober observation.
+
+					ODO 
+			That is good news. The question 
+			is, will the Romulans be willing 
+			to leave Bolarus after the war's 
+			over?
+
+	This causes everyone to shift uncomfortably. Odo's 
+	raised a possibility that most of them would rather not 
+	think about.
+
+					ODO 
+			Once they capture territory, they 
+			rarely give it up.
+
+	Sisko privately shares Odo's concern, but he needs to
+	keep his people on track.
+
+					SISKO
+			Right now, we need to concentrate 
+			on beating the Dominion. We'll 
+			worry about the Romulans later.
+
+	Odo backs off with a shrug, but his point has clearly 
+	soured the moment of celebration.
+
+					SISKO
+			As some of you already know, Major 
+			Kira, Jake and I will be leaving 
+			for Bajor at twenty-two hundred.
+
+					DAX
+				(teasing them) 
+			There's a war on -- this is no 
+			time for a vacation.
+
+	Kira smiles, sets the record straight.
+
+					KIRA
+			The archaeologists excavating 
+			B'hala have found something they 
+			want the Emissary to see.
+
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 2/17/98 - TEASER      1B.
+
+B1   CONTINUED:	(2)
+
+					SISKO 
+			We'll be back tomorrow night.
+				(looks at his crew) 
+			That's all, people.
+
+	Everyone EXITS, except Kira and Odo. This is one of 
+	their new rituals: hanging back after a staff meeting 
+	to share an intimate moment together.
+
+					KIRA
+				(smiling affectionately) 
+			"Will the Romulans leave Bolarus?" 
+			You love to bring up the worst-
+			case scenario in these meetings, 
+			don't you?
+
+					ODO 
+			Somebody has to.
+
+	As the last person exits, leaving them alone in the 
+	room, Odo's demeanor abruptly changes. He regards Kira
+	with a mischievous twinkle in his eyes -- it's a side 
+	of him we've never seen before, a side that Kira brings 
+	out when they're alone.
+
+					ODO 
+			Besides, everyone expects me to be 
+			dour and suspicious. I don't like 
+			to disappoint them.
+
+					KIRA
+				(smiles) 
+			If they only knew the real you.
+
+					ODO 
+			That is the real me.
+				(beat) 
+			At least as far as everyone else 
+			is concerned.
+
+	They share a smile. off this moment...
+
+Cl   EXT. SPACE - BAJOR (STOCK OPTICAL)
+
+	Establishing.  (NOTE: Could be substituted with a STOCK
+	MATTE of the planet's surface, maybe something from
+	"Rapture".)
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER      1C.
+
+1    INT. EXCAVATION TUNNEL
+
+	Ranjen KORAL, an old but vigorous Bajoran monk, leads 
+	Sisko, Kira and JAKE down a gloomy passageway cut 
+	through layers of reddish-brown SEDIMENT. The passage 
+	is lit every so often with makeshift LIGHTS, but there 
+	are nowhere near enough to make their PALM BEACONS 
+	unnecessary. Support BEAMS line the ceiling and the 
+	rough contours of the walls. Although a deeply 
+	religious man, Koral wears the practical work clothes 
+	of a veteran archaeologist.
+
+					KORAL
+				(glancing back at Sisko) 
+			I can't tell you how pleased we 
+			are by your visit, Emissary.
+
+					SISKO
+			I'm happy to be here, Ranjen.
+
+					KORAL 
+			There's no need to keep calling me 
+			"Ranjen." I'm a simple monk. My 
+			order is quite informal.
+
+					SISKO
+			You've certainly been busy. The 
+			last time I visited these ruins, 
+			none of these tunnels had been cut 
+			yet.
+
+					KORAL 
+			It's been a great deal of work, 
+			but we do it gladly. Excavating 
+			the Holy City is a privilege. Our 
+			efforts are an expression of our
+			faith in the Prophets... and in 
+			the Emissary.
+
+	Sisko accepts this with a gracious nod. Kira and Jake 
+	follow several paces behind. Kira notices that Jake is 
+	studying his father closely.
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER       2.
+
+1    CONTINUED:
+
+					KIRA 
+			Something wrong, Jake?
+
+					JAKE
+				(sotto to Kira) 
+			No. It's just that Dad seems to 
+			be taking his role as the Emissary 
+			very seriously these days.
+
+					KIRA
+			You say that like you think it's 
+			a bad thing.
+
+					JAKE 
+			You have to admit, it's a long way 
+			to come to look at some old ruins.
+
+					KIRA
+			They've found what might be an 
+			important religious artifact in 
+			these "old ruins."
+
+					JAKE 
+			I hope so.
+				(re: the PADD in his 
+				hand) 
+			Otherwise I won't have much of a 
+			story.
+
+					KIRA
+			Try to look like you're enjoying 
+			yourself. Your father needs this. 
+			It's good for him not to have to 
+			worry about the Dominion for a few 
+			hours.
+
+2    ANOTHER PASSAGE OF TUNNEL
+
+	Koral rounds a corner and leads them down the passage. 
+	A movement in the shadows, the FLUTTER of wings in the 
+	darkness --
+
+					KORAL 
+			Don't let the bats bother you.
+
+	Jake pauses, nervously scanning the ceiling with his 
+	palm beacon.
+
+					KIRA
+				(over her shoulder) 
+			Don't worry, they rarely bite.
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER       3.
+
+2    CONTINUED:
+
+					JAKE.
+				(still scanning the 
+				ceiling) 
+			Rarely?
+
+	Jake notices the others have moved on without him and 
+	hurries to catch up.
+
+3    YET ANOTHER PASSAGE
+
+	Occasional sections of ancient STONE WALL are exposed 
+	in the sediment. Sisko idly runs his hand along the 
+	venerable structure.
+
+					KORAL 
+			We're directly below the Temple of 
+			B'hala. These walls predate the 
+			ancient city by ten thousand 
+			years.
+
+					JAKE 
+			Who built this place?
+
+					KORAL 
+			We don't know much about the 
+			original inhabitants, but it 
+			appears they abandoned this site 
+			some twenty-five thousand years 
+			ago. Over time, sediment buried 
+			the ruins.
+
+					JAKE
+				(catching on) 
+			And then B'hala was built on top 
+			of them.
+
+					KORAL 
+			Precisely.
+
+	Koral comes to a halt before the inky black mouth of a 
+	chamber. The others stop behind him.
+
+					KORAL 
+			In here...
+
+	A feeling of apprehension steals over them. Something 
+	about this place feels vaguely ominous.
+
+	Koral steps into the opening and is swallowed by the 
+	darkness. It's an eerie moment. Challenged and 
+	curious, Sisko follows, his light reaching into the 
+	bleak opaque void.
+
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER       4.
+
+4    INT. CHAMBER
+
+	Koral switches on the portable TUBE LIGHTS along the 
+	floor. Like the tunnels, the ceiling is braced with 
+	BEAMS. Sections of the wall that once framed this room 
+	are visible through the sediment. In the center of one 
+	wall, an ancient stone TABLET is embedded in the stone.
+
+	Kira and Jake follow Sisko into the room, and Koral 
+	leads them over to the tablet. It's a vertical 
+	limestone oval, similar in shape to the symbol of Bajor 
+	on the temple entrance on DS9.
+
+					KORAL 
+			It's over thirty thousand years old...
+
+	Jake is less than thrilled, but Sisko looks closely at 
+	the tablet, which displays passages composed of ancient 
+	Bajoran RUNES. Parts of the inscription have been 
+	broken away or obscured by erosion and cracks.
+
+					SISKO 
+			These inscriptions, they look 
+			similar to ancient Bajoran, but I 
+			can't quite make them out.
+
+					KORAL 
+			Until recently, we couldn't 
+			either. But we've been able to 
+			piece together some rudimentary 
+			translations.
+
+	He points to a vertical strip of characters on the far 
+	right.
+
+					KORAL 
+			The syntax is unusual, but all 
+			forms of Bajoran share certain 
+			root-ideograms.
+				(taps one of them)
+			You may recognize this one.
+
+	Sisko leans in to get a better look.
+
+					SISKO
+			Welcome...
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER       5.
+
+4    CONTINUED:
+
+					KORAL
+				(pleased)
+			Here's where it gets
+			interesting...
+
+	Koral's hand traces the two figures beneath, which are 
+	enclosed within an outline to form a distinctive 
+	CARTOUCHE. Sisko and Kira both react with recognition --
+
+					KORAL
+			I see you recognize it.
+
+	Jake doesn't, but he can see that Sisko and Kira are 
+	amazed by what they've read.
+
+					JAKE
+			I don't.
+
+					KIRA
+				(awed)
+			It says... Welcome, Emissary.
+
+	Jake stares at his father, drawn into the mystery as 
+	well.
+
+					KORAL
+				(to Sisko)
+			Now you know why I asked you here.
+
+	Jake regards his father with a look of "what next?" 
+	Sisko reaches out in wonder...
+
+5    HIS FINGERS
+
+	touch the cartouche. An AWESOME SOUND jerks us as we --
+
+									WHITE OUT TO:
+
+6    ANOTHER ANGLE - ALTERED REALITY (OPTICAL)
+
+	Sisko suddenly finds himself in the middle of the room. 
+	Similar to "The Emissary," and "Prophet Motive," we are 
+	in an altered reality, but in this case, we haven't 
+	left the room. The LIGHTS have changed COLOR and 
+	DIRECTION. Sisko tries to reorient himself and finds 
+	Kira, Koral and Jake are no longer where he last saw 
+	them.
+
+	They have become WORMHOLE ALIENS... cold and remote. 
+	They ignore Sisko completely -- as if he'd dropped 
+	unbidden into the midst of their discussion. 
+	Nevertheless, their statements bear some relation to 
+	his questions. Koral stands beside the stone tablet.
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER       6.
+
+6    CONTINUED:
+
+					KORAL ALIEN
+			The Sisko has come.
+
+	A beat as Sisko realizes that he's dealing with the 
+	Prophets. The Kira Alien is behind Sisko. Her voice 
+	raws him to face her.
+
+					KIRA ALIEN
+			The circle is complete.
+
+	The Jake Alien steps close --
+
+					JAKE ALIEN
+			The Reckoning must begin.
+
+					SISKO
+			The Reckoning?
+
+	The Prophets don't answer -- the Kira Alien faces the 
+	Koral Alien.
+
+					KIRA ALIEN
+			Much will depend on the Sisko.
+
+					KORAL ALIEN
+				(concerned)
+			He is corporeal.
+
+					JAKE ALIEN
+			Limited.
+
+	The Kira Alien steps toward the other two.
+
+					KIRA ALIEN
+			He is the Sisko. He will not
+			waver.
+
+	The Jake Alien considers it, then nods.
+
+					JAKE ALIEN
+			He is of Bajor.
+
+					KIRA ALIEN
+			He will bring the Reckoning.
+
+	Sisko turns to the Kira Alien.
+
+					SISKO
+			What is it you expect of me?
+
+	The Koral Alien arrives next to the Kira Alien.
+
+       DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - TEASER       7.
+
+6    CONTINUED:	(2)
+
+					KORAL ALIEN
+			It will be the end...
+
+					JAKE ALIEN
+			Or the beginning.
+
+					SISKO
+			I don't understand.
+
+					KIRA ALIEN
+			The Sisko will know.
+
+	The SCREEN WHITES OUT.
+
+									CUT TO:
+
+7    INT. CHAMBER
+
+	The connection breaks and Sisko is thrown back across 
+	the room. He lands on his back, unconscious. As Kira 
+	and Jake rush over to him, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE       8.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+8    INT. EXCAVATION SITE - CHAMBER
+
+	Kira helps Sisko to a sitting position as Jake and 
+	Ranjen Koral look on with concern.
+
+					JAKE
+			Dad, are you okay?
+
+	Kira helps Sisko to his feet -- he looks around, tries 
+	to get his bearings.
+
+					SISKO
+			The Prophets... they were here.
+			They spoke to me.
+
+	Jake tenses -- he's seen the Prophets put his father 
+	through some strange things, and he doesn't like the
+	sound of this.
+
+					KORAL
+			You had a vision, Emissary. We
+			saw nothing.
+
+					KIRA
+				(to Sisko)
+			What did they say to you?
+
+					SISKO
+			They mentioned a "Reckoning."
+				(to Koral)
+			Is that part of some prophecy?
+
+					KORAL
+				(thinks it over)
+			Not one that I know of.
+
+	Jake tries to contain his mounting anxiety --
+
+					JAKE
+			Dad, I think we should go now.
+
+	Sisko moves to comfort his son --
+
+					SISKO
+			It's all right, Jake. We'll be
+			leaving soon.
+
+	Sisko turns to study the tablet...
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE       9.
+
+ 8   CONTINUED:
+
+					SISKO 
+			I need to know what these 
+			inscriptions say...
+
+					KORAL 
+			I wish we could translate them 
+			more quickly, but we don't have 
+			the resources.
+
+	Sisko traces the letters on the tablet thoughtfully.
+
+					SISKO 
+			Fortunately, we do.
+
+	Off Sisko's face as he considers the mysterious artifact...
+
+9    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+10   INT. SCIENCE LAB
+
+	The tablet stands on an examining table. Dax has just 
+	completed a series of scans --
+
+					DAX 
+			I had a pretty good idea what this 
+			was the minute I laid eyes on it.
+				(off tricorder) 
+			This confirms it.
+
+	Sisko leans in, eager to hear what she has to say.
+
+					DAX 
+			It's a slab of stone with some 
+			writing on it.
+
+					SISKO
+				(warning her) 
+			Dax.
+
+					DAX
+			What do you want me to say, 
+			Benjamin?
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      10.
+
+10   CONTINUED:
+
+					DAX (Cont'd) 
+			I'm not picking up any residual 
+			energy readings, certainly nothing 
+			that would explain how it threw 
+			you across a room.
+
+	Sisko takes this in for a beat --
+
+					SISKO 
+			I want you to translate the
+			inscriptions.
+
+					DAX 
+			I was afraid you were going to say 
+			that.
+
+					SISKO
+				(handing over a PADD) 
+			The Ranjen's translation program. 
+			It's not complete, but at least 
+			it's a start.
+				(smiles) 
+			Good luck.
+
+	And with that, Sisko EXITS, leaving Dax with her task.
+
+11   INT. PROMENADE 
+
+	as Sisko makes his way down it. SUPERNUMERARIES as 
+	needed. As he passes the temple, a Bajoran RANJEN is 
+	standing outside ringing the BELL to announce services.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      11.
+
+12   SISKO
+
+	as he stops and considers.
+
+					VOICES
+				(off screen) 
+			"Coming to Services?" "It's about 
+			to start." Etc.
+
+	For some reason, Sisko finds himself wanting to go 
+	inside the temple. He figures why not, and starts 
+	toward it. The Ranjen looks at him, a bit surprised -- 
+	clearly this is no everyday occurrence. Just as Sisko 
+	steps into the doorway, Worf's COM VOICE interrupts --
+
+					WORF'S COM VOICE 
+			Ops to Sisko.
+
+					SISKO
+			Go ahead.
+
+					WORF'S COM VOICE 
+			We just received a communication 
+			from Bajor. Kai Winn is on her 
+			way to the station.
+
+	Sisko's never exactly happy to hear she's coming and a 
+	frown starts to form on his face, but when he sees the 
+	Ranjen looking at him, he thinks better of it and 
+	musters a smile for him. The Kai? Love the Kai.
+
+
+13   INT. AIRLOCK
+
+	as KAI WINN ENTERS from a BAJORAN SHUTTLE, accompanied 
+	by TWO MONKS. Sisko is waiting to greet her.
+
+					SISKO 
+			Welcome to Deep Space Nine, your 
+			eminence.
+
+	Winn is seething over the fact that Sisko took the 
+	tablet off Bajor without consulting her, but she hides 
+	it behind a cool smile.
+
+					WINN 
+			Thank you, Emissary.
+
+	As they head down the corridor --
+
+					SISKO 
+			What brings you to the station?
+
+					WINN 
+			I should think that would be 
+			clear.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      12.
+
+13   CONTINUED:
+
+					WINN (Cont'd)
+				(off his look) 
+			You removed an artifact from an 
+			archaeological site without 
+			consulting the Vedek Assembly.
+
+					SISKO
+			I meant no disrespect.
+
+	Winn enjoys having the chance to skewer Sisko, but she 
+	does it behind her mask of politeness.
+
+					WINN
+			You can understand that we would 
+			be sensitive to such matters. 
+			During the Occupation, the 
+			Cardassians plundered Bajor's 
+			historical treasures as if it were 
+			their right. I never imagined 
+			that you would behave in the same 
+			manner.
+
+					SISKO
+			I assure you the artifact will be 
+			returned as soon as I've finished 
+			studying it.
+
+					WINN
+			I was not aware that you had 
+			expertise in Bajoran history.
+
+					SISKO
+				(has to admit) 
+			I don't.
+
+					WINN
+			Then why not leave the artifact in 
+			the hands of those who do? There 
+			are scholars on Bajor who've 
+			devoted their lives to the study 
+			of such things.
+
+					SISKO,
+			I understand. But I brought it 
+			here because I believe that's what 
+			the Prophets want.
+
+					WINN
+			I see. I take it this has 
+			something to do with your... 
+			"vision."
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      13.
+
+13   CONTINUED:	(2)
+
+	There's a skepticism in her voice that's not lost on 
+	Sisko.
+
+					SISKO 
+			Exactly.
+
+					WINN 
+			Forgive me.
+				(testing him) 
+			I didn't realize that the Prophets 
+			told you to bring the relic here.
+
+					SISKO 
+			They didn't. Not in so many 
+			words.
+
+					WINN 
+			I see. Then what, exactly, did 
+			they say?
+
+					SISKO
+			It's difficult to explain. The 
+			Prophets aren't always clear.
+
+					WINN 
+			Since they've never spoken to me, 
+			I'll have to take your word for it.
+
+	In her own indirect way, she's challenging Sisko's 
+	truthfulness and he knows it.
+
+					SISKO 
+			All I know is that, for now, it 
+			belongs here.
+
+	Winn seems to back off.
+
+					WINN 
+			Who am I to argue with the 
+			Emissary of the Prophets?
+
+	Off her sweet smile...
+
+14   INT. SCIENCE LAB (VPB) 
+
+	a hand smacks the table. WIDEN to reveal an angry 
+	Sisko talking to Dax. She's working with the computer, 
+	checking BAJORAN RUNES on the screen against TWO PADDS 
+	she carries in her hands.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      14.
+
+14   CONTINUED:
+
+					SISKO 
+			She contacted Starfleet and lodged 
+			a formal protest.
+
+					DAX
+			Is that why Admiral Ross wanted to 
+			talk to you?
+
+	Sisko nods glumly --
+
+					DAX 
+			So how'd it go?
+
+					SISKO
+			He told me to stop meddling in 
+			Bajoran affairs and return the 
+			damn tablet.
+
+					DAX
+			You know how Starfleet feels about 
+			"this Emissary thing." It makes 
+			them very uncomfortable that 
+			you've allowed the Bajorans to 
+			view you as a religious icon.
+				(testing the waters) 
+			It used to make you uncomfortable, 
+			too.
+
+	Sisko considers, then decides to make his feelings
+	known to his old friend.
+
+					SISKO
+			Not anymore.
+				(smiling) 
+			I guess the Prophets have spoken 
+			to me too many times.
+
+					DAX
+				(looking up from her work) 
+			I remember when you used to call 
+			them "Wormhole Aliens."
+
+					SISKO
+			Wormhole Aliens or Prophets -- it 
+			doesn't really matter. The fact 
+			is, they exist outside of time, 
+			and over the centuries, they've 
+			given the Bajorans glimpses of the 
+			future.
+				(indicating the tablet) 
+			Glimpses that the Bajorans wrote 
+			down to help guide succeeding 
+			generations.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      15.
+
+14   CONTINUED:	(2)
+
+					SISKO
+				(continuing, re: the 
+				tablet) 
+			If whatever's written here can 
+			help me avoid mistakes and make 
+			the right decisions, I'd be a fool 
+			to ignore it.
+
+					DAX 
+			Fair enough. But if you don't 
+			mind, I'm going to keep thinking 
+			of them as Wormhole Aliens.
+
+					SISKO
+			All I know is that they have a 
+			relationship with Bajor that 
+			stretches back thousands of years. 
+			They care about what happens to 
+			the Bajorans. They proved that 
+			when they kept the Dominion fleet 
+			from coming through the wormhole.
+
+					DAX 
+			Didn't you have to talk them into 
+			it? Didn't they say they were 
+			going to exact some kind of 
+			"penance" for helping you?
+
+					SISKO
+			Yes, but they listened. They 
+			saved Bajor and the rest of the 
+			Alpha Quadrant.. And now they're 
+			asking me for something in return. 
+			I don't know what it is yet, and 
+			I'm not going to return the tablet 
+			until I do. It's the key. I can 
+			feel it.
+
+					DAX
+				(off screen) 
+			I hope you're wrong about that, 
+			Benjamin...
+
+	Sisko realizes she's found something --
+
+					SISKO
+			What've you got?
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT ONE      16.
+
+14   CONTINUED:	(3)
+
+	Sisko moves around to see the screen. On the MONITOR, 
+	we see a line of TEXT from the tablet. There are 
+	conversion algorithms along the margins of the screen.
+
+					DAX 
+			The computer just translated part 
+			of the inscription. Here it is in 
+			modern Bajoran.
+
+	She works the controls and the text TRANSFORMS into 
+	modern Bajoran. It takes a moment for Sisko to read, 
+	and when he does, the words disturb him...
+
+					SISKO 
+			"The time of Reckoning is at hand. 
+			The Prophets will weep, and their 
+			sorrow will consume... "
+				(the rest stops him in 
+				his tracks)
+			"... the Gateway to the Temple."
+
+					DAX 
+			Tell me I'm wrong, but isn't the 
+			Gateway to the Temple... Deep 
+			Space Nine?
+
+	Sisko's face tells us she's not wrong... off this 
+	ominous moment, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      17.
+                            ACT TWO                             
+
+	FADE IN:
+
+15   INT. QUARK'S - SECOND LEVEL
+
+	Odo and Bashir are sitting around a table reacting to 
+	Worf's news. It's a slow night, the few BAJORANS 
+	who've turned out are ina somber mood, preoccupied 
+	with the rumors they've heard.
+
+					WORF
+			-- I'm only telling you what the 
+			translation said. I did not say 
+			I believed it.
+
+					BASHIR
+			Well, I'm not worried. If you 
+			look hard enough, you can find a 
+			Bajoran Prophecy for just about 
+			anything. The Ancient Texts are 
+			a tangle of vague contradictions.
+
+					ODO
+			This one is anything but vague. 
+			And Bajoran Prophecies have an odd 
+			way of coming true.
+
+					BASHIR
+			Don't tell me you believe in this 
+			stuff, too?
+
+	QUARK has approached their table and chimes in --
+
+					QUARK 
+			Odo believes in preparing for the 
+			worst.
+
+					ODO
+			True.
+
+					QUARK 
+			He's as bad as the Bajorans.
+				(looking around the 
+				quiet bar with dismay) 
+			Business hasn't been this slow 
+			since the Dominion was here. 
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      18.
+
+15   CONTINUED:
+
+					QUARK (Cont'd) 
+			You know, I feel it's my civic 
+			duty to do something about all 
+			this doom and gloom. That's why 
+			I want you all to know that I've 
+			extended Happy Hour.
+
+					BASHIR 
+			Extended it?
+
+					QUARK
+			From now on, every hour is Happy 
+			Hour.
+				(beat) 
+			At least, until business picks up.
+
+	Quark tries to put on a happy face.
+
+					QUARK
+			Eat, drink and be merry.
+
+					BASHIR
+				(dry) 
+			For tomorrow we die.
+
+					ODO
+				(to Worf) 
+			What does the captain say about 
+			all this?
+
+					WORF 
+			He's reserving judgement until the 
+			computer's finished the 
+			translation.
+
+					BASHIR
+				(to Quark) 
+			Who knows, maybe the rest of the 
+			tablet says go to Quark's for 
+			Happy Hour.
+
+					QUARK
+			I like the way you think, doctor.
+
+	Bashir looks around at his friends and sees that 
+	despite their ambivalence about the Prophecy, each of 
+	them is troubled to some degree. Truth be told, he's 
+	not finding it easy to shake off either.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      19.
+
+15   CONTINUED:	(2)
+
+					BASHIR 
+			This is ridiculous. Nothing's 
+			going to happen. Someday we're 
+			going to look back at this and 
+			laugh.
+
+	Suddenly there's a strange RUMBLE like the sound of 
+	approaching thunder -- it builds until the room starts 
+	to VIBRATE and SHUDDER. Glasses RATTLE on tables as 
+	people look around, trying to figure out what's going 
+	on. A moment, then it's over.
+
+					ODO 
+
+			What was that?
+
+	VOICES from off-screen get their attention. A small 
+	CROWD has gathered at one of the WINDOWS to view 
+	something outside.
+
+									CUT TO:
+
+16   INT. PROMENADE - SECOND LEVEL (OPTICAL)
+
+	Through the window, we see the wormhole OPENING.
+
+17   ADJUST
+
+	to include Odo, Bashir, Worf and Quark among the 
+	onlookers.
+
+					QUARK 
+			That's the third time in the last 
+			ten minutes.
+
+	The RUMBLE again, followed by the same SHUDDER.
+
+18   THE WINDOW (OPTICAL)
+
+	The wormhole CLOSES and the SHUDDER SUBSIDES.
+
+					WORF 
+				(puzzled) 
+			Still no incoming ships.
+
+					ODO
+			Well something's making the 
+			wormhole do that.
+
+	No one has an answer for him. After a beat, Bashir 
+	turns to Worf.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      20.
+
+18   CONTINUED:
+
+					BASHIR 
+			How did that Prophecy go again... ?
+
+	The others react, all thinking the same thing -- is 
+	this the beginning of the Reckoning? Off this 
+	moment...
+
+18A  INT. REPLIMAT (FORMERLY SCENE 20A) 
+
+	Kira and Odo are seated at a table. Kira is picking at 
+	some FOOD. She looks up to see Odo patiently watching 
+	her. Supernumeraries as needed.
+
+					KIRA
+				(smiling) 
+			You know, you really don't have to 
+			do this.
+
+					ODO
+			What?
+
+					KIRA 
+			Stay here and watch me eat.
+
+					ODO
+			I don't mind. In fact, I rather
+			enjoy it.
+				(off her questioning 
+				look) 
+			You eat with such gusto.
+				(a beat) 
+			Most of the time.
+
+	Kira looks at the food she's hardly touched and puts 
+	down her fork.
+
+					KIRA 
+			Not today.
+				(a beat) 
+			I just wish we knew more about the 
+			Reckoning. It'd give us a better 
+			idea of what the Prophets want 
+			from us.
+
+					ODO
+			It seems to me that if the 
+			Prophets want the Bajoran people 
+			to follow a given path, they 
+			should provide more specific 
+			directions.
+
+					KIRA 
+			It doesn't work that way.
+
+					ODO
+			Maybe it should.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO     20A.
+
+18A  CONTINUED:
+
+					KIRA 
+			The Kai would say you lacked 
+			faith.
+
+					ODO
+				(smiling)
+			And you would agree.
+
+					KIRA 
+			I don't know how people make it 
+			through the day without it.
+
+					ODO
+			We manage. Besides, I do have 
+			faith in some things.
+
+					KIRA 
+			Such as?
+
+					ODO
+			You.
+
+	A beat. Kira nods, pleased.
+
+					KIRA
+			I'll try not to disappoint you.
+
+	Off this moment...
+
+19   INT. CAPTAIN'S OFFICE
+
+	where the captain is talking to Kai Winn.
+
+					WINN 
+			No doubt you've heard the latest 
+			news from Bajor.
+
+					SISKO
+			About the flooding in Rakantha 
+			Province, yes.
+
+					WINN 
+			There was also an earthquake in 
+			the Kendra Valley last night. 
+			This morning a tornado struck 
+			Tamulna --
+
+	Sisko knows what she's getting at, and he's not going 
+	to hand it to her.
+
+					SISKO 
+			Our sensors indicate Bajor's being 
+			affected by the instability in the 
+			wormhole.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO     20B.
+
+19   CONTINUED:
+
+					WINN 
+			How comforting. Tell me, do your 
+			sensors have an explanation for 
+			the instability itself?
+
+					SISKO
+				(has to admit) 
+			No.
+
+					WINN 
+			Then I'll give you one. You've 
+			angered the Prophets by taking the 
+			tablet from Bajor. As the 
+			spiritual leader of the Bajoran 
+			people, I'm asking you to return 
+			it.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      21.
+
+19   CONTINUED:	(2)
+
+					SISKO 
+			And as Emissary of the Prophets, 
+			I'm asking you to give me more 
+			time to study it. 
+				(pointed) 
+			I believe it's the will of the 
+			Prophets.
+
+					WINN 
+				(flaring) 
+			I disagree.
+
+	The Kai produces a BAJORAN PADD.
+
+					WINN
+			This is a formal request from the 
+			First Minister that you turn over 
+			the relic to me.
+
+	Sisko takes the PADD and studies it.
+
+					SISKO 
+			You must've been very persuasive. 
+			This is the first time you and 
+			Shakaar have agreed on anything.
+
+					WINN 
+			If you deny his request, I promise 
+			you it will damage relations 
+			between Bajor and the Federation.
+
+	Sisko makes his decision --
+
+					SISKO 
+			The tablet will be on its way to 
+			Bajor on the morning transport.
+
+					WINN 
+				(smiles) 
+			As will I.
+
+ DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO     22-22C   
+
+19   CONTINUED:	(3)
+
+	And with that, she turns and takes her leave. Off 
+	Sisko's face as he watches her go.
+
+19A  INT. SCIENCE LAB
+
+	Sisko watches as Dax studies the tablet, checking the 
+	inscriptions against a PADD in her hand.
+
+					DAX
+			You're sending it back?
+				(wry)
+			I was just starting to have fun.
+
+					SISKO
+			You're not off the hook, old man. 
+			I still want those inscriptions 
+			translated.
+
+	Dax figured this was coming --
+
+					DAX
+				(nods) 
+			I can work off the holo-recordings 
+			I took yesterday.
+
+					SISKO
+				(eyeing the tablet) 
+			Have you made any more progress?
+				(off her nod) 
+			Good news or bad?
+
+					DAX
+			That depends.
+
+					SISKO
+			On what?
+
+
+					DAX
+				(indicating the tablet) 
+			What this ideogram means. The 
+			computer's giving me two 
+			possibilities.
+
+					SISKO
+			Let's hear them.
+
+					DAX
+			During the Reckoning, the Bajorans 
+			are either going to "suffer 
+			horribly," or... "eat fruit."
+
+					SISKO
+			Eat fruit?
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO     22D.
+
+19A  CONTINUED:
+
+					DAX 
+			Given the tone of the rest of the 
+			inscriptions, I'd bet on the 
+			horrible suffering.
+
+					SISKO
+			What else have you got?
+
+					DAX
+			You're going to love this, it's 
+			about you.
+
+	Dax brings around to the other side of the tablet and 
+	indicates some inscriptions near the damaged part of 
+	the stone.
+
+					DAX 
+			It says that once the "Reckoning 
+			begins, the Emissary will" --
+
+	She turns and looks at him expectantly --
+
+					SISKO 
+			Go on.
+
+					DAX
+			I was hoping you'd tell me. The 
+			rest of the inscription is 
+			damaged.
+
+	Sisko lets out an irritated sigh.
+
+					SISKO 
+			That figures.
+
+	We hear the approaching RUMBLE and the station SHUDDERS 
+	again.
+
+					DAX 
+			I wish the wormhole would stop 
+			doing that.
+
+					SISKO
+			Me, too.
+				(turns to go) 
+			Keep at it, old man.
+
+					DAX
+			Just do me one favor.
+				(off his look) 
+			If you talk to the Prophets again, 
+			ask them for a dictionary.
+
+	Sisko smiles, grateful that Dax can still help him 
+	glean a shred of humor out of this grim situation.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/23/98 - ACT TWO    22E.
+
+19A  CONTINUED:	(2)
+
+					SISKO
+			I'll see what I can do.
+
+	Sisko EXITS, leaving Dax to her work.
+
+19BB INT. OPS
+
+	Kira's at the table; Supernumeraries at their posts. 
+	Sisko ENTERS through one of the doors under the 
+	viewscreen.
+
+					KIRA 
+			Captain, I've got a message for 
+			you from General Martok.
+
+					SISKO
+			Go ahead.
+
+					KIRA 
+			He's dispatched three squadrons of 
+			Klingon attack cruisers to bolster 
+			the defense perimeter around the 
+			Dorala System.
+
+					SISKO
+			Good. I just hope they can hold 
+			out until Starfleet can send 
+			reinforcements.
+
+					KIRA 
+			The Klingons will hold out. 
+			Martok will see to that.
+
+	Sisko nods, rubs his tired eyes.
+
+					KIRA 
+			Long day?
+
+					SISKO
+			They keep getting longer.
+
+					KIRA 
+			You'll feel better in the morning.
+
+	Off Sisko's look.
+
+					KIRA 
+			Once the Kai is off the station.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/23/98 - ACT TWO    22F.
+
+19BB CONTINUED:
+
+					SISKO
+				(amused) 
+			I know she's the spiritual leader 
+			of millions of Bajorans, but she's 
+			not an easy woman to like.
+
+					KIRA 
+			If it's any comfort, I don't think 
+			she likes you, either.
+
+					SISKO
+			I've known that for a while.
+				(a beat) 
+			Maybe I should've consulted her 
+			before I brought the artifact up 
+			to the station.
+
+					KIRA 
+			She would've tried to stop you.
+
+	Sisko thinks about it for a moment.
+
+					SISKO
+				(smiling) 
+			I guess that's why I didn't ask 
+			her.
+
+	Kira returns the smile, but we can see that there's 
+	more on her mind.
+
+					KIRA 
+			In a way, I feel sorry for her. 
+			She spends her whole life in the 
+			service of the Prophets. And then 
+			one day, after all the years of 
+			personal sacrifice and commitment, 
+			she's given her reward. She's 
+			elected Kai. It should've been 
+			the greatest moment of her life.
+
+					SISKO
+				(seeing where Kira is 
+				going) 
+			But my being Emissary spoiled it 
+			for her.
+
+					KIRA 
+			The Kai has always been the 
+			spiritual leader of Bajor. But 
+			Winn has to share that role with 
+			you. And what makes matters worse 
+			is you're an outsider -- a non-
+			Bajoran. That's something she'll 
+			never forgive you for.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/23/98 - ACT TWO    22G.
+
+19BB CONTINUED:	(2)
+
+					SISKO
+			I guess that's why she's made such
+			an issue out of this whole thing.
+
+					KIRA
+			She's jealous of you and of your
+			relationship with the Prophets.
+				(smiling)
+			To be honest, I'm a little envious
+			myself.
+
+					SISKO
+			Why?
+
+					KIRA
+			You speak with the Prophets. They
+			listen to you. It's a rare gift.
+
+					SISKO
+			It's nothing I asked for.
+
+					KIRA
+			I suppose that's why I don't
+			resent you. But the Kai does.
+
+					SISKO
+			I'll keep that in mind.
+
+	And off this moment between them --
+
+									CUT TO:
+
+19B  INT. PROMENADE - UPPER LEVEL (FORMERLY SCENE 19AA) 
+
+	Kai Winn stares thoughtfully out one of the windows.
+	She seems troubled as she studies the starscape, her 
+	focus on the spot where the wormhole appears when it's 
+	visible. Her two Vedeks stand back at a respectful 
+	distance. Kira approaches.
+
+					KIRA
+			Is something wrong, Eminence?
+
+	Kira's voice pulls the Kai out of her reverie.
+
+					WINN
+			What makes you say that, child?
+
+					KIRA
+			You look troubled.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/23/98 - ACT TWO    22H.
+
+19B  CONTINUED:
+
+					WINN 
+			Not at all. I'm quite relieved
+			that the Emissary has decided to 
+			do the right thing.
+
+					KIRA 
+			You didn't leave him much choice, 
+			did you?
+
+	Winn hears the tone of disapproval in Kira's voice --
+
+					WINN 
+			I suppose you think I enjoyed 
+			forcing his hand. I assure you I 
+			didn't. I wish the situation 
+			could have been resolved more 
+			amicably.
+				(smiles) 
+			Perhaps the next time we have a 
+			disagreement, he will consider my 
+			wishes more thoughtfully.
+
+	But Winn has divulged more than she meant to --
+
+					KIRA 
+			The next time?
+				(testing) 
+			Are you anticipating more
+			"disagreements?"
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      23.
+
+19B  CONTINUED:
+
+					WINN 
+			I merely meant to express my hope 
+			that in the future, we can work 
+			together for the good of Bajor.
+
+					KIRA 
+			Of course. After all, you're on 
+			the same side. Aren't you?
+
+	Winn knows she's being challenged --
+
+					WINN
+				(cool) 
+			Naturally. We both serve the 
+			Prophets. There is no higher 
+			calling.
+				(beat) 
+			Sometimes, I sense you forget 
+			that, child.
+
+	Winn switches into Kai mode to throw Kira off balance.
+
+					WINN 
+			When was the last time you went to
+			the Shrine to pray?
+
+					KIRA 
+			A few days ago.
+
+					WINN
+				(disappointed) 
+			I see.
+
+	Kira finds herself a bit on the defensive, which is 
+	just what Winn wanted.
+
+					KIRA 
+			I've been busy attending to 
+			station business.
+
+					WINN 
+			I've found that daily prayer is 
+			indispensable to a fulfilling 
+			spiritual life. Perhaps you 
+			should make time to cultivate your 
+			faith.
+
+					KIRA 
+			I will.
+
+					WINN 
+			If I'm not mistaken, evening 
+			services are about to begin.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      24.
+
+19B  CONTINUED:	(2)
+
+					KIRA
+			I think so, yes.
+
+					WINN
+			Then go, child. You wouldn't want
+			to be late.
+
+	The Pope is telling her to go to church, and despite 
+	herself, Kira finds that she feels compelled to comply. 
+	She nods and moves off. The Kai watches her leave, 
+	secretly pleased she can still have that effect on 
+	people, then turns and returns to her private thoughts. 
+	Off the image of the Kai at the window...
+
+20
+thru   OMITTED
+20A
+
+20B  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As the wormhole opens.
+
+21   INT. SISKO'S QUARTERS 
+
+	Sisko stands at the window, thoughtfully watching the 
+	wormhole. The LIGHTS in the room are DIM, and he's 
+	taken off his uniform jacket. After a beat, the RUMBLE 
+	and SHUDDER. It subsides and a moment later, the door 
+	CHIMES.
+
+					SISKO
+			Yes.
+
+	The door OPENS to reveal Jake. He acts like he's just 
+	dropping by, but the truth is he's been worried about 
+	his dad ever since they were on Bajor.
+
+					SISKO
+			Jake-o.
+
+					JAKE
+			You're up late.
+
+					SISKO
+			So are you.
+
+	Sisko studies his son, senses he's troubled.
+
+					SISKO
+			What's on your mind?
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      25.
+
+21   CONTINUED:
+
+					JAKE 
+			I don't know. I guess I just 
+			wanted to make sure you're all 
+			right.
+
+					SISKO
+			I'm fine. Since when did you 
+			become such a worrier?
+
+					JAKE 
+			This Emissary stuff. It scares me 
+			a little.
+
+					SISKO
+				(moving to comfort him) 
+			Jake.
+
+	Jake doesn't want his father's comfort right now, he 
+	has something he needs to say.
+
+					JAKE.
+				(emotion rising) 
+			Twice now, twice in one year -- 
+			Doctor Bashir's called me down to 
+			the Infirmary to tell me something 
+			was wrong with you. And there you 
+			were, lying unconscious on a bio-
+			bed, having visions or something. 
+			There was nothing I could do 
+			except stand there... and wonder 
+			if you were ever going to wake up.
+
+	Sisko throws a comforting arm around his son.
+
+					SISKO
+			I know it wasn't easy.
+
+					JAKE 
+			I don't want it to happen again.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      26.
+
+21   CONTINUED:	(2)
+
+					SISKO
+			I never asked to be the Emissary.
+				(a beat)
+			But for better or worse, that's
+			what I am.
+
+									DISSOLVE TO:
+
+22   OMITTED
+
+23   INT. SISKO'S BEDROOM
+
+	Sisko's lying on his bed in his nightshirt. He shifts 
+	position, unable to sleep.
+
+24   INT. SCIENCE LAB (OPTICAL) 
+
+	as Sisko ENTERS the darkened room. The tablet sits on 
+	the examining table, bathed in the light from the 
+	overhead cowl. Sisko approaches it, his eyes searching 
+	it for some hidden meaning. He reaches out and touches 
+	it, half hoping to be thrown into another vision. 
+	Nothing. After a beat --
+
+					SISKO
+				(softly) 
+			Why do you always have to be so 
+			damn mysterious?
+
+	Sisko turns away, addresses the room at large, the 
+	unseen Prophets.
+
+					SISKO
+			Answer me! I'm tired of your 
+			riddles. If you need me to do 
+			something, say so.
+
+	Silence. Driven by some instinct he doesn't
+	understand, Sisko turns and takes hold of the tablet.
+	Without hesitation, without questioning what he's
+	doing, he lifts it over his head and SMASHES it on the
+	ground.
+
+	Only then, when it lies on the floor SHATTERED, does 
+	the instinct that compelled him to act pass from his 
+	features.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT TWO      27.
+
+24   CONTINUED: 
+
+	He stands there, breathing heavily, stunned by what 
+	he's done.
+
+	Then, something strange happens. The fragments emit 
+	strands of white and red ENERGY, which rise quickly and 
+	swirl into a violent VORTEX of white and red. Sisko 
+	recoils as the VORTEX shoots up through the ceiling and 
+	vanishes.
+
+25   SISKO
+
+	as he stands there wondering what the hell he's caused 
+	to happen...
+
+									FADE OUT.
+
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE     28.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. SCIENCE LAB 
+
+	The LIGHTS are now on, and Dax scans the broken pieces 
+	of the tablet with a tricorder. Sisko and Odo look on.
+
+					DAX
+			Let me guess -- you accidentally
+			knocked it over.
+
+					SISKO
+			Not exactly.
+
+					DAX
+			I didn't think so.
+
+					ODO
+			So what did happen?
+
+					SISKO
+				(at a loss)
+			I just had an uncontrollable
+			urge... to smash the tablet.
+
+					DAX
+			I get those urges all the time.
+			Of course, I never act on them...
+				(off tricorder)
+			I'm not reading any residual
+			energy signatures.
+
+					SISKO
+			That's impossible. Check the
+			station's internal sensors.
+
+	Odo complies by manipulating a console and observing 
+	the result.
+
+					ODO
+			Nothing.
+
+					SISKO
+			I'm telling you I saw something.
+
+					ODO
+				(calming)
+			We believe you, captain.
+
+					SISKO
+			Please Constable, don't patronize
+			me.
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE    28A.
+
+26   CONTINUED:
+
+	Suddenly, the LIGHTS DIM AND VARIOUS CONSOLES FRITZ. 
+	A beat and then the LIGHTS BRIGHTEN and the CONSOLES 
+	COME BACK ON-LINE. Our people exchange puzzled looks 
+	over this unusual occurrence.
+
+					SISKO
+				(taps combadge) 
+			Sisko to Ops. Report.
+
+								INTERCUT AS NEEDED:
+
+27   INT. OPS
+
+	Worf is in charge. SUPERNUMERARIES as needed.
+
+					WORF
+			We just experienced a stationwide 
+			power drain. We are attempting to 
+			determine the source.
+
+					SISKO 
+			Keep me informed.
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE     29.
+
+27   CONTINUED:
+
+					WORF
+			Aye, Sir.
+
+									END INTERCUT:
+
+	Sisko, Dax and Odo exchange a look.
+
+					ODO
+			It could be that the power drain 
+			is related to this energy 
+			discharge you saw.
+
+					DAX
+			I'm starting to think the same 
+			thing.
+
+	Sisko reaches down and picks up two fragments of the 
+	tablet. He studies them, lost in thought.
+
+					DAX
+			Benjamin -- you're not getting 
+			another urge, are you?
+
+					SISKO. 
+			No.
+				(realizing) 
+			I've done what I needed to do.
+				(off their looks) 
+			I know this is going to sound 
+			strange, but I think the Prophets 
+			wanted me to shatter the tablet.
+
+					DAX
+			Try explaining that to Kai Winn.
+
+									CUT TO:
+
+28   INT. CAPTAIN'S OFFICE
+
+	Sisko stands before the Kai. He's just finished 
+	explaining what happened and Winn is stunned.
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE     30.
+
+28   CONTINUED:
+
+					WINN
+			I can't believe that you'd be so 
+			petty as to destroy the artifact 
+			rather than turn it over to me.
+
+					SISKO 
+			That's not why I did it.
+
+					WINN 
+			You expect me to believe that the 
+			Prophets wanted you to destroy a 
+			priceless piece of Bajor's 
+			history?
+
+					SISKO
+			Yes, that's exactly what you have 
+			to believe.
+
+					WINN 
+			And why would they do that?
+
+					SISKO 
+			I wish I had an answer for you.
+
+					WINN 
+			I'm sure in time you'll come up 
+			with something.
+
+	The Kai's judgmental attitude piques Sisko's temper. 
+	But he knows on a visceral level that he's right, and 
+	he wants her to understand. He pulls back and reins in 
+	his emotions.
+
+					SISKO 
+			You and I haven't always seen eye 
+			to eye, but wehave one thing in 
+			common. We both believe the 
+			Prophets have a plan for Bajor. 
+			But sometimes it isn't easy to see 
+			the path they've laid out for us.
+
+	Sisko lays it on the line --
+
+					SISKO 
+			Right now, I can't say I know what 
+			they want from me. But I'm 
+			willing to take a leap of faith, 
+			and believe that they're guiding 
+			me. I'm asking you to take that 
+			leap with me.
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE     31.
+
+28   CONTINUED:	(2) 
+
+	The Kai is struck by Sisko's faith in her gods, but she 
+	can't see her way to admitting it.
+
+					WINN 
+			There's no need for a leap of 
+			faith, Emissary. The Prophets 
+			have made themselves quite clear. 
+			Two-thirds of the Rakantha wheat 
+			harvest has been destroyed by 
+			floods. Earthquakes have 
+			devastated Kendra Province, 
+			leaving hundreds homeless. 
+			Bajorans are suffering because of 
+			you. They're paying the price for 
+			your act of sacrilege.
+
+	As if to emphasize her words, the LIGHTS IN THE ROOM 
+	DIM and the MONITORS FLICKER. This time, they don't 
+	recover, and the room stays dark. Sisko is reaching 
+	for his combadge, when Odo's voice comes over the com 
+	system.
+
+					ODO'S COM VOICE 
+				(through static) 
+			Odo to Captain Sisko.
+
+					SISKO
+			Go ahead.
+
+					ODO'S COM VOICE 
+			You'd better come down to the 
+			Promenade, Sir.
+
+					SISKO
+			Is there a problem?
+
+					ODO'S COM VOICE 
+			I'll let you be the judge of that.
+
+	Off Sisko's face as he takes this in...
+
+29   INT. PROMENADE 
+
+	Sisko and the Kai ENTER from the turbolift opposite 
+	Security to find Odo and FOUR DEPUTIES looking down the 
+	Promenade. The LIGHTS here are also DIMMED, as if 
+	competing with something else for power. The monitors 
+	all show STATIC.
+
+	Strangely, a LIGHT BREEZE blows through the Promenade, 
+	causing the BANNERS hanging from the ceiling to flutter 
+	softly.
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE     32.
+
+29   CONTINUED:
+
+					ODO 
+			I think we've found the source of 
+			the power fluctuations.
+
+	Sisko gives him a quizzical look and Odo nods down the 
+	Promenade toward...
+
+30   KIRA (OPTICAL) 
+
+	She's standing in the doorway to the Bajoran Shrine, 
+	her EYES unnaturally BRIGHT. Her hair is disheveled 
+	and BLOWN by the BREEZE, which seems to emanate from 
+	her somehow. Her body has a hint of luminescence about 
+	it. Her head is cocked at an odd angle, as if she can
+	hear something we cannot.
+
+	INTERMITTENT BLUISH ENERGY DISCHARGES emerge from the 
+	doorway and disappear into her body, as if she's 
+	drawing power from her very surroundings.
+
+	The CROWD on the Promenade is giving her a wide berth. 
+	People are in small clusters at either end, others peer 
+	cautiously out of shop windows.
+
+					ODO 
+			When I tried to talk to her, she 
+			ignored me.
+
+	Odo's clearly pained and deeply concerned --
+
+31   KIRA
+
+	The energy flowing into her body has stopped. She 
+	cocks her head, looks in their direction. She turns 
+	and walks toward them at a deliberate pace. As she 
+	moves, the STATION LIGHTS nearest her FRITZ. She 
+	passes...
+
+32   A DESERTED KIOSK
+
+	Some glass bottles on its counter VIBRATE and then 
+	SHATTER.
+
+     DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT THREE     33.
+
+33   KIRA
+
+	as she passes Quark's, FRITZING more LIGHTS, MORN and 
+	a handful of CUSTOMERS retreat from the entrance and 
+	take cover.
+
+34   SISKO 
+
+	as she approaches. Kira comes to a stop before them, 
+	the WIND swirling around her. She ignores everyone but 
+	Sisko. When she speaks, there is a STRANGELY AFFECTED 
+	QUALITY to her voice.
+
+					KIRA/PROPHET 
+			You... are the Sisko.
+
+	A couple of Odo's Deputies instinctively drop their hands to their 
+	holstered weapons.
+
+					SISKO 
+			Keep your hands off your weapons. 
+				(turning back to face 
+				Kira) 
+			It's a Prophet. Why have you 
+			taken this woman's body?
+
+	The Kai and the other Bajorans react with a mixture of 
+	wonder and fear.
+
+					KIRA/PROPHET 
+			This vessel is willing. The 
+			Reckoning. It is time. 
+
+	Sisko, Odo, and the Kai struggle to assimilate this as 
+	we...
+
+									FADE OUT.
+
+END OF ACT THREE
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     34.
+                           ACT FOUR                             
+
+	FADE IN:
+
+35   INT. PROMENADE
+
+	The eerie scene continues -- the unearthly WIND, the 
+	flickering LIGHTS, Kira's strange countenance.
+
+					SISKO
+			This "Reckoning." What is it?
+
+					KIRA/PROPHET
+			The end... or the beginning.
+
+					SISKO
+			I don't understand.
+
+	The Kira/Prophet cocks her head and looks into the 
+	distance --
+
+					KIRA/PROPHET
+			I await Kosst Amojan.
+
+	Sisko doesn't know what this means, but the Kai's eyes 
+	widen in recognition.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     35.
+
+35   CONTINUED:
+
+					WINN 
+			The Evil One -- a Pah-wraith -- 
+			banished from the Celestial 
+			Temple.
+
+					SISKO
+			You're saying a Pah-wraith will 
+			take corporeal form as well?
+
+					KIRA/PROPHET 
+			The battle will be joined.
+
+	Sisko isn't sure he likes the sound of this -- a
+	celestial battle on his station?
+
+					SISKO 
+			This battle -- it's going to take 
+			place here?
+
+					KIRA/PROPHET 
+			Bajor will be reborn.
+
+	Winn reacts with recognition, her face flooding with 
+	bliss.
+
+					WINN 
+			Shabren's Fifth Prophecy. The 
+			Rebirth...
+				(off Sisko's look) 
+			If the Evil One is destroyed, it 
+			will bring a thousand years of 
+			peace.
+				(realizing what this 
+				means) 
+			The Golden Age of Bajor.
+
+	Despite the awe in her voice, for her own private 
+	reasons, Winn's not sure this is what she wants to see 
+	happen.
+
+					SISKO 
+			If it's destroyed?
+
+					WINN 
+			Who will prevail is not known.
+
+	Odo reacts, fearing for Kira's safety. Sisko turns to 
+	the Kira/Prophet --
+
+					SISKO 
+			What do you want from me? Am I 
+			supposed to help you in some way?
+
+					KIRA/PROPHET 
+			The Sisko has completed his task.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     36.
+
+35   CONTINUED:	(2)
+
+	Overwhelmed with emotion, the Kai steps forward and 
+	bows her head before Kira/Prophet, her eyes welling 
+	with tears.
+
+					WINN 
+			Forgive me for my blindness.
+
+	Kira/Prophet ignores the Kai and continues to stare at 
+	Sisko. The Kai desperately appeals for recognition.
+
+					WINN 
+			Prophet, hear me. I am the Kai of 
+			Bajor. I offer myself as your 
+			humble servant..
+
+	Kira/Prophet ignores the Kai and continues to stare at 
+	Sisko.
+
+					KIRA/PROPHET 
+			I await their vessel.
+
+	With that, the WIND STOPS and the Promenade LIGHTS STOP 
+	FLICKERING. Her eyes dull and she stands silent and 
+	very still.
+
+
+					WINN
+				(desperately pleading) 
+			Speak to me. Tell me what I 
+			should do.
+
+	No reaction. The Kai is crestfallen. She continues to 
+	kneel and stare at Kira, too numb to do anything else. 
+	Off Sisko's face as he grapples with what to do...
+
+
+36   INT. OPS 
+
+	Sisko, Odo, Dax, Worf, Bashir and Kai Winn are gathered 
+	around the Ops table.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     37.
+
+36   CONTINUED: 
+
+	Sisko has just finished explaining the situation to the 
+	others and they aren't happy about what they've heard.
+
+					SISKO 
+			We're evacuating.
+
+					BASHIR 
+			You can't be serious.
+
+					SISKO 
+			This "battle" could destroy the 
+			station.
+
+					DAX
+			Then don't let it be fought here.
+
+					SISKO 
+			I don't have any choice.
+
+					DAX
+			Yes, you do. We could flood the 
+			Promenade with chroniton 
+			radiation.
+
+					WINN 
+			Are you suggesting we kill a 
+			Prophet?
+
+					SISKO
+			I won't do that.
+
+	Bashir steps forward. Clearly he and the others have 
+	discussed this option among themselves.
+
+					BASHIR 
+			You don't have to. If we ramp up 
+			the chroniton levels slowly, it'll 
+			give the Wormhole Alien a chance 
+			to leave Kira's body before it's 
+			harmed.
+
+					DAX
+				(indicating a panel) 
+			We have everything rigged and 
+			ready to go. Just say the word.
+
+	Sisko makes his decision --
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     38.
+
+36   CONTINUED:	(2)
+
+					SISKO 
+			No.
+
+					DAX
+				(can't believe it) 
+			Benjamin.
+
+					WORF 
+			Deep Space Nine is critical to the 
+			defense of the Federation. We 
+			can't risk allowing it to be 
+			destroyed.
+
+	Sisko sees the arrayed faces of his crew, all united in 
+	opposition, and lays it on the line.
+
+					SISKO
+			When the Dominion fleet was about 
+			to come through the wormhole, I 
+			asked the Prophets for help. They 
+			gave it to me. Now they're asking 
+			for my help. They need to fight 
+			this battle here, now. I'm not 
+			going to jeopardize my crew, but 
+			I'm not going to stand in the way 
+			of the Prophets, either.
+
+	Sisko's conviction is persuasive, but after a beat, 
+	Bashir points out another danger --
+
+					BASHIR
+			What if the Prophets lose? Are 
+			you willing to sacrifice Kira?
+
+					SISKO
+			The Prophet said she was willing 
+			to be their instrument.
+
+					WORF
+			And you believe that?
+
+	Odo, who has been brooding while the others talk, 
+	suddenly speaks up.
+
+					ODO
+			I do.
+
+	Odo knows what he's saying could cost him Kira forever, 
+	but he also knows it's the truth --
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     39.
+
+36   CONTINUED:	(3)
+
+					ODO 
+			I know how important her faith is 
+			to her. I have no doubt she'd 
+			allow the Prophets to use her as 
+			their instrument.
+
+	A moment of silence as they all realize this is true. 
+	Sisko gives the order --
+
+					SISKO 
+			I'll notify Starfleet that we're 
+			abandoning the station. Begin the 
+			evacuation immediately.
+
+	Worf activates a console and the station goes to RED 
+	ALERT. Sisko heads for his office. Our people watch 
+	him go, and we can tell they're not happy about the 
+	Captain's decision.
+
+37   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	a few SHIPS pull away from the station.
+
+38   INT. AIRLOCK 
+
+	A Bajoran TRANSPORT is visible down the passageway, its 
+	hatch opened to receive the collection of N.D. 
+	RESIDENTS moving toward it. They're carrying what few 
+	PERSONAL POSSESSIONS they could grab on their way out. 
+	A troubled Odo counts them to himself as they go by. 
+	Worf ENTERS with a small knot of EVACUEES in tow --
+
+					WORF
+			Is this transport full?
+
+					ODO 
+			There's room.
+
+	Worf waves his passengers aboard --
+
+					ODO 
+			I'm going to check the Promenade 
+			for stragglers.
+
+					WORF
+				(stopping him)
+			Odo...
+
+	Worf considers whether to say what's on is mind --
+
+					WORF 
+			You should've helped us persuade 
+			the captain to end this.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     40.
+
+38   CONTINUED:
+
+					ODO 
+			I had to respect Kira's wishes.
+
+					WORF 
+			If it were Dax, I'm not sure I 
+			could have done the same.
+
+					ODO
+			Just be glad you didn't have to 
+			make that choice.
+
+	Worf looks at him with a new level of respect --
+
+					WORF
+			I hope, for your sake, that the 
+			Prophets are victorious.
+
+					ODO
+			They will be.
+				(a grim smile) 
+			If Kira has anything to do with 
+			it.
+
+	And with that, Odo moves away. Off Worf's face...
+
+39   INT. OPS
+
+	As Sisko ENTERS from his office. Dax and Worf are at 
+	their stations. SUPERNUMERARIES as needed.
+
+					SISKO 
+			Report.
+
+					DAX 
+			We expect to be down to a skeleton 
+			crew within the hour.
+
+					SISKO 
+			Very good.
+
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     41.
+
+39   CONTINUED:
+
+					DAX 
+			What did Starfleet have to say?
+
+					SISKO
+			I managed to convince them that we 
+			couldn't afford to defy the Prophets.
+
+	Worf knows what he's getting at --
+
+					WORF 
+			They are the only thing keeping 
+			the Dominion from coming through 
+			the wormhole.
+
+					DAX
+			True enough. The only problem is, 
+			there's no guarantee the Prophets 
+			will win this battle.
+
+	Odo's voice comes over the com system.
+
+					ODO'S COM VOICE 
+			Odo to Sisko.
+
+					SISKO
+			Go ahead, Constable.
+
+					ODO'S COM VOICE 
+			Captain, there's a group of 
+			Bajorans on the Promenade who are 
+			refusing to leave.
+
+	Off Sisko's reaction...
+
+40   INT. PROMENADE
+
+	About TWENTY N.D. Bajorans are kneeling on the 
+	Promenade. Kai Winn stands in the doorway to the 
+	temple, arms outstretched, leading them in prayer.
+
+					WINN 
+			Tera dak ihsehelm ran embah...
+
+					ALL 
+			... de-ram ta-meen...
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     42.
+
+41   ON WINN - PENITENT'S POV
+
+	The Kai has carefully placed herself between the 
+	faithful and Kira, in order to share the Prophet's 
+	spotlight. Kira remains hauntingly oblivious.
+
+					WINN 
+			Tera dak ihsehelm ran embah...
+
+					ALL
+			... de-ram ta-MEEN...
+
+42   SISKO AND ODO
+
+	observe the spectacle from nearby.
+
+					ODO
+			The last transports are standing 
+			by.
+
+	Sisko approaches the Kai.--
+
+					SISKO
+			Eminence.
+
+	Some of the pilgrims raise their heads at the sound of 
+	Sisko's voice, others continue in silent prayer. The 
+	Kai gestures that the worshipers continue, turns to 
+	Sisko.
+
+					WINN 
+			Emissary.
+
+	Sisko isn't interested in challenging the Kai, so he 
+	pitches his voice low.
+
+					SISKO
+			These people have to leave.
+
+	Winn doesn't appreciate having her moment interrupted 
+	by Sisko. She keeps a smile on her face in case 
+	anyone's looking.
+
+					WINN 
+			We're offering prayers for the 
+			Prophet's victory.
+
+					SISKO
+			The Prophets will hear your 
+			prayers wherever you are. It 
+			isn't safe here.
+
+	Winn stands firm, determined not to let Sisko upstage 
+	her. She smiles reasonably --
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     43.
+
+42   CONTINUED:
+
+					WINN
+			Then why haven't you left, 
+			Emissary? The Prophet said your 
+			task was done.
+
+					SISKO
+			I'm still captain of this station 
+			and I'm going to do everything in 
+			my power to save it. 
+				(leaning in) 
+			Now, are you going to tell these 
+			people to go, or should I?
+
+	Winn realizes that Sisko means it. She turns toward 
+	her flock, determined to be in control of the moment.
+
+					WINN
+			My children, the Prophets have 
+			heard your prayers. You must go.
+
+	As the worshipers stand, Sisko turns to Odo.
+
+					SISKO
+			Take them to the transports.
+
+	Odo is reluctant to leave Kira, but he's got to do his 
+	job. With a last look her way, he leads the worshipers 
+	to the airlock.
+
+	Winn steps over to Sisko, still not over the loss of 
+	face she experienced when the Prophet ignored her. She 
+	regards him with a steely look --
+
+					WINN
+			Congratulations, Emissary. Thanks 
+			to you, the Prophets' victory is 
+			at hand.
+
+	Sisko eyes Kira's still form, hoping Winn's not wrong --
+
+					SISKO 
+			I hope you're right.
+
+	Winn takes the opportunity to throw Sisko's earlier 
+	words back at him --
+
+					WINN
+			Where's your faith, Emissary? You 
+			don't believe that the Evil One 
+			will be victorious, do you?
+
+	But her own words seem to deflate whatever pleasure she 
+	takes in challenging Sisko.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FOUR     44.
+
+42   CONTINUED:	(2)
+
+					WINN 
+			Rest assured, the Golden Age is 
+			upon us. The Prophets and the 
+			people will be as one. Think of 
+			it. There'll be no need for 
+			Vedeks or Kais... or even 
+			Emissaries.
+
+	She smiles as if this were the most wonderful thing in 
+	the world, but Sisko senses the dark currents 
+	underneath. Suddenly the WIND whips up again and some 
+	LIGHTS FLICKER as --
+
+43   KIRA
+
+	OPENS her eyes.
+
+					KIRA/PROPHET 
+			Kosst Amojan has chosen its 
+			vessel.
+
+	Her head tilts upward. CAMERA FOLLOWS HER GAZE to the 
+	Second Level, where --
+
+44   JAKE (OPTICAL)
+
+	stands at the rail. His EYES are RED and hot, his 
+	features hard with barely controlled hate.
+
+	JAGGED BLUE ENERGY WISPS rise up from the rail and 
+	dissolve into his body. When he speaks, his voice is 
+	strangely RESONANT.
+
+					JAKE/PAH-WRAITH 
+			Let it begin.
+
+45   SISKO
+
+	as he realizes the Pah-wraith has chosen his son. Off 
+	his anguished countenance, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     45.
+ACT FIVE
+
+	FADE IN:
+
+46   INT. PROMENADE 
+
+	Kira and Jake -- Prophet and Pah-wraith -- now stand 
+	about twenty feet apart, their eyes focused intently on 
+	each other. The Kai watches the momentous 
+	confrontation with a mixture of awe and fear. Sisko 
+	steps forward --
+
+					SISKO
+			No. Not my son.
+
+	The combatants ignore him. In desperation, Sisko turns 
+	to his son. Jake ignores him, staring deeply into Kira's eyes.
+
+					SISKO
+			Take me instead.
+
+	Jake does not even glance at his father. Instead, he 
+	smiles malevolently at Kira.
+
+					JAKE/PAH-WRAITH
+			Your Emissary offers himself to
+			us. His faith wavers.
+
+	Sisko can't resist the impulse to step toward Jake and 
+	try to intervene, but Jake raises a hand and an unseen 
+	telekinetic force HURLS Sisko backward to the ground.
+
+47   KIRA AND JAKE (OPTICAL)
+
+	ENERGY TENDRILS begin to whip and snake around their
+	bodies -- Kira's are WHITE, Jake's an angry RED.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     46.
+
+47   CONTINUED: 
+
+	The TENDRILS begin to COALESCE at a point a few inches 
+	away from their respective bodies, then LANCE away, 
+	forming COLUMNS of energy that SMASH into each other at 
+	a point mid-way between the combatants.
+
+48   SISKO 
+
+	LIGHT plays on his features as he reacts to this sight. 
+	He squints against the WINDS being whipped up by the 
+	battle taking place in front of him.
+
+49   KIRA AND JAKE (OPTICAL)
+
+	A MASS OF ROILING ENERGY has formed where the two 
+	columns of energy meet. From the combatants' straining 
+	faces we can see that they're engaged in some colossal 
+	battle of metaphysical wills -- the energy mass shifts 
+	slightly toward Kira, but with an intense effort, she 
+	shifts it back toward Jake.
+
+50   SISKO
+
+	looks on in horror, fearing for his son's life. Around 
+	him, LIGHTS EXPLODE and SPARK.
+
+51   KIRA AND JAKE (OPTICAL)
+
+	increase the pressure, sending additional PULSES of 
+	energy at each other. When the pulses collide in the 
+	middle, the PLASMA BALL between them EXPANDS and kicks 
+	off energy FLARES that slam into surrounding parts of 
+	the station, showering SPARKS and causing the ground to 
+	SHAKE.
+
+52   KIRA
+
+	her features strained, but her eyes confident.
+
+53   JAKE
+
+	as his face begins to tremble with effort.
+
+54   KIRA AND JAKE (OPTICAL)
+
+	More FLARES split off from the mass of roiling energy 
+	between them, SLAMMING into surrounding parts of the 
+	station, showering SPARKS and SHAKING the ground.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     47.
+
+55   AN ANTIGRAVITY CART (OPTICAL)
+
+	abandoned by one of the panicked evacuees. An energy 
+	flare strikes the cargo atop it and the containers 
+	EXPLODE.
+
+56   THE KAI
+
+	The station SHAKES and she steps to Sisko's side -- 
+	fighting the HEAT emanating from the fireball.
+
+					WINN 
+			We must go, Emissary.
+
+	But Sisko shakes her off, his eyes glued to the 
+	terrible thing taking place before his eyes. If the 
+	Prophets win, if good triumphs over evil, Jake dies.
+
+57   KIRA 
+
+	her face trembling with effort, BLOOD begins to trickle 
+	from her nose.
+
+58   JAKE
+
+	the VEINS in his face have BULGED from the strain. We 
+	can see fear in his eyes.
+
+59   THE TURBOLIFT
+
+	opens and Dax ENTERS. She looks at the combatants with 
+	shock and alarm, then moves to where Sisko and the Kai 
+	stand, behind Kira and facing Jake. She has to shout 
+	above the SOUND of the battle -- the ROAR of the energy 
+	roiling close by, the whipping WINDS.
+
+					DAX 
+			Benjamin! 
+
+	Sisko turns at the sound of her voice --
+
+					DAX
+			Worf's standing by in Ops -- he 
+			can trigger the chroniton 
+			generator at your command. You 
+			can still end this, Ben.
+
+	The Kai reacts to this information, turns to see what 
+	Sisko will do. He's torn, looks out at --
+
+60   JAKE (OPTICAL)
+
+	Kira has forced the plasma ball closer to him -- he's 
+	clearly losing. His VEINS are bulging, seemingly on 
+	the verge of bursting open.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     48.
+
+61   SISKO
+
+	teeters on the edge of surrender.
+
+					SISKO
+			No, I have to let it play out.
+
+					DAX
+			That's your son out there!
+
+					SISKO
+			You think I don't know that?
+
+	Sisko is torn, but even as the station SHAKES around 
+	him, he's determined to keep the faith.
+
+					SISKO
+			The Prophets will protect him.
+
+					DAX
+			Ben, they're trying to kill him.
+
+					SISKO
+			No, they're trying to destroy the
+			Pah-wraith.
+				(wanting to believe)
+
+			They're not going to let anything
+			happen to Jake..
+
+					DAX
+			How do you know?
+
+					SISKO
+				(simply, but with 
+				conviction)
+			I know.
+
+	Dax backs off, hoping he's right. Deep in the Kai's 
+	chilly heart, she's moved by Sisko's faith.
+
+					DAX
+			We've got to get out of here.
+			According to the sensors, that
+			energy building up between them
+			could explode any second.
+
+	Sisko stares at Jake and shakes his head.
+
+					SISKO
+			I'm not going to leave Jake.
+
+	Kai Winn sees a martyr in the making -- the last thing 
+	she wants is to spend the rest of her life standing in 
+	the shadow of a statue of Sisko.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE    48A.
+
+61   CONTINUED:
+
+					WINN 
+			Emissary, you must go. Bajor 
+			needs you.
+
+	Dax takes hold of his arm.
+
+					DAX 
+			She's right.
+
+	But Sisko yanks free of her grip and shoves her away.
+
+					SISKO 
+			Get off the station. Now. That's 
+			an order.
+
+	An energy FLARE strikes a nearby bulkhead in an 
+	EXPLOSION of sparks. This is close enough for the Kai --
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     49.
+
+61   CONTINUED:	(2)
+
+					WINN
+			Come, child. We must go.
+
+	Dax reluctantly allows herself to be pulled away. They 
+	move to the AIRLOCK, and as they step inside --
+
+62   THE KAI
+
+	pauses to look back at Sisko. She realizes that 
+	despite a lifetime of study and devotion, she will 
+	never have the faith of this man... and she hates him 
+	for it. A beat, then she turns away.
+
+63   SISKO
+
+	watches Jake, anguished but determined to remain 
+	faithful to the will of the Prophets.
+
+64   INT. HABITAT RING CORRIDOR
+
+	Dax and the Kai move quickly down the passageway. Dax 
+	hits her combadge.
+
+					DAX
+
+			Dax to Worf.
+
+								INTERCUT WITH:
+
+65   INT. OPS 
+
+	Worf stands near the console Dax indicated earlier, 
+	ready to activate the chroniton generator. The station 
+	SHAKES.
+
+					WORF 
+			Go ahead.
+
+	A console in the background SPARKS.
+
+					DAX
+			Meet me at Airlock Eight. We're 
+			leaving.
+
+	Off Worf's face as he reacts to the realization that 
+	Dax failed to convince Sisko to change his mind.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE    49A.
+
+66   INT. ANOTHER HABITAT RING CORRIDOR (OPTICAL)
+
+	The station SHAKES as Dax and the Kai round a corner 
+	and start toward a T-intersection. SEVERAL N.D. 
+	Starfleet Officers can be seen moving across the 
+	intersection from left to right.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     50.
+
+66   CONTINUED:
+
+	Just ahead of Dax and the Kai, a BAJORAN WOMAN is 
+	struggling with two SMALL CHILDREN. An ENERGY 
+	discharge snakes across a nearby bulkhead and the 
+	children recoil in fear.
+
+					DAX
+				(to the Kai) 
+			Go on ahead. Airlock Eight is to 
+			the right. 
+
+	Dax stops to help the woman as the Kai moves on --
+
+					DAX 
+			Let me help you.
+
+67   THE KAI
+
+	reaches the intersection. She pauses, turns to see if 
+	Dax is watching. A beat, then she makes a decision. 
+	She heads against traffic, away from the airlock.
+
+67A  EXT. SPACE (OPTICAL) 
+
+	as a Runabout pulls away from DS9, a CRACKLE of energy 
+	snakes across the station's outer hull.
+
+68   INT. PROMENADE (OPTICAL)
+
+	as the station SHAKES around him, Sisko watches the 
+	battle between Kira and Jake. The PLASMA BALL is but 
+	a few feet from Jake now, defeat seems certain.
+
+69   JAKE 
+
+	the LIGHT dances madly across his contorted features. 
+	His face trembles with effort. BLOOD begins to trickle
+	from the corner of one eye -- it looks as if his head 
+	is about to explode.
+
+70   SISKO (OPTICAL)
+
+	Sisko watches, helpless, conflicted -- crushed by the 
+	sacrifice he's been asked to make.
+
+	Suddenly we hear the SOUND of some station system 
+	engaging and the entire Promenade is BATHED in a BLUE 
+	LIGHT. Kira and Jake both react with alarm, look 
+	around as if some new danger threatens them both.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE    50A.
+
+70   CONTINUED:
+
+					KIRA/PROPHET
+			No.
+
+	It takes Sisko a moment to realize what's happened -- 
+	someone is engaging the chroniton generator.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     51.
+
+71   INT. OPS
+
+	The Kai is standing alone by the control console, her 
+	eyes moist with tears.
+
+					COMPUTER VOICE
+			Chroniton levels at thirty-nine
+			kilanons and climbing...
+
+					WINN
+				(in a whisper)
+			May the Prophets forgive me...
+
+72   INT. PROMENADE (OPTICAL) 
+
+	The BLUE LIGHT is brighter now. Both combatants 
+	realize they must flee. Their eyes lock, and the 
+	columns of ENERGY roiling between them DISSIPATE. Jake 
+	looks at Kira... and smiles ominously. The Pah-wraiths 
+	have escaped destruction.
+
+	Suddenly TWO whirling vortexes of ENERGY (like the ones 
+	we saw in Scene 24) whip out of Kira and Jake and 
+	disappear into thin air --- the entities are gone.
+
+	Kira staggers backward, Jake collapses limply to the 
+	deck. Sisko rushes over to his son. Kira blinks and 
+	tries to focus her eyes as the Captain cradles Jake in 
+	his arms. The veins in his face have returned to 
+	normal, but he doesn't respond to Sisko's words.
+
+					SISKO 
+			Jake. Jake.
+
+	For a terrible moment it looks as if Jake might be 
+	dead, then the autonomic functions kick in and he draws 
+	a gasping breath.
+
+	Relief washes over Sisko and he pulls his son close, 
+	rocking him tenderly in his arms. Off this moment...
+
+73   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Ships return to the station. All is normal.
+
+74   INT. INFIRMARY
+
+	Bashir checks some readings on a PADD, looks up at 
+	Sisko.
+
+					BASHIR 
+			He'll be laid up for a few days, 
+			but he's going to be all right.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     52.
+
+74   CONTINUED:
+
+					SISKO
+			Can I see him?
+
+					BASHIR
+			For a minute.
+
+	Sisko moves to the bio-bed room and hesitates briefly 
+	at the entrance. Jake lies on the bio-bed, covered 
+	with a BLANKET. His eyes are closed and he looks very 
+	weak. Sisko gazes at his son from just inside the 
+	doorway. He rubs his temples, feeling guilty but 
+	terribly glad that Jake's alive. After a beat, Jake 
+	senses his presence and looks over.
+
+					JAKE
+			Dad?
+
+	Sisko takes a step forward.
+
+					SISKO
+			How're you feeling?
+
+	Jake manages a smile.
+
+					JAKE
+			Could be worse.
+
+	Sisko comes closer, wanting desperately to touch him, 
+	but feeling too guilty to do so.
+
+					SISKO
+				(trying to be upbeat)
+			You'll be up and about in no time.
+
+	A beat as Sisko looks for the right words, but can't 
+	find them.
+
+					SISKO
+			I don't know what to say.
+
+	Jake extends a hand from beneath the covers.
+
+					JAKE
+			Say you're happy to see me.
+
+					SISKO
+				(talking his hand)
+			You know I am.
+
+	A pregnant silence as Sisko struggles to say what's 
+	weighing on his conscience.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     53.
+
+74   CONTINUED:	(2)
+
+					SISKO 
+			Jake, I want to try to explain 
+			what happened -- but I'm not sure 
+			I can.
+
+	Sisko closes his eyes, unable to look at his son...
+
+					JAKE
+			You don't have to explain.
+
+	Sisko stares into the clear and steady eyes of his son.
+
+					JAKE 
+			When the Pah-wraith was inside me, 
+			I could feel its hatred. And I 
+			knew that no matter what, it 
+			couldn't be allowed to win. Even 
+			if it meant I had to die.
+
+	Sisko's eyes are wet with tears.
+
+					JAKE
+			You did the right thing.
+
+	Jake pulls him close, just like his father's done for 
+	him so many times, and holds him... just holds him. 
+	Off this image...
+
+75   INT. PROMENADE
+
+	SUPERNUMERARIES are repairing the damage. Life is 
+	returning to normal. Kira ENTERS from the Temple and 
+	catches sight of Odo making his way past. They meet 
+	up.
+
+					ODO
+			How was the prayer service?
+
+					KIRA 
+			To tell you the truth, I wasn't 
+			paying that much attention. 
+				(off Odo's look) 
+			I guess I'm still trying to make 
+			sense of everything that happened.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE    53A.
+
+75   CONTINUED:
+
+	Kira is clearly grappling with her experience, feeling 
+	a mixture of awe and loss.
+
+					KIRA 
+			Of all the people on this station, 
+			the Prophet chose me. I don't 
+			know why I deserved that honor.
+
+					ODO
+			Maybe that's why you were chosen. 
+			You have faith and humility.
+
+	Kira wants him to know something.
+
+					KIRA 
+			I heard that you told the captain 
+			I was willing to give my life to 
+			serve the Prophets. I appreciate 
+			that you respect my beliefs.
+
+					ODO 
+				(dry) 
+			Just the same, I wouldn't have 
+			minded if the Prophets had chosen 
+			someone else.
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     54.
+
+75   CONTINUED:	(2)
+
+	Kira smiles and kisses Odo lightly on the cheek.
+
+					KIRA 
+			I have to go. I'll drop by 
+			Security after I take the Kai to 
+			her shuttle.
+
+	Odo watches her EXIT down the Promenade, just glad 
+	she's alive.
+
+76   INT. AIRLOCK CORRIDOR
+
+	Kai Winn and Kira walk and talk on their way to the 
+	airlock.
+
+					WINN 
+			The Emissary couldn't escort me 
+			himself?
+
+					KIRA
+			He's with his son.
+
+	Winn mulls this over for a beat as they walk.
+
+					WINN 
+			I would've thought he'd want to thank me.
+
+					KIRA
+			For what?
+
+					WINN 
+			I prevented the destruction of 
+			this station. I saved the 
+			Emissary's life and the life of 
+			his son.
+
+	Kira stops dead and looks the Kai right in the face.
+
+					KIRA 
+			Don't pretend you did it for the 
+			captain.
+
+					WINN 
+			I did it for Bajor. If you 
+			haven't heard, the floodwaters 
+			have receded and the earthquakes 
+			have stopped.
+
+					KIRA
+			And you're going to take the 
+			credit for that?
+
+      DEEP SPACE NINE: "The Reckoning" - REV. 3/9/98 - ACT FIVE     55.
+
+76   CONTINUED:
+
+					WINN 
+			I take it as a sign that I did the 
+			right thing.
+
+	Kira can't believe what she's hearing --
+
+					KIRA 
+			You defied the will of the 
+			Prophets. And you did it because 
+			you couldn't stand the fact that 
+			a human, an infidel, had a 
+			stronger faith than you. The 
+			Emissary was willing to sacrifice 
+			his own son to serve the Prophets.
+
+	Kira's struck a chord, but Winn refuses to show it.
+
+					WINN 
+			My faith is as pure as the 
+			Emissary's.
+
+					KIRA 
+			I think you're confusing faith 
+			with ambition.
+
+	Winn has heard enough
+
+					WINN 
+			I'm not confusing anything, child, 
+			you are. The Prophets chose you 
+			as their instrument, that doesn't 
+			mean you can speak for them.
+
+	But Kira's on a roll -- if anything, her experience 
+	with the Prophets has given her clarity, and the 
+	courage to speak her mind.
+
+					KIRA
+			Because of your interference, 
+			the Reckoning was stopped. The 
+			Evil still exists. And I'm not 
+			sure even the Prophets know what 
+			that means for Bajor.
+
+	For once, Winn is speechless. Her features falter as 
+	she realizes Kira's right. After a silent beat, she 
+	pulls her robes tighter and, mustering as much dignity 
+	as she can, EXITS through the airlock. Off Kira's 
+	thoughtful features, we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

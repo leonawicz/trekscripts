@@ -1,0 +1,2788 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                            "Duet" 
+                    (fka "The Higher Law") 
+                          #40511-419 
+                              
+                           Story by 
+               Lisa Rich & Jeanne Carrigan Fauci 
+                              
+                          Teleplay by 
+                      Peter Allan Fields 
+                              
+                          Directed by 
+                          Jim Conway 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         March 26, 1993
+
+            STAR TREK: DS9 - "Duet" 3/26/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                            "Duet" 
+                             CAST 
+
+          SISKO                    CAPTAIN
+          KIRA                     DUKAT
+          ODO                      KAINON
+          QUARK                    KAVAL
+          BASHIR                   MARRITZA
+          DAX                      NEELA
+          O'BRIEN                  
+
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          SUPERNUMERARIES          
+          N.D. BAJORAN SECURITY GUARD
+          BAJORANS AND CARDASSIANS (VIEWSCREEN)
+          FIVE MIDDLE-AGED BAJORANS
+
+            STAR TREK: DS9 - "Duet" 3/26/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                            "Duel" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          COMMANDER'S OFFICE            
+          HOLDING CELL                  
+          INFIRMARY                     
+          OPS                           
+          PROMENADE                     
+          REPLIMAT                      
+          SECURITY OFFICE               
+
+        STAR TREK: DS9 - "Duet" 3/26/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                            "Duel" 
+                      PRONUNCIATION GUIDE 
+
+          AAMIN                    A-min
+          DARHEIEL                 dar-HEEL
+          GALLITEP                 GA-litep
+          KAINON                   KAY-non
+          KALEVIAN                 ka-LEE-vian
+          KAVAL                    ka-VAL
+          KALLA NOHRA              KA-11a NO-ra
+          KOBHEERIAN               ko-BEER-ean
+          KORA                     KO-ra
+          MARALTIAN                mar-AL-tian
+          MARRITZA                 marr-IT-sa
+          MONTAR                   MON-tar
+          NEELA                    NEE-la
+          POTTRICK                 POT-rik
+          RAK-MIUNIS               rak-me-U-nis
+          SEEV-ALE                 SEE-vail
+          SEMIHAL                  SEM-hall
+          SHAKAAN                  sha-KON
+          YAMOK                    YA-muk
+
+               DEEP SPACE: "Duet" - 03/26/93 - TEASER                1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                                "Duet"                                 
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Establishing.
+
+2    INT. OPS - FAVORING KIRA & DAX
+
+	KIRA and DAX doing everyday work at Dax's station.  
+	Supernumeraries as needed.
+
+					KIRA
+				(aside)
+			We never cared what we did, as long 
+			as it annoyed the grown-ups...
+				(off panel; business)
+			... All inner deflector shield sub-
+			systems are showing equal intensity.
+
+					DAX
+				(working panel)
+			Power balance levels are reading 
+			normal...
+				(aside)
+			... I was a champion window breaker.  
+			On a dark night with a few rocks, I 
+			was deadly.
+
+					KIRA
+			Uh... which "you" are you talking 
+			about?
+
+	Dax smiles -- then reacts to something new on her panel.
+
+					DAX
+			We're being hailed by an incoming 
+			freighter.
+
+					KIRA
+				(to Dax)
+			Open a channel.  On screen.
+
+               DEEP SPACE: "Duet" - 03/26/93 - TEASER                2.
+
+3    INCLUDING VIEWSCREEN (OPTICAL)
+
+	We see a (civilian) Kobheerian CAPTAIN in the command seat 
+	of her vessel.
+
+					KIRA
+			Welcome to DS Nine; I'm Major Kira 
+			Nerys.
+
+					CAPTAIN
+			This is the Kobheerian freighter Rak-
+			Miunis, requesting permission to 
+			dock.
+
+					KIRA
+			Docking Port Six is clear for 
+			approach.
+
+					CAPTAIN
+			Thank you.  We have a passenger on 
+			board requiring medical assistance.
+
+4    INCLUDING SISKO (INTERCUT AS DESIRED) (OPTICAL)
+
+	SISKO is watching and listening as he descends the steps 
+	from his (o.s) office.
+
+					SISKO
+			Can you tell us what's wrong with 
+			your passenger?
+
+					CAPTAIN
+			He says it's a condition called Kalla-
+			Nohra.  It's apparently chronic, but 
+			he doesn't have his medication.
+
+5    REACTION - KIRA
+
+	What she's just heard sounds familiar... She frowns in thought -- 
+	trying to recall, during:
+
+					SISKO
+			Beam him directly to our Infirmary.. 
+			we'll have our doctor standing by.
+
+6    RESUME - SHOT (OPTICAL)
+
+					CAPTAIN
+			Thank you, Commander.  Rak-Miunis 
+			out.
+
+               DEEP SPACE: "Duet" - 03/26/93 - TEASER                3.
+
+6    CONTINUED:
+
+	And the Viewscreen blanks.
+
+					DAX (O.S.)
+			Dax to Infirmary.
+
+					BASHIR'S COM VOICE
+			This is Bashir; go ahead.
+
+					DAX
+			A Kobheerian transport's about to 
+			beam a patient to you.  He's suffering 
+			from something called Kalla-Nohra.
+
+					BASHIR'S COM VOICE
+			I'm not aware of it... I'll check 
+			the computer.
+
+					KIRA
+			Commander, I'd like to go down to 
+			the Infirmary and meet that patient.
+
+					SISKO
+			Of course... Why?
+
+					KIRA
+			The only cases of Kalla-Nohra I know 
+			of were the result of a mining 
+			accident at a Bajoran forced labor 
+			camp I helped liberate.  The survivors 
+			of Gallitep have always been a symbol 
+			to us of strength and courage.
+
+					SISKO
+			By all means, Major, take as long as 
+			you want.
+
+7    OMITTED
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-Establishing.
+
+             DEEP SPACE: "Duet" - REV. 03/30/93 - TEASER             4.
+
+9    INT. PROMENADE OUTSIDE INFIRMARY
+
+	Kira approaches, and will enter, the (o.s.) Infirmary.
+
+10   INT. INFIRMARY (CONTINUOUS)
+
+	As Kira ENTERS, BASHIR -- about to administer a hypo-spray -- 
+	looks up from the (not as yet visible to us) patient lying 
+	on his diagnostic bed, and:
+
+					BASHIR
+			Ah, Major.  I'll be right with you.
+
+	Kira looks past Bashir with a perplexed frown as she sees:
+
+11   MARRITZA
+
+	Just rising to a sitting position -- and turning to face her 
+	squarely -- is a middle-aged Cardassian, MARRITZA.
+
+12   CLOSE - KIRA
+
+	Long beat, as she digests the shock.  Then:
+
+					KIRA
+				(taps combadge)
+			Kira to Odo... I'm in the Infirmary.  
+			I need security here on the double.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT ONE             5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+13   INT. INFIRMARY (CONTINUOUS)
+
+	Only a brief moment has passed.
+
+					BASHIR
+			What's the matter, Major.
+
+					KIRA
+				(hating the man)
+			Your patient is a criminal.
+
+	The clash of stares exchanged by Kira and Marritza ends 
+	abruptly, as -- suddenly -- Marritza (though obviously not 
+	at full strength) bolts from the bed and rushes out, past 
+	both Bashir and Kira.
+
+14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS)
+
+	As Marritza, weakened and unable to give the effort his 
+	Cardassian best, "escapes" right into the N.D. Bajoran 
+	Security Guard who holds him for Odo, as:
+
+					ODO
+			Good afternoon.
+
+15   INCLUDING KIRA
+
+	She rushes out from the (o.s.) Infirmary; relaxes as she 
+	sees Odo's got the escapee in hand (literally).
+
+					ODO
+				(to Kira; re: Marritza)
+			I assume this is the problem?
+
+					KIRA
+			Lock him up.
+
+					MARRITZA
+			This is outrageous!  On what charge!
+
+	Bashir emerges from the Infirmary -- hypo-spray still in 
+	hand -- with:
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT ONE             6.
+
+15   CONTINUED:
+
+					BASHIR
+			Will someone tell me what's going 
+			on?  This man needs medical care!
+
+					KIRA
+			Then give it to him.
+
+	As Bashir starts forward...
+
+					KIRA
+			In his cell.
+
+					MARRITZA
+			But I haven't done anything!
+
+					ODO
+			Then why did you run?
+
+					MARRITZA
+			I was trying to get away from this 
+			Bajoran fanatic.  Look at the hate 
+			in her eyes.  She'd like to kill me.
+
+					ODO
+			Oh?  And why would that be?
+
+					MARRITZA
+			It's obvious.  I'm a Cardassian.
+
+					KIRA
+			This one's not just any Cardassian.  
+			He's a war criminal.
+
+	She nods to Odo, and that's enough say-so for him.  He 
+	gestures his Security Guard to take Marritza along toward 
+	the (o.s.) Security Office.
+
+16   CLOSE - KIRA
+
+	watching them go.  With malevolence.
+
+17   INT. SECURITY OFFICE
+
+	Sisko stands facing Kira, with Odo seated.  Sisko's concerned, 
+	but not impatient; and not challenging to her in any way.  
+	He's sensitive here to the reality that Bajoran/Cardassian 
+	wounds remain unhealed.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT ONE             7.
+
+17   CONTINUED:
+
+					SISKO
+
+				(to Kira)
+			You're saying that this man...
+				(aside)
+			What's his name?
+
+					ODO
+			Marritza.  Aamin Marritza.
+
+					SISKO
+			You're saying Marritza's on the 
+			Bajoran's list of Cardassians wanted 
+			for war crimes?
+
+					ODO
+			He's not on any list I've seen, 
+			Commander; and I've got them all.
+
+					KIRA
+			I don't care if he's listed or not...
+
+					SISKO
+				(calming)
+			Now hold it, Major.  Marritza's 
+			traveling on a Federation ship.  He 
+			comes here for a medical emergency, 
+			and we throw him into a security 
+			cell.  I, for one, hope he's listed.
+
+					KIRA
+			Commander, I know what I've done 
+			isn't exactly policy.  It may not 
+			even be legal.  But it's right.
+
+					SISKO
+			Okay, Major; what do we charge him 
+			with?
+
+					KIRA
+			I'm charging him with having 
+			contracted Kalla-Nohra.
+
+					SISKO
+			Do you want to explain that to me?
+
+					KIRA
+			The only way he could have contracted 
+			that condition was to have served at 
+			the Gallitep labor camp at the time 
+			of the mining accident.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT ONE             8.
+
+17   CONTINUED:	(2)
+
+					SISKO
+			And that makes him a war criminal.  
+			Just being there?
+
+					KIRA
+			Commander, if you had been there 
+			twelve years ago when we liberated 
+			the camp... If you had seen the things 
+			I saw... All those Bajoran bodies... 
+			starved, brutalized.  D'you know 
+			what Cardassian policy was?  I don't 
+			mean just the murder.  Murder was 
+			only the end of the fun for them.  
+			First came the humiliation... the 
+			rape of mothers in front of their 
+			children... Husbands beaten till their 
+			wives couldn't recognize them... Old 
+			people buried alive because they 
+			couldn't work anymore...
+
+	She can't go on.  There's a long emotional beat of silence 
+	broken by...
+
+					SISKO
+			I think I'll have a talk with our 
+			guest.
+
+					KIRA
+			I'll come with you.
+
+					SISKO
+			No, Major.  It'd be better if I spoke 
+			to him alone.
+
+	And Sisko heads for the (o.s.) holding cell area.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT ONE             9.
+
+18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS)
+
+	... as Sisko ENTERS the area.  In cell #1:  Marritza.  In 
+	cell #2 (which is in b.g.), an unkempt, even disheveled-
+	appearing, mid-30's Bajoran named KAINON -- who's asleep.
+
+					SISKO
+			How do you feel?
+
+					MARRITZA
+			Better, thank you.
+
+					SISKO
+			I'm Benjamin Sisko; I'm in charge of 
+			this station.
+
+					MARRITZA
+			Ah; finally.  The Federation to the 
+			rescue.  You are going to let me out 
+			of here...
+
+					SISKO
+			I hope so.  Tell me.  How did you 
+			contract Kalla-Nohra syndrome?
+
+					MARRITZA
+				(slight chuckle)
+			I don't have Kalla-Nohra.  I have 
+			Pottrik Syndrome.
+
+					SISKO
+			The freighter captain told us it was 
+			Kalla-Nohra.
+
+					MARRITZA
+			Ah.  The two conditions are very 
+			similar; same medication, as a matter 
+			of fact.
+
+					SISKO
+			Then you didn't serve at the Gallitep 
+			labor camp?
+
+					MARRITZA
+				(very amused)
+			Labor camp.  I've never even been to 
+			Bajor.  I served as a military file 
+			clerk.
+
+               DEEP SPACE: "Duet" - 03/26/93 - ACT ONE              10.
+
+18   CONTINUED:
+
+					MARRITZA
+			I now reside on Kora Two, where I 
+			boarded the freighter which, 
+			unfortunately for me, came here.  
+			Now, Commander, if you have no further 
+			questions, I'd like to be on my way.
+
+	Kainon wakes up -- becomes very awake when he sees Marritza.
+
+					KAINON
+			Am I still drunk, or am I in jail 
+			with a Cardassian?
+				(yells o.s.)
+			Odo!  You're not keeping me in here 
+			with...
+				(re; Marritza; disgust)
+			... one of those!  Odo!
+
+	Marritza looks over at Kainon -- then back at Sisko.  He 
+	looks very put-upon.
+
+					MARRITZA
+			I put myself in your hands, Commander.
+
+19   INT. COMMANDER'S OFFICE
+
+	Sisko's in his chair; Bashir stands facing him.
+
+					SISKO
+			Let me get this straight.  You're 
+			saying that Marritza does have Kalla-
+			Norha?
+
+					BASHIR
+			There's no doubt about it.  He has 
+			all the symptoms.  And when I ran a 
+			lower pulmonary bio-probe, it read 
+			positive.
+
+					SISKO
+			And you're sure he doesn't have 
+			Pottrik Syndrome.
+
+					BASHIR
+			Absolutely.  If he had Pottrik's, 
+			the bio-probe would've been negative.
+
+               DEEP SPACE: "Duet" - 03/26/93 - ACT ONE              11.
+
+19   CONTINUED:
+
+					SISKO
+			Then he was at the Gallitep labor 
+			camp.
+
+
+					BASHIR
+			Definitely.  I've cross-checked all 
+			Bajoran and Federation medical 
+			records, and there's simply no other 
+			way he could've gotten that condition.
+
+					KIRA'S COM VOICE
+			Kira to Sisko.
+
+					SISKO
+				(taps combadge)
+			Yes, Major.
+
+					KIRA'S COM VOICE
+			Commander, there's an incoming 
+			transmission for you from Bajor.  
+			It's the Minister of State.
+
+					SISKO
+			Thank you.
+				(to Bashir)
+			If you'll excuse me, Doctor.
+
+	Bashir nods -- EXITS.
+
+20   INCLUDING SISKO'S MONITOR SCREEN (OPTICAL)
+
+	as the face of Minister KAVAL appears.
+
+					SISKO
+			Minister Kaval.  Good day, Sir.
+
+					KAVAL
+			And to you, Commander.  I trust you're 
+			in good health; things are going 
+			well on the station... ?
+
+					SISKO
+			Quite well, thank you.
+
+					KAVAL
+			That's wonderful.  I'm told you've 
+			performed a special service for Bajor 
+			today.  Congratulations to you.
+
+					SISKO
+			I don't quite follow.
+
+               DEEP SPACE: "Duet" - 03/26/93 - ACT ONE              12.
+
+20   CONTINUED:
+
+					KAVAL
+
+			You're not holding a certain 
+			Cardassian for us?
+
+					SISKO
+			We are holding a Cardassian... 
+			temporarily.
+
+					KAVAL
+			By "temporarily," you mean until 
+			you're satisfied that a verified 
+			identification has been made.
+
+					SISKO
+			Minister, I'm not sure we have the 
+			grounds to hold him that long.
+
+					KAVAL
+			I fully understand your concerns, 
+			Commander, but...
+				(happy solution)
+			... since our Major Kira's accepted 
+			responsibility in this matter, the 
+			burden is off your shoulders.
+
+					SISKO
+			I don't agree.
+
+					KAVAL
+				(less jovial)
+			Commander, if this Marritza was at 
+			Gallitep, we want him, and we will 
+			have him.  Is that clear?
+
+					SISKO
+				(not pleased)
+			It is.
+
+					KAVAL
+			Good.
+				(affably again)
+			We'll chat again soon.  Good day, 
+			Commander.
+
+	And the monitor screen blanks.  MOVE IN and HOLD on Sisko's 
+	face -- which reflects his frustration, as we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            13.
+                            ACT TWO                             
+
+	FADE IN:
+
+21   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-Establishing.
+
+22   INT. REPLIMAT - SISKO & KIRA
+
+	Kira sits alone, sipping a raktajino -- but deep in thought.  
+	Sisko ENTERS FRAME.
+
+					SISKO
+			May I join you?
+
+					KIRA
+			Actually, I was just about to pay a 
+			visit to our friend Marritza.
+
+					SISKO
+			That's what I wanted to talk to you 
+			about, Major.
+				(sits)
+			I'd like Odo to handle this 
+			investigation.
+
+	Kira -- surprised -- puts down her cup, and:
+
+					KIRA
+			Why?
+
+					SISKO
+				(simply)
+			He's our Chief of Security.
+
+					KIRA
+			Minister Kaval put me in charge.
+
+					SISKO
+				(gently)
+			Minister Kaval doesn't run this 
+			station.
+
+					KIRA
+			And the Federation's got no right 
+			telling us how to deal with our 
+			criminals.
+
+					SISKO
+			If it turns out he is a criminal, 
+			he'll be yours and you're welcome to 
+			him.  Until then, he's just a traveler 
+			under suspicion.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            14.
+
+22   CONTINUED:
+
+					KIRA
+				(beat; quietly)
+			You think this is all some personal 
+			vendetta on my part, don't you?
+
+					SISKO
+			I think you're too close to be 
+			objective, yes.
+
+					KIRA
+			You're right; I'm not objective.  
+			But I'm your first officer, and I 
+			give you my word that I'll conduct 
+			myself accordingly.
+
+	Sisko sits back for a moment of silent consideration, as:
+
+					KIRA
+				(a soft plea)
+			You once said we were friends.  I'm 
+			asking you now as a friend.  Please 
+			let me conduct this investigation.  
+			I owe it to them.
+
+					SISKO
+			You mean the victims.
+
+					KIRA
+				(slow nod)
+			That's right; the ones who moved too 
+			slowly and never moved again... I'm 
+			asking for all the Bajorans who can't 
+			ask... Let a Bajoran do this.
+
+	A long beat -- as Sisko makes his decision.  Then:
+
+					SISKO
+				(beat; taps combadge)
+			Sisko to Odo.
+
+					ODO'S COM VOICE
+			Go ahead.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            15.
+
+22   CONTINUED:	(2)
+
+					SISKO
+			Constable; Major Kira will be in 
+			charge of the Marritza investigation.
+
+					ODO'S COM VOICE
+			I understand.
+
+					SISKO
+			Sisko out.
+
+					KIRA
+				(rising)
+			Thank you.
+
+	HOLD on Sisko, as he watches her go.
+
+23   INT. SECURITY OFFICE
+
+	As Kira ENTERS, Odo is bringing the just-released Bajoran, 
+	Kainon, out from the (o.s.) holding cell area.
+
+					KIRA
+				(hello)
+			Constable...
+
+					KAINON
+			It's about time you let me out.
+
+					ODO
+				(to Kainon)
+			Try to stay out of trouble for a day 
+			or two, will you?
+
+					KAINON
+			I'll do my best.
+				(beat)
+			Oh, and Odo... let me know when you 
+			hang the Cardassian.
+
+	AS KAINON EXITS:
+
+					ODO
+			I've begun a background check on 
+			Marritza.  So far he is what he says 
+			he is.  He boarded that Kobheerian 
+			freighter at Kora Two, where he's 
+			worked as an instructor at a military 
+			academy for the past five years.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            16.
+
+23   CONTINUED:
+
+					KIRA
+			Keep looking.
+
+					ODO
+			Don't worry, Major; I intend to.
+
+					KIRA
+			I'll be with the prisoner if you 
+			need me.
+
+	And Kira moves toward the (o.s.) holding cell area.
+
+24   INT. HOLDING CELL AREA (CONTINUOUS)
+
+	as Kira ENTERS.  Marritza's still in cell #1 -- finishing a 
+	meal.  Kira's calm and carefully determined to be reasonable 
+	and rational.  Though Marritza's still not a happy Cardassian, 
+	he's in no way threatening or imperious now.  Rather, he'll 
+	prove to have an almost affable willingness to communicate.
+
+					MARRITZA
+			My compliments on your replicators, 
+			Major; though this sem'hal stew could 
+			use some yamok sauce.
+
+					KIRA
+			I'm glad you're enjoying it.
+
+					MARRITZA
+			Oh, I doubt that, Major; I doubt 
+			that very much.
+
+					KIRA
+			I hope it won't disturb your dinner 
+			if I ask you a few questions.
+
+					MARRITZA
+			And if I refuse?
+
+					KIRA
+			I'll ask them anyway.
+
+	Marritza smiles.  It's as he expected.
+
+					MARRITZA
+			Yes, of course.
+
+					KIRA
+			It is my job.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            17.
+
+24   CONTINUED:
+
+					MARRITZA
+			Persecuting Cardassians?  Oh, that 
+			goes beyond your job, Major... That's 
+			your passion.
+
+	KIRA IGNORES THE JAB, AND:
+
+					KIRA
+			You claim you weren't at Gallitep.
+
+					MARRITZA
+			Yes, I missed that honor.
+
+					KIRA
+			And that your illness is not Kalla-
+			Nohra.
+
+					MARRITZA
+			Again, true.
+
+					KIRA
+				(got him)
+			Again false.  Our doctor verified 
+			that you do have Kalla-Nohra, which 
+			means you were at Gallitep.
+
+	With calmness and ease, she leans one arm against the entry-
+	frame just outside the imprisoning forcefield, as:
+
+					KIRA
+			If your lies are going to be that 
+			transparent, this will be a short 
+			interrogation.
+
+					MARRITZA
+				(shrugs)
+			In that case, I'll try to make my 
+			lies more opaque.
+
+					KIRA
+			What was your rank at Gallitep?  
+			What were your duties?
+
+	Finished with his dinner, Marritza leans back against the 
+	wall; indulging his post-meal relaxation.
+
+					MARRITZA
+			You really don't want to know.
+
+					KIRA
+			Just answer the question.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            18.
+
+24   CONTINUED:	(2)
+
+					MARRITZA
+			You're going to be very disappointed.
+
+
+					KIRA
+			I'll risk it.
+
+					MARRITZA
+			I had the distinction of serving in 
+			the exalted position of...
+				(beat; leans forward 
+				to confide)
+			... Filing clerk.
+
+					KIRA
+			Filing clerk?
+
+	The apparent relaxation Kira's displayed to this point 
+	diminishes somewhat.  He notices it, and:
+
+					MARRITZA
+			You see?  I told you you'd be 
+			disappointed.
+				(rises; conversational 
+				pacing)
+			Actually, I would've been just as 
+			happy to avoid military service 
+			altogether.  Fortunately, I was lucky 
+			enough to draw duty in the records 
+			office at Gallitep.  As it turned 
+			out, I proved an exemplary file clerk.  
+			During my fourteen units of service, 
+			not one report was lost or misfiled.  
+			I was awarded numerous commendations.  
+			Gul Darhe'el himself told me my 
+			computer filing system was a 
+			"masterpiece of meticulous 
+			exactitude."
+				(beat)
+			So now you know.  My secret is out; 
+			my crime laid bare.
+				(smiles)
+			I await execution.
+
+					KIRA
+				(smiles back)
+			I hope we don't keep you waiting 
+			long.
+				(beat)
+			I've never heard of a filing clerk 
+			becoming an instructor at a military 
+			academy.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            19.
+
+24   CONTINUED:	(3)
+
+					MARRITZA
+			Until now.
+
+					KIRA
+			And what did you teach?
+
+					MARRITZA
+			Believe it or not...
+				(beat; confides)
+			Filing.
+
+					KIRA
+				(anger flaring)
+			I can verify that.
+
+					MARRITZA
+			Be my guest.
+
+					KIRA
+				(skeptical)
+			I still think you're a liar.
+
+					MARRITZA
+			Ah.  So much for our search for the 
+			truth.  Now we exchange insults.
+
+					KIRA
+			You admit you worked under Gul 
+			Darhe'el.
+
+					MARRITZA
+			We all did.
+
+					KIRA
+			I take it, then... you witnessed the 
+			atrocities.
+
+					MARRITZA
+			Atrocities?  What atrocities?
+
+	He seats himself again; unperturbed, during:
+
+					MARRITZA
+			Oh, I do vaguely recall hearing a 
+			scream now and then, but...
+				(skeptical disbelief)
+			Atrocities?
+
+					KIRA
+			Do you expect me to believe you knew 
+			nothing about the murders... the 
+			torture... You never saw the bodies?
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO           19A.
+
+
+24   CONTINUED:	(4)
+
+					MARRITZA
+			Well of course I saw bodies.  People 
+			died at Gallitep all the time.  
+			Mining accidents; illnesses; feuds 
+			among the workers...
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            20.
+
+24   CONTINUED:	(5)
+
+					KIRA
+			You're saying Bajorans killed each 
+			other?
+
+					MARRITZA
+			At times.  Over food; a blanket; a 
+			woman... Conditions were harsh, after 
+			all.  It was a labor camp, Major.
+
+					KIRA
+			I helped liberate that camp.  I saw 
+			those bodies.  I saw how they died.
+
+					MARRITZA
+			You saw what we wanted you to see.  
+			Do you know who started the rumors 
+			about brutality at Gallitep?  Gul 
+			Darhe'el himself.  Now there was a 
+			leader.  A brilliant, extraordinary 
+			man.  He knew that to rule by fear 
+			was to rule completely.
+				(off-handed shrug)
+			Why bother with actual mass murder, 
+			when the mere reports of such 
+			incidents achieved the same effect.
+
+					KIRA
+			Which was?
+
+					MARRITZA
+			Major, you know that as well as I 
+			do.  To keep you Bajorans thinking 
+			of yourselves as victims.  To keep 
+			you scared... and helpless.
+
+					KIRA
+			It turned out we weren't so helpless.  
+			We did get rid of you.
+
+					MARRITZA
+				(dismissive)
+			Leaving was a political decision.
+				(beat)
+			Now I've enjoyed reminiscing with 
+			you, Major; but I really do think 
+			it's time you let me out of here.
+
+					KIRA
+			I can't do that.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT TWO            21.
+
+24   CONTINUED:	(6)
+
+					MARRITZA
+			No, of course not.  You see, Major, 
+			you're the one who's lying now, not 
+			me.  You're not interested in truth.  
+			All you want is vengeance.
+
+	Kira starts, almost reflexively, to speak out.  But she 
+	doesn't.  She can't.  He may be right.  Long beat -- as they 
+	just stare at each other.
+
+25   ON MARRITZA
+
+	as, smiling, he knows he's gotten to her.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+              DEEP SPACE: "Duet" - 03/26/93 - ACT THREE             22.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-Establishing.
+
+27   INT. COMMANDER'S OFFICE (OPTICAL)
+
+	Sisko sits before his monitor screen, on which is visible 
+	the face of the Cardassian, GUL DUKAT.
+
+					DUKAT
+			Commander, I was led to believe that 
+			the Federation guaranteed safe and 
+			unrestricted passage to all travelers 
+			visiting your station.
+
+					SISKO
+			That's correct.
+
+					DUKAT
+			Then how do you explain your detention 
+			of a Cardassian citizen?
+
+					SISKO
+			Marritza came here seeking medical 
+			attention.  Right now, he's under 
+			our doctor's care.  All we're trying 
+			to do is verify his identity.  A 
+			simple matter, if you'll give us 
+			some assistance.
+
+					DUKAT
+			I assure you, Commander, you don't 
+			require our assistance.  If your 
+			patient says his name is Marritza, 
+			then that's who he is.  I hope you're 
+			not suggesting you don't trust him 
+			simply because he's Cardassian.
+
+					SISKO
+			I don't trust him because he's already 
+			lied to us about his being at 
+			Gallitep.
+
+					DUKAT
+			Is that what you're charging him 
+			with, Commander?  Lying?
+
+           DEEP SPACE: "Duet" - REV. 04/05/93 - ACT THREE           23.
+
+27   CONTINUED:
+
+					SISKO
+			So far, we haven't charged him with 
+			anything.
+
+					DUKAT
+				(an order)
+			Then let him go.
+
+	Beat -- but Sisko retains his affable manner, with:
+
+					SISKO
+			I'd like nothing better.  But first 
+			I need to know who it is I'm letting 
+			go.
+
+					DUKAT
+			I appreciate the awkwardness of your 
+			position, Commander.  This Bajoran 
+			obsession with alleged Cardassian 
+			improprieties during the occupation, 
+			is really quite distasteful.
+
+					SISKO
+			I suppose if you're a Bajoran, so 
+			was the occupation.
+
+					DUKAT
+			I remind you that neither one of us 
+			is Bajoran.  I'd hate their bitterness 
+			to cause conflict between Cardassia 
+			and the Federation.
+
+					SISKO
+			I hope to avoid that, too... with 
+			your help.
+
+					DUKAT
+			Commander, you don't need my help to 
+			safeguard one Cardassian on your own 
+			station.  If those Bajoran hate-
+			mongers get their hands on him, I'm 
+			holding you responsible.
+
+	And Sisko's monitor screen goes blank.  HOLD on Sisko's 
+	troubled face.
+
+27AA   INT. PROMENADE - SECOND LEVEL
+
+	Kira, standing alone, staring out a window at the vastness 
+	of space.
+
+           DEEP SPACE: "Duet" - REV. 04/05/93 - ACT THREE          23A.
+
+27AA   CONTINUED:
+
+	We get the feeling she's been standing there for awhile.  We 
+	HOLD for a beat, then Dax appears at her side, gazes out the 
+	window.
+
+					DAX
+			What're you looking for?
+
+					KIRA
+			Answers.
+
+					DAX
+				(sympathetic)
+			Found any yet?
+
+	Kira shakes her head.
+
+					KIRA
+			Marritza says I don't care about the 
+			truth.  That all I want is vengeance.
+
+					DAX
+			Are you worried he might be right... ?
+
+					KIRA
+			All I want is to see him punished.
+
+					DAX
+			Even if he is just a file clerk?
+
+	Kira takes a deep breath.  This isn't easy for her to admit.
+
+					KIRA
+			That's just it... I don't want him 
+			to be a file clerk.  I want him to 
+			be... I don't know... worse than 
+			that...
+
+					DAX
+				(nonjudgemental)
+			You want him to be guilty.
+
+					KIRA
+			As far as I'm concerned, if he was 
+			at Gallitep, he is guilty.  They 
+			were all guilty.  Don't you see, his 
+			punishment will make all of Bajor 
+			feel... some...
+				(searching)
+			...satisfaction.
+
+           DEEP SPACE: "Duet" - REV. 04/05/93 - ACT THREE          23B.
+
+27AA   CONTINUED:	(2)
+
+					DAX
+				(shakes her head)
+			It sounds like you're trying too 
+			hard to believe what you're saying.  
+			You already know if you punish him 
+			without reason, it won't mean 
+			anything.  And you already know 
+			vengeance isn't enough.
+
+	A beat as Kira thinks it over.
+
+27A  EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-Establishing.
+
+           DEEP SPACE: "Duet" - REV. 03/30/93 - ACT THREE           24.
+
+28   INT. OPS - CLOSE ON O'BRIEN
+
+	and NEELA, a Bajoran engineering apprentice, who are working 
+	beneath Dax's science console.
+
+					O'BRIEN
+			Re-route the signal enhancement module 
+			to the main sensor array.
+
+					NEELA
+			Aye, Sir.
+
+					O'BRIEN
+			How's it look?
+
+	They'll both come out from beneath the console, during:
+
+					NEELA
+			Give me a second; I'll run a 
+			diagnostic.
+				(scans with tricorder)
+			It's ready.
+
+29   WIDER ANGLE
+
+	We now see that, also present, are Sisko, Kira, Odo, Dax and 
+	Supernumeraries as needed.
+
+					ODO
+				(to Sisko and Kira)
+			I've checked with the Bajoran 
+			Archives, and they do have a Marritza 
+			on record as being a file clerk at 
+			Gallitep.  I also checked with the 
+			military academy on Kora Two.  
+			Marritza has been teaching filing 
+			there just as he claims.
+
+					O'BRIEN
+				(to Sisko)
+			All set, Commander.
+
+					SISKO
+			Major?
+				(eyes panel)
+			How many images were sent from the 
+			Bajoran archives?
+
+					KIRA
+			Only one.
+				(off his look)
+			It's the only picture they could 
+			find of Gallitep that had Marritza 
+			in it.  The Cardassians destroyed 
+			almost all records of the occupation.
+
+           DEEP SPACE: "Duet" - REV. 03/29/93 - ACT THREE           25.
+
+29A  ANOTHER ANGLE
+
+					O'BRIEN
+				(to Dax)
+			The image enhancement and 
+			transformation functions are patched 
+			directly into your console.
+
+	Dax nods, and as she begins working her console in 
+	preparation:
+
+					SISKO
+			Major, what if this image confirms 
+			that Marritza was a file clerk?  
+			What do you expect us to do, then?
+
+					KIRA
+			I suppose you'll let him go.
+
+					SISKO
+			I'm glad we understand each other.
+
+					DAX
+				(re: photo)
+			I've got it.
+
+					SISKO
+			On screen.
+
+30   ON VIEWSCREEN (OPTICAL) - INTERCUTS AS DESIRED
+
+	A fuzzy image appears on the screen.  It's a view, blurred 
+	by distance, of a section of the Gallitep labor camp -- and 
+	visible, but too small to be identifiable, are Five Bajoran 
+	Laborers (wearing dustwraps around their lower faces) working 
+	at a mine entrance; and Three Cardassians.  Two of the 
+	Cardassians are in the middle of the "picture" -- while the 
+	third, partially obscured in the b.g,  stands near the Bajoran 
+	workers.
+
+					SISKO
+			Which one is Marritza?
+
+					DAX
+				(working panel)
+			Let's see... According to the caption, 
+			he's the one in the background; on 
+			the far right.
+
+					SISKO
+			Isolate and magnify.
+
+           DEEP SPACE: "Duet" - REV. 03/29/93 - ACT THREE           26.
+
+30   CONTINUED:
+
+	The image on the screen zooms in on the Cardassian in 
+	b.g..  As his image is magnified, we see that his features 
+	are too blurred to be distinguishable.
+
+					SISKO
+			We're going to have to do better 
+			than that.
+
+					DAX
+			Give me a minute; I'm running an 
+			image enhancement sequence.
+
+	As Dax works at the console:  The image of the third 
+	Cardassian clears sufficiently for us to see his face clearly.  
+	It is not Marritza.
+
+31   CLOSE ON KIRA
+
+	Unhappily stunned.
+
+					KIRA
+				(quiet disbelief)
+			It's not him.
+
+32   RESUME - SHOT
+
+					SISKO
+				(to Dax)
+			Are you sure we're looking at the 
+			right man?
+
+					DAX
+				(double-checking 
+				console)
+			Background... far right... Aamin 
+			Marritza.
+
+					KIRA
+				(still in shock)
+			It can't be.
+
+           DEEP SPACE: "Duet" - REV. 03/29/93 - ACT THREE           27.
+
+32   CONTINUED:
+
+					SISKO
+			If that's Marritza, then who are we 
+			holding?
+
+	Beat -- as Sisko studies the image -- gets an idea, and:
+
+					SISKO
+			Lieutenant... Isolate the Cardassians 
+			in the foreground.
+
+	Dax dutifully works her panel controls -- and, as a result, 
+	we see a close-up of the Two Cardassians in f.g..  Sisko 
+	stares closely at one of them.
+
+					SISKO
+			The one in profile on the left... 
+			What can you give us, Dax?
+
+	Dax works the computer.
+
+32A  CLOSE ON PHOTO
+
+	CAMERA PUSHES IN and AROUND the Cardassian's profile -- begins 
+	filling in the blank information -- revealing an exact 
+	likeness of their Cardassian prisoner.
+
+33   CLOSE - KIRA
+
+	Wide-eyed consternation.
+
+           DEEP SPACE: "Duet" - REV. 03/30/93 - ACT THREE           28.
+
+					KIRA
+			That's him... That's Marritza.
+
+34   RESUME - SHOT
+
+					DAX
+			Not according to the caption.
+
+					KIRA
+			What d'you mean?
+
+					DAX
+			According to this... It's Gul 
+			Darhe'el.
+
+	And as they all react -- MOVE IN CLOSE on Kira.  She is 
+	absolutely stupefied.  HOLD, before we go to...
+
+35   INT. HOLDING CELL AREA
+
+	Kira ENTERS; this time with malevolent blood in her eye.  
+	She stands just inside; staring across at him.
+
+					MARRITZA
+			Ah.  Let me guess.  You've come back 
+			to learn the secret of my filing 
+			system.
+
+					KIRA
+				(ice)
+			I know all your secrets now.
+
+					MARRITZA
+			Is that so.
+
+					KIRA
+			What did you do?  Kill the real 
+			Marritza, so you could take his place?  
+			Well, you'll pay for that death; and 
+			all the others you're responsible 
+			for.
+
+	Beat -- Marritza seems about to protest, but thinks better 
+	of it -- merely shrugs his acceptance.
+
+					MARRITZA
+			I'm afraid I couldn't possibly pay 
+			for all of them, Major.  After all, 
+			there were so many... and you can 
+			only execute me once.
+
+           DEEP SPACE: "Duet" - REV. 03/31/93 - ACT THREE           29.
+
+35   CONTINUED:
+
+					KIRA
+			That's my only regret.  But I'll 
+			settle for knowing that Bajor will 
+			finally have the satisfaction of 
+			punishing "The Butcher of Gallitep."
+
+					MARRITZA
+			Tell me, Major; did you figure it 
+			all out by yourself, or did you need 
+			help from your Federation masters?
+
+					KIRA
+			I'll let you wonder about that.  
+			It'll keep you occupied while we're 
+			waiting for the provisional government 
+			to prepare your war crimes tribunal.
+
+	Marritza displays a slightly exaggerated perplexion, as:
+
+					MARRITZA
+			War crimes?  How could there be war 
+			crimes, when there wasn't any war?
+				(like an afterthought)
+			Of course, I can understand how you 
+			might wish there had been a war... 
+			Your need to indulge some pathetic 
+			fantasy of brave Bajoran soldiers 
+			marching to an honorable defeat.  
+			But in fact, Major, you and I both 
+			know there was no war; no glory; 
+			Bajor didn't resist.  It just 
+			surrendered.
+
+	Another beat -- as Kira regroups, and:
+
+					KIRA
+			The Bajorans were a peaceful people 
+			before you came.  We were no threat 
+			to you.  We could never understand 
+			why you had to be so brutal.
+
+					MARRITZA
+			Well we can't have that.  You see, 
+			Major, I don't want there to be any 
+			more secrets between us.  So whatever 
+			you don't understand, I'll explain.
+
+           DEEP SPACE: "Duet" - REV. 03/31/93 - ACT THREE           30.
+
+35   CONTINUED:	(2)
+
+					KIRA
+			Thank you, but I think I've heard 
+			enough of your lies.
+
+					MARRITZA
+			What lies?  You mean my failure to 
+			divulge my true identity?  Believe 
+			me, I yearned to tell you.  But I 
+			knew how much more satisfying it 
+			would be for you to find out for 
+			yourself.  And believe me, Major; 
+			that was my only deception.  Marritza?  
+			He was a magnificent file clerk.  
+			And I, Gul Darhe'el?  I hope you 
+			won't think it immodest of me when I 
+			say that I was a magnificent leader.  
+			You never saw Gallitep at its 
+			height.  As a labor camp, it was the 
+			very model of order and efficiency.  
+			And why?  For that, you must look to 
+			the top.  To me!
+
+	He holds out his hands to Kira -- palms up.
+
+					MARRITZA
+			My word, my merest glance, was law.  
+			And my verdict was always the same: 
+			Guilty.
+
+	And he closes his fists -- with gusto.
+
+					KIRA
+			You're insane.
+
+					MARRITZA
+			No, no, no, Major... I'm sorry, but 
+			you can't dismiss me that easily.  I 
+			did what needed to be done.
+
+           DEEP SPACE: "Duet" - REV. 03/31/93 - ACT THREE           31.
+
+35   CONTINUED:	(3)
+
+					MARRITZA
+			My men understood that... which is 
+			why they loved me.  I'd order them 
+			to go out and murder Bajoran scum, 
+			and they would do it... They'd come 
+			back covered in blood... and still 
+			feel clean.  Yes, Major... clean.  
+			And why did they feel that way?... 
+			Because they were clean!
+
+					KIRA
+				(gotcha)
+			So then you admit your atrocities.
+
+	On hearing that, Marritza rises to his fullest height -- 
+	puffs to his most expansive, blustering self, with:
+
+					MARRITZA
+			I admit everything.  Why not?  I was 
+			the best at what I did.  My 
+			accomplishments speak for themselves.  
+			Can you say the same?
+				(contemptuously)
+			You and that little Shakaar resistance 
+			cell you belonged to.  You did nothing 
+			but annoy Cardassians, while I was 
+			busy exterminating Bajorans.
+
+					KIRA
+				(quietly; calm)
+			Make sure you tell that to the 
+			tribunal.
+
+					MARRITZA
+			Oh, I will.
+
+					KIRA
+			And they'll sentence you to death.
+
+					MARRITZA
+			Let them.  Don't you see; it'll change 
+			nothing!  Kill me.  Torture me... it 
+			doesn't matter.  You've already lost, 
+			Major.  You can never undo what I've 
+			accomplished.  The dead will still 
+			be dead!
+
+	Kira opens her mouth to retort -- realizes it'd only be some 
+	useless defense -- so just turns, and starts out.  As she's 
+	going:
+
+
+           DEEP SPACE: "Duet" - REV. 03/29/93 - ACT THREE           32.
+
+35   CONTINUED:	(4)
+
+					MARRITZA
+				(laughs; calls after 
+				her)
+			What're you going to do now, Major?  
+			Withhold my medicine?
+
+	As she EXITS, we HOLD on Marritza's contented, superior 
+	expression.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+            DEEP SPACE: "Duet" - REV. 03/30/93 - ACT FOUR           33.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   INT. SECURITY OFFICE
+
+	Kira sits alone in the place -- appearing thoroughly drained -- 
+	and shaken.  Odo ENTERS, bearing a glass of colored liquid, 
+	which he proffers, with:
+
+					ODO
+
+			Here.  This will help.
+
+					KIRA
+			What is it?
+
+					ODO
+			Maraltian Seev-ale; from Quark's 
+			private stock.
+
+	She takes a sip.  It's strong, but soothing.
+
+					ODO
+				(continuing)
+			Better?
+
+					KIRA
+				(nods; then, beat)
+			You know, Odo... I wonder how many 
+			others like Darhe'el are still out 
+			there... Still free... unpunished...
+
+					ODO
+			Quite a few, no doubt.  But thanks 
+			to you, there's one less out there 
+			now.
+
+					KIRA
+			You should've heard him... He bragged 
+			about what happened at Gallitep.  
+			The torture... the rape... the 
+			humiliation.  He's proud of what he 
+			did to us.
+
+					ODO
+			Why don't you go to your quarters, 
+			and lie down for a while.  We'll 
+			leave him alone with his Cardassian 
+			pride.
+
+            DEEP SPACE: "Duet" - REV. 03/31/93 - ACT FOUR           34.
+
+36   CONTINUED:
+
+					KIRA
+			I don't want to lie down.  That's 
+			what he'd like.  Another Bajoran 
+			hiding in a corner.  He's probably 
+			in there laughing at me now.
+
+					ODO
+			He won't be laughing very long.
+
+					KIRA
+				(still reflecting)
+			I hate him, Odo.  I hate that 
+			smirking, superior Cardassian face.  
+			When I was fighting with the 
+			resistance, we used to lie awake at 
+			night plotting the assassination of 
+			men like him.  And now I have to 
+			stand there and listen to him belittle 
+			the Shakaar and everything it stood 
+			for.
+
+					ODO
+			Perhaps you should avoid discussing 
+			your personal history with a creature 
+			like that.
+
+					KIRA
+				(offhandedly)
+			I didn't.
+
+	But Odo -- sensing something else here -- pursues with focused 
+	interest:
+
+					ODO
+			Then how did he know you were with 
+			the Shakaar?
+
+            DEEP SPACE: "Duet" - REV. 03/30/93 - ACT FOUR           35.
+
+36   CONTINUED:	(2)
+
+					KIRA
+				(lost)
+			I don't know... He was an important 
+			military leader...
+
+					ODO
+			That doesn't explain it.  If he'd 
+			been in charge of quelling Bajoran 
+			resistance, then he might've had 
+			your name on file.  But he commanded 
+			a forced labor camp.
+				(in dubious thought)
+			Something's not right here.
+
+	Kira rises, and:
+
+					ODO
+			Where are you going?
+
+	Kira heads toward the (o.s.) holding cell area.
+
+					KIRA
+			To have another little chat with Gul 
+			Darhe'el.
+
+36A  CLOSE - ODO
+
+	He nods slightly as he watches her go, and smiles to himself -- 
+	proud of her.  Then, he faces his computer again, with:
+
+					ODO
+			Computer... Review all off-station 
+			requests for information regarding 
+			Major Kira Nerys within the last 
+			eight months.
+
+					COMPUTER VOICE
+			...Working...
+
+	AND AS ODO WAITS:
+
+            DEEP SPACE: "Duet" - REV. 03/30/93 - ACT FOUR           36.
+
+36B  INT. HOLDING CELL AREA
+
+	as Kira ENTERS once more.  Marritza stands as though waiting 
+	for her.
+
+					MARRITZA
+			Back again to see "the butcher"... 
+			Am I really that fascinating?
+
+					KIRA
+			How did you know I was with the 
+			Shakaar?
+
+					MARRITZA
+				(ignores question)
+			That provisional government of yours 
+			certainly moves slowly.  They 
+			should've dragged me away in chains 
+			by now.
+
+					KIRA
+				(calm; flat)
+			Answer the question.
+
+					MARRITZA
+				(amused)
+			My, my, you are a strutting little 
+			egotist.  You forget the brilliance 
+			of Marritza's filing system.  He saw 
+			to it that I was provided with 
+			information on all your little 
+			terrorist bands.  I especially enjoyed 
+			the termination reports.  You see, 
+			life at a forced labor camp can be 
+			so isolating.  At times I felt that 
+			only I bore the burden of cleansing 
+			Bajor of its rabble.  Those reports 
+			reassured me that I was not alone.
+
+            DEEP SPACE: "Duet" - REV. 03/30/93 - ACT FOUR           37.
+
+36B  CONTINUED:
+
+					KIRA
+				(very skeptical)
+			And I'm supposed to believe that you 
+			remember my name from some report 
+			you read years ago?
+
+					MARRITZA
+			At the risk of bruising your vanity 
+			even further, Major... I didn't 
+			remember your name at all until I 
+			heard it here.
+				(as she absorbs this)
+			I can see that disturbs you.
+
+					KIRA
+			Hardly.
+
+					MARRITZA
+			You know, Major, they will be coming 
+			for me soon, so... Before we say 
+			goodbye, there are a few little 
+			questions I'd like to ask you.
+
+					KIRA
+			Your questions don't interest me.
+
+					MARRITZA
+			What makes you so sure?
+				(afterthought)
+			Or are you just afraid to hear them?
+
+	Kira regards him -- decides -- and moves to sit facing him... 
+	Like a challenge.
+
+36C  EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-Establishing.
+
+36D  INT. PROMENADE OUTSIDE SECURITY OFFICE
+
+	As Odo EMERGES from his office -- through a group of FIVE 
+	MIDDLE-AGED BAJORANS -- wearing labor camp "dust-wraps" around 
+	the lower half of their faces.  They're not a mob; not noisy -- 
+	just standing; as mute reminders.  A vigil.
+
+	QUARK, who's been eyeing the vigil-keepers, intercepts Odo, 
+	and:
+
+            DEEP SPACE: "Duet" - REV. 03/31/93 - ACT FOUR           38.
+
+36D  CONTINUED:
+
+					QUARK
+				(re: Bajorans)
+			Who're they?
+
+					ODO
+			Survivors of Gallitep.  They arrived 
+			early this morning.  I suppose they're 
+			waiting for justice.
+
+					QUARK
+				(shudders)
+			Gallitep.  Imagine living through 
+			that hellhole.  The pain... the 
+			sorrow...
+				(beat; a new idea)
+			D'you think they like to gamble?
+
+	Odo merely glares at him for a beat -- then walks away.
+
+37
+thru   OMITTED
+38
+
+39   INT. INFIRMARY
+
+	as Odo ENTERS to face the seated Bashir.
+
+					ODO
+			Doctor, I need your help.
+
+					BASHIR
+			Of course.
+
+					ODO
+			Three months ago, a request came 
+			from Kora Two for information 
+			concerning Kira Nerys.
+
+					BASHIR
+			To what purpose?
+
+					ODO
+			I'm not sure.  But the name on the 
+			request was Aamin Marritza.
+				(off Bashir's reaction)
+			I've established a subspace link 
+			with Kora Two.  I'd like you to access 
+			his medical history there.
+
+            DEEP SPACE: "Duet" - REV. 03/31/93 - ACT FOUR           39.
+
+39   CONTINUED:
+
+					DAX'S COM VOICE
+			Dax to Odo... Gul Dukat is responding 
+			to your subspace transmission.
+
+					ODO
+			Could you route it to my office.
+
+40
+thru   OMITTED
+41
+
+42   INT. SECURITY OFFICE (OPTICAL)
+
+	Odo converses with Gul Dukat, who's image is visible on the 
+	monitor screen.
+
+					DUKAT
+			I've missed working with you, Odo.  
+			I've missed our games of kalevian 
+			montar.
+
+					ODO
+			As I recall, Gul Dukat, we played 
+			one game, and you cheated.
+
+					DUKAT
+			Same old Odo; like a blunt instrument.  
+			Now; to answer your question... I 
+			regret that I cannot give you access 
+			to any files on Gul Darhe'el.  
+			However, I assure you that the files 
+			would only tell you what I'm telling 
+			you... Gul Darhe'el is dead.
+
+	Whatever Odo might've expected, this wasn't it.  He's suitably 
+	thrown.
+
+					ODO
+				(confused)
+			That's impossible.
+
+					DUKAT
+			I attended the funeral myself.  As a 
+			matter of fact, he's buried under 
+			one of the largest military monuments 
+			on Cardassia.
+
+					ODO
+			Then who are we holding here?
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FOUR           40.
+
+42   CONTINUED:
+
+					DUKAT
+			An innocent Cardassian citizen, just 
+			as I explained to your Commander 
+			Sisko.  And we want him released.
+
+					ODO
+			That innocent citizen has admitted 
+			he is Gul Darhe'el.
+
+	Dukat -- taken totally aback -- is momentarily speechless, 
+	before:
+
+					DUKAT
+			What?  What are you talking about!
+
+					ODO
+				(measured)
+			He says his name is Gul Darhe'el.
+
+					DUKAT
+				(outraged)
+			Then he's lying!
+
+					ODO
+			If he is, it's the most foolish lie 
+			he could've invented.  It's likely 
+			to get him executed.  Why would anyone 
+			do such a thing?
+
+					DUKAT
+				(forcefully)
+			I don't know.  But I tell you I was 
+			at Darhe'el's funeral.
+
+	Odo is confused even further by Dukat's obvious -- totally 
+	honest -- bewilderment.
+
+					ODO
+			You're sure the man you saw buried 
+			was Gul Darhe'el?
+
+					DUKAT
+			Half of Cardassia viewed his body!
+
+					ODO
+			I saw a photograph of Darhe'el taken 
+			at the Gallitep labor camp.  It 
+			certainly appears to be the man we're 
+			holding.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FOUR          40A.
+
+42   CONTINUED:	(2)
+
+					DUKAT
+				(angry)
+			You are mistaken!  This is obviously 
+			a plot to embarrass the Cardassian 
+			Empire.
+
+					ODO
+			It's possible.  Give me access to 
+			your files and perhaps I can find 
+			some proof to support your claim 
+			that Gul Darhe'el is dead.
+
+	Beat - a small smile from Gul Dukat, before:
+
+					DUKAT
+			I suppose I could grant you limited 
+			access to the files...
+
+					ODO
+				(with irony)
+			I think that's wise.
+
+	Odo's monitor blanks.  Odo sits back -- deep in thought now.
+
+43   INT. HOLDING CELL AREA
+
+	Still Kira versus Marritza -- in mid-conversation.
+
+					KIRA
+			... I was twelve when I started 
+			fighting... but I know of some who 
+			started even younger than that.
+
+					MARRITZA
+			Yes, yes, but let's get to the real 
+			issue... How many Cardassians did 
+			you kill?  I mean personally.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FOUR           41.
+
+43   CONTINUED:
+
+					KIRA
+				(poker-faced)
+
+			I didn't keep count.
+
+					MARRITZA
+			Oh, I think you did.  And I'm sure 
+			your total wasn't limited to military 
+			personnel.  After all, one of the 
+			most effective terrorist weapons was 
+			random violence.
+
+	Kira rises to leave.
+
+					MARRITZA
+				(continuing)
+			Don't leave now, Major... Not when 
+			it's finally getting good.  How many 
+			Cardassian civilians did you kill?
+
+					KIRA
+			Look... I regret a lot of what I had 
+			to do.
+
+					MARRITZA
+			How convenient of you.
+
+					KIRA
+			We had no choice!  We were fighting 
+			for survival!
+
+					MARRITZA
+			So were we!  We had an empire to 
+			protect.  We needed your resources!
+				(building steam)
+			Everything I did was for the greater 
+			glory of Cardassia!  And if you 
+			spineless scum had to be ground under, 
+			so much the better!  All that mattered 
+			was Cardassia!  I loved my homeland!  
+			That's what justified my actions; 
+			that's what gave me my strength.
+
+					KIRA
+			Nothing justifies genocide.
+
+					MARRITZA
+			What you call genocide... I called a 
+			day's work!
+
+              DEEP SPACE: "Duet" - 03/26/93 - ACT FOUR              42.
+
+43   CONTINUED:	(2)
+
+	As Kira stands rooted to the spot -- Odo ENTERS.
+
+					ODO
+			Major?  May we talk outside, please?
+
+	With a last ferocious glance at a smiling Marritza, Kira 
+	follows Odo out, to:
+
+44   INT. SECURITY OFFICE (CONTINUOUS)
+
+	as Odo faces Kira, with:
+
+					ODO
+			Doctor Bashir and I have done some 
+			checking.  I don't know why yet... 
+			but the man in that cell... wanted 
+			to be caught.
+
+45   CLOSE REACTION - KIRA
+
+	Utter -- and pessimistic -- confusion; as we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           43.
+                           ACT FIVE                             
+
+	FADE IN:
+
+46   INT. COMMANDER'S OFFICE
+
+	Sisko presides.  Kira and Odo are present.  Odo hands Sisko 
+	a PADD.
+
+					ODO
+			This certificate of death was in the 
+			file sent to me by Gul Dukat.
+
+	Sisko examines the PADD; then looks up at Kira, who waits 
+	expectantly.
+
+					SISKO
+			According to this, Gul Darhe'el died 
+			in his sleep six years ago.
+				(reads)
+			"Cause of death:  Massive Coleibric 
+			hemorrhage."
+
+					KIRA
+			Commander, I guarantee you that's a 
+			forged document.  I think it's pretty 
+			clear what's going on here.  The 
+			Cardassians want to trick us into 
+			letting him go.
+
+					SISKO
+				(to Odo)
+			I wouldn't put it past our friend 
+			Gul Dukat.
+
+					ODO
+			Nor would I.  However...
+
+					KIRA
+			The man in there confessed that he's 
+			Gul Darhe'el.
+
+					ODO
+			Major, the man in there has Kalla-
+			Nohra Syndrome.
+
+					KIRA
+			Of course he does.
+
+					ODO
+			According to the evidence I've been 
+			sent, Gul Darhe'el never contracted 
+			that condition.
+
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           44.
+
+46   CONTINUED:
+
+					KIRA
+				(dismissive)
+			More evidence from the trustworthy 
+			Gul Dukat.
+
+					SISKO
+				(calmly)
+			What've you got, Constable?
+
+					ODO
+			Darhe'el's progress reports from 
+			Gallitep show that, when the mining 
+			accident occurred, he was back on 
+			Cardassia being awarded the Proficient 
+			Service Medallion.
+
+					SISKO
+			If he wasn't at Gallitep on the day 
+			of the accident, he couldn't have 
+			contracted Kalla-Nohra.
+
+					ODO
+			Correct.  But the man we're holding 
+			does have it.
+
+					KIRA
+			I don't believe I'm listening to 
+			this.
+
+					ODO
+			I'm afraid there's more, Major.  I 
+			inquired about his last two weeks on 
+			Kora Two.  He resigned his position 
+			at the military academy; put all his 
+			affairs in order... even provided 
+			handsomely for his housekeeper, I 
+			understand...
+
+					KIRA
+				(interrupts)
+			All right; so like most criminals, 
+			he wanted to move on before somebody 
+			traced his whereabouts.
+
+					ODO
+			He specifically requested passage on 
+			a vessel scheduled to stop here... 
+			at a Bajoran station.  A rather 
+			unusual request for a Cardassian war 
+			criminal...
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           45.
+
+46   CONTINUED:	(2)
+
+					SISKO
+			Unless he wanted to be captured.
+
+					KIRA
+			Wait a minute.  Let's be clear about 
+			one thing:  This "evidence" may raise 
+			some interesting questions.  
+			Nevertheless, Darhe'el is going to 
+			be sent to Bajor to stand trial for 
+			the atrocities he committed.
+
+					SISKO
+			Major, that's still to be decided.
+
+					KIRA
+			Then go talk to him!  If you still 
+			have any doubts, just listen to what 
+			he has to say... He was there; he 
+			did it; he'll tell you about it!
+
+	Silent beat -- then Bashir ENTERS, with:
+
+					BASHIR
+			Constable, I've checked Marritza's 
+			medical records.
+
+					SISKO
+			What've we got?
+
+					BASHIR
+			He's been under treatment for Kalla-
+			Nohra Syndrome, of course... and a 
+			few other minor ailments, most 
+			relating to his age... It's all fairly 
+			standard, actually... Except for one 
+			thing.
+
+					ODO
+			Which is?
+
+					BASHIR
+			Five years ago, when he arrived on 
+			Kora Two, he was taking massive doses 
+			of a dermatiraelian plastiscine.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           46.
+
+46   CONTINUED:	(3)
+
+					BASHIR
+			It's a dermal regenerative agent.  
+			It maintains skin resilience following 
+			cosmetic alteration.
+
+					KIRA
+				(beaten; not even a 
+				question now)
+			You're saying he's had his face 
+			changed to look like Gul Darhe'el.
+
+					BASHIR
+			It certainly appears that way.
+
+	Off Kira's utterly bereft consternation...
+
+47   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-Establishing.
+
+48   INT. HOLDING CELL AREA
+
+	as Kira ENTERS.  Her face bears a concerned, even searching 
+	look.  Her tone is somber.
+
+					KIRA
+			How're you feeling?
+
+					MARRITZA
+			I was starting to get bored, but 
+			seeing you again brightens my day.  
+			Or is it night?  It doesn't matter.  
+			What's important is that it's time 
+			for another one of our chats.  What 
+			shall it be this time?  Why don't I 
+			lecture you on various Cardassian 
+			torture techniques.
+
+					KIRA
+			I was referring to your Kalla-Nohra 
+			Syndrome.  Do you want to see Doctor 
+			Bashir?
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           47.
+
+48   CONTINUED:
+
+					MARRITZA
+			Ah, so that's it.  You were hoping 
+			to see me writhe around on the floor 
+			in pain.  Do you really think a 
+			Cardassian would put on such a 
+			deplorable display in front of a 
+			Bajoran?  You don't understand us at 
+			all, do you?
+
+					KIRA
+				(gently)
+			I'm beginning to understand a great 
+			deal about you.  But one thing does 
+			puzzle me.
+
+					MARRITZA
+			And what would that be?
+
+					KIRA
+			How you contracted Kalla-Nohra 
+			syndrome.
+
+					MARRITZA
+			Did you think that mining accident 
+			only affected the Bajoran laborers, 
+			and not their Cardassian masters?  
+			That would've been very nice.
+
+					KIRA
+				(nonconfrontational)
+			So you're saying you were at Gallitep 
+			when that mining accident occurred?
+
+					MARRITZA
+				(irritated)
+			Of course.  Why are we going over 
+			this again?
+
+					KIRA
+			Because your own progress reports 
+			show that you were back on Cardassia 
+			at the time of the accident...
+
+					MARRITZA
+				(interrupts)
+			Ridiculous!
+
+					KIRA
+			... Receiving your Proficient Service 
+			Medallion.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           48.
+
+48   CONTINUED:	(2)
+
+					MARRITZA
+			Then the reports are wrong.
+
+					KIRA
+			I can show them to you.
+
+					MARRITZA
+			That won't be necessary; I know where 
+			I was.
+
+					KIRA
+			Why were you taking a dermal 
+			regenerative?
+
+					MARRITZA
+			I don't know what you're talking 
+			about.
+
+					KIRA
+			Then let me help you.  Five years 
+			ago... when you first got to Kora 
+			Two...
+
+					MARRITZA
+				(overrides)
+			That's enough; your presence no longer 
+			amuses me... Get out.
+
+					KIRA
+			Why did you have your face altered?
+
+					MARRITZA
+				(yells o.s.)
+			Security guard!  Security!  I want 
+			this woman out of here!  Security!
+
+					KIRA
+			Why are you pretending to be Gul 
+			Darhe'el?
+
+					MARRITZA
+				(trying to ignore her)
+			Why don't you ask me something 
+			intelligent, such as how I felt when 
+			I heard we were withdrawing from 
+			Bajor?  My answer is, I was furious!  
+			The thought of leaving behind any 
+			survivors was repulsive to me.
+
+            DEEP SPACE: "Duet" - REV. 03/31/93 - ACT FIVE           49.
+
+48   CONTINUED:	(3)
+
+					MARRITZA
+			So while the useless office clerks 
+			were busy packing their precious 
+			files, I ordered my overseers to 
+			begin slaughtering the laborers.
+
+					KIRA
+			If you felt that way about your office 
+			clerks, why did you take Marritza's 
+			name?
+
+					MARRITZA
+				(still ignoring)
+			My plan was to do nothing less than 
+			kill every Bajoran in the camp!  To 
+			this day, I regret that we were unable 
+			to achieve that honorable goal.
+
+	But this time, Kira is unphased by her prisoner's ranting.
+
+					KIRA
+			You're Marritza, aren't you?
+
+					MARRITZA
+				(loses it)
+			You mistake me for that bug?  That 
+			wimpering nothing?  You stupid Bajoran 
+			girl, don't you know who I am?  I am 
+			your nemesis; I am you're nightmare; 
+			I am the "Butcher of Gallitep!"
+
+					KIRA
+			"The Butcher of Gallitep" died six 
+			years ago.  You're Aamin Marritza, 
+			his file clerk.
+
+					MARRITZA
+			That's not true!  I'm alive!  I'll 
+			always be alive!  It's Marritza who's 
+			dead!  Marritza; who was only good 
+			for cowering under his bunk and 
+			weeping like a woman.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           50.
+
+48   CONTINUED:	(4)
+
+					MARRITZA (Cont'd)
+			Every night, covering his ears so he 
+			wouldn't have to hear the Bajorans 
+			screaming for mercy while we killed 
+			them... covering my ears... so I 
+			wouldn't have to hear those terrible 
+			screams!  You don't know what it's 
+			like to be a coward.  To stand by 
+			and let such horrors take place, and 
+			do nothing.  No; Marritza's dead.  
+			He deserves to be dead.
+
+49   ANGLE (OPTICAL)
+
+	With a terrible sadness now -- Kira moves to disconnect the 
+	imprisoning forcefield between her and the tortured man she 
+	faces.
+
+					MARRITZA
+			What are you doing!
+
+					KIRA
+			I'm letting you go.
+
+	He backs away from her -- against the rear wall -- horrified.
+
+					MARRITZA
+				(yells o.s.)
+			Security!  Security guard!  Get in 
+			here!  Help me!  Security!
+
+					KIRA
+			You didn't commit those crimes; and 
+			you couldn't stop them.  You were 
+			only one man.
+
+					MARRITZA
+			No; don't you see?  I have to be 
+			punished.  We all have to be punished.
+				(pleads)
+			Major, you have to go out there and 
+			tell them; tell them I'm Gul Darhe'el.  
+			It's the only way; don't you see 
+			that?
+
+					KIRA
+			Why are you doing this?
+
+            DEEP SPACE: "Duet" - REV. 03/31/93 - ACT FIVE           51.
+
+49   CONTINUED:
+
+					MARRITZA
+			For Cardassia.  Cardassia will never 
+			survive unless it stands in front of 
+			Bajor and admits the truth.  My trial 
+			will force Cardassia to acknowledge 
+			its guilt.  And we are guilty... all 
+			of us.  Don't you see, my death is 
+			necessary.
+
+	Kira's eyes are already clouded with tears for this pathetic 
+	creature.
+
+					KIRA
+			What you're asking for is another 
+			murder.  Enough good people have 
+			already died.  I won't help kill 
+			another.
+
+50   OMITTED
+
+51   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+51A  INT. PROMENADE OUTSIDE SECURITY OFFICE
+
+	Security doors open, and Kira escorts a pitiful, broken-
+	looking Marritza out onto the Promenade.  Odo follows.  As 
+	they walk:
+
+	Marritza looks around -- sees there are only a few onlookers 
+	present.
+
+					KIRA
+			You should be back on Kora Two in 
+			three days.
+
+					MARRITZA
+				(shattered)
+			There's nothing for me to go back 
+			to.
+
+					KIRA
+			We've contacted officials there; 
+			they'll be waiting to help you.
+
+            DEEP SPACE: "Duet" - REV. 03/31/93 - ACT FIVE           52.
+
+52   INT. PROMENADE NEAR AIRLOCK
+
+	A few N.D. Pedestrians -- and the thief/drunkard, Kainon 
+	(whom we may or may not even notice at this point) -- watch 
+	silently as they approach.
+
+					MARRITZA
+			If they had believed I was Gul 
+			Darhe'el, my trial might have helped 
+			bring about a new Cardassia.
+				(bitter)
+			But, now you've told them I was only 
+			a file clerk...
+
+					KIRA
+			What you tried to do was very 
+			honorable.  Maybe, one day other 
+			Cardassians will acknowledge the 
+			truth of what they did to Bajor.
+
+53   ANGLE FAVORING KAINON
+
+	as he lunges forward between Pedestrians -- dagger in hand -- 
+	and plunges it into Marritza.
+
+54   ANOTHER ANGLE
+
+	Odo has grabbed and subdued Kainon before the fatally wounded 
+	Marritza has even hit the ground.  As Kira bends to kneel 
+	over the dying Cardassian:
+
+					KIRA
+				(to Kainon)
+			Why!  He wasn't Darhe'el!  Why!
+
+					KAINON
+			He's a Cardassian.  That's reason 
+			enough.
+
+            DEEP SPACE: "Duet" - REV. 03/29/93 - ACT FIVE           53.
+
+55   KIRA & MARRITZA
+
+	He's already dead, as Kira kneels over him, shaken to the 
+	core, utterly forlorn -- her head bowed.
+
+					KIRA
+				(softly; to herself)
+			No...
+				(beat; hushed)
+			... It's not.
+
+	HOLD -- then BEGIN SLOWLY PULLING BACK, AND UPWARD, as we 
+	WIDEN until we're looking down at the tableaux from high 
+	above.  HOLD, before we finally...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

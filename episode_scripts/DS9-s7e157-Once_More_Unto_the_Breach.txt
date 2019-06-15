@@ -1,0 +1,3067 @@
+
+
+                  STAR TREK:  DEEP SPACE NINE
+                              
+                  "Once More Unto the Breach" 
+                   (fka "Untitled Klingon") 
+                          #40510-557 
+                              
+                          Written by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       September 8, 1998
+
+  STAR TREK: DS9 - "Once More Unto the Breach" - 09/09/98 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Once More Unto the Breach" 
+                             CAST 
+
+          SISKO                    KOR
+          KIRA                     MARTOK
+          ODO                      DAROK
+          BASHIR                   KOLANA
+          O'BRIEN                  SYNON
+          QUARK                    
+          WORF                     
+          EZRI                     
+          JAKE                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK: DS9 - "Once More Unto the Breach" - 09/08/98 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Once More Unto the Breach" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          QUARK'S                       KLINGON SQUADRON
+          WORF'S QUARTERS               TRELKA FIVE
+          KLINGON WARDROOM              ATMOSPHERE - THREE KLINGON
+          CORRIDOR                      SHIPS
+          CAPTAIN'S OFFICE              
+          OPS                           
+          PROMENADE                     
+
+        KLINGON BIRD OF PREY          
+          BRIDGE                        
+          MESS HALL                     
+          READY ROOM                    
+          CORRIDOR                      
+          QUARTERS                      
+
+  DS9 - "Once More Unto the Breach" - 09/09/98 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                  "Once More Unto the Breach" 
+                      PRONUNCIATION GUIDE 
+
+          DAROK                    duh-ROCK
+          KOLANA                   ko-LAH-nuh
+          SYNON                    SIGH-non
+          NUQ'NUH                  NUK-neh
+          T'NAG                    tuh-NAG
+          SHEVA                    SHE-vuh
+          SHUVAY,                  SHOE-vak
+          RENAVI                   reh-NAH-vee
+          KETHA                    KEH-tha
+          CH'TANG                  cha-TANG
+          CALEB                    KAY-leb
+          CHRONOS                  KRO-nos
+          DAHAR                    da-HAR
+          CHAH VEH                 CHA-veh
+          MALPARA                  mal-PAR-uh
+          SLIVAN                   SLEE-van
+          ORANTHO                  O-ran-tho
+          LURKAN                   LUR - kan
+
+      DEEP SPACE NINE: "Once More... " - REV. 11/04/98 - TEASER       1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                     "Once More Unto the Breach"                       
+                            TEASER                              
+
+			FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing the station.
+
+2    INT. QUARK'S
+
+	O'BRIEN and BASHIR are having a drink at the bar. 
+	WORF is two chairs away at the bar, having a drink 
+	and trying to work on a PADD. But the argument is 
+	clearly distracting him.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       2.
+
+2    CONTINUED:
+
+					O'BRIEN 
+			Come on. Santa Anna didn't care 
+			about the "rules of war." If 
+			he'd executed Davy Crockett at 
+			the Alamo he would've considered 
+			it a point of pride.
+
+					BASHIR
+			All right. Try this: in 
+			Eighteen thirty-six Crockett is 
+			forty-nine -- quite old by the 
+			standards of the time. His days 
+			as an Indian fighter are well 
+			behind him. He's just an ex-
+			Congressman... all reputation. 
+			He's not going to be the man who 
+			fights to his last breath. When 
+			it's clearly hopeless, when the 
+			ammunition is gone and Mexican 
+			soldiers are swarming over the 
+			Alamo's battlements, Davy 
+			Crockett would surrender. 
+			It's logical.
+
+					O'BRIEN
+			I'm not saying it couldn't have 
+			happened, I'm just saying there's 
+			no proof.
+
+	Worf has finally had enough.
+
+					WORF
+			You are both wrong. 
+				(beat) 
+			The only real question is whether 
+			you believe in the legend of Davy 
+			Crockett or not. If you do, then 
+			there should be no doubt in your 
+			mind that he died the death of a 
+			hero. If you do not believe in 
+			the legend, then he was just a 
+			man... and it doesn't matter how 
+			he died.
+
+	Worf gets up and heads for the door. O'Brien and 
+	Bashir consider that for a beat.
+
+					BASHIR 
+			Well. I guess that settles that.
+
+					O'BRIEN 
+			I guess so.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       3.
+
+2    CONTINUED:	(2)
+
+					BASHIR 
+			Shall we talk about something 
+			else?
+
+					O'BRIEN
+			Sure.
+				(beat) 
+			The line in the dirt?
+
+					BASHIR
+			The line in the dirt. Now, I 
+			suppose you're going to tell me 
+			"Well, there's no evidence Travis 
+			didn't draw the line." But, in 
+			fact, there's a great deal of 
+			evidence to suggest that the 
+			story was invented by...
+
+									CUT TO:
+
+3    INT. WORF'S QUARTERS
+
+	A short time later. Worf unhooks his baldric and 
+	drapes it across the back of a chair. He starts to 
+	take off his uniform jacket when the door CHIMES.
+
+					WORF
+			Enter.
+
+	The doors open and he is surprised to see KOR.
+
+					WORF
+			Kor?
+
+					KOR 
+			Nuq'nuh, Worf. (Hello.) 
+			It's good to see you, my friend.
+
+	Physically, the old Klingon warrior hasn't changed 
+	much since we saw him in "The Sword of Kahless" but 
+	some of the bravado is gone and the swagger is 
+	missing from his step.
+
+					WORF
+				(formal) 
+			I welcome you to my home.
+
+	Kor finally ENTERS.
+
+					WORF
+			May I offer you refreshment?
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       4.
+
+3    CONTINUED:
+
+					KOR 
+			I would be honored to share a 
+			bottle of bloodwine with the Son 
+			of Mogh.
+
+	Worf gets a bottle and pours them both a drink.
+
+					KOR 
+			I heard the news about Jadzia.
+
+					WORF 
+			She died a warrior.
+
+					KOR
+			I expected nothing less.
+
+	Worf hands him a glass and they lift their glasses.
+
+					KOR 
+			To absent comrades.
+
+	They drink to that. Kor savors the wine.
+
+					KOR
+				(re: bloodwine) 
+			Twenty-three oh nine. Very good.
+				(beat) 
+			The war goes well for you, Worf? 
+			A long list of victories to your 
+			credit, I trust?
+
+					WORF
+			I have been... fortunate.
+
+					KOR 
+			The way of the warrior is not a 
+			humble path. Show some pride in 
+			your accomplishments! You've 
+			earned it!
+
+					WORF 
+			I will... try.
+				(beat) 
+			And does the war go well for you, 
+			Kor?
+
+	The smile fades from Kor's face... there's a darker, 
+	sadder quality to the man now than we've ever seen 
+	before.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       5.
+
+3    CONTINUED:	(2)
+
+					KOR 
+			No, Worf. It does not go well 
+			for me. It seems my services are 
+			not required in the present 
+			conflict.
+
+	That catches Worf completely off-guard.
+
+					WORF
+			But... you are Kor -- a Dahar 
+			Master, the man who held the 
+			Korma Pass against T'nag -- 
+			your reputation alone should've 
+			assured you a command.
+
+					KOR
+				(rueful) 
+			I also have a reputation for... a 
+			certain ruthless quality toward 
+			those who would stand in my way. 
+			Mind you, it is not entirely 
+			undeserved -- in truth, I rather 
+			enjoy being feared by my fellow 
+			officers.
+				(beat) 
+			However, there is a price to be 
+			paid for such... singledminded 
+			devotion to one's ambition. I 
+			made enemies... perhaps more than 
+			were necessary.
+
+	For a moment, Kor seems to be weighed down by 
+	regrets, but then he shakes it off and faces Worf.
+
+					KOR 
+			I have no influence left in the 
+			Empire. Even as our entire race 
+			grapples with the Dominion... 
+			there is no place for an old man 
+			with too many enemies and not 
+			enough friends.
+				(beat) 
+			That is why I have come here 
+			tonight. It is not easy for me 
+			to beg for help... but I have 
+			nowhere else to turn.
+				(difficult) 
+			Help me fight again, Worf. Help 
+			me end my life as I lived it -- 
+			as a warrior!
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       6.
+
+3    CONTINUED:	(3)
+
+	Worf is deeply moved by the old man's plea. He 
+	stands up and goes to him.
+
+					WORF
+			Tomorrow I will go to General 
+			Martok and find you a command. I 
+			can give you an officer's 
+			commission immediately. So as of 
+			this moment, you are a soldier of 
+			the Empire once again.
+
+	Worf offers his hand and Kor takes it, grateful 
+	beyond words.
+
+									CUT TO:
+
+4    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+5    INT. KLINGON WARDROOM
+
+	This room is Martok's headquarters on DS9 and it has 
+	been customized with Klingon furniture, tapestries, 
+	food, battle trophies, etc. A large desk commands 
+	one end of the room while a round conference table 
+	sits at the other end. MARTOK is working at his 
+	desk with a short, elderly Klingon aide -- DAROK -- 
+	when Worf ENTERS. Martok tosses a PADD down on the 
+	desk.
+
+					MARTOK
+				(irritable) 
+			How many more reports does the 
+			High Council require?
+
+					DAROK 
+			As many as last time.
+				(hands him another 
+				PADD) 
+			And Starfleet is still waiting 
+			for your signature on these 
+			repair requests.
+
+					MARTOK 
+			There will come a day, Darok, 
+			when your services as my aide may 
+			no longer be required.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       7.
+
+5    CONTINUED:
+
+					DAROK
+				(acerbic) 
+			I look forward to that day with 
+			great anticipation. Until 
+			then...
+
+	He pointedly shoves the PADDs toward Martok.
+
+					MARTOK
+			Ah, Worf, good to see you.
+				(biting)
+			Darok, thank you.
+
+	Darok gives him a curt nod and EXITS.
+
+					MARTOK
+				(re: Darok) 
+			A pity Captain Sisko frowns on 
+			summary executions. What can I 
+			do for you?
+
+					WORF 
+			Kor, the Dahar Master, came to 
+			see me last night. He has been 
+			unable to find a command and I --
+
+	Martok's reaction is so swift and fierce that Worf 
+	is caught completely off-guard.
+
+					MARTOK 
+			Tell me you're not going to ask 
+			me to give that man a ship!
+
+					WORF
+				(surprised)
+			I had hoped that--
+
+					MARTOK 
+			Then your hopes are in vain! 
+			That man is not welcome in my 
+			house and I will certainly not 
+			have him commanding a ship in my 
+			fleet!
+
+	Martok picks up a PADD, leaving Worf standing there 
+	stunned for a moment. Worf waits a beat, then 
+	decides that he cannot leave matters like that.
+
+					WORF
+			General... Kor is a friend and I 
+			have already --
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - TEASER       8.
+
+5    CONTINUED:	(2)
+
+	Martok fairly explodes out of his chair.
+
+					MARTOK 
+			Not another word! Do you hear 
+			me? Not a word! Now get out 
+			before I forget that we are 
+			brothers!
+
+	Worf stares at him for a moment... then EXITS...
+
+6    INT. CORRIDOR
+
+	Worf ENTERS and stops just outside the door. OFF 
+	the shocked look on his face...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE      9.
+                            ACT ONE                             
+
+	FADE IN:
+
+7    INT. CAPTAIN'S OFFICE
+
+	Martok and SISKO are discussing strategy in front of 
+	the wall monitor, which is displaying a MAP of the 
+	front lines. Martok is in a good mood, eager for 
+	battle -- the confrontation with Worf has been 
+	pushed to one side.
+
+					MARTOK
+				(pointing to map) 
+			I plan to attack the Trelka Five 
+			Starbase, then push deeper into 
+			Cardassian territory.
+				(pointing them out) 
+			I'll hit the Manora Shipyard, the 
+			Jem'Hadar breeding facility on 
+			Sheva Two, the supply depots in 
+			the Borias Cluster...
+
+					SISKO
+				(dubious)
+			It would take half the Ninth 
+			Fleet just to destroy Trelka 
+			Five.
+
+					MARTOK 
+			I don't intend to destroy the 
+			base, just damage it -- throw 
+			them off balance and then move on 
+			to the next target. Imagine the 
+			chaos we'll cause once we're 
+			behind their lines.
+
+					SISKO
+			A cavalry raid...
+				(off his look) 
+			Ancient Earth soldiers mounted on 
+			horseback. They had the speed to 
+			charge behind enemy lines to stir 
+			up trouble and the mobility to 
+			keep from being caught.
+				(beat) 
+			How many ships will you take?
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     10.
+
+7    CONTINUED:
+
+					MARTOK 
+			Five birds of prey. The 
+			battle cruisers are too slow and 
+			unwieldy for this kind of 
+			mission.
+
+					SISKO
+			Do you want to take the Defiant?
+
+					MARTOK 
+			Perhaps the Defiant should remain 
+			here, protecting the station -- 
+			in case the Jem'Hadar try their 
+			own "cavalry" raid. But it may 
+			be prudent for the Defiant and a 
+			dozen or so other starships to be 
+			waiting for us when we return.
+
+					SISKO
+			You mean you might be bringing 
+			company back with you?
+
+					MARTOK
+				(grins) 
+			I'm sure you'll be ready to 
+			welcome them?
+
+					SISKO
+			With phasers charged.
+
+	They grin at each other and shake hands.
+
+
+									CUT TO:
+
+8    INT. OPS
+
+	Darok is waiting in Ops with several PADDs when Worf 
+	ENTERS from the turbolift, looking for Martok.
+
+					DAROK 
+			The general is still with Captain 
+			Sisko.
+				(beat) 
+			If you're going to anger him 
+			again, can it wait until after 
+			he's approved these personnel 
+			transfers?
+
+	Worf shoots him a look, but then Martok ENTERS from 
+	the captain's office.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     11.
+
+8    CONTINUED:
+
+					MARTOK 
+				(eager) 
+			Worf! I'm glad you're here. 
+			We're about to embark on an epic 
+			journey into the very heart of 
+			danger!
+
+	Darok clears his throat irritably, but Martok does 
+	his best to ignore him as he leads Worf toward the 
+	turbolift.
+
+					MARTOK 
+			Come with me. I want to inspect 
+			the Ch'Tang; she may be my next 
+			flagship.
+
+	Darok follows them into the lift.
+
+					DAROK 
+			And what good is a flagship 
+			without a crew to man her?
+
+					MARTOK 
+			You'll be the death of me, Darok! 
+			All right -- give me the 
+			transfers!
+
+	The lift sinks out of sight.
+
+9    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Where a BIRD OF PREY is docked.
+
+10   INT. KLINGON BRIDGE
+
+									CUT TO:
+
+	Martok is being guided around the Bridge by a tall, 
+	powerfully built female Klingon commander named 
+	KOLANA. Martok is signing PADDs one after another 
+	as Darok hands them to him. Worf is hovering 
+	nearby, impatient to speak with Martok. Several 
+	N.D. Klingons are making repairs in the b.g.
+
+					KOLANA 
+			Our disruptor targeting sensors 
+			need to be replaced as well as 
+			the guidance system relays.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     12.
+
+10   CONTINUED:
+
+					MARTOK
+				(to Darok) 
+			Make a note of that for Chief 
+			O'Brien. He should give the 
+			Ch'Tang first priority.
+
+	Darok nods and works a PADD. Martok waves Worf 
+	over.
+
+					MARTOK
+				(to Worf) 
+			Quick -- speak to me now before 
+			Darok buries me in another 
+			blizzard of paperwork.
+
+	Worf looks around, this isn't exactly where he 
+	wanted to have this conversation, but he has to take 
+	the opportunity while he has it.
+
+					WORF
+				(quiet) 
+			I wish to speak with you about 
+			Kor. I know that you have strong 
+			feelings about this but--
+
+					MARTOK
+				(to others, a roar) 
+			CLEAR THE BRIDGE!
+
+	The other Klingons are startled, but they quickly 
+	EXIT, leaving the two men alone.
+
+					MARTOK
+				(tight) 
+			I did not expect to hear anything 
+			further on this subject from you.
+
+					WORF
+				(not giving an inch) 
+			And I did not expect to be 
+			forbidden to speak with you on 
+			any subject. Have I become a 
+			mere shuVak (servant) to be 
+			ordered about like Darok?
+
+					MARTOK 
+			Of course not!
+				(beat, then 
+				reluctant)
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     13.
+
+10   CONTINUED:	(2)
+
+					MARTOK (Cont'd)
+			Very well. Talk and be done with
+			it.
+
+					WORF
+			He came to me, asking my help as 
+			a friend. Kor is an old man. He 
+			has no family, no influence left 
+			in the Empire. He asked nothing 
+			except for the chance to fight 
+			and die as a Klingon warrior. I 
+			told him I would speak with you 
+			about finding him a command in 
+			the fleet.
+
+					MARTOK 
+			I would not give that man the 
+			gnawed bones of my last meal, 
+			much less command of a ship.
+
+					WORF 
+			But why? There's no blood feud 
+			between our Houses. And Kor told 
+			me he's never even met you.
+
+	Martok moves around the Bridge, old and bitter 
+	wounds prodding him with every step.
+
+					MARTOK 
+			You can wound a man without ever 
+			seeing his face. 
+				(beat)
+			When I was a boy, my family still 
+			lived in the lowlands of Ketha 
+			Province. We had very little, 
+			but it didn't matter -- we were a 
+			family of warriors. Fifteen 
+			generations had served the Empire 
+			as soldiers. My father had 
+			higher hopes for me -- he wanted 
+			his son to become an officer. It 
+			took a great deal of effort, but 
+			eventually he found someone 
+			willing to sponsor me. I passed 
+			the entrance exam on my first 
+			attempt. All that remained was 
+			final approval by the oversight 
+			council -- a simple formality. 
+				(beat)
+			But my application was rejected 
+			by one member of the council -- 
+			Kor.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE    13A.
+
+10   CONTINUED:	(3)
+
+					WORF
+			Why?
+
+					MARTOK
+				(it's obvious) 
+			Why?
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     14.
+
+10   CONTINUED:	(4)
+
+					MARTOK (Cont'd)
+			Kor's family descends from the
+			Imperial Court itself. Kor is
+			"of the blood" -- born to rule by
+			the divine will of Kahless! And
+			what was I? A boy from the Ketha
+			lowlands. He couldn't bear the
+			thought of someone like me
+			joining the elite officer ranks.
+			So to my father's embarrassment
+			and my everlasting shame, my
+			application was denied. And with
+			the mark of Kor on my record I
+			couldn't even join as a common
+			soldier.
+				(beat) 
+			So I spent five years as a 
+			civilian laborer aboard General 
+			ShiVang's flagship.
+				(beat) 
+			As fortune would have it, the 
+			Romulans made a foolhardy attempt 
+			to board that ship, and I earned 
+			a battlefield commission. 
+			Unfortunately, my father did not 
+			live to see that glorious day. 
+			But if Kor'd had his way, I would 
+			still be a civilian on that 
+			ship... cleaning the officers' 
+			mess.
+
+	A long, quiet beat. Worf understands the depth of 
+	Martok's feelings, but he's already committed 
+	himself.
+
+					WORF
+			I... understand.
+				(beat) 
+			However... I must tell you that 
+			using my own authority, I 
+			appointed Kor an officer in the 
+			Ninth Fleet.
+
+	Martok turns and looks at him with a pained, 
+	betrayed expression.
+
+					MARTOK 
+			Made him an officer... just like 
+			that. That's the difference 
+			between his name and mine -- his 
+			opens doors, mine closes them.
+
+					WORF
+			I did not anticipate that you --
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     15.
+
+10   CONTINUED:	(5)
+
+					MARTOK 
+			It's done. Your "apology" is not 
+			sought.
+				(beat) 
+			But know this, Worf -- he is your 
+			responsibility. I want nothing 
+			to do with him.
+
+	Martok holds Worf's eyes for a moment, then EXITS.
+
+									CUT TO:
+
+11   INT. PROMENADE
+
+	Worf is walking down the Promenade, then sees EZRI 
+	and Kor having lunch at the Replimat.
+
+	Worf hesitates... nearly goes back the way he came, 
+	then charges ahead.
+
+					KOR 
+			Do you remember breaking into the 
+			Duke's harem on Renavi?
+
+					EZRI
+				(laughing)
+			How could I forget? It's one of
+			Curzon's favorite memories...
+
+	She looks up and is happy to see Worf.
+
+					EZRI 
+			Hi.
+
+					WORF
+				(stiff) 
+			Hello.
+
+					KOR 
+			Join us, my friend.
+
+	But Ezri knows how awkward this is for Worf.
+
+					EZRI 
+			I'm on duty. I'll see you later.
+
+	She claps his shoulder like an old comrade.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     16.
+
+11   CONTINUED:
+
+					EZRI
+				(continuing) 
+			Good to see you, Kor.
+
+	Then she gives him a quick kiss on the cheek and 
+	EXITS. Worf sits down.
+
+					KOR
+				(re: Ezri) 
+			Still the same old Dax... and yet 
+			not.
+
+					WORF 
+			General Martok will not give you 
+			a command.
+
+					KOR 
+			Kesh! (a curse). Did you tell 
+			him that I am still capable of --
+
+					WORF 
+			It has nothing to do with your 
+			capabilities. It is personal.
+				(beat) 
+			He says that you struck his name 
+			from an officers list because his 
+			family comes from the Ketha 
+			lowlands.
+
+					KOR 
+			Did I?
+				(thinks) 
+			I don't recall... of course there 
+			were so many officer lists... I 
+			suppose it's possible...
+
+					WORF 
+			It is an unworthy reason to bar a 
+			man from serving the Empire.
+
+					KOR 
+			Worf, you've been living among 
+			this democratic rabble for too 
+			long. I know your bloodline -- 
+			we both come from noble Houses. 
+			Among our people that still 
+			counts for something. If Martok 
+			is a true Klingon, he should 
+			appreciate that.
+
+					WORF 
+			He does not.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     17.
+
+11   CONTINUED:	(2)
+
+					KOR 
+			Bah...
+				(beat, then worried) 
+			Did he... revoke my commission?
+
+					WORF 
+			No. You will serve aboard the 
+			Ch'Tang as Third Officer.
+
+					KOR 
+			Third... ? Well, no matter. I've 
+			overcome greater obstacles.
+				(beat) 
+			Thank you, Worf. You are a true 
+			friend.
+
+					WORF 
+			Report aboard at oh-seven 
+			hundred. And... stay out of 
+			Martok's way.
+
+					KOR 
+			He will not even know I'm there.
+
+	Worf gets up to leave and Kor sits back for a moment 
+	and smiles. Suddenly a look of confusion comes 
+	across his face.
+
+					KOR 
+			Worf!
+				(Worf stops) 
+			What was the... name of the 
+			ship... ?
+
+					WORF 
+			The Ch'Tang.
+
+					KOR
+				(quickly, 
+				overlapping) 
+			Ch'Tang! Of course. See you 
+			there.
+
+	Worf EXITS.
+
+									CUT TO:
+
+12   EXT. SPACE - BIRDS OF PREY (OPTICAL)
+
+	FIVE BIRDS OF PREY are orbiting the station in a 
+	tight formation.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE    17A.
+
+13   INT. KLINGON BRIDGE
+
+	Worf is checking various consoles around the Bridge, 
+	while Darok methodically forces Martok to deal with 
+	various PADDs and reports. Kolana is at the 
+	tactical console. SYNON -- a very young Klingon 
+	woman --is at the helm. Several N.D. Klingons man 
+	the various stations, and there's background CHATTER 
+	as they go about their duties.
+
+					KOLANA 
+				(to Martok) 
+			Transporter room reports that our 
+			last crewmembers have beamed 
+			aboard.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     18.
+
+13   CONTINUED:
+
+					MARTOK 
+			Very well.
+				(to Kolana) 
+			Signal the squadron -- prepare to 
+			get underway.
+				(to Worf)
+			Stand by to cloak.
+
+					WORF
+			Aye, sir.
+
+					MARTOK
+				(to Synon) 
+			Helm, set course three two five, 
+			mark zero zero three. Full 
+			impulse until we clear the outer 
+			marker, then go to...
+
+	Martok trails off as he suddenly notices that 
+	everyone is looking at something o.s. Martok turns 
+	around to see...
+
+14   KOR
+
+	has just entered the Bridge. The entire crew is 
+	staring at him with unabashed awe.
+
+					SYNON
+				(hushed)
+			The Dahar Master...
+
+	Kor holds his head high and walks toward the command 
+	area. The N.D.s stand out of respect when he 
+	passes.
+
+					KOR
+				(to Martok) 
+			Third Officer Kor... reporting 
+			for duty.
+
+	Martok turns away from him without a word. Kor is 
+	actually a little amused at his reaction.
+
+					WORF
+				(calm) 
+			Take your station.
+
+	Kor humbly nods and proceeds to his console. The 
+	N.D.s quickly step out of his way. Even Darok and 
+	Kolana are awed by the legendary warrior.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     19.
+
+14   CONTINUED:
+
+					MARTOK
+				(barks, to all)
+			Return to your duties or I'll
+			find a crew that can! Helmsman!
+			I gave you an order!
+
+	The Bridge crew scramble back to their stations.
+
+					SYNON
+			Chah-Veh! (Yes, sir!)
+
+	Synon works.
+
+15   EXT. SPACE - THE KLINGON SQUADRON (OPTICAL)
+
+	wheels in formation and heads away from the station. 
+	As they head away, they all CLOAK simultaneously.
+
+16   INT. KLINGON BRIDGE (OPTICAL)
+
+	As before. The ship is now CLOAKED. The viewscreen 
+	shows the stars as they begin to streak by at warp, 
+	the crew go about their jobs with a professional 
+	precision. Martok is steadfastly refusing to look 
+	at Kor, but Darok is staring at him with stark 
+	admiration.
+
+					DAROK
+			Kor... here... on our ship...
+
+					MARTOK
+				(growls)
+			Don't you have something to do?
+
+					DAROK
+			No.
+
+					MARTOK
+			Find something.
+
+	Darok nods absently, still staring at Kor. He heads 
+	off. Martok takes a moment to steal a glance at 
+	Kor...
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT ONE     20.
+
+17   MARTOK'S POV
+
+	Which shows Kor working a console at the back of the 
+	Bridge. Darok, then Kolana, and then an N.D. 
+	Klingon come over to him, shake his hand, smile with 
+	excitement as they greet the Dahar Master.
+
+18   RESUME MARTOK
+
+	As he turns around and his scowl deepens...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     21.
+                            ACT TWO                             
+
+	FADE IN:
+
+19   INT. QUARK'S
+
+	KIRA and Ezri are having drinks at a table.
+
+					KIRA 
+			So what did Kor say when he met 
+			you?
+
+					EZRI 
+			The usual. I have the same 
+			conversation over and over again. 
+			Everyone's shocked at first, then 
+			they immediately start scanning 
+			my face for signs of the person 
+			they knew as Dax. "I don't 
+			believe it. Is it really you?
+			Oh, I see a little Jadzia in your 
+			eyes... a little Curzon in your 
+			smile."
+
+					KIRA
+			Isn't there always a period of 
+			adjustment that joined Trills 
+			have to go through... when people 
+			are comparing them to previous 
+			hosts? I'm sure it'll pass.
+
+					EZRI 
+				(sighs) 
+			You're right. The last five Dax 
+			hosts went through this. 
+				(beat) 
+			That wasn't bad. You'd make a 
+			pretty good counselor. Want to 
+			trade jobs?
+
+					KIRA
+			Oh, people would love bringing 
+			their problems to me. "You 
+			dreamed about what? You're 
+			crazy. Now, get out of my 
+			office! Next patient!"
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     22.
+
+19   CONTINUED:
+
+					EZRI 
+			Funny you should mention dreams. 
+			Ever since my conversation with 
+			Kor, I've been having the most 
+			intense dreams about him.
+
+					KIRA
+			Like what?
+
+	QUARK approaches them with a new round of drinks.
+
+					EZRI 
+			Being on a Klingon bridge 
+			together... going off into 
+			battle... drinking bloodwine -- 
+			which still makes me gag, by the 
+			way... singing songs... 
+				(beat) 
+			Part of me wishes that I was out 
+			there with him now...
+
+	Quark is about to leave, but stops when he hears 
+	this -- he thinks she's talking about Worf and he 
+	can't believe it.
+
+					EZRI 
+			I hope he's all right. I mean, I 
+			know I'm sort of contradicting 
+			what I just said about trying to 
+			set myself apart from my previous 
+			hosts, but... the memories I have 
+			of being with him are so vivid... 
+			I can't bear the thought of 
+			losing him. I'd give almost 
+			anything for one more chance for 
+			the two of us to be together 
+			again... side by side... just 
+			like it used to be.
+
+	Quark is staring at her now and Kira notices.
+
+					KIRA
+			Do you need something?
+
+					QUARK 
+			No. Nothing.
+
+	He heads off with a stunned look on his face.
+
+					EZRI 
+			So what's your professional 
+			opinion?
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     23.
+
+19   CONTINUED:	(2)
+
+					KIRA 
+			You're crazy.
+
+					EZRI 
+			Next patient!
+
+	They both laugh.
+
+20   QUARK
+
+	arrives at the bar, still with a shocked look on his 
+	face. ODO is there.
+
+					ODO 
+			What's the matter with you? 
+			Someone forget to leave a tip?
+
+					QUARK
+			It's Ezri. She... she... I can't 
+			even say it.
+
+					ODO
+			Try.
+
+					QUARK
+			She... wants to get back together 
+			with Worf.
+
+	OFF the stunned look on Quark's face...
+
+									CUT TO:
+
+21   INT. KLINGON MESS HALL
+
+	Martok, Worf, Kolana, Synon, Darok and N.D.s as 
+	needed are gathered around the table eating dinner.
+
+					MARTOK
+			... and before the Cardassians 
+			realized we were even there, we'd 
+			destroyed the entire camp and the 
+			relay station!
+
+	Heads nod and smiles all around.
+
+					KOLANA
+				(lifts her glass) 
+			To General Martok -- victor of 
+			Felton Prime!
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     24.
+
+21   CONTINUED:
+
+
+					ALL 
+			Q'apla!
+
+	They all drink to that while Martok waves away the 
+	toast. Kor ENTERS. At the sight of him, Martok's 
+	tales of battle are forgotten in a flash and 
+	everyone (except Worf and Martok) jumps to their 
+	feet.
+
+					KOLANA
+				(to Kor) 
+			Let me have the honor to welcome 
+			the Dahar Master to the humble 
+			mess hall of the Ch'Tang.
+
+					KOR 
+			Sit, sit. You do me too much 
+			honor. On this voyage I am but 
+			the third officer -- I expect no 
+			special treatment.
+
+	They make room for him at the foot of the table. 
+	Worf notices Martok fuming quietly and he tries to 
+	change the subject.
+
+					WORF
+				(to Martok) 
+			Have you settled on an attack 
+			plan for the starbase on Trelka 
+			Five?
+
+	The attention of the table naturally returns to 
+	Martok when the subject of combat is brought up.
+
+					MARTOK
+				(nods) 
+			I'm going to send the Malpara and 
+			Ning'tao in ahead of the rest of 
+			the squadron.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     25.
+
+21   CONTINUED:	(2)
+
+					MARTOK (Cont'd)
+			They'll make a single strafing
+			run on the base and then head out
+			of the system. When the enemy
+			sends out repair crews to assess
+			the damage, then the rest of the
+			squadron will decloak.
+
+	Eager grins go around the table.
+
+					MARTOK 
+				(continuing) 
+			With any luck, we'll catch them 
+			with their entire damage control 
+			effort underway.
+
+					KOR 
+			Excellent! An excellent plan, 
+			general.
+
+					MARTOK 
+			I'm glad you approve.
+
+					KOR 
+			Of course. It's the same tactic 
+			Kang and I used against the 
+			Federation during the battle of 
+			Caleb Four.
+
+					KOLANA 
+			You were at Caleb Four?
+
+					DAROK 
+			Of course he was! 
+				(to Kor) 
+			Forgive the ignorance of these 
+			children.
+
+					KOR 
+			I was a young officer once; I 
+			know how irrelevant the past can 
+			seem.
+
+					KOLANA 
+			We would be honored if you would 
+			tell us about Caleb Four.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     26.
+
+21   CONTINUED:	(3)
+
+               DAROK                                SYNON
+     Tell the tale.                       Yes, tell us!
+
+	Kor hesitates for only a moment.
+
+					KOR 
+			There's not much to tell 
+			really... the battle was over 
+			almost before the Federation knew
+			it had begun.
+
+				(beat) 
+			I commanded the first division 
+			from the Klothos -- one of the 
+			old D-Five cruisers -- while Kang 
+			commanded the second division.
+
+	As Kor launches into his story, Martok pushes back 
+	from the table and silently fumes. Worf knows that 
+	there's trouble brewing on the horizon...
+
+					KOR
+				(continuing) 
+			Now, you must remember that in 
+			those days, the cloaking device 
+			was a new piece of technology... 
+			there were only a handful of 
+			engineers in the Imperial Fleet 
+			who knew how to operate them. So 
+			before we left Chronos, I spent 
+			three days in the engine room...
+
+									CUT TO:
+
+22   INT. KLINGON READY ROOM
+
+	Worf is trying to do damage control, while Martok 
+	silently watches him.
+
+					WORF
+			It is not the fault of the crew. 
+			They are... not used to serving 
+			with a legendary figure like Kor.
+
+	Martok stares at him for a long moment, and Worf is 
+	unsettled by the calm, piercing look. Fortunately 
+	for Worf, the Com Voice finally saves him from the 
+	oppressive silence.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     27.
+
+22   CONTINUED:
+
+					KOLANA'S COM VOICE
+			Bridge to General Martok.
+
+					MARTOK
+			Yes?
+
+					KOLANA'S COM VOICE
+			We are approaching Trelka Five.
+
+					MARTOK
+			Set defense condition one.
+
+					KOLANA'S COM VOICE
+			Understood.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     28.
+
+22   CONTINUED:	(2)
+
+	The ship goes to RED ALERT and Kolana's Voice is 
+	heard over the com system.
+
+					KOLANA'S COM VOICE 
+			Defense Condition One. All hands 
+			to battle stations, repeat, all 
+			hands to battle stations.
+
+	They EXIT to the bridge.
+
+									CUT TO:
+
+23   INT. KLINGON CORRIDOR
+
+	The RED ALERT is flashing and Klingon N.D.s are 
+	rushing through the Corridors to their duty 
+	stations. Kor comes charging around a corner, races 
+	up to a doorway, reaches out for the wall control to 
+	open the door, then stops. A look of confusion 
+	comes over him... he looks back the way he came. A 
+	long moment passes as Kor seems completely lost and 
+	uncertain what to do.
+
+					KOR
+				(groping) 
+			I'm... supposed to be... 
+			somewhere...
+
+	Synon runs up, heading for the same door. She stops 
+	next to him, not sure what's going on.
+
+					SYNON
+			Dahar Master... ?
+
+	Kor realizes he has to cover and has to do it fast.
+
+					KOR
+				(demanding) 
+			Where are you going, lieutenant?
+
+					SYNON
+				(surprised) 
+			To... the bridge. We're 
+			approaching Trelka Five.
+
+      DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT TWO     29.
+
+23   CONTINUED:
+
+	That's all it takes. Kor snaps back to the here and 
+	now.
+
+					KOR
+			The bridge!
+
+					SYNON
+			Are you all right?
+
+					KOR
+			Of course! What are you waiting
+			for -- report to your station!
+
+					SYNON
+			Chah Veh!
+
+	She opens the door and EXITS. Kor is angry with 
+	himself for the lapse.
+
+					KOR
+			Concentrate...
+
+	He takes a moment to shake off the frustration, then 
+	plunges through the doorway after her.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    30.
+                           ACT THREE                            
+
+	FADE IN:
+
+24   EXT. SPACE - TRELKA FIVE (OPTICAL)
+
+	A close shot of the planet as seen from orbit. 
+	Suddenly TWO KLINGON SHIPS DECLOAK and dive down 
+	toward the planet, FIRING all the way.
+
+25   INT. KLINGON BRIDGE (OPTICAL)
+
+	The Bridge crew is watching the two Klingon ships as 
+	they head down into the atmosphere. The viewscreen 
+	shows the view from high above as the ships race 
+	toward the base on the surface. Worf walks the 
+	Bridge, checking readings on the consoles.
+
+25A  EXT. ATMOSPHERE - TWO KLINGON SHIPS
+
+	ROAR toward the base and FIRE. The disruptor blasts 
+	cause an EXPLOSION to erupt from the base.
+
+25B  INT. KLINGON BRIDGE (OPTICAL)
+
+	As before. The viewscreen shows an overhead view of 
+	the explosion.
+
+					SYNON
+				(hushed) 
+			Kai the first blood!
+
+					MARTOK
+			Planetary defense report.
+
+					KOLANA
+				(off console)
+			Their shields are down to sixty-
+			five percent... three Cardassian 
+			cruisers are in spacedock 
+			orbiting the far side of the 
+			planet... two of them are getting 
+			underway.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    31.
+
+25B  CONTINUED:
+
+					KOLANA (Cont'd)
+				(beat)
+			The Malpara and the Ning'tao have
+			completed their attack...
+
+26   EXT. SPACE - BIRDS OF PREY (OPTICAL)
+
+	The two Klingon ships are heading out of the 
+	atmosphere -- a CARDASSIAN ship is rounding the 
+	planet at the same time, giving chase. One of the 
+	Klingon ships EXPLODES.
+
+27   INT. KLINGON BRIDGE (OPTICAL)
+
+	As before.
+
+					KOLANA 
+			The Malpara... is gone. No 
+			survivors. Ning'tao is heading 
+			out of the system... the 
+			Cardassians are pursuing.
+
+					MARTOK 
+			And leaving the base unprotected. 
+				(to Synon) 
+			Helm, take us in.
+
+	Synon works and the image on the viewscreen begins 
+	RUSHING toward the planet.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    32.
+
+27   CONTINUED:
+
+					MARTOK
+				(to Synon) 
+			Bring us to a hover three hundred 
+			meters above the base.
+				(to Worf)
+			Stand by to decloak on my 
+			command.
+
+					SYNON
+				(works) 
+			Holding at three hundred meters!
+
+					MARTOK
+				(to Kolana) 
+			Scan the base.
+
+					KOLANA 
+			They've dispatched damage control 
+			teams... two defense batteries 
+			are down...
+				(beat)
+			... and they've just dropped their 
+			primary shield grid.
+
+					MARTOK
+				(with relish) 
+			Decloak the ship and open fire.
+
+	Worf moves to a console.
+
+  DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE     33   
+
+28   EXT. ATMOSPHERE - THREE KLINGON SHIPS (OPTICAL)
+
+	DECLOAK in mid-air. All three ships unleash a 
+	BARRAGE of FIRE and DIVE down toward...
+
+29   THE CARDASSIAN BASE (OPTICAL)
+
+	which takes heavy fire. The base FIRES BACK.
+
+30   INT. KLINGON BRIDGE
+
+	The ship is now being HIT and it SHAKES and ROCKS 
+	throughout. Worf has now moved down near Martok.
+
+					KOLANA
+			Shields down to eighty-five 
+			percent!
+
+					WORF 
+			Reroute emergency power to the 
+			secondary shield emitters!
+
+					MARTOK 
+			Fire torpedoes! Helm, lay in an 
+			escape course!
+
+					SYNON 
+			Aye, sir!
+
+	There's an EXPLOSION near the command area that 
+	fills the Bridge with SMOKE and FIRE.
+
+31   KOR
+
+	peers through the smoke and sees Martok and Worf 
+	lying on the deck, unconscious. Kor realizes that 
+	this is his moment... he steps into the breach.
+
+					KOR 
+			Continue firing! Target their 
+			primary reactors!
+
+					KOLANA
+			Chah Veh! (Understood!)
+
+					KOR 
+			Bring us around for another pass!
+
+					SYNON 
+			Coming about!
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    34.
+
+32   ON THE DECK
+
+	Worf is still unconscious, but Martok is struggling 
+	to remain awake, with blood flowing down his 
+	forehead.
+
+					MARTOK
+					(dazed)
+			No... no... only one... pass...
+
+33   EXT. ATMOSPHERE - THREE KLINGON SHIPS (OPTICAL)
+
+	Wheel in formation and begin another pass at the 
+	base. The FIRE from the base is even fiercer.
+
+34   INT. KLINGON BRIDGE
+
+	As before. The ship is ROCKED again and again. 
+	Consoles are EXPLODING now. Martok has raised 
+	himself to a sitting position against one bulkhead, 
+	but he can go no further. Worf is just regaining 
+	consciousness.
+
+					MARTOK
+				(weak)
+			Leave... system...
+
+	Kor bends down and puts a hand on Martok's shoulder, 
+	which only infuriates Martok further.
+
+					KOR
+				(to Martok) 
+			Do not worry my friend, all is 
+			well.
+
+					MARTOK
+				(struggling)
+			Old... fool...
+
+					KOLANA 
+			The Orantho reports their captain 
+			and first officer are dead... and 
+			they have a hull breach on their 
+			port quarter!
+
+	Kor steps away from Martok.
+
+					KOR 
+			Instruct them to continue firing!
+				(to Kolana) 
+			Open a channel to Kang!
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    35.
+
+34   CONTINUED:
+
+					KOLANA
+				(confused) 
+			To... Kang?
+
+					KOR 
+			Tell him we've succeeded, and 
+			that the Federation outpost on 
+			Caleb Four will be taken within 
+			the hour!
+
+	Kolana is shocked, she looks at Synon, who's also 
+	turned around in surprise.
+
+					KOLANA 
+			Sir... Kang's been dead for years...
+
+	But Kor isn't listening to her. He's ready to press ]
+	home the attack and he moves to Synon.
+
+					KOR
+				(overlapping, to Synon) 
+			Prepare a boarding party. We're 
+			going to take the base!
+
+	Synon turns around in shock just as Worf makes it to 
+	his feet and tries to focus.
+
+					SYNON 
+			But sir... they have a garrison 
+			of ten thousand...
+
+					MARTOK
+				(labored, to Synon) 
+			By the... hand of Kahless... get 
+			us out of here!
+
+	Synon isn't sure what to do, she looks back at 
+	Kolana in confusion, as the ship ROCKS and SHAKES. 
+	Kor is in his own world.
+
+					KOR 
+			Victory is ours! The Federation 
+			will rue the day they dared to 
+			challenge the might of the 
+			Klingon Empire! We will take 
+			Caleb Four and raise our banner 
+			above the smoking ruins of their 
+			outpost!
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    36.
+
+34   CONTINUED:	(2)
+
+	The following happens very quickly:
+
+	-- Martok reaches for his knife.
+
+	-- Worf steps between Kor and Martok.
+
+	-- Martok FLINGS the knife toward Kor.
+
+	-- Worf CATCHES it out of the air, then turns and HITS 
+	Kor in the jaw with his elbow, knocking the old man 
+	to the deck.
+
+	-- There's a shocked beat on the Bridge.
+
+					WORF
+				(to Synon)
+			Escape course! Now!
+
+	Synon works frantically.
+
+35   EXT. ATMOSPHERE - THREE KLINGON SHIPS (OPTICAL)
+
+	As they head up and away from the Cardassian base.
+
+36   INT. KLINGON BRIDGE
+
+	As before. Kor is picking himself up off the deck, 
+	just as Worf helps Martok back into the command 
+	chair.
+
+					MARTOK
+				(ragged)
+			Engage... cloaks.
+
+	The LIGHTING CHANGES and the shaking and bouncing 
+	STOP.
+
+					KOLANA
+			The Slivin and the Orantho have
+			cloaked... no pursuit from Trelka
+			Five.
+
+	Martok nods and sits back in his chair, breathing 
+	heavily. While the ship returns to normal, Kor 
+	stands up and realizes that he's made a mistake. 
+	Kor slowly walks back to his station.
+
+					MARTOK
+				(labored)
+			No... time to waste... proceed...
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT THREE    37.
+
+36   CONTINUED:
+
+					MARTOK (Cont'd)
+			... proceed to rendezvous... then
+			on to... the Manora shipyards.
+			Warp seven.
+
+					WORF 
+				(to com) 
+			Medical team to the bridge!
+
+					MARTOK 
+			Worf... get that man out of here.
+
+	The entire Bridge crew turns and looks at Kor. Kor 
+	cannot meet their eyes. He EXITS.
+
+37   INT. KLINGON CORRIDOR - CONTINUOUS
+
+	Kor ENTERS from the bridge and stops for a moment. 
+	What has he done?
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     38.
+                           ACT FOUR                             
+
+	FADE IN:
+
+38   INT. QUARK'S
+
+	After hours. Quark is sitting at the bar pouring out 
+	his heart for a change. JAKE is playing 
+	bartender to him, with a towel draped over his 
+	shoulder as he tries to mix drinks for the forlorn 
+	Ferengi.
+
+					QUARK 
+			I'm not a bad man, Jake. I don't 
+			hurt people. I don't steal from 
+			them. I don't even overcharge 
+			them much. In a universe filled 
+			with pain and suffering I offer 
+			people an oasis. 
+				(beat) 
+			I offer them love. But does 
+			anyone offer love to me? No.
+
+					JAKE 
+			Come on. I've seen you with
+			women.
+
+	Jake pushes the drink toward him. Quark glances at 
+	it and sends it back.
+
+					QUARK
+			Too much rum, wrong garnish.
+
+	Jake frowns, consults a PADD and then throws out the 
+	drink before starting over.
+
+					QUARK 
+			Of course I've been with women. 
+			But none of them were Jadzia. 
+			She was perfect. She played 
+			tongo. She had a sense of humor.
+
+					JAKE 
+			She was tall.
+
+					QUARK
+				(loves it)
+			And she was tall...
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     39.
+
+38   CONTINUED:
+
+					JAKE 
+			Well, you did have your chance. 
+			Jadzia was here for three full 
+			years before Worf showed up.
+
+
+					QUARK
+			I was playing a deep game. I'm 
+			not the kind of man who just 
+			rushes in and declares himself. 
+			I like the chase. But then 
+			Mister Today-is-a-good-day-to-die 
+			shows up and spoils everything. 
+				(beat) 
+			And now, it's going to happen all 
+			over again with Ezri. New body, 
+			new personality, but she'll make 
+			the same mistake.
+
+	Jake pushes over another drink.
+
+					QUARK 
+			Too much syrup. Can't you read?
+
+					JAKE 
+				(off PADD) 
+			It says two fingers.
+
+	Jake puts his fingers alongside the outside of the 
+	glass.
+
+					QUARK 
+			That's not two fingers.
+
+	He grabs the jar, sticks two fingers into the syrup, 
+	and shakes off the syrup into the glass.
+
+					QUARK 
+			That's two fingers.
+
+					JAKE 
+				(gross) 
+			Oh, God...
+
+					QUARK
+			Some bartender you'd make. Can't 
+			mix drinks and can't dispense 
+			advice.
+
+					JAKE 
+			You want my advice? Okay. You 
+			think Ezri's making a mistake? 
+			Tell her.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     40.
+
+38   CONTINUED:	(2)
+
+					JAKE (Cont'd) 
+			Sit her down, look her right in 
+			the eye and tell her that you 
+			think Worf is the wrong man for 
+			her.
+
+					QUARK
+			She won't listen.
+
+					JAKE 
+			Then she won't listen, but at 
+			least you'll have tried. If you 
+			don't say anything and they do 
+			get involved...
+
+					QUARK 
+			I'll hate myself.
+
+					JAKE 
+			And enough people hate you 
+			already. Why add to the list?
+
+					QUARK 
+			You know what? You're a really 
+			bad bartender. 
+				(beat) 
+			But... I think you're right. 
+			Thanks, Jake.
+
+	He heads for the EXIT.
+
+					JAKE
+			No tip?
+
+									CUT TO:
+
+39   INT. KLINGON QUARTERS
+
+	Worf is sitting at the tiny desk, working on the 
+	computer when the door CHIMES.
+
+					WORF
+			Enter.
+
+	Kor ENTERS. He's subdued, chastened by what 
+	happened on the Bridge. For the first time, Kor 
+	suddenly looks his age. There's an awkward beat 
+	between the two men.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     41.
+
+39   CONTINUED:
+
+					KOR 
+			Worf... I just wanted to say... 
+			that I regret what happened on 
+			the bridge yesterday...
+
+					WORF 
+			What's done is done. Let us not 
+			speak of it.
+
+	Kor accepts that, but had hoped for more from Worf.
+
+					KOR 
+			You're right. We should put it 
+			behind us. It was a... momentary 
+			lapse. It will not happen again. 
+			Which brings us to the reason I'm 
+			here.
+				(beat) 
+			I would like to... resume my 
+			bridge duties.
+
+	Worf feels bad for him, it troubles him to see a 
+	great man like Kor brought low. But at the same 
+	time, Worf cannot help him at this point.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     42.
+
+39   CONTINUED:	(2)
+
+					WORF
+			I must think of the safety of the 
+			ship.
+
+	That stings.
+
+					KOR 
+			You don't believe in me, do you? 
+			You don't think I can serve as a 
+			soldier of the Empire any longer?
+
+	Worf looks away.
+
+					KOR 
+			If that's what you think, at 
+			least have the courage to look me 
+			in the eye and say it!
+
+	Worf didn't want to do this, but Kor is forcing his 
+	hand. He steels himself and looks Kor right in the 
+	eye.
+
+					WORF
+			I do not believe you are up to 
+			the challenge.
+
+	The words cut through Kor like a knife. He seems to 
+	deflate right before our eyes. After a long, 
+	wounded beat... he turns and EXITS without another 
+	word.
+
+									DISSOLVE TO:
+
+40   INT. KLINGON MESS HALL
+
+	Kor is sitting at the end of the table by himself, 
+	eating a bowl of soup, lost in thought, when Martok, 
+	Darok and Synon ENTER.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     43.
+
+40   CONTINUED:
+
+					MARTOK
+			... and find out what's wrong with 
+			the Ning'tao. I know Captain 
+			Lurkan is young, but he needs to 
+			realize the importance of...
+
+	Martok catches sight of Kor and stops. Kor avoids 
+	their eyes and keeps eating.
+
+					MARTOK
+				(continuing)
+			... keeping formation.
+
+	Martok actually is pleased to see his hated rival in 
+	this state. He grabs a flagon of bloodwine before 
+	sitting down at the table. Martok has waited a long 
+	time for this and he's going to enjoy himself.
+
+					MARTOK 
+			I've been thinking about our next 
+			objective. Perhaps we should go 
+			after a bigger target... 
+			something more threatening to our 
+			forces.
+				(beat) 
+			What about the base on Caleb Four?
+
+	Kor's spoon stops halfway to his mouth, but he still 
+	won't look up.
+
+	Darok frowns, uneasy with this baiting of Kor, but 
+	Synon is following Martok's lead. She smiles and 
+	looks eagerly down at the old man to see how he'll 
+	react.
+
+					DAROK
+			If you'll excuse me, I have 
+			duties to attend to...
+
+	Darok begins to stand, but Martok stops him cold.
+
+					MARTOK
+			Your duties are right here.
+
+	Darok sits back down and that evil grin returns to 
+	Martok's face.
+
+					MARTOK 
+			Someone was just telling me about 
+			the defenses on Caleb Four. Now, 
+			who was it... ?
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     44.
+
+40   CONTINUED:	(2)
+
+					SYNON
+				(enjoying it) 
+			I believe it was our third 
+			officer, general.
+
+					MARTOK 
+			That's right!
+				(to Kor) 
+			Third officer! Tell us about 
+			Caleb Four. Is it manned by 
+			Jem'Hadar or Cardassian troops?
+
+					KOLANA'S VOICE 
+			I thought it was a Federation 
+			outpost.
+
+	They turn to see that Kolana has ENTERED and is 
+	leaning against the doorway, enjoying the spectacle. 
+	Kor is surrounded by wolves.
+
+					MARTOK 
+			But how can that be? The 
+			Federation is our ally. Surely 
+			Kor is aware of that.
+
+	Martok gets up and moves down toward Kor.
+
+					SYNON 
+			Perhaps he's confused.
+
+					MARTOK 
+			Confused? The Dahar Master? 
+			Surely not! We must be the ones 
+			who are confused!
+
+	Martok takes a seat next to Kor.
+
+					MARTOK 
+			Enlighten us -- who mans the base 
+			on Caleb Four? Federation or 
+			Dominion?
+
+					KOLANA 
+			I think he's forgotten.
+
+					SYNON
+				(laughs) 
+			I think he's asleep.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     45.
+
+40   CONTINUED:	(3)
+
+					MARTOK 
+			Stop it, both of you! Don't you 
+			have any respect for one of the 
+			Empire's greatest heroes? He's 
+			thinking it over. Give him 
+			time... the last son of the House 
+			of Kor should not be rushed.
+
+					KOLANA 
+			How long should we wait?
+
+					SYNON 
+			Perhaps we should ask Kang.
+
+	Kolana and Synon laugh and Martok chuckles, but the 
+	laughter subsides as Kor pushes away the soup and 
+	stands up with all the dignity he can muster. As 
+	Kor heads for the door, Martok glowers at him, 
+	frustrated by Kor's refusal to be baited.
+
+					MARTOK 
+			Well, say something old man. Or 
+			have you lost your tongue as well 
+			as your mind?
+
+	Kor stops and looks directly at Martok. Then one by 
+	one, he looks each of them right in the eye. His 
+	steady gaze slightly unnerves his tormentors.
+
+					KOR 
+			Savor the fruit of life, my young 
+			friends. It has a sweet taste 
+			when it's fresh from the vine. 
+			But don't live too long... the 
+			taste turns bitter... after a 
+			time.
+
+	Kor EXITS, leaving a now silent Mess Hall behind.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     46.
+
+41   INT. KLINGON READY ROOM
+
+	Martok is working on a PADD, but seems more subdued 
+	than usual. Worf ENTERS. He, too is downbeat as he 
+	hands Martok a PADD.
+
+					WORF
+			The new personnel roster.
+
+	Martok looks it over.
+
+					MARTOK 
+			You've removed Kor from active 
+			duty.
+
+					WORF 
+			I saw no other choice.
+
+					MARTOK 
+			Still. You're his friend. It 
+			must've been difficult for you.
+
+					WORF 
+			A friend would not have put him 
+			in this position in the first 
+			place.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     47.
+
+41   CONTINUED:
+
+	A long beat.
+
+					MARTOK 
+			I've hated his name for almost 
+			thirty years. I've dreamt of the 
+			moment when I'd finally see him 
+			stripped of his rank and title... 
+			when he would suddenly find 
+			himself without the power of his 
+			birthright and without a friend 
+			in the world... 
+				(beat) 
+			I had that moment. But I took no 
+			joy from it.
+
+	A long, sad moment...
+
+					MARTOK 
+				(awkward) 
+			Have you thought about what... 
+			will become of him when we return 
+			to Deep Space Nine?
+
+					WORF
+			I plan to speak with Chancellor 
+			Gowron and try to... find Kor an 
+			assignment on the homeworld.
+
+					MARTOK 
+				(beat) 
+			I will... put in a word with 
+			Gowron as well.
+
+					KOLANA'S COM VOICE 
+			Bridge to General Martok.
+
+					MARTOK 
+				(to com) 
+			Yes?
+
+					KOLANA'S COM VOICE 
+			Pardon the interruption sir, but 
+			sensors have detected a large 
+			body of enemy ships.
+
+					MARTOK 
+			On my way.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FOUR     48.
+
+41   CONTINUED:	(2)
+
+	Worf and Martok head for the Bridge.
+
+42   INT. KLINGON BRIDGE 
+
+	Kolana and Synon are on duty when Martok and Worf ENTER.
+
+					MARTOK 
+			Where are they?
+
+					KOLANA 
+			The warp signatures are bearing 
+			directly astern.
+				(beat) 
+			They're Jem'Hadar fighters... and 
+			they appear to be pursuing us.
+
+					MARTOK 
+			How can that be?
+
+	Worf works a console.
+
+					WORF
+				(off monitor) 
+			Their lead ship is using some 
+			kind of long-range tachyon 
+			scanner to penetrate our cloaks.
+
+					SYNON
+				(shocked) 
+			Does the Dominion possess such a device?
+
+					MARTOK
+				(grim) 
+			They do now.
+
+					WORF 
+			How many ships?
+
+					KOLANA 
+			I've identified... ten vessels so 
+			far... and sir, they're gaining on us.
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+ DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE 49-49A.    
+                           ACT FIVE                             
+
+	FADE IN:
+
+43   OMITTED
+
+44   INT. KLINGON BRIDGE (OPTICAL)
+
+	A few minutes later. The Bridge crew is watching 
+	the viewscreen, which shows an aft view of the 
+	pursuing JEM'HADAR SHIPS. Darok is now on the 
+	Bridge, watching from an out-of-the-way corner.
+
+					WORF 
+			How long until we're within their 
+			weapons' range?
+
+					KOLANA
+				(off console) 
+			Two hours, twelve minutes.
+
+					MARTOK 
+			Helm, have you located the 
+			Defiant?
+
+					SYNON 
+			Yes, sir. They're waiting for us 
+			in the Kalandra Sector, with 
+			seven Federation starships. It 
+			will take us...
+				(works)
+			... three hours, forty-five 
+			minutes to reach them.
+
+	A grim beat.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     50.
+
+44   CONTINUED:
+
+	Worf is beginning to get an idea.
+
+					WORF
+				(thinking out loud) 
+			If the Jem'Hadar could be forced 
+			to drop out of warp for only ten 
+			minutes... they would not have 
+			time to catch up with us before 
+			we rendezvous with the Defiant.
+
+					MARTOK 
+			A fine theory, but how do we 
+			execute it?
+
+	Another beat and then Worf has his plan.
+
+					WORF
+			We could disrupt their warp 
+			fields with an inverse graviton 
+			burst. That would force them to 
+			drop to impulse until the 
+			gravitons dissipated.
+
+					KOLANA 
+			We would need to generate a 
+			massive burst to disrupt the warp 
+			fields of a fleet that size.
+
+					WORF 
+			A single bird of prey could do it 
+			by diverting warp power to the 
+			main deflector.
+
+					MARTOK 
+			How long would that delay them?
+
+					KOLANA 
+			They could reinitialize their 
+			warp cores in less than two 
+			minutes...
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE    50A.
+
+44   CONTINUED:	(2)
+
+					WORF
+			But if I engaged them in battle 
+			while they were still at impulse, 
+			they would be delayed longer. 
+				(confident) 
+			I know I can do it.
+
+	Martok looks at him in surprise.
+
+					MARTOK 
+			What do you mean, you can do it?
+
+					WORF 
+			The Orantho's Captain and First 
+			Officer are dead. The Slivin's 
+			deflector is damaged and can't 
+			generate the graviton burst. And 
+			the Ning'tao's Captain is too 
+			young and inexperienced. I am 
+			the logical choice.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     51.
+
+44   CONTINUED:	(3)
+
+	Martok knows he's right, but hates this option 
+	because it means Worf's certain death. As a 
+	Klingon, Martok can't simply admit his true feelings 
+	out loud -- he struggles for an excuse.
+
+					MARTOK
+				(sotto) 
+			But Worf, this means... that 
+			you... you would be 
+			sacrificing...
+				(can't say it, has 
+				to say something 
+				else)
+			... the entire crew of the 
+			Ning'tao.
+
+					WORF
+				(sotto) 
+			I have thought of that. We can 
+			beam most of the crew off before 
+			I take command. I will need only 
+			a half-dozen volunteers.
+
+	Martok searches his eyes for a moment... struggles 
+	with it... then realizes that there's really no 
+	other choice. He sits down heavily in his chair.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     52.
+
+44   CONTINUED:	(4)
+
+					MARTOK 
+			Send a signal to the Ning'tao... 
+			tell them to prepare for a change 
+			in command...
+
+	Worf EXITS. Hold on Darok, who's heard the entire 
+	exchange, and is beginning to come up with a new 
+	plan...
+
+									CUT TO:
+
+45   INT. KLINGON QUARTERS
+
+	Kor is lying on the tiny bunk, staring at the 
+	ceiling when the door CHIMES.
+
+					KOR 
+			Yes?
+
+	Darok ENTERS, carrying a tray with food (there's 
+	also a PADD on the tray). Kor barely glances at 
+	him.
+
+					KOR 
+			I'm not hungry.
+
+					DAROK 
+			The food is for me -- I haven't 
+			eaten in hours.
+
+	Darok sits down and begins eating.
+
+					DAROK 
+			Men of our generation never stood 
+			on ceremony. We ate when we were 
+			hungry, we fought when we were 
+			angered -- I miss the simplicity 
+			of those days.
+
+					KOR 
+			I miss a great deal about those 
+			days.
+
+					DAROK 
+			The warriors on this ship... they 
+			don't know what they missed. But 
+			such is the way of children. 
+			They often let the promise of the 
+			future obscure the glories of the 
+			past.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     53.
+
+45   CONTINUED:
+
+					KOR 
+			Is there a point to this 
+			nostalgic indulgence?
+
+					DAROK 
+			Only that they are children. 
+			Even Martok -- who, for all his 
+			flaws, is a great warrior -- even 
+			Martok is but a child compared to 
+			you or me. They are quick to 
+			judge and slow to forgive. They 
+			still have much to learn. 
+				(beat) 
+			We are being pursued by a 
+			Jem'Hadar fleet. Worf believes 
+			that he can stop them with a 
+			single ship.
+
+	Kor sits up.
+
+					KOR 
+			How?
+
+	Darok hands him the PADD.
+
+					DAROK 
+			It's a good plan. But it has one 
+			flaw. It depends entirely on 
+			Worf successfully engaging the 
+			entire enemy fleet, if only for a 
+			short time.
+
+	As Kor reads the PADD, he gets a gleam in his eye.
+
+					KOR 
+			It can be done... the key is to 
+			confuse their sensors in the 
+			opening moments with a spread of 
+			torpedoes...
+
+					DAROK 
+			Perhaps. But, it would take a 
+			man with three times his 
+			experience to accomplish such a 
+			feat.
+
+	Darok leans forward, fastens Kor with a direct and 
+	searching look.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE    53A.
+
+45   CONTINUED:	(2)
+
+					DAROK
+				(continuing) 
+			But such a man would have to be 
+			certain of his abilities.
+
+	Beat.
+
+					KOR 
+			Such a man would only take the 
+			job if he were certain.
+
+	That's enough for Darok. He stands.
+
+					DAROK 
+			It has been an honor serving with 
+			you, Kor son of Rynar.
+
+	Kor stands and the two old men shake hands, then 
+	Darok EXITS. OFF Kor's face...
+
+									CUT TO:
+
+46   INT. KLINGON CORRIDOR
+
+	Worf is heading down the Corridor toward the 
+	Transporter Room. Kor's voice stops him.
+
+					KOR'S VOICE 
+			Worf!
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     54.
+
+46   CONTINUED:
+
+	Worf turns to see Kor coming toward him with a big 
+	smile -- Worf really doesn't have time for this.
+
+					KOR 
+			Leaving for the Ning'tao, I take 
+			it?
+
+					WORF 
+			Yes.
+
+					KOR 
+			I wanted to wish you well. I 
+			look forward to seeing you at the 
+			gates to Sto'Vo'Kor.
+
+					WORF 
+			As do I.
+
+	He turns to go, but Kor stops him again.
+
+					KOR 
+			Do you have any message you want 
+			me to convey to Jadzia?
+
+	Worf looks confused for a beat, then Kor slaps a 
+	hypospray on his arm and INJECTS him with a drug. 
+	Worf slumps to the deck, unconscious. Kor bends 
+	down over him for a beat.
+
+					KOR 
+			When I reach the halls of the 
+			honored dead, I will find your 
+			beloved and remind her that her 
+			husband is a noble warrior... and 
+			that he still loves no one but 
+			her. Good-bye, my friend. Live 
+			well.
+
+	Kor EXITS to the transporter room.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE    54A.
+
+46A  INT. KLINGON TRANSPORTER ROOM (OPTICAL)
+
+	Kor taps a couple of controls on the console, then 
+	stands on the transporter pad. He looks around for 
+	a moment.
+
+					KOR
+			Long live the Empire!
+
+	He DEMATERIALIZES.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     55.
+
+47   EXT. SPACE - BIRD OF PREY (OPTICAL)
+
+	DECLOAKS at warp. The ship drops out of warp...
+
+48   ANGLE (OPTICAL)
+
+	as the Bird of Prey swings back around and heads 
+	back the way it came, then goes back into warp.
+
+49   INT. KLINGON BRIDGE
+
+	Martok is lost in thought in his chair, while the 
+	others works their consoles. Darok approaches the 
+	command area with a large bottle of bloodwine.
+
+					MARTOK 
+				(re: wine)
+			On the bridge?
+
+					DAROK 
+			If they succeed, you can drink to 
+			their courage, and if they 
+			fail... you can still drink to 
+			their courage.
+
+					KOLANA 
+			The Ning'tao is closing on the 
+			enemy... she's initiated the 
+			graviton burst...
+
+	Everyone tenses as Kolana watches her console.
+
+					KOLANA 
+			Their warp fields are 
+			destabilizing... 
+				(excited) 
+			They're dropping to impulse!
+
+					MARTOK 
+			By Kahless's hand... how many?
+
+					KOLANA 
+				(beat) 
+			All of them!
+
+	Worf ENTERS quietly as the Bridge crew listens to 
+	Kolana.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     56.
+
+49   CONTINUED:
+
+					KOLANA 
+			The Ning'tao has dropped out of 
+			warp. She's engaging the 
+			enemy...
+
+					MARTOK 
+				(quiet) 
+			Die well, Worf.
+
+					WORF 
+			Today... was not my day to die.
+
+	Martok turns in surprise.
+
+					MARTOK 
+			Worf!
+
+	Martok's pleasure turns to shock as he realizes what 
+	this means.
+
+					MARTOK 
+			But then who... ? Kor!
+
+					WORF
+				(nods) 
+			He surprised me outside the 
+			transporter room with a 
+			hypospray.
+
+
+					MARTOK 
+			I hope that old fool understands 
+			what he's doing. 
+				(to Kolana) 
+			How goes the battle?
+
+					KOLANA 
+			We're approaching the limit of 
+			our sensor range... but it 
+			appears that the enemy formation 
+			has collapsed... the Ning'tao is 
+			maneuvering rapidly... she's 
+			taking heavy fire from the 
+			Jem'Hadar... 
+				(reacts) 
+			I've lost contact.
+
+	Beat.
+
+					MARTOK 
+			One ship against ten... it 
+			doesn't seem possible.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     57.
+
+49   CONTINUED:	(2)
+
+					WORF
+			He will succeed. He is Kor -- 
+			the Dahar Master.
+
+	Off their tense expressions...
+
+									CUT TO:
+
+50   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+51   INT. QUARK'S 
+
+	Quark and Jake are at the bar, when Ezri ENTERS and 
+	takes a seat at the end. Quark and Jake exchange a 
+	look -- Jake nods to him with a "go for it" expression. 
+	Quark braces himself, then strides over to her. (Jake 
+	should be within earshot, but not right next to them.)
+
+					EZRI 
+			Hi. I think I'm in the mood for --
+
+					QUARK
+			Wait. I have something to say. 
+			Now, you may think it's none of 
+			my business, but someone has to 
+			speak up and I've decided that 
+			someone is me. 
+				(beat) 
+			So. Here it is. I'll just say 
+			it. Right now.
+
+					EZRI 
+			Okay.
+
+					QUARK
+			You're making a mistake by 
+			pursuing another relationship 
+			with Worf.
+
+					EZRI 
+			Excuse me?
+
+					QUARK
+			You heard me. I know how Jadzia 
+			felt about Worf... but that was her 
+			life not yours. You're Ezri Dax. 
+			You need to give yourself a chance 
+			to explore other relationships. 
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     58.
+
+51   CONTINUED:
+
+					QUARK (Cont'd)
+			There's a whole universe out there
+			full of men and women -- why limit
+			yourself? You're young and
+			beautiful and full of life. Why go
+			after a man who's only a memory to
+			you?
+
+	Ezri is getting amused at this point.
+
+					EZRI 
+			I don't know.
+
+					QUARK
+			Now, I've had my problems with 
+			Worf, I'll admit it. But this 
+			isn't about me or my feelings. 
+			This is about you. And Worf has 
+			done nothing -- and I mean 
+			nothing -- to deserve you. 
+			Shouldn't you try to find someone 
+			who's willing to... win your 
+			heart, not just inherit it? You 
+			deserve better. In fact... you 
+			deserve the best. 
+				(beat) 
+			There. I've said my piece.
+
+					EZRI 
+			Can I say something now? 
+				(off his nod) 
+			I'm not interested in another 
+			relationship with Worf. I care 
+			about him -- and I probably 
+			always will -- but he's moved on 
+			with his life... and so have I.
+
+	Beat.
+
+					QUARK 
+			Oh. Well. Good.
+
+					EZRI 
+			And I'd also like to say that 
+			what you just did was one of the 
+			kindest, dearest -- and for you, 
+			one of the most embarrassing -- 
+			things I've ever heard. 
+				(gives him a kiss) 
+			You're a real sweetheart.
+
+	Quark is stunned, relieved, excited... and 
+	speechless.
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     59.
+
+51   CONTINUED:	(2)
+
+					EZRI
+			Can I order now?
+				(off his nod)
+			A Moscow mule.
+
+					QUARK
+			Coming right up.
+
+	Quark moves down the bar, close to Jake.
+
+					QUARK
+				(sotto)
+			Did you hear that? She-- she
+			called me sweetheart.
+
+					JAKE
+			Yeah. So?
+
+					QUARK
+			She loves me.
+
+	Quark starts mixing a drink.
+
+					JAKE
+			What?
+
+					QUARK
+			"Sweetheart."
+
+					JAKE
+			You're certifiable, you do
+			realize that?
+
+					QUARK
+				(blissful)
+			She loves me...
+
+	Quark is fiercely stirring the drink.
+
+					JAKE
+				(re: stirring)
+			You're bruising the vodka.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     60.
+
+52   INT. KLINGON BRIDGE
+
+	Martok is pacing the Bridge. Kolana reacts to 
+	something on her console.
+
+					KOLANA 
+			He's done it!
+				(to Martok) 
+			The Jem'Hadar have run out of 
+			time. They can no longer 
+			overtake us before we reach the
+			Defiant.
+
+					MARTOK 
+			How? How did that pompous old 
+			man hold off an entire Jem'Hadar 
+			fleet with one ship?
+
+					WORF 
+			Does it matter?
+
+	Martok regards Worf for a moment, then realizes one 
+	further gesture is called for.
+
+					MARTOK 
+			Darok. Give me that bottle.
+
+	Darok hands it to him and Martok pulls his knife and 
+	smashes the top off.
+
+					MARTOK 
+			To Kor, Dahar Master... and noble 
+			warrior to the end.
+
+	He pours some of it in his mouth as Darok begins to 
+	SING...
+
+     DEEP SPACE NINE: "Once More... " - REV. 10/01/98 - ACT FIVE     61.
+
+52   CONTINUED:
+
+					DAROK
+				(sings)
+			"My-cho kara, end-do keela... "
+
+	Martok hands the bottle to Worf, and he drinks some 
+	and as they pass it around the Bridge, they all 
+	drink and sing to the memory of Kor...
+
+					KOLANA
+			"Bay-do chum, ka ree-do meela.. "
+
+					ALL 
+			"Stum-pa rip-to maaah-la ee-cho 
+			ree-ka!/Ree-ka!/Ree-ka!/Maaaah, 
+			so fah ka-lee te cho-pah, mee-to/ 
+			Ko-cha veh tah lee eh-mah sah-loh 
+			moh... "
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+                      
+                            THE END                             

@@ -1,0 +1,3230 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "The Maquis, Part I" 
+                          #40512-440 
+                              
+                          Written by 
+                          Jim Crocker 
+                              
+                          Directed by 
+                       David Livingston 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        February 4, 1994
+
+    STAR TREK: DS9 - "The Maquis, Part I" - 02/04/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The Maquis, Part I" 
+                             CAST 
+
+          SISKO                    GUL DUKAT
+          KIRA                     HUDSON
+          ODO                      SAKONNA
+          QUARK                    GUL EVEK
+          BASHIR                   PRESCOTT
+          DAX                      KOBB
+          O'BRIEN                  NILES
+          COMPUTER VOICE           SAMUELS
+                                   GUARD
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. COLONISTS
+
+         DS9 - "The Maquis, Part I" - 02/07/94 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The Maquis, Part I" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK                       
+          COMMANDER'S OFFICE            RUNABOUT
+          HABITIAT CORRIDOR             
+          OPS                           JUNGLE
+          PROMENADE                     
+          QUARK'S/SECOND FLOOR          VOLAN COLONY
+          SISKO'S QUARTERS              
+          RUNABOUT                      
+          VOLAN COLONY MEETING HOUSE    
+
+  STAR TREK: "The Maquis, Part I" - 02/09/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The Maquis, Part I" 
+                      PRONUNCIATION GUIDE 
+
+          BAJORAN                  buh-JOR-an
+          BARDEEZAN                bar-DEE-zun
+          BERGAN                   BURR-gahn
+          BODAY                    bow-DAY
+          BOKINOR                  bawk-nor
+          BOLIAN                   BOW-lee-ahn
+          CARDASSIAN               car-DASS-ee-en
+          FARIUS                   FAIR-ee-us
+          FLOXENBERRY              FLAWX-en-behr-ee.
+          GALADOR                  GAL-uh-door
+          GALADORAN                GAL-uh-DOOR-un
+          GALLAMITE                GAL-luh-mite
+          GOLSIDE                  GOAL-side
+          KELINDIDE                KEL-in-died
+          KOTAKIAN                 koe-TAWK-ee-an
+          MAQUIS                   maw-kee
+          MERCASSIUM               mer-KAS-see-um
+          PAGAR                    PAY-gar
+          PLOMEEK                  ploh-meek
+          RAMSCOOP                 RAM-scoop
+          REGULON                  REH-gyoo-lahn
+          RHODINIUM                roe-DIN-ee-um
+          ROPAL                    ROE-pall
+          SOLTOK                   SOLE-tok
+          VOIAN                    VOE-lahn
+          YRIDIANS                 y'RID-ee-ans
+
+           DEEP SPACE: "The Maquis, I" - ADDENDUM SCENE 47           1.
+
+	This is an ADDENDUM to Scene 47.
+
+	It should be placed after the Pronunciation Guide in the 
+	script.
+
+	This is the dialogue Sisko is having with an Admiral on the 
+	monitor in his office.  We neither hear the dialogue nor see 
+	the Admiral on the monitor.
+
+	We do see Sisko trying to keep his temper while emphatically 
+	responding to the Admiral's heated inquiries.
+
+	They are mid-conversation as the scene begins...
+
+					SISKO
+				(bristling)
+			I'm hoping I don't have to remind 
+			the admiral how many people pass 
+			through here during a week's time.  
+			It's not possible to keep tabs on 
+			every single person while they're on 
+			the station...
+
+					ADMIRAL
+				(hard)
+			If I didn't know you better, 
+			commander, I'd think you were just 
+			making excuses...
+
+					SISKO
+				(heatedly)
+			I'm not making excuses!  Would it be 
+			in keeping with Federation policy to 
+			frisk everyone who steps through our 
+			airlocks?  To search every room of 
+			every visitor during their stay?
+
+					ADMIRAL
+				(forcefully)
+			Of course not... but with two 
+			kidnappings and a ship being 
+			destroyed... all in less than a 
+			week's time... obviously your security 
+			measures leave something to be 
+			desired...
+
+					SISKO
+			Security on this station is by the 
+			book.  Our security program and the 
+			officers who work in it are first- 
+			rate.
+
+           DEEP SPACE: "The Maquis, I" - ADDENDUM SCENE 47           2.
+
+
+CONTINUED:
+
+					ADMIRAL
+			Then what were they doing when all 
+			this was happening?  We here at 
+			Starfleet are watching how you resolve 
+			this situation very closely, 
+			commander.  We think it might be 
+			prudent to replace this chief of 
+			security you have...
+
+					SISKO
+			Odo is both highly intelligent and 
+			extremely thorough.  He's the most 
+			qualified person I have for the job.
+
+					ADMIRAL
+			Still, it would be a concrete example 
+			that you are taking active measures 
+			to resolve this situation... and to 
+			make sure it doesn't happen again.
+
+					SISKO
+			I stand behind my chief of security 
+			one hundred percent.
+
+					ADMIRAL
+				(with an edge)
+			That may be a mistake, Commander...
+
+					SISKO
+				(controlled fury)
+			Then it's my mistake.
+
+					ADMIRAL
+			Then let me make my point again.  
+			Starfleet is very unhappy this has 
+			happened.  We want this matter taken 
+			care of immediately.  I don't have 
+			to remind you how this reflects on 
+			your position...
+
+					SISKO
+			We're doing everything we can to 
+			apprehend the kidnappers...
+
+					ADMIRAL
+			Don't bother me with details.  Just 
+			clean up the mess, Commander.  And 
+			quickly.  Before this becomes a 
+			permanent stain on your record.  
+			Do I make myself clear?
+
+           DEEP SPACE: "The Maquis, I" - ADDENDUM SCENE 47           3.
+
+CONTINUED:	(2)
+
+					SISKO
+				(angrily)
+			Yes, sir.
+
+	The Admiral's image disappears from the monitor.
+
+	(Then we will pick up at "In his office, Sisko drops his 
+	head... " in the script.)
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                         "The Maquis, Part I"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A Cardassian freighter is docked at upper pylon one...
+
+2    INT. AIRLOCK
+
+	A Cardassian merchant marine-type officer stands just inside 
+	the open door to the Cardassian freighter... Two more 
+	Cardassians carry equipment into the ship as he makes routine 
+	notes on a Cardassian PADD... he EXITS back into the ship... 
+	BILL SAMUELS then ENTERS the airlock from the station... 
+	Samuels wears a Starfleet work uniform and carries a 
+	toolbox... glancing around to make sure he's alone, he pops 
+	open a panel in the freighter's hull, begins studying the 
+	space inside the panel...
+
+3    INT. OPS
+
+	KIRA and DAX work at their stations.  N.D. Supernumeraries 
+	as needed.
+
+					DAX
+				(off console)
+			The Cardassian freighter Bok'Nor 
+			is requesting permission to depart 
+			Upper Pylon One in three minutes...
+
+	Kira checks a monitor display...
+
+					KIRA
+			We've got an incoming Bolian vessel 
+			at coordinates one-zero-one mark 
+			three-eight... give the Bok'Nor a 
+			clear trajectory out of the traffic 
+			pattern...
+
+					DAX
+			Acknowledged.
+
+	Dax presses panels, signaling the freighter.
+
+           DEEP SPACE: "The Maquis, I" - 02/04/94 - TEASER           2.
+
+3    CONTINUED:
+
+					KIRA
+				(beat)
+			Feel like getting together for dinner 
+			tonight?
+
+					DAX
+			Can't.  I'm having dinner with Captain 
+			Boday.
+
+					KIRA
+			The Gallamite?  You're going out on 
+			a date with him?
+
+					DAX
+			Is something wrong with that?
+
+					KIRA
+				(it's no skin off her 
+				nose)
+			No... not at all...
+
+					DAX
+			He happens to be brilliant.  His 
+			brain is twice the size of yours and 
+			mine.
+
+					KIRA
+			I know...
+				(with vague distaste)
+			I've seen it.
+
+					DAX
+			It's not his fault Gallamites have 
+			transparent skulls...
+
+					KIRA
+			No, it's not.  But it's not exactly 
+			the view I want to have with dinner.
+
+					DAX
+				(beat)
+			You know, Kira, sometimes I think 
+			you place too much emphasis on how 
+			men look.
+
+					KIRA
+			What's that supposed to mean?
+
+					DAX
+				(blithely)
+			Nothing.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - TEASER         3.
+
+3    CONTINUED:	(2)
+
+					KIRA
+			Look -- when I kiss a man goodnight, 
+			I like to know where I'm kissing 
+			him.
+
+					DAX
+				(wryly)
+			I guess seven lifetimes gives me a 
+			somewhat broader perspective...
+
+					KIRA
+			Since I have just one lifetime, I 
+			have to be a little more particular 
+			about whom I go out with...
+
+					DAX
+				(slightly indignant)
+			I never said I wasn't particular...
+
+					KIRA
+			I'm not the one who dates Ferengis.
+
+					DAX
+			What's that supposed to mean?
+
+					KIRA
+				(blithely)
+			Nothing.
+
+	Dax would continue this little tete-a-tete, but she casually 
+	notices a signal on her console.  She routinely presses 
+	panels...
+
+					DAX
+			Releasing docking clamps at Upper 
+			Pylon One.
+
+	A raised eyebrow to her console...
+
+					DAX
+			That's funny... I'm picking up 
+			elevated...
+
+	And suddenly it's urgent... she interrupts herself, hitting 
+	a comline with her palm...
+
+					DAX
+			Deep Space Nine to Bok'Nor... shut 
+			down your engines... repeat shut 
+			down your...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - TEASER         4.
+
+
+4    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the Cardassian freighter pulls back from the upper pylon 
+	it was docked at, it EXPLODES... the hull obliterating... 
+	shredded pieces flying out from a blinding white-hot center...
+
+5    INT. OPS - KIRA AND DAX (CONTINUOUS)
+
+	The station buffeted by the force of the explosion... Dax 
+	and Kira almost thrown off their feet... stunned... Kira 
+	scrambling back to her console...
+
+					KIRA
+			Report!
+
+					DAX
+			Some kind of impulse overload... 
+			checking...
+
+					KIRA
+				(hitting com line)
+			Ops to all engineering personnel... 
+			report to rescue stations... we have 
+			an S-I-D in progress...
+
+	Dax is stunned by what she sees... looks at Kira... shakes 
+	her head...
+
+					DAX
+			There's nothing left of it... there's 
+			no one left to rescue...
+
+	Kira reacts and...
+
+6    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	returning to the last remnants of the last shot... pieces of 
+	debris are all that's left of the Cardassian ship...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE        5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+7    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	The Runabout drifts slowly through shredded pieces of the 
+	exploded freighter...
+
+8    INT. RUNABOUT (VPB)
+
+	Kira and O'BRIEN.  She's the pilot.  He sits, performing a 
+	sensor analysis on the debris from the freighter.  Information 
+	SCROLLS BY on his monitor...
+
+					O'BRIEN
+				(off monitor)
+			Kelindide... rhodinium... nothing 
+			unusual there... all materials 
+			commonly used in Cardassian ship 
+			construction...
+
+	Kira is slightly defensive -- she doesn't want to hear the 
+	Bajorans have blown up this Cardassian ship...
+
+					KIRA
+			Maybe it was a malfunction in the 
+			impulse generator...
+
+					O'BRIEN
+			I'd like to be able to tell you that, 
+			Major... but it's just too soon to 
+			be sure...
+
+					KIRA
+			I can't believe the Cardassians have 
+			waited this long for an official 
+			explanation...
+
+9    ANGLE (VPB)
+
+	As SISKO'S image from Ops appears on the monitors, we hear 
+	an accompanying BLEEP...
+
+					SISKO
+			Anything, Chief?
+
+	O'Brien continues to check sensor readings as he talks...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE        6.
+
+9    CONTINUED:
+
+					O'BRIEN
+			No sign of an explosive device yet, 
+			sir...
+
+					SISKO
+			I've got every Admiral within subspace 
+			range on my butt... can I at least 
+			tell them it looks like an 
+			accident... ?
+
+	O'Brien doesn't care who's pressing him for answers... he's 
+	got a job to do and he's going to do it...
+
+					O'BRIEN
+			Well, I wouldn't do that quite yet, 
+			sir...
+
+					SISKO
+			When.
+
+					O'BRIEN
+			I'll let you know.
+
+									INTERCUT:
+
+10   INT. OPS (OPTICAL)
+
+	Sisko frowns.  ODO and Dax are with Sisko in Ops.  Dax is 
+	working at her station... studying monitors, reports from 
+	the explosion...
+
+					KIRA
+			Anything from the Cardassians yet, 
+			Commander?
+
+					SISKO
+			Not a word.
+
+					ODO
+			All Bajoran outposts have been put 
+			on alert for retaliatory strikes. 
+			The provisional government has made 
+			a statement disavowing any 
+			responsibility.
+
+					KIRA
+			Maybe it really was an accident.  I 
+			mean, it is possible.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE        7.
+
+10   CONTINUED:
+
+					ODO
+				(skeptical)
+			An "accident" involving a Cardassian 
+			ship in Bajoran space... if I were a 
+			Cardassian, I wouldn't easily 
+			accept...
+
+					O'BRIEN
+				(overlapping, off 
+				sensors)
+			Hmmm, that's odd...
+
+					SISKO
+			What?
+
+					O'BRIEN
+			I'm picking up traces of a mercassium 
+			compound.
+
+					DAX
+				(reacts)
+			Mercassium?  There shouldn't have 
+			been any mercassium on board that 
+			ship...
+
+					O'BRIEN
+			Well, there was...
+
+					SISKO
+			Meaning... ?
+
+					O'BRIEN
+			I'm not sure yet.
+
+	This adds to everyone's impatience.
+
+					ODO
+			Is mercassium some kind of explosive?
+
+					SISKO
+			No, it's a synthetic composite used 
+			in shield generator construction by 
+			the Federation.  We don't share that 
+			technology with anyone.
+
+	Dax has found something conclusive on her console...
+
+					DAX
+			Chief, I don't think you're going to 
+			find evidence of an explosive 
+			device...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE        8.
+
+10   CONTINUED:	(2)
+
+					O'BRIEN
+				(sighs)
+			Lieutenant, respectfully, these kinds 
+			of things take time and I've got 
+			to...
+
+					DAX
+				(overlapping)
+			I don't think you're going to find 
+			an explosive device because I'm pretty 
+			sure it was an implosive proto-matter 
+			device... designed to match the 
+			impulse signature...
+
+	Reactions.  Sisko and Odo move to Dax for a closer look at 
+	her console...
+
+					DAX
+			Just before the explosion, I picked 
+			up a sudden increase in their fusion 
+			rate... I've been trying to find any 
+			sign of a malfunction in the Bok'Nor's 
+			engines to explain it... but there 
+			just isn't one.  This doesn't look 
+			like an accident... The fusion shock 
+			had to be caused by something external 
+			to the impulse drive system...
+
+					O'BRIEN
+				(agrees)
+			If a proto-matter device was attached 
+			to the crossfeeds, it could have 
+			created the overload... and we'd 
+			never see any sign of it...
+
+	A beat.  This is bad news.  Sisko digests it.
+
+					SISKO
+			Can you prove that's what happened?
+
+					O'BRIEN
+			Maybe... if we could get a high 
+			resolution spectra of the impulse 
+			debris... but that's gonna take 
+			some...
+
+					SISKO
+			... time, yes, I know.  Get it started.  
+			I'll tell the Admirals.  Sisko out.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/14/94 - ACT ONE        9.
+
+10   CONTINUED:	(3)
+
+	In the background, Starfleet LIEUTENANT COMMANDER CALVIN 
+	"CAL" HUDSON arrives on the Turbolift... Hudson is 
+	approximately Sisko's age... they shake hands... they are 
+	very old friends... Odo stays with Dax as Sisko moves to 
+	greet Hudson...
+
+					HUDSON
+				(half-smile)
+			Benjamin...
+
+					SISKO
+			Hello, Cal, thanks for coming on 
+			such short notice.
+
+					HUDSON
+			I wish it didn't take a disaster 
+			like this to get us back together.
+
+					DAX
+			Hi, Calvin...
+
+	Hudson glances at Dax, doesn't recognize her...
+
+					SISKO
+			Jadzia Dax...
+
+	Now Cal gets it... smiles...
+
+					HUDSON
+			Dax!  My gosh... I can't believe... 
+			boy, you look a lot better than the 
+			last time I saw you.
+
+	Odo is the odd man out here so Sisko helps...
+
+					SISKO
+			Security Chief Odo... Lieutenant 
+			Commander Calvin Hudson... Starfleet's 
+			attache to the Federation colonies 
+			in the new Demilitarized Zone...
+
+	Odo reacts with interest...
+
+					ODO
+			You must be concerned about the 
+			colonies' security at a time like 
+			this...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       9A.
+
+10   CONTINUED:	(4)
+
+					HUDSON
+				(shrugs, not really)
+			Well, we haven't seen any unusual 
+			deployment from the Cardassians along 
+			the border...
+
+					ODO
+			Neither have we.  That's what's got 
+			me worried.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       10.
+
+10   CONTINUED:	(5)
+
+					SISKO
+				(to Hudson)
+			Come on into my office.
+
+	Smiling back to Dax --
+
+					HUDSON
+			I don't have time this trip.  But 
+			we've got a few stories to catch up 
+			on, Lieutenant.
+
+					DAX
+				(smiles, nods)
+			Next time.
+
+11   INT. COMMANDER'S OFFICE - CONTINUOUS
+
+					HUDSON
+				(chuckles)
+			That woman knows more about me than 
+			any woman has ever known... even 
+			more than my wife did...
+
+					SISKO
+				(me too)
+			Tell me about it.
+
+					HUDSON
+			Don't you find it a little... 
+			uncomfortable?
+
+					SISKO
+				(shrugs, casual)
+			She's a good officer.
+
+					HUDSON
+			Yeah, but Curzon was...
+
+					SISKO
+				(smiles)
+			She's not Curzon.
+
+					HUDSON
+				(beat, realizing maybe 
+				they're involved)
+			You're not...
+				(uses his fingers to 
+				connect the two of 
+				them)
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       11.
+
+11   CONTINUED:
+
+					SISKO
+				(laughs heartily)
+			No.  She may not be Curzon.  But she 
+			is Dax.
+
+					HUDSON
+			That would be extremely... strange...
+
+	Sisko nods.
+
+					HUDSON
+			So, how's Jake?
+
+					SISKO
+			As tall as me.
+
+					HUDSON
+			No.
+
+					SISKO
+			And he throws inside to back his old 
+			man off the plate.
+
+					HUDSON
+			A little chin music, huh?
+
+					SISKO
+			He's growing up too fast.
+
+					HUDSON
+			It must've been tough for you.  At 
+			least I didn't have a kid to raise 
+			by myself.
+
+					SISKO
+			Well, we kind of helped each other 
+			through it.
+
+	A beat as Hudson nods and Sisko sees that Hudson is still 
+	learning to cope with the loss of his wife...
+
+					SISKO
+			When I heard about Gretchen, I wanted 
+			to be there for you.  There was just 
+			no way to get back...
+
+					HUDSON
+				(appreciative)
+			I know that.
+				(beat)
+			I was hoping when they sent me to 
+			the colonies that we'd be getting in 
+			some more R&R time together...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       12.
+
+11   CONTINUED:	(2)
+
+					SISKO
+			Who's got R&R time?
+
+					HUDSON
+				(nods in agreement)
+			You can't imagine what my life's 
+			been like since the Federation 
+			abandoned these colonies...
+
+					SISKO
+				(reacts)
+			Abandoned them?  Doesn't your presence 
+			there...
+
+					HUDSON
+				(interrupting)
+			My presence there is a joke.  I'm 
+			supposed to help these colonies 
+			function under the terms of the new 
+			treaty -- what the hell does that 
+			mean?
+
+					SISKO
+			I thought these colonists wanted to 
+			stay... that they refused to be 
+			evacuated.
+
+					HUDSON
+				(shrugs, what else 
+				could they do?)
+			The treaty gave away their territory 
+			to the Cardassians... territory these 
+			people had invested their lives in... 
+			if you knew them like I do, Ben, 
+			you'd understand why they couldn't 
+			leave.  It's a bad treaty.  The 
+			Federation gave away too much.
+
+					SISKO
+			Several Cardassian colonies wanted 
+			to stay on the Federation side of 
+			the Zone too... it seemed like a 
+			reasonable compromise...
+
+					HUDSON
+			The Cardassians were delighted to 
+			keep their colonies in our territory.  
+			Because they knew we'd protect them.  
+			But they're not about to do the same 
+			for ours.
+
+	Sisko frowns at the dire prediction...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       13.
+
+11   CONTINUED:	(3)
+
+					SISKO
+			A number of Admirals at Starfleet 
+			Command are worried the destruction 
+
+			of the Bok'Nor might jeopardize the 
+			treaty.
+
+					HUDSON
+				(a critical grin, 
+				shakes his head)
+			Are they really?
+
+					SISKO
+			As the two ranking officers along 
+			the Cardassian border, we've been 
+			asked to assess the potential risk...
+
+					HUDSON
+			There is no risk, Ben.  None.  I've 
+			been dealing with the Cardassians 
+			for most of my professional life.  
+			Believe me, the Cardassians are very 
+			happy with what they got out of this 
+			treaty.  They're not going to risk 
+			losing all they've gained by sending 
+			forces into the Zone.  They're much 
+			too slick for that.  If I were you, 
+			I'd be more concerned about security 
+			along the Bajoran border...
+
+					SISKO
+				(considers that a 
+				beat)
+			Are you surprised that they haven't 
+			responded at all yet?
+
+					HUDSON
+			You know as well as I do they never 
+			let you see what you expect to see.  
+			They'll respond.
+
+	As Sisko considers that...
+
+12   INT. PROMENADE
+
+	Bill Samuels (the man from the airlock scene in the Teaser), 
+	no longer in uniform, window shops as an attractive female 
+	Vulcan, SAKONNA, moves up beside him.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       14.
+
+12   CONTINUED:
+
+					SAKONNA
+				(typically, matter-of-
+				factly Vulcan)
+			Quarters have been arranged through 
+			discreet channels... Deck Seven, 
+			Section Four-"G"... I suggest you 
+			keep a low profile until your ship 
+			arrives...
+
+	In appropriate spy fashion he doesn't acknowledge, and she 
+	moves away toward Quark's.  A beat later, he moves away from 
+	the window.  Two aliens from the same species, one male and 
+	one sexy female, stand nearby (among a small crowd of people) 
+	glance over in Samuels's direction... after a beat, begin to 
+	casually follow him...
+
+13   INT. QUARK'S
+
+	There's a moderate crowd, feisty, enjoying themselves... 
+	Sakonna, being a Vulcan, seems relatively immune to the 
+	festive cries of "Dabo!" that pierce the air... sizing the 
+	place up unemotionally, she then moves to the bar...
+
+14   AT THE BAR
+
+	QUARK is counting pieces of latinum, delighted with a good 
+	day's take, putting it into neat piles... Sakonna approaches, 
+	studies him...
+
+					QUARK
+				(without looking up)
+			What can I get you?
+
+					SAKONNA
+			You are Quark, aren't you...
+
+	Reacts, looks up at stern voice...
+
+					QUARK
+			I assure you the warrant is out of 
+			date.  I cleared that matter up months 
+			ago...
+
+					SAKONNA
+			Warrant?
+
+					QUARK
+			Oh.  When you recognized me, I 
+			assumed...
+
+          DEEP SPACE: "The Maquis, I" - 02/04/94 - ACT ONE          15.
+
+14   CONTINUED:
+
+					SAKONNA
+			You are counting your receipts.  It 
+			is logical to conclude that you are 
+			the proprietor of the establishment.
+
+					QUARK
+			You're... very observant.  What can 
+			I do for you?
+
+	Sakonna glances to see no one is within earshot.
+
+					SAKONNA
+			I was hoping to discuss a business 
+			proposition.
+
+					QUARK
+				(perks up, immediately)
+			With me?  Uh, perhaps I should 
+			explain about that slip-of-the-
+			tongue....
+
+					SAKONNA
+			Your past is of no consequence to 
+			me.
+
+					QUARK
+			I'm... delighted to hear you say 
+			that.  Because nothing would please 
+			me more than to make a fresh start 
+			with the Vulcans, Ms... ?
+
+					SAKONNA
+			Sakonna.
+
+					QUARK
+			Sakonna.  Such a handsome name... 
+			for such a handsome young woman...
+
+	He smiles his best smile, gets nothing back except a 
+	classically raised Vulcan eyebrow.
+
+					QUARK
+			What'll you have to drink... wait a 
+			minute, I have just the thing...
+
+	He goes to the liquor display for a dusty old, elegantly 
+	shaped bottle...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT ONE       16.
+
+14   CONTINUED:	(2)
+
+					QUARK
+			Vulcan port.  Three centuries old.  
+			Very rare.  Very expensive.  Shall I 
+			pour you a glass... ?
+
+					SAKONNA
+			No.
+
+					QUARK
+			Not even a taste?  It's exquisite...
+
+					SAKONNA
+			I'm not thirsty.  Thus I see no reason 
+			to have a drink.
+
+	Quark's smile never wavers... he sets the bottle back in its 
+	place...
+
+					QUARK
+			Well... it'll be right here... should 
+			you develop a thirst.  Now -- you 
+			mentioned a business proposition?
+
+					SAKONNA
+			It is a private matter.  I'd rather 
+			not discuss it here.
+
+					QUARK
+			Then we can discuss it over dinner... 
+			that is we can plan the business 
+			meeting to coincide with when you 
+			think you might get hungry.
+
+					SAKONNA
+			That would be acceptable.
+
+					QUARK
+			That would be wonderful!  How does 
+			eight sound to your tummy?
+
+					SAKONNA
+			I will return then.
+
+	She leaves.  He studies her with appreciation, sighs.
+
+					QUARK
+				(not to her)
+			And by the way, I'd love to melt 
+			that cold Vulcan heart of yours.
+
+          DEEP SPACE: "The Maquis, I" - 02/04/94 - ACT ONE          17.
+
+14   CONTINUED:	(3)
+
+	He drinks the Vulcan port, his face says it's awful.
+
+15   INT. HABITAT CORRIDOR
+
+	Bill Samuels walks up the corridor.  Casually following a 
+	few meters behind him is the male alien we saw in the 
+	promenade.  Approaching Samuels from the opposite direction 
+	is his female companion.  She's rummaging through a medium-
+	sized pouch-like purse.  Samuels takes her in with quiet 
+	appreciation.
+
+	As they start to pass, the purse accidentally slips out of 
+	the female alien's hands.  Samuels picks it up for her, holds 
+	it out with a smile.  The female alien smiles back, 
+	grateful...
+
+	As Samuels is handing her the purse, the male alien starts 
+	to pass behind him.  The male alien suddenly renders Samuels 
+	unconscious with a hypospray.  Together the male and female 
+	alien drag Samuels back to one of the private quarters.  The 
+	female alien looks up and down the corridor, is satisfied no 
+	one has seen them.  She steps into the quarters and the door 
+	CLOSES after her...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       18.
+                            ACT TWO                             
+
+	FADE IN:
+
+16   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+17   INT. SISKO'S QUARTERS
+
+	Sisko ENTERS from the Habitat corridor.  His quarters are 
+	mostly dark.
+
+					SISKO
+				(calling out)
+			Jake?
+
+	He moves a few steps inside... and just as he sees a 
+	silhouette in the shadows of a Cardassian...
+
+					GUL DUKAT
+			Your son is not here, Commander...
+
+	DUKAT steps out of the shadows into a pool of light...
+
+					SISKO
+				(reacts)
+			Dukat... ?
+
+					GUL DUKAT
+			Sorry.  I didn't mean to startle 
+			you.
+
+					SISKO
+				(coldly, fearing the 
+				worst)
+			Where is he.
+
+					GUL DUKAT
+			Your son?  How should I know?
+				(beat, realizing)
+			You... you believe that I... really, 
+			Commander... do you think I would 
+			ever harm your son?
+
+					SISKO
+			I think you're capable of anything.
+
+					GUL DUKAT
+			You wound me.  I'm here as your 
+			friend.
+
+	Sisko studies him a beat then hits his combadge...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO      18A.
+
+17   CONTINUED:
+
+					SISKO
+			Sisko to Kira...
+
+					GUL DUKAT
+			Please do not act hastily, Commander.  
+			We must talk privately.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       19.
+
+17   CONTINUED:	(2)
+
+					KIRA'S COM VOICE
+			Yes, Commander?
+
+					SISKO
+			Major, I want you to find Jake.
+
+					KIRA'S COM VOICE
+			Is he missing?
+
+					SISKO
+			I don't know.  Find out where he is 
+			and let me know.
+
+					KIRA'S COM VOICE
+			Understood.
+
+					SISKO
+			How the hell did you get in here.
+
+					GUL DUKAT
+				(enjoying this)
+			I was an unregistered passenger on a 
+			Kotakian ship that docked here this 
+			morning.  I slipped in through the 
+			cargo bay...
+
+					SISKO
+				(disbelieving)
+			And made your way here?  Without 
+			anyone seeing you... ?
+
+					GUL DUKAT
+				(smiling)
+			I was the commander of this station 
+			for almost ten years.  When one knows 
+			the various corridors and passageways 
+			as well as I do... by the way, I 
+			love what you've done with these 
+			quarters...
+
+					KIRA'S COM VOICE
+			Kira to Sisko.  Jake's fine, 
+			Commander.  He's with Nog watching 
+			the women coming off the Bajoran 
+			transport at Docking Bay One... shall 
+			I have him brought to your quarters?
+
+					SISKO
+			No, that's all right.  Thank-you, 
+			Major.  Sisko out.
+
+          DEEP SPACE: "The Maquis, I" - 02/04/94 - ACT TWO          20.
+
+17   CONTINUED:	(3)
+
+					GUL DUKAT
+			There you are.  Safe and sound.
+
+
+					SISKO
+			What are you doing here?
+
+	Dukat responds in a low-key manner -- as if he knows he's 
+	holding all the cards and is enjoying playing them one at a 
+	time... he's the least formal we've ever seen him... which, 
+	being a Cardassian, means he's still pretty formal...
+
+					GUL DUKAT
+			You have a problem.
+
+					SISKO
+			Do I?
+
+					GUL DUKAT
+			The Bok'Nor.
+
+					SISKO
+				(beat)
+			Is this the Cardassian Central 
+			Command's way of responding to my 
+			communiques?
+
+					GUL DUKAT
+			On the contrary -- Central Command 
+			has no idea I'm here.
+				(off Sisko's skeptical 
+				reaction)
+			It's true.  I'm here unofficially... 
+			to help you find the truth about the 
+			Bok'Nor...
+
+					SISKO
+			Why would you want to help me...
+
+					GUL DUKAT
+			Because I already know the truth.
+
+					SISKO
+			You know who's responsible?
+
+					GUL DUKAT
+			That's right.
+
+					SISKO
+			Who...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       21.
+
+17   CONTINUED:	(4)
+
+					GUL DUKAT
+			You are.
+				(beat)
+			Oh, not you personally, Commander... 
+			I know you're an honorable man.  
+			You're not one to sneak around and 
+			attach implosion devices to impulse 
+			engines... but, believe it or not, 
+			some of your brethren are willing to 
+			do such things -- morally superior 
+			human beings and other members of 
+			the Federation...
+
+					SISKO
+			I'm supposed to take your word for 
+			that.
+
+					GUL DUKAT
+			Of course not.  It's my job to 
+			convince you.  So you can clean your 
+			own house... instead of forcing us 
+			to do it for you... which would 
+			certainly endanger the new treaty...
+				(beat)
+			We'll need one of your runabouts...
+
+					SISKO
+			Where are "we" going?
+
+					GUL DUKAT
+			The Volan Colonies.
+
+					SISKO
+				(a little surprised)
+			The Demilitarized Zone?
+
+					GUL DUKAT
+				(small, rueful smile)
+			Not so demilitarized, I'm afraid...
+
+	Hold on Sisko watching Dukat, still suspicious of him, 
+	wondering what his ulterior motive is... yet hooked...
+
+18   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as a Runabout departs from the station.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       22.
+
+19   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	cruising along at impulse power.
+
+20   INT. RUNABOUT
+
+	Sisko pilots the craft.  Dukat sits next to him, trying not 
+	to let his fascination at being so close to Federation 
+	technology seem too obvious.  Sisko glances at Dukat taking 
+	everything in...
+
+					GUL DUKAT
+			I notice my controls are not 
+			illuminated.  Isn't it customary for 
+			both seats to be turned on?  So that 
+			I may pilot the craft in the event 
+			of an emergency?
+
+					SISKO
+			If there's an emergency, I guess 
+			you're out of luck.
+
+					GUL DUKAT
+			Commander, I'm not going to sit here 
+			and steal all your little technical 
+			secrets, I promise you...
+
+					SISKO
+			I appreciate your assurances.  But 
+			Cardassians are famous for their 
+			photographic memories...
+
+					GUL DUKAT
+				(belittling him)
+			Ah, so you turn off my controls so I 
+			won't have enough "light" to take my 
+			photograph, is that it?
+
+					SISKO
+			I've heard they put Cardassian 
+			children in intense mind training 
+			programs when they're four years 
+			old, is that true?
+
+					GUL DUKAT
+			The Cardassian educational system is 
+			unparalleled in the quadrant...
+
+					SISKO
+			If you don't mind taking the joy out 
+			of growing up...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/09/94 - ACT TWO       23.
+
+20   CONTINUED:
+
+					GUL DUKAT
+			Education is power... joy is 
+			vulnerability...
+
+	Sisko grunts, gives him a disbelieving head shake...
+
+					GUL DUKAT
+			Your reaction surprises me, Commander.  
+			I thought you would understand.  Of 
+			all the humans I've met, you strike 
+			me as the most joyless and the least 
+			vulnerable.
+
+					SISKO
+			I am when I'm with you.
+
+	Dukat chuckles.
+
+					GUL DUKAT
+			Well said.  But in truth, I was 
+			looking forward to getting to know 
+			you better on this journey.
+
+					SISKO
+			I think we know each other well 
+			enough.
+
+	No beat.  Pointing to a dark display panel...
+
+					GUL DUKAT
+			Is that a ramscoop control or a 
+			deflector grid panel... ?
+
+	Sisko just gives him a look...
+
+					GUL DUKAT
+			Just curious.
+				(beat)
+			It really doesn't matter.  Cardassian 
+			pursuit vessels are years ahead of 
+			this design.
+
+	A computer signal sounds... Sisko checks something he sees 
+	on his control panel...
+
+					GUL DUKAT
+			What is it?
+
+					SISKO
+			Long range sensors are picking up a 
+			distress signal...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       24.
+
+20   CONTINUED:	(2)
+
+					GUL DUKAT
+			From whom?
+
+					SISKO
+			A Federation merchant vessel...
+				(beat, pointed)
+			... under attack by Cardassians.
+
+	He pushes a panel, looks at a monitor displaying...
+
+21   INSERT (OPTICAL)
+
+	a colored grid with a charted background... a graphic symbol 
+	representing the Federation merchant vessel moves slowly 
+	across the screen... two other symbols, representing two 
+	more ships, converge on the vessel from slightly different 
+	angles...
+
+22   RESUME
+
+					SISKO
+			Two attack vessels.  Just inside the 
+			Demilitarized Zone.
+
+					GUL DUKAT
+			That's not possible.  I promise you, 
+			Commander, we would not violate the 
+			treaty.
+
+					SISKO
+			The merchant ship's com-links have 
+			gone down.  I can't raise them... 
+			computer, fix source coordinates of 
+			the distress signal and lay in a new 
+			course... warp three...
+				(to Dukat)
+			I hope you don't mind.
+
+					GUL DUKAT
+			I'm as curious as you are.
+
+23   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as it angles off sharply, speeds away at warp...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/08/94 - ACT TWO       25.
+
+24   INT. RUNABOUT
+
+					GUL DUKAT
+			What type of Cardassian ship are 
+			they?  Patrol cruisers?
+
+					SISKO
+			No.  Much smaller.  They look like 
+			shuttlecraft...
+
+					GUL DUKAT
+				(hard to fathom)
+			Cardassian shuttles?  Attacking a 
+			Federation merchant ship?
+
+					SISKO
+			They seem to be armed with Galor-
+			class phaser banks...
+
+					GUL DUKAT
+			They must be from the Cardassian 
+			colonies in the Demilitarized Zone...
+				(quiet anger)
+			Hail them.
+
+	Sisko presses panels.
+
+					SISKO
+				(beat)
+			No response.
+
+					GUL DUKAT
+			Open a channel.
+
+					SISKO
+				(hits panel)
+			Go ahead.
+
+					GUL DUKAT
+				(addressing Cardassian 
+				ships)
+			To the pilots of the Cardassian attack 
+			vessels.  This is Gul Dukat, Commander 
+			of the Second order.  Please respond.
+
+	Nothing.  Dukat is getting really mad now.  He looks at the 
+	monitor again and sees the attack is continuing.
+
+					GUL DUKAT
+			This is Gul Dukat, security 
+			identification A-D-L-Four-Zero.  I 
+			order you to immediately disengage 
+			your attack.
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       26.
+
+24   CONTINUED:
+
+	Still nothing.  Sisko shuts down the com line.
+
+					SISKO
+				(to Dukat)
+			We're still two minutes away... the 
+			Federation vessel's shields are down 
+			to forty percent.
+
+					GUL DUKAT
+			Hail the Cardassians again.
+
+	A bleep tells us Sisko has reopened the channel.
+
+					GUL DUKAT
+			I don't know who you are or where 
+			you're from... but you're going to 
+			pay for this, I promise you... answer 
+			me immediately... or I will personally 
+			fire the photons that will destroy 
+			you...
+
+	No response.  Dukat is furious.  Turns off the com-link, 
+	turns to Sisko.
+
+					GUL DUKAT
+			I'm serious.  Arm your photons.
+
+	Sisko studies him, blinks, okay...
+
+					SISKO
+				(pointing)
+			The photon launcher is...
+
+	Dukat's hands are already at the correct panel.
+
+					GUL DUKAT
+			I know.  I knew all about your 
+			controls before I came aboard.  Tell 
+			me when we're in torpedo range.
+
+	Sisko barely has time to react...
+
+					SISKO
+			Stand by... I'm picking up another 
+			ship moving toward them...
+
+        DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT TWO       27.
+
+25   INSERT - CLOSE ON THE OKUDAGRAM (OPTICAL)
+
+	to see this new vessel (blinking blip) appearing on the 
+	screen, closing quickly...
+
+					GUL DUKAT
+			That's a Federation signature, I 
+			believe, Commander...
+
+26   RESUME
+
+					SISKO
+			It sure isn't from Starfleet... I've 
+			never seen a ship configuration like 
+			that before... it almost seems like 
+			someone modified an old support 
+			courier.
+				(pressing panels)
+			Hailing them...
+
+	Nothing... Sisko reacts, glances at Dukat -- what the hell 
+	is going on?
+
+					SISKO
+				(frustrated)
+			No response.
+
+27   INSERT - CLOSE ON THE OKUDAGRAM (OPTICAL)
+
+	The Federation blip fires a torpedo...
+
+					SISKO (O.S.)
+			They've fired torpedoes... what kind 
+			of civilian vessel that size would 
+			be carrying a photon...
+
+					GUL DUKAT (O.S.)
+			Something from one of your colonies, 
+			perhaps?
+
+	It takes this much time for the photon to reach its target... 
+	it hits one of the two Cardassian blips which flares and 
+	disappears... the other Cardassian ship is trying to escape 
+	now... but another photon torpedo wipes it out too...
+
+28   RESUME
+
+	On Sisko and Dukat's reactions... Dukat is containing a real 
+	fury about the events...
+
+          DEEP SPACE: "The Maquis, I" - 02/04/94 - ACT TWO          28.
+
+28   CONTINUED:
+
+					GUL DUKAT
+			Do you begin to see, Commander, that 
+			without any help from either of us, 
+			they've managed to start their own 
+			little war out here...
+
+	On Sisko's reaction...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT THREE      29.
+                           ACT THREE                            
+
+	FADE IN:
+
+29   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+30   INT. QUARK'S SECOND FLOOR - A SEMI-PRIVATE TABLE
+
+	CLOSE ON
+
+	an exquisitely set dinner table for two.  The finest china 
+	and an attractive 24th-century centerpiece are displayed...
+
+					QUARK (O.S.)
+				(silkily smooth)
+			I hope you're hungry.  I've planned 
+			a wonderful meal for us...
+
+31   SAKONNA AND QUARK ARRIVING
+
+	Sakonna sits across from Quark.  She displays a typical Vulcan 
+	detachment to the emotional ambience he's trying to create...
+
+					QUARK
+				(continuing)
+			... starting with plomeek soup, which 
+			I know is a traditional Vulcan 
+			favorite... followed by Jumbo Romulan 
+			mollusks... you can't get those back 
+			on Vulcan anymore, can you...
+
+					SAKONNA
+			Do you eat in this grand a manner 
+			every night?
+
+					QUARK
+			Certainly not.  This is a special 
+			occasion.
+
+					SAKONNA
+			It is?
+
+	Quark signals a waiter to open the red wine...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT THREE      30.
+
+31   CONTINUED:
+
+					QUARK
+				(stately)
+			The commencement of a new business 
+			relationship is the most special 
+			occasion for any Ferengi.  It's a 
+			cause for opening great bottles of 
+			wine, dancing into the wee small 
+			hours of the morning...
+				(to the waiter, re: 
+				wine)
+			We'll let it breathe for a few 
+			minutes.
+
+					SAKONNA
+			Very well, I will attempt to respect 
+			some of your cultural idiosyncrasies.  
+			I will drink the wine.  But I won't 
+			dance.
+
+					QUARK
+			Maybe you'll change your mind after 
+			you drink the wine.
+
+					SAKONNA
+			No.  I won't.
+
+					QUARK
+			Come on.  Somewhere inside that cool, 
+			controlled exterior of yours, there's 
+			a wild woman screaming to get out... 
+			Maybe by the end of the night, you'll 
+			be dancing on the tabletops...
+				(off her even 
+				expression)
+			Maybe not.
+
+					SAKONNA
+			Is it appropriate to begin our 
+			business discussion now?
+
+	Quark shakes his head... signals for the first course...
+
+					QUARK
+			Rule of Acquisition number two-
+			fourteen: "Never begin a negotiation 
+			on an empty stomach." 
+
+	As the food is served...
+
+					SAKONNA
+			Rule of Acquisition?
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT THREE      31.
+
+31   CONTINUED:	(2)
+
+					QUARK
+			Yes, yes... every Ferengi business 
+			transaction is governed by two hundred 
+			eighty-five Rules of Acquisition... 
+			to insure a fair and honest deal for 
+			all parties concerned... well, most 
+			of them anyway...
+
+					SAKONNA
+			Commendable.  To create a code of 
+			behavior for business transactions 
+			is...
+
+					QUARK
+				(pleased to offer)
+			... it's logical...
+
+					SAKONNA
+			... and quite reassuring.
+
+	Quark pours the wine...
+
+					QUARK
+			Do the Vulcans have anything similar?
+
+					SAKONNA
+			In structure, it reminds one of the 
+			Vulcan Bill of Rights which guarantees 
+			the fundamental personal freedoms of 
+			every Vulcan citizen...
+
+					QUARK
+			Same thing exactly.  May I propose a 
+			toast?
+
+					SAKONNA
+			Is this another cultural idiosyncrasy?
+
+					QUARK
+			Yes.
+
+	He raises his glass... Sakonna follows suit.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT THREE      32.
+
+31   CONTINUED:	(3)
+
+					QUARK
+			You know I can't describe the honor 
+			I feel at this moment... it's rare 
+			that a Ferengi and a Vulcan can 
+			overcome their inherent differences 
+			to see eye-to-eye as we're doing... 
+			I've always had the greatest respect 
+			for Vulcans... even though the few 
+			I've met haven't exactly felt the 
+			same way about me.  You are a noble 
+			people and I salute you.
+
+	He drinks, she nods in appreciation, drinks...
+
+					QUARK
+			Now then, what kind of business 
+			proposition do you have in mind?
+
+	She reacts, ah, it's time.
+
+					SAKONNA
+			I wish to procure weapons.
+
+					QUARK
+			I beg your pardon?
+
+					SAKONNA
+			Guns, phaser banks, photon torpedoes, 
+			troop transports and a number of 
+			cobalt-thorium devices... my list is 
+			quite extensive.
+
+					QUARK
+			You're a gun runner?
+
+					SAKONNA
+			I'm prepared to pay in latinum and I 
+			will very likely need a continuous 
+			supply for the foreseeable future.
+
+	Quark leans back, the wind out of his sails...
+
+					QUARK
+			You're... you're not like other 
+			Vulcans, are you...
+
+	She raises an eyebrow...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/10/94 - ACT THREE      33.
+
+32   EXT. VOLAN COLONY - DAY (MATTE)
+
+	establishing this Federation colony situated in Cardassian 
+	territory on Volan Three...
+
+33   INT. VOLAN COLONY MEETING HOUSE - DAY
+
+	As Sisko and Dukat ENTER, Cal Hudson and five colonists stand 
+	talking to an angry GUL EVEK (NOTE: Evek is a character 
+	originally created in TNG's episode, "Journey's End").  He 
+	is Hudson's Cardassian counterpart.  Hudson is tough but 
+	diplomatic, doesn't back down.  Two of the Federation settlers 
+	are more confrontational.  One is a woman: KOBB.  Another is 
+	AMAROS, an earnest, hardworking man.  Of the three remaining 
+	settlers, one is a male Vulcan, one is an N.D. Federation 
+	alien and one is a 24th century American Indian.  One 
+	Cardassian colonist with a PADD is watching from nearby.  
+	Picking up in mid-argument...
+
+					GUL EVEK
+			The Federation merchant ship refused 
+			to be boarded!
+
+					AMAROS
+			So, your ships just decided to open 
+			fire...
+
+					GUL EVEK
+			It was clear the Federation ship was 
+			carrying weapons through the 
+			Demilitarized Zone...
+
+					HUDSON
+				(weary)
+			That ship was carrying medical 
+			supplies to Soltok Four...
+
+	They see the new guests arriving...
+
+					HUDSON
+			Ben, what are you doing here?
+
+	Sisko is measuring the situation...
+
+					SISKO
+				(evenly)
+			I'm not sure yet.  Gul Dukat asked 
+			me to accompany him.
+
+	Evek has no love for Dukat.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT THREE      34.
+
+33   CONTINUED:
+
+					GUL EVEK
+			Dukat.  No one informed us that you 
+			were coming.
+
+					GUL DUKAT
+			I decided an impromptu visit would 
+			be preferable... so you wouldn't be 
+			bothered with special preparations...
+
+					GUL EVEK
+				(cool)
+			I see.
+
+					HUDSON
+			Commander Sisko, do you know my 
+			counterpart in the colonies, Gul 
+			Evek?
+
+	Sisko nods to him.
+
+					GUL EVEK
+				(to Sisko)
+			I'm glad you're here to listen to 
+			this, Commander.
+
+					SISKO
+			We monitored the attack on our way 
+			in...
+
+					GUL DUKAT
+			Yes, "monitor" is the proper word 
+			because none of the ships would 
+			respond to our hails... the Cardassian 
+			pilots even refused to acknowledge 
+			me.
+
+					GUL EVEK
+				(an excuse)
+			A strange voice from a Federation 
+			runabout...
+
+					GUL DUKAT
+			I gave them my security 
+			identification.
+
+					GUL EVEK
+			Well, obviously they had their hands 
+			full...
+
+					KOBB
+			With an unprovoked attack.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/10/94 - ACT THREE      35.
+
+33   CONTINUED:	(2)
+
+					GUL EVEK
+				(smug)
+			"Unprovoked," was it?  Do you deny 
+			that the Federation is engaging in 
+			organized terrorist activities against 
+			the Cardassian people?  Deliberately 
+			attempting to undermine this treaty?
+
+					SISKO
+			The Federation does not conduct secret 
+			wars.
+
+					GUL EVEK
+			Perhaps, then you can explain where 
+			the Federation ship came from, the 
+			one that was outfitted with photon 
+			torpedoes... ?
+
+	Sisko looks at Hudson who shakes his head, doesn't know 
+	either... but throws it back at Evek...
+
+					HUDSON
+			How about explaining why your ships 
+			were armed with Galor-class phaser 
+			banks?
+
+					GUL EVEK
+			They have the right to defend 
+			themselves against these organized 
+			terrorist activities.
+
+					SISKO
+			I haven't heard any proof yet of 
+			"organized terrorist activities"...
+
+					AMAROS
+			Because there is none.
+
+	Evek exchanges a glance with Dukat... Dukat knows what's 
+	coming...
+
+					GUL EVEK
+			On the contrary, we have the 
+			confession of the Federation terrorist 
+			responsible for the destruction of 
+			the Bok'Nor at your station, 
+			Commander...
+
+	A slow push into Sisko as the impact hits him...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/10/94 - ACT THREE      36.
+
+33   CONTINUED:	(3)
+
+					SISKO
+			Confession?
+
+	The Cardassian colonist hands Evek the PADD... as he reads...
+
+					GUL EVEK
+				(reading)
+			A forty-three-year-old male human, 
+			William Patrick Samuels, born Bergan, 
+			Norway, Earth...
+
+					AMAROS
+			We know who he is... what have you 
+			done with him...
+
+					GUL EVEK
+				(continuing, ignoring 
+				the question)
+			... came to the Federation colony on 
+			Volan Two twenty years ago... married, 
+			wife's name Louise, two female 
+			children aged fourteen and twelve.  
+			He was quite cooperative once we 
+			apprehended him from Deep Space 
+			Nine...
+
+	Sisko, who is getting caught flat footed on all of this, 
+	glances at Dukat who chooses not to make eye contact... Evek 
+	nods to the Cardassian colonist, who then hands a data clip 
+	to Amaros... Amaros inserts the data clip into a console...
+
+34   ON DESKTOP MONITORS (OPTICAL)
+
+	Samuels speaks in a medium closeup... he has been washed up 
+	for this video, looks fine at first glance but his eyes are 
+	dead and he has the pallid expression of a prisoner of war 
+	who has been tortured.  He reads from a statement.
+
+					SAMUELS
+			My name is William Samuels.  I am 
+			being held for crimes against the 
+			Cardassian people.  I have been well 
+			treated.  I have confessed that, as 
+			a member of a well-armed anti-
+			Cardassian force organized by 
+			Federation colonists, I set an 
+			implosion device that destroyed the 
+			freighter Bok'Nor.  I deeply regret 
+			participating in this arbitrary attack 
+			that led to the deaths of over seventy-
+			five crewmen.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/10/94 - ACT THREE      37.
+
+34   CONTINUED:
+
+					SAMUELS (Cont'd)
+			To my wife and children, I'm sorry 
+			and I love you.
+
+	The confession ends...
+
+35   RESUME
+
+					HUDSON
+			We'll want to talk to him ourselves.  
+			You'll make him available, of 
+			course...
+
+	Evek hits a combadge...
+
+					GUL EVEK
+				(to com)
+			Bring him in.
+
+					AMAROS
+			He would have confessed to anything 
+			after you were through with him...
+
+					GUL EVEK
+			On the contrary, he confessed quite 
+			early in the interrogation 
+			procedure... far sooner than we 
+			expected.  I believe he truly felt 
+			remorse.
+
+	Two Cardassians ENTER carrying a body bag on a stretcher...
+
+					GUL EVEK
+			Unfortunately, he committed suicide 
+			in his cell.
+
+	Reactions.  Sisko zips back the top of the body bag and 
+	reveals the dead face of the man we just saw on the recording.  
+	Amaros suddenly explodes, charges Evek and grabs him with 
+	two hands at his throat, choking him... Evek falls backward, 
+	Amaros goes down on top of him... Hudson moves in first as 
+	everyone pulls them apart... finally, they succeed... but it 
+	seems like a war might break out in this room... the 
+	Cardassians and Federation colonists look at each other with 
+	bitter hatred.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT THREE      38.
+
+35   CONTINUED:
+
+					SISKO
+				(to Dukat, re: 
+				Cardassians)
+			Get them out of here.
+
+	Dukat acknowledges... as Hudson coaxes the colonists out 
+	another door... two of them take the body with them...
+
+					HUDSON
+			We'll talk later...
+
+					KOBB
+			... We can't let them get away with 
+			this...
+
+					HUDSON
+			... We'll talk later... go on now...
+
+	And they're out.  Sisko and Hudson are alone... as they 
+	exchange a dismal look...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+          DEEP SPACE: "The Maquis, I" - 02/04/94 - ACT FOUR         39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   EXT. VOLAN COLONY - DAY (MATTE)
+
+	Re-establishing.
+
+37   INT. VOLAN COLONY MEETING HOUSE - DAY
+
+	Except for Sisko and Hudson, the council chamber is now 
+	deserted... the quiet in the large room now echoes the 
+	loneliness of these two men's positions... Hudson paces 
+	slowly, quietly bitter...
+
+					HUDSON
+			I knew him... Bill Samuels was a 
+			farmer... he cultivated his land for 
+			twenty years... raised two kids on 
+			that land... he made something out 
+			of that land... and the Federation 
+			told him he had to give it all to 
+			the Cardassians... well, he wasn't 
+			willing to do it...
+
+					SISKO
+				(arguing the Federation 
+				position)
+			And it was people like him who made 
+			both sides realize that some 
+			accommodation had to be made for 
+			these colonies... so they could 
+			stay...
+
+					HUDSON
+			The Cardassians have no intention of 
+			letting these people stay, Ben... 
+			they'll drive them out or kill them... 
+			it's already started... not a day 
+			goes by without some random act of 
+			violence against our people.  Every 
+			Federation colonist knows you never 
+			go out alone at night... can you 
+			imagine living in that kind of 
+			fear... ?
+
+					SISKO
+			If you're saying the Cardassian 
+			authorities are not enforcing the 
+			laws, we can...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       40.
+
+37   CONTINUED:
+
+					HUDSON
+				(overlapping)
+			Enforcing the laws?  The Cardassian 
+			"authorities" were part of a mob 
+			that stoned two of our colonists on 
+			the streets of Ropal City three days 
+			ago...
+
+					SISKO
+			That's something the Federation can 
+			take up with the Cardassians at the 
+			highest levels...
+
+					HUDSON
+				(shakes his head, 
+				sarcastic)
+			I'm sure that'll help.  The word is 
+			the Cardassian High Command is arming 
+			their colonists to the teeth...
+
+					SISKO
+			You really think they'd risk sending 
+			weapons into the Demilitarized Zone 
+			and breaking the treaty...
+
+					HUDSON
+			I think they'd find a way to do it 
+			that wouldn't be so obvious...
+
+	Sisko thinks a moment, nods...
+
+					SISKO
+			Not long ago, we caught the 
+			Cardassians shipping weapons to 
+			Bajoran extremists through a third 
+			party -- the Yridians...
+
+					HUDSON
+			That sounds about right.
+				(beat)
+			Could the Bok'Nor have been 
+			transferring weapons to someone else 
+			to bring in here?
+
+					SISKO
+			If it was, the transfer was made 
+			before the ship reached the station... 
+			the cargo holds of the Bok'Nor were 
+			empty...
+
+	Hudson nods grimly... a beat...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       41.
+
+37   CONTINUED:	(2)
+
+					SISKO
+			You think he did it?
+
+					HUDSON
+			Samuels?
+				(sighs)
+			I don't know.  They could have forced 
+			him to make a false confession and 
+			then killed him.
+
+					SISKO
+			I don't think Dukat would drag me 
+			all the way here unless he knew he 
+			could prove this...
+
+					HUDSON
+			Then, maybe Bill did do it, I don't 
+			know.
+				(beat)
+			Damn... I gotta go see his wife... 
+			what am I gonna tell her...
+
+	He sighs, smiles sadly to Sisko...
+
+					HUDSON
+			Makes you kind of pine for the dull 
+			old days at New Berlin, huh... sausage 
+			and beer all around, when everyone's 
+			idea of a good time was the Mazurka 
+			Festival...
+
+					SISKO
+			Jennifer and Gretchen had a ball 
+			together there, didn't they...
+
+					HUDSON
+			I'll never forget the sight of you 
+			in those lederhosen.
+
+					SISKO
+			I still have the hat.
+
+	Hudson tries a laugh, it doesn't quite make it.  A long beat.
+
+					SISKO
+				(continuing)
+			Is there something larger going on 
+			here, Cal... are these colonists 
+			organizing some kind of terrorist 
+			campaign?
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       42.
+
+37   CONTINUED:	(3)
+
+					HUDSON
+			They sure as hell aren't going to 
+			tell me about it if they are.
+				(beat)
+			But I'll tell you something just 
+			between us, Ben, these people have a 
+			right to defend themselves.  Once 
+			the Federation said good-bye to them, 
+			they were left with no other choice.
+
+	Hudson EXITS, leaving Sisko a beat to think to himself...
+
+38   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as the craft travels along at impulse power...
+
+39   INT. RUNABOUT
+
+	Sisko pilots... Dukat sits next to him... they're returning 
+	from Volan Three to Deep Space Nine... they haven't said 
+	much to each other... a fact Dukat picks up on... he's quite 
+	satisfied with himself...
+
+					GUL DUKAT
+			You're very quiet, Commander.
+
+					SISKO
+				(quietly angry)
+			You knew about Samuels before we 
+			left...
+
+					GUL DUKAT
+			I knew about his confession yes.  I 
+			didn't know he was... I was as 
+			surprised by his death as you were...
+
+					SISKO
+			No one's going to buy your suicide 
+			story.
+
+	Dukat uncharacteristically holds his tongue... a beat...
+
+					SISKO
+				(contained fury)
+			I don't care what he did... this 
+			kind of barbaric disregard for life 
+			will gut this treaty...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       43.
+
+39   CONTINUED:
+
+					GUL DUKAT
+				(quietly)
+			If it means anything, I entirely 
+			agree.  I told Evek that he was a 
+			fool to let Samuels die.
+
+				(beat, deliberately 
+				moving away from the 
+				genuine personal 
+				connection of the 
+				previous line)
+			A good interrogator doesn't allow 
+			his subject to die.  You lose the 
+			advantage.
+
+					SISKO
+			That's all you're interested in, 
+			isn't it.  The "advantage."
+
+					GUL DUKAT
+			Now, don't go spouting off your holier-
+			than-thou Federation fair-play 
+			dogma... I apologized, didn't I?  
+			And lest we forget, your man was 
+			responsible for the deaths of seventy-
+			eight innocent crewman.
+
+					SISKO
+				(beat)
+			What was the Bok'Nor transporting?
+
+					GUL DUKAT
+			The Bok'Nor had delivered fourteen 
+			metric tones of Golside ore to the 
+			Regulon system prior to its arrival 
+			at the wormhole...
+
+					SISKO
+			You're sure it wasn't carrying 
+			weapons...
+
+					GUL DUKAT
+			Weapons?  To whom?
+
+					SISKO
+			To the Cardassians in the 
+			Demilitarized Zone...
+
+					GUL DUKAT
+			The route of the Bok'Nor didn't take 
+			it anywhere near the Demilitarized 
+			Zone.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR      43A.
+
+39   CONTINUED:	(2)
+
+					SISKO
+			It could have rendezvoused with 
+			someone else... with the Lissepians, 
+			maybe... transferred the weapons to 
+			them... and they could have taken 
+			the weapons to...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       44.
+
+39   CONTINUED:	(3)
+
+					GUL DUKAT
+			Commander, I know you'd love to find 
+			a justification for this mass murder 
+			to ease your Federation conscience.  
+			But if the Bok'Nor had been carrying 
+			weapons, I would know... and on the 
+			lives of my children, I swear to 
+			you, it was not.
+
+	Sisko knows what a Cardassian's children mean to him.  He 
+	has to sense that Dukat is telling the truth.  He chooses to 
+	leave the subject alone.  Without any particular interest...
+
+					SISKO
+			I didn't know you had children.
+
+					GUL DUKAT
+			Seven.
+
+	And they ride on in silence.
+
+40   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+41   INT. QUARK'S
+
+	Except for a few lonely customers, Quark's is at low tide.  
+	Sakonna ENTERS, moves to the bar...
+
+					SAKONNA
+			I received your message.  How soon 
+			will it be available...
+
+					QUARK
+			My source can have everything ready 
+			tomorrow... say, by fourteen hundred 
+			hours...
+
+					SAKONNA
+			That's not soon enough.  I must leave 
+			the station tonight.
+
+					QUARK
+			You're leaving so soon... ?
+
+					SAKONNA
+			My plans have changed.  Can your 
+			source have the materials ready by 
+			tonight?
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       45.
+
+41   CONTINUED:
+
+					QUARK
+				(disappointed)
+			I guess he'll have to.
+
+					SAKONNA
+			I have your latinum.  If you'd like 
+			to count it...
+
+					QUARK
+				(joking)
+			Are you trustworthy?
+
+					SAKONNA
+				(not joking)
+			I'm a Vulcan.
+
+					QUARK
+			Of course.  It was just a little 
+			joke.  I'm sure that it's all... 
+			well, it wouldn't hurt to give it a 
+			quick count, I suppose...
+
+					SAKONNA
+			I'll have it brought to your quarters.
+
+					QUARK
+				(nods, with regret)
+			I was... looking forward to showing 
+			you more ways to mix business with 
+			pleasure...
+
+	And in a vaguely Vulcan affectionate way...
+
+					SAKONNA
+			Perhaps in the future.  I find you... 
+			intriguing, Quark.
+
+	She EXITS.  After a beat, to himself, pleased --
+
+					QUARK
+			"Intriguing."
+
+42   INT. PROMENADE
+
+	as Sisko and Gul Dukat step out of the airlock...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR       46.
+
+42   CONTINUED:
+
+					SISKO
+				(coolly)
+			You can stay in the guest suite on 
+			Level H-Two while you arrange for 
+			transport back to Cardassia.  I'll 
+			have a security guard sent to meet 
+			you there.
+
+					GUL DUKAT
+				(also coolly)
+			Starfleet security, if you don't 
+			mind, Commander.  Some of the Bajoran 
+			deputies were around in the good old 
+			days when I was in charge.
+
+					SISKO
+			I understand.
+
+					GUL DUKAT
+			If there's anything else I can do to 
+			assist you in your investigation...
+
+					SISKO
+			I think I can handle it from here.
+
+	They separate and go their own ways...
+
+43   INT. OPS
+
+	As Sisko arrives on the Turbolift... Kira and O'Brien are at 
+	their stations, other supernumeraries as needed...
+
+					SISKO
+			Chief... ?
+
+					O'BRIEN
+			Yessir... I've got answers for you... 
+			but I'm not sure you're gonna like 
+			them...
+
+					SISKO
+				(guessing the truth)
+			It was an implosive device...
+
+					O'BRIEN
+			Yessir and not only that...
+
+					SISKO
+			Not only that, it was a Federation 
+			implosive device.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/15/94 - ACT FOUR       47.
+
+43   CONTINUED:
+
+					O'BRIEN
+				(reacts at Sisko's 
+				foreknowledge)
+			Yessir.  The traces of mercassium we 
+			found were from the casing of the 
+			device itself.  It had to be a 
+			Federation design.
+
+	Sisko is just as unhappy as he can be about all this.  As he 
+	storms into his office, yelling to no one in particular...
+
+					SISKO
+			Get me Starfleet Command on subspace.
+
+	Kira and O'Brien exchange a look...
+
+43A  INT. COMMANDER'S OFFICE
+
+	Sisko ENTERS (or has just entered) moves to his computer 
+	terminal... hits a few panels... containing his anger and 
+	frustration at all the events... Kira ENTERS a beat later...
+
+					KIRA
+			Commander, is there... anything you 
+			want me to communicate to the 
+			Provisional Government?
+
+					SISKO
+			You can tell them some reckless 
+			Federation colonists in the 
+			Demilitarized Zone blew up the 
+			Bok'Nor... there's no further threat 
+			of Cardassian reprisals to Bajor...
+
+					KIRA
+				(acknowledges)
+			I'll advise all of our outposts to 
+			stand down...
+
+	She almost leaves.  A beat.  All this is incredible to her...
+
+					KIRA
+			Sir, are you, are we... facing the 
+			prospect of war here?
+
+					SISKO
+			Not if I can help it.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR      47A.
+
+43A  CONTINUED:
+
+					KIRA
+			Is that what the colonists are after?
+
+					SISKO
+			I'm not sure they know what they're 
+			after, Major.  I just know they have 
+			to be stopped.  And it's Starfleet's 
+			job to stop them.
+
+					KIRA
+				(beat)
+			Sir, I know this is none of my 
+			business...
+
+					SISKO
+			... but you're going to give me your 
+			opinion anyway...
+
+					KIRA
+			I don't know what the Cardassians 
+			told you but...
+
+					SISKO
+			They played a confession from the 
+			man who planted the bomb... a man 
+			they very likely tortured to death...
+
+					KIRA
+			And you don't think you might be 
+			playing into their hands... ?
+
+					SISKO
+				(angry)
+			I've got people out there killing 
+			people, Major... you suggest I turn 
+			a blind eye to that?
+
+					KIRA
+			Don't they have a right to defend 
+			themselves...
+
+					SISKO
+			... they've crossed the line...
+
+					KIRA
+			... if Starfleet is unwilling to defend 
+			them in the neutral zone...
+
+					SISKO
+			... they chose to live with the 
+			Cardassians...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR      47B.
+
+43A  CONTINUED:	(2)
+
+					KIRA
+			Well, I didn't.
+				(beat)
+			But I lived with them for twenty-six 
+			years before liberation came.  Every 
+			Bajoran lived with them... in constant 
+			fear.  I know what those colonists 
+			are going through.  Most of all I 
+			know the Cardassians can't be trusted 
+			to keep their side of the bargain in 
+			this treaty...
+
+					SISKO
+			So, you'd suggest the Federation 
+			shouldn't keep our side of the bargain 
+			either... perhaps by arming these 
+			colonists...
+
+					KIRA
+			I can't answer that, Commander.  But 
+			I can tell you one thing for certain -- 
+			the Cardassians are the enemy, not 
+			your own colonists.  And if Starfleet 
+			doesn't understand that, then the 
+			Federation is more naive than I 
+			already think it is.
+
+	She EXITS, leaving Sisko with his thoughts...
+
+44   INT. HABITAT CORRIDOR
+
+	A Starfleet Security Officer (N.D.), standing guard outside 
+	one of the closed doors... Sakonna and an N.D. Security 
+	officer (NILES) approach the guard... Niles will position 
+	himself so the guard turns away from Sakonna...
+
+					NILES
+				(to guard)
+			I've been sent to relieve you...
+
+					GUARD
+				(confused)
+			There must be some mistake.  I just 
+			reported for duty an hour...
+
+	As the Guard looks at Niles, Sakonna renders him unconscious 
+	with a NECK PINCH.  Niles catches him, drags the guard away 
+	(O.S.)... Sakonna hits the bell and in the time, it takes 
+	Dukat to answer, Niles returns.  Through the door --
+
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FOUR      47C.
+
+44   CONTINUED:
+
+					GUL DUKAT (O.S.)
+			Yes?
+
+					NILES
+				(pretending he's now 
+				Dukat's guard)
+			Sorry to disturb you, sir, but there's 
+			a message here from Commander Sisko...
+
+	A beat, then the door OPENS... Gul Dukat looks out on his 
+	two visitors.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/14/94 - ACT FOUR       48.
+
+44   CONTINUED:
+
+					SAKONNA
+			We've been asked to escort you to 
+			Airlock Eleven, sir.
+
+					GUL DUKAT
+			Is there a problem?
+
+					NILES
+			A Cardassian freighter has just 
+			arrived.  Apparently another bomb 
+			has been found and disarmed.
+
+	Dukat reacts and follows them...
+
+45   INT. AIRLOCK CORRIDOR (OPTICAL)
+
+	The airlock seems deserted... Sakonna, Dukat and Niles ENTER 
+	from the station... Dukat looks into the airlock, doesn't 
+	see Sisko...
+
+					GUL DUKAT
+			Where's Commander Sisko?
+
+					AMAROS'S VOICE
+				(from behind Dukat)
+			Comfortably asleep in his quarters, 
+			I hope.
+
+	Dukat turns... REVEAL Amaros, one of the Federation delegates 
+	from Volan Three, as he steps out of the shadows with an 
+	N.D. Federation Settler...
+
+					AMAROS
+			Remember me?
+
+	Amaros stands in front of Dukat... Sakonna, Niles and the 
+	N.D. Federation settler now surround him... Dukat realizes 
+	what is happening...
+
+					GUL DUKAT
+				(nods at airlock)
+			I take it we're not about to board a 
+			Cardassian freighter...
+
+	Amaros nods to his colleagues who take firm hold of Dukat... 
+	but suddenly Dukat knocks two of them to the ground as he 
+	makes one quick attempt to escape... Niles fires his PHASER, 
+	hitting Dukat in the torso... Dukat crumbles.  Niles and the 
+	N.D. Settler quickly drag him aboard... Sakonna follows... 
+	Amaros brings up the rear, looking to make sure no one has 
+	witnessed this abduction... he EXITS into the airlock... the 
+	airlock CLOSES...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FIVE       49.
+                           ACT FIVE                             
+
+	FADE IN:
+
+46   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-Establishing.
+
+47   INT. OPS
+
+	All senior officers (including BASHIR) are waiting at the 
+	table for Sisko who can be seen in his office but not heard 
+	talking intensely to his monitor... he's angry, defensive, 
+	arguing, defending, nodding, shaking his head... As they 
+	watch this --
+
+					BASHIR
+			What do you think they're telling 
+			him...
+
+					KIRA
+				(dry, worried for 
+				Sisko)
+			With two kidnappings and a ship 
+			exploding in the course of a week, 
+			I'm sure they've got a few things to 
+			say...
+
+					ODO
+			It's their own fault... I've been 
+			warning them from the beginning...
+
+	That rubs O'Brien the wrong way...
+
+					O'BRIEN
+			What are you talking about, their 
+			fault... you're in charge of 
+			Security...
+
+	And Odo's right back in his face now...
+
+					ODO
+			You let me be in charge of Security 
+			and I'll give you a safe station.  
+			You people tell me to do my job and 
+			then give me a Federation rulebook 
+			on all the things I can't do.  Untie 
+			my hands before you start to blame 
+			me, Mister O'Brien...
+
+					DAX
+			I'm sure no one meant to blame you, 
+			Odo...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FIVE       50.
+
+47   CONTINUED:
+
+					ODO
+				(ignoring her, full 
+				of steam)
+			Give me the right to set a curfew, 
+			let me do more searches of arriving 
+			passengers, give me fifty more 
+			deputies...
+
+					KIRA
+			And this station will be just like 
+			it was during the occupation...
+
+					ODO
+			Say what you will, it was safer then.
+
+					KIRA
+			Unless you happened to be a Bajoran.
+
+	In his office, Sisko drops his head as the command 
+	transmission has ended.  He tries to control his fury, but 
+	can't.  He calmly picks up the monitor, lifts it over his 
+	head and slams it to the floor in frustration... the officers 
+	react... he comes out, boiling but controlled...
+
+					SISKO
+			I want a complete review of all 
+			security measures on board this 
+			station.
+
+					ODO
+			I'd be delighted to accommodate you.
+
+					SISKO
+			What do we have from the guard?
+
+					KIRA
+			He's given us descriptions of the 
+			two who assaulted him -- a Vulcan 
+			female and a human male in a Starfleet 
+			officer's uniform...
+
+					ODO
+			We're trying to locate anyone they 
+			might have contacted here...
+
+					SISKO
+			How many ships left the station during 
+			the night?
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FIVE       51.
+
+47   CONTINUED:	(2)
+
+					O'BRIEN
+			Only two, sir:  a Bardeezan merchant 
+			ship... and a Galador freighter ...
+
+					SISKO
+			What were their destinations?
+
+					O'BRIEN
+			The Bardeezans went through the 
+			wormhole.  The freighter is operating 
+			on a trade route between Galador Two 
+			and Farius Prime.
+
+					SISKO
+				(muses, then... )
+			I'm guessing these people wouldn't 
+			take Dukat through the wormhole... 
+			they'd head back to the Demilitarized 
+			Zone with him.  Dax, check the Galador 
+			ship's registry and make sure it's 
+			in order.  Chief, see if you can 
+			identify its warp signature from our 
+			sensor records...
+
+	Dax and O'Brien work their panels...
+
+					O'BRIEN
+			No problem, Commander... I've got 
+			it...
+
+					SISKO
+			Last known course?
+
+					O'BRIEN
+				(beat; checking)
+			The computer's showing it was on a 
+			bearing of two-one-six, mark one-
+			seven-seven... as it went out of our 
+			sensor range, it was still headed 
+			for Farius Prime...
+
+	Sisko considers that a beat, then shakes his head...
+
+					SISKO
+			Major, send a message to Farius 
+			Prime... if that ship shows up, and 
+			I doubt it will, I want to know about 
+			it right away.
+
+					O'BRIEN
+			I can send out the warp signature 
+			over subspace.
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/14/94 - ACT FIVE       52.
+
+47   CONTINUED:	(3)
+
+					O'BRIEN
+			Make it a general transmission.  If 
+			they did change course, someone might 
+			spot them...
+
+					SISKO
+			Do it.
+
+	Dax reacts as she finds something...
+
+					DAX
+			It's a phony.
+
+	Reactions... Sisko moves to her station...
+
+					DAX
+			The Galadorans don't have any ships 
+			in this sector... the registry is 
+			forged...
+
+	That's enough for Sisko...
+
+					SISKO
+			Doctor, Major, you're with me... 
+			Odo, send a message to Commander 
+			Hudson at the Volan Colony that I'm 
+			moving in his direction on the 
+			assumption that Dukat will be taken 
+			to the Demilitarized Zone... give 
+			him the warp signature of the ship...
+
+	Sisko is ready to leave but Kira is picking up something on 
+	her console...
+
+					KIRA
+			Commander, we've just received a 
+			general subspace transmission from 
+			somewhere in the Demilitarized Zone.  
+			A group there is taking credit for 
+			the kidnapping of Dukat.  They're 
+			calling themselves... the Maquis.
+
+	Off reactions...
+
+48   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as a Runabout departs, speeding away from the station...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FIVE       53.
+
+49   INT. RUNABOUT (OPTICAL)
+
+	At warp.  Kira pilots.  Sisko sits next to her.  Bashir sits 
+	in one of the other chairs... a bleep and O'Brien's face 
+	appears on the monitor...
+
+					O'BRIEN
+			Commander, a Klingon freighter two 
+			light years from the Demilitarized 
+			Zone has I.D.'ed the warp signature... 
+			the ship did change course just as 
+			you predicted...
+
+					SISKO
+			Transmit their last known coordinates 
+			and heading to us, Chief...
+
+	On the monitor, we see O'Brien work his console... a beat...
+
+					KIRA
+				(eyeing console)
+			Acknowledged.
+
+					SISKO
+			Let us know if anyone else picks up 
+			their signature.
+
+					O'BRIEN
+			Aye, sir.  O'Brien out.
+
+					SISKO
+				(to Kira)
+			Set a new course, Major.
+
+					KIRA
+			Yes, sir.
+				(glances up)
+			Their heading would take them into 
+			the Badlands...
+
+					BASHIR
+			Badlands?
+
+					KIRA
+			A stretch along the Cardassian border 
+			that ships try to stay away from... 
+			a lot of plasma storms in the area...
+
+					SISKO
+			A couple of ships have been lost 
+			there over the past year or two...
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FIVE       54.
+
+49   CONTINUED:
+
+					BASHIR
+				(grim smile)
+			Sounds like the perfect place for a 
+			hideout...
+				(beat)
+			Excuse me, sir -- but what do you 
+			plan to do if we catch up with them?  
+			After all, these Maquis are Federation 
+			colonists...
+
+					SISKO
+			We're going to get Gul Dukat back by 
+			any means necessary.
+
+					BASHIR
+			Even if we have to fire on our own 
+			people...
+
+	Sisko's determined expression says yes.
+
+					KIRA
+			Long range sensors are picking up 
+			the warp signature... it leads to an 
+			M-class asteroid...
+
+					SISKO
+			Take us there.
+
+50   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	traveling through a plasma storm... it approaches a large 
+	asteroid...
+
+51   INT. RUNABOUT
+
+	As before.  Kira presses panels...
+
+					KIRA
+			Scanning the surface... I've located 
+			the ship...
+
+					BASHIR
+				(reading monitors)
+			Those are human life signs...
+
+					SISKO
+			Is there a Cardassian among them?
+
+       DEEP SPACE: "The Maquis, I" - REV. 02/07/94 - ACT FIVE       55.
+
+51   CONTINUED:
+
+					BASHIR
+				(checks)
+			No, sir...
+
+	Sisko reacts unhappily... but he's still determined...
+
+					SISKO
+				(to Kira and Bashir)
+			Prepare to beam down...
+
+52   EXT. JUNGLE - DAY (OPTICAL)
+
+	Sisko, Kira and Bashir TRANSPORT into the scene, phasers 
+	ready... widen to show a small temporary camp near a 
+	cliffside... inside the camp stand a half-dozen Federation 
+	colonists (including Niles, the settler who masqueraded as 
+	the Starfleet Security Officer back on DS9, and the American 
+	Indian we saw earlier at the Volan Colony Meeting House).  
+	All hold phaser rifles, the rifles aimed at Sisko, Kira and 
+	Bashir...
+
+					HUDSON (O.S.)
+				(with friendly regret)
+			I'm glad to see you didn't have too 
+			much trouble finding us, Ben...
+
+	He moves into their view and signals to the others to disarm 
+	the officers... they do... Sisko offers no resistance...
+
+					HUDSON
+			It seems that one disaster after 
+			another keeps bringing us back 
+			together again.
+
+	Hold on Sisko's reaction...
+
+                        TO BE CONTINUED                         
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+

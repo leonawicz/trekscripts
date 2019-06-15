@@ -1,0 +1,3127 @@
+  STAR TREK: THE NEXT GENERATION 
+
+                        "The Naked Now" 
+                          #40271-103 
+
+                          Teleplay by 
+                          D.C. Fontana                               
+
+                           Story by                                
+                         D.C. Fontana                               
+                             and                                   
+                       Gene Roddenberry                            
+
+             Based on a story by John D.F. Black                   
+                         (May 12, 1967)                             
+
+	Copyright 1987 Paramount Pictures Corporation. All Rights
+	Reserved.
+
+	This script is not for publication or reproduction. No one
+	is authorized to dispose of same. If lost or destroyed,
+	please notify the Script Department.
+
+
+                    REVISED FINAL DRAFT
+                    
+                      June 26, 1987
+
+
+                STAR TREK: THE NEXT GENERATION                  
+                           "The Naked Now"    
+                         
+                             CAST                               
+
+                PICARD             SARAH MACDOUGAL
+                RIKER              JIM SHIMODA
+                DATA               CREWMAN (2)
+                TROI               CREWWOMAN
+                BEVERLY            SECURITY GUARD
+                TASHA              TRANSPORTER CHIEF
+                WORF               CONN
+                GEORDI
+                WESLEY
+
+
+              STAR TREK: THE NEXT GENERATION                  
+                      "The Naked Now"  
+                           
+                             SETS                               
+
+            INTERIORS               EXTERIORS
+            U.S.S. ENTERPRISE       (all opticals)
+             Main Bridge
+             Transporter Room
+             Crusher's Office
+             Sickbay
+             Various Corridors
+             Engineering
+             Engineer's Office
+             Tasha's Quarters
+             Troi's Quarters
+
+            S.S. TSIOLKOVSKY
+             Main Corridor
+             Second Corridor
+             Bridge
+             Personnel Quarters
+             Bathroom
+             Lab
+
+
+
+              STAR TREK: "The Naked Now" - REV. 7/1/87                
+
+                  STAR TREK: THE NEXT GENERATION                     
+                        "The Naked Now"  
+                           
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - ENTERPRISE (OPTICAL)
+
+	racing through space at warp speed.
+
+					PICARD (V.O.)
+			Captain's log, Stardate 41209.2.
+			We are running at Warp 7 to
+			rendezvous with the science vessel
+			S. S. Tsiolkovsky...
+
+2    FULL ON WHITE DWARF (OPTICAL)
+
+	with the S.S. Tsiolkovsky in orbit. Then the Enterprise
+	appears and moves in to join the research vessel.
+
+					PICARD (V.O.)
+				(continuing)
+			... which has been routinely
+			monitoring the collapse of a red
+			supergiant star into a white
+			dwarf. What has brought us here
+			is a series of strange messages
+			indicating something has gone
+			wrong aboard the research vessel.
+
+3    INT. MAIN BRIDGE (OPTICAL)
+
+	All regulars on duty -- Data at Ops, Geordi at Conn, Tasha
+	and Worf upstage intent on main viewer which shows the
+	Enterprise moving in parallel with the research vessel.
+	First, a STATIC GARBLE, then a WOMAN'S VOICE over the
+	audio channel, low and insinuating. INDISTINCT VOICES,
+	LAUGHTER, IN B.G. indicate the SOUNDS OF A NOISY PARTY.
+
+					WOMAN'S COM VOICE
+			Well, hello Enterprise.
+			Welcome... I hope you have a lot
+			of pretty boys on board... because
+			I'm willing... and waiting...
+
+	They wait for more, then Picard nods toward Data.
+
+
+          STAR TREK: "The Naked Now" - REV. 6/30/87          2.
+
+3    CONTINUED:
+
+					DATA
+				(touches com panel)
+			S.S. Tsiolkovsky, repeat your
+			message.
+
+					WOMAN'S COM VOICE
+				(laughter, then)
+			In fact... we're going to have a
+			real blowout here... Thought that
+			would interest you. Waiting!
+
+	She LAUGHS HYSTERICALLY. There is MORE LAUGHTER FROM
+	THE OTHERS, some cries of "DO IT! GO AHEAD!" in b.g.
+	of the transmission, an EXPLOSIVE SOUND -- and then
+	silence. After a beat:
+
+					DATA
+			Captain... what we just heard is,
+			well...impossible.
+
+					PICARD
+			Report.
+
+					DATA
+				(quietly)
+			I believe that last sound we heard
+			was an emergency hatch being
+			blown.
+
+	The subspace channel is still open -- all we HEAR is
+	the HISS OF EMPTY AIR.
+
+					PICARD
+			Are you certain... yes, of course
+			you are.
+
+	Riker comes to his feet fast, gets a nod from Picard,
+	motions for Data, Geordi and Tasha to follow him to the
+	turbolift.
+
+					WORF
+			Sensor scan now reveals no life
+			signs aboard, Captain.
+
+4    INT. TRANSPORTER ROOM - ANGLE ON AWAY TEAM (OPTICAL)
+
+	The away team consists of RIKER, GEORDI, DATA, TASHA,
+	and a SECURITY GUARD. Data and Geordi have tricorders;
+	Tasha has the large phaser.
+
+					RIKER
+			Put us on their bridge, Chief.
+
+          STAR TREK: "The Naked Now" - REV. 6/30/87          3.
+
+4    CONTINUED:
+
+					TRANSPORTER CHIEF
+			Life support systems are not
+			functioning in that area, sir.
+
+	Riker nods to the TRANSPORTER CHIEF at the console.
+
+					RIKER
+			Then put us in the main corridor.
+			Energize.
+
+	The Transporter Chief works his console controls deftly.
+	As the TRANSPORTER EFFECT AND SOUNDS BEGIN AND BUILD:
+
+5    INT. TSIOLKOVSKY MAIN CORRIDOR - ON AWAY TEAM (OPTICAL)
+
+	The TRANSPORTER EFFECT COMES IN, FADES DOWN, leaving
+	the away team materialized. The ship is very quiet --
+	a low HUM of working equipment, but without the murmur
+	of living beings.
+
+					RIKER
+			Cover the ship as planned. Move
+			out.
+
+	Data and Geordi put tricorders on "record" and all move
+	out.
+
+6    INT. SECOND CORRIDOR - ON RIKER AND DATA (OPTICAL)
+
+	This corridor shows signs of phaser char marks on the
+	walls. There is litter on the deck -- food, a wine
+	bottle, discarded clothes. Data records the scene with
+	his tricorder, as:
+
+					DATA
+			Indications of what humans would
+			call... a "wild party?"
+
+	Riker has moved quickly to a door at the end of the
+	corridor. It is shut, but there is a small viewscreen
+	set in the wall beside it.
+
+					RIKER
+			Their bridge. If this thing
+			works, be sure to record ---
+
+	He activates the viewscreen, takes a look, and GROANS.
+
+          STAR TREK: "The Naked Now" - REV. 6/26/87          4.
+
+7    CLOSE SHOT - SMALL VIEWSCREEN (OPTICAL)
+
+	Narrow view of a small bridge (SET FRAGMENT), mostly
+	consoles, maybe a command chair. And beyond these, the
+	emergency hatch set in the bulkhead -- the hatch is
+	gone, and the cold glitter of a starfield winks beyond
+	it. (SET DRESSING NOTE: There should be no loose
+	objects visible, only items that are firmly anchored
+	to deck or bulkhead. Anything loose would have been
+	swept into space when the air rushed out into the
+	vacuum.)
+
+8    WIDER SHOT - RIKER AND DATA
+
+	Riker steps aside, gesturing to Data to record the scene
+	on the viewer as:
+
+					RIKER
+			You were right. Somebody blew
+			the hatch and they were all sucked
+			out into space..
+
+					DATA
+			Correction, sir, blown out.
+
+					RIKER
+			Thank you, Data.
+
+					DATA
+			A common mistake, sir...
+
+					RIKER
+				(emphasis)
+			I know! Thank you, Data.
+
+					TASHA'S COM VOICE
+			Commander Riker, it's Lieutenant
+			Yar, location Engineering. Ten
+			people here, sir, all frozen.
+			No vital signs.
+
+					RIKER
+				(touches communicator)
+			Frozen how?
+
+					TASHA'S COM VOICE
+			Looks to me like someone was
+			"playing" with the environmental
+			controls, sir. Just let all the
+			heat bleed away into space.
+
+					RIKER
+				(to Data)
+			That's ridiculous!
+
+					TASHA'S COM VOICE
+			That's what I say, sir.
+
+          STAR TREK: "The Naked Now" - REV. 6/26/87          5.
+
+9    INT. PERSONNEL QUARTERS - ANGLE ON ENTRY DOOR
+
+	as it opens heavily and causes a slight AIR HISSING.
+	Geordi ENTERS from the corridor, reacts to the AIR
+	HISSING, hits a wall control on the inside. His
+	expression changes to one of dismay as he looks around.
+
+10   ANOTHER ANGLE
+
+	CAMERA ANGLE REVEALS a room partially covered with
+	frost. We glimpse several male and female bodies,
+	scantily clad or (implied) nude, possibly a couple
+	entwined. All are frozen and dead. Bits of frost-covered
+	lingerie and other intimate clothing are
+	scattered around. Geordi touches his insignia.
+
+					GEORDI
+			Sir, Lieutenant La Forge in the
+			crew quarters. Something in here.
+
+11   BACK TO GEORDI
+
+	as he HEARS A SOUND, the BUMP BUMP of a door bumping
+	against the jamb. Geordi hurries across the small room
+	toward the adjoining bathroom.
+
+					GEORDI
+				(continuing)
+			Hello!
+
+12   INT. BATHROOM - ANGLE ON GEORDI
+
+	Nothing inside, Geordi decides to check the closed
+	shower stall, yanks the door open -- and a frozen
+	WOMAN'S BODY, fully clothed, falls out into his arms.
+	Although startled, Geordi has the presence of mind to
+	catch the ice-covered corpse and lower it to the floor.
+
+13   CLOSER ON GEORDI
+
+	Examining the frozen woman who had once been attractive,
+	shakes his head in pity. He rests one hand on the wet
+	side wall of the shower to brace himself as he prepares
+	to stand upright again.
+
+14   VERY CLOSE ON GEORDI'S HAND AND "DROPS" (INSERT))
+
+	Several drops of "water" on the icy shower wall where
+	Geordi's hand rests coalesce and move onto his
+	hand (per Justman effect).
+
+          STAR TREK: "The Naked Now" - REV. 6/26/87          6.
+
+15   INT. TSIOLKOVSKY MAIN CORRIDOR - EMPHASIZING RIKER
+
+	as he uses his communicator.
+
+					RIKER
+			Riker to Captain, I have a report
+			for you.
+
+16   INT. ENTERPRISE MAIN BRIDGE - CLOSE ON PICARD
+
+	Worf at Ops (port) and crewman at Conn (starboard).
+
+					PICARD
+				(tabs com control)
+			Picard here.
+
+					RIKER'S COM VOICE
+			They're all dead, sir. Some were
+			apparently blown out the emergency
+			hatches.
+
+					PICARD
+			There were eighty people on that
+			ship, Number One.
+
+					RIKER'S COM VOICE
+			Yes sir. As I said, all dead.
+
+	Picard looks incredulous.
+									FADE OUT.
+
+                         END OF TEASER                          
+
+          STAR TREK: "The Naked Now" - REV. 6/26/87          7.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+17   EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY (OPTICAL)
+
+	The Tsiolkovsky still drifts in space. The Enterprise
+	is nearby. Over this:
+
+					PICARD (V.O.)
+			Captain's log, supplemental. We
+			are downloading the research
+			information gathered on the
+			collapsing...
+
+18   CLOSE ANGLE ON DWARF STAR (OPTICAL)
+
+	looking somehow strange, unstable, although we'd see
+	no surface movement at this range.
+
+					PICARD (V.O.)
+				(continuing)
+			... star nearby. I am concerned
+			at being in such close orbit, but
+			the Tsiolkovsky's research
+			records...
+
+19   INT. ENTERPRISE MEDICAL CORRIDOR
+
+	with Picard striding toward Dr. Crusher's office.
+
+					PICARD (V.O.)
+				(continuing)
+			... will no doubt predict the time
+			of the star's final collapse.
+
+20   INT. CRUSHER'S OFFICE - ON BEVERLY, PICARD AND TROI
+
+	Beverly is examining information as it comes up on a
+	desktop viewer. (NOTE: We see only the back of the
+	viewer and the flicker of light on her face as the
+	information changes.) Troi is there too, also watching
+	the screen.
+
+	Picard ENTERS, strides over to examine the viewing
+	screen too.
+
+					BEVERLY
+			I can't find anything unusual in
+			any of the tricorder readings
+			they've sent over, Captain.
+
+          STAR TREK: "The Naked Now" - REV. 6/26/87          8.
+
+20   CONTINUED:
+
+	Picard straightens up, and Beverly turns around to look
+	at him.
+
+					PICARD
+			Give me a theory, Doctor.
+			Anything!
+
+	Beverly's silence is eloquent. She shakes her head,
+	her face has a worried look.
+
+					PICARD
+				(turning; continuing)
+			Troi? Did you feel anything from
+			over there?
+
+					TROI
+			Perhaps some residual
+			confusion... and exhilaration, too.
+			But I'm not too certain of that.
+
+					PICARD
+			Madness? Mass hysteria?
+			Delusion?
+
+					TROI
+			Any or all, Captain.
+
+					PICARD
+			All right. Let's bring the away
+			team back. Set the transporter
+			for maximum decontamination. And
+			then full examinations and
+			observation when they're here.
+
+	He turns and heads for the door.
+
+21   EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY (OPTICAL)
+
+	as before.
+
+22   INT. ENTERPRISE SICKBAY - BEVERLY, RIKER, GEORDI,
+	DATA
+
+	Data is just getting up from one of the hospital beds
+	as:
+
+					BEVERLY
+			If you were any more perfect,
+			Data, I'd write you up in a
+			Starfleet medical textbook.
+
+          STAR TREK: "The Naked Now" - REV. 6/26/87          9.
+
+22   CONTINUED:
+
+					DATA
+			I am already listed in several
+			biomechanical texts, Doctor.
+
+	Beverly doesn't quite yet know how to take Data. Riker
+	does, and grins.
+
+					BEVERLY
+			Yes... of course.
+				(to Geordi)
+			You're next, Lieutenant.
+
+	Data LEAVES. Geordi obligingly lies down on the
+	hospital bed, and Beverly starts to monitor him with
+	a small instrument.
+
+23   ANGLE ON MEDICAL VIEWSCREEN
+
+	The readings come on -- nothing radical anywhere.
+
+24   WIDER ANGLE
+
+	as Beverly looks up at the o.s. viewscreen, then:
+
+					BEVERLY
+				(continuing)
+			Normal -- all across.
+			Except... why are you perspiring?
+
+	Geordi appears to have a fine sheen of perspiration on
+	his face.
+
+					GEORDI
+			I suppose because you have it too
+			hot in here. What else would it
+			be?
+
+	Both Beverly and Riker have reacted to this un-Geordi
+	reply.
+
+					RIKER
+			That doesn't... sound exactly like
+			you, Geordi.
+
+	Geordi looks up, then replies pleasantly, grinning.
+
+					GEORDI
+			Maybe it wasn't.
+				(indicates Beverly)
+			Maybe she threw her voice.
+
+	He means it as a joke but no one is amused.
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         10.
+
+24   CONTINUED:
+
+					GEORDI
+				(continuing)
+			Joke.
+
+					BEVERLY
+			Of course. But I would like to
+			run another test or two on you,
+			Lieutenant.
+
+25   INT. MAIN BRIDGE AND CRUSHER'S OFFICE (INTERCUTS)
+
+	as Picard turns to his panel.
+
+					BEVERLY'S COM VOICE
+			Sickbay to Bridge...
+
+					PICARD
+			Picard here. Go ahead, Doctor.
+
+					BEVERLY'S COM VOICE
+			I'm confining Lieutenant La Forge
+			to Sickbay until further notice.
+
+					PICARD
+			Do we have a problem, Doctor?
+
+					BEVERLY'S COM VOICE
+			I don't know yet.
+
+26   INT. ENTERPRISE MAIN BRIDGE - FULL SHOT
+
+	as Riker ENTERS from a turbolift and crosses toward
+	Data, who is working at one of the science stations at
+	the rear of the Bridge. All other Bridge Personnel are
+	in place -- Picard, Tasha, Worf at Ops, Crewman at
+	Conn.
+
+27   CLOSER TWO SHOT - RIKER AND DATA
+
+	Data looks up as Riker approaches him.
+
+					RIKER
+			Data, I need help in locating some
+			library-computer information.
+
+					DATA
+			Specifics, sir?
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         10A.
+
+27   CONTINUED:
+
+					RIKER
+			All I have is a vague memory of
+			reading somewhere about someone
+			taking a shower in his or her
+			clothing.
+
+          STAR TREK: "The Naked Now" - REV. 7/2/87          11.
+
+27   CONTINUED:
+
+					DATA
+			Ah. The body Geordi discovered.
+
+					RIKER
+			And I believe it may have happened
+			before.
+
+					DATA
+			To "someone," "somewhere."
+
+					RIKER
+				(amused)
+			Should be easy for someone written
+			up in biomechanical texts.
+
+	Data shrugs, enters a command on the panel, and
+	information begins to flash up on a small viewscreen.
+	(Viewscreen may be o.s.)
+
+					DATA
+			About that... did the doctor
+			believe I was boasting?
+
+					RIKER
+				(dryly)
+			Probably.
+				(indicates viewer)
+			This may take some time?
+
+					DATA
+			At least several hours.
+				(looks up)
+			But what I said was a statement
+			of fact.
+
+	Riker begins EXITING.
+
+					DATA
+				(continuing)
+			Perhaps she will look it up.
+
+					RIKER
+			You can depend on it.
+
+28   INT. SICKBAY - ANGLE ON GEORDI AND BEVERLY
+
+	He is resting on a hospital bed. Beverly finishes
+	working over him with a medical instrument, checks a
+	reading on it, moves toward her office. (NOTE: At no
+	time does she touch him.)
+
+          STAR TREK: "The Naked Now" - REV. 7/2/87          12.
+
+29   INT. CRUSHER'S OFFICE - ON BEVERLY
+
+	She sits down at her desk, compares readings on the
+	medical instrument with something she has called up on
+	the viewer.
+
+30   INT. SICKBAY - ON GEORDI
+
+	He sits up, takes off his communicator and lays it to
+	one side. Then he gets to his feet, and quietly EXITS
+	the Sickbay. A moment, then Beverly comes back IN --
+	stares at the empty bed, snatches up Geordi's
+	communicator and runs for the door.
+
+					BEVERLY
+			Geordi!
+
+31   INT. CORRIDOR OUTSIDE SICKBAY - ON BEVERLY
+
+	The door slides open and she stands there, agitatedly
+	staring up and down the corridor.
+
+32   BEVERLY'S P.O.V. - THE CORRIDOR
+
+	empty.
+
+33   INT. MAIN BRIDGE - ON TASHA
+
+	as she hears an ALERT SIGNAL from her panel.
+
+					BEVERLY'S COM VOICE
+			Security! Lieutenant La Forge
+			just left Sickbay while my back
+			was turned. It's important we
+			find him.
+
+					TASHA
+				(toward console)
+			Security team alert, pick up
+			Lieutenant La Forge who left
+			Sickbay moments ago.
+				(calling toward Picard)
+			Captain, anything further?
+
+					PICARD
+			Affirmative. Make it a ship-wide
+			search, Lieutenant.
+
+         STAR TREK: "The Naked Now" - REV. 7/2/87         12A.
+
+34   INT. CRUSHER'S QUARTERS - ANGLE ON WESLEY AND
+	GEORDI
+
+	The boy is in the living space, near a table littered
+	with delicate futuristic tools.
+
+          STAR TREK: "The Naked Now" - REV. 7/1/87          13.
+
+34   CONTINUED:
+
+	He has an intricately shaped tube attached to a miniature
+	control device. It is a MINIATURE TRACTOR BEAM (OPTICAL).
+	As Geordi watches, Wesley is using the device to maneuver a
+	chair in the air.
+
+					WESLEY
+			It's a model of the same kind of
+			tractor beam our ship uses... with
+			some ideas of my own added.
+
+	He hoists the chair higher, floats it sideways, lets
+	it settle to the deck. Geordi is fascinated.
+
+					GEORDI
+			So that's your science project.
+			Wes, you are something!
+
+					WESLEY
+			Meanwhile, the captain won't let
+			me visit the bridge.
+
+	Wesley goes to the littered table, pulls out a
+	transparent cube, slides it into a slot on a small flat
+	(portable) machine.
+
+					WESLEY
+				(continuing)
+			So I use this to imagine I'm
+			there.
+
+	Wesley touches a control and a light goes on at the tiny
+	machine.
+
+					PICARD'S VOICE
+			Take the helm, Mister Crusher.
+			Set a course for thirty-seven mark
+			one hundred eighty. Warp six.
+
+					GEORDI
+				(indicates)
+			That's the captain's voice.
+
+					WESLEY
+			Pieced together from words he's
+			used on the intercom.
+				(indicates)
+			I can pretend he's ordering me
+			to take the Enterprise anywhere.
+			And listen to this...
+
+	Wesley touches another control.
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         14.
+
+34   CONTINUED: (2)
+
+					PICARD'S VOICE
+			Chief Engineer, report to the
+			Bridge. Commander Riker, report
+			to the Bridge. Doctor Crusher,
+			report to the Bridge.
+
+					WESLEY
+			What d'you think?
+
+	Geordi puts a friendly arm about the boy's shoulder.
+
+					GEORDI
+			I think the captain's lucky you're
+			on his side.
+
+					WESLEY
+			But he still won't let me on the
+			bridge. And there's nothing there
+			I don't understand.
+
+					GEORDI
+			Wish I understood myself that
+			well.
+
+	Wesley turns at the "down" note in Geordi's voice.
+
+					WESLEY
+			You okay?
+
+					GEORDI
+			No. Suddenly I seem to be burning
+			up inside.
+
+	Geordi stands, moves for the door.
+
+					GEORDI
+				(continuing)
+			Wow it's hot in here.
+
+	Geordi EXITS leaving a puzzled Wesley inside.
+
+34A  INT. CORRIDORS
+
+	Tasha and Security Personnel searching for Geordi.
+
+35   INT. OBSERVATION LOUNGE - ANGLE ON GEORDI
+
+	perspiring, upset. Looking out to space.
+
+					TASHA'S VOICE
+			Geordi... ?
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         15.
+
+35   CONTINUED:
+
+	She ENTERS SCENE from behind him, looking for a reaction
+	from him.
+
+					TASHA
+				(continuing)
+			Medical's been worried about you.
+
+					GEORDI
+				(without turning)
+			Help me.
+
+	Tasha studies him a beat. He seems so sad, so lonely.
+	Then:
+
+					TASHA
+			Lieutenant Yar in the Observation
+			Lounge. Send a team here now.
+
+	After a beat, Geordi swings around to look at her, pain
+	and longing chasing across his face.
+
+					GEORDI
+			Tasha... I said "help me." Help
+			me not to give in to the wild
+			things coming into my mind...
+
+	Tasha is moved, tries to fight it off.
+
+					TASHA
+			Geordi -- my job is security...
+
+					GEORDI
+			Please.
+
+	Tasha folds him into arms.
+
+					TASHA
+			Yes, helping is more important.
+			How can I help you Geordi?
+
+36   INSERT - TASHA'S HAND
+
+	being patted by Geordi's hand.
+
+37   BACK TO SHOT
+
+	A Security Guard hurries into the room, stops as Tasha
+	motions him to a halt.
+
+					GEORDI
+			Help me to see like you do.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         16.
+
+37   CONTINUED:
+
+					TASHA
+			But you already see better than
+			I can.
+
+					GEORDI
+			I see more. But more isn't
+			better!
+
+	He tears off the prosthesis, exposing eyes that have
+	flat gray irises with no pupil, incapable of expression.
+
+					TASHA
+			Geordi...
+
+					GEORDI
+			I want to see in shallow, dim,
+			beautiful human ways.
+
+					TASHA
+			We'll talk about it, Geordi.
+				(takes his arm)
+			I'm going to take you to Sickbay
+			now. All right?
+
+	He bobs his head, willing to be assisted. As she leads
+	him away:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         17.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+38   EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY (OPTICAL)
+
+	The dwarf star in view too.
+
+					PICARD (V. O.)
+			Captain's log, supplemental. I
+			am concerned that away team member
+			Lieutenant La Forge has been taken
+			to Sickbay. The report: "unusual
+			behavior."
+
+39   INT. SICKBAY - ANGLE ON BEVERLY, GEORDI, TROI
+
+	Geordi is lying on a hospital bed still struggling to
+	control his emotions, while Beverly works her medical
+	instruments over him, glancing up now and then at the
+	o.s. viewscreen to check the results. Troi is assisting
+	the monitoring.
+
+40   INT. CRUSHER'S OFFICE - ON TASHA AND PICARD
+
+					TASHA
+			... and then we got him down to
+			sickbay so Dr. Crusher could
+			examine him.
+
+					PICARD
+			He wasn't violent?
+
+	She glances over her shoulder back toward the treatment
+	room.
+
+					TASHA
+			No, sir. He was very upset... he
+			kept talking about wanting normal
+			eyes.
+
+					PICARD
+			Thank you, Lieutenant. I'll be
+			in Sickbay.
+
+	Picard HURRIES OUT immediately. It's clear he has much
+	on his mind. Tasha moves to EXIT, then pauses.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         18.
+
+41   CLOSE ON TASHA
+
+	wiping a hand over her lightly perspiring brow. As she
+	EXITS, it is clear she feels strange somehow.
+
+42   INT. SICKBAY - ON BEVERLY, GEORDI, TROI, PICARD
+
+	Beverly administers a hypospray to Geordi, which finally
+	begins to calm his emotional state. As Picard joins
+	them, Beverly turns and indicates her medical
+	viewscreen.
+
+					BEVERLY
+			According to our medical readouts,
+			there's still nothing wrong with
+			him. He looks like he's running
+			a temperature but every instrument
+			we have says he's not.
+
+					PICARD
+			Doctor, every person on that ship
+			over there died. Is there any
+			chance that whatever did it is
+			loose on my ship?
+
+					BEVERLY
+			If you mean a disease, sir, I'd
+			say there's no chance of it. We
+			used full decontamination, we
+			examined each team member
+			carefully...
+
+					PICARD
+				(interrupting)
+			The entire crew over there somehow
+			managed to kill themselves,
+			Doctor. If it wasn't a disease,
+			what else could have made them
+			do that?
+
+					BEVERLY
+			The obvious alternatives would
+			be in areas of insanity, severe
+			emotional upset...
+				(stops short; to Troi)
+			Troi, do you feel anything unusual
+			in the lieutenant here?
+
+					PICARD
+				(to Troi)
+			Security reported he was longing
+			for normal eyesight. A rather
+			sudden yearning for that.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         19.
+
+42   CONTINUED:
+
+					TROI
+			Since his records show no previous
+			mention of that, the fact that it's
+			happened now could be important.
+
+	Troi centers her attention on Geordi, mentally probing.
+	Then:
+
+					TROI
+				(continuing)
+			But all I feel from him is
+			confusion. If I didn't know
+			better, I'd say he was
+			intoxicated.
+
+	The Captain throws a quick look toward Beverly who
+	shakes her head firmly.
+
+					BEVERLY
+			Our tests would have shown that.
+			Also any signs of drugs,
+			hallucinogens or other
+			contaminants.
+
+43   INT. ENTERPRISE MAIN BRIDGE - ANGLE ON RIKER AND DATA
+
+	still at the science station, Data's fingers flying over
+	tabs on the console. He looks at the viewscreen, shakes
+	his head. Worf and Crewman as before.
+
+					DATA
+			Can you provide more information,
+			sir? Seeking an instance of
+			someone showering with their
+			clothing on is...is...
+
+					RIKER
+			I know... like looking for a needle
+			in a haystack.
+
+					DATA
+				(puzzled)
+			Why should anyone wish to expend
+			their time in such a search?
+
+					RIKER
+			Correction, Data, I should have
+			said proverbial needle in a
+			haystack.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         20.
+
+43   CONTINUED:
+
+					DATA
+			Ah, a human proverb! As in
+			folklore, or an historical
+			allusion, or tribal memories,
+			or...
+
+					RIKER
+				(interrupting)
+			That's it! Historical! I
+			remember now that I was reading
+			a history of all the past
+			starships named Enterprise.
+
+	Data takes over the console, quickly tabbing in commands
+	as:
+
+					DATA
+			Enterprise history. Aberrant
+			behavior. Medical cross
+			reference...
+
+44   ANGLE TO INCLUDE TURBOLIFT
+
+	as Picard ARRIVES, CROSSES toward his Bridge position.
+	Riker sees him, calls:
+
+					RIKER
+			Captain, I believe we've got the
+			answer to what happened over
+			there.
+
+45   ANGLE AT VIEWER
+
+	where Data continues refining the information he's
+	getting. Riker is watching over his shoulder as Picard
+	moves in to examine the information too.
+
+					PICARD
+			The Constitution class Enterprise,
+			Captain James T. Kirk
+			commanding...
+
+					RIKER
+				(indicates viewer)
+			Similar conditions. They were
+			monitoring a planet that was
+			breaking up, not a collapsing star
+			as in this case, but there were
+			the same huge shifts in gravity...
+
+          STAR TREK: "The Naked Now" - REV. 7/1/87          21.
+
+45   CONTINUED:
+
+					PICARD
+				(peers closely)
+			... which somehow resulted in
+			complex strings of water
+			molecules which then acquired
+			carbon from the body and acted
+			on the brain like alcohol!
+				(to Data)
+			Mister Data, download that
+			information immediately to
+			medical.
+
+					DATA
+			Aye sir, downloading.
+
+	Picard and Riker both study the information on the
+	viewer.
+
+					PICARD
+			Fascinating! Their entire crew
+			going out of control...
+
+					RIKER
+			Like intoxication but worse.
+			Judgment almost completely
+			impaired...
+
+					PICARD
+			Until they found this formula,
+			barely in time.
+				(moves to his own
+				 console)
+			Picard to Doctor Crusher, come
+			in.
+
+	After a moment:
+
+					BEVERLY'S COM VOICE
+			This is Crusher; go ahead Captain.
+
+					PICARD
+			You can relax, Doctor. The answer
+			to all this is feeding into your
+			medical banks now... including a
+			cure.
+
+	A long beat, then:
+
+					BEVERLY'S COM VOICE
+			Are you certain, Captain?
+
+					PICARD
+			Absolutely!
+
+	Data has looked up with a slight pained expression at
+	Picard's "absolutely."
+
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         22.
+
+46   INT. TROI'S QUARTERS - ON TROI
+
+	Troi's quarters are tastefully decorated, including a
+	scattering of art objects that may be Betazoid in origin
+	-- perhaps a wall hanging, a unique piece of pottery
+	or statuette, or paintings. At the moment, there are
+	also a number of lovely dresses and gowns draped over
+	the furniture. Troi ENTERS and stops inside the door,
+	staring.
+
+					TROI
+			Tasha?
+
+47   INCLUDING TASHA
+
+	She is somewhat agitated and has a light sheen of
+	perspiration as she holds one of Troi's gowns against
+	her, judging it for color. The size, of course, would
+	be all wrong for her.
+
+					TROI
+				(continuing)
+			What're you doing?
+
+					TASHA
+			I need your advice. That's why
+			I came to your quarters.
+
+					TROI
+			Of course. Anything I can do ---
+
+					TASHA
+				(interrupting)
+			On clothes. You always wear such
+			beautiful clothes off duty. And
+			your hair's so nice all the time.
+			I want to change my image.
+				(holds up dress)
+			What about this color?
+
+					TROI
+			Not for you. Tasha, I feel you're
+			very uncertain... that you're
+			fighting something.
+
+	She reaches out to take Tasha's hand comfortingly.
+
+					TROI
+				(continuing)
+			What is it?
+
+	Tasha pulls her hand away, tosses down the dress, and
+	moves to the door as:
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         23.
+
+47   CONTINUED:
+
+					TASHA
+			Never mind. I'll find what I need
+			myself. Ship's Stores will have
+			it.
+
+					TROI
+			Tasha, wait ---
+
+	Tasha LEAVES. Troi immediately touches the com panel.
+
+					TROI
+				(continuing)
+			Troi to Captain Picard.
+
+48   INT. MAIN BRIDGE - ON PICARD
+
+					PICARD
+			Picard here.
+
+					TROI'S COM VOICE
+			Sir, I think Tasha's been
+			infected, too. She's just left
+			my quarters...
+
+					PICARD
+			It's not actually an "infection,"
+			Counselor.
+
+					TROI'S COM VOICE
+			Yes sir, it's more like
+			intoxication, but whatever it is,
+			she's got it.
+
+49   ANGLE TO INCLUDE RIKER AND DATA
+
+					PICARD
+			Thank you, Counselor.
+				(to Riker)
+			Number One, our security chief
+			has the equivalent of a snootful.
+
+					DATA
+				(to Picard)
+			Inquiry, sir... 'snootful?'
+
+					PICARD
+			Forget it!
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         24.
+
+50   INT. CRUSHER'S OFFICE - ANGLE ON BEVERLY
+
+	She is checking the lab report on Geordi against
+	information on her viewscreen when:
+
+					WESLEY (V.O)
+			Mom, Look what I can do...
+
+	She turns, gets to her feet in alarm and hurries into
+	the treatment room.
+
+51   INT. SICKBAY - INCLUDING WESLEY AND BEVERLY (OPTICAL)
+
+	Wesley again has the tractor beam on and is balancing
+	several medical instruments in mid-air all at the same
+	time. We can also SEE he's perspiring a bit.
+
+					WESLEY
+				(continuing)
+			I've been able to widen and
+			strengthen the beam, just like
+			I told you last night ---
+
+					BEVERLY
+			Do me a favor, Wes? There's
+			something happening on this
+			ship...
+				(shrugs)
+			Just to be safe, I'd like you to
+			stay in our quarters until it's
+			solved.
+
+					WESLEY
+				(slightly silly grin)
+			Right, Mom, right. Your wish
+			is my...
+
+					BEVERLY
+			Now, Wes.
+
+	Wesley lowers the floating instruments and turns off
+	the little tractor beam as:
+
+					WESLEY
+				(another grin)
+			You could be stunting my emotional
+			growth, you know.
+				(wipes forehead)
+			Why's it so hot in here, anyway?
+
+	He heads for the door. Beverly pauses, thinking about
+	his words a moment, then has to forget it as:
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         25.
+
+51   CONTINUED:
+
+					PICARD'S COM VOICE
+			Picard to Crusher. Have you made
+			a test injection yet? We're
+			getting indications that this
+			condition is spreading.
+
+					BEVERLY
+			No test yet, Captain, but very
+			soon.
+
+52   INT. CORRIDOR - CLOSE ON A VERY SHAPELY REAR END
+
+	moving down the corridor with a most provocative sway.
+	CAMERA PULLS BACK TO REVEAL the shapely rear end belongs
+	to Tasha, and she is moving with the sexiest walk
+	imaginable -- quite unlike her usual straightforward
+	stride. Her whole expression has acquired a sexy pout.
+	She approaches an intersection where several crewpersons
+	are passing. Then, we HEAR GIGGLES, then a woman's
+	LAUGHING SCREAM.
+
+					TRANSPORTER CHIEF
+			Come to Papa; come to Papa... !
+
+	MORE LAUGHTER as A CREWMAN chases a CREWWOMAN around
+	the corner and into the other corridor. Other crew
+	odd behavior.
+
+53   WIDER ANGLE
+
+	From the reactions of the crewpersons in sight it is
+	obvious that some have been infected and some not.
+	Another CREWMAN is coming from the other direction and
+	pauses as he sees Tasha swaying sexily toward him,
+	openly flirting. She stops in front of him.
+
+54   TASHA AND CREWMAN
+
+	She reaches out to pull him a little closer and plants
+	one hell of a kiss on him. As he returns it:
+
+55   INT. ENTERPRISE MAIN BRIDGE - FULL SHOT
+
+	As Picard returns to his chair, Data moves toward him.
+
+					DATA
+			Captain, in another forty-one minutes
+			will see the information from the
+			Tsiolkovsky downloaded to us.
+
+          STAR TREK: "The Naked Now" - REV. 7/2/87          26.
+
+55   CONTINUED:
+
+					PICARD
+			Why so slow?
+
+					DATA
+			Slow, sir? The Tsiolkovsky has
+			been eight months in accumulating
+			it.
+
+					PICARD
+				(indicates viewer)
+			How much danger from that star?
+			Worse case.
+
+56   ANGLE ON MAIN VIEWSCREEN (OPTICAL)
+
+	The collapsing star centered on the screen in the midst
+	of very slow motion surface explosions.
+
+					DATA (V.O.)
+			Like a full collapse, sir?
+
+57   BACK TO TWO SHOT - PICARD AND DATA
+
+					DATA
+				(continuing)
+			Any stellar material it threw this
+			way we could still outrun on half
+			impulse power.
+
+58   ANGLE AT MAIN VIEWSCREEN (OPTICAL)
+
+	as before, the slow surface explosions on the collapsing
+	star continuing from the last viewscreen SHOT.
+
+59   INT. ENGINEERING OFFICE - FULL SHOT
+
+	CHIEF ENGINEER SARAH MACDOUGAL and her ASSISTANT CHIEF
+	JIM SHIMODA are working in the office at their consoles.
+	They both glance up as the BOSUN'S WHISTLE SOUNDS, then:
+
+					PICARD'S COM VOICE
+			Picard to Engineering. Chief
+			engineer report to the bridge.
+
+	MacDougal shakes her head, EXITS the office. Shimoda
+	turns back to his console.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         27.
+
+59   CONTINUED:
+
+					PICARD'S COM VOICE
+				(continuing)
+			Assistant Chief Engineer Shimoda
+			report to Medical.
+
+	Shimoda hesitates, looks around the empty office. A
+	beat... then Wesley ENTERS the office, carrying the small
+	flat portable machine we saw earlier.
+
+	We should also SEE the small tractor beam device with
+	tube and fiber optic wire attachment.
+
+					WESLEY
+			Hi, Jim. Was that the captain
+			sending you to Medical?
+
+					SHIMODA
+			Which would leave no one on duty
+			here. The chief was just
+			summoned to the bridge.
+
+					WESLEY
+			What about me? I could call your
+			chief on the bridge if anything
+			happens.
+
+	He smiles at Shimoda... and wipes some sweat from his
+	brow.
+
+60   INT. ENTERPRISE MAIN BRIDGE - ANGLE ON PICARD AND
+	MACDOUGAL
+
+	Picard looks around curiously as MacDougal approaches
+	the command chair:
+
+					MACDOUGAL
+			Reporting as ordered, sir.
+
+					PICARD
+			What?
+
+					MACDOUGAL
+			You ordered me to report to the
+			bridge, sir.
+
+					PICARD
+			I did no such thing. I want you
+			down in the Engine Room in case
+			we need to move out of here.
+
+	Interrupted by a Bosun's WHISTLE ALERT:
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         28.
+
+60   CONTINUED:
+
+					PICARD'S COM VOICE
+			Attention all decks, all
+			divisions. Effective
+			immediately, I have handed over
+			control of this vessel to
+			Acting Captain Wesley Crusher.
+
+61   CLOSE ON PICARD
+
+	Sheer disbelief.
+
+					PICARD
+			Acting Capt...
+
+					WESLEY'S COM VOICE
+			Thank you, Captain Picard, thank
+			you. And with that order dawns
+			a brave new day for the
+			Enterprise.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         29.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+62   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+					PICARD (V.O)
+			Captain's log, Stardate 41209.3.
+			The strange contaminant that led
+			to the deaths of the Tsiolkovsky
+			crew is now aboard the
+			Enterprise... and our Engineering
+			Section has been commandeered by
+			young Wesley Crusher...
+
+63   INT. ENTERPRISE MAIN BRIDGE - EMPHASIZING PICARD
+
+					PICARD
+				(continuing)
+			Number One, MacDougal -- get that
+			boy out of Engineering.
+
+	Riker and MacDougal turn and head for a turbolift as:
+
+64   ANGLE ON WORF
+
+	Worf at Ops, Data at the Conn station. Worf turns
+	around toward Picard, concerned.
+
+					WORF
+			Sir, I'm getting very strange
+			reports from all decks --
+
+					PICARD
+			Such as?
+
+					WORF
+			Such as the ship's training
+			division ordering all officers
+			to attend a lecture on
+			metaphysics.
+
+					PICARD
+			Metaphysics?
+
+          STAR TREK: "The Naked Now" - REV. 7/1/87          30.
+
+65   INCLUDING DATA AT CONN
+
+					DATA
+			Confirmed, sir. And there is a
+			rather peculiar limerick being
+			delivered by someone in the
+			shuttlecraft bay. I am not sure
+			I understand it...
+				(quoting)
+			There was a young lady from Venus
+			whose body was shaped like --
+
+66   EMPHASIZING PICARD
+
+					PICARD
+				(interrupting)
+			Captain to Security, come in!
+
+					DATA
+				(to Worf)
+			Did I say something wrong?
+
+					WORF
+				(shrugs)
+			I don't understand their humor
+			either.
+
+					SECURITY COM VOICE
+				(lazy, uninterested)
+			Yeah, Captain?
+
+					PICARD
+			Where's my security chief?! Get
+			me Lieutenant Yar.
+
+					SECURITY COM VOICE
+			Keep your britches on, Captain.
+
+					TASHA'S COM VOICE
+			Captain Picard...
+
+					PICARD
+			Yar, where are you?
+
+					TASHA'S COM VOICE
+			I'm in my quarters and pretty busy
+			right at this moment, Jean-Luc.
+
+					PICARD
+				(gathering self
+				 together)
+			All right, Lieutenant, just stay
+			right there.
+					(MORE)
+
+          STAR TREK: "The Naked Now" - REV. 7/1/87          31.
+
+66   CONTINUED:
+
+					PICARD (Cont'd)
+				(turning)
+			Data, please go to Lieutenant Yar
+			and get her down to Sickbay.
+
+					DATA
+			Yes, sir.
+
+					PICARD
+				(into console)
+			Security, I want all your senior
+			supervisors to report to the
+			bridge immediately.
+
+67   INT. ENGINEERING (OPTICAL)
+
+	A FORCEFIELD SHIMMER at the entrance to the Engineering
+	Office, barring the way inside. Beyond the FORCEFIELD
+	inside the office stands Wesley who is grinning at
+	several Crewpersons, all of them clearly contaminated,
+	who stand outside the FORCEFIELD. Assistant Chief
+	Engineer Shimoda ENTERS, grinning and weaving slightly,
+	walks up to the FORCEFIELD as:
+
+					WESLEY
+			... and a dessert course shall
+			henceforth precede and follow
+			every meal. Including breakfast.
+
+	CHEERS from the onlookers.
+
+					CREWMAN
+			Hurray for the acting captain!
+
+68   ANGLE ON SHIMODA (OPTICAL)
+
+					SHIMODA
+			Never got as far as Sickbay, Wes.
+			I feel too good for that.
+
+	BUZZ SOUND as Shimoda walks into the FORCEFIELD and is
+	thrown back.
+
+					SHIMODA
+				(continuing)
+			Incredible! How did you do that?
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         32.
+
+68   CONTINUED:
+
+					WESLEY
+				(indicating)
+			Hooked my model tractor beam into
+			ship's power. Now its a repulser
+			beam too.
+				(eyeing Shimoda)
+			Want in?
+
+	Shimoda nods, raises his right hand as in oath.
+
+					SHIMODA
+			Swear to be faithful to you,
+			Captain!
+
+69   INT. ENGINEERING OFFICE (OPTICAL)
+
+	Wesley picks up a small control device, aims it at the
+	FORCEFIELD which disappears. Shimoda steps inside, then
+	Wesley turns the forcefield on again.
+
+70   INT. TASHA'S QUARTERS - AT DOOR
+
+	The living space is low lit, provocative shadows. There
+	is a CHIME, a beat, then the door slides open. Data
+	stands there, hesitant, steps in. He looks around, not
+	quite sure of himself.
+
+					DATA
+			Lieutenant Yar?
+
+					TASHA'S VOICE
+			Here, Data.
+
+71   ANGLE ON TASHA
+
+	in the door to her bedroom. Her hair is provocatively
+	arranged... her makeup is especially dramatic and
+	attractive... and she wears a pale blue diaphanous
+	Theiss creation that promises revelations that will get
+	us thrown off the air. Her voice quality has changed
+	too... sultry, like a Louisiana summer night.
+
+					TASHA
+				(continuing)
+			You wanted me?
+
+72   TWO SHOT
+
+	Tasha moves languidly toward Data, almost floating.
+	Data doesn't quite know how to react to this Tasha.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         33.
+
+72   CONTINUED:
+
+					DATA
+			Captain Picard ordered me to
+			escort you to Sickbay, Lieutenant.
+
+					TASHA
+			Did he say when?
+
+					DATA
+				(considering it, then)
+			I am sure he meant "now."
+				(indicates)
+			So you need time to get into
+			uniform...
+
+					TASHA
+			But I got out of uniform for you,
+			Data. Do you know how old I was
+			when I was abandoned?
+
+					DATA
+			Chronological age? No, I am afraid
+			I am not conversant with your ---
+
+					TASHA
+			Five. Five years old, but I
+			survived. I learned how to stay
+			alive, how to avoid the rape
+			gangs. I was fifteen before I
+			escaped.
+
+					DATA
+			I am sorry. I did not know...
+
+					TASHA
+			And what I want now is gentleness.
+			And joy. And love.
+
+	She reaches out and caresses his face. Data shifts his
+	weight, not sure what to do.
+
+					TASHA
+				(continuing)
+			From you, Data. You are fully
+			functional, aren't you?
+
+					DATA
+			Of course, but...
+
+					TASHA
+			How fully?
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         34.
+
+72   CONTINUED: (2)
+
+					DATA
+			In every way, of course. I have
+			been programmed in multiple
+			techniques, a broad variety of
+			pleasuring...
+
+					TASHA
+			You jewel! That's exactly what
+			I hoped.
+
+	Her smile is provocative, full of promises; and Data
+	tentatively smiles back. As the bedroom door CLOSES
+	behind them:
+
+73   EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY (OPTICAL)
+
+	In b.g., then collapsing star begins slowly to GLOW
+	BRIGHTER.
+
+74   INT. ENGINEERING - ON RIKER
+
+	He is standing near a communications computer panel.
+
+					PICARD'S COM VOICE
+			What have you learned, Number
+			One?
+
+					RIKER
+			Captain, the ship's engines are
+			cut off from the bridge. And I
+			have the reason. The assistant
+			chief engineer pulled out the
+			isolinear optical chips from
+			command and all engines are
+			off-line.
+
+75   INT. ENGINEER'S OFFICE - ON SHIMODA AND WESLEY (OPTICAL)
+
+	Shimoda is sitting on the floor near an opened console,
+	playing happily with a pile of isolinear chips (small
+	colored slabs, rather like Chiclets), tossing them in
+	the air or juggling them, staring at the pretty colors.
+	Wesley looks with an air of pride and satisfaction at
+	his portable TRACTOR BEAM which is emitting a beam wide
+	enough to block the entire opening into the Engineer's
+	Office.
+
+76   INT. ENGINEERING - ON RIKER AND MACDOUGAL
+
+	as the Engineer COMES IN beside Riker.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         35.
+
+76   CONTINUED:
+
+					RIKER
+				(continuing)
+			Wesley's hooked some kind of
+			tractor beam into ship's power
+			and has it aimed at the door.
+			We can't get past it to get at
+			the computer.
+
+					PICARD'S COM VOICE
+			Can you short out the power?
+
+	Riker looks to MacDougal. She shrugs.
+
+					MACDOUGAL
+			Maybe.
+				(considers)
+			Yes, I can. But it's going to
+			take time.
+
+77   INT. ENTERPRISE MAIN BRIDGE - CLOSE ON PICARD
+
+	Concerned.
+
+					PICARD
+			Do it!
+
+78   INT. ENGINEERING - ON RIKER AND MACDOUGAL
+
+	as they pull a panel off the console opposite the
+	Engineer's Office entry, and MacDougal starts to reach
+	inside. From their right, there is the SOUND of
+	turbolift doors and:
+
+					TROI'S VOICE
+			Bill...
+
+79   INT. CORRIDOR TO ENGINEERING
+
+	as Riker comes to her.
+
+					RIKER
+			Deanna, what -- ?
+
+	She reaches for him before he can stop her, holds him
+	tight.
+
+					TROI
+			So many minds on this ship,
+			Bill... all free... released...
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         36.
+
+79   CONTINUED:
+
+	Her hands move sensuously on his back, her body closer
+	to his.
+
+					RIKER
+			Deanna --
+
+					TROI
+			I can feel them all... what they
+			feel... what they want... I feel
+			a side of humans I've never felt
+			before.
+
+					RIKER
+			Come on, I'm getting you to
+			Sickbay.
+
+	He catches her up in his arms, carries her toward the
+	turbolift as:
+
+					TROI
+			Wouldn't you rather be alone with
+			me -- with me in your mind...
+
+80   INT. SICKBAY - ANGLE ON BEVERLY
+
+	She has a large beaker or futuristic-shaped container
+	from which she is loading a hypo-spray. The hypo-spray
+	filled, she moves across to where Geordi La Forge lies
+	still strapped on the hospital bed. He is awake now,
+	his face a picture of desolation. Beverly administers
+	the hypo-spray and steps back to observe.
+
+					BEVERLY
+			The medical records we found say
+			this works almost instantly.
+
+	Geordi lies still, staring at the ceiling. Then:
+
+					GEORDI
+			I've never seen a rainbow, Doc.
+			Sunset. Sunrise. None of those.
+			This is going to help me?
+
+	Beverly stares at Geordi, horrified as realization
+	comes. It doesn't work.
+
+81   EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY AND DWARF STAR
+	(OPTICAL)
+
+	No movement at all.
+
+          STAR TREK: "The Naked Now" - REV. 7/1/87          37.
+
+82   INT. SICKBAY - ANGLE ON RIKER AND TROI
+
+	as he carries her into the treatment area, lays her down
+	gently on a bed next to Geordi's.
+
+					RIKER
+			Doctor Crusher...
+
+	He turns, looking for Beverly. She does not appear.
+	He hurries into her office.
+
+83   INT. CRUSHER'S OFFICE - ON BEVERLY AND RIKER
+
+	She is sitting at the desk, desolate. Riker COMES IN
+	behind her, puts a hand on her shoulder to shake her
+	slightly.
+
+					RIKER
+			Didn't you hear me? Deanna needs
+			your help.
+
+					BEVERLY
+			The formula from the old
+			Enterprise didn't work.
+
+					RIKER
+			What?
+
+					BEVERLY
+			This water-carbon complex may
+			induce the same symptoms, but it's
+			different somehow. Maybe it's
+			mutated. I'll have to isolate
+			it... analyze it...
+
+					RIKER
+			We don't have that kind of time.
+
+	She suddenly snaps around, realizing something.
+
+					BEVERLY
+			You brought Deanna in?
+
+					RIKER
+			She's infected with it, too.
+
+	He heads for the door. Beverly is on her feet
+	anxiously.
+
+					BEVERLY
+			You touched her? Oh, God, you
+			touched me.
+				(then)
+			You can't leave here --
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         38.
+
+83   CONTINUED:
+
+					RIKER
+			If we don't get our command
+			computers back on-line soon, this
+			-- whatever this is -- won't
+			matter. We'll all be dead.
+
+	On Beverly's despairing face:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         39.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+84   EXT. SPACE - ENTERPRISE, TSIOLKOVSKY, DWARF STAR
+
+	As before with very slow (at this distance) flaring from
+	the star.
+
+					PICARD (V. O.)
+			Captain's log, supplemental.
+			It is no longer an inconvenient
+			childish prank. Young Wesley
+			Crusher...
+				(beat; softening)
+			Admittedly a victim of the
+			Tsiolkovsky "infection"...
+
+85   INT. MAIN BRIDGE - ANGLE ON MAIN VIEWER (OPTICAL)
+
+	Showing a SHOT of Wesley in the Engineering office.
+	Also at the Bridge are Worf at the Ops position and
+	crewman at Conn.
+
+					PICARD (V. O.)
+				(continuing)
+			... is now in control of my
+			starship. How he acquired the
+			engineering information and
+			knowledge he is using, I have no
+			idea.
+
+86   ANGLE ON PICARD
+
+	staring up at Wesley's IMAGE on the main viewer.
+
+					PICARD
+				(continuing)
+			Wes, this is Captain Picard. Do
+			you see me?
+
+87   VARIOUS ANGLES (OPTICAL)
+
+	as Wesley looks up and around, focuses his attention
+	onto camera (the captain). Although showing the same
+	contaminant symptoms as others, he speaks respectfully.
+
+					WESLEY
+			Yes sir?
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         40.
+
+87   CONTINUED:
+
+					PICARD
+			You will now return all control
+			of this vessel to the bridge where
+			it belongs. Now.
+
+					WESLEY
+			I'm sorry, sir. Why don't you
+			just tell me what you want done
+			and I'll...
+
+					PICARD
+				(interrupting)
+			Because ship captains control
+			their own vessels, young man!
+
+					WESLEY
+			But, sir, you don't do it
+			yourself. You give the orders,
+			someone else does it. What's
+			wrong with giving me the orders
+			to do it?
+
+	Worf and Conn have exchanged looks during this although
+	Conn has begun to perspire and appears uncomfortable.
+	Worf sees something unusual on his console, interrupts
+	Picard.
+
+					WORF
+			Captain, getting unusual readings
+			now from the dwarf star... !
+
+					PICARD
+			Stand by a moment on that.
+				(toward main viewer)
+			Wesley... !
+				(softens it)
+			Wes... are you aware that you're
+			acting strangely... that a kind
+			of "infection" was brought back
+			from the Tsiolkovsky that acts
+			like intoxication?
+
+					WESLEY
+				(considers it)
+			Are you saying that's why I feel
+			so... so "hot," so strange?
+
+	Picard wants to shout back "of freakin' course!" but he
+	controls himself.
+
+					PICARD
+			That's a very adult bit of
+			reasoning, Wes...
+
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         41.
+
+87   CONTINUED: (2)
+
+					WESLEY
+			Are you saying I'm "drunk?" I
+			feel strange but also good.
+
+					PICARD
+			Because...
+				(corrects his tone of
+				 voice)
+			Because you've lost the capacity
+			for self-judgment. Alcohol does
+			that but this contaminant we've
+			brought back does it even more
+			so.
+
+					WESLEY
+			What would you do if you got your
+			ship back?
+
+					PICARD
+			It's very important I do because
+			we must immediately put a tractor
+			beam on the Tsiolkovsky, then tow
+			it out of...
+
+					WESLEY
+			Tractor beams are my specialty,
+			Skipper! I'll contact you when
+			that's done; Wesley out!
+
+	With which the VIEWER GOES DARK, and then is replaced
+	with a view of the dwarf star. It is in the midst of a
+	gigantic FLARE.
+
+					PICARD
+			Wes!
+
+	Conn gets up from his position now, weaves toward the
+	turbolift.
+
+					PICARD
+				(continuing)
+			Conn, where are you headed?
+
+	No answer. Conn will EXIT by turbolift as:
+
+					WORF
+			Sir!
+				(indicating viewscreen)
+			The star; it's beginning to
+			collapse.
+
+					PICARD
+			What the hell is happening in
+			Engineering?
+
+         STAR TREK: "The Naked Now" - Rev. 6/26/87         42.
+
+88   INT. ENGINEERING OFFICE - ANGLE ON WESLEY AND
+	SHIMODA
+
+	Wesley is working some controls on one of the consoles,
+	singing:
+
+					WESLEY
+			Lock on, Tsiolkovsky, lock
+			on... lock on, Tsiolkovsky, lock
+			on...
+
+	Behind him, Shimoda still sits on the floor, playing
+	something like "jacks" with the isolinear optical chips
+	from the computer, scooping up the chips in orderly
+	groups -- 1, 2, 3, etc.
+
+89   INT. ENGINEERING - ON MACDOUGAL AND RIKER
+
+	They work together at the console opposite the entrance
+	to Engineer's Office, probing deep into the guts of the
+	console. A small array of tools lies between them, which
+	they share.
+
+					MACDOUGAL
+			You got the logic probe?
+				(he hands it to her)
+			Thanks.
+
+					RIKER
+			Where's the sonic driver?
+
+	She grunts and gestures at the spread of tools. Riker
+	looks, finds it, dives into the console again. MacDougal
+	works quickly, steps back.
+
+					MACDOUGAL
+			There. Let's see if this'll cut
+			out his tractor beam power.
+
+	She reaches inside the console and switches something.
+	She and Riker both turn to look behind them.
+
+90   ANGLE THROUGH WINDOW INTO ENGINEER'S OFFICE
+	(OPTICAL)
+
+	Wesley grins cheerfully. The TRACTOR BEAM is STILL AIMED
+	AT THE DOOR.
+
+91   INT. CRUSHER'S OFFICE - ON BEVERLY
+
+	She grimly works at a futuristic microscope, then
+	becomes aware that she is wiping perspiration from her
+	face.
+
+         STAR TREK: "The Naked Now" - REV. 6/26/87         43.
+
+91   CONTINUED:
+
+					BEVERLY
+			Oh no! No, I must find the answer.
+			Find the answer. Have to find
+			the answer.
+
+	She reaches for another slide but handles it confusedly.
+
+92   EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY (OPTICAL)
+
+	as a tractor beam appears.
+
+93   INT. ENTERPRISE MAIN BRIDGE - ANGLE ON WORF
+
+	still at Ops. No one at Conn. He whirls around.
+
+					WORF
+			Captain -- tractor beam! We just
+			locked onto the Tsiolkovsky!
+
+					PICARD
+			Bridge to... to Wesley.
+				(waits; then)
+			Wesley Crusher, come in!
+
+	One of the turbolift doors HISSES OPEN and Data ENTERS
+	the Bridge. Picard whirls to him.
+
+					PICARD
+				(continuing)
+			Data! At least you're
+			functioning.. !
+
+					DATA
+			Fully, Captain, fully.
+
+	But it obvious from the look on his face and his weaving
+	movements that Data is not at all himself.
+
+					PICARD
+			Data, intoxication is a human
+			condition. Your mind is
+			different, it's not the same...
+
+					DATA
+			We are more alike than unlike,
+			my dear captain.
+
+94   EMPHASIZING DATA
+
+	He is examining the backs of his hands with great
+	interest.
+
+          STAR TREK: "The Naked Now" - REV. 7/1/87          44.
+
+94   CONTINUED:
+
+					DATA
+				(continuing)
+			I have pores. Humans have pores.
+				(turns hands over)
+			I have fingerprints. Humans have
+			fingerprints. My chemical
+			nutrients are like your blood.
+				(looks appealingly at
+				 Picard)
+			If you prick me, do I not leak?
+
+95   ANGLE TURBOLIFT
+
+	which opens and Beverly Crusher ENTERS the Bridge.
+
+					PICARD
+			If this can possibly wait,
+			Doctor...
+
+					BEVERLY
+			May I see you in your Ready Room?
+			It's a private matter... well,
+			actually an urgent one...
+
+					PICARD
+			I'm busy, Doctor. Impossible.
+
+	But Beverly EXITS Bridge into Ready Room. Picard
+	FOLLOWS.
+
+					PICARD
+				(continuing)
+			Damn!
+
+95A  INT. CAPTAIN'S READY ROOM
+
+	Picard ENTERS, finds Beverly waiting. She has a slight
+	smile on her face.
+
+					BEVERLY
+			I believe I'm infected myself.
+
+	Beverly steps toward Picard, suddenly GIGGLES. It's the
+	same high pitched sound we've heard from some others.
+
+					PICARD
+			Do you know what the infection
+			is? Hurry!
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         45.
+
+95A  CONTINUED:
+
+	Picard realizes that Beverly is beginning to smile at
+	him a bit sexily. She tries to stop doing so. All this
+	is complicated for her by the fact she has begun lately
+	to find this man increasingly attractive.
+
+					BEVERLY
+			Sorry.
+				(wipes off smile)
+			It is definitely like alcohol
+			intoxication, the same lack of
+			good judgment...
+				(smiling sexily again)
+			For example right now, I find you,
+			well, extremely...extremely...
+				(stops)
+			Of course we haven't time for that
+			sort of thing...
+
+					PICARD
+			What sort of thing?
+
+					BEVERLY
+				(eyeing his body)
+			Oh God would I love to show you.
+
+					PICARD
+			Doctor, there must be a cure!
+			Some formula, similar to the old
+			one...
+
+					BEVERLY
+				(holding Picard's hand)
+			Dammit... dammit, dammit, my dear
+			captain. You owe me something.
+			You do realize that, don't you?
+			I'm a woman; I haven't the comfort
+			of a husband, a man...
+
+					PICARD
+			Not now, Doctor, please...
+
+	Then he's alarmed to find himself GIGGLING, wiping
+	moisture from his forehead.
+
+96   ANGLE EMPHASIZING WORF
+
+	On the Bridge, Ready Room door in b.g. He turns
+	as Picard and Beverly EMERGE from the Ready Room.
+	Beverly ENTERS the nearby Turbolift, turns and waves
+	"bye-bye." Picard fights the urge to giggle, waves
+	back. The doors close. Picard, very irritated at
+	self, regains control. Worf presses his intercom.
+
+					WORF
+				(low)
+			Bridge to Riker, urgent!
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         46.
+
+97   INT. ENGINEERING - RIKER AND MACDOUGAL
+
+	He looks up, his hands still deep in the console.
+
+					RIKER
+			Riker here.
+
+					WORF'S COM VOICE
+			Sir, regret to inform you that
+			the captain appears to be
+			infected. And Data, and...
+
+					RIKER
+				(all he needs)
+			Thank you, Lieutenant. I'm coming.
+				(to MacDougal)
+			You'll have to handle this.
+
+					MACDOUGAL
+			Are you saying you'll handle that?
+
+98   EXT. SPACE - DWARF STAR FOREGROUND (OPTICAL)
+
+	In the midst of a great flaring surface explosion, slow
+	at this distance but obviously enormously powerful.
+
+99   INT. MAIN BRIDGE - EMPHASIZING WORF
+
+	Reacting as he sees the results of this on his readouts,
+	then whirls to the Main Viewer. Red alarm lights flash.
+
+100  MAIN VIEWER (OPTICAL)
+
+	The star's surface clearly changed by this great flaring
+	explosion.
+
+101  ANGLE AT COMMAND POSITION
+
+	Picard very concerned at what he is seeing; Beverly
+	reacting to his concern; even the bemused Data watching
+	it with some interest. Beverly turns, CROSSES toward
+	the turbolift where she will EXIT. As Riker ENTERS.
+	Meanwhile:
+
+					WORF
+			What we're seeing, sir, is a huge
+			chunk of the star's surface blown
+			off, heading for us!
+
+         STAR TREK: "The Naked Now" - REV. 6/30/87         47.
+
+101  CONTINUED:
+
+					PICARD
+			Take us...
+				(wipes perspiration)
+
+					RIKER
+			Are you alright, sir?
+
+					PICARD
+			Worf, you know what to do. Take
+			us out of here.
+
+	Worf works controls, gets nothing, leaps over to the
+	Conn panel and works something and then comes back to
+	Ops and does more. Still nothing.
+
+					WORF
+			Sir, the controls are still off-line!
+
+					PICARD
+			Override!
+
+					WORF
+				(tries, then)
+			Same result, sir.
+
+102  INT. ENGINEER'S OFFICE - EMPHASIZING SHIMODA
+
+	Wesley watches while Shimoda attempts to put together
+	a structure (like LEGOS) composed of the isolinear
+	optical chips. They both ignore:
+
+					RIKER'S COM VOICE
+			Wes, come in please. Wesley
+			Crusher, this is Riker. Come in.
+			This is urgent!
+
+103  INT. ENGINEERING - MACDOUGAL
+
+	Red alarm lights are flashing. MacDougal twists
+	something inside the open panel.
+
+104  INT. ENGINEER'S OFFICE - ON WESLEY AND SHIMODA
+	(OPTICAL)
+
+	The forcefield disappears. Wesley looks up, slightly
+	disconcerted.
+
+105  INT. ENGINEERING - MACDOUGAL
+
+	MacDougal rushes for the Engineer's Office.
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             48.
+
+106  INT. ENGINEER'S OFFICE - FULL SHOT
+
+	MacDougal surges in. Wesley and Shimoda merely look
+	at her. Wesley's very sad. Game's over.
+
+					RIKER'S COM VOICE
+			Engineering, urgent. We must have
+			ship's power...
+
+	MacDougal ignores him, pushes past them toward the
+	computer consoles. The optical chips go flying as
+	Shimoda dodges out of her way.
+
+					MACDOUGAL
+			Oh, no, those are control
+			chips... !
+				(finds a com button)
+			Bridge from Engineering...
+
+					RIKER'S COM VOICE
+			The star is still collapsing;
+			we're directly in the path of...
+
+107  INT. MAIN BRIDGE
+
+	Both Picard and Data fighting against the contamination
+	as Riker mans the main console.
+
+					MACDOUGAL'S COM VOICE
+			I can't help you, bridge!
+			Someone's yanked out all the
+			control chips here...
+
+					WESLEY'S COM VOICE
+			It was an adult who did it!
+
+					WORF
+			I estimate fourteen minutes until
+			that mass gets here... !
+
+					MACDOUGAL'S COM VOICE
+			No way to replace chips in
+			fourteen minutes, sir. I'd guess
+			two hours, maybe three...
+
+					WESLEY'S VOICE
+			Data could assemble them back
+			faster.
+
+	Picard seems to come out of it a bit. He looks up:
+
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             49.
+
+107  CONTINUED:
+
+					PICARD
+			What's that?
+				(hits a com control)
+			What's that Wesley?
+
+					WESLEY'S COM VOICE
+			They're just simple isolinear
+			chips, sir. To Data, anyway.
+			He could shuffle them like cards.
+
+					RIKER
+				(overlap)
+			Come on Data. Hurry!
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             50.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+108  EXT. SPACE - ENTERPRISE AND TSIOLKOVSKY (OPTICAL)
+
+	still tied by the tractor beam, motionless. Riker's
+	voice reveals the strain he is under.
+
+					RIKER (V.O.)
+			Ship's log, First Officer Riker.
+			The star has begun disintegrating.
+			Enterprise will be destroyed
+			unless it can be moved out of the
+			path of the star material
+			hurtling...
+
+109  EXT. SPACE - EXPLODED MASS OF MATERIAL (OPTICAL)
+
+	It is large, irregularly shaped, moving very fast as it
+	was hurled off the star's surface with more power than
+	a hydrogen bomb. To gain a sense of size, it should
+	BLOCK OUT A WHOLE SECTION OF THE STARFIELD as it PASSES
+	CAMERA.
+
+					RIKER (V.O.)
+				(continuing)
+			... toward us. Our only hope is
+			for Lieutenant Commander Data in
+			the time we have left, to regain
+			his senses and reconnect engine
+			power to the Bridge.
+
+110  INT. ENGINEER'S OFFICE - ON MACDOUGAL
+
+	She is on her knees on the floor, vainly trying to sort
+	out which optical chips belong where.
+
+111  ANGLE ON RIKER AND DATA
+
+	as they ENTER FAST. MacDougal looks up at Riker,
+	helplessly indicates the chip chaos. Data smiles at
+	Wesley, who grins back cheerfully. Both are still
+	smashed.
+
+					WESLEY
+			Hi, Mister Data.
+
+					DATA
+			Nice to see you, Wesley. What... ?
+
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             51.
+
+111  CONTINUED:
+
+					RIKER
+				(overlapping; urgently
+				 indicating)
+			Data! We need the engines on-line
+			in a hurry, remember?
+
+	Meanwhile, Riker is now beginning to perspire like
+	others who have been "infected."
+
+					WESLEY
+			Oh yes, I remember too.
+				(to Data)
+			So, Data, if you don't mind...
+
+					RIKER
+				(fast; to Wesley)
+			We've no time for courtesy!
+				(fast; to Data)
+			Get those damned control chips
+			back in place, Data! In the
+			correct order!
+
+	Data hesitates, surprised at Riker shouting at him.
+
+					RIKER
+				(continuing)
+			NOW!
+
+					WESLEY
+				(to Data)
+			It's like a game of 'how fast can
+			you do it?'
+
+					DATA
+			Ah, a game!
+
+	Data begins selecting chips, beginning to move more and
+	more rapidly. Wesley moves to the Engineering Room
+	viewer, adjusts the controls there.
+
+					WESLEY
+			I think I can switch this to the
+			main viewer, sir...
+
+112  ANOTHER ANGLE - VIEWER (OPTICAL)
+
+	as it switches to a SHOT OF THE STAR MATERIAL IN
+	DISTANCE BUT RACING TOWARD THEM.
+
+113  ANGLE EMPHASIZING RIKER
+
+	turning from viewer to Data.
+
+
+              STAR TREK: "The Naked Now" - REV. 6/30/87             52.
+
+113  CONTINUED:
+
+					RIKER
+			We've got eight or nine minutes,
+			at most, Data. Can you finish
+			by then?
+
+114  ANGLE EMPHASIZING DATA
+
+	If necessary, UNDERCRANK CAMERA now to show Data's hands
+	are moving very fast. He seems to be calculating Riker's
+	questions, then shakes his head without looking up:
+
+					DATA
+			No. This will take slightly more
+			time than we have, sir.
+
+	Riker becomes aware that his hand is wet, realizes he is
+	"infected" too.
+
+					RIKER
+			Dammit, NO! I can't afford to
+			get it!
+
+	He stands, sways, grabs for support.
+
+115  EXT. SPACE - MASS OF MATERIAL FROM STAR (OPTICAL)
+
+	hurtling through space -- too fast.
+
+116  INT. CRUSHER'S OFFICE - ANGLE ON BEVERLY
+
+	She has a batch of blue liquid made up and is examining
+	it. Picard ENTERS on the run.
+
+					PICARD
+			Beverly...
+
+					BEVERLY
+			Yes, Jean-Luc?
+
+					PICARD
+			You will address me as Captain!
+
+	They too still show signs of the "intoxication." Beverly
+	has begun to fill a hypo-spray with the blue liquid.
+
+					BEVERLY
+			In which case, dear Captain, you
+			will address me as 'Chief Medical
+			Officer' or 'Doctor.'
+
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             53.
+
+116  CONTINUED:
+
+					PICARD
+				(befuddled; then)
+			That's true; I started off calling
+			you 'Beverly,' then naturally,
+			you...
+				(shakes head)
+			I'm still not thinking straight!
+
+	Having filled the hypo-spray, Beverly turns with it to
+	go somewhere but forgets where.
+
+					BEVERLY
+			Likewise. Where the hell was I
+			just headed?
+
+					PICARD
+				(indicates hypo)
+			If that's something you wanted
+			to test...
+
+					BEVERLY
+				(suddenly remembering)
+			Yes, yes, on Geordi!
+
+	Weaving a bit, she hurries off with Picard following in
+	the same way.
+
+117  INT. ENGINEER'S OFFICE - THREE SHOT
+
+	Riker and MacDougal standing over Data, who concentrates
+	on the chips. Wesley has moved to his school project
+	tractor beam, eyes it proudly.
+
+					WESLEY
+			Did you see how I reversed fields
+			on this, Commander? Made it into
+			a repulser beam.
+
+	Riker ignores the question, watches Data, concerned.
+
+118  CLOSE ON DATA AND HIS HANDS
+
+	UNDERCRANK CAMERA. His hands are flying -- almost a
+	blur. More and and more of the isolinear optical chips
+	are set in the command computer board.
+
+					DATA
+			If we had just a minute more,
+			sir...
+
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             54.
+
+119  ANGLE ON WESLEY
+
+	He looks up toward Engineering Room viewer.
+
+120  CLOSE ON VIEWSCREEN (OPTICAL)
+
+	The mass of star material closer, hurtling toward them.
+
+121  WIDER ANGLE
+
+	Wesley reacts at the nearness now of the star material.
+	Then looks at his tractor device.
+
+					WESLEY
+			If this were a hundred times more
+			powerful than it is...
+
+122  INT. SICKBAY - ANGLE ON GEORDI
+
+	as Beverly administers the hypo to Geordi with Picard
+	looking on.
+
+					BEVERLY
+			I made this a broader based
+			remedy... I hope. But it's still
+			close to the formula from the old
+			Enterprise's records...
+
+					PICARD
+			Decades ago, light years away...
+
+					BEVERLY
+			But almost exactly the same
+			conditions as here.
+
+					GEORDI
+			What was in that, Doctor? My
+			head's beginning to clear...
+
+	Both react to the sight of Geordi beginning to sit up
+	alertly. Beverly whirls, injecting Picard... then
+	herself. She presses the hypo on him.
+
+					BEVERLY
+			Take this to Engineering. I'll
+			make up more hypos for the others.
+
+123  INT. ENGINEERING OFFICE
+
+	as before but with Riker gloomy now. Data and Wesley
+	continuing work. But Wesley is struck with an idea,
+	leaps to the Engineering Room control board.
+
+
+              STAR TREK: "The Naked Now" - REV. 6/26/87             55.
+
+123  CONTINUED:
+
+	Eyes it, then:
+
+					WESLEY
+			Why not try it with the real
+			thing?!
+				(to MacDougal)
+			Why not reverse fields on this,
+			Ma'am? If we only need an extra
+			minute...
+
+					MACDOUGAL
+			It would take weeks of laying out
+			new circuits...
+
+124  EMPHASIZING WESLEY
+
+	studying the Engineering Room board.
+
+					WESLEY
+			But why not just see it in your
+			head?
+				(thinks, presses
+				 switches)
+			Come off the main lead, split at
+			the force activator,
+			then...then...
+				(puzzled)
+			If I could just think straight
+			about this...
+
+125  WIDER ANGLE
+
+	as Picard bursts in, presses his hypo against MacDougal,
+	then Riker, then another person, etc.
+
+					RIKER
+			We didn't make it, Captain. If
+			we had just a minute or so more...
+
+126  EXT. SPACE - ENTERPRISE, TSIOLKOVSKY (OPTICAL)
+
+	with the star material looming large as it rushes down
+	upon them.
+
+127  INT. ENGINEER'S OFFICE - ON WESLEY
+
+	His fingers begin to dance on the panel.
+
+
+              STAR TREK: "The Naked Now" - REV. 7/2/87              56.
+
+127  CONTINUED:
+
+					WESLEY
+			Yes, then reversing power leads,
+			back through the force
+			activator... repulser beam hard
+			against the Tsiolkovsky...
+
+128  EXT. SPACE - ENTERPRISE, TSIOLKOVSKY (OPTICAL)
+
+	The Tsiolkovsky now begins drifting to one side,
+	beginning to spin clear with the Enterprise moving away
+	from it.
+
+129  INT. ENGINEER'S OFFICE - WIDE ANGLE
+
+	Riker eyes the viewer in surprise.
+
+					RIKER
+			We're pushing away!
+
+	Data lifts his hands from the command computer board.
+	The isolinear optical chips GLOW on the board.
+
+					RIKER
+				(continuing; into
+				 communicator)
+			Bridge, engage engines!
+
+130  EXT. SPACE - TSIOLKOVSKY AND MASS OF MATERIAL
+	(OPTICAL)
+
+	The mass of material crashes into the Tsiolkovsky. Her
+	warp and impulse engines EXPLODE SIMULTANEOUSLY on
+	impact in a mighty BLAZE OF LIGHT. But Enterprise is
+	accelerating out of trouble.
+
+131  INT. ENTERPRISE MAIN BRIDGE - FULL SHOT
+
+	Geordi at Conn now. Relief. Beverly is there still
+	administering hypo injections. The red alarm lights
+	have stopped.
+
+					GEORDI
+			Sir, something seemed to move us
+			aside at the last minute.
+
+					WORF
+				(into his com)
+			Do we owe our thanks to Commander
+			Data, sir?
+
+
+              STAR TREK: "The Naked Now" - REV. 7/2/87              57.
+
+131  CONTINUED:
+
+					PICARD'S COM VOICE
+			Yes. And... Wesley may have given
+			us a few seconds, too.
+
+					WORF
+			Did he say Wesley? The boy?
+
+	Beverly nods with a pleased look.
+
+					BEVERLY
+			He said Wesley.
+
+132  INT. ENGINEERING OFFICE
+
+	Picard sees Riker smiling at him. He scowls, begins
+	to EXIT.
+
+					RIKER
+			It is only fair to mention Wesley
+			in a log entry, sir.
+
+					PICARD
+				(stops; nods)
+			Fair is fair. And let's credit
+			his science teacher, too.
+
+	Picard EXITS; Riker follows him.
+
+133
+thru	OMITTED
+134
+
+135  INT. MAIN BRIDGE - PANNING
+
+	Picard, Riker and Data ENTER from the Turbolift and
+	move toward their positions. Worf at Ops and Geordi
+	at Conn positions turn with pleased expressions.
+
+					GEORDI
+			Congratulations, sir.
+
+					PICARD
+			To many people.
+
+	During which Troi and Tasha also ENTER from Turbolift
+	now, move to their positions. Tasha is back to normal,
+	wearing her regular duty uniform, hair and makeup as
+	stringent as usual. Data sees, nods.
+
+
+              STAR TREK: "The Naked Now" - REV. 7/2/87              58.
+
+135  CONTINUED:
+
+	Data starts to turn away but Tasha has colored, turns
+	toward him.
+
+					TASHA
+			Data! I'm only going to tell
+			you this just once... It never
+			happened.
+
+	Data gives her a very puzzled look, goes to position
+	still puzzling over it.
+
+136  OMITTED
+
+137  ANGLE EMPHASIZING PICARD
+
+	as he sits in his position, looks around the Bridge.
+
+					PICARD
+			I put it to all of you we may end
+			up with a fine crew... if we keep
+			working at it.
+				(nods for emphasis;
+				 then)
+			So let's get to our next job,
+			Number One.
+
+					RIKER
+			Aye, sir. Helm, stand by for warp
+			three. Heading two-hundred
+			ninety-four mark thirty-seven.
+
+					GEORDI
+			Warp three, two-hundred
+			ninety-four mark thirty-seven,
+			sir.
+
+					RIKER
+			Engage!
+
+138  EXT. SPACE - THE ENTERPRISE
+
+	Accelerating into WARP SPEED.
+
+									FADE OUT.
+
+                            THE END 
+
+
+

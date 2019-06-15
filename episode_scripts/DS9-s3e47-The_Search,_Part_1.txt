@@ -1,0 +1,3127 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                         "The Search" 
+                          #40513-447 
+                              
+                           Story by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Teleplay by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                         Kim Friedman 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                          July 8, 1994
+
+         STAR TREK: DS9 - "The Search" 07/08/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "The Search" 
+                             CAST 
+
+          SISKO                    EDDINGTON
+          KIRA                     T'RUL
+          ODO                      ORNITHAR
+          QUARK                    FEMALE
+          BASHIR                   
+          DAX                      
+          O'BRIEN                  
+          JAKE                     
+
+          COMPUTER VOICE           
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. JEM'HADAR
+          N.D. SECURITY            N.D. SHAPESHIFTERS
+
+  STAR TREK DEEP SPACE NINE: "The Search" - 07/08/94 - SETS        
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "The Search" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          OPS                           ALLINON SEVEN
+          PROMENADE/SECOND LEVEL        DEFIANT & JEM'HADAR SHIPS
+          QUARK'S                       JEM'HADAR SHIPS
+          SISKO'S OFFICE                DEFIANT
+          SISKO'S QUARTERS              SHUTTLECRAFT
+          WARDROOM                      CLEARING
+          DOCKING RING                  LAKESHORE
+
+          OUTPOST                       
+
+        THE DEFIANT                   
+          BRIDGE                        
+          ODO'S QUARTERS                
+          CORRIDOR                      
+          SISKO'S QUARTERS              
+
+        SHUTTLECRAFT                  
+
+      STAR TREK: "The Search" - 07/08/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "The Search" 
+                      PRONUNCIATION GUIDE 
+
+          JEM'HADAR                JEM-huh-DAR
+          MEKONG                   MAY-kong
+          T'RUL                    tuh-ROOL
+          YORUBA                   yo-ROOB-uh
+          TULABERRY                TOO-1uh-berry
+          ORINTHAR                 OR-neh-THAR
+          DIAMIDE                  DIE-ah-mide
+          BERITIUM                 BUR-rih-tee-um
+          DIRAKS                   DEER-aks
+          OMARION                  O-mar-ee-on
+          TALLERIAN                tuh-LER-ee-an
+          I'DANIAN                 ih-DANN-ee-un
+
+          DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - TEASER          1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                             "The Search"                              
+                            TEASER                              
+
+	FADE IN:
+
+                   Recap of "The Jem'Hadar"                     
+
+1
+thru   OMITTED
+2
+
+3    INT. OPS
+
+	KIRA, O'BRIEN, DAX, BASHIR, and ODO are gathered around the 
+	Ops table.  Everyone is watching Kira as she reads a PADD.  
+	The mood is grim.  Kira finally puts her PADD down with a 
+	somber expression... she looks around at the other officers 
+	for a beat.  When she speaks, it is without rancor or 
+	recrimination... she is simply stating her position with 
+	quiet determination.
+
+					KIRA
+			We're in trouble, people.
+
+	The others exchange weary looks... they've clearly been at 
+	this for a long time.
+
+					KIRA
+				(continuing)
+			We've run seven simulations, and 
+			they've all come up the same: the 
+			Jem'Hadar overwhelm our defenses and 
+			board the station within two hours.
+
+					BASHIR
+			Two hours doesn't even give us time 
+			to get reinforcements from Bajor.
+
+					DAX
+			There must be something we've 
+			overlooked.
+
+	They all look at each other, hoping that someone else will 
+	come up with a brilliant plan, but finally O'Brien speaks 
+	for them all.
+
+          DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - TEASER          2.
+
+2    CONTINUED:
+
+					O'BRIEN
+				(to Kira)
+			Major, I'm the last one to say it's 
+			hopeless... but given D.S. Nine's 
+			structural limitations... our 
+			available power supply... and the 
+			difficulty of defending a stationary 
+			target against a heavily armed mobile 
+			force... I'd say two hours is 
+			optimistic.
+
+					BASHIR
+			Regardless of the time, our casualties 
+			would be appalling.
+
+	Kira looks frustrated... she paces around for a moment, 
+	finally turns to Odo.
+
+					KIRA
+			All right... let's say we let them 
+			board the station.  That still doesn't 
+			mean we have to surrender.
+
+					DAX
+			What are you suggesting?
+
+					KIRA
+			We can hide in the conduits... set 
+			up booby-traps... prepare ambushes... 
+			try and hold out until we can get 
+			reinforcements.
+
+					ODO
+			We can try... but I don't think 
+			there would be much of a station left 
+			by the time they got here.
+
+	Kira takes this news stoically... she paces around more, 
+	trying to think.
+
+					DAX
+			That leaves us with two options: 
+			abandon the station and make a stand 
+			on Bajor... or collapse the entrance 
+			to the wormhole.
+
+					KIRA
+			I want a third alternative... I refuse 
+			to believe that we can't--
+
+          DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - TEASER        3-5.
+
+2    CONTINUED:	(2)
+
+	Suddenly an ALARM sounds on Dax's console.
+
+					DAX
+				(off console)
+			Some kind of large subspace surge 
+			just activated our security sensors.
+
+					KIRA
+			Where is it?
+
+					DAX
+			Bearing one four eight, mark two one 
+			five.  Distance: three hundred meters.
+
+          DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - TEASER        3-5.
+
+2    CONTINUED:	(3)
+
+					O'BRIEN
+				(shocked)
+			Three hundred meters?  That's almost 
+			inside our shield perimeter.
+
+					DAX
+			From the intensity and the harmonic 
+			signature, it might be a cloaked 
+			ship, but I've never seen an energy 
+			dispersal pattern like this.
+
+					KIRA
+			It's too close for comfort, whatever 
+			it is.  Red Alert.  Raise shields, 
+			energize phaser banks, stand-by to 
+			lock --
+
+					DAX
+				(urgent, off console)
+			The energy signature's fluctuating... 
+			it's decloaking.
+
+3    OMITTED
+
+4    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A small starship DECLOAKS near the space station.  This is 
+	the USS DEFIANT -- an experimental ship that Starfleet never 
+	put into full production.  The ship should look a little 
+	clunky compared to other Federation vessels we've seen -- 
+	this ship was built primarily for battle, not exploration or 
+	science.
+
+5    INT. OPS (OPTICAL)
+
+	Everyone is looking at the Defiant, which is on the main 
+	viewer.
+
+          DEEP SPACE: "THE SEARCH" - REV. 07/20/94 - TEASER          7.
+
+5    CONTINUED:
+
+					DAX
+				(off console)
+			It's definitely a Federation 
+			starship... but I've never seen this 
+			design.
+
+					O'BRIEN
+			A Federation ship... with a cloaking 
+			device?
+
+	Dax reacts to something on her console.
+
+					DAX
+			They're hailing us.
+
+	Kira nods to Dax, who then works her console.  The image of 
+	the Defiant is now replaced by that of SISKO, who is sitting 
+	on the Bridge of the Defiant.
+
+					SISKO
+			Hello, Major.  Sorry to startle you, 
+			but I wanted to test the Defiant's 
+			cloaking device.
+
+					KIRA
+			The Defiant?
+
+					SISKO
+			I've brought back a little surprise 
+			for the Dominion.
+
+	Off their reactions...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE          8.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+6    EXT. SPACE - DEEP SPACE NINE & DEFIANT (OPTICAL)
+
+	The Defiant is docked at the station.
+
+7    INT. WARDROOM (OPTICAL)
+
+	The Wardroom is a room which has undergone a renovation since 
+	Starfleet took over the station.  While the basic architecture 
+	is clearly Cardassian, the furniture and decor are more in 
+	the comfortable, ergonomic Federation vein.  There are 
+	comfortable chairs, a couch or two, some small end tables, 
+	and one large table which can be used for formal meetings.  
+	One end is dominated by a viewer and computer console.
+
+	Kira, O'Brien, Dax, Bashir and ODO are looking at a Okudagram 
+	schematic diagram of the Defiant on one of the monitors.  
+	Sisko is standing next to the monitor.
+
+					SISKO
+				(re: monitor)
+			Officially she's classified as an 
+			escort vessel... unofficially the 
+			Defiant's a warship.  Nothing more, 
+			nothing less.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE          9.
+
+7    CONTINUED:
+
+					KIRA
+			I thought Starfleet didn't believe 
+			in warships.
+
+					SISKO
+			Desperate times breed desperate 
+			measures.  Five years ago, Starfleet 
+			began exploring the possibility of 
+			building a new class of starship.  
+			This ship would have no families, no 
+			science labs, no luxuries of any 
+			kind... it was designed for one 
+			purpose only -- to fight and defeat 
+			the Borg.
+				(beat)
+			The Defiant was the prototype... the 
+			first ship in what would've been a 
+			new Federation battle fleet.
+
+					DAX
+			So what happened?
+
+					SISKO
+			The Borg threat became less urgent. 
+			Also, some design flaws cropped up 
+			during the ship's shakedown cruise, 
+			so Starfleet decided to abandon the 
+			project.
+
+					O'BRIEN
+			What sort of... design flaws?
+
+					SISKO
+			You'll have complete access to the 
+			ship evaluation reports, but to put 
+			it simply... it's overgunned and 
+			overpowered for a ship its size.  
+			During battle drills, it nearly tore 
+			itself apart when the engines were 
+			tested at full capacity.
+
+					KIRA
+				(incredulous)
+			And this is the ship Starfleet 
+			sent us to fight off an attack by 
+			the Dominion?
+
+ DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         10.
+
+7    CONTINUED:	(2)
+
+					SISKO
+			We're not going to fight the Dominion, 
+			Major.  At least, not yet.
+				(beat)
+			Our mission is to take the Defiant 
+			into the Gamma Quadrant and try to 
+			find the leaders of the Dominion -- 
+			the "Founders."  We have to convince 
+			them that the Federation represents 
+			no threat to them.
+
+					BASHIR
+			What if they don't believe us?
+
+					SISKO
+			That's why I asked for the Defiant.  
+			She may have flaws, but she has teeth.  
+			I want the Dominion to know that we 
+			can and will defend ourselves if 
+			necessary.
+
+	This seems to impress everyone... even Kira looks a little 
+	more positive about the Defiant.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         11.
+
+7    CONTINUED:	(3)
+
+	The doors OPEN and a female Romulan officer named T'RUL, 
+	and a Starfleet Security officer named EDDINGTON ENTER.
+
+					EDDINGTON
+				(to Sisko)
+			I've posted two security officers at 
+			the Defiant's docking port, sir.  No 
+			one'll get near the cloaking device 
+			without us knowing about it.
+
+					ODO
+				(bristling)
+			I wasn't informed about any special 
+			security needs.
+
+					T'RUL
+			The security arrangements were made 
+			at my request... to protect the 
+			cloaking device.
+
+	Sisko steps in before Odo can respond.
+
+					SISKO
+			A few introductions are in order.
+				(to others)
+			This is Subcommander T'Rul of the 
+			Romulan Empire.  She is here to 
+			operate the cloaking device which 
+			her government has so kindly loaned 
+			us for this mission.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         12.
+
+7    CONTINUED:	(4)
+
+					T'RUL
+				(simply)
+			Romulan interests will be served 
+			through cooperation.  And my role is 
+			to keep "unauthorized personnel"...
+				(pointedly looks at 
+				each of them)
+			... away from the cloaking device.
+
+	She regards them all with open suspicion.  Sisko tries to 
+	smooth the waters a bit.
+
+					SISKO
+				(to T'Rul)
+			May I present my officers... this is 
+			Major Kira Nerys--
+
+					T'RUL
+				(curt)
+			Thank you, but I know their names, 
+			and I'm not here to make friends.
+
+	She EXITS.
+
+					KIRA
+			Charming.
+
+	Eddington gives them a slightly embarrassed smile and sticks 
+	out a hand toward Kira.
+
+					EDDINGTON
+			Well, I am here to make friends.  
+			I'm Lieutenant Commander Michael 
+			Eddington, Starfleet Security.
+
+					KIRA
+				(shakes his hand)
+			Major Kira Nerys.
+
+	Eddington now looks to Odo, who regards him with something 
+	less than warmth.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         13.
+
+7    CONTINUED:	(5)
+
+					ODO
+			Odo... Head of station security.
+				(beat)
+			May I ask what your... function is 
+			here, Commander?
+
+	Eddington reacts with a slight look of surprise and he looks 
+	to Sisko, who clearly has not been looking forward to this.  
+	Odo picks up on the look between the two men and his 
+	displeasure deepens.
+
+					SISKO
+				(to all)
+			There'll be a complete mission 
+			briefing at eighteen hundred hours, 
+			but be prepared to depart the station 
+			at oh-seven-hundred tomorrow morning.  
+			Dismissed.
+
+	Odo makes no move to leave as the others all EXIT.  Sisko 
+	waits until they're gone and then turns to Odo, who is waiting 
+	for him.
+
+					ODO
+			You needn't brace yourself to give 
+			me unpleasant news, Commander, I'll 
+			save you the trouble:  I've been 
+			relieved as Chief of Security.
+
+	Odo turns on his heel and stalks out of the room.  Sisko 
+	goes after him.
+
+7A   INT. CORRIDOR - CONTINUOUS
+
+	Sisko catches up with Odo just outside the Wardroom.
+
+					SISKO
+			Odo, wait.  You have not been 
+			relieved.  You're still in charge of 
+			all non-Starfleet security matters 
+			aboard this station.
+
+					ODO
+			What about matters that are Starfleet?
+
+					SISKO
+			In those areas, you'll coordinate 
+			your efforts with Commander Eddington.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE        13A.
+
+7A   CONTINUED:
+
+					ODO
+			"Coordinate" is another way of saying, 
+			"I'll report to him."
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         14.
+
+7A   CONTINUED:   (2)   
+
+	Sisko can't deny that what Odo's saying is true.  Odo heads 
+	down the Corridor again, but Sisko won't let it go at that.  
+	He follows and tries to make a personal connection.
+
+
+					SISKO
+			I'm sorry, Odo.  This wasn't my idea.
+
+					ODO
+			I'm sure it wasn't.  You're just... 
+			following orders.
+
+					SISKO
+			An order I strongly disagreed with.  
+			I did everything I could to fight 
+			this... I even took it to the Chief 
+			of Starfleet Security herself.  But 
+			their decision... was final.
+
+	Odo's eyes smolder in anger and he stops and turns on Sisko.
+
+					ODO
+			May I ask why?
+
+					SISKO
+			They had some... concerns regarding 
+			several recent security breaches.
+
+					ODO
+			If I was given the authority I asked 
+			for, instead of being tied to 
+			Starfleet regulations, there wouldn't 
+			have been any security breaches.
+
+					SISKO
+			Odo, your resistance to following 
+			Starfleet regulations is part of the 
+			problem.
+
+					ODO
+			I think there might be a simpler 
+			explanation, Commander.  Starfleet 
+			decided to bring in someone they 
+			could trust... someone besides "the 
+			shape-shifter."
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE        14A.
+
+7A   CONTINUED:	(3)
+
+					SISKO
+			This is not a racial issue, Odo.  I 
+			understand how you must feel, and I 
+			want you to know --
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         15.
+
+7A   CONTINUED:	(4)
+
+					ODO
+			You needn't bother, Commander.  I 
+			don't require your understanding.  
+			My resignation will be logged within 
+			the hour.
+
+	Odo turns and EXITS.  Sisko sits back, frustrated by the 
+	fact that there's very little he can do in this situation.
+
+									CUT TO:
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+9    INT. PROMENADE
+
+	Odo is striding through the Promenade, barely taking notice 
+	of the passersby.  As he passes the entrance to the bar, 
+	Quark sees Odo through the door and quickly runs out to catch 
+	up with him.
+
+					QUARK
+			Constable!  Constable a moment of 
+			your time please!  Odo, wait!
+
+	Quark is the last guy Odo wants to see right now, but he 
+	reluctantly stops in place and turns to Quark with a no-
+	nonsense look on his face.
+
+					ODO
+			What is it, Quark?
+
+	Quark pulls up short at the tone and look on Odo's face.
+
+					QUARK
+			I just wanted to see if... if it's 
+			true.
+
+					ODO
+			If that's your way of asking if I've 
+			been relieved, then the answer is 
+			yes.  I'm sure that makes you very 
+			happy, so now I'll stand here and 
+			patiently wait for you to finish 
+			gloating.
+
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         16.
+
+9    CONTINUED:
+
+	Odo adopts a "go ahead and laugh" attitude and stands 
+	waiting for Quark to respond.  Quark is definitely taken 
+	aback by the situation and scrambles for a reply.
+
+					QUARK
+			I'm not here to... gloat.
+
+					ODO
+			Then if you'll excuse me.
+
+	Odo turns to go, but Quark falls into step with him, not 
+	quite willing to let it go at that.
+
+					QUARK
+			What happened?
+
+					ODO
+			Starfleet has sent their own security 
+			officer, a Lieutenant Commander 
+			Eddington.  He'll be in charge as of 
+			this afternoon.
+
+					QUARK
+			A Starfleet officer... but why?  How 
+			did this happen?  What does Commander 
+			Sisko say about this?
+
+	Odo stops short and Quark nearly piles into him.  Odo peers 
+	at Quark closely.
+
+					ODO
+			Why are you so concerned?  You'll 
+			have a brand new security chief to 
+			deal with... one that's not as 
+			familiar with you and your venal 
+			ways.  You should be celebrating, 
+			Quark.
+
+					QUARK
+			On the contrary... this upsets my 
+			entire operation.
+
+					ODO
+			How so?
+
+					QUARK
+			You were good... you kept me on my 
+			lobes... you made sure I didn't get 
+			lazy and careless.  Beating you made 
+			me better.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         17.
+
+9    CONTINUED:	(2)
+
+					ODO
+			You never beat me.
+
+	Odo isn't in the mood for the usual banter and he simply 
+	grunts at Quark, then turns on his heel and strides off.  
+	Quark looks after him for a moment, a slight look of sadness 
+	on his face.
+
+					QUARK
+			If you say so...
+
+									CUT TO:
+
+10   INT. SISKO'S QUARTERS
+
+	JAKE is eating a heaping bowl of I'danian spice pudding at 
+	the table and thoroughly enjoying himself.  There are several 
+	open suitcases in the room, some with clothes and personal 
+	belongings still in them, others have been emptied, but the 
+	contents not put away.  There is also a large shipping crate 
+	sitting on the floor.  The door OPENS and Sisko ENTERS.  He 
+	looks around in a little surprise.
+
+					SISKO
+			I thought you were unpacking.
+
+					JAKE
+				(sheepish)
+			I am... I mean, I was.  But I just 
+			kept looking at the replicator... 
+			and thinking... and...
+
+					SISKO
+				(with a smile)
+			And you just had to have some I'danian 
+			spice pudding.
+
+					JAKE
+			I still can't believe I couldn't get 
+			a decent bowl of it back on Earth.
+
+					SISKO
+				(with humor)
+			That didn't stop you from ordering 
+			it at every replicator you saw.
+
+	Jake takes another heaping spoonful as Sisko begins unpacking 
+	some of his own clothes from one of the suitcases.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT ONE         18.
+
+10   CONTINUED:
+
+					SISKO
+			So is it good to be home?
+
+					JAKE
+			Yeah... I can't wait to sleep in my 
+			own bed again.
+
+	Sisko suddenly stops what he's doing and pauses... a look of 
+	surprise on his face.
+
+					SISKO
+				(quiet)
+			I wonder when that happened?
+
+					JAKE
+			What?
+
+	Sisko sits down and looks around the room in wonder and shock.
+
+					SISKO
+				(amazed)
+			When did I start thinking of this... 
+			Cardassian monstrosity as... home?
+
+					JAKE
+				(smiles, then "thinks")
+			I think it happened... last 
+			Thursday... around seventeen hundred 
+			hours.
+
+	Sisko gives him a puzzled look, then Jake smiles and goes to 
+	the large crate and opens it.
+
+					JAKE
+				(continuing)
+			When you took all this stuff out of 
+			storage back on Earth.
+
+	Jake reaches in and takes out an intricately carved African 
+	mask.  Sisko jumps up and moves quickly to Jake.
+
+					SISKO
+			Careful.  That's a two-thousand-year- 
+			old Yoruba mask... and that "stuff" 
+			is one of the finest collections of 
+			ancient African art you'll ever see...
+
+      DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE 19-21.        
+
+10   CONTINUED:	(2)
+
+					JAKE
+				(smiling, overlapping)
+			"... African art you'll ever see... " 
+			I know.  And I also know how much it 
+			means to you.
+				(beat)
+			But to me it was always the... "stuff" 
+			in your library... at home.  When 
+			you took it out of storage so you 
+			could bring it here... it meant Earth 
+			wasn't home anymore... this was.
+
+	Sisko looks at his son for a moment... then reaches into the 
+	crate and picks up a beautiful African statue.  He considers 
+	it for a moment, then selects a spot in the room to display 
+	it.
+
+					SISKO
+			What do you think?
+
+					JAKE
+			Perfect.
+
+	There's a warm moment between the two of them, then Sisko 
+	begins to unpack the rest of the crate.
+
+11   INT. PROMENADE - SECOND LEVEL
+
+	Odo is staring out a window at the stars when Kira comes up 
+	to him.
+
+					KIRA
+			Odo, there you are.  I've just 
+			finished talking to the Provisional 
+			Government.  They want you to go 
+			with us to the Gamma Quadrant tomorrow 
+			as an official Bajoran representative.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT ONE         22.
+
+11   CONTINUED:
+
+					ODO
+			I'm no diplomat.
+
+					KIRA
+			I know, that's why they want you to 
+			go.  If we do locate the Founders, 
+			we'll need more than diplomacy... 
+			we'll need to size them up... see 
+			what kind of threat they pose to 
+			Bajor... analyze their --
+
+					ODO
+			You're the military expert, Major, 
+			not me.  And I doubt that the 
+			Provisional Government contacted you 
+			and asked for my presence on this 
+			mission.
+				(beat)
+			If I'm not mistaken this is a 
+			misguided effort to... make me feel 
+			better.
+
+	Kira drops any pretense she might have had and deals with 
+	him directly.
+
+					KIRA
+			Maybe it is.  Maybe I'm your friend... 
+			and maybe I want you to see that 
+			you're still needed here regardless 
+			of what some idiot Starfleet admiral 
+			might think.
+
+	Odo says nothing and turns to look out the window again.  
+	Kira waits for a long beat.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT ONE         23.
+
+11   CONTINUED:	(2)
+
+					KIRA
+				(quiet)
+			The Defiant leaves at seven hundred 
+			hours.
+
+	Kira leaves Odo by the window, lost in thought.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT TWO         24.
+                            ACT TWO                             
+
+	FADE IN:
+
+12   INT. SISKO'S OFFICE
+
+	Quark is sitting in front of Sisko with a nervous and puzzled 
+	look on his face.  He's trying hard not to panic.
+
+					QUARK
+			I'm... a little confused, Commander.  
+			You want me to go with you?  To the 
+			Gamma Quadrant?  To help you locate 
+			the Founders?
+
+					SISKO
+			See?  It's not so confusing after 
+			all.
+
+	Quark looks at him for a moment, then smiles and lets out a 
+	nervous laugh.
+
+					QUARK
+			You... you're joking with me aren't 
+			you?  Having a little fun with Quark?
+
+					SISKO
+			I'm quite serious.
+
+					QUARK
+			You can't be.  I'm not a diplomat, 
+			or an explorer, or a tactical officer, 
+			or whatever else you might need on 
+			this trip.  Now if you need a caterer, 
+			I'll be happy to loan you a new 
+			replicator that I just got from --
+
+					SISKO
+			Eight months ago, you helped the 
+			Nagus establish a trade agreement 
+			with the Karemma -- Tulaberry wine, 
+			I believe.  The Karemma are part of 
+			the Dominion.
+
+					QUARK
+			A minor part, a very minor part.
+
+					SISKO
+			They still may be able to help us 
+			contact the Founders.  Since you're 
+			experienced in dealing with the 
+			Karemma, you seem like a logical 
+			person to--
+
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT TWO         25.
+
+12   CONTINUED:
+
+					QUARK
+				(quickly)
+			Actually, my brother Rom did most of 
+			the talking.  I think he would be 
+			better suited for this mission.
+
+					SISKO
+			Not Rom -- you.
+
+					QUARK
+			But why?  Rom only has a child to 
+			think about, I have a business!
+
+					SISKO
+			You.
+
+	Quark stands and moves for the door.
+
+					QUARK
+			I'm sorry, Commander but I must 
+			refuse.  My last experience with the 
+			Jem'Hadar was not a pleasant one and 
+			I don't intend to repeat it.  Now 
+			there's no way you can legally force 
+			me to --
+
+	Quark is suddenly startled by the SOUND of a cane being 
+	slammed down on a desk.  Quark turns and is surprised to see 
+	Sisko holding the ornate cane of the Grand Nagus in his hand.
+
+					QUARK
+				(shocked)
+			The scepter of the Grand Nagus.
+
+					SISKO
+			I had a chance to discuss this mission 
+			with him on my way back from Earth.  
+			He seemed to agree with me that unless 
+			peaceful contact can be established 
+			with the Founders, business 
+			opportunities in the Gamma Quadrant 
+			might suddenly dry up.
+				(beat)
+			He also agreed that you were the 
+			perfect man to help me.
+
+					QUARK
+			I don't believe it.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/12/94 - ACT TWO         26.
+
+12   CONTINUED:	(2)
+
+					SISKO
+				(re: cane)
+			Which is why he sent this along.  He 
+			thought it might convince you of the 
+			high value he places on the success 
+			of this mission.
+
+	Sisko now holds up the cane and points the carved Ferengi on 
+	the pommel directly at Quark as if it were looking at him.
+
+					SISKO
+				(continuing)
+			Now... are you going to defy the 
+			wishes of the Grand Nagus himself?
+
+	Quark looks at the head as if facing the Nagus himself.
+
+					QUARK
+			No... no, of course not.  I'm... 
+			happy to serve the Nagus... in any 
+			way that I can.
+
+					SISKO
+			Thank you, Quark.  I knew I could 
+			count on you.
+
+	Quark turns to go.
+
+					SISKO
+				(continuing)
+			Quark.  Aren't you forgetting 
+			something?
+
+	Sisko holds out the scepter expectantly for a moment.  Quark 
+	realizes what he's waiting for and then reluctantly moves 
+	forward and kisses the Ferengi head as Sisko holds the cane.  
+	Quark manages a pained smile and then EXITS.  Off Sisko's 
+	pleased reaction...
+
+									CUT TO:
+
+12A  INT. WARDROOM
+
+	Sisko is sitting at the table, looking over a large schematic 
+	Okudagram on the main viewer of the Gamma Quadrant.  Dax 
+	ENTERS.
+
+					DAX
+			I just thought you'd like to know 
+			that the Defiant'll be ready at oh-
+			seven-hundred hours.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/12/94 - ACT TWO        26A.
+
+12A  CONTINUED:
+
+					SISKO
+			Did it pass the Chief's inspection?
+
+					DAX
+			Does anything?  He has a maintenance 
+			list about as long as this table, 
+			but he said it'll get us where we're 
+			going.
+
+					SISKO
+			And back I hope.
+
+					DAX
+				(joking)
+			He said that was up to you.
+
+	Sisko smiles and sits on the edge of the desk for a moment.  
+	But Dax has touched on an issue that is clearly on his mind.
+
+					SISKO
+			I'd never have volunteered for this 
+			mission unless I thought we had a 
+			chance of coming back.
+
+					DAX
+			You volunteered?  How many times did 
+			Curzon tell you -- never volunteer 
+			for anything!
+
+					SISKO
+			As I recall, Curzon broke that rule 
+			a few times himself.
+
+					DAX
+			And regretted it every time.
+
+					SISKO
+			This is different.  I'd end up 
+			regretting it more if we just sat 
+			around here and waited for an 
+			invasion.
+
+	Dax considers this for a beat, she moves around the table.
+
+					DAX
+			If I know Starfleet, they must've 
+			run about two hundred probability 
+			studies on this mission of ours.  
+			What are the odds we succeed?
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/12/94 - ACT TWO        26B.
+
+12A CONTINUED:	(2)
+
+					SISKO
+			Slim... but better than the odds of 
+			fighting off a Jem'Hadar assault on 
+			the station.
+
+	Sisko gets up, he's animated, passionate about this subject.  
+	We can see his determination.
+
+					SISKO
+				(continuing)
+			And if the station falls, Bajor 
+			falls... and I will not let that 
+			happen.
+
+	Dax cocks her head at him a moment, picking up on something.
+
+					DAX
+			You know... after Jennifer died I 
+			never thought I'd see you so... 
+			passionate about something again.
+
+	Dax has definitely touched on something here... Sisko moves 
+	closer to her... opening up to his old friend.
+
+					SISKO
+			Until two months ago, I would've 
+			agreed with you.  Then I went back 
+			to Earth... and I spent all those 
+			weeks being debriefed at Starfleet 
+			Headquarters.  I used to get a thrill 
+			just walking into that building... I 
+			used to look around at the Admirals 
+			and think -- "one day that's going 
+			to be me.  One day I'm going to be 
+			the one making the big decisions."
+
+					DAX
+			Curzon used to think that was very 
+			funny.
+
+	Sisko is a little taken aback by this.
+
+					SISKO
+			Did he?
+
+					DAX
+			What I mean is... he could never see 
+			a set of Admiral's stars on your 
+			collar.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/12/94 - ACT TWO        26C.
+
+12A  CONTINUED:	(3)
+
+					DAX (Cont'd)
+			He thought that just making decisions 
+			would never satisfy you.  You had to 
+			implement them... see the results... 
+			face the consequences.
+				(beat)
+			Curzon always thought you were the 
+			kind of man who has to be in the 
+			thick of things... not sitting behind 
+			some desk at Headquarters.
+
+					SISKO
+				(smiles)
+			He was a very smart old man, wasn't 
+			he?
+
+					DAX
+			He liked to think so.
+
+					SISKO
+			You better get a good night's sleep.
+
+					DAX
+			I was about to say the same to you.  
+			See you in the morning, Benjamin.
+
+	Sisko nods and Dax EXITS.  Off Sisko's expression...
+
+13   EXT. SPACE - DEEP SPACE NINE & DEFIANT (OPTICAL)
+
+	Re-establishing the station and the ship.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/12/94 - ACT TWO         27.
+
+14   INT. DEFIANT BRIDGE
+
+	The stations on the Bridge should reflect the fact that the 
+	primary mission of this ship was intended to be defensive -- 
+	and very little is devoted to anything else.  There are dual 
+	consoles for Tactical and Weapons which at the moment are 
+	manned by O'Brien and Kira respectively.  T'Rul is at the 
+	aft Engineering station.   A couple of N.D. CREWMEMBERS can 
+	be seen in the b.g.  Bashir is reporting to Sisko.
+
+					BASHIR
+			The medical database is practically 
+			nonexistent.  I'm downloading as 
+			many of my files from the station as 
+			I can, but this ship simply wasn't 
+			designed to handle many casualties.
+
+					SISKO
+			Do the best you can... and let's 
+			hope your new database won't be put 
+			to the test.
+
+					BASHIR
+			Yes, sir.
+
+	Bashir goes to work on a console as Dax ENTERS from the 
+	Corridor.
+
+					DAX
+				(to Sisko)
+			Quark is settling into his quarters.  
+			He asked me to relay his "profound 
+			disappointment in the accommodations," 
+			and to inform you that he could put 
+			you in touch with several reputable 
+			interior decorators for a modest 
+			fee.
+
+					SISKO
+			I'll take his offer under advisement.
+				(to all)
+			Stand by to get underway.
+
+	Dax takes the Helm.
+
+					O'BRIEN
+			Tactical and Communications ready, 
+			sir.
+
+					DAX
+			Navigation and Operations ready.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT TWO        27A.
+
+14   CONTINUED:
+
+					KIRA
+			Weapons ready.
+
+					T'RUL
+			Impulse engines on line, warp power 
+			available at your command.
+
+
+	Sisko moves to the command chair and sits down.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/13/94 - ACT TWO         28.
+
+14   CONTINUED:	(2)
+
+					SISKO
+			Very well.
+				(to Dax)
+			Seal the airlock, release docking 
+			clamps, aft thrusters at--
+
+					O'BRIEN
+			Just a moment, sir.  There's someone 
+			at the airlock...
+				(surprised)
+			It's Odo.
+
+	Sisko activates a com panel.
+
+					SISKO
+				(to com)
+			Sisko to Odo... is there a problem, 
+			Constable?
+
+					ODO'S COM VOICE
+			No, Commander.  I would like 
+			permission to... come aboard.  I'm... 
+			here at the request of the Bajoran 
+			government.
+
+	Kira and Sisko exchange a pleased look.
+
+					SISKO
+			Permission granted.
+
+					ODO'S COM VOICE
+			Thank you, sir.
+
+	Sisko thinks for a moment.
+
+					SISKO
+			Dax, we'll need to arrange some 
+			quarters for the Constable.
+
+					BASHIR
+			I'll do it, sir.  I need to go down 
+			to what is laughingly called Sickbay.
+
+					SISKO
+			Thank you, Doctor.
+
+	Bashir EXITS.
+
+					O'BRIEN
+			Odo's aboard, sir.  The airlock's 
+			clear.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT TWO         29.
+
+14   CONTINUED:	(3)
+
+					SISKO
+				(to Dax)
+			Release docking clamps, aft thrusters 
+			at one quarter, port and starboard 
+			at station keeping.
+
+					DAX
+			Aye, sir.
+
+15
+thru   OMITTED
+16
+									CUT TO:
+
+17   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship pulls away from the station.
+
+18   INT. DEFIANT BRIDGE
+
+	As before.
+
+					DAX
+			We've cleared the station.
+
+					SISKO
+			Lay in a course to the wormhole.
+				(to T'Rul)
+			I want to cloak as soon as we reach 
+			the Gamma Quadrant.
+
+					T'RUL
+			Understood.
+
+					DAX
+			Course laid in, sir.
+
+					SISKO
+			Engage.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT TWO         30.
+
+19   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The Defiant ENTERS the Wormhole.
+
+									CUT TO:
+
+20   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The Defiant EXITS the Wormhole in Gamma space.  After a beat, 
+	the ship begins to CLOAK.
+
+21   INT. DEFIANT BRIDGE
+
+	A LIGHTING CHANGE happens on the Bridge as the cloak is 
+	engaged.  The lighting is DARKER, moodier, giving the Bridge 
+	an eerie, "submarine" quality.
+
+					T'RUL
+			The cloaking device is operating 
+			within normal parameters.
+
+					SISKO
+			Set course for the Karemma system, 
+			warp seven.
+				(beat)
+			Engage.
+
+22
+thru   OMITTED
+23
+
+24   INT. DEFIANT - ODO'S QUARTERS (OPTICAL)
+
+	Quark is sitting on the lower bunk in the small, cramped 
+	room.  There are two BUNKS, one above the other, a tiny desk, 
+	a replicator, and nothing else.  It's a depressing, 
+	claustrophobic room and Quark isn't too happy to be here.  
+	The doors OPEN, revealing Bashir and Odo.  Quark reacts to 
+	the sight of Odo with pleasure.
+
+					QUARK
+			Odo!
+
+	Quark jumps up and moves to him.
+
+					ODO
+				(to Bashir)
+			Is this the best you can do?
+
+      DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT TWO 31-32.        
+
+24   CONTINUED:
+
+					BASHIR
+			I'm afraid so.  Most of the crew 
+			quarters don't even have life support 
+			yet.  Besides, I think we'd all feel 
+			better with someone here to watch 
+			over Quark.
+
+					QUARK
+			I take that as a personal insult, 
+			Doctor.
+
+					BASHIR
+			You should.
+				(wry)
+			Now... I'll leave you two... 
+			"bunkmates" to get comfortable.
+
+	Bashir heads off down the Corridor.  Quark immediately starts 
+	talking, glad just to have someone around.  As Quark talks, 
+	Odo moves into the room and sets his pail down in a corner, 
+	then tries to make himself comfortable in the single tiny 
+	chair.
+
+					QUARK
+				(over above action)
+			Am I glad to see you.  I've been 
+			stuck down here in this miserable 
+			hole ever since I came aboard.  
+			Bunkbeds, no view, and I won't even 
+			tell you what came out of that 
+			replicator when I asked for synthehol.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT TWO         33.
+
+24   CONTINUED:	(2)
+
+	Odo sits with his back turned to Quark, who realizes that 
+	Odo is completely ignoring him.  Quark tries to change the 
+	subject, hoping for some conversation... any conversation.
+
+					QUARK
+				(continuing)
+			So... what's your role on this little 
+			adventure?  Providing security no 
+			doubt?
+				(no response)
+			Well, of course you are.  I mean why 
+			else would you be here?  I can tell 
+			you I feel much safer now, just 
+			knowing that you're along, because I 
+			know you can be trusted to --
+
+	Odo finally cuts him off... and his tone and look are much 
+	harsher and meaner than we've ever heard him address Quark 
+	in the past.
+
+					ODO
+			I've held this shape for sixteen 
+			hours... I have to revert back to my 
+			liquid state, but I don't want you 
+			to watch and... gawk at me...
+
+					QUARK
+			I completely understand.  This is a 
+			very private moment and I won't 
+			interfere.
+				(turns around)
+			This won't be so bad... sharing 
+			quarters, that is... we might even 
+			find that we --
+
+					ODO
+				(harsh)
+			I have no interest in speaking to 
+			you, or in listening to your witless 
+			prattle.  So stay out of my way, or 
+			you'll regret the day you ever met 
+			me.
+
+	A chill runs up Quark's spine and he reacts as if someone 
+	just slapped him across the face.  Quark falls silent and 
+	Odo MORPHS into his pail.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT TWO         34.
+
+24   CONTINUED:	(3)
+
+	Quark waits a beat, then sits down on the bunk and tries 
+	not to look at the pail of goo sitting on the deck.
+
+									CUT TO:
+
+25   INT. DEFIANT BRIDGE
+
+	Sisko, Kira, O'Brien, T'Rul, and Dax at their stations.  
+	O'Brien suddenly reacts to something on his console.  (The 
+	lighting is DARK, to indicate the cloak in operation.)
+
+					O'BRIEN
+			Commander... long-range scanners 
+			have picked up two Jem'Hadar warships 
+			directly ahead.  They're heading 
+			this way at... warp five.
+
+					SISKO
+			How close will they pass us?
+
+					O'BRIEN
+				(works)
+			One hundred thousand kilometers.
+
+					KIRA
+			That's well within range of their 
+			weapons, Commander.
+
+					DAX
+			Should I alter course?
+
+	Sisko thinks for a moment.
+
+					SISKO
+			No... we need to know if they can 
+			see through the cloaking device... 
+			and this is as good a time as any.  
+			Maintain course and speed.
+				(to Kira)
+			Red Alert.
+
+					KIRA
+			Aye, sir.
+
+	A long beat as everyone waits and the ship goes to RED ALERT.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT TWO         35.
+
+25   CONTINUED:
+
+					O'BRIEN
+				(off console)
+			Here they come... they'll pass us in 
+			five seconds...
+
+					SISKO
+			On screen.
+
+25A  INCLUDE VIEWSCREEN (OPTICAL)
+
+	As our people watch, the two Jem'Hadar ships come racing 
+	past the Defiant.
+
+					SISKO
+			Track them.
+
+					O'BRIEN
+			They're continuing along their 
+			original heading... no indication 
+			that they saw us or...
+				(reacts to something)
+			Wait a minute.  They're altering 
+			course... heading back this way.
+
+					DAX
+			They must've seen us.
+
+					KIRA
+				(off console)
+			They're powering their weapon systems.
+
+					SISKO
+			Prepare to decloak.  Lock phasers on 
+			the lead ship and--
+
+					T'RUL
+				(urgent)
+			No.  We may not have been detected.
+
+					SISKO
+			Explain.
+
+					T'RUL
+			A cloaked ship radiates a slight 
+			subspace variance at warp speeds...
+
+					O'BRIEN
+			A subspace variance?  I've never 
+			heard of that.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT TWO        35A.
+
+25A  CONTINUED:
+					T'RUL
+			It's not something we've been eager 
+			to reveal.
+				(to Sisko)
+			I suggest dropping out of warp.  
+			That will eliminate the variance... 
+			when they reach our position, they'll 
+			find nothing.
+
+	Sisko rapidly considers this, then makes the decision.
+
+					SISKO
+				(to Dax)
+			Do it.
+
+					DAX
+				(working)
+			All stop....
+
+25B  EXT. SPACE - JEM'HADAR SHIPS (OPTICAL)
+
+	The two ships come into view and then split up and begin 
+	circling an apparently empty area of space... searching for 
+	something.
+
+25C  INT. DEFIANT BRIDGE (OPTICAL)
+
+	As before.  Everyone watching the viewscreen.  (But we don't 
+	see the screen.)
+
+					O'BRIEN
+				(off console)
+			They're sweeping the area with some 
+			kind of anti-proton scan... and 
+			they're being very thorough about 
+			it.
+
+					SISKO
+				(to T'Rul)
+			Will an anti-proton scan penetrate 
+			the cloak?
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT TWO        35B.
+
+25C  CONTINUED:
+
+	T'Rul doesn't answer immediately and Sisko turns to look at 
+	her.  Barely a flicker of emotion crosses her face, betraying 
+	the slightest hesitancy.
+
+					T'RUL
+			I'm... not sure.
+
+	The tension on the Bridge rises another notch.
+
+					KIRA
+				(off console)
+			They're getting closer.
+
+					O'BRIEN
+			Commander... the Defiant's power 
+			signature is unusually high for a 
+			ship this size... the cloaking device 
+			might not be masking everything.
+
+	Sisko thinks quickly, sees what O'Brien is saying.
+
+					SISKO
+				(to T'Rul)
+			Cut main power.
+
+	T'Rul works and almost all the consoles on the Bridge go 
+	DARK, with only one or two panels still functioning.
+
+	On the Viewscreen, a Jem'Hadar ship passes VERY CLOSE 
+	overhead, like a shark in the water... suddenly the ship 
+	STOPS, nearly on top of them.
+
+					KIRA
+				(urgent, off console)
+			The other one has broken off its 
+			search... it's coming this way.
+
+					SISKO
+				(calm)
+			Stand by weapons and shields.
+
+	A long tense moment as they watch the screen.  After a beat, 
+	the other Jem'Hadar ship moves into view... it joins up with 
+	the first ship...
+
+25D  EXT. SPACE - JEM'HADAR SHIPS (OPTICAL)
+
+	The two ships are now back in their standard formation and 
+	they head off back the way they came.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/14/94 - ACT TWO        35C.
+
+25E  INT. DEFIANT BRIDGE
+
+	As before.
+
+					KIRA
+				(off console)
+			They've gone into warp... and resumed 
+			their original course.
+
+	Sisko lets out a long breath and everyone on the Bridge 
+	relaxes slightly.
+
+					SISKO
+			That's the first thing to go right 
+			in the Gamma Quadrant in a long time.
+
+					KIRA
+			I hope it's not the last...
+
+	Off their expressions...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        36.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. DEFIANT BRIDGE (OPTICAL)
+
+	A Karemma official named ORNITHAR is walking slowly around 
+	the Bridge, inspecting everything in sight with a practiced 
+	and appraising eye.  Quark is holding the scepter of the 
+	Nagus, Sisko is in command, Dax at Helm, Kira at Weapons.  
+	Odo is standing off to one side, deep in his own thoughts 
+	and not paying much attention.
+
+					QUARK
+			... the Grand Nagus himself has sent 
+			me as an emissary on his behalf.  If 
+			you will aid us in our mission, I am 
+			authorized to increase our purchases 
+			of tulaberry wine from the Karemma 
+			by... three percent!
+
+	Ornithar looks unimpressed by this information.  He is 
+	currently inspecting the metal of the bulkhead.
+
+					ORNITHAR
+			Mmm... looks like a poly-duranium 
+			alloy blend... interesting, but the 
+			metal has no real value.
+				(to Quark)
+			A three percent increase is 
+			negligible.
+
+					QUARK
+			I have considerable leeway to bargain 
+			in this circumstance.  Name your 
+			terms.
+
+	Ornithar is strolling around the bridge, passing his eye 
+	over the consoles.  Quark follows him as Ornithar looks around 
+	for anything else of value.
+
+					ORNITHAR
+			Nothing... nothing... nothing...
+
+	He leans over Dax's shoulder and looks at the helm console.
+
+					ORNITHAR
+				(continuing, to Quark)
+			The terms are not the issue.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        37.
+
+26   CONTINUED:
+
+					ORNITHAR
+			I cannot help you locate the Founders 
+			because I don't know who they are... 
+			or if they even exist.
+				(disappointed, re: 
+				console)
+			Nothing.
+
+	He is about to go onto the next console when Kira's earring 
+	suddenly catches his eye.  He peers closely at it.
+
+					ORNITHAR
+				(continuing, with 
+				interest to Quark)
+			Here's something interesting... 
+			appears to be diamide-laced beritium.  
+			I'll give you fifty-two diraks for 
+			it.
+
+					QUARK
+				(quickly)
+			Done.
+				(off Sisko's look)
+			I mean... one deal at a time, 
+			Ornithar.  We were talking about the 
+			Founders.
+
+					ORNITHAR
+			There is nothing further to say.  If 
+			the Founders exist, they clearly do 
+			not wish to be contacted.  That is 
+			good enough for me.
+
+					SISKO
+			Who's your contact in the Dominion 
+			regarding... administration... 
+			trade... defense... ?
+
+					ORNITHAR
+			Our only contact with the Dominion 
+			has been through the Vorta.  I have 
+			no idea who they report to.  All I 
+			know is that the Vorta say to do 
+			something... and you do it.
+
+					SISKO
+			Why?
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        38.
+
+26   CONTINUED:	(2)
+
+					ORNITHAR
+				(rueful smile)
+			Because if you do not, they will 
+			send in the Jem'Hadar... and then 
+			you die.
+
+	A grim beat, then Sisko tries a different tack.
+
+					SISKO
+			Will you put us in contact with the 
+			Vorta?
+
+					ORNITHAR
+			Commander, we do what we're told -- 
+			nothing more.  And so far, we have 
+			not been told to help you in any 
+			way.
+
+					SISKO
+			But you haven't been told not to 
+			either.
+
+					ORNITHAR
+			No... but I prefer to err on the 
+			side of caution.
+
+    DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE 39-39A.       
+
+26   CONTINUED:	(3)
+
+	Quark jumps in.
+
+					QUARK
+			In this case, being cautious will 
+			cost you a substantial profit.  The 
+			Ferengi will stop purchasing Tulaberry 
+			wine immediately.
+
+	Ornithar looks concerned.
+
+					SISKO
+			If you lost such a valuable contract 
+			with the alpha quadrant, it might 
+			displease the Vorta.  They might 
+			even send the Jem'Hadar here to find 
+			out what happened.
+
+	He thinks for a long moment... and finally makes a decision.
+
+					ORNITHAR
+				(to Sisko)
+			I will need to access one of our 
+			computers on the surface.
+
+	Sisko indicates a console and Ornithar goes to it and works 
+	for a moment, then a STARCHART comes up on the main viewer.  
+	As Ornithar begins talking, Odo suddenly reacts to something 
+	he sees on the starchart... he seems transfixed by what he 
+	sees.  Odo's strange look and behavior does not escape the 
+	notice of Quark, who peers at him curiously.  Ornithar gets 
+	up and points to a specific star system on the chart.
+
+					ORNITHAR
+				(over above action)
+			This is the Callinon System.  The 
+			Dominion maintains an unmanned 
+			subspace relay on the seventh planet.  
+			We have been told by the Vorta to 
+			direct all communications there... 
+			where the messages are sent after 
+			that is not our concern.
+
+	Sisko and Dax exchange a pleased look.
+
+					DAX
+			It's a start.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT THREE        40.
+
+26   CONTINUED:	(4)
+
+					ODO
+			What is that?
+
+	Everyone is a little surprised by Odo's sudden outburst -- 
+	they'd all but forgotten about him.  They turn to see him 
+
+	pointing at a symbol on the opposite side of the star map 
+	from where Ornithar is indicating.
+
+					ORNITHAR
+				(looking at symbol)
+			It is the Omarion Nebula.
+
+	Odo seems transfixed by the symbol... he moves closer to the 
+	screen.
+
+					ODO
+				(continuing, quiet)
+			The Omarion Nebula...
+
+	Odo turns away from the rest of them and falls back into 
+	deep thought.  Sisko and the others watch him for a moment, 
+	unsure just what the hell is going on with Odo.
+
+					ORNITHAR
+			If there is nothing else, I would 
+			like to leave now.
+
+					SISKO
+			Of course.
+
+	Quark steps in quickly before Ornithar can head for the Exit.
+
+					QUARK
+			Commander, I believe I have fulfilled 
+			my role on this mission, so if you 
+			don't mind...
+
+					SISKO
+			You'd like to stay behind.
+
+					QUARK
+			That was our agreement.
+
+	Sisko glances at Ornithar, then pulls Quark aside.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/13/94 - ACT THREE        41.
+
+26   CONTINUED:	(5)
+
+					SISKO
+				(quiet, to Quark, re: 
+				Ornithar)
+			How can you be sure he won't turn 
+			you over to the Dominion as soon as 
+			we leave?
+
+					QUARK
+			He may serve the Dominion, but I'm 
+			the one lining his pockets with 
+			latinum.  I'll get passage on the 
+			next freighter traveling back through 
+			the wormhole... and I'll make a profit 
+			in the process.
+
+	Sisko can't help but smile slightly.
+
+					SISKO
+			All right.  Good luck, Quark.
+
+					QUARK
+			Same to you, Commander.
+
+	There is actually a slightly warm moment between the two of 
+	them.  Quark and Ornithar EXIT.
+
+					SISKO
+				(to Dax)
+			Lay in a course for the Callinon 
+			System.
+
+									CUT TO:
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/14/94 - ACT THREE        42.
+
+27   INT. DEFIANT - SISKO'S QUARTERS
+
+	A redress of Odo's quarters.  The room has the same bare and 
+	Spartan look to it.  Sisko is relaxing on his bunk... just 
+	about to nod off when the door CHIMES.  Sisko pulls himself 
+	to a sitting position and swings his legs off the bed with 
+	an effort.
+
+					SISKO
+			Come in.
+
+	Kira ENTERS.
+
+					KIRA
+			Did I wake you?
+
+					SISKO
+			Not quite.  What can I do for you, 
+			Major?
+
+					KIRA
+			It's about Odo...
+
+					SISKO
+			You're worried about him.
+
+					KIRA
+			Is it that obvious?
+
+					SISKO
+			No... I'm worried about him too.  
+			But at the moment, I'm not sure what 
+			to do about it.
+
+	Kira moves into the room and sits down at the tiny desk.
+
+					KIRA
+			May I speak freely... ?
+				(off his nod)
+			What the hell is wrong with Starfleet?  
+			How could they do this to him?
+
+					SISKO
+			This has been a long time coming, 
+			Major.  Starfleet has never been 
+			happy with the Constable.  They've 
+			been pressing me to replace him for 
+			two years.
+
+					KIRA
+			Because he used to work for the 
+			Cardassians.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/14/94 - ACT THREE        43.
+
+27   CONTINUED:
+
+					SISKO
+			No.  It goes deeper than that.
+				(beat)
+			Odo isn't what you'd call a... "team 
+			player."
+
+					KIRA
+			Why?  Because sometimes he refuses 
+			to go through the proper channels?
+
+					SISKO
+			That's a start.  You know Odo... he 
+			enjoys thumbing his nose at authority.  
+			He files reports only when he feels 
+			like it... his respect for the chain 
+			of command is minimal...
+
+					KIRA
+			So what?  He gets the job done.
+
+					SISKO
+			I know, but Starfleet likes team 
+			players, Major... they like the chain 
+			of command...
+				(beat)
+			And when you get right down to it... 
+			so do I.
+
+					KIRA
+			So you agree with their decision?
+
+					SISKO
+			No.  But I understand it.
+
+					KIRA
+			So when this mission's over, you're 
+			just going to let him leave?
+
+					SISKO
+			I want him to stay as much as you 
+			do... but he has to want to stay.
+
+					T'RUL'S COM VOICE
+			Bridge to Commander Sisko.  We've 
+			reached the Callinon System.
+
+					SISKO
+				(to com)
+			On my way.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/13/94 - ACT THREE        44.
+
+27   CONTINUED:	(2)
+
+	Sisko and Kira head for the Exit.
+
+28   OMITTED
+
+28A  EXT. SPACE - CALLINON SEVEN (OPTICAL)
+
+	A gas giant planet.
+
+					SISKO (V.O.)
+			Ship's Log:  Stardate 48213.1  We 
+
+			have arrived at Callinon Seven under 
+			cloak and assumed a standard orbit.  
+			The relay station on this planet 
+			should not only help us in our search 
+			for the Founders, but should also 
+			provide us a first glimpse at the 
+			technology of the Dominion.
+
+29   INT. DEFIANT BRIDGE
+
+	Sisko, Kira, Dax and O'Brien are standing around the aft Ops 
+	Table.  T'Rul is at Engineering, and Bashir is standing 
+	nearby.  Dax and O'Brien are wearing phasers and tricorders.  
+	They are looking at an Okudagram graphic of the Callinon 
+	relay station on one of the nearby monitors.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        45.
+
+29   CONTINUED:
+
+					KIRA
+			From our sensor sweeps, it looks 
+			like Ornithar was telling the truth 
+			when he claimed the relay station 
+			was unmanned.  There also appear to 
+			be very few security measures in 
+			place.
+
+					SISKO
+				(to Dax & O'Brien)
+			Nothing fancy -- get in, find what 
+			we need, and get out.
+
+					DAX
+			Understood.
+
+					SISKO
+			On your way.
+
+	Dax and O'Brien EXIT.
+
+					SISKO
+				(to T'Rul)
+			The transporter will need three 
+			seconds to beam them down.  I want 
+			to decloak for exactly three seconds.
+
+	T'Rul nods and then resumes her Engineering post.  Sisko 
+	heads for command.
+
+					DAX'S COM VOICE
+			Dax to Bridge.  We're ready, Benjamin.
+
+					SISKO
+			All right.
+				(to T'Rul)
+			Disengage cloak.
+				(to Kira)
+			Energize.
+
+	T'Rul works, and the LIGHTS go UP as the Defiant DECLOAKS.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/14/94 - ACT THREE        46.
+
+29   CONTINUED:	(2)
+
+					KIRA
+				(off console)
+			They're on the surface.
+
+	Sisko glances at T'Rul and the Bridge again DARKENS as she 
+	engages the cloak.
+
+					SISKO
+				(to Kira)
+			Were we scanned during transport?
+
+					KIRA
+			I don't think so.
+
+					DAX'S COM VOICE
+			Dax to Defiant.
+
+					SISKO
+				(to com)
+			Go ahead, Dax.
+
+29A
+thru    OMITTED
+29B
+
+30   INT. OUTPOST
+
+	O'Brien and Dax are in a small alien computer room filled 
+	with alien graphics and monitors.  They both begin working 
+	on two of the monitors.
+
+					DAX
+				(to com)
+			We're in what seems to be a central 
+			computer room.  The user interface 
+			is a little unusual, but I think we 
+			can access it.
+
+					SISKO'S COM VOICE
+			Keep us posted.
+
+					O'BRIEN
+				(working, to Dax)
+			I'm into the main directory...
+
+					DAX
+			That was fast.
+
+	O'Brien pauses... a slight look of concern on his face.
+
+					O'BRIEN
+			Yes, it was... a little too fast if 
+			you ask me.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        47.
+
+30   CONTINUED:
+
+					DAX
+			Any sign that we've tripped some 
+			kind of security protocol?
+
+					O'BRIEN
+				(works)
+			No... I still have access to 
+			everything.
+
+					DAX
+			Then let's get the information and 
+			get out of here.
+
+					O'BRIEN
+			That's fine with me.
+
+	They begin working the monitor.
+
+									CUT TO:
+
+31   INT. DEFIANT BRIDGE
+
+	A short time later.  Everyone is trying to patiently wait... 
+	everyone seems a little on edge.  Sisko is just taking a mug 
+	of coffee frothe replicator... he takes a sip, then makes 
+	a face -- it's disgusting.
+
+					SISKO
+				(to himself)
+			I should've taken Quark up on his 
+			offer for a new replicator.
+
+					BASHIR
+			Sir?
+
+					SISKO
+			Nothing.
+
+	Sisko moves back toward the command area, and he glances 
+	over some of the consoles.
+
+					SISKO
+				(to Kira)
+			Let's make good use of this time, 
+			Major.  Begin running a level three 
+			diagnostic on --
+
+	Finally, Dax's com voice startles them.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE       47A.
+
+31   CONTINUED:
+
+					DAX'S COM VOICE
+			Dax to Defiant.  I think we have 
+			something, Benjamin.
+
+									INTERCUT:
+
+32   INT. OUTPOST (OPTICAL)
+
+	Dax and O'Brien are both working on a console.
+
+					DAX
+				(continuing, to com)
+			We've found a communications log of 
+			recent outgoing transmissions.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        48.
+
+32   CONTINUED:
+
+					O'BRIEN
+				(to com)
+			From the way I read this sir, it 
+			looks like eighty percent of the 
+			outgoing traffic is sent to one 
+			location.  It's my guess that's either 
+			another relay station or a command 
+			center.
+
+					SISKO
+			Do you have the coordinates?
+
+					DAX
+				(working her tricorder)
+			I'm sending them to you now.
+
+	Alarms suddenly go off in the outpost, the lights go OUT, and 
+	most of the computer monitors go dead.  Dax and O'Brien react 
+	in dismay.
+
+									CUT TO:
+
+33
+thru   OMITTED
+34
+
+35   INT. DEFIANT BRIDGE
+
+	As before.
+
+					KIRA
+			I've lost contact with them!
+
+					SISKO
+				(to Kira)
+			Get them out of there!
+
+					KIRA
+				(working)
+			I can't.  Some kind of shield just 
+			appeared around the outpost.  I can't 
+			get through it.
+
+        DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT THREE        49.
+
+35   CONTINUED:
+
+	An alarm suddenly goes off on the Tactical console.  
+	Bashir moves to it and reacts to what he sees.
+
+					BASHIR
+			We're picking up three Jem'Hadar 
+			ships, Commander.  They're heading 
+			this way.
+
+					SISKO
+				(to Kira)
+			Can we punch through that security 
+			shield with our phasers before those 
+			ships get here?
+
+					KIRA
+				(off console)
+			I'm not sure, I've never seen a field 
+			like this before.
+
+					T'RUL
+				(urgent, to Sisko)
+			In order to use the phasers we will 
+			have to decloak.  That means we'll 
+			be seen by the Jem'Hadar.
+
+	Bashir also turns to Sisko.
+
+					BASHIR
+			We have to do something... we can't 
+			just leave them down there.
+
+					T'RUL
+			That's exactly what we should do 
+			Doctor:  leave them.  We came here 
+			to locate the Founders, not to fight 
+			the Jem'Hadar over two expendable 
+			crew members.
+
+					BASHIR
+			No one is expendable.
+
+					KIRA
+				(Off console)
+			The Jem'Hadar ships have entered the 
+			system.  They'll be in orbit in thirty 
+			seconds.
+
+           DEEP SPACE: "THE SEARCH" - 07/08/94 - ACT THREE          50.
+
+35   CONTINUED:	(2)
+
+	Everyone watches Sisko waiting to see what he will do.  
+	He takes a long beat, finally sitting in the captain's chair 
+	as he makes a difficult decision.
+
+					SISKO
+				(to Kira)
+			Prepare to leave orbit.  Lay in a 
+			course to the coordinates Dax sent 
+			us.
+
+	Kira and Bashir look dismayed, but Kira reluctantly goes to 
+	the helm.
+
+					BASHIR
+			Commander...
+
+					SISKO
+			As you were, Doctor.
+
+					KIRA
+			Course laid in.
+
+					SISKO
+			Warp seven.  Engage.
+
+	Kira works the helm.  There is a long beat as everyone reacts 
+	to leaving Dax and O'Brien behind.  Off their reaction....
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT FIVE        51.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   INT. DEFIANT BRIDGE
+
+	Sisko, Bashir, T'Rul, and Kira, as seen at the end of Act 
+	Three.
+
+					BASHIR
+				(to Sisko)
+			What do you think will happen to Dax 
+			and O'Brien?
+
+					SISKO
+			They'll probably be held for 
+			interrogation.  If I know Dax, she'll 
+			use this opportunity to try and 
+			contact the Founders.  I intend to 
+			do the same.
+				(to Com)
+			Sisko to Odo.  Report to the Bridge, 
+			Constable.  I want to discuss the 
+			security arrangements for our arrival 
+			at --
+
+	But Odo's com voice quickly cuts him off.
+
+					ODO'S COM VOICE
+			I'm presently indisposed Commander.  
+			Please find someone else for the 
+			job.
+
+	A few surprised looks go around the bridge
+
+					BASHIR
+			That doesn't sound like Odo.
+
+					SISKO
+			No, it doesn't... I better have a 
+			talk with him.
+
+	Sisko starts to get out of his chair but Kira stops him.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT FOUR        52.
+
+36   CONTINUED:
+
+					KIRA
+			Let me, sir... I think he'll listen 
+			to me.
+
+	Sisko nods and Kira EXITS.  An N.D. Crewmember takes her 
+	place at the helm.  T'Rul suddenly reacts to something on 
+	her console.
+
+					T'RUL
+			Three Jem'Hadar ships have just 
+			entered sensor range, bearing zero 
+			three seven, mark two one five.
+
+	The tension level on the Bridge rises again.
+
+					SISKO
+			Any sign they've detected us?
+
+					T'RUL
+			Negative.
+
+					SISKO
+				(to Helm Officer)
+			Bring us out of warp, then cut main 
+			power.  We'll wait here until they 
+			pass.
+
+	They begin to work, but anxiety and tension can be seen on 
+	every face.
+
+									CUT TO:
+
+37   INT. DEFIANT - ODO'S QUARTERS
+
+	Odo is sitting at a small desk staring at a monitor.  The 
+	screen shows the star chart graphic seen earlier in Ornithar's 
+	office.  Odo is staring at the image intently, his mind 
+	obviously far away.  Kira ENTERS.  Her attitude is 
+	sympathetic, but firm.  She is trying to help her friend but 
+	at the same time she's knows he's gone too far.
+
+					KIRA
+			Odo it's time we had a talk.
+
+					ODO
+				(without turning)
+			I'm not going to the Bridge, so don't 
+			waste your breath.  And I would 
+			appreciate being left alone right 
+			now.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT FOUR       52A.
+
+37   CONTINUED:
+
+					KIRA
+			You've been alone and it hasn't done 
+			any good.  So maybe it's time you 
+			stopped brooding... and started 
+			talking.
+
+	Odo turns and gives her an irritated look.
+
+					ODO
+			Are you the ship's counselor now?
+
+					KIRA
+			No, I'm your friend.  You know, the 
+			person that comes to you when she 
+			needs help.  I'm just trying to return 
+			the favor.
+
+					ODO
+			You can return the favor by giving 
+			me a shuttlecraft and letting me go.
+
+	This catches Kira completely off guard.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT FOUR        53.
+
+37   CONTINUED:	(2)
+
+					KIRA
+			Go?  Go where?  We're in the heart 
+			of the Dominion.  Where the hell do 
+			you think you're going to go?
+
+	Odo points to a symbol on the monitor.
+
+					ODO
+			The Omarion Nebula.
+
+					KIRA
+			Why?
+
+					ODO
+			I'm not sure why, but I know I have 
+			to, that's all.
+
+					KIRA
+				(firm)
+			You're going to have to do a lot 
+			better than that.
+
+	Odo turns away from her, not wanting to discuss this, but 
+	she presses him.
+
+					KIRA
+				(continuing)
+			Odo talk to me!  What's going on?
+
+	Odo sits silently in his chair struggling with his inner 
+	demons.  He finally tries to explain things that he doesn't 
+	fully understand himself.
+
+					ODO
+				(quiet)
+			Ever since we've come into the Gamma 
+			Quadrant I've had this... feeling 
+			that I'm being drawn somewhere... 
+			pulled by some... instinct to a 
+			specific place.
+				(he points to the 
+				symbol on the monitor)
+			The Omarion Nebula.
+
+					KIRA
+			Why there?
+
+					ODO
+			I don't know.
+
+	Kira takes a beat, thinks about this for a minute.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/08/94 - ACT FOUR        54.
+
+37   CONTINUED:	(3)
+
+					KIRA
+			All right.  Once we've contacted the 
+			Founders, I'm sure Commander Sisko 
+			will --
+
+					ODO
+			No.  Not after we've contacted the 
+			Founders, now.  I have to leave now.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/14/94 - ACT FOUR        55.
+
+37   CONTINUED:	(5)
+
+					KIRA
+			Look, I know how much this means to 
+			you, but we have a mission to 
+			complete.
+
+	But before he can say anything, the ship is suddenly ROCKED 
+	hard.  Kira and Odo are staggered and nearly fall.  Then the 
+	ship is ROCKED again and there is an EXPLOSION out in the 
+	corridor which BLOWS THE BULKHEAD IN on top of them.
+
+									CUT TO:
+
+38
+thru   OMITTED
+39
+
+40   INT. DEFIANT BRIDGE
+
+	As before.  The ship is at Red Alert and is being buffeted 
+	and ROCKED during the following dialogue.
+
+					T'RUL
+				(off console)
+			Direct hit on the Port Nacelle.
+
+					BASHIR
+			How did they see through the cloaking 
+			device?
+
+					T'RUL
+			They might have analyzed the sensor 
+			information from their anti-proton 
+			scan and found a way to penetrate 
+			the cloak.
+
+					SISKO
+				(grim)
+			We'll have to save the speculation 
+			for later.
+				(to T'Rul)
+			Disengage cloak, raise shields, and 
+			prepare to fire on my command.
+
+									CUT TO:
+
+           DEEP SPACE: "THE SEARCH" - 07/08/94 - ACT FOUR           56.
+
+41   EXT. SPACE - DEFIANT & JEM'HADAR SHIPS (OPTICAL)
+
+	The Defiant DECLOAKS and turns to face the oncoming Jem'Hadar 
+	ships.
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/18/94 - ACT FIVE        57.
+                           ACT FIVE                             
+
+	FADE IN:
+
+42   EXT. SPACE - DEFIANT & JEM'HADAR SHIPS (OPTICAL)
+
+	The Jem'Hadar ships begin to pound the Defiant.
+
+43   INT. DEFIANT BRIDGE
+
+
+	As seen before.  The ship is ROCKED again.  Sisko moves to 
+	Tactical.
+
+					T'RUL
+			Communications and long-range sensors 
+			are out.
+
+					SISKO
+			What's the status of the warp drive?
+
+					T'RUL
+			The starboard power coupling is 
+			destroyed.  I'm trying to reroute 
+			main power.
+
+	The ship is ROCKED again, and a side console suddenly 
+	EXPLODES, killing the Helm Officer.  Bashir rushes to check 
+	on him.
+					BASHIR
+				(re: helm officer)
+			He's gone.  I'm taking the Helm.
+
+	Bashir then takes the helm and struggles to work the sparking 
+	console.
+
+					SISKO
+				(working console)
+			I'm locking onto the lead ship.
+				(to N.D. at Weapons)
+			Ready?
+
+	The Crewmember nods.
+
+					SISKO
+			Fire.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT FIVE        58.
+
+44   EXT. SPACE - DEFIANT & JEM'HADAR SHIPS (OPTICAL)
+
+	The Defiant FIRES at a Jem'Hadar ship.  (NOTE:  The Defiant's 
+	phasers are unique, so they should have a look that we've 
+	never seen before.)  The phaser beam HITS one of the Jem'Hadar 
+	ships and it EXPLODES.
+
+45   INT. DEFIANT BRIDGE
+
+	As before.
+
+					BASHIR
+				(off console)
+			The other two ships are moving out 
+			of phaser range.  They're coming 
+			back for another pass... but they're 
+			moving a little slower this time.
+
+					SISKO
+			They'll be more cautious this time.
+				(to Bashir)
+			Doctor, use evasive pattern delta-
+			five.  We need to keep them off 
+			balance until we get warp power back.
+
+					BASHIR
+			Aye, sir.
+
+									CUT TO:
+
+46   INT. DEFIANT - ODO'S QUARTERS/CORRIDOR
+
+	The room has been wrecked by the explosion, which has left a 
+	gaping hole leading out into the Corridor.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/11/94 - ACT FIVE        59.
+
+46   CONTINUED:
+
+	Wreckage is also visible out in the Corridor itself, where 
+	beams have fallen and other bulkheads have been blown in.  
+	Odo throws some debris out of the way, freeing Kira, who was 
+	pinned under a large beam.
+
+					ODO
+			Are you all right?
+
+					KIRA
+			Just a few bruises.
+				(hits com badge)
+			Kira to Bridge.
+				(beat)
+			Kira to Bridge.
+
+	The ship is ROCKED again and the lights flicker.
+
+					KIRA
+			We have to get up there.
+
+	They begin trying to clear a path through the wreckage in 
+	the Corridor.
+
+									CUT TO:
+
+47   INT. DEFIANT BRIDGE
+
+	The ship is ROCKING.  Sisko is checking on the Crewmember 
+	who manned the weapons console in scene 43... but he's clearly 
+	dead.
+
+					SISKO
+			T'Rul, where's my warp power?
+
+					T'RUL
+				(frustrated)
+			I can't get the phase inducers to 
+			align with the ODN matrices in the --
+
+					BASHIR
+				(urgent)
+			Commander, three more Jem'Hadar 
+			warships approaching off the port 
+			bow!
+
+					SISKO
+			Full impulse, try to get us out of 
+			here.
+
+	The ship is ROCKED hard.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/13/94 - ACT FIVE        60.
+
+48
+thru   OMITTED
+50
+
+51   INT. DEFIANT CORRIDOR (OPTICAL)
+
+	Kira and Odo are still struggling to clear the debris in the 
+	corridor when the ship is ROCKED.  The lights go almost 
+	completely out.
+
+					KIRA
+				(reacts)
+			We've lost main power.
+
+					ODO
+			We have to get to a shuttle.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/15/94 - ACT FIVE        61.
+
+51   CONTINUED:
+
+					KIRA
+			Our duty is to get to the bridge and 
+			help defend the ship.
+
+					ODO
+			If main power is out, then the shields 
+			are out too, Kira.  The ship is 
+
+			defenseless.
+
+	Before Kira can respond, THREE JEM'HADAR SOLDIERS MATERIALIZE 
+	in the Corridor, almost on top of them.  Kira and Odo react 
+	instantly, and we see the beginning of a brutal hand-to-hand 
+	FIGHT.
+
+52   INT. DEFIANT BRIDGE (OPTICAL)
+
+	The Bridge is filled with SMOKE from BURNING consoles... the 
+	lights are DIM... and only a few consoles are still working.  
+	The ship is continually ROCKED.
+
+					T'RUL
+			Main power is off-line... the shields 
+			have collapsed...
+
+					BASHIR
+			I've lost helm control... inertial 
+			dampers failing...
+
+					SISKO
+			Ready escape pods, stand by to abandon 
+			ship...
+
+	FIVE JEM'HADAR SOLDIERS MATERIALIZE.  Our people react, and 
+	a fight breaks out on the bridge.
+
+53   T'RUL (OPTICAL)
+
+	Fires disruptor into the chest of a Jem'Hadar soldier at 
+	point blank range, killing him.  Another Jem'Hadar HITS her 
+	across the jaw.
+
+54   BASHIR
+
+	Smashes an elbow into a Jem'Hadar's solar plexus...
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/18/94 - ACT FIVE        62.
+
+55   SISKO
+
+	Is struggling to hold his own with a Jem'Hadar soldier.
+
+56   WIDER
+
+	As MORE JEM'HADAR SOLDIERS RUSH IN from the Corridor.  It's 
+	clear our people will be overwhelmed in the next minute or 
+	so.
+
+									CUT TO:
+
+57   INT. DEFIANT CORRIDOR (OPTICAL)
+
+	Kira FIRES her phaser at a Jem'Hadar soldier, then turns 
+	just in time to see Odo dispatch another soldier with a quick 
+	blow to the throat.  Kira starts to head out into the corridor 
+	when suddenly a burst of phaser fire GRAZES her HEAD, knocking 
+	her to the deck.
+
+58   ON KIRA'S FACE
+
+	As she struggles against the pain and tries to get up.  But 
+	it's too much for her... the SOUNDS of battle around her 
+	FADE AWAY as her eyes flutter and she falls unconscious.  As 
+	Kira's eyes close we...
+
+									FADE OUT.
+
+	FADE IN:
+
+59   MATCHING SHOT ON KIRA'S FACE
+
+	She's sitting upright with her eyes closed and an ugly bruise 
+	on her temple from the phaser shot.  In contrast with the 
+	noise and the confusion of the battle everything is QUIET.  
+	After a beat, Kira starts to wake up.  She looks around in 
+	confusion.  MOVE TO REVEAL we're in:
+
+60   INT. SHUTTLECRAFT
+
+	Kira is sitting in the cockpit next to Odo, who is calmly 
+	piloting the ship.
+
+					KIRA
+				(weakly)
+			Where... where am I?
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/13/94 - ACT FIVE        63.
+
+60   CONTINUED:
+
+					ODO
+			You're in a Shuttlecraft, and you've 
+			been wounded so try not to move 
+			around.
+
+	Kira touches the bruise and winces.  Then memory floods back 
+	and she reacts in concern.
+
+					KIRA
+			Odo, what happened?  We were under 
+			attack...
+
+	During the following conversation, Odo never takes his eyes 
+	off something on the console in front of him.  Odo is 
+	conflicted here... he's focused on whatever he sees on the 
+	console, but Kira is also his friend and he's hoping that 
+	she'll understand and support what he's done.
+
+					ODO
+			The ship was boarded, and you were 
+			wounded in the attack.  I managed to 
+			get us to this shuttlecraft, but I 
+			don't know much more than that.  The 
+			last time I saw the Defiant she was 
+			dead in space and surrounded by 
+			Jem'Hadar ships.
+
+	Kira is shocked at this news and tries to take it all in.
+
+					KIRA
+			Sisko?  Bashir?
+
+					ODO
+			I don't know.
+
+	Kira takes another beat and lets that sink in.
+
+					KIRA
+			Where are we?
+
+					ODO
+			Approaching the Omarion Nebula.
+
+	Kira gives him a sharp look.
+
+					KIRA
+			You should have taken us back to the 
+			wormhole.
+
+					ODO
+			You didn't object at the time.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/13/94 - ACT FIVE        64.
+
+60   CONTINUED:	(2)
+
+					KIRA
+			I was unconscious.
+
+	Kira decides to drop it.
+
+					KIRA
+			Have you found anything?
+
+	Odo continues to stare at the console and nods slowly.  Kira 
+	sits up a little to see what he's looking at.  She reads the 
+	monitor and acts a little surprised.
+
+					KIRA
+				(off console)
+			There's a class-M planet ahead, but 
+			no star system.  A rogue planet?
+
+					ODO
+				(quiet)
+			Yes.
+
+61   EXT. SPACE - SHUTTLECRAFT (OPTICAL)
+
+	The Shuttlecraft heads for the dark planet.  (NOTE: there's 
+	no star present to shine light on the surface.)
+
+									CUT TO:
+
+62   EXT. CLEARING - NIGHT
+
+	A strange and beautiful alien setting.  The Shuttlecraft has 
+	landed in a small clearing on the edge of what seems to be a 
+	forest.
+
+         DEEP SPACE: "THE SEARCH" - REV. 07/19/94 - ACT FIVE        65.
+
+62   CONTINUED:
+
+	Since this planet has no sun it is ALWAYS NIGHT here.  
+	Kira and Odo EXIT the shuttle and step outside.  Kira looks 
+	around in curiosity.  Odo's gaze is fixed on something o.c.  
+	Odo walks toward what he's looking at and Kira follows him.
+
+63   EXT. LAKESHORE (OPTICAL) - NIGHT
+
+	Odo is walking toward the edge of what appears to be a large 
+	GELATINOUS LAKE.  The lake appears to be made of something 
+	other than water.  The surface undulates and roils in an 
+	unnatural fashion.  Odo stops at the edge.  Kira stands next 
+	to him and there is a long moment as Odo looks down at the 
+	strange liquid.
+
+	Suddenly a portion of the lake begins to MORPH.  As Odo and 
+	Kira watch in amazement, a group of FOUR SHAPE-SHIFTERS 
+	detach themselves from the lake and take on the form of FOUR 
+	HUMANOIDS.  Their faces have the same "unfinished" look that 
+	Odo's does and they appear to wear simple tunics.  One FEMALE 
+	shapeshifter smiles at Odo and steps towards him.
+
+					FEMALE
+			Welcome home.
+
+	Off Odo's reaction...
+
+									FADE OUT.
+
+	SUPER:			TO BE CONTINUED
+                        END OF ACT FIVE                         
+                            THE END                             

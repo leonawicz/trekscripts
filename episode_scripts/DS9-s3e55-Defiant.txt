@@ -1,0 +1,3288 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                           "Defiant" 
+                          #40513-455 
+                              
+                          Written by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                          Cliff Bole 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       September 29, 1994
+
+          STAR TREK: DS9 - "Defiant" 10/06/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Defiant" 
+                             CAST 
+
+          SISKO                    RIKER
+          KIRA                     GUL DUKAT
+          ODO                      KALITA
+          BASHIR                   TAMAL
+          DAX                      KORINAS
+          O'BRIEN                  SOLDIER
+
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+    STAR TREK DEEP SPACE NINE: "Defiant" - 09/29/94 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Defiant" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          OPS                           
+          INFIRMARY                     THE DEFIANT
+          QUARK'S/SECOND LEVEL          
+          COMMANDER'S OFFICE            CARDASSIA PRIME
+          PROMENADE                     
+          AIRLOCK                       
+          WARDROOM                      
+          SECURITY OFFICE               
+
+        DEFIANT                       
+          BRIDGE                        
+          KIRA'S QUARTERS               
+
+        CARDASSIAN WAR ROOM           
+
+        STAR TREK: "Defiant" - 09/29/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Defiant" 
+                      PRONUNCIATION GUIDE 
+
+          ALMATHA                  AL-mah-thuh
+          BYZALLIANS               buh-ZAY-lee-uns
+          BYZATIUM                 buh-ZAY-tee-um
+          CAMPOR                   KAM-poor
+          DARIA                    DAR-ree-ah
+          DAMERON                  DAM-er-on
+          DETAPA                   dee-TAH-pa
+          GANDHI                   GON-dee
+          JUMJA                    JUM-ja
+          KORINAS                  KOR-ee-nas
+          KARVINO                  kar-VEE-no
+          KELDON                   KEL-don
+          KRAXON                   KRACKS-on
+          LAKARIAN                 luh-KAR-ee-on
+          LORVAN                   LOR-van
+          NERVALA                  NER-va-la
+          ORIAS                    o-RYE-us
+          OMEKLA                   OH-mek-la
+          RANOR                    RAY-nor
+          TAMAL                    TUH-mal
+          THOLIAN                  THO-lee-an
+          TORAN                    TOR-an
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - TEASER            1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                              "Defiant"                                
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. OPS
+
+	KIRA is sitting at the Ops table, listening to O'BRIEN and 
+	DAX.  We can tell by the look on Kira's face that this is 
+	the beginning of a very long and very bad day.
+
+					DAX
+			Kira, we've got six Byzatium 
+			transports coming in this afternoon.  
+			I've got to have more cargo space.  
+
+					KIRA
+				(weary)
+			All right... have them offload into 
+			Cargo Bays three and four, but that's 
+			it.  We're pushing our storage 
+			capacity as it is.
+
+					O'BRIEN
+			Oh, that reminds me... we got a 
+			message last night saying the 
+			Byzallians want to move up their 
+			conference by a week.
+
+	Kira picks up a PADD in frustration and exhaustion.
+
+					KIRA
+			I haven't had a chance to read through 
+			last night's reports... anything 
+			else I should know?
+
+	Dax and O'Brien exchange a glance.  Kira's not going to like 
+	this...
+
+					O'BRIEN
+			Well...
+
+					KIRA
+			What?
+
+					DAX
+			Starfleet wants a complete report 
+			done on our computer calibration 
+			subroutine.
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - TEASER            2.
+
+1    CONTINUED:
+
+					KIRA
+			The whole subroutine?
+				(they nod)
+			When?
+
+	Beat.
+
+					O'BRIEN
+			Tomorrow.
+
+	Kira reacts... she's starting to get a headache...
+
+									CUT TO:
+
+2    INT. SECURITY OFFICE
+
+	Kira's headache is getting worse as she listens to ODO.
+
+					ODO
+			Someone -- probably a certain 
+			bartender we know -- has been using 
+			a public terminal to falsify inventory 
+			records and cargo manifests on the 
+			last three Ferengi transport ships 
+			that were here.  In other words, we 
+			have no idea what they've been 
+			shipping in and out of this station 
+			for the past month.
+
+					KIRA
+				(tired)
+			That means we've got to open every 
+			single Ferengi container on the 
+			station.
+
+					ODO
+			We have another problem as well... 
+			the Tholian Ambassador reported that 
+			someone broke into his quarters during 
+			the night and stole three cases of 
+			latinum.
+
+					KIRA
+			Three cases?
+
+					ODO
+			It was the dowry for his wedding.
+
+					KIRA
+			When's the wedding?
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - TEASER            3.
+
+2    CONTINUED:
+
+					ODO
+			Tomorrow.
+
+	Kira puts a hand to her temple... it's getting worse.
+
+									CUT TO:
+
+3    INT. INFIRMARY
+
+	BASHIR is talking to Kira, who's just about at the end of 
+	her rope.
+
+					BASHIR
+			Major, the scheduled transport's 
+			been delayed and I need those medical 
+			supplies by the end of the week at 
+			the latest.
+
+					KIRA
+			We can't spare a runabout to go all 
+			the way to Vulcan right now.
+
+					BASHIR
+			I'm supposed to set up a field 
+			hospital for the new colony on Campor 
+			Three next week.  If I don't have 
+			those supplies, it could set the 
+			entire colonization schedule back by 
+			at least --
+
+	Kira finally boils over and cuts loose at Bashir.
+
+					KIRA
+				(explodes)
+			Listen to me.  You can't have a 
+			runabout, you can't get your medical 
+			supplies, and I don't give a damn 
+			about the colonization schedule.  
+			We've got problems of our own, so 
+			those colonists can make do with a 
+			box of bandages for all I care.
+
+	Kira turns and begins to storm out of the room, when Bashir 
+	stops her cold by the low and deadly serious tone in his 
+	voice.
+
+					BASHIR
+			Stop right there, Major.
+
+	Kira turns and looks at him, just waiting for him to start 
+	another argument, but Bashir handles the situation with a 
+	Doctor's clinical and dispassionate authority.
+
+           DEEP SPACE: "Defiant" - REV. 10/05/94 - TEASER            4.
+
+3    CONTINUED:
+
+					BASHIR
+				(continuing)
+			When was your last day off?
+
+					KIRA
+			I don't know.  What does that have 
+			to do with--
+
+					BASHIR
+			If you can't remember, it's been too 
+			long.
+				(beat)
+			You're off duty as of this moment.
+
+					KIRA
+			What do you mean, I'm off duty?  You 
+			can't do that.
+
+					BASHIR
+			Oh, yes I can.  And not even Commander 
+			Sisko can overrule my judgement as 
+			chief medical officer.
+
+	Kira blinks at him a moment... tries to backtrack.
+
+					KIRA
+			Wait a minute, Julian... just because 
+			I snapped at you isn't enough to--
+
+					BASHIR
+			My diagnosis is that you're overworked 
+			and suffering from extreme stress 
+			and borderline exhaustion.  As for 
+			my prescription... come with me.
+
+	He heads for the door... Kira hesitates, then EXITS with 
+	him.
+
+									CUT TO:
+
+4    INT. QUARK'S - SECOND LEVEL
+
+	Kira is sitting at a table.  QUARK is putting things on the 
+	table in front of her, as Bashir looks on.
+
+           DEEP SPACE: "Defiant" - REV. 10/05/94 - TEASER            5.
+
+4    CONTINUED:
+
+					QUARK
+				(placing the items)
+			Karvino juice... Lorvan crackers... 
+			a holosuite program... a jumja 
+			stick... and gambling tokens.
+
+					BASHIR
+			Now, at least two of these items 
+			must be used and fully enjoyed before 
+			you can leave this facility.
+
+					KIRA
+			Julian...
+
+					QUARK
+				(to Bashir)
+			I'll be giving you a full report on 
+			her activities, Doctor.
+
+					BASHIR
+				(to Kira)
+			If I hear you didn't relax and have 
+			a good time tonight, we'll do this 
+			every night until you do.
+				(smiles)
+			Have fun.
+
+	Bashir and Quark EXIT.  Kira sits there for a moment, unsure 
+	how to react, then smiles to herself at the outrageousness 
+	of it all.  She picks up the glass of juice and takes a sip.
+
+					RIKER'S VOICE
+			Looks like you've got your evening 
+			all planned out.
+
+	Kira turns and sees COMMANDER WILLIAM RIKER looking down at 
+	her.
+
+					RIKER
+			I hope you left room for... the 
+			unexpected.
+
+	He gives her his most winning smile as he sits down across 
+	from her.  And we can see that Kira is intrigued...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT ONE              6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+5    INT. COMMANDER'S OFFICE
+
+	SISKO and Riker are just shaking hands.
+
+					SISKO
+			Welcome aboard, Commander.
+
+					RIKER
+			Thank you.  And call me Wil.
+
+	Sisko gestures to a chair and they sit.
+
+					SISKO
+			What brings you to Deep Space Nine?
+
+					RIKER
+			Strictly pleasure.  I've built up 
+			about three months worth of leave 
+			and Doctor Crusher finally insisted 
+			that I take some of it.  In fact, 
+			she nearly shoved me out the airlock.
+
+					SISKO
+			D.S. Nine isn't exactly known as a 
+			vacation getaway.
+
+					RIKER
+			I'm actually just passing through on 
+			my way to Risa.  The last time I was 
+			here, I only got to spend two hours 
+			at Quark's... but by the time I left, 
+			I had all his latinum and a date 
+			with one of his dabo girls.  I thought 
+			I might try my luck again.
+
+					SISKO
+				(with humor)
+			Be careful... Quark's dabo wheel has 
+			been a little stingy recently.  And 
+			one of his Dabo girls is dating my 
+			son.
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT ONE           7.
+
+5    CONTINUED:
+
+					RIKER
+				(with humor)
+			In that case, maybe I better spend 
+			my time in the holosuites.  It sounds 
+			safer... all the way around.
+
+	Sisko chuckles.
+
+					SISKO
+			Is there anything I can do for you 
+			while you're here?  A look around 
+			the station... maybe a tour of the 
+			Defiant?  Chief O'Brien's working on 
+			her polaron deflector this morning... 
+			I'm sure he'd love to show you around.
+
+					RIKER
+			Thanks... but to be honest, the last 
+			thing I want to do on my vacation is 
+			look at polaron deflectors.
+
+					SISKO
+				(smiles)
+			I can't say that I blame you.
+
+	Riker leans in with a grin on his face.
+
+					RIKER
+			Now... which Dabo girl is your son 
+			dating... just to be on the safe 
+			side?
+
+	Sisko sits back with a mixture of embarrassment and pride.
+
+									CUT TO:
+
+6    INT. OPS
+
+	Kira is working at a console, but she keeps glancing over at 
+	the commander's office where Sisko and Riker are still 
+	talking.  Dax comes over to her.
+
+					DAX
+			Who's in there?
+
+					KIRA
+				(surprised)
+			What?
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT ONE              8.
+
+6    CONTINUED:
+
+					DAX
+			Who's in with Benjamin?
+
+					KIRA
+				(a little embarrassed)
+			Oh... it's Wil -- Commander Wil Riker 
+			from the Enterprise.
+
+	Dax smiles at the name.
+
+					DAX
+			Wil Riker...
+
+					KIRA
+			You know him?
+
+					DAX
+			Met him at Quark's about a year ago.  
+			Quite a dabo player.
+				(beat)
+			Do you know him?
+
+					KIRA
+				(casual)
+			Yes... a little.  We met at Quark's... 
+			last night.
+
+	Kira focuses on the console in front of her... Dax picks up 
+	on the subtext and she presses a little.
+
+					DAX
+			You met... last night... and...
+
+					KIRA
+			And we talked.
+
+					DAX
+			And then...
+
+					KIRA
+			And then nothing.  We just talked.
+				(beat)
+			For three hours.
+
+	Dax nods with a knowing smile on her face.
+
+					KIRA
+				(stern)
+			We... just... talked.  And yes, he's 
+			a very warm... very charming man... 
+			but I'm involved with someone.
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT ONE           9.
+
+6    CONTINUED:	(4)
+
+					DAX
+			Of course.
+				(beat)
+			So why do you keep glancing at Sisko's 
+			office?
+
+	Kira has no real answer for that.  Suddenly, the doors to 
+	Sisko's office OPEN and Riker and Sisko ENTER Ops.
+
+					SISKO
+			If you can find the time, you have 
+			an open invitation for dinner with 
+			Jake and me.
+
+					RIKER
+			I just might take you up on that.
+
+	Dax moves to Riker and greets him warmly.
+
+					DAX
+				(joking)
+			I hope you're not here for another 
+			loan.
+
+	Riker gives her a blank look -- he has no idea what she's 
+	talking about.  Dax smiles at him.
+
+					DAX
+			Don't tell me you've forgotten who 
+			staked you three strips of latinum 
+			when your winning streak ran dry?
+
+	Riker recovers quickly, smiles in embarrassment, and shakes 
+	her hand.
+
+					RIKER
+			Oh, my God... of course.  Sorry... 
+			most of that night is still a blur.  
+			How are you, Dax?
+
+					DAX
+			Fine.
+
+	Riker's eye wanders to Kira, who has stayed at her console.
+
+					RIKER
+			Major.
+
+					KIRA
+			Commander.
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT ONE          10.
+
+6    CONTINUED:	(3)
+
+	Sisko and Dax both notice the look between Riker and Kira 
+	and then exchange a look of their own.
+
+					RIKER
+				(to Sisko & Dax)
+			Well.  I better get out of your way 
+			and let you get back to work.
+				(beat)
+			I hope I see you all again soon.
+
+	As he says these last words, his eye falls again on Kira and 
+	she returns the look.  Riker EXITS and Sisko heads back to 
+	his office.  Dax moves off and Kira seems to go back to 
+	work... but she looks up and we can see that she's still 
+	thinking about Riker.
+
+									CUT TO:
+
+7    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing the station.
+
+8    INT. PROMENADE - SECOND LEVEL
+
+	Riker is loitering near one of the shops... he keeps glancing 
+	around the corner of the shop down the Promenade, then ducking 
+	back... he finally sees something and reacts.  He takes a 
+	few steps backward behind the corner... waits... and then 
+	walks casually around the bend as if just coming out of the 
+	shop.  He nearly runs right into Kira, who is coming the 
+	opposite way down the Promenade.
+
+					RIKER
+			Oops.  Sorry about that.
+
+					KIRA
+			It's all right.
+
+					RIKER
+			My mind was a million light years 
+			away.  Should've been paying attention 
+			to where I was going.
+
+	Kira smiles at him... there's an awkward beat... then Kira 
+	glances at the shop Riker just came out of.
+
+					KIRA
+			So... doing some shopping?
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT ONE          11.
+
+8    CONTINUED:
+
+					RIKER
+			I'm just exploring the Promenade 
+			actually.  I thought about heading 
+			over to Quark's, but... I wasn't 
+			really in the mood.
+				(beat)
+			Where're you off to?
+
+					KIRA
+			I'm just... coming off duty.  I was 
+			about to call it a night.
+
+					RIKER
+			I see.
+				(beat)
+			Well... good night.
+
+	Riker holds her gaze and then begins to walk off.  Kira 
+	hesitates... then stops him.
+
+					KIRA
+			Would you... like a tour of the 
+			station... ?
+
+					RIKER
+				(smiles)
+			I'd love one.  Where should we begin?
+
+					KIRA
+			Well, we could walk along the 
+			Promenade for a start.  There's quite 
+			a bit to see here.
+
+	They begin walking.
+
+					RIKER
+				(casual)
+			You think we'll have a chance to 
+			take a look at that new starship of 
+			yours?  What's it called... ?
+
+					KIRA
+			The Defiant.
+
+					RIKER
+			Yeah, the Defiant.  I hear it's quite 
+			a vessel.
+
+					KIRA
+			I'm sure we could arrange that.
+
+	As they walk off together...
+
+           DEEP SPACE: "Defiant" - REV. 10/05/94 - ACT ONE          12.
+
+9    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	where we can see the DEFIANT docked at the station.
+
+10   INT. AIRLOCK
+
+	An armed security guard is stationed outside the airlock.  A 
+	computer terminal is nearby.  Kira and Riker approach.  Kira 
+	taps some commands into the computer terminal.
+
+					COMPUTER VOICE
+			Please identify for access to USS 
+			Defiant.
+
+	Kira puts her hand on a computer panel, which LIGHTS UP.
+
+					KIRA
+			Major Kira Nerys, Bajoran militia.
+
+					COMPUTER VOICE
+			Identity confirmed.
+
+	Riker steps up, puts his hand on the same panel.
+
+					RIKER
+			Commander William Riker, Starfleet.
+
+					COMPUTER VOICE
+			Identity confirmed.
+
+	The Guard then works his terminal for a moment.  The airlock 
+	OPENS.  Kira and Riker EXIT into the airlock.
+
+11   INT. DEFIANT - BRIDGE
+
+	The Defiant Bridge is mostly DARK -- only one or two consoles 
+	are lit.  Kira and Riker ENTER and see Chief O'Brien is lying 
+	under a console, with his head inside the open panel.  Kira 
+	is a little surprised, but the look on Riker's face says 
+	that he's not very happy about this particular surprise.
+
+					KIRA
+			Chief.  I didn't know there was anyone 
+			aboard tonight.
+
+					O'BRIEN'S VOICE
+				(from inside panel)
+			I hadn't planned to... just putting 
+			in a little extra work on the 
+			deflector targeting arrays.
+
+           DEEP SPACE: "Defiant" - REV. 09/29/94 - ACT ONE          13.
+
+11   CONTINUED:
+
+	O'Brien takes his head out of the panel and sees Riker.  
+	He begins to stand up with a broad smile on his face, but 
+	instead of a warm greeting, Riker gives him his coldest and 
+	harshest look.
+
+					O'BRIEN
+			Commander.  I heard you were aboard, 
+			but I hadn't--
+
+					RIKER
+				(harsh)
+			I have nothing to say to you, Chief.  
+			And I think you know why.
+
+	Riker glares at him and O'Brien is too shocked to say anything 
+	in response.  There's an awkward silence.
+
+					KIRA
+				(to Riker)
+			Maybe we should come back another 
+			time.
+
+					O'BRIEN
+			No... no, that's all right, Major.  
+			I was just leaving.
+				(beat)
+			Commander.
+
+	O'Brien EXITS.
+
+					KIRA
+				(to Riker)
+			What was that all about?
+
+					RIKER
+			It's a long story.  And I'd rather 
+			not get into it right now.
+
+	Riker looks around the Bridge with a look of eager 
+	anticipation.
+
+					RIKER
+			Well, let's have a look at this ship 
+			of yours.
+
+	Kira is still a little disturbed by the Riker/O'Brien tension, 
+	but she puts it aside and begins to show Riker around.
+
+					KIRA
+			Okay.  I'll show you the tactical 
+			systems first.
+
+           DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT ONE          14.
+
+11   CONTINUED:	(2)
+
+					KIRA
+			I think you're going to be surprised 
+			at how big a punch this little ship 
+			has...
+
+									CUT TO:
+
+12   INT. AIRLOCK
+
+	O'Brien is coming out of the airlock with a disturbed look 
+	on his face.  He stops just outside the airlock door, frowns 
+	to himself... almost goes back, then decides the hell with 
+	it and walks off...
+
+13   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Riker and Kira are sitting at one of the consoles.  Kira is 
+	showing him a complex schematic diagram.
+
+					RIKER
+			Running the plasma conduit through 
+			the primary phaser coupling has almost 
+			doubled your phaser power.  But 
+			doesn't that reduce warp drive 
+			efficiency?
+
+					KIRA
+			Not at all.  In fact, it's thirty 
+			percent more efficient.
+
+					RIKER
+			That's ingenious.
+				(works console)
+			I want to see how this is all routed 
+			through the tactical display.
+
+	The computer BEEPS.
+
+					COMPUTER VOICE
+			Command authorization required.
+
+	Riker looks a little surprised.
+
+					KIRA
+			It's a new security procedure.
+				(to computer)
+			Computer, release Bridge lockout -- 
+			authorization Kira delta five-four-
+			seven alpha.
+
+           DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT ONE          15.
+
+	The computer works and the Bridge LIGHTS UP -- all the 
+	consoles are now active.
+
+					RIKER
+			Thank you.
+
+	Riker pulls out a small hand phaser and STUNS Kira with it.  
+	She falls to the floor.  Riker heads across the Bridge and 
+	moves to one of the other consoles and begins working it.  
+	After a beat, a man and a woman -- KALITA and TAMAL -- 
+	MATERIALIZE on the Bridge.
+
+									CUT TO:
+
+14   INT. OPS
+
+	Dax is working at a console when suddenly ALARMS go off and 
+	the station goes to RED ALERT.  Sisko comes rushing out of 
+	his office.
+
+					SISKO
+			What's going on?
+
+					DAX
+				(working furiously)
+			I'm not sure... but something's 
+			happened to the warp core on the 
+			Defiant.  It looks like it's going 
+			to breach in about sixty seconds.
+
+					SISKO
+			Is anyone on board?
+
+					DAX
+			O'Brien was working there this 
+			morning.  But I don't know if he--
+
+	The console BEEPS.
+
+					DAX
+				(off console)
+			Incoming signal from the Defiant.  
+			It's Commander Riker.
+
+					SISKO
+			On screen.
+
+           DEEP SPACE: "Defiant" - REV. 10/05/94 - ACT ONE          16.
+
+15   INCLUDE VIEWSCREEN (OPTICAL)
+
+	A tight shot of Riker on the Bridge.  SMOKE and GAS are 
+	billowing in the b.g.
+
+					RIKER
+
+				(urgent)
+			There's been an accident.  One of 
+			the plasma conduits exploded and 
+			Major Kira's been injured.  We're 
+			forty-five seconds from a core breach.  
+			Release the docking clamps and I'll 
+			get us away from the station.
+
+	Sisko nods to Dax and she works.
+
+					SISKO
+				(to Riker)
+			We'll beam the two of you away as 
+			soon as you're clear.
+
+					DAX
+			Docking clamps released.
+
+					RIKER
+				(working)
+			Okay... I'm engaging thrusters...
+
+16   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	as it pulls away from the station.
+
+17   INT. OPS (OPTICAL)
+
+	Riker is still on the viewscreen, working.  O'Brien ENTERS 
+	and rushes to his station.
+
+					DAX
+			Fifteen seconds.
+
+					SISKO
+				(to O'Brien)
+			Lock on and beam them out of there, 
+			Chief.
+
+	O'Brien reacts to his console.
+
+					O'BRIEN
+			I can't get a lock.  The Defiant's 
+			shields are up.
+
+           DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT ONE          17.
+
+17   CONTINUED:
+
+					SISKO
+			What?
+
+	The viewscreen goes dead.
+
+18   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The Defiant goes INTO WARP.
+
+19   INT. OPS
+
+	As before.
+
+					DAX
+			She's gone into warp.  I've lost 
+			them.
+
+	OFF Sisko's stunned reaction as he begins to realize what's 
+	happened and he looks determined to do something about it.
+
+									CUT TO:
+
+20   INT. DEFIANT - BRIDGE
+
+	Kalita is sitting at the helm.  Tamal is working at a 
+	bulkhead, which is spewing out gas and smoke.  Riker is 
+	sitting in the command chair.
+
+					KALITA
+				(off console)
+			We're beyond their sensor range.
+
+					RIKER
+			Set course for the Badlands.  Warp 
+			seven.
+
+	Riker turns in the chair toward Tamal.
+
+					RIKER
+			Tamal, secure that conduit.
+
+	Tamal works for a moment, and then the gas and smoke STOP.  
+	Riker begins to pull off the beard he's been wearing... 
+	revealing the face of Thomas Riker.
+
+					KALITA
+				(off console)
+			Course laid in.  We'll be in the 
+			Badlands in six hours.
+
+	She turns and smiles at him.
+
+           DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT ONE          18.
+
+20   CONTINUED:
+
+					KALITA
+			You did it, Tom.
+
+					RIKER
+			Yeah... but it's not over yet.
+
+	Off his face...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT TWO             19.
+                            ACT TWO                             
+
+	FADE IN:
+
+21   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As before.
+
+22   INT. WARDROOM (OPTICAL)
+
+	On the monitor is biographical material and a photo of Thomas 
+	Riker.  Odo is briefing GUL DUKAT, who is sitting at the 
+	table.  Sisko is standing nearby.
+
+					ODO
+			Nine years ago, a transporter accident 
+			created two William T.  Rikers... 
+			one of them returned to his ship, 
+			the other was marooned on Nervala 
+			Four.
+
+					SISKO
+			The second Riker was finally 
+			discovered two years ago.  He chose 
+			to use his middle name -- Thomas -- 
+			to distinguish himself from the other 
+			Riker.
+
+					ODO
+			The two men are physically identical 
+			in every respect -- right down to 
+			their DNA coding.  There was no way 
+			for the security computer to know 
+			that it was Thomas, not William who 
+			boarded the Defiant.
+
+					GUL DUKAT
+				(a little amused)
+			A very entertaining story... but why 
+			am I listening to it?
+
+	Odo and Sisko exchange a look.  Sisko leans forward... Dukat 
+	is not going to like this.
+
+					SISKO
+			We have reason to believe that Thomas 
+			Riker... is a member of the Maquis.
+
+	Dukat stares at him for a moment, not wanting to believe 
+	what he just said.
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT TWO             20.
+
+22   CONTINUED:
+
+					GUL DUKAT
+			What?
+
+					ODO
+			Thomas Riker was serving aboard the 
+			starship Gandhi.  While he was there, 
+			he began to express certain... 
+			political opinions... opinions that 
+			support the Maquis and their goals.
+
+					SISKO
+			The Gandhi's captain said that Riker 
+			was adamantly opposed to stopping 
+			Maquis raids against Cardassian 
+			targets.
+
+	Dukat gets up... shocked by this turn of events... he takes 
+	a few steps as he tries to let this sink in.
+
+					GUL DUKAT
+			You're telling me that one of the 
+			most heavily armed warships in this 
+			quadrant is now in the hands of Maquis 
+			terrorists?  Do you have any idea 
+			what kind of response this will 
+			provoke from the Central Command?
+
+					SISKO
+			They'll probably want to send ships 
+			into the Demilitarized Zone to conduct 
+			a search.  We understand that.  But... 
+			any entry into the zone must be a 
+			joint operation between Cardassia 
+			and the Federation.
+
+					GUL DUKAT
+				(with contempt)
+			The Central Command won't be 
+			interested in any "joint operations," 
+			commander.  They're not going to 
+			believe this story of yours about 
+			transporter duplicates and security 
+			failures.
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT TWO             21.
+
+22   CONTINUED:	(2)
+
+					GUL DUKAT (Cont'd)
+			They'll assume that Starfleet wanted 
+			the Maquis to have the Defiant... 
+			and they'll respond accordingly.
+
+					ODO
+			What does that mean, exactly?
+
+					GUL DUKAT
+			It means they'll take this opportunity 
+			to finally eliminate the Maquis.  
+			They'll send a fleet into the zone 
+			with orders to search and destroy 
+			every last Maquis base as well as 
+			your missing starship.
+
+	Sisko leans forward... tries to keep things calm and steady.
+
+					SISKO
+				(quiet, steady)
+			Starfleet is willing to cooperate in 
+			a search for the Defiant... but they 
+			will not allow the Central Command 
+			to use this as an excuse for a full-
+			scale invasion.
+
+					GUL DUKAT
+			Of course not.  So you'll send your 
+			own fleet into the zone to protect 
+			the Federation colonies... at some 
+			point the two fleets will meet... 
+			tensions will rise... nerves will 
+			fray... someone will make a mistake...
+
+					SISKO
+			And we'll have a war on our hands.
+
+	A quiet, grim moment as everyone takes in the disturbing 
+	gravity of the situation.
+
+					GUL DUKAT
+			It is a prospect that I do not relish.
+
+           DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT TWO          22.
+
+22   CONTINUED:	(3)
+
+					SISKO
+			Neither do we.
+
+					ODO
+			That's why we need to work together 
+			to prevent it from happening.
+
+					GUL DUKAT
+			Unless I can bring something to the 
+			Central Command that will prove your 
+			good faith... and your willingness 
+			to help stop the Defiant... I don't 
+			believe that anything will prevent 
+			this conflict from beginning.
+
+					SISKO
+			Then bring me with you.  I can help 
+			you stop the Defiant and prove our 
+			good faith.  I was in charge of the 
+			shipyard where the Defiant was 
+			built... I helped design it.  I know 
+			her vulnerabilities... her 
+			weaknesses...
+
+					GUL DUKAT
+			You'll help us destroy one of your 
+			own ships?
+
+					SISKO
+			I want to try and disable it first.
+
+	Dukat leans closer, makes his point firmly.
+
+					GUL DUKAT
+				(pressing him)
+			I'm sure you would, but you're in no 
+			position to bargain.  You want to 
+			prevent a war?  Then come back to 
+			Cardassia with me and help me destroy 
+			the Defiant.
+
+	Sisko takes a moment... weighs the stakes, realizes there's 
+	only one answer.
+
+					SISKO
+			When do we leave?
+
+	OFF Sisko's determined face...
+
+									CUT TO:
+
+           DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT TWO          23.
+
+23   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship at warp.
+
+24   INT. DEFIANT - QUARTERS
+
+	Kira is facing Riker with a look of fury on her face.
+
+					KIRA
+				(boiling)
+			I don't care who you are or what 
+			your name is.
+
+					RIKER
+			Look, I'm sorry about lying to you, 
+			and about... using you.  But it was 
+			an operational necessity.
+
+	Kira turns away from him, pacing as best as she can in the 
+	narrow confines of the room, trying to let her anger subside.
+
+					RIKER
+				(continuing)
+			You were a resistance fighter... you 
+			know that sometimes you have to do 
+			things that you're not proud of in 
+			order to accomplish the mission.
+
+           DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT TWO          24.
+
+24   CONTINUED:
+
+					KIRA
+			Well, you've accomplished your 
+			mission, so now what?  Everyone's 
+			going to be looking for you -- the 
+			Cardassians and Starfleet.  How far 
+			do you think you can get with this 
+			ship before they find you?
+
+					RIKER
+				(with a confident 
+				smile)
+			A lot farther than anyone anticipates.
+
+					KALITA'S COM VOICE
+			Kalita to Riker.  We've reached the 
+			rendezvous point.
+
+					RIKER
+				(to com)
+			On my way.
+
+	Riker looks at her for a moment, then EXITS.
+
+									CUT TO:
+
+25   INT. DEFIANT - BRIDGE
+
+	Kalita at Helm, Tamal at a side console as Riker ENTERS.
+
+					KALITA
+			The other Maquis ships just arrived.
+
+	Tamal's console BEEPS.
+
+					TAMAL
+				(off console)
+			The rest of the team's ready.
+
+					RIKER
+			Lower the shields and beam them 
+			aboard.
+
+	Tamal works.
+
+           DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT TWO          25.
+
+25   CONTINUED:
+
+					TAMAL
+			The Maquis ships are heading for the 
+			border, Tom.
+
+					KALITA
+			All defense systems on-line and 
+			operational... warp power standing 
+			by.
+
+					RIKER
+				(to Kalita)
+			Lay in a course for the Cardassian 
+			border.  Warp eight.
+
+	Three N.D. MAQUIS ENTER the bridge and head for consoles... 
+	each of them confident and ready to go.
+
+					KALITA
+				(with a smile)
+			Course already laid in.
+
+	Riker sits down in the command chair... looks around the 
+	bridge for a beat.
+
+					RIKER
+				(musing)
+			This ship was built to fight... I 
+			think it's time she got her chance.
+				(beat)
+			Engage.
+
+	Kalita works and the ship goes to warp.  OFF Riker's confident 
+	and steely expression...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE         26.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   EXT. CARDASSIA PRIME (MATTE SHOT)
+
+	The Cardassian homeworld as seen before.
+
+					SISKO (V.O.)
+			Commander's Log:  Stardate 48467.3 
+			Gul Dukat and I have arrived on 
+			Cardassia Prime.  I am about to do 
+			something which goes against twenty 
+			years of Starfleet training:  help 
+			an enemy hunt down one of our own 
+			ships.
+
+27   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	The War Room is the Cardassian equivalent of NORAD.  The 
+	room is dominated by large screens and monitors which show a 
+	bewildering array of tactical displays, ship movements, real- 
+	time reports from vessels, strategic information, intelligence 
+	reports, etc. The room should always be filled with Cardassian 
+	military N.D.s who should always be rushing about dealing 
+	with problems, working consoles and carrying out orders.
+
+	Sisko and Dukat ENTER.  Sisko draws a few curious looks from 
+	the Cardassian soldiers, but they ignore him for the most 
+	part and continue with their work.
+
+					GUL DUKAT
+			This is where I will be conducting 
+			the search for the Defiant.  From 
+			this room, I can control every 
+			Cardassian ship, outpost, and space 
+			station anywhere in...
+
+	Dukat trails off as an unnatural quiet fills the room and 
+	everyone looks at something o.s.
+
+28   NEW ANGLE (OPTICAL)
+
+	A Cardassian woman named KORINAS is ENTERING the War Room.  
+	Korinas is the representative of the Obsidian Order... a 
+	woman who's so confident of her power and ability that she 
+	has no need to posture or bluster like the usual Cardassian 
+	Guls.
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE         27.
+
+28   CONTINUED:
+
+	Korinas can afford to be calm and pleasant -- there is a 
+	look of fear and loathing on every Cardassian face as she 
+	enters the room and calmly heads for Dukat and Sisko.
+
+					GUL DUKAT
+			Commander, allow me to introduce 
+			Korinas -- our "observer" from the 
+			Obsidian Order.
+				(indicates Sisko)
+			Commander Sisko.
+
+					SISKO
+			Korinas.
+
+					KORINAS
+			Welcome to Cardassia Prime, Commander.
+
+					SISKO
+			Thank you.
+
+	Korinas lets her eyes flick around the room for a beat... 
+	everyone in the War Room quickly goes back to work.  But 
+	Korinas sees something nearby.
+
+					KORINAS
+				(to Sisko)
+			Excuse me.
+				(calm, to N.D. Soldier)
+			Secure that console while the Human 
+			is here.  Anything else classified 
+			as Level Four or above should also 
+			be secured.
+
+	The N.D. nods and then quickly TURNS OFF the console.  She 
+	turns back to Sisko with a polite look, but her words have 
+	daggers.
+
+					KORINAS
+				(to Sisko)
+			I'm sure you can understand that 
+			although we all respect Gul Dukat's 
+			decision to bring you here... we 
+			must take some precautions.
+
+					SISKO
+			Of course.  I would've done the same.
+				(beat, then pleasant)
+			But then I would've been more 
+			discreet.
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE         28.
+
+28   CONTINUED:	(2)
+
+	The calm and easy manner in which Sisko parries her thrust, 
+	causes Korinas to hold his gaze for a moment, as if 
+	considering him.  She gives him a short, polite smile, then 
+	moves on to the business at hand.
+
+					KORINAS
+			Since you're here to provide technical 
+			expertise on the Defiant, I suggest 
+			you begin briefing us on the ship's 
+			defensive capabilities.  Please 
+			describe for us -- in detail -- the 
+			weapon systems of the Defiant, 
+			beginning with the ship's phaser 
+			array and --
+
+					SISKO
+			Before we discuss weaponry... there 
+			is a more urgent matter that you 
+			should be aware of.
+
+	Dukat and Korinas exchange a quick look and wait for him to 
+	continue.
+
+					SISKO
+				(continuing)
+			The Defiant's equipped with a cloaking 
+			device.
+
+	Dukat reacts as if Sisko just placed another heavy burden on 
+	his shoulders, but Korinas barely reacts at all.
+
+					KORINAS
+			I wondered if you were going to share 
+			that little detail with us.
+
+					GUL DUKAT
+				(to Korinas)
+			You knew about this?
+
+					KORINAS
+			The Obsidian Order has known for 
+			some time about the... "loan" of a 
+			cloaking device from the Romulans to 
+			the Federation.
+
+					GUL DUKAT
+				(outraged)
+			And the Order chose not to share 
+			this intelligence with the Central 
+			Command?
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE        28A.
+
+28   CONTINUED:	(3)
+
+					KORINAS
+			Until now, the Order has not 
+			considered this one cloak to be a 
+			threat against Cardassia.
+
+					SISKO
+				(to Dukat)
+			Under the terms of our agreement 
+			with the Romulans the cloaking device 
+			was to be used only in the Gamma 
+			Quadrant... and they only agreed to 
+			that in exchange for all our 
+			intelligence reports on the Dominion.
+
+	Dukat takes a couple of paces, trying to reassess the 
+	situation.
+
+					GUL DUKAT
+			Well, your Lieutenant Riker isn't 
+			likely to respect that... agreement 
+			with the Romulans.  And there's no 
+			known way to locate a ship under 
+			cloak.
+
+					SISKO
+			There is one possibility.  The 
+			Dominion managed to penetrate the 
+			cloak by using some kind of anti-
+			proton beam.
+
+					GUL DUKAT
+			Can you give us the specifications 
+			of that beam?
+
+					SISKO
+			Not precisely, but I can give you 
+			what we learned from our sensor logs.  
+			It'll at least give you a chance to 
+			find the Defiant before she attacks.
+
+	Dukat indicates a Cardassian Soldier sitting at a console.
+
+					GUL DUKAT
+				(re: soldier)
+			Give him everything you know.  I'll 
+			have the information transmitted to 
+			all units.
+
+	Sisko moves to the Soldier's console.
+
+									CUT TO:
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT THREE        28B.
+
+29   INT. DEFIANT - BRIDGE
+
+	Riker is walking the Bridge, visually checking over the 
+	consoles.  Tamal, Kalita, and the other N.D.s at their 
+	stations.  Kalita reacts to something on her console.
+
+					KALITA
+				(off console)
+			We're approaching the security 
+			perimeter, Tom.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT THREE         29.
+
+29   CONTINUED:
+
+					RIKER
+				(to all)
+			All right... this is it.  Cloak the 
+			ship.  Stand by weapons.
+
+	Riker moves to the command chair and the ship goes to RED 
+	ALERT.
+
+30   INT. DEFIANT - QUARTERS
+
+	Kira is pacing up and down in the room as the ship goes to 
+	RED ALERT.  She reacts to the alert with frustration... there 
+	must be something she can do.  She thinks for a beat, then 
+	goes to the replicator and begins trying to open the panel...
+
+31   INT. DEFIANT - BRIDGE
+
+	As before.  Everyone tense and concentrating on their jobs.
+
+					TAMAL
+			Squadron Baker has arrived at their 
+			checkpoint.
+
+					RIKER
+				(to Tamal)
+			Transmit the go-ahead signal.
+
+	Tamal works.
+
+					KALITA
+			We'll be in Cardassian sensor range 
+			in... five minutes.
+
+	As Riker watches the screen...
+
+									CUT TO:
+
+32   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	Sisko and Dukat are looking over a console when a Cardassian 
+	SOLDIER suddenly reacts to his console.
+
+					SOLDIER
+			There's a perimeter alert in the 
+			Almatha sector.
+
+					GUL DUKAT
+			Put it on the main viewer.
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE         30.
+
+32   CONTINUED:
+
+	The largest monitor in the room now changes to a tactical 
+	display of a section of the Cardassian border.  On the screen, 
+	we can see symbols representing Cardassian warships and 
+	outposts deployed along the border.  On the other side of 
+	the border is a symbol that represents an "unknown" ship 
+	heading toward a Cardassian border outpost.
+
+	From her station, Korinas notes everything that happens, but 
+	she is cool and unperturbed throughout the scene.
+
+					GUL DUKAT
+				(continuing)
+			Who's commanding the outpost nearest 
+			that ship?
+
+					SOLDIER
+			Gul Toran of the Sixth Order.
+				(reacts to console)
+			And he's identified the vessel... 
+			it's the Defiant.
+
+	The symbol on the screen now changes from an unknown symbol 
+	to a distinctive emblem which will represent the Defiant 
+	from now on.  Sisko frowns at the display... something about 
+	this doesn't feel right to him.
+
+					GUL DUKAT
+			Order all warships in that sector to 
+			converge on the Defiant.
+
+					SISKO
+			Something's wrong... why wouldn't 
+			they be cloaked?
+				(to Soldier)
+			Can you show me the sensor information 
+			on the Defiant?
+
+	The Soldier looks up at Dukat, who nods agreement... then 
+	the Soldier works for a moment and a console screen suddenly 
+	displays complex SENSOR information, which Sisko begins 
+	checking over.
+
+	Korinas takes note of this exchange and when Dukat glances 
+	up at her, he stiffens slightly at her steady gaze.
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE         31.
+
+32   CONTINUED:	(2)
+
+					SOLDIER
+				(off console)
+			The Defiant is attacking Outpost 
+			Sixty-one...
+
+	On the display, the Defiant symbol FIRES at the outpost, 
+	then turns and heads back into the DMZ.  The Cardassian 
+	warships are chasing it.
+
+					GUL DUKAT
+				(to Soldier)
+			Tell Gul Toran that he has permission 
+			to pursue the Defiant into the 
+			Demilitarized Zone.
+
+					SISKO
+				(urgent)
+			No, don't pull your ships off the 
+			border.
+
+					GUL DUKAT
+			Commander, you don't expect me to 
+			give up pursuit of the Defiant just 
+			because the treaty --
+
+					SISKO
+				(urgent)
+			That's not the Defiant.  It's a 
+			decoy... they're trying to draw your 
+			patrol ships out of position.
+				(points to console 
+				screen)
+			That ship's sending out a fake warp 
+			signature identical to the Defiant, 
+			but the phase variance and subspace 
+			harmonics don't match.
+
+	Dukat looks at the information on the console, then glances 
+	up at the screen.  The Cardassian warships are now deep into 
+	the zone, chasing the decoy Defiant.
+
+					GUL DUKAT
+				(urgent, to Soldier)
+			Order Toran to break off pursuit.  
+			Have him redeploy his--
+
+					SOLDIER
+				(urgent)
+			Sir -- another perimeter alert!  
+			Outpost Forty-seven has detected a 
+			cloaked ship with their anti-proton 
+			beam!
+
+          DEEP SPACE: "Defiant" - REV. 09/30/94 - ACT THREE         32.
+
+32   CONTINUED:	(3)
+
+	ANOTHER DEFIANT SYMBOL appears on the viewer.  This Defiant 
+	is near a different section of the border.  The Cardassian 
+	warships are still following the wrong ship.
+
+					GUL DUKAT
+				(to Soldier)
+			Tell Toran to head for Outpost forty-
+			seven!
+
+					SOLDIER
+			The Defiant has decloaked and begun 
+			to attack the outpost.
+
+	On the screen, the Defiant ATTACKS the outpost.  The 
+	Cardassian warships are heading toward it now, but they're 
+	too far away.
+
+					SOLDIER
+			We've lost contact with Outpost Forty-
+			seven.
+
+	There's a long, quiet moment as everyone reacts to this 
+	setback.
+
+					SOLDIER
+				(off console)
+			Incoming message from Gul Toran.
+
+	Defiant SYMBOL on the viewer DISAPPEARS.
+
+					SOLDIER
+				(continuing)
+			The Defiant has recloaked... it's 
+			last know heading was... one four 
+			eight, mark two one five.
+
+					GUL DUKAT
+			Directly into the heart of Cardassian 
+			territory.
+
+	There's a grim beat in the now quiet War Room as everyone 
+	takes in the implications of that statement.  Gul Dukat sits 
+	down heavily in his chair.  After a beat, Korinas stands, 
+	straightens her outfit and then slowly and calmly walks toward 
+	the Exit.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT THREE         33.
+
+32   CONTINUED:	(4)
+
+					KORINAS
+				(calm, on the move)
+			Commander Sisko, you should be 
+			commended.  I only wish we had someone 
+			with such keen tactical instincts 
+			who could've prevented this... 
+			invasion of our territory.
+
+	She never looks at Dukat as she EXITS.  OFF Dukat's stony 
+	reaction...
+
+									CUT TO:
+
+33   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					KALITA
+			We're past the security perimeter... 
+			out of their sensor range.
+
+					RIKER
+			They were using anti-proton beams to 
+			scan for us... We'll have to adjust 
+			the cloak's resonance frequency so 
+			they can't detect us again.
+
+					KALITA
+			Right.
+
+	She works.
+
+					RIKER
+				(to Tamal)
+			Damage report.
+
+					TAMAL
+			We took six hits on the port 
+			shields... there's been some minor 
+			damage to the outer hull... but all 
+			systems are operational.
+
+					RIKER
+			Tough little ship.
+				(to Kalita)
+			Set course for the shipyard at Omekla 
+			Three.  We'll let that be --
+
+	Suddenly the ship is ROCKED slightly and the lights go OUT.
+
+					RIKER
+			Report.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT THREE        33A.
+
+33   CONTINUED:
+
+					KALITA
+			We've lost main power... and the 
+			cloak is off-line.
+
+          DEEP SPACE: "Defiant" - REV. 09/29/94 - ACT THREE         34.
+
+33   CONTINUED:	(2)
+
+					TAMAL
+			It looks like two plasma conduits 
+			blew out.
+
+					RIKER
+			Where?
+
+					TAMAL
+				(off console)
+			Deck three... section fifteen.
+				(with meaning)
+			Crew quarters.
+
+	Riker reacts to this information, he knows exactly what it 
+	means.
+
+					RIKER
+			It looks like Major Kira's been busy.
+
+	OFF his grim face...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FOUR          35.
+                           ACT FOUR                             
+
+	FADE IN:
+
+34   INT. DEFIANT - KIRA'S QUARTERS
+
+	Riker is looking over what's left of the replicator and the 
+	bulkhead in Kira's Quarters.  A large section of the bulkhead 
+	has been blown out, leaving a scorched and charred gaping 
+	hole.  There are a few scorch marks in the rest of the room.  
+	Kira is sitting on the lower bunkbed, having her arm and 
+	shoulder treated by Tamal, who is using a medical device to 
+	heal her own burns.
+
+					RIKER
+				(re: bulkhead)
+			You crossed the replicator power 
+			converter with the plasma manifold, 
+			I take it?
+
+					KIRA
+				(wincing)
+			That's right.
+
+					RIKER
+			Nice work.
+				(turns to her)
+			You realize we'll have this bypassed 
+			in thirty minutes.
+
+					KIRA
+			At least you'll be visible for thirty 
+			minutes.
+
+					RIKER
+			Fortunately, I was able to move us 
+			into a nebula.  No one's going to 
+			see us.
+
+	Tamal finishes and Kira flexes her arm cautiously.
+
+					KIRA
+				(to Tamal)
+			Thanks.
+
+	Riker nods to Tamal, who then EXITS.
+
+					RIKER
+			You're lucky you only got a little 
+			singed.  That whole plasma relay 
+			could've exploded.
+
+					KIRA
+			That was the idea.
+
+          DEEP SPACE: "Defiant" - REV. 10/10/94 - ACT FOUR          36.
+
+34   CONTINUED:
+
+	Riker considers Kira for a moment.
+
+					RIKER
+			You spent most of your life fighting 
+			the Cardassians.  I know you 
+			sympathize with what we're trying to 
+			do here.
+
+					KIRA
+			I fought the Cardassians because 
+			they invaded my home.  You don't 
+			live in the Demilitarized Zone... 
+			you don't have any family there... 
+			why are you in this fight?
+
+					RIKER
+			People are dying in the Demilitarized 
+			Zone and Starfleet isn't doing a 
+			thing about it.
+
+					KIRA
+			Taking the Defiant just raises the 
+			stakes.  The Cardassians are going 
+			to send a fleet after you... and 
+			they're going to kill more people 
+			hunting you down than they did in 
+			those border raids.
+
+					RIKER
+				(cool)
+			You're assuming the Defiant will 
+			stay in the Demilitarized Zone.
+
+          DEEP SPACE: "Defiant" - REV. 10/10/94 - ACT FOUR          37.
+
+34   CONTINUED:	(2)
+
+	Kira looks at him for a moment... suddenly realizes what 
+	he's saying.  She tries to take this in.  Riker smiles at 
+	her.
+
+					RIKER
+			Let's go to the bridge.
+
+	She looks at him in surprise.  Riker glances over at the 
+	destroyed bulkhead.
+
+					RIKER
+				(re: bulkhead)
+			I think we'd all feel better having 
+			you someplace where we can keep an 
+			eye on you.
+
+	Riker indicates the door and after a moment, Kira gets up 
+	and they EXIT.
+
+									CUT TO:
+
+35   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	Dukat is sitting at a console, staring at a screen, lost in 
+	grim contemplation.  Sisko is pacing slowly up and down, 
+	studying a PADD.  The room is quiet, but tense.  (Korinas is 
+	not here.)
+
+					SISKO
+				(off PADD)
+			Fifteen outposts have checked in... 
+			no sign of the Defiant.  Twenty-six 
+			warships have scanned fourteen cubic 
+			light years of space with anti-proton 
+			beams... no Defiant.
+
+	Sisko puts the PADD down and tries to clear his mind.
+
+					SISKO
+				(continuing)
+			What are the possibilities?  They're 
+			still under cloak and heading deeper 
+			into Cardassian territory.  They're 
+			laying low and waiting for some 
+			unknown reason.  Or they've 
+			encountered some kind of problem...
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FOUR          38.
+
+35   CONTINUED:
+
+	Sisko notices that Dukat is distracted.
+
+					SISKO
+			Dukat, are you listening to me?
+
+					GUL DUKAT
+				(quiet)
+			I'm sorry Commander.  I was thinking 
+			about my son's birthday.
+
+					SISKO
+			What?
+
+					GUL DUKAT
+				(still staring at 
+				console)
+			This is my son's eleventh birthday.  
+			I'd promised to take him to the 
+			amusement center in Lakarian City.  
+			He's always wanted to go and I've 
+			never had the time.  I told him, 
+			this year will be different... this 
+			year I'll make the time.
+
+	Sisko moves closer to him... sits down in a nearby chair.
+
+					SISKO
+			I've had the same experience with 
+			Jake.  They never understand... all 
+			we can do is hope that one day when 
+			they're older, they'll look back and 
+			say, "Now I understand... now I know 
+			why he did that."
+
+	Dukat looks up at Sisko... and for a moment it looks like 
+	the two men might've shared something... but then Dukat's 
+	face turns hard.
+
+					GUL DUKAT
+			When my son looks back on this day, 
+			the only thing he'll remember is 
+			that a Federation officer on a 
+			Federation ship invaded his home... 
+			and kept his father away from him on 
+			his eleventh birthday.  And he won't 
+			look back with forgiveness... he'll 
+			look back with hatred.
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FOUR          39.
+
+35   CONTINUED:	(2)
+
+	Dukat gets up and moves away, leaving Sisko to think about 
+	the implications for the future.
+
+									CUT TO:
+
+36   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship stopped in a NEBULA.  After a beat, the Defiant 
+	CLOAKS.
+
+37   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	The lighting is now DARK, indicating that the cloak is in 
+	operation.  Riker in command, Kalita at helm, Tamal at the 
+	aft cloaking console, Kira sitting back by the Ops table 
+	watching the proceedings.
+
+					TAMAL
+				(off console)
+			The cloak is operating within normal 
+			parameters... but the plasma conduit 
+			damage has caused a slight neutrino 
+			leak in the port nacelle.  The 
+			Cardassians might be able to detect 
+			it even through the cloak.
+
+					RIKER
+			A chance we'll have to take.
+				(to Kalita)
+			Lay in a course for Omekla Three and 
+			engage at warp eight.
+
+					KALITA
+			Warp eight, aye.
+
+					KIRA
+			Omekla Three?  You're heading for 
+			the shipyard?  There're at least 
+			half a dozen better targets in this 
+			sector alone.
+
+					RIKER
+			I hope the Cardassians have the same 
+			reaction -- "What's he doing and 
+			why?"
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FOUR          40.
+
+37   CONTINUED:
+
+					KIRA
+			All right, so you're trying to keep 
+			them off-balance... keep them 
+			guessing.  Why?
+
+	Riker takes a beat... looks at Kira and then decides to lay 
+	it out for her.
+
+					RIKER
+			The Maquis have been hearing rumors 
+			about shifting loyalties within the 
+			Cardassian government.  Certain 
+			hardline elements were "unsatisfied" 
+			with the Federation Treaty and are 
+			looking for a way to scrap it.
+
+	Riker gets up and goes back to where Kira is sitting, pressing 
+	his point home.
+
+					RIKER
+				(continuing)
+			We got our hands on an intelligence 
+			report outlining a suspected military 
+			buildup in the Orias System.  A secret 
+			buildup that even the Central Command 
+			is unaware of.
+
+					KIRA
+			Are you telling me that you've done 
+			all this to attack a secret base 
+			that may or may not exist?
+
+					RIKER
+			I'm convinced it does.  They're 
+			building an invasion fleet... and if 
+			we let them finish it, these... 
+			"renegade" Cardassians are going to 
+			use it.
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FOUR          41.
+
+37   CONTINUED:	(2)
+
+	Riker moves back to the Command chair.  Kira peers at him 
+	for a moment.
+
+					KIRA
+			You're really not cut out for this 
+			are you?
+				(off his look)
+			Being a terrorist, I mean.  You're 
+			not very good at it.
+
+					RIKER
+				(amused)
+			Really?
+
+					KIRA
+			That's right.  You're still acting 
+			like a Starfleet officer who's more 
+			worried about intelligence reports 
+			and Cardassian politics than about 
+			actually hurting the Cardassians.
+
+	Kira stands up and moves around the Bridge.
+
+					KIRA
+				(continuing)
+			You have one of the most powerful 
+			ships in this quadrant under your 
+			command.  Why aren't you out 
+			destroying every Cardassian outpost 
+			along the border?
+
+					RIKER
+			Because the stakes here are far 
+			greater than border outposts.
+
+					KIRA
+			Not for the Maquis there're not.  
+			That's because the Maquis are a group 
+			of terrorists and all terrorists 
+			care about is destroying their enemy.  
+			I know... because I was a terrorist.
+				(beat)
+			And if I had this ship in those days, 
+			I would've destroyed Deep Space 
+			Nine... I would've hit the Cardassians 
+			so hard that they would have screamed 
+			for peace... but I wouldn't have 
+			gone flying off into the heart of 
+			Cardassia on some wild goose chase.
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FOUR          42.
+
+37   CONTINUED:	(3)
+
+					RIKER
+			Maybe we're just different kinds of 
+			terrorists.
+
+					KIRA
+			No, you're trying to be a hero... 
+			and terrorists don't get to be heroes.
+
+	Riker looks at her for a long beat.
+
+					RIKER
+			We'll see.
+
+	He heads back to the command area.
+
+									CUT TO:
+
+38   INT. CARDASSIAN WAR ROOM
+
+	Korinas ENTERS carrying a PADD.  Dukat is pacing up and down, 
+	while Sisko studies something on a console.
+
+					KORINAS
+			So far, the Defiant has attacked a 
+			shipyard in Omekla Three... a weapons 
+			depot in the Dameron System... and a 
+			communications relay on the Rokat 
+			colony.
+
+	She tosses the PADD on a console.
+
+					KORINAS
+				(continuing)
+			The Central Command is starting to 
+			wonder if you're ever going to stop 
+			them.  Frankly, I am too.
+
+	Dukat ignores her, deep in thought.  Sisko suddenly reacts 
+	to his console.
+
+					SISKO
+			That's it.  That's where they're 
+			going.
+
+	They look at him.  Sisko stands up and moves to the Soldier's 
+	console, begins working.
+
+					SISKO
+			Watch.  This is the deployment of 
+			your ships before the Defiant's first 
+			attack.
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FOUR         42A.
+
+38   CONTINUED:
+
+	On the display, several small groupings of warships are 
+	clustered at various points.
+
+					SISKO
+			And this is where they are now...
+
+	The warship symbols suddenly MOVE to different points on the 
+	map.
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT FOUR            43.
+
+38   CONTINUED:	(2)
+
+					SISKO
+			Don't you see what's happened?  Each 
+			Defiant attack has been designed to 
+			draw your ships away from...
+				(he points to a certain 
+				point on the display)
+			... this sector, leaving it virtually 
+			defenseless.
+
+	Dukat leans forward.
+
+					GUL DUKAT
+			But there's nothing of value in that 
+			sector.
+
+					SISKO
+			There must be something.  Are there 
+			any Class-M planets there?
+
+	Dukat checks a monitor.
+
+					GUL DUKAT
+			There's one.  Orias Three.  It's 
+			uninhabited... desolate.
+
+	Sisko frowns... looks puzzled.
+
+					SISKO
+			I don't know... everything seems to 
+			point to the Orias System.
+				(beat)
+			It might be worth sending at least 
+			one warship there just in case the 
+			Defiant does show up.
+
+	Dukat considers, isn't sure whether he really believes it.  
+	But he grudgingly decides to check it out.
+
+					GUL DUKAT
+				(reluctant)
+			All right.
+				(to Soldier)
+			Contact Gul Ranor and tell him to 
+			dispatch one warship to the--
+
+					KORINAS
+				(quickly)
+			No.
+
+	They look at her in surprise.
+
+             DEEP SPACE: "Defiant" - 09/29/94 - ACT FOUR            44.
+
+38   CONTINUED:	(2)
+
+					KORINAS
+			You'll send no ships to the Orias 
+			system.
+
+					GUL DUKAT
+			You're an observer here.  You have 
+			no authority to --
+
+					KORINAS
+			That sector is under direct control 
+			of the Obsidian Order and you will 
+			not enter it.
+
+					GUL DUKAT
+			Why?
+
+					KORINAS
+				(cool)
+			The matter is classified.
+
+					GUL DUKAT
+				(contemptuous)
+			You can file a protest with the 
+			Central Command later.
+				(to Soldier)
+			Open a channel to Gul Ranor and--
+
+					KORINAS
+				(calm)
+			Any warship sent into the Orias system 
+			will be destroyed.
+
+	Everyone turns and looks at Korinas in shock and a tense 
+	silence fills the room.
+
+					GUL DUKAT
+			Are you saying that you will... fire 
+			on another Cardassian ship?
+
+					KORINAS
+			What I'm saying is that the Obsidian 
+			Order will take whatever steps are 
+			necessary to protect the Orias system.
+				(beat)
+			And so will I.
+
+	Sisko and Dukat exchange a look, as they both realize that 
+	there is more going on here than either suspected...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+          DEEP SPACE: "Defiant" - REV. 10/03/94 - ACT FIVE          45.
+                           ACT FIVE                             
+
+	FADE IN:
+
+39   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	Dukat and Sisko are quietly assessing the situation.  Korinas 
+	is sitting at her position, in the b.g.
+
+					GUL DUKAT
+			I've spoken to a few... friends in 
+			the Central Command.  The Obsidian 
+			Order isn't giving them any answers 
+			either.
+
+					SISKO
+			The Order has to answer to someone, 
+			don't they?
+
+					GUL DUKAT
+			In theory, they answer to the 
+			political authority of the Detapa 
+			Council just as the military does.  
+			In practice... we both run our own 
+			affairs.
+
+					SISKO
+			Not the most efficient system.
+
+					GUL DUKAT
+			It's worked for over five centuries.
+
+	The Soldier reacts to something on his console.
+
+					SOLDIER
+			Gul Dukat... there's an incoming 
+			message from the warship Kraxon.  
+			They say they've found an unusual 
+			neutrino signature in their sector... 
+			it looks like radiation from a damaged 
+			warp plasma relay.
+
+					GUL DUKAT
+			Is this... signature moving?
+
+					SOLDIER
+			No.  But they're scanning the area 
+			with anti-proton beams.
+
+	Dukat and Sisko exchange a look.
+
+					GUL DUKAT
+			Where is the Kraxon?
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FIVE          47.
+
+39   CONTINUED:
+
+	The Soldier works and the main viewer now shows the 
+	position of the Kraxon, which is stationary at the moment 
+	and flashing.  A few other Cardassian warships are a short 
+	distance away, moving slowly back and forth as if looking 
+	for something.
+
+					SISKO
+				(sotto)
+			If it is the Defiant, they're in 
+			position to make a run for the Orias 
+			system.
+
+					GUL DUKAT
+			We still don't know that Orias is 
+			the target.  Until we do, I can't 
+			risk pulling ships away from other 
+			potential targets to chase a... 
+			neutrino signature.
+
+	As they watch the main viewer...
+
+									CUT TO:
+
+40   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As before.  The ship under cloak.  Everyone is quiet, watching 
+	the main viewer, which shows a Cardassian warship moving 
+	slowly above them.
+
+					KALITA
+			They're coming around for another 
+			pass.
+
+	Riker paces back and forth a few beats... considers the 
+	situation.
+
+					RIKER
+				(to Kalita)
+			Are there any other ships nearby?
+
+					KALITA
+				(off console)
+			There are nine Galor-class cruisers 
+			about six light years away bearing 
+			one eight seven mark zero three five.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FIVE          47.
+
+40   CONTINUED:
+
+					RIKER
+			Any ships between us and the Orias 
+			system?
+
+					KALITA
+			No.
+
+					KIRA
+			If you make a run for it, that ship 
+			out there is going to see our neutrino 
+			signature go through a phase shift... 
+			and then they're going to call their 
+			nine friends... and you're going to 
+			have a small fleet chasing you all 
+			the way to Orias.
+
+					RIKER
+			They can chase me all they want... 
+			as long as they don't catch me.
+
+									CUT TO:
+
+41   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	As before.  The Soldier suddenly reacts to something on his 
+	console.
+
+					SOLDIER
+				(urgent)
+			Sir -- the Kraxon reports that the 
+			neutrino signature has just phase- 
+			shifted... it's now moving at warp 
+			speed directly for the Orias system.
+
+					GUL DUKAT
+			Order the Kraxon to pursue at maximum 
+			warp and order all other ships in 
+			the sector to follow.
+
+									CUT TO:
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FIVE          48.
+
+42   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					KALITA
+			The Kraxon is pursuing... but they 
+			won't catch us before we reach Orias.
+
+					TAMAL
+			The Orias system is within sensor 
+			range.
+
+					RIKER
+			Full scan... I want to see everything 
+			that's in that system.
+
+	Tamal works and Riker moves to look at his console.
+
+									CUT TO:
+
+43   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	The main viewer now shows the Defiant being pursued by the 
+	Kraxon, and then behind the Kraxon are TEN Cardassian ships.  
+	The Defiant is heading toward a star that is clearly labeled 
+	as ORIAS.
+
+					GUL DUKAT
+				(to Korinas)
+			When you make out your report for 
+			the Obsidian Order... be sure to 
+			mention the fact that I could've 
+			prevented the Defiant from reaching 
+			Orias... if you hadn't interfered.
+
+	Korinas regards him coolly.
+
+					KORINAS
+			They'll never make it to Orias.  You 
+			can count on that.
+
+					SOLDIER
+				(off console)
+			Three more ships have just appeared 
+			in the Orias system!
+
+          DEEP SPACE: "Defiant" - REV. 10/03/94 - ACT FIVE          49.
+
+43   CONTINUED:
+
+					GUL DUKAT
+			What kind of ships?
+
+					SOLDIER
+				(shocked)
+			Cardassian warships... Keldon Class.
+
+	They turn and look at the large tactical display, which now 
+	shows three Cardassian ships moving out from the Orias system 
+	toward the Defiant.  The Defiant is trapped between the ships 
+	ahead of it and the ships behind it.  Dukat whirls and turns 
+	to Korinas.
+
+					GUL DUKAT
+			Whose ships are those?
+
+					KORINAS
+			Why are you asking me?
+
+					GUL DUKAT
+			Because if they were military ships, 
+			I would know about them.  So that 
+			leaves the Obsidian Order.
+
+					SISKO
+			I thought the Obsidian Order didn't 
+			have any ships.
+
+					GUL DUKAT
+				(keeping his eyes on 
+				Korinas)
+			They're not supposed to.  In fact, 
+			they're explicitly forbidden to have 
+			military equipment of any kind.
+
+	Korinas doesn't flinch at his look... she simply smiles... 
+	and then stands up and walks out of the War Room.
+
+									CUT TO:
+
+44   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Everyone is looking at a tactical display on their own viewer 
+	that is similar to the one in the Cardassian War Room.  It 
+	shows the Defiant trapped between the two Cardassian forces.
+
+					RIKER
+			It looks like we're going to have to 
+			fight our way to Orias.
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FIVE          50.
+
+44   CONTINUED:
+
+	Kira stands up and moves to Riker.
+
+					KIRA
+				(urgent)
+			Listen to me.  Those three ships up 
+			ahead will lock on to our neutrino 
+			leak and open fire... that means 
+			you'll have to fight back.
+
+					RIKER
+				(confident)
+			With this ship, it'll be a short 
+			fight, I can promise you that.
+
+					KIRA
+				(pressing him)
+			Let's say you can disable or even 
+			destroy those three ships ahead of 
+			us.  But fighting them at all is 
+			going to slow us down and then those 
+			ten ships back there will catch up 
+			to us.  And even the Defiant can't 
+			win against those odds.
+
+	Riker knows she's right... but he's focused on the mission 
+	he's come so far to accomplish.
+
+					RIKER
+			We've come too far to quit now.
+
+					KIRA
+				(hard)
+			You're an experienced Starfleet 
+			officer.  Analyze the situation, 
+			Tom.
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FIVE         50A.
+
+44   CONTINUED:	(2)
+
+					KIRA (Cont'd)
+			Going to Orias is suicide... the 
+			smart move is to make a run for it 
+			while we still can.
+
+					RIKER
+			Maybe that's what... "an experienced 
+			Starfleet officer" would do... maybe 
+			that's what Wil Riker would do... 
+			but that's not what I'm going to do.  
+			I'm going to continue the mission.
+
+	Riker seems immovable... focused on the task ahead.  Kira 
+	looks at him for a moment... then moves closer to him.
+
+					KIRA
+			It's not the mission you're thinking 
+			about... or even the colonists in 
+			the zone... this is all about you 
+			isn't it?
+				(beat, then quieter)
+			Or should I say it's about you and 
+			that other Wil Riker out there... 
+			that other man with your face, your 
+			name, and your career.  You're looking 
+			for some way to set yourself apart 
+			from him... some way to be different.
+
+	Riker gives her a sharp look and Kira senses that she's hit 
+	a raw nerve.  But then he relaxes a little and gives her 
+	that easy smile.
+
+					RIKER
+			You shouldn't go fishing today... 
+			you won't catch anything.
+				(to Kalita)
+			Take us in.
+
+	As the Defiant's crew works and the ship prepares for 
+	battle...
+
+									CUT TO:
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FIVE          51.
+
+45   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	As they watch the chase on the viewer.  Sisko moves to Dukat, 
+	keeps his voice low and urgent.
+
+					SISKO
+			Dukat... you want to know what's 
+			going on in the Orias system... I 
+			know how you can find out.
+				(off his look)
+			Give Riker the chance to surrender.  
+			The Defiant's scanned the Orias system 
+			by now... its sensor logs can tell 
+			you everything you want to know.
+
+					GUL DUKAT
+			I'd be happy to accept his 
+			surrender... but I doubt he'll want 
+			to hand over his logs.
+
+					SISKO
+			He will if you agree to turn the 
+			ship and his crew over to the 
+			Federation.
+
+					GUL DUKAT
+			Impossible.  I cannot let a group of 
+			terrorists just... walk away after 
+			invading our territory and --
+
+					SISKO
+			Then you should decide which is more 
+			important -- your sense of...
+				(ironic)
+			... "Cardassian justice" or the 
+			information contained in the Defiant's 
+			sensor logs.
+
+					GUL DUKAT
+			I do want that information, Commander.  
+			And I am willing to return your... 
+			wayward ship.  But someone will have 
+			to pay for what's happened... and I 
+			don't want that someone to be me.
+
+					SISKO
+			If you return the Maquis to the 
+			Federation, I can promise you they 
+			will stand trial for what they've 
+			done.
+
+          DEEP SPACE: "Defiant" - REV. 10/03/94 - ACT FIVE         51A.
+
+45   CONTINUED:
+
+					GUL DUKAT
+				(contemptuous)
+			A Federation trial...
+
+					SISKO
+			It's the best I can do.
+
+	Dukat thinks about this for a long beat.
+
+
+					GUL DUKAT
+			I would be willing to hand over the 
+			Maquis and the ship... but not Riker.  
+			He led the mission... if I can bring 
+			him to justice, and obtain information 
+			on Orias, that might be enough for 
+			the Central Command.
+
+	Now it's Sisko's turn to think about this for a moment.
+
+					SISKO
+			I might be able to get him to agree 
+			to that... on one condition.  We 
+			both know that Cardassian sentences 
+			are determined well in advance of 
+			the trial.  I'd like you to arrange 
+			for a sentence other than death.
+
+					GUL DUKAT
+			I'll have to clear it with the 
+			Ministry of Justice.
+
+	Sisko glances up at the display screen which shows the Defiant 
+	getting closer and closer to the Obsidian Order ships.
+
+					SISKO
+			You'd better make it quick.
+
+	Dukat moves o.s. and Sisko continues to watch the screen.
+
+									CUT TO:
+
+46   INT. DEFIANT - BRIDGE
+
+	As before.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FIVE         51B.
+
+46   CONTINUED:
+
+					TAMAL
+				(off console)
+
+			We're approaching the first cruiser... 
+			they'll be in phaser range in fifteen 
+			seconds.
+
+	Riker waits for a long beat, gauging his time...
+
+					RIKER
+			Go to impulse, decloak the ship, 
+			raise shields and stand by phasers.
+
+46A  EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	As the ship DECLOAKS.
+
+46B  INT. DEFIANT - BRIDGE
+
+	As before.
+
+					RIKER
+			Come to heading one one eight, mark 
+			three zero one, lock phasers, and 
+			fire.
+
+	Kalita works.
+
+					KALITA
+			Direct hit on the cruiser's port 
+			nacelle... their shields are down by 
+			thirty percent.
+
+	The ship is ROCKED.
+
+					TAMAL
+			We've been hit on our starboard 
+			shield...
+
+	The ship is ROCKED AGAIN.
+
+46C  EXT. SPACE - DEFIANT & OBSIDIAN ORDER SHIP (OPTICAL)
+
+	The Obsidian order ship FIRES at the Defiant, but the 
+	Defiant's shields are holding.
+
+46D  INT. DEFIANT - BRIDGE
+
+	As before.  The ship is ROCKED.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FIVE         51C.
+
+46D  CONTINUED:
+
+					TAMAL
+			Shields holding.
+
+
+					RIKER
+			Quantum torpedoes... full spread.
+
+					TAMAL
+			Torpedoes locked.
+
+					RIKER
+			Fire.
+
+46E  EXT. SPACE - DEFIANT & OBSIDIAN ORDER SHIP (OPTICAL)
+
+	The Defiant FIRES a spread of torpedoes at the Obsidian order 
+	ship... they HIT the ship and BADLY DAMAGE it.
+
+46F  INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As before.  Everyone watching the damaged Obsidian Order 
+	ship on the viewer.
+
+					KALITA
+			Their defense systems are off-line 
+			and they've lost main power.
+
+					TAMAL
+			Tom... three more cruisers have just 
+			appeared in the Orias system.  That 
+			makes five ships ahead of us... and 
+			ten behind.
+
+	A grim beat.  Riker steels himself for the next step.
+
+					RIKER
+			Resume our original course to Orias... 
+			stand by emergency power to the 
+			shields and --
+
+					KALITA
+			Incoming message... from Cardassia 
+			Prime...
+				(with surprise)
+			... it's Gul Dukat and Commander 
+			Sisko.
+
+	Riker and Kira exchange a look.
+
+					RIKER
+			On screen.
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FIVE         51D.
+
+46F  CONTINUED:
+
+	The viewscreen now shows Dukat and Sisko in the Cardassian 
+	War Room.
+
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FIVE         51E.
+
+46F  CONTINUED:	(2)
+
+					GUL DUKAT
+			This is Gul Dukat of the Second 
+			Order... I am authorized to tell you 
+			that if you will surrender your 
+			ship... none of you will be harmed.
+
+					RIKER
+				(skeptical)
+			Is that right...
+
+					SISKO
+			Listen to him, Lieutenant... if you 
+			surrender, the Defiant and your crew 
+			will be handed over to a Federation 
+			starship at the Cardassian border.
+
+	Riker takes this in for a beat.
+
+					RIKER
+			Why the sudden generosity?
+
+					SISKO
+				(re: Dukat)
+			He wants the Defiant's sensor logs 
+			on the Orias system.  And they're 
+			worth a lot more to him than Maquis 
+			prisoners.
+
+					RIKER
+			I don't buy it.  The Cardassians 
+			aren't going to let us just walk 
+			away.
+
+					SISKO
+			You're right.  Someone has to pay 
+			the price.
+
+					RIKER
+			Me...
+
+					SISKO
+			The deal is -- you're tried and 
+			convicted in a Cardassian court.  
+			And then sentenced to spend the rest 
+			of your life in the Lazon Two labor 
+			camp.
+
+					RIKER
+			No death sentence, huh?  That must 
+			have taken some doing.
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FIVE         51F.
+
+46F  CONTINUED:	(3)
+
+					SISKO
+			Some.
+
+	Riker nods, understands what Sisko is saying.  He signals 
+	for Kalita to mute the audio as he thinks.
+
+					KIRA
+				(quiet, to Riker)
+			Tom, there's no reason for you to 
+			continue... they're giving you a way 
+			out.
+				(beat)
+			The only reason not to take it... 
+			would be that you want to die.
+
+					RIKER
+			I came here to complete a mission.
+
+					KIRA
+				(pushing)
+			That mission is over, Tom.  You'll 
+			never make it to Orias... you know 
+			that.  There may be five ships ahead 
+			of you now... but there might be 
+			fifty waiting there for all we know.
+
+	She moves closer to Riker, and pulls him aside... pressing 
+	her point to him in a personal way.
+
+					KIRA
+				(quiet, continuing)
+			Be a Starfleet officer one last time 
+			and think of your crew.  You may 
+			want Tom Riker to go out in a blaze 
+			of glory that they'll talk about for 
+			the next ten years... but don't drag 
+			them along with you.
+
+	Riker looks up at his crew, who are all looking at him.  He 
+	makes his decision and signals Kalita to resume the audio.
+
+					RIKER
+				(to Dukat)
+			I accept your terms.
+
+	Sisko and Dukat look a little relieved, but there's still a 
+	few hurdles to overcome.
+
+          DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FIVE         51G.
+
+46F  CONTINUED:	(4)
+
+					SISKO
+			You'll need to reverse course and 
+			surrender the Defiant to one of the 
+			ships that've been following you.
+
+					RIKER
+			Why?
+
+					SISKO
+			It'll take too long to explain.  But 
+			the ships coming out of the Orias 
+			system are not under Dukat's control.
+
+					GUL DUKAT
+			I've ordered the Kraxon to put her 
+			shields around you as soon as you 
+			arrive.  You'll be safe once you get 
+			there.
+
+					RIKER
+			Understood.
+
+	The Transmission ENDS.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FIVE          52.
+
+46F  CONTINUED:	(5)
+
+					RIKER
+				(to Kalita)
+			Bring us about.  Lay in a course to 
+			the Kraxon.
+
+	She looks at him for a long moment... hesitates...
+
+					RIKER
+				(gently)
+			Do it.
+
+	She swallows her protest and turns to work her console.
+
+
+       DEEP SPACE: "Defiant" - REV. 10/05/94 - ACT FIVE 53-54.         
+
+47   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	streaks by at warp.  A few seconds later, two Cardassian 
+	ships race after it.
+
+48   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	Everyone watching the tactical display as the two ships close 
+	in on the Defiant.
+
+					GUL DUKAT
+			Those are faster than any Keldon 
+			class ships I've ever seen.
+				(beat)
+			What's going on in that system?
+
+49
+thru   OMITTED
+52
+
+          DEEP SPACE: "Defiant" - REV. 10/07/94 - ACT FIVE          55.
+
+53   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					KALITA
+			We're one hundred million kilometers 
+			from the Kraxon.
+
+					TAMAL
+			Incoming message...
+
+					RIKER
+			Let's hear it.
+
+					CARDASSIAN COM VOICE
+			This is Gul Ranor of the Kraxon.  
+			Cut your engines in five seconds, 
+			and we'll extend our shields around 
+			you.
+
+					RIKER
+			Acknowledged.
+				(to Kalita)
+			Kalita?
+
+	Kalita waits for a moment...
+
+					KALITA
+			All stop...
+
+54   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	comes to a stop next to a CARDASSIAN WARSHIP.  We see the 
+	Cardassian ship's SHIELDS come on and ENVELOP BOTH SHIPS.
+
+55   NEW ANGLE (OPTICAL)
+
+	As the two Obsidian Order ships approach and stop directly 
+	in front of the Defiant and the other Cardassian ship.
+
+
+          DEEP SPACE: "Defiant" - REV. 10/05/94 - ACT FIVE         55A.
+
+56   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As before.  Everyone watching the Viewscreen, which shows 
+	the two Obsidian Order ships facing them.  A tense moment.
+
+57   INT. CARDASSIAN WAR ROOM (OPTICAL)
+
+	Everyone watching the display, which shows the four stationary 
+	ships facing off.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FIVE          56.
+
+57   CONTINUED:
+
+					GUL DUKAT
+			They won't fire on another Cardassian 
+			ship.  They can't.
+
+	But he doesn't sound so sure of himself.  After a long beat, 
+	the two Obsidian Order ships start to move away from the 
+	Defiant, heading back the way they came.
+
+58   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					KALITA
+				(off console)
+			They're moving off... they've set 
+			course back to the Orias System.
+
+	A moment of relief on the bridge... then Riker gets down to 
+	the next sobering business.
+
+					RIKER
+				(to Tamal)
+			Transmit the Orias Three sensor logs 
+			to the Kraxon.  And tell them... to 
+			prepare to beam me aboard.
+
+	Tamal looks at him for a moment... then turns to work the 
+	console.
+
+					RIKER
+				(continuing, to all)
+			I'm turning command over to Major 
+			Kira... she'll get you back to the 
+			Federation.
+				(to Kira)
+			I'm holding you personally responsible 
+			to see to it that they all receive a 
+			fair trial.
+
+					KIRA
+			You have my word on it.
+
+	A long moment...
+
+       DEEP SPACE: "Defiant" - REV. 10/04/94 - ACT FIVE 57-58.         
+
+58   CONTINUED:
+
+	Riker reaches for his combadge...
+
+					KIRA
+			We'll get you out of there somehow, 
+			Tom.  I promise you that.
+
+	Riker looks at her for a long beat... then moves to her and 
+	gives her a quick but passionate kiss before she can protest.  
+	He steps away... gives her that charming smile of his and 
+	Kira finds herself genuinely unsure of how she feels at this 
+	moment.  Riker finally hits his combadge.
+
+					RIKER
+				(to com)
+			Riker to Kraxon.  One to beam 
+			aboard.
+
+          DEEP SPACE: "Defiant" - REV. 10/06/94 - ACT FIVE          59.
+
+58   CONTINUED:	(2)
+
+	Riker DEMATERIALIZES.  Kira takes a long beat, moves and 
+	sits in the command chair with a look of profound sadness on 
+	her face.
+
+					KIRA
+				(to Kalita)
+			Set course for the Federation.  Warp 
+			eight.
+
+59
+thru   OMITTED
+60
+
+61   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The Defiant and the Kraxon move off in opposite directions.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

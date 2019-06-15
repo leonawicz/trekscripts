@@ -1,0 +1,3413 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                    "Who Mourns for Morn?" 
+                          #40510-536 
+                              
+                          Written by 
+                     Mark Gehred-O'Connell 
+                              
+                          Directed by 
+                          Victor Lobl 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        October 28, 1997
+
+      STAR TREK: DS9 - "Who Mourns... "- 10/28/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "Who Mourns for Morn?" 
+                             CAST 
+
+          SISKO                    LARELL
+          KIRA                     KRIT
+          ODO                      NAHSK
+          BASHIR                   HAIN
+          DAX                      
+          WORF                     
+          QUARK                    
+          O'BRIEN                  
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     MORN
+
+      STAR TREK: DS9 - "Who Mourns... " - 10/28/97 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "Who Mourns for Morn?" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          QUARK'S                       
+          SECURITY OFFICE               
+          CARGO BAY                     
+          HABITAT RING CORRIDOR         
+          MORN'S QUARTERS               
+          QUARK'S QUARTERS              
+          PROMENADE                     
+          TURBOLIFT                     
+
+        CRATE                         
+
+  DEEP SPACE NINE - "Who Mourns... " - 10/28/97 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "Who Mourns for Morn?" 
+                     PRONUNCIATION GUIDE
+
+          BOLIAS                   BOWL-ee-ahs
+          HAIN                     HAIN
+          LARELL                   luh-RELL
+          LISSEPIAN                li-SEP-ee-an
+          LIVANIAN                 lie-VAIN-ee-un
+          LURIA                    LOO-ree-uh
+          NAHSK                    NAUSK
+          OO-MOX                   00-machs
+          YRIDIAN                  yir-ID-ee-uhn
+
+      DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - TEASER      1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                        "Who Mourns for Morn?"                         
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S BAR (OPTICAL)
+
+	A typical evening crowd, SUPERNUMERARIES as needed. 
+	QUARK is behind the bar, making drinks. MORN is seated 
+	at his usual stool, pouring the dregs from a BOTTLE of 
+	Yridian Ale into his glass. ODO ENTERS and approaches 
+	him.
+
+					ODO
+				(dry) 
+			If you're not too busy, I'd 
+			appreciate it if you did something 
+			about that shipment of Livanian 
+			beets you have sitting in Cargo 
+			Bay Three.
+
+	Morn ignores him, takes a sip of his drink. At the far 
+	end of the bar we see Quark settle in to watch Odo's 
+	encounter with Morn -- for some reason he finds it 
+	amusing.
+
+					ODO
+				(getting annoyed) 
+			It's been there for over two 
+			weeks. It's starting to rot.
+				(no reaction) 
+			Morn.
+
+	Exasperated, Odo turns to Quark, who approaches as if 
+	he doesn't know what could be wrong with Morn. Odo 
+	reaches over to touch Morn's shoulder, and his hand 
+	PASSES through it -- Morn is a hologram. Odo reacts 
+	with surprise.
+
+					QUARK
+				(enjoying this) 
+			It's a hologram.
+				(off Odo's look) 
+			Morn's been away on business for 
+			the last two weeks.
+
+	Odo frowns, doesn't know what to make of this
+
+					QUARK 
+			You're slipping, Odo. You 
+			should've caught on a lot sooner.
+
+      DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - TEASER      2.
+
+1    CONTINUED:
+
+	In the background, BASHIR and O'BRIEN ENTER and make 
+	their way to the bar.
+
+					ODO 
+			You replaced Morn with a hologram? 
+			Why?
+
+					BASHIR
+				(passing by; to Morn) 
+			Hello.
+
+					O'BRIEN
+			Evening.
+
+					QUARK
+			That's why. People love him. 
+			He's like a mascot. Everyone 
+			expects to see him when they come 
+			in here. If they don't, it 
+			doesn't feel like home to them.
+
+					ODO
+			And that's not good for business.
+
+					QUARK
+			The last time he went away sales 
+			dropped almost five percent.
+
+					ODO
+				(studying "Morn") 
+			Why doesn't it talk?
+
+					QUARK
+			Do you have any idea how much an 
+			interactive holo-projector costs?
+				(sotto, so Bashir and
+				O'Brien can't hear)
+			Besides, it's a relief not to have
+			to listen to him go on. You know
+			Morn, he never shuts up.
+				(re: the hologram) 
+			I'd trade this for the real thing 
+			any day.
+
+      DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - TEASER      3.
+
+1    CONTINUED:	(2)
+
+					ODO
+			I'm sure Morn would be touched to 
+			hear you say that.
+
+	Suddenly a voice from off-camera --
+
+					DAX (O.S.)
+				(shocked) 
+			Morn?
+
+	They turn to see DAX and SISKO -- she looks shaken.
+
+					ODO 
+			It's just a hologram.
+
+					QUARK
+				(to Dax) 
+			You look like you've seen a ghost.
+
+					SISKO
+				(re: "Morn") 
+			Turn it off.
+
+					QUARK
+			Why?
+
+					SISKO
+			We just got word. Morn's cargo 
+			ship was caught in an ion storm.
+
+	Bashir and O'Brien hear this and approach.
+
+					BASHIR 
+			Is he all right?
+
+					O'BRIEN
+			Was he rescued?
+
+					DAX
+				(genuinely upset)
+			He's dead...
+
+	The Morn hologram blinks uncomprehendingly and sips his 
+	drink. As the news sinks in, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE      4.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+OA   INT. PROMENADE
+
+	as O'Brien approaches Bashir, who's standing across 
+	from Quark's holding a BOTTLE of wine.
+
+					BASHIR
+			Didn't you bring anything?
+				(off O'Brien's blank 
+				look) 
+			For the memorial service.
+
+					O'BRIEN
+			I didn't know I was supposed to.
+
+	Bashir gestures to the crowd and we see that many of 
+	the SUPERNUMERARIES streaming into Quark's are carrying 
+	BOTTLES, BASKETS OF FRUIT and other consumables.
+
+					BASHIR 
+			It's Lurian custom to bring gifts 
+			of food and drink for the deceased -- 
+			so they'll have something to 
+			sustain them in the afterlife.
+
+					O'BRIEN
+				(worried) 
+			Maybe I can get something in 
+			Quark's. I hate to think of the 
+			big fella going without.
+
+	Bashir nods his agreement, and they head inside. As 
+	they pass WORF and Dax, we DROP off on them.
+
+OB   WORF AND DAX 
+
+	She's holding a large alien-looking FRUIT that she 
+	knows to be Morn's favorite. Worf is doing his best to 
+	comfort her.
+
+					WORF 
+			Morn was an excellent sparring 
+			partner. I will miss our weekly 
+			combat in the holosuites.
+
+					DAX
+			I can't believe he's really gone.
+
+	Dax starts to get a little teary eyed --
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     4A.
+
+OB   CONTINUED:
+
+					WORF
+			I didn't realize he was such a
+			close friend.
+
+	Dax decides she might as well tell him...
+
+					DAX
+			I used to have a little crush on
+			him.
+
+	Worf stiffens, he can't believe it --
+
+					WORF
+			Morn?
+
+	A few heads turn at the sound of his voice --
+
+					DAX
+			It was before we met.
+				(casual)
+			Besides, he wasn't interested.
+
+	Worf finds himself feeling almost insulted --
+
+					WORF
+			What do you mean he wasn't
+			interested?
+
+	We pick up KIRA and Odo as they pass by --
+
+					DAX
+				(in background)
+			Forget I said anything.
+
+0C   KIRA AND ODO
+
+	heading toward Quark's -- she's carrying a BOTTLE of 
+	Yridian Ale and he's carrying a BOTTLE OPENER.
+
+					KIRA
+			Is that a bottle opener?
+
+					ODO
+			For Morn. I thought it might come
+			in handy.
+
+	Kira glances at the bottle in her hand, catches on --
+
+					KIRA
+				(smiles)
+			Very thoughtful.
+
+	Odo smiles, pleased with the gift he picked out... as
+	they head into Quark's...
+
+DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     4B.
+
+2    INT. QUARK'S
+
+	Somber MUSIC plays in the background. A PORTRAIT of 
+	Morn is propped on the bar, surrounded by a cornucopia 
+	of food and drink -- we see fruit, bottles of wine and 
+	ale, cans and jars of delicacies, and something that 
+	looks like a three-legged roast turkey.
+
+	Quark is talking to THREE FERENGI waiters -- he's both 
+	amazed and pleased by the sight of the surprisingly 
+	large crowd.
+
+					QUARK
+			This is unbelievable. Look at all
+			these people.
+				(to waiters, sotto)
+			If you see anyone emptyhanded
+			sell them a bottle of Yridian Ale.
+
+
+	Quark motions to a cache of ale bottles he's set up to 
+	be sold.
+
+					QUARK
+			Tell them it was Morn's favorite.
+
+	The waiters nod and hurry off to ply the crowd. Quark 
+	looks around at the crowd with relish until Bashir and 
+	O'Brien approach him -- the Ferengi instantly puts on 
+	a somber face.
+
+					BASHIR
+			It was kind of you to do this,
+			Quark.
+
+					O'BRIEN
+			Morn would've appreciated it.
+
+					QUARK
+			It's the least I could do.
+
+	Quark doesn't notice Odo hovering behind him --
+
+					QUARK
+				("choked up")
+			I'll miss him.
+
+	Bashir puts a reassuring hand to Quark's shoulder --
+
+					QUARK
+				("recovering")
+			I'm sorry.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE      5.
+
+2    CONTINUED:
+
+					O'BRIEN 
+			Can I get you something?
+
+					QUARK 
+			I don't ordinarily imbibe on the 
+			job. But maybe a Yridian Ale. It 
+			was Morn's favorite, you know.
+
+	O'Brien reacts to this information --
+
+					O'BRIEN 
+				(to Bashir) 
+			Perfect.
+
+	Bashir nods, and the two men move off. Quark smiles to 
+	himself, turns and comes face to face with Odo, who 
+	gives him a knowing look.
+
+					QUARK 
+			What are you looking at?
+
+					ODO 
+			Your respect for the dead is 
+			heartwarming.
+
+					QUARK 
+				(sotto) 
+			I'll have you know that Morn died 
+			without paying this month's tab.
+
+					ODO 
+			How inconsiderate of him.
+
+					QUARK 
+			We're talking about a lot of 
+			money. The man had quite an 
+			appetite -- he had two stomachs to 
+			fill, you know.
+				(fondly) 
+			Did you ever watch him eat? It 
+			was a beautiful thing.
+
+					ODO 
+			Sometimes you don't truly 
+			appreciate what you have until 
+			it's gone.
+
+					QUARK 
+			It's not funny. This service is 
+			my only chance to cover my losses.
+
+					ODO 
+			Morn seemed to be a fairly 
+			successful businessman. 
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE      6.
+
+2    CONTINUED:	(2)
+
+					ODO (Cont'd) 
+			If you come up short, you can 
+			always make a claim against his 
+			estate.
+
+					QUARK
+				(intrigued) 
+			I hadn't thought of that.
+
+					ODO 
+			Of course, he did have seventeen 
+			brothers and sisters. By the time 
+			they divvy everything up, I doubt 
+			there'll be much left.
+
+					QUARK 
+			It's nice to know you're so 
+			worried about my welfare.
+
+					ODO 
+			You should be worried, too. Now 
+			that your mascot is gone, business 
+			is going to suffer.
+
+					QUARK 
+			We'll see.
+				(sure of himself) 
+			You might be surprised.
+
+	And with that, Quark turns and moves away. Off Odo's 
+	face as he wonders what he's up to...
+
+3    OMITTED
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE      7.
+
+3A   DAY,
+
+	Crosses past Odo, Worf is right behind her --
+
+					WORF
+			Jadzia --
+
+
+					DAX
+			Can we please drop this?
+
+	As they move on, we DROP OFF on --
+
+4    QUARK
+
+	clearing his throat near Morn's picture at the bar. 
+	After the crowd falls silent...
+
+					QUARK
+			Thank you all for coming.
+
+	Quark "struggles" to control his emotion.
+
+					QUARK 
+			It means a great deal to me to see 
+			that so many people cared about 
+			Morn as much as I did. I'll never 
+			forget the first time he walked in 
+			here and sat down on this very 
+			stool. It must've been almost ten 
+			years ago -- he still had his hair 
+			then. I thought he was just 
+			another customer passing through. 
+			Little did I know that he'd become 
+			such an important figure in my 
+			life, in all our lives. Someone 
+			we could count on for a cheerful 
+			smile and an entertaining story. 
+			Some of you might be thinking that 
+			this place won't be the same 
+			without him. And it won't. 
+				(beat) 
+			But this was his home. 
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE      8.
+
+4    CONTINUED:
+
+					QUARK (Cont'd) 
+			And wherever he is, I'm sure he'd 
+			want to know that his favorite bar 
+			still echoed with the laughter of 
+			his dear friends.
+				(getting "emotional") 
+			This was his chair... and I think 
+			the greatest tribute we could ever 
+			pay him would be to make sure that 
+			it's never empty.
+
+	Quark gestures to a nearby Starfleet N.D., waves him 
+	forward to sit on the stool.
+
+					QUARK
+				(voice cracking) 
+			Keep it warm. For Morn.
+
+	And with that, Quark has to stop lest he lose it 
+	entirely. A moment, then the crowd breaks into 
+	applause.
+
+5    ODO AND KIRA
+
+	She is visibly touched.
+
+					KIRA 
+			Every now and then, Quark really 
+			surprises me...
+
+	Odo frowns because he can see that Quark pulled off a 
+	nice trick --
+
+					ODO 
+			Me, too.
+
+	Off Odo's face...
+
+6    QUARK
+
+	sitting at the bar, drowning his "sorrows" in the ample 
+	bosom of a distraught DABO GIRL. Sisko approaches --
+
+					SISKO
+			Excuse me, Quark.
+
+					QUARK 
+			Not now.
+
+					SISKO
+			I'm sorry to intrude, but I 
+			thought you should know.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE      9.
+
+6    CONTINUED:
+
+					SISKO (Cont'd) 
+			I unsealed Morn's will. He left 
+			everything to you.
+
+	Quark is so surprised he forgets his act --
+
+					QUARK 
+			Me? He left everything to me?
+
+					SISKO
+			That's right.
+
+	For the first time, Quark's tears are real --
+
+					QUARK
+			Morn... dear sweet, Morn...
+
+	As he collapses back into the Dabo girl...
+
+7    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+8    INT. SECURITY OFFICE
+
+	where Quark is sitting across the desk from Odo, who's 
+	preparing a PADD.
+
+					ODO 
+			Poor fool. He actually believed 
+			you cared about him.
+
+					QUARK 
+			I did.
+				(almost convinced of it
+				himself)
+			I was up for hours last night
+			thinking about him.
+
+					ODO 
+			Calculating his net worth, no 
+			doubt.
+
+					QUARK
+				(ignoring him) 
+			We spent a lot of time together. 
+			We were obviously much closer than 
+			I ever realized.
+
+	Odo frowns at Quark's change of heart, hands him the 
+	PADD.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     10.
+
+8    CONTINUED:
+
+					ODO
+			His financial records.
+
+					QUARK
+				(off PADD) 
+			Is this some kind of joke?
+
+					ODO 
+			What do you mean?
+
+					QUARK 
+			According to this, he was broke.
+
+					ODO
+				(feigning surprise) 
+			No.
+
+					QUARK 
+			How can that be? He paid his bar 
+			bill at the end of every month -- 
+			that kind of money must've come 
+			from somewhere.
+
+					ODO
+				("considers") 
+			He did have his shipping business. 
+			Maybe all his assets are tied up 
+			in inventory?
+
+	Quark leaps on this, not realizing that Odo is leading 
+	him on a wild goose chase.
+
+					QUARK 
+			Of course! Inventory.
+
+									CUT TO:
+
+9    INT. CARGO BAY
+
+	where Odo is showing Quark some cargo containers.
+
+					QUARK 
+			I'll unload everything and use the 
+			profits to --
+				(sniffing) 
+			What is that smell?
+
+					ODO 
+			Your inheritance.
+				(opening a container) 
+			Livanian beets. Very ripe.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     11.
+
+9    CONTINUED:
+
+	A wisp of fetid steam rises from the beets...
+
+					QUARK
+				(re: the containers)
+			What's in the rest of these?
+
+					ODO
+				(off PADD)
+			More beets.
+
+					QUARK
+				(grabbing the manifest)
+			Is that it, is that all he had?
+
+					ODO
+			I'm afraid so.
+
+	Odo lets Quark twist in the wind for a beat...
+
+					ODO
+				(as if it were just 
+				occurring to him)
+			Except for the contents of his
+			quarters. Maybe he spent all his
+			money on furnishings and art work.
+
+					QUARK
+			Objets d'art. Of course!
+
+									CUT TO:
+
+10   INT. HABITAT RING CORRIDOR
+
+	as Odo and Quark step up to a door. Odo works the 
+	panel as Quark waits impatiently --
+
+					QUARK.
+			I'll hold an auction... people
+			will pay a premium to own
+			something that used to be Morn's.
+
+	Odo tries to keep the smile from his face as the door 
+	slides open --
+
+11   INT. MORN'S QUARTERS 
+
+	as Quark and a smug Odo step inside. Quark's smile of 
+	anticipation fades away as he takes in the sight before 
+	him --
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     12.
+
+12   NEW ANGLE
+
+	REVEALING the contents of Morn's quarters. There are 
+	only two items inside it -- his MATADOR PAINTING and a 
+	HOT TUB filled with stinking MUD. After a beat --
+
+					QUARK
+			You sure these are the right
+			quarters?
+
+					ODO
+			I'm sure.
+
+					QUARK
+				(deflated)
+			Figures.
+				(looking around, sees 
+				painting)
+			What's that?
+
+					ODO
+			A matador, I think.
+
+					QUARK
+				(re: the tub; annoyed)
+			That.
+
+					ODO
+			His bed.
+
+					QUARK
+			Morn slept in mud?
+
+					ODO
+			I'm told it's good for the skin...
+
+	And with that, a satisfied Odo turns and EXITS, leaving 
+	a dejected Quark. He crosses to the mud bath, looks 
+	down at it.
+
+					QUARK
+			Thanks, Morn... just what I always
+			wanted...
+
+	After a beat, a woman's head and shoulders suddenly 
+	break the surface of the mud -- Quark is so startled he 
+	jumps back. Whoever this beautiful Alien woman is, she 
+	must've been in the tub when the door opened and ducked 
+	under the surface to hide -- from her hungry breathing, 
+	we can see that she held her breath as long as she 
+	could. They stare at each other for a long beat...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     13.
+
+12   CONTINUED:
+
+					QUARK
+				(indignant) 
+			What are you doing in my mud?
+
+					LARELL 
+			I couldn't resist. Morny and I 
+			spent so many happy hours here, I 
+			just had to slip in. I'm sorry if 
+			I startled you, but when I heard 
+			you come in I thought I'd better 
+			hide.
+
+					QUARK
+			Who are you?
+
+					LARELL
+				(as if he should 
+				recognize the name) 
+			Larell.
+				(off his blank look) 
+			Morn's wife. Ex-wife.
+
+	Quark can't believe that a guy like Morn was married to 
+	such a beautiful woman --
+
+					QUARK 
+			Morn was married? To you?
+
+					LARELL 
+			For two wonderful years.
+
+	She studies Quark for a beat, eyes him approvingly --
+
+					LARELL 
+			You must be Quark.
+				(off his reaction) 
+			Morny and I kept in touch after we 
+			separated. He talked about you 
+			all the time.
+
+	She sizes him up seductively --
+
+					QUARK
+				(pleasantly rattled) 
+			That's nice.
+
+					LARELL
+				(eyes locked on his) 
+			He told me that if anything ever 
+			happened to him, he wanted you to 
+			have everything that was ever his.
+
+					QUARK
+			Everything?
+
+	As if to answer, she starts to stand --
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     14.
+
+13   NEW ANGLE 
+
+	she stands with her naked back to camera, waist deep in 
+	mud (it should be liquid enough to slide off her skin 
+	and hair) --
+
+					LARELL 
+			Everything.
+
+	After a beat, Quark recovers enough to realize she's 
+	playing an angle -- he figures she thinks Morn left 
+	behind some money.
+
+					QUARK 
+			I'm glad you came by, because 
+			"Morny" didn't leave me much of 
+			anything else.
+
+	She smiles knowingly, thinking Quark's lying to her --
+
+					LARELL 
+			I find that hard to believe...
+
+					QUARK
+			I'm as disappointed as you are.
+
+	As Quark watches, she raises her leg, rubs her skin 
+	with mud...
+
+					LARELL 
+			I happen to know he had a very 
+			substantial retirement fund. One 
+			that could make two people very 
+			comfortable.
+
+					QUARK
+			If you're partial to mud, it's 
+			comfortable all right.
+
+	Larell thinks Quark is pretending not to know about 
+	Morn's money.
+
+					LARELL 
+			I'm talking about the thousand 
+			bricks of gold-pressed latinum he 
+			won in the Lissepian Lottery.
+
+					QUARK
+				(stunned)
+			A thousand bricks...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT ONE     15.
+
+13   CONTINUED:
+
+					LARELL
+				(with a seductive smile) 
+			Now that he's gone, it's all 
+			ours...
+
+	Off Quark's face as he takes this in...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     16.
+                            ACT TWO                             
+
+	FADE IN:
+
+14   INT. MORN'S QUARTERS - LATER
+
+	Quark has set up a futuristic PUMP to suck the mud out 
+	of the tub. A TUBE runs from the tub to the pump, 
+	which is not much bigger than a vacuum cleaner -- 
+	through some miracle of twenty-fourth century technology, 
+	the contents of the tub somehow are whisked away by this 
+	relatively small machine.
+
+	Quark paces, giving the pump time do its work, until a 
+	loud SUCKING NOISE draws him to the tub. He moves to 
+	the rim, peers over the edge to see --
+
+15   THE EMPTY TUB
+
+	with just a little bit of mud at the bottom. Larell 
+	ENTERS from the back, having slipped into a new, sexy 
+	outfit.
+
+					LARELL
+				(sliding her hand around 
+				his waist) 
+			What are you doing... ?
+
+					QUARK
+				(sloshing the mud around 
+				so he can see) 
+			What do you think -- I'm looking 
+			for the latinum.
+
+	Larell's seductive look gives way to something harder, 
+	more calculating.
+
+					LARELL 
+			You must know where he kept it.
+
+					QUARK
+				(still looking) 
+			I didn't even know it existed 
+			until you told me.
+
+	We can see the wheels start turning in her mind -- she 
+	realizes she may have made a mistake telling him about 
+	it, but she doesn't want Quark to see that.
+
+					LARELL 
+			Well, I'm sure it's somewhere on 
+			the station.
+
+	He gets up, wipes his hands.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     17.
+
+15   CONTINUED:
+
+					QUARK 
+			How do you know he didn't spend it 
+			already?
+
+					LARELL 
+			I told you, it was for his 
+			retirement. Poor Morn. He never 
+			got to enjoy it.
+
+	She pulls herself close --
+
+					LARELL 
+			But that doesn't mean we can't.
+
+	Quark knows what she's up to, and while he wouldn't 
+	mind spending more time with this woman, he wants her 
+	to know the money is legally his --
+
+					QUARK
+			I know what you're doing...
+
+					LARELL
+				(stroking his ear) 
+			What am I doing?
+
+					QUARK
+				(trying to stay focused) 
+			Just so we're clear, the latinum's mine.
+
+					LARELL
+				(through a cobra's
+				smile)
+			He may have left everything to
+			you, but I was his wife -- I could
+			contest the will and tie you up in
+			court for years...
+
+	Quark doesn't like the sound of this, but he can't pull 
+	himself away from her oo-mox.
+
+					QUARK 
+			Maybe.
+
+					LARELL 
+			But there's no reason it should 
+			come to that... after all, a 
+			thousand bricks is plenty for both 
+			of us.
+
+					QUARK
+			It is a lot of money...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     18.
+
+15   CONTINUED:	(2)
+
+					LARELL 
+			And as soon as we find it, we'll 
+			take a nice long vacation 
+			together.
+
+					QUARK
+			Morn would've wanted it that way.
+
+					LARELL
+			Of course he would've...
+
+	Off Quark's face as he gives in to the oo-mox...
+
+16   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+17   INT. QUARK'S - AFTER HOURS
+
+	where Quark is playing TONGO with Dax. Morn's matador 
+	painting is propped up somewhere nearby, lying 
+	sideways. Ferengi WAITERS are in the background 
+	cleaning up.
+
+					QUARK 
+			The latinum's not on the station. 
+			I've looked everywhere.
+				(playing a card) 
+			Evade.
+				(to Dax) 
+			I even had my brother scan for it 
+			with the internal sensors.
+
+					DAX
+				(spinning the wheel)
+			At least you have the painting.
+
+					QUARK 
+			Forget the painting, I want that 
+			latinum.
+
+					DAX
+			If you think it'll make you happy.
+				(playing a card) 
+			Confront.
+
+  DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO 19-20.    
+
+17   CONTINUED:
+
+					QUARK 
+			Believe me, it will. This is the 
+			break I've been waiting for, and 
+			it's been a long time coming. I 
+			want Morn's money, I need Morn's
+			money. I deserve Morn's money.
+
+					DAX
+				(whatever) 
+			Your move.
+
+	Quark clinks two slips of latinum he's betting with.
+
+					QUARK
+				(re: the sound)
+			Beautiful, isn't it? And the way 
+			it catches the light...
+				(thoughtful) 
+			I wonder who came up with the idea 
+			of suspending liquid latinum 
+			inside worthless bricks of gold?
+
+					DAX
+				(impatient) 
+			Probably somebody who got tired of 
+			making change with an eyedropper. 
+			Are you going to play or not?
+
+					QUARK
+				(spinning the wheel) 
+			Where could Morn have put it all?
+
+					DAX
+				(shrugs) 
+			If you find it, are you really 
+			going to share it with this woman?
+
+					QUARK
+				(a reluctant admission) 
+			I agreed to give her ten percent 
+			so she wouldn't tie me up in 
+			court.
+
+					DAX
+				(surprised) 
+			That's a hundred bricks.
+
+					QUARK
+				(shrugs) 
+			What could I do?
+				(plays a card) 
+			Retreat.
+
+					DAX
+			I don't know. Something's not 
+			right about this whole thing. 
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     21.
+
+17   CONTINUED:	(2)
+
+					DAX (Cont'd)
+				(spinning the wheel)
+			I don't trust this woman.
+
+					QUARK
+			Neither do I. But that doesn't
+			mean I'm going to keep her away
+			from my lobes.
+
+					DAX
+			Just keep your eyes open.
+				(scratching his chin)
+			Don't be fooled by a pretty face.
+
+					QUARK
+			Not me.
+
+					DAX
+			Of course not.
+				(playing a card)
+			Acquire.
+
+	Dax smiles and scoops up her winnings. Off Quark's 
+	reaction as he realizes he wasn't paying enough 
+	attention to the game...
+
+18   INT. QUARK'S QUARTERS
+
+	as he ENTERS with the Matador painting. To his 
+	puzzlement, the LIGHTS are dimmed. Quark notices a 
+	figure silhouetted against the starfield.
+
+					QUARK
+			Larell?
+				(moving closer)
+			What a pleasant surprise.
+				(to computer)
+			Computer, lights.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     22.
+
+18   CONTINUED: 
+
+	At that point the LIGHTS come on and Quark realizes the 
+	figure isn't Larell, but an alien man. We'll come to 
+	know him as KRIT. His brother NAHSK is standing at a 
+	wall panel, having just turned on the lights. Both are 
+	well-dressed, but there's something sinister about them 
+	that says organized crime. They study Quark for a beat 
+	before saying anything.
+
+	When Krit speaks, it's in a calm, reasonable voice that 
+	has an underlying edge to it.
+
+					KRIT
+			Do you like surprises, Quark?
+
+					QUARK
+			Only pleasant ones.
+
+					KRIT
+			I like to think I'm pleasant.
+				(to his brother)
+			Do you think I'm pleasant?
+
+	Nahsk is the "muscle" of this duo, and a bit slower 
+	than his brother.
+
+					NAHSK
+			Absolutely.
+
+					KRIT
+				(to Quark)
+			Then I guess this qualifies as a
+			pleasant surprise.
+
+					QUARK
+			What are you doing in my quarters?
+
+					NAHSK
+
+				(stating the obvious)
+			Waiting for you.
+
+					KRIT
+			My brother and I were business
+			associates of Morn's.
+
+					QUARK
+			If you came for the memorial
+			service, it was yesterday.
+
+					NAHSK
+				(sincere)
+			Was it nice?
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     23.
+
+18   CONTINUED:	(2)
+
+					QUARK 
+			It was lovely.
+
+					KRIT 
+			I understand you inherited Morn's 
+			estate.
+
+					QUARK
+			That's right.
+
+					NAHSK 
+			We were business associates of 
+			Morn's.
+
+					QUARK
+			Your brother mentioned that.
+
+					KRIT 
+			He borrowed some money from us. 
+			We'd like his estate to repay the 
+			loan.
+
+	Quark was afraid it would be something like this --
+
+					QUARK 
+			How much money are we talking 
+			about?
+
+					KRIT 
+			One thousand bricks of gold-
+			pressed latinum.
+
+					QUARK
+			I had a feeling you were going to 
+			say that.
+
+	Quark is starting to realize that there's more going on 
+	here than he realized -- suddenly even Larell's story
+	is in doubt.
+
+					QUARK 
+			Obviously I need to see some 
+			documentation regarding this loan.
+
+	Krit moves to stand very close to Quark.
+
+					KRIT 
+			We shook hands.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     24.
+
+18   CONTINUED:	(3)
+
+					NAHSK
+				(moving to stand behind
+				Quark) 
+			We trusted Morn.
+
+					KRIT
+				(a latent threat) 
+			And I'm sure he'd want you to 
+			honor his word.
+
+					QUARK
+			I'm sure he would. But you have 
+			to understand, Morn's assets are 
+			tied up in his various enterprises.
+
+					KRIT 
+			I hope you're not saying you don't 
+			have the money.
+
+					NASHK
+				(leaning closer) 
+			That wouldn't be good.
+
+	Quark can see he's not going to be able to shake these 
+	two off by claiming there's no money --
+
+					QUARK 
+			All I meant was that it's going to 
+			take me a little while to get it.
+
+	Krit fixes him with a look --
+
+					KRIT 
+			You do know where it is?
+
+	Quark can see that Krit isn't sure about this, and he 
+	realizes that this is the only leverage he has over 
+	these two dangerous men. He makes the decision to 
+	bluff --
+
+					QUARK
+			Of course.
+
+	Quark moves out from between them --
+
+					QUARK
+				(testing the waters) 
+			However, you're not the first 
+			creditors to make a claim against 
+			his estate.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     25.
+
+18   CONTINUED:	(4)
+
+					KRIT 
+				(guarded) 
+			We're not?
+
+					QUARK
+			Morn was expanding his business 
+			interests when he died. His 
+			resources were stretched somewhat 
+			thin. As a result, the claims 
+			against his estate are greater 
+			than its assets. Obviously you 
+			can't expect full repayment.
+
+	Krit isn't necessarily buying all of this, but he's 
+	willing to cut a deal --
+
+					KRIT 
+			What can we expect?
+
+					QUARK
+			A percentage.
+
+					KRIT 
+			What sort of percentage?
+
+					QUARK
+			Twenty.
+
+					KRIT 
+			We couldn't accept anything less 
+			than eighty.
+
+					QUARK
+
+			I'll make it thirty, and throw in 
+			a shipment of Livanian beets.
+
+					NAHSK 
+			I don't like beets.
+
+					KRIT 
+			We'll take seventy.
+
+					QUARK
+			Forty, and because I can see you 
+			both have fine taste, I'm willing 
+			to part with this.
+
+	Quark reaches for the matador painting, holds it up.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     26.
+
+18   CONTINUED:	(5)
+
+					QUARK
+			It was Morn's most treasured
+			possession. Beautiful, isn't it?
+
+	Krit is smart enough to ignore him, but Nahsk rather 
+	likes the painting and takes it out of Quark's hands to 
+	study it.
+
+					NAHSK
+			Nice.
+
+					KRIT
+				(ignoring his brother)
+			We won't take less than sixty.
+
+					QUARK
+			Forty's the best I can do.
+
+					KRIT
+			Fifty.
+
+					QUARK
+				(shrugs)
+			Sorry.
+
+	Nahsk suddenly smashes the painting over Quark's head 
+	so that the canvas tears around it and he ends up 
+	wearing the frame like a necklace. Quark decides he'd 
+	better give in --
+
+					QUARK
+			Fifty it is.
+
+					KRIT
+			I'm glad we were able to come to
+			an understanding.
+
+					QUARK
+			Me too.
+
+	The brothers prepare to leave...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     27.
+
+
+18   CONTINUED:	(6)
+
+					KRIT
+			We'll be watching you, Quark.
+			Don't try anything.
+
+					QUARK
+			Me? Don't be ridiculous.
+
+	And with that, Krit and Nahsk head for the door and 
+	EXIT. Quark lets out a sigh of relief, then lifts the 
+	painting off his shoulders. As he does so, something 
+	in the torn canvas catches his eye. Intrigued, he 
+	studies it.
+
+19   INSERT - THE PAINTING
+
+	A small ISOLINEAR CHIP is woven into the fabric.
+
+20   RESUME SCENE
+
+					QUARK
+			What do we have here... ?
+
+	Quark hurries to his computer, slips the chip inside a 
+	slot.
+
+					QUARK
+			Computer, what is this?
+
+	The Computer beeps, responds --
+
+					COMPUTER VOICE
+			A claim slip for storage locker
+			one-thirty-seven located in the
+			station's Assay Office.
+
+	Quark breaks into a grin
+
+					QUARK
+			A storage locker...
+				(taking out the chip)
+			Thank you, computer. You've been
+			very helpful.
+
+	Quark kisses the chip tenderly, turns and looks out at 
+	the stars --
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT TWO     28.
+
+20   CONTINUED:
+
+					QUARK 
+			Morn, wherever you are, I love 
+			you!
+
+	And off his jubilant features, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+ DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE 29-30.   
+                           ACT THREE                            
+
+	FADE IN:
+
+21   OMITTED
+
+22   INT. SECURITY OFFICE
+
+	Quark and Odo are near the door to the Promenade, 
+	arguing about something.
+
+					QUARK 
+			What do you mean I have to open it 
+			in here?
+
+					ODO
+			Regulations -- the contents of a 
+			deceased person's storage locker 
+			have to be inspected by station 
+			security.
+
+					QUARK
+			There's no such regulation, you 
+			just want to know what's inside.
+
+	Quark can see that he's right --
+
+					QUARK 
+			You are so transparent. I can't 
+			wait to see your face when your 
+			deputies wheel in my thousand 
+			bricks of latinum.
+
+	On cue, the door OPENS to admit a DEPUTY, who hands Odo 
+	a small SAFE DEPOSIT BOX.
+
+					QUARK
+			That can't be it.
+
+					ODO
+				(checks the label, 
+				smiles) 
+			Storage locker one-thirty-seven.
+
+	Quark isn't ready to give up hope that there might be 
+	something valuable in the box anyway.
+
+					QUARK 
+			Well, sometimes good things come 
+			in small packages...
+
+
+	Quark takes the box from Odo and sets it down on the 
+	desk.
+
+    DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE    31.
+
+22   CONTINUED:
+
+	Quark steels himself, opens the lid. As Odo watches, 
+	he pulls out a single BRICK of gold-pressed latinum -- 
+	he studies it intently, and it's hard to tell from his 
+	face if he's happy or disappointed.
+
+					ODO
+			Is that going to be enough to
+			cover Morn's bar tab?
+
+					QUARK
+			It's covered.
+				(smiles)
+			There's more where this came from.
+
+					ODO
+			What makes you say that?
+
+					QUARK
+			Take a look.
+
+	Quark hands him the brick --
+
+					QUARK
+			On the bottom.
+				(Odo looks)
+			Recognize Morn's handwriting?
+
+					ODO
+				(off brick)
+			"The rest is in the Bank of
+			Bolias."
+
+     DEEP SPACE NINE: "Who Mourns.. " - REV. 11/13/97 - ACT THREE    32.
+
+22   CONTINUED:	(2)
+
+					QUARK
+			Account number CJ57436.
+
+					ODO)
+				(vaguely annoyed)
+			It wasn't listed in Morn's 
+			financial records...
+
+	Quark takes the brick from Odo --
+
+					QUARK
+				(shrugs) 
+			Who cares?
+				(tucking the brick into 
+				his vest) 
+			Now if you'll excuse me, I'm going 
+			to contact the bank and let them 
+			know that Morn's legal heir would 
+			like his latinum delivered as soon 
+			as possible... 
+
+	Off Odo's face... he can't stand seeing Quark so happy.
+
+23
+thru   OMITTED
+24
+
+25   INT. HABITAT RING CORRIDOR
+
+	as Quark makes his way to his quarters. He pats his 
+	jacket, smiles upon feeling the brick underneath the 
+	fabric. When he rounds the corner, he comes face to 
+	face with Larell.
+
+					QUARK
+			Larell...
+
+	She goes into seductress mode, determined to keep a 
+	hold over Quark.
+
+					LARELL 
+			I've been looking all over for 
+			you...
+
+					QUARK 
+			I'm a busy man.
+
+    DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE    33.
+
+25   CONTINUED:
+
+					LARELL 
+			Not too busy to look for a certain 
+			something, I hope?
+
+					QUARK
+			Actually, I haven't had much luck 
+			with that.
+
+	Larell isn't happy to hear this -- either Quark is 
+	lying, or he doesn't want to share the latinum. She 
+	redoubles her efforts to seduce him.
+
+					LARELL 
+			Sounds like you need some 
+			motivation...
+
+	She presses herself against him, and Quark is worried 
+	she'll feel the brick of latinum.
+
+					QUARK
+				(pulling away) 
+			I'm motivated, believe me. It's 
+			just going to take some time to 
+			locate, that's all.
+				(brightly) 
+			I've got an idea! Why don't you 
+			go back to... wherever you came 
+			from -- and I'll contact you as 
+			soon as I find it.
+
+					LARELL 
+			I'd rather wait here.
+				(touching his ear) 
+			With you.
+
+					QUARK
+				(pulling away) 
+			This is no time for oo-mox...
+
+					LARELL 
+			You don't like it?
+
+					QUARK 
+			It's not that, it's just... the 
+			sooner I find that certain 
+			something, the sooner you and I 
+			can take our little trip together.
+
+    DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE    34.
+
+25   CONTINUED:	(2)
+
+					LARELL
+				(smiles approvingly) 
+			You're so diligent. Most men 
+			don't know how to defer 
+			gratification.
+
+	Quark gives her his best look of yearning --
+
+					QUARK
+			You don't make it easy...
+
+	He blows her a kiss and hurries away around the 
+	corner...
+
+26   INT. ANOTHER HABITAT RING CORRIDOR
+
+	as Quark steps into a turbolift.
+
+27   INT. TURBOLIFT
+
+	as the door shuts behind Quark and he breathes a sigh 
+	of relief.
+
+					QUARK
+			Level Seventeen.
+
+	As the Turbolift starts to move, Quark feels for the 
+	brick of latinum to shift it back into a secure 
+	position. To his utter astonishment, it's not there! 
+	He pats himself frantically, then comes to the 
+	conclusion that Larell must've lifted it. After a 
+	moment of panic, he decides it's okay. A beat, then he 
+	smiles in admiration.
+
+					QUARK
+			You're good. But I'm the only one 
+			the bank's going to give the money 
+			to.
+				(repeating the number so 
+				he won't forget)
+			CJ57436. CJ57436. CJ5 --
+
+	The doors OPEN and Quark moves to step off, but finds 
+	his path blocked by Krit and Nahsk. They step inside, 
+	forcing him back aboard.
+
+					QUARK
+			This is my stop.
+
+    DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE    35.
+
+27   CONTINUED:
+
+					KRIT 
+			What's your hurry?
+
+	(NOTE: The Turbolift doesn't start to move because no 
+	one has asked it to.)
+
+					KRIT 
+			My brother has something he wants 
+			to say to you.
+
+	Nahsk looks sheepish, but comes out with it.
+
+					NAHSK 
+			I'm sorry.
+				(off Quark's look) 
+			About the painting.
+
+					KRIT 
+			He feels terrible.
+
+					QUARK
+				(trying to move past 
+				them) 
+			No hard feelings.
+
+	The brothers block his way --
+
+					KRIT 
+			It's nice of you to be so 
+			forgiving, Quark.
+
+					QUARK 
+			Don't mention it.
+
+					KRIT 
+			My brother has a terrible temper.
+
+					NAHSK 
+			I get upset.
+
+					KRIT 
+			It comes out when things don't go 
+			our way.
+
+					QUARK
+			I noticed.
+
+					KRIT 
+			That's why I'm hoping things start 
+			to go our way soon. Do you 
+			understand what I'm saying?
+
+					QUARK
+			I think I do, yes.
+
+    DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE    36.
+
+27   CONTINUED:	(2)
+
+					NAHSK
+			I don't like to get upset.
+
+					QUARK
+			Don't worry, things are going to
+			go your way soon.
+
+					KRIT
+			That's good to hear.
+
+					QUARK
+				(stepping past them)
+			I'll be in touch.
+
+	As the door opens --
+
+					NAHSK
+			Sorry about the painting.
+
+	Quark gives him a look, EXITS.
+
+28   INT. ANOTHER HABITAT RING CORRIDOR 
+
+	as Quark approaches the door to his quarters, muttering 
+	Morn's account number to himself.
+
+					QUARK
+			CJ57436. CJ574--
+
+29   INT. QUARK'S QUARTERS
+
+	as he ENTERS and goes immediately to his computer.
+
+					QUARK
+			--36. CJ57436.
+				(working)
+			Bank of Bolias...
+
+	Suddenly a phaser is jammed into Quark's back --
+
+ DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT THREE     37   
+
+30   NEW ANGLE
+
+	to reveal an imposing human Alien male standing behind 
+	him. His name is HAIN, and he's dressed in twenty-fourth 
+	century business attire.
+
+					HAIN 
+			Making a withdrawal, Quark? Let 
+			me guess -- a thousand bricks of 
+			gold-pressed latinum.
+
+	Quark can't believe it -- someone else knows about the 
+	money? Off Quark's reaction, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    38.
+                           ACT FOUR                             
+
+	FADE IN:
+
+31   INT. QUARK'S QUARTERS - CONTINUOUS
+
+	Hain has his phaser in Quark's back.
+
+					HAIN 
+			Put your hands on your head and 
+			turn around.
+
+	Quark slowly complies, figuring this is yet another 
+	dangerous character here to make a claim on Morn's 
+	latinum. He decides to cut to the chase --
+
+					QUARK 
+			All right, how much do you want?
+				(off Hain's look) 
+			And don't ask for the whole 
+			thousand bricks, I already gave 
+			away more than half of it.
+
+	Hain fixes him with a look.
+
+					HAIN 
+			Attempted bribery. That should 
+			add a few years to your sentence.
+
+					QUARK
+			What are you talking about?
+
+	Hain waves Quark toward the door --
+
+					HAIN 
+			Let's go.
+
+					QUARK
+			Go where? Who are you?
+
+					HAIN
+				(flashing a "badge") 
+			Lurian Security. I have a signed 
+			extradition order for your arrest.
+				(waving him toward the
+				door again)
+			As soon as your station's security
+			chief approves it, we'll be on our
+			way.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    39.
+
+31   CONTINUED:
+
+					QUARK
+			But what did I do -- what's the
+			charge?
+
+					HAIN
+			Conspiracy to intercept government
+			property.
+
+					QUARK
+			Government property?
+
+					HAIN
+			One thousand bricks of gold
+			pressed latinum.
+
+					QUARK
+			Wait a minute. Morn won that
+			latinum in the Lissepian lottery.
+
+	Hain smiles at this, shakes his head --
+
+
+					QUARK
+				(wan)
+			He didn't?
+
+					HAIN
+			It was his bequest from the royal
+			family of Luria.
+
+					QUARK
+			Why would the royal family of
+			Luria give Morn that kind of
+			money?
+
+					HAIN
+				(matter of fact)
+			He was the crown prince.
+
+					QUARK
+			Morn was a prince?
+
+					HAIN
+			You didn't know?
+
+					QUARK
+			Morn was a prince?
+
+					HAIN
+			That's what I'm saying.
+
+					QUARK
+				(finally accepting it)
+			Morn was a prince...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR   39A.
+
+31   CONTINUED:	(2)
+
+					HAIN
+			Yes. But he renounced the throne
+			when he came of age.
+
+					QUARK
+			I always knew he was an idiot.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    40.
+
+31   CONTINUED:	(3)
+
+					HAIN 
+			His family bequeathed him the 
+			latinum when he abdicated. Now 
+			that he's deceased, it's legally 
+			theirs again.
+
+					QUARK
+			He left it to me.
+
+					HAIN 
+			The will has already been 
+			nullified. He signed an agreement 
+			to return the latinum in the event 
+			of his death.
+
+					QUARK
+				(deflated) 
+			Oh.
+				(beat) 
+			Do me a favor, don't tell his ex-
+			wife that. I'm going to need a 
+			little oo-mox later.
+
+					HAIN 
+			His ex-wife?
+
+					QUARK
+			Larell.
+
+					HAIN 
+			She's here?
+
+					QUARK
+			I just saw her.
+
+	Hain starts thinking fast, this changes everything --
+
+					QUARK 
+			Something wrong?
+
+					HAIN 
+			Quiet. Let me think.
+
+	Quark keeps his mouth shut for a beat --
+
+					HAIN 
+			Listen and listen carefully. 
+			Larell has been trying to get her 
+			hands on the Prince's latinum for 
+			years. She's tried blackmail, 
+			extortion -- I wouldn't be 
+			surprised if she was behind his 
+			death.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    41.
+
+31   CONTINUED:	(4)
+
+					QUARK
+				(taken aback)
+			She's always been nice to me...
+
+					HAIN 
+			The royal family would like
+			nothing better than to see her 
+			behind bars. If you help me 
+			apprehend her, there'll be a 
+			substantial reward.
+
+	Quark is suddenly all ears --
+
+					QUARK 
+			What do I have to do?
+
+					HAIN 
+			When are you going to see her 
+			again?
+
+					QUARK
+			She'll turn up sooner or later.
+				(more to himself) 
+			If not her, those two brothers.
+
+					HAIN 
+			Brothers?
+
+					QUARK 
+			They said they were Morn's 
+			business partners. They claim he 
+			owed them money.
+				(between you and me) 
+			Something tells me they're not 
+			exactly above board.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    42.
+
+31   CONTINUED:	(5)
+
+					HAIN 
+			Whoever these brothers are, I 
+			promise you I'm not going to let 
+			them get between the royal family 
+			and its latinum.
+
+					QUARK
+			And I'm not going to let anything 
+			get between me and my reward.
+
+					HAIN 
+			Then we have an understanding.
+
+	A moment, then Hain tells him the plan.
+
+					HAIN
+			If I'm going to put these people 
+			away, I need to catch them trying 
+			to get their hands on the latinum. 
+			Contact the bank -- tell them to 
+			deliver it here.
+
+					QUARK
+			Then what?
+
+					HAIN 
+			Try to stay out of sight. Leave 
+			the rest to me.
+
+	Off Quark's face as he contemplates this turn of 
+	events...
+
+32   INT. QUARK'S BAR
+
+	O'Brien is sitting on Morn's favorite chair working on 
+	a piece of (TECH) equipment with some TOOLS. It's 
+	early evening, and the place is relatively quiet. 
+	SUPERNUMERARIES as needed. Bashir ENTERS and 
+	approaches O'Brien.
+
+					BASHIR 
+			What are you doing?
+
+					O'BRIEN
+				(frustrated) 
+			Trying to fix this optronic relay.
+
+					BASHIR 
+			Wouldn't you be better off working 
+			in a lab?
+
+	O'Brien looks at Bashir as if to say "how soon they 
+	forget."
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    43.
+
+32   CONTINUED:
+
+					O'BRIEN
+			I'm keeping Morn's chair warm.
+
+					BASHIR
+				(realizing) 
+			Good man.
+
+	Bashir looks down the length of the bar.
+
+					BASHIR 
+			Where's Quark? I'm in the mood 
+			for one of his famous Til'amin 
+			froths.
+
+					O'BRIEN
+			You'll have to settle for 
+			something else. He's in the back.
+				(motioning to a Ferengi 
+				waiter) 
+			And from what Broik tells me, he's 
+			not coming out.
+
+	Bashir thinks he knows why --
+
+					BASHIR 
+			Sounds like he's taking Morn's 
+			death pretty hard.
+
+					O'BRIEN
+				(sympathetic) 
+			He loved the guy.
+				(collecting his things) 
+			I'd better go test this.
+
+	O'Brien gets up to leave. He looks down at Morn's 
+	chair, loathe to leave it empty. Bashir realizes it's 
+	his duty not to let this happen --
+
+					BASHIR 
+			I'll take over.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    44.
+
+32   CONTINUED:	(2)
+
+	As Bashir settles onto Morn's chair --
+
+					O'BRIEN
+			Good man.
+
+	Off Bashir as he motions a waiter over...
+
+33   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+34   INT. QUARK'S QUARTERS
+
+	as Quark ENTERS. As he's about to flop down on the 
+	couch, he thinks of something.
+
+					QUARK
+			Anybody here?
+
+	A beat, then Larell steps out from behind a PARTITION.
+
+					QUARK
+			What a surprise...
+
+	Larell isn't her usual vixen self... she seems scared 
+	about something.
+
+					LARELL
+			You've got to help me, Quark.
+			Someone's been following me.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    45.
+
+34   CONTINUED:
+
+					QUARK
+			Who?
+
+					LARELL
+			Two men.
+
+					QUARK
+			Brothers?
+
+					LARELL
+			How should I know?
+
+	The door CHIMES. Quark and Larell freeze.
+
+					QUARK
+			That could be them.
+
+					LARELL
+			Don't answer it.
+
+					QUARK
+			Believe me, I'm not planning to.
+
+	They hold still, and after a beat, they start to HEAR 
+	a series of BEEPS that indicate someone is working the 
+	lock from outside.
+
+					QUARK
+			They're trying to bypass the lock.
+
+	Quark decides they'd better hide.
+
+					QUARK
+				(grabbing her hand)
+			Come on.
+
+	As he leads her back behind the partition --
+
+					QUARK
+			Computer, dim lights.
+
+	The LIGHTS DIM in response.
+
+35   NEW ANGLE
+
+	as Quark and Larell cower behind the partition. A 
+	moment, then they hear a final BEEP and a CLICK --
+
+					QUARK
+				(sotto)
+			Remind me to invest in a better
+			lock...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    46.
+
+35   CONTINUED: 
+
+	The door slides OPEN and Krit and Nahsk ENTER. Quark 
+	peeks out and sees it's them. A moment as he considers 
+	what to do --
+
+					QUARK 
+				(sotto) 
+			Stay here.
+
+	Before she can protest, Quark moves around from behind 
+	the partition --
+
+					QUARK 
+			Gentlemen.
+
+	They react to the sight of him --
+
+					KRIT 
+			We've been looking all over for 
+			you, Quark.
+
+					QUARK
+			The latinum's on its way. It'll 
+			be here tomorrow.
+
+					KRIT 
+			That's good news. We were 
+			starting to worry.
+
+	Before Quark can answer, the door CHIMES again. Krit 
+	and Nahsk react -- they don't like unexpected visitors.
+
+					KRIT 
+			Expecting anyone?
+
+					QUARK
+			You never know when someone's 
+			going to drop by.
+
+					KRIT 
+			Don't answer it.
+
+	Quark shrugs, fine with him. A moment, then we hear 
+	the SOUND of the lock being picked.
+
+					QUARK 
+			Sounds like they're coming in 
+			anyway.
+
+					NAHSK 
+			You should invest in a better 
+			lock.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    47.
+
+35   CONTINUED:	(2)
+
+					KRIT
+			Whoever it is, get rid of them.
+				(indicating the 
+				partition)
+			We'll be back there.
+
+	Quark blocks their way, indicates the back room.
+
+					QUARK
+			You'd be more comfortable in
+			there.
+
+	Krit and Nahsk exchange a look, decide he's right.
+
+					NAHSK
+			We'll be back there.
+
+	Quark nods patiently, watches them cross away and 
+	disappear into the back room. As soon as they're gone, 
+	he scurries to the partition and indicates to Larell 
+	that she should stay put. By the time the door OPENS 
+	he's back in the center of the room to greet Hain when 
+	he ENTERS.
+
+					HAIN
+			Why didn't you answer the door?
+
+					QUARK
+			I dozed off. It's been one of
+			those days.
+
+	Quark motions his eyes toward the partition, trying to 
+	let Hain know that someone's back there.
+
+					HAIN
+			We need to talk.
+
+	Quark tries to cover -- he doesn't want Larell and the 
+	brothers to know he and Hain are in cahoots.
+
+					QUARK
+			What would we have to talk about?
+
+	He motions his head toward the back room to indicate 
+	someone's back there too --
+
+					HAIN
+			Are you all right?
+
+					QUARK
+				(overly bright)
+			What makes you ask that?
+
+					HAIN
+			You keep craning your neck.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    48.
+
+35   CONTINUED:	(3)
+
+	Suddenly Krit and Nahsk come out from the back room -- 
+	Nahsk trains his weapon on Hain.
+
+					KRIT
+			Well look what we have here...
+
+	Quark can't believe Hain let himself get caught like 
+	this --
+
+					QUARK
+				(to Hain) 
+			I'll bet the royal family sleeps 
+			soundly knowing you're on the 
+			job...
+
+	Krit seems amused by this --
+
+					KRIT 
+			Royal family? What kind of lies 
+			have you been telling him, Hain?
+
+					HAIN
+				(shrugs) 
+			The usual.
+
+	Quark reacts to their apparent familiarity
+
+					QUARK
+			You know each other?
+
+					HAIN
+				(ignoring him; to Krit) 
+			It's been a long time.
+
+					KRIT 
+			Must be nine years.
+
+					NAHSK. 
+			Nine years.
+
+					HAIN
+				(to Nahsk) 
+			I see you're still one step behind 
+			everyone else.
+
+	Larell steps out from behind the partition --
+
+					LARELL 
+			Leave him alone, Hain.
+
+	Nahsk smiles at the sight of her --
+
+					NAHSK
+				(to his brother) 
+			It's Larell.
+
+	Krit is genuinely patient with his brother, as always.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    49.
+
+35   CONTINUED:	(4)
+
+					KRIT
+			I can see that.
+
+					QUARK
+			What is going on here?
+
+					LARELL
+			We're having a little reunion.
+				(lowering Nahsk's 
+				weapon)
+			We used to work together. With
+			Morn.
+
+					QUARK
+				(to Hain, wan)
+			I guess that means he wasn't
+			really a Prince after all.
+
+	Hain shakes his head...
+
+					QUARK
+				(to Hain)
+			And you're not really a security
+			agent?
+
+	The others shake their heads.
+
+					QUARK
+				(to Larell)
+			And you're not really his ex-wife?
+
+	She shakes her head.
+
+					QUARK
+			Please don't tell me Morn didn't
+			have any latinum.
+
+					HAIN
+			Oh, he had latinum, all right.
+
+					QUARK
+				(relieved)
+			At least that part's true...
+
+					HAIN
+			Ever hear of the Lissepian
+			Mother's Day heist?
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    50.
+
+35   CONTINUED:	(6)
+
+					QUARK 
+			Who hasn't? While the whole 
+			planet was celebrating, someone 
+			broke into the Central Bank and 
+			made off with --
+				(realizing as he says 
+				it) 
+			One thousand bricks of gold-
+			pressed latinum.
+				(suddenly skeptical) 
+			Wait a minute. You expect me to 
+			believe that the four of you 
+			pulled that off?
+
+					NAHSK
+				(not realizing they've 
+				been insulted) 
+			The five of us. Morn helped.
+
+					KRIT 
+			Yeah, and then he ran off with the 
+			latinum.
+
+					QUARK
+			Why did it take you so long to 
+			come after him?
+
+					HAIN 
+			Because we knew he'd stashed it 
+			away somewhere to wait for the 
+			statute of limitations to expire.
+
+					LARELL
+			And it did. Two weeks ago.
+
+					NAHSK
+				(stating the obvious) 
+			You see, we can't be prosecuted 
+			anymore.
+
+					LARELL 
+			So... here we are. And the 
+			latinum's en route.
+				(a proposition) 
+			Maybe we should just split it up 
+			and go our separate ways.
+
+					QUARK
+			The voice of reason.
+
+ DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FOUR    51.
+
+35   CONTINUED:	(7)
+
+					KRIT 
+			Not you, us.
+
+					HAIN
+				(to the others) 
+			Krit's right, we don't need him 
+			anymore.
+
+	A beat, then Nahsk thinks of something...
+
+					NAHSK 
+			You know, we don't need him 
+			anymore.
+
+	If Nahsk can see it, you know it's obvious to everyone 
+	else. Off Quark's face as he realizes he's in trouble...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    52.
+                           ACT FIVE                             
+
+	FADE IN:
+
+36   INT. QUARK'S QUARTERS - CONTINUOUS
+
+	Morn's former partners are all staring at Quark, who's 
+	very worried about this latest turn of events.
+
+					LARELL 
+			What do we do with him?
+
+					KRIT 
+			It should look like an accident. 
+			We don't want anyone asking 
+			questions.
+
+	Quark shakes free of the fear that gripped him when 
+	they first turned on him, realizes something --
+
+					QUARK 
+			Wait a minute. You can't kill me. 
+			I'm the only one who can take 
+			delivery of the latinum.
+				(holding up his thumb) 
+			You need my thumbprint.
+
+					HAIN 
+			He's right.
+
+	Nahsk grabs Quark's hand, pulls out a SMALL KNIFE --
+	Quark struggles, realizing what he's thinking.
+
+					NAHSK 
+			It won't hurt as much if you keep 
+			still.
+
+					HAIN 
+			What do you propose we do, Nahsk? 
+			Walk into the cargo bay with a 
+			bloody thumb and ask for the 
+			latinum?
+
+	Nahsk considers, realizes this could be a problem.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    53.
+
+36   CONTINUED:
+
+					HAIN 
+			We need him.
+
+	Reluctantly, Nahsk lets go of Quark.
+
+
+					HAIN 
+			The question is, what happens 
+			after he takes delivery?
+
+	A beat as they all consider, then Quark makes a 
+	suggestion --
+
+					QUARK 
+			We could split the latinum five 
+			ways.
+				(off their looks) 
+			It's what you would've gotten if 
+			Morn was still alive.
+
+					LARELL 
+			True.
+
+					QUARK
+			Think of me as Morn.
+				(more to himself) 
+			I can't believe I just said that.
+
+	The others are on the verge of agreeing when something 
+	occurs to Nahsk...
+
+					NAHSK 
+			It's not fair. We stole it. He 
+			didn't do anything.
+
+					QUARK
+			Maybe not. But the bottom line 
+			is, you need me.
+
+	The others exchange looks --
+
+					HAIN 
+			A thousand bricks, split five 
+			ways... what do you think?
+
+					KRIT 
+			It's still a lot of latinum.
+
+					NAHSK
+				(nods) 
+			Two hundred and fifty bricks each.
+
+	They all look at Nahsk, decide not to bother correcting 
+	him --
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    54.
+
+36   CONTINUED:	(2)
+
+					QUARK 
+			So, do we have a deal?
+
+	A moment, then Hain nods... followed by Larell, then 
+	Krit. Quark glances at Nahsk, who's not paying 
+	attention, still thinking about the latinum.
+
+					KRIT 
+			He's in.
+
+					QUARK
+			The Bolian transport arrives 
+			tomorrow at sixteen hundred hours.
+				(showing them the door) 
+			We'll meet at the cargo bay.
+
+					HAIN 
+			We're staying together until it 
+			gets here.
+
+					QUARK
+			We are?
+
+					HAIN 
+			I don't trust you, and I certainly 
+			don't trust them.
+
+					QUARK
+			I see your point. But I have a 
+			bar to run.
+
+									CUT TO:
+
+37   INT. QUARK'S BAR 
+
+	where Morn's former partners are all bellied up to the 
+	bar. An annoyed Quark is standing behind the bar, 
+	serving them drinks. There's no one else in the place.
+
+					HAIN
+				(raising his glass to 
+				Quark) 
+			To your hospitality.
+
+					QUARK
+				(dry)
+			Don't mention it.
+
+	A moment as they all sip their drinks...
+
+					LARELL 
+			So this was Morn's favorite 
+			place...
+
+
+    DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/-97 - ACT FIVE    55.
+
+37   CONTINUED:
+
+					QUARK
+				(pointing to Morn's 
+				chair) 
+			He used to sit right there.
+
+					NAHSK 
+			That's not very smart -- sitting 
+			with your back to the door.
+
+					QUARK
+			He was the trusting type.
+
+	Hain realizes something --
+
+					HAIN 
+			Which one of you killed him, 
+			anyway?
+
+	No one claims the deed.
+
+					HAIN 
+			Come on, it's nothing to be 
+			ashamed of.
+
+	Hain's first instinct is to turn to the brothers
+
+					KRIT 
+			It wasn't us.
+
+	All heads turns Larell's way
+
+					LARELL 
+			Me neither.
+
+	That leaves only Quark --
+
+					QUARK
+			Don't look at me.
+
+					HAIN
+				(appreciating the irony) 
+			So it really was an accident.
+
+	They all shake their heads with wonder...
+
+					LARELL 
+			Poor Morny. He always did have 
+			bad luck.
+
+	Rueful smiles all around... After a beat...
+
+					HAIN 
+			We had some good times together...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    56.
+
+37   CONTINUED:	(2)
+
+					KRIT
+			He was always so cheerful.
+
+					LARELL 
+			That's what I loved about him.
+
+	Quark listens incredulously as they reminisce about the 
+	man they're all glad to have out of the way.
+
+					HAIN 
+			It's funny. Being here together, 
+			the four of us -- it makes me wish 
+			Morn were here, too.
+
+					QUARK
+				(off the cuff) 
+			Sure, except we'd have to split 
+			the latinum six ways instead of 
+			five.
+
+	They all turn and look at him as if this were the most 
+	insensitive thing anyone's ever said.
+
+					HAIN 
+			Do you mind?
+
+					KRIT 
+			Some people have no respect for 
+			the dead.
+
+	Nahsk remembers something held like to share --
+
+					NAHSK 
+			Remember that little dance Morn 
+			used to do every time we finished 
+			a job?
+
+	They all look at him blankly. After a beat, Krit 
+	patiently explains to his brother --
+
+					KRIT 
+			You're thinking of someone else.
+
+	Nahsk considers this, but before he can answer, the 
+	door OPENS and Odo ENTERS.
+
+					HAIN
+				(sotto) 
+			Get rid of him.
+
+	As Quark crosses out toward Odo, Morn's partners all 
+	grab their drinks and return to their usual poker-faced 
+	selves.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE   56A.
+
+38   QUARK AND ODO
+
+	by the door.
+
+					QUARK 
+			We're closed.
+
+					ODO
+			At this hour?
+
+	When Odo looks their way, Morn's partners raise their 
+	glasses to him with minimalist flair --
+
+					QUARK 
+			Friends of Morn. We're 
+			commiserating.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    57.
+
+38   CONTINUED:
+
+					ODO 
+			I see.
+				(eyeing Morn's 
+				"friends") 
+			How long are you going to be 
+			closed?
+
+	It pains Quark to think of the business he's losing --
+
+					QUARK 
+			Oh, till about sixteen hundred 
+			hours tomorrow.
+
+	Off Odo's surprised look --
+
+					QUARK 
+			We have a lot to commiserate 
+			about.
+
+					ODO
+			I see.
+
+	With a last look, Odo EXITS. Quark turns back to the 
+	others, sees their suspicious looks, and musters a wan 
+	smile.
+
+					QUARK 
+			Where were we?
+
+	Off this moment...
+
+39   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+40   INT. CARGO BAY (OPTICAL)
+
+	as the group ENTERS, looking slightly rumpled from 
+	staying up all night together. All are still wearing 
+	the same clothes we last saw them in. TWO BAJORAN 
+	WORKMEN are depositing a LARGE CRATE in the center of 
+	the room, and the group perks up at the sight.
+
+					QUARK
+
+				(with relish) 
+			There it is, right on time.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE   57A.
+
+40   CONTINUED:
+
+	Quark motions to the others to stay back, he'll deal 
+	with the workers. He approaches them with a ready 
+	smile.
+
+					QUARK
+			I believe that's for me.
+
+	One of the Workmen holds up a PADD. Quark extends his 
+	thumb with a flourish, and plants it on the appropriate 
+	spot. The Workman checks the PADD, nods, and he and 
+	his partner move away to EXIT.
+
+	The moment the door shuts behind them, Morn's partners 
+	hurry to join Quark at the crate, their eyes alive with 
+	greed.
+
+					HAIN
+			Open it.
+
+	Quark works the latch, OPENS a PANEL in the top of the 
+	crate. It's a moment fit for a heavenly choir -- rows 
+	and rows of gold-pressed latinum bricks sparkling in 
+	their shelves. They're all struck dumb at the sight. 
+	After a beat...
+
+					QUARK
+			I'll count it...
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    58.
+
+40   CONTINUED:	(2)
+
+	As he reaches inside the crate, the others reach into 
+	their clothes and pull WEAPONS on each other. In the 
+	blink of an eye, Quark finds himself in the middle of 
+	a four-way standoff -- Hain has his weapon on Krit, 
+	Krit has his on Larell, Larell has hers on Nahsk, who 
+	has his on Hain. A tense moment, then...
+
+					QUARK 
+			All right, someone else count it.
+
+	Another tense beat, then Krit smiles.
+
+					KRIT 
+			Put it down, Hain. My brother may 
+			be slow, but if you pull the 
+			trigger, he'll kill you.
+
+	A beat, then Hain prepares to lower his weapon. 
+	Suddenly, to Krit's astonishment, Nahsk swings his 
+	weapon around and trains it on his brother. Larell and 
+	Hain are so nonplussed they're not sure where they 
+	should point their weapons.
+
+					NAHSK 
+			I'm not slow.
+
+					KRIT
+			Nahsk... ?
+
+	As Nahsk squeezes the trigger, Krit dives out of the 
+	way so that the BLAST hits him on the shoulder. All 
+	hell breaks loose as the four start FIRING at each 
+	other and scrambling for cover. Quark stands frozen in 
+	the middle of this until a stray BOLT almost hits him 
+	and he snaps out of it, dives into the crate to hide.
+
+41   INT. CRATE (OPTICAL)
+
+	as Quark cowers inside it, oblivious to the fact that 
+	he's sitting amidst a fortune in gold-pressed latinum. 
+	The SOUND of phaser fire continues, punctuated by 
+	SHOUTED REMARKS between the former partners and the 
+	occasional YELP of pain when someone gets hit.
+
+					QUARK
+				(quiet)
+			Go ahead, kill each other...
+
+	Quark starts to feel a little safer inside the shelter 
+	of the crate. Just as he reaches to pick up a brick of 
+	latinum, a phaser BLAST pierces the crate wall and 
+	barely misses him. He immediately forgets the latinum 
+	and has the good sense to keep cowering.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    59.
+
+41   CONTINUED:
+
+	Suddenly we hear the off-screen SOUND of a door 
+	OPENING.
+
+					ODO (O.S.)
+			Security! Drop your weapons!
+
+	As Quark listens, the firefight intensifies. We hear 
+	chaotic SHOUTS, GROANS of pain, and finally --
+
+					LARELL (O.S.)
+			I surrender.
+
+	The firing stops.
+
+					ODO (O.C)
+			Throw out your weapon.
+
+42   INT. CARGO BAY
+
+	as Larell's weapon skitters to the middle of the floor 
+	and she comes out from behind a crate, utterly 
+	unscathed. Odo and his DEPUTIES begin disarming the 
+	group. Except for Larell, they're all lying on the 
+	floor or slouched against crates, clutching at injured 
+	arms and legs and trying to fight the pain.
+
+					ODO
+				(to a deputy)
+			Take her to a holding cell and get
+			the rest of them to the Infirmary.
+
+	As the Deputies move to comply, Odo crosses to the 
+	crate.
+
+43   INT. CRATE
+
+	where Quark is cautiously listening. A beat, then the 
+	panel OPENS and Odo looks in.
+
+					ODO
+				(dry)
+			There you are.
+
+					QUARK
+			Are they gone?
+
+					ODO
+			From now on, you'll have to do
+			your commiserating alone. Your
+			"friends" are going to prison.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    60.
+
+43   CONTINUED:
+
+					QUARK 
+	For how long?
+
+					ODO
+			Assault with intent to kill --
+			long enough.
+
+	Quark looks at the rows and rows of latinum.
+
+					QUARK
+			It's mine... all mine.
+
+	A greedy smile spreads across Quark's face. He reaches 
+	to pick up a brick, admires its luster. He picks up a 
+	second brick, prepares to taps it against the first.
+
+
+					QUARK 
+			What you're about to hear is the 
+			most beautiful sound in the 
+			galaxy...
+
+	To his surprise, the bricks make a dull clanking sound 
+	when they strike each other. Quark's features falter. 
+	He studies one of the bricks in his hands, senses 
+	something odd. He squeezes it, and the brick CRUMPLES 
+	into gold dust. Quark can't believe it. He grabs 
+	another brick, and it too crumples into dust.
+
+					QUARK
+			This can't be... there's no
+			latinum in these bricks...
+
+					ODO 
+			What?
+
+					QUARK
+				(as another brick
+				crumples in his hand)
+			Someone extracted the latinum...
+
+	He looks up at Odo, near shock.
+
+					QUARK 
+			There's nothing here but worthless 
+			gold...
+
+	Odo can't help but enjoy this...
+
+					ODO
+			And it's all yours...
+
+	Quark looks down at the worthless dust slipping through 
+	his fingers... off his devastated features...
+
+44   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    61.
+
+INT. QUARK'S BAR
+
+	where a dejected Quark is behind the bar. It's 
+	morning, before the bar has opened, and some Ferengi 
+	waiters are setting up.
+
+	Quark's wiping the bar down with a towel when his eyes 
+	alight on Morn's chair. A steely look comes over his 
+	face and he moves to the stool, grabs it, and starts 
+	trying to wrench it from the bolts that hold it to the 
+	ground. He gets more and more agitated until he's 
+	tearing at it like an animal. A moment, then Odo comes 
+	up behind him.
+
+					ODO
+			Quark.
+
+	Quark doesn't hear him, he's too focused on ripping the 
+	stool off its moorings.
+
+					ODO
+			Quark.
+
+	Quark turns to Odo with a snarl --
+
+					QUARK
+			What do you want?
+
+					ODO
+			There's someone here to see you.
+
+	Odo seems pleased, which only stokes Quark's anxiety.
+
+					QUARK
+			I thought you said they were all
+			going to prison.
+
+					ODO
+			You'd better sit down.
+
+	Quark ignores him, and Odo turns to wave someone 
+	inside. To Quark's utter astonishment, it's Morn.
+
+					QUARK
+			Morn?
+
+					ODO
+			Alive and well.
+
+	Quark falls back onto a stool, his mind reeling --
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    62.
+
+45   CONTINUED:
+
+					ODO 
+			Apparently he faked his own death. 
+				(smiles) 
+			I'll let him tell you all about 
+			it.
+
+	Supremely satisfied, Odo turns and EXITS. Morn looks 
+	at Quark, blinks once or twice, then moves to sit on 
+	his old stool. A long beat as the two men regard each 
+	other...
+
+					QUARK 
+			Well?
+
+	Just as Morn raises a hand to launch into his story, 
+	Quark cuts him off --
+
+					QUARK 
+			I don't want to hear it! Not a 
+			word.
+
+	Morn looks at Quark sheepishly...
+
+					QUARK 
+			You set me up. You left the 
+			latinum to me because you knew I'd 
+			do whatever it would take to get 
+
+			my hands on it. You figured I'd 
+			keep those four off-balance long 
+			enough for them to turn on each 
+			other. This whole thing was just 
+			a scam to get them off your back.
+
+	A beat, then Morn nods apologetically.
+
+					QUARK 
+			I could've been killed, you know.
+
+	Morn hangs his head...
+
+					QUARK 
+			And I thought we were friends.
+
+	Morn doesn't know what to say. Quark studies him for 
+	a beat, and despite himself, can't help but be 
+	impressed by Morn's ingenuity.
+
+					QUARK 
+			I've got to admit, I didn't 
+			suspect for a minute. 
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    63.
+
+45   CONTINUED:	(2)
+
+					QUARK (Cont'd) 
+			To tell you the truth I didn't 
+			think you had it in you to pull 
+			off something like this.
+
+	Quark shakes his head in wonder...
+
+					QUARK 
+			I've just got one question for 
+			you. What happened to the 
+			latinum?
+
+	Morn looks around to make sure no one's watching, takes 
+	an empty shot glass from the bar and raises it to his 
+	lips --
+
+46   QUARK
+
+	as he reacts to what Morn's doing.
+
+47   RESUME (OPTICAL) 
+
+	we see Morn regurgitating a last DROP of liquid 
+	latinum. We see it sitting in the bottom of the glass -- 
+	it has the consistency of mercury, and every now and 
+	then it gives off a STARBURST of light.
+
+					QUARK
+				(realizing) 
+			Of course, your second stomach. 
+			You've been keeping it in your 
+			second stomach all these years?
+				(off Morn's nod) 
+			That's a lot of latinum. No 
+			wonder your hair fell out.
+
+	A beat, then Morn slides the glass over to Quark. 
+	Quark looks at him, realizing what he's doing --
+
+					QUARK
+			For me?
+				(off Morn's look) 
+			This must be a hundred bricks 
+			worth.
+
+
+	Morn makes a "more or less" gesture.
+
+     DEEP SPACE NINE: "Who Mourns... " - REV. 11/13/97 - ACT FIVE    64.
+
+47   CONTINUED:
+
+					QUARK 
+			I don't know what to say. Thanks.
+				(hastening to point out) 
+			Not that I didn't earn it after 
+			what you put me through.
+
+	Quark holds up the glass containing the drop of 
+	latinum, he's all but forgotten everything that's 
+	happened and is as pleased as can be.
+
+					QUARK
+			If you ever want to set me up 
+			again, feel free.
+
+	Morn nods that he'd like that. Quark reaches to pour 
+	him a drink.
+
+					QUARK
+			You know, you and I should 
+			consider doing business together.
+
+	Morn looks interested. We start to PULL BACK from the 
+	two men.
+
+					QUARK
+			Two enterprising gentlemen like us 
+			could do all right for ourselves. 
+			Take that gold dust of yours...
+
+	Quark's voice drops away as we continue to PULL BACK...
+
+					QUARK
+				(voice fading) 
+			It doesn't have to be a total 
+			loss. I hear that in certain 
+			primitive cultures it's considered 
+			quite valuable...
+
+	Off the unlikely image of these two men hatching their 
+	next venture together...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

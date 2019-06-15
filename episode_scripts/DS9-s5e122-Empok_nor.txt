@@ -1,0 +1,3032 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                          "Empok Nor" 
+                          #40510-522 
+                              
+                           Story by 
+                         Bryan Fuller 
+                              
+                          Teleplay by 
+                         Hans Beimler 
+                              
+                          Directed by 
+                          Mike Vejar 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         March 20, 1997
+
+        STAR TREK: DS9 - "Empok Nor" - 03/20/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Empok Nor" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     NOG
+          ODO                      AMARO
+          BASHIR                   BOQ'TA
+          DAX                      STOLZOFF
+          QUARK                    PECHETTI
+          O'BRIEN                  
+          WORF                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+        STAR TREK: DS9 - "Empok Nor" - 03/24/97 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Empok Nor" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          INFIRMARY                     EMPOK NOR
+          QUARK'S                       
+          CONDUIT                       
+          CAPTAIN'S OFFICE              
+          AIRLOCK                       
+
+        EMPOK NOR                     
+          AIRLOCK                       
+          STATION COMMANDER'S OFFICE    
+          CARGO BAY                     
+          CONDUIT                       
+          CORRIDORS/JUNCTION            
+          HABITAT RING CORRIDOR         
+          PROMENADE                     
+          INFIRMARY/SURGERY             
+          OPS                           
+          UPPER PYLON/AIRLOCK CORRIDOR  
+          WARDROOM                      
+          QUARTERS                      
+
+        RUNABOUT                      
+
+       DS NINE - "Empok Nor" - 03/20/97 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Empok Nor" 
+                      PRONUNCIATION GUIDE 
+
+          AMARO                    uh-MAR-oh
+          BARRICA                  bah-REEK-ah
+                                   (Spanish "rr" like
+                                   "arriba")
+          BOQ'TA                   BOKE-tuh
+          EMPOK NOR                EM-pahk NORE
+          KOTRA                    KOE-trah
+          PECHETTI                 peh-CHE-tee
+          STOLZOFF                 STOLE-zoff
+          SETLIK                   SET-lick
+          TILAMIN                  TIH-lah-min
+          TRIVAS                   TREE-vus
+          CUCHULAINN               ka-HOO-lun
+          NECHTA                   NECK-tuh
+          PSYCHOTROPIC             sigh-kah-TROE-pik
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                             "Empok Nor"                               
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S
+
+	The place is all but empty. The bored looking DABO
+	GIRLS stand listlessly at the tables, while the FERENGI 
+	WAITERS stand idle at the bar. The only customer seems 
+	to be MORN. As KIRA, WORF and DAX ENTER, QUARK rushes 
+	up to them solicitously.
+
+					QUARK
+			Welcome, welcome, welcome.
+
+					DAX
+				(looking around)
+			A little quiet in here...
+
+					QUARK
+				(as they're sitting)
+			You just beat the rush. Let me
+			get your orders before I get
+			swamped.
+
+	Kira, Worf and Dax exchange a shrug and decide to 
+	order.
+
+					DAX
+			I'll have a Tilamin Froth.
+
+					KIRA
+			And I'll have a --
+
+	A LOUD JACKHAMMER-LIKE NOISE cuts her off. After a 
+	table-rattling beat, it stops.
+
+					WORF
+			What was that?
+
+					QUARK
+
+				(all innocent)
+			What was what?
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        2.
+
+	CONTINUED:
+
+	They stare at him for a beat until another EARTH-
+	SHATTERING SOUND pierces the silence.
+
+					QUARK
+				(gesturing to the wall)
+			Oh, that? It's just my nephew and
+			Chief O'Brien repairing some
+			conduit.  You'll get used to it.
+
+	ANOTHER THUNDEROUS RATTLE.
+
+					WORF
+				(to the others)
+			The Klingon restaurant?
+
+					DAX
+			It would be quieter.
+
+	Kira, Worf and Dax get up from their chairs to leave. 
+	Before Quark can protest... NOG rushes out from the 
+	back of the room.
+
+					QUARK
+				(angrily at Nog)
+			When are you two going to be done
+			in there?
+
+					NOG
+			When the conduit is repaired and
+			brought back up to safety specs.
+
+					QUARK
+			Well, hurry up.
+
+	Quark looks over at Morn, who is shaking a finger in his 
+	ear as if to rid it of ringing.
+
+					QUARK
+				(continuing)
+			Before I lose all my customers.
+
+					NOG
+			I need to get something.
+
+					QUARK
+			What?
+
+					NOG
+			Two root beers?
+
+	Off Quark's face --
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        3.
+
+2    INT. CONDUIT
+
+	CLOSE ON two empty root beer bottles. PULL BACK TO 
+	REVEAL O'BRIEN working at an open access panel. Nog is 
+	positioned behind O'Brien, next to a toolbox.
+
+					O'BRIEN 
+			Hyper spanner.
+
+	Like a nurse handing a surgeon a scalpel, Nog slaps the 
+	needed tool into O'Brien's open hand. O'Brien works 
+	for a beat, then extends his hand again.
+
+					O'BRIEN 
+			Optronic coupler.
+
+	Again, Nog slaps the needed tool into his hand.
+	O'Brien works for another beat, and extends a hand -- 
+	but before he can ask for the desired tool, Nog slaps 
+	it in his hand.
+
+					O'BRIEN
+				(surprised) 
+			How'd you know I needed a phase 
+			decompiler?
+
+					NOG
+			I've been paying attention, sir.
+
+					O'BRIEN
+				(smiling)
+			That you have, cadet.
+
+	As O'Brien returns to work:
+
+					NOG 
+			My father told me I could learn a 
+			lot from you. He says you can fix 
+			anything.
+
+					O'BRIEN
+			I'm an engineer... that's what we 
+			do.
+				(re: the completed work) 
+			There. Good as new.
+
+					NOG 
+			Amazing.
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        4.
+
+2    CONTINUED:
+
+	Suddenly there's a small EXPLOSION followed by a PLUME 
+	OF NITROGEN that spews from the open panel.
+
+					O'BRIEN
+			Damn.
+
+	And as he grabs a tool --
+
+3    INT. CAPTAIN'S OFFICE
+
+	O'Brien is reporting to SISKO as ODO looks on.
+
+					O'BRIEN 
+			We repaired the leak right away, 
+			but the problem is worse than I 
+			thought. The entire plasma 
+			distribution manifold is shot.
+
+					SISKO
+			Can you replicate a new one?
+
+					O'BRIEN
+				(shaking his head) 
+			No. Cardassian manifolds use a 
+			beta-matrix compositor which can't 
+			be replicated.
+
+					ODO
+				(dry) 
+			I suppose we could contact Gul 
+			Dukat and ask if he happens to 
+			have a spare manifold system lying 
+			around...
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        5.
+
+3    CONTINUED:
+
+					SISKO 
+			I'm sure he'd jump at the chance 
+			to help us. Any other ideas?
+
+					O'BRIEN 
+			We could send a salvage team to 
+			the abandoned Cardassian Station 
+			in the Trivas System.
+
+					SISKO
+			Empok Nor?
+
+					O'BRIEN
+				(nodding) 
+			It's the same design as this 
+			station. The Cardassians pulled 
+			out a year ago, but there's a good 
+			chance the plasma manifold system 
+			is still operable.
+
+					SISKO 
+				(to Odo) 
+			What about Dominion activity in 
+			the area?
+
+					ODO 
+			There hasn't been any in several 
+			months. Strategically, they seem 
+			to have lost interest in that 
+			sector.
+
+	Sisko thinks it over for a beat.
+
+					ODO 
+			But there is one problem. It's 
+			standard Cardassian procedure 
+			to booby-trap a facility before 
+			abandoning it.
+
+					O'BRIEN 
+			And a lot of the "surprises" they 
+			leave behind are specifically 
+			keyed to attack non-Cardassians.
+
+					SISKO
+			Sounds like you should take a 
+			Cardassian along...
+
+	And off Sisko's confident look
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        6.
+
+4    INT. AIRLOCK
+
+	CLOSE ON GARAK, as he follows O'Brien toward the 
+	runabout, where four other crewmembers are loading 
+	supplies into the rear of the shuttle, preparing for 
+	departure. (We will later get to know them as 
+	STOLZOFF, PECHETTI, AMARO and BOQ'TA.)
+
+					O'BRIEN
+			So how did Captain Sisko convince 
+			you to come?
+
+					GARAK 
+			How do you know I didn't 
+			volunteer?
+
+					O'BRIEN
+			He threatened you, didn't he?
+
+					GARAK 
+			Nothing so coarse. The captain 
+			bribed me. He offered to help me 
+			procure a larger space for my 
+			workshop. The latest dressmaking 
+			equipment is surprisingly bulky.
+
+	O'Brien nods to his men as they pass and EXIT into --
+
+5    INT. RUNABOUT - CONTINUOUS
+
+	O'Brien and Garak move towards the cockpit.
+
+					O'BRIEN 
+			Well, whatever the captain did, 
+			I'm glad you're here.
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        7.
+
+5    CONTINUED:
+
+	Garak stiffens and stares at O'Brien for a beat.
+
+					O'BRIEN 
+			What's the matter?
+
+					GARAK
+			It's just that lately, I've 
+			noticed that everyone seems to... 
+			trust me. It's quite unnerving. 
+			I'm still trying to get used to 
+			it. Next thing I know, people 
+			will be inviting me to their homes 
+			for dinner.
+
+	Despite his protestations to the contrary, O'Brien can 
+	tell that Garak is somewhat pleased to be "settling in" 
+	to life on the station.
+
+					O'BRIEN 
+			If it makes you feel any better, 
+			I promise I'll never have you 
+			over.
+
+					GARAK, 
+			I appreciate that, Chief.
+
+					O'BRIEN 
+			Don't mention it. Anything to 
+			return the favor. Disarming 
+			Cardassian boobytraps is not my 
+			favorite kind of engineering.
+
+6    NEW ANGLE
+
+	At the door to the runabout, Boq'ta, a Bolian engineer, 
+	looks up from his work and turns to Pechetti, another 
+	engineer, human, in his mid-thirties.
+
+					BOQ'TA 
+			Booby-traps... I can't believe I 
+			let you talk me into volunteering 
+			for this.
+
+					PECHETTI 
+			Beats working on the waste 
+			extraction system.
+				(tapping his phaser) 
+			Besides, how often does an 
+			engineer get to wear a phaser?
+
+	Stolzoff and Amaro, the security officers, both human, 
+	exchange smiles. Stolzoff is female; Amaro is male. 
+	The security officers have phaser rifles, while the 
+	engineers, Boq'ta and Pechetti, have hand phasers.
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        8.
+
+6    CONTINUED:
+
+					STOLZOFF
+			Hate to disappoint you, Pechetti.
+				(re: phaser) 
+			But the only thing you'll be using 
+			that for is shooting voles. Empok 
+			Nor's been abandoned so long, 
+			they're going to be hungry.
+
+					AMARO 
+			Don't worry, you play with your 
+			wrenches, we'll watch your back.
+
+	Suddenly Nog ENTERS from the airlock, carrying a fully-
+	loaded backpack, two bulky canisters, a couple of 
+	canteen-like bottles strapped around his chest, and a 
+	phaser rifle.
+
+
+					AMARO 
+			Can I help you, cadet?
+
+	Appreciative CHORTLES from the others cause O'Brien to 
+	turn and look at them. Nog straightens himself with 
+	whatever dignity he can muster.
+
+					NOG
+				(to O'Brien) 
+			I'm reporting for duty...
+				(a defiant beat)
+			...sir.
+
+	O'Brien stands up to make a point.
+
+					O'BRIEN 
+			Welcome aboard, cadet.
+
+	Nog stands at attention.
+
+					NOG 
+			Thank you, sir. And may I say 
+			it's a privilege to be here, sir.
+
+					O'BRIEN
+				(for the others) 
+			You've earned it.
+				(then, only to Nog) 
+			But one more "sir" and I'm going 
+			to leave you behind.
+
+					NOG
+			Very well, s... Chief.
+
+	Satisfied that he's made his point and that Nog is to 
+	be respected, O'Brien turns back to the cockpit.
+
+					O'BRIEN 
+			Let's get going. Next stop, Empok 
+			Nor.
+
+        DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - TEASER        9.
+
+7    EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	A space station much like our own, except this one is
+	lifeless.  Motionless.  Eerie.
+
+	All the lights are out, and the station itself has 
+	drifted, looking like a bicycle wheel about to tip 
+	over.
+
+8    INT. EMPOK NOR - PROMENADE
+
+	Empty. Silent.  Moonlight streaks through the windows.
+
+9   INT. EMPOK NOR - SURGERY
+
+	Darker. And yet... through the darkness, shapes.
+	Three body-length chambers.
+
+	CAMERA DRIFTS IN on one of the chambers. It has a 
+	glass cover, which catches whatever little light there 
+	is, and allows us to make something out inside the 
+	chamber: a CARDASSIAN FACE.
+
+									FADE OUT.
+
+                         U>END OF TEASER                           
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       10.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+10   INT. RUNABOUT 
+
+	CLOSE ON a Cardassian board game we'll come to know as 
+	Kotra. It's a cross between chess and Stratego, where 
+	all the pieces are identical in shape, though each 
+	player's pieces are of a different color. A hand moves 
+	one of the pieces back, "retreating."
+
+					GARAK (O.S.) 
+			What are you doing?
+
+	WIDEN TO SEE the two players, Garak and Nog. 
+	O'Brien is nearby, at a side console, doing some recreational 
+	reading off a PADD. Boq'ta is piloting the runabout.
+
+					NOG 
+			Regrouping.
+
+					GARAK 
+			But you're losing.
+
+					NOG 
+			That's why I have to protect my 
+			assets.
+
+					GARAK 
+			This isn't a financial 
+			transaction. Protecting your 
+			"assets" is what got you into 
+			trouble in the first place. You 
+			have to go on the offensive -- you 
+			have to attack.
+
+	But Nog is committed to his own strategy.
+
+					NOG 
+			Your move.
+
+					GARAK
+			This is maddening. Asking a 
+			Ferengi to play a Cardassian game 
+			is like asking a Klingon to chew 
+			with his mouth closed.
+
+	Garak, exasperated, takes the octagonal dice and rolls. 
+	Garak moves a series of pieces brazenly as he speaks:
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE      10A.
+
+10   CONTINUED:
+
+					GARAK 
+			Kotra isn't about "regrouping" and 
+			hoarding "assets" -- it's about 
+			bold strategy and decisive action.
+
+	Garak has "taken" two of Nog's pieces, placing them in 
+	his "captured" tray.
+
+					GARAK 
+			Chief, care to take on the winner? 
+			I'd love to play Kotra against the 
+			hero of Setlik Three.
+
+	O'Brien looks over at him, reacting to this unexpected 
+	remark. Setlik is something that happened a long time 
+	ago, and it's not something he likes to think about.
+
+					O'BRIEN 
+			What is that supposed to mean?
+
+					GARAK 
+			Everyone knows your distinguished 
+			war record -- how you led two 
+			dozen men against the Barrica 
+			encampment and drove out an entire 
+			regiment of Cardassians. If you 
+			play Kotra with half that 
+			brazenness, I think we'd have 
+			quite a match.
+
+					O'BRIEN
+			That was a long time ago.
+
+					GARAK 
+			But you're still the same man.
+
+					O'BRIEN 
+			I'm not a soldier anymore. I'm an 
+			engineer.
+
+					GARAK 
+			I see. So when you and Doctor 
+			Bashir disappear into the 
+			holosuites for hours at a time... 
+			you're just repairing them.
+
+       DEEP SPACE NTNE: "Empok Nor" - REV. 04/07/97 - ACT ONE       11.
+
+10   CONTINUED:	(2)
+
+					O'BRIEN
+			What's your point, Garak?
+
+					GARAK 
+			I'm just curious, why do you and 
+			Doctor Bashir spend hours in the 
+			holosuites dressed up as fighter 
+			pilots, reliving ancient battles?
+
+					O'BRIEN
+			We do it for fun -- it's just a 
+			game.
+
+					GARAK
+			So's Kotra. And I'd love nothing 
+			more than to play against a man 
+			like you.
+
+					O'BRIEN
+			Maybe some other time.
+
+	Pechetti emerges from the back room and steps up to 
+	O'Brien, handing him a PADD.
+
+					PECHETTI 
+			Chief, here's the wish list you 
+			wanted. Three categories: "Must 
+			Have"... which includes the 
+			manifolds and the plasma recoilers -- 
+			"Could Use"... things like EPS 
+			matrix converters -- and "Would be 
+			Nice"... bypass displacers, 
+			polarity maximizers, that sort of 
+			thing.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       12.
+
+10   CONTINUED:	(3)
+
+					O'BRIEN
+				(reading an item on the
+				list) 
+			Cardassian emblems and insignias?
+
+					PECHETTI
+				(backing off) 
+			A low priority, but if we happen 
+			to see any...
+
+					O'BRIEN
+			This is a salvage operation, 
+			Pechetti. Not an opportunity to 
+			indulge your collecting 
+			obsessions.
+
+					PECHETTI
+				(contrite) 
+			Right.
+
+	Pechetti heads off to the back, and O'Brien smiles, 
+	shaking his head at the crewman.
+
+11   EXT. SPACE (OPTICAL) (STOCK)
+
+	The Runabout traveling at warp.
+
+12   INT. RUNABOUT 
+
+	Later. Nog is now piloting the runabout, and although
+	there is little to do, he is doing it with great
+	concentration and pride. O'Brien is getting a cup of
+	coffee from the replicator. Garak is sewing one of his
+	own outfits, having brought some of his tailoring work
+	on board.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       13.
+
+12   CONTINUED:
+
+	Nog reacts to his console.
+
+					NOG 
+			Approaching Empok Nor, Sir.
+
+					O'BRIEN
+			Take us out of warp.
+
+	Nog taps a few keys on his panel and we hear the SOUND 
+	of the ship dropping out of warp. O'Brien slips into 
+	the seat next to Nog. O'Brien leans forward and taps 
+	a few keys on his console.
+
+					O'BRIEN 
+			Run a full scan. I'll take the 
+			helm.
+
+					NOG
+				(off his monitor) 
+			The station's main power supply 
+			and life support systems are off-
+			line. No lifesigns.
+
+					O'BRIEN
+			I'm taking us into transporter 
+			range.
+
+					GARAK 
+			I don't think we can risk beaming 
+			aboard. There are probably 
+			pattern scramblers rigged to go 
+			off if they detect a non-
+			Cardassian transporter signal.
+
+					O'BRIEN 
+			That could be messy... we'll have 
+			to dock. The landing pads are 
+			sealed. Let's try an Upper Pylon.
+
+					NOG 
+			Won't the airlock have booby-traps?
+
+					GARAK
+			You can count on it. Someone's 
+			going to have to disarm them 
+			before we dock.
+
+					NOG 
+			I volunteer, sir.
+
+    DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE 14-16.      
+
+12   CONTINUED:	(2)
+
+					GARAK 
+			The scanner in the airlock might 
+			mistake your enthusiasm as 
+			Cardassian, but not your DNA... 
+			I'm afraid I'm the only one who 
+			has a chance of getting through.
+
+13   EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	The Runabout hangs motionless near the dark and 
+	foreboding station.
+
+13A  INT. EMPOK NOR - AIRLOCK (OPTICAL)
+
+	Garak, in a spacesuit, taps a few keys on an open 
+	panel. Nearby him, a "floating" piece of debris. As 
+	the airlock emergency LIGHTS go on -- the floating 
+	debris crashes to the floor.
+
+14
+thru   OMITTED
+18
+
+19   EXT. SPACE - EMPOK NOR (OPTICAL) 
+
+	Favoring the central hub as some of the LIGHTS start to 
+	twinkle to life.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       17.
+
+20   INT. EMPOK NOR - PROMENADE 
+
+	To see some of the emergency lights and equipment come
+	to life.. As the lights come on, whatever is "floating" 
+	falls to the ground.
+
+21   INT. EMPOK NOR - HABITAT RING CORRIDOR 
+
+	Section by section, the lights come on.
+
+22   INT. EMPOK NOR - SURGERY 
+
+	on the side panels of the chambers, we see a series of 
+	SHORTS that SPARK with intense FLASHES of light. After 
+	a beat, rows of BLINKIES light up along the panel walls 
+	of the chambers.
+
+	Like a digital V.U. meter, the lights quickly build 
+	from red to yellow to green. And with that, the room 
+	is flooded with a bright, bluish light emanating from 
+	within two of the three chambers.
+
+23   ANGLE ON ONE	OF THE CHAMBERS
+
+
+	to see inside: a CARDASSIAN SOLDIER lies on a bed of a 
+	bluish, gel-like substance. WE MOVE IN CLOSE ON HIS
+	FACE, and after a beat, his eyes POP OPEN.
+
+									HARD CUT TO:
+
+23A  EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	The Runabout has now docked at the Upper Pylon.
+
+24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR 
+
+	Although main power has been restored, this is NOT a 
+	bright and sunny place. Quite the contrary -- it's 
+	dark and shadowy. Garak, out of the space suit, sits 
+	on an empty box waiting for O'Brien, Nog and the others 
+	to emerge from the airlock, carrying equipment and toolboxes.
+
+					GARAK
+			Welcome to Empok Nor.
+
+					O'BRIEN
+			Thanks for having us...
+
+					GARAK
+			Take whatever you need... my house
+			is your house.
+
+	As Nog and the four crewmen wait at the intersection to 
+	get instructions, Pechetti motions to Amaro.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       18.
+
+24   CONTINUED:
+
+					PECHETTI 
+			Why don't you call for the 
+			turbolift?
+
+	Without hesitation, Amaro presses the key pad next to
+	the door. Pechetti and Boq'ta exchange a smile, the 
+	two engineers know the turbolift isn't working. 
+	O'Brien turns to the group.
+
+					O'BRIEN
+			All right, listen up. We're going 
+			to break up into three teams. Nog 
+			and Stolzoff are with me. We're 
+			going after the "Must-Haves." 
+			Pechetti and Amaro, you'll do 
+			"Could-Use". Boq'ta and Garak -- 
+			"Would-be-Nice."
+
+	Amaro presses the turbolift button again, which doesn't 
+	go unnoticed by the two engineers, Pechetti and Boq'ta.
+
+					O'BRIEN
+				(to the group) 
+			Garak disabled the central 
+			security net, but there could be 
+			booby-traps anywhere... don't move 
+			into an area until you've scanned 
+			it... if something doesn't seem 
+			right -- don't touch it. Call for 
+			help. Clear?
+
+	Everyone nods.
+
+					O'BRIEN 
+			Let's go.
+
+					AMARO 
+			I think there's something wrong 
+			with the turbolift, Sir.
+
+					O'BRIEN
+			We're on emergency power, Amaro. 
+			We have to take the stairs.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       19.
+
+24   CONTINUED:	(2)
+
+	Amaro realizes he was set up by the two engineers and 
+	glares at them. They return affable smiles.
+
+					NOG
+				(to Amaro)
+			Seventy-two decks. It's good
+			exercise, Sir. On DS9, I run the
+			Pylon stairs twice every morning.
+
+	And as the group heads for the stairs --
+
+25   OMITTED
+
+26   INT. EMPOK NOR - HABITAT RING CORRIDOR
+
+	Pechetti and Amaro, tricorders out, cautiously make 
+	their way through the corridor.
+
+27   INT. EMPOK NOR - CORRIDOR JUNCTION
+
+	As O'Brien, Nog and Stolzoff approach the exposed 
+	panels and prepare to get to work.
+
+28   INT. EMPOK NOR - PROMENADE
+
+	Garak and Boq'ta walk down the dark Promenade. A 
+	strange blue light emanating from inside the Infirmary 
+	catches Garak's attention.
+
+	He walks over to the Infirmary entrance to peer into 
+	the room. As he does, he inadvertently touches 
+	something on the arch of the door.
+
+29   CLOSE ON THE DOOR ARCH
+
+	to see what Garak has touched: a bluish, gel-like 
+	substance. Trying to identify it, he rubs the small 
+	dab between his fingers. Boq'ta steps up next to him 
+	and scans the gel with his tricorder.
+
+					BOQ'TA
+			It's a biogenic compound.
+
+					GARAK,
+			I wonder where it came from...
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       20.
+
+29   CONTINUED:
+
+	Deciding to investigate, Garak steps into the 
+	Infirmary.
+
+30   INT. EMPOK NOR - SURGERY - CONTINUOUS 
+
+	Garak steps toward the three chambers. Two of the lids 
+	on the chambers are open, the third is as we've always 
+	seen it -- shut.
+
+	Garak steps up to one of the open chambers and looks in -- 
+	it's empty. Only a bed of the bluish, gel-like 
+	substance remains.
+
+	He moves over to the closed chamber. It's dark inside. 
+	A fallen metal piece of bulkhead lies on top of the 
+	chamber, having shattered the glass which is completely 
+	fogged over, preventing Garak from seeing inside.
+
+					BOQ'TA
+				(re: the chambers)
+			These look like stasis tubes...
+
+	Garak removes the fallen piece of bulkhead, feels for 
+	a latch, finds it, and slowly opens the lid. Inside is 
+	the badly decomposed skeletal remains of a Cardassian 
+	soldier. Boq'ta scans the body with his tricorder.
+
+					BOQ'TA
+			Cardassian. He's been dead for
+			about a year...
+
+	There's something amidst the remains that catches
+	Boq'ta's eye. He reaches in, and carefully picks up a 
+	military insignia and shows it to Garak.
+
+					GARAK
+			Interesting...
+
+					BOQ'TA
+			A regimental badge?
+
+					GARAK
+				(nodding)
+			Third Battalion, First Order... if
+			I'm not mistaken.
+
+					BOQ'TA
+			This'll make Pechetti's day.
+
+	But Garak is contemplating more important issues; he 
+	looks over at the two empty chambers.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       21.
+
+30   CONTINUED:
+
+					GARAK 
+			Both these tubes have been 
+			activated recently...
+
+	We HOLD ON Garak's grim expression --
+
+
+31   INT. EMPOK NOR - CORRIDOR JUNCTION
+
+	O'Brien and Nog are working on a large open panel, 
+	struggling to extract a big piece of equipment 
+	(presumably, a plasma distribution manifold). Nog has 
+	neatly laid out all his tools near O'Brien. In the 
+	b.g., Stolzoff unpacks some more equipment.
+
+					O'BRIEN 
+			Coil spanner.
+
+	Nog slaps the needed tool in his hand.
+
+					O'BRIEN 
+			Flux-coupler.
+
+	This time, Nog reaches for the desired tool, but 
+	realizes it isn't there.
+
+					NOG
+				(to himself) 
+			Uh-oh.
+
+					O'BRIEN
+				(insistent) 
+			Flux-coupler.
+
+					NOG
+				(apologetic) 
+			I left it on the runabout. I'll 
+			go get it right away, sir.
+
+	Nog dashes out the door -- then pops back in to correct 
+	something:
+
+					NOG 
+			I mean, Chief.
+
+	Then he dashes back out again. O'Brien returns to work 
+	but is immediately interrupted by --
+
+					GARAK'S COM VOICE 
+			Garak to O'Brien.
+
+					O'BRIEN
+			Go ahead.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT ONE       22.
+
+31   CONTINUED:
+
+					GARAK'S COM VOICE
+			Can you come down to the 
+			Infirmary? There's something you 
+			should see...
+
+	O'Brien immediately gets to his feet, the seriousness 
+	in Garak's voice isn't lost on the chief.
+
+					O'BRIEN 
+			On my way.
+
+	We follow O'Brien and Stolzoff as they head down the 
+	corridor.
+
+32   INT. EMPOK NOR - AIRLOCK
+
+	Nog makes his way through the airlock towards the 
+	docking bay door. He hesitates for a moment as he 
+	looks at the door -- something's not right! He dashes 
+	up to the door bay window --
+
+33   NOG'S POV - THRU THE WINDOW (OPTICAL)
+
+	the Runabout has detached from the station and is 
+	drifting away.
+
+					NOG
+				(uh-oh)
+			That's not right...
+
+	After a beat, the Runabout EXPLODES into a fireball.
+
+34   CLOSE ON NOGIS FACE
+
+	as the orange reflected light of the explosion 
+	illuminates his expression of alarm. And, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       23.
+                            ACT TWO                             
+
+	FADE IN:
+
+35   INT. EMPOK NOR - SURGERY
+
+	Everyone is gathered around the stasis chambers,
+	including Nog, who has explained what he witnessed at 
+	the airlock.
+
+					O'BRIEN
+				(looking at the 
+				chambers) 
+			A runabout doesn't disengage from 
+			its docking clamps and blow up all 
+			on its own.
+
+					GARAK
+				(re: the tubes) 
+			Which leads me to believe that the 
+			former occupants of these chambers 
+			are up and about...
+
+	Pechetti, holding the insignia Boq'ta found, speaks up:
+
+					PECHETTI 
+			If you're telling me that there are 
+			two Cardassian soldiers from 
+			the Third Battalion loose on this 
+			station... we're in trouble. 
+			"Death to All." That was their 
+			motto.
+
+					GARAK
+				(confirming) 
+			Three simple words, but they 
+			certainly sum up their credo 
+			nicely.
+
+					NOG 
+			Why would the Cardassians abandon 
+			this station and leave behind a 
+			few soldiers in stasis tubes?
+
+					STOLZOFF 
+			Why do you think? To guard it. 
+			The tubes were probably rigged to 
+			wake them up as soon as someone 
+			came aboard.
+
+	O'Brien is all business; the gravity of the situation 
+	has "kicked" him into soldier mode.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       24.
+
+35   CONTINUED:
+
+				O'BRIEN 
+			It's possible... but one thing's 
+			for sure, they're out there 
+			somewhere. And considering what 
+			they did to the runabout, I don't 
+			think they're very friendly.
+
+					STOLZOFF
+				(taking her phaser) 
+			Maybe they're upset because we 
+			haven't introduced ourselves.
+
+					AMARO
+				(taking out a tricorder) 
+			We should find them and say 
+			"hello."
+				(surprised, re: his 
+				tricorder) 
+			This thing's not working...
+
+	He shoots a glance at Pechetti -- another practical 
+	joke?
+
+					PECHETTI
+			Don't look at me...
+
+					O'BRIEN
+				(off his tricorder)
+			Mine's not working either.
+				(putting it together) 
+			They must've set up a dampening 
+			field.
+
+					BOQ'TA
+				(swallowing his rising
+				dread)
+			We've got to get out of here...
+			Let's call for help.
+
+					PECHETTI 
+			How? The station's subspace 
+			transceiver was ripped out when 
+			the Cardassians evacuated.
+
+					AMARO 
+			We could always try sending smoke 
+			signals.
+
+	That sarcastic comment actually triggers a thought in 
+	O'Brien.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO      24A.
+
+35   CONTINUED:	(2)
+
+					O'BRIEN 
+			That's not a bad idea... 
+				(off their looks) 
+			The deflector grid is still 
+			relatively intact. If we could 
+			modify the field coils to emit a 
+			series of covariant pulses...
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       25.
+
+35   CONTINUED:	(3)
+
+					PECHETTI 
+			We could use the station like an 
+			old-fashioned telegraph, and tap 
+			out an S-O-S.
+
+					O'BRIEN 
+			For the pulses to be strong enough 
+			to reach Deep Space Nine... we'd 
+			have to boost power to the 
+			induction grid.
+				(deciding) 
+			Pechetti, get down to the Habitat 
+			Ring and bring the microfusion 
+			reactor back on-line. Stolzoff -- 
+			go with him. Boq'ta -- realign 
+			the magnetic flow field in conduit 
+			G-four. Amaro will watch your 
+			back. Nog and Garak are with me. 
+			We'll set up the signal generator 
+			in Cargo Bay Four. Stay off the 
+			communicators as much as possible 
+			we don't want to give away our 
+			positions. Any questions? 
+				(nobody does) 
+			Let's go.
+
+	As the teams split off, their weapons at the ready --
+
+36   EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	Re-establishing.
+
+37   INT. EMPOK NOR - CONDUIT
+
+	Boq'ta is working away at an open access panel, while 
+	Amaro is crouched nearby, keeping a sharp lookout. 
+	Boq'ta is really sweating the situation, he's very 
+	nervous.
+
+38   ANGLE ON THE OPEN PANEL
+
+	to see his hand shaking as he tries to tighten a bolt. 
+	He drops the tool, it goes CLATTERING down into the 
+	tangle of circuitry.
+
+39   AMARO
+
+	reacting to the sound. Boq'ta tries to get a hold of 
+	himself, taking a deep breath.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       26.
+
+39   CONTINUED:
+
+					AMARO
+			You okay?
+
+					BOQ'TA
+			My hand's shaking...
+
+					AMARO
+				(letting him off the 
+				hook)
+			Must've had too much coffee...
+			take a break. Show me what to do. 
+
+	She moves to his side, peers into the panel.
+
+					BOQ'TA
+			I was just realigning the --
+
+	Suddenly a strange RUSTLING SOUND from down the 
+	conduit. They both freeze, and look in the direction 
+	of the sound -- which seems to have come from around a 
+	corner formed by an intersection with another conduit.
+
+	Amaro gestures for Boq'ta to "stay put." He then grabs 
+	his weapon, takes it off safety, and slowly moves down 
+	the conduit toward the intersection.
+
+	Just as he reaches the corner, we hear the sound again. 
+	A faint, intermittent BREATHING sound.
+
+	He readies his weapon, and prepares himself. In a 
+	single, fluid motion, he swings around into the --
+
+40   INTERSECTION
+
+	and is about to fire -- then stops himself.
+
+41   AMARO'S POV
+
+	of an air vent, intermittently opening and closing, 
+	causing the "breathing" sound.
+
+42   OFF OF AMARO'S FACE
+
+	as he smiles tersely, then looks back at Boq'ta. 
+	Giving him an "everything's okay" look. Boq'ta goes 
+	back to work.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO      26A.
+
+43   INT. EMPOK NOR - CARGO BAY
+
+	Amidst various pieces of abandoned equipment, old 
+	crates, and junk, O'Brien is at an open access panel 
+	working away.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       27.
+
+43   CONTINUED:
+
+	As Garak, phaser in hand, is musing out loud, he 
+	scratches his fingers -- the ones he touched the blue 
+	gel with. Nog paces around, weapon ready.
+
+					GARAK
+			I'm not convinced Stolzoff was 
+			right about our Cardassian 
+			friends... why would anyone 
+			voluntarily seal themselves into 
+			a stasis tube -- possibly for 
+			years -- just to guard an 
+			abandoned station? Even the Third 
+			Battalion isn't that fanatical... 
+			something else is going on.
+
+					O'BRIEN
+			Maybe so... but I don't intend to 
+			be here long enough to find out 
+			what it is.
+
+44   ON NOG
+
+	as he moves down an aisle formed by some crates.
+
+					GARAK (O.S.) 
+			That's the trouble with humans... 
+			you don't know how to appreciate 
+			a good mystery.
+
+	Nog -- in super-cadet mode -- rounds the corner 
+	commando-style, much as Amaro did in the conduit. He's 
+	"practicing."
+
+					O'BRIEN (O.S.) 
+			I love a good mystery -- the kind 
+			I can read in bed. Not the kind 
+			that's trying to kill me.
+
+	Nog approaches another intersection. He puts his back 
+	against a crate, preparing to swing around.
+
+44A  NEW ANGLE - POV
+
+	Someone is watching Nog.
+
+					GARAK (O.S.) 
+			Don't get me wrong, Chief. I want 
+			to get off this station as much as 
+			you do...
+
+	Nog swings into the intersection, pointing his weapon 
+	at an imaginary foe, then moves on...
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO      27A.
+
+
+44B   ON NOG
+
+	As he prepares to round another corner.
+
+					GARAK (O.S.)
+			... but I just know that if I don't 
+			figure this out, it's going to nag 
+			at me for days.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       28.
+
+44C   ANGLE - POV 
+
+	Whoever is watching Nog is now closer to him. But Nog 
+	is oblivious to the danger he's in. Nog swings into 
+	another intersection --
+
+					O'BRIEN (O.S.) 
+			Right now, let's concentrate on 
+			finishing this signal modulator so 
+			we can get out of here.
+
+44D   ON NOG 
+
+	as something catches his attention -- his own 
+	reflection in a shiny surface. Nog poses, holding the 
+	phaser rifle in various fighting stances.
+
+					O'BRIEN (O.S.) 
+			You have the whole trip home to 
+			sort out the mystery.
+
+44E   POV ANGLE 
+
+	inching around a corner, now only a little more than an 
+	arm's length away from Nog.
+
+					O'BRIEN (O.S.) 
+				(calling out) 
+			Nog!
+
+44F   ON NOG
+
+	Startled, he turns towards O'Brien's voice --
+
+					O'BRIEN (O.S.)
+				(continuing)
+			I need your help with the phase
+			discriminator.
+
+					NOG 
+			On my way, Chief. 
+
+	Nog then heads for O'Brien and out of harm's way.
+
+44G   POV ANGLE 
+
+	watching Nog move out of striking distance. Nog 
+	disappears around a corner of cargo. After a beat, we --
+	the POV -- retreat into the shadows.
+
+45   OMITTED
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO      28A.
+
+46   INT. EMPOK NOR - PROMENADE
+	(AKA. HABITAT RING CORRIDOR, SECTION C)
+
+	While Stolzoff keeps a lookout, Pechetti is working at
+	an open access panel a few meters from a closed door.
+	Stolzoff is resting her phaser rifle on her forearm.
+	After a beat, Pechetti glances her way.
+
+					PECHETTI
+			You mind not aiming that at me?
+
+					STOLZOFF
+				(casual)
+			Don't worry, the safety's on.
+
+	Suddenly the SOUND of the turbolift coming down. 
+	Stolzoff swings her phaser to cover the door. A beat, 
+	as no one emerges from the turbolift.
+
+					STOLZOFF
+			Tell me you did that...
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       29.
+
+46   CONTINUED:
+
+	Pechetti shakes his head, "no, I didn't." The two 
+	crewmen exchange a look, then slowly inch their way to 
+	the turbolift, phasers in hand.
+
+47   ANOTHER ANGLE
+
+
+	Now, Pechetti is on one side of the turbolift door, 
+	Stolzoff on the other. Stolzoff presses the turbolift 
+	button and the doors open -- though we can't see
+	inside.
+
+					STOLZOFF 
+				(whispering) 
+			One, two...
+
+	And on "three" they swing to face the turbolift --
+
+48   ANGLE ON THE TURBOLIFT
+
+	-- only to find it empty. They SIGH with relief, 
+	lowering their phasers.
+
+					PECHETTI 
+			Maybe I did activate the turbolift 
+			without realizing it...
+
+	Stolzoff isn't ready to accept that. She looks around 
+	the room. Pechetti heads back to his work -- but 
+	something catches his attention. He moves over to a 
+	glass encasement with a Cardassian emblem. We STAY 
+	WITH Pechetti who approaches the three-sided glass 
+	encasement. As he steps into the center of the case, 
+	a hand CRASHES through the side glass, grabbing 
+	Pechetti by the neck.
+
+	Stolzoff swings around to see a CARDASSIAN SOLDIER 
+	yanking Pechetti into the glass case.
+
+					STOLZOFF 
+			Pechetti!
+
+	Stolzoff aims her rifle -- but he's gone. She slaps 
+	her communicator --
+
+					STOLZOFF 
+			Stolzoff to O'Brien. A Cardass--
+
+	She's cut off by a backhanded chop from a SECOND 
+	CARDASSIAN SOLDIER who steps in behind her.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT TWO       30.
+
+49   INT. EMPOK NOR - CARGO BAY
+
+	O'Brien anxiously slaps his communicator.
+
+					O'BRIEN
+			Stolzoff! Stolzoff!
+
+	O'Brien swings into action, grabbing his phaser and 
+	dashing for the door.
+
+50   INT. EMPOK NOR - HABITAT RING CORRIDOR
+
+	Running, O'Brien leads Garak and Nog down the hall.
+
+51   INT. EMPOK NOR - PROMENADE
+
+	As O'Brien ENTERS and spots Stolzoff's lifeless body 
+	sprawled on the ground. As Nog and Garak arrive, 
+	O'Brien steps over to Pechetti, his body on the other 
+	side of the glass case. He, too, is dead.
+
+52   CLOSE ON O'BRIEN
+
+	as his face hardens -- he's lost two crewmen.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      31.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+53   INT. EMPOK NOR - PROMENADE 
+
+	Minutes later. Amaro is on lookout on the Second 
+	Level. Below, Nog, Garak, and Boq'ta look on as 
+	O'Brien finishes covering the two bodies with a tarp he 
+	found. The bodies have been moved so that they lie 
+	next to each other on the floor.
+
+	Boq'ta, breathing heavily, can't suppress his anxiety.
+
+					BOQ'TA 
+			The Cardassians must've surprised 
+			them... they're probably using the 
+			internal sensors to track us --
+
+	O'Brien steps up to Boq'ta to calm him down and 
+	reassure him.
+
+					O'BRIEN 
+			Take it easy. We're going to get 
+			out of here, you can count on 
+			that. But we have to stay focused --
+				(to the group) 
+			Looks like Pechetti was almost 
+			done getting the microfusion 
+			reactor on-line. I'll finish it 
+			then head back down to the cargo 
+			bay.
+				(to Boq'ta) 
+			How are you doing with the 
+			conduits?
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      32.
+
+53   CONTINUED:
+
+					BOQ'TA
+				(trying to control his 
+				anxiety) 
+			I'm done...
+
+					O'BRIEN 
+			Good. Now you and Amaro get down 
+			to auxiliary control and 
+			reconfigure the pulse generator.
+
+					BOQ'TA 
+			We're going to split up?
+
+					O'BRIEN
+			We've got to. If we don't send 
+			out a signal, we'll never get off 
+			this station.
+
+	O'Brien can see Boq'ta struggling to get a hold of 
+	himself.
+
+					O'BRIEN 
+			I need you, Boq'ta. You can do 
+			this.
+
+	From the Second Level, Amaro speaks up:
+
+					AMARO
+
+				(to Boq'ta) 
+			Don't worry. I'll watch your 
+			back.
+
+					BOQ'TA
+				(panicky) 
+			Stolzoff was supposed to be 
+			watching Pechetti's back -- look 
+			what happened to them.
+
+					O'BRIEN
+			What if I send Garak with you, 
+			too? Would that make you feel 
+			better?
+
+	Boq'ta looks at Garak -- it's a reassuring thought --
+	then he nods.
+
+					GARAK 
+			I'm flattered. But I'm afraid I 
+			have other plans.
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      33.
+
+53   CONTINUED:	(2)
+
+					O'BRIEN 
+			What the hell are you talking 
+			about?
+
+					GARAK
+			I don't intend to stand around 
+			waiting to be killed.
+
+					O'BRIEN
+			Meaning what?
+
+					GARAK
+			Meaning, I'm going to find those 
+			two Cardassian soldiers... and 
+			neutralize them.
+				(checking the setting on 
+				his phaser) 
+			Besides, all this whining is 
+			giving me a headache.
+
+	Garak turns away and starts to leave -- but Amaro stops 
+	him by pointing a weapon at him.
+
+					AMARO 
+			You're going to have more than a 
+			headache if you don't do what the 
+			chief wants...
+
+					O'BRIEN
+			Amaro --
+
+	The moment hangs for a beat, then Garak smiles.
+
+					GARAK 
+			You'd like to shoot me, wouldn't 
+			you? You're just dying to kill a 
+			Cardassian. Any Cardassian...
+
+	O'Brien breaks this up with:
+
+					O'BRIEN 
+			Let him go.
+
+	Amaro is surprised.
+
+					O'BRIEN 
+			If he thinks he can "neutralize"
+			the Cardassians -- let him try. 
+			He'd be doing us all a favor.
+
+					GARAK
+			That's the spirit. Why don't you 
+			come with me, Chief?
+
+	Garak's eyes are shining as he tries to tempt O'Brien...
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE     33A.
+
+53   CONTINUED:	(3)
+
+					GARAK 
+			Kill a few "Cardies," it'd be like 
+			old times.
+				(re: the bodies) 
+			Wouldn't you like to avenge their 
+			deaths?
+
+					O'BRIEN 
+			No, I just want to get everyone 
+			home.
+
+					GARAK 
+			You're fighting your instincts, I 
+			can see it. The hero of Setlik 
+			Three is still inside there 
+			somewhere.
+
+					O'BRIEN
+			If you're going to go, go.
+
+	A beat, then Garak smiles and moves off...
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      34.
+
+53   CONTINUED:	(4)
+
+					O'BRIEN 
+			Nog, you go with Boq'ta and Amaro.
+
+	Nog knows that this is going to leave O'Brien by 
+	himself, but he also understands what the Chief is 
+	trying to do for Boq'ta.
+
+					NOG 
+			Aye, Sir.
+
+	But Boq'ta has gotten control of his fear.
+
+					BOQ'TA 
+			It's all right, Chief. He can 
+			stay with you.
+				(looking in the
+				direction Garak left)
+			For some reason, knowing Garak's
+			going after those Cardassians
+			makes me feel better...
+
+	We get a sense that they all share that feeling.
+
+54   EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	Re-establishing.
+
+55   INT. EMPOK NOR - SURGERY 
+
+	The stasis tubes are as we last saw them, two open, and 
+	the one containing the skeleton, shut. Garak is at a 
+	console near a monitor, which is flashing a series of 
+	Cardassian lettering.
+
+					GARAK
+				(irate) 
+			Access denied. Access denied. 
+			Don't you know how to say anything 
+			else?
+
+	As Garak considers another "approach," he scratches his 
+	fingers again, and then the back of his neck. He then 
+	taps the console... with the same result:
+
+					GARAK
+			Apparently not...
+
+	Then Garak hears something... or rather, senses it. He 
+	continues at the console, but listens intently...
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      35.
+
+56   INT. EMPOK NOR - PROMENADE
+	(AKA HABITAT RING CORRIDOR, SECTION C)
+
+	A Cardassian soldier moves through the shadows. He 
+	stops as he hears the sound of Garak's voice off screen --
+
+					GARAK (O.S.) 
+			Access denied... access denied. 
+			How monotonous.
+
+57   INT. EMPOK NOR - INFIRMARY
+
+	The soldier stealthily makes his way through the 
+	medical bay.
+
+	He positions himself to one side of the door leading 
+	into surgery, then after a beat, swings into --
+
+58   INT. SURGERY
+
+	-- only to find the room empty. The monitor is still 
+	blinking with the Cardassian lettering... but there's 
+	no sign of Garak.
+
+	The soldier carefully moves around the room, assuring 
+	himself that it is indeed empty. He makes a complete 
+	sweep, passing by the stasis tubes. We drop off on the 
+	closed tube.
+
+59   CLOSE ON THE SMOKED WINDOW
+
+	a pair of eyes watching.
+
+60   WIDER (OPTICAL) 
+
+	as the tube door flings open and the Cardassian soldier
+	swings around to see Garak -- in the tube -- holding a
+
+	phaser.
+
+					GARAK 
+			Looking for me? 
+
+	And then Garak FIRES, killing him instantly.
+
+61   ANOTHER ANGLE
+
+	as Garak allows himself a small smile.
+
+					GARAK
+				(almost surprised) 
+			That felt... good. 
+
+	As Garak steps out of the tube --
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      36.
+
+62   INT. EMPOK NOR - CARCO BAY
+
+	O'Brien is working at an open panel. A few meters 
+	away, Nog is guarding the doors.
+
+					NOG 
+			Chief, why does Garak keep 
+			bringing up Setlik Three?
+
+					O'BRIEN
+			Because he wants to get under my 
+			skin.
+
+					NOG 
+			But you were a hero, weren't you?
+
+					O'BRIEN
+			That doesn't mean I like thinking 
+			about what happened there. I was 
+			a soldier, Nog, and sometimes 
+			soldiers have to kill.
+
+					GARAK (O.S.) 
+			Come now, Chief, don't be so 
+			modest.
+
+	Garak's voice has startled Nog, who spins and points 
+	his weapon at Garak.
+
+					GARAK 
+			You did a lot of killing.
+
+					NOG
+				(to Garak) 
+			How'd you get in here? Both doors 
+			are secure.
+
+					GARAK
+			"Secure" is such a relative term, 
+			wouldn't you agree?
+
+	Garak pushes the tip of Nog's rifle away so that it no 
+	longer points in his direction.
+
+					GARAK 
+			If you don't mind...
+				(to O'Brien)
+			I've brought you something.
+
+	Garak tosses O'Brien another Third Battalion insignia.
+
+					GARAK 
+			I'm sure Pechetti would've 
+			appreciated it more, but...
+
+					O'BRIEN
+			Where'd you get this?
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      37.
+
+62   CONTINUED:
+
+					GARAK
+			From its former owner.
+
+					NOG 
+			You killed one of the soldiers?
+
+					GARAK
+			One down, one to go.
+				(to O'Brien) 
+			By the way, I took a tissue sample 
+			from the soldier's body... the 
+			analysis was rather fascinating, 
+			in a grim sort of way. It would 
+			seem that the unfortunate soul had 
+			been given a massive dose of a 
+			psychotropic drug --
+
+					O'BRIEN
+			Why?
+
+					GARAK
+			I'm not sure, but I can tell you 
+			one thing, it wasn't to make him 
+			amicable. The drug's protein 
+			structure seems designed to 
+			amplify my people's xenophobic 
+			tendencies... my guess is that the 
+			soldiers that were left here, were 
+			part of some sort of Cardassian 
+			military experiment. The High 
+			Command may have been looking for 
+			a way to further "motivate" their 
+			troops...
+
+					O'BRIEN
+				(catching on) 
+			So they gave them a drug to make 
+			them hate anyone who wasn't 
+			Cardassian...
+
+					NOG
+				(to Garak) 
+			Then why'd they attack you?
+
+					GARAK
+			That's a good question.
+
+					O'BRIEN
+			Something must have gone wrong 
+			with the experiment. Maybe that's 
+			why the soldiers were left in 
+			stasis... because they were 
+			uncontrollable.
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      38.
+
+62   CONTINUED:	(2)
+
+					GARAK
+				(shrugs) 
+			I'd love to stay and hypothesize 
+			with you all afternoon...
+				(checking his phaser)
+			... but once I set my mind to a 
+			task, I hate to leave it 
+			unfinished.
+
+	O'Brien walks up to Garak and studies him closely.
+
+					GARAK 
+			What is it, Chief?
+
+					O'BRIEN
+			You look different.
+
+					GARAK
+			How so?
+
+					O'BRIEN
+			That's not the face of a tailor.
+
+
+					GARAK
+			I'm not a tailor.
+				(smiles) 
+			Not for the moment anyway.
+
+	Off O'Brien's face as he watches Garak head for the 
+	door.
+
+63   EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	Re-establishing.
+
+64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL)
+
+	Boq'ta is working on an open panel as Amaro stands 
+	watch. Boq'ta seems noticeably less tense.
+
+					BOQ'TA 
+			You know, I once bought a suit 
+			from Garak. Turned out the 
+			sleeves were a little long. I 
+			remember being angry when I 
+			brought it in to be fixed.
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE     38A.
+
+64   CONTINUED:
+
+					AMARO
+			Is there a point to this story?
+
+					BOQ'TA
+			If I had known he was so
+			dangerous, I never would've
+			complained.
+				(a beat)
+			You think he'll get the other
+			Cardassian?
+
+					AMARO
+			I hope not.
+				(off Boq'ta1s look)
+			I want to get him myself.
+
+65   NEW ANGLE
+
+	to reveal Garak surreptitiously watching them.
+
+					AMARO (O.S.)
+			Stolzoff was my friend.
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      39.
+
+65   CONTINUED:
+
+	Garak smiles to himself -- he knew he was right about
+	him. Suddenly, he reacts to something off screen --
+
+66   GARAK'S POV 
+
+	In the shadows beyond Amaro and Boq'ta, we can make out 
+	a figure. It's the second Cardassian soldier. Amaro 
+	and Boq'ta haven't noticed his presence.
+
+67   ON GARAK
+
+	instead of calling out and warning them, which might 
+	cause the Cardassian to retreat, Garak falls back into 
+	the shadows and moves along the wall circling around to 
+	try to get behind the Cardassian soldier.
+
+68   ON BOQ'TA AND AMARO
+
+	still at work, unaware of the imminent danger.
+
+69   ON GARAK,
+
+	stealthily moving, weapon in hand. He looks over 
+	towards where the Cardassian soldier was hiding. He's 
+	no longer there.
+
+70   ON BOQ'TA AND AMARO 
+
+	Boq'ta is struggling with something in the open panel.
+
+					BOQ'TA
+			I can't get this loose. Get me
+			the coil spanner, would you?
+
+	Amaro moves over to the tool box a few meters behind 
+	them.
+
+71   ON AMARO
+
+	as he fishes through the box trying to find the tool.
+
+					AMARO
+			What does it look like?
+
+					BOQ'TA (O.S.) 
+			It's got two pointy things on the 
+			end.
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      40.
+
+71   CONTINUED:
+
+	Amaro puts down his phaser rifle to search for the 
+	tool. Just as he finds a device he thinks matches the 
+	description, he hears the terrible sound of a NECK 
+	BEING SNAPPED. He turns to see --
+
+72   ANGLE ON BOQ'TA (OPTICAL)
+
+	his lifeless body falling out of the grips of the 
+	Cardassian soldier, whose weapon is trained on Amaro. 
+	He has him dead to rights.
+
+	Suddenly a phaser blast from off screen catches the 
+	soldier in the side, killing him instantly.
+
+73   NEW ANGLE
+
+	to include Garak, standing nearby, phaser in hand. 
+	Amaro let's out a BREATH of relief.
+
+					AMARO
+			He had me.
+
+	He moves over to check Boq'ta's body.
+
+					AMARO
+			He asked me to get a coil spanner
+			for him...
+				(kicking himself)
+			I turned my back for a second...
+
+	Garak looks down at the tool in his hand.
+
+					GARAK
+			It's a shame.
+				(taking it from him)
+			And you know what the worst part
+			is...
+
+	Amaro looks at him.
+
+					GARAK,
+			This isn't a coil spanner.
+
+	Amaro reacts to this terribly inappropriate 
+	observation. Then, in a sudden motion, Garak plunges 
+	the device into his gut. His eyes go wide as much from 
+	the shock as from the pain. His body crumples to the 
+	floor.
+
+					GARAK
+			It's a flux coupler.
+
+      DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT THREE      41.
+
+73   CONTINUED: 
+
+	Garak's eyes are shining with the same strange 
+	intensity we've seen in the other Cardassians. And off 
+	Garak's form slipping into the shadows, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+   DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR 42-42A.     
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+74   INT. EMPOK NOR - CARGO BAY 
+
+	O'Brien is just finishing his work in the open panel as 
+	Nog keeps a lookout.
+
+					O'BRIEN
+			That should do it.
+				(taps combadge)
+			O'Brien to Boq'ta.
+
+	No response.
+
+					O'BRIEN
+			Boq'ta, come in.
+
+	When he still doesn't get a response, O'Brien starts to 
+	become concerned.
+
+					O'BRIEN
+				(taps combadge again)
+			Amaro -- what's going on up there?
+
+	Not getting a response, O'Brien glances to Nog. Then 
+	with a mounting sense of dread, O'Brien heads for the 
+	door, Nog follows.
+
+75   INT. EMPOK NOR - WARDROOM
+
+	CLOSE ON Amaro, lying on the floor. We see he's still 
+	alive, but just barely, his breathing ragged.
+
+					AMARO
+				(barely getting it out)
+			He's out there...
+
+	PULL BACK TO REVEAL O'Brien kneeling next to him, Nog 
+	in the b.g.
+
+					O'BRIEN
+			Easy now... who's out there?
+
+					AMARO
+			Garak...
+
+	O'Brien's not sure what he means.
+
+					AMARO
+			He... stabbed me...
+
+	Amaro takes a last, difficult breath, and he's gone.
+	O'Brien stands, looks around, scanning for Garak.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR      43.
+
+75   CONTINUED:
+
+					NOG 
+			Chief... why would Garak do this?
+
+	O'Brien doesn't answer, he just reaches down and grabs 
+	Amaro's phaser rifle.
+
+					O'BRIEN 
+			Come on. He might still be close 
+			by...
+
+	Covering their progress in full commando mode, O'Brien 
+	leads Nog into the closest defensible location:
+
+76   INT. EMPOK NOR - QUARTERS 
+
+	As O'Brien leads Nog in -- sweeping the room with their 
+	rifles. Satisfied that Garak isn't in the room, he 
+	triggers the door mechanism, shutting it CLOSED.
+
+77   ANOTHER ANGLE
+
+	As O'Brien and Nog huddle in a corner.
+
+					NOG 
+			It doesn't make any sense - 
+			Garak's on our side.
+
+					O'BRIEN
+				(grim) 
+			Not anymore.
+				(looking at the stasis 
+				tubes) 
+			The psychotropic drug... he 
+			must've been exposed to it. It's 
+			the only explanation.
+				(pounding his hand on
+				the side of the stasis
+				tube)
+			I should've seen it earlier. The
+			way he accused Amaro of wanting to
+			kill him... the way he insisted on
+			going after those Cardassians.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR      44.
+
+77   CONTINUED:
+
+					NOG 
+				(scared)
+			He's going to come after us, isn't 
+			he?
+
+					O'BRIEN
+			Yes.
+
+					NOG 
+			Maybe we can reason with him - 
+			make him understand that the 
+			drug's affecting him.
+
+					O'BRIEN 
+				(forget it) 
+			You saw what he did to Amaro. 
+			He's not going to listen to us.
+
+	Nog's worried expression says it all. He leaps to the 
+	next "plan."
+
+					NOG 
+			Then we have to finish setting up 
+			the deflector grid -- we've got to 
+			get a distress signal out.
+
+					O'BRIEN 
+				(impatient) 
+			Garak knows that's what we've been 
+			trying to do. He'll stop us.
+
+					NOG 
+			Don't we have to try?
+
+					O'BRIEN 
+				(snapping) 
+			Forget it! I've lost four crewmen 
+			trying to send out that bloody 
+			signal.
+
+	Nog falls silent, as O'Brien's admission hangs in the 
+	air. O'Brien is furious with himself -- how could he 
+	have been so wrong?
+
+					O'BRIEN 
+			Garak was right. We should've 
+			gone after those Cardassians as 
+			soon as they attacked us.
+				(angry with himself) 
+			You don't wait for the enemy to 
+			come to you -- you go to him.
+
+	O'Brien's come to his decision -- he knows exactly what 
+	he has to do.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR      45.
+
+77   CONTINUED:	(2)
+
+					O'BRIEN
+			We're going after Garak.
+
+					NOG
+			You mean... to kill him?
+
+					O'BRIEN
+			If that's what it takes to stop
+			him... yes.
+
+	And off O'Brien's grim resolve --
+
+78   EXT. SPACE - EMPOK NOR (OPTICAL)
+
+	Re-establishing.
+
+79   INT. EMPOK NOR - STATION COMMANDER'S OFFICE
+
+	START CLOSE ON Garak's face --
+
+					GARAK
+			I know you're hiding somewhere.
+
+	WIDEN TO REVEAL he's on all fours crawling around the 
+	room looking for something.
+
+					GARAK
+			Ah, there you are.
+
+	He's found a game piece that looks just like one from 
+	the Cardassian game we saw in the runabout. Garak 
+	stands, moves to the Station Commander's desk, where we 
+	see a complete board with most of the pieces in place. 
+	Garak takes this last piece and completes the set. He 
+	smiles, pleased with himself.
+
+					GARAK
+				(taps combadge)
+			Garak to Chief O'Brien. You'll
+			never guess what I found...
+
+80   INT. EMPOK NOR - CORRIDOR
+
+	CLOSE ON O'Brien as he reacts to Garak's voice on the 
+	comlink. O'Brien and Nog have been moving down the 
+	hallway, commando style, searching for Garak.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR      46.
+
+80   CONTINUED:
+
+					GARAK'S COM VOICE 
+			A Kotra board. The Station 
+			Commander left one in his 
+			office... the pieces were 
+			scattered all over... but I found 
+			the last one, hiding under his 
+			desk.
+
+	O'Brien and Nog exchange a look -- Garak's given away 
+	his position. Instantly, O'Brien starts racing down 
+	the corridor, Nog right behind him.
+
+81   INT. EMPOK NOR - STATION COMMANDER'S OFFICE
+
+	Where Garak continues talking, adjusting the pieces.
+
+					GARAK
+			I can't help thinking what a 
+			perfect metaphor this game is for 
+			our present situation. Two 
+			players. Two minds. Two 
+			strategies...
+
+82   INT. EMPOK NOR - CORRIDOR
+
+	O'Brien and Nog racing down it, weapons in hand.
+
+					GARAK'S COM VOICE 
+			Each trying to outmaneuver the 
+			other... testing the enemy's 
+			defenses... advancing... 
+			retreating...
+
+	They reach a junction. O'Brien gives Nog a signal, and 
+	they split off in two different directions.
+
+83   INT. EMPOK NOR - STATION COMMANDER'S OFFICE
+
+Garak continues:
+
+					GARAK 
+			The only difference is that in the 
+			game we're playing, the stakes are 
+			life and death... which makes it 
+			much more interesting.
+
+84   INT. EMPOK NOR - CORRIDOR - OUTSIDE OPS
+
+	Nog has his back against the bulkhead to one side of 
+	the closed door that leads to Ops. He's in position, 
+	his weapon ready, waiting for the signal from O'Brien.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR      47.
+
+84   CONTINUED:
+
+					GARAK'S COM VOICE 
+			I haven't had this much fun in 
+			years. My heart's pounding...
+
+85   INT. EMPOK NOR - CORRIDOR -
+	OUTSIDE STATION COMMANDER'S OFFICE
+
+	O'Brien is in position -- his back to the bulkhead, to
+	one side of the door leading to the Station Commander's
+	Office.
+
+					GARAK'S COM VOICE
+			The blood is racing through my
+			veins... I feel so alive.
+				(pointed)
+			And I bet you do, too.
+
+	O'Brien double taps his combadge --
+
+86   INT. EMPOK NOR - CORRIDOR - OUTSIDE OPS 
+
+	as Nog reacts to the signal, triggers the door to OPEN, 
+	and starts in --
+
+87   INT. EMPOK NOR - STATION COMMANDER'S OFFICE
+
+	-- as O'Brien swings into the room, phaser ready. But 
+	there's no sign of Garak.
+
+88   INT. EMPOK NOR - OPS
+
+	Nog is sweeping the area -- no sign of Garak either.
+
+89   INT. EMPOK NOR - STATION COMMANDER'S OFFICE
+
+	O'Brien looks at Nog through the open door to Ops. 
+	They exchange a puzzled look -- where could Garak be?
+
+90   INT. EMPOK NOR - OPS
+
+	Nog's eyes settle on the Kotra game board, now sitting 
+	on the Ops table. Before we can ask ourselves how it 
+	got there, the doors to the Station Commander's Office 
+	HISS SHUT.
+
+91   INT. EMPOK NOR - STATION COMMANDER'S OFFICE (OPTICAL)
+
+	O'Brien reacting -- through the glass, he sees Garak 
+	step up behind Nog, and grab him in a choke hold.
+
+	O'Brien rushes to the door and is immediately thrown 
+	back by a FORCEFIELD WALL that comes to life around the 
+	doors.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FOUR      48.
+
+92   O'BRIEN'S POV
+
+	as he and Garak lock eyes.
+
+					GARAK
+				(taps his combadge)
+			Looks like I captured your last
+			piece, Chief. If you want it
+			back, you're going to have to take
+			it from me...
+
+	Then the Cardassian gives O'Brien a small victorious 
+	smile, and drags the flailing Nog out the door.
+
+93   AND ON O'BRIEN'S
+
+	angry and frustrated expression, we:
+
+94
+thru   OMITTED
+95
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      49.
+                           ACT FIVE                             
+
+	FADE IN:
+
+96   INT. EMPOK NOR - STATION COMMANDER'S OFFICE
+
+	Moments later. O'Brien is pacing, his frustration and 
+	anger boiling over. Suddenly, we hear the forcefield 
+	FRITZ off and the doors to Ops open.
+
+96A  INT. EMPOK NOR - OPS 
+
+	O'Brien steps into Ops and his eyes immediately settle 
+	on the game board Garak left behind. Something in him 
+	snaps, and he swings his rifle at the board, flinging 
+	it across the room -- the pieces scattering in every 
+	direction.
+
+	After a beat, a familiar voice comes over the com:
+
+					GARAK'S COM VOICE 
+			It's your move, Chief. What are 
+			you going to do? Attack? 
+			Retreat? Surrender?
+
+					O'BRIEN
+			Garak, listen to me... the drug's 
+			affecting you. You have to fight 
+			it.
+
+								INTERCUT AS NEEDED:
+
+97   INT. EMPOK NOR - CORRIDOR
+
+	Garak has Nog bound.
+
+					GARAK
+			Fight it? But I'm enjoying 
+			myself. This is the most exciting 
+			game I've played in years.
+
+					O'BRIEN
+			It's not a game!
+
+					GARAK 
+			Oh, but it is. And the best thing 
+			about it is that it brings out the 
+			player's true nature.
+
+					O'BRIEN
+			Where are you, Garak?
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE     49A.
+
+97   CONTINUED:
+
+					GARAK
+				(continuing on his own
+				train of thought)
+			I saw the look in your eyes when
+			I took the Ferengi from you. You
+			wanted to kill me... you wanted to
+			squeeze the life out of me with
+			your bare hands.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      50.
+
+97   CONTINUED:	(2)
+
+					O'BRIEN 
+			I just want my crewman back - 
+			that's all.
+
+					GARAK
+			Admit it -- you're a killer. We 
+			both are. Behind your Federation 
+			mask of decency and benevolence, 
+			you're a predator -- just like me.
+
+					O'BRIEN
+			I'm nothing like you.
+
+					GARAK
+			Oh, but you are -- you proved that 
+			at Setlik Three. How many 
+			Cardassians did you kill? Ten? 
+			Twenty? A hundred?
+
+					O'BRIEN
+			I don't remember...
+
+					GARAK 
+			But you remember how it felt. 
+			The Cardassians were killing your men, 
+			and you had to stop them -- you 
+			had to make them pay. Blood for 
+			blood. You enjoyed killing them, 
+			didn't you? You enjoyed watching 
+			the life drain from their eyes.
+
+	O'Brien's frustration explodes into anger...
+
+					O'BRIEN 
+			You want to finish this game, 
+			Garak? Fine. Let's finish it. 
+			You and me. Face to face.
+
+					GARAK
+			I'd like nothing better. We'll 
+			meet on the Promenade.
+
+					O'BRIEN 
+			No weapons.
+
+					GARAK 
+				(a deal) 
+			No weapons.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      51.
+
+97   CONTINUED:	(3)
+
+	And off O'Brien's hardened expression --
+
+98   INT. EMPOK NOR - PROMENADE
+
+	Garak has tied Nog to a wall near the door to what 
+	would be Quark's if we were on Deep Space Nine. Garak 
+	is holding a phaser rifle to Nog's head -- we can see 
+	the fear in Nog's eyes.
+
+					GARAK 
+			You have no idea how hard it is to 
+			keep myself from pulling the 
+			trigger. But I need you alive...
+
+	Garak smiles at the Ferengi and we go to --
+
+99   ANOTHER ANGLE 
+
+	as O'Brien carefully ENTERS the far end of the 
+	Promenade. He's holding the phaser rifle at the ready, 
+	scanning the room, in case Garak tries something.
+
+	In the corner of his eye, O'Brien catches a glimpse of 
+	a figure. He turns to see --
+
+100  ANGLE ON STOLZOFF
+
+	his body tied to the wall. Further down he spots 
+	Pechetti, then Boq'ta, and Amaro -- all propped up 
+	against the wall, like macabre spectators.
+
+					GARAK (O.S.) 
+			They've come to cheer you on, 
+			Chief.
+
+	O'Brien steps forward and sees Garak pointing the 
+	phaser rifle at Nog's head.
+
+					GARAK 
+			Your loyal team... apparently 
+			they've forgiven you for getting 
+			them killed.
+
+	Garak gestures across the Promenade where we see the 
+	two Cardassian Soldiers also propped against the wall, 
+	"watching."
+
+					GARAK 
+			My supporters may be fewer in 
+			number, but they're no less loyal.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      52.
+
+100  CONTINUED: 
+
+	Garak smiles, seeing that he's rattled O'Brien just a 
+	bit.
+
+					GARAK
+			I thought we agreed -- no weapons.
+
+					O'BRIEN
+			What's that in your hand?
+
+	Garak looks down at his weapon.
+
+					GARAK
+				(smiling)
+			How did this get here?
+				(a beat; re: weapon)
+			We won't need these.
+				(an order)
+			Put yours down.
+
+					O'BRIEN
+			You first.
+
+					GARAK
+			Put it down, or say good-bye to
+			the Ferengi.
+
+	A beat as O'Brien hesitates.
+
+					NOG
+			Don't do it, Chief.
+
+					GARAK
+				(to Nog)
+			He has nothing to worry about --
+			I'm not going to shoot an unarmed
+			man. What fun would that be?
+
+	Keeping an eye on Garak, O'Brien sets the phaser rifle 
+	down on the ground.
+
+					GARAK
+				(smiles)
+			You wouldn't happen to have
+			another one, would you?
+
+	O'Brien reaches behind his back, and removes a hidden
+	hand phaser, and a tricorder.
+
+					GARAK
+			Naughty, naughty.
+
+	O'Brien sets the phaser down, then places the tricorder 
+	on top of it.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE     52A.
+
+100  CONTINUED:	(2)
+
+					O'BRIEN
+			Your turn.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      53.
+
+100  CONTINUED:	(3) 
+
+					GARAK
+				(re: his weapon) 
+			I admit I'm tempted to finish this 
+			right now...
+				(tossing the rifle 
+				aside) 
+			But I'd be depriving myself of too 
+			much enjoyment.
+
+101  NEW ANGLE
+
+	as they start to circle each other.
+
+102  VARIOUS ANGLES
+
+	as Garak lunges for O'Brien. O'Brien barely gets out 
+	of the way, and turns in a fighting stance, ready to 
+	take him on again.
+
+	Garak has Cardassian strength and the skills of a 
+	trained assassin -- while O'Brien has his Starfleet 
+	training, his war experience, and his Irish temper. 
+	It's almost an even fight -- but not quite. Garak 
+	gains the upper hand and starts pounding away at 
+	O'Brien -- viciously.
+
+	As the fight progresses, Garak swings around and 
+	catches the back of O'Brien's head, sending him 
+	sprawling to the ground.
+
+	Garak could go after him and finish him off, but he 
+	doesn't. It's clear that Garak is toying with his 
+	opponent.
+
+					GARAK 
+			I'm disappointed, Chief. I was 
+			hoping to see bloodlust in your 
+			eyes, but all I see is fear.
+
+	Garak goes at him again, O'Brien tries to get away, but 
+	Garak catches him with a vicious blow to the back. 
+	O'Brien tries to crawl to safety, but Garak kicks him 
+	in the ribs, sending him against the wall. He's in 
+	trouble. Garak closes in.
+
+					GARAK 
+			Maybe it's true... maybe you're 
+			not a soldier anymore.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      54.
+
+102  CONTINUED: 
+
+	O'Brien looks up at the approaching Garak.
+
+					O'BRIEN
+			You're right. I'm an engineer.
+
+	In a single fluid motion, he taps his combadge and hops 
+	over a stack of cargo.
+
+103  ANGLE ON THE TRICORDER
+
+	sitting on top of the phaser. A BLINKIE goes off on 
+	the tricorder. A split second later, a BLINKIE goes 
+	off on the phaser --
+
+104  WIDEN
+
+	as the phaser EXPLODES, and the shock wave sends Garak 
+	flying against the bulkhead, knocking him out cold.
+
+105  ON O'BRIEN
+
+	As the smoke clears, he stands up behind the cargo and 
+	moves out into the Promenade.
+
+					O'BRIEN
+			Nog, are you okay?
+
+					NOG
+			I'm all right, sir.
+
+	O'Brien moves over to Garak to check on him. He's not 
+	sure if he killed him or not.
+
+					NOG
+			Is he dead? Did you kill him?
+
+					O'BRIEN
+			No...
+
+	Despite everything Garak did, we can hear the relief in 
+	O'Brien's voice.
+
+					O'BRIEN 
+			I didn't.
+
+106  EXT. SPACE - DEEP SPACE NINE (OPTICAL) 
+
+	Re-establishing our station... and never has it looked 
+	more cheerful, bright or inviting.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      55.
+
+107  INT. DEEP SPACE-NINE - INFIRMARY
+
+	Garak is resting comfortably on the biobed, a neural 
+	stabilizing pad on his forehead. BASHIR and O'Brien 
+	are talking in the other room.
+
+					BASHIR 
+			He should be all right in a few 
+			days. I've neutralized the 
+			psychotropic compound that was 
+			affecting his nervous system.
+
+					O'BRIEN
+				(looking over at Garak) 
+			He looks so peaceful... it's hard 
+			to believe he's the same man who 
+			attacked us.
+
+					BASHIR 
+			In a way, he's not. The drug
+			brought out the worst parts of him 
+			and allowed them to take over. He 
+			wasn't in control of his actions.
+
+	O'Brien considers what he's heard.
+
+					O'BRIEN 
+			Can I talk to him?
+
+					BASHIR 
+			For a minute.
+
+108  NEW ANGLE 
+
+	as O'Brien moves over to Garak's side. Garak opens his 
+	eyes, and when he sees O'Brien, we can see that he's 
+	not sure what's in store for him.
+
+					O'BRIEN 
+			I thought you might want to know 
+			that we salvaged the plasma 
+			manifold. It's being installed 
+			right now.
+
+					GARAK 
+			Mission accomplished.
+
+	O'Brien nods. This is a somber Garak, full of remorse, 
+	and with none of the sparkle we're used to seeing in 
+	him.
+
+					O'BRIEN 
+			I guess it didn't exactly go the 
+			way any of us expected.
+
+	A quiet moment passes.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      56.
+
+108  CONTINUED: 
+
+					O'BRIEN 
+			You know there's going to be an 
+			inquest.
+
+					GARAK 
+			So I've been told.
+
+	But Garak doesn't seem too concerned about that --
+	something else is weighing heavier:
+
+					GARAK 
+			Chief, I was hoping I could ask a 
+			favor.
+
+					O'BRIEN
+			Don't worry. Once they hear the 
+			facts--
+
+	But Garak shakes his head.
+
+					GARAK 
+			It's not about that. I'd like you 
+			to express my deepest regrets to 
+			Amaro's wife. I'd talk to her 
+			myself, but I'm not sure she'd 
+			welcome that.
+
+					O'BRIEN 
+			I'll tell her.
+
+					GARAK 
+			I'd appreciate that.
+
+	Another quiet moment.
+
+					O'BRIEN
+			Julian says the blast broke a few 
+			of your ribs.
+
+					GARAK 
+			It could've been worse. If I'd 
+			been any closer to that phaser, I 
+			would've been killed...
+
+					O'BRIEN
+			Don't take this the wrong way... 
+			but that was the plan.
+
+					GARAK 
+			I understand.
+
+       DEEP SPACE NINE: "Empok Nor" - REV. 04/07/97 - ACT FIVE      57.
+
+108  CONTINUED:	(2) 
+
+	They look at each other for a moment, then O'Brien gets 
+	ready to leave.
+
+					O'BRIEN
+			I'll see you around.
+
+	Garak nods. And on this image, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+
+                            THE END                             
+
+

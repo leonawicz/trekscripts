@@ -1,0 +1,3674 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "One Little Ship" 
+                              
+                          #40510-537 
+                              
+                          Written by 
+                David Weddle & Bradley Thompson 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        November 6, 1997
+
+     STAR TREK: DS9 - "One Little Ship" - 11/06/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "One Little Ship" 
+                             CAST 
+
+          SISKO                    NOG
+          KIRA                     COREY
+          BASHIR                   GELNON
+          DAX                      IXTANA'RAX
+          WORF                     KUDAK'ETAN
+          O'BRIEN                  LAMAT'UKAN
+          QUARK                    
+          ODO                      
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. JEM'HADAR
+          MORN                     
+
+     STAR TREK: DS9 - "One Little Ship" - 11/06/97 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "One Little Ship" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          QUARK'S                       DEFIANT
+                                        RUNABOUT/ANOMALY
+          DEFIANT                       
+          BRIDGE                        
+          CORRIDOR                      
+          ENGINE ROOM/OPERATIONS STATION
+          MESS HALL                     
+          PLASMA DUCTS                  
+          TURBOLIFT                     
+          CIRCUITRY/OPTRONIC CIRCUIT    
+
+        RUNABOUT                      
+
+  DEEP SPACE NINE - "One Little Ship" - 11/06/97 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "One Little Ship" 
+                      PRONUNCIATION GUIDE 
+
+          ANESTHEZINE              ah-NESS-thuh-zine
+          CORIDAN                  KOR-ih-dahn
+          IXTANA'RAX               icks-TAHN-ah-rahks
+          KUDAK'ETAN               koo-DAHK-eh-tahn
+          LAMAT'UKAN               lah-MAHT-oo-kahn
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "One Little Ship"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE (OPTICAL)
+
+	The Defiant holds position, its warp engines glowing. 
+	CAMERA STARTS PULLING BACK.
+
+					SISKO (V.O.) 
+			Captain's Log, Stardate 51474.2 
+			The Defiant has been ordered to 
+			investigate a rare subspace 
+			compression phenomenon recently 
+			discovered in Federation space.
+
+	REVEAL that we're on the edge of a vast energy vortex. 
+	AS CAMERA MOVES CLOSER to the swirling light, we can 
+	see a Runabout in the foreground, about to enter the 
+	anomaly.
+
+					SISKO (V.O.) 
+			Three of my officers are taking a 
+			runabout into the anomaly's 
+			vortex.
+
+	A TRACTOR BEAM emerges from the Defiant and tethers the 
+	smaller ship with a band of energy.
+
+2    INT. DEFIANT - BRIDGE
+
+	SISKO'S in the Captain's Chair. WORF tracks the 
+	runabout from the tactical station; beside him, NOG 
+	mans the science station. KIRA stands behind them, 
+	watching with interest. N.D. Starfleet supernumeraries 
+	fill out all but the second tactical position. Kira 
+	can barely suppress a smile as she looks on.
+
+					KIRA
+			So... how small are they?
+
+					NOG
+				(all business) 
+			The miniaturization process won't 
+			begin until the runabout reaches 
+			the edge of the accretion disk.
+
+					KIRA
+			I see. And then they'll begin... 
+			shrinking?
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       2.
+
+2    CONTINUED:
+
+					NOG 
+			Yes, sir.
+
+	Sisko can see that Kira is biting her lips to keep from 
+	laughing.
+
+					SISKO
+				(mock chiding) 
+			Major Kira, are you laughing at our 
+			investigation of this subspace 
+			anomaly?
+
+					KIRA
+			No, sir!
+
+					SISKO
+			Glad to hear it.
+
+					WORF 
+			The data collected here could 
+			provide Starfleet with the key to 
+			creating transwarp corridors 
+			through space. It would give us 
+			a substantial tactical advantage 
+			over the Dominion.
+
+					KIRA
+			Very important research.
+
+	They all look at Kira as she tries to keep a straight 
+	face, but she's not too successful.
+
+					KIRA
+			What? I'm not laughing.
+				(beat) 
+			I'm not.
+				(beat) 
+			Just because we're... shrinking 
+			three people down to the size of 
+			coffee cups...
+
+					NOG
+				(serious) 
+			Smaller, actually.
+
+	Kira loses it -- she almost doubles over in laughter, 
+	much to Worf's annoyance and Nog's discomfort.
+
+					WORF 
+			I do not see what is so humorous 
+			about... being small.
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       3.
+
+2    CONTINUED:	(2)
+
+					NOG 
+			Neither do I.
+
+	Kira only laughs harder, and now Sisko is fighting his 
+	own case of the giggles.
+
+					DAX'S COM VOICE
+				(garbled)
+			Rubicon to Defiant.
+
+					SISKO
+				(regaining his 
+				composure) 
+			On screen.
+
+					NOG 
+			Their visual signal's degrading, 
+			captain. We have audio only.
+
+					SISKO
+			Go ahead, Rubicon.
+
+	As communication between Dax and the Defiant continues, 
+	Dax's signal becomes more and more DISTORTED and FILLED 
+	WITH STATIC.
+
+					DAX'S COM VOICE 
+			We're about to enter the accretion 
+			disk.
+
+					SISKO
+			I wish I could be there with you, 
+			old man.
+
+					DAX'S COM VOICE 
+			I'll send you a postcard. Tell 
+			Worf I look forward to hearing his 
+			poem...
+
+	Worf reacts, embarrassed. The others look at him in 
+	curiosity. The STATIC INCREASES, obscuring Dax's 
+	words. (The words in parentheses are too garbled to 
+	understand.)
+
+					DAX'S COM VOICE
+				(continuing)
+			I'll bet it'll be (inspiring). 
+			We'll talk to you again once we've 
+			left (the accretion disk) and 
+			reversed the (effect of 
+			compression.) Rubicon (out.)
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       4.
+
+2    CONTINUED:	(3)
+
+					SISKO 
+			Good luck, Rubicon.
+
+					NOG 
+			We've lost their signal, captain.
+
+					SISKO
+			Thank you, ensign.
+				(to Worf) 
+			Poem?
+
+					WORF 
+			It is an... ancient Klingon 
+			tradition to compose a poem to 
+			commemorate an important event. 
+			Jadzia asked me to compose one for 
+			this occasion.
+
+					SISKO
+			What have you got so far?
+
+	A beat as everyone looks at Worf, who's suddenly on the spot.
+
+					NOG
+				(off console) 
+			They've penetrated the accretion 
+			disk.
+
+	Worf quickly busies himself at the console. Kira and 
+	Sisko exchange a look.
+
+					KIRA
+				(sotto, to Sisko) 
+			Is it my imagination, or did the 
+			kid just cover for him?
+
+					SISKO 
+			This could be the beginning of a 
+			beautiful friendship.
+
+3    ANGLE ON - SCIENCE STATION MONITOR (OPTICAL)
+
+	which depicts an Okudagram of the runabout's position, 
+	just inside the anomaly. The runabout IS QUITE CLEARLY 
+	SHRINKING IN SIZE.
+
+					WORF 
+			They're getting smaller.
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       5.
+
+3    CONTINUED:
+
+					NOG 
+			Even the space within their 
+			subatomic structure is shrinking.
+
+
+					KIRA
+			I wonder what it feels like.
+
+4    INT. RUNABOUT
+
+	DAX at conn, O'BRIEN at Ops. BASHIR busies himself 
+	with the special instrument package mounted in the rear 
+	of the cockpit. INTERACTIVE LIGHT plays on them from 
+	the energy vortex.
+
+					O'BRIEN
+				(shifts uneasily) 
+			I don't feel any smaller.
+
+					BASHIR
+			Well, believe it or not, you're 
+			about a meter tall and shrinking 
+			fast. In a few minutes, you'll be 
+			half the size of a combadge.
+
+					O'BRIEN
+			There's a comforting thought.
+
+					BASHIR
+				(off console) 
+			The gamma ray flux is increasing. 
+			We should close the blast 
+			shutters.
+
+	Dax works her panel.
+
+					DAX 
+			Take a last look. We're on 
+			sensors from here on.
+
+	As the blast shutters close over the windows, the 
+	INTERACTIVE LIGHT FADES AWAY.
+
+					O'BRIEN 
+			Now you're certain we'll return to 
+			normal size when we leave the 
+			anomaly?
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       6.
+
+4    CONTINUED:
+
+
+					DAX
+			Our probes did. You saw the data.
+				(looks at O'Brien) 
+			Something wrong?
+
+					O'BRIEN 
+			I'm fine.
+				(beat) 
+			I'm just not in love with the idea 
+			of... being small.
+
+	Dax and Bashir exchange a grin.
+
+					O'BRIEN
+				(to Bashir) 
+			What are you smirking at? You're 
+			as small as I am.
+
+					BASHIR 
+			Actually, you're sitting one-point-
+			one-four meters closer to the 
+			focal point of the anomaly. That 
+			means you've shrunk point zero 
+			four percent more than I have.
+
+	A SUDDEN MASSIVE JOLT shakes the runabout. Dax 
+	compensates quickly and the ship regains an even keel.
+
+					DAX 
+			What was that?
+
+					O'BRIEN
+				(checking his panel) 
+			The tractor beam is fluctuating. 
+			Something's wrong.
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       7.
+
+5    INT. DEFIANT - BRIDGE
+
+	The compartment is already reeling from one devastating 
+	hit as ANOTHER EXPLOSION rocks it. An N.D. tumbles 
+	from the engineering console. The LIGHTS are at RED 
+	ALERT.
+
+					WORF
+				(urgent) 
+			The Jem'Hadar is coming around for 
+			another pass.
+
+	Kira takes her place at the second tactical post.
+
+					SISKO 
+			Return fire, Mister Worf. Nog, 
+			pull the Rubicon out of there.
+
+					KIRA
+			The radiation from the vortex must 
+			have masked their warp signature.
+
+	ANOTHER SOLID HIT shakes the Bridge.
+
+					WORF 
+			Phasers are off-line.
+
+	ANOTHER HIT.
+
+					KIRA
+				(to Sisko) 
+			We're a sitting duck as long as 
+			we're tethered to the runabout.
+
+					SISKO
+			I'm not going to leave them in 
+			there if I can help it. Worf, get 
+			down to auxiliary control and 
+			target the phasers manually.
+
+
+	Worf dashes off.
+
+					NOG
+				(struggling with his 
+				panel) 
+			I'm losing the Rubicon, sir!
+
+6    EXT. SPACE - INSIDE THE ANOMALY (OPTICAL)
+
+	The tractor beam stabilizing the Rubicon FRITZES, THEN 
+	COLLAPSES. The Runabout tumbles toward the center of 
+	the swirling vortex, getting smaller.
+
+       DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - TEASER       8.
+
+7    INT. RUNABOUT
+
+	The compartment BOUNCES CRAZILY, KILLING THE LIGHTS, 
+	FRYING SEVERAL PANELS, and knocking Bashir off his 
+	feet. EMERGENCY LIGHTING comes on.
+
+					DAX 
+			If we're going to get out of here, 
+			I need warp power now!
+
+					O'BRIEN 
+				(working) 
+			I'm on it!
+
+8    INT. DEFIANT - BRIDGE (OPTICAL)
+
+	The helm console EXPLODES, killing the N.D. Helmsman. 
+	Kira rushes to the console and examines what's left of 
+	the readouts.
+
+					KIRA 
+			Shield generators and impulse 
+			engines are off-line, Captain. 
+				(another check) 
+			Warp engines, too.
+
+	ANOTHER VICIOUS HIT knocks Kira off her feet. 
+	BILLOWING GAS spurts onto Nog from a damaged panel. He 
+	stands and struggles to seal the leak. Sisko, the only 
+	other person still functional, leaves his seat and 
+	bends to check Kira's head wound. Suddenly, SECOND 
+	IXTANA'RAX and two other heavily armed N.D. Jem'Hadar 
+	MATERIALIZE. They spread out. Sisko turns, too late 
+	to draw his phaser, as a second group of three N.D. 
+	Jem'Hadar MATERIALIZE. Ixtana'Rax steps forward, his 
+	disruptor pointed at Sisko, itching for a reason to use 
+	it.
+
+					IXTANA'RAX 
+			Surrender or you will all be 
+			killed.
+
+	Off Sisko, who's beginning to have a really bad day.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE       9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scene
+
+9    INT. RUNABOUT
+
+	The compartment is shrouded in shadow and smoke, 
+	illuminated by EMERGENCY LIGHTS only. Blackened panels 
+	SPARK intermittently. Someone COUGHS. Dax climbs back 
+	into the pilot's chair, bleeding from her cheek. She 
+	struggles to reorient herself.
+
+					DAX
+			Chief?
+
+	O'Brien's bruised face rises from the dark floor. He 
+	coughs again.
+
+					DAX
+			You okay?
+
+	O'Brien eases himself into the seat beside her and 
+	begins working the controls and checking displays.
+
+					O'BRIEN
+			I think so.
+
+	A disheveled Bashir reaches them, medkit in hand.
+
+					DAX
+			Julian?
+
+					BASHIR 
+				(nodding)
+			I'm fine. You're not.
+
+	Bashir begins checking Dax with his tricorder. O'Brien 
+	tweaks a control, then bangs lightly on the edge of the 
+	panel. THE CABIN LIGHTS COME ON.
+
+					DAX
+			That's better.
+
+					O'BRIEN
+			That was the easy part.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      10.
+
+9    CONTINUED:
+
+					DAX 
+			The good news is we're still 
+			alive, so we must have escaped the 
+			anomaly.
+
+	O'Brien climbs out of his seat and unlimbers a tool 
+	kit. As he does, Bashir slips into the seat O'Brien 
+	just vacated and begins closing Dax's injury with a 
+	dermal regenerator.
+
+					O'BRIEN 
+			The bad news is that external 
+			sensors and the com system are 
+			down. I can patch around some of 
+			the damage, but it'll take time.
+
+	O'Brien removes a scorched panel and begins to work. 
+	Dax tries another command on her console, then sighs.
+
+					DAX 
+			Add the blast shutters to your 
+			list. I can't get them open.
+
+	Bashir finishes closing her wound.
+
+					BASHIR
+			There you go. Good as new.
+
+					DAX
+				(re: the regenerator) 
+			I don't suppose that thing'll work 
+			on our communications system.
+
+					O'BRIEN 
+			I'm picking up the Defiant's 
+			transponder signal. We can home 
+			in on it.
+
+					DAX
+				(works the panel) 
+			Going to one-quarter impulse. 
+			Chief, either open these shutters 
+			or give me external sensors -- 
+			whichever's quicker. I need to 
+			see where we're going.
+
+10   INT. DEFIANT - BRIDGE (OPTICAL) 
+
+	FIVE N.D. JEM'HADAR are attempting to repair the 
+	severely damaged stations. All of them stand, ignoring 
+	the chairs. Jem'Hadar THIRD LAMAT'UKAN labors over the 
+	science station; Ixtana'Rax mans the helm.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      11.
+
+10   CONTINUED: 
+
+	His formidable bearing indicates a deep-seated 
+	weariness. On the viewscreen, the Dominion attack ship 
+	is visible, just off of the Defiant's starboard bow. 
+	The Bridge door opens and Jem'Hadar FIRST KUDAK'ETAN 
+	strides in. He's an imposing figure, with vigor to his 
+	stride and an utter certainty that every step he takes 
+	is the right one. At his appearance Ixtana'Rax and the 
+	others snap to attention.
+
+					IXTANA'RAX 
+			The bridge is secure.
+
+	Kudak'Etan comes to a stop beside the Captain's Chair. 
+	He pauses to regard it as if it is an alien object, 
+	which it is. He reaches out and gives it a push, 
+	watching with fascination as it slowly swivels.
+
+					KUDAK'ETAN 
+			Tactical report.
+
+					IXTANA'RAX 
+			Their bridge officers are confined 
+			in the mess hall; other survivors 
+			in the cargo bay. We will have 
+			impulse power back on line in 
+			thirty minutes, but it will take 
+			several hours to restore warp 
+			capability.
+
+					KUDAK'ETAN 
+			It must be gratifying for an 
+			"Elder," to end his career with a 
+			victory.
+				(sarcastic) 
+			I feel privileged to be here with 
+			you at such a moment.
+
+	Ixtana'Rax regards Kudak'Etan with distaste. He's 
+	earned his title, but hearing it from this man grates 
+	on him.
+
+					IXTANA'RAX 
+			There is still much to do before 
+			we declare victory. Until we 
+			leave Federation space, we are 
+			vulnerable to --
+
+					KUDAK'ETAN
+				(hard)
+			I am the First. And I have 
+			declared victory.
+
+	The First tries to stare down his Second and firmly 
+	establish his dominance here.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      12.
+
+10   CONTINUED:	(2)
+
+	But Ixtana'Rax doesn't play that kind of game and he 
+	shrugs off Kudak'Etan easily.
+
+					IXTANA'RAX 
+			That is, of course, your 
+			prerogative.
+
+					KUDAK'ETAN
+				(to the Third) 
+			Open a channel to the Vorta.
+
+	Third Lamat'Ukan works a control panel and then the
+	image of a Vorta -- GELNON -- appears on the 
+	viewscreen, looking off camera.
+
+					JEM'HADAR VOICE (O.S.) 
+			We have the boarding party.
+
+	Gelnon picks up his virtual reality headset, places it 
+	on his head and switches it on. He does not yet turn 
+	toward the camera on the Jem'Hadar bridge. The image 
+	from the Defiant's Bridge is projected from the VR 
+	device into his eye, so he does not need to face us to 
+	address his men.
+
+					GELNON 
+			Ah, First. Your report?
+
+					KUDAK'ETAN 
+			The Defiant is ours.
+
+					GELNON
+				(smiles) 
+			Good. Very, very good. I must 
+			admit, I was initially quite 
+			skeptical about you and the other 
+			new Jem'Hadar bred in this 
+			quadrant. But this is a most 
+			impressive debut.
+				(he turns toward camera) 
+			Wouldn't you agree, Elder?
+
+					IXTANA'RAX
+				(even) 
+			The takeover of the ship was 
+			competently executed.
+
+					GELNON
+				(enjoying it) 
+			Do I detect a note of jealousy in 
+			your voice? I'm sure it must be 
+			difficult for you to watch a new 
+			race of Jem'Hadar beginning to 
+			supplant you and the other members 
+			of the old guard.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE     12A.
+
+10   CONTINUED:	(3)
+
+					IXTANA'RAX 
+			I serve the Founders. If it is 
+			their will to create a new race, 
+			that is the order of things.
+
+					GELNON
+			But... ?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      13.
+
+10   CONTINUED:	(4)
+
+					IXTANA'RAX 
+			But the Jem'Hadar bred here in the 
+			Alpha Quadrant have not proven 
+			themselves superior to those from 
+			the Gamma Quadrant. At least... 
+			not yet.
+
+					KUDAK'ETAN
+				(angry) 
+			Not yet? It was the Alphas who 
+			made this victory possible. If 
+			not for us, you would've never --
+
+					GELNON 
+			You two can argue about this on 
+			your own time.
+				(to the First) 
+			First, how long until you restore 
+			warp power?
+
+
+					KUDAK'ETAN 
+			I am about to assess the damage. 
+			I will make a complete survey of 
+			the ship and give you a report in 
+			one hour.
+
+					GELNON 
+			Very well. I await your report.
+
+	The communication terminates and the Viewscreen returns 
+	to the image of the Dominion ship. Kudak'Etan turns to 
+	his Second.
+
+					KUDAK'ETAN 
+			Bring me Captain Sisko.
+
+	Ixtana'Rax doesn't want to be needlessly 
+	confrontational, but is hoping to steer this kid in the 
+	right direction.
+
+					IXTANA'RAX 
+			I would suggest to you that his 
+			execution can wait until we have 
+			completed repairs to the ship.
+
+					KUDAK'ETAN 
+			I'm not going to execute him.
+
+	Ixtana'Rax looks at him in surprise.
+
+					KUDAK'ETAN 
+			Are you about to question my 
+			orders... Second?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      14.
+
+10   CONTINUED:	(5)
+
+	There's only the slightest hesitation before he gives 
+	the professional answer.
+
+					IXTANA'RAX
+			No. Obedience brings Victory.
+
+					KUDKA'ETAN 
+			And Victory is Life.
+
+	Ixtana'Rax nods and EXITS. Kudak'Etan turns to his 
+	Third.
+
+					KUDAK'ETAN 
+			Find the ship's transponder and 
+			shut it down -- I don't want 
+			anyone tracking us. And get these 
+			chairs off the bridge.
+
+11   INT. DEFIANT - MESS HALL
+
+	Worf paces the room like a caged tiger. Sisko leans 
+	against one wall, lost in thought. All of our crew 
+	have been stripped of their combadges. They're 
+	frustrated and edgy. Kira sits at one of the mess 
+	tables, allowing Nog to clean her injury with a napkin. 
+	He hits a sensitive spot. She winces and pushes his 
+	arm away more brusquely than she intended.
+
+					KIRA
+			That's enough. Thanks.
+
+					WORF
+				(still pacing) 
+			I should've foreseen this. I 
+			should have sent out 
+			reconnaissance probes to scan for 
+			enemy ships. Or a shuttle. Or 
+			re-calibrated our sensors. If 
+			I had, Jadzia would...
+
+	Worf falls silent, raises his fist as if to slam it 
+	into a bulkhead, then lowers his clenched fingers to 
+	his side.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      15.
+
+11   CONTINUED:
+
+					NOG 
+			None of that would've done any 
+			good. The Jem'Hadar approached us 
+			from the anterior angle of the 
+			anamoly; their warp signatures 
+			were--
+
+	Worf whirls on Nog, who immediately clams up rather 
+	than face the Klingon's wrath.
+
+					KIRA 
+				(to Worf) 
+			He's only trying to tell you it's 
+			not your fault.
+
+					WORF
+			I do not need him to tell me 
+			anything.
+
+					SISKO
+			Everybody, relax. First of all, 
+			we don't know what happened to the 
+			Rubicon. They might've gotten out 
+			of the anomaly on their own. If 
+			they did, they could be halfway 
+			home and in a lot better shape 
+			than we are. So let's just hold 
+			off analyzing our mistakes for 
+			now.
+
+					KIRA
+			If they restore warp power, we'll 
+			be analyzing them in a Dominion 
+			prison camp.
+
+	Her words spark the germ of an idea in Sisko's mind.
+
+					SISKO 
+			Restoring warp power may not be so 
+			simple for them. It took us a 
+			week just to learn how to pilot 
+			one of their ships. So we might 
+			still have a chance to retake the 
+			Defiant. But we can't do anything 
+			unless we get out of this room. 
+				(looks at them) 
+			Suggestions?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      16.
+
+11   CONTINUED:	(2) 
+
+	The door opens, drawing everyone's attention as an N.D. 
+	Jem'Hadar ENTERS, weapon leveled. Sisko steps toward 
+	the door, putting himself in front of his troops. 
+	Second Ixtana'Rax ENTERS.
+
+					IXTANA'RAX
+			Captain Sisko. Come with me.
+
+	Beat.
+
+					SISKO 
+			Just sit tight, everyone. I'll be 
+			back.
+
+	Sisko gives an encouraging glance to his people, then 
+	heads for the door.
+
+12   INT. RUNABOUT
+
+	Dax carefully pilots the craft with Bashir now at ops. 
+	O'Brien has his hands full of circuitry at an open 
+	panel. His wounds have been tended.
+
+					BASHIR 
+			We've lost the Defiant's 
+			transponder signal.
+
+					DAX
+				(working controls) 
+			Coming to full stop.
+
+	O'Brien shifts, checks something.
+
+					O'BRIEN 
+			The problem's not on our end. 
+			They must have stopped 
+			transmitting.
+
+	He returns to his repairs.
+
+					DAX 
+			I can't keep flying blind, Chief.
+
+					O'BRIEN
+				(finishes his repairs) 
+			Try the shutters.
+
+	She does. A satisfying SERVO HUM greets her.
+
+					DAX
+			Nice work.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      17.
+
+12   CONTINUED:
+
+					O'BRIEN
+			Ask and ye shall receive.
+
+13   THROUGH THE RUNABOUT WINDSHIELD (OPTICAL)
+
+	As the shutters slowly open to reveal a huge white 
+	gleaming wall of metal about ten feet in front of the 
+	runabout's nose, extending beyond their view in all 
+	directions.
+
+14   DAX, BASHIR AND O'BRIEN (OPTICAL)
+
+	stare out the windshield, dumbfounded.
+
+					O'BRIEN
+			What the hell is that?
+
+					DAX
+			Some kind of wall.
+
+					O'BRIEN
+			In the middle of nowhere?
+
+					BASHIR
+				(peering up and to the 
+				right).
+			Wait a minute. There's a symbol
+			up there.
+
+	Bashir stands, presses close to the glass and cranes 
+	his neck. Through the windshield beyond him, a line of 
+	black paint arcs away.
+
+					BASHIR
+			It looks like... a large black
+			circle.
+
+					DAX
+			Anything else?
+
+					BASHIR
+			Hold on.
+
+	Bashir peers out the window, recognition dawning.
+
+					BASHIR
+			Chief, you're not going to like
+			this...
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT ONE      18.
+
+15   EXT. SPACE (OPTICAL)
+
+	From behind the port rear quarter of the Rubicon, 
+	looking at the great white wall. CAMERA PULLS AND 
+	TRACKS TO REVEAL that the huge black circle painted on 
+	the wall is actually a period -- part of the giant 
+	black letters that spell out "U.S.S. DEFIANT." The 
+	wall is actually the port warp nacelle cover of the 
+	Defiant itself. Its size dwarfs the Runabout. 
+	CONTINUE PULLING BACK to show the tiny Runabout's scale 
+	against the looming immensity of the damaged warship.
+
+									FADE OUT.
+
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      19.
+                            ACT TWO                             
+
+	FADE IN:
+
+16   EXT. SPACE (OPTICAL)
+
+	The shrunken Runabout hangs in space next to the big 
+	period after "U.S.S." on the Defiant's nacelle cover.
+
+17   INT. RUNABOUT
+
+	Dax, Bashir, and O'Brien still gaze out the window
+	toward the massive Defiant.
+
+					O'BRIEN
+				(glares at Bashir) 
+			I thought you said we'd return to 
+			our normal size when we left the 
+			anomaly.
+
+					BASHIR
+			We should have.
+
+					DAX
+				(realizing) 
+			We didn't leave the anomaly by the 
+			same path that we entered it...
+
+					BASHIR
+			... so the process failed to 
+			reverse itself.
+
+					O'BRIEN
+			Are you telling me that I'm going 
+			to be...
+
+	O'Brien holds his hand up, thumb and index finger 
+	separated by an inch.
+
+					O'BRIEN
+				(continuing)
+			... this bloody tall for the rest 
+			of my life?
+
+	Bashir brings his own hand up next to O'Brien's, the
+	thumb and forefinger separated by only four tenths of 
+	an inch.
+
+					BASHIR 
+			This bloody tall, actually.
+				(a beat)
+			Don't worry. All we have to do to 
+			regain our normal size is re-enter 
+			the anomaly and follow our 
+			original trajectory back out.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      20.
+
+17   CONTINUED:
+
+	This isn't sounding very reassuring to O'Brien. He 
+	fidgets irritably.
+
+					O'BRIEN 
+			In theory.
+
+					BASHIR
+				(concedes) 
+			In theory.
+
+					DAX 
+			Tell you what isn't a theory -- 
+			we're going to need the Defiant's 
+			help to re-enter the anomaly.
+
+					BASHIR
+			With communications out, how do we 
+			get their attention?
+
+					DAX
+				(joking) 
+			We could fly up to a window and 
+			knock.
+
+	O'Brien thinks for a moment... then seems to get an 
+	idea.
+
+					O'BRIEN
+				(indicates size)
+			Well, if we're this big...
+
+	He then holds up both hands to indicate a diameter of 
+	two and a half inches.
+
+					O'BRIEN
+				(continuing)
+			... that means the Rubicon is about 
+			this big.
+
+					BASHIR
+			More or less.
+
+					O'BRIEN
+			Well, the Defiant's aft plasma 
+			vent is...
+
+	O'Brien increases the diameter of his hands to eight 
+	inches.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      21.
+
+17   CONTINUED:	(2)
+
+					O'BRIEN 
+				(continuing)
+			... this big.
+
+					DAX 
+			Are you suggesting we take the 
+			Runabout inside the Defiant?
+
+					O'BRIEN
+			Why not? Getting past the anti-
+			backflow valve may be a bit 
+			tricky. But we'll have a better 
+			chance of getting someone's 
+			attention inside than we will 
+			sitting out here.
+
+					DAX 
+				(smiles) 
+			I love it. Let's go.
+
+18   INT. DEFIANT - BRIDGE 
+
+	All of the chairs have been removed. Kudak'Etan stands 
+	at the helm, evaluating the repairs. The starboard 
+	door opens and Sisko ENTERS, escorted by Ixtana'Rax. 
+	Kudak'Etan has his back to them. Third Lamat'Ukan 
+	turns from the engineering console.
+
+					LAMAT'UKAN 
+			The engineering team reports that 
+			we can restart the impulse engines 
+			in twelve minutes.
+
+					KUDAK'ETAN 
+			Good.
+
+	Ixtana'Rax nudges Sisko forward with the point of his 
+	disruptor. They come to a halt just behind Kudak'Etan. 
+	The First continues to work his console for a moment, 
+	then turns to face the captain.
+
+					KUDAK'ETAN 
+			Captain Benjamin Sisko. The one 
+			the Bajorans call the Emissary.
+
+	Kudak'Etan steps closer, appraising the captain. 
+	Ixtana'Rax watches the exchange with keen interest and 
+	Kudak'Etan knows it.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      22.
+
+18   CONTINUED:
+
+					KUDAK'ETAN 
+			I am First Kudak'Etan. In a 
+			strange way, you are the reason I 
+			exist. If you had not eliminated 
+			our fleet in the wormhole, there 
+			would have been no need to breed 
+			Alpha Quadrant Jem'Hadar.
+
+					SISKO 
+			You didn't bring me here to say 
+			"thank you."
+
+					KUDAK'ETAN 
+			No. The impulse engines sustained 
+			only minor damage in our attack, 
+			but the warp drive has been 
+			severely damaged. I need your 
+			technical expertise in order to 
+			repair it.
+				(to Ixtana'Rax) 
+			Take the captain to the Engine 
+			Room and let him begin the 
+			necessary repairs.
+
+					IXTANA'RAX 
+			That's a mistake. Giving him 
+			access to the Engine Room will 
+			only give him an opportunity to 
+			retake the ship.
+				(looks at Sisko) 
+			In fact, he's working on a plan at 
+			this very moment.
+
+					KUDAK'ETAN
+				(sarcastic) 
+			I was not aware that telepathy was 
+			a Gamma characteristic.
+
+					IXTANA'RAX 
+			I know what he's thinking because 
+			it's exactly what I would be doing 
+			in his position. You should kill 
+			him now, before he has a chance to 
+			put his plan into motion.
+
+					KUDAK'ETAN 
+				(hard) 
+			You are the Second. I am the 
+			First. Do not presume to tell me 
+			what to do.
+
+	Ixtana'Rax shuts up, but he clearly hasn't given up his 
+	position.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      23.
+
+18   CONTINUED:	(2)
+
+					SISKO 
+			I'm glad that you two have sorted 
+			that out. Now, what makes you 
+			think I'm going to help you?
+
+					KUDAK'ETAN 
+			Your choice is to repair the warp 
+			drive or watch me execute your 
+			crew one at a time.
+
+	Sisko sizes up the First for a moment -- this kid seems 
+	a little too sure of himself. Kudak'Etan waits for a 
+	response, then decides to increase the pressure.
+
+					KUDAK'ETAN
+				(harsh, to Third) 
+			Have Sixth Duran'Adar select one 
+			of the prisoners for execution and 
+			bring him to the bridge!
+
+					SISKO
+				(quickly) 
+			I can't do this job alone. I'm 
+			going to need some of my crew.
+
+					KUDAK'ETAN 
+			How many?
+
+					IXTANA'RAX
+				(quickly) 
+			First. I... "strongly suggest" 
+			that you refuse this request.
+
+					SISKO
+				(to Second) 
+			You have the weapons. Are you 
+			afraid you can't handle a few 
+			unarmed prisoners?
+
+					IXTANA'RAX
+			I won't be baited by a prisoner.
+				(to First) 
+			And you shouldn't either.
+
+					SISKO
+				(shrugs) 
+			Okay. I'm in no hurry to reach a 
+			Dominion prison camp. You want me 
+			to teach your men how to repair 
+			the warp drive, that's fine with 
+			me. We'll begin with the primary 
+			command and control systems -- 
+			that should take about six hours. 
+			Then we'll work our way up to 
+			basic engineering theory for a 
+			class seven warp drive, then --
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      24.
+
+18   CONTINUED:	(3)
+
+					KUDAK'ETAN 
+			Enough. You may have the three 
+			other Bridge officers, but that's 
+			all.
+				(to Ixtana'Rax) 
+			And I am not interested in any 
+			more of your "suggestions." Now 
+			take him to the Engine Room.
+
+	Ixtana'Rax looks at him for a moment, shakes his head 
+	slightly, then pushes Sisko out the starboard door. 
+	Kudak'Etan turns back to the helm.
+
+19   INT. DEFIANT - PLASMA DUCTS (OPTICAL) 
+
+	The four-inch-long Rubicon negotiates its way through 
+	a long, gracefully curved cylindrical corridor about 
+	eight inches in diameter. Magnetic coils encircle the 
+	shaft every few meters, glowing dully against its metal-
+	composite surface. Occasional clear inspection ports 
+	open into dark chambers beyond.
+
+20   INT. RUNABOUT
+
+	O'Brien's back in the Ops seat next to Dax. Bashir 
+	stands behind them, observing through the windows.
+
+					DAX
+			So where are we, Chief?
+
+	The Chief points to...
+
+21   A MONITOR 
+
+	on it is an Okudagram depicting a section of the 
+	system. The Chief points to one of a cluster of pipes.
+
+					O'BRIEN
+			We've just about reached the bi-
+			polar flow junction.
+				(beat) 
+			I think.
+
+					BASHIR 
+			You think?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      25.
+
+21   CONTINUED:
+
+					O'BRIEN 
+			I'm not used to seeing things from 
+			this... perspective.
+
+	O'Brien studies the Okudagram for a moment.
+
+					O'BRIEN 
+			Once we reach the flow junction we 
+			should be able to go up into the 
+			secondary warp plasma feed and 
+			then exit through the diagnostic 
+			panel.
+
+					BASHIR
+				(looking outside) 
+			This conduit is filthy, Chief. 
+			Don't you ever clean in here?
+
+					DAX 
+			All right, all right. Let's not 
+			badger the chief.
+
+					O'BRIEN 
+			Thank you.
+
+					BASHIR 
+			Sorry. It was very... small of 
+			me.
+
+	O'Brien and Dax throw him a look...
+
+22   INT. DEFIANT - CORRIDOR
+
+	Ixtana'Rax escorts Sisko to the turbolift and presses 
+	the control panel. The door opens and he nudges Sisko 
+	inside.
+
+23   INT. DEFIANT - TURBOLIFT
+
+	The doors close. Instead of giving the lift a command, 
+	Ixtana'Rax turns, grabs Sisko by the jacket front and 
+	slams him up against the wall.
+
+					IXTANA'RAX 
+			Whatever it is you're planning -- 
+			don't. I'll be watching you and 
+			at the first sign of treachery 
+			I'll kill all three of your bridge 
+			officers.
+
+					SISKO 
+			I'm a prisoner. I have no 
+			intention of --
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      26.
+
+23   CONTINUED:
+
+					IXTANA'RAX 
+			The First may be a fool, but I am 
+			not.
+
+					SISKO
+			Then it's a pity for you that 
+			you're not the First.
+
+	Ixtana'Rax gives him an ironic smile and then releases 
+	Sisko.
+
+					IXTANA'RAX 
+			I was... until two days ago. If 
+			we had captured you while I was in 
+			command... we wouldn't be having 
+			this conversation.
+				(beat, then to com) 
+			Deck two, section five.
+
+	The Turbolift begins to move. Sisko straightens his 
+	uniform.
+
+					SISKO 
+			So what happened?
+
+					IXTANA'RAX 
+			He is an Alpha, I am a Gamma. His 
+			DNA and psychological profile are 
+			specifically designed for combat 
+			in this quadrant. The Founders 
+			believe that makes him a better 
+			leader.
+
+					SISKO 
+			What do you believe?
+
+					IXTANA'RAX
+				(ironic) 
+			I believe I've given you enough 
+			information already.
+
+	The Turbolift stops and the doors open. Ixtana'Rax 
+	indicates that Sisko should exit first. After a beat, 
+	Sisko heads out, Ixtana'Rax right behind him.
+
+									CUT TO:
+
+24   EXT. SPACE - THE DEFIANT (OPTICAL)
+
+	The ship hangs in space.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      27.
+
+25   INT. DEFIANT - BRIDGE (OPTICAL) 
+
+	Gelnon's image is back on the viewscreen. He wears his 
+	VR device. This time he faces his Bridge camera and 
+	his eyeline tracks Kudak'Etan on his VR device. N.D. 
+	Jem'Hadar continue to work at various damaged stations, 
+	and stand ready for orders at helm and engineering. 
+	Kudak'Etan faces the viewscreen from the Captain's 
+	Station.
+
+					KUDAK'ETAN 
+			We have restored impulse power, 
+			and the warp drive will be 
+			operational in five hours.
+
+					GELNON 
+			Excellent. It's good to see my 
+			faith in you has not been 
+			misplaced. The Founders will be 
+			pleased.
+
+	Kudak'Etan bows his head slightly in acknowledgment of 
+	the Vorta's praise, feeling that it's richly deserved.
+
+					GELNON
+				(continuing) 
+			If you require no more assistance, 
+			I will resume our mission to 
+			Coridan.
+				(sallow smile) 
+			Let's hope the Federation's 
+			dilithium miners will be as 
+			surprised to see us as the 
+			Defiant's crew was.
+
+					KUDAK'ETAN 
+			Victory is Life.
+
+					GELNON 
+			Indeed.
+
+	The communication terminates, restoring the viewscreen 
+	to an image of the Dominion ship. First Kudak'Etan 
+	watches with satisfaction as the Dominion attack ship 
+	fires up its drive and moves away. The First turns to 
+	his crew.
+
+					KUDAK'ETAN 
+			Set course for the closest 
+			Dominion outpost. Engage impulse 
+			engines.
+
+	The helmsman and engineer work their panels.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO     27A.
+
+25A  INT. DEFIANT - ENGINE ROOM 
+
+	Worf and Nog are clearing a jumble of scorched wreckage 
+	from the floor in front of a wall panel in the 
+	starboard alcove. Nog tries to pick up a large, burnt-
+	out part.
+
+					NOG
+				(to Worf) 
+			Can you give me a hand with this?
+
+	Worf moves to help him as a Jem'Hadar walks by.
+
+					NOG
+				(sotto) 
+			How do you tell the Alphas from 
+			the Gammas?
+
+					WORF 
+			The captain said their upgrades 
+			were internal.
+				(beat) 
+			When I get a chance, I'll kill a 
+			pair of them and look inside.
+
+					NOG
+				(fretful) 
+			If they're breeding Jem'Hadar in 
+			this quadrant, the Dominion won't 
+			have to worry about bringing any 
+			reinforcements through the 
+			wormhole.
+
+					WORF 
+			True.
+
+					NOG 
+			Then that means the Jem'Hadar will 
+			outnumber us before too long.
+
+					WORF
+			They probably do already.
+
+					NOG 
+			Great.
+
+	Worf notes the Ferengi's anxiety and attempts, in his 
+	own way, to reassure him.
+
+					WORF 
+			Don't let it concern you. It will 
+			only be a problem for you if you 
+			survive this mission.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO     27B.
+
+25A  CONTINUED:
+
+					NOG
+				(swallows hard) 
+			I'm glad you're not morale 
+			officer.
+
+26   INT. DEFIANT - PLASMA DUCTS (OPTICAL) 
+
+	As the Rubicon navigates the tunnel, the magnetic coils 
+	encircling the chamber start PULSING, GLOWING MUCH 
+	BRIGHTER. A DISTANT RUMBLING begins to sound.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT TWO      28.
+
+27   INT. RUNABOUT
+
+	O'Brien reacts in concern.
+
+					O'BRIEN 
+			Uh, oh.
+
+					DAX
+			What is it?
+
+	O'Brien anxiously begins scanning the Okudagram of the 
+	plasma system.
+
+					O'BRIEN 
+			The magnetic plasma guides are 
+			heating up.
+
+					DAX
+				(worried) 
+			They must've initiated the impulse 
+			prestart sequence.
+
+					BASHIR
+			What does that mean?
+
+					DAX 
+			It means this entire conduit is 
+			about to be filled with 
+			superheated plasma.
+
+					BASHIR
+			When you say superheated...
+
+					O'BRIEN 
+			Unless I can find another way out 
+			of here, we'll be vaporized. Is 
+			that clear enough?
+
+					BASHIR 
+			Crystal.
+
+	The RUMBLE begins to permeate the Runabout. O'Brien 
+	continues to work at top speed.
+
+28   INT. DEFIANT - PLASMA DUCTS (OPTICAL)
+
+	More and more coils are warming up all around the 
+	Runabout as it zips through the cramped conduit...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/.9/98 - ACT THREE    29.
+                           ACT THREE                            
+
+	FADE IN:
+
+29   INT. RUBICON (OPTICAL) 
+
+	The little ship hurtles past the pulsing, glowing guide 
+	coils which we can see through the windows. Dax is 
+	piloting and O'Brien is looking quickly between the 
+	view out the windows and the Okudagram on the monitor, 
+	trying to recognize landmarks and navigate.
+
+					O'BRIEN
+				(to Dax) 
+			There's a distribution manifold 
+			coming up... take the left 
+			conduit, then make a quick right 
+			into the relays.
+
+					DAX
+				(piloting) 
+			Left, then right.
+
+					BASHIR
+			I hope you know where you're 
+			going, Chief.
+
+					O'BRIEN
+			So do I.
+
+	O'Brien keeps cross-checking what he can see outside 
+	against the Okudagram.
+
+					O'BRIEN 
+			Through the relays... there's an 
+			inspection hatch coming up on the 
+			right. Now if I can figure out a 
+			way to open the hatch...
+
+	An alarm goes off on Dax's panel.
+
+					DAX
+			We're out of time.
+
+30   INT. DEFIANT - PLASMA DUCTS (OPTICAL)
+
+	The Runabout races toward us, with PLASMA ROARING up 
+	behind it.
+
+31   INT. RUNABOUT
+
+	As before.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     30.
+
+31   CONTINUED:
+
+					BASHIR 
+			What about the hatch?
+
+					DAX 
+			We'll have to open it the old-
+			fashioned way...
+
+	As she works her panel...
+
+32   INT. DEFIANT - PLASMA DUCTS - THE RUNABOUT (OPTICAL) 
+
+	the Runabout races around a bend, the plasma nearly 
+	upon it... the hatch is up ahead... the Runabout 
+	BASHES INTO the hatch...
+
+33
+thru   OMITTED
+34
+
+35   INT. DEFIANT - ENGINE ROOM (OPTICAL)
+
+	The twin doors of the plasma inspection hatch OPEN and 
+	the Runabout EMERGES into the room. The doors swing 
+	SHUT behind the runabout, cutting off a thin tendril of 
+	PLASMA, which dissipates in the room.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     31.
+
+ 36   INT. RUNABOUT
+
+	As before. They breathe a collective sigh of relief.
+
+					BASHIR
+			Let's... not do that again.
+
+					DAX 
+			No promises. 
+				(beat) 
+			So where are we, Chief?
+
+					O'BRIEN
+			We should be in the Engine Room... 
+			near the warp core.
+
+	They peer outside...
+
+					DAX 
+			Right. There's the core. Looks 
+			like the warp drive is off-line.
+
+					BASHIR 
+			Quite a mess. I wonder what 
+			happened?
+
+36A  INT. ENGINE ROOM - THE RUNABOUT (OPTICAL)
+
+	The Runabout is near the towering warp core which 
+	conceals the entire starboard side of the room from 
+	view. The Engine Room is DIMLY LIT and littered with 
+	burnt parts and disassembled panels.
+
+37   OMITTED 
+
+38   INT. DEFIANT - ENGINE ROOM - WIDE 
+
+	The dim glow of the damaged warp core is one of the few 
+	sources of light remaining in the battle-scarred room. 
+	Various panels have been removed and lean against the 
+	bulkheads in the b.g. The room is filled with the 
+	SOUND of repair work (which presumably covered the 
+	noise of the runabout's entrance into the room). At 
+	the moment, NONE of the following people can be seen 
+	from the Runabout's position:
+
+	-- Kira is on her knees behind the warp core adjustment 
+	console on the starboard side of the room, working 
+	inside an open panel with a tool.
+
+	-- Nog is also working at an open panel on the 
+	starboard side of the warp core, elbows deep in optical 
+	cabling and damaged circuitry.
+
+	-- Worf is working beneath the master systems display 
+	console at the front of the room.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     32.
+
+38   CONTINUED:
+
+	-- Sisko has a tricorder out and is scanning the 
+	interior of the operations station, which has several 
+	panels open.
+
+	-- Ixtana'Rax is pacing the room, watching our people 
+	carefully and monitoring their work.
+
+	-- An N.D. Jem'Hadar is watching everything from the 
+	catwalk above. THREE other N.D. Jem'Hadar are present: 
+	a "Fifth" is working on an open panel on the port side 
+	of the warp core, one is standing near the door, and a 
+	"Seventh" is following along with Ixtana'Rax.
+
+39   ON KIRA
+
+	As she works to repair the damaged circuitry. Two sets 
+	of Jem'Hadar BOOTS appear in front of her. She looks 
+	up to see Second Ixtana'Rax and an unarmed N.D. 
+	Jem'Hadar Seventh.
+
+
+					IXTANA'RAX 
+			What are you doing?
+
+					KIRA
+			Re-aligning the dilithium 
+			articulation frame.
+
+					IXTANA'RAX
+				(indicates the Seventh) 
+			Instruct him on how to complete 
+			the re-alignment.
+
+					KIRA
+			It'll take longer to explain, than 
+			it will to --
+
+					IXTANA'RAX 
+			Then explain it quickly. Now give 
+			him the tool.
+
+	Kira has little choice. She hands the tool over after 
+	a beat, and Ixtana'Rax strides off. The Seventh kneels 
+	down next to Kira and looks at her attentively. A beat 
+	as Kira stares at her new pupil.
+
+					KIRA 
+			All right. Start by decoupling 
+			the lateral microbrace...
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     33.
+
+40   INT. RUNABOUT - OUT THE WINDOWS (OPTICAL) 
+
+	The little ship is RISING up past the port warp core 
+	console (which is the mirror console to the one Kira is 
+	working on). As the console clears their view, the 
+	massive HEAD of the Jem'Hadar Fifth is suddenly 
+	REVEALED. The Fifth is on his knees, working on a 
+	damaged component, and doesn't immediately notice them.
+
+41   INT. RUNABOUT
+
+	The crew reacts.
+
+					DAX 
+			That's not good.
+
+	Dax quickly stabs her control panel.
+
+42   THE JEM'HADAR (OPTICAL) 
+
+	The four-inch-long Rubicon is right next to his head. 
+	The Runabout's engines make a LOW FREQUENCY HUM coupled 
+	with a SOFT WHOOSH that's easily lost in the ambient 
+	noise of the room. In a quick burst of speed, the 
+	little ship zips up and out of frame just as the 
+	Jem'Hadar turns to see what the noise might have been. 
+	He decides it was nothing, turns back to his work.
+
+43   OMITTED
+
+44   INT. RUNABOUT
+
+	The crew catches their breath. Dax takes charge.
+
+					DAX
+			Okay, the ship has been boarded. 
+			Chief, I need visual sensors as 
+			fast as you can give them to me.
+
+	O'Brien slips from his chair to work under the dash.
+
+					O'BRIEN 
+			Right. Julian, give me a hand 
+			down here.
+
+	Bashir moves to assist.
+
+  DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE 34-36.    
+
+45
+thru   OMITTED
+47
+
+47A  INT. ENGINE ROOM - THE RUNABOUT (OPTICAL)
+
+	The little ship is now up near the ceiling and safely 
+	hidden from view among the outcroppings.
+
+48   INT. RUNABOUT
+
+	As before. O'Brien finishes his work.
+
+					O'BRIEN
+				(to Dax) 
+			Okay, you should have visual 
+			sensors now, and the com system is 
+			back on-line.
+
+	Dax works a panel and they all look at...
+
+49   A MONITOR (OPTICAL)
+
+	On it is a visual sensor feed from the Rubicon's 
+	position high above the port aft corner of the room.
+	We can see Sisko, Worf, Nog, and two or three Jem'Hadar 
+	from this vantage.
+
+					DAX 
+			They're forcing our people to 
+			repair the warp drive...
+
+					BASHIR
+			Why's the captain going along with 
+			it?
+
+					DAX
+			Good question. But, if I know 
+			Benjamin, he's up to something. 
+				(to O'Brien) 
+			Can you give me a tight shot of 
+			the operations display?
+
+					O'BRIEN
+			I think so.
+
+	O'Brien works the controls and the image on the monitor
+	PANS and MAGNIFIES BY STEPS into a view of the forward 
+	operations technical readouts (where Sisko is working). 
+	A Jem'Hadar's head passes through the shot. Dax, 
+	O'Brien, and Bashir all study the readings.
+
+					DAX
+				(smiles, to O'Brien)
+			You see what I see?
+
+					O'BRIEN
+				(nods)
+			Very clever.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     37.
+
+49   CONTINUED: 
+
+	But their joy is short-lived as Dax sinks back into her 
+	chair with a sudden realization.
+
+					DAX 
+			The only problem is, it's not 
+			going to work.
+
+					O'BRIEN
+
+			The bridge control lockout?
+
+					DAX
+				(nods) 
+			The security codes are hard-wired 
+			into the encryption circuitry.
+
+					BASHIR 
+			Is anyone going to let me in on 
+			this conversation?
+
+					O'BRIEN
+			The captain's trying to take 
+			control of the ship from 
+			Engineering.
+
+	O'Brien works a control again and the visual image on 
+	the monitor reverts to the WIDE SHOT, showing Worf, 
+	Sisko, Kira and Nog at work again. (NOTE: the shot on 
+	the monitor can PAN and MOVE as O'Brien works the 
+	controls and narrates the action for Bashir.)
+
+					O'BRIEN
+				(pointing them out) 
+			Kira's the only one actually 
+			working on the warp drive, and it 
+			doesn't look like she's in much of 
+			a hurry to get it done.
+
+					DAX
+			I think Worf's trying to cover 
+			their tracks. It looks like he's 
+			sending false signals through the 
+			computer system.
+
+					O'BRIEN
+			Nog is the key. He's trying to 
+			override the bridge lockout and 
+			release the codes. Once he does 
+			that, the captain can run the 
+			entire ship from the operations 
+			console.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     38.
+
+49   CONTINUED:	(2)
+
+					O'BRIEN (Cont'd) 
+				(concerned) 
+			Nog's a smart kid, but he doesn't 
+			know the Defiant's security 
+			protocols like I do. It'll take 
+			him weeks to release the command 
+			codes from down here.
+
+					BASHIR 
+			Can we do anything to help him?
+
+					O'BRIEN
+			Not from the engine room. If we 
+			could get to the bridge we could 
+			release the codes from there.
+
+					BASHIR 
+			How?
+
+					DAX 
+			One thing at a time. First, we 
+			have to leave the engine room 
+			without getting caught.
+
+	She works her panel.
+
+50   INT. ENGINE ROOM - THE RUNABOUT (OPTICAL)
+
+	The Rubicon moves along the ceiling.
+
+51   FROM ABOVE THE RUNABOUT (OPTICAL)
+
+	As the little ship cruises to starboard along the 
+	ceiling, we see Ixtana'Rax in conversation with the 
+	Fifth at the warp console at the port side of warp 
+	core.
+
+52   OMITTED
+
+52A  INT. ENGINE ROOM - WIDE 
+
+	Showing our people working away at their repairs. The 
+	Jem'Hadar are watching our people, and no one 
+	notices...
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     39.
+
+52B  THE RUNABOUT (OPTICAL)
+
+	as it carefully moves through the Engine Room and 
+	finally zips down toward the floor.
+
+53   INT. DEFIANT - ENGINE ROOM - OPERATIONS STATION
+
+	Boiling with frustration, Ixtana'Rax strides over to 
+	Sisko. He fixes his reptilian eyes upon the captain, 
+	but Sisko continues to tweak the circuitry, as if 
+	oblivious to his presence.
+
+					IXTANA'RAX 
+			Why is the Klingon working on the 
+			plasma display subsystem?
+
+					SISKO
+				(without looking up) 
+			Because I told him to.
+
+					IXTANA'RAX 
+			That system has nothing to do with 
+			warp drive operation.
+
+					SISKO
+			Maybe not on Dominion ships, but 
+			I'll need to use the display to 
+			monitor warp plasma stability.
+
+54   THE DECK ALONG THE STARBOARD WALL (OPTICAL)
+
+	The Rubicon darts from hiding place to hiding place 
+	among the panels, parts and tools as it makes its way 
+	toward the forward door. It swerves behind a snarled 
+	bundle of burnt-out cabling just as a GIANT JEM'HADAR 
+	BOOT STOMPS PAST.
+
+55   THE JEM'HADAR SEVENTH
+
+	who's wearing the boot continues on, carrying a tool 
+	back toward Kira.
+
+56   INT. ENGINE ROOM - THE RUNABOUT (OPTICAL)
+
+	The Runabout has now ducked behind the open tool case 
+	the Jem'Hadar Seventh just used.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     40.
+
+56A  INT. RUNABOUT
+
+	Dax, O'Brien and Bashir are looking out the window.
+
+					O'BRIEN 
+			Now what?
+
+					DAX
+			Now we wait until someone walks 
+			out that door.
+
+57   INT. DEFIANT - ENGINE ROOM - OPERATIONS STATION 
+
+	Ixtana'Rax's suspicions are getting the better of him. 
+	He decides to make another change and he signals to the 
+	N.D. Jem'Hadar up on the catwalk.
+
+					IXTANA'RAX 
+				(to N.D) 
+			Sixth.
+
+	The N.D. snaps to attention.
+
+					IXTANA'RAX 
+			Relieve the Klingon. Take over 
+			the repair of the display 
+			subsystem.
+
+	The Fourth nods and begins making his way down the 
+	ladder.
+
+					IXTANA'RAX 
+				(to Sisko) 
+			Give the Klingon another task.
+
+					SISKO
+			Why?
+
+					IXTANA'RAX 
+			Because I said so.
+
+	Just then, the starboard door opens and Kudak'Etan 
+	ENTERS.
+
+					KUDAK'ETAN 
+				(to Sisko) 
+			Why isn't the warp drive on-line 
+			yet?
+
+					IXTANA'RAX 
+				(re: Sisko) 
+			He's stalling.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     41.
+
+57   CONTINUED:
+
+					SISKO
+				(angry) 
+			Stalling? Your Second is the one 
+			who's slowing down the work. He 
+			countermands my orders, 
+			arbitrarily reassigns my crew -- 
+			I can't get any work done in here.
+
+					KUDAK'ETAN
+				(to Ixtana'Rax) 
+			You were told to watch them, not 
+			interfere with them.
+
+	Ixtana'Rax regards his superior with a cool expression.
+
+					IXTANA'RAX
+				(to Kudak'Etan) 
+			You're playing right into his 
+			hands. Don't you see that?
+
+	Kudak'Etan thinks about it for a beat. He's not sure 
+	which of them to listen to, and decides to split the 
+	difference.
+
+					KUDAK'ETAN 
+			Captain Sisko, you have thirty 
+			minutes to restore warp power, 
+			or...
+				(points to Kira) 
+			I will kill her, and then another 
+			of your crew every fifteen minutes 
+			until you do.
+				(to Ixtana'Rax) 
+			And you will no longer interfere 
+			with their work.
+
+	Kudak'Etan abruptly turns and heads for the door. 
+	Ixtana'Rax shakes his head sadly as his leader walks 
+	away.
+
+58   INT. RUNABOUT 
+
+	Dax, O'Brien and Bashir are watching Kudak'Etan (o.s.), 
+	biding their time and waiting for the right moment.
+
+					DAX
+			Okay... get ready... when he 
+			activates the door sensor, we'll --
+
+	Suddenly an enormous SHADOW falls over them.
+
+     DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT THREE     42.
+
+59   THE JEM'HADAR SEVENTH (OPTICAL)
+
+	Is now standing next to the tool case. The tiny 
+	Runabout is nearly touching his ankle. The Jem'Hadar 
+	begins to KNEEL down, begins reaching out with his 
+	hands, and just when it looks as though he's going to 
+	grab the Runabout...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     43.
+                           ACT FOUR                             
+
+	FADE IN:
+
+60   INT. DEFIANT - ENGINE ROOM (OPTICAL)
+
+	Continuous from Act Three. The Jem'Hadar Seventh 
+	reaches down and slams the lid of the box closed.
+
+61   THE SEVENTH (OPTICAL) 
+
+	He lifts the tool case and stands. From this angle the 
+	Runabout appears to have vanished. CAMERA TRACKS LEFT 
+	TO REVEAL the tiny Runabout hiding close to the 
+	opposite side of the toolbox, and out of the Seventh's
+	view. As the Seventh starts back toward the warp core, 
+	the Runabout zips forward toward...
+
+62   THE DOORWAY (OPTICAL)
+
+	The door is closing rapidly behind the retreating 
+	Kudak'Etan. At the last second, the little Rubicon 
+	BANKS SHARPLY and slips through the opening by a 
+	whisker. The door snaps shut behind it.
+
+63   INT. RUNABOUT
+
+	Our crew peers out the window.
+
+					BASHIR 
+				(to Dax) 
+			Nice bit of piloting.
+
+					DAX
+			If you liked that, you're going to 
+			love what's coming up next...
+
+	As she works...
+
+64   INT. DEFIANT - ENGINE ROOM
+
+	Sisko glances over at the Second, who now paces 
+	irritably near the port systems display. Worf is 
+	entering command codes into the warp control pedestal.
+
+	Sisko moves aft and hunkers down next to Nog, who is 
+	halfway buried in a circuit compartment. Sisko leans 
+	in to observe. Nog has several junction boxes open, 
+	but is now alternating his concentration from his PADD 
+	to a small manual data input.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     44.
+
+64   CONTINUED:
+
+					SISKO 
+			Any luck, ensign?
+
+	The Ferengi enters his latest PADD calculation into the 
+	data input.
+
+					NOG
+				(sotto) 
+			Not yet, sir. The system's always 
+			three steps ahead of me. Every 
+			time I get past the primary 
+			security net, the secondary kicks 
+			me back out... and then the codes 
+			are reset, and I have to start all 
+			over again...
+
+	He finishes his entry, watches with forlorn hope as the 
+	unit blips, blinks... and finally rejects it.
+
+					NOG
+			... like that.
+
+	Nog tosses the PADD onto the floor of the circuitry 
+	compartment in frustration.
+
+					NOG
+				(continuing) 
+			Do we have a backup plan in case 
+			this doesn't work?
+
+					SISKO
+				(sotto) 
+			Yes. I'll destroy the ship.
+
+	Nog looks at him to see if he's serious -- Sisko's 
+	expression is deadly serious and Nog picks up his PADD 
+	again.
+
+					NOG 
+			There are still a few algorithms 
+			I haven't tried yet.
+
+	Sisko gives him an encouraging pat on the back and then 
+	moves off as Nog redoubles his efforts.
+
+65   KIRA
+
+	Is working at an open panel near the starboard base of 
+	the warp core. The Seventh is handing her a tool from 
+	the tool kit he brought to her.
+
+					KIRA
+				(absently) 
+			Thanks.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     45.
+
+65   CONTINUED:
+
+	She uses the tool on some circuitry for a moment, then 
+	notices Sisko is approaching. She and the captain 
+	exchange a look -- he wants to talk to her.
+
+					KIRA
+				(to Seventh) 
+			Okay. I'm ready to connect the 
+			deuterium injector. Go to the 
+			plasma relay and power it up 
+			slowly, just like I showed you.
+
+	The Seventh nods and moves off to a console on the far 
+	side of the room. Kira keeps working as Sisko squats 
+	down next to her.
+
+					KIRA
+				(sotto) 
+			I'm about ten minutes away from 
+			initiating the prestart sequence 
+			on the warp drive. How's Nog 
+			doing?
+
+					SISKO
+				(sotto) 
+			Not good. You need to find 
+			another problem.
+
+	Kira lets out a long breath at that. She sees 
+	something in the open panel and turns to call out to 
+	the Seventh.
+
+					KIRA
+				(to Seventh) 
+			Too fast! Re-initialize the 
+			system and start again, but do it 
+			at about half the speed this time.
+
+	The Seventh nods and goes back to work.
+
+					KIRA
+				(sotto, re: Seventh) 
+			He's not stupid. He's already got 
+			the entire command and control 
+			system committed to memory. I 
+			can't keep him fooled forever.
+
+					SISKO 
+			In a battle of wits between you 
+			and him -- I'll bet on you every 
+			time.
+
+					KIRA
+			What kind of odds are you giving?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     46.
+
+65   CONTINUED:	(2)
+
+	Sisko smiles and moves off, leaving Kira to her work.
+
+66   INT. DEFIANT - CORRIDOR (OPTICAL) 
+
+	Kudak'Etan proceeds down the passageway with an 
+	authoritative stride. He reaches a juncture and pauses 
+	for a moment, slightly suspicious. Does he hear 
+	something? He turns to look down the adjoining hall 
+	and we discover the Rubicon is keeping tight formation 
+	just behind his head, matching every move. He sees 
+	nothing and continues along his original path, the 
+	Runabout maneuvering smoothly to remain behind him.
+
+					LAMAT'UKAN'S VOICE 
+			First?
+
+67   OMITTED
+
+68   ANGLE
+
+	Showing Lamat'Ukan approaching from a connecting 
+	passageway.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     47.
+
+68   CONTINUED: 
+
+	When Lamat'Ukan reaches Kudak'Etan, we can see that the 
+	Runabout is nowhere to be found.
+
+					LAMAT'UKAN 
+			I've realigned the targeting 
+			sensors. There were errors in the 
+			tracking subroutines.
+
+					KUDAK'ETAN 
+				(surprised) 
+			You were not ordered to check the 
+			targeting sensors.
+
+					LAMAT'UKAN 
+			I thought it a wise precaution... 
+			in case we encountered an enemy 
+			ship on our way home.
+
+	Kudak'Etan looks at him, and we're not sure if he's 
+	annoyed or pleased for a moment... then he nods his 
+	head in satisfaction.
+
+					KUDAK'ETAN 
+			Your initiative pleases me. It's 
+			a trait that the Gammas lack.
+
+					LAMAT'UKAN 
+			The Gammas have many flaws.
+
+					KUDAK'ETAN 
+			When we return from this mission, 
+			there will be need for a new 
+			Second. I will recommend you to 
+			the Vorta.
+
+					LAMAT'UKAN 
+				(proudly) 
+			You will not be disappointed.
+
+					KUDAK'ETAN 
+			I'm sure that I won't. It'll be 
+			Alphas like us who will determine 
+			the future of this quadrant. That 
+			will be the new order of things.
+
+	Kudak'Etan continues on toward the bridge. Lamat'Ukan 
+	lingers for a moment, enjoying the afterglow. 
+	Kudak'Etan ENTERS the bridge and the door closes after 
+	him. Lamat'Ukan then moves off down the corridor.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     48.
+
+68   CONTINUED:	(2)
+
+	After he passes, WE TILT UP and see that the Rubicon 
+	has attached itself to the CEILING, UPSIDE DOWN.
+
+69   INT. RUNABOUT (OPTICAL)
+
+	The crew (who appear upside down to us) stares out the 
+	window at the closed door of the bridge.
+
+					O'BRIEN 
+			Looks like we need another ticket 
+			into the bridge.
+
+					BASHIR 
+			So how long do we wait for someone 
+			to open the door?
+
+					DAX
+				(manipulating her panel) 
+			We don't.
+
+70   INT. DEFIANT - ENGINE ROOM 
+
+	Worf and Sisko stand at the warp control pedestal, 
+	ostensibly comparing PADDS to the readouts on each side 
+	of the device.
+
+					WORF
+				(sotto) 
+			I cannot access the auto-destruct 
+			system without drawing attention.
+
+	The Jem'Hadar Fifth passes close behind Worf. Sisko's 
+	eyes indicate the danger and they busy themselves with 
+	their readouts until the soldier is out of earshot.
+
+					SISKO
+				(sotto) 
+			Plant a computer virus in the warp 
+			plasma subprocessor. Set it to 
+			cause a core breach once the ship 
+			reaches warp one.
+
+					WORF
+				(sotto) 
+			Understood.
+
+	Sisko nods and moves away.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     49.
+
+ 71   INT. DEFIANT - CORRIDOR - THE BRIDGE DOOR (OPTICAL) 
+
+	The Runabout hovers a foot away from the door's control 
+	panel.
+
+72   INT. RUNABOUT
+
+	The crew peers out the window.
+
+					O'BRIEN 
+			Don't hit it too hard, you could 
+			shatter the control panel.
+
+					DAX
+			Don't worry. I've got a light 
+			touch.
+
+
+					BASHIR 
+			Not according to Worf.
+
+73   INT. DEFIANT - CORRIDOR - THE BRIDGE DOOR (OPTICAL) 
+
+	The Runabout rams the door's control panel.
+
+74   INT. DEFIANT - BRIDGE
+
+	Kudak'Etan stands at the Captain's Station, working a 
+	console. Behind him, the starboard door opens. He 
+	glances back at it, puzzled because no one enters. 
+	Kudak'Etan walks over to the doorway, looks outside... 
+	sees nothing.
+
+75   ON THE DECK (OPTICAL) 
+
+	The Runabout zips between Kudak'Etan's legs, races over 
+	to the conference table at the rear of the Bridge, then 
+	climbs to hide under the bottom of the table.
+
+76   THE RUNABOUT (OPTICAL)
+
+	From this vantage, we can see that Helm, Tactical, and 
+	Engineering are now on-line and manned by N.D. 
+	Jem'Hadar. Another continues repairs near the 
+	viewscreen, which shows a starfield as the ship 
+	proceeds on impulse power.
+
+76A  INT. RUNABOUT
+
+	Dax, O'Brien and Bashir size up the situation.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR    49A.
+
+
+76A  CONTINUED:
+
+					O'BRIEN 
+			Well, we certainly can't release 
+			the control lock while the First 
+			has his hand on it.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     50.
+
+76A  CONTINUED:	(2)
+
+					DAX
+			Can we bypass it?
+
+	O'Brien realizes he can, and instantly hates the idea.
+
+					O'BRIEN
+				(irritably) 
+			I suppose I could reroute the 
+			encryption subprocessors 
+			manually.
+
+	He stares out the window. Dax and Bashir exchange a 
+	look -- what's bothering him?
+
+					DAX
+			But... ?
+
+					O'BRIEN 
+			But, I'll have to leave the ship 
+			to do it. And I have to say I'm 
+			not fond of the idea. I can think 
+			of about a thousand ways a one-
+			centimeter man could get fried 
+			walking around inside a circuit 
+			housing.
+
+					BASHIR 
+			Relax, Miles. You couldn't go 
+			outside even if you wanted to. 
+			You wouldn't be able to breathe. 
+			The oxygen molecules out there are 
+			almost two thousand times bigger 
+			than anything your hemoglobin can 
+			assimilate. You'd suffocate.
+
+					O'BRIEN
+				(relieved) 
+			Oh. Well, that takes care of that 
+			idea.
+
+					DAX
+			Unless...
+				(beat) 
+			Circuit housings are airtight. 
+			I could beam a bubble of 
+			compressed oxygen down ahead of 
+			you and it would expand to fill 
+			the housing.
+
+					BASHIR 
+			Should work. The air would be 
+			thin, but you'd be able to breathe 
+			for about twenty minutes.
+
+					O'BRIEN
+			And then?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FOUR     51.
+
+76A  CONTINUED:	(3)
+
+					BASHIR 
+			You pass out.
+
+					O'BRIEN
+			You mean "we" pass out.
+				(off Bashir's look) 
+			You're coming with me.
+
+77   INT. OPTRONIC CIRCUITRY #1 (OPTICAL) 
+
+	Bashir and O'Brien MATERIALIZE. They pause to check 
+	their bearings. O'Brien looks at his PADD, scowls at 
+	the diagram. He looks up at their surroundings, and as 
+	he does, we PULL BACK to reveal that our Starfleet 
+	heroes are but tiny figures at the base of a vast 
+	forest of multicolored components, isolinear chips and 
+	encryption subprocessors, all interconnected by a 
+	glowing matrix of pulsing optronic filaments.
+
+					O'BRIEN 
+			This might take longer than I 
+			thought.
+
+78   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     52.
+                           ACT FIVE                             
+
+	FADE IN:
+
+79
+thru   OMITTED
+81
+
+82   INT. OPTRONIC CIRCUIT - CONTINUOUS
+
+	A concerned O'Brien tries to match the circuitry that 
+	surrounds him with the diagram on his PADD.
+
+					O'BRIEN
+				(to himself) 
+			All right. If we beamed into the 
+			primary safeties junction, then we 
+			should see a cluster of hueristic 
+			subprocessors next to a 
+			rectilinear expansion module.
+
+	He looks around, scrutinizing the circuitry.
+
+					O'BRIEN 
+			The question is, what does a 
+			rectilinear expansion module look 
+			like when you're one centimeter 
+			tall?
+
+					BASHIR
+			I haven't the faintest idea.
+
+	Bashir looks up at the translucent, glowing chips, 
+	which tower another twenty feet above his head. He's 
+	caught up in the wonder of the moment.
+
+					BASHIR 
+			But it's amazing, isn't it? Like 
+			we're standing in the middle of an 
+			optronic forest...
+
+	Bashir takes a step backward to get a better view of 
+	the chips in front of him. O'Brien finally thinks he 
+	recognizes something and checks it against his PADD.
+
+					O'BRIEN 
+			All right. It looks like we have 
+			to go...
+				(looks up) 
+			Julian -- stop!
+
+	Bashir freezes. Without realizing it, he has almost 
+	backed into another one of the chips.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE    52A.
+
+ 82   CONTINUED:
+
+					O'BRIEN 
+			That chip behind you is carrying 
+			twenty microamps of electric 
+			current. Not very much...
+
+					BASHIR
+				(suddenly aware)
+			... but enough to fry every synapse 
+			in my tiny little body.
+				(tense smile) 
+			Thanks for the safety tip.
+
+					O'BRIEN
+			Just step straight forward, away 
+			from the chip.
+				(Bashir obeys)
+			All right, you're clear.
+
+	Bashir lets out a sigh of relief.
+
+					O'BRIEN
+			Now stay right behind me. And 
+			don't touch anything without 
+			asking.
+
+					BASHIR 
+			Believe me, I won't.
+
+	O'Brien leads them off through the circuitry.
+
+83   INT. DEFIANT - BRIDGE 
+
+	Third Lamat'Ukan enters with the distinctive case of 
+	Ketracel White. The eyes of the bridge crew follow him 
+	as he sets the container carefully on the table under 
+	which the Rubicon still hides. He then faces his 
+	First.
+
+
+					LAMAT'UKAN 
+			The White.
+
+	Kudak'Etan steps over to the table and acknowledges 
+	Lamat'Ukan's report with a nod. Then he turns to his 
+	crew.
+
+					KUDAK'ETAN 
+			It is time.
+
+83A  FROM UNDER THE TABLE - RUNABOUT'S POV (OPTICAL) 
+
+	The helmsman and engineer turn to face the First. As 
+	if choreographed, the other Jem'Hadar leave their posts 
+	and move efficiently aft, toward CAMERA.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE    52B.
+
+ 84   INT. RUNABOUT
+
+	Dax regards the approaching soldiers with dismay. She
+	taps her combadge.
+
+					DAX 
+			How's it coming, Chief?
+
+85   INT. OPTRONIC CIRCUITRY #2
+
+	O'Brien and Bashir have stopped in another section of 
+	the circuitry. Both are showing the effects of the 
+	long hike in thin air. O'Brien gazes at the vast 
+	optronic labyrinth, his forehead beaded with sweat. 
+	Noticing the Chief's preoccupation, Bashir hits his 
+	combadge.
+
+					BASHIR 
+			We're... making progress. Aren't 
+			we, Chief?
+
+	O'Brien jerks his eyes toward Bashir and touches his 
+	own combadge.
+
+					O'BRIEN 
+			I'm still trying to locate the... 
+			security protocol interlinks. 
+			Shouldn't be... much longer.
+
+85A  INT. RUNABOUT (OPTICAL) 
+
+	A forest of Jem'Hadar legs can be seen out the windows.
+
+					DAX 
+			The sooner the better. Things are 
+			getting a little crowded up here.
+
+85B  INT. DEFIANT - BRIDGE 
+
+	At the aft table, the Jem'Hadar watch eagerly as the 
+	First unlatches the complicated lock on the container. 
+	The top rises, revealing the tubes of White. 
+	Kudak'Etan removes five and hands them to his Third.
+
+					KUDAK'ETAN 
+			Here.
+
+	The other Jem'Hadar, including Lamat'Ukan, exchange 
+	startled glances. They are used to the liturgy that 
+	the Vorta normally performs, and are unsettled by 
+	Kudak'Etan's informality. Lamat'Ukan decides he'd 
+	better respond as he was trained to.
+
+ DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     53.
+
+85B  CONTINUED:
+
+					LAMAT'UKAN
+			We pledge our loyalty to the
+			Founders from --
+
+	Kudak'Etan cuts him off with an annoyed wave of his 
+	hand.
+
+					KUDAK'ETAN 
+			We are all Alphas here. Our 
+			loyalty is demonstrated by our 
+			actions, not our words.
+
+	Lamat'Ukan regards the faces of the other Alphas, 
+	fiercely proud to be part of this new order. He nods 
+	and begins handing out the vials.
+
+85C   INT. OPTRONIC CIRCUITRY #2 - RESUME 
+
+	O'Brien consults his PADD, working hard to conceal his 
+	mounting disorientation.
+
+					O'BRIEN 
+			All right... now...
+
+	He looks around, completely bewildered.
+
+					BASHIR 
+			Miles.
+				(beat) 
+			We're lost, aren't we?
+
+					O'BRIEN
+			Yes, we're lost!
+				(smacks the PADD) 
+			I can draw these circuits in my 
+			sleep. But I've never seen them 
+			from this... perspective.
+
+	O'Brien presses a palm to his forehead in an effort to 
+	calm himself.
+
+					BASHIR 
+			Disorientation is one of the... 
+			effects of... hypoxia -- lack 
+			of... oxygen. Need to focus... 
+			on a... landmark.
+
+	Bashir points toward something offscreen.
+
+					BASHIR 
+			There. That large isolinear chip.
+				(peers up) 
+			Number eight-five-nine-six-six-
+			stroke delta. What is it?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     54.
+
+85C   CONTINUED:
+
+	O'Brien looks, then shakes his head in frustration.
+
+					O'BRIEN 
+			Julian, there are two dozen six-
+			six-delta's in the asymmetric 
+			encryption circuits alone.
+
+					BASHIR 
+			Okay. Then what's...
+
+	He searches for the closest unique item. His eyes 
+	center on a four-way shunt that connects four fiber 
+	optic cables.
+
+					BASHIR
+				(continuing)
+			... what's that down by the base?
+
+					O'BRIEN
+				(exasperated) 
+			A four-way interlink shunt.
+
+					BASHIR 
+			So that would mean that the chip 
+			is...
+
+					O'BRIEN
+				(stares at the 
+				component) 
+			I don't know... I told you, they 
+			all look the same!
+
+					BASHIR 
+			All right... then... don't look at 
+			it.
+
+					O'BRIEN
+			What?
+
+					BASHIR 
+			Close your eyes... and use your 
+			memory.
+
+	O'Brien reluctantly does so.
+
+					BASHIR 
+			Okay... a four-way shunt at the 
+			base of a...
+				(reads off chip)
+			... eight-five-nine-six-six-stroke-
+			delta... isolinear chip would have 
+			to be where?
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     55.
+
+85C   CONTINUED:	(2)
+
+					O'BRIEN
+					(thinking hard) 
+			The only four-way shunt near a six-
+			six-delta is... at the base of... 
+			the master differential relay.
+
+	O'Brien opens his eyes and looks at the components. 
+	Confidence flows back into him.
+
+					O'BRIEN 
+			That has to be it.
+
+					BASHIR 
+			So the... interlink we want has to 
+			be... ?
+
+					O'BRIEN
+				(he starts forward) 
+			This way.
+
+	Bashir follows him.
+
+86   INT. DEFIANT - ENGINE ROOM 
+
+	The Second and the Seventh are deep in conversation at 
+	the console amidships at the warp core as Sisko crosses 
+	to Kira, who is working at the forward Operations 
+	station. We cannot hear what the Jem'Hadar are saying.
+
+					SISKO
+				(sotto) 
+			We've got trouble. They're cross-
+			checking the diagnostic protocols.
+
+					KIRA
+				(sotto) 
+			Has Nog made any progress?
+
+	Sisko glances over at Nog, who's still working 
+	feverishly.
+
+
+					SISKO 
+			Not yet.
+
+87   INT. OPTRONIC CIRCUITY - CLOSE ON O'BRIEN 
+
+	He's wrestling an optronic FILAMENT -- a translucent 
+	tube as thick as a fire hydrant, pulsating with colored 
+	light -- into a SOCKET.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     56.
+
+87   CONTINUED:
+
+	Once O'Brien gets the filament in place, he TWISTS it, 
+	and the filament LOCKS into place.
+
+	He leans against the socket for a moment, panting and 
+	sweating. More effects of hypoxia are starting to 
+	manifest themselves -- short, rapid breathing, slightly 
+	blue lips, dizziness and fatigue. O'Brien struggles to 
+	stay conscious and he turns to see...
+
+88   BASHIR (OPTICAL) 
+
+	who's working across the way from O'Brien. Bashir is 
+	struggling mightily to UNLOCK another filament. He can 
+	barely speak.
+
+					BASHIR 
+			Stuck...
+
+	O'Brien moves to help. With his added force they TWIST 
+	the filament and it is released from the socket. Multi-
+	colored light sprays from the ferruled ends of the 
+	filaments.
+
+					BASHIR 
+			Which... one... ?
+
+	O'Brien looks around at the empty sockets across from 
+	them, trying to orient himself, but it's not easy. He 
+	finally points to one.
+
+					O'BRIEN 
+			That... no.
+				(points to another one) 
+			That.
+
+					BASHIR
+			You... sure... ?
+
+	O'Brien hesitates, then nods. They begin to drag the 
+	filament, but it's like dragging a heavy firehouse in 
+	their present condition. Finally they shove the 
+	filament into the socket. They push it into place... 
+	TWIST it, but instead of locking, the filament pops 
+	back out again.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     57.
+
+88   CONTINUED:
+
+					O'BRIEN 
+			Dammit!
+				(groping for words)
+			Again... then... I'll...
+
+	O'Brien pulls out his phaser and Bashir seems to 
+	understand what he means. It takes all of his effort, 
+	but Bashir manages to shove the filament back into the 
+	socket.
+
+	O'Brien then FIRES a short controlled BLAST into the 
+	junction, FUSING the parts together. Bashir tests the 
+	joint with a hefty tug. It holds and Bashir collapses 
+	onto the deck. O'Brien sags against the wall and hits 
+	his combadge, he's just one short step away from 
+	passing out.
+
+					O'BRIEN
+				(panting) 
+			Rub... Rubicon... mi... mi... 
+			mission... complete...
+
+89   INT. DEFIANT - ENGINE ROOM - NOG
+
+	He's still cranking data into the keyboard when the 
+	blinkies change and Nog's eyes suddenly light up. He 
+	can't quite believe it.
+
+					NOG 
+			Oh, I am good.
+
+	But before Nog can do anything further, the Jem'Hadar 
+	Seventh grabs him by the back of his jacket and yanks 
+	him away from the keypad.
+
+					IXTANA'RAX (O.S.)
+				(over above action) 
+			All of you, step away from the 
+			consoles. Right now!
+
+90   THE ENGINE ROOM
+
+	The Seventh half-drags the Ferengi toward the forward 
+	operations station, where the Fifth herds the rest of 
+	our Defiant crew into a line facing the station.
+
+	Kira comes to a stop against the wall by the starboard 
+	engineering display. Worf moves in next to her, and 
+	then Sisko. The Sixth has his weapon trained on our 
+	crew from the catwalk. Below him, Ixtana'Rax considers 
+	the readouts on the warp control pedestal. (NOTE: 
+	There is now an N.D. Jem'Hadar Fourth in the room as 
+	well.)
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     58.
+
+90   CONTINUED:
+
+	The Seventh thrusts Nog roughly into line next to 
+	Sisko, then starts for the pedestal. Nog leans close 
+	to the captain.
+
+					NOG
+				(sotto) 
+			Captain. I did it! I don't know 
+			how, but I released the command 
+			codes.
+
+					SISKO
+				(sotto) 
+			Well done. What we need now is a 
+			diversion before they go to warp.
+
+					IXTANA'RAX 
+			Silence!
+
+91   INT. RUNABOUT
+
+	O'Brien and Bashir are now back in the runabout, 
+	gratefully sucking in the air and feeling much better. 
+	O'Brien works one of the side consoles while Dax looks 
+	over his shoulder.
+
+					O'BRIEN 
+			All the Defiant's command 
+			functions have been transferred to 
+			Engineering.
+				(frowns) 
+			But nothing's happening.
+
+					BASHIR 
+			Maybe the captain hasn't realized 
+			he has control of the ship yet.
+
+	Beat.
+
+					DAX 
+			Or maybe he's in trouble. The 
+			First was called to the engine 
+			room a few minutes ago.
+
+	They exchange a look and then Dax and O'Brien quickly 
+	move back to the pilot controls.
+
+92   INT. DEFIANT - ENGINE ROOM
+
+	The Fifth now stands next to the Engineering display, 
+	guarding the prisoners. Ixtana'Rax stands between the 
+	Defiant's crew and the forward operations console. 
+	Kudak'Etan is facing his Second and he's not happy.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     59.
+
+92   CONTINUED:
+
+					KUDAK'ETAN 
+			How long has the warp drive been 
+			repaired?
+
+					IXTANA'RAX 
+			At least one hour, maybe longer.
+
+	Kudak'Etan stares at the prisoners, then back at his 
+	Second.
+
+					KUDAK'ETAN 
+			And they managed to conceal it 
+			from you.
+
+					IXTANA'RAX 
+			You ordered me not to interfere 
+			with them.
+
+					KUDAK'ETAN 
+			I also told you to watch them 
+			carefully.
+
+					IXTANA'RAX 
+			If we had assigned Jem'Hadar to do 
+			the repairs, as I said --
+
+					KUDAK'ETAN 
+			I'm not interested in your 
+			excuses.
+
+	Kudak'Etan turns to the Seventh at the Operations 
+	Station.
+
+					KUDAK'ETAN 
+			Bring the warp drive on-line.
+
+					IXTANA'RAX 
+			Wait!
+
+	The Seventh hesitates, looking from the Second to the 
+	First, not sure what he should do. Kudak'Etan holds up 
+	his hand to indicate the Seventh can wait.
+
+					IXTANA'RAX 
+			Before we activate the warp drive 
+			we should check the entire system 
+			for possible sabotage.
+
+					KUDAK'ETAN 
+			That would take hours. Every 
+			minute we spend in Federation 
+			space exposes us to detection and 
+			attack.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     60.
+
+92   CONTINUED:
+
+					KUDAK'ETAN (Cont'd)
+				(sarcastic) 
+			And I would hate for your last 
+			mission to end in failure, 
+			"Elder."
+				(nods to the Seventh) 
+			Do it.
+
+	The Seventh works the panel. The warp core RAMPS UP TO 
+	A HEALTHY GLOW.
+
+					KUDAK'ETAN 
+			When you have sufficient engine 
+			power available, bring us to warp 
+			four.
+
+	Kira, Nog, Worf and Sisko exchange glances.
+
+					KIRA
+				(sotto) 
+			At least we're going to take them 
+			with us.
+
+					KUDAK'ETAN 
+				(to the Second) 
+			Secure them with the other 
+			prisoners.
+
+	The First strides toward the door as Kudak'Etan motions 
+	for our heroes to begin moving.
+
+
+93   KUDAK'ETAN (OPTICAL)
+
+	He reaches the Engine Room door. As it opens, the 
+	First's eyes widen at the sight of the tiny Rubicon 
+	rocketing straight toward his head! He dodges out of 
+	the way and starts to bring up his disruptor.
+
+	Everything happens very quickly.
+
+	Kudak'Etan FIRES at the Runabout, but misses.
+
+94   THE RUNABOUT (OPTICAL)
+
+	A tiny PHOTON TORPEDO rips out from the ship and HITS 
+	the Fifth as he turns toward it. He spins and falls to 
+	the deck, stone dead.
+
+95   KIRA
+
+	dives for the dead Jem'Hadar's weapon.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     61.
+
+ 96   KUDAK'ETAN (OPTICAL)
+
+	has turned his back to the prisoners as he tries to 
+	shoot the little ship. Big mistake. Worf leaps on 
+	him, throws an arm around his throat, and snaps the
+	Jem'Hadar's neck. The Fourth takes a phaser shot at 
+	Worf, but misses. Worf goes after him in a brutal 
+	hand-to-hand fight --
+
+97   INT. RUNABOUT
+
+	The crew is at battle stations, working feverishly.
+
+					O'BRIEN
+			Dax! At the upper rail!
+
+					DAX
+			I've got him.
+
+98   OVER THE UPPER GUARD'S SHOULDER (OPTICAL)
+
+	The Runabout banks and climbs toward him. The guard 
+	shoots at it and misses, sending...
+
+99   SISKO AND NOG
+
+	ducking out of his line of fire.
+
+99A  THE JEM'HADAR ON THE CATWALK (OPTICAL)
+	(FORMERLY SCENE 103)
+
+	FIRES at the Rubicon and the runabout is forced to bank 
+	and turn to avoid the blasts.
+
+99A  INT. RUNABOUT 
+
+	As the ship lurches and turns, the three occupants hang 
+	on for dear life.
+
+					DAX
+				(working)
+			This guy is really starting to get
+			on my nerves.
+
+					BASHIR
+			I've got torpedo lock!
+
+					DAX
+			Fire!
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE    61A.
+
+99A  THE RUNABOUT 
+
+	as it swoops toward the Jem'Hadar on the catwalk and 
+	FIRES a torpedo at him. The torpedo catches him in the 
+	chest and he topples over the railing to the Engine 
+	Room deck, his disruptor bouncing toward...
+
+99B  SISKO AND NOG
+	(FORMERLY SCENE 104)
+
+	Nog dives for the weapon, while Sisko heads for the
+	forward Ops station.
+
+100  SECOND IXTANA'RAX
+
+	aims his weapon at Sisko.
+
+101  KIRA (OPTICAL)
+
+	She comes up to a kneeling position with the disruptor 
+	and pulls the trigger.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     62.
+
+102  IXTANA'RAX (OPTICAL) 
+
+	He takes Kira's BLAST full in the chest and goes down.
+
+103
+thru   OMITTED
+104
+
+105  AT THE OPERATIONS CONSOLE (OPTICAL)
+
+	As Sisko approaches it, the unarmed Seventh lunges at 
+	him and takes a swing. Sisko deflects the blow and 
+	pivots the Jem'Hadar toward Kira, who shoots him. 
+	Sisko turns and begins entering command codes into the 
+	console.
+
+105A WORF
+
+	Kills the Jem'Hadar Fourth.
+
+106  NOG
+
+
+	stands. He swivels the disruptor around, looking for
+	trouble.
+
+107  THE ENGINE ROOM - WIDER (OPTICAL)
+
+	Kira rises to her feet. Worf has the First's disruptor 
+	and covers the doors. All the Jem'Hadar are down. 
+	Sisko is working the Ops console.
+
+					SISKO 
+			I'm flooding all compartments 
+			except the engine room with 
+			anesthezine gas.
+				(to Kira) 
+			Get that virus out of the computer 
+			before somebody on the bridge 
+			decides to engage the warp drive.
+
+	Kira begins working another console. Sisko walks over 
+	to where Ixtana'Rax sits on the floor, his back against 
+	the warp control pedestal. The Second clutches his 
+	wound, his breathing labored, his eyes focused intently 
+	on the body of Kudak'Etan. Finally, he becomes aware 
+	of Sisko's presence and looks up.
+
+					SISKO
+				(re: Kudak'Etan) 
+			He should've listened to you and 
+			killed me when he had the chance.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE    62A.
+
+107  CONTINUED:
+
+					IXTANA'RAX 
+			He was a First... they don't need 
+			to... listen. Obedience brings... 
+			Victory... and Victory is...
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     63.
+
+107  CONTINUED:	(2)
+
+	Then the struggle ends. Life ebbs out of his eyes and 
+	he slumps over, dead. Sisko turns away in time to see 
+	the little Rubicon whiz by, then arc up into a perfect 
+	Immelmann turn and come to a stop about six inches in 
+	front of Worf's nose.
+
+					SISKO 
+				(smiles) 
+			Mister Worf -- I think your wife's 
+			here.
+
+107A THE RUNABOUT (OPTICAL) 
+
+	From over Worf's shoulder, we can see the tiny figure 
+	of Dax waving at Worf.
+
+107B RESUME WORF
+
+	As he smiles.
+
+108  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Defiant is again docked at the station.
+
+					SISKO (V.O.) 
+			Captain's Log, Stardate 51492.3. 
+			After completing repairs, we were 
+			able to return to the anomaly and 
+			successfully restore our runabout 
+			and its crew to their normal size. 
+			The surviving Jem'Hadar have been 
+			transferred to a Federation P.O.W. 
+			camp.
+
+109  INT. QUARK'S
+
+	Dax is sitting at a table, as Worf sits down with a 
+	PADD in his hand.
+
+					DAX 
+			Is that your poem?
+
+					WORF 
+			Yes.
+
+	A Ferengi waiter comes by the table.
+
+					WORF 
+			Bloodwine.
+
+	Beat.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE    63A.
+
+109  CONTINUED:
+
+					DAX
+			Can I hear it?
+
+					WORF
+			It's not finished.
+
+					DAX
+			Please? Just the first line?
+
+					WORF
+			All right. But this is my first
+			poem.
+
+					DAX
+			I understand.
+
+					WORF
+			I have worked very hard and very
+			long on this.
+
+					DAX
+			I know.
+
+					WORF
+			And I do not wish to be...
+			ridiculed.
+
+					DAX
+			I promise.
+
+					WORF
+				(grudging)
+			Very well.
+				(reads with majesty)
+			"This is the story... of the
+			little ship... that took a little
+			trip."
+				(serious)
+			What do you think?
+
+	She blinks at him, not sure what to say.
+
+					DAX
+			It's... uh... well... it rhymes.
+
+	She looks at him for a moment, all innocence... then 
+	she notices that there's a twinkle in his eye and a 
+	smile lurking around the edges of his mouth... and she 
+	suddenly realizes that he's putting her on.
+
+					DAX
+			You're putting me on!
+
+	She grabs the PADD from his hand as he lets out a 
+	laugh.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE    63B.
+
+109  CONTINUED:	(2)
+
+					DAX 
+			There's nothing on this PADD!
+
+	As Worf laughs and she begins to laugh with him, we 
+	move to the bar, where Bashir and O'Brien stand, 
+	telling their story to MORN and a wide-eyed DABO GIRL. 
+	QUARK stands behind the bar, polishing glasses.
+
+					BASHIR
+				(milking the drama) 
+			Suddenly, there, right in front of 
+			us, was this immense Jem'Hadar!
+
+	ODO ENTERS and joins them, peering curiously at the 
+	two.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     64.
+
+109  CONTINUED:	(3)
+
+					O'BRIEN 
+			He looked as tall as a Seltan 
+			Carnosaur. We were so close you 
+			could see the veins throbbing in 
+			his eyeballs.
+
+	Odo stands behind the two men and looks them up and 
+	down, as if he's noticed something incongruous. Bashir 
+	glances at him, mildly irked by the Constable's intense 
+	gaze. O'Brien presses on with the tale and Bashir 
+	tries to ignore Odo.
+
+					O'BRIEN
+				(using his hands to 
+				demonstrate) 
+			We swung around and ducked behind 
+			the operations console. I knew 
+			that the first thing we had to do 
+			was get our sensors back on-line. 
+			So I told Julian --
+
+					BASHIR
+				(fed up, to Odo) 
+			Something wrong?
+
+					ODO
+			Are you sure that you've returned 
+			to normal size?
+
+					O'BRIEN
+				(unsettled) 
+			Of course.
+
+					ODO
+			Hm.
+
+					BASHIR 
+			Why?
+
+					ODO
+			You both appear to be a couple of 
+			centimeters shorter than the last 
+			time I saw you.
+
+	O'Brien and Bashir exchange a nervous glance -- each
+	trying to see if the other looks any smaller.
+
+					ODO 
+			A changeling notices that sort of
+			thing.
+
+      DEEP SPACE NINE: "One Little... " - REV. 1/9/98 - ACT FIVE     65.
+
+109  CONTINUED:	(4)
+
+					QUARK
+				(chiming in) 
+			I wasn't going to say anything, 
+			but you do look a little on the... 
+			petite side.
+
+	Bashir sets his drink down, looking steadily at 
+	O'Brien.
+
+					BASHIR 
+			Infirmary.
+
+	Bashir and O'Brien hustle out. Odo watches them go, a 
+	thin smile stealing onto his lips. Quark steps up to 
+	the bar, beside him.
+
+					QUARK 
+			And they say you don't have a 
+			sense of humor.
+
+	Odo gives him a look, and we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

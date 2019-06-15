@@ -1,0 +1,3278 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "Profit and Lace" 
+                          #40510-547 
+                              
+                          Written by 
+                Ira Steven Behr & Hans Beimler 
+                              
+                          Directed by 
+                       Alexander Siddig 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                              March 9,1998
+
+    STAR TREK: DS9 - "Profit and Lace" - 03/09/98 - CAST
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Profit and Lace" 
+                             CAST 
+
+          SISKO                    ROM
+          KIRA                     ZEK
+          ODO                      ISHKA
+          BASHIR                   NOG
+          DAX                      BRUNT
+          WORF                     LEETA
+          QUARK                    NILVA
+          ALUURA                   
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     MAIHAR'DU
+          URI'LASH                 
+          MORN                     
+
+    STAR TREK: DS9 - "Profit and Lace" - 03/09/98 - SETS
+
+                  STAR TREK:  DEEP SPACE NINE
+                       "Profit and Lace" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          QUARK'S                       
+          QUARK'S QUARTERS              
+          OPS                           
+          AIRLOCK CORRIDOR              
+          ROM'S QUARTERS                
+          INFIRMARY                     
+          HABITAT RING CORRIDOR         
+          NILVA'S QUARTERS              
+
+      DS9 - "Profit and Lace" - 03/10/98 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                       "Profit and Lace" 
+                      PRONUNCIATION GUIDE 
+
+          ALUURA                   uh-LURE-uh
+          CLARUS                   CLARE-us
+          EELWASSER                EEL-vahsir
+          GAILA                    GAY-luh
+          HYPICATE                 HIP-eh-kat
+          IRTOK                    ER-tahk
+          LEK                      LECK
+          LOBEKINS                 LOBE-kins
+          LUMBA                    LUM-bah
+          OO-MOX                   OO-machs
+          URI'LASH                 YURI-lash
+          ZEK                      ZECK
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "Profit and Lace"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S QUARTERS
+
+	CLOSE ON QUARK reading a PADD and shaking his head in 
+	amazement.
+
+					QUARK
+			I'm truly impressed.
+
+	ADJUST TO REVEAL a beautiful, Amazonian, young dabo 
+	girl, ALUURA, seated in a chair, drinking up Quark's 
+	praise.
+
+					QUARK
+			And I'm not easily impressed. In 
+			all my years as proprietor of 
+			Quark's Bar, Grill, Gaming House 
+			and Holosuite Arcade, I have never 
+			seen such a glowing employee 
+			performance report. I mean look 
+			at this --
+
+	Quark holds the PADD up for Aluura to see.
+
+					QUARK
+			-- in three months, no customer 
+			has filed a single complaint 
+			against you. You haven't spilled 
+			a drink or mixed up a food order 
+			or shortchanged a bill.
+
+					ALUURA
+			I take my job very seriously.
+
+					QUARK 
+			And yet you always manage to wear 
+			a friendly smile.
+
+					ALUURA 
+			That's because I like my work. 
+			I'm happy to be here.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         2.
+
+1    CONTINUED
+
+					QUARK 
+			It shows. The customers love you, 
+			your fellow dabo girls love 
+			you -- even the Ferengi waiters 
+			sing your praises. And you know 
+			why? Because you're nice.
+
+					ALUURA
+			I try to be.
+
+					QUARK 
+			You're nice to the customers, to 
+			the dabo girls, to the Ferengi 
+			waiters. You're nice to everyone. 
+				(a beat) 
+			Almost everyone.
+
+	That catches Aluura's attention; she can't think of who 
+	she could possibly have insulted.
+
+					ALUURA
+			You mean I've offended someone?
+
+	A distressed Aluura rises from the chair.
+
+					QUARK 
+			Look closely, Aluura. Can't you 
+			see the pain in my eyes?
+
+	She stares at Quark.
+
+					ALUURA
+			But I'm always nice to you.
+
+	Quark shakes his head regretfully. There's a long beat 
+	as the coin drops.
+
+					QUARK
+			I think you could be nicer.
+
+					ALUURA
+				(concerned)
+			How much nicer?
+
+	Quark reaches over and hands her another PADD.
+
+					ALUURA
+				(reading)
+			"Oo-mox for Fun and Profit."
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER        2A.
+
+1    CONTINUED:	(2)
+
+					QUARK
+			It's a quick read.
+
+
+					ALUURA
+			Oh. You want me to be "nice."
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         3.
+
+1    CONTINUED:	(3)
+
+					QUARK 
+			Let's face it. The customers, the 
+			dabo girls, the Ferengi waiters... 
+			they didn't hire you. And they 
+			can't fire you.
+
+2    OMITTED
+
+3    NEW ANGLE
+
+	as the door OPENS and a frantic ROM comes racing in.
+
+					ROM
+			Brother! We need to talk.
+
+	Quark's eyes remain glued on Aluura.
+
+					QUARK 
+			Go away. I'm in the middle of a 
+			meeting.
+
+					ROM 
+			But it's important.
+
+					QUARK 
+			So's the meeting.
+
+					ROM
+			It's about our mother.
+
+					QUARK 
+			How many times have I told you not 
+			to mention Moogie when I'm...
+				(indicating Aluura)
+			... you know, working.
+
+					ROM 
+			Sorry.
+				(proceeding) 
+			But I tried contacting her this 
+			morning, and I couldn't get 
+			through.
+
+	Quark returns his head to Aluura's chest, clearly 
+	unperturbed by this news.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         4.
+
+3    CONTINUED:
+
+					QUARK 
+			She's probably off "visiting" the 
+			Grand Nagus.
+
+					ROM 
+			I tried the Tower of Commerce. 
+			There was no answer there either.
+
+					QUARK 
+			They're probably on vacation. Now 
+			leave me alone, I'm trying to 
+			concentrate.
+
+					ROM 
+			Brother, you don't understand.
+			I can't get a hold of anyone on 
+			Ferenginar. Not Cousin Gaila, not 
+			Lek... I tell you, something's 
+			very wrong.
+
+	That gets Quark's attention.
+
+					QUARK
+				(to Aluura) 
+			We'll continue this later. In the 
+			meantime, you've got some reading 
+			to do.
+
+	Having said what he came to say, Rom finally notices 
+	Aluura.
+
+					ROM 
+			Hello, Aluura.
+				(looking at the PADD) 
+			Good book.
+
+	Quark grabs Rom by the elbow.
+
+					QUARK 
+			Let's go.
+
+	As Quark leads Rom away, Rom looks back at Aluura.
+
+					ROM
+			She's so nice.
+
+					QUARK 
+			We'll see.
+
+	And with that, he hustles his brother out of the room.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER        4A.
+
+4    INT. OPS
+
+	SISKO and KIRA stand at the Ops table with Quark and 
+	Rom. WORF and DAX are at their stations.
+
+					SISKO
+			A Dominion invasion of Ferenginar?
+
+        DEEP SPACE NINE: "Profit.. " - REV. 3/25/98 - TEASER         5.
+
+4    CONTINUED:
+
+					ROM 
+			Think of the terrible 
+			repercussions to the Alpha 
+			Quadrant.
+
+					WORF 
+			I can't think of any.
+
+					KIRA
+				(to Quark and Rom) 
+			How could the Dominion invade 
+			Ferenginar without first 
+			conquering the systems surrounding 
+			it like Clarus and Irtok?
+
+					ROM
+				(to Quark) 
+			Brother, did you hear that? 
+			They've captured Irtok as well.
+
+					KIRA
+			That's not what I said.
+
+					WORF
+				(to Sisko) 
+			There are no reports of Dominion 
+			activity anywhere near that sector.
+
+					QUARK
+			Then why can't we get through to 
+			Ferenginar?
+
+					ROM
+			Moogie, the Nagus, Cousin Gaila...
+
+	Rom buries his head in Quark's shoulder.
+
+					ROM
+			... they're all dead.
+
+					QUARK
+			We don't know that.
+				(to Sisko)
+			But something's definitely wrong
+			on Ferenginar.
+
+					SISKO
+			We'll see what we can find out.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         6.
+
+4    CONTINUED:	(2)
+
+					DAX
+			Captain, a Ferengi ship is
+			approaching the station and
+			requesting permission to dock.
+				(off her console)
+			It's Grand Nagus Zek...
+				(to Quark and Rom)
+			... and your mother's with him.
+
+					ROM
+				(excited)
+			They're alive!
+				(to Sisko, impressed)
+			Nice work.
+
+5    INT. AIRLOCK CORRIDOR
+
+	The airlock door OPENS to reveal GRAND NAGUS ZEK and 
+	ISHKA holding hands as they step out of the airlock. 
+	Though both Zek and Ishka seem quite jovial and 
+	content, MAIHAR'DU, Zek's faithful Hupyrian servant, 
+	seems as if he's carrying the weight of the world on 
+	his broad shoulders. (Note: the Nagus should NOT be 
+	carrying his familiar cane.)
+
+					ZEK
+			Quark! Rom!
+
+	PULL BACK TO REVEAL Quark and Rom waiting for them.
+
+					ZEK
+			It's good to see you boys.
+
+					QUARK
+			It's good to see you, too, Nagus.
+
+	Rom rushes up to hug his mother.
+
+					ROM
+			Moogie! I was so worried...
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         7.
+
+5    CONTINUED:
+
+					ISHKA
+				(to Rom)
+			You're a good son.
+
+					QUARK
+			I was worried, too.
+
+					ISHKA
+				(to Quark)
+			And you're a good liar.
+
+	Rom suddenly realizes something:
+
+					ROM
+			Moogie... do you think it's a good
+			idea to be wearing clothes in
+			public?
+
+					QUARK
+			He's right. What if one of my
+			Ferengi waiters sees you?
+
+					ISHKA
+			I hope they do. Tell them, Zekkie.
+
+					ZEK
+			No, you go right ahead, my dear.
+
+					ISHKA
+				(insisting)
+			It should really come from you.
+
+					QUARK
+				(impatient)
+			Would somebody please tell me
+			what's going on?
+
+					ISHKA
+			It's one of those good-news-bad-
+			news type of things...
+				(nudging Zek)
+			Give them the good news first.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         8.
+
+5    CONTINUED:	(2)
+
+					ZEK 
+			If you insist. Three days ago, 
+			I added a new amendment to the 
+			Ferengi Bill of Opportunities 
+			giving females the right to wear 
+			clothes.
+
+					ROM
+				(shocked) 
+			In public?
+
+					ISHKA 
+			Anywhere we want.
+
+					QUARK 
+			That can't be the good news. If 
+			Ferengi females can wear clothes 
+			in public, they can leave their 
+			homes. If they can leave their 
+			homes, they can go to work. If 
+			they can go to work, they can make 
+			profit.
+
+					ISHKA 
+			What's the matter, Quark? Afraid 
+			of a little competition?
+
+					QUARK
+				(to Zek) 
+			You're sure that's the good news?
+
+					ROM
+				(smiling) 
+			It sounds good to me.
+
+					ISHKA
+				(to Quark, re: Rom) 
+			Now do you see why I like him best?
+
+					ZEK 
+			Face it, Quark. It's good 
+			business. For thousands of years, 
+			Ferenginar has allowed a valuable 
+			resource to go to waste.
+
+					QUARK 
+			Females? A valuable resource?
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER        8A.
+
+5    CONTINUED:	(3)
+
+					ZEK 
+			They make up fifty-three point 
+			five percent of the population and 
+			contribute virtually nothing to 
+			the gross planetary income. I say 
+			it's time they started pulling 
+			their own weight.
+
+					QUARK 
+			You better tell me the bad 
+			news -- it might cheer me up.
+
+					ISHKA 
+			I doubt it.
+
+					ZEK 
+			The moment fully clothed females 
+			began appearing on the streets of 
+			Ferenginar, financial chaos 
+			erupted all over the planet.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER         9.
+
+5    CONTINUED:	(4)
+
+					ROM 
+			That explains the communications 
+			blackout.
+
+					ZEK 
+			There was so much buying and 
+			selling throughout the Alliance 
+			that the entire planetary 
+			communications grid shut down.
+
+					QUARK 
+			If there's trouble on Ferenginar, 
+			what are you doing here?
+
+					ZEK 
+			I've been deposed. I'm no longer 
+			Grand Nagus.
+
+					QUARK 
+			Then who is?
+
+					ISHKA 
+			Who do you think?
+
+					QUARK
+				(the light dawns)
+			Brunt.
+
+					ROM
+				(a horrifying thought) 
+			Grand Nagus Brunt?
+
+					ZEK 
+			Acting Grand Nagus Brunt.
+
+					ROM
+				(to Quark) 
+			Brother -- we're in trouble now. 
+			Brunt hates us.
+
+					ISHKA 
+			Don't start panicking. The 
+			Ferengi Commerce Authority hasn't 
+			confirmed him yet.
+
+					ZEK 
+			And they won't for three more days.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - TEASER        10.
+
+6    ANGLE ON ZEK
+
+	as he puts his arms around Quark and Rom.
+
+					ZEK
+				(nodding) 
+			Boys, together we're going to 
+			reconquer an empire.
+				(a beat) 
+			Or die in the attempt.
+
+	And as the Nagus's words sink in, we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       11.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+7    INT. QUARK'S QUARTERS
+
+	Quark leads the Nagus, Ishka, and Maihar'du into the room.
+
+					ISHKA 
+			What lovely quarters you have, 
+			Quark.
+				(a beat)
+			Small, but lovely.
+
+					ZEK
+				(a pronouncement) 
+			As of this moment, I declare this 
+			site to be the headquarters of the 
+			sole legitimate government of 
+			Ferenginar.
+
+	Maihar'du starts CLAPPING enthusiastically, then stops 
+	when he realizes no one else is joining in.
+
+					QUARK 
+			I still can't believe Brunt is the 
+			new Nagus.
+
+					ZEK 
+			Acting Nagus.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       12.
+
+7    CONTINUED:
+
+					QUARK 
+			For three more days. Then it 
+			becomes official.
+
+					ZEK 
+			I'm not worried. I have a secret 
+			weapon.
+
+	Zek puts his arm around Moogie.
+
+					ZEK 
+			Your mother. Now listen 
+			closely -- one, we contact every 
+			F.C.A. Commissioner and invite 
+			them to the station for a meeting. 
+			Two, Ishka runs the meeting.
+
+					QUARK
+				(dry) 
+			They'll love that.
+
+					ZEK 
+			Maybe not at first, but she'll win 
+			them over. Using her vast 
+			financial knowledge and keen 
+			instinct for profit, she'll 
+			prove -- once and for all -- that 
+			allowing females to wear clothing 
+			is the first step toward a 
+			healthier and more prosperous 
+			Ferengi economy. And three... 
+				(a beat) 
+			What was three again, my dear?
+
+					ISHKA 
+			The F.C.A. Commissioners reinstate 
+			you as Nagus.
+
+					ZEK 
+			And you can't ask for a happier 
+			ending than that.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       13.
+
+7    CONTINUED:	(2)
+
+					ISHKA 
+			But that's only the beginning, 
+			lobekins. I predict that one day, 
+			a female will enter the Tower of 
+			Commerce, climb the forty flights 
+			of stairs to the Chamber of 
+			Opportunity, and take her rightful 
+			place as Grand Nagus of the 
+			Ferengi Alliance.
+
+	The Nagus and Quark exchange a look of uneasiness.
+
+					QUARK 
+			Don't look at me -- it was your 
+			amendment.
+
+8    ANGLE ON THE DOOR
+
+	as it OPENS to REVEAL Rom, LEETA and NOG. Rom proudly 
+	leads them into the room.
+
+					ROM 
+			Nagus -- you remember my son, Nog, 
+			don't you? He's the first Ferengi 
+			to join Starfleet.
+
+					ZEK 
+			I'll try not to hold that against 
+			him.
+
+					ROM 
+			And this is my wife, Leeta.
+
+					LEETA 
+				(to Zek) 
+			I've heard so much about you.
+
+	Zek finds Leeta very attractive.
+
+        DEEP SPACE NINE: "Profit... - REV. 3/25/98 - ACT ONE        14.
+
+8    CONTINUED:
+
+					ZEK
+			Would you like to hear more?
+
+	Ishka sidles up to Zek.
+
+					ISHKA
+			Remember -- she's Rom's wife.
+
+					ZEK
+			Meaning what?
+
+					ISHKA
+			Meaning she's broke.
+
+					ZEK
+			She doesn't look broke to me.
+
+					ISHKA
+				(a warning)
+			Zekkie...
+
+					ZEK
+			Just having a little harmless fun,
+			my sweet.
+				(all business)
+			Quark, you and your brother, get
+			rid of some of this furniture.
+				(to Nog)
+			You, get three subspace transceivers
+			off my ship and set them up in here.
+				(to Maihar'du)
+			And where's my beetle snuff?
+
+	Maihar'du, having anticipated the request, hands Zek 
+	the beetle snuff right away.
+
+9    CLOSE ON ZEK
+
+	as Quark, Rom and Nog go to carry out their orders.
+
+					ZEK
+			Grand Nagus Brunt... baaah!
+
+	Zek takes a pinch of the snuff and SNEEZES violently.
+
+10   INT. QUARK'S QUARTERS - LATER
+
+	All of Quark's furniture has been removed, replaced by 
+	three desktop monitors at which sit Quark, Rom and Nog.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       15.
+
+11   CLOSE ON QUARK
+
+	speaking to the monitor. (NOTE: Throughout this 
+	sequence, we never see the people being spoken to on 
+	the monitors.)
+
+					QUARK 
+			Good afternoon, I'm calling on 
+			behalf of Grand Nagus Zek...
+
+12   TRUCK OVER TO ROM
+
+	speaking to his monitor.
+
+					ROM 
+			The Nagus summons you to a meeting 
+			here on Deep Space Nine...
+
+13   ENDING UP ON NOG
+
+	speaking to his monitor.
+
+					NOG 
+			He's counting on your support.
+
+									CUT TO:
+
+14   CLOSE ON QUARK
+
+					QUARK 
+			You'll be presented with some very 
+			interesting financial data...
+
+15   CLOSE ON ROM
+
+					ROM
+			... there's profit to be earned...
+
+16   CLOSE ON NOG
+
+					NOG
+			... and the Nagus wants you to 
+			share in these lucrative 
+			opportunities...
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       16.
+
+17   ON ROM
+
+					ROM
+			Yes, I'm talking about the Grand
+			Nagus --
+
+18   ON QUARK
+
+					QUARK
+			No, not Brunt --
+
+19   ON NOG
+
+					NOG
+			-- Grand Nagus Zek.
+
+20   ON QUARK
+
+					QUARK
+			Who said he was dead?
+
+21   ON ROM
+
+					ROM
+			Wait -- don't end the transmission!
+
+22   ON NOG
+
+					NOG
+			Hello? Hello?
+				(to himself)
+			Where'd he go?
+
+23   ON ROM
+
+					ROM
+			I'm calling on behalf of Grand
+			Nagus Zek --
+
+24   ON QUARK
+
+					QUARK
+			I know all about the ninety-fourth
+			Rule of Acquisition --
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       17.
+
+25   ON NOG
+
+					NOG
+			I know... "Females and finances
+			don't mix," but that can be 
+			interpreted in many different 
+			ways...
+
+26   ON QUARK
+
+					QUARK
+			Hello? Hello?
+
+27   ON ROM
+
+					ROM
+			That's not a very nice thing to 
+			say about the Nagus.
+
+28   ON QUARK
+
+					QUARK
+				(taken aback) 
+			I beg your pardon!
+
+29   ON NOG
+
+					NOG
+			There's no need to be insulting.
+
+30   ON ROM
+
+					ROM
+			Hello? Hello?
+
+31   ON QUARK
+
+					QUARK 
+			That female happens to be my 
+			mother!
+
+32   ON NOG
+
+					NOG
+			Hello? Hello?
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       18.
+
+33   ON ROM
+
+					ROM 
+			Hello? Hello?
+
+34   ON QUARK
+
+					QUARK 
+			Hello? Hello?
+
+									SMASH CUT TO:
+
+35   INT. QUARK'S
+
+	CLOSE ON Grand Nagus Zek.
+
+					ZEK
+				(holding a PADD) 
+			Are you sure you contacted every 
+			Commissioner on this list?
+
+36   ANGLE TO INCLUDE QUARK, ROM AND NOG
+
+	They're all exhausted and seated at the bar as 
+	Maihar'du serves them drinks. Ishka stands near the 
+	Nagus.
+
+					QUARK 
+			All four hundred and thirty-two 
+			of them.
+
+					ZEK 
+			And you could only convince 
+			one of them to attend the meeting?
+
+					ROM 
+			Maybe if we made some follow-up 
+			calls...
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       19.
+
+36   CONTINUED:
+
+					ZEK
+				(re: the list) 
+			I helped every one of those people 
+			earn a fortune -- and this is how 
+			they repay me?
+
+					NOG 
+			What a bunch of ingrates.
+
+					ISHKA 
+			The news isn't all bad.
+
+	Everyone turns to look at Moogie.
+
+					ISHKA 
+			The Commissioner who's agreed to 
+			come... it's Nilva.
+
+					QUARK 
+			The Chairman of Slug-o-Cola?
+
+	Ishka smiles as she nods.
+
+					ISHKA 
+			He's a very influential voice 
+			within the F.C.A.
+
+					ZEK 
+			Unfortunately, he's a very 
+			influential voice for the status 
+			quo.
+
+
+					ROM
+				(agreeing) 
+			I don't think Slug-o-Cola has 
+			changed their advertising slogan 
+			in three hundred years.
+
+					ZEK/ISHKA/ROM/QUARK 
+			"Drink Slug-o-Cola -- the slimiest 
+			cola in the galaxy."
+
+					QUARK
+			Why would Nilva agree to come to 
+			the meeting?
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT ONE       20.
+
+36   CONTINUED:	(2)
+
+					ISHKA
+			I don't know. But if I can
+			convince him to support Zek, other
+			Commissioners might follow.
+
+					ZEK
+			It's a start.
+
+					ISHKA
+			See? I told you it was too early
+			to panic.
+
+	Quark, Rom, Zek and Maihar'du sigh with collective 
+	relief.
+
+					BRUNT (O.S.)
+			Care to place a wager on that?
+
+37   NEW ANGLE
+
+	as BRUNT, holding the Nagus's gold-headed staff, ENTERS 
+	and approaches the group.
+
+	He's followed by URI'LASH, a Hupyrian servant every bit 
+	as tall and broad as Maihar'du.
+
+					ROM
+			Grand Nagus Brunt...
+
+					ZEK
+			Acting Grand Nagus Brunt.
+
+38   ANGLE ON ISHKA
+
+	as the smile has disappeared from her lips.
+
+					ISHKA
+			Now you can panic.
+
+	And on the their expressions of doom, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       21.
+                            ACT TWO                             
+
+	FADE IN:
+
+39   INT. QUARK'S
+
+	As before. Brunt leans on the bar.
+
+					BRUNT
+				(to Quark)
+			I'll take an Eelwasser. No ice.
+
+	Quark, who has been worriedly cleaning the bar with a 
+	cloth, begins to fill Brunt's order. In the 
+	background, Brunt's servant, Uri'lash, storms around 
+	the bar to be met by Maihar'du. The two Hupyrians 
+	square off, eyeball-to-eyeball. (Note: these two will 
+	stay in this threatening posture throughout the scene.)
+
+					ZEK
+			What're you doing here, Brunt?
+
+					BRUNT
+			That's Grand Nagus Brunt.
+
+					ISHKA
+			Acting Grand Nagus.
+
+	Brunt shies his eyes away from Ishka.
+
+					BRUNT
+			Would someone please tell that
+			female to take off those
+			clothes -- it's disgusting.
+
+	Ishka positions herself into Brunt's line of vision.
+
+					ISHKA
+				(re: her clothes)
+			Get used to it, limp lobes. This
+			is the future.
+
+					BRUNT
+			Over my dead body.
+
+					ZEK
+			If that's what it takes.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       22.
+
+39   CONTINUED:
+
+					ROM 
+			I don't suppose you're here to
+			reminisce about the time you 
+			helped my brother and I rescue 
+			Moogie from the Dominion.
+
+					BRUNT 
+			You're right. That's not why I'm 
+			here.
+				(a malicious smile) 
+			Though I do find it ironic that 
+			helping to rescue your mother was 
+			the first step on my road to 
+			becoming Nagus.
+
+					ISHKA 
+			Don't remind me.
+
+					ZEK
+				(to Brunt) 
+			I never should've given you your 
+			job back with t'he F.C.A.
+
+					BRUNT
+				(gleeful) 
+			But you did. And as a Liquidator, 
+			I was able to bribe my way back 
+			into a position of power.
+
+					ROM
+				(finally getting it) 
+			That is ironic.
+
+					BRUNT 
+			Face it, Zek, it's over. You're 
+			finished. Bankrupt.
+				(with finality) 
+			I'm going to liquidate you.
+
+	Brunt turns to Maihar'du, still locked in a stare-down 
+	with Uri'lash. Quark shows up with an Eelwasser.
+
+					BRUNT 
+			Cancel that Eelwasser and get me 
+			a Slug-o-Cola instead.
+				(pointed) 
+			On second thought, I'll just wait 
+			for Chairman Nilva to get here. 
+			I'm sure he'll be happy to provide 
+			his new Nagus with all the Slug-o-
+			Cola I can drink.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       23.
+
+39   CONTINUED:	(2)
+
+	That gets everyone's attention.
+
+					ROM 
+			How did you know Nilva was coming 
+			here?
+
+					BRUNT
+			Because it's my business to know.
+				(to Zek) 
+			Go ahead, have your little 
+			"meeting." Whatever you offer 
+			Nilva, I'll double it.
+
+	That knocks the wind out of everyone's sails. Quark 
+	makes a quick decision:
+
+					QUARK
+				(to Brunt) 
+			That's it. Get out of my bar.
+
+					BRUNT 
+			You dare to threaten your Nagus.
+
+					QUARK
+			Acting Nagus. You may liquidate 
+			us tomorrow, but right now, this 
+			is still my establishment. Now 
+			get out before I kick you out.
+
+	Brunt and Quark are face to face, staring each other 
+	down.
+
+					BRUNT 
+			I'm going to make you a pauper.
+
+					QUARK
+				(to Uri'lash) 
+			Out.
+
+	Brunt breaks the moment by turning to the bar and 
+	calling out:
+
+					BRUNT 
+			Uri'lash. We're leaving. Say 
+			good-bye to all these poor 
+			people.
+
+	Imperiously, Brunt EXITS, followed by Uri'lash.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       24.
+
+40   ANGLE ON ZEK
+
+	stepping up to Quark.
+
+					ZEK 
+			My boy, I'm proud of you.
+
+					ISHKA 
+			So am I.
+
+					ROM 
+			Me, too.
+
+	Even Maihar'du steps up and lightly pats Quark on the 
+	top of the head. But Quark looks anything but 
+	triumphant.
+
+					QUARK 
+			I just threw the Grand Nagus out 
+			of my bar.
+
+					ZEK/ISHKA/ROM 
+			Acting Grand Nagus.
+
+					QUARK 
+			Whatever.
+				(a beat)
+			I need to lie down.
+
+	And off this moment, we go to --
+
+41   INT. ROM'S QUARTERS
+
+	And indeed, a depressed Quark is lying down on Rom's 
+	couch when Ishka ENTERS, smiling.
+
+					ISHKA 
+			You busy, Quark?
+
+					QUARK
+			Busy? Me? Nah. I'm just lying 
+			here wondering if it's not too 
+			late for me to start a new life 
+			somewhere.
+
+					ISHKA 
+			Oh, Quark, there's nothing wrong 
+			with your life.
+				(clapping her hands) 
+			Come on, on your feet. Zekkie's 
+			waiting for you at the bar.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       25.
+
+41   CONTINUED:
+
+					QUARK
+				(worried). 
+			Now what?
+
+					ISHKA
+				(matter of fact) 
+			He feels like playing a game of 
+			tongo.
+
+					QUARK 
+			We're all facing banishment from 
+			Ferengi society and he wants to 
+			play tongo?
+
+					ISHKA 
+			He wants to play tongo, I want to 
+			have a late night snack, you want 
+			to lie here feeling sorry for 
+			yourself -- we all deal with 
+			stress in different ways.
+					(looking around)
+			Any fresh tube grubs around?
+
+					QUARK 
+			How can you eat at a time like 
+			this?
+
+					ISHKA 
+			It's simple. You put one end of 
+			the tube grub between your front 
+			teeth, and suck 'em right up.
+
+	Quark gets up and building a head of steam, steps over 
+	to a cabinet.
+
+					QUARK 
+			You want tube grubs? Fine.
+
+	Quark opens the cabinet and grabs a jar of tube grubs 
+	and thrusts it at his mother.
+
+					QUARK 
+			Here. Enjoy.
+
+	Ishka opens up the jar, disappointed.
+
+					ISHKA 
+			These are minced. I wanted fresh.
+
+	Quark can't hold his feelings back any longer.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       26.
+
+41   CONTINUED:	(2)
+
+					QUARK 
+			You know this is all your fault.
+
+					ISHKA 
+			It's my fault you don't have fresh 
+			tube grubs?
+
+					QUARK
+			I'm not talking about tube grubs. 
+			I'm talking about Ferengi females 
+			wearing clothes and earning 
+			profit. I'm talking about Grand 
+			Nagus Brunt.
+
+					ISHKA 
+			Acting Grand Nagus Brunt.
+
+					QUARK 
+			You're not fooling me, Moogie. 
+			You've been plotting this all 
+			along. Ever since you met Zek, 
+			you've been working on him. 
+			Manipulating him. Whispering 
+			things in his ear... things like --
+				(disgusted) 
+			-- "equality for females."
+
+					ISHKA
+				(rising anger)
+			What's wrong with that?
+
+					QUARK 
+			I'll tell you what's wrong -- 
+			you've ruined Zek's life, your 
+			life, Rom's life --
+
+					ISHKA 
+			As if you cared about any of us. 
+			It's your life you're worried 
+			about.
+
+					QUARK 
+			You bet I'm worried. No one else 
+			seems to care what happens to me! 
+			You come here to my station, take 
+			over my quarters, make me a part 
+			of your subversive schemes --
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       27.
+
+41   CONTINUED:	(3)
+
+					ISHKA 
+			What's the matter, Quark? Afraid 
+			you've picked the wrong side? You 
+			can always go crawling to 
+			Brunt -- beg his forgiveness.
+
+					QUARK 
+			I don't want anything to do with 
+			Brunt. I want my old Nagus 
+			back... I want Zek to be the way 
+			he used to be -- before he met 
+			you... before you twisted his 
+			thinking with your feminine wiles.
+
+	Quark's words hit their mark.
+
+					ISHKA 
+			Before he met me, Zek was a 
+			lonely, unhappy man.
+
+					QUARK 
+			But he was rich. He was the most 
+			powerful Ferengi alive. Now what 
+			is he? A puppet. And you're the 
+			one pulling his strings. Making 
+			him dance to your evil, feminist 
+			tune. You're the worst thing that 
+			ever happened to him. You're the 
+			worst thing that ever happened to 
+			me. In fact, you're the worst 
+			thing that ever happened to the 
+			entire Ferengi Alliance.
+
+	Ishka's anger boils to the surface. As Ishka speaks, 
+	her body quivers as if she's too angry to get the words 
+	out.
+
+					ISHKA 
+			Maybe I am, but at least I'm not 
+			like you. A selfish, spineless, 
+			ungrateful...
+
+	Ishka stops, her hand still pointed accusingly at Quark.
+
+					QUARK
+			Is that the best you can do?
+
+					ISHKA 
+			You are... you are... you really 
+			are... you... you... you...
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       28.
+
+41   CONTINUED:	(4)
+
+					QUARK 
+			Go ahead and say it!
+
+					ISHKA
+			You...
+
+	Suddenly her voice cracks, her eyes widen, and with a 
+	look of total surprise on her face, she falls back like 
+	a plank onto the floor.
+
+42   ANGLE ON QUARK
+
+	whose anger has instantly dissipated, quickly 
+	approaches his mother's body.
+
+					QUARK 
+			Moogie?
+
+	A beat as Ishka doesn't respond.
+
+					QUARK 
+			Moogie?
+				(guilty) 
+			Uh-oh.
+
+43   INT. INFIRMARY
+
+	A solemn Quark is seated beside a quietly seething Zek. 
+	Maihar'du stands near his employer, clearly worried 
+	that Zek is about to blow his top. Meanwhile, a 
+	distraught Rom paces around the room.
+
+					ROM
+				(feeling her pain) 
+			Moogie... please don't die.
+
+				QUARK
+				(trying to convince
+				himself)
+			She's not going to die. She's
+			going to get better.
+
+					ZEK 
+			I hope so. For her sake, for my 
+			sake, for the sake of the entire 
+			Ferengi Alliance...
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       29.
+
+43   CONTINUED:
+
+					ZEK (Cont'd)
+				(a threat)
+			... but most of all, I hope she
+			gets better for your sake, Quark.
+			Because if she doesn't...
+
+					QUARK
+			What did I do?
+
+					ZEK 
+			That's exactly the question I keep 
+			asking myself -- what did you do 
+			to her?
+
+					QUARK 
+			I told you, she said she was 
+			hungry and I gave her some tube 
+			grubs. She thanked me then she 
+			collapsed.
+				(with feeling) 
+			I wish you'd stop making me relive 
+			it.
+
+					ROM 
+			Are you sure you didn't do or say 
+			anything that might've upset her?
+
+					QUARK 
+			I don't want to talk about it 
+			anymore.
+
+					ZEK 
+			What's the matter, Quark? Your 
+			conscience bothering you?
+
+					QUARK 
+			I haven't done anything wrong!
+
+					BASHIR (O.S.)
+			That's not what your mother says.
+
+44   NEW ANGLE
+
+	as DOCTOR BASHIR ENTERS from the examination room. 
+	Everyone gets up to meet him.
+
+					ROM
+			Doctor, how's Moogie?
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       30.
+
+44   CONTINUED:
+
+					QUARK
+				(anxious) 
+			Will she live?
+
+					BASHIR 
+			She'll live. She needed a new 
+			heart and it's functioning 
+			normally. But she's going to need 
+			complete rest for a few days.
+				(re: Quark) 
+			And that means keeping her far 
+			away from him.
+
+	Before Quark can answer, Zek jumps in to ask:
+
+					ZEK
+			And why is that, doctor?
+
+					BASHIR 
+			I'm not sure exactly. All I know 
+			is that Ishka keeps repeating the 
+			same phrase over and over -- "It's 
+			all Quark's fault. It's all 
+			Quark's fault."
+
+	All eyes turn to Quark.
+
+					QUARK
+				(the bold denial) 
+			I wonder what she means by that?
+
+	But no one's buying it and Quark knows it.
+
+45   INT. QUARK'S
+
+	A minimal crowd. Zek and Rom are at the bar listening 
+	to Quark unburden his soul.
+
+					QUARK
+			... and then I accused her of being 
+			the worst thing that ever happened 
+			to the Ferengi Alliance and she 
+			clutched her chest and collapsed.
+				(a beat) 
+			Moogie and I argue all the 
+			time -- it's our way of showing 
+			affection.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       31.
+
+45   CONTINUED:
+
+					ZEK 
+			Well, if you ask me, Quark -- the 
+			worst thing that ever happened to 
+			the Ferengi Alliance is you.
+
+					QUARK
+			I'm sorry.
+
+					ROM 
+			I suppose we should contact Nilva 
+			and tell him the meeting has to 
+			be postponed.
+
+					ZEK 
+			We can't postpone the meeting. 
+			In two days, the F.C.A. is going 
+			to confirm Brunt as the new Grand 
+			Nagus.
+
+	A long beat as they think this over.
+
+					ROM 
+			Boy, when things go wrong...
+
+					BRUNT (O.S.)
+			... the only thing to do is get 
+			down on your knees and beg for 
+			mercy.
+
+46   NEW ANGLE
+
+	to include Brunt and Uri'lash, who've just come down 
+	from the holosuites, looking very pleased with 
+	themselves.
+
+					BRUNT 
+			Who knows? You might find me in 
+			a charitable mood.
+
+					ZEK 
+			By the time I'm through with you, 
+			you're the one who's going to need 
+			charity.
+
+					BRUNT 
+			Such brave words, yet so empty. 
+				(to the brothers) 
+			I was very relieved to hear that 
+			your mother is going to be all 
+			right.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       32.
+
+46   CONTINUED:
+
+					BRUNT (Cont'd) 
+				(to Zek) 
+			Of course, that's not going to do 
+			you much good. Nilva will be 
+			arriving tonight expecting to meet 
+			a "brilliant" Ferengi female. Do 
+			you know any -- I mean besides 
+			Ishka? I certainly don't.
+
+	Zek tries to get up from his seat and lunge at Brunt, 
+	but Maihar'du holds him back.
+
+					BRUNT 
+			How pitiful. One day you're the 
+			Grand Nagus of the Ferengi 
+			Alliance, the next you're nothing 
+			but a common barroom brawler. 
+				(to Quark and Rom)
+			See what happens when you put your 
+			faith in a female?
+
+	And with that, Brunt and Uri'lash walk off.
+
+47   ANGLE ON QUARK, ZEK AND ROM
+
+	sinking into deeper depression.
+
+					ROM
+			What about Leeta?
+
+					QUARK 
+			What about her?
+
+					ROM 
+			Maybe she can meet with Nilva. 
+			She handles my finances and she's 
+			a female.
+
+					ZEK 
+			And a very beautiful one at that. 
+			But Nilva's expecting to meet with 
+			a Ferengi female.
+
+					QUARK
+			We'll never get one here in time.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       33.
+
+47   CONTINUED:
+
+					ROM 
+			We're doomed.
+
+					ZEK
+				(shaking his head) 
+			No, we're not. You think Ishka 
+			would give up if she were here?
+
+					ROM 
+			If she were here, we wouldn't have 
+			a problem.
+
+					ZEK 
+			That's not the point. Your mother 
+			would never accept defeat. If she 
+			couldn't find another female, 
+			she'd... she'd...
+				(thinking) 
+			she'd...
+
+					ROM 
+			She'd what?
+
+					ZEK
+				(triumphant) 
+			She'd make one!
+
+	Neither Quark nor Rom know what he's talking about.
+
+					QUARK 
+			You mean a hologram?
+
+					ZEK
+			Better than a hologram.
+
+	Quark and Rom still grasp for the answer.
+
+					QUARK 
+			What could be better than a 
+			hologram?
+
+					ZEK 
+			You.
+
+	And off Quark's look of surprise and growing 
+	apprehension, we go to --
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       34.
+
+48   INT. INFIRMARY
+
+	Once again Rom paces the room while the Nagus waits 
+	patiently, Maihar'du standing nearby.
+
+					ROM
+			He's been in there an awfully long
+			time.
+
+					ZEK
+			It's a delicate procedure.
+
+					ROM
+				(thinking it over)
+			I'll say.
+
+49   NEW ANGLE
+
+	as Bashir emerges from surgery, still wearing his 
+	surgical gown.
+
+					ROM
+			Doctor -- what is it? Did
+			something go wrong?
+
+					BASHIR
+				(thoughtful)
+			That depends how you look at it.
+
+					ZEK
+			The operation -- was it a success?
+
+					BASHIR
+			I suppose you could say that.
+
+					ZEK
+			That's good.
+
+					BASHIR
+				(not convinced)
+			I hope so.
+
+	Bashir calls back through the doorway.
+
+					BASHIR
+			You can come out now.
+
+50   ANOTHER ANGLE
+
+	After a beat, Quark, wearing a surgical gown, steps out 
+	into the room.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       35.
+
+50   CONTINUED:
+
+	His lobes are smaller, more petite; his chest larger 
+	and more feminine; in short, Quark has been surgically 
+	altered to resemble a Ferengi female.
+
+					ROM 
+			Brother, you look... beautiful.
+
+	Quark starts WEEPING uncontrollably.
+
+					BASHIR 
+			He's a little emotional... his 
+			endocrine system needs some time 
+			to adjust to its new hormonal 
+			balance.
+
+	Quark WEEPS even harder.
+
+					BASHIR 
+			He'll be all right in a few 
+			minutes. Now if you'll excuse me, 
+			I have to go figure out how I'm 
+			going to enter this into my 
+			medical log.
+
+	Bashir EXITS, leaving Zek, Rom and Maihar'du to stand 
+	there watching Quark weep.
+
+50A  CLOSE ON QUARK
+
+	as he looks at his fellow Ferengi. When Quark speaks, 
+	his voice pitch wavers wildly -- from low to high and 
+	high to low.
+
+					QUARK 
+			Does anyone have a handkerchief?
+
+	Maihar'du tentatively hands him a handkerchief. Quark 
+	takes it gingerly and dabs his tears.
+
+
+					QUARK 
+			Where are my clothes? I want to 
+			go back to my quarters.
+
+	Zek nods to Maihar'du, who lifts up a gift box.
+
+					ZEK 
+			Try this on.
+
+	The Nagus opens the box and takes out a Ferengi dress 
+	which he holds up for Quark to see.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT TWO       36.
+
+50A  CONTINUED:
+
+	Quark takes one look at the dress and starts BAWLING again.
+
+					ROM
+			Must be the wrong size.
+
+	And off this moment, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      37.
+                           ACT THREE                            
+
+	FADE IN:
+
+52   INT. ROM'S QUARTERS
+
+	Rom, Leeta and Maihar'du are hovering around Quark, 
+	obscuring him from view. Zek is seated to one side, 
+	watching the "preparations". (NOTE: Quark's voice 
+	continues to fluctuate between high and low, low and high.)
+
+					QUARK (O.S.)
+				(masculine voice)
+			Oww! That hurts.
+
+					LEETA
+			Oh, don't be such a baby. They're
+			just earrings.
+
+					QUARK (O.S.)
+				(feminine voice)
+			They're heavy.
+
+					ROM
+			You'll get used to them.
+
+					QUARK (O.S.)
+			I hope not.
+
+					LEETA
+			Would you stop doing that.
+
+					QUARK (O.S.)
+			Doing what?
+
+					LEETA
+			Looking down. Now hold still, I'm
+			almost done.
+				(a beat)
+			There.
+
+	Rom, Leeta and Maihar'du step back REVEALING Quark to
+	Zek (and to us.) Quark is dressed in full Ferengi 
+	female regalia.
+
+					QUARK
+				(needing reassurance)
+			How do I look?
+
+					LEETA
+			You look... nice.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      38.
+
+52   CONTINUED:
+
+					QUARK
+			Nice? That's all?
+
+					ROM
+				(sincere)
+			Very nice.
+
+	Quark looks over to Maihar'du, who nods confirmation.
+
+					ZEK
+			You may look like a female but
+			you've got to do something about
+			that voice.
+
+					QUARK
+				(low)
+			I'm trying.
+				(then high)
+			I mean I'm trying.
+
+					ZEK
+			Well, try harder.
+
+	Quark nods as he looks at his chest again.
+
+					LEETA
+			And stop looking down.
+
+					QUARK
+			I need to see what I look like.
+			Someone get me a mirror.
+
+	Maihar'du has anticipated the request and rolls in a 
+	full-length mirror.
+
+53   ANGLE ON-QUARK
+
+	as he stares at his reflection.
+
+					ROM
+			You see, brother? You're lovely.
+
+	A beat, then Quark breaks into tears.
+
+					LEETA
+			There go his hormones again.
+
+					ROM
+			You mean, her hormones.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      39.
+
+53   CONTINUED:
+
+	Quark's SOBS increase, his shoulders shaking. 
+	Maihar'du offers him a handkerchief to wipe his eyes. 
+	As Quark wipes away the tears, he looks down to his 
+	chest and his sobs turn into a HAPPY CHUCKLE. But then 
+	after a moment, he looks up at the others and begins 
+	SOBBING again.
+
+					QUARK
+				(re: the mirror)
+			Take it away, take it away.
+
+	Maihar'du does as instructed as Quark tries to get 
+	control of himself.
+
+					QUARK
+			I'm sorry. It's just that I feel 
+			so...
+				(looking at his chest)
+			... different..
+
+					LEETA 
+			Would you stop staring at your 
+			chest.
+
+					QUARK
+			I wasn't staring at my chest -- 
+			I was staring at my hips. Aren't 
+			they too big?
+
+					ZEK 
+			Your hips are fine. Now let's get 
+			down to business.
+
+	Zek takes out a PADD and offers it to Quark.
+
+					ZEK 
+			These are your mother's notes for 
+			her meeting with Nilva. Study 
+			them carefully.
+
+					QUARK
+				(off the PADD) 
+			"Female apparel -- a new source 
+			of latinum for a new Ferenginar."
+
+	Quark scrolls through the PADD.
+
+					QUARK
+			"Hypicate cream -- for smooth skin 
+			and healthier profits." 
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      40.
+
+53   CONTINUED:	(2)
+
+					QUARK (Cont'd)
+				(a beat) 
+			All these facts and figures... 
+			it's too much to remember.
+
+					ZEK 
+			Nonsense. You just need a little 
+			time to practice your presentation.
+
+	Quark paces the room as he studies the PADD.
+
+					LEETA 
+			And while you're at it, you need 
+			to practice your walk.
+
+					QUARK
+			What's wrong with my walk?
+
+					LEETA 
+			You're lumbering.
+
+	Quark breaks into TEARS again.
+
+					QUARK
+			This is never going to work.
+
+					ROM
+			Don't cry, Brother. Here, let me 
+			show you. Watch carefully.
+
+	Rom "walks" across the room.
+
+					ROM 
+			You see? It's more of a glide.
+
+					LEETA
+				(re: Rom) 
+			That's good.
+
+	Rom's confidence is building.
+
+					ROM
+				(demonstrating) 
+			And when you sit -- be sure your 
+			knees are touching. And don't 
+			forget to relax your shoulders, 
+			but keep your bottom tight.
+
+	Rom sits there quite comfortably, his body language 
+	quite feminine. After a long beat, Rom realizes that 
+	everyone is looking at him silently.
+
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      41.
+
+53   CONTINUED:	(3)
+
+					ROM 
+			What?
+
+					QUARK
+				(to the Nagus, re: Rom) 
+			He's the one who should be wearing 
+			the dress.
+
+					ROM 
+			Why me?
+
+	Leeta sits down next to Rom and cuddles him.
+
+					LEETA 
+			You're so adorable... and 
+			complicated.
+
+					QUARK
+				(to Rom) 
+			Maybe it's not too late. Come on, 
+			I'll take you to Doctor Bashir --
+
+54   NEW ANGLE
+
+	Quark grabs Rom, but Maihar'du blocks his escape.
+
+					ZEK 
+			Forget it, Quark. Rom may make 
+			a better female than you, but when 
+			it comes to business, you're the 
+			better Ferengi.
+
+					QUARK
+				(to Rom) 
+			Looks like your stupidity has 
+			saved you again.
+
+					ROM
+				(smiling) 
+			It comes in handy sometimes.
+
+	Quark looks down at the PADD, begins pacing again.
+
+					QUARK
+				(trying to convince
+				himself)
+			I can do this... its only for one
+			meeting. I can be a female for
+			one meeting.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      42.
+
+54   CONTINUED:
+
+					QUARK (Cont'd)
+				(to Leeta)
+			Can't I?
+
+					LEETA
+			Not if you're lumbering.
+
+					QUARK
+				(petulant)
+			I'll conduct the meeting sitting
+			down.
+
+	Quark sits down to demonstrate.
+
+					ROM
+			Tighten your bottom.
+
+	Quark struggles to hold back the tears. The Nagus 
+	leans over and pats him on the knee.
+
+					ZEK
+			I think you're doing wonderfully,
+			my dear. I'm proud of you.
+
+	Zek smiles benevolently. Quark looks down at the 
+	Nagus's hand, still clutching his knee, then back at 
+	the Nagus.
+
+					ZEK
+			Sorry.
+				(removing his hand)
+			You may walk like a man, but you
+			make a very attractive female.
+				(a beat)
+			Confusing, isn't it?
+
+
+					QUARK
+			Not to me.
+
+	He moves farther away on the couch.
+
+55   A NEW ANGLE
+
+	as Nog comes bursting into the room.
+
+					NOG
+			He's here -- he's on the station!
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      43.
+
+55   CONTINUED:
+
+					ZEK 
+			Who is?
+
+					NOG 
+			Nilva.
+
+					QUARK
+			But he's not supposed to arrive 
+			until tomorrow.
+
+					ZEK
+				(smiling) 
+			That Nilva. He's a tricky one. 
+			But he makes a good cola.
+
+					ROM 
+			What do we do?
+
+	Quark jumps to his feet, alarmed.
+
+					QUARK
+				(to Zek) 
+			I can't meet Nilva now, I'm still 
+			lumbering.
+
+					NOG
+				(to Quark, sincere) 
+			You look very nice.
+
+					ZEK
+				(thinking fast) 
+			Nog, I want you to escort the 
+			chairman to his quarters. Tell him 
+			I'll meet him for dinner tonight.
+
+					NOG 
+			What if he asks about Ishka?
+
+					ZEK
+				(remaining calm) 
+			Tell him that Ishka is sick, but that
+			tomorrow he'll be meeting with my 
+			other female financial advisor...
+				(looking at Quark)
+			...Lumba.
+
+					NOG 
+			Right.
+
+	Nog hurries out the door.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT THREE      44.
+
+55   CONTINUED:	(2)
+
+					QUARK
+				(to Zek) 
+			Lumba?
+
+	Zek moves closer to Quark. Rom and Leeta crowd around 
+	him as well.
+
+					ZEK
+				(to Quark) 
+			You'd better start memorizing
+			those notes.
+
+					LEETA 
+			First, we need to practice your 
+			walking.
+
+					ROM 
+			And your sitting.
+
+					ZEK 
+			And don't forget to work on that 
+			voice.
+
+					QUARK
+				(getting frustrated) 
+			Any other comments?
+
+					ZEK 
+			Has anyone ever told you that you 
+			have lovely eyes?
+
+	And off Quark's less-than-enthusiastic expression, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       45.
+                           ACT FOUR                             
+
+	FADE IN:
+
+56   INT. AIRLOCK CORRIDOR
+
+	The airlock OPENS to REVEAL NILVA, a pugnacious, all-
+	business Ferengi carrying a small travel bag over his 
+	shoulder. Nog is waiting for him.
+
+					NOG
+			Welcome to Deep Space Nine,
+			Chairman Nilva.
+
+	Nilva reaches into his bag and pulls out a soda bottle.
+
+					NILVA
+				(to Nog)
+			Here. Have a Slug-o-Cola.
+
+	A surprised Nog takes the bottle.
+
+					NILVA
+			You drink Slug-o-Cola, don't you?
+
+					NOG
+			The slimiest cola in the galaxy?
+			Doesn't everybody?
+
+					NILVA
+			Good boy. Now take me to Zek.
+
+					NOG
+			But Zek wanted me to --
+
+					NILVA
+				(cutting him off)
+			Don't argue with me. Just drink
+			your cola and lead the way.
+
+	A worried Nog can only do as he's told; Nilva walks 
+	alongside him, maintaining a brisk pace.
+
+57   INT. HABITAT RING CORRIDOR
+
+	Nog and Nilva come around the corner.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       46.
+
+57   CONTINUED:
+
+					NOG 
+			You sure you don't want to stop 
+			by your quarters and freshen 
+			up?
+
+					NILVA
+				(suspicious) 
+			Not before I meet this female 
+			advisor of Zek's.
+
+	As they turn another corner, they are met by none other 
+	than Brunt and Uri'lash.
+
+					BRUNT
+				(feigning surprise) 
+			Nilva! How nice to see you again.
+
+					NILVA 
+			Grand Nagus Brunt.
+
+					NOG 
+			Acting Grand Nagus Brunt.
+
+	Brunt holds his cane out for Nilva to kiss, which he 
+	does. As Nog goes to kiss the cane, Brunt pulls it 
+	away.
+
+					NILVA 
+			I had a feeling I might find you 
+			here.
+
+					BRUNT 
+			I thought after your meeting with 
+			Zek, we could have a little chat.
+
+					NILVA
+			Of course. But I've really come 
+			to meet this... Ishka female.
+
+					BRUNT
+				(feigning sympathy) 
+			Haven't you heard? Ishka's in the 
+			Infirmary. She's in no position 
+			to meet anyone.
+
+	Nog quickly steps in with --
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       47.
+
+57   CONTINUED:	(2)
+
+					NOG 
+			Which is why you'll be meeting 
+			with another one of Zek's 
+			financial advisors. Her name is 
+			Lumba.
+
+	This is unwelcome news to Brunt.
+
+					BRUNT 
+			Never heard of her.
+
+					NILVA
+			Zek has two female advisors?
+
+					BRUNT
+				(suspicious) 
+			I didn't know there were two 
+			Ferengi females on the station.
+
+					NILVA
+				(to Nog)
+			Well, what are we waiting for? 
+			Let's go meet this "other" 
+			female.
+
+					NOG
+				(thinking on his feet) 
+			You're sure you wouldn't like me 
+			to show you around the station 
+			first?
+
+					NILVA
+				(shaking his head) 
+			I want to meet Lumba.
+
+	Nog leads Nilva down the corridor. We HOLD ON Brunt, 
+	watching them walk away.
+
+					BRUNT 
+			Lumba?
+
+58   INT. ROM'S QUARTERS
+
+	Rom, Zek, Leeta and Maihar'du are seated around the 
+	room, waiting expectantly.
+
+					LEETA 
+			All right, let's try it again.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       48.
+
+59   ANGLE ON THE BEDROOM DOOR
+
+	from where Quark makes his "grand entrance." He glides 
+	across the room without lumbering a step, then sits 
+	down next to the Nagus.
+
+					QUARK 
+			My name is Lumba. You must be 
+			Chairman Nilva. Zek's told me so 
+			much about you...
+
+	Quark grimaces, adjusting his earrings.
+
+					LEETA 
+			What's wrong now?
+
+					QUARK
+				(breaking character) 
+			These earrings -- they're killing 
+			me. Do I have to wear them?
+
+					ROM 
+			No woman is complete without 
+			earrings.
+
+	Everyone looks at Rom.
+
+					ROM 
+			Why does everyone keep looking at 
+			me?
+
+	Quark gets up and heads for the bedroom.
+
+					QUARK 
+			I'm going to bed.
+
+					ZEK 
+			Now?
+
+					QUARK
+				(with finality) 
+			I'm exhausted. I've got to get 
+			some sleep or I'll never make it 
+			through tomorrow's meeting.
+
+	Quark is a few steps from the bedroom door when the 
+	front door CHIMES.
+
+					LEETA 
+			Who could that be?
+
+					ROM 
+			Come in.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       49.
+
+60   ANGLE ON THE DOOR
+
+	as Nog leads Nilva into the room.
+
+					ZEK 
+			Nilva!
+
+					NILVA
+			Zek.
+				(reaching.into his bag) 
+			Have a Slug-o-Cola.
+				(to the room) 
+			Don't worry, I brought enough for 
+			everyone.
+
+	Nilva hands out bottles of the beverage.
+
+					NOG
+				(to Zek) 
+			He insisted on seeing you 
+			immediately.
+
+	Nilva steps over to Quark.
+
+					NILVA 
+			You must be Lunga.
+
+					QUARK
+				(correcting) 
+			Lumba.
+
+					NILVA 
+			Of course.
+				(looking Quark up and 
+				down) 
+			A Ferengi female wearing 
+			clothes --
+				(to Zek)
+			-- and with your approval, no 
+			less. You've either been inhaling 
+			too much beetle snuff or you're 
+			the greatest visionary to ever sit 
+			atop the Tower of Commerce.
+
+					ZEK
+				(clasping his hands) 
+			Well, why don't you and I have 
+			dinner tonight and try to figure 
+			it out. We can go to Quark's and 
+			get some nice, juicy snail steaks. 
+			You can meet with Lumba tomorrow.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       50.
+
+60   CONTINUED:
+
+					NILVA 
+			I'm afraid that's not possible. 
+			I have to leave first thing in the 
+			morning. I'm due to attend an 
+			important stockholders meeting 
+			back on Ferenginar. But snail 
+			steaks do sound tempting. Why 
+			don't I have dinner with Lumba?
+
+					QUARK
+			With me?
+
+					ZEK
+				(trying to derail this
+				train)
+			Won't you feel uncomfortable being
+			seen in public with a clothed
+			female?
+
+					NILVA 
+			Of course I will. But you and I 
+			have made a lot of latinum 
+			together over the years... I 
+			suppose that's worth a little 
+			discomfort.
+				(with an edge) 
+			But Lumba better be all you claim 
+			she is or I'll liquidate you 
+			myself.
+				(to Quark) 
+			Let's eat.
+
+	Quark, looking like he's about to walk the last mile, 
+	takes a final look at Zek, Rom, Leeta, Nog and 
+	Maihar'du.
+
+					ROM
+				(cheerful) 
+			Have fun.
+
+	And with that, Quark and Nilva EXIT. Quark does his 
+	best not to lumber.
+
+61   INT. QUARK'S
+
+	Quark and Nilva make their way toward a corner table. 
+	Quark tries to shield his face from the crowd, but he's 
+	unsuccessful. As Quark passes by Morn, Morn DROPS his 
+	glass in surprise.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       51.
+
+61   CONTINUED:
+
+	A Ferengi waiter stares mouth-agape at this clothed 
+	Ferengi female who looks suspiciously like his boss. 
+	Other customers pick up on the striking similarity.
+
+					NILVA
+				(misinterpreting all the 
+				attention) 
+			See how everyone's staring? Even 
+			aliens find a clothed Ferengi 
+			female shocking.
+
+	Quark and Nilva find a corner table and sit down. A 
+	Ferengi waiter approaches.
+
+					NILVA 
+			Two snail steaks, lightly seared.
+
+	The waiter nods and walks away, but not without a 
+	backward glance at Quark.
+
+					NILVA 
+			Tell me something, doesn't wearing 
+			all those clothes make you feel 
+			like a deviant?
+
+					QUARK
+			Not really. And you know why? 
+			Because under all these clothes, 
+			I'm totally naked.
+
+	Nilva thinks about this for a beat, then smiles.
+
+					NILVA
+			I'll try to remember that.
+				(a beat) 
+			Now, perhaps you'd better explain 
+			to me how allowing females to wear 
+			clothing is going to make me 
+			richer than I already am.
+
+					QUARK
+			I was hoping you were going to ask 
+			me that. You see this dress I'm 
+			wearing? Have you any idea how 
+			much it would sell for on 
+			Ferenginar?
+
+	Off Nilva's intrigued express, CAMERA TILTS UP to see
+	Zek, Rom, Leeta, Nog and Maihar'du spying on Nilva and 
+	Quark from across the room on the second level of 
+	Quark's.
+
+        DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR         
+
+62   CLOSER ANGLE
+
+	on the eavesdroppers. The three Ferengis nod their 
+	approval -- obviously, their enhanced hearing allows 
+	them to make out what's been said at Quark's table. 
+	On the other hand, Leeta and Maihar'du can't hear a 
+	thing.
+
+					LEETA 
+			Would someone please tell me what 
+			they're saying.
+
+					ZEK/ROM/NOG 
+			Shhh.
+
+									TIME CUT:
+
+63   ANGLE ON QUARK AND NILVA
+
+	finishing their meal.
+
+					NILVA
+			... let me see if I understand. 
+			Giving females the right to wear 
+			clothes allows them to have pockets. 
+			Once they have pockets, 
+			they're going to want to fill them 
+			with latinum.
+
+					QUARK
+			Which means they're going to need 
+			jobs.
+
+					NILVA 
+			And once they start earning 
+			latinum, they're going to want to 
+			spend it.
+
+					QUARK
+			Which means Ferenginar will be 
+			expanding its work force and its 
+			consumer base at the same time.
+
+					NILVA 
+				(gleeful) 
+			That way there'll be profit for 
+			everyone.
+
+					QUARK 
+			When it comes to profit, I'm your 
+			girl.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR      52A.
+
+63   CONTINUED:
+
+	Quark crosses his legs trying to be as feminine as 
+	possible. Nilva smiles.
+
+					QUARK 
+			And I'm sure you could use some 
+			extra latinum.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       53.
+
+63   CONTINUED:	(2)
+
+					NILVA 
+			Meaning what?
+
+					QUARK
+			I read the beverage trades. Sales 
+			of Slug-o-Cola have flattened out, 
+			while Eelwasser had a very 
+			impressive third quarter.
+
+	Nilva shifts uncomfortably in his seat; these are not 
+	things he likes to be reminded of.
+
+					NILVA 
+			They got lucky, that's all.
+
+					QUARK
+			I know a way you can increase Slug-
+			o-Cola sales by fifty to sixty 
+			percent.
+
+					NILVA
+				(leaning forward; 
+				intrigued) 
+			I'm all ears.
+
+					QUARK 
+			Target the new female consumer. 
+			Make Slug-o-Cola her drink.
+
+					NILVA 
+			Nothing's stopping her from 
+			drinking it now.
+
+					QUARK
+			But you're not encouraging her 
+			either. "The slimiest cola in the 
+			galaxy." That kind of slogan 
+			doesn't appeal to women.
+
+					NILVA 
+			And what would?
+
+					QUARK
+				(thinking on his feet) 
+			Let me see... Slug-o-Cola contains 
+			forty-three percent live algae, 
+			right?
+
+					NILVA 
+			In every bottle.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       54.
+
+ 63   CONTINUED:	(3)
+
+					QUARK 
+			Well, how about something like... 
+			"Drink Slug-o-Cola and keep your 
+			teeth a sparkling shade of green."
+
+	Nilva immediately sees the possibilities and smiles 
+	greedily.
+
+					NILVA 
+			Zek was right about you. You're 
+			very intelligent.
+
+					QUARK 
+			You mean for a female?
+
+					NILVA 
+			I think it's time for dessert.
+
+	Quark smiles, everything seems to be going swimmingly 
+	right.
+
+					QUARK 
+			Good idea.
+
+	Nilva stands up and offers Quark his hand.
+
+					QUARK 
+			I thought we were going to have 
+			dessert?
+
+					NILVA 
+			We are. In my quarters.
+
+	And as it dawns on Quark that he's suddenly in 
+	treacherous waters, we go to --
+
+63A  INT. NILVA'S QUARTERS
+
+	The door OPENS to allow Nilva and a very nervous Quark
+	to ENTER.
+
+					NILVA 
+			Come in, come in. It's so good 
+			not to be stared at. 
+				(a beat) 
+			Although I must admit, I did find 
+			it somewhat... stimulating.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FOUR       55.
+
+63A  CONTINUED:
+
+					QUARK 
+			You know the Replimat has very 
+			tasty desserts.
+
+
+					NILVA 
+			Not as tasty as the one I have in 
+			mind. You have the most delicate 
+			little lobes. I think I'll start 
+			with them.
+
+64   OMITTED
+
+65   ANGLE ON QUARK
+
+	as he realizes that he's Nilva's dessert of choice. 
+	And on that, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE       56.
+                           ACT FIVE                             
+
+	FADE IN:
+
+66   INT. NILVA'S QUARTERS
+
+	Moments later.
+
+					NILVA 
+			I never thought I'd find a clothed 
+			female so enticing.
+
+	Nilva starts towards Quark who backs away.
+
+					QUARK 
+			I'm not that enticing. What you 
+			need is a good night's sleep.
+
+	Quark's back is to the wall.
+
+					NILVA 
+			A little oo-mox and I'll sleep like 
+			a baby.
+
+	Nilva is about to press his body against Quark's, when
+	Quark slips out of his grasp.
+
+					QUARK
+			I hear the station has some very 
+			nice holosuites...
+
+					NILVA 
+			I don't like holosuites.
+
+	Nilva suddenly lunges for Quark, who leaps up off the 
+	couch and backs away.
+
+					QUARK 
+			Chairman Nilva! What's gotten 
+			into you?
+
+					NILVA 
+			It's my wife. She hasn't touched 
+			my lobes in months!
+
+	Quark gets a table between them. They begin circling 
+	it -- first one way, then the other.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE       57.
+
+66   CONTINUED:
+
+					QUARK 
+			I'm sorry to hear that. Maybe 
+			she's bored -- she probably needs 
+			to get out more.
+
+					NILVA 
+			I don't want to talk about her. 
+			In fact, I don't want to talk at 
+			all.
+
+	Nilva makes another lunge at Quark.
+
+					NILVA 
+			My lobes burn for you. If you 
+			don't believe me, touch them.
+
+					QUARK
+			I'll take your word for it.
+
+					NILVA 
+			You said you'd do anything for me!
+
+					QUARK
+			I lied.
+
+					NILVA 
+			But I need you!
+
+					QUARK 
+			No, you don't!
+
+					NILVA 
+			Come to me, my little love slave.
+
+	Nilva leaps over the table and grabs hold of Quark, 
+	pinning him against the wall. Quark struggles to get 
+	away.
+
+67   ANGLE ON THE DOOR
+
+	as it OPENS to allow Brunt and Uri'lash to rush in.
+
+					BRUNT 
+			Let go of that man!
+
+					QUARK 
+			I'm trying.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE       58.
+
+67   CONTINUED:
+
+					NILVA
+				(to Brunt) 
+			Would you please leave. You're 
+			making Lumba nervous.
+
+					BRUNT 
+			His name's not Lumba, it's Quark! 
+			And he's a male.
+
+					NILVA 
+			A male?
+
+	Nilva immediately lets go of Quark.
+
+					BRUNT 
+			How pitiful. Zek must be truly 
+			desperate.
+
+					NILVA
+				(to Quark, clearly 
+				disappointed) 
+			Is this true? You're a man?
+
+	A long beat as the defeated Quark pulls himself 
+	together.
+
+					QUARK 
+			Do I look like a man?
+
+					BRUNT 
+			Nice try, Quark. But it's not 
+			going to work.
+				(to Nilva, re: Quark) 
+			I tell you, he's the station's 
+			bartender.
+
+					QUARK
+			Don't believe him, hot lobes. I'm 
+			as female as they come and I'll 
+			prove it to you.
+
+	Quark grabs Nilva and kisses him -- smack on the lips.
+
+					QUARK 
+			Well?
+
+					NILVA
+				(looking at Quark) 
+			I'm not sure...
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE       59.
+
+67   CONTINUED:	(2)
+
+	Quark SIGHS, deciding to go for broke.
+
+					QUARK
+			Oh, all right...
+
+	Quark pulls open his dress and bares his naked body to 
+	Nilva. (Note: we shoot this over Quark's back, so that 
+	the delights of the naked Ferengi body continue to 
+	exist only in the imagination of our audience.)
+
+68   ANGLE ON NILVA
+
+
+	as his eyes widen at the sight of Quark's nakedness.
+
+					QUARK
+			Now are you sure?
+
+					NILVA
+			Completely.
+
+					BRUNT
+				(pointing at Quark)
+			I tell you -- that is not a female!
+
+					NILVA
+			She's close enough for me.
+
+	Nilva looks over to Quark, who's modestly holding his
+	dress closed around him.
+
+					NILVA 
+			Come, my dear, let's go tell Zek 
+			that I'm going to do everything 
+			in my power to see that he remains 
+			Grand Nagus.
+
+					BRUNT
+			But why?
+
+					NILVA
+			Because that's what Lumba wants.
+
+					BRUNT
+				(insistent)
+			His name's Quark!
+
+	Nilva looks over at Quark, finally accepting this 
+	information. Nilva holds out his arm for Quark.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE       60.
+
+68   CONTINUED:
+
+					NILVA
+				(shrugging)
+			What's in a name?
+
+	Quark smiles and puts his arm through Nilva's. As he 
+	passes Brunt, Quark reaches over and softly strokes 
+	Brunt's lobes with his finger.
+
+					QUARK
+			What can I say? It was love at
+			first sight.
+
+	Brunt reacts to Quark's touch with a mixture of horror 
+	and pleasure. And off his confused look, we go to --
+
+69   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+70   INT. QUARK'S
+
+	Quark, once again a Ferengi male, is behind the bar 
+	playing with a gem-studded latinum ring that encircles 
+	his finger. ODO looks on.
+
+					ODO
+			Interesting ring.
+
+					QUARK
+			It was a gift.
+				(a beat)
+			Poor Nilva. He's such a lovely
+			man, but so lonely.
+
+					ODO
+			Really?
+
+					QUARK
+			There's a sweetness to him.
+				(a beat)
+			And a strength.
+				(smiling at the thought)
+			Sometimes he gets this little
+			glint in his eye...
+
+	Quark stops himself as he notices that Odo is staring 
+	at him.
+
+        DEEP SPACE NINE: "Profit.. " - REV. 3/25/98 - ACT FIVE      60A.
+
+70   CONTINUED:
+
+					QUARK
+			You know what I mean...
+
+					ODO 
+			Not really, but I'm glad you had 
+			a pleasant evening.
+
+	Quark, clearly upset at Odo's teasing, bites a knuckle 
+	and struggles to hold back tears.
+
+					QUARK 
+			You're mocking me, aren't you?
+
+					ODO
+				(slightly alarmed) 
+			And you're being a little 
+			oversensitive.
+
+	Quark nods, trying to regain his composure.
+
+					QUARK
+			I've only been male again for six 
+			hours. My hormones must still be 
+			out of balance. My emotions are 
+			raging out of control.
+
+					ODO
+			Is there anything I can do?
+
+					QUARK
+			Would you mind giving me a hug?
+
+					ODO
+				(appalled) 
+			A hug?
+
+					QUARK
+			Just a small one.
+
+	Odo looks around, no one's watching except Morn who 
+	looks on with great interest. Odo stares him down and 
+	Morn looks away. Only then does Odo step up to Quark 
+	and gingerly takes him into his arms. Quark squeezes 
+	him tight.
+
+					QUARK
+				(his head buried in
+				Odo's shoulder)
+			Thank you.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE      60B.
+
+70   CONTINUED:	(2)
+
+					ZEK (O.S.) 
+			I hope we're not interrupting 
+			anything.
+
+	Odo breaks free and turns to see --
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/598 - ACT FIVE      61.
+
+71   NEW ANGLE
+
+	as Zek, Ishka, Rom and Maihar'du ENTER the bar.
+
+					ZEK 
+			We just wanted to say good-bye 
+			before we go back to Ferenginar.
+
+					ISHKA 
+			Where the rivers run with muck and 
+			the streets are swarming with 
+			happy females.
+
+					ZEK 
+			And where, if everything goes 
+			according to plan, the F.C.A. 
+			commissioners will once again 
+			proclaim me Grand Nagus.
+
+					ROM 
+			That would be nice. But Brunt's 
+			going to fight you at every turn.
+
+					ZEK 
+			I wouldn't have it any other way.
+
+					ISHKA 
+			I'm glad we have Nilva on our 
+			side. And we have you to thank 
+			for that, Quark.
+
+72   ANGLE ON QUARK
+
+	stepping up to his mother.
+
+					QUARK
+			Then you forgive me, Moogie?
+
+					ISHKA 
+			Of course I do. 
+				(a beat) 
+			You may be a lousy son, but you 
+			made a wonderful daughter. I hope 
+			the experience taught you 
+			something.
+
+					QUARK
+				(nodding)
+			It's made me more compassionate...
+			empathetic... nurturing.
+
+       DEEP SPACE NINE: "Profit... " - REV. 3/25/98 - ACT FIVE       62.
+
+72   CONTINUED:
+
+					QUARK (Cont'd) 
+				(a beat) 
+			I feel like I'm trapped in my
+			worst nightmare.
+
+					ZEK 
+			Don't worry. I'm sure it won't 
+			last. You'll be back to your old 
+			self in no time.
+
+	Ishka smiles, knowing that Zek is right. She then 
+	gives both her boys a kiss on the cheek. And with
+	that, Zek, Ishka and Maihar'du EXIT.
+
+73   ANGLE ON QUARK
+
+	looking at his ring with a smile.
+
+					ROM 
+			You're so lucky. No man ever gave 
+			me a ring.
+
+	Quark stares at Rom. And off that moment, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

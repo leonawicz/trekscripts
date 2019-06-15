@@ -1,0 +1,3071 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                      "Dramatis Personae" 
+                   (fka "Ritual Sacrifice") 
+                          #40511-418 
+                              
+                          Written by 
+                          Joe Menosky 
+                              
+                          Directed by 
+                          Cliff Bole 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       FEBRUARY 24, 1993
+
+     STAR TREK: DS9 - "Dramatis Personae" 03/15/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Dramatis Personae" 
+                             CAST 
+
+          SISKO                    ENSIGN
+          KIRA                     GUARD
+          ODO                      KLINGON
+          QUARK                    VALERIAN
+          BASHIR                   
+          DAX                      
+          O'BRIEN                  
+          COMPUTER VOICE           
+
+          Non-Speaking             
+          SUPERNUMERARIES          
+          ALIEN                    
+          N.D. SECURITY GUARD      
+          N.D. BAJORAN ENSIGNS     
+
+   STAR TREK: DS9 - "Dramatis Personae" - 03/15/93 - SETS
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Dramatis Personae" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+           AIRLOCK CORRIDOR             
+           CARGO BAY FOUR               WORMHOLE
+           COMMANDER'S OFFICE           (KLINGON SHIP)
+           CORRIDOR                     
+           INFIRMARY                    
+           OPS                          
+           QUARK'S                      
+           SECURITY OFFICE              
+           SISKOIS QUARTERS             
+
+           RUNABOUT                     
+
+STAR TREK: DS9 - "Dramatis Personae" - 03/15/93 - PRONUNCIATION
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Dramatis Personae" 
+                      PRONUNCIATION GUIDE 
+
+          DOLAMIDE                 DOLL-uh-mide
+          DURANIUM                 der-RAY-nee-um
+          FAHLEENA                 fah-LEE-nuh
+          HON-TIHL                 hon-TEEL
+          KALEANS                  kal-EE-uns
+          MARIAH                   muh-RYE-uh
+          MODELA                   moe-DELL-uh
+          PHORETIC                 FORE-ah-tick
+          PISTRES                  PISS-trees
+          RAZALIN                  RAZ-zuh-lin
+          SALTAHINA                SAL-ta-nuh
+          SHERVAL DAS              shur-VAL das
+          TEL-PEH                  TELL-puh
+          TERYON                   TER-ree-on
+          TOH'KAHT                 TOE kot
+          TOLTON                   TOLL tahn
+          TRITANIUM                TRY-tay-nee-um
+          TULAMAK                  TOOL-uh-mok
+          ULTIMA THULE             ULL-tih-muh THOOL
+          VALERIANS                VUH-lair-ee-uns
+
+       DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - TEASER       1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                         "Dramatis Personae"                           
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+2    INT. COMMANDER'S OFFICE
+
+	The door CHIMES -- SISKO glances up from his computer.
+
+					SISKO
+			Come in.
+
+	KIRA steps inside the room.  She's angry but she's keeping 
+	her emotions under control.
+
+					KIRA
+			Commander, I just received word that 
+			a Valerian transport has requested 
+			permission to dock here at the 
+			station.
+
+					SISKO
+				(a sympathetic smile)
+			Let me guess.  You're here to 
+			recommend we deny their request.
+
+					KIRA
+			The Valerians ran weapons-grade 
+			dolamide to Cardassian forces during 
+			the occupation of Bajor.
+
+					SISKO
+			I'm aware of that...
+
+					KIRA
+			I believe they're continuing to ship 
+			weapons to the Cardassians... weapons 
+			that could eventually be used to 
+			attack Bajor.
+
+					SISKO
+			I share your concern, Major.  But 
+			unless we have proof to back up those 
+			charges...
+
+       DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - TEASER       2.
+
+2    CONTINUED:
+
+					KIRA
+			The proof is on the ship.  Let me 
+			conduct a search and if I find any 
+			dolamide, we can confiscate it.
+
+					SISKO
+			I'm afraid it's not that simple.  
+			Dolamide is used for power generators, 
+			reactors, in short-range transports...
+
+					KIRA
+			And for weapons.
+
+					SISKO
+			Only if it's extremely pure.
+
+	Kira sighs in exasperation.
+
+					KIRA
+			So we're going to do nothing.
+
+					SISKO
+			I didn't say that.  But we can't 
+			just board their ship and start 
+			tearing it apart.
+
+					KIRA
+			Then what can we do?
+
+					SISKO
+			You bring me evidence that the 
+			Valerians are dealing in weapons-
+			grade dolamide and I promise you the 
+			Federation will use every kind of 
+			diplomatic pressure to stop them.
+
+	Kira considers for a beat.
+
+					KIRA
+			You think that'll work?
+
+					SISKO
+				(smiling)
+			It will if the Valerians want to 
+			keep trading with the Federation.
+
+	Kira nods.
+
+       DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - TEASER       3.
+
+2    CONTINUED:	(2)
+
+					KIRA
+				(still not totally 
+				convinced)
+			All right, we'll try it your way.
+
+					SISKO
+			Good.  Then you'll see to it that 
+			the Valerian ship is cleared for 
+			docking.
+
+					KIRA
+				(still doesn't relish 
+				the thought)
+			Yes, sir.
+
+	She EXITS.  Sisko goes back to work, satisfied he's done the 
+	correct thing.
+
+3    INT. OPS - CONTINUOUS
+
+	Kira continues into Ops.  DAX is at her post; BASHIR is 
+	working at a console; several Supernumeraries go about their 
+	business.
+
+					DAX
+			Chief, I have a subspace message for 
+			you from your wife.  They've arrived 
+			safely on Bajor.
+
+3A   CLOSE ON O'BRIEN
+
+	who looks up from one of his engineering monitors.
+
+					O'BRIEN
+			Imagine, taking eleven bored 
+			schoolkids on a visit to the grain 
+			processing center at Lasuma.  I'm 
+			glad it's not me.
+
+3B   ANGLE THE TURBOLIFT
+
+	as ODO exits into Ops.
+
+					ODO
+				(to Kira)
+			Here's the information you wanted on 
+			the captain of the Valerian ship.
+
+	He hands her a PADD.
+
+       DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - TEASER      3A.
+
+3B   CONTINUED:
+
+					KIRA
+			Let me know if you find anything 
+			else.
+
+4    DAX
+
+	glances up from her console.
+
+       DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - TEASER       4.
+
+4    CONTINUED:
+
+					DAX
+			Sensors are reading elevated neutrino 
+			levels at the wormhole... Something's 
+			coming through...
+
+					KIRA
+			On screen.
+
+	As everyone reacts --
+
+5    OMITTED 
+
+6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN
+
+					(OPTICAL)
+			The wormhole opens and a KLINGON 
+			BIRD OF PREY comes blasting through.
+
+					DAX
+				(off instruments)
+			It's the Klingon vessel Toh'Kaht.
+
+	Sisko emerges from his office.
+
+					KIRA
+			They're not due back for another 
+			month.
+
+					SISKO
+			Open hailing frequencies.
+
+	Suddenly the Klingon vessel EXPLODES.  The station is rocked 
+	by a shockwave.  OFF reactions --
+
+					O'BRIEN
+			I'm reading a transporter signal.  
+			Someone must have beamed off the 
+			ship just as it exploded.
+
+7    IN FRONT OF THE OPS TABLE (OPTICAL)
+
+	A KLINGON OFFICER begins to MATERIALIZE -- but is unable to 
+	solidify and remains frozen in a Transporter state.  The 
+	Klingon beam is washed in a strange violet light.
+
+					SISKO
+			Mister O'Brien -- ?
+
+       DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - TEASER       5.
+
+	O'Brien jumps into action, rushes to the Transporter panel 
+	and quickly works the controls.
+
+					O'BRIEN
+			Something's interfering with the 
+			rematerialization process.
+
+	Dax hurries over to help.
+
+					DAX
+			Lock onto him with our Transporter 
+			signal.  Try boosting the annular 
+			containment field.
+
+					O'BRIEN
+			I'm already there...
+
+	The figure of the Klingon starts to solidify... O'Brien keeps 
+	working the controls and the Klingon fully MATERIALIZES -- 
+	collapses against the Ops table.
+
+	Bashir is the first to his side -- running his tricorder 
+	over the alien's battered and scorched body.
+
+					BASHIR
+			He's been hit by weapons fire.  It's 
+			severe.  We've got to get him into 
+			cryo-stasis.
+
+	The Klingon suddenly pushes himself away from the table, 
+	stares around the room with a wild, toothy grin.
+
+					KLINGON
+			Victory...
+
+	He shudders and his eyes close, his hand slipping off of 
+	Bashir.  The doctor takes a reading from the tricorder, then 
+	looks up.
+
+					BASHIR
+			He's dead.
+
+	OFF the reactions.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT ONE       6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE:  Episode credits fall over opening scenes)
+
+8    EXT. SPACE - DEEP SPACE NINE
+
+	Establishing.
+
+					SISKO'S VOICE
+			Station log, Stardate 46922.3.  We 
+			have identified the dead Klingon -- 
+			his name was Hon-Tihl, First Officer 
+			of the Toh'Kaht.  Why he died, and 
+			the cause of his ship's destruction, 
+			is still unknown.
+
+9    INT. OPS
+
+	Bashir and Dax are briefing Sisko, Kira, O'Brien and Odo.
+
+					BASHIR
+			I found tritanium alloy fragments in 
+			his chest and upper arms.  If that 
+			was all, we could have saved him.  
+			But those weapon burns were too 
+			severe.
+
+					SISKO
+			Is there any way to identify the 
+			kind of weapon used?
+
+					BASHIR
+				(nodding)
+			I'm running a microtissue analysis 
+			right now.  We should have the results 
+			in a couple of hours.
+
+					KIRA
+			The Klingon said "victory" before he 
+			died.  I wonder what he meant.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT ONE       7.
+
+9    CONTINUED:
+
+					DAX
+			According to the Klingon high command, 
+			the Toh'Kaht was in the gamma quadrant 
+			on a routine bio-survey mission...
+
+					O'BRIEN
+			"Victory"... during a bio-survey... ?
+
+	A beat as everyone considers this.
+
+					ODO
+			As I recall the Toh'Kaht put in for 
+			a maintenance check.
+
+					SISKO
+			Ask around the station, see if you 
+			can learn anything about this bio-
+			survey.
+
+	Odo nods.  Sisko turns to Dax and O'Brien.
+
+					SISKO
+				(continuing)
+			I'd like the two of you to take a 
+			Runabout and try to find the 
+			Toh'Kaht's mission recorder.  I want 
+			to know what caused that ship to 
+			explode.
+
+					O'BRIEN
+			Aye, Sir.
+
+	Everyone stands... except for Dax who seems lost in thought, 
+	a small smile on her face as if she were laughing at some 
+	private joke.
+
+					O'BRIEN
+			Lieutenant...
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT ONE     8-9.
+
+9    CONTINUED:	(2)
+
+	Dax looks up, still smiling...
+
+					DAX
+			Yes...
+
+					O'BRIEN
+			You coming?
+
+	Dax gets up.
+
+					DAX
+			I'm sorry, I was... nevermind...
+
+	She accompanies O'Brien to the Turbolift.
+
+10   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	A runabout leaves the station.
+
+10A
+thru   OMITTED
+11
+
+12   INT. OPS (OPTICAL) (VPB)
+
+	Kira is at a workstation quickly working the controls, viewing 
+	a series of numbers on a monitor.  A small light suddenly 
+	registers on the console.  She reacts to the light.
+
+					KIRA
+			Dammit.  Not yet...
+
+	She reluctantly hits a control and turns toward the 
+	viewscreen.  A VALERIAN suddenly appears on the viewscreen -- 
+	he is a humanoid with minimal prosthetic.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT ONE      10.
+
+12   CONTINUED:
+
+					VALERIAN
+			Deep Space Nine, this is Valerian 
+			vessel Sherval Das.  We are entering 
+			the Bajoran system, clear us for 
+			docking.
+
+					KIRA
+			Negative, Sherval Das.  There's going 
+			to be a slight delay.
+
+	The Valerian is not happy.
+
+					VALERIAN
+			We are in need of maintenance.  It 
+			has been a long journey.
+
+					KIRA
+			I'm sure it has.  But we've got our 
+			own problems.  You'll just have to 
+			wait --
+
+					SISKO (O.S.)
+			Stand by, Sherval Das.
+
+13   INCLUDE SISKO
+
+	as he steps into frame and touches a control on a console -- 
+	the Valerian disappears.  He turns to Kira, puzzled.
+
+					SISKO
+			I'd like an explanation.
+
+	She indicates her workstation.
+
+					KIRA
+			I'm not finished running the 
+			background check on their ship.
+
+					SISKO
+			We agreed there'd be no delays in 
+			the docking procedure --
+
+					KIRA
+				(interrupting)
+			They just visited Fahleena Three and 
+			Mariah Four -- the same two stops 
+			they used to make when they were 
+			running dolamide to the Cardassians.  
+			The last stop would be the 
+			purification plant on Ultima Thule.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT ONE      11.
+
+
+13   CONTINUED:
+
+					KIRA
+			If I can place them there, we'll 
+			know they're carrying weapons-grade 
+			material.
+
+	A beat as Sisko considers her.  He turns, hits a control on 
+	the console and the Valerian reappears.
+
+					SISKO
+				(to Valerian)
+			Your ship is cleared for docking.
+
+					VALERIAN
+			Thank you, Commander.  Sherval Das 
+			out.
+
+	The Valerian touches a control in front of him and his image 
+	DISAPPEARS.  Sisko turns to Kira.
+
+					SISKO
+			No delays...
+
+	Sisko turns and heads toward his office.  OFF Kira's face -- 
+	the anger just below the surface.
+
+14   INT. QUARK'S
+
+	QUARK is behind the bar, playing the "good" bartender to an 
+	Alien patron who looks down in the dumps, slumped over his 
+	drink.
+
+					QUARK
+			Isn't it always the same old story?  
+			I hear it day in, day out.  She takes 
+			you for granted.  She doesn't 
+			appreciate your... finer qualities.
+
+	The Alien just stares at his drink -- if he has any finer 
+	qualities, they aren't readily apparent.
+
+					QUARK
+				(continuing)
+			The cut of your jib... The twist of 
+			your tulamak...
+
+	Still nothing but silence from the patron.
+
+         DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT ONE        12.
+
+14   CONTINUED:
+
+					QUARK
+				(continuing)
+			The way you turn a phrase...
+				(beat)
+			What does she want?
+
+	The Alien shrugs, pushes away from the bar, shuffling off.  
+	Quark watches him go with as sympathetic a smile as he can 
+	muster, then glances down and sees two TINY COINS next to 
+	the empty glass.  He's furious.
+
+					QUARK
+				(continuing)
+			Two Pistres?  For all my compassion?
+				(calling after alien)
+			You call that a tip?  No wonder she 
+			left you!  You piker!
+
+	Quarks snatches up the coins as if to hurl them -- then tucks 
+	them into his pocket.
+
+15   INCLUDE ODO
+
+	as he steps up to the bar.
+
+					ODO
+			Trouble, Quark?
+
+	The Ferengi brushes off his anger and is quickly back to 
+	normal.
+
+					QUARK
+			Nothing I can't handle.
+
+	The Ferengi makes himself a drink.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT ONE      13.
+
+15   CONTINUED:
+
+					ODO
+			I heard you had some problems with 
+			the Klingons the last time they came 
+			through...
+
+					QUARK
+			Spare me from beings who think pain 
+			is pleasure.
+				(rethinking)
+			In small doses, perhaps.  But the 
+			Klingons?  They're rough on the 
+			holosuites.  They break the furniture.
+
+	He indicates the holosuites.
+
+					QUARK
+				(continuing)
+			I'm still fixing the walls in 
+			Holosuite Six.
+				(confidentially)
+			I'm not saying they don't spend big.  
+			I'm just saying by the time you figure 
+			in the damage, I'm lucky to break 
+			even.
+
+					ODO
+			They do tend toward bluster, don't 
+			they?  Throwing their weight around.  
+			Bragging...
+
+	Quark nods in agreement.
+
+					QUARK
+			This crew was worse than the last.  
+			"Our glorious mission."  I asked 
+			them, "what's so glorious about a 
+			gamma quadrant bio-survey?"
+
+	A beat.
+
+					ODO
+				(casual)
+			And what did they say?
+
+	Another beat.  Quark suddenly realizes.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT ONE      14.
+
+15   CONTINUED:	(2)
+
+					QUARK
+			Crafty tonight, aren't we, Odo?  
+			Looking for clues about the fate of 
+			the Klingons.  If I tell you what I 
+			heard, what do I get in return?
+
+					ODO
+			Chances are, what you heard won't 
+			help.  So why should I give you 
+			something for it?
+
+					QUARK
+			Because otherwise, I heard nothing.
+
+	A beat.  Odo indicates the back of the bar.
+
+					ODO
+			Those damaged holosuites.  Work crew 
+			seven is probably doing the repairs, 
+			am I right?
+
+					QUARK
+				(suspicious)
+			Yes...
+
+					ODO
+			Well, it looks as though I might 
+			have to put in a priority request 
+			for work crew seven.  The bulkheads 
+			in security could use a little shoring 
+			up.
+
+	Quark scowls, giving in.
+
+					QUARK
+			They said they were coming back 
+			through the wormhole with something 
+			that would "make the enemies of the 
+			Klingon Empire tremble."
+
+					ODO
+			Their exact words?
+
+					QUARK
+			A direct quote.
+
+	Odo considers this.  Quark polishes off his drink.
+
+					ODO
+			You've been most helpful.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT ONE      15.
+
+16   FOLLOW QUARK
+
+	as he disposes of the glass.
+
+					QUARK
+				(ruefully)
+			Don't let it get around.
+
+	No response from Odo.  Quark turns to look at him.
+
+17   INCLUDE ODO (OPTICAL)
+
+	who is now gripping the bar with both hands, apparently in 
+	great pain.  Quark is stunned.
+
+					QUARK
+			Odo?
+
+	Odo cries out in anguish, grips the bar, reels backward in 
+	pain, HIS HEAD SUDDENLY SPLITTING IN TWO for a long terrible 
+	moment, then coming back together.  Odo slumps on to the 
+	bar, unconscious.  Quark is horrified.  He goes running for 
+	the door.  We can see the Infirmary in the b.g.
+
+					QUARK
+			Doctor Bashir!  Doctor Bashir!
+
+	OFF Odo's stricken face...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+
+         DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT TWO        16.
+                            ACT TWO                             
+
+	FADE IN:
+
+18   INT. INFIRMARY
+
+	Odo is on his back on a bed, Bashir hovering over him with a 
+	medical diagnostic instrument.  Odo's eyes are closed.  They 
+	suddenly open with a start.
+
+					BASHIR
+			Welcome back, Constable.
+
+	Odo sits up.  A beat as he collects himself.
+
+					ODO
+			How am I?
+
+					BASHIR
+			How do you feel?
+
+					ODO
+			Fine.
+
+					BASHIR
+			Good.
+				(indicates instrument)
+			Because I've got no way to know.  
+			Your body chemistry defies analysis.
+
+					ODO
+			I don't remember anything...
+
+	Odo stretches a bit, seems to be satisfied with his condition.
+
+					ODO
+				(continuing)
+			But, I'm back to normal?
+
+					BASHIR
+			Like I said -- you tell me.  I don't 
+			know what caused it, and I couldn't 
+			tell you if it'll happen again.  
+			There's really nothing more I can do 
+			here.
+
+					ODO
+			Then thank you for your time, Doctor.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT TWO      17.
+
+18   CONTINUED:
+
+	Odo gets down from the bed.  Bashir starts putting away 
+	his instruments -- a CURIOUSLY COLD, CALCULATING TONE TO HIS 
+	VOICE.
+
+					BASHIR
+			Tell me Odo, do you share my concern 
+			about this Valerian situation?
+
+	Odo reacts -- not sure what Bashir is getting at.
+
+					ODO
+			Concern?
+
+	Again, the CALCULATING TONE from Bashir.
+
+					BASHIR
+			I think you know what I mean.
+
+					ODO
+				(patronizing)
+			Why don't you tell me and then you 
+			can be sure I know.
+
+	A beat.  Bashir nods.
+
+					BASHIR
+			Just don't be surprised if the uneasy 
+			alliance on this station starts to 
+			show a few cracks...
+
+	Odo's puzzlement grows.
+
+					ODO
+			What "uneasy alliance"?
+
+					BASHIR
+			Commander Sisko and Kira.  Mark my 
+			words, there's going to be trouble.
+
+					ODO
+			Exactly what are you basing all this 
+			on, Doctor?
+
+	Bashir is about to answer... but he catches himself and 
+	chuckles appreciatively.
+
+					BASHIR
+			Very clever, Constable.
+				(a conspiratorial 
+				nod)
+			You're probably right.  It's still 
+			too early to commit oneself either 
+			way.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT TWO      18.
+
+18   CONTINUED:	(2)
+
+	Odo reacts.  A beat.
+
+					ODO
+			Are you finished with me?
+
+	Bashir smiles, appears back to normal.
+
+					BASHIR
+			Unless you'd like to pour yourself 
+			through my phoretic analyzer -- I'd 
+			love to see the results.
+
+					ODO
+			Another time, perhaps.
+
+	Odo heads for the door.  OFF Bashir as his smile fades, 
+	replaced by an ominous coldness in his eyes...
+
+19   INT. COMMANDER'S OFFICE
+
+	Sisko is at his desk, drawing carefully on a large blueprint-
+	like large PADD.  We are unable to make out what he's working 
+	on.  The door suddenly opens and Kira ENTERS.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT TWO      19.
+
+19   CONTINUED:
+
+					KIRA
+			I've got them!
+
+	Sisko looks up from his blueprint which he folds over to 
+	hide from Kira's eyes.
+
+					SISKO
+			Who?
+
+					KIRA
+				(of course)
+			The Valerians.  Their ship was at 
+			the Ultima Thule station one week 
+			ago.  That confirms it.  They're 
+			definitely running dolamide.
+
+					SISKO
+			So... ?
+
+	Kira reacts.
+
+					KIRA
+			So I've got an armed team ready to 
+			board their vessel.  We confiscate 
+			the material and send them back where 
+			they came from.  Frankly, I'm half 
+			tempted to take them to Bajor and 
+			press charges.
+
+	Sisko is extremely calm.
+
+					SISKO
+			By whose authority?
+
+	Kira reacts, surprised.
+
+					KIRA
+			You're not going to do anything about 
+			this?
+
+					SISKO
+			I'm not.  And neither are you.
+
+	It's a tone of dismissal -- but Kira won't be put off so 
+	easily.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT TWO      20.
+
+19   CONTINUED:	(2)
+
+					KIRA
+
+			That ship is acting against Bajoran 
+			interests.
+				(beat)
+			This station is Bajoran property.
+
+	Sisko slowly stands.
+
+					SISKO
+				(firm)
+			Commanded by a Federation officer.  
+			Commanded by me.  Are you challenging 
+			that, Major?
+
+	Kira looks away -- hiding the anger in her eyes.
+
+					KIRA
+			No, Sir...
+
+	IT'S A STRANGE, UNCHARACTERISTIC MOMENT between them -- a 
+	weird undercurrent of potential violence.  Then Sisko is 
+	suddenly completely calm.
+
+					SISKO
+			Good...
+				(beat; almost friendly)
+			Now is there anything else I can do 
+			for you?
+
+	Kira looks down at the covered blueprint but refuses to admit 
+	her curiosity.  She EXITS.  Sisko waits until she's out the 
+	door.  Then, pleased to be alone, unfolds the blueprint and 
+	continues to work.
+
+20   INT. RUNABOUT
+
+	O'Brien and Dax at the controls.  The Runabout is at impulse 
+	speed.
+
+					DAX
+			Short-range sensors are picking up 
+			some debris.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT TWO      21.
+
+20   CONTINUED:
+
+	O'Brien checks his instruments.
+
+					O'BRIEN
+			Looks like duranium alloy.  Probably 
+			pieces of the Klingon's secondary 
+			hull.
+
+					DAX
+			It's possible their mission recorder 
+			is somewhere in the debris.  The 
+			magnetic field from the duranium 
+			could be masking it.
+
+					O'BRIEN
+			Let's get a little closer...
+
+	O'Brien adjusts course.  A couple of beats go by.  THERE'S A 
+	CALCULATING, MACHIAVELLIAN QUALITY TO O'BRIEN'S VOICE WE 
+	HAVEN'T HEARD BEFORE.
+
+					O'BRIEN
+			Major Kira's been awfully aggressive 
+			toward Commander Sisko lately... 
+			about station policy.
+
+					DAX
+				(shrugs)
+			An honest difference of opinion.
+
+	O'Brien works the console.
+
+					O'BRIEN
+			We're within a thousand meters... 
+			Secondary hull fragments, pieces of 
+			the bulkhead... Still no sign of the 
+			recorder.
+
+					DAX
+			I'm taking us closer...
+
+	Dax works her controls.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT TWO      22.
+
+20   CONTINUED:	(2)
+
+					O'BRIEN
+			What if it's more than a difference 
+			of opinion?  What if Kira thinks the 
+			Bajorans don't need us on DS Nine?  
+			It is their station.
+
+					DAX
+			That would be suicidal.  Without a 
+			Federation presence Bajor would be 
+			vulnerable again to the Cardassians.
+
+					O'BRIEN
+			That doesn't mean there aren't plenty 
+			of misguided Bajorans who think they 
+			can go it alone.
+
+	Dax smiles, she seems to DRIFT A BIT, ABNORMALLY, LIKE AN 
+	INCOMPETENT DRAWING ON APHORISMS AND CLICHE.
+
+					DAX
+			Isn't it always like that?  Bitterness 
+			is the coin by which generosity is 
+			repaid.
+				(remembering)
+			I once helped the Federation deliver 
+			rain-inducing technology to Kelton 
+			Four.  The end of the drought was 
+			the end of contact.  Talk about fair 
+			weather friends --
+
+	O'Brien cuts Dax off, as if not listening to her -- AGAIN, 
+	THE CALCULATING TONE.
+
+					O'BRIEN
+			You've become quite friendly with 
+			Major Kira, haven't you?
+
+					DAX
+				(vague)
+			Have I... ?  Well, yes, I suppose I 
+			have... if you say so...
+
+					O'BRIEN
+			Well, I wouldn't get too friendly 
+			with the natives if I were you.  
+			Remember where your loyalties lie.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT TWO     22A.
+
+20   CONTINUED:	(3)
+
+					DAX
+			Of course.  Benjamin and I have been 
+			close for a long time.  Hand and 
+			glove.  I'm on his side -- no question 
+			about it.
+				(smiles, aimlessly)
+			That reminds me of the time we found 
+			ourselves --
+
+					O'BRIEN
+				(interrupting)
+			Good.  Because anyone against Sisko 
+			is against me.
+
+	O'Brien suddenly reacts to his console.
+
+					O'BRIEN
+			I'm picking up a weak subspace 
+			transponder signal.
+
+	He quickly works the controls, then looks up at Dax.
+
+         DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT TWO        23.
+
+20   CONTINUED:	(4)
+
+					O'BRIEN
+				(continuing)
+			It's the mission recorder.
+
+	OFF their reactions.
+
+21   INT. SECURITY OFFICE
+
+	Odo is working at a console.  The door opens and Kira steps 
+	inside.
+
+					KIRA
+			Constable...
+
+	Odo glances up -- her visit is unexpected.
+
+					ODO
+			Can I help you, Major?
+
+	Kira moves closer, her attitude is relaxed.  She smiles.  
+	KIRA IS SLY, SEDUCTIVE AND SENSUALLY MANIPULATIVE -- NOT AN 
+	ATTITUDE WE'VE SEEN BEFORE.
+
+					KIRA
+			You always manage to help me, Odo.  
+			In fact, I'd say we work pretty well 
+			together -- you and I.
+
+	Odo turns back to the console.  He reacts to her overtures 
+	with caution -- not quite sure where she's going.
+
+					ODO
+			Yes.  I suppose our relationship has 
+			always been... cooperative.
+
+					KIRA
+			Exactly.  And that's just what I 
+			need right now -- your cooperation.
+
+	Odo is listening.
+
+					KIRA
+				(continuing)
+			I'm convinced the Valerians have 
+			dolamide on board.  But the evidence 
+			is still circumstantial.  I need 
+			solid proof.
+				(beat)
+			I want you to slip past their security 
+			systems and into their cargo bay.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT TWO      24.
+
+21   CONTINUED:
+
+	Odo looks up, surprised.
+
+					ODO
+			I heard Commander Sisko was adamant 
+			about not interfering with the 
+			Valerian ship.  Has he changed his 
+			mind?
+
+					KIRA
+				(too quickly)
+			Yes.
+
+					ODO
+			How odd.
+
+	A beat.  Odo doesn't believe her.  He stands.
+
+					ODO
+				(continuing)
+			Very well.  I'll keep the two of you 
+			informed of my progress.
+
+					KIRA
+			That's not necessary.  The Commander's 
+			busy -- no sense in bothering him.
+
+	A moment between them.  Odo isn't buying and she knows it.  
+	Kira laughs.
+
+					KIRA
+				(continuing)
+			I can't fool you, Odo.
+
+					ODO
+				(can't believe it)
+			You wanted me to go behind Sisko's 
+			back, didn't you?
+
+	She studies him -- decides not to push any further.
+
+					KIRA
+				(casual)
+			Forget it.  It was a bad idea.
+
+	Kira heads for the door, then pauses.  AGAIN, THE STRANGELY 
+	SEDUCTIVE MANNER...
+
+         DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT TWO        25.
+
+21   CONTINUED:	(2)
+
+					KIRA
+				(continuing)
+			What if you had to choose sides?
+				(warm smile)
+			Just remember who your friends are.
+
+	Kira is out the door.
+
+	OFF Odo's face -- what the hell is going on?
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT THREE     26.
+                           ACT THREE                            
+
+	FADE IN:
+
+22   EXT. SPACE - DEEP SPACE NINE
+
+	The Valerian transport is docked at the station.
+
+					O'BRIEN (V.O.)
+			Personal log, Miles O'Brien.  Stardate 
+			46923.1.  We've managed to retrieve 
+			a portion of the Klingon Officer's 
+			journal.  Of course, Major Kira heard 
+			about it immediately.  She must have 
+			spies everywhere.
+
+23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL)
+
+	Dax and O'Brien are briefing Sisko, Kira and Odo.  Sisko 
+	seems distracted, only barely tolerant about being there.  
+	Dax works a panel and the viewscreen displays a shaky 
+	recording of the Klingon who beamed aboard and died.  (We 
+	will not hear his entire speech.  Only underlined words.  It 
+	is important that we do hear the reference to the energy 
+	spheres.)
+
+					KLINGON
+			I believe the Captain has gone insane.  
+			He has executed two more crew members, 
+			charging them with attempted mutiny.  
+			Medical Officer Kee-Bhor came to my 
+			quarters insisting the violence is 
+			being caused by those telepathic 
+			energy spheres we brought back from 
+			Saltah'na.  Believing he's the 
+			Captain's spy, I slit his throat.
+
+	The image fritzes out.
+
+					SISKO
+				(bored)
+			I've seen enough.
+
+	ODO REACTS, STUNNED AT SISKO'S ATTITUDE -- EVERYONE ELSE 
+	SEEMS TO TAKE IT IN STRIDE.
+
+					O'BRIEN
+			There's more.
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT THREE     27.
+
+23   CONTINUED:
+
+					KIRA
+			The Klingon's mission must have 
+			failed... and that failure caused 
+			problems on board...
+
+					SISKO
+			I couldn't care less what happened 
+			to a Klingon ship.
+
+					O'BRIEN
+			The Klingons might want to know.  
+			Dax and I are setting up a data 
+			interpolation to fill in what's 
+			missing -- but it'll take some time...
+
+	Dax gives a distant, BLANK SMILE -- again, as if an 
+	incompetent functionary.
+
+					DAX
+			The search itself is often reward 
+			enough.
+				(to Sisko)
+			Benjamin, do you remember that wild 
+			goose chase back on Elanu Four... ?
+
+	Sisko gives a tolerant half-smile, cuts her off.
+
+					SISKO
+			Fine.  Do whatever you have to do, 
+			but don't bother me with it.
+
+	Sisko turns and heads for his office.  O'Brien starts working 
+	at the console; Dax goes to her station; Kira scowls and 
+	EXITS.  Odo is left with a troubled expression on his face.
+
+24   INT. QUARK'S
+
+	Dax is at the bar; Quark is setting a vibrantly colored drink 
+	in front of her.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT THREE       28.
+
+24   CONTINUED:
+
+					QUARK
+			Here we are.  A Modela aperitif.  
+			It's bright and sweet.
+				(leering)
+			Much like yourself, Lieutenant.
+				(beat)
+			I'll put it on your tab.
+
+					KIRA (O.S.)
+			The bad flattery is on the house.
+
+25   INCLUDE KIRA
+
+	as she steps up to the bar and sits next to Dax.
+
+					QUARK
+			The two loveliest creatures on DS 
+			Nine.  I must be living correctly to 
+			be so... blessed.  What can I do for 
+			you, Major?
+
+					KIRA
+			Get lost.
+
+	Quark reacts, insulted.
+
+					QUARK
+			As you wish...
+
+	He moves further down the bar and starts putting away some 
+	glasses.
+
+26   KIRA AND DAX
+
+	Kira turns to Dax -- her attitude is casual and friendly.
+
+					KIRA
+			How are you, Lieutenant?
+
+					DAX
+				(weary)
+			You know what they say -- put the 
+			shoe on the right foot first, but 
+			put the left foot first into the 
+			bathtub.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT THREE       29.
+
+26   CONTINUED:
+
+	Kira doesn't know what the hell Dax is talking about but 
+	she nods supportively anyway.
+
+					KIRA
+			I understand.
+
+	Kira smiles -- again, she's SEDUCTIVELY MANIPULATIVE in a 
+	way that's far out of character.
+
+					KIRA
+				(continuing)
+			But what I really meant was...
+				(beat)
+			Are you happy?
+
+	Dax shrugs, returning the smile.
+
+					DAX
+			That's not a question I get asked 
+			too often.
+
+	Kira moves a little closer, more intimate in her manner.
+
+					KIRA
+			Oh, but it should be.  In my opinion, 
+			you're the most valuable officer on 
+			this station.
+				(indicating drink)
+			May I... ?
+
+					DAX
+			Please.
+
+	Kira takes a sip of Dax's drink, then sets it back down in 
+	front of her.
+
+					KIRA
+			Not bad.  For Quark.
+
+	They both share a laugh.  Dax picks up the drink, takes a 
+	sip, then sets it down.
+
+					DAX
+			It is good...
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT THREE     30.
+
+26   CONTINUED:	(2)
+
+	The physical tension between them goes up a few notches.
+
+
+					KIRA
+			I couldn't imagine running this 
+			station without you.
+
+	Dax looks at her for a moment -- thinking seems difficult 
+	for her.
+
+					DAX
+			Are you trying to tell me something?
+
+	A beat.
+
+					KIRA
+			My disagreement with Sisko about the 
+			Valerians is no secret.  You know 
+			how he gets once he makes a decision.
+
+	Dax smiles, looks DISTANT...
+
+					DAX
+			Like talking to a stone.
+				(muses)
+			I remember a time on Rochani Three... 
+			We were cornered by a party of Kaleans 
+			who were not at all happy to see us.  
+			But Benjamin --
+
+					KIRA
+				(interrupting)
+			-- You told me that story this 
+			morning.
+
+					DAX
+			Oh.
+				(remembering)
+			I suppose I did...
+
+					KIRA
+			If you were to talk to Starfleet 
+			Command... tell them how displeased 
+			the Bajorans are with Sisko's handling 
+			of this... I'm sure they'd listen to 
+			you...
+
+	Dax is quiet for a moment, remembering.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT THREE       31.
+
+26   CONTINUED:	(3)
+
+					DAX
+				(sweetly)
+			I was decorated on my very first 
+			assignment.  The Admiral was a 
+			Vulcan... So during the presentation 
+			ceremony --
+
+	Kira interrupts.
+
+					KIRA
+			Dax.  We have to keep the Valerians 
+			here.  Until we can search their 
+			ship and confiscate the dolamide.  
+			You've got to convince Starfleet -- 
+			it's for the good of Bajor and the 
+			Federation.
+
+	A beat.  Dax knits her forehead.
+
+					DAX
+				(fondly)
+			I've been friends with Benjamin Sisko 
+			for many years... In many ways, he's 
+			like a son to me.  Or at least a 
+			nephew...
+				(getting lost)
+			Some kind of close relative anyway...
+
+					KIRA
+				(impatient)
+			Listen to me, Jadzia...
+
+	She leans closer to Dax and the threat in her voice is 
+	unmistakable.
+
+					KIRA
+			I'm getting rid of Sisko... one way 
+			or another.  Don't force me to get 
+			rid of you as well.
+
+	Dax isn't so far gone that she doesn't know she's being 
+	threatened.  And as she reacts in fear, we hear the sudden 
+	SOUND OFFSCREEN of clinking glass.  Kira whips around at the 
+	noise.
+
+27   INCLUDE QUARK
+
+	close enough to eavesdrop -- which is clearly what he's been 
+	doing.  In a smooth motion that is still somehow sensual, 
+	Kira stands, GRIPS QUARK BY THE COLLAR, and pulls him to 
+	her.  He cries out in pain.
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT THREE     32.
+
+27   CONTINUED:
+
+					KIRA
+				(mock sweetly)
+			Would you like to join us?
+
+					QUARK
+			Let me go!
+
+					KIRA
+			What did you hear?
+
+					QUARK
+			Nothing!  Nothing at all!
+
+	Kira is still smiling, as she violently tosses him over the 
+	bar and onto the floor.
+
+					KIRA
+			Good.
+
+	Quark struggles to his feet, rubbing his neck.  Dax gets off 
+	her chair and joins Kira and the two of them leave the bar.
+
+	OFF the anxiety and anger on Quark's face as he watches them 
+	go...
+
+28   INT. SECURITY OFFICE
+
+	Odo glances up from his workstation to see Quark hurrying 
+	inside.  A brightly colored NECKBRACE can be seen inside his 
+	jacket.
+
+					ODO
+				(re: neck)
+			Is this a Ferengi fashion I'm not 
+			aware of?
+
+					QUARK
+			Kira tried to tear my head off.  I 
+			want to file charges.
+
+	Odo is immediately attentive.
+
+					ODO
+			Tell me about it.
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT THREE     33.
+
+28   CONTINUED:
+
+					QUARK
+			I heard her plotting --
+
+					ODO
+			Go on.
+
+					QUARK
+				(nodding)
+			She was trying to convince Dax to 
+			take her side against Sisko.
+
+					ODO
+			Did Dax seem persuaded?
+
+					QUARK
+			What difference does that make?  I 
+			was attacked!
+
+					ODO
+			Answer the question.
+
+	Odo is firm -- Quark shrugs.
+
+					QUARK
+			I couldn't tell.  She was on the 
+			fence.
+
+	Odo thinks for a moment, taking this all in.
+
+					ODO
+			Doesn't Kira's behavior seem a little 
+			out of the ordinary?  And the 
+			others... At the staff briefing Sisko 
+			was bored -- as if he couldn't be 
+			bothered about running the station.
+				(remembering)
+			And Bashir... since when is he so 
+			concerned with station politics.
+
+	Odo suddenly stares at Quark a bit doubtfully.
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT THREE     34.
+
+28   CONTINUED:	(2)
+
+					QUARK
+			Don't look at me like that.  I'm 
+			perfectly normal.
+
+					ODO
+			I suppose you are.
+				(a beat)
+			It's time I had a talk with Sisko.
+
+	Odo heads for the door -- Quark reacts.
+
+					QUARK
+			Odo... wait!
+
+	No response.
+
+					QUARK
+				(continuing)
+			Odo!  I want satisfaction.
+
+	Odo is out the door.
+
+28A  INT. OPS - OPTICAL
+
+	Odo ENTERS Ops, sees Dax staring at a monitor displaying a 
+	Klingon journal entry.  The quality has been improved, but 
+	it's still damaged.  Odo watches for a few beats.  Once again 
+	we only hear the underlined words of the Klingon's journal.
+
+					KLINGON
+			We have lost the battle for decks 
+			five through twelve.  The armory 
+			remains in the hands of Captain Tel-
+			Peh, who demands my death.  But I 
+			remain confident that I can gain 
+			control of this ship.
+
+	Dax seems entranced but without much comprehension.
+
+					ODO
+			Sisko... ?
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT THREE     35.
+
+28A  CONTINUED:  
+
+	Dax dully indicates the Commander's office.  Odo heads for 
+	it.
+
+29   OMITTED 
+
+30   INT. COMMANDER'S OFFICE (OPTICAL)
+
+	O'Brien is working a computer console -- the Klingon First 
+	Officer is on the screen -- a different journal entry from 
+	Dax's monitor.  The door CHIMES.
+
+					KLINGON
+			First officer's mission journal... 
+			day twenty-three...
+
+					O'BRIEN
+			Come in.
+
+	There's a dropout in the recording.  O'Brien works a console 
+	to fix the problem as Odo steps inside -- is surprised to 
+	find O'Brien settled in -- LIKE HE OWNS THE PLACE.
+
+					ODO
+			Where's Commander Sisko?
+
+					O'BRIEN
+				(lightly)
+			In his quarters.  Where he's safe.
+
+	Odo isn't quite sure how to respond.  So he doesn't.  O'Brien 
+	gets the recording working again.  The Klingon appears on 
+	the monitor.  Of the little we hear of the following, it's 
+	important that the words "energy spheres" be understood.
+
+					KLINGON
+			I am weakened by my wounds.  I sense 
+			my enemies are closing in. Still, I 
+			was able to hide the thalmerite device 
+			under a crossbeam near the reactor 
+			core on deck twenty-six.  Rather 
+			than be taken prisoner, I will blow 
+			up this ship and transport to safety.  
+			Perhaps medical officer Kee-Bhor was 
+			right.  All our trouble began when 
+			we opened those energy spheres.  All 
+			I know is that Captain Tel-Peh must 
+			die.
+				(beat)
+			Journal closed.
+
+	O'Brien stops the image.
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/16/93 - ACT THREE     36.
+
+30   CONTINUED:
+
+					ODO
+			It sounds like there was a power 
+			struggle on board.  Some kind of 
+			attempted takeover.
+
+					O'BRIEN
+				(shrugs)
+			Management by mutiny.  That's standard 
+			operating procedure on a Klingon 
+			vessel.
+
+					ODO
+			But awfully unusual for a Federation-
+			run space station...
+
+					O'BRIEN
+			Don't worry, if Major Kira tries 
+			anything we'll be ready.
+
+	Odo stares at him for a moment -- decides not to pursue it.
+
+					ODO
+			When will the other log entries be 
+			available?
+
+					O'BRIEN
+				(checks console)
+			At the current rate of processing -- 
+			at least seven more hours.  But the 
+			computer's taking it one entry at a 
+			time.  I'll set it up so you can 
+			access as it goes.
+
+					ODO
+			Thank you, Chief.
+
+					O'BRIEN
+			Of course, Constable.  Don't the 
+			Commander and I always try to make 
+			you happy?
+
+	O'Brien flashes a big smile -- it's SINISTER AND COLD, NOT 
+	O'BRIEN AT ALL.  Odo self-consciously tries to return it...
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT THREE     37.
+
+31   INT. CORRIDOR
+
+	Odo is hurrying up the corridor, looking like the weight of 
+	the world is on his shoulders.  He gets to a door -- is 
+	surprised to find TWO FEDERATION SECURITY GUARDS FLANKING 
+	IT.
+
+					ODO
+			What are you doing here?
+
+					GUARD
+			Chief O'Brien's orders.
+
+	Odo considers for a moment, then touches a door panel.
+
+32   INT. SISKO'S QUARTERS
+
+	The door CHIMES.  Sisko is at a desk, working on his 
+	blueprint.  The design drawing has become more complex.  He 
+	doesn't look up.  Again, the CHIMES.  He still doesn't look 
+	up.  But he's not pleased with the interruption.
+
+					SISKO
+			Come in.
+
+	The door opens and Odo steps inside.  Sisko keeps working.
+
+					ODO
+			Commander...
+
+	Sisko continues working, never looking at Odo.
+
+     DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT THREE     38.
+
+32   CONTINUED:
+
+					SISKO
+			Hello, Constable.  How are you today?
+
+					ODO
+			Concerned, Sir.
+
+					SISKO
+			On such a fine afternoon?  How 
+
+			inappropriate.
+
+	SISKO IS WEIRDLY MELLOW, ALMOST OPIATE-LIKE IN HIS FASCINATION 
+	WITH THE DRAWING.
+
+					ODO
+			Commander, I think something might 
+			be wrong with --
+				(cautiously)
+			some of us.  Ever since the Klingon 
+			ship exploded, and their First Officer 
+			beamed over... certain behaviors and 
+			attitudes have been... abnormal.
+
+	A long silent beat as Sisko keeps drawing.  Odo plunges ahead.
+
+					ODO
+				(continuing)
+			There appears to have been a mutiny 
+			on the Klingon ship.  I wouldn't go 
+			so far as to say the same thing is 
+			happening on DS Nine.  But I find 
+			some disturbing parallels --
+
+	Sisko interrupts.
+
+					SISKO
+			-- If something's bothering you, 
+			Odo, tell it to Mister O'Brien.  
+			That's what he's there for.
+
+	Sisko puts down the drawing pen and proudly holds up the 
+	blueprint PADD.
+
+					SISKO
+				(continuing)
+			What do you think?
+
+	It's a design for an elaborate timepiece, with hands and 
+	wheels and cogs and springs in profusion.  Odo glances from 
+	the drawing to the Commander -- THIS IS NOT THE SISKO HE 
+	KNOWS.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT THREE      38A.
+
+32   CONTINUED:	(2)
+
+					ODO
+			What is it?
+
+					SISKO
+			It's a clock.  Fascinating, isn't 
+			it?
+
+	OFF the look on Odo's face -- he feels very much alone.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FOUR     39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+33   EXT. SPACE - DEEP SPACE NINE
+
+	The Valerian ship is still at its dock.
+
+33A
+thru   OMITTED 
+34
+
+35   INT. SECURITY OFFICE (OPTICAL)
+
+	Odo ENTERS, is startled to find Kira is waiting for him.  
+	She's kicked back comfortably, feet up, relaxed -- even more 
+	seductive than we've seen her before.
+
+					KIRA
+			It's not nice to keep a friend 
+			waiting.
+
+	Odo is cautious.
+
+					ODO
+			Did we have an appointment?
+
+	Kira laughs.
+
+					KIRA
+			When have I ever had to stand on 
+			ceremony with you, Odo?
+
+	She takes her feet down, stretches.
+
+					KIRA
+				(continuing)
+			I need your help.
+				(beat)
+			I just took care of the Valerians.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR        40.
+
+35   CONTINUED:
+
+	Odo reacts.
+
+					ODO
+			What do you mean?
+
+					KIRA
+			I locked down the docking clamps.  
+			That ship isn't leaving until I say 
+			it is.
+				(beat)
+			O'Brien will need at least a day to 
+			do anything about it.
+				(beat)
+			By then, it won't matter.
+
+	Kira takes her feet down, smiles wickedly at Odo.
+
+					ODO
+			You're going after Sisko.
+
+					KIRA
+			And O'Brien.  Either we get a more 
+			reasonable commander from Starfleet -- 
+			somebody we can control -- or we go 
+			it alone.
+
+	Kira stands, moves over to him, standing close by.
+
+					KIRA
+				(continuing)
+			With me running this place, you'll 
+			be able to do what needs to be done.  
+			If you want to toss Quark out on his 
+			ears -- toss him out.  If you want 
+			to proclaim martial law on the 
+			Promenade -- proclaim it.  This 
+			station will be yours to protect -- 
+			with no interference.
+
+					ODO
+			What's your plan?
+
+	Kira studies him for a moment -- Odo's face is completely 
+	unreadable.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FOUR     41.
+
+35   CONTINUED:	(2)
+
+					KIRA
+			Odo, I trust you more than anyone on 
+			this station.  Because you can't be 
+			corrupted.
+				(beat)
+			But this is a dangerous time.  I 
+			can't take any chances, even with 
+			you.
+
+	Kira steps even closer, stares into Odo's eyes.
+
+					KIRA
+				(continuing)
+			When the moment comes, you'll know 
+			it.  I'll be counting on you.
+
+	Kira heads for the door.  Odo watches her go.
+
+					ODO
+			Computer, open a channel to Starfleet 
+			Headquarters.
+
+					COMPUTER VOICE
+			Subspace communication to Federation 
+			territories is currently unavailable.
+
+	Odo reacts.
+
+					ODO
+			Why?
+
+					COMPUTER VOICE
+			By authority of Major Kira.
+
+	Odo thinks for a moment.
+
+					ODO
+			Open a channel to the Bajoran Council.
+
+					COMPUTER VOICE
+			Communication to Bajor is currently 
+			unavailable.
+
+					ODO
+			By authority of Chief O'Brien?
+
+					COMPUTER VOICE
+			That is correct.
+
+	Odo sits back in his chair.  He thinks for a moment, then 
+	taps a few commands on his console.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FOUR     42.
+
+35   CONTINUED:	(3)
+
+					ODO
+			Computer, are you finished 
+			reconstructing the journal of the 
+			Klingon First officer.
+
+					COMPUTER VOICE
+			Data interpolation is complete.
+
+					ODO
+			On screen.
+
+	A STILL FRAME image of the dead Klingon appears on the 
+	monitor.
+
+					ODO
+			Computer...
+				(beat)
+			Scan the journal for mention of 
+			contact with any alien race.
+
+					COMPUTER VOICE
+			One entry found.
+
+					ODO
+			Play it.
+
+	The Klingon appears on the monitor.  But he doesn't look 
+	happy.
+
+					KLINGON
+			First Officer's journal, day twenty-
+			two.  Our exploration of the fifth 
+			planet has turned out to be a waste 
+			of time.  This world is not worthy 
+			of a Klingon colony.  All we found 
+			was a collection of energy spheres 
+			which possessed some type of 
+			telepathic archive.  The spheres 
+			described an ancient power struggle 
+			that destroyed a race called the 
+			Saltah'na.
+
+	Odo reacts.
+
+					KLINGON
+			We will forward these results to our 
+			science divisions.
+
+	He taps the console -- freezing the image.  Then he quickly 
+	heads for the door.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FOUR     43.
+
+36   INT. COMMANDER'S OFFICE
+
+	Sisko is seated at the desk, fiddling with a TIMEPIECE -- 
+	the constructed version of his blueprint, which is nearby.  
+	He is attaching some final piece to the mechanism.  O'Brien 
+	is pacing nearby, agitated.
+
+					O'BRIEN
+			Kira has already locked down the 
+			Valerian ship.  And she's diverted 
+			half the station's systems to her 
+			control.
+
+	Sisko's eyes grow cold.
+
+					SISKO
+			Since when?
+
+					O'BRIEN
+			An hour ago.  I've heard some 
+			disturbing rumors from our people on 
+			the Promenade.
+				(beat)
+			I think she's going to make an attempt 
+			on your life.
+
+	Sisko sets down the pen, looks up.
+
+					SISKO
+			I want you to arrest them.  Kira and 
+			every Bajoran officer on this station.  
+			I want the names of every sympathizer --
+
+					O'BRIEN
+				(interrupting)
+			-- That's not a good idea, sir.  
+			There are a lot more of them than 
+			there are of us.  If we tip our hand, 
+			it could work against us.
+
+					SISKO
+				(cold)
+			What can we do?
+
+					O'BRIEN
+			Leave the station.
+
+	Sisko is suddenly on his feet -- exploding with rage.
+
+					SISKO
+			Never.  Get me a phaser.  I'll get 
+			rid of Kira.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR        44.
+
+36   CONTINUED:
+
+					O'BRIEN
+				(calmly)
+			Hear me out, sir... We leave the 
+			station.  Raise a Federation attack 
+			force.  And return.
+				(beat)
+			And on that day we'll get rid of all 
+			your enemies.
+
+	Sisko looks at him -- grows again completely calm -- ALMOST 
+	PATHOLOGICALLY SO.  He smiles and sits back down.
+
+					SISKO
+			How do we proceed?
+
+					O'BRIEN
+			I need a few more hours to free up 
+			the Valerian ship.  I've already 
+			talked to their Captain.  He's more 
+			than happy to take us back to 
+			Federation space.
+
+	Sisko finishes attaching the pendulum.
+
+					SISKO
+			Call me as soon as you're ready...
+
+	He gives the pendulum a tap with this finger -- it starts to 
+	swing back and forth.
+
+37
+thru   OMITTED 
+40A
+
+41   INT. INFIRMARY
+
+	Bashir is handing a tiny, palm-held DEVICE over to one of 
+	the BAJORAN N.D. Ensigns seen before in OPS.
+
+					BASHIR
+			It'll take effect in two minutes.  
+			Plenty of time for --
+
+	Odo steps in.  Bashir and the Ensign react as if caught in 
+	the act -- but Bashir keeps his cool.
+
+					BASHIR
+				(to Ensign)
+			-- For you to get a good night's 
+			sleep.
+
+					ENSIGN
+			Thank you, Doctor.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR        45.
+
+41   CONTINUED:
+
+	And with a nod to Odo, he EXITS the room.  Bashir turns 
+	to Odo.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR        46.
+
+41   CONTINUED:	(2)
+
+					BASHIR
+				(re: Ensign)
+			Chronic insomnia.  I think it's 
+			hormonal.
+				(beat)
+			So how are you?
+
+					ODO
+			I take it you've completed your 
+			autopsy of the Klingon.
+
+					BASHIR
+			Of course.
+				(conspiratorially)
+			You know, Odo, events have been moving 
+			rapidly since our last conversation.  
+			I'd advise you to choose sides or 
+			risk finding yourself without any 
+			friends at all.
+
+					ODO
+			The Klingon, Doctor, what did you 
+			find?
+
+					BASHIR
+				(dismissive)
+			He's still dead, if that's what you 
+			mean.
+
+	Bashir turns away from Odo, who grabs him and pushes him up 
+	against the wall.
+
+					ODO
+			I don't have time for jokes.
+
+	Bashir's eyes widen in fear.  Odo doesn't release his grip 
+	but he does soften his attitude toward Bashir -- speaks to 
+	him as a fellow conspirator.
+
+					ODO
+			Your findings could determine who 
+			controls this station.
+
+	Bashir's interest is peaked.
+
+					BASHIR
+			How?
+
+	Odo gives Bashir a knowing smile.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FOUR     47.
+
+41   CONTINUED:	(3)
+
+					ODO
+			All in good time... First, tell me 
+			about the Klingon...
+
+					BASHIR
+			I found nothing very unusual.  The 
+			columnar cells in his brain stem... 
+			the membrane permeability was off...
+
+					ODO
+				(pressing)
+			What could cause that?
+
+					BASHIR
+			Any number of things.
+
+					ODO
+			Could it have something to do with 
+			telepathy?  The Klingons were studying 
+			the telepathic archives of an ancient 
+			race.
+
+	Bashir thinks for a moment.
+
+					BASHIR
+			If those archives were contained 
+			within a self-sustaining energy 
+			matrix, it could explain the changes 
+			in the Klingon's brain.
+
+	Odo nods.  It's finally starting to make sense to him.
+
+					ODO
+			Could that energy matrix have somehow 
+			caused them to re-enact the power 
+			struggle that destroyed the 
+			Saltah'nans.
+
+					BASHIR
+				(curious)
+			Possibly.  What are you getting at?
+
+					ODO
+			Doctor, I believe the Klingon brought 
+			the matrix with him... and everyone 
+			in Ops was affected except me... 
+			without a humanoid brain, my system 
+			rejected it.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FOUR     48.
+
+41   CONTINUED:	(4)
+
+					BASHIR
+				(a beat)
+			An interesting theory, Constable... 
+			but I'm certainly not behaving out 
+			of the ordinary.
+
+	Odo reacts, but plays along.
+
+					ODO
+			Of course not.
+				(a beat)
+			But what if you and I are the only 
+			two who aren't affected.
+
+	A look of cold realization crosses Bashir's face.
+
+					BASHIR
+			I see... and you think we can use 
+			that to our advantage.
+
+					ODO
+			Exactly.
+
+					BASHIR
+			Tell me your plan.
+
+					ODO
+			The first thing we have to do is 
+			figure out how to remove the field 
+			from everyone affected.
+
+					BASHIR
+			But then we'd lose our advantage.
+
+					ODO
+			Would you rather someone blew up the 
+			station?
+
+					BASHIR
+			I see your point.
+
+					ODO
+			The power to control the energy matrix 
+			is the power to control this station.
+
+					BASHIR
+			If I could determine the natural 
+			resonance frequencies of the field, 
+			I might be able to generate an 
+			interference signal of some kind 
+			which could force it out.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FOUR     49.
+
+41   CONTINUED:	(5)
+
+					ODO
+			Do it.  I promise, Doctor, you won't 
+			regret it.
+
+	Bashir nods, heads for a workstation.  Odo takes a deep 
+	breath, then goes to join him.
+
+42   OMITTED
+
+43   INT. OPS (OPTICAL)
+
+	O'Brien and Dax are working at a station -- the monitor 
+	displays a schematic of the station and the docked Valerian 
+	ship.
+
+					DAX
+				(distant)
+			This reminds me of a game I used to 
+			play... It had a maze... What was it 
+			called?
+
+					O'BRIEN
+			I'm through level two.  See if you 
+			can isolate the security blocks on 
+			three.
+
+	A beat.  Dax isn't responding.  She smiles at a memory.
+
+					DAX
+			The Winter Garden...
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FOUR     50.
+
+43   CONTINUED:
+
+					O'BRIEN
+			Lieutenant.
+
+					DAX
+				(glances up)
+			Oh.  I'm sorry.  I must have been 
+			drifting.
+
+					O'BRIEN
+				(patronizing)
+			Try drifting over here when you get 
+			the chance.
+
+44   INCLUDE SISKO
+
+	stepping onto OPS from his office.
+
+					SISKO
+			What's taking so long, O'Brien?
+
+					O'BRIEN
+			Almost there, Sir.  We've got one 
+			more level of security lockouts to 
+			break through and the Valerian ship 
+			will be ready to go.
+
+	Sisko scowls, starts heading back to his office.  Dax glances 
+	up from her work -- exchanges a meaningful look with the 
+	N.D. Bajoran Ensign last seen leaving the Infirmary.
+
+	The Ensign picks up a PADD and intercepts Sisko.
+
+					ENSIGN
+			Commander, I have the report you 
+			asked for on those weapon scanners.
+
+					SISKO
+			Give it to Mister O'Brien.
+
+	But the Ensign holds out the PADD to Sisko.
+
+					ENSIGN
+			I really think you should see this, 
+			sir.
+
+	And in his other palm, we see he's hiding the tiny DEVICE he 
+	got from Bashir.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR       50A.
+
+45
+thru   OMITTED
+46
+
+47   O'BRIEN
+
+	notices Dax, who can't help but steal a glance at the Ensign's 
+	progress.  A look of suspicion crosses O'Brien's face.
+
+48   THE SCENE
+
+	Everything happens in a flash.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR        51.
+
+	-- The Ensign slowly brings the Device up toward Sisko's 
+	back.
+
+	-- O'Brien leaps to his feet, shouting.
+
+					O'BRIEN
+
+			Commander!
+
+	-- Sisko whips around, grabbing the Ensign's wrist, sees the 
+	Device, then swings the man violently around, throwing him 
+	over a console.
+
+	-- Dax stands in a panic, hitting a companel.
+
+					DAX
+				(to COM)
+			Dax to Kira!
+
+	-- O'Brien backhands her, knocking her out.  He dashes for 
+	the transporter controls.
+
+	-- Sisko continues after the Ensign, blind with rage.
+
+					SISKO
+			Is it Kira?!
+
+	He hauls the Ensign to his feet, holding him up with one 
+	hand and backhanding him with the other.
+
+					SISKO
+				(continuing)
+			Did Kira put you up to this?
+
+					ENSIGN
+				(fearful)
+			No...
+
+	Another blow.
+
+					SISKO
+				(continuing)
+			I want the truth.
+
+	The Ensign doesn't have a chance to answer before he's struck 
+	again.
+
+					SISKO
+			Is that clear?
+
+	Sisko spots the Ensign's DEVICE now on the floor a few feet 
+	away.  He hauls the nearly unconscious man over to it, picks 
+	it up and prepares to inject him with it.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FOUR        52.
+
+48   CONTINUED:	(2)
+
+					SISKO
+			Let's see how this works...
+
+48A  PHASER BLAST (OPTICAL)
+
+	hits the console next to them -- stopping Sisko cold.
+
+49   INCLUDE KIRA
+
+	standing at the door, phaser raised, flanked by two armed 
+	guards.  Sisko just looks at her.
+
+					KIRA
+			Put it down... Sir...
+
+	Kira aims her weapon straight at him.  OFF the tension of 
+	the moment.
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FIVE     53.
+                           ACT FIVE                             
+
+	FADE IN:
+
+50   INT. OPS - CONTINUOUS (OPTICAL)
+
+	The face-off continues.  Kira motions toward Sisko and O'Brien 
+	with her weapon.
+
+					KIRA
+				(to guards)
+			Take them.
+
+	O'Brien suddenly DIVES for a Transporter control -- he and 
+	Sisko DEMATERIALIZE.
+
+	Kira fires at Sisko -- the phaser blast goes harmlessly 
+	through Sisko's body.
+
+	Dax struggles to her feet, dazed, as Kira rushes to the 
+	workstation.
+
+					KIRA
+			You were supposed to deactivate the 
+			transporter!
+
+					DAX
+				(groggy)
+			I forgot...
+
+51   INT. AIRLOCK CORRIDOR
+
+	Sisko and O'Brien have just beamed in (we do not see them 
+	materialize).  O'Brien reacts -- unhappy about finding 
+	themselves in the corridor.
+
+					O'BRIEN
+			Damn it.  Kira must have set up a 
+			force field to keep us from beaming 
+			onto the Valerian ship.  The 
+			Transporter rerouted us here.
+
+					SISKO
+			We've got to get to that ship.
+
+					O'BRIEN
+			Odo's our only chance.  He may be 
+			able to override the field.
+
+	He goes to hit his combadge... Sisko stops him.
+
+					SISKO
+			You're sure we can trust him?
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FIVE    53A.
+
+51   CONTINUED:
+
+					O'BRIEN
+			I don't see where we have any choice.
+
+	A beat.  Sisko knows O'Brien's right.
+
+					SISKO
+				(touches combadge)
+			Sisko to Odo...
+
+									INTERCUT:
+
+52   INT. INFIRMARY
+
+	Bashir and Odo are at a workstation.  Odo reacts to the 
+	urgency of Sisko's voice.  Bashir reacts at hearing Sisko 
+	still alive.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FIVE     54.
+
+52   CONTINUED:
+
+					ODO
+				(to COM)
+			Odo here.
+
+					SISKO
+				(to COM)
+			Kira has moved against us.  She has 
+			Dax on her side... We need your help, 
+			Constable.  You've got to clear us a 
+			path to the Valerian ship.
+
+					ODO
+				(to COM)
+			Take Crossover Bridge One to the 
+			Cargo Bay entrance into Docking Port 
+			Four.  I'll keep it open for you.
+
+					SISKO
+				(to COM)
+			Right.  Sisko out.
+
+	Sisko removes his combadge.
+
+					SISKO
+				(continuing, to O'Brien)
+			Leave your combadge here.
+
+	They remove their combadges.  O'Brien looks troubled.  Sisko 
+	notices, slaps him on the back.
+
+					SISKO
+			Don't look so worried, Chief.  She 
+			hasn't beaten us yet.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FIVE     55.
+
+52   CONTINUED:	(2)
+
+					O'BRIEN
+			Yes, Sir.
+
+	And they quickly head up the corridor.
+
+53   OMITTED
+
+54   INT. OPS (OPTICAL) (VPB)
+
+	Kira and Dax at the workstation.
+
+					DAX
+			They're still in the Airlock Six 
+			Corridor...
+
+					KIRA
+			What could they be doing in there?
+
+					DAX
+			Maybe they've given up.
+
+					KIRA
+			Sisko would rather die... which is 
+			fine with me.
+				(a beat, then Kira 
+				smiles as she figures 
+				it out)
+			They must have taken off their 
+			combadges.  That's all right.  They 
+			won't get far.
+
+	Dax glances at a monitor display of the station, reacts with 
+	alarm.
+
+					DAX
+			Somebody's taking out our 
+			forcefields...
+
+					KIRA
+			Whoever it is knows how to override 
+			the security codes.
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FIVE        56.
+
+54   CONTINUED:
+
+	She hits her combadge.
+
+					KIRA
+				(to COM)
+			Kira to Odo.
+
+									INTERCUT:
+
+55   INT. INFIRMARY
+
+	Bashir and Odo still at the workstation, both of them working 
+	away at their consoles.
+
+					ODO
+				(to COM)
+			Go ahead, Major.
+
+					KIRA
+				(to COM)
+			Whose side are you on, Constable?
+
+					ODO
+				(to COM)
+			Yours, of course.
+
+					KIRA
+				(to COM)
+			Really?  Then why are you helping 
+			Sisko escape?
+
+					ODO
+				(to COM)
+			On the contrary.  You'll find him 
+			trapped in Cargo Bay Four.  Consider 
+			it my gift to you.
+
+	A beat.  Kira smiles, she can taste victory.
+
+					KIRA
+				(to COM)
+			My apologies.  We'll see you there.  
+			Kira out.
+
+	Bashir to Odo.
+
+					BASHIR
+			Well done... you certainly fooled 
+			her.
+
+					ODO
+				(impatiently)
+			Doctor, we're running out of time.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FIVE     57.
+
+55   CONTINUED:
+
+					BASHIR
+				(attention focused on 
+				his console)
+			I'm just about done.  I've set up an 
+			ionic interference signal in Cargo 
+			Bay Four.  It's calibrated to lock 
+			onto the resonance frequencies of 
+			the telepathic field and drive it 
+			out of those affected.
+
+					ODO
+			What will happen to it then?
+
+					BASHIR
+			It'll remain suspended as long as 
+			the interference is in effect.
+
+	Odo quickly punches some buttons into his console.
+
+					ODO
+			That's all I need to know.  Let's 
+			go.
+
+	He and Bashir EXIT.
+
+56   INT. CARGO BAY FOUR
+
+	Sisko and O'Brien rush into the Cargo Bay.  Various containers 
+	are stacked about the large room; on a far wall is another 
+	ENTRY DOOR; on another wall is a large AIRLOCK.
+
+	O'Brien hurries to the Entry Door -- it doesn't move.
+
+					SISKO
+			What's wrong?
+
+					O'BRIEN
+				(puzzled)
+			It won't open.
+
+	O'Brien pops a panel off the doorframe and works the controls 
+	inside.
+
+					O'BRIEN
+				(continuing)
+			It's completely locked down.  
+			Someone's activated a level five 
+			security protocol.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/17/93 - ACT FIVE     58.
+
+56   CONTINUED:
+
+					O'BRIEN
+			There's only one person on this 
+			station besides yourself who has 
+			that kind of access.
+
+	Sisko doesn't need to be told who that someone is.
+
+					SISKO
+				(angry)
+			Odo!
+
+					KIRA (O.S.)
+			Relax, Commander...
+
+57
+thru   OMITTED
+59
+
+60   INCLUDE KIRA, DAX, AND GUARD
+
+	as they step through the same doorway Sisko and O'Brien had 
+	used, weapons drawn.
+
+					KIRA
+			... he'll be here any minute.
+
+	O'Brien steps away from the door panel, looks to Sisko, hoping 
+	he has some kind of card to play.  But Sisko only gives a 
+	bitter laugh, as he slowly glares around the room.
+
+					SISKO
+			So... this is where it all ends.
+
+					KIRA
+			For you.
+
+	A beat... and when Sisko speaks, it's with great dignity.
+
+					SISKO
+			You know what disturbs me?  The 
+			ingratitude.  I offered you my help... 
+			my kindness... my leadership... and 
+			how do you repay me?  With betrayal... 
+			But you won't get rid of me so easily.  
+			You see, unlike you, I understand 
+			history.  Time will be my greatest 
+			ally.
+				(passionately)
+			My name will blaze like a comet across 
+			the stars long after your petty 
+			treacheries are forgotten.
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/22/93 - ACT FIVE     59.
+
+60   CONTINUED:
+
+					KIRA
+			But you won't be here to see it.
+
+	Kira aims her phaser at Sisko... but just as she's about to 
+	fire... her attention is diverted by the sound of a door 
+	WHOOSHING open and...
+
+					ODO (O.S.)
+			Major, wait...
+
+61   ODO AND BASHIR
+
+	step through the door O'Brien was working on.
+
+					KIRA
+			I'm glad you two could make it.
+
+	She turns back to Sisko, raising her weapon as...
+
+        DEEP SPACE: "Dramatis Personae" - 3/15/93 - ACT FIVE        60.
+
+62   THE SCENE (OPTICAL)
+
+					ODO
+				(shouting)
+			Computer!  Execute Odo One!
+
+	The door closes behind him as a LOW HUM is suddenly heard, 
+	building quickly in intensity.  As it does, a transparent 
+	RIPPLE EFFECT starts to distort the air in the room.
+
+	Everyone drops their weapons, reacting in pain -- save for 
+	Odo who watches the scene.
+
+	At the peak of their anguish, a VIOLET-GLOW seems to bleed 
+	out of their heads, coloring the ripple effect in the air 
+	around them.
+
+	Their faces start to clear -- the pain fading away, they 
+	look disoriented, as if waking from a dream...
+
+					SISKO
+				(dazed)
+			Constable... ?
+
+					ODO
+				(urgently)
+			Everyone grab hold of something.
+
+	They all do as told.  Odo hits a control on a panel.  THE 
+	AIRLOCK OPENS A CRACK.  The air starts to rush outside, 
+	causing everyone in the room to hold on for dear life.
+
+	The violet-colored empathic field ripples toward the airlock, 
+	and is sucked out into space...
+
+	As soon as it disappears, Odo again hits the controls and 
+	the AIRLOCK CLOSES, air hissing back into the cargo bay.  
+	Everyone slowly lets go of their support holds.  They exchange 
+	looks, confusion giving way to relief.
+
+	Odo watches with approval.
+
+					ODO
+				(to all)
+			Welcome back...
+
+	And off their weary smiles...
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/22/93 - ACT FIVE     61.
+
+63
+thru   OMITTED
+64
+
+65   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Valerian ship is no longer there.
+
+					SISKO (V.O.)
+			Commander's log; Stardate 46924.5.  
+			With nothing to contain it, the 
+			telepathic matrix has dispersed in 
+			space.
+
+66   INT. OPS
+
+	Business as usual.  Dax and O'Brien (who is going over some 
+	business with Odo) are at their stations.  Supernumeraries, 
+	including the Ensign as needed.  Kira is headed toward the 
+	Commander's Office.
+
+					SISKO (V.O.)
+				(continuing)
+			Meanwhile I'm happy to report 
+			everything and everyone aboard DS 
+			Nine has returned to normal.
+
+66A  INT. COMMANDER'S OFFICE
+
+	Sisko at his desk contemplating his very alien timepiece.  
+	The door CHIMES.
+
+					SISKO
+			Come in.
+
+	Kira ENTERS, feeling a little self-conscious.  She looks 
+	over at the clock.
+
+					KIRA
+			Did you really build that thing?
+
+					SISKO
+			Apparently so.
+
+					KIRA
+			Why?
+
+					SISKO
+				(simply)
+			I have no idea.
+
+	He waits a beat to her what's on her mind.  When she doesn't 
+	speak...
+
+					SISKO
+			Major?
+
+      DEEP SPACE: "Dramatis Personae" - REV. 3/18/93 - ACT FIVE     62.
+
+66A  CONTINUED:
+
+					KIRA
+			I know that none of us were really 
+			responsible for our actions... but I 
+			still feel like I owe you an apology.
+
+					SISKO
+			For attempted mutiny.
+
+					KIRA
+			Well... yes.
+
+	Sisko smiles.
+
+					SISKO
+			I think we'll let it go... this time.
+
+	Kira returns his smile -- there's a moment of camaraderie 
+	between them.  She nods and heads out the door.
+
+	OFF Sisko's smile as he turns back to studying the 
+	timepiece...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

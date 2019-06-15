@@ -1,0 +1,3491 @@
+
+
+
+
+
+
+
+
+
+                STAR TREK: THE NEXT GENERATION 
+                              
+                        "Hero Worship" 
+                          #40275-211 
+                              
+                          Teleplay by 
+                          Joe Menosky 
+                              
+                          Directed by 
+                        Patrick Stewart 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1991 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+                         FINAL DRAFT
+ 
+                        OCTOBER 8, 1991
+
+       STAR TREK: "Hero Worship" - REV. 10/17/91 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                        "Hero Worship" 
+
+                             CAST                               
+                              
+                PICARD             TIMOTHY
+                RIKER              ENSIGN FELTON
+                DATA               TEACHER
+                BEVERLY            
+                TROI               
+                GEORDI             
+                WORF               
+                TRANSPORTER CHIEF HUTCHINSON
+
+                Non-Speaking       
+                  SUPERNUMERARIES    
+                  CHILDREN IN CLASSROOM
+                  WAITER IN TEN-FORWARD
+
+       STAR TREK: "Hero Worship" - REV. 10/15/91 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                        "Hero Worship" 
+                      
+                             SETS 
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              MAIN BRIDGE
+              CAPTAIN'S READY ROOM     VICO
+              OBSERVATION LOUNGE
+              MAIN ENGINEERING
+              TRANSPORTER ROOM
+              TEN-FORWARD
+              CLASSROOM
+              DATA'S QUARTERS
+              TIMOTHY'S QUARTERS
+              SICKBAY
+          
+            VICO
+              CORRIDOR #1
+              CORRIDOR #2
+
+STAR TREK: "Hero Worship" - REV. 10/17/91 - TEASER     1.
+
+                STAR TREK: THE NEXT GENERATION                  
+                        "Hero Worship"                             
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	at warp.
+
+					PICARD (V.O.)
+			Captain's log, stardate 45400.3.
+			Two days ago, Starbase
+			Five-one-four lost contact with
+			the research vessel Vico, which
+			was sent to explore the interior
+			of a Black Cluster. We are
+			en route to investigate.
+
+2    INT. BRIDGE
+
+	PICARD, RIKER, DATA, WORF, ENSIGN FELTON at the conn.
+
+					ENSIGN FELTON
+			Captain, we are entering sector
+			nine-seven.
+
+					DATA
+			Sir, I am picking up massive
+			gravitational fluctuations...
+
+					PICARD
+			Take us out of warp, Ensign.
+
+					ENSIGN FELTON
+			Yes, sir.
+
+	Ensign Felton touches the panel.
+
+					WORF
+			The Black Cluster is in visual
+			range.
+
+					PICARD
+			On screen.
+
+					WORF
+			Aye, Captain.
+
+     STAR TREK: "Hero Worship" - REV. 10/14/91 - TEASER     2.
+
+3    INCLUDE SCREEN (OPTICAL)
+
+	Everyone reacts to the awesome spectacle. A huge,
+	black bending of space, seemingly an immense lens-like
+	cloud, dotted throughout by tiny pulsars -- miniature
+	stars that blink on and off like lighthouses or
+	fireflies.
+
+					RIKER
+			Let's find that ship. Full sensor
+			sweep, Mister Data.
+
+					DATA
+				(touching panel)
+			Yes, Commander.
+
+	Riker indicates the cluster.
+
+					RIKER
+			It's quite a sight.
+
+					PICARD
+				(nodding)
+			One of the most ancient formations
+			in the galaxy.
+
+	Data looks up.
+
+					DATA
+			I have located the Vico. The
+			vessel appears to be adrift.
+
+					RIKER
+			Let's see it.
+
+	Data touches the console.
+
+	The screen image shifts, and is replaced by a closer
+	view: a mid-sized spacecraft, its hull sheared off in
+	several places, hanging motionless against the starry
+	background.
+
+4    RESUME
+
+	Everyone reacts to the sight.
+
+					RIKER
+			Life signs?
+
+      STAR TREK: "Hero Worship" - REV. 10/16/91 - TEASER 3-3A.         
+
+4    CONTINUED:
+
+					WORF
+			Nothing, Commander.
+
+					RIKER
+			Damage report, Mister Data.
+
+					DATA
+				(off instruments)
+			The outer and inner hulls have
+			been breached. Decks seven
+			through twelve are exposed to
+			space.
+
+					RIKER
+			Set up a translink to their
+			computer core. Let's see what
+			happened.
+
+	Data tries a few commands.
+
+					DATA
+			I cannot, sir. The emergency
+			bulkheads on that deck are in
+			place. Our linkup signal cannot
+			penetrate them.
+
+					PICARD
+				(to Data)
+			Structural status, Commander.
+
+	Data hits a few controls on the console, looks at the
+	results.
+
+					DATA
+			Stress readings indicate
+			considerable pressure on the
+			transverse supports.
+
+					PICARD
+			Is it stable enough for an away
+			team?
+
+					DATA
+				(off instruments)
+			Yes, sir. But the risk of
+			structural collapse is high.
+
+					PICARD
+				(to Riker)
+			Have transporter room one maintain
+			a lock on each member of your
+			away team.
+					(MORE)
+
+     STAR TREK: "Hero Worship" - REV. 10/17/91 - TEASER     4.
+
+4    CONTINUED: (3)
+
+					PICARD (cont'd)
+			I want you out of there at the
+			first sign of trouble.
+
+					RIKER
+			Aye, Captain.
+				(to conn)
+			Ensign, take us to fifteen
+			thousand meters.
+
+					ENSIGN FELTON
+			Yes, sir.
+
+					RIKER
+				(heading for door)
+			Data, you're with me.
+
+	Riker continues toward the turbolift, as Data gets out
+	of his chair and joins him.
+
+	OFF Picard, staring at the wreckage.
+
+5    INT. VICO (OPTICAL)
+
+	Riker, Data, and Geordi MATERIALIZE in a corridor-like
+	chamber that has a couple of science consoles and small
+	monitors against the wall. Data is carrying a small
+	suitcase-sized, boxlike device. The corridor has been
+	HEAVILY DAMAGED.
+
+	Support beams are crashed through the ceiling, wall
+	panels are exposed -- it looks like one false step will
+	bring it all crashing down. When the away team moves,
+	it is with great caution and awareness of their
+	treacherous surroundings. They simultaneously spot
+	a couple of bodies partially exposed beneath the
+	rubble. Data takes out his tricorder and aims it
+	toward the bodies -- but it only confirms what they
+	already knew. The away team exchanges glances.
+
+	Upon seeing the consoles, Data and Geordi start toward
+	them -- suddenly a structural member shifts in the
+	wall. The away team freezes. There is a metallic
+	groan, a slight shake. And everything is again still.
+	Data and Geordi again head for the consoles. One
+	monitor is dead. The other is lit up, flickering,
+	displaying a computer graphic of a graviton wave field.
+	They touch the controls on both panels but nothing
+	changes.
+
+					DATA
+				(re: dead monitor)
+			This station is inoperable.
+
+     STAR TREK: "Hero Worship" - REV. 10/14/91 - TEASER     5.
+
+5    CONTINUED:
+
+					GEORDI
+				(re: his console)
+			This one's stuck in a feedback
+			loop.
+
+					RIKER
+			Let's try to tap directly into
+			the computer core.
+
+					GEORDI
+			There should be an ODN junction
+			along here somewhere...
+
+	They all start scanning the area. Geordi spots a
+	promising panel against the wall.
+
+					GEORDI
+				(continuing)
+			This looks like a good
+			possibility...
+
+	He reaches down to take hold of the panel --
+
+					RIKER
+			Careful, Geordi. You don't want
+			to pull out the wrong brick...
+
+	Carefully, Geordi removes the panel -- revealing the
+	fiber optic trunk within.
+
+					RIKER
+			Data.
+
+	Data brings over the device. Sets it three feet in
+	front of the ODN trunk and touches a control.
+
+	A LASER type beam shoots out of the box, connecting to
+	the trunk. Data tweaks the controls and the beam
+	changes color.
+
+					DATA
+				(off colors)
+			Core transfer is engaged.
+
+	Geordi looks at the instrumentation on the device.
+
+     STAR TREK: "Hero Worship" - REV. 10/17/91 - TEASER     6.
+
+5    CONTINUED: (2)
+
+					GEORDI
+			Exchange protocol verified.
+				(takes reading)
+			The files seem to be intact. Some
+			of them, anyway.
+
+					WEAK VOICE
+			Is somebody there... ?
+
+	All three react. Riker indicates the transfer device.
+
+					RIKER
+				(to Geordi)
+			Stay here.
+				(to Data)
+			Data.
+
+	He motions "follow me" with his head. Riker and Data
+	cautiously move to the end of the damaged corridor and
+	around the corner.
+
+6    INT. SCIENCE SHIP CHAMBER - ON TIMOTHY
+
+	a boy of ten. Trapped beneath a fallen bulkhead in an
+	even more heavily damaged area. He looks up at Data
+	and Riker -- panic on his face.
+
+					TIMOTHY
+			Are my parents alright?
+
+7    RESUME RIKER AND DATA
+
+	OFF their reactions.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     STAR TREK: "Hero Worship" - REV. 10/24/91 - ACT ONE     7.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+          (NOTE: Episode credits fall over opening scenes.)            
+
+8    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship is facing the crippled Vico, the Black Cluster
+	in the background.
+
+					PICARD (V.O.)
+			Captain's log, supplemental. A
+			young boy, shielded from our
+			initial sensor scans, has been
+			discovered alive by the away team.
+			The degree of damage to the Vico
+			is making our rescue attempt
+			difficult...
+
+9    INT. BRIDGE
+
+	Picard, Worf, Ensign Felton.
+
+					PICARD
+				(to com)
+			Transporter room one, can you lock
+			onto him?
+
+10   INT. TRANSPORTER ROOM
+
+	Hutchinson at the controls.
+
+					PICARD'S COM VOICE
+			And transport directly to
+			sickbay?
+
+					HUTCHINSON
+				(to com)
+			I'll try, Captain...
+				(doubtful)
+			But there's a lot of shielding
+			to pull him through.
+
+    STAR TREK: "Hero Worship" - REV. 10/24/91 - ACT ONE    7A.
+
+11   INT. BRIDGE
+
+					PICARD
+			Acknowledged.
+				(beat)
+			Picard to Crusher.
+
+					BEVERLY'S COM VOICE
+			Sickbay here, Captain.
+
+
+     STAR TREK: "Hero Worship" - REV. 10/24/91 - ACT ONE     8.
+
+11   CONTINUED:
+
+					PICARD
+			Standby for emergency transport.
+
+					BEVERLY'S COM VOICE
+			Aye, sir. Crusher out.
+
+					PICARD
+				(to com)
+			Picard to Commander Riker.
+
+12   INT. VICO (OPTICAL)
+
+	Data and Geordi are standing by. Riker is crouched
+	down next to the trapped boy. Timothy appears almost
+	numb with fright.
+
+					PICARD'S COM VOICE
+			Is the boy ready, Number One?
+
+					RIKER
+				(to boy)
+			Everything's gonna be okay...
+
+	A beat. The boy doesn't answer. But he nods his head
+	almost imperceptibly.
+
+					RIKER
+				(touching combadge)
+			Ready, sir.
+
+					PICARD'S COM VOICE
+			At your signal.
+
+					RIKER
+				(to com)
+			Aye, Captain.
+
+	Riker again looks at the boy.
+
+					RIKER
+			Alright... here we go...
+
+	Riker straightens up, backs away from the fallen
+	bulkhead.
+
+					RIKER
+			Energize.
+
+	The boy begins to DEMATERIALIZE.
+
+12A  INT. SICKBAY
+
+	Beverly watches as the boy MATERIALIZES in and out on
+	a bio-bed.
+
+     STAR TREK: "Hero Worship" - REV. 10/24/91 - ACT ONE     9.
+
+13   INT. TRANSPORTER ROOM (OPTICAL)
+
+	Hutchinson works the controls. A few seconds go by...
+	Hutchinson shakes his head.
+
+					HUTCHINSON
+				(to com)
+			The lock is holding. I just can't
+			resolve the matter stream. Not
+			with all that victurium alloy in
+			the way.
+
+13A  INT. SICKBAY
+
+	As Beverly watches the boy completely DEMATERIALIZES.
+
+14   INT. VICO
+
+	The boy MATERIALIZES back in place.
+
+					HUTCHINSON'S COM VOICE
+			Commander Riker. You'll have to
+			get him out into the corridor.
+
+	Riker exchanges a glance with Data and Geordi.
+
+	All three of them look at the bulkhead trapping the
+	boy. They glance up at the structural beams that are
+	in turn braced against the bulkhead. It all looks
+	heavy as hell -- and extremely unstable.
+
+	Riker indicates the bulkhead.
+
+					RIKER
+				(continuing)
+			That's gotta weigh over a ton,
+			Data. Can you move it?
+
+					DATA
+			Yes, sir. However, that may
+			initiate the collapse of the
+			surrounding supports. I recommend
+			that you and Geordi return to the
+			ship.
+
+	A beat. Riker reluctantly nods.
+
+					RIKER
+			Agreed.
+				(turning)
+			La Forge...
+
+	They both head back toward the open corridor.
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT ONE    10.
+
+15   TRANSPORTER ROOM (OPTICAL)
+
+	Riker and Geordi MATERIALIZE on the transporter pad.
+	Beverly is standing near the transporter chief.
+
+					HUTCHINSON
+				(to Riker)
+			I'm locked onto Commander Data
+			and the boy, sir. I'll energize
+			as soon as they've cleared the
+			bulkheads.
+
+					RIKER
+				(keys combadge)
+			Whenever you're ready, Data.
+
+16   INT. VICO
+
+	Data is standing next to the trapped boy.
+
+					DATA
+				(to com)
+			Yes, Sir.
+
+	He crouches next to the boy, who stares at him,
+	wide-eyed, puzzled to see him up close, amazed at what
+	Data seems to be attempting.
+
+					TIMOTHY
+			You're gonna lift that?
+
+					DATA
+			Yes. Then I will carry you to
+			the corridor. We will transport
+			back to the Enterprise from there.
+			Do you understand?
+
+	The boy is still amazed.
+
+					TIMOTHY
+			How can you pick up something so
+			heavy?
+
+					DATA
+			I am an android. My strength is
+			many times that of a human.
+
+	A beat as Data considers an appropriate way to reassure
+	the frightened boy -- recalls Riker's words.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT ONE    10A.
+
+16   CONTINUED:
+
+					DATA
+				(continuing)
+			Everything is going to be... okay.
+
+	Data puts one hand and shoulder to the bulkhead,
+	leaving the other free.
+
+    STAR TREK: "Hero Worship" - REV. 10/24/91 - ACT ONE    11.
+
+16   CONTINUED: (2)
+
+					DATA
+			I will count to three.
+				(beat)
+			One... two... three...
+
+	Everything happens at once:
+
+	-- with his android strength, Data forces the bulkhead
+	upwards. The boy scrambles free, falling to the floor.
+
+	-- a second structural member collapses as a result of
+	the action.
+
+	-- Data drops the bulkhead, spins, scoops the boy into
+	the air and dashes back toward the opposite corridor.
+
+17   DATA (OPTICAL)
+
+	shoots into the open corridor, boy under his arm,
+	tapping his combadge with his free hand.
+
+					DATA
+				(to com)
+			Energize!
+
+	He and the boy DEMATERIALIZE -- a piece of the ceiling
+	falls right through them.
+
+18   INT. SICKBAY (OPTICAL)
+
+	Data and the boy MATERIALIZE, standing on the floor.
+
+19   INCLUDE BEVERLY AND AN N.D. NURSE
+
+	Timothy looks up from the security of Data's shoulder,
+	still in shock from the experience. He stares at the
+	unfamiliar faces watching him. Timothy buries his head
+	into Data's shoulder.
+
+	OFF Data's reaction.
+
+    STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT ONE    12.
+
+19A  EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The wrecked Vico hanging near the Enterprise.
+
+					PICARD (V.O.)
+			Captain's Log, supplemental. A
+			thorough search of the Vico has
+			revealed no additional survivors.
+			Troi has begun the process of
+			counseling the boy in regard to
+			the tragedy.
+
+20   INT. SICKBAY
+
+	Timothy is on his back on a diagnostic bed, eyes open.
+	His hand is still gripping Data's -- the boy clearly
+	refuses to let go. Timothy has an edgy look in his
+	eyes, bordering on panic. Beverly and Troi are
+	standing next to Data.
+
+					TIMOTHY
+				(in a rush)
+			We were in the Black Cluster.
+			I don't know where they came
+			from... but they had a big ship
+			-- they kept shooting at us. Then
+			they beamed over. They had purple
+			helmets on and phaser rifles.
+			I saw them. But they didn't see
+			me...
+
+	He runs out of steam. Beverly checks the diagnostic
+	reading above the bed.
+
+					BEVERLY
+				(gently)
+			You're safe now, Timothy. You're
+			going to be alright.
+
+	Timothy gives her a blank look.
+
+					BEVERLY
+				(continuing)
+			You must be hungry. Would you
+			like me to get you something to
+			eat?
+
+	Timothy nods. Beverly turns and heads for a
+	replicator. Data turns to Troi.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT ONE    12A.
+
+20   CONTINUED:
+
+					DATA
+			Counselor, I must join Commander
+			La Forge in engineering. If you
+			will excuse me --
+
+	Data attempts to gently retrieve his hand -- but the
+	boy grips it ever the more tightly.
+
+	Data stops in his tracks. He and Troi look at Timothy.
+	The boy averts his eyes. A beat.
+
+					TROI
+			Timothy, would you like Data to
+			stay a little bit longer?
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT ONE    13.
+
+20   CONTINUED: (2)
+
+					TIMOTHY
+			Yes.
+
+	Data glances at Troi, then back at the kid -- who is
+	still keeping his eyes down.
+
+	OFF Data's head tilt reaction.
+
+21   INT. ENGINEERING (OPTICAL)
+
+	The away team's device is dumping its datastream into
+	the computer console -- as before, the LASER makes the
+	connection.
+
+	Geordi is showing Picard a graphic of the wrecked Vico
+	on a small monitor.
+
+					GEORDI
+			Sections of the primary and
+			secondary hull were torn right
+			off.
+				(indicating)
+			Shearing planes are here, here,
+			and here.
+
+	Picard studies the diagram.
+
+	A beat.
+
+					PICARD
+				(re: datastream)
+			How much longer until we can
+			access their logs?
+
+					GEORDI
+			Less than an hour.
+
+	Picard nods. He reaches toward the console and touches
+	a command.
+
+22   CLOSE ON: COMPUTER MONITOR (OPTICAL)
+
+	as the external view of the damaged Vico is replaced
+	by a cross-section graphic that exposes the interior
+	architecture.
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT ONE    14.
+
+23   INCLUDE PICARD AND GEORDI
+
+	as Picard studies the graphic and indicates a central
+	area of the ship.
+
+					PICARD
+			The boy was here.
+
+					GEORDI
+				(nodding)
+			The hallway outside the computer
+			core.
+
+	Geordi glances up at Picard.
+
+					GEORDI
+				(continuing)
+			His mother was the ship's systems
+			engineer.
+				(beat; indicating)
+			The second away team found her
+			body here -- inside the core.
+
+					PICARD
+			And the boy's father?
+
+					GEORDI
+			Ship's second officer.
+				(off diagram)
+			He was most likely on the bridge
+			when it was exposed to space.
+
+					PICARD
+				(grimly)
+			Most likely...
+
+	A beat as Picard studies the diagram, imagining what
+	it must have been like. OFF the look on his face.
+
+24   CLOSE UP - DATA'S HAND
+
+	as Timothy's much smaller hand slowly loosens its grip,
+	slipping out of Data's palm.
+
+25   WIDEN TO INCLUDE - INT. SICKBAY
+
+	Timothy is on his back in bed, eyes closed, having
+	obviously just fallen asleep. Data takes a careful
+	step back, joining Troi and Beverly, who are standing
+	nearby.
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT ONE    15.
+
+25   CONTINUED:
+
+					BEVERLY
+			He'll sleep for a few hours at
+			least.
+				(to Troi)
+			There's no need to keep him here.
+			But I will need to see him again
+			tomorrow.
+
+	Beverly looks at the boy for a moment.
+
+					BEVERLY
+				(continuing to Troi)
+			You've got some work cut out for
+			you.
+
+	Troi nods her agreement with that assessment. Beverly
+	moves to another part of sickbay, leaving Data and Troi
+	still watching the boy.
+
+					TROI
+				(continuing to Data)
+			His world is gone, Data. We're
+			going to have to help him build
+			a new one.
+
+	Off the look between Troi and Data.
+
+26   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT TWO    16.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+27   INT. ENGINEERING
+
+	Geordi and Data are at their consoles.
+
+28   ON GEORDI'S SCREEN (OPTICAL)
+
+	Alphanumeric bits of information flash by on the two
+	screens. There appear to be major chunks of data
+	missing -- blocks of blank space.
+
+29   RESUME (OPTICAL)
+
+					GEORDI
+			This isn't good. I think whatever
+			hit the Vico set up an E-M pulse
+			that flashed through their
+			computer banks.
+
+					DATA
+				(agreeing)
+			Nearly eighty-three percent of
+			the records have been lost.
+
+					GEORDI
+			And all of their sensor logs.
+				(sighs)
+			Let's use what we got from our own
+			sensors. Call up the structural
+			analysis and the surface scans...
+
+	Data complies by keying in the appropriate commands
+	-- the alphanumeric data is replaced by an Okudagram
+	of the wrecked Vico. As they study the information...
+
+					DATA
+			Geordi, as a child, did you ever
+			experience a traumatic event?
+
+					GEORDI
+			You're wondering about Timothy?
+
+					DATA
+			Yes.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT TWO    17.
+
+29   CONTINUED:
+
+	Geordi thinks for a moment, remembering.
+
+					GEORDI
+			I was trapped in a fire once, when
+			I was five -- before I got my
+			VISOR. It only took about two
+			minutes before my parents found
+			me and pulled me out. And nobody
+			got hurt. But I tell you -- that
+			was the longest two minutes of
+			my life. And it was more than
+			a month before I would let my
+			parents get out of earshot. I
+			absolutely needed to know they
+			were there.
+
+					DATA
+			Timothy no longer has that kind
+			of support.
+
+					GEORDI
+				(sadly)
+			Yeah...
+
+30   INT. SCHOOL
+
+	A TEACHER, male, late-twenties, is slowly walking past
+	a beautiful painting of a multitiered, very
+	alien-looking temple. He is carrying a PADD.
+
+					TEACHER
+				(reading)
+			Dara and her brother found
+			themselves in the land of Tagas...
+
+	The teacher continues his slow pacing, passing a young
+	girl, aged ten, who is following along in a PADD of
+	her own.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT TWO    18.
+
+30   CONTINUED:
+
+					TEACHER
+				(continuing)
+			... where the ruler, Elamos the
+			Magnificent, had proclaimed as
+			law:
+
+	He continues past several other children, also reading
+	silently along in their PADDs.
+
+					TEACHER
+				(continuing)
+			"No children will be tolerated
+			within the Great Kingdom."
+
+31   INCLUDE TIMOTHY
+
+	who is working with a 24th-century equivalent of an
+	erector set, adding to a large, three-foot-high model
+	of the edifice depicted in the painting at the front
+	of the classroom. He's ignoring the teacher entirely,
+	his PADD on the floor next to him. His manner is
+	intensely focused.
+
+					TEACHER
+				(continuing)
+			When Dara saw the proclamation,
+			she just laughed, saying "How
+			magnificent a ruler, to be
+			frightened by the likes of us... "
+
+	The teacher pauses near Timothy, sees that the boy is
+	still working on his model.
+
+					TEACHER
+				(gently)
+			Timothy, we're done with sculpture
+			for now.
+
+	Timothy somewhat manically adds another piece to the
+	temple.
+
+					TIMOTHY
+				(re: the model)
+			It's not finished.
+
+					TEACHER
+			We'll come back to it next period.
+			Why don't you pick up your
+			mythology book and follow along?
+
+    STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT TWO    19.
+
+31   CONTINUED:
+
+					TIMOTHY
+			But it's not finished...
+
+	Timothy increases his efforts -- which result in a
+	somewhat lopsided addition to the model. It only makes
+	him more agitated.
+
+	The teacher looks at him for a moment, then glances
+	across the room to a large window. Follow his gaze
+	to --
+
+32   TROI
+
+	who is watching the classroom from behind a large
+	observation window. The look on her face says "What
+	can I do for this boy?"
+
+33   INT. BRIDGE - SCIENCE STATION (OPTICAL)
+
+	Data and Geordi are showing Picard a monitor that
+	displays a surface scan diagram of the Vico. All three
+	are standing.
+
+					GEORDI
+			Magnetic residual analysis
+			confirms that the Vico was
+			attacked inside the Black Cluster.
+			The graviton wave fronts pushed
+			the ship to where we found it.
+
+	Picard is looking at the information on the monitor.
+
+					PICARD
+			No sign of phaser burns on the
+			hull.
+
+					GEORDI
+			No, sir. The torsional stress
+			levels point to a disrupter-style
+			weapon.
+
+	Picard nods.
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT TWO    20.
+
+33   CONTINUED:
+
+	Data touches the console and a color pattern overlay
+	appears on the graphic.
+
+					DATA
+			Fracture points indicate that the
+			energy burst came from a range
+			of less than three thousand
+			meters.
+
+	A beat as Picard considers this.
+
+					PICARD
+			That's a strategy consistent with
+			a cloaked vessel. Romulan. Or
+			Klingon... But we're quite a
+			distance from either of their
+			territories.
+
+					DATA
+			The Breen have outposts in this
+			sector. The attack on the Vico
+			is consistent with their battle
+			tactics -- and their level of
+			technology.
+
+	Geordi nods in confirmation.
+
+    STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT TWO    21.
+
+33   CONTINUED: (2)
+
+	A long beat as Picard thinks about this.
+
+					PICARD
+			But what would they have been
+			doing inside the Black Cluster?
+
+	It's a question none of them can answer. Picard starts
+	to walk along the back perimeter of the bridge, Data
+	and Geordi walking with him.
+
+					PICARD
+			The boy described a boarding
+			party, with helmets and phaser
+			rifles.
+
+					GEORDI
+			A boarding party?
+
+	A turbolift door opens and Troi steps out, within
+	earshot.
+
+					GEORDI
+				(continuing)
+			I don't think that's likely,
+			sir...
+
+	Picard reacts -- motions Troi over.
+
+					PICARD
+			Counselor...
+
+	Troi does so as they pause near the turbolift. Picard
+	nods to Geordi to continue.
+
+					GEORDI
+			There was absolutely no evidence
+			of anybody coming on board the
+			Vico. We would have found a
+			transporter field trace. Or if
+			somebody had used the entry
+			ports, we would have found an
+			electrostatic differential in
+			the docking latches. We didn't.
+				(beat)
+			Maybe he's got an active
+			imagination.
+
+	Picard half turns to Troi.
+
+					PICARD
+			Or he's lying.
+
+    STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT TWO    22.
+
+33   CONTINUED: (3)
+
+					TROI
+			If he is lying, I haven't been
+			able to sense it. Perhaps his
+			level of emotional trauma is too
+			high.
+
+					PICARD
+			Why wouldn't he tell us the truth?
+
+					TROI
+			He's still in shock... it's hard
+			to know what's going on in his
+			mind.
+
+					GEORDI
+			I'll check the sensor readings
+			again... but I'm almost sure we
+			won't find anything.
+
+	Geordi EXITS into the turbolift. Data starts to peel
+	off toward his post -- but Troi stops him.
+
+					TROI
+			Data -- stay a moment.
+
+	Data complies. Troi turns to Picard. A beat.
+
+					TROI
+			Captain -- I think we should ask
+			Data to spend some time with
+			Timothy.
+
+					DATA
+			I do not understand.
+
+					TROI
+			I'm worried about his
+			behavior... And what you've just
+			told me doesn't make me feel any
+			better. Data, you're the only
+			one Timothy's reached out to...
+			because you rescued him. We can
+			use your relationship with him
+			to help his recovery.
+
+    STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT TWO    23.
+
+33   CONTINUED: (4)
+
+	A beat.
+
+					PICARD
+			Would Timothy also be more
+			inclined to tell Data the truth
+			about what happened?
+
+					TROI
+			That's a possibility.
+
+					PICARD
+				(to Data)
+			Mister Data, proceed with the
+			child as Counselor Troi suggests.
+
+					DATA
+			Yes, sir.
+
+	Picard turns and enters the ready room. Data turns to
+	Troi.
+
+					DATA
+			Exactly how shall I proceed,
+			Counselor?
+
+					TROI
+			Just be with him. You're a
+			presence he trusts. That's what
+			he needs most right now.
+
+	OFF Data's bemusement.
+
+33B
+thru	OMITTED
+34
+
+35   INT. TIMOTHY'S QUARTERS
+
+	Timothy is sitting alone at a table in his foster
+	parents' quarters. Timothy is using the "erector set,"
+	building the Dokkaran temple he was working at in the
+	classroom.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT TWO    24.
+
+35   CONTINUED:
+
+	He works too quickly, agitated, and the result is a
+	model that looks pretty sloppy.
+
+	The door CHIMES. Timothy glances up. Doesn't answer
+	it. He turns back to the model. The CHIMES ring
+	again.
+
+					TIMOTHY
+				(impatient)
+			What.
+
+36   THE DOOR
+
+	opens, revealing Data, who steps inside.
+
+37   INCLUDE TIMOTHY
+
+	who is glad to see who it is.
+
+					TIMOTHY
+			Data.
+
+					DATA
+			Hello, Timothy. May I enter?
+
+					TIMOTHY
+			Yeah.
+
+	Data steps inside. He reacts to Timothy's tabletop
+	creation, moving closer.
+
+					DATA
+			I see you are attempting to
+			recreate the Dokkaran temple of
+			Kural-Hanesh.
+
+					TIMOTHY
+			Isn't it great?!
+
+	Timothy is hyperenthused.
+
+					TIMOTHY
+				(indicating)
+			See, there's the big archway
+			the teacher told us about.
+			That's where everybody came in.
+
+    STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT TWO    25.
+
+38   CLOSE ON THE MINIATURE CITY
+
+	which is on the whole unbalanced -- the building leans
+	precariously.
+
+					TIMOTHY (o.s.)
+				(continuing)
+			That's where they stood. And
+			that's where the altar was -- by
+			the big windows.
+
+39   RESUME SCENE (OPTICAL)
+
+	Timothy smiles proudly.
+
+					TIMOTHY
+				(continuing)
+			What do you think?
+
+	Data is about to speak then catches himself.
+
+					DATA
+			Do you wish a frank evaluation?
+
+	Timothy nods. Data considers for a moment, arrives at
+	his honest opinion, innocently offered --
+
+					DATA
+			It lacks the harmony that
+			characterized this particular
+			temple and Dokkaran culture in
+			general.
+
+	Timothy looks crushed.
+
+					TIMOTHY
+			You hate it.
+
+	He knocks over the tower-like structure he was
+	struggling with at the top of the scene. Data reacts.
+
+					DATA
+			I am not capable of hatred.
+
+					TIMOTHY
+				(upset)
+			I can't do anything right.
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT TWO    25A.
+
+39   CONTINUED:
+
+					DATA
+			You are making an unwarranted
+			extrapolation. I was merely
+			offering an aesthetic analysis
+			of this particular model.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT TWO    26.
+
+39   CONTINUED: (2)
+
+	He manically puts together more pieces but it just
+	makes things even messier.
+
+					TIMOTHY
+				(continuing; re: the
+				 mess)
+			I told you.
+
+	Timothy again makes an attempt. It doesn't work. He
+	throws down what's in his hands.
+
+	Data studies him for a beat.
+
+					DATA
+			Timothy... ?
+
+					TIMOTHY
+				(not looking up)
+			What.
+
+					DATA
+			May I suggest a different
+			approach?
+
+	No answer, but Timothy is listening.
+
+					DATA
+				(continuing)
+			You are attempting to construct
+			the upper tiers before you have
+			completed the lower.
+
+	Timothy looks up at him.
+
+					DATA
+				(continuing)
+			Observe.
+
+	Data begins to build a model of a building,
+	constructing the foundation as Timothy watches.
+
+					GEORDI'S COM VOICE
+			La Forge to Data.
+
+					DATA
+				(to Com)
+			Data here.
+
+	Data continues working on the model.
+
+    STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT TWO    26A.
+
+39   CONTINUED: (3)
+
+					GEORDI'S COM VOICE
+			I need your help with the shield
+			modulators.
+
+					DATA
+				(to com)
+			I will join you in a moment,
+			Geordi. Data out.
+
+	Data stops working. Timothy reacts.
+
+					DATA
+			Commander La Forge requires my
+			assistance.
+
+	Data moves to go -- but stops when he sees the
+	disappointment on the boy's face. Data pauses, turns
+	back to the model, and at DATA SPEED, quickly finishes
+	the construction -- much to the boy's delight.
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT TWO    27.
+
+39   CONTINUED: (4)
+
+					TIMOTHY
+			Incredible.
+
+	He looks at Data with admiration.
+
+					TIMOTHY
+				(continuing)
+			How come you can do that?
+
+	Data starts for the door, Timothy tagging along.
+
+					DATA
+			I am designed to exceed human
+			capacity both mentally and
+			physically.
+
+					TIMOTHY
+			Androids are better than humans?
+
+					DATA
+			"Better" is a highly subjective
+			term. I do not, for example,
+			possess the ability to experience
+			emotions as humans do.
+
+					TIMOTHY
+			No emotions? You mean you can't
+			be happy or sad?
+
+					DATA
+			That is correct.
+
+					TIMOTHY
+			Why not?
+
+					DATA
+			My positronic brain is not capable
+			of generating those conditions.
+
+	FOLLOW them out the door.
+
+    STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT TWO    28.
+
+39A  EXT. CORRIDOR - CONTINUOUS
+
+	As they step into the corridor.
+
+					TIMOTHY
+			Can we build something else
+			later?
+
+					DATA
+			That would be acceptable.
+
+					TIMOTHY
+			Bye.
+
+					DATA
+			Goodbye.
+
+	Data turns and Timothy watches him enter the turbolift.
+	When it closes behind him, Timothy maintains his stare
+	for a few silent beats. FOLLOW him back inside.
+
+39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS
+
+	Timothy turns back to the model city, considers it for
+	a moment.
+
+	He turns away and goes to the mirror hanging on a
+	nearby wall.
+
+	He stares at his reflection. Then makes his face
+	utterly impassive.
+
+					TIMOTHY
+				(Data-like)
+			I am designed to exceed human
+			capacity...
+
+	He tilts his head in imitation of Data, watching the
+	result in the mirror until he gets it right. Again,
+	his voice is an imitation of Data's.
+
+					TIMOTHY
+				(continuing)
+			That is correct...
+
+    STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT TWO    29.
+
+39B  CONTINUED:
+
+	OFF another head tilt, as -- in his own mind -- boy
+	becomes android...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+   STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT THREE   30.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+40   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The Enterprise holding in space near the destroyed
+	Vico, the Black Cluster in the background.
+
+41   INT. OBSERVATION LOUNGE
+
+	Picard, Riker, Data, Geordi, Worf, Troi. Data is in
+	mid-report, on a nearby monitor is a graphic of the
+	interior of the Black Cluster -- a dully glowing
+	center, a dozen bright points scattered through it.
+
+					DATA
+			The Black Cluster was formed
+			almost nine billion years ago when
+			hundreds of protostars collapsed
+			in close proximity. The resulting
+			gravitational forces are violent
+			and highly unpredictable.
+
+					GEORDI
+			To get anywhere near the center,
+			we'll have to push through the
+			gravitational wavefronts -- just
+			like the science vessel was
+			designed to do. I've adjusted
+			our shields accordingly.
+
+					WORF
+			The gravitational forces will
+			affect sensor accuracy. Detecting
+			an enemy vessel will be difficult.
+
+					RIKER
+			Maybe that's what happened to the
+			Vico -- they didn't see anything
+			coming until it was too late.
+
+	Picard considers this, turns to Troi.
+
+					PICARD
+			Has the boy volunteered any
+			further information?
+
+   STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT THREE   31.
+
+41   CONTINUED:
+
+					TROI
+			No. But we have an appointment
+			in less than an hour.
+
+	Picard nods then glances at the graphic.
+
+					PICARD
+			If there's any possibility of
+			getting more from him, I'd like
+			you to pursue it.
+
+	Troi nods. Picard glances toward the graphic display.
+
+					PICARD
+			Regardless, we need to continue
+			our investigation.
+				(beat, informing the
+				 room)
+			We'll enter the cluster at
+			oh-seven-hundred tomorrow morning.
+			Dismissed.
+
+	As they rise to exit...
+
+42   OMITTED
+
+43   INT. CORRIDOR
+
+	Troi stops at Timothy's door and touches the panel --
+	we hear the CHIME. A few moments later, the door
+	slides open, revealing Timothy.
+
+					TROI
+			Hello, Timothy. Are you ready
+			to go?
+
+	Timothy is wearing similarly styled and exactly the
+	same color clothing as Data does. His face is
+	impassive and android-like (his hair is still in his
+	own style and color). Unlike the agitated condition
+	he exhibited earlier, the boy is the essence of calm
+	self-control.
+
+					TIMOTHY
+			Yes, Counselor. I am ready.
+
+	The boy's uniform and his calm, almost formal tone of
+	voice are not lost on Troi.
+
+					TROI
+			How are you feeling, Timothy?
+
+   STAR TREK: "Hero Worship" - REV. 10/14/91 - ACT THREE   31A.
+
+43   CONTINUED:
+
+					TIMOTHY
+			I am functioning within
+			established parameters.
+
+	Troi considers this for a moment.
+
+   STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT THREE   32.
+
+43   CONTINUED: (3)
+
+					TROI
+			Established parameters? You
+			sound like Data.
+
+					TIMOTHY
+				(of course)
+			I am an android.
+
+	Troi reacts
+
+					TROI
+			I see... Well. Let's go for our
+			walk, shall we?
+
+	Timothy makes a characteristically Data-like head tilt.
+
+					TIMOTHY
+			That would be acceptable.
+
+	OFF Troi's face -- she's in for a ride.
+
+44   INT. TEN-FORWARD
+
+	Troi and Timothy are sitting at a table.
+
+	A WAITER stands close by, waiting to take his order.
+
+					TIMOTHY
+				(to waiter)
+			Androids do not need to eat or
+			drink.
+
+	A second waiter passes by with a tray full of
+	attractive desserts -- Timothy reacts, then turns back
+	to his waiter.
+
+					TIMOTHY
+				(continuing)
+			However, sometimes we like to
+			taste things.
+				(beat)
+			A Tamarin frost, please.
+
+	Timothy turns.
+
+					TIMOTHY
+				(continuing)
+			Would you like anything,
+			Counselor?
+
+   STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT THREE   32A.
+
+45   INCLUDE TROI
+
+	taking this all in, cautiously trying to deal with this
+	new development.
+
+					TROI
+			No, I'm fine, thank you.
+
+      STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      33.
+
+45   CONTINUED:
+
+					TIMOTHY
+			As you wish.
+
+	The waiter turns and leaves.
+
+					TROI
+			So... you're no longer a Human?
+
+	He cocks his head in pure Data fashion.
+
+					TIMOTHY
+			I'm an android.
+
+					TROI
+			When did this happen?
+
+					TIMOTHY
+			I've always been an android.
+
+					TROI
+			What's it like... being an
+			android?
+
+					TIMOTHY
+			I am designed to exceed human
+			capacity both mentally and
+			physically. But I do not
+			experience emotions.
+
+	A beat as this registers on Troi.
+
+					TROI
+			You don't? No emotions at all?
+
+					TIMOTHY
+			That is correct.
+
+	OFF Troi as she wonders how to deal with this.
+
+46   INT. READY ROOM
+
+	Picard, Troi, Data.
+
+					PICARD
+			An android.
+
+   STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT THREE   34.
+
+46   CONTINUED:
+
+					TROI
+			I know it sounds unusual - but
+			it is understandable.
+			Technically, it's called
+			enantiodromia. Conversion into
+			the opposite. Timothy went from
+			Human to machine. From being
+			emotional to being emotionless.
+			But the underlying trauma is still
+			there. He's just found a new way
+			to repress it.
+
+					PICARD
+			How long will this behavior last?
+
+					TROI
+			As long as he needs it to.
+			Timothy is rebuilding his identity
+			as best he can. The android
+			persona is only one step along
+			the way. When he becomes stronger
+			and more sure of himself, it
+			should drop away naturally.
+
+	Picard considers her words.
+
+					PICARD
+			I assume this is not a time to
+			confront him about what happened
+			to his ship.
+
+					TROI
+			Not yet. The best thing we can
+			do right now is to let Timothy
+			take us where he wants to go.
+			We should support the process
+			-- even encourage it.
+
+	Picard nods, turns to Data.
+
+					PICARD
+			Mister Data -- I'd like you to
+			make Timothy the best android he
+			can possibly be.
+
+	OFF Data's head-tilt reaction.
+
+47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY
+
+	doing a head tilt that EXACTLY MATCHES the one Data
+	just performed.
+
+STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      34A.
+
+48   INCLUDE DATA
+
+	standing next to him. Timothy is sitting in a chair,
+	the wall mirror behind him -- like an impromptu barber
+	shop set-up. Data is holding a small comb and is
+	eyeing Timothy's hair.
+
+      STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      35.
+
+48   CONTINUED:
+
+	Data attempts to put the comb to use, but the boy's
+	android-like head tilts make it difficult -- it's like
+	trying to hit a moving target. After a few attempts --
+
+					DATA
+			Timothy, your head movements
+			are... counterproductive. Can
+			you be still?
+
+					TIMOTHY
+			But you do it.
+
+	Data reacts with a head tilt. Timothy mirrors it.
+
+					DATA
+			The servo-mechanisms in my neck
+			are designed to approximate Human
+			movements.
+				(beat)
+			I did not realize the effect was
+			so... distracting.
+
+					TIMOTHY
+			I like it.
+
+	Timothy does a couple more quick head tilts -- Data
+	puts a hand on the crown of his head, holding him
+	suddenly still.
+
+					TIMOTHY
+			Data, are there any other androids
+			in Starfleet?
+
+					DATA
+			No. I am the only one.
+
+					TIMOTHY
+			How come you're not captain?
+
+					DATA
+			My service experience does not
+			yet warrant such a position.
+
+	Timothy nods. He's silent for a moment.
+
+					TIMOTHY
+			Data, what's the scariest thing
+			that ever happened to you?
+
+      STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      36.
+
+48   CONTINUED: (2)
+
+					DATA
+			Fear is a quality that I do not
+			possess.
+
+					TIMOTHY
+			Because it's an emotion.
+
+					DATA
+			That is correct.
+
+					TIMOTHY
+			But what if you had a nightmare?
+
+					DATA
+			I have never had a nightmare.
+			I do not require sleep.
+
+	Timothy is silent. Data continues adjusting the boy's
+	hair for a moment, then realizes something.
+
+					DATA
+			Timothy, are you having...
+			disturbing dreams?
+
+	Timothy doesn't answer right away. There's a sense
+	that he's hiding something -- even from himself. He
+	looks straight at Data.
+
+					TIMOTHY
+			I do not require sleep.
+
+	Data looks at him for a moment -- he isn't going to get
+	anything further out of him for now. Data finishes one
+	last touch-up on the hair, then lifts the chair and
+	turns it barber style to face the mirror on the wall.
+
+49
+thru	OMITTED
+50
+
+51   ANGLE - THE MIRROR
+
+	where we can see Timothy looking at his reflection --
+	and his perfectly executed Data-like hairstyle. Data
+	is visible over his shoulder.
+
+					DATA
+			Is it satisfactory?
+
+      STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      37.
+
+52   RESUME
+
+	as Timothy looks at Data with tremendous admiration,
+	then glances back at the mirror.
+
+					TIMOTHY
+			It's perfect.
+
+53   INT. CORRIDOR
+
+	Data and Timothy are striding along the corridor, in
+	perfect step, their arms swinging in unison. It looks
+	for all the world like there's a new android on board.
+
+54   INCLUDE TWO N.D. CREWMEMBERS
+
+	approaching from the opposite direction. As Data and
+	Timothy pass by, the crewmembers simultaneously stop
+	and do a double-take.
+
+55   INT. SICKBAY
+
+	Data and Timothy are sitting side by side with their
+	legs hanging off the side of a diagnostic bed.
+
+	Beverly is running a hand-held, medical scanning DEVICE
+	over the length of Timothy's arm.
+
+					BEVERLY
+			Transfer circuits are functioning
+			properly.
+
+					TIMOTHY
+			Within established parameters?
+
+					BEVERLY
+				(nodding)
+			Absolutely.
+
+	Beverly continues with the scan, moving it over his
+	head.
+
+					BEVERLY
+				(continuing)
+			Input processing, pattern
+			recognition... all within
+			established parameters.
+
+	She takes the scanner down, finished.
+
+					DATA & TIMOTHY
+				(simultaneously)
+			Thank you, Doctor.
+
+   STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT THREE   38.
+
+56   OMITTED
+
+57   INT. DATA'S QUARTERS
+
+	Data and Timothy are each sitting at an easel, paint
+	brush in hand, dabbing brushstrokes against their
+	respective canvasses. Timothy's set-up is an exact
+	duplicate. Data's painting is a tranquil landscape,
+	we can't quite see what Timothy's working on...
+
+	Timothy looks sleepy, like they've been going non-stop
+	all day. Data is as fresh as always.
+
+	The boy glances down at his palette and paint jars.
+
+					TIMOTHY
+			I ran out of red ochre.
+
+					DATA
+			You may use mine.
+
+	Data hands him a jar.
+
+					TIMOTHY
+			Thank you.
+
+	Timothy can't help but let loose with a huge yawn.
+
+					DATA
+			Perhaps you should return to your
+			quarters.
+
+					TIMOTHY
+			I'm fine.
+				(in explanation)
+			The servo-mechanisms in my mouth
+			are designed to approximate human
+			movements.
+
+	Data considers for a moment. Then attempts a yawn. It
+	doesn't look too convincing. But Timothy doesn't want
+	to discourage him.
+
+					TIMOTHY
+				(continuing)
+			Not bad.
+
+					DATA
+			Thank you.
+
+	Data looks over at the boy's easel.
+
+      STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      39.
+
+58   INCLUDE TIMOTHY'S PAINTING
+
+	It looks exceedingly violent -- we can't actually see
+	a spacecraft ripped apart, but we can sense the feeling
+	of one. The boy's trauma is making its presence
+	known...
+
+	Data reacts to the painting.
+
+					DATA
+			It is very... expressive.
+
+					TIMOTHY
+			Thank you.
+
+	A beat. Timothy doesn't seem to be aware of what his
+	own work suggests.
+
+					DATA
+			Is your painting representative
+			of something?
+
+					TIMOTHY
+				(shrugs)
+			It's just a painting.
+
+	Timothy again yawns. Data thinks for a moment -- this
+	is not his area of expertise and he knows to tread
+	lightly...
+
+					DATA
+			Timothy, you understand that you
+			may speak with me about anything
+			you wish -- any subject.
+
+	Timothy again yawns.
+
+					TIMOTHY
+				(drifting)
+			I understand...
+
+	Data watches him for a moment, but nothing further is
+	forthcoming.
+
+59   ON DATA
+
+	turning back to his own easel, applying a few
+	brushstrokes.
+
+					DATA
+			At times I too find it difficult
+			to share my thoughts with others.
+					(MORE)
+
+      STAR TREK: "Hero Worship" - 10/8/91 - ACT THREE      40.
+
+59   CONTINUED:
+
+					DATA (cont'd)
+			I am not always confident that
+			I am expressing myself in a way
+			that Humans will comprehend. But
+			I know that...
+
+	Data turns --
+
+60   INCLUDE TIMOTHY
+
+	now slumped on his chair, fast asleep. Data reacts,
+	stops speaking.
+
+	A beat and Data stands, lifts Timothy off the chair,
+	then carries and carefully deposits him on a nearby
+	couch.
+
+	Data straightens, watches Timothy for a moment. The
+	boy curls up, looks like he's out for the night.
+
+	OFF the look on Data's face -- if an android could feel
+	tenderness and concern...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+    STAR TREK: "Hero Worship" - REV. 10/23/91 - ACT FOUR    41.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+60A  INT. ENGINEERING
+
+	Geordi is at a console, inspecting a PADD that an N.D.
+	ENGINEER has just handed him. The mood is relaxed --
+	like the end of a work shift.
+
+					GEORDI
+				(re: PADD)
+			That's fine.
+
+	He hands it back to the Engineer.
+
+					GEORDI
+				(continuing)
+			Just make sure the tolerance
+			doesn't slip more than point three
+			one in either direction.
+
+	The Engineer nods and walks away. Geordi turns back to
+	the console, enters a few commands.
+
+					DATA (o.s.)
+			Hello, Geordi.
+
+60B  INCLUDE DATA
+
+	Approaching the console.
+
+					GEORDI
+			Hey, Data.
+
+					DATA
+			I hope I am not disturbing your
+			work.
+
+					GEORDI
+				(re: console)
+			Nope. Just finishing up here.
+
+	He inputs a few more commands. Data watches him
+	silently for several beats. Geordi finally reacts to
+	his friend just standing there.
+
+					GEORDI
+			You need something?
+
+        STAR TREK: "Hero Worship" - REV. 10/23/91 - ACT FOUR       41A.
+
+60B  CONTINUED:
+
+					DATA
+			I would like to confide in you,
+			Geordi. However, I am finding
+			my thoughts difficult to
+			verbalize.
+
+	Geordi stops working, gives Data his full attention.
+
+					GEORDI
+			It's about Timothy.
+
+					DATA
+				(surprised)
+			How did you know?
+
+					GEORDI
+			If I had a boy going around
+			pretending to be just like me,
+			I might be a little uncomfortable
+			too.
+
+					DATA
+			I am not capable of being
+			uncomfortable. But I am
+			undergoing a perceptual paradigm
+			shift.
+
+					GEORDI
+			You better define that for me,
+			Data.
+
+					DATA
+			I have spent my entire life
+			emulating Humans. Now, I find
+			myself confronted by a Human who
+			is emulating me.
+
+					GEORDI
+			I got you... the shoe's on the
+			other foot...
+
+	Data processes that briefly, glances curiously at his
+	foot... then...
+
+					DATA
+			Ah, the metaphor... yes, that is
+			correct. I am forced to realize
+			that I have largely ignored the
+			aspects of myself that others
+			would find attractive.
+
+        STAR TREK: "Hero Worship" - REV. 10/23/91 - ACT FOUR       41B.
+
+60B  CONTINUED: (2)
+
+					GEORDI
+			That's a very Human thing to do,
+			Data.
+
+	Data reacts with a look.
+
+					GEORDI
+			A lot of us have a way of not
+			appreciating ourselves. We're
+			too close to the subject.
+				(beat)
+			Keep an eye on Timothy... he might
+			help you learn to understand
+			yourself a little better.
+
+	OFF Data's reaction.
+
+61   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	Moving slowly at impulse speed toward the Black
+	Cluster.
+
+62   INT. BRIDGE
+
+	Picard, Riker, Worf, Ensign Felton.
+
+					WORF
+			We are approaching the perimeter.
+
+63   INCLUDE VIEWSCREEN (OPTICAL)
+
+	Approaching the Black Cluster -- the dark warping of
+	space looms even closer.
+
+					WORF
+				(off instruments)
+			I'm picking up the gravitational
+			wavefronts.
+
+	We can see something reminiscent of three-dimensional,
+	transparent "waves" billowing toward us.
+
+					RIKER
+			Engage forward shields --
+			thirty-five percent.
+
+        STAR TREK: "Hero Worship" - REV. 10/23/91 - ACT FOUR       41C.
+
+63   CONTINUED:
+
+					WORF
+			Shields up.
+
+	One of the waves makes contact and the ship BUMPS.
+	A beat. Then another BUMP. And again.
+
+	The mood is business as usual -- this is no surprise.
+
+					PICARD
+			Drop to one quarter impulse,
+			Ensign.
+
+					ENSIGN FELTON
+			Yes, Sir.
+
+	Felton makes the adjustments and the BUMPS come with
+	less frequency.
+
+					RIKER
+				(to com)
+			Bridge to engineering.
+
+64   INT. ENGINEERING
+
+	Geordi is at the console. Another slight bump.
+
+					GEORDI
+				(to com)
+			Adjusting shield frequencies now,
+			Commander. We'll have this
+			smoothed out in just a second...
+
+        STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FOUR        42.
+
+65   INT. BRIDGE
+
+	A BUMP, then another -- much quieter -- then a third,
+	barely felt, then nothing but smooth sailing.
+
+					RIKER
+			Correct for any course deviations,
+			Ensign.
+
+					ENSIGN FELTON
+			Yes, sir.
+
+					RIKER
+			Resume one-third impulse.
+
+					WORF
+			-- Captain!
+
+	Everyone turns to Worf, who has his eyes glued to his
+	instrument panel.
+
+					WORF
+				(continuing)
+			I am reading something at four
+			hundred thousand kilometers, off
+			our starboard bow. Possibly a
+			ship.
+
+					RIKER
+			Red alert.
+
+	Worf hits a command and the CLAXON SOUNDS, the RED
+	LIGHT flashes on.
+
+					PICARD
+			Take us to visual range, Ensign.
+
+					ENSIGN FELTON
+				(touching console)
+			Adjusting course...
+
+	A few moments...
+
+					WORF
+				(puzzled; off
+				 instruments)
+			Sensor readings have
+			disappeared... Now picking up
+			another reading at four hundred
+			thousand kilometers -- off the
+			port bow.
+				(beat)
+			It's gone... No -- it's back to
+			starboard.
+
+        STAR TREK: "Hero Worship" - REV. 10/15/91 - ACT FOUR       42A.
+
+65   CONTINUED:
+
+	Riker checks an instrument panel.
+
+					RIKER
+				(off instruments)
+			Captain, the Black Cluster is
+			distorting the sensors. We're
+			picking up echoes of the Enterprise
+			reflecting off the wavefronts.
+
+        STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FOUR        43.
+
+65   CONTINUED: (2)
+
+	Everyone reacts.
+
+					PICARD
+			Cancel Red Alert. Adjust the
+			sensors to compensate for the
+			distortion.
+
+					WORF
+			Aye...
+
+					PICARD
+			Sensor difficulties have been
+			reported by ships traveling
+			through Black Clusters -- but not
+			to this extreme.
+
+					WORF
+			This formation is seven times more
+			massive than any previously
+			explored. That could explain the
+			difference.
+
+	Picard nods, turns to the conn.
+
+					PICARD
+				(to Felton)
+			Resume previous course.
+
+					ENSIGN FELTON
+			Yes, sir.
+
+	OFF Picard's face as he considers this development.
+
+66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN
+
+	Seen through the observation window. The teacher is
+	wandering in the background, helping out when needed.
+	Timothy still looks like Data. The kids are working
+	at a counter on a project, putting together a chemistry
+	experiment -- some glassware and colored liquids.
+
+        STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT FOUR        44.
+
+67   OMITTED
+
+68   INCLUDE TROI AND DATA
+
+	in the observation area, watching the scene. A boy
+	makes a comment MOS and all the children laugh MOS --
+	including Timothy.
+
+					DATA
+			He laughed.
+
+					TROI
+			Yes. It's nice to see, isn't
+			it... ?
+
+					DATA
+			It is certainly not consistent
+			with his android persona...
+
+					TROI
+			I'd say he's beginning the process
+			of letting go of that fantasy...
+
+					DATA
+			Then my work with him is complete?
+
+					TROI
+				(beat)
+			No, I don't think it is, Data...
+			A laugh is one step in the right
+			direction... we need to help him
+			take a few more steps...
+
+					DATA
+			How, Counselor?
+
+					TROI
+			I'd like you to talk to him...
+			about your own fascination with
+			humanity.
+
+	Data reacts.
+
+					TROI
+			If you can explain the appeal that
+			humanity has for you... Timothy
+			might find it easier to become
+			a boy again.
+
+	Data watches intently as Timothy again laughs MOS --
+	much more "Human" than we've ever seen Data act. OFF
+	Data's face.
+
+   STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FOUR     44A-44B    
+
+69   INT. TEN FORWARD
+
+	Data and Timothy are sitting at a table. Timothy is
+	drinking a brightly colored, frosty, soda-like drink.
+	Data has a bubbly, different colored dessert drink in
+	front of him. Timothy finishes a long sip.
+
+					TIMOTHY
+			This is great. How's yours?
+
+					DATA
+			The complex polysaccharides, in
+			reaction with the carbon dioxide,
+			produces an unusual combination
+			of texture and efforvescence.
+
+	A beat.
+
+					TIMOTHY
+			But how does it taste? Is it
+			good?
+
+					DATA
+			I am not capable of "tasting" in
+			the manner which you describe.
+			I can analyze the composition of
+			a dessert and make comparative
+			conclusions about its possible
+			effect on the human palate.
+			However, I neither like it, nor
+			dislike it...
+
+					TIMOTHY
+			Oh. I didn't realize that.
+
+	Data indicates the dessert.
+
+					DATA
+			I have often wondered what it must
+			be like... to have one's mouth
+			"water" in anticipation of the
+			arrival of a confection... Or
+			to feel the pleasure I have
+			observed in people as they consume
+			it...
+
+	Timothy considers this for a second, staring at his
+	soda.
+
+        STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FOUR        45.
+
+69   CONTINUED:
+
+					TIMOTHY
+			You sound like you don't want to
+			be an android.
+
+					DATA
+			I am an android. That will never
+			change.
+
+					TIMOTHY
+			But... if you could change...
+			would you?
+
+					DATA
+			I have always wished to be Human.
+			I study people carefully in order
+			to more closely approximate Human
+			behavior.
+
+					TIMOTHY
+			Why? We're stronger and smarter
+			than Humans... we can do more than
+			they can.
+
+					DATA
+			But I cannot take pride in my
+			abilities. I cannot take
+			pleasure in my accomplishments.
+
+	Timothy has begun scratching a little place in the
+	table with the tip of his spoon. He concentrates on
+	this task as though it were the most important thing
+	in the world.
+
+					TIMOTHY
+			But we never feel bad, either...
+
+					DATA
+			I would gladly risk feeling bad
+			at times... if it meant that I
+			could also taste my dessert.
+
+	Timothy glances up, very quickly, at Data. Then he
+	goes back to scratching the place on the table with
+	his spoon.
+
+	OFF Timothy's face as he goes back to his soda.
+
+70   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship under impulse power, the blurry wavefronts
+	breaking across her bow.
+
+        STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FOUR       45A.
+
+	INT. BRIDGE
+
+	Picard, Riker, Worf, and Ensign Felton.
+
+					WORF
+			Captain, gravitational wavefront
+			intensity is increasing steadily
+			-- eleven hundred standard "G"
+			units and rising.
+
+	Picard nods, looks up at the viewscreen.
+
+71A  OMITTED
+
+72   INCLUDE VIEWSCREEN (OPTICAL)
+
+	as the wave-like blurs continue to come toward the
+	ship.
+
+	Picard studies it for a moment.
+
+					PICARD
+				(turning to Worf)
+			Let's see if anyone's out there.
+			Attempt a wide-range sensor sweep,
+			Lieutenant Worf.
+
+        STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT FOUR        46.
+
+72   CONTINUED:
+
+					WORF
+				(touching controls)
+			Aye, sir.
+
+	A beat as Picard and the others continue to watch the
+	viewscreen.
+
+					WORF
+				(shaking head)
+			The gravitational distortion is
+			too great, Captain. The scanning
+			signal is again being reflected
+			off the wavefronts. But I am
+			unable to compensate.
+				(looks up)
+			The sensors are useless.
+
+					PICARD
+				(to com)
+			Mister Data to the bridge, please.
+
+					DATA'S COM VOICE
+			Acknowledged.
+
+					PICARD
+				(to Worf)
+			Adjust sensors to short range...
+			attempt a limited positron scan...
+
+					WORF
+			Aye, sir.
+
+	He works the console -- scowls at the result.
+
+					WORF
+			The distortion is still in effect.
+
+					RIKER
+			Try to jacket the scanning beam.
+
+	Worf again works the console. Worf shakes his head.
+
+					WORF
+			The secondary beam is being
+			distorted as well.
+
+	The turbolift door opens and Data steps onto the
+	bridge.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FOUR       46A.
+
+72   CONTINUED: (2)
+
+					PICARD
+			Mister Data, our sensors have been
+			rendered ineffective by the field
+			distortion. I want your
+			analysis...
+
+	Data takes his position, studies his console.
+
+					PICARD
+				(continuing)
+			Mister Worf, fire phasers, maximum
+			intensity, narrow spectrum, zero
+			zero one mark zero four five.
+
+	Everyone reacts with puzzlement, then...
+
+					RIKER
+				(understanding)
+			An experiment, Captain?
+
+					PICARD
+			Exactly.
+
+					WORF
+			Firing, Sir.
+
+	Worf touches the controls.
+
+72A  EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	inside the Black Cluster. Forward phasers fire -- at
+	a distance several lengths away from the ship, the
+	phaser beams SPLIT AND BOUNCE off the warped space
+	around them, splitting again, bouncing, and then
+	splitting again until finally dissipating entirely.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FOUR        47.
+
+73   OMITTED
+
+74   INT. BRIDGE
+
+	Everyone reacts to what they've just seen on the
+	monitor.
+
+					PICARD
+			Explanation, Mister Data.
+
+					DATA
+			The phaser energy was reflected
+			by the gravitational wavefronts.
+			It is similar to the phenomenon
+			distorting the sensor signals.
+
+	Picard and Riker exchange a look.
+
+					PICARD
+			Our sensors and our phasers --
+			both useless.
+				(to Data)
+			This reflection phenomenon --
+			would it have the same effect on
+			a disruptor-style weapon?
+
+					DATA
+			Yes, sir. Disruptors would be
+			ineffectual.
+
+					PICARD
+			And a ship's cloaking field?
+
+					DATA
+			It would be extremely difficult
+			to maintain.
+
+	A beat.
+
+					PICARD
+			Mister Data, is it at all likely
+			that the Vico was attacked inside
+			the cluster?
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FOUR        48.
+
+74   CONTINUED:
+
+					DATA
+			Given the effects we have
+			observed, the probability is
+			exceedingly remote.
+
+	Picard nods -- it just confirms his suspicions. A
+	beat.
+
+					PICARD
+				(to com)
+			Picard to Troi.
+
+					TROI'S COM VOICE
+			Yes, Captain?
+
+					PICARD
+				(to com)
+			Please bring Timothy to my ready
+			room.
+
+75
+thru	OMITTED
+79
+
+79A  INT. READY ROOM
+
+	Starting on Timothy... moving to reveal Picard
+	standing in front of his desk, Timothy is facing him
+	with Troi and Data on either side.
+
+					PICARD
+				(gently)
+			Timothy, can you tell us what
+			happened to your ship?
+
+					TIMOTHY
+			I did tell you.
+
+	Timothy's struggling to hold on to the android fantasy,
+	but it's wavering. He gives a few Data-like head
+	tilts. Picard glances at Troi.
+
+					TROI
+			Tell us again...
+
+					TIMOTHY
+				(evenly)
+			We were attacked.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FOUR        49.
+
+79A  CONTINUED:
+
+					DATA
+			That is highly unlikely. Our
+			investigations have clearly
+			demonstrated --
+
+					TIMOTHY
+			-- We were attacked! We were
+			attacked!
+
+					DATA
+			Timothy, androids do not lie.
+
+	A silent beat. Like a toppled wall, Timothy's fantasy
+	crumbles.
+
+					TIMOTHY
+				(quiet; horrified)
+			It was me.
+
+	Everyone's taken aback.
+
+					DATA
+			Please explain.
+
+					TIMOTHY
+			It was me. I did it. I killed
+			them all...
+
+	OFF everyone's reactions.
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT FIVE        50.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+80   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship hanging inside the Black Cluster.
+
+80A  INT. READY ROOM
+
+	Picard, Troi and Data are still reacting to Timothy's
+	revelation. Timothy speaks quietly, haltingly. He
+	shivers, repressing sobs, as the agony of revealing
+	his darkest secret emerges...
+
+					TIMOTHY
+			Everything was shaking. I lost
+			my balance. I was just trying
+			to hold on to something. I didn't
+			mean to do it.
+
+					PICARD
+			What didn't you mean to do,
+			Timothy?
+
+					TIMOTHY
+			My arm... it hit the computer
+			panel. That's what destroyed the
+			ship.
+
+	The adults exchange a glance.
+
+					TROI
+			The ship was damaged when your
+			arm hit the computer panel... ?
+
+	Tears roll down his cheek as he nods silently.
+
+					TROI
+			Timothy, listen to me -- the
+			damage to your ship might have
+			occurred at the same time you
+			touched the panel but it was only
+			a coincidence... this was not
+			your fault...
+
+					TIMOTHY
+			Yes it was...
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE       50A.
+
+80A  CONTINUED:
+
+					DATA
+			It is not possible. The onboard
+			control systems for every starship
+			require a user code clearance.
+			You could not have inadvertantly
+			affected any of the Vico's
+			systems.
+
+	Timothy doesn't quite get it.
+
+					PICARD
+			Your computer had safety
+			precautions. There's nothing
+			you could have touched that would
+			have damaged your ship.
+
+	Timothy is silent, trying to understand. Troi puts
+	a hand on his shoulder.
+
+					TROI
+			You're not responsible for what
+			happened to your parents.
+
+	Timothy looks up at her, wanting to believe it...
+
+					TIMOTHY
+			But if it wasn't me...
+
+					PICARD
+			We're trying to determine what
+			happened right now. And anything
+			that you can remember that may
+			assist...
+
+	BUMP.
+
+	The ship is suddenly rocked. It's not serious, but
+	it catches everyone off-guard. On Timothy's face as
+	he reacts...
+
+					TIMOTHY
+			That's just how it was... when
+			it started on the Vico...
+
+	Off reactions...
+
+80B  INT. BRIDGE
+
+	ANOTHER BUMP. The mood is still relaxed.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE       50B.
+
+80B  CONTINUED:
+
+					WORF
+			Wavefront intensity has
+			increased...
+
+80C  INCLUDE VIEWSCREEN (OPTICAL)
+
+	where a blurred wave front is coming toward them.
+
+					RIKER
+			Increase shields to seventy-five
+			percent.
+
+					WORF
+			Aye.
+
+	Worf executes the command. The wavefront fills the
+	screen...
+
+        STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FIVE        51.
+
+80C  CONTINUED:
+
+	WHAM!
+
+	The ship is rocked by a violent IMPACT. RED ALERT
+	LIGHTS go on, the CLAXON SOUNDS.
+
+					RIKER
+			Damage, Mister Worf.
+
+					WORF
+			Minimal, Sir. The shields are
+			holding.
+
+81   RESUME
+
+	Everyone recovers their positions as Picard, Troi, and
+	Data -- with Timothy close by him -- ENTER the bridge
+	from the ready room.
+
+					PICARD
+			Ensign, full about -- go to warp
+			two.
+
+	Picard moves into command... ANGLE REMAINS ON Data and
+	Troi with Timothy for a beat as they observe the next
+	frantic few seconds...
+
+					ENSIGN FELTON (o.c.)
+			The gravitational distortion is
+			too high -- we can't maintain a
+			warp field.
+
+	Watching, almost to himself --
+
+					TIMOTHY
+			We couldn't get out either...
+
+81A  COMMAND
+
+					PICARD
+			Full shields.
+
+					WORF
+			Aye.
+
+	WHAM! The impact is even worse. Everyone holds on...
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE       51A.
+
+81B  TIMOTHY
+
+	grabs Data's arm, doesn't let go... As they recover
+	--
+					ENSIGN LOCKLIN (o.c.)
+			Captain -- impulse power has been
+			disrupted. The helm won't
+			respond.
+
+	Timothy is mesmerized... reliving a nightmare...
+
+					TROI
+			Timothy, I think you and I should
+			go below... get out of everyone's
+			way, okay... ?
+
+					TIMOTHY
+			No...
+
+	He hangs on to Data for dear life...
+
+81C  COMMAND
+
+					RIKER
+				(to com)
+			Riker to La Forge. Can you give
+			me more power to the shields?
+
+					GEORDI'S COM VOICE
+			Stand by...
+
+81D  TIMOTHY
+
+					TIMOTHY
+			That's what they kept saying --
+			"more shields," "more shields."
+
+	Data's head cocks at that...
+
+					DATA
+			Timothy, accompany me...
+
+	He moves toward the aft science station... Troi and
+	Timothy go with him...
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE       51B.
+
+81D  CONTINUED:
+
+					DATA
+				(on the move)
+			I want you to recall everything
+			you heard people say aboard the
+			Vico before it was destroyed...
+
+					TIMOTHY
+			I don't know. Just that. Just
+			"more shields"...
+
+	As Data reaches the aft science station and begins to
+	enter commands...
+
+82   INT. ENGINEERING
+
+	Geordi working quickly at his console.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE        52.
+
+82   CONTINUED:
+
+					GEORDI
+				(to com)
+			I've transferred fusion reactors
+			four through nine into the shield
+			array.
+
+82A  INT. BRIDGE - COMMAND
+
+					GEORDI'S COM VOICE
+			That should double the shield
+			strength.
+
+	Worf looks up from his console.
+
+					WORF
+			Wavefront intensity has increased
+			by an order of magnitude. Impact
+			in three - two - one.
+
+	WHAM! Another hit -- even stronger.
+
+82B  DATA, TIMOTHY AND TROI (OPTICAL)
+
+	react. Data resumes working quickly at the console --
+	numbers scrolling rapidly down the screen.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE        53.
+
+82C  OMITTED
+
+83   COMMAND
+
+	The crew recovers from the last impact.
+
+					WORF
+				(off instruments)
+			Wave front intensity is
+			continuing to increase.
+			Structural overpressure is
+			exceeding one hundred eighty
+			percent.
+
+					PICARD
+				(to com)
+			La Forge...
+
+84   INT. ENGINEERING
+
+	Geordi has struggled to his feet and is making his way
+	back to the console.
+
+					GEORDI
+				(to com)
+			I don't understand. That should
+			have been enough.
+
+	Geordi checks the instruments.
+
+85   INT. BRIDGE
+
+					GEORDI'S COM VOICE
+			We could run the shield grid
+			directly off the warp drive.
+
+					PICARD
+				(to com)
+			Make it so.
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE        54.
+
+85   CONTINUED:
+
+					WORF
+				(working instruments)
+			Initiating warp transfer pathways
+			now...
+
+85A  ON DATA AND TIMOTHY (OPTICAL)
+
+	Data, still rapidly working at the console.
+
+					GEORDI'S COM VOICE
+			Diverting warp power to the
+			shields.
+
+					TIMOTHY
+			"Warp power to the shields"...
+			they said that too, Data... I'm
+			positive...
+
+	Data reacts... continues to work the panels...
+
+86
+thru	OMITTED
+87
+
+88   INCLUDE WORF AND VIEWSCREEN (OPTICAL)
+
+	An intense blurring of space is billowing toward them
+	-- even more threatening than before.
+
+					WORF
+				(off instruments)
+			Wavefront intensity has increased
+			by a factor of ten. Contact in
+			forty-seven seconds. Without
+			additional power to the shields,
+			the outer hull will not hold...
+
+					RIKER
+				(to com)
+			La Forge...
+
+        STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT FIVE        55.
+
+89
+thru	OMITTED
+91
+
+91A  ON DATA AND TIMOTHY (OPTICAL)
+
+	Data looks like he's thinking at lightning speed
+	evaluating the numbers that scroll past him on the
+	monitor.
+
+					GEORDI'S COM VOICE
+			Warp transfer to the shields
+			complete. That's as strong as
+			they're gonna get.
+
+91B
+thru	OMITTED
+91C
+
+92   INCLUDE BRIDGE (OPTICAL)
+
+	As everyone reacts to the words.
+
+					WORF
+			Impact in fifteen seconds.
+
+	As the seconds count down, Data works like mad at the
+	console. He taps in one last command. Data looks up
+	from his console, alarmed.
+
+        STAR TREK: "Hero Worship" - REV. 10/18/91 - ACT FIVE        56.
+
+92   CONTINUED:
+
+					DATA
+			Drop the shields.
+
+	Everyone reacts.
+
+					RIKER
+			That's suicide, Data.
+
+					DATA
+			Captain, drop the shields.
+
+	The wavefront fills the screen, Picard makes a split
+	second decision, trusting their lives to Data.
+
+					PICARD
+				(to Worf)
+			Drop the shields.
+
+					WORF
+				("what?!")
+			Aye.
+
+	As Worf executes the command, the wavefront breaks
+	across the screen. Everybody hangs on...
+
+	Contact. A slight BUMP -- nothing more.
+
+	Everyone is taken aback by the turn of events. They
+	all look toward Data for the explanation.
+
+					DATA
+			Our own shields caused the
+			increase in the wavefronts...
+			we induced harmonic
+			amplification effects.
+
+					RIKER
+			The more energy we dumped into
+			the shield grid, the worse the
+			impact...
+
+					DATA
+			Precisely. And that is also what
+			destroyed the Vico. When Timothy
+			remembered similar procedures
+			aboard his ship, I initiated an
+			analysis of shield output to
+			wavefront amplitude and discovered
+			a correlation.
+
+        STAR TREK: "Hero Worship" - REV. 10/17/91 - ACT FIVE        57.
+
+92   CONTINUED: (2)
+
+					PICARD
+			If we had transferred all that
+			warp power to the shields, it
+			would've torn the ship apart.
+
+	A silent beat.
+
+					RIKER
+			Status, Ensign.
+
+					ENSIGN FELTON
+			Navigation is coming back on line.
+
+					PICARD
+			Full about, one quarter impulse.
+			Take us out of here.
+
+	The Ensign nods and executes the commands. OFF
+	everyone's reactions...
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE        58.
+
+93
+thru	OMITTED
+96A
+
+97   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	at warp in normal space.
+
+98   INT. CLASS ROOM - ON TIMOTHY
+
+	at the edge of a scattered group of kids, fiddling with
+	an experimental setup. He is no longer in "android"
+	mode. His hair is back to normal, he wears clothing
+	more appropriate to a child.
+
+	A little girl -- his "lab partner" -- hands him a small
+	piece of metal and he takes it, attaching it to the
+	apparatus they're building. He's fitting in -- but
+	still seems very tentative and fragile.
+
+					TROI (o.s.)
+			It would seem that our young
+			"android" is finding his way back
+			to humanity.
+
+99   ON TROI AND DATA
+
+	watching from behind the window.
+
+					DATA
+			It would appear so, Counselor.
+
+					TROI
+			It'll take a while for his
+			emotions to catch up. Timothy's
+			a boy feeling a great deal of
+			pain. But he is a boy again.
+
+	Data considers her words. She glances at him... A
+	beat...
+
+					TROI
+			Is this.. difficult for you, Data?
+
+					DATA
+			Difficult?
+
+					TROI
+			To watch him... moving away from
+			being like you...
+
+        STAR TREK: "Hero Worship" - REV. 10/16/91 - ACT FIVE        59.
+
+99   CONTINUED:
+
+					DATA
+			No, Counselor. That would require
+			an emotional context which I
+			cannot provide.
+
+	A long beat. OFF the moment...
+
+100  ON TIMOTHY
+
+	still working on the class assignment.
+
+					DATA (o.s.)
+			Hello, Timothy.
+
+101  INCLUDE DATA
+
+	as Timothy turns toward him.
+
+					TIMOTHY
+				(flat)
+			How are you, Data?
+
+					DATA
+			I am operating within established
+			parameters. How are you?
+
+					TIMOTHY
+			I'm fine.
+
+	The boy looks away, almost embarrassed. Data picks up
+	on it.
+
+					DATA
+			Is something wrong?
+
+					TIMOTHY
+			You probably thought I was pretty
+			silly. When I had my hair like
+			yours and everything.
+
+					DATA
+			On the contrary, it is said that
+			imitation is the highest form of
+			flattery. I was... flattered.
+
+	Timothy lightens up considerably.
+
+          STAR TREK: "Violations" - REV. 10/16/91 - ACT ONE         60.
+
+101  CONTINUED:
+
+					TIMOTHY
+			Can we still do things together
+			-- even if I'm not really an
+			android?
+
+					DATA
+			I have many Human friends. I
+			would be pleased to count you
+			among them.
+
+					TIMOTHY
+			That would be...
+
+	Timothy smiles -- the first time we've seen a genuine
+	child's smile.
+
+					TIMOTHY
+				(continuing)
+			...acceptable.
+
+	OFF the moment.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+
+                            THE END                             
+
+
+
+
+

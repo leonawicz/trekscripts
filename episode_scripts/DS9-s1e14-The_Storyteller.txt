@@ -1,0 +1,3233 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "The Storyteller" 
+                          #40511-414 
+                              
+                           Story by 
+                    Kurt Michael Bensmiller 
+                              
+                          Teleplay by 
+                    Kurt Michael Bensmiller 
+                              and 
+                        Ira Steven Behr 
+                              
+                          Directed by 
+                       David Livingtson 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        FEBRUARY 2, 1993
+
+     STAR TREK: DS9 - "The Storyteller" - 02/02/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Storyteller" 
+                             CAST 
+
+          SISKO                    FAREN
+          O'BRIEN                  HOVATH
+          BASHIR                   SIRAH
+          DAX                      VARIS
+          KIRA                     WOBAN
+          JAKE                     THE CROWD
+          ODO                      WOMAN
+          QUARK                    
+          NOG                      
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     Villagers
+
+     STAR TREK: DS9 - "The Storyteller" - 02/02/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Storyteller" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          OPS                           
+          DOCKING RING PORT SEVEN -     PLANET BAJOR
+            CORRIDOR
+          COMMANDER'S OFFICE            VILLAGE SQUARE
+          PROMENADE                     
+          REPLIMAT                      RUNABOUT
+          TURBOLIFT                     
+          QUARK'S                       
+            A BACK ROOM
+          RUNABOUT                      
+          SECURITY OFFICE               
+          RUNABOUT                      
+          VARIS'S QUARTERS              
+          SIRAH'S CHAMBER               
+
+    STAR TREK: "The Storyteller" - 02/04/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "The Storyteller" 
+                      PRONUNCIATION GUIDE 
+
+          PAQU                     PAH-coo
+          NAVOT                    nah-VOT
+          VARIS SUL                VAIR-is sool
+          WOBAN                    WOE-ban
+          TETRACH                  TE-trark
+          FAREN                    FAIR-in
+          SIRAH                    suh-RAH
+          GLYRHOND                 GLEER-hund
+          BUCK BOKAI               buck BOW-kai
+          HOVATH                   HO-vath
+          DAL'ROK                  DAL-rock
+
+      DEEP SPACE:  "The Storyteller" - 2/02/93 - TEASER     xx1        
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "The Storyteller"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+					SISKO (V.O.)
+			Station log, Stardate 46729.1.  The 
+			Bajoran government has asked me to 
+			mediate a dispute between two rival 
+			factions, the Paqu and the Navot.  
+			At issue is a land dispute which 
+			could trigger a civil war.
+
+2    INT. OPS
+
+	SISKO EXITS his office.  KIRA, DAX and O'BRIEN are at their 
+	stations; Supernumeraries as needed.
+
+					KIRA
+			Commander, the Paqu delegation has 
+			arrived at docking bay six.
+
+					SISKO
+			Let's welcome them aboard.  Dax, any 
+			word on the Navot?
+
+					DAX
+			They should be here within the hour.
+
+	Sisko and Kira head for the Turbolift.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - TEASER           2.
+
+2    CONTINUED:
+
+					O'BRIEN
+			Excuse me, Commander.
+
+3    NEW ANGLE
+
+	as O'Brien comes down from Engineering to join Sisko and 
+	Kira at the Turbolift.
+
+					SISKO
+			Chief, I thought you'd be on your 
+			way to Bajor by now.
+
+					O'BRIEN
+			We're due to leave any moment.
+				(ill at ease)
+			Sir, I was wondering if perhaps Ensign 
+			Boyer could take my place on this 
+			particular mission.  After all, I'd 
+			be little more than a chauffeur, and 
+			Boyer can pilot a Runabout as well 
+			as I can.
+
+					SISKO
+			Has something come up that requires 
+			your presence on the station?
+
+					O'BRIEN
+			No, Sir.  Everything's running 
+			smoothly, for a change.  But around 
+			here, you never know...
+
+	Just then BASHIR ENTERS from the Ops doorway.
+
+					BASHIR
+			Ah, there you are Chief.  All set to 
+			go?
+
+					O'BRIEN
+			Yes, Sir.
+
+	Sisko and O'Brien exchange a look.  Sisko now understands 
+	the reason behind O'Brien's reluctance.  Bashir doesn't pick 
+	up on any of this.
+
+        DEEP SPACE: "The Storyteller" - REV. 2/05/93 - TEASER        3.
+
+3    CONTINUED:
+
+					BASHIR
+			Commander, did the Magistrate give 
+			any indication regarding the nature 
+			of this medical emergency?
+
+					SISKO
+				(shaking his head)
+			Only that his village was in danger 
+			of extinction.
+
+					BASHIR
+			In that case we better be on our 
+			way.
+
+	Sisko and Kira enter the Turbolift.
+
+					SISKO
+				(to O'Brien)
+			I agree.
+
+					O'BRIEN
+			Yes, Sir.
+
+					SISKO
+				(to comm)
+			Docking port six.
+
+	The Turbolift begins its descent.  O'Brien and Bashir head 
+	for the door.
+
+					BASHIR
+			You know Chief, in a way I'm really 
+			looking forward to this mission.
+
+					O'BRIEN
+			Why's that?
+
+					BASHIR
+			I see it as a wonderful opportunity 
+			for us to get to know one another.
+
+	As they EXIT out the door, O'Brien glances back at Sisko.  
+	He's not a happy camper.
+
+4    INT. TURBOLIFT
+
+	On Sisko and Kira.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - TEASER           4.
+
+4    CONTINUED:
+
+					SISKO
+				(to Kira)
+			I'd like you to set up a preliminary 
+			meeting with both sides for later 
+			this afternoon.  Make sure they know 
+			that this is an informal session.  I 
+			just want to get them talking to 
+			each other.
+
+					KIRA
+			Just getting them to sit down at the 
+			same table will be an accomplishment.
+				(beat)
+			Sir, about these negotiations...
+
+					SISKO
+			You have some advice for me?
+
+					KIRA
+			There's an old saying on Bajor, "the 
+			land and the people are one." Well, 
+			the land inhabited by the Paqu and 
+			Navot is some of the harshest on the 
+			planet.
+
+					SISKO
+			Relax Major.  This isn't my first 
+			time up at the plate.
+
+					KIRA
+				(doesn't get the 
+				baseball reference)
+			Sir...
+
+	As the Turbolift doors open...
+
+					SISKO
+				(smiling)
+			Besides, I'll have you by my side to 
+			help me avoid making mistakes.
+
+	And they EXIT.
+
+5    INT. DOCKING PORT SEVEN - CORRIDOR
+
+	Moving with Sisko and Kira as they reach the airlock door.
+
+					SISKO
+			What can you tell me about the Paqu 
+			Tetrarch?
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - TEASER           5.
+
+5    CONTINUED:
+
+					KIRA
+			Not much.  The Paqu choose to avoid 
+			contact with outsiders.
+
+	The airlock doors OPEN and out steps a Paqu advisor.  He 
+	steps aside to allow another figure to emerge from the 
+	passage: a hard-bitten fifteen-year-old girl (VARIS SUL).
+
+					VARIS
+			Commander Sisko?
+
+	Sisko nods, somewhat confused.
+
+					SISKO
+			Yes?
+
+					VARIS
+			I am Varis Sul, Tetrarch of the Paqu.
+
+	As Sisko and Kira react we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+       DEEP SPACE: "The Storyteller" - REV. 2/11/93 - ACT ONE        6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(Note: Episode credits fall over opening scenes.)
+
+6    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	Traveling at impulse.
+
+7    INT. RUNABOUT
+
+	O'Brien in the pilot seat.  Bashir, feeling ignored, is seated 
+	behind him.  Hold for a beat a silence.  Then...
+
+					BASHIR
+				(a beat)
+			Chief, may I ask you a question?
+
+					O'BRIEN
+				(all business)
+			Of course.
+
+					BASHIR
+			And I'd like an honest answer.
+
+					O'BRIEN
+			You'll get one.
+
+	Bashir hesitates a moment before speaking.
+
+					BASHIR
+			Do I... annoy you?
+
+					O'BRIEN
+				(looking over his 
+				shoulder)
+			Annoy me?  What kind of question is 
+			that?
+
+					BASHIR
+			Well, the thing is, we've just spent 
+			two hours alone together in this 
+			runabout and you hardly said a word 
+			to me the whole time.
+
+	O'Brien turns back to the controls.
+
+					O'BRIEN
+			Really?  I hadn't noticed.
+
+					BASHIR
+			Oh, I see...
+
+       DEEP SPACE: "The Storyteller" - REV. 2/11/93 - ACT ONE       6A.
+
+7    CONTINUED:
+
+					O'BRIEN
+			I suppose I was too busy... thinking.
+
+					BASHIR
+			Thinking?
+
+					O'BRIEN
+			That's right.
+
+	A beat as Bashir mulls over O'Brien's answer.  Then...
+
+					BASHIR
+			About what?
+
+					O'BRIEN
+			What?
+
+					BASHIR
+			What were you thinking about?  I'm 
+			just curious.
+
+	O'Brien does a slow burn but he refuses to allow the young 
+	doctor to see how annoyed he's getting.
+
+					O'BRIEN
+			Let's see... I was thinking that 
+			when I get back to the station, I'll 
+			have to run a level one diagnostic 
+			on the phase coil generators.
+				(a beat)
+			Satisfied?
+
+					BASHIR
+				(nods)
+			I guess so.
+
+					O'BRIEN
+				(case closed)
+			Glad to hear it.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE          7.
+
+7    CONTINUED:	(2)
+
+	But Bashir isn't willing to let it go just yet.  He's 
+	determined to empty his pockets.
+
+					BASHIR
+			I mean, the only reason I brought it 
+			up is because your opinion means a 
+			lot to me, and I'm aware I have a 
+			tendency to run off at the mouth 
+			sometimes.
+
+					O'BRIEN
+			Is that a fact.
+
+					BASHIR
+			I suppose it's a nervous habit.  I 
+			hope you don't hold it against me.
+
+					O'BRIEN
+			Not at all, Sir.
+
+	Bashir nods to himself.  This has gone better than he thought, 
+	though he still suspects O'Brien isn't being totally up front 
+	with him.  He decides to take it one more step.
+
+					BASHIR
+			Oh, and one more thing.
+
+					O'BRIEN
+			And what would that be, Sir?
+
+	O'Brien steadies himself.  He figures next he'll have to 
+	listen to stories from Bashir's childhood.
+
+					BASHIR
+			I don't think it's really necessary 
+			for you to call me "Sir."
+
+					O'BRIEN
+				(surprised)
+			What should I call you?  You're my 
+			superior officer.
+
+					BASHIR
+			How about Julian.
+
+	O'Brien flinches, but quickly recovers his laconic poise.
+
+					O'BRIEN
+			Is that an order?
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT ONE        8.
+
+7    CONTINUED:	(3)
+
+					BASHIR
+			Of course not.  I'd simply prefer it 
+			if you called me by my first name.
+
+	O'Brien considers a beat then...
+
+					O'BRIEN
+				(checking console)
+			All right.  We've achieved stable orbit 
+			around Bajor.  We can beam down any 
+			time... Julian.
+
+	And we notice just the slightest edge in his voice as he 
+	says the name.  Bashir notices it as well.  Hopes he's 
+	mistaken.
+
+8    EXT. VILLAGE SQUARE - DAY (OPTICAL)
+
+	Bashir and O'Brien MATERIALIZE in the middle of a plaza.  A 
+
+	few villagers are cleaning up some debris.  Nearby is a large 
+	raised platform.  Bashir takes out his medical tricorder.  
+	Takes readings.
+
+					BASHIR
+				(re: tricorder)
+			No sign of any airborne infections, 
+			the soil appears free of pollutants, 
+			and the ground water's clear of 
+			bacterial contamination.
+
+					FAREN (O.S.)
+			Gentlemen...
+
+9    NEW ANGLE
+
+	to include FAREN, a Bajoran official.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE          9.
+
+9    CONTINUED:
+
+					FAREN
+
+			I am Faren Kag, the village 
+			magistrate.
+
+					BASHIR
+			I'm Doctor Bashir and this is Chief 
+			O'Brien.
+
+					FAREN
+			This village is in great jeopardy.  
+			I only hope you're not too late.
+
+	He leads them toward a large stone building.
+
+9A   INT. SIRAH'S CHAMBER
+
+	Faren leads Bashir and O'Brien into the room where an old 
+	man (THE SIRAH) lies asleep in a bed.  (NOTE: The Sirah wears 
+	a bracelet, set with a green stone, around one of his wrists.) 
+	HOVATH, a young Bajoran of twenty-four, sits watching over 
+	him.
+
+					FAREN
+			Has he shown any sign of improvement?
+
+					HOVATH
+			None.
+
+					FAREN
+				(to Bashir)
+			You must help him.
+
+					BASHIR
+			How many others are sick?
+
+					FAREN
+			Others?
+
+					O'BRIEN
+			You said the entire village was in 
+			jeopardy?
+
+					FAREN
+			It is.
+				(looking down at the 
+				old man)
+			If he dies, we all die.
+
+	Off O'Brien and Bashir's reactions...
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE         9A.
+
+10   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+11   INT. QUARK'S - A BACK ROOM
+
+	Sisko, Kira, Varis, and WOBAN, the large, gruff Navot leader, 
+	are seated at a table.  Woban munches on some hors d'oeuvres.
+
+					WOBAN
+			I'll say this for the Cardassians.  
+			Their replicators make a fine larish 
+			pie.
+
+					VARIS
+				(to Sisko)
+			I didn't come here to eat, Commander.
+
+					SISKO
+			Then let's talk.  The official 
+			negotiations won't begin until 
+			tonight, but I thought it might be a 
+			good idea for us to meet informally 
+			to see where we all stand.
+
+	Sisko consults his PADD.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE         10.
+
+11   CONTINUED:
+
+					SISKO
+			According to the treaty that has 
+			existed between you for the past 
+			ninety years...
+				(reading)
+			"... the border separating the Paqu 
+			and the Navot shall forever be the 
+			river Glyrhond."
+
+					WOBAN
+			That's correct.
+
+	Varis nods curtly.
+
+					KIRA
+				(an attempt at levity)
+			Well, at least we all agree on 
+			something.
+
+					SISKO
+			Now, as I understand it, during the 
+			occupation the Cardassians diverted 
+			the river for use in their mining 
+			operations.  As a result the Glyrhond 
+			now flows twenty kilometers west of 
+			its former position.
+
+					WOBAN
+			Twenty kilometers into Navot 
+			territory.
+
+					VARIS
+			It's Paqu territory now.
+				(to Sisko)
+			You read the treaty Commander.  The 
+			river is our common border.
+
+					WOBAN
+			The treaty says nothing about stealing 
+			land.  If your father was alive he'd 
+			give us back what was ours.
+
+					VARIS
+			My father would have done no such 
+			thing.  Besides, I'm Tetrarch now.
+				(coldly)
+			I will not be pressured into betraying 
+			my people.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE         11.
+
+11   CONTINUED:	(2)
+
+	Before Sisko can respond, the tension is cut by the arrival 
+	of an upbeat QUARK, who carries a tray of drinks which he 
+	distributes around the table.
+
+					QUARK
+			Let's see, one glass of Gamzian wine, 
+			two Bajoran synthales...
+				(to Varis)
+			And a Trixian bubble juice for the 
+			little lady.
+
+	Varis grabs the glass and, rising, splashes the contents in 
+	Quark's face.
+
+					VARIS
+			I'm not a little lady.
+
+	She storms away.  Quark wipes his face then turns to Sisko.
+
+					QUARK
+			I'm still charging her for that drink.
+
+	But Sisko and Kira have other concerns.
+
+12   INT. PROMENADE - SECOND LEVEL
+
+	JAKE and NOG are seated at their usual spot.  Jake is wearing 
+	a baseball glove.
+
+					JAKE
+			Nog, we've been sitting here over an 
+			hour.  Let's go play some ball in 
+			the Holosuite.
+
+					NOG
+			No.
+
+					JAKE
+			Why not?
+
+					NOG
+			Because baseball is slow and boring...
+
+					JAKE
+			And you can't hit my curve ball.
+
+					NOG
+			It's a stupid game that even humans 
+			stopped playing hundreds of years 
+			ago.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE         12.
+
+12   CONTINUED:
+
+					JAKE
+			Maybe.  But you still can't hit my 
+			curve ball.
+
+	Before Nog can protest...
+
+					ODO (V.O.)
+			Mister Sisko...
+
+13   NEW ANGLE
+
+	As ODO advance toward the boys.
+
+					ODO
+			Nog, I thought I told you no dangling 
+			over the Promenade.
+
+					JAKE
+			We're not gonna fall, Odo.
+
+					NOG
+			We can see things better from down 
+			here.
+
+	Odo peers over the railing.
+
+					ODO
+			And what, may I ask, is so important 
+			to see?
+
+					JAKE
+			Nothing.
+
+					ODO
+			In that case, you can see "nothing" 
+			just as well from up here.
+				(an order)
+			Now, on your feet.
+
+	The boys scramble to a standing position.
+
+					ODO
+			Thank you.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE         13.
+
+	He continues his rounds.  The boys wait until he turns 
+	the bend, then sit back down.
+
+					JAKE
+			Are you gonna come to the Holosuite 
+			with me or not?  We can have Buck 
+			Bokai hit a few out to us.  He was 
+			the greatest hitter of all time.
+				(a beat)
+			I'll even let you use my glove.
+
+					NOG
+				(a moonstruck grin)
+			I've never seen anything so beautiful.
+
+	Jake stares at the glove.  Maybe he's missing something.  
+	But Nog isn't talking about some worn piece of leather.  He 
+	points below to the Promenade.
+
+14   THEIR POV
+
+	Varis and her advisor are passing beneath them.
+
+15   BACK TO SCENE
+
+	Both boys check her out carefully.
+
+					JAKE
+				(nothing special)
+			She's all right.
+
+					NOG
+			All right?
+				(determined)
+			I have to meet her.
+
+	Jake stares at his lovesick buddy.  Yeah, Nog's serious.
+
+16   EXT. SPACE - THE PLANET BAJOR (OPTICAL)
+
+17   INT. SIRAH'S CHAMBER
+
+	Bashir is finishing up his examination of the Sirah, who 
+	remains asleep.  O'Brien is seated in a chair on the other 
+	side of the room.  Hovath looks to the doctor for reassurance.  
+	But Bashir has none to give.  Whatever he's picked up on the 
+	medical tricorder isn't good.  Suddenly the Sirah begins to 
+	stir.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT ONE       14.
+
+17   CONTINUED:
+
+					SIRAH
+			The Dal'Rok...
+
+	He attempts to sit up.  Bashir lays a restraining hand on 
+	him.
+
+					BASHIR
+			Easy now.  Try not to exert yourself.
+
+	The Sirah looks around.  Spots Hovath.
+
+					SIRAH
+			Hovath, the time... ?
+
+					HOVATH
+			Still two hours before nightfall.
+
+					SIRAH
+			You should have woken me.  Help me 
+			get dressed.
+
+	Hovath moves to the bed but Bashir motions him away.
+
+					BASHIR
+			I'm afraid you're in no shape to go 
+			anywhere.
+
+	The Sirah sizes up Bashir.
+
+					SIRAH
+			The prophets sent you, didn't they.
+
+					BASHIR
+			I beg your pardon?
+
+	The Sirah smiles, takes hold of Bashir's hand.  The smile 
+	fades.
+
+					SIRAH
+				(troubled)
+			No... Something's wrong.  It must be 
+			your companion.
+
+	O'Brien, who has been seated in the b.g. listening with only 
+	half an ear, suddenly begins to pay closer attention to the 
+	conversation.
+
+					BASHIR
+				(baffled)
+			You mean Chief O'Brien?
+
+					SIRAH
+			Bring him to me.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT ONE       15.
+
+17   CONTINUED:	(2)
+
+					BASHIR
+			Why?
+
+					SIRAH
+			Because you are not the one I've 
+			been waiting for.
+
+	That doesn't exactly clarify matters, but Bashir turns to 
+	O'Brien.
+
+					BASHIR
+			Chief... he wants to see you.
+
+	O'Brien rises.  The Sirah waves him over.
+
+					SIRAH
+			Come closer.
+
+	O'Brien looks to Bashir, who gives a "don't ask me" shrug.  
+	O'Brien approaches the bed.  The Sirah grabs hold of his 
+	hand then smiles with satisfaction.
+
+					SIRAH
+				(to O'Brien)
+			I knew the prophets wouldn't fail 
+			us.
+				(a beat)
+			You may leave now...
+				(to Bashir)
+			Both of you.
+
+	Bashir is about to argue, then thinks better of it.
+
+					BASHIR
+				(to Hovath)
+			See that he stays in bed.
+
+	As Bashir and O'Brien head for the door.
+
+					O'BRIEN
+			What was that all about?
+
+					BASHIR
+			I haven't a clue.
+
+	They EXIT.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT ONE       16.
+
+18   EXT. VILLAGE SQUARE - CONTINUOUS
+
+	Bashir and O'Brien are met by an anxious Faren.
+
+
+					FAREN
+			The Sirah... how is he?
+
+					BASHIR
+			I wish I had better news.  He's 
+			suffering from systemic organ failure 
+			brought on by an accelerated rate of 
+			cellular decay... his body is 
+			surrendering to old age.
+
+					FAREN
+				(hopefully)
+			Is there anything you can do?
+
+					BASHIR
+			I can keep him comfortable and 
+			relatively free of pain.  Other than 
+			that, it's only a matter of time.
+				(a beat)
+			I'm sorry.
+
+	So is Faren, who refuses to accept the diagnosis.
+
+					FAREN
+			But we need him.  The Dal'Rok will 
+			be here soon.
+
+					O'BRIEN
+			What's the Dal'Rok?
+
+					FAREN
+			It's a terrible creature that lives 
+			in the woods just north of the 
+			village.  Every year at the end of 
+			harvest it appears.
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT ONE         17.
+
+18   CONTINUED:
+
+					BASHIR
+			And you say it's coming tonight.
+
+					FAREN
+				(nods)
+			Yes, it always comes for five nights.  
+			This will be the fourth.  And only 
+			the Sirah is strong enough to defeat 
+			it.
+
+					BASHIR
+			Right now, the Sirah isn't strong 
+			enough to get out of bed.
+
+	Faren stares off in the direction of the woods.
+
+					FAREN
+			If what you say is true, this village 
+			will be destroyed tonight.
+
+	And off Bashir and O'Brien's reactions...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT TWO       18.
+                            ACT TWO                             
+
+	FADE IN:
+
+19   OMITTED
+
+20   INT. HABITAT RING
+
+	Jake and Nog come down the corridor.
+
+					JAKE
+			You're sure this is the place?
+
+					NOG
+			You saw the readout.  There's only 
+			one female her age visiting the 
+			station, and these are her quarters.
+
+	They approach the door.
+
+					NOG
+			Well go ahead.
+
+					JAKE
+			What?
+
+					NOG
+			Ring the bell.
+
+					JAKE
+			Me?  You're the one who wants to 
+			meet her.
+
+					NOG
+			Are you afraid?
+
+					JAKE
+				(insulted)
+			Of a girl.
+
+					NOG
+			Then ring.
+
+					JAKE
+			You ring.
+
+	Nog gives Jake a friendly push.  Jake pushes back.
+
+					NOG
+			You are afraid.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT TWO       19.
+
+20   CONTINUED:
+
+					JAKE
+			No I'm not, you are.
+
+	A good natured shoving match ensues.  Suddenly the doors 
+	open and Varis stands before them.  They freeze!
+
+					VARIS
+			What are you doing?
+
+	Nog steps forward.
+
+					NOG
+			My name's Jog... I mean Jake.
+
+	Jake moves to rescue his flustered friend.
+
+					JAKE
+			He's Nog.  I'm Jake Sisko.
+
+	The boys walk past her into the room.  A flicker of interest 
+	crosses Varis's face as she recognizes the surname.
+
+					VARIS
+			Sisko...
+
+21   INT. VARIS'S QUARTERS
+
+	Varis sizes up the two boys.
+
+					JAKE
+			We're kinda the unofficial welcoming 
+			committee around here.
+
+					NOG
+			That's right...
+				(at a loss)
+			Welcome to DS Nine.
+
+					VARIS
+			Thank you.  I'm Varis Sul.
+
+					JAKE
+			Would you like a tour of the station?  
+			There's a Klingon freighter leaving 
+			for the Gamma Quadrant in a little 
+			while.  We could watch it go through 
+			the wormhole.
+
+					NOG
+			Good idea.
+
+DEEP SPACE: "The Storyteller" - 2/02/93 - ACT TWO        19A.
+
+					JAKE
+21   CONTINUED:
+
+			Thanks.
+				(to Varis)
+			So, how about it?  You wanna come?
+
+          DEEP SPACE: "The Storyteller" - 2/02/93 - ACT TWO         20.
+
+21   CONTINUED:	(2)
+
+	Varis gives it a moment's thought before answering.  
+	Spending some time with Jake could possibly give her valuable 
+	insight regarding Commander Sisko.
+
+					VARIS
+			I've never seen the wormhole.
+
+					NOG
+			Then you're in luck.  We know the 
+			best spot on the station for wormhole 
+			watching.
+
+					JAKE
+			Unless you're too busy or something...
+
+					VARIS
+			Not at the moment.
+
+					JAKE
+			Then let's go.
+
+	And she EXITS, leaving the boys to follow.  Jake and Nog 
+	exchange grins behind her back.  They realize she's a little 
+	older, a little more mature... so to have her consent to 
+	hang around with them is a real boost to their egos.
+
+22   EXT. SPACE - THE PLANET BAJOR (OPTICAL) (STOCK)
+
+23   EXT. VILLAGE SQUARE - NIGHT
+
+	The Sirah, in ceremonial clothes, is led into the square by 
+	Hovath.  Bashir and O'Brien are with them.
+
+					BASHIR
+			Listen to me, Sirah.  You must return 
+			to bed.  To be out here... in your 
+			condition...
+
+					SIRAH
+			Your concern touches me, Doctor.
+				(looks over at O'Brien)
+			But I'm in the hands of the prophets.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT TWO       21.
+
+23   CONTINUED:
+
+	They arrive at the platform, which is surrounded by a group 
+	of villagers, including Faren, who stand motionless, softly 
+	mumbling a religious chant.  Hovath helps support the Sirah 
+	up the platform stairs.  In unison, the villagers lift their 
+	eyes to the darkness.   A light wind begins whipping around 
+	the square.  O'Brien pulls out his tricorder.
+
+					O'BRIEN
+			Strange.  I'm not registering any 
+			atmospheric disturbance...
+
+	The Sirah, feeble as he is, suddenly spreads his arms wide, 
+	meeting the full force of the wind which has picked up 
+	considerably.
+
+					SIRAH
+			The Dal'Rok wakes.
+
+					CROWD
+			The Dal'Rok... the Dal'Rok...
+
+					SIRAH
+			We are ready.
+
+					CROWD
+			Yes... we're ready... the Dal'Rok...
+
+					SIRAH
+			In the shadows of the night he 
+			hungers... With the hatred of the 
+			ancients he rages... From the twisted 
+			pit of chaos he approaches...
+
+24   ANGLE THE SKY (OPTICAL)
+
+	The Dal'Rok, a large ominously rolling energy cloud, appears 
+	in the sky above the square.
+
+					CROWD
+				(fear building)
+			The Dal'Rok... the Dal'Rok... it's 
+			here...
+
+24A  ANGLE - BASHIR AND O'BRIEN
+
+	once again checking the tricorder.
+
+					BASHIR
+			Is it alive?
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT TWO      21A.
+
+24A  CONTINUED:
+
+					O'BRIEN
+			The tricorder's still not registering 
+			anything.
+
+					BASHIR
+			Could it be some kind of holographic 
+			image?
+
+					O'BRIEN
+			I'm not picking up any power source.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT TWO       22.
+
+25   BACK TO SCENE (OPTICAL)
+
+	The Sirah shouts to be heard above the crowd.
+
+					SIRAH
+			The Dal'Rok's anger is like a wave 
+			crashing down on the village.
+
+					CROWD
+			Yes... the anger... a wave... we 
+			feel it.
+
+					SIRAH
+			The weight of its fury threatens to 
+			crush us all.  The Dal'Rok thinks 
+			the village is powerless to defend 
+			itself.
+
+	Strange lightning flashes begin emitting from the Dal'Rok, 
+	exploding in the sky above the village.  Bashir and O'Brien 
+	look around them.  The crowd's panic is almost palpable.  
+	The Sirah is nearing exhaustion but he continues to play his 
+	audience for all he's worth.
+
+					SIRAH
+			But the Dal'Rok is mistaken.  The 
+			village is strong.  Much stronger 
+			than the Dal'Rok can ever imagine.
+
+					CROWD
+			Yes... the village... the village is 
+			strong.
+
+26   NEW ANGLE (OPTICAL)
+
+	Particles of shimmering white light behind rising up from 
+	the village and begins shrinking the Dal'Rok.
+
+27
+thru   OMITTED 
+29
+
+30   ANGLE - THE SIRAH
+
+	Struggling to finish the story.
+
+					SIRAH
+			Our strength... our unity... shall 
+			drive... the Dal'Rok...
+
+	The Sirah suddenly collapses.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT TWO       23.
+
+31   NEW ANGLE BASHIR AND O'BRIEN
+
+	Bashir heads for the stage as the crowd dissolves into chaos.
+
+					CROWD
+			The Sirah... Is he hurt... Look out... 
+			The Dal'Rok...
+
+32   ANGLE THE SKY (OPTICAL)
+
+	Sure enough the white lights disappear from around the 
+	Dal'Rok, which fires another energy bolt toward the village.
+
+33   ANGLE ON A BUILDING (OPTICAL)
+
+	A chunk of a wall explodes.
+
+34   ANGLE ON O'BRIEN
+
+	As the crowd cries out in alarm.
+
+					O'BRIEN
+			Bloody hell.
+
+	And on his reaction to the destruction, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE      24.
+                           ACT THREE                            
+
+	FADE IN:
+
+35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT
+
+36   CONTINUOUS (OPTICAL)
+
+	Bashir administers to the Sirah, as interactive lighting and 
+	sound remind us that the Dal'Rok is still raging overhead 
+	(though no more damage is seen).  The Sirah begins to stir.
+
+					BASHIR
+			Chief, help me get him down from 
+			here.
+
+	The Sirah forces himself to his feet, Bashir lending support.
+
+					SIRAH
+			Where is my successor?
+
+	O'Brien and Hovath step onto the platform.
+
+					HOVATH
+			Sirah...
+
+	But the Sirah ignores the youth and holds a hand out to 
+	O'Brien.
+
+					SIRAH
+			The one the prophets sent.
+
+	The Sirah grabs hold of O'Brien's hand.
+
+					O'BRIEN
+			Wait a second, you've got the wrong 
+			guy.
+
+					SIRAH
+				(an urgent whisper)
+			Say as I say... the village shall 
+			not be destroyed.
+
+					O'BRIEN
+			What?
+
+					SIRAH
+			Quickly.
+
+	O'Brien looks over at Bashir, who's just as perplexed as he 
+	is.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE       24A.
+
+35   CONTINUED:
+
+					O'BRIEN
+				(feeling foolish)
+			The village shall not be destroyed.
+
+					SIRAH
+			Louder.  So they can all hear.
+
+					O'BRIEN
+				(to the crowd)
+			The village shall not be destroyed.
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE      25.
+
+35   CONTINUED:	(2)
+
+	The Sirah keeps a tight grip on O'Brien, summoning up 
+	every last bit of strength to get through this crisis.
+
+					SIRAH
+				(a whisper)
+			Despite our fears, we stand our ground 
+			and face the Dal'Rok.
+
+					O'BRIEN
+				(to the crowd)
+			Despite our fears, we stand our ground 
+			and face the Dal'Rok.
+
+36   ANGLE THE VILLAGERS
+
+	watching the battle with newfound hope.
+
+					CROWD
+			Stand fast.  Face the Dal'Rok.
+
+37   NEW ANGLE (OPTICAL)
+
+	As once again the shimmering particles of white light begin 
+	shooting up at the Dal'Rok.
+
+	ANGLE THE PLATFORM
+
+38   The Sirah is rapidly whispering to O'Brien who repeats the 
+	words for all to hear.
+
+					O'BRIEN
+			The village is strong.
+
+					CROWD
+			The village is strong.
+
+					O'BRIEN
+			More powerful than the Dal'Rok.
+
+					CROWD
+			More powerful than the Dal'Rok.
+
+					O'BRIEN
+			Together we use that power to drive 
+			it away.
+
+					CROWD
+			Drive it away.
+
+					O'BRIEN
+			Drive it away!
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE     25A.
+
+38   CONTINUED:
+
+					CROWD
+			Drive it away!
+
+39   ANGLE - THE SKY (OPTICAL)
+
+	The white lights have completely encircled the Dal'Rok.  A 
+	beat and then both the Dal'Rok and the lights fade away.
+
+					O'BRIEN (V.O.)
+			The Dal'Rok is defeated.
+
+40   ANGLE THE PLATFORM (OPTICAL)
+
+	Still taking his cues from the Sirah.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE        26.
+
+40   CONTINUED:
+
+					O'BRIEN
+			The village is safe.
+
+	The villagers cheer wildly.
+
+					CROWD
+			The village is safe.  All thanks to 
+			the prophets.  The Sirah.  The Sirah.
+
+	The Sirah drops O'Brien's hand and slumps against him.  
+	O'Brien and Bashir lower down to the floor of the platform.  
+	Bashir leans over to examine him, but there's nothing he can 
+	do.  The villagers fall silent.
+
+					BASHIR
+			He's dead.
+
+	Hovath drops to his knees in mourning, but Faren leaps onto 
+	the stage and addresses the villagers.
+
+					FAREN
+			The Sirah has left us.
+
+	Faren waits a beat or two, and then throws a welcoming arm 
+	around O'Brien.
+
+					FAREN
+			But the prophets have sent us his 
+			successor.
+
+	The villagers erupt with thunderous cheers.
+
+					FAREN
+				(continuing)
+			A new Sirah to tell the story.
+
+					CROWD
+			A new Sirah... the story... All thanks 
+			to the prophets.
+
+					FAREN
+			A new Sirah to protect the village.
+
+	The villagers roar their approval.
+
+41   CLOSE ON O'BRIEN
+
+	too astonished to even protest.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE        27.
+
+42   OMITTED
+
+43   INT. QUARK'S
+
+	Not very crowded.  Kira ENTERS and sits down at the bar.  
+	Quark hurries over.
+
+					QUARK
+			Major, what a pleasant surprise.  I 
+			always look forward to one of your 
+			infrequent visits.
+
+					KIRA
+			Spare me the small talk and get me a 
+			star drifter.
+
+	Quark begins gathering the ingredients.
+
+					QUARK
+			So, how are the negotiations coming 
+			along?
+
+					KIRA
+			Better make it a double.
+
+	Quark nods sympathetically.
+
+44   INT. COMMANDER'S OFFICE
+
+	Sisko studying a PADD.  The door chimes.
+
+					SISKO
+			Come in.
+
+	Varis ENTERS.
+
+					VARIS
+			You asked to see me.
+
+					SISKO
+			Please, sit down.
+
+	Varis doesn't move.
+
+					VARIS
+			I just spent the last five hours 
+			sitting at a conference table.
+
+					SISKO
+			Yes, five long, unproductive hours.
+
+					VARIS
+			Woban is an obstinate fool.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE        28.
+
+44   CONTINUED:
+
+					SISKO
+			Woban is here to talk.  What are you 
+			here for?
+
+					VARIS
+			I would think that was obvious.  To 
+			defend the interests of my people.
+
+					SISKO
+			How?  By starting a war?
+
+	Varis bristles at the suggestion.
+
+					VARIS
+			I object to your tone, Commander.
+
+					SISKO
+			Because if that's what you want, if 
+			you'd rather fight than talk, then 
+			we're just wasting our time.
+
+					VARIS
+			That land belongs to the Paqu.
+
+					SISKO
+			The Navot don't agree.
+
+					VARIS
+			Then they'd better be ready to die 
+			for it.  I am.  Or don't you believe 
+			me?
+
+					SISKO
+				(frustration showing)
+			I believe in people working together 
+			to find reasonable solutions to their 
+			problems.  I hope you do as well.
+
+	It takes a moment for Varis to control her temper, and when 
+	she speaks, it's with a cold, flat anger.
+
+					VARIS
+			What you "hope" is no concern of 
+			mine.  Now, anything else you wish 
+			to say to me can be said tomorrow 
+			across the conference table.
+
+	She turns to leave.
+
+					SISKO
+			Varis...
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE        29.
+
+44   CONTINUED:	(2)
+
+	She turns back to Sisko.
+
+					SISKO
+			Are you sure your people are as ready 
+			as you are to die for that land?
+
+	Varis stares at Sisko for a beat.  EXITS.  Hold on Sisko, 
+	who's not looking forward to tomorrow.
+
+44A  EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+44B  INT. PROMENADE - DAY TWO
+
+	Jake and Nog are checking the premises for Varis.
+
+					NOG
+			Where do you think she is?
+
+					JAKE
+			I guess if she's not here, we can 
+			try again at her quarters.
+
+					NOG
+			When we find her, I want you to let 
+			me do the talking.
+
+					JAKE
+			She asks me questions... I answer 
+			them.  What's wrong with that?
+
+					NOG
+			Just remember, I saw her first.
+				(a beat)
+			She's mine.
+
+45   INT. PROMENADE STAIRS
+
+	As the boys climb to the second level.
+
+					JAKE
+			Then, how come you can barely say 
+			two words to her without getting 
+			tongue-tied?
+
+					NOG
+			That's a lie.
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE     29A.
+
+45   CONTINUED:
+
+					JAKE
+			I've never seen you so nervous.  You 
+			must really like her.
+
+					NOG
+			I never said that.
+
+46   INT. SECOND LEVEL
+
+	Jake and Nog reach the landing.  They both stop short as 
+	they see Varis seated at their hangout, her feet dangling 
+	over the edge of the walkway.  She looks pretty miserable.
+
+47   NEW ANGLE
+
+	As an embarrassed Nog bumps into Jake, he hopes she hasn't 
+	heard them.
+
+					NOG
+			Uh... we were... uh... just...
+
+					JAKE
+			Looking for you.
+
+					VARIS
+				(subdued)
+			I've been... busy.
+
+	Jake and Nog sit down on either side of her.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE        30.
+
+47   CONTINUED:
+
+					JAKE
+				(picking up on her 
+				mood)
+			Is something wrong?  You seem a little 
+			depressed.
+
+					VARIS
+				(a beat)
+			It's nothing, really.
+				(wanting to talk)
+			It's just... there are these people... 
+			who want something I have... and I 
+			refuse to give it to them.
+
+	Nog perks up.  Here's a chance to help the girl of his dreams.
+
+					NOG
+			How badly do they want it?
+
+					VARIS
+			Very badly.
+
+					NOG
+			Is there anything they have that you 
+			want?
+
+					VARIS
+			That I want?
+
+					NOG
+			Maybe this isn't a problem.  Maybe 
+			it's an opportunity.
+
+	Varis considers for a moment.
+
+					VARIS
+			Maybe...
+
+					JAKE
+			When I have a problem I can't figure 
+			out, I ask my dad.
+
+					NOG
+				(determined not to be 
+				outdone by Jake)
+			I ask my dad, too.
+
+					VARIS
+			It helps, doesn't it?
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE      31.
+
+47   CONTINUED:	(2)
+
+			JAKE				NOG
+		Yes.				No.
+
+					JAKE
+			My dad's a pretty smart guy.
+
+					NOG
+			Mine, too.
+				(off Jake's look)
+			In his own way.
+
+					VARIS
+			My parents are dead.  They were killed 
+			by the Cardassians.
+
+					JAKE
+			I'm sorry.  My mom was killed during 
+			an attack by the Borg.
+
+	There's a moment of mutal sympathy between Jake and Varis.
+
+					JAKE
+			Isn't there someone you can talk to?  
+			Someone you trust?
+
+					VARIS
+			I don't trust many people.
+
+					JAKE
+			My dad says...
+
+					NOG
+			Could we please talk about something 
+			besides your father?
+
+					VARIS
+				(to Jake)
+			You admire him very much, don't you?
+
+					JAKE
+				(smiling)
+			I trust him.
+
+					ODO
+			Mister Sisko...
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE       31A.
+
+48   NEW ANGLE
+
+
+	as Odo heads towards them.  Varis hides her face so that Odo 
+	doesn't recognize her.  She wants her relationship with Jake 
+	kept hidden from Sisko.
+
+					NOG
+				(uh-oh)
+			Odo...
+
+					JAKE
+			We were just leaving.
+
+	Jake and Nog pull Varis to her feet and head for the hills.
+
+49   CLOSE ON ODO
+
+	not bothering to pursue.  He allows himself the smallest 
+	trace of a smile at the fear he inspires in Jake and Nog.
+
+50   OMITTED
+
+51   INT. SIRAH'S CHAMBER - DAY
+
+	O'Brien pacing the room.  Bashir gazing out a window.
+
+      DEEP SPACE: "The Storyteller" - REV. 2/11/93 - ACT THREE      32.
+
+51   CONTINUED:
+
+					BASHIR
+				(musing)
+			I wonder what was controlling those 
+			energy creatures.
+
+					O'BRIEN
+			One thing's certain, it wasn't me.
+
+					BASHIR
+			Try telling that to the villagers.  
+			They saw the Sirah choose you as his 
+			successor.
+
+					O'BRIEN
+			He made a mistake.
+
+					BASHIR
+			But you saw how he greeted you when 
+			we arrived.  It was as if he were 
+			expecting you.
+				(upbeat)
+			I'll tell you, Chief, I'm glad you 
+			came along on this mission.  If it 
+			wasn't for you, I'd have just done 
+			what I could for the Sirah and left.  
+			Look at what I'd have missed.
+
+					O'BRIEN
+			I'm glad you're enjoying yourself... 
+			Julian.
+
+					BASHIR
+			Don't worry, Chief, I have faith in 
+			you.
+
+					O'BRIEN
+				(not inspired)
+			Do you?
+
+      DEEP SPACE: "The Storyteller" - REV. 2/11/93 - ACT THREE     32A.
+
+51   CONTINUED:	(2)
+
+					BASHIR
+				(a throwaway)
+			For all we know, you really were 
+			sent by the prophets.
+
+	That raises O'Brien's hackles.
+
+					O'BRIEN
+			I was sent by Commander Sisko.
+				(a beat)
+			That Dal'Rok... or whatever... will 
+			be returning tonight... and everyone's 
+			counting on me to stop it... Only
+			trouble is I don't have the slightest 
+			idea how I'm supposed to do that.
+
+52   NEW ANGLE
+
+	Faren, Hovath and some villagers ENTER carrying various 
+	presents (food, jewels, clothing).
+
+					FAREN
+			These gifts are for you, Sirah.
+
+	The offerings do not improve O'Brien's mood.
+
+					O'BRIEN
+			Well tell them I don't want...
+
+					BASHIR
+				(interrupting)
+			Bring them right in.  Put them 
+			wherever you like.
+
+	The villagers do as they're told, all the while gazing 
+	respectfully at O'Brien.
+
+					O'BRIEN
+			Now look... Julian...
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT THREE        33.
+
+52   CONTINUED:
+
+					BASHIR
+			We're visitors here, Chief.  It 
+			wouldn't be polite to refuse our 
+			hosts.
+
+	The villagers file out, leaving behind Faren, Hovath and 
+	three beautiful Bajoran women, whose eyes never leave O'Brien.
+
+					O'BRIEN
+				(uncomfortable)
+			How can I help you ladies?
+
+					BASHIR
+				(way ahead of him)
+			I think they're the ones offering 
+			services, Chief.
+
+	The women smile modestly at O'Brien.
+
+					O'BRIEN
+				(appalled)
+			Now look here, there's been a serious 
+			misunderstanding...
+
+					FAREN
+			Is there a problem, Sirah?
+
+					O'BRIEN
+			No, they're not... well, yes... 
+			they're quite... Look, I have a wife 
+			and daughter back at DS Nine.
+
+					FAREN
+				(no problem)
+			Of course.
+
+	Faren gestures to the women, who EXIT.
+
+					FAREN
+				(to O'Brien)
+			You must send for them.
+
+					O'BRIEN
+			Why?
+
+					FAREN
+			So they can live here with you.
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE      34.
+
+52   CONTINUED:	(2)
+
+					O'BRIEN
+				(that takes the cake)
+			You're missing the point.  You see, 
+			I'm not staying.
+
+	Faren just doesn't get it.
+
+					FAREN
+			Then who will tell the story?
+
+					O'BRIEN
+			You'll just have to find someone 
+			else.
+
+					FAREN
+			But there is no one else.  The Sirah 
+			chose you.
+
+					BASHIR
+			He made a mistake.
+
+					FAREN
+			But what about the Dal'Rok?  Without 
+			your protection, he'll kill us all.
+
+					O'BRIEN
+			Look, Faren, I'd like to help, really 
+			I would, but I don't know how.
+
+					FAREN
+			You must tell the story.
+
+					O'BRIEN
+				(sees there's no point 
+				in arguing)
+			As simple as that, is it?
+
+	Faren nods.  Secure in his faith.
+
+					FAREN
+			May the prophets grant you victory, 
+			Sirah.
+
+					O'BRIEN
+			Let's hope so.
+
+	Faren EXITS.
+
+      DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT THREE      35.
+
+53   ANGLE HOVATH
+
+	about to follow.  He pauses to stare unobserved at O'Brien.  
+	It's a jealous, hateful stare.
+
+54   NEW ANGLE
+
+	Hovath turns and EXITS, leaving O'Brien and Bashir alone in 
+	the room.
+
+					BASHIR
+			Now what do we do?
+
+					O'BRIEN
+			The way I see it, there's only one 
+			way out of this mess.  We have to 
+			find out exactly what this Dal'Rok 
+			is, and destroy it... before it 
+			destroys us.
+
+	Bashir nods in agreement as we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR         36.
+                           ACT FOUR                             
+
+	FADE IN:
+
+55   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+					SISKO (V.O.)
+			Station Log supplemental.  We have 
+			completed a second day of talks 
+			between the Paqu and the Navot.  So 
+			far, we're no closer to finding a 
+			solution than we were when 
+			negotiations began.
+
+56   INT. VARIS'S QUARTERS
+
+	A thoughtful Varis is seated at a table studying a monitor 
+	displaying a map of the disputed border.  The door CHIMES.
+
+					VARIS
+			Enter.
+
+57   NEW ANGLE
+
+	Jake and Nog tramp in, their happy-go-lucky attitudes in 
+	sharp contrast to Varis, who shuts off the monitor.
+
+					JAKE
+			Hi, you want to do something?
+
+					VARIS
+			I'm sorry.  Not right now.
+
+	Nog's disappointed, but Jake sees that she means it.
+
+					JAKE
+			Okay, we'll stop by later.
+
+	He turns to go, but Nog isn't ready to admit defeat.
+
+					NOG
+			Is there anything we can do to cheer 
+			you up?
+
+					VARIS
+				(appreciates the 
+				concern)
+			I don't think so.
+
+					NOG
+			You're sure?
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR         37.
+
+57   CONTINUED:
+
+	Jake takes hold of Nog's arm and leads him toward the 
+	door.
+
+					JAKE
+				(quietly)
+			Let's go, before you embarrass 
+			yourself.
+
+	But before they exit...
+
+					VARIS
+			Wait.
+
+	Nog pulls away from Jake.
+
+					NOG
+				(to Varis)
+			Yes?
+
+	Varis is clearly uncomfortable asking for help from Jake and 
+	Nog.  But at the moment, she truly feels she has no one else 
+	to turn to.
+
+					VARIS
+			You remember that... opportunity we 
+			were discussing yesterday?
+
+					NOG
+			Yes.
+
+					VARIS
+			How can you be sure that an 
+			opportunity is worth the risk?
+
+	Nog smiles.  At last he's on familiar ground.
+
+					NOG
+			Instinct.  The Ninth Rule of 
+			Acquisition clearly states 
+			"opportunity plus instinct equals 
+			profit."
+
+					VARIS
+				(half to herself)
+			Instinct.
+
+					JAKE
+				(to Nog)
+			That's not gonna help.
+
+	But Varis brightens a bit.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/03/93 - ACT FOUR      38.
+
+57   CONTINUED:	(2)
+
+					VARIS
+			I think it does.  Thank you, Nog.
+
+	Nog smiles, delighted to have been of assistance.
+
+					NOG
+			Good.  Let's celebrate.
+
+	And as Varis considers the request...
+
+					VARIS
+			Celebrate... ?
+
+	Nog reaches into his pocket, pulls out a Cardassian computer 
+	chip.
+
+					NOG
+			I took one of my uncle's security 
+			rods.
+
+					JAKE
+			What are we gonna do with that?
+
+					NOG
+			I don't know...
+				(an idea)
+			We could swipe Odo's bucket.
+
+					JAKE
+			Are you kidding?
+
+					VARIS
+			A bucket?
+
+					NOG
+				(to Jake)
+			We'll give it back.
+
+					JAKE
+			Yeah, but...
+
+					NOG
+			It'll be funny.
+
+					JAKE
+			But we can't just walk into 
+			security...
+
+					NOG
+			Watch me.
+
+	He heads for the door.  Varis and Jake, who is not convinced 
+	this is such a hot idea, follow after him.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FOUR      39.
+
+58
+thru   OMITTED
+59
+
+60   INT. PROMENADE - THE REPLIMAT
+
+	as Jake, Nog, and Varis arrive.  Nog looks inside the Security 
+	Office, then motions to the others to wait for him.  Before 
+	Jake can protest, Nog disappears into an alcove near the 
+	Security Office.
+
+					VARIS
+				(to Jake)
+			I still don't understand what's so 
+			funny about a bucket.
+
+					JAKE
+			Odo lives in it.
+
+	Off Varis's surprised expression...
+
+					JAKE
+				(continuing)
+			He's a shape-shifter.  Every sixteen 
+			hours he has to change back to his 
+			original form.
+
+					VARIS
+			Inside a bucket?
+
+					JAKE
+			He turns into some kind of liquid.
+
+60A  THEIR POV
+
+	The Security doors open.  Nog stands inside.  Waves them 
+	over.
+
+61   INT. SECURITY OFFICE
+
+	Jake and Varis join Nog inside the semi-dark office.
+
+					JAKE
+				(to Nog)
+			Maybe this isn't such a good idea.
+
+					NOG
+				(ignores the warning)
+			Watch the front door.  I'll be right 
+			back.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR        39A.
+
+61   CONTINUED:
+
+	Nog EXITS into a back room.  Jake checks the Promenade.
+
+					VARIS
+			Jake, you're sure this is all right?
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FOUR      40.
+
+61   CONTINUED:	(2)
+
+					JAKE
+				(trying to convince 
+				himself)
+			Well... it's not like we're really 
+			stealing anything.
+
+	Nog, carrying the bucket, comes running in from the back 
+	room.
+
+					NOG
+			Found it.
+
+	Suddenly he trips.  A thick goo spills out of the bucket.
+
+					JAKE
+				(panicked)
+			Odo!
+
+	Nog cracks up.
+
+					NOG
+			It's oatmeal.  I filled it from the 
+			replicator.
+
+					JAKE
+			Very funny.
+
+					NOG
+			You should have seen your face!
+
+	Nog continues to laugh.  A beat then Jake joins in. Even 
+	Varis smiles.  It's the first real smile we've seen from 
+	her.  It's endearing, she finally looks like a kid.
+
+62   NEW ANGLE
+
+	as the front door opens and Odo ENTERS.  Spots Nog with the 
+	bucket.
+
+					ODO
+			I believe that belongs to me.
+
+	Caught red-handed, Nog hands the bucket to Odo.  But the 
+	moment Odo grabs it, Nog darts out through the open door.
+
+63   INT. PROMENADE
+
+	Nog comes barreling out of the security office only to run 
+	right smack into Sisko, who catches hold of him.
+
+					SISKO
+			What's the rush?
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FOUR      41.
+
+63   CONTINUED:
+
+	Nog isn't about to say.
+
+64   SISKO'S POV
+
+	as he spots Odo in the doorway with Jake and Varis.
+
+65   ANGLE SISKO
+
+	HOLD on his surprised reaction.
+
+66   EXT. SPACE - THE PLANET BAJOR (OPTICAL)
+
+67   EXT. VILLAGE SQUARE - DAY
+
+	Bashir watches O'Brien check the damaged building with his 
+	tricorder.
+
+					O'BRIEN
+			There's some residual neutrino levels 
+			in the microstructure of the building 
+			material.
+
+					BASHIR
+			But if the Dal'Rok has no physical 
+			substance, how can it leave a neutrino 
+			trace?
+
+					O'BRIEN
+			I didn't say it made sense.  But 
+			this wall didn't just spontaneously 
+			blow itself to pieces.
+
+					BASHIR
+			Lucky for us, you were able to stop 
+			it before it did anymore damage.
+
+					O'BRIEN
+			All I did was repeat what the Sirah 
+			told me.
+
+					BASHIR
+			All right, then how did the Sirah stop 
+			it?
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR         42.
+
+					O'BRIEN
+			Good question.  Maybe there's some 
+			kind of controlling mechanism hidden 
+			somewhere.
+
+	O'Brien begins examining the platform.
+
+68   NEW ANGLE
+
+	A WOMAN, carrying an infant, approaches.  O'Brien intent on 
+	his search, tries to step around her.
+
+					O'BRIEN
+			Excuse me, miss...
+
+	She blocks his path.
+
+					WOMAN
+			Please Sirah, for the baby...
+
+					O'BRIEN
+			What about her?
+
+					BASHIR
+			I think she wants you to bless the 
+			child.
+
+					O'BRIEN
+			Me?
+
+					WOMAN
+				(heartfelt)
+			It would mean so much.
+
+	O'Brien, at a loss, pats the infant on the head.
+
+					O'BRIEN
+			I'm sure she'll make you very proud.
+
+					WOMAN
+			Thank you.
+
+	She walks off, thrilled by the encounter.
+
+					O'BRIEN
+			You're quite welcome.
+
+69   NEW ANGLE
+
+	as more villagers come forward.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR         43.
+
+69   CONTINUED:
+
+					BASHIR
+			Looks like some more of your followers 
+			are requesting an audience
+
+					O'BRIEN
+			This won't do.  You continue looking 
+			around here.  I'll check the Sirah's 
+			room.
+
+	O'Brien EXITS.  Bashir intercepts the villagers.  Flashes 
+	his most boyish grin.
+
+					BASHIR
+			I'm afraid the Sirah is busy at the 
+			moment.  Perhaps I can be of service.
+
+70   NEW ANGLE
+
+	to include Hovath in the crowd.
+
+71   INT. SIRAH'S CHAMBER
+
+	O'Brien searches the room.  Looks up to find...
+
+72   HOVATH
+
+	standing in the doorway.
+
+					O'BRIEN
+				(no time for 
+				interruptions)
+			Look, I could use a little privacy.
+
+					HOVATH
+			There are more gifts outside.
+
+					O'BRIEN
+				(no time to argue)
+			All right, bring them in...
+
+	He's about to resume his search, but gets an idea and turns 
+	back to Hovath.
+
+					O'BRIEN
+			Hold on.  You worked for the Sirah, 
+			didn't you?
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR        43A.
+
+72   CONTINUED:
+
+					HOVATH
+			I was his apprentice.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FOUR      44.
+
+72   CONTINUED:	(2)
+
+					O'BRIEN
+			Did he ever reveal any of his secrets?  
+			How he controlled the Dal'Rok, that 
+			sort of thing?
+
+	Hovath regards O'Brien with surly contempt.
+
+					HOVATH
+			Why ask me?  Surely the Sirah taught 
+			you all you need to know.
+
+	O'Brien can see that Hovath isn't willing to help.
+
+					O'BRIEN
+			All right, have it your way.  But 
+			don't blame me when that creature 
+			goes rampaging through your village.
+
+	O'Brien resumes exploring the room.
+
+73   NEW ANGLE
+
+	As soon as O'Brien turns his back, Hovath removes a dagger 
+	hidden in his shirt.  Raising up the blade he advances on 
+	O'Brien who, at the last moment, senses the danger and turns 
+	just as Hovath lunges at him.  They struggle, O'Brien trying 
+	to wrest the knife away from the youth, whose pent up anger 
+	makes him a formidable foe.
+
+74   ANGLE BASHIR
+
+	as he ENTERS the room.
+
+					BASHIR
+			Chief!
+
+	He runs over and tries to pull Hovath away.  Enraged, the 
+	youth turns his attack on Bashir.
+
+					O'BRIEN
+				(to Bashir)
+			Careful, don't hurt him.
+
+	But it's Hovath who's getting the better of Bashir, the knife 
+	point moving ever closer to the doctor's chest.
+
+					BASHIR
+			I'll try not to.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FOUR         45.
+
+74   CONTINUED:
+
+	O'Brien grabs hold of Hovath, making it a three-way tussle.
+
+					O'BRIEN
+			That's enough.
+
+					BASHIR
+			Tell him that.
+
+	O'Brien finally manages to extract the knife from Hovath's 
+	grip and shove him against the wall.
+
+					O'BRIEN
+			I said that's enough.  Now you mind 
+			explaining why you tried to kill me?
+
+					HOVATH
+			You are not the true Sirah.
+
+					O'BRIEN
+			You won't get any argument from me.
+
+					BASHIR
+				(to Hovath)
+			If he's not, who is?
+
+					HOVATH
+				(simply)
+			I am.
+
+	And off their reaction, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      46.
+                           ACT FIVE                             
+
+	FADE IN:
+
+75   INT. SIRAH'S CHAMBER
+
+	As before.
+
+					HOVATH
+			For five years, I studied with the 
+			Sirah, learning the secrets of the 
+			storyteller.
+				(to O'Brien)
+			Only to have you come along and take 
+			my place.
+
+					O'BRIEN
+			Look friend, as far as I'm concerned, 
+			the job's yours.
+
+					BASHIR
+				(to Hovath; re: O'Brien)
+			But if you were supposed to take 
+			over, why did the Sirah pick him?
+
+					HOVATH
+				(ashamed)
+			It was his way of punishing me.
+
+					BASHIR
+			Punishing you?
+
+					HOVATH
+			Three nights ago, the Sirah allowed 
+			me to tell the story.  But when the 
+			Dal'Rok appeared, I was unable to 
+			control it.  Several people were 
+			injured.
+
+					O'BRIEN
+			Control it?  How?
+
+	Hovath crosses to a table and picks up the Sirah's bracelet.
+
+					HOVATH
+			With this.
+
+	O'Brien and Bashir examine the bracelet.
+
+					HOVATH
+			The stone is said to be a fragment 
+			of an orb from the celestial temple.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      47.
+
+75   CONTINUED:
+
+					BASHIR
+			We had one of the orbs aboard our 
+			station.  We're aware of how powerful 
+			they are.
+
+					HOVATH
+			Many years ago, this village was 
+			deeply divided by hate and mistrust.  
+			The first Sirah knew that unless he 
+			could find a way to unite the people, 
+			the village would destroy itself.  
+			So he used the orb fragment as a 
+			catalyst to give their fears a 
+			physical form.
+
+					O'BRIEN
+			So the villagers' thoughts create the 
+			Dal'Rok.
+
+					HOVATH
+			But they don't know that.  It's a 
+			secret passed from Sirah to Sirah.
+
+					O'BRIEN
+			Why do they need a storyteller?
+
+					HOVATH
+			The story helps focus the villagers' 
+			thoughts...
+
+					BASHIR
+				(putting it all 
+				together)
+			And enables them to defeat the Dal'Rok 
+			by creating the shimmering lights.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE     47A.
+
+75   CONTINUED:	(2)
+
+					HOVATH
+				(a beat)
+			I know if I had another chance, I 
+			could control the Dal'Rok.
+
+	O'Brien looks Hovath in the eye, sizes him up, then hands 
+	him the ceremonial clothes.
+
+					O'BRIEN
+			Well son, it looks like tonight you're 
+			going to get that chance.
+
+	Hovath smiles gratefully at O'Brien as he drapes the Sirah's 
+	clothes around himself.
+
+					FAREN (O.S.)
+			What is this?
+
+75A  NEW ANGLE
+
+	Faren stands in the doorway.
+
+					FAREN
+				(to Hovath; outraged)
+			You have no right to wear those 
+			clothes.
+
+					HOVATH
+			I have every right...
+
+					FAREN
+			You had your chance to prove 
+			yourself... you failed.
+
+					HOVATH
+			It won't happen again.
+
+					FAREN
+			That's right... because you won't be 
+			allowed to endanger the village a 
+			second time.  Now take off those 
+			robes.
+
+	A beat and then Hovath removes the garment and hands it back 
+	to O'Brien.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FIVE        47B.
+
+75A  CONTINUED:
+
+					O'BRIEN
+			Hold on...
+
+					FAREN
+				(to O'Brien)
+			Sirah, it's time you were getting 
+			ready.  The people have assembled to 
+			hear the story.
+
+	O'Brien sighs.  He's not looking forward to this.
+
+76   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+77   INT. COMMANDER'S OFFICE
+
+	Varis stands before Sisko.  Her usual combative attitude is 
+	nowhere in evidence.
+
+         DEEP SPACE: "The Storyteller" - 2/02/93 - ACT FIVE         48.
+
+77   CONTINUED:
+
+					VARIS
+			I want you to know Commander, that I 
+			take complete responsibility for 
+			what happened in the security office.
+
+					SISKO
+			I think there's more than enough 
+			blame to spread around.  Jake should 
+			have known better.
+
+					VARIS
+			I'm afraid he and Nog were just trying 
+			to impress me.
+
+					SISKO
+			That's not much of an excuse.
+
+					VARIS
+			Didn't you ever do anything foolish 
+			to impress a girl?
+
+	Sisko has to concede the point.
+
+					SISKO
+			I may have.
+
+					VARIS
+			Jake's a nice boy.  So's Nog, in his 
+			own way.  I enjoy their company.
+
+					SISKO
+			I suppose you don't get much of a 
+			chance to be with people your own 
+			age.
+
+					VARIS
+			True.  But that's not why I wanted 
+			to be with them.
+				(off Sisko's reaction)
+			I wanted to learn about you.
+
+	Sisko can't help but be impressed.  Beneath all the bad 
+	attitude, this is one savvy girl.
+
+					SISKO
+			And... ?
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      49.
+
+77   CONTINUED:	(2)
+
+					VARIS
+			Jake think's very highly of you.  
+			He... trusts you.
+
+					SISKO
+				(smiling)
+			That's always nice to hear.
+
+	Varis takes a seat.  For the rest of the scene, her words 
+	are spoken softly and with great thought behind them.
+
+					VARIS
+			Hearing Jake speak of you reminded 
+			me how much I miss my own parents.  
+			My father was a great man.  A great 
+			leader.
+
+					SISKO
+			I'm sure he'd be very proud of you.
+
+					VARIS
+			I try to be strong... the way he was 
+			strong... but it's... difficult.
+
+					SISKO
+			From what I've learned about your 
+			father, he wasn't afraid to 
+			compromise.
+
+					VARIS
+			That's because he knew the Navot 
+			feared him.  If I were to make 
+			concessions, Woban would think I was 
+			weak.
+
+					SISKO
+			I doubt he would be that foolish.
+				(a beat)
+			But he is determined to get back 
+			that land.
+
+					VARIS
+			I'm not afraid of Woban or the Navot.
+
+					SISKO
+			I never said you were.
+				(a beat)
+			So your answer is still no.
+
+					VARIS
+			You don't lose by saying no.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      50.
+
+77   CONTINUED:	(3)
+
+					SISKO
+			Maybe.  But a great leader... like 
+			your father... is one who's willing 
+			to risk saying yes.
+
+	Sisko's words hit home.  It's the final push that Varis's 
+	needs to take this next great step.
+
+					VARIS
+			Commander, I believe I know of an... 
+			opportunity... that could allow both 
+			sides to say yes.
+
+	That piques Sisko's interest.
+
+78
+thru   OMITTED
+80
+
+81   EXT. VILLAGE SQUARE - NIGHT
+
+	O'Brien (dressed as the Sirah), Bashir, Faren and Hovath 
+	approach the platform passing villagers bowed in meditation.
+
+					O'BRIEN
+				(out of the side of 
+				his mouth)
+			I thought you wanted this job.
+
+					HOVATH
+			I do.
+
+					O'BRIEN
+			Then why don't you fight for it.
+
+	But Hovath's mind is made up.
+
+					HOVATH
+			No, Faren is right.  The people will 
+			never accept me as Sirah and without 
+			their support, I could never control 
+			the Dal'Rok.
+
+					O'BRIEN
+			And you think I can?
+
+					HOVATH
+			You have to.
+
+	As they reach the steps...
+
+					BASHIR
+			Good luck.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      51.
+
+81   CONTINUED:
+
+	O'Brien mounts the steps as if on the way to a hanging.
+
+82   NEW ANGLE
+
+	As O'Brien reaches the platform, the wind begins kicking up.  
+	O'Brien is unsure how to proceed.  The crowd begins to grow 
+	restless.
+
+					CROWD
+			Speak... The story... Speak... Tell 
+			the story.
+
+	O'Brien looks to Faren, Hovath and Bashir.  No help there.  
+	Resigned to the fact that there's no way out, O'Brien 
+	addresses the crowd.
+
+					O'BRIEN
+				(ill-at-ease)
+			Once upon a time, there was a Dal'Rok.  
+			He lived there...
+				(points)
+			In the woods... and he hated the 
+			village... and all of the villagers... 
+			and wanted to see them destroyed.
+
+83   ANGLE THE SKY (OPTICAL)
+
+	The energy cloud appears in the distant sky.
+
+					CROWD
+			The Dal'Rok... it's here... the 
+			Dal'Rok.
+
+84   ANGLE BASHIR
+
+	Both impressed and curious.  Maybe O'Brien can actually pull 
+	this off.
+
+85   ANGLE O'BRIEN
+
+	feeling the pressure.
+
+					O'BRIEN
+			Yes... the Dal'Rok has arrived... 
+			and it's... it's...
+
+	O'Brien is at a loss for words.
+
+   DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE 52-53.      
+
+85A  ANGLE ON BASHIR
+
+	Silently rooting him on.
+
+85B  BACK TO O'BRIEN
+
+	No choice but to go for it.
+
+					O'BRIEN
+			...hungry.  But... the village is 
+			prepared to fight.
+
+86   ANGLE THE SKY (OPTICAL)
+
+	The Dal'Rok keeps coming.  But there's no sign of the 
+	sparkling energy lights.
+
+87   ANGLE BASHIR AND HOVATH
+
+					HOVATH
+			Something's wrong.
+
+					BASHIR
+			What's wrong is O'Brien's not the 
+			Sirah.  You are.
+
+88   ANGLE O'BRIEN
+
+	fiddling with the bracelet as he tries again.
+
+					O'BRIEN
+			The village is strong... and 
+			powerful... and unafraid... to face 
+			the Dal'Rok.
+
+89   ANGLE THE SKY (OPTICAL)
+
+	The lights still haven't made an appearance.  The Dal'Rok is 
+	almost overhead.
+
+90   ANGLE BASHIR AND HOVATH
+
+	The doctor is giving the kid the full court press.
+
+					BASHIR
+			Did you ever think maybe the Sirah 
+			planned all this?
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      54.
+
+90   CONTINUED:
+
+					BASHIR
+			He knew the villagers had lost 
+			confidence in you, so he chose O'Brien 
+			as his successor, knowing you'd have 
+			to rescue him.
+				(urgent)
+			Don't you see?  This is your chance 
+			to prove once and for all that you're 
+			the true Sirah.
+
+	As this sinks in with Hovath...
+
+91   ANGLE O'BRIEN
+
+	Eyes locked onto the Dal'Rok, still not ready to give up.
+
+					O'BRIEN
+			All right, let's really focus on this 
+			one and send the Dal'Rok a message... 
+			Okay, let's send that message...
+				(searches the sky)
+			Where the hell are those lights?
+
+92   ANGLE THE SKY (OPTICAL)
+
+	The Dal'Rok swipes at the air.
+
+93   ANGLE O'BRIEN (OPTICAL)
+
+	The impact knocks him to his knees.
+
+94   ANGLE PLATFORM
+
+	As the villagers panic, Bashir and Hovath race over to a 
+	dazed O'Brien and help him to his feet.
+
+95   ANGLE HOVATH
+
+	Hovath grabs the bracelet off O'Brien's wrist, puts it on, 
+	and addresses the crowd.
+
+					HOVATH
+			Wait, there's no need to run.  A new 
+			voice appears to challenge the 
+			Dal'Rok.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/11/93 - ACT FIVE      55.
+
+96   ANGLE THE SKY (OPTICAL)
+
+	Sure enough the sparkling energy light begins flying up toward 
+	the Dal'Rok.
+
+
+96A  ANGLE O'BRIEN AND BASHIR (OPTICAL)
+
+	reacting to the arrival of the lights.
+
+					O'BRIEN
+			It's about time.
+
+97   ANGLE THE PLATFORM
+
+	Hovath is gaining confidence by the second.
+
+					HOVATH
+			The Dal'Rok is a fearsome enemy.  
+			The mountains shake with its fury.  
+			But our prosperity is its misery.  
+			Our unity is its vulnerability.  Our 
+			strength is its doom.
+				(a beat)
+			Look... the Dal'Rok trembles.  It 
+			fears our strength.  It fears our 
+			determination.  It knows it cannot 
+			stand against us.
+
+98   ANGLE THE SKY (OPTICAL)
+
+	The lights close around the Dal'Rok, shutting it from view.  
+	A beat and then the energy display fades back into the night.
+
+99   ANGLE THE PLATFORM
+
+					HOVATH
+			There... see for yourselves, the 
+			Dal'Rok is defeated.  The village is 
+			safe for another year.
+
+					CROWD
+			The Sirah... Sirah.
+
+100  ANGLE O'BRIEN AND BASHIR
+
+	as the villagers cheer their new Sirah.  O'Brien removes the 
+	ceremonial robe and lays it on to the platform.  Then he 
+	grabs Bashir and leads him away.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/11/93 - ACT FIVE     55A.
+
+100  CONTINUED:
+
+					O'BRIEN
+			Let's get out of here before they 
+			change their minds.
+
+	Bashir doesn't need to be told twice.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      56.
+
+101  EXT. SPACE - DEEP SPACE NINE (OPTICAL) - DAY THREE
+
+102  OMITTED
+
+102A INT. PROMENADE - THE TURBOLIFT
+
+	The doors open and Sisko and Varis step out, on their way to 
+	another round of negotiations.
+
+					SISKO
+			Nervous?
+
+					VARIS
+			Not at all.
+				(admission)
+			Maybe a little.  Do you think Woban 
+			will accept my proposal?
+
+					SISKO
+			It's very possible.  It does give 
+			the Navot back their land.
+
+					VARIS
+			And free trade access to both sides 
+			of the river would mean a lot to my 
+			people.
+
+					SISKO
+				(smiling)
+			It's a reasonable compromise.
+
+102B ANGLE QUARK'S
+
+	Jake, Nog and Odo are waiting for them by the entrance.
+
+					JAKE
+				(to Varis)
+			We thought we'd wish you good luck 
+			with your meeting.
+
+					VARIS
+				(touched)
+			Thank you.
+
+	She leans over and kisses Nog on his cheek.
+
+					VARIS
+			For all your help.
+
+       DEEP SPACE: "The Storyteller" - REV. 2/04/93 - ACT FIVE      57.
+
+102B CONTINUED:
+
+	And if a Ferengi could blush, Nog would be beet red.
+
+103  NEW ANGLE
+
+	As Sisko leads Varis into the conference room, Odo places a 
+	hand on the boys' shoulders.
+
+					ODO
+			All right, let's go.  You two are going 
+			to clean the Security office until 
+			it shines.
+
+	The boys nod, ready to accept their fate.  He leads them 
+	away as we pick up...
+
+104  ANGLE O'BRIEN AND BASHIR
+
+	exiting the Promenade airlock, having just returned from 
+	Bajor.
+
+					BASHIR
+			You know Chief, this is going to 
+			make a fantastic story to tell around 
+			the station.
+
+					O'BRIEN
+			No thanks.  I've had my fill of 
+			storytelling for the time being.
+
+					BASHIR
+			Well, I hope you won't mind if I 
+			mention it.
+
+					O'BRIEN
+			Suit yourself... Julian.
+
+	Bashir nods.  But there's still one more pocket he needs to 
+	empty.
+
+					BASHIR
+			Oh, and Chief, on second thought, 
+			you don't really have to call me 
+			Julian.
+
+					O'BRIEN
+				(poker-faced)
+			Right you are... Sir.
+
+	And as they pass out of range, O'Brien lets slip a private 
+	(yet satisfied) grin.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

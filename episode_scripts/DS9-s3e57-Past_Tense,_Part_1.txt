@@ -1,0 +1,3082 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "Past Tense, Part I" 
+                 (fka "Cold & Distant Stars") 
+                          #40513-457 
+                              
+                           Story by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Teleplay by 
+                      Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Reza Badiyi 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        October 18, 1994
+
+      STAR TREK: DS9   "Past Tense, Part I"     10/19/94 -
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Past Tense, Part I" 
+                             CAST 
+
+          SISKO                    CHRIS
+
+          KIRA                     DANNY
+          ODO                      BELL
+          BASHIR                   B.C.
+          DAX                      BERNARDO
+          O'BRIEN                  WEBB
+          QUARK                    VIN
+                                   STAIRWAY GUARD
+                                   LEE
+                                   FEMALE GUEST
+                                   MALE GUEST
+                                   INTERFACE VOICE
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK DEEP SPACE NINE: "Past Tense, Part I" - 10/18/94 - SETS 
+             STAR TREK: DEEP SPACE NINE                    
+                     "Past Tense, Part I" 
+                             SETS 
+                              
+          INTERIORS                   EXTERIORS
+          DEFIANT                       SPACE/DEFIANT
+            BRIDGE                      SAN FRANCISCO --
+            TRANSPORTER ROOM            SANCTUARY DISTRICT "A"
+                                        ALLEY
+          PROCESSING CENTER             STREET
+            LEE'S CUBICLE               GATE
+            CHRIS'S OFFICE              APARTMENT BUILDING/
+                                        HALLWAY
+                                        PROCESSING CENTER
+
+  STAR TREK: "Past Tense, Part I" - 10/21/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Past Tense, Part I 
+                      PRONUNCIATION GUIDE 
+
+          ALDEBARON                al-DEB-uh-ron
+          BELONGO                  BEH-long-oh
+          CHRONITON                CRONE-eh-ton
+          DRAZMAN                  DRAHZ-man
+          KAZAKHSTAN               kah-zak-STAN
+          NGOMO                    un-GO-moe
+          PIANITIA                 plah-NIH-shee-uh
+          PROXIMA                  PROX-eh-mah
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - TEASER       1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                         "Past Tense, Part I"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE (OPTICAL)
+
+	The Defiant enters orbit around Earth.
+
+					SISKO (V.O.)
+			Commander's Log.  Stardate 48481.2.  
+			My senior staff and I have been asked 
+			to address the annual Starfleet 
+			Symposium on the current situation 
+			in the Gamma Quadrant.  I'm looking 
+			forward to the opportunity... and to 
+			visiting my sister in Portland.
+
+2    INT. DEFIANT - BRIDGE
+
+	SISKO, KIRA, O'BRIEN, DAX, BASHIR and ODO are on the bridge 
+	of the Defiant.  Dax is at the helm, Sisko is in the command 
+	chair.  The other crewmembers are scattered about the bridge 
+	along with N.D.s.
+
+					DAX
+			Entering Earth orbit.
+
+3    INCLUDE MAIN VIEWER (OPTICAL)
+
+	Which now displays a view of the Earth from space.  Sisko 
+	gets up out of his chair and looks at the globe 
+	appreciatively.
+
+					SISKO
+			Now there's something I never get 
+			tired of looking at.
+
+					DAX
+			If you ask me, the seas could be a 
+			little more purple.
+
+					KIRA
+			Funny, I was just thinking they 
+			weren't green enough.
+
+					BASHIR
+			I guess it's true what they say.  
+			"There's no place like home."
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/25/94 - TEASER       2.
+
+3    CONTINUED:
+
+					BASHIR
+				(to Kira and Dax)
+			No matter what color the water is.
+
+	Dax smiles in acknowledgement.  O'Brien's panel beeps.
+
+					O'BRIEN
+			Commander, I'm receiving an incoming 
+			emergency message...
+				(looks concerned)
+			It's from DS Nine.
+
+					SISKO
+			On screen.
+
+4    NEW ANGLE (OPTICAL)
+
+	As the view of Earth is replaced by the face of QUARK.
+
+					QUARK
+				(on Viewscreen)
+			Commander... am I glad to see you.
+
+					KIRA
+				(with disapproval)
+			This better be good, Quark.  You're 
+			on an emergency channel.
+
+					QUARK
+				(on Viewscreen)
+			I just received a message from the 
+			Grand Nagus.  He wanted me to remind 
+			you of the critical role he played 
+			in establishing contact with the 
+			Dominion.
+
+					SISKO
+			You can assure the Nagus his 
+			assistance will be mentioned 
+			prominently in my report to Starfleet.
+
+	But Quark doesn't look happy.
+
+					QUARK
+				(on Viewscreen)
+			There was one more thing, Commander.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/25/94 - TEASER       3.
+
+4    CONTINUED:
+
+					QUARK
+			It seems the Nagus's nephew Belongo 
+			is currently being held by Starfleet 
+			authorities on Aldebaron Three... a 
+			slight misunderstanding, I'm sure.
+
+					SISKO
+			A misunderstanding the Nagus no doubt 
+			would like cleared up.
+				(a beat)
+			I do owe him a favor.
+
+					QUARK
+			He thinks so too.  And to quote the 
+			one hundred and eleventh Rule of 
+			Acquisition...
+
+					SISKO
+			"Treat people in your debt like 
+			family... exploit them."
+				(off Quark's reaction)
+			I've been reading up.
+				(a beat)
+			Tell the Nagus that I'll do what I 
+			can, but remind him of the two hundred 
+			and seventeenth Rule of Acquisition.
+
+					QUARK
+			"You can't free a fish from water"
+				(smiles in approval)
+			I'll be sure the Nagus gets the 
+			message.
+
+	Quark ends the transmission.
+
+5    RESUME SCENE
+
+	As Sisko reacts with amusement.
+
+					DAX
+				(to Sisko)
+			We'd better get ready, Benjamin.
+				(off his reaction, 
+				reminding him)
+			Dinner, tonight.  With Admiral 
+			Drazman.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/27/94 - TEASER       4.
+
+5    CONTINUED:
+
+					O'BRIEN
+				(reacting to the name)
+			Not "Droner" Drazman?  The commander 
+			of the Proxima Maintenance Yards?
+
+	Sisko looks glum.  He's not looking forward to this dinner.
+
+					BASHIR
+				(to O'Brien)
+			You're more than welcome to come 
+			along.  The entire senior staff was 
+			invited.
+
+					O'BRIEN
+			Full dress uniforms... fine table 
+			linens... and a different fork for 
+			every course... thanks but no thanks.  
+			That's why I stayed an enlisted man.  
+			No one expects us to show up for 
+			formal dinners.
+
+					DAX
+				(to Kira and Odo)
+			Major, Constable, care to join us?
+
+					KIRA
+			No thanks.
+
+					ODO
+			I'd say this is strictly a Starfleet 
+			occasion.
+
+	Bashir looks disappointed.  He was hoping to spread the misery 
+	around a little.
+
+6    INT. DEFIANT - TRANSPORTER ROOM
+
+	Like all the facilities on the Defiant, this is a compact, 
+	yet efficiently designed room.  There's a smaller version of 
+	the standard Starfleet six-man pad and an operator's console.  
+	O'Brien takes his place at the console while Sisko, Bashir 
+	and Dax step onto the pad.
+
+					SISKO
+				(to Kira)
+			She's all yours, Major.
+				(to O'Brien)
+			Energize, Mister O'Brien.
+
+					O'BRIEN
+			Aye, sir.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - TEASER       5.
+
+6    CONTINUED:
+
+	O'Brien engages the transporter.
+
+7    NEW ANGLE (OPTICAL)
+
+	As Sisko, Dax, and Bashir beam out...
+
+					O'BRIEN
+			That's strange.
+
+	O'Brien calmly makes a small adjustment to the controls.
+
+					KIRA
+			What's wrong?
+
+					O'BRIEN
+				(as he works)
+			Nothing serious.  Just a power 
+			fluctuation in the annular confinement 
+			beam.
+				(something goes wrong)
+			Hold on.  That's impossible.
+
+					KIRA
+			What happened?
+
+					O'BRIEN
+			I stabilized the beam... but according 
+			to our sensors they never materialized 
+			at their destination.
+				(a beat)
+			They're just... gone.
+
+	And on Kira and O'Brien's worried expressions, we...
+
+									CUT TO:
+
+8    EXT. SAN FRANCISCO ALLEY - DAY #1
+
+	Sisko is laying unconscious on a sidewalk.  His combadge is 
+	missing from his uniform, as are his insignia pips.  Suddenly 
+	he's prodded in the ribs by a HIGH TECH POLICE SHOTGUN.  
+	These days it would be cutting edge technology, but by the 
+	early days of the twenty-first century it's standard issue.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/27/94 - TEASER       6.
+
+9    NEW ANGLE
+
+	As Sisko slowly regains consciousness to see a Police Officer, 
+	VIN, standing over him, poking him with the barrel of his 
+	shotgun.  Vin is a Sergeant, with twenty years on the force, 
+	gruff and jaded.
+
+					VIN
+			Look what we have here.
+
+	As Sisko stands up, a second police officer, BERNARDO, yanks 
+	Bashir to his feet.  Bernardo is younger and less experienced 
+	than Vin, and as a result, he's a little more affable and 
+	idealistic.  Both cops wear the uniforms of the Sanctuary 
+	District Police, which are less severe than the ones we're 
+	used to.
+
+					SISKO
+				(to Vin)
+			Who are you?
+
+					VIN
+			Who am I?
+				(to Bernardo)
+			Do you believe this?  Sleeping 
+			Beauty's asking me questions.
+
+					BERNARDO
+			Hey Vin, we've been working all 
+			night... why don't we forget these 
+			guys?  I just want to go home and 
+			see Sonya and the kids, and get some 
+			sleep.
+
+	Bashir holds his head.  He's having trouble standing and 
+	both he and Sisko are groggy and disoriented.
+
+					VIN
+			What are you, an anarchist?  There's 
+			a law against sleeping in the streets.
+
+	The cop looks from Sisko to Bashir, noticing the uniforms.
+
+					VIN
+			Though I do like the matching pajamas.
+				(to Sisko)
+			All right, let's see some logo.
+
+					SISKO
+			Logo?
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - TEASER       7.
+
+9    CONTINUED:
+
+					VIN
+			I.D.
+				(off reaction)
+			Identification.  UHC Card?  Transit 
+			pass?
+
+	Sisko looks around, trying to get his bearings.
+
+					BASHIR
+			Where are we?  What happened to 
+			Starfleet Headquarters?
+
+	Vin reacts to Bashir with disdain.
+
+					VIN
+				(to his partner, 
+				sarcastic)
+			Perfect.  Just what we need... two 
+			more dims.
+
+	Sisko finally realizes what's going on.
+
+					SISKO
+			Shotguns... those uniforms... There's 
+			something familiar about them.
+
+					VIN
+			Yeah, probably from the last time 
+			you were in a Sanctuary District.
+
+					SISKO
+				(recognizes the term)
+			Sanctuary District?
+				(to Vin)
+			What year is this?
+
+					BERNARDO
+			Same year it was yesterday... Twenty 
+			twenty-four.
+				(prods Bashir with 
+				his shotgun)
+			Let's go.
+
+					VIN
+			How do they find us?
+
+	The two cops escort Sisko and Bashir out into...
+
+10   EXT. SAN FRANCISCO STREET - DAY #1
+
+	This is not the San Francisco of today.  There are no cars 
+	on the street and no mailboxes.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - TEASER       8.
+
+10   CONTINUED:
+
+	The businessmen and women on the street are wearing 
+	clothing similar to that of the twentieth century, with enough 
+	small changes to let us know it's not our own time... We're 
+	somewhere in the early twenty-first century.
+
+	As the cops escort Sisko and Bashir away, we pull back to 
+	reveal...
+
+11   DAX
+
+	Also unconscious, lying just out of view in a subway 
+	stairwell.  Hold on her for a beat, then...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT ONE      9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE:  Episode credits fall over opening scenes)
+
+12   EXT. SAN FRANCISCO STREET - DAY #1
+
+	Dax is still unconscious.  A man's hand gently touches her 
+	neck to take her pulse.  The man, CHRIS BRYNNER, is about 
+	Dax's age, maybe a little older, well dressed and well 
+	groomed.  He looks concerned.  He puts his hand on her 
+	forehead to feel her temperature.
+
+	Dax's eyes flutter open.
+
+					CHRIS
+			Are you okay?
+
+	Dax sits up.  She immediately grabs her head and groans.
+
+					DAX
+			My head...
+
+					CHRIS
+			What happened... Did you get jacked 
+			or something?
+
+					DAX
+			Jacked?
+
+					CHRIS
+			You know, robbed?
+
+	Dax is starting to shake off some of the grogginess.  She 
+	gets up and looks around and realizes she definitely isn't 
+	where she should be.
+
+					CHRIS
+			Did they get your credit chips... 
+			your I.D.?
+
+					DAX
+				(playing along)
+			Looks like they got everything.
+
+	She checks for her combadge and is relieved to find it's 
+	still there.
+
+					DAX
+			Except my brooch.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT ONE     10.
+
+12   CONTINUED:
+
+					CHRIS
+			Where do you live?  Can you get home 
+			okay?
+
+					DAX
+			I just got here.  I was traveling 
+			with some friends... we got 
+			separated...
+
+					CHRIS
+				(concerned)
+			Well you shouldn't be walking around 
+			without I.D.
+				(makes a decision)
+			You'd better order replacements.
+
+					CHRIS
+				(trying to be helpful)
+			You can use my Interface terminal if 
+			you want.  My office is right around 
+			the corner.
+
+					DAX
+			That's very kind of you...
+
+	Dax trails off.  She doesn't know his name.
+
+					CHRIS
+			Chris.  Chris Brynner.
+
+					DAX
+			I'm Jadzia.
+
+					CHRIS
+			Pretty name.  What is it, Dutch?
+
+					DAX
+			Something like that.
+				(a beat)
+			Thanks for the help.
+
+					CHRIS
+			Don't mention it.  It's not everyday 
+			I get to rescue a damsel in distress.
+
+	And as they walk away down the street...
+
+									CUT TO:
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT ONE     11.
+
+13   INT. DEFIANT - TRANSPORTER ROOM
+
+	O'Brien and an N.D. crewmember are working on the transporter 
+	equipment.
+
+					O'BRIEN
+			Check the Heisenberg compensators.  
+			I'll run a level-one diagnostic of 
+			the pattern buffer, see if there's 
+			any kind of field imbalance.
+
+	The N.D. nods and exits.  O'Brien immediately begins running 
+	tests on the transporter controls.  Kira ENTERS.
+
+					KIRA
+			Chief.
+
+					O'BRIEN
+				(still working)
+			Any news from Starfleet?
+
+					KIRA
+			Nothing good.  As far as they can 
+			tell, Commander Sisko and the others 
+			never materialized in San Francisco.  
+			According to their sensors, our 
+			transporter signal disintegrated 
+			immediately after we began the beam 
+			out sequence.
+
+					O'BRIEN
+				(still working)
+			That doesn't agree with our records.  
+			The system log shows that the 
+			transport was completed successfully.  
+			They definitely materialized 
+			somewhere.
+
+					KIRA
+			That's good news, anyway.  The 
+			question is... where?
+
+					O'BRIEN
+			I wish I knew.  Whatever the answer 
+			is, it's not in the log.  The only 
+			thing unusual it recorded was the 
+			variance in the annular confinement 
+			beam...
+
+					KIRA
+			But you corrected for that..
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT ONE     12.
+
+13   CONTINUED:
+
+					O'BRIEN
+				(still working)
+			It was a simple adjustment.  The 
+			beam was just reacting to the 
+			accumulation of chroniton particles 
+			in the ship's hull.
+
+
+					KIRA
+			Chroniton particles?
+
+					O'BRIEN
+				(still at work)
+			They're emitted by the cloaking 
+			device.  Sometimes they become lodged 
+			in the ship's ablative armor matrix.
+
+					KIRA
+			But we've used the transporter many 
+			times since the cloaking device was 
+			installed.  There's never been a 
+			problem before.
+
+					O'BRIEN
+			And I don't know why it would be a 
+			problem now.
+
+	O'Brien sees something on the transporter control readouts 
+	that puzzles him.
+
+					O'BRIEN
+			Wait a minute.
+				(a beat)
+			It looks like there was a surge of 
+			temporal energy a few seconds before 
+			the initiation of the transporter 
+			sequence.
+
+					KIRA
+				(hopeful)
+			Tell me that's a clue.
+
+					O'BRIEN
+			It's a clue all right.  I'm just not 
+			sure what it means yet.
+
+14   EXT. SAN FRANCISCO - SANCTUARY DISTRICT GATE -
+	DAY #1 
+
+	Sisko and Bashir are now standing in front of an 
+	imposing wall that separates two areas of the city.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT ONE     13.
+
+14   CONTINUED:
+
+	There's a gate in the wall to let in pedestrians.  Vin is 
+	logging in with the Security District Police Officer who's 
+	manning the gate while Bernardo keeps an eye on Sisko and 
+	Bashir.
+
+					BASHIR
+				(to Sisko)
+			How do you feel?
+
+					SISKO
+			Better.
+
+					BASHIR
+			Me too.  Probably transporter shock.  
+			Disorienting, but it wears off 
+			quickly.
+				(a beat)
+			At least I know one thing... we're 
+			definitely in San Francisco.  I caught 
+			a glimpse of the Golden Gate Bridge 
+			a few blocks back.
+
+					SISKO
+				(nods)
+			I saw it too.
+
+	Bashir's hand unconsciously goes to his chest, where his 
+	combadge would be.
+
+					BASHIR
+			Any idea what happened to our 
+			combadges?
+
+					SISKO
+			They must've been stolen when we 
+			were unconscious.
+
+	Off Bashir's reaction as he realizes that's probably what 
+	happened.
+
+					SISKO
+			This isn't the Earth we're used to, 
+			Doctor.  That's still at least a 
+			century away.
+				(worried)
+			I wish I knew what happened to Dax.
+
+					BASHIR
+			She was in the transporter beam with 
+			us.  Whatever affected us must've 
+			affected her too.
+
+					SISKO
+			That means she's probably somewhere 
+			nearby.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT ONE     14.
+
+14   CONTINUED:	(2)
+
+					SISKO
+				(a beat)
+			As soon as we get a chance, we've 
+			got to find her.
+
+					BASHIR
+			And then what?
+
+	What Bashir's really asking is how do we get out of this.  
+	Sisko doesn't have an answer, but he has the quiet confidence 
+	to know that given time, he'll find one.
+
+					SISKO
+			And then... we find a way home.
+
+	Vin finishes his business at the gate and signals Bernardo.  
+	Bernardo glances at his watch, and frowns.  He gestures for 
+	Sisko and Bashir to walk toward the gate.
+
+					BERNARDO
+				(to Sisko and Bashir)
+			Okay, let's go.  Hurry it up.
+				(to himself)
+			Sonya's gonna kill me.
+
+	The cops escort Sisko and Bashir through the Pedestrian Gate 
+	and into...
+
+15   EXT. SANCTUARY DISTRICT "A" - STREET - DAY #1
+	(OPTICAL)
+
+	Sisko and Bashir ENTER a street lined by dirty, 
+	dilapidated buildings, with boarded up windows and 
+	impromptu campsites set up in the doorways and 
+	stairwells.  It's a sharp contrast to the relatively 
+	clean city outside.  The street is crowded with poorly 
+	dressed homeless men, women, and children, of all ages 
+	and races, many standing in a long food line.
+
+	Once they're through the gate, Bernardo pulls Vin aside to 
+	try to convince Vin to finish processing Sisko and Bashir 
+	without his help.  This exchange takes place in the background 
+	and we don't have to hear it.
+
+16   ANGLE ON SISKO AND BASHIR
+
+	As they react to the utter poverty that surrounds them.
+
+					BASHIR
+			What is this place?
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT ONE     15.
+
+
+16   CONTINUED:
+
+					SISKO
+			A Sanctuary District.
+
+	Bashir looks questioningly at Sisko.  The term means nothing 
+	to him.
+
+					BASHIR
+			I'm afraid twenty-first century 
+			history isn't one of my strong suits.  
+			Too depressing.
+
+					SISKO
+			It's always been a hobby of mine.  
+			They made some ugly mistakes, but 
+			they also paved the way for a lot of 
+			the things we take for granted.
+
+					BASHIR
+			I assume this was one of the mistakes.
+
+					SISKO
+			A bad one.  By the early twenty-
+			twenties there was a place like this 
+			in every major city in the United 
+			States.
+
+					BASHIR
+			But why are these people in here?  
+			Are they criminals?
+
+					SISKO
+			No.  People with criminal records 
+			weren't allowed in the Sanctuary 
+			Districts.
+
+					BASHIR
+			Then what did they do to deserve 
+			this?
+
+					SISKO
+			Nothing.  They're just people.  People 
+			without jobs or places to live.
+
+					BASHIR
+				(shocked)
+			So they get put in here?
+
+					SISKO
+			Welcome to the twenty-first century.
+
+        DEEP SPACE: "Past Tense, Pt. I" - 10/18/94 - ACT ONE        16.
+
+16   CONTINUED:	(2)
+
+	Behind them, Bernardo finally wins the argument and EXITS, 
+	leaving Vin to take care of Sisko and Bashir.
+
+					VIN
+			Shall we?
+
+	Vin nudges Bashir with his shotgun and gestures down the 
+	street.  Sisko nods for him to cooperate and the two of them 
+	walk with Vin into the streets of the Sanctuary.
+
+	And as they are swallowed up by the crowd of homeless men 
+	and women, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT TWO     17.
+                            ACT TWO                             
+
+	FADE IN:
+
+17   INT. CHRIS'S OFFICE - DAY #1
+
+	Chris's penthouse office is decorated in hi-tech, 
+	ultramodern, twenty-first century style.  There's a desk, a 
+	conference table, several plants, and a million-dollar view 
+	of the bay out the windows.
+
+	There's a conspicuous absence of filing cabinets or papers 
+	of any kind.  Instead, the desk and each position at the 
+	conference table is equipped with a 
+	videophone/computer/television that allows the user to access 
+	the Interface.
+
+18   INCLUDE DAX (VPB)
+
+	Who's working at an additional Interface terminal in a sitting 
+	area by the window.  Several half empty boxes of Chinese 
+	take-out are scattered around a nearby coffee table.  Dax 
+	operates the computer by means of an electronic stylus, 
+	touching controls on the screen itself to enter commands, 
+	open files, etc.
+
+19   NEW ANGLE
+
+	As Chris ENTERS the office.
+
+					CHRIS
+			Sorry to keep you waiting.  Were you 
+			able to order new I.D.?
+
+	Dax taps in a few last commands with the stylus.
+
+					DAX
+			Just finished.  It took a little 
+			while to convince them I was who I 
+			said I was.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/25/94 - ACT TWO     18.
+
+19   CONTINUED:
+
+					DAX
+			They'll be expressing me a new transit 
+			pass and a couple of credit chips in 
+			a few hours.  I asked them to send 
+			it here.  I hope you don't mind.
+
+					CHRIS
+			No problem.
+
+					DAX
+			Thanks... for letting me use your 
+			terminal... and your account.
+
+	Dax takes a credit chip out of the computer and hands it to 
+	Chris.  Chris just smiles and takes the chip.  He's staring 
+	at Dax's head.
+
+					CHRIS
+			Glad I could help.
+				(re: her Trill markings)
+			You know... those are really... 
+			unusual.
+
+					DAX
+			You mean...
+				(covering)
+			My tattoos?
+
+					CHRIS
+			It's amazing work.  Where'd you get 
+			them done... Japan?
+
+					DAX
+				(playing along)
+			How'd you guess?
+
+					CHRIS
+			I used to have one myself.  A Maori 
+			tribal pattern.  All the way down my 
+			arm.  Got it in high school... back 
+			in the nineties... just like everybody 
+			else.
+				(frowns)
+			But I had to have it removed.  You 
+			know how it is.  To get the government 
+			contracts, you have to look just 
+			like the rest of the drones.
+				(down)
+			I guess that makes me a sell-out.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/25/94 - ACT TWO     19.
+
+19   CONTINUED:	(2)
+
+	Dax isn't following every word of this, but she gets the 
+	gist of it.
+
+					DAX
+			Not necessarily.  What kind of 
+			business do you do?
+
+					CHRIS
+			You don't know?
+				(Dax shakes her head)
+			I've got to talk to my public 
+			relations people.
+				(gestures to the 
+				computer)
+			I'm Chris Brynner... of Brynner 
+			Information Systems.  You know... 
+			Interface Operations... Net Access... 
+			Channel Ninety...
+
+	Dax can tell this is supposed to mean something, so she fakes 
+	familiarity.
+
+					DAX
+			You're that Chris Brynner?
+
+	Chris smiles.  He's glad she knows who he is after all.
+
+					CHRIS
+			So what do you think?  Am I a sell-
+			out or not?
+
+					DAX
+			Probably.  But I won't hold it against 
+			you.
+
+					CHRIS
+			So, these friends you told me about... 
+			Is there any way you can get a hold 
+			of them?
+
+					DAX
+			I wish I could.
+
+	Though Dax is trying to keep up a carefree front, this time 
+	the worry shows through.
+
+20   INT. PROCESSING CENTER - DAY #1
+
+	We come in CLOSE on Sisko's hand as it is scanned by a Xerox 
+	machine-like computer scanner.
+
+	PULL BACK TO REVEAL:
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT TWO     20.
+
+21   SISKO AND BASHIR
+
+	Getting the twenty-first century equivalent of fingerprints 
+	and mug shots.  They're in the Processing Center, the 
+	administrative headquarters of Sanctuary District "A."  It's 
+	a converted DMV office, and it's even more understaffed now 
+	than it was then.
+
+					VIN
+			Other hand.
+
+	Sisko holds out his other hand.  Vin grabs it and uses the 
+	scanner to enter his prints into the computer.
+
+22   INCLUDE THE MONITOR (VPB)
+
+	Of a twenty-first century computer, very similar in design 
+	to the one's in Brynner's office.  Right now the Monitor is 
+	displaying Sisko's handprints.  Vin enters some commands 
+	with his electronic stylus.  The computer responds verbally.  
+	When it speaks, it's with a different voice than the computers 
+	we're used to.  It's more artificial sounding and possibly 
+	male.
+
+					INTERFACE VOICE
+			Welcome to SafeTech's fingerprint 
+			database.  your government discount 
+			has been accepted.  Remember our new 
+			retinal scan services, now accessible 
+			on Channel One-Seventy-Eight.
+
+					VIN
+				(to himself)
+			Yeah, yeah.  Save the commercials.
+
+	Vin taps in a series of commands.
+
+					INTERFACE VOICE
+			We're sorry... but the fingerprints 
+			you have provided are not on record.
+
+					VIN
+			No I.D., no fingerprint records, no 
+			Interface account.  It's like you 
+			two don't exist.
+
+					BASHIR
+			Since we don't exist, why not let us 
+			go?
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT TWO     21.
+
+22   CONTINUED:
+
+					VIN
+			Let's see, you don't have any I.D., 
+			you don't have any money, and you're 
+			both dressed like clowns.  You figure 
+			it out.
+
+	Vin takes out two clipboards and attaches a stack of forms 
+	to each one.  He hands them to Sisko and Bashir.
+
+					VIN
+				(reciting from memory)
+			"Please fill out these forms.  Answer 
+			all the questions to the best of 
+			your ability.  If you cannot speak 
+			English an interpreter will be 
+			provided.  If you cannot read, the 
+			questions can be given verbally.  If 
+			there is any part of this form you 
+			do not understand, please ask one of 
+			our staff for assistance."
+				(a beat)
+			Now sit down, shut up, and fill out 
+			the forms.  And if you've got any 
+			problems, don't come to me with them.
+
+	Sisko and Bashir exchange a look.  This is definitely not 
+	what they're used to.
+
+23   INT. DEFIANT - BRIDGE
+
+	O'Brien ENTERS the bridge and finds Kira standing by the 
+	Conn, talking to an N.D.
+
+					KIRA
+			Tell Admiral Ngomo I appreciate her 
+			offer, but I don't want anyone beaming 
+			onto this ship until we know what's 
+			going on.  If they want to come up 
+			by shuttle, that's fine.
+
+					O'BRIEN
+				(excited)
+			Major.
+
+	Kira turns toward O'Brien.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT TWO     22.
+
+23   CONTINUED:
+
+					O'BRIEN
+			I think I know what happened to 
+			Commander Sisko and the others.  The 
+			temporal surge we detected was caused 
+			by the explosion of a microscopic 
+			singularity  passing through this 
+			solar system.  Somehow, the energy 
+			emitted by the singularity shifted 
+			the chroniton particles in our hull 
+			into a high state of temporal 
+			polarization.
+
+					KIRA
+			Which means what?
+
+					O'BRIEN
+			Which means that the transporter 
+			beam was redirected when it passed 
+			through the polarized particles.
+
+					KIRA
+			Redirected where?
+
+					O'BRIEN
+			Not "where."  When.  The beam was 
+			redirected through time, not space.  
+			They arrived in San Francisco, just 
+			like they were supposed to...
+
+					KIRA
+			But not when they were supposed to.  
+			How much time are we talking about?  
+			Days?  Weeks?
+
+					O'BRIEN
+			More like centuries.
+
+	As Kira reacts to this...
+
+24   INT. PROCESSING CENTER - DAY #1
+
+	Sisko is sitting on a bench with several homeless men and 
+	women.  All the other people in his area of the Processing 
+	Center seem to be mentally ill in one way or other.  The 
+	bench is part of a line which stretches out the door.  Sisko 
+	is waiting patiently, filling out some kind of form, but 
+	Bashir is at the front of the line, complaining to Vin, who 
+	is still on duty...
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT TWO     23.
+
+24   CONTINUED:
+
+					BASHIR
+			This is ridiculous.  We've been 
+			waiting here for three hours and the 
+			line's barely moved at all.
+
+	Vin cradles his shotgun in his arms and leans against the 
+	wall in a relaxed position.  But in spite of his relaxed 
+	pose, he's a professional, constantly scanning the room for 
+	signs of trouble.
+
+					VIN
+			I got one word for you pal... plenty 
+			of overtime.
+
+					BASHIR
+			That's three words.
+
+					VIN
+			Hey, for a dim, you're pretty smart.  
+			Now get back in line.
+
+	While Bashir and Vin are talking, something catches Sisko's 
+	eye.  It's a digital WALL CALENDAR displaying the date "8-30-
+	24." Sisko looks at the calendar for a long beat, then looks 
+	outside.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT TWO     24.
+
+25   NEW ANGLE
+
+	As Bashir joins Sisko.
+
+					BASHIR
+				(quietly; re: the 
+				Dims)
+			Commander, these people are mentally 
+			ill.  They need proper medical 
+			treatment.
+
+					SISKO
+			I know.  But they're not going to 
+			get it.  Not now anyway.
+
+	Bashir picks up on Sisko's mood.
+
+					BASHIR
+			What is it?
+
+					SISKO
+			That calendar over there... It says 
+			today is August thirtieth, twenty-
+			twenty-four.
+
+					BASHIR
+			I'm not sure what you...
+
+					SISKO
+				(cuts him off)
+			Ever hear of the Bell Riots?
+
+					BASHIR
+				(thinking)
+			Vaguely.
+
+	Sisko nods.  He wasn't really expecting Bashir to recognize 
+	the name.
+
+      DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT TWO     25.
+
+25   CONTINUED:
+
+					SISKO
+			It was one of the most violent civil 
+			disturbances in American history.  
+			And it happened right here.  San 
+			Francisco, Sanctuary District "A," 
+			the first week of September, twenty-
+			twenty-four.
+
+					BASHIR
+			That's only a few days from now.
+
+					SISKO
+			Which means if we don't get out of 
+			here soon, we're going to be caught 
+			right in the middle of it.
+
+	And as Bashir reacts to Sisko's news, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    26.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. PROCESSING CENTER - CONTINUOUS
+
+	Bashir looks around at all the people waiting in the 
+	Processing Center.
+
+					BASHIR
+				(to Sisko, quietly)
+			So just how bad is this riot going 
+			to be, Commander?
+
+					SISKO
+			Bad.  The Sanctuary residents will 
+			take over the District.  Some of the 
+			guards will be taken hostage.  In 
+			the end, the government will send in 
+			troops to restore order.  Hundreds 
+			of Sanctuary residents will be killed.
+
+					BASHIR
+				(shocked)
+			Hundreds.
+				(shakes his head)
+			And there's nothing we can do to 
+			prevent it.
+
+	It's a statement of fact, not a question.  Bashir shakes his 
+	head grimly.
+
+					BASHIR
+				(continues)
+			Starfleet's temporal displacement 
+			policy may sound good in a classroom.  
+			But to know that hundreds of people 
+			are going to die, and not to be 
+			allowed to even try to save them...
+
+					SISKO
+			I sympathize, Doctor.  But if it 
+			makes you feel any better, the Riots 
+			will be one of the watershed events 
+			of the twenty-first century.
+				(a beat)
+			Gabriel Bell will see to that.
+
+					BASHIR
+			Bell?
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    27.
+
+26   CONTINUED:
+
+					SISKO
+				(nods)
+			The man they named the Riots after.  
+			He was one of the Sanctuary residents 
+			who'll be guarding the hostages.  
+			The government troops will storm 
+			this place, based on rumors that the 
+			hostages have been killed.
+				(a beat)
+			But it'll turn out that the hostages 
+			were never harmed.  Because of Gabriel 
+			Bell.  In the end, Bell will sacrifice 
+			his own life to save them.  He'll 
+			become a national hero.  Outrage 
+			over his death, and the death of the 
+			other residents, will change public 
+			opinion about the Sanctuaries.  
+			They'll be torn down and the United 
+			States will finally begin correcting 
+			the social problems it had struggled 
+			with for over a hundred years.
+
+					BASHIR
+			All because of what's going to happen 
+			here in a few days.
+
+					SISKO
+			Which means if we warn these people 
+			about what's coming, if we try to 
+			help them in any way, we risk altering 
+			a pivotal moment in history.  And we 
+			can't let that happen.
+
+	As much as he doesn't like it, Bashir knows Sisko is right.
+
+27   NEW ANGLE
+
+	As Vin notices something off camera.
+
+					VIN
+				(to Sisko and Bashir)
+			Hey, I hate to break up this intimate 
+			conversation, but you're next.
+
+28   INT. PROCESSING CENTER - LEE'S CUBICLE - DAY #1
+
+	Sisko and Bashir are being interviewed by a Public Health 
+	official in a small semi-private cubicle.
+
+ DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE 28-29.    
+
+28   CONTINUED:
+
+	LEE, the official, is well-meaning, but underpaid, 
+	undersupported, and overworked.  Unlike Chris, she's still 
+	using paper.  Her desk is covered with the stuff.
+
+	Lee studies both of them.
+
+					SISKO
+			Is something wrong?
+
+					LEE
+			Well, according to these forms, you're 
+			supposed to be dims.  But you're 
+			not, are you?
+
+					SISKO
+			I hope you're not disappointed.
+
+					LEE
+			Pleasantly surprised is more like 
+			it.
+				(a beat)
+			I guess I owe you an apology.  If 
+			I'd known you were gimmies, I could've 
+			processed your application much 
+			sooner.
+
+					BASHIR
+			Gimmies?
+
+					SISKO
+			They're American slang terms.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    30.
+
+28   CONTINUED:	(2)
+
+					LEE
+				(embarrassed)
+			I try not to use them, but it's a 
+			bad habit.
+				(to Bashir)
+			Gimmies are people like you... people 
+			looking for help... a job, a place 
+			to live.
+
+					BASHIR
+			And what about the dims... Don't 
+			they need help?
+
+					LEE
+			The dims should be in hospitals.  
+			But the government can't afford to 
+			keep them there, so we get them 
+			instead.
+				(a beat)
+			I don't like it, but that's the way 
+			it is.
+				(consults forms)
+			I see here that you both just arrived 
+			in San Francisco.  Do you have any 
+			jobs lined up?
+
+					BASHIR
+			No.  We weren't really planning on 
+			being here that long.
+
+					LEE
+			Have you got a place to stay?  Or 
+			anyone who can vouch for you?
+
+					SISKO
+			We were traveling with a friend... 
+			but we were separated right after we 
+			arrived.
+
+					LEE
+			Do you have any way of contacting 
+			this friend of yours?
+
+					SISKO
+			Not at the moment.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    31.
+
+28   CONTINUED:	(3)
+
+					LEE
+			In that case, I'm afraid you'll have 
+			to stay here in the Sanctuary for 
+			the time being.
+
+					BASHIR
+			You mean we can't leave?
+
+					LEE
+			It's for your own safety.
+
+					SISKO
+				(skeptical)
+			Really.
+
+					LEE
+			And it's the law.
+
+					SISKO
+			And what about jobs?  How are we 
+			supposed to find work and a place to 
+			stay if we're stuck in here?
+
+					LEE
+			One of the services we provide is 
+			job placement.
+
+					SISKO
+			And how long does that usually take?
+
+	Lee looks very uncomfortable.
+
+					LEE
+			I wish I could give you a definite 
+			answer.  But right now jobs are hard 
+			to come by... what with the economy 
+			and all...
+				(a beat)
+			My advice is to be patient.
+
+	There's an awkward silence, then Lee takes two plastic cards 
+	out of her desk.  She gives one to each of them.
+
+					LEE
+			In the meantime, take these.
+				(they take the cards)
+			They're your ration cards.  You can 
+			use them to get food and water at 
+			any of the distribution points in 
+			the district.  Hang on to them.
+
+					BASHIR
+			And where are we supposed to stay 
+			while we're here?
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    32.
+
+28   CONTINUED:	(4)
+
+					LEE
+			Anywhere you like.  The buildings in 
+			the district are there for everyone 
+			to use.
+
+	In other words, they're on their own.
+
+					SISKO
+			Thanks for all your help.
+
+	Sisko and Bashir head for the door.
+
+					LEE
+			One more thing... a little advice.  
+			Stay away from District Security.  
+			They've had their budget cut again.  
+			They're overworked and underpaid...
+				(trails off)
+			Just give them a lot of space.
+				(a beat)
+			And watch out for ghosts.
+
+					BASHIR
+			Ghosts?
+
+					LEE
+			That's what we call people who haven't 
+			integrated well into the Sanctuary.  
+			They can be dangerous; they tend to 
+			prey on other residents.
+
+					SISKO
+				(means it this time)
+			Thanks for the warning.  We'll stay 
+			out of their way.
+
+	Sisko and Bashir EXIT.  Lee watches them go.  She feels for 
+	them, but she tries not to let it get to her.
+
+29   INT. CHRIS'S OFFICE - NIGHT #1
+
+	Dax is alone in Chris's office.  She's trying to contact 
+	Sisko and Bashir over her combadge.  From her expression, it 
+	appears she's been at it for a while.
+
+					DAX
+			Dax to Sisko... Dax to Bashir... If 
+			you can hear me, please respond...
+
+	There's no answer.  Chris ENTERS.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    33.
+
+29   CONTINUED:
+
+					CHRIS
+			Okay, my assistant was able to get 
+			you a room at the Clift for the next 
+			five nights.
+
+					DAX
+			You didn't have to do that.
+
+					CHRIS
+				(smiles)
+			I know.  But I wanted to.
+				(a beat)
+			So what are your plans?
+
+					DAX
+			I still have to find my friends.
+
+					CHRIS
+			Well, I hope you don't mind, but I 
+			had Britt do some checking.  No one 
+			matching their descriptions has been 
+			admitted into any of the City's 
+			hospitals or trauma wards.
+
+					DAX
+			That's good news.
+
+	There's an awkward beat between them.
+
+					CHRIS
+			Look, I'd like to know how this all 
+			turns out.  I'm having a little get-
+			together tomorrow, here in the office.  
+			You're welcome to come if you want... 
+			you and your friends.
+
+					DAX
+			I'd like that.
+
+	Dax starts getting ready to leave.
+
+					CHRIS
+			Well, good luck.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT THREE    34.
+
+29   CONTINUED:	(2)
+
+					DAX
+			Thanks.  I could use it.
+
+	Dax EXITS.
+
+30   EXT. SANCTUARY DISTRICT "A" APARTMENT BUILDING -
+	NIGHT #1
+
+	Sisko and Bashir walk up the stairs toward a tenement 
+	style apartment building.  Their way is blocked at the 
+	top of the stairs by three burly-looking homeless men.  
+	These are gimmies, people just trying to protect their 
+	families and friends inside the building.
+
+					STAIRWAY GUARD
+			You can't come in here.
+
+					BASHIR
+			We're just looking for someplace to 
+			sleep.
+
+					STAIRWAY GUARD
+			Look someplace else.
+
+	From Bashir's expression, it's evident they've run into this 
+	response more than once today.
+
+					BASHIR
+			Let me guess.  This building's full.
+
+					STAIRWAY GUARD
+			Sorry.
+
+	Bashir looks back at Sisko.  He doesn't want to back down, 
+	but he knows he shouldn't push it.
+
+31   NEW ANGLE
+
+	As the two of them head off down the street together.  The 
+	street is poorly lit and poorly maintained.  People are 
+	sleeping in doorways, stairwells, any place they can find 
+	shelter from the cold.
+
+	They walk by several people camped in a doorway.  One of 
+	them, an African American about Sisko's size and age, nods a 
+	wordless greeting.  Though there's no way they can know it, 
+	this is GABRIEL BELL.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 11/01/94 - ACT THREE    35.
+
+31   CONTINUED:
+
+					BASHIR
+			Every building we go to, it's the 
+			same story.  They can't all be full.
+
+					SISKO
+			Don't be so sure.  One of the main 
+			complaints against the Sanctuary 
+			Districts was overcrowding.  It got 
+			to the point where they didn't care 
+			how many people were in here.  They 
+			just wanted to keep them out of sight.
+
+	Bashir and Sisko walk by a dim, who is sitting on a curb, 
+	gently rocking back and forth.  Bashir glances at the dim 
+	and shakes his head.
+
+					BASHIR
+			And once they were out of sight, 
+			what then?
+				(re: the Dim)
+			Look at him.  There's no need for 
+			that man to live like that.  With 
+			the right medication, he could lead 
+			a full and normal life.
+
+					SISKO
+			Maybe in our time...
+
+					BASHIR
+			Not just in our time.  There were 
+			any number of effective treatments 
+			for schizophrenia, even in this day 
+			and age.  They could cure that man 
+			now... today... if they gave a damn.
+
+					SISKO
+			It's not that they don't give a damn, 
+			Doctor.  It's that they've given up.  
+			The social problems facing them seem 
+			too enormous to deal with.
+
+					BASHIR
+			That only makes it worse.  Causing 
+			people to suffer because you hate 
+			them is terrible... but causing them 
+			to suffer because you've forgotten 
+			how to care... that's even harder to 
+			understand.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 11/01/94 - ACT THREE   35A.
+
+31   CONTINUED:	(2)
+
+					SISKO
+			They'll remember.  It'll take 
+			time, and it won't be easy, but 
+			eventually people in this century 
+			will remember how to care.
+
+					BASHIR
+			But it makes you wonder, doesn't it?  
+			Are humans really any different than 
+			Cardassians... or Romulans?  If push 
+			came to shove, if something disastrous 
+			happened to the Federation, and we 
+			got frightened enough, or desperate 
+			enough, how would we react?  Would 
+			we stay true to our ideals... or 
+			would we just end up... here... right 
+			back where we started?
+
+					SISKO
+			I don't know.  But as a Starfleet 
+			officer, it's my job to make sure we 
+			never have to find out.
+
+	They round the corner and come upon a group of GHOSTS, who 
+	are in the middle of beating up on a confused-looking dim.  
+	The ghosts are tough-looking and better fed and dressed than 
+	the rest of the people on the street, the top of the food 
+	chain.  They throw the dim to the pavement.
+
+	B.C., the leader of this particular group of Ghosts, is a 
+	wiry, tightly wound man in his late twenties.
+
+						B.C.
+					(to another ghost)
+			Get his food card.
+
+	The dim, who's had the wind knocked out of him by the fall, 
+	tries to huddle up and protect himself.
+
+32   ANGLE ON SISKO AND BASHIR
+
+	Looking in shock and revulsion at what's going on.  Sisko 
+	can tell that Bashir wants to intervene, but holds him back 
+	with a look.
+
+					SISKO
+				(sotto voice)
+			Remember, Doctor, we can't interfere.
+
+	B.C. looks over and sees the look on Bashir's face.
+
+					B.C.
+			You got a problem?
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/27/94 - ACT THREE    36.
+
+32   CONTINUED:
+
+					SISKO
+			No problem.
+
+					B.C.
+			You look upset.
+				(with mock apology)
+			If we've offended you in any way, 
+			please tell us so we can be sure not 
+			to do it again.
+
+					SISKO
+			Don't worry about us.  We're new 
+			here.
+
+					B.C.
+			I never would've guessed.  Let me 
+			be the first to welcome you.
+
+	He tips his hat.
+
+					B.C.
+				(re: the dim)
+			Would you like a piece of this?
+
+					BASHIR
+			No thanks.
+
+					B.C.
+				(to his colleagues)
+			Gimmies... no sense of fun.
+
+					SISKO
+			We're just looking for a place to 
+			sleep.
+
+					B.C.
+			In that case, you better look 
+			somewhere else... newboy.
+
+					SISKO
+				(to Bashir)
+			You heard him.  Let's go.
+
+	Sisko and Bashir back away.
+
+					B.C.
+				(calling after them)
+			Enjoy your stay... in a few days 
+			you'll feel right at home.
+
+	One of the other ghosts rummages through the dim's clothing 
+	and takes his food card.  The street scene is eerie and 
+	nightmarish.  And despite the dim's whimpers, no one moves 
+	to help him.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     37.
+                           ACT FOUR                             
+
+	FADE IN:
+
+33   INT. DEFIANT - BRIDGE
+
+	O'Brien is at the Engineering station, briefing Kira and Odo 
+	on a possible way to retrieve Sisko, Dax, and Bashir.
+
+					ODO
+			So in theory, we should be able to 
+			travel into the past by focusing the 
+			transporter beam through the polarized 
+			chroniton particles.
+
+					O'BRIEN
+			The problem is, we don't know where 
+			in time Sisko and the others are.  
+			I've narrowed it down to a dozen 
+			different possibilities.  But we 
+			only have enough polarized chronitons 
+			to make five or six attempts.
+
+					KIRA
+			We'll have to take our chances.  
+			Pick the most likely time periods 
+			and send a team down with tricorders 
+			to find them.
+				(she smiles)
+			The hard part will be finding a couple 
+			of volunteers crazy enough to risk 
+			getting lost in time to do the job.
+
+	O'Brien looks at Kira.
+
+					O'BRIEN
+				(smiles)
+			I think I know some likely candidates.
+
+	Odo looks back and forth between the two of them.
+
+34   EXT. SANCTUARY DISTRICT "A" - DAY #2
+
+	Bashir's asleep on the sidewalk, huddled up against the wall.  
+	Sisko gently shakes his shoulder and wakes him up.
+
+	Bashir gets up with a groan.  His muscles are sore from 
+	sleeping on the concrete.  Both of them look like they could 
+	use a shave, a shower, and a clean uniform.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT FOUR    37A.
+
+34   CONTINUED:
+
+					BASHIR
+			If we get home, I promise not to 
+			complain about the station's 
+			Cardassian beds ever again.
+
+	Bashir looks around.  The streets are deserted, except for a 
+	scattering of dims.
+
+					BASHIR
+				(continuing)
+			Where is everybody?
+
+					SISKO
+			In the food lines, waiting for 
+			breakfast.
+				(hands Bashir a plate 
+				of scrambled eggs)
+			It's not much to look at, but it's 
+			better than nothing.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT FOUR    37B.
+
+34   CONTINUED:	(2)
+
+	Bashir looks at the eggs.  There's no fork on the plate.
+
+					SISKO
+				(continuing)
+			Oh yeah, sorry.  They were out of 
+			utensils.
+				(ironic)
+			And napkins.
+
+					BASHIR
+			Why am I not surprised?
+
+	He begins eating the eggs with his fingers.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     38.
+
+34   CONTINUED:	(3)
+
+					SISKO
+			When you're done eating, I think we 
+			should try to get up on the roof of 
+			one of these buildings.  I want a 
+			better look at this place.
+
+					BASHIR
+			Do you think there's a way out?
+
+					SISKO
+			If there is, we'll find it.
+
+35   EXT. SANCTUARY DISTRICT "A" APARTMENT BUILDING -
+	DAY #2
+
+	Sisko and Bashir return to the building where they were 
+	turned away the night before.  There's a new group of 
+	guards on the stairs, but the guards from the night 
+	before are sitting nearby, eating their breakfasts.  
+	The head Stairway Guard spots Sisko and Bashir 
+	approaching the building.
+
+					STAIRWAY GUARD
+			Not you two again.  I told you, we 
+			don't have any room.
+
+					SISKO
+			We're not looking to stay.  All we 
+			want is to go up on the roof and 
+			take a look around.
+
+					STAIRWAY GUARD
+			It doesn't matter what you want.  
+			You can't come in.  We've got to 
+			protect what's ours.
+
+					BASHIR
+			Look, maybe we can make a deal.  
+			Isn't there something we can trade 
+			to get access to your building?
+
+					STAIRWAY GUARD
+			I don't know.  What do you have to 
+			offer?
+
+	There's a beat as Sisko and Bashir realize they don't really 
+	have anything.
+
+					STAIRWAY GUARD
+				(continuing)
+			That's what I thought.  Maybe you 
+			should try another building.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     39.
+
+35   CONTINUED:
+
+	Bashir and Sisko start to leave, but one of his companions 
+	whispers something to the Stairway Guard, who calls after 
+	them.
+
+					STAIRWAY GUARD
+			Hey, wait a minute.
+				(they turn back)
+			Maybe we can make a deal after all.
+
+36   INT. APARTMENT BUILDING HALLWAY - DAY #2
+
+	Sisko and Bashir picking their way through an ill-lit hallway 
+	inside the tenement building.  Neither one of them is wearing 
+	their uniform anymore.  They're exchanged clothing with the 
+	stairway guards outside.
+
+					SISKO
+				(re: the clothes)
+			Well at least now we look like we 
+			belong here.
+
+					BASHIR
+			Yeah, and we smell just as bad as 
+			everyone else.
+
+	Sisko smiles at Bashir's attempt to make light of their 
+	situation.
+
+					SISKO
+			The stairwell must be around here 
+			somewhere.
+
+	They round a corner and...
+
+37   NEW ANGLE
+
+	... and run into a homeless man (WEBB) tending to an injured 
+	teenage boy (DANNY).  But as soon as he catches a glimpse of 
+	Sisko and Bashir in the darkened hallway, Webb spins around 
+	and points a knife at them.
+
+					WEBB
+			Stay away from him.
+
+					SISKO
+			Whatever you say.  Just put the knife 
+			down.
+
+	Webb is a man in his mid-forties.  He's a gimmie who still 
+	has hope that things will get better.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     40.
+
+37   CONTINUED:
+
+	He tries to make himself look presentable; his clothes 
+	are wrinkled but basically clean.  He's clean shaven and his 
+	hair looks messy, but clean.  There's something solid and 
+	reassuringly middle-class about him, the kind of guy you'd 
+	want on your side.  He studies Bashir and Sisko for a beat, 
+	then...
+
+					WEBB
+			Step into the light.  So I can see 
+			you.
+
+	Bashir steps forward into a beam of light.  Webb sees his 
+	face and relaxes a little.
+
+					SISKO
+			We're new here.  We're just trying 
+			to get up to the roof... get a better 
+			look at this place.
+
+					WEBB
+			Believe me, it doesn't look any better 
+			from up there.
+
+	The teenage boy feels a twinge and moans.
+
+					DANNY
+				(weak)
+			Dad...
+
+	Webb decides he can trust Sisko and Bashir.  He puts away 
+	the knife and goes to tend to his son.
+
+					WEBB
+			It's going to be okay...
+
+38   CLOSE ON BASHIR
+
+	As he watches Webb try to make his son more comfortable.
+
+					BASHIR
+			What happened?
+
+					WEBB
+			He got beaten up by some ghosts.
+
+	Bashir kneels down next to the boy.  Danny's shirt is cut up 
+	and bloody.
+
+					WEBB
+				(continuing)
+			My wife went to get help, but there's 
+			only one doctor on duty at the 
+			Processing Center.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     41.
+
+38   CONTINUED:
+
+					BASHIR
+			Why don't you let me take a look?  I 
+			know a bit about medicine.
+
+					SISKO
+			Julian...
+
+	Bashir takes Sisko aside so they can talk in private.
+
+					BASHIR
+			It can't hurt just to look.
+
+	A beat, then Sisko nods his consent.  Bashir returns to 
+	Danny's side.  He carefully unbuttons and pulls aside the 
+	boy's blood-soaked shirt, then examines the wounds.
+
+					BASHIR
+			Looks like you were lucky.  No broken 
+			ribs and these cuts are mostly 
+			superficial.  You're going to be 
+			okay.
+				(to Webb)
+			You're going to need some clean rags 
+			and something to disinfect the wounds.  
+			Alcohol will do.
+
+	Webb nods gratefully.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     42.
+
+38   CONTINUED:	(2)
+
+					WEBB
+			I think I can get some.
+
+	Webb goes to get the items Bashir needs.
+
+					SISKO
+				(quietly, to Bashir)
+			Looks like we made a friend.
+
+93   EXT. SANCTUARY DISTRICT "A" APARTMENT BUILDING -
+	DAY #2
+					
+	Sisko and Bashir emerge from the building.  Webb 
+	follows them out.
+
+					WEBB
+			You know, the District could use 
+			another doctor.
+
+					BASHIR
+			I don't really practice anymore.
+
+					WEBB
+			But there are people here who need 
+			you.
+
+					BASHIR
+			I'm sorry.  They'll have to get along 
+			without me.
+
+	Webb looks disappointed.
+
+					WEBB
+			I know you two are new here, so let 
+			me explain something to you.  You 
+			can forget about getting out of here 
+			any time soon.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     43.
+
+39   CONTINUED:
+
+					WEBB (Cont'd)
+			This is your home now.  The only 
+			help we're going to get is from each 
+			other.  If we don't start pulling 
+			together, we're finished.
+
+					SISKO
+			All we want is to be left alone.
+
+					WEBB
+			My mistake.  I thought you wanted to 
+			get out of here.
+
+					BASHIR
+			We do.
+
+					WEBB
+			Well the only way that's going to 
+			happen is for us to get organized 
+			and let people on the outside know 
+			what's going on in here.
+
+					SISKO
+			Do whatever you want.  But leave us 
+			out of it.
+
+					WEBB
+			If you want to be left alone, that's 
+			fine with me.  But if you want to 
+			help us, and help yourselves, you 
+			know where to find me.
+
+	Webb turns and walks away.  Sisko and Bashir exchange a look.  
+	They know Webb is a good man, and they want to help, but 
+	their hands are tied.
+
+40   INT. CHRIS'S OFFICE - DAY #2
+
+	Chris is hosting a cocktail party/sales presentation for 
+	some of his more important clients.  His office is full of 
+	PARTY GUESTS, well-dressed corporate bigwigs and their 
+	significant others.
+
+	Dax is standing off to one side, watching the crowd.  She's 
+	wearing new twenty-first century clothing, but she's still 
+	got her combadge on.
+
+					MALE GUEST
+			Our sea floor mining project is almost 
+			ready to go into operation.
+
+	The Pan-Caribbean government had some misgivings, but I think 
+	we've won them over.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     44.
+
+40   CONTINUED:
+
+					MALE GUEST
+				(a beat)
+			I hear you just came back from 
+			Christchurch?
+
+					CHRIS
+			Yeah.  Did a little skiing on Mount 
+			Cook.
+
+					FEMALE GUEST
+			You're lucky.  We had to cancel our 
+			trip to the Alps this year because 
+			of the student protests in France.
+
+					CHRIS
+			I thought the Neo-Trotskyists were 
+			going to put a stop to that.
+
+					FEMALE GUEST
+			They're not having any more luck 
+			that the Gaullists did.
+
+					MALE GUEST
+			Europe's falling apart.
+
+					FEMALE GUEST
+			Well, at least we don't have to worry 
+			about that kind of thing here.
+
+					DAX
+			Don't count on it.
+
+					CHRIS
+			You'll have to excuse Jadzia's 
+			cynicism.  She got mugged yesterday.  
+			That kind of thing's bound to give 
+			you a negative impression of the 
+			future.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     45.
+
+40   CONTINUED:	(2)
+
+					FEMALE GUEST
+			So who mugged you?  Did you see them?
+
+	Dax shakes her head.
+
+					DAX
+			It doesn't really matter.  I'm just 
+			glad I wasn't hurt.
+
+					CHRIS
+			Whoever it was did a thorough job.  
+			They took everything she had, even 
+			her I.D.
+
+					FEMALE GUEST
+			Really?  Everything.
+
+	Dax nods.
+
+					DAX
+			Chris came to my rescue.  He let me 
+			use his computer to get replacement 
+			I.D.
+
+					MALE GUEST
+			You're lucky the police didn't find 
+			you first.  If they'd caught you on 
+			the street without I.D., you might've 
+			ended up in a Sanctuary District.
+
+					FEMALE GUEST
+			I thought they stopped doing that.
+
+					MALE GUEST
+			Why would they?  It's the only way 
+			to keep those people off the streets.
+
+	During the above exchange, Dax takes Chris's arm.
+
+					DAX
+			Excuse us for just a minute.
+
+	The Guests nod politely and Dax leads Chris away.
+
+41   ANGLE ON DAX AND CHRIS
+
+	As they talk in private.
+
+					DAX
+			Is that true?
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     46.
+
+41   CONTINUED:
+
+					CHRIS
+			What?
+
+					DAX
+			About taking people without I.D.  to 
+			a Sanctuary District.
+
+					CHRIS
+			Of course... why?
+
+
+					DAX
+			I still haven't found my friends.
+
+					CHRIS
+			And you think they might be in a 
+			Sanctuary District?
+
+					DAX
+			It's possible.  If you hadn't found 
+			me, I might've wound up in one.  Can 
+			we check and see if they're inside?
+
+					CHRIS
+			That might take some doing.  Sanctuary 
+			District Records aren't posted on 
+			the Net.
+				(a beat)
+			But, maybe I can pull in a few 
+			favors...
+
+	Dax smiles at him.
+
+									CUT TO:
+
+42   EXT. SANCTUARY DISTRICT "A" - NIGHT #2
+
+	Sisko and Bashir are in line for food with a number of other 
+	District Residents.  Both of them look cold, hungry, and 
+	miserable.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT FOUR     47.
+
+42   CONTINUED:
+
+					BASHIR
+			And I thought the replimat lines 
+			were bad.  By the time we get dinner, 
+			it'll be time for breakfast.
+
+	Bashir looks down the line, which bends around a corner not 
+	far from them.
+
+					BASHIR
+				(continuing)
+			You'd think before they locked 
+			thousands of people into a twenty 
+			square block area, they'd give some 
+			thought to how they're all supposed 
+			to stay fed.
+
+					SISKO
+			I'll go see how much longer the line 
+			is.
+
+43   CLOSE ON BASHIR
+
+	As Sisko goes to check on dinner, Bashir warms his hands on 
+	one of several trash can fires scattered around the line.  A 
+	group of ghosts approach him from behind.  It's B.C. and his 
+	friends.
+
+	B.C.
+
+	Hey, gimmie.
+
+	Bashir, who has no idea they're talking to him, continues 
+	warming his hands.  B.C. grabs him by the shoulder and turns 
+	him around.
+
+					B.C.
+			I'm talking to you, gimmie.
+
+	Bashir looks down at B.C.'s hand on his shoulder.
+
+        DEEP SPACE: "Past Tense, Pt. I" - 10/18/94 - ACT FOUR       48.
+
+43   CONTINUED:
+
+					B.C.
+			Let me see your food card.
+
+					BASHIR
+			What for?
+
+					B.C.
+			Because I said so.
+
+	But before Bashir can decide whether or not to cooperate...
+
+44   INCLUDE SISKO
+
+	Who has returned from his scouting expedition.
+
+					SISKO
+			Let him go.
+
+	B.C. and his men turn toward Sisko.
+
+					B.C.
+				(can't believe someone's 
+				standing up to him)
+			What?
+
+					SISKO
+			I said, let him go.
+
+					B.C.
+			Well, when you put it that way...
+
+45   NEW ANGLE
+
+	As B.C. releases Bashir, then spins and punches Sisko.  Bashir 
+	goes to Sisko's defense, and soon the two of them are fighting 
+	B.C. and four of his ghost flunkies.
+
+	The crowd in the line scatters.  Though Sisko and Bashir are 
+	far better fighters than B.C. and his men had anticipated, 
+	numbers tell, and Sisko and Bashir are soon in trouble.
+
+	But to everyone's surprise, one of the bystanders weighs in 
+	on Sisko and Bashir's side, decking a ghost who is trying to 
+	strangle Bashir.  It's Gabriel Bell.
+
+					BELL
+			Leave them alone.
+
+	Bell, who is a large, strong man, turns the tide, and it 
+	looks like Sisko and Bashir are going to be okay, when...
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     49.
+
+46   CLOSE ON B.C.
+
+	B.C. draws a homemade knife and stabs Bell.  Bell falls.
+
+					B.C.
+				(to one of his men)
+			Get his card.
+
+	As one of the ghosts begins searching Bell, B.C. spins toward 
+	Sisko, who is struggling with another Ghost.  But to B.C.'s 
+	surprise...
+
+47   BASHIR
+
+	Kicks the knife out of his hands.
+
+48   NEW ANGLE
+
+	As the shiv slides across the street, Sisko finishes off his 
+	opponent.  B.C. sees that the tide is turning against him.  
+	He signals his friends and B.C. and the other ghosts retreat.  
+	Bashir goes to help Bell, then hesitates for a beat, and 
+	looks up at Sisko.
+
+					SISKO
+				(urgent)
+			Help him.  He wouldn't have gotten 
+			hurt if it wasn't for us.
+
+	Bashir begins CPR.  But he isn't having much success.
+
+					BASHIR
+			Breathe, damn you.  Breathe.
+
+	Bashir works hard to revive Bell, but he knows it's no use 
+	and eventually stops.  Bashir looks at Sisko and shakes his 
+	head.
+
+					BASHIR
+			He's gone.
+
+	Sisko sees Bell's discarded food card, which the ghost dropped 
+	in his hasty retreat, and picks it up.  He reacts at what he 
+	sees.
+
+	In the distance, we can hear the cops getting closer.
+
+					SISKO
+			Come on.  We've got to get out of 
+			here.
+
+	But Bashir is still stunned by Bell's unexpected death.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FOUR     50.
+
+48   CONTINUED:
+
+					SISKO
+			Doctor.  Let's go.
+
+	Sisko pulls Bashir to his feet and the two of them retreat 
+	from the scene.
+
+49   EXT. SANCTUARY ALLEY - NIGHT #2
+
+	Sisko and Bashir reach the safety of a seclude alley.  Bashir 
+	looks around the corner for pursuit, but there isn't anyone 
+	following them.
+
+					BASHIR
+			No sign of the police.
+
+					SISKO
+			Right now, they're the least of our 
+			worries.
+				(off Bashir's reaction)
+			That man... the one who got killed 
+			trying to help us...
+
+	Sisko gives Bashir the food card.
+
+					SISKO
+			That was Gabriel Bell.
+
+	And as Bashir reacts to this dire news, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT FIVE     51.
+                           ACT FIVE                             
+
+	FADE IN:
+
+50   INT. DEFIANT - BRIDGE
+
+	Major Kira enters wearing nondescript civilian clothing (like 
+	the stuff she wore in "THE HOMECOMING").  She has a combadge 
+	on and she's carrying a shoulder satchel containing a 
+	tricorder.
+
+	She approaches O'Brien, who is also wearing civilian clothing 
+	from "THE HOMECOMING."
+
+					KIRA
+			All right Chief, let's get over to 
+			the transporter room before we change 
+			our minds.
+
+					O'BRIEN
+			Too late, Major.  It looks like 
+			Starfleet's changed our minds for 
+			us.
+				(off Kira's reaction)
+			I just got a message from Admiral 
+			Wright of Starfleet Command.  
+			Headquarters thinks our plan's too 
+			risky.  They're afraid that while 
+			we're searching for Sisko and the 
+			others, we might contaminate the 
+			timeline.
+
+					KIRA
+			Get me Admiral Wright.
+
+					O'BRIEN
+				(smiles)
+			I had a feeling you'd say that.
+
+	O'Brien goes to the console and taps in some commands.
+
+					O'BRIEN
+			That's odd.
+
+					KIRA
+			What is it?
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT FIVE    51A.
+
+50   CONTINUED:
+
+					O'BRIEN
+			I'm not getting any response from 
+			Starfleet.
+
+50A  NEW ANGLE
+
+	As Odo ENTERS, looking concerned.
+
+					ODO
+			Is there something wrong with our 
+			communications array?  I was just 
+			speaking to Starfleet Security when 
+			my com-line went dead.
+
+					O'BRIEN
+				(checking panel)
+			There's nothing wrong on our end.  
+			Everything checks out fine.
+
+					KIRA
+			It could be interference on the com 
+			channels.  Try a wide band subspace 
+			signal.
+
+					O'BRIEN
+			Still nothing.
+				(a beat)
+			Maybe if I direct it toward one of 
+			the Federation communications 
+			satellites in Earth orbit...
+
+	O'Brien trails off.  He looks more worried that ever.
+
+					ODO
+			What is it, Chief?
+
+					O'BRIEN
+			They're not there.  The entire Earth 
+			satellite network... it's gone.
+
+					KIRA
+			The spacedocks?  The orbital habitats?
+
+					O'BRIEN
+			All of it.  The Utopia Planitia yards 
+			on Mars, the terraforming stations 
+			on Venus... Starfleet Headquarters.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE    51B.
+
+50A  CONTINUED:
+
+					O'BRIEN
+				(a beat)
+			I can't detect a single sign of 
+			Starfleet activity anywhere in this 
+			sector.
+
+					KIRA
+			Try a non-Federation frequency.
+
+					O'BRIEN
+			The only subspace signals I'm 
+			detecting are coming from the vicinity 
+			of Alpha Centauri...
+				(a beat)
+			And they're Romulan.
+
+					KIRA
+			That's impossible.
+
+					ODO
+			Do you think Sisko and the others 
+			might've somehow altered the timeline?
+
+					O'BRIEN
+			They must've.
+
+					KIRA
+			Then why weren't we affected?
+
+					O'BRIEN
+			I'm not sure...
+				(thinks a beat)
+			Maybe... maybe when it exploded, the 
+			singularity that polarized the 
+			chroniton particles created some 
+			kind of subspace bubble around the 
+			ship... isolated it from the changes 
+			in the timeline.  I'd have to run 
+			tests to be sure.
+				(a beat)
+			But one thing's for certain, right 
+			now this ship is all that's left of 
+			Starfleet.
+
+	And as this sinks in...
+
+51   EXT. SANCTUARY ALLEY - NIGHT #2
+
+	As before.  Sisko and Bashir struggle with the repercussions 
+	of Bell's death.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/20/94 - ACT FIVE    51C.
+
+51   CONTINUED:
+
+					BASHIR
+			If I could've gotten him to a 
+			hospital, or even if I'd had a medical 
+			kit, I might've been able to save 
+			him.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE     52.
+
+51   CONTINUED:	(2)
+
+					SISKO
+			You did all you could, Doctor.
+
+					BASHIR
+			But it wasn't enough, was it?  A 
+			good man died today... because of 
+			us.
+				(a beat)
+			And what about the hostages?  What's 
+			going to happen to them?
+
+					SISKO
+			Without Bell, there's a good chance 
+			those hostages are going to die.
+
+					BASHIR
+			And if that happens, who knows how 
+			it'll affect the future.
+
+	Sisko, who's been thoughtful throughout the scene, comes to 
+	a decision.
+
+					SISKO
+			We have to save them.  Whatever it 
+			takes, we have to make sure those 
+			hostages survive.
+
+	Bashir nods.  He's with Sisko all the way.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE     53.
+
+
+52   INT. APARTMENT BUILDING - DAY #3
+
+	It's the next morning.  Sisko and Bashir are talking to Webb.  
+	We join them in mid-conversation.
+
+					WEBB
+			I thought you didn't want to get 
+			involved.
+
+					SISKO
+			We changed our minds.
+
+	Webb takes their measure for a beat, then...
+
+					WEBB
+			Glad to hear it.  We can use all the 
+			help we can get.
+				(a beat)
+			This place is about to explode.  
+			Most of us agreed to live here because 
+			they promised us jobs.  I don't know 
+			about you, but I haven't been on any 
+			job interviews lately.  And neither 
+			has anyone else.  They've forgotten 
+			about us.
+
+					SISKO
+			So what do we do?
+
+					WEBB
+			We make them remember.  The day after 
+			tomorrow, we're going to hold a rally 
+			outside the Processing Center.  I 
+			want everyone to be there.  Gimmies, 
+			ghosts... even the dims.  We've got 
+			to remind the people outside that we 
+			haven't done anything wrong... that 
+			we're not criminals... and that we 
+			don't deserve to live like this.
+
+					SISKO
+			We'll spread the word.
+
+					WEBB
+			Good.
+				(an afterthought)
+			One more thing.  Tell people when 
+			they come to the rally to bring their 
+			families, their kids, and try to 
+			look their best.  After all, we're 
+			not derelicts.  No matter what they 
+			say about us.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE     54.
+
+52   CONTINUED:
+
+					SISKO
+				(smiles and rubs his 
+				chin)
+			I could probably use a shave myself.
+
+					BASHIR
+			Not to mention a bath.
+
+	Webb smiles, and Sisko and Bashir smile back.
+
+53   INT. CHRIS'S OFFICE - DAY #3
+
+	Chris ENTERS.  Dax is waiting.
+
+					CHRIS
+			You were right.  Your friends are in 
+			Sanctuary District "A."
+
+					DAX
+			When can we get them out?
+
+					CHRIS
+			It might not be that easy.  First 
+			the Sanctuary personnel have to find 
+			them.  There are something like ten 
+			thousand people in there...
+
+					DAX
+			Did they say how long it'll take?
+
+					CHRIS
+			They're not sure.  But don't worry.  
+			Your friends are fine.  That's the 
+			whole point of the Sanctuary.  To 
+			give people in trouble food and a 
+			place to stay.
+
+	Dax looks troubled.
+
+					DAX
+			If that's all it's for, then why is 
+			there a wall around it?
+
+	That's one question Chris doesn't have an answer for.
+
+54   EXT. SANCTUARY STREET - NIGHT #3
+
+	Bashir and Sisko are walking through the street, talking to 
+	the District residents.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE     55.
+
+54   CONTINUED:
+
+	Both Sisko and Bashir have managed to shave and clean up 
+	their clothing a little.
+
+					BASHIR
+				(to a Gimmie)
+			Two days... in front of the Processing 
+			Center.  Spread the word.
+
+	The gimmie nods and walks away.  Sisko is nearby, talking to 
+	a woman and her family.
+
+					SISKO
+			Please, try and be there.  And tell 
+			everyone you know.
+
+	Sisko and Bashir join up.
+
+					BASHIR
+			We must've talked to five hundred 
+			people today.
+
+					SISKO
+			That leaves about nine thousand to 
+			go.
+
+	Just then we hear an outburst of noise... yelling, scattered 
+	gunshots, and the sound of breaking glass.
+
+55   NEW ANGLE
+
+	Bashir and Sisko barely have time to exchange a look, when 
+	suddenly the street, which a moment ago had been quiet, is 
+	suddenly flooded with people running helter-skelter.
+
+	Danny, Webb's son, comes running down the street.  He looks 
+	scared.  Sisko catches him.
+
+					SISKO
+			Whoa.  Slow down.  What's going on?
+
+					DANNY
+			One of the guards got into a fight 
+			with a dim.  Everyone's going crazy.  
+			I've got to find my dad.
+
+	Danny runs off into the crowd.  Sisko looks over to Bashir.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE     56.
+
+56   EXT. OUTSIDE THE PROCESSING CENTER - NIGHT #3
+
+					(OPTICAL)
+			Sisko and Bashir struggle to get 
+			through the crowd of people, most of 
+			whom are just trying to get to safety.
+
+	Not far away, a bunch of residents are beating up a guard.  
+	It's Bernardo.  One of the attackers grabs Bernardo's shotgun 
+	and runs off past Sisko.
+
+	Sisko wrestles the shotgun away from the attacker.  He pumps 
+	the shotgun and fires down into a burning trash can.
+
+	The noise scares the people beating up Bernardo, and they 
+	scatter.
+
+57   NEW ANGLE
+
+	Sisko marches over and grabs Bernardo by the collar.
+
+					SISKO
+			Come on.  We've got to get you off 
+			the street.
+
+	Bernardo is too dazed to even know what's happening.  Sisko 
+	and Bashir help Bernardo stagger into...
+
+58   INT. THE PROCESSING CENTER - NIGHT #3
+
+	B.C. and several other ghosts and gimmies have taken over 
+	the center.  The place is trashed.  Lee and three other 
+	hostages are gathered together by one of the cubicles.  B.C. 
+	and two of the ghosts have shotguns.  The other hostage takers 
+	have impromptu weapons.
+
+					B.C.
+			Everybody, hands on your heads and 
+			face the wall.
+
+					LEE
+			You can't do this.
+
+					B.C.
+
+			I can do whatever I want.  Now...
+
+	B.C. shoves Lee hard into the wall.
+
+					B.C.
+
+			Against the wall.
+
+					SISKO (O.S.)
+			That's enough.
+
+     DEEP SPACE: "Past Tense, Pt. I" - REV. 10/19/94 - ACT FIVE     57.
+
+59   NEW ANGLE
+
+	Sisko ENTERS, followed by Bashir, who's supporting Bernardo.  
+	Distracted, B.C. turns his attention away from the hostages 
+	and looks at Sisko.  The fact that Sisko has a shotgun isn't 
+	lost on B.C.
+
+					B.C.
+			Look who's here.  Way to show 
+			initiative, Newboy.
+					(re: Bernardo)
+			Throw him back there with the rest 
+			of our... guests.
+
+					BASHIR
+			What the hell do you think you're 
+			doing?
+
+					B.C.
+			I think I'm a making a political 
+			statement.  Maybe if we're lucky, 
+			we can even stage a nice photo op.
+					(sarcastic)
+			I hope that meets with your 
+			approval.
+
+60   CLOSE ON SISKO
+
+	As he considers the situation.  Whether this is how things 
+	were supposed to happen or not, hostages have been taken and 
+	the riots begun.  Sisko knows what he has to do.
+
+					SISKO
+				(to Bashir)
+			Do as he says.
+
+	Bashir escorts Bernardo to the rest of the hostages.
+
+					B.C.
+				(to all)
+			All right!  I've been waiting a long 
+			time for this.  I know it's going to 
+			be worth it.
+				(to Sisko)
+			Ain't that right, newboy?
+
+					SISKO
+			The name's Bell.  Gabriel Bell.
+
+        DEEP SPACE: "Past Tense, Pt. I" - 10/18/94 - ACT FIVE       58.
+
+	Bashir sees that the die is cast and he and Sisko join 
+	the ranks of the ghosts.
+
+61   CLOSE ON B.C
+
+	Who smiles.  Things are going even better than he expected.
+
+
+62   CLOSE ON SISKO AND BASHIR
+
+	As they stand with the ghosts, committed to repairing the 
+	past regardless of the cost.  Hold on the two of them for a 
+	beat, then...
+
+									FADE OUT.
+
+	SUPER:		TO BE CONTINUED
+                        END OF ACT FIVE                         
+                            THE END                             

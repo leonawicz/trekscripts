@@ -1,0 +1,3204 @@
+
+
+STAR TREK: DEEP SPACE NINE 
+                              
+                          "Sanctuary" 
+                          #40512-430 
+                              
+                           Story by 
+                   Gabe Essoe & Kelley Miles 
+                              
+                          Teleplay by 
+                      Frederick Rappaport 
+                              
+                          Directed by 
+                          Les Landau 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        October 8, 1993
+
+        STAR TREK: DS9 - "Sanctuary" - 10/08/93 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Santuary" 
+                             CAST 
+
+          SISKO                    HANEEK
+          KIRA                     HAZAR
+          ODO                      MINISTER ROZAHN
+          QUARK                    VARANI
+          BASHIR                   VAYNA
+          DAX                      VEDEK SORAD
+          O'BRIEN                  COWL
+          JAKE                     GAI
+          NOG                      PILOT'S COM VOICE
+
+          Non-Speaking             Non-Speaking
+          MORN                     
+          N.D. SUPERNUMERARIES     
+
+         STAR TREK: DS9 - "Santuary" - 10/08/93 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Sanctuary" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          COMMANDER'S OFFICE            
+          CORRIDOR                      
+          DOCKING RING CORRIDOR         
+          DOCKING RING AIRLOCK          
+          INFIRMARY                     
+          OPS                           
+          PROMENADE/SECOND LEVEL        
+          QUARK'S                       
+          REPLIMAT                      
+          GUEST QUARTERS                
+
+    STAR TREK: DS9 - "Sanctuary" - 10/12/93 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Santuary" 
+                      PRONUNCIATION GUIDE 
+
+          BOLKA                    BOWL-ka
+          MAAZA                    MAY-zuh
+          CRESHNEE                 kresh-NEE
+          DRAYLON                  DRAY-lon
+          HANEEK                   hah-NEEK
+          HAZAR                    HAY-zar
+          JALANDA                  juh-LAN-duh
+          KENTANNA                 ken-TANN-a
+          MARDAH                   MAR-duh
+          ROZAHN                   row-ZON
+          SAFALLA                  suh-FALL-uh
+          SKRREEA                  SKREE-uh
+          SORAD                    sor-ODD
+          TIROGORANS               Tuh ROG-or-RANS
+          TRILAR                   TRY-lar
+          TUMAK                    TWO-mak
+          VARANI                   vuh-RON-ee
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                             "Sanctuary"                               
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. COMMANDER'S OFFICE
+
+	SISKO is seated at his desk studying a PADD when KIRA 
+	ENTERS...
+
+					KIRA
+				(somewhat frazzled)
+			You wanted to see me, Commander?
+
+					SISKO
+				(non-accusatory)
+			Actually, what I'd like to see is 
+			next month's duty roster...
+
+					KIRA
+				(holds hands up; in 
+				control)
+			You'll have it on your desk first 
+			thing in the morning...
+
+					SISKO
+			That's what you said yesterday.
+
+					KIRA
+			I know, but I spent all day 
+			yesterday...
+
+					SISKO
+				(finishing her sentence)
+			... talking to Minister Rozahn about 
+			irrigating the Trilar Peninsula.
+
+					KIRA
+				(genuinely surprised)
+			How did you know?
+
+					SISKO
+				(smiles)
+			Major, it's hard to keep a secret in 
+			Ops... especially when you've been 
+			shouting at a monitor for the last 
+			two days...
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             2.
+
+1    CONTINUED:
+
+					KIRA
+				(slightly embarrassed)
+			I thought I was keeping it to an 
+			angry whisper...
+
+					SISKO
+			Let's just say your voice carries.
+
+					KIRA
+			Everytime I talk to one of the 
+			ministers I promise myself I won't 
+			lose control.  But then they give me 
+			some stupid bureaucratic excuse why 
+			something isn't getting done, and I 
+			get so... so...
+
+					SISKO
+				(completing her 
+				sentence)
+			Frustrated.
+
+					KIRA
+			Commander, I'm way beyond 
+			frustrated... Bajor's in trouble...
+				(simply)
+			I just want to help.
+
+					SISKO
+			I can understand that, and I 
+			sympathize.  As far as I'm concerned 
+			you can yell at the provisional 
+			government all you want... as long 
+			as it doesn't interfere with your 
+			duties here on the station.
+
+					KIRA
+			You're right.  I'll get on that report 
+			right away.
+
+					SISKO
+			I'll look forward to reading it.
+
+1A   INT. OPS
+
+	O'BRIEN at his station, supernumeraries as needed.  Kira 
+	comes out of the Commander's Office.
+
+					O'BRIEN
+			Quark's been looking for you... he 
+			says it's urgent...
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER            2A.
+
+1A     CONTINUED:
+
+					KIRA
+				(sarcastically)
+			Perfect.
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             3.
+
+2    INT. QUARK'S
+
+	The ususal crowd is in attendance, though they're not behaving 
+	in the usual way.  A respectful silence fills the room as 
+	both customers and employees listen to an aged Bajoran 
+	(VARANI) playing a strange, woodwind instrument.  The 
+	soothing, almost sad SOUNDS coming from the instrument have 
+	put everyone into a dreamy, reflective state... everyone, 
+	that is, except QUARK.  From behind the bar, Quark loads a 
+	tray with drinks, then finds his SERVER ignoring him, 
+	captivated instead by the evocative "music."  Quark has to 
+	CLEAR HIS THROAT LOUDLY to get the server's attention.  He 
+	hastily picks up the tray and moves off.
+
+	Quark turns to MORN, who's sitting at the bar, also hypnotized 
+	by Varani's playing.  Morn reaches up and wipes a tear away 
+	from the corner of his eye.  Quark leans over and glares at 
+	him... he can't believe it... Morn's tear is the final straw!  
+	Quark comes out from behind the bar and starts to beeline 
+	toward Varani when Kira appears, grabs him by the arm, and 
+	swings him back to the bar...
+
+					KIRA
+			I hear you've been trying to get in 
+			touch with me...
+
+					QUARK
+				(upset)
+			You hear right.  Look around you... 
+			does anything seem to be amiss?
+
+					KIRA
+				(takes in the crowd 
+				and Varani)
+			That sonata Varani is playing is 
+			lovely... your customers seem to be 
+			enjoying him...
+
+					QUARK
+			Why be modest, Major?  They're not 
+			just enjoying him -- they're 
+			mesmerized by him!
+
+					KIRA
+			So?
+
+					QUARK
+			So!  While they're being mesmerized, 
+			they're not gambling, they're not 
+			eating, they're barely drinking.  
+			Profits are down across the board!
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             4.
+
+2    CONTINUED:
+
+					KIRA
+				(disbelieving)
+			He just started yesterday...
+
+					QUARK
+			I monitor my gross income hourly.  
+			My hourly figures become my 
+			indicators.  My indicators become my 
+			projections.  And my projections 
+			based on the last twenty-six hours 
+			show an unprecedented decline in 
+			profits.
+
+					KIRA
+			Stop overreacting.  When people hear 
+			about how wonderful Varani is, they'll 
+			come beating down your door...
+
+					QUARK
+			And what are you basing that 
+			projection on?  Bajoran intuition?  
+			That and a strip of latinum will get 
+			you a couple of spins at the dabo 
+			wheel.
+
+					KIRA
+			You promised me you'd try him out 
+			for a month...
+
+					QUARK
+			If my projections hold true, in a 
+			month I'll be out of business!
+
+					KIRA
+				(firmly, no nonsense)
+			Quark, you're going to do this...
+
+					QUARK
+			Why should I?
+
+					KIRA
+				(voice like steel)
+			Because I asked you to.
+
+	Quark eyes her, realizes she means business.  He turns to 
+	Varani, still pained at the projected decline in profits, 
+	but realizing he's stuck.
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             5.
+
+2    CONTINUED:	(2)
+
+					QUARK
+			Maybe he could play something with a 
+			little more... bounce to it...
+
+					KIRA
+			Bounce...
+
+					QUARK
+			Just for a change of pace...
+
+	She eyes him, then walks toward Varani... stay on Quark... 
+	he sighs...
+
+3    ANGLE
+
+	as he finishes playing.  Applause.  Kira respectfully 
+	approaches.
+
+					KIRA
+			That was beautiful...
+
+					VARANI
+				(smiles warmly)
+			Having my work appreciated again... 
+			I almost forgot how it felt.
+
+					KIRA
+			Granted, it's not quite the exhibition 
+			halls you're used to...
+
+					VARANI
+				(a plaintive smile)
+			One can't be choosy about performance 
+			venues these days.
+
+					KIRA
+			I just spoke to Quark.  He likes 
+			what you're doing... but he's hoping 
+			you'll play a variety of styles...
+
+					VARANI
+				(slyly understanding)
+			A little less exhibition hall and a 
+			little more music hall... is that 
+			it?
+
+					KIRA
+			Something like that.
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER            5A.
+
+3    CONTINUED:
+
+					VARANI
+				(good-naturedly)
+			I think I can accommodate him.
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             6.
+
+3    CONTINUED:	(2)
+
+	Kira smiles... we HEAR the noise from the bar, the raucous 
+	cries of "DABO!"
+
+					KIRA
+			I'd love to hear you play in a more 
+			appropriate setting...
+
+					VARANI
+				(casually)
+			Mahve you spoken to Minister Bolka 
+			about my idea to rebuild the Jalanda 
+			Forum?
+
+					KIRA
+			I mentioned it to him...
+				(admitting to Bolka's 
+				resistance)
+			He's got a lot of things on his 
+			mind...
+
+					VARANI
+			You must keep trying.  Bajorans must 
+			reclaim their artistic heritage if 
+			they ever hope to regain their sense 
+			of self-worth.
+
+					KIRA
+				(guiltly agreeing)
+			Next time I talk to the Minister, 
+			I'll bring it up again... but I can't 
+			promise anything.
+
+					VARANI
+			I have faith in you, Kira.  By 
+			fighting for this, you're not just a 
+			champion of the arts.  You're my 
+			champion.
+
+	Kira smiles, but feels the weight of being portrayed as a 
+	"champion"...
+
+4    INT. OPS
+
+	Sisko's at the Ops table, O'BRIEN's at his station.  Several 
+	male N.D. Supernumeraries are present.  Kira ENTERS from the 
+	Turbolift, comes down to Sisko.  (Kira is the only female in 
+	Ops at this time.)
+
+					SISKO
+			Did you get everything settled with 
+			Quark?
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             7.
+
+4    CONTINUED:
+
+					KIRA
+			That little toad is this far from 
+			doing a three-sixty out an airlock...
+
+					SISKO
+			I'm glad to hear everything went 
+			okay...
+
+					O'BRIEN
+			Commander, sensors are picking up 
+			elevated neutrino readings.  A ship's 
+			coming through the wormhole...
+
+					SISKO
+			On screen.
+
+5    ON THE VIEWSCREEN (OPTICAL)
+
+	The wormhole illuminates... and a ramshackle alien vessel 
+	disgorges from its mouth, careening into space.
+
+6    BACK TO SCENE
+
+	Kira turns to the Ops table, calls up information.
+
+					KIRA
+			Sensors are detecting four lifeforms 
+			on board...
+
+					O'BRIEN
+			I'm reading a plasma leak in their 
+			engine core...
+
+					SISKO
+			Hail them.
+
+					KIRA
+				(hitting a panel; 
+				beat)
+			They're not responding...
+
+					O'BRIEN
+			Their reactors are overheating.  
+			Life support is barely functioning...
+
+					SISKO
+			Get them out of there, Chief.
+
+             DEEP SPACE: "Sanctuary" - 10/08/93 - TEASER             8.
+
+6    CONTINUED:
+
+					O'BRIEN
+			Aye, sir.
+
+	O'BRIEN HITS A PANEL AND :
+
+7    ANGLE - TRANSPORTER PAD (OPTICAL)
+
+	Four humanoids MATERIALIZE, huddled together in befuddlement 
+	and fear... their garb is scruffy, their dark skin an off-
+	putting mass of lumps and eczema-like scales.  A teenage 
+	male (TUMAK), gripping a wounded hand, is hugged by an older 
+	female (HANEEK), while two other males (GAI and COWL) cower 
+	in the b.g.
+
+					SISKO
+			I'm Commander Sisko of the United 
+			Federation of Planets.  You've just 
+			been beamed onto a Bajoran space 
+			station.  We don't mean you any 
+			harm...
+
+8    ON THE NEW ARRIVALS
+
+	refusing to move, their heads swiveling with anxiety and 
+	bewilderment... the female, Haneek, seems to get her wits 
+	about her first... she looks out at Sisko and the others, 
+	fearful, vulnerable, yet almost imploring...
+
+9    ON SISKO AND KIRA
+
+	watching her, wondering...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE             9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+10   OMITTED
+
+11   INT. OPS - CONTINUOUS - THE FACE-OFF
+
+	between Sisko, Kira and O'Brien on one side and Haneek and 
+	her three companions on the other.  Haneek's small group is 
+	still clustered and cowering in the Transporter Bay, regarding 
+	Sisko and the others warily, like cornered, beaten dogs... 
+	(NOTE: Throughout the next sequence, Sisko's attitude and 
+	tone will remain patient, nonthreatening and reassuring.)
+
+					SISKO
+				(to Haneek)
+			We're going to bring your ship in. 
+			Once it's docked, we'll be able to 
+			diagnose its problems and hopefully 
+			fix them.  After that, you can be on 
+			your way.
+
+	Haneek looks at Kira, cocks her head gently, as if both 
+	puzzled and curious... Kira's not sure what the look means... 
+	Sisko cautiously steps toward Haneek and her friends...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            10.
+
+11   CONTINUED:
+
+					SISKO
+				(to Tumak, points to 
+				Tumak's hand)
+			I can offer you medical assistance 
+			for that wound...
+
+	Tumak glares at Sisko, begins shouting at him in anger and 
+	defiance...
+
+					TUMAK
+			Oo-mata!  Oo-mata!  Dongo patar meeoto 
+			fenta.  Fenta!
+
+	As Tumak shouts at Sisko, Haneek turns to Kira, steps toward 
+	her, begins talking in an urgent, but more reasonable tone, 
+	but glancing warily at Sisko...
+
+					HANEEK
+			Naga dentana... oobay a-tal.  Oobay 
+			a-tal!  Keetama sootay.  Shalanta 
+			Skrreea.
+
+					KIRA
+				(to Sisko)
+			Does anyone understand what she's 
+			saying...
+
+					SISKO
+			There must be something wrong with 
+			the Universal Translator.  Chief?
+
+	O'Brien, hitting a panel, checking his readout...
+
+					O'BRIEN
+			It's working, Commander... but for 
+			some reason it's having a hard 
+			analyzing their language patterns... 
+			their syntax and grammatical structure 
+			must be completely unlike anything 
+			we have in our database...
+
+					SISKO
+			We'll have to keep them talking until 
+			the computer can establish a 
+			translation matrix.
+
+					HANEEK
+				(continuing, to Kira)
+			Ketoh maseeca.  Skrreea.  Tolak 
+			mayfessaka.  Koo masek.  Gadoux 
+			besoolin fenta.  Fenta?
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            11.
+
+11   CONTINUED:	(2)
+
+					KIRA
+				(in response to Sisko)
+			Keeping them talking doesn't seem to 
+			be a problem...
+
+					HANEEK
+			Oobay-a-tal?  Fidask setoma meeka?
+
+					SISKO
+			Major, we need to get these people 
+			to the Infirmary.  They seem to be 
+			most comfortable with you.  Why don't 
+			you lead the way?
+
+	Kira starts gesturing for Haneek and the others to follow 
+	her.
+
+					KIRA
+			All right... we're going to go for a 
+			little ride in the turbolift...
+
+	Though Haneek doesn't understand her, she appears to trust 
+	Kira and motions to her three male companions...
+
+					HANEEK
+			Toma.  Bessa!
+
+	They warily step out of the transporter and begin to follow 
+	Kira... Sisko follows behind...
+
+					SISKO
+				(to com)
+			Sisko to Odo.
+
+					ODO'S COM VOICE
+			Yes, Commander.
+
+					SISKO
+			We're bringing some new arrivals 
+			from the Gamma Quadrant down to the 
+			Promenade.  Meet us at Turbolift 
+			Nine.
+
+					ODO'S COM VOICE
+			I'm on my way.
+
+12   INT. PROMENADE
+
+	Odo waits at the Turbolift as the doors open.  Sisko steps 
+	out, followed by Kira, who turns back to Haneek and the 
+	others.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            12.
+
+12   CONTINUED:
+
+					KIRA
+				(gestures)
+			We're here... you can come out now...
+				(a friendly beckoning 
+				wave)
+			There's no need to be afraid...
+
+					ODO
+			What seems to be the trouble, 
+			Commander?
+
+					SISKO
+			The computer's having a hard time 
+			translating their language...
+
+					ODO
+			I can see where that would be a 
+			problem...
+
+	The quartet of aliens tentatively exits the Turbolift, Haneek 
+	leading... it's like immigrants from Bosnia stepping out 
+	among the lights of Broadway... the Promenade is like 
+	nothing they've ever seen before... intrigued by their new 
+	surroundings, the foursome begins wandering off in all 
+	directions...
+
+					ODO
+			Hold on now.  Let's stay together.
+
+	He rounds up Gai and Cowl.
+
+					ODO
+				(continuing)
+			No wandering off --
+
+	They barely pay him any mind, their focus on the Promenade.
+
+					ODO
+				(gesturing)
+			Just stay put while I round up the 
+			others...
+
+					KIRA
+			Let me try...
+
+	She taps Gai and Cowl on the shoulder...
+
+					KIRA
+				(beckoning)
+			Come with me...
+
+	To Odo's surprise, Gai and Cowl follow Kira...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            13.
+
+13   ANGLE - CLOTHING/GIFT SHOP
+
+	Haneek and Tumak both look up at a brightly colored, oddly
+	designed dress in the window of the shop.  Sisko stands behind 
+	them, watching them.  Kira escorts Gai and Cowl over, Odo 
+	following.
+
+					HANEEK
+				(pointing at the dress; 
+				to Tumak)
+			Intaowa.  Intaowa.
+
+	Tumak isn't interested... he looks at a nearby display stand, 
+	filled with colorful merchandise...
+
+					SISKO
+				(to Haneek)
+			Dress.  It's called a dress...
+
+	Haneek looks at him, regards him curiously, turns to Kira...
+
+					HANEEK
+			Intaowa.
+
+					KIRA
+			Intaowa?
+
+	Tumak picks up a small, intricately designed object off a 
+	display stand.  Fascinated, he begins to walk off with it, 
+	only to be detained by Odo...
+
+					ODO
+			I'm afraid you'll have to put that 
+			back...
+
+	Tumak jerks it away from him, clutches the object like it's 
+	his...
+
+					TUMAK
+				(defiantly)
+			Vala.  Vala!
+
+	Meanwhile, Haneek is still eyeing the dress...
+
+					HANEEK
+				(emphatically)
+			Intaowa!
+
+					KIRA
+			Do you like it... ?
+
+	Simultaneously, Odo is still trying to deal with Tumak...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            14.
+
+13   CONTINUED:
+
+					ODO
+			Yes, it's very nice.  But it's not 
+			yours...
+
+	Then Gai also picks up an interesting gadget from the kiosk's 
+	counter...
+
+					ODO
+				(to Gai)
+			That goes for you, too.
+
+	Neither Tumak nor Gai make a move to comply.
+
+					SISKO
+			Major... perhaps you'd better handle 
+			this...
+
+	Kira turns from Haneek, taps the display stand with her 
+	palm...
+
+					KIRA
+			All right, let's put those back... 
+			both of you...
+
+	Tumak and Gai look to Haneek... Haneek looks to Kira...
+
+					KIRA
+				(patting stand)
+			They really need to put those back...
+				(a smile that takes 
+				in the dress and the 
+				display case)
+			We can go shopping later.
+				(points off)
+			But right now it's important we go 
+			to the Infirmary... so all of you... 
+			follow me...
+				(gesturing again)
+			We'll all go together...
+
+	Haneek nods.  She turns to Tumak and Gai.
+
+					HANEEK
+			Fazeek.  Cromay fazeek!
+
+	Reluctantly, Tumak and Gai return their respective objects 
+	to the counter.  The Skrreeans dutifully follow Kira down 
+	the Promenade.  There's no doubt she's in charge here, leaving 
+	Sisko and Odo to bring up the rear... the two exchange a 
+	look that says, "Whatever works... "
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            15.
+
+14
+thru   OMITTED
+15
+
+16   INT. INFIRMARY - ANGLE ON ALIENS
+
+	A reluctant Tumak allows BASHIR to examine his wound.  
+	Haneek's with Tumak; Sisko, Kira and Odo stand nearby.  
+	Watching curiously, shouldering each other to try to get the 
+	best angle, Gai and Cowl begin to arguing.
+
+					GAI
+			Kootana...
+
+					COWL
+			Kootana batoo lakar asheem... !
+
+					GAI
+				(escalating; taking 
+				offense)
+			Dokka?!
+				(shoving)
+			Pestani voe lakar asheem!
+
+					HANEEK
+				(sharply; to Gai and 
+				Cowl)
+			Kolat!  Kolat kee!
+
+	The two stop arguing.
+
+					ODO
+				(to Sisko)
+			There's no doubt who the boss is...
+
+					SISKO
+				(smiles, then:)
+			How bad is it, Doctor?
+
+					BASHIR
+			Looks like a second degree plasma 
+			burn.  The dermal regenerator should 
+			take care of it...
+
+	Bashir picks up the dermal regenerator, starts to move in on 
+	Tumak's arm.  Tumak draws back warily... Haneek swipes the 
+	regenerator out of Bashir's hand and holds it out for Kira 
+	to take... Kira's a little surprised, tries to explain...
+
+					KIRA
+			I'm sorry... I'm not the doctor...
+
+					HANEEK
+			Kolat?  Kolat Gadoux?
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE           15A.
+
+16   CONTINUED:
+
+	Bashir gently takes the regenerator back out of Haneek's 
+	hand...
+
+					BASHIR
+				(to Haneek, comforting)
+			I assure, I won't hurt him...
+
+	Haneek watches Bashir attend to Tumak, still suspicious about 
+	what he's going to do...
+
+					KIRA
+				(to Haneek, gently)
+			He'll be all right...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE            16.
+
+16   CONTINUED:	(2)
+
+	Haneek eyes her hopefully, then turns to watch Bashir...
+
+17   INT. GUEST QUARTERS (OPTICAL)
+
+	Kira, Sisko and Odo ENTER the quarters, followed by Haneek 
+	and her small tribe.  The aliens are still cautious, but 
+	calmer than before.  (NOTE: Tumak's arm is healed.  He no 
+	longer holds it in a protective way.)
+
+					KIRA
+			This will be your quarters while 
+			you're here on the station.  I'm 
+			sure you'd like to rest and clean up 
+			and...
+				(catches herself as 
+				she sees their blank 
+				looks)
+			... you still don't understand a word 
+			I'm saying, do you...
+
+					SISKO
+			I know something they might 
+			understand...
+
+	He crosses to the food replicator...
+
+					SISKO
+				(ordering)
+			Seven maaza stalks...
+
+	Seven multi-hued celery-like stalks APPEAR.  Sisko lifts a 
+	stalk, takes a bite, chews...
+
+					SISKO
+			This is food.  Here -- try one --
+
+	He holds a maaza stalk out for Haneek.  She doesn't take it.  
+	Sisko has come to expect this by now, hands one to Kira.
+
+					SISKO
+			Major, show them it's okay...
+
+	Kira takes a bite from the stalk and chews... Haneek watches 
+	closely...
+
+					KIRA
+			You see?  It's really very good...
+
+         DEEP SPACE: "Sanctuary" - 10/08/93 - ACT ONE 17-18.           
+
+17   CONTINUED:
+
+	Haneek reaches out for one... she sniffs it... bites in 
+	gingerly... rolls the piece around on her tongue to gauge 
+	the taste... she chews... satisfied, she nods to the others... 
+	the males grab the stalks and begin to devour them...
+
+					KIRA
+				(watching males)
+			I'm glad you like them.
+
+	Haneek puts her hand on Kira's arm, looks into her eyes 
+	imploringly.
+
+					HANEEK
+				(quickly)
+			Noloux bataak rama setta... rama 
+			emal jeetaka... zeela koo... Gadoux 
+			soka gee...
+
+					KIRA
+				(at a loss)
+			I'm sorry... I don't understand...
+
+					HANEEK
+				(trying again)
+			Bataak rama setta... rama setta... 
+			zeela koo... hemena kee... soulak... 
+			need ikstassa...
+
+					ODO
+			Wait... did you hear that?  I think 
+			she just said, "need."
+
+					SISKO
+				(to Haneek, gentle 
+				enthusiasm)
+			Go on... keep talking...
+
+					HANEEK
+			Ganoux?  Noloux bataak rama setta... 
+			my people yeekopa Skrreea... havou 
+			fotar save them...
+
+					KIRA
+				(getting excited)
+			Save them!  How?  Can you understand 
+			what I'm saying?
+
+          DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT ONE         19.
+
+17   CONTINUED:	(2)
+
+	Haneek looks at her, kind of nods, isn't sure...
+
+					KIRA
+			Keep talking... !
+
+					HANEEK
+			Noloux Skrreea... soka roo need your 
+			help... there's no time soulak... we 
+			are the Skrreea... my people need 
+			your help... there's no time to 
+			waste...
+
+					KIRA
+				(repeating to her)
+			You're people are the Skrreea.  You 
+			need our help.  There's no time to 
+			waste.
+
+	Haneek smiles, tears coming into her eyes -- she's understood 
+	Kira.  The two women grasp each other's arms, a new bond 
+	formed through the magic of the universal translator...
+
+					SISKO
+				(steps forward)
+			Your people... where are they?
+
+	Haneek looks at him, but looks at Kira when she answers.
+
+					HANEEK
+			They're on the creshnee side of the 
+			Eye...
+
+					KIRA
+			The "Eye?"
+
+					HANEEK
+			The Eye of the Universe...
+				(struggling to clarify)
+			The tunnel...
+
+					ODO
+			I think she means the wormhole.
+
+					HANEEK
+				(nodding)
+			They're on the other side... they 
+			don't realize that we've found the 
+			Eye...
+
+					SISKO
+			How many people are we talking about?
+
+          DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT ONE         20.
+
+					HANEEK
+				(to Kira, a little 
+				war again)
+			Many... three jeetaka.
+
+					KIRA
+			Three hundred?  Three thousand?
+
+					ODO
+				(hoping he's wrong)
+			Three million?
+
+					HANEEK
+				(eyes Odo, then to 
+				Kira)
+			Yes... three million... three million 
+			of my people are on the other side... 
+			we must bring them through the Eye... 
+			we must bring them here.
+
+	Haneek looks at Kira hopefully.  Hold on both Kira and Sisko, 
+	suddenly realizing the enormous scope of the problem Haneek's 
+	just handed them...
+
+18   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            21.
+                            ACT TWO                             
+
+19   FADE IN:
+
+20   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+21   INT. OPS - ANGLE ON HANEEK
+
+	seated at the Ops table, along with Kira, Bashir, DAX, Odo 
+	and O'Brien.  Haneek looks uncertainly back and forth at the 
+	men.  Kira leans in (she's seated next to Haneek ) and puts 
+	a hand on her arm.
+
+					KIRA
+			Is there anything wrong?
+
+					HANEEK
+			I'm just not used to the men being 
+			here... Skrreean men don't involve 
+			themselves in situations like this...
+
+	Looks pass between the men.  DAX is also seated at the table.
+
+					DAX
+			Are all your leaders women?
+
+					HANEEK
+			Yes.
+
+					BASHIR
+			All of them... ?
+
+					DAX
+				(wryly)
+			You heard her, Julian.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            22.
+
+20   CONTINUED:
+
+					HANEEK
+			Men are much too emotional to be 
+			leaders.  They're always fighting 
+			among themselves... it's their 
+			favorite thing to do.
+				(looks around)
+			I'm sorry.  I hope I haven't offended 
+			anyone...
+
+	It's the men who now appear to be a little uncomfortable.  
+	Sisko ENTERS from his office, comes down to the Ops table.
+
+					SISKO
+			Sorry to keep you waiting.
+
+					DAX
+				(lightly amused)
+			That's all right, Benjamin.  Haneek 
+			was just telling us how the Skrreea 
+			are a female dominant society...
+
+					O'BRIEN
+				(vaguely patronizing)
+			It seems the men are a bit too 
+			emotional to become leaders...
+
+					HANEEK
+			Please don't misunderstand... we 
+			love our men...
+				(glancing around at 
+				the males)
+			Really!
+
+	Sisko smiles to himself, then:
+
+					SISKO
+			Are you one of the leaders of your 
+			people, Haneek?
+
+					HANEEK
+			Me?  Oh no... I'm little more than a 
+			farmer... I was just lucky...
+
+					BASHIR
+			How so?
+
+					HANEEK
+			I was the first one to find the Eye 
+			of the Universe...
+
+          DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT TWO         23.
+
+
+20   CONTINUED:	(2)
+
+					DAX
+
+				(guessing)
+			You were looking for the wormhole?
+
+					HANEEK
+			We had heard about a great tunnel 
+			being discovered... we knew it must 
+			be the Eye of the Universe that would 
+			lead us to Kentanna...
+
+					O'BRIEN
+			Kentanna?
+
+					HANEEK
+			Kentanna is the legendary home of 
+			the Skrreeans... it has always been 
+			portrayed in our sacred texts as 
+			being just beyond the Eye of the 
+			Universe... a "planet of sorrow where 
+			the Skrreea will sew seeds of joy."
+
+	A respectful beat of silence.
+
+					SISKO
+			I can't guarantee you'll find 
+			Kentanna, but I can promise you we'll 
+			help you find a home.
+				(beat)
+			I've sent our runabouts to the Gamma 
+			Quadrant to make contact with your 
+			ships.
+
+					HANEEK
+			That will be difficult... they're 
+			spread out, looking for the Eye...
+
+					ODO
+			When we do find them, what then?  
+			This station only holds seven thousand 
+			people... and you're talking about 
+			three million Skrreeans...
+
+					KIRA
+			I'm afraid most of your people will 
+			have to stay confined to their 
+			ships...
+
+					HANEEK
+			I understand.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO           23A.
+
+20   CONTINUED:	(3)
+
+					SISKO
+			In the meantime, is there any one 
+			person we should be looking for?  A 
+			leader... or leaders... ?
+
+					HANEEK
+			Most of our leaders were killed by 
+			the T-Rogorans.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            24.
+
+20   CONTINUED:	(4)
+
+					BASHIR
+			The T-Rogorans?  Who are they?
+
+					HANEEK
+			For eight centuries my people have 
+			lived under their rule... we were 
+			forced to work as laborers and 
+			servants... we were able to escape 
+			when the T-Rogorans were invaded and 
+			conquered...
+
+					ODO
+			Who conquered them?
+
+					HANEEK
+			I don't know their name.  All I know 
+			is they were members of something 
+			called "The Dominion"...
+
+	Everyone reacts... they've all heard the name before... 
+	thought they have no idea who... or what... the Dominion 
+	is...
+
+21
+thru   OMITTED
+22
+
+23   INT. GUEST QUARTERS
+
+	The lights are dimmed as we hear the door CHIME.  A sleep 
+	Haneek appears from the back.  She presses a panel to open 
+	the door, finds Kira, package in hand, standing in the 
+	corridor.
+
+					KIRA
+			Did I wake you?
+
+					HANEEK
+			It's all right.  Please, come in...
+
+	Haneek steps back into the center of the room.  Kira 
+	tentatively ENTERS.
+
+					HANEEK
+			Computer, lights on full.
+
+	The lights RISE UP to their normal "on" setting.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            25.
+
+23   CONTINUED:
+
+					KIRA
+			I can come back later...
+
+					HANEEK
+			No.  You've been so kind to me, how 
+			could I possibly refuse your company?
+
+	Gai and Cowl STUMBLE OUT, sleepy-eyed, wondering what's up.  
+	Haneek practically shoos them away...
+
+					HANEEK
+			go back to bed.  Go on!  I'll join 
+			you again after I'm through...
+
+	The two males yawn and scratch themselves, EXIT back the way 
+	they came.
+
+					KIRA
+				(wondering)
+			Are those your... husbands?
+
+					HANEEK
+			Hus-bands?  I'm not familiar with 
+			that word.  They're bonded to me.
+
+					KIRA
+				(can't resist)
+			Do you... sleep with them... both?
+
+					HANEEK
+			Of course.  Don't you sleep with 
+			your males?
+
+					KIRA
+			No, I don't have any males... not at 
+			the moment, anyway...
+
+					HANEEK
+				(slyly, re: her two)
+			They're very useful...
+
+					KIRA
+			Yes, I imagine they are...
+				(remembering why she's 
+				there)
+			I just wanted to tell you, we found 
+			some of your ships.  Several hundred 
+			Skrreeans should be arriving on the 
+			station today... we thought it would 
+			be a good idea if you were there to 
+			meet them.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            26.
+
+23   CONTINUED:	(2)
+
+	Haneek sits down, uncertain about this.
+
+					HANEEK
+				(simply)
+			Why me?
+
+					KIRA
+			You yourself said most of your leaders 
+			were dead...
+
+					HANEEK
+			Yes, that's true... but I'm just a 
+			farmer...
+
+					KIRA
+			You were also the first one through 
+			the Eye of the Universe... that must 
+			mean something, in a symbolic sort 
+			of way...
+
+	Haneek looks at her, not denying that it does.  Kira remembers 
+	the package she has in her hand.
+
+					KIRA
+			Oh... here.
+				(hands package to 
+				Haneek)
+			I brought you a little something.
+
+	Haneek holds it, eyes Kira, surprised and flattered...
+
+					KIRA
+			Go ahead.  Open it.
+
+	Haneek slowly lifts the lid... and pulls out the brightly 
+	colored, oddly designed dress from the clothing kiosk... the 
+	one Haneek saw earlier...
+
+					KIRA
+			You seemed to like it...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            27.
+
+23   CONTINUED:	(3)
+
+					HANEEK
+				(a little embarrassed)
+			I'm sorry... but I think you 
+			misunderstood...
+
+					KIRA
+			What do you mean?
+
+					HANEEK
+			I thought this was the most hideous 
+			thing I'd ever seen.
+
+					KIRA
+				(beat; she laughs)
+			Well, that makes two of us.
+
+					HANEEK
+				(laughing)
+			It's awful!
+
+					KIRA
+			Horrible!  Who would wear it?
+
+	Hold on the two of them laughing at the backfired gift...
+
+24   INT. PROMENADE - SECOND LEVEL
+
+	JAKE and NOG are at their hangout spot at the railing.  AS 
+	they watch the passing parade below --
+
+					JAKE
+			Look -- it was no big deal --
+
+					NOG
+			You go out with a dabo girl for the 
+			first time and you stand there and 
+			tell me it was no big deal?
+
+					JAKE
+			It's wasn't really a "date" --
+
+					NOG
+			Does your father know you went out 
+			with her?
+
+					JAKE
+			Not exactly...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            28.
+
+24   CONTINUED:
+
+					NOG
+				(surprised)
+			He doesn't?
+
+					JAKE
+			I told him I had to go help someone 
+			with their homework...
+
+					NOG
+			Good thinking.  Too bad I won't ever 
+			be able to use that lie.  My dad 
+			knows I never do homework...
+
+					JAKE
+			It's not a lie, Nog.  Mardah's 
+			studying entomology.  She asked me 
+			to help her out...
+
+					NOG
+			A dabo girl who studies entomology...
+				(sarcastically)
+			...sure.
+
+					JAKE
+			It's true!
+
+					NOG
+				(thinking)
+			What is entomology?
+
+					JAKE
+			The study of bugs.
+
+					NOG
+			You mean she wants to be a chef?
+
+	Jake shakes his head.  Sometimes there's no talking to his 
+	Ferengi friend.  He reacts to something below.
+
+					JAKE
+			Hey -- who's that?
+
+					NOG
+				(looks down, sees)
+			I don't know.  What's he doing?
+
+25   ANGLE - THEIR POV
+
+	Tumak hovers behind two teenagers as they leave a table of 
+	unfinished (alien) fritters.  Once gone, Tumak scurries to 
+	the table... and picks at the leftovers.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO           28A.
+
+26   INTERCUT JAKE AND NOG
+
+	reacting to Tumak.  Nog sneers.
+
+					NOG
+			That's disgusting --
+
+					JAKE
+			He must be one of the Skrreeans.  My 
+			dad says there's a lot more of them 
+			on the way...
+
+	Tumak happens to glance up, locks eyes with Jake and Nog.  
+	He reacts like a deer caught in headlights...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            29.
+
+26   CONTINUED:
+
+					JAKE
+				(waves; friendly)
+			Hi!
+
+	Tumak doesn't wave, instead looks angry.  He scurries away.
+
+					NOG
+				(Ferengi superiority)
+			Doesn't he know what a replicator's 
+			for?  Idiot...
+				(turns to Jake)
+			So -- does Mardah have any sisters?
+
+	Jake sighs.
+
+27   OMITTED
+
+28   INT. OPS (OPTICAL)
+
+	Sisko, Kira, O'Brien, Dax and Haneek are there.  They watch 
+	the huge, battered-looking Skrreean transport approach on 
+	the viewscreen.
+
+					O'BRIEN
+				(at his station)
+			I've cleared the Skrreean ship to 
+			dock at upper pylon two.
+
+					SISKO
+				(quietly magnanimous)
+			Time to welcome your people to the 
+			Alpha Quadrant, Haneek...
+
+	Hold on Haneek as she smiles... a little nervous perhaps... 
+	but happy other Skrreeans are about to join her... newly 
+	confident about her task of welcoming them...
+
+29   INT. DOCKING RING CORRIDOR - OUTSIDE AIRLOCK
+
+	The airlock opens... and the first of an unending number of 
+	Skrreean refugees (females) stick their heads out...
+
+	Haneek waits to greet them.  Gai, Cowl, Sisko and Kira are 
+	behind her.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            30.
+
+29   CONTINUED:
+
+					HANEEK
+			Come on... don't be afraid... we're 
+			among friends...
+
+	The weary, ragged, somewhat disoriented Skrreea (females, 
+	males, children) start streaming out of the airlock...
+
+30   INT. PROMENADE - SEVERAL SHOTS
+
+	Skrreean refugees are pouring into the Promenade... Skrreean 
+	females lead the pack, their male partners (multiple) and 
+	children following behind... (NOTE: This should be the most 
+	extras -- primarily Skrreeans -- we have ever seen on the 
+	Promenade... budget willing... ) Among the Skrreean is an 
+	ages-old woman named VAYNA...
+
+	A quiet exhilaration begins to unfold among the new 
+	arrivals... adults, teenagers and children wander in awe at 
+	the sights of the Promenade...
+
+	A real Spielberg moment -- stirring -- heartening -- Ellis 
+	Island -- the poor and tired and the downtrodden finding... 
+	sanctuary...
+
+31   ON ODO
+
+	in the midst of the refugees.  Skrreean children run by.
+
+					ODO
+			Slow down!
+
+	Two Skrreean teenagers run by in the opposite direction, one 
+	chasing the other...
+
+					ODO
+				(continuing)
+			There's no running on the 
+			Promenade!
+
+	Of course, no one's listening to him.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT TWO            31.
+
+31   CONTINUED:
+
+	Widen to show Sisko joining him, hands behind his back, 
+	immensely enjoying the survivors' reactions...
+
+					ODO
+			It's going to get awfully crowded 
+			around here, Commander...
+
+					SISKO
+			I know, Constable, but it's worth 
+			it.  Just look at them... they're 
+			experiencing their first taste of 
+			freedom...
+
+	Odo absorbs that, looking around.  Pull up and away from 
+	Sisko and Odo as they stand amidst a sea of refugees, the 
+	refugees flowing by them, taking in the Promenade in wonder...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           32.
+                           ACT THREE                            
+
+	FADE IN:
+
+32   INT. PROMENADE - SECOND LEVEL
+
+	Jake comes up the spiral staircase and heads for his and 
+	Nog's hangout spot...
+
+	Suddenly Nog comes racing by, in no uncertain hurry...
+
+					JAKE
+			Nog!  Where are you going?
+
+					NOG
+			Can't talk now!  Gotta run!
+
+	Then Tumak and two other teenage Skrreean males rush by Jake, 
+	bumping him.  Jake gives chase...
+
+33   NEW SHOT
+
+	with Nog as he sprints along, looking backward at the three 
+	Skrreeans, who are catching up... Nog abruptly runs into 
+	Odo, who grasps him firmly...
+
+					ODO
+			Nog, you know there's no running on 
+			the Promenade...
+
+					NOG
+				(out-of-breath)
+			Who's running?
+
+	Tumak rushes up with his companions, all of them slowing 
+	when they see Odo... a couple seconds later, Jake joins the 
+	group.
+
+					ODO
+				(addressing Skrreeans)
+			What seems to be the problem?
+
+					JAKE
+				(sniffing something 
+				sour)
+			What's that smell... ?
+
+	Nog elbows him to keep him quiet.
+
+					TUMAK
+				(incensed, points at 
+				Nog)
+			Ask him!
+
+         DEEP SPACE: "Sanctuary" - REV. 10/12/93 - ACT THREE        33.
+
+					NOG
+			Me?!  You're the one who stinks!
+
+					TUMAK
+			That's because you sprayed that vapor 
+			on us... !
+
+					ODO
+			Is that true, Nog?
+
+					NOG
+			No!
+
+					ODO
+				(not believing him)
+			Nog... ?
+
+					NOG
+				(dismissive)
+			It was a joke... !
+
+					ODO
+				(eyeing him sternly)
+			Very amusing.
+				(addressing the 
+				Skrreeans)
+			Thank you for bringing this to my 
+			attention.  I'll take care of it 
+			from here.
+
+	Odo turns Nog around and escorts him away.
+
+					TUMAK
+				(calling to Nog)
+			This isn't over yet, Big Ears!
+
+	Jake and Tumak look at each other, Tumak still angry, then 
+	Tumak and his friends depart the way they came.  Jake waves 
+	his hand in front of his nose... whatever the odor is, it's 
+	pretty sour...
+
+33A  INT. SECURITY OFFICE - ANGLE ON NOG
+
+	who stands looking at the "wanted posters," his eyes wide 
+	with interest.  He points to one in particular.
+
+					NOG
+			Hey... here's a new one!
+				(reading)
+			What kind of name is "Plix Tixiplik?"
+
+         DEEP SPACE: "Sanctuary" - REV. 10/12/93 - ACT THREE       33A.
+
+33A  CONTINUED:
+
+	Widen to show Odo working with a PADD at his desk, not 
+	looking for conversation.
+
+					ODO
+			I believe he's a Reegrunion.
+
+	Odo continues working.  Nog studies Plix Tixiplik's data.
+
+					NOG
+				(reading)
+			"Wanted in seven star systems for 
+			illegal weapon sales."
+				(admiringly)
+			Weapon sales, huh?  Very profitable.
+
+					ODO
+			How would you know?
+
+					NOG
+				(without thinking)
+			My Uncle Quark told me.
+
+					ODO
+			What does your Uncle Quark know about 
+			illegal weapon sales?
+
+	Nog realizes he's revealed family secrets best left unsaid.
+
+					NOG
+				(trying to cover)
+			He, uh... he, uh...
+
+					QUARK (O.S.)
+				(finishing Nog's 
+				statement)
+			... knows better than to ever get 
+			involved in anything so 
+			disreputable...
+
+33B  ANGLE ON QUARK
+
+	standing just inside the entrance.  He gives a quick glare 
+	at Nog, silently reminding him to never discuss Ferengi 
+	business with strangers.
+
+					ODO
+				(to Quark; dryly 
+				cynical)
+			I'm sure.  I asked the boy's father 
+			come see me...
+
+         DEEP SPACE: "Sanctuary" - REV. 10/13/93 - ACT THREE       33B.
+
+33B  CONTINUED:
+
+					QUARK
+			Rom is doing the weekly stock 
+			inventory.  I don't want to interrupt 
+			him.  You know how easy he loses 
+			count... so I came in his place.
+				(lightly chastising)
+			Nog... have you been causing mischief 
+			again?
+
+					NOG
+			No, Uncle.  It's all a 
+			misunderstanding.
+
+					ODO
+			He sprayed some Skrreean boys with a 
+			foul-smelling vapor.
+
+					QUARK
+				(smiling in approval)
+			Did he...
+				(catching himself; to 
+				Nog; mock sternly)
+			What do you have to say for yourself?
+
+					NOG
+				(guessing)
+			I'm sorry... ?
+
+					QUARK
+				(to Odo)
+			You see?  The boy's beside himself 
+			with guilt.
+
+					ODO
+			That still doesn't excuse his actions.
+
+					QUARK
+			And he will be punished.  Severely.
+
+					NOG
+				(surprised)
+			I will?
+
+					QUARK
+				(to Nog)
+			I want you to tell the Constable 
+			here that you'll never do it again.
+
+         DEEP SPACE: "Sanctuary" - REV. 10/13/93 - ACT THREE       33C.
+
+33B  CONTINUED:  (2)
+
+					NOG
+			I won't?
+				(to Odo)
+			I mean, I won't.  I promise.  Never 
+			again.
+
+					ODO
+				(a warning)
+
+			See that you don't.
+
+					NOG
+			Can I leave now?
+
+					ODO
+			Go on.
+
+	Relieved, Nog EXITS.
+
+					QUARK
+			You know, you really can't blame the 
+			boy...
+
+					ODO
+			And why's that?
+
+					QUARK
+			Come on, Odo... you know these 
+			Skrreeans are nothing but trouble.  
+			They're all over the station, looking 
+			and touching but never spending any 
+			money.  And they flake.
+
+					ODO
+			I didn't notice.
+
+					QUARK
+			Come to my place... you'll see little 
+			pieces of Skrreean skin all over the 
+			bar and the floor... it's disgusting.
+
+					ODO
+			They won't be here long.
+
+					QUARK
+			I hope not.  They're driving my paying 
+			customers away.  They stay here too 
+			long and I'll be out of business...
+
+					ODO
+			In that case, I hope they never leave.
+
+         DEEP SPACE: "Sanctuary" - REV. 10/12/93 - ACT THREE       33D.
+
+33B  CONTINUED:  (3)
+
+	Quark gives him a "sticks-and-stones" look, then EXITS.  Odo 
+	harrumphs, and resumes working on his PADD...
+
+34   INT. QUARK'S
+
+	Skrreeans wander the premises, taking in everything, touching 
+	everything, ordering nothing.  Again, we see arguments break 
+	out among them, leading to some pushing and shoving, only to 
+	die down before anything serious erupts... off to the side, 
+	Varani plays a spritely TUNE...
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           34.
+
+35   ANGLE ON CORNER TABLE
+
+	A meeting of five Skrreean women is in progress, one of them 
+	Haneek, one of them the ages-old crone, Vayna.  Vayna is 
+	addressing Haneek solemnly.
+
+					VAYNA
+			We've talked it over among 
+			ourselves... our feelings were 
+			unanimous... you discovered the Eye 
+			of the Universe... you must lead us 
+			the rest of the way...
+
+					HANEEK
+				(quiet acceptance)
+			I'll do the best I can...
+
+	The decision having been made, the four women get up and 
+	leave... Haneek falls deep into thought...
+
+	Kira APPEARS at the table, looking after the departing 
+	women...
+
+					KIRA
+			That looked pretty serious.  Is 
+			everything all right?
+
+	Haneek looks out over the Skrreeans in the bar...
+
+					HANEEK
+			Look at them... look at my people...
+
+36   MAIN FLOOR OF QUARK'S - KIRA AND HANEEK'S POV
+
+	Many of the Skrreeans have settled in at the tables, talking 
+	and laughing, generally enjoying the give-and-take 
+	conversation conducive to an open environment... there's 
+	even a small group gathered around Varani, enjoying his 
+	music...
+
+					HANEEK (O.S.)
+			I've never seen them so happy...
+
+37   RESUME - KIRA AND HANEEK (OPTICAL)
+
+	Haneek looks down, a little lost.
+
+					HANEEK
+			... and here I sit, feeling trapped.
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           35.
+
+37   CONTINUED:
+
+					KIRA
+			Why?
+
+
+					HANEEK
+			They expect me to lead them to 
+			Kentanna.
+
+
+	This weighs heavily on her...
+
+					KIRA
+			It's going to be okay.  Commander 
+			Sisko's doing all he can to find you 
+			a place to live...
+
+	Haneek looks at Kira.  She still looks like she has the weight 
+	of the world on her.
+
+					KIRA
+				(continuing)
+			You're not alone.
+
+	Haneek smiles, grateful for Kira's support.  Varani ambles 
+	over to them...
+
+					VARANI
+			I hope I'm not intruding...
+
+					KIRA
+			Not at all... Haneek, this is 
+			Varani... a great musician... maybe 
+			the greatest Bajor has ever known...
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           36.
+
+37   CONTINUED:	(2)
+
+					VARANI
+				(to Haneek)
+			She exaggerates...
+				(smiles at Kira)
+			... but that's why I'm so fond of 
+			her...
+				(to Haneek)
+			Being a Bajoran, I know what it's 
+			like to be... displaced.  As a token 
+			of friendship, I'd like to give you... 
+			this...
+
+	Varani places a small pedestal-type box on the table, taps 
+	it once on the top.  A tiny HOLOGRAM appears... a young 
+	Varani, dashingly handsome, superbly dressed, plays his tivara 
+	masterfully, beautifully... the TUNE, rich and evocative, 
+	perhaps a little sad, is about as loud as a music box...
+
+					VARANI
+			It's from a concert I gave many years 
+			ago... at the Jalanda Forum...
+
+	Haneek is clearly touched.  She finds the music charming.  
+	AS Kira, Haneek and Varani enjoy this insular little moment 
+	in an otherwise very public place, push in on the HOLOGRAM...
+
+38   INT. GUEST QUARTERS - CLOSE ON
+
+	a tabletop as Haneek's hand enters and sets the hologram box 
+	down.  Tilt up to Haneek, looking down at the box, comforted 
+	by it somehow... Tumak ENTERS the quarters... Haneek smiles 
+	at her son...
+
+					HANEEK
+			Tumak -- where've you been?
+
+					TUMAK
+				(sullenly)
+			Nowhere...
+
+	He heads for the back hallway...
+
+					HANEEK
+			Where are you going?
+
+					TUMAK
+			To wash...
+
+         DEEP SPACE: "Sanctuary" - REV. 10/12/93 - ACT THREE        37.
+
+38   CONTINUED:
+
+	And he EXITS.  Haneek looks down at Varani's box again... 
+	she's thoughtful a beat... then, getting an idea, a hunch, a 
+	feeling, she walks over and sits down in front of a monitor...
+
+					HANEEK
+			Computer -- please show me a chart 
+			of this star system...
+
+	Confidence is starting to grow inside her...
+
+39   INT. PROMENADE
+
+	Jake and Nog react to packs of wandering Skrreea as they ascend 
+	the stairs to the second level.
+
+					JAKE
+			So what did your Dad say?
+
+					NOG
+			About what?
+
+					JAKE
+			About your getting in trouble with 
+			Odo.
+
+					NOG
+			He was very angry.
+
+					JAKE
+			He was?
+
+					NOG
+			He always gets angry when I get 
+			caught.
+
+40   THE SECOND LEVEL - JAKE AND NOG
+
+	as they approach their hangout spot at the railing, only to 
+	find Tumak and his two feral teenage friends having taken it 
+	over... standing tall... glaring at Nog...
+
+					NOG
+				(turning tail)
+			I just remembered... I've got errands 
+			to run for my uncle...
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           38.
+
+40   CONTINUED:
+
+					JAKE
+				(restrains him)
+			You're going to have to face them 
+			sooner or later...
+
+	Jake and Nog move forward... Tumak meets them head on.
+
+					TUMAK
+
+				(to Nog)
+			That was very funny, what you did.
+
+					NOG
+				(false hope)
+			You see, Jake?  Now there's a man 
+			with a sense of humor...
+
+					TUMAK
+				(menacing)
+			Nobody's laughing.
+
+					JAKE
+			And luckily nobody got hurt.  I think 
+			my friend's sorry for what he did...
+
+	Jake looks to Nog, hoping he'll say something... Nog isn't 
+	offering...
+
+					JAKE
+				(elbows Nog)
+			Aren't you, Nog...
+
+					NOG
+				(reluctantly)
+			I suppose...
+
+					JAKE
+				(to Tumak)
+			See?  What did I tell you?
+
+					TUMAK
+			He doesn't sound sorry to me...
+
+	And before anybody can react, Tumak wallops Nog in the stomach 
+	with a punch... all three Skreean teenagers jump Jake and 
+	Nog... and the donnybrook is on...
+
+41   SECOND FLOOR - QUARK'S
+
+	Quark is serving a customer when he's distracted by the NOISE 
+	of the fight... he sees the combatants across the way...
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           39.
+
+42   SECOND LEVEL - THE FIGHT
+
+	It's mostly shoving and pushing... the Skrreean are throwing 
+	occasional punches... Jake's trying to push them back... 
+	Nog's got his head covered, yelping...
+
+					NOG
+				(means it)
+			I'm sorry!  I'm sorry!  I'm sorry!
+
+	Quark rushes up...
+
+					QUARK
+			All right, that's enough... break it 
+			up... I said, break it up!
+
+	The other two Skrreean back off, but Tumak starts to throw 
+	another punch at Nog.  Quark restrains him.
+
+					QUARK
+				(to Tumak)
+			It's bad enough all of you are hanging 
+			around the station without buying 
+			anything... you have to start 
+			fighting, too?
+
+	Quark suddenly lets him go.  Tumak steps back, angry...
+
+					TUMAK
+			I thought we were welcome here...
+
+					QUARK
+			Well make yourselves welcome somewhere 
+			else.
+
+					TUMAK
+			You don't want us here.  You don't 
+			want anything to do with us.  Well 
+			we don't want anything to do with 
+			you.  Any of you!
+
+	Tumak glares at Jake and Nog again, then stomps off with his 
+	two companions.
+
+					QUARK
+			I can see the Skrreean don't bother 
+			to teach their children manners...
+
+43   INT. OPS - ON DAX'S MONITOR (OPTICAL)
+
+	We see a picturesque M-class planet on the monitor... data 
+	is slowly scrolling up one side of the screen...
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           40.
+
+43   CONTINUED:
+
+					SISKO (O.S.)
+			Dax and I have been combing through 
+			data on every uninhabited M-Class 
+			planet in the sector...
+
+	Widen to show Sisko and Kira flanking Dax, who's sitting at 
+	her station monitor.
+
+					SISKO
+				(continuing)
+			We think Draylon Two would make a 
+			perfect home for the Skrreea.
+
+					KIRA
+				(reading planet's 
+				name)
+			"Draylon Two"... never heard of it...
+
+					DAX
+			It's near Sefalla Prime... it's got 
+			definite possibilities... stable 
+			orbit... a temperate climate... very 
+			low surface radiation...
+
+					SISKO
+			Add to that good soil and a long 
+			growing season... I think it's our 
+			best bet.
+
+44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR
+
+	as it opens, revealing Haneek.  She smiles out at...
+
+45   REVERSE - SISKO, KIRA AND DAX
+
+	They've come to tell her the good news...
+
+					SISKO
+			May we come in?
+
+					HANEEK
+			Of course...
+
+	Sisko, Kira and Dax ENTER... widen to show Haneek is not 
+	alone... the four Skrreean women who were at the table in 
+	Quark's are there, including Vayna... they sit in the living 
+	area, glaring suspiciously at Sisko...
+
+           DEEP SPACE: "Sanctuary" - 10/08/93 - ACT THREE           41.
+
+45   CONTINUED:
+
+					SISKO
+				(greeting them)
+			Ladies...
+
+					HANEEK
+			Forgive them, Commander Sisko... 
+			they don't mean to be disrespectful...
+
+					SISKO
+				(smiles)
+			I understand.
+				(half-beat)
+			We have some encouraging news...
+
+					KIRA
+				(smiles warmly)
+			We think we've found a planet for 
+			you and your people... one with 
+			excellent potential for resettlement.
+
+					HANEEK
+				(magnanimously)
+			We appreciate all your hard work... 
+			but I'm afraid it was unnecessary... 
+			you see, we've found Kentanna.
+
+					KIRA
+				(surprised)
+			You have?
+
+					HANEEK
+				(big smile)
+			A "planet of sorrow," Kira... don't 
+			you see?
+				(beat)
+			Kentanna is your planet...
+				(warmly)
+			Kentanna is Bajor.
+
+	Sisko and Dax react... but not half as much as Kira...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           42.
+                           ACT FOUR                             
+
+	FADE IN:
+
+46   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Traffic is congested in a way we've never seen: every docking 
+	port has a Skrreean ship anchored to it, including the upper 
+	and lower pylons... six more ships are lined up just beyond 
+	the station, awaiting their turn...
+
+					SISKO (V.O.)
+			Station log, Stardate 47391.2.  Chief 
+			O'Brien is continuing to oversee 
+			repairs to the Skrreean ships docked 
+			at the station...
+
+47   INT. PROMENADE
+
+	Kira walks through the crowd (mostly Skrreean), deep in 
+	thought...
+
+					SISKO (V.O.)
+			Meanwhile, Minister Rozahn and Vedek 
+			Sorad have arrived from Bajor with 
+			an official response to the Skrreeans' 
+			request to immigrate...
+
+	A concerned Varani falls into step with her...
+
+					VARANI
+			Major, if I may have a moment...
+
+					KIRA
+			I'm sorry, Varani.  I'm on my way to 
+			a meeting.
+
+					VARANI
+			I know.  With Minister Rozahn and 
+			Vedek Sorad.  I suppose Haneek will 
+			be there as well...
+
+					KIRA
+			That's right.
+
+					VARANI
+			Please.  Tell her my heart goes out 
+			to her and her people.  Tell her how 
+			much Bajorans everywhere regret having 
+			to refuse their request.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR          42A.
+
+47   CONTINUED:
+
+					KIRA
+			Aren't you being a little premature?
+
+					VARANI
+			Am I?  You know what the provisional 
+			government's answer is going to be.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           43.
+
+47   CONTINUED:	(2)
+
+	Kira pauses a beat, waits for several Skrreeans to pass.
+
+					KIRA
+			These are people who've lost 
+			everything, Varani...
+
+					VARANI
+			I know.  And I wish there was some 
+			way we could help them...
+
+	Kira looks at him... she wishes that, too... she's still 
+	struggling to believe otherwise...
+
+					VARANI
+				(continuing)
+			Bajor is in shambles, Kira... you 
+			know that as well as I...
+
+	Varani's trying to be comforting... but Kira isn't 
+	comforted...
+
+48   OMITTED
+
+49   INT.COMMANDER'S OFFICE
+
+	The meeting has just gotten under way.  A serious-looking 
+	Bajoran official, MINISTER ROZAHN, and a calm but serious 
+	Vedek, VEDEK SORAD, are seated in the office, along with 
+	Sisko, Kira and Haneek.
+
+					MINISTER ROZAHN
+			First of all, I want you all to know 
+			that the provisional government has 
+			taken the Skrreeans' request for 
+			immigration very seriously.  The 
+			debate in the Chamber of Ministers 
+			became quite heated at times...
+				(attempt at humor to 
+				lighten the situation)
+			Though I suppose you could say that 
+			about all of our debates...
+
+					SISKO
+			But a decision was reached...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           44.
+
+49   CONTINUED:
+
+					MINISTER ROZAHN
+			Yes.
+				(to Haneek)
+			I was sent here to tell you that the 
+			Ministers --
+				(a nod to Sorad)
+			-- in accord with the Vedek Assembly -- 
+			have decided to deny the Skrreeans' 
+			request.
+
+	Haneek stiffens... she wasn't expecting this... she can't 
+	take her eyes off Minister Rozahn...
+
+					MINISTER ROZAHN
+				(to Haneek; 
+				sympathetically)
+			I'm sorry.
+
+	Haneek feels the desperation seeping into her, starting to 
+	overwhelm everything else...
+
+					VEDEK SORAD
+			Bajor simply cannot absorb three 
+			million refugees at this time...
+
+					MINISTER ROZAHN
+			After what the Cardassians did to 
+			our planet, we can barely take care 
+			of our own.
+
+					HANEEK
+			But no one is asking you to take 
+			care of us... !
+
+					VEDEK SORAD
+				(sympathetic)
+			This decision is not based strictly 
+			on Bajoran self-interest.  Such a 
+			huge increase in population would 
+			prove to be tragic to your people as 
+			well as ours.
+
+					HANEEK
+			But Bajor has more than enough room 
+			for us.  The plains of the northwest 
+			peninsula are practically uninhabited.  
+			The land's ideal for farming.
+
+					MINISTER ROZAHN
+			It used to be... before the 
+			Cardassians got their hands on it.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           45.
+
+49   CONTINUED:	(2)
+
+					HANEEK
+				(pleading)
+			Minister Rozahn, the Skrreeans are 
+			farmers... just give us the land... 
+			I guarantee you we can make it thrive 
+			again...
+
+					MINISTER ROZAHN
+				(non-accusatory)
+			Under ideal circumstances, perhaps 
+			you could.  But what if the 
+			circumstances aren't ideal?  What if 
+			we go through another long winter?  
+			What if your crops fail?  What if 
+			the famine that has been plaguing 
+			Bajor continues to spread?  What 
+			then?
+
+					HANEEK
+			We're willing to take that risk...
+
+					MINISTER ROZAHN
+			We aren't.  We ran a series of 
+			projections to see whether a Skrreean 
+			settlement could survive on the 
+			northwest peninsula.  The results 
+			were not encouraging.
+
+					SISKO
+				(to Haneek)
+			Haneek, I think you should seriously 
+			consider Draylon Two as an alternate 
+			to Bajor.  The winters are mild, 
+			there's plenty of good farmland...
+
+					HANEEK
+				(forcefully)
+			No!
+				(to Rozahn and Sorad)
+			Projections can be wrong...
+
+					VEDEK SORAD
+			But what if they're not?  What is 
+			Bajor to do if your people start 
+			dying?
+
+					HANEEK
+			I thought I made it clear.  We're 
+			not expecting your help.
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           46.
+
+49   CONTINUED:	(3)
+
+					MINISTER ROZAHN
+			Do you really think we could stand 
+			by and do nothing?  We'd feel 
+			obligated to help.  With food, with 
+			clothing, with whatever it would 
+			take...
+
+					VEDEK SORAD
+			And where would that aid come from?  
+			Our resources are already depleted.  
+			To help you would mean depriving our 
+			own people.
+
+					MINISTER ROZAHN
+			I'm afraid the decision of the 
+			provisional government is final.  
+			The Skrreea will have to find 
+			somewhere else to live.
+
+					HANEEK
+				(desperately; to Kira)
+			Talk to them... please... tell them 
+			that they're wrong...
+
+	All eyes turn to Kira.
+
+					HANEEK
+				(continuing; simply)
+			Help us.
+
+	Kira's filled with sympathy for Haneek, but...
+
+					KIRA
+				(softly)
+			I can't.
+
+	Haneek's stunned.
+
+					KIRA
+				(continuing)
+			I'm sorry, Haneek... but they're 
+			right.  I wish they weren't... I 
+			wish Bajor was Kentanna... but it's 
+			not.
+
+	Still desperate, Haneek looks to Sisko.
+
+					SISKO
+				(gently)
+			There's still Draylon Two.
+
+	Haneek isn't buying it.  HOLD on Kira, still feeling the 
+	weight of her decision...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           47.
+
+50   OMITTED
+
+50A  INT. REPLIMAT (FORMERLY SCENE 48)
+
+	Jake moves to stand at the end of a long line (mostly 
+	Skrreeans) at the replicator.  Widen to show Tumak in front 
+	of him.  Jake sees him, becomes thoughtful... what can he 
+	say?  Finally:
+
+					JAKE
+			If you like cake, the icoberry torte 
+			is really good...
+
+					TUMAK
+				(calm; surprisingly 
+				accessible)
+			Icoberries... are they sweet or sour?
+
+					JAKE
+				(surprised by Tumak's 
+				lack of anger)
+			Both.
+
+					TUMAK
+				(nods... maybe he'll 
+				try some; beat)
+			Is that big-eared troll really your 
+			friend?
+
+					JAKE
+			Yeah.
+
+					TUMAK
+			He's an idiot.
+
+					JAKE
+				(shrugs)
+			You're not the first one to say that.  
+			But he's not such a bad guy... once 
+			you get to know him.
+
+					TUMAK
+			I don't plan on being here that 
+			long...
+
+					JAKE
+			My dad says you're probably going to 
+			Draylon Two...
+
+					TUMAK
+			Does he...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           48.
+
+50A  CONTINUED:
+
+					JAKE
+			Sounds like a pretty nice place...
+
+					TUMAK
+			Do you want to move there?
+
+					JAKE
+			No...
+
+					TUMAK
+			Neither do I.
+
+	They move up in line, Jake studying Tumak quietly, wondering 
+	about what he just said...
+
+51   INT. GUEST QUARTERS - ON HANEEK
+
+	She sits by herself, the lights dimmed by half... though 
+	she's not crying, her sadness is palpable...
+
+	The door CHIMES... Haneek doesn't move...
+
+					HANEEK
+				(calling tonelessly)
+			Come in...
+
+	Kira ENTERS.  She's behind Haneek.  Haneek doesn't turn to 
+	see who it is.  Kira watches her a moment...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           49.
+
+51   CONTINUED:
+
+					KIRA
+			Haneek...
+
+					HANEEK
+			The thing I don't understand is why 
+			you pretended to be my friend.
+
+					KIRA
+			I wasn't pretending.
+
+					HANEEK
+			Ahhh.  So you are my friend...
+				(looks at her)
+			... until I need you.
+
+					KIRA
+			I know it's hard for you to see right 
+			now, but I am trying to help...
+
+					HANEEK
+			I think I've had quite enough of 
+			your help...
+
+					KIRA
+			You have to believe me, Commander 
+			Sisko has found you a wonderful 
+			home...
+
+					HANEEK
+			You betrayed me, Kira.
+
+					KIRA
+			No, I didn't.  I honestly believe 
+			the provisional government made the 
+			right decision, for both Bajor and 
+			the Skrreeans...
+
+					HANEEK
+			If that's true, then we have nothing 
+			to discuss.
+
+					KIRA
+			I was hoping we could still be 
+			friends...
+
+					HANEEK
+			In other words, you came looking for 
+			forgiveness...
+				(beat)
+			Well I don't forgive you.
+
+	A beat...
+
+            DEEP SPACE: "Sanctuary" - 10/08/93 - ACT FOUR           50.
+
+51   CONTINUED:	(2)
+
+					SISKO'S COM VOICE
+			Sisko to Kira.
+
+					KIRA
+				(his combadge)
+			Go ahead, Commander.
+
+					SISKO'S COM VOICE
+			Is Haneek with you?
+
+					KIRA
+			Yes.
+
+					SISKO'S COM VOICE
+			I need both of you in Ops immediately.  
+			Tumak has taken a ship.  He's headed 
+			for Bajor...
+
+	As Haneek and Kira exchange concerned looks, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE         51.
+                           ACT FIVE                             
+
+	FADE IN:
+
+52   INT. OPS
+
+	Kira and Haneek ENTER off the Turbolift... Sisko, Dax and 
+	O'Brien are already there... various Supernumeraries are in 
+	the b.g... the tension is palpable...
+
+					O'BRIEN
+			They're not responding, sir...
+
+					SISKO
+			Keep trying, Mister O'Brien...
+
+					KIRA
+			How did it happen?
+
+					SISKO
+			With all the traffic around the 
+			station, Tumak and two of his friends 
+			were able to slip away... we had no 
+			idea the ship was even gone until 
+			the Bajorans contacted us...
+				(approaches Haneek)
+			Haneek, I need you to try to talk to 
+			your son...
+
+	Sisko leads her to the Ops table.
+
+					O'BRIEN
+				(to Haneek; from his 
+				station)
+			There's a high-energy radiation leak 
+			in the port nacelle.  We've tried to 
+			make him aware of it, but he refuses 
+			to acknowledge us...
+
+					SISKO
+			Major, open a channel to the Skrreean 
+			vessel...
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE         52.
+
+52   CONTINUED:
+
+					KIRA
+				(hits panel)
+			Yes, sir.
+				(beat)
+			Ready.
+
+	Sisko nods at Haneek to start talking... she's unsure what 
+	to say...
+
+					HANEEK
+			Tumak... listen to me... your ship's 
+			in danger...
+
+					SISKO
+				(low)
+			Have him turn off his engines and 
+			drift until the Bajorans can tractor 
+			him in...
+
+					HANEEK
+			Tumak... turn off your engines... 
+			you must turn off your engines 
+			now...
+
+					SISKO
+				(beat)
+			Mister O'Brien... ?
+
+					O'BRIEN
+				(reading his monitor)
+			He's not responding...
+
+					HANEEK
+				(to com)
+			Tumak, this is serious... your life's 
+			in danger... the others who are with 
+			you, their lives are in danger... 
+			please... answer me...
+
+	No response.
+
+					DAX
+			Sensors are detecting two Bajoran 
+			vessels closing in on the Skrreean 
+			ship...
+
+					SISKO
+			On screen...
+
+	They all look at an Ops table monitor...
+
+         DEEP SPACE: "Sanctuary" - REV. 10/12/93 - ACT FIVE         53.
+
+53   INSERT - AN OKUDAGRAM (OPTICAL)
+
+	A colored grid with a star-filled background... graphic 
+	symbols represent the Skrreean vessel... and the two Bajoran 
+	crafts entering the screen from the bottom corner, converging 
+	toward it...
+
+54   BACK TO SCENE (OPTICAL)
+
+					SISKO
+			Mister O'Brien, patch us into the 
+			Bajoran interceptor.
+
+					O'BRIEN
+			Aye, sir.
+
+	O'Brien works his panel.  Finally:
+
+					PILOT'S COM VOICE
+			... have entered restricted space... 
+			you must turn around and leave 
+			immediately...
+
+					KIRA
+				(to O'Brien)
+			Open a channel.
+
+	O'Brien nods.
+
+					KIRA
+				(to com)
+			This is Major Kira Nerys on Deep 
+			Space Nine... the Skrreean vessel 
+			has refused to acknowledge our 
+			hails... it's possible their 
+			communications are down... you have 
+			to let them land...
+
+					PILOT'S COM VOICE
+			That's impossible, Major... we have 
+			strict orders not to allow any 
+			Skrreean vessel to land...
+
+					KIRA
+			But the pilot's just a boy... he's 
+			taken the ship without permission... 
+			It's barely operational.  We're not 
+			sure he can get back here.
+
+					PILOT'S COM VOICE
+			I'm sorry, Major, but we have our 
+			orders.
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE        53A.
+
+54   CONTINUED:
+
+					KIRA
+			Who gave them to you?
+
+					PILOT'S COM VOICE
+			They come directly from General Hazar.
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE         54.
+
+54   CONTINUED:	(2)
+
+	Kira looks at Haneek... it's getting serious...
+
+					SISKO
+			Dax, get me General Hazar on Bajor... 
+			tell his people it's an emergency... 
+			I want to speak with him now...
+
+	Dax nods, hits her panels...
+
+					KIRA
+				(to the pilot)
+			Stand by, interceptor.  General Hazar 
+			will be countermanding those orders 
+			any minute...
+
+					O'BRIEN
+			The interceptor's closing on the 
+			Skrreean ship...
+
+	Kira and Haneek look at the monitor...
+
+55   INSERT - THE OKUDAGRAM (OPTICAL)
+
+	The two graphics representing the Bajoran ships are slicing 
+	in on the approaching Skrreean ship...
+
+56   RESUME SCENE (OPTICAL)
+
+					DAX
+			It's General Hazar, Benjamin...
+
+					SISKO
+			On screen...
+
+	All eyes turn to the Viewscreen as the Bajoran general, 
+	GENERAL HAZAR appears.
+
+					HAZAR
+			What's this about, Commander?
+
+					SISKO
+			It's about the Skrreean ship that's 
+			approaching Bajor...
+
+					HAZAR
+			I've already given orders to have it 
+			turned back...
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE         55.
+
+56   CONTINUED:
+
+					SISKO
+			That ship is being flown by a child... 
+			and it's leaking radiation...
+
+					HAZAR
+			A child... ?
+
+					PILOT'S COM VOICE
+			... Skrreean ship.  Repeating: return 
+			to the space station now.
+
+					HAZAR
+				(to Sisko)
+			Have him shut down his engines.  
+			We'll tow him back...
+
+					HANEEK
+				(desperately)
+			Tumak, please... turn off your 
+			engines...
+
+	Over com, we HEAR the sound of phaser fire...
+
+					KIRA
+			Interceptor One, what's going on?
+
+					PILOT'S COM VOICE
+			They've opened fire on us... taking 
+			evasive action...
+
+					HANEEK
+			Tumak!  Don't do this!
+
+					PILOT'S COM VOICE
+			He's pursuing... we've been hit... !
+
+					O'BRIEN
+			Commander -- they're returning fire...
+
+					HANEEK
+				(screams)
+			No... !
+
+					KIRA
+				(shouts)
+			Disengage, interceptor!  Repeat: 
+			disengage!
+
+         DEEP SPACE: "Sanctuary" - REV. 10/12/93 - ACT FIVE        55A.
+
+56   CONTINUED:	(2)
+
+					SISKO
+				(forcefully)
+			General, tell you pilots to hold 
+
+			their fire.
+
+					HAZAR
+			I'm relaying that order now...
+
+	Sisko, Kira and Haneek turn to the Ops table monitor...
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE         56.
+
+57   INSERT - THE OKUDAGRAM (OPTICAL)
+
+	A beat, the three symbols representing the ships closer now... 
+	then the graphic representing the Skrreean vessel suddenly 
+	BRIGHTENS... and disappears...
+
+58   RESUME SCENE (OPTICAL)
+
+	Haneek stiffens, grasps Sisko's arm, as if she herself has 
+	been struck... Sisko holds her...
+
+					KIRA
+			Interceptor One... ?
+
+					PILOT'S COM VOICE
+			The Skrreean ship exploded.
+				(beat)
+			I didn't even think we hit it...
+
+					O'BRIEN
+				(grimly, to Sisko)
+			The phaser beam must've ignited the 
+			radiation leak...
+
+	Still on the viewscreen, General Hazar looks saddened...
+
+					HAZAR
+			Commander... I'm so sorry...
+
+					SISKO
+			We all are, General...
+
+	Kira turns to Haneek... the two women look at each other... 
+	there's nothing Kira can say... she feels Haneek's pain... 
+	Haneek squares her shoulders, eyes Kira coldly... as if her 
+	anger and pain fuses into her backbone... giving her an 
+	emotionally charged, if icy strength...
+
+58AA   EXT. SPACE STATION (OPTICAL)
+
+	Re-establishing.
+
+58A  INT. DOCKING RING AIRLOCK
+
+	A stoic Haneek directs a procession of Skrreea through the 
+	airlock door to a docked Skrreean vessel.  Gai and Cowl wait 
+	for her nearby.  Several Federation and Bajoran security 
+	guards help oversee the operation.
+
+58B  ANGLE - KIRA
+
+	as she approaches.  Haneek sees her.  A beat.
+
+         DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE         57.
+
+58B  CONTINUED:
+
+					KIRA
+				(simply)
+			I just came by to wish you luck on 
+			Draylon Two.
+
+
+	Haneek nods sadly.
+
+					KIRA
+				(continuing)
+			Haneek, I still believe this is the 
+			best choice... for Bajor and for 
+			you.
+
+					HANEEK
+			And you believe we would have been a 
+			burden to your people...
+
+					KIRA
+				(a long beat)
+			Yes.
+
+					HANEEK
+				(nods; it's the answer 
+				she expected)
+			I think you've made a terrible 
+			mistake.  All of you.  Maybe we could 
+			have helped you.  Maybe we could 
+			have helped each other.  The Skrreeans 
+			are farmers, Kira.  You have a famine 
+			on your planet.  We might have made 
+			that peninsula bloom again.  We'll 
+			never know, will we?
+
+	Kira nods... tries to think of the right thing to say.
+
+					HANEEK
+				(continuing)
+			Fifty years of Cardassian rule has 
+			made you all frightened and 
+			suspicious.
+				(beat)
+			I feel sorry for you.
+
+      DEEP SPACE: "Sanctuary" - REV. 10/11/93 - ACT FIVE 58-59.        
+
+58B  CONTINUED:  (2)  
+
+					HANEEK
+				(beat; coldly)
+			You were right.  Bajor is not 
+			Kentanna.
+
+	Haneek turns and enters the Skrreean ship, leaving Kira 
+	standing alone and feeling alone, as she ponders Haneek's 
+	last words...
+
+59
+thru   OMITTED
+67
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

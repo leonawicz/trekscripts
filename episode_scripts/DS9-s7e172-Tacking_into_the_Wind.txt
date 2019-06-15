@@ -1,0 +1,2971 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                    "Tacking into the Wind" 
+                          #40510-572 
+                              
+                          Written by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                          Mike Vejar 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1999 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                      February 24, 1999
+
+  STAR TREK: DS9 - "Tacking into the Wind" - 02/24/99 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "Tacking into the Wind" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     DAMAR
+          BASHIR                   FEMALE SHAPE-SHIFTER
+          O'BRIEN                  GOWRON
+          WORF                     RUSOT
+          EZRI                     MARTOK
+          ODO                      VORNAR
+          COMPUTER VOICE           WEYOUN
+                                   THOT GOR
+                                   LUARAN
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+ STAR TREK: DS9 - "Tacking into the Wind" - 02/24/99 - SETS       
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "Tacking into the Wind" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 SPACE
+          AIRLOCK CORRIDOR              DEEP SPACE NINE
+          CAPTAIN'S OFFICE              CARDASSIA PRIME
+          INFIRMARY/SURGERY             JEM'HADAR FIGHTER
+          PROMENADE                     CARDASSIAN SHUTTLE
+          QUARK'S/SECOND LEVEL          RUNABOUT
+          KLINGON WARDROOM              
+
+        REBEL CAVERN                  
+        SECOND CAVERN                 
+        TUNNEL                        
+
+        RUNABOUT                      
+          COCKPIT                       
+
+        CARDASSIAN SPACE STATION      
+          CARGO BAY                     
+          CORRIDOR                      
+          AIRLOCK CORRIDOR              
+
+        JEM'HADAR SHIP                
+          BRIDGE                        
+          CORRIDOR                      
+
+        DOMINION BRIEFING ROOM        
+
+  STAR TREK: DS9 - "Tacking into the Wind" - 02/24/99 - PRONUNCIATION
+ 
+                  STAR TREK: DEEP SPACE NINE 
+                    "Tacking into the Wind" 
+                      PRONUNCIATION GUIDE 
+
+          AVENAL                   AV-in-ell
+          BRONOK                   BRO-nok
+          FEPELL                   FEH-pell
+          KAHLESS                  KAY-less
+          KELVAS                   KELL-vas
+          KETHA                    KEH-tha
+          KRONOS                   KRO-nos
+          LUARAN                   loo-ARE-an
+          SEMORA                   seh-MORE-ah
+          TEVAK,                   TEH-vak
+          VORNAR                   VOR-nar
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                       "Tacking into the Wind"                         
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE (OPTICAL)
+
+
+	A JEM'HADAR FIGHTER is moving at impulse... then
+	suddenly EXPLODES. The explosion expands for a
+	beat... then FREEZES, and then REVERSES. The
+	recording FREEZES again at a point where the ship is
+	still mostly intact, but the first SPARK of an
+	explosion can be seen.
+
+	A HAND comes into frame and points to the SPARK.
+
+					KIRA'S VOICE
+			Right there.
+
+2    OMITTED
+
+3    WIDER (OPTICAL)
+
+	Where KIRA, DAMAR, GARAK and RUSOT are watching the
+	monitor. The three men all lean closer to see what
+	Kira is trying to show them.
+
+					KIRA
+			The explosion began in the
+			intercooler matrix.
+				(to Rusot)
+			Your men were supposed to put the
+			bomb here...
+
+	Kira points again, at an intact part of the ship.
+
+					KIRA
+				(continuing),
+			... in the secondary plasma relay.
+
+					RUSOT
+			What difference does that make?
+			The ship was still destroyed.
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     2.
+
+3    CONTINUED:
+
+					GARAK
+			The intercooler's an obvious
+			choice for sabotage. Their
+			security checks could've found
+			the bomb and disarmed it before
+			the ship left orbit.
+
+					RUSOT
+			But they didn't find it.
+
+					KIRA
+			That's not the point. Your men
+			ignored their instructions and
+			their training.
+
+	Rusot bristles and Damar tries to defend him.
+
+					DAMAR
+			Let's not lose sight of the fact
+			that the mission was a success.
+
+					KIRA
+			It was a success because
+			Jem'Hadar security slipped up and
+			we got lucky.
+				(to Rusot)
+			Don't use those men again for
+			anything except routine
+			reconnaissance.
+
+					RUSOT
+			They're five of my best men!
+			Bronok is one of the most
+
+			experienced --
+
+					GARAK
+			You've been told before -- no
+			names!
+
+					KIRA
+				(strained patience)
+			Every cell has to be insulated
+			from the cell above and below.
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     3.
+
+3    CONTINUED:	(2)
+
+					KIRA (Cont'd)
+			If I know the names of your men
+			and I'm captured... 
+
+					RUSOT
+			I've heard the lecture.
+
+					KIRA
+			Then you shouldn't have to be
+			reminded!
+
+	Rusot takes a step toward her, but Damar puts a
+	friendly, yet firm, hand on his shoulder.
+
+					DAMAR
+				(calm)
+			It's been a long day. Why don't
+			we take a break.
+
+	Rusot pulls his temper back under control for Damar.
+
+					RUSOT
+			Good idea.
+				(pointed at Kira)
+			The air in here is getting stale.
+
+	Rusot stalks away and EXITS.
+
+					KIRA
+				(to Damar)
+			Are you going to do something
+
+			about him?
+
+					DAMAR
+			I am. I'm giving him my support.
+
+	Damar holds her eyes for a beat and Kira can see
+	that this is not the time for that particular
+	debate.
+
+					KIRA
+			All right.
+
+	Damar EXITS.
+
+					GARAK
+			That does not bode well.
+
+      DEEP SPACE NINE: "Tacking into... " -REV-03/22/99 - TEASER      4.
+
+3    CONTINUED:	(3)
+
+	Kira suddenly sees something O.S.
+
+					KIRA
+			Odo!
+
+4    ODO
+
+	and two N.D. Cardassians ENTER the cavern. Although
+	Odo walks a bit gingerly and there's a slight strain
+	to his voice, there's no other outward sign of the
+	Shape-shifter disease. He hands her a PADD, but she
+	barely glances at it.
+
+					ODO
+			The raid on the Tevak shipyard
+			was successful. I penetrated the
+			Operations Center and disabled
+			the security protocols. The rest
+			of the team sabotaged the
+			dilithium storage bunkers. An
+			hour after we left, the entire
+			facility was vaporized.
+
+					KIRA
+			You should get some rest...
+
+					ODO
+			That sounds good to me...
+
+					KIRA
+				(to Garak)
+			Anyone in the bunkroom?
+
+					GARAK
+			No.
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     5.
+
+4   CONTINUED:
+
+
+					KIRA
+			It's all yours.
+
+	He nods and heads for a tunnel.
+
+					KIRA
+			Odo... good work.
+
+					ODO
+			Thank you.
+
+	Odo EXITS. And once he's gone, we can see that Kira
+	is really very worried about him.
+
+									CUT TO:
+
+5    INT. TUNNEL (OPTICAL)
+
+	As soon as Odo is out of sight from the main cavern,
+
+	he sags against the wall and we can see that he's
+	been putting up a brave front for everyone. He's
+	wracked with pain and on the verge of exhaustion.
+	He MORPHS into his true form -- a desiccated and
+	flaking body. He looks even worse than the last
+	time we saw the Female Shape-shifter. With a final
+	glance behind him, he heads painfully down the
+	Tunnel.
+
+6    INT. REBEL CAVERN
+
+	Kira is looking over a PADD.
+
+					KIRA
+			Starfleet Intelligence says that
+			a contingent of Breen engineers
+			arrived on Kelvas Five last week.
+			Breen engineers...
+				(beat)
+			Have we had any reports of Breen
+			ships in that system?
+
+					GARAK
+			No. As a matter of fact, no
+			Breen ships have been reported in
+			that entire sector.
+
+					KIRA
+			So why send engineers... ? Do you
+			have any contacts on Kelvas Five?
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     6.
+
+6    CONTINUED:
+
+					GARAK
+			No. But I think I know who
+			might. Excuse me.
+
+	Garak EXITS.
+
+									CUT TO:
+
+7    INT. SECOND CAVERN
+
+	Odo is sitting on one of the bunks, resting when
+	Garak ENTERS. Garak stops short at the sight of the
+	desiccated constable, surprised by his condition.
+	Garak shifts his weight and Odo whirls around.
+
+					ODO
+			It's just like you to come
+			sneaking in here without warning.
+
+					GARAK
+			My approach may have been quiet,
+			but I assure you, I had no
+			intention of "sneaking" up on
+			you. My apologies.
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     7.
+
+7    CONTINUED:
+
+	Garak looks him over for a beat.
+
+					GARAK
+			If I may ask... ?
+
+					ODO
+			Why have I... deteriorated so
+			rapidly? I've been assuming
+			dozens of different shapes over
+			the past few weeks. Changing
+			form seems to... accelerate the
+			progress of the disease.
+
+					GARAK
+			Perhaps you should stop.
+
+					ODO
+			And do what? Lie here and wait
+			to die? No, thank you. I'm here
+			to work and work is what I'm
+			going to do.
+
+					GARAK
+			I see.
+				(beat)
+			I take it that Commander Kira is
+			unaware of your... true
+			condition?
+
+					ODO
+			That's right. And I prefer that
+			it stay that way.
+
+					GARAK
+			I won't breath a word.
+
+					ODO
+			See that you don't. She has
+			enough on her mind without
+			worrying about me. And I don't
+			want her...
+
+					GARAK
+			Pity?
+
+	Odo looks away and clearly Garak is right.
+
+     DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - TEASER     8.
+
+7    CONTINUED:	(2)
+
+					ODO
+			Is there a reason you came in
+			here?
+
+					GARAK
+			We have need of a contact on
+			Kelvas Five. I remember you once
+			mentioning that you knew several --
+
+
+					ODO
+				(wants this over
+				with)
+			I might have a few names for you,
+			I'll have to give it some
+			thought.
+
+	Garak turns to go, then turns back.
+
+					GARAK
+			Odo... I hope you know how much I --
+
+					ODO
+				(brusque)
+			If I don't want pity from the
+			woman I love, why would I want it
+			from you?
+
+	Garak gives him a quick smile of acceptance, then
+	EXITS. As Odo lies back down on the cot and sinks
+	down into his own suffering...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE     9.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+8    INT. INFIRMARY (VPB)
+
+	Where BASHIR is working at one of the consoles.
+	He's been at this for hours and he's dog-tired.
+
+					COMPUTER VOICE
+			DNA analysis complete.
+
+	He turns around and moves to a complicated apparatus
+	involving petri dishes, test tubes, etc. that has
+	been quietly working away on the opposite side of
+	the room. Bashir activates the MONITOR next to the
+	apparatus.
+
+					BASHIR
+			Display results.
+
+	A large of amount of information is displayed on the
+	screen. Bashir reads it quickly, then reacts with
+	disappointment. He sits down heavily, rubbing his
+	temples. O'BRIEN ENTERS.
+
+					O'BRIEN
+			Morning.
+
+					BASHIR
+				(surprised)
+			What time is it?
+
+					O'BRIEN
+			Oh-six-thirty. Another all-night
+			session?
+				(off his nod)
+			That's four in a row. You can't
+			keep this up.
+
+					BASHIR
+			I'm beginning to agree with
+			you... and to add insult to
+			injury, I'm not getting anywhere.
+				(re: apparatus)
+			My DNA integration theory was
+			another blind alley.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    10.
+
+8    CONTINUED:
+
+					O'BRIEN
+			So where does that leave you?
+
+					BASHIR
+			Back to square one. Whoever
+			engineered this Shape-shifter
+			disease did a good job of
+			covering their tracks.
+
+					O'BRIEN
+			Julian, it's time to face facts.
+
+			You're not going to pull a rabbit
+			out of your medkit. The
+			Founders themselves haven't come
+			up with a cure -- and they have
+			the resources of the entire
+			Dominion at their command.
+				(beat)
+			Now, I know you don't want to
+			hear this, but the only way we're
+			going to find a cure is to track
+			down the man -- or woman -- who
+			created this thing in the first
+			place.
+
+	Bashir is tired and this is a very old argument by
+	now.
+
+					BASHIR
+			Miles...
+
+					O'BRIEN
+			We have to find a way to get
+			inside Section Thirty-one.
+
+					BASHIR
+			We tried that. We tried and we
+			tried and all we succeeded in
+			doing was to waste two weeks
+			chasing phantoms from here to
+			Vulcan. You want to face facts?
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    11.
+
+8    CONTINUED:	(2)
+
+					BASHIR (Cont'd)
+			Face this fact -- Section Thirty-
+			one has managed to stay in the
+			shadows for three hundred years.
+			They're not going to suddenly
+			come scurrying into the light
+			just because Miles O'Brien and
+			Julian Bashir are on the case!
+
+					O'BRIEN
+			Which is why I still say we
+			should take this to Captain Sisko
+			and let him contact Starfleet
+			Intelligence. Maybe they can --
+
+					BASHIR
+			All that will do is alert Thirty-
+			one to that fact that we're onto
+			them. And you know what they'll
+			do next? They'll go deeper into
+			hiding and they'll probably send
+			someone here to destroy what
+			little headway I've made. No.
+			No more cloak and dagger games.
+			Science is the answer here.
+			Every puzzle has a solution,
+			every disease has a cure, it's
+			just a matter of finding it.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    12.
+
+8    CONTINUED:	(3)
+
+					BASHIR (Cont'd)
+			Now, if you'll kindly get the
+
+			hell out of here, I'll get back
+			to work.
+
+	Bashir turns his back on O'Brien and begins working
+	the computer console. O'Brien glares at him for a
+	moment, and then EXITS.
+
+									CUT TO:
+
+9    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A few KLINGON SHIPS are orbiting the station.
+
+10   INT. CAPTAIN'S OFFICE
+
+	GOWRON is storming around the office, while SISKO
+	tries to rein in his own temper.
+
+					GOWRON
+			Martok's attack on Avenal Seven
+
+			was a disgrace! He had the
+			advantage of surprise -- the
+			Dominion wasn't expecting us to
+			take the offensive so soon after
+			the Breen entered the war.
+			Avenal should've been an easy
+			victory for him, but instead he's
+			handed us a shameful defeat!
+
+	But Sisko is equally furious.
+
+					SISKO
+			General Martok and I both advised
+			you against attacking a world so
+			deep inside Dominion territory.
+			He was outnumbered six to one at
+			Avenal.
+
+					GOWRON
+				(dismissive)
+
+			Six to one. A good commander
+			finds ways to beat the odds, not
+			hide behind them.
+
+					SISKO
+			He didn't hide behind anything!
+			He fought harder and longer than
+			I would've in his place. Have
+			you read Worf's after-action
+			report?
+				(off PADD)
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    13.
+
+10   CONTINUED:
+
+					SISKO (Cont'd)
+			Seven Klingon ships destroyed!
+			Five others heavily damaged! And
+			Martok himself is in critical
+			condition in the Rotarran
+			Sickbay.
+
+					GOWRON
+				(a shrug)
+			He's expected to survive.
+
+
+					SISKO
+			That's not the point. This whole
+			operation was a waste of
+			resources, men and equipment.
+			The blame lies with the man who
+			ordered the attack in the first
+			place, not with the man who tried
+			to carry it out.
+
+	The implication is clear and for a moment, Gowron's
+	eyes flash in return. But then Gowron shifts moods
+	quickly like the practiced politician that he is.
+	He smiles and puts a hand on Sisko's shoulder.
+
+					GOWRON
+			That's one of the things I like
+			about you, captain. Your loyalty
+
+			to your friends.
+
+					SISKO
+			This has nothing to do with
+			loyalty.
+
+					GOWRON
+				(patronizing)
+			Of course not. In any case, you
+			needn't worry. Martok's a...
+			popular general with the troops.
+			And that counts for something. I
+			won't relieve him of command...
+			yet.
+				(beat)
+			His flagship won't return to the
+			station for three days. That
+			should give me time to finalize
+			plans for our next operation.
+
+					SISKO
+			Chancellor, we can't afford to
+			keep wasting ships in these
+			reckless attacks!
+
+	Gowron fixes him with a steely gaze.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    14.
+
+10   CONTINUED:	(2)
+
+					GOWRON
+				(low, threatening)
+			I like a brave man, Captain...
+			but not a foolish one. The
+			soldiers of the Empire are mine
+			to command. And if I say the
+			attacks will continue... they
+			continue.
+
+	Sisko can't challenge that and he knows it. Gowron
+	holds his eyes for a beat, then EXITS. Sisko reacts
+	with anger and frustration... but there's not much
+	he can do at the moment...
+
+									CUT TO:
+
+11   EXT. CARDASSIA PRIME (MATTE SHOT)
+
+	Establishing.
+
+12   INT. DOMINION BRIEFING ROOM
+
+	WEYOUN, THOT PRAN and the FEMALE SHAPE-SHIFTER are
+	looking over information on one of the wall
+	monitors. (No N.D.s in the b.g.)
+
+					WEYOUN
+			... and as you can see, the
+			Klingon raid on Avenal was easily
+			broken up.
+
+					FEMALE SHAPE-SHIFTER
+			I am less concerned about a
+			Klingon attack than I am about
+			this Cardassian rebellion. We
+			cannot fight the combined
+			military forces of the
+			Federation, the Klingons and the
+			Romulans while facing a full-
+			scale uprising behind the lines.
+
+					WEYOUN
+			I completely agree. However, the
+			situation is well in hand. We
+			still control the Cardassian
+
+			military, while Damar has only a
+			handful of terrorists at his
+			disposal. I can assure you both
+			that this "rebellion" poses no
+			threat.
+
+	Thot Pran issues a burst of STATIC.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    15.
+
+12   CONTINUED:
+
+					FEMALE SHAPE-SHIFTER
+				(to Weyoun, re: Thot Pran)
+			He's correct. You also assured
+			us that Damar would never turn
+			against the Dominion.
+
+	She gives him a withering look.
+
+					WEYOUN
+				(squirming)
+			That was an... error, to be sure.
+			But an understandable one. No one
+			could've foreseen that Damar would
+			become a terrorist. The concept
+			is antithetical to the very nature
+			of Cardassians. They respect
+			authority. They value the rule of
+			law and the security of order --
+			which is exactly what the Dominion
+			offers them.
+
+	The Female Shape-shifter just stares at him. Thot
+	Pran issues another BURST of STATIC. Weyoun glares
+	at him, but the Female Shape-shifter smiles in Thot
+	Pran's direction -- she's clearly still treating the
+	Breen with deference.
+
+					FEMALE SHAPE-SHIFTER
+				(to Thot Pran)
+			If our cloning facilities were
+			operational, I would eliminate
+			this Weyoun immediately.
+				(to Weyoun)
+			Damar must pay a price for his
+			treason. Redouble your efforts to
+			locate his wife and children.
+			Then begin interrogating
+			Cardassian teachers, scientists,
+			local officials... the population
+			has to understand in no uncertain
+			terms that dissent will not be
+			tolerated.
+				(beat)
+			I also want to begin putting
+			Cardassian civilians in and
+			around Dominion military
+			installations. If Damar destroys
+			another shipyard, he'll have to
+			kill a good number of his
+			countrymen in order to do it...
+			that should help turn the people
+			against him.
+
+					WEYOUN
+			An excellent plan.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    16.
+
+12   CONTINUED:	(2)
+
+					FEMALE SHAPE-SHIFTER
+			Your opinion was not solicited.
+				(to Thot Pran)
+			Thot Pran, the sooner we can
+			regain the offensive on the front
+			lines, the better. The
+			installation of Breen weapons
+			aboard Dominion ships should be
+			accelerated. Please issue the
+			appropriate orders to your
+			engineers.
+
+	Thot Pran nods and EXITS, leaving Weyoun alone in
+	the room with the Female Shape-shifter.
+
+					FEMALE SHAPE-SHIFTER
+			How long until the cloning
+			facilities are operational again?
+
+	Weyoun swallows hard.
+
+					WEYOUN
+			Not for... several days...
+			perhaps even weeks.
+
+					FEMALE SHAPE-SHIFTER
+			Keep me informed.
+
+	She EXITS. OFF Weyoun's expression...
+
+									CUT TO:
+
+13   INT. REBEL CAVERN
+
+	Garak is briefing Kira, Damar and Rusot.
+
+					GARAK
+			... and according to our new
+			contact on Kelvas Five, the Breen
+			will begin installing their
+			energy dampening weapons aboard
+			Jem'Hadar fighters within a week.
+
+					DAMAR
+				(to Kira)
+			Has the Federation made any
+			progress on counteracting these
+			weapons?
+
+					KIRA
+			They're still having trouble
+			understanding the underlying
+			technology.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    17.
+
+13   CONTINUED:
+
+					DAMAR
+			Why aren't the Klingon ships
+			affected by these Breen weapons?
+
+					KIRA
+			We don't know that yet either.
+				(beat)
+			But, if we could supply the
+			Federation with one, it would
+			give them a chance to come up
+			with a countermeasure.
+
+					GARAK
+			I had the same thought.
+
+	Kira ignores the following Rusot/Damar exchange --
+	she's coming up with a plan.
+
+					RUSOT
+				(outraged)
+			Our priority should be to free
+			Cardassia from the Dominion, not
+			to do Starfleet's dirty work.
+
+					DAMAR
+			We're all in this together. By
+			helping Starfleet, we're helping
+			ourselves.
+
+	Rusot doesn't like that answer, but swallows it.
+	Again. Kira, meanwhile, is beginning to see the
+	outlines of a plan...
+
+
+					KIRA
+				(to Garak)
+			There's a Cardassian repair
+			facility in the Kelvas System,
+			right?
+
+					GARAK
+			Yes. I take it you have
+			something in mind?
+
+					KIRA
+				(still working it
+				out in her head)
+			It won't be easy... but if we can
+			get onto the bridge...
+				(decisive)
+			All right. We'll use a five-man
+			team. The four of us, plus Odo.
+				(beat)
+			Garak, I'll need everything we
+			have on the Kelvas facility.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE    18.
+
+13   CONTINUED:	(2)
+
+	Garak looks hesitant.
+
+					KIRA
+			Something wrong?
+
+					GARAK
+			Possibly... could I have a few
+			words with the commander...
+
+	He leads her away.
+
+13A  GARAK & KIRA
+
+	In a somewhat private area.
+
+					KIRA
+			What's on your mind?
+
+					GARAK
+			It's about taking Odo on this
+			mission...
+				(beat)
+			I'm afraid there's no easy way of
+			putting this... he's been hiding
+			the true extent of his illness
+			from you for some time now. His
+			condition has severely
+			deteriorated. And the more he
+			changes form, the worse it gets.
+
+					KIRA
+			I know.
+				(off his look)
+			I love him, Garak. You think I
+			wouldn't notice?
+
+					GARAK
+			Why the pretense?
+
+ DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT ONE 19-20.   
+
+13A  CONTINUED:
+
+					KIRA
+			Because I also know that he
+			doesn't want me to find out about
+			it. He wants to put up a brave
+			front and protect me from the
+			truth. Fine. If that makes this
+			easier for him, if that gives him
+			one last shred of dignity to hang
+			onto, then I'll go on ignoring
+			what's happening to him right up
+			until... right up until the end.
+				(beat)
+			Anything else?
+
+					GARAK
+			No.
+
+	With that, the mask closes in over Kira's features
+	again and she heads back to rejoin Damar and Rusot.
+
+					KIRA
+				(to Damar)
+			All right... we're going to need a
+			Cardassian shuttle with up-to-date
+			security protocols...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+ DEEP SPACE NINE:'Tacking into... " - REV. 03/22/99 - ACT TWO 21-22.    
+                            ACT TWO                             
+
+	FADE IN:
+
+14   OMITTED
+
+15   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As a Klingon BIRD OF PREY DECLOAKS and docks at
+	station.
+
+15A  INT. SURGERY
+
+	Where GENERAL MARTOK is lying unconscious on the 
+	bio-bed. Numerous DEVICES are attached to his arms 
+	and chest and he's wearing a Klingon surgical gown.
+
+	WORF is watching an N.D. Nurse check the various
+	monitors and equipment that are hooked up to his
+	friend.
+
+					SISKO'S COM VOICE
+			Sisko to Worf.
+
+					WORF
+				(to com)
+			Worf here.
+
+					SISKO'S COM VOICE
+			I'd like to see you in my office,
+			commander.
+
+					WORF
+			On my way.
+
+	Worf takes a last look at Martok, then EXITS.
+
+15B  INT. CAPTAIN'S OFFICE
+
+	Sisko is at the desk when Worf ENTERS.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT TWO    23.
+
+15B  CONTINUED:
+
+					SISKO
+			How's Martok?
+
+					WORF
+			Doctor Bashir said he'll make a
+			full recovery.
+
+					SISKO
+			I'm glad to hear that.
+				(beat)
+			Mister Worf, we have a serious
+
+			problem on our hands.
+
+					WORF
+				(nods)
+			Gowron.
+
+					SISKO
+			He seems hell-bent on continuing
+			these offensives regardless of
+			the cost.
+
+					WORF
+			He is a stubborn, arrogant man.
+
+					SISKO
+			That may be true, but he's not a
+			fool. He's risking our entire
+			defense posture. Why can't he
+			see that?
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT TWO    24.
+
+15B  CONTINUED:	(2)
+
+					WORF
+			I suspect the Chancellor cannot
+			see anything at the moment...
+			except for one man.
+
+					SISKO
+			You mean Martok?
+
+
+					WORF
+			Gowron sees him as a political
+			threat. These attacks against
+			the Dominion are designed to
+			humiliate Martok in the eyes of
+			the Empire -- to force him to
+			endure defeat after defeat.
+
+					SISKO
+			Are you telling me this is a
+			political vendetta?
+
+					WORF
+			It would not be the first time
+			that a Klingon Chancellor put his
+			own interests ahead of the
+			greater good.
+
+	Sisko stares at him for a beat... takes a step or
+	two away from Worf to let this outrageous idea sink
+	in.
+
+					SISKO
+			Something has to be done.
+
+					WORF
+			I agree. And I have a solution.
+			But it will not be easy.
+
+					SISKO
+
+			Do whatever it takes, Worf.
+			Those Klingon ships out there are
+			the only thing between us and the
+			Breen. Gowron's risking the
+			safety of the entire Alpha
+			Quadrant and it has to stop.
+
+					WORF
+			Understood.
+
+	Worf EXITS.
+
+									CUT TO:
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT TWO    25.
+
+16
+thru   OMITTED
+17
+
+18   INT. REBEL CAVERN.
+
+	Kira is sitting at a table and working on some PADDs
+	when another PADD is suddenly tossed on the table in
+	front of her. She looks up to see Rusot standing
+	there.
+
+					RUSOT
+			My men have secured the shuttle.
+			They'll meet us at those
+			coordinates.
+
+	Kira barely glances at the PADD as she pushes it to
+	one side and then goes back to her own work.
+
+					KIRA
+			Good.
+
+					RUSOT
+			Are you enjoying yourself?
+			Getting Cardassians to do your
+			bidding must give you great
+			satisfaction.
+
+					KIRA
+			I'm a little busy right now,
+			Rusot. Go find someone else to
+
+			play with.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT TWO    26.
+
+18   CONTINUED:
+
+	Rusot leans down close to her, cornering her in her
+	chair with his body. She watches him coolly.
+
+					RUSOT
+			You may have fooled Damar into
+			believing that you're here to
+			help fight the Dominion, but I
+			know why you're really here.
+
+					KIRA
+			This should be good.
+
+					RUSOT
+			You killed hundreds of
+			Cardassians during the
+			Occupation. Now you're getting a
+			chance to do it again. That's
+			why you're here, isn't it? To
+			hang a few more Cardassian
+			neckbones from your belt?
+				(beat)
+			Admit it, Kira -- you won't be
+			satisfied until every one of us
+			is dead.
+
+	Kira tries to get up.
+
+					KIRA
+			I don't have time for this...
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT TWO    27.
+
+18   CONTINUED:	(2)
+
+	He tries to shove her back down, but the second his
+	hand touches her, the heel of Kira's palm smashes
+	into his chin. She hits him a few times hard and
+	fast and in the blink of an eye she has him face
+	down on the ground and at her mercy.
+
+					KIRA
+				(continuing)
+			Don't you ever touch me again.
+
+					RUSOT
+			I guess I hit a nerve...
+
+	She twists his wrist in a certain way and he grunts
+	in pain.
+
+					KIRA
+			That's hitting a nerve, Rusot.
+			Keep pushing me and you're going
+			to find out just how many nerves
+			your miserable body has.
+
+	She twists his wrist again and then releases him and
+	stands back. He slowly gets to his feet and there's
+	a moment as they stand there face to face.
+
+					RUSOT
+			When this is all over... and the
+			Dominion is defeated...
+
+					KIRA
+			You won't have any trouble
+			finding me.
+
+	They glare at each other for a moment, then Rusot
+	EXITS. Kira watches him go, then hears...
+
+					GARAK'S VOICE
+			You'll have to do something about
+			him long before that, commander.
+
+	She turns to see Garak as he steps out of the
+	shadows, holding a phaser.
+
+					KIRA
+				(dry)
+			Thanks for all your help.
+
+					GARAK
+			You appeared to have things under
+			control.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT TWO    28.
+
+18   CONTINUED:	(3)
+
+					GARAK (Cont'd)
+				(beat)
+			Despite his statement to the
+			contrary, Rusot won't wait until
+			the end of the war to make his
+			move. I suggest that you not
+			wait either. Kill him... before
+			he kills you.
+
+	OFF Kira's expression as she realizes that Garak
+	just may be right...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE 29-29A. 
+                           ACT THREE                            
+
+	FADE IN:
+
+
+19   INT. SURGERY
+
+	Martok is still lying on the bio-bed, but he's
+	conscious and is hooked up to fewer of the medical
+	devices. He looks at Worf with outrage.
+
+					MARTOK
+			Challenge Gowron? In the middle
+			of a war? It's treasonous! I
+			won't do it.
+
+					WORF
+			Gowron is leading us all to ruin.
+			It is your duty to challenge him
+			to protect the Empire!
+
+					MARTOK
+			You would have me protect the
+			Empire by breaking my oath... by
+			spilling the blood of a Klingon
+			brother while an enemy stands at
+			our door? Where is the honor in
+			that?
+
+					WORF
+			Gowron is sacrificing our troops
+			for his own petty reasons. Where
+			is the honor in that?
+
+					MARTOK
+			The troops are his to command,
+			Worf. It is not our place to
+			question him unless he acts with
+			cowardice -- and there is no
+			proof of that!
+
+					WORF
+			You are not listening!
+
+	Martok still can't wrap his mind around this -- he
+	looks at Worf as if he's gone completely mad.
+
+					MARTOK
+			I've heard every word you said. You
+			want me to become Chancellor. Me.
+				(beat)
+			Tell me Worf, how do you think
+			the members of the High Council
+			will react when they're asked to
+			follow a common man from the
+			Ketha Lowlands? A man without a
+			drop of noble blood in his veins?
+
+   DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE   30.
+
+19   CONTINUED:
+
+					WORF
+			Kahless himself was not high-
+			born.
+
+					MARTOK
+			Kahless was divine.
+
+					WORF
+			Your name is revered throughout
+			the Empire. If you seize the
+			Leadership, every warrior from
+			here to Kronos will swear an oath
+			to you. With that kind of
+			support, the High Council will
+			have no choice but to accept you
+			as chancellor.
+
+					MARTOK
+			You sound like a Romulan.
+
+					WORF
+			You know I'm right.
+
+	Martok has heard enough.
+
+					MARTOK
+			I am a loyal soldier of the
+			Empire! I would rather die than
+			dishonor my uniform by raising a
+			hand to my chancellor in a time
+			of war! I would bring shame to
+			everything I have fought to
+			protect! Everything I believe
+			in.
+
+					WORF
+			General --
+
+					MARTOK
+			My decision is made and we will
+			not speak of this again!
+
+	Worf looks at him for a beat, then realizes that
+	further argument is futile. He EXITS in
+	frustration.
+
+									CUT TO:
+
+20   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	Moving at warp.
+
+   DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE  30A.
+
+21   INT. RUNABOUT
+
+	Kira in the pilot seat, Odo sitting next to her. In
+	the b.g. Garak and Damar are standing near the
+	Replicator. Garak hands Damar a PADD.
+
+	Kira is watching Odo closely -- he notices.
+
+					ODO
+			You're staring again.
+
+   DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE   31.
+
+21   CONTINUED:
+
+					KIRA
+			Sorry. I just can't help...
+			worrying about you.
+
+					ODO
+			Don't. It may be a long time
+			before the first symptoms
+			manifest themselves. And by
+			then, I'm sure Doctor Bashir will
+			have found a cure.
+
+	She gives him a brave smile.
+
+					KIRA
+			Right.
+				(beat)
+			Can you take the helm? I'm going
+			to get some raktajino.
+
+	Odo nods and Kira heads for the rear of the cockpit.
+
+
+21A  NEAR THE REPLICATOR
+
+	Her mind still on Odo, Kira goes to the replicator
+	and at first doesn't notice the stunned look on
+	Damar's face or that Garak is regarding him with a
+	sympathetic expression. She works the Replicator
+	and then picks up on the vibe.
+
+					KIRA
+
+			What's wrong?
+
+					GARAK
+			One of our listening posts picked
+			up a message that... the Dominion
+			has succeeded in locating Damar's
+			family.
+
+					DAMAR
+			They're dead.
+
+	There's nothing to say and Kira doesn't try. Damar
+	is still trying to sort through his reaction.
+
+					DAMAR
+			My wife and I... she was a
+			difficult woman. Selfish.
+			Stubborn. But she wasn't part of
+			this rebellion. The Dominion knew
+			that... the Founder knew that...
+			Weyoun knew that. To kill her...
+			and my son...
+
+				(beat)
+			The... casual brutality of it.
+			The... waste of life.
+
+DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE 32-33.  
+
+21A  CONTINUED:
+
+					DAMAR (Cont'd)
+			What kind of state tolerates the
+			murder of innocent women and
+			children? What kind of people
+			give those orders?
+
+	A part of Kira knows she should keep her mouth shut,
+	but the worry and stress over Odo are fraying her
+	nerves and she finds herself saying 
+
+					KIRA
+				(pointed)
+			Yeah, Damar, what kind of people
+			give those orders?
+
+	Kira immediately regrets opening her mouth, but too
+	late -- Damar's eyes blaze with fury and for a
+	moment, it looks as though he might lunge at her.
+	He keeps it under control, however, and simply drops
+	the PADD in disgust and revulsion, then heads for
+	the cockpit and takes the pilot's seat.
+
+					KIRA
+				(to herself)
+			That was stupid.
+
+					GARAK
+			Not at all. Damar has a
+			certain... romanticism about the
+			past. He can use a dose of cold
+			water.
+
+					KIRA
+			I could've picked a better time.
+
+					GARAK
+			If Damar is the man to lead a new
+			Cardassia... if he's the man we
+			hope him to be... then the pain
+			of this news made him more
+			receptive to what you said, not
+			less.
+
+	The console in front of Odo BEEPS.
+
+					ODO
+			We're approaching the rendezvous
+
+			point.
+
+22   OMITTED
+
+   DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE   34.
+
+23   EXT. SPACE - RUNABOUT (OPTICAL) 
+
+	The ship drops out of warp.
+
+24   INT. RUNABOUT
+
+	Kira and Garak head for the cockpit and Rusot ENTERS
+	from the rear of the runabout.
+
+					ODO
+				(off console)
+			The shuttle is here.
+
+					RUSOT
+			Right on time. Just as I
+			promised.
+
+	Everyone turns to look out the window.
+
+25   INCLUDE WINDOW (OPTICAL)
+
+	A CARDASSIAN SHUTTLE is moving close to them.
+
+   DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT THREE   35.
+
+25   CONTINUED:
+
+					DAMAR
+				(hits companel)
+			Damar to shuttle. Lower your
+			shields and we'll beam aboard.
+
+					COM VOICE
+			Acknowledged. Shields down.
+
+					DAMAR
+				(to others)
+			Let's go.
+
+	Everyone moves toward the transporter in the rear of
+	the runabout.
+
+26
+thru   OMITTED
+30
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   36.
+                           ACT FOUR                             
+
+
+	FADE IN:
+
+31
+thru   OMITTED
+32
+
+32A  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+32B  INT. QUARK'S - SECOND LEVEL
+
+	EZRI and Worf are at a table, sharing drinks and
+	trying to figure out what to do about Gowron.
+
+					WORF
+			... and in truth, I understand his
+			position. It is the duty of all
+			soldiers to support their leaders in
+			time of war. Asking Martok to stand
+			against Gowron was a foolish error.
+
+					EZRI
+			So what are you going to do?
+
+					WORF
+				(with little faith)
+			Try to persuade Gowron to
+			discontinue these attacks.
+				(beat)
+			You've said very little.
+
+					EZRI
+			I'm a counselor. Most of my job
+			is listening.
+
+					WORF
+			I'm not interested in counseling.
+			I need something more useful.
+				(off her look)
+			That's not what I meant.
+
+					EZRI
+			I know what you meant. Look, I'm
+			just not sure I should be giving you
+			advice on what to do in this
+			situation. This is a Klingon matter.
+
+					WORF
+			You're still a member of the
+			House of Martok.
+
+					EZRI
+			This is the first I've heard of
+			it.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   37.
+
+32B  CONTINUED:
+
+					WORF
+			Martok and I discussed it weeks
+			ago.
+				(a shrug)
+			He likes you. He thinks you're
+			an honorable woman and a worthy
+			successor to Jadzia.
+				(casual, taking a
+				drink)
+			So do I.
+
+					EZRI
+			That's very sweet of him... of
+			both of you.
+
+					WORF
+			Sweet?
+
+					EZRI
+			Not a very Klingon word is it?
+
+					WORF
+			No.
+
+					EZRI
+			It's very... honorable.
+
+					WORF
+			Better. But a little obvious.
+			Now, tell me what you think.
+
+	Ezri takes a moment.
+
+					EZRI
+			Okay. But, I'm not sure you're
+			going to like it.
+				(beat)
+			I think the situation with Gowron
+			is just a symptom of a deeper
+			problem. The Klingon Empire is
+			dying. And I think it deserves
+			to die.
+
+					WORF
+			You're right. I don't like it.
+
+					EZRI
+			Don't get me wrong, I'm really
+			touched that you still consider me
+			a member of the House of Martok...
+			but I tend to look at the Empire
+
+			with a little more skepticism than
+			Curzon or Jadzia did.
+				(beat)
+
+DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR 38-40.   
+
+32B  CONTINUED:	(2)
+
+					EZRI (Cont'd)
+			I see a society in deep denial
+			about itself. We're talking
+			about a warrior culture that
+			prides itself on maintaining
+			centuries-old traditions of honor
+			and integrity... but in reality,
+			it's willing to accept corruption
+			at the highest level.
+
+					WORF
+			You're overstating your case.
+
+					EZRI
+			Am I? Who was the last leader of
+			the High Council that you respected?
+			Has there even been one?
+
+	His silence speaks volumes.
+
+					EZRI
+			How many times have you had to
+			help cover up the crimes of
+			Klingon leaders because someone
+			told you it was for the "good of
+			the Empire?"
+				(beat)
+			I know this sounds harsh, but...
+			the truth is, you've been willing
+			to accept a government you know
+			is corrupt. Gowron is just the
+			latest example.
+				(beat)
+			Worf, you're one of the most
+			honorable and decent men I've
+			ever met... and if you're willing
+			to tolerate men like Gowron, what
+			hope is there for the Empire?
+
+	Off Worf's expression as he realizes that she may be
+	right...
+
+33   EXT. SPACE - THE CARDASSIAN SHUTTLE (OPTICAL)
+
+	Moves at impulse toward a CARDASSIAN SPACE STATION
+	which hangs in space. Dominion and Cardassian SHIPS
+	move about the station. As we watch, the shuttle
+	moves toward a docking bay...
+
+34
+thru   OMITTED
+36
+
+37   EXT. SPACE - A JEM'HADAR FIGHTER (OPTICAL)
+
+	is docked at the station.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   41.
+
+38   INT. AIRLOCK CORRIDOR
+
+	Damar, Rusot, Garak (who's now in a Cardassian
+	uniform) and Kira ENTER from a Turbolift. The three
+	Cardassians are all carrying phaser rifles and
+	Kira's uniform is torn and scorched. Kira's hands
+	are manacled behind her back and they look for all
+	the world like a guard detail escorting a dejected
+	Federation prisoner. They round the corner and head
+	toward the airlock, which is guarded by a Cardassian
+	soldier named VORNAR and an N.D. Jem'Hadar. Damar
+	and Rusot let Garak handle the situation, trying to
+	draw as little attention as possible to themselves.
+
+					GARAK
+			We have a prisoner for the Vorta
+			in command of this ship.
+
+
+	Garak pulls out a Cardassian PADD and hands it to
+	Vornar, who looks it over.
+
+					VORNAR
+			Everything seems to be in order.
+			But you will have to leave your
+			weapons here.
+
+	He hands the PADD back.
+
+					GARAK
+			Why?
+
+	Vornar isn't happy about it either.
+
+					VORNAR
+			New orders from Dominion
+			Headquarters. No armed
+			Cardassians allowed aboard
+			Jem'Hadar vessels.
+
+					GARAK
+				(bitter)
+			It sounds like they don't trust
+			us anymore.
+
+	Vornar glances at the Jem'Hadar, who simply looks
+	coolly back.
+
+					VORNAR
+
+			So it would seem.
+				(beat)
+			I'm sorry, but those are the
+			orders.
+
+					GARAK
+			It's not your fault.
+				(to Damar and Rusot)
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   42.
+
+38   CONTINUED:
+
+					GARAK (Cont'd)
+			Do as he says. The three of us
+			should be able to handle one
+			Bajoran woman.
+
+	They hand over their weapons to Vornar, who stores
+	them in a nearby weapons locker.
+
+					VORNAR
+				(to Jem' Hadar)
+			Take them to the bridge.
+
+	The Jem'Hadar EXITS to the airlock, and they follow
+	him. Damar is the last man through the airlock and
+	just as he's about to exit...
+
+					VORNAR
+				(casual)
+			Good luck... Legate Damar.
+
+	Damar freezes on the threshold, and they exchange a
+	look... then Vornar looks away and resumes his
+	position guarding the Airlock -- he's not going to
+	tell anyone. An ally.
+
+	Damar gives him a nod of acknowledgement, then
+	EXITS.
+
+									CUT TO:
+
+39   INT. JEM'HADAR CORRIDOR
+
+	The Jem'Hadar leads Damar, Garak, Rusot and Kira
+	down the Corridor.
+
+40   ON KIRA'S HANDS
+
+	as she twists her hands in a certain way and the
+	MANACLES OPEN.
+
+41   KIRA
+
+	keeps her hands behind her back and bides her
+	time...
+
+42   ON KIRA'S HANDS
+
+	As she TOSSES the manacles to one side. She then
+	crosses her wrists one over the other and keeps them
+	behind her back.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR  42A.
+
+43   ON THE DECK (OPTICAL)
+
+	The manacles LAND near a VENT on the wall. After a
+	beat, the manacles MORPH INTO GOO and then SLITHER
+	INTO THE VENT and disappear.
+
+									CUT TO:
+
+44   INT. JEM'HADAR BRIDGE
+
+	N.D. Jem'Hadar are working various consoles or
+	simply standing guard.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   43.
+
+44   CONTINUED:
+
+	(NOTE: the Jem'Hadar are now all carrying Jem'Hadar
+	weapons.) The female Vorta in charge -- LUARAN -- is
+	wearing the familiar headset and talking to someone
+	that only she can see. The N.D. Jem'Hadar, Damar,
+	Garak, Rusot and Kira ENTER.
+
+					LUARAN
+			... we'll run the first test
+			firing in two hours, fourteen
+			minutes.
+				(listens)
+			Agreed. Coordinate it with
+			central operations.
+
+	Luaran turns to the new arrivals.
+
+					LUARAN
+			What's this?
+
+					GARAK
+			We have a prisoner.
+
+					LUARAN
+			I can see that. Why are you
+			bringing her to me?
+
+					GARAK
+			This is Commander Rota -- deputy
+			intelligence officer for this
+			entire sector. I would think
+			you'd be interested in
+			interrogating her.
+
+	That gets Luaran's attention. She swings the
+	eyepiece away from her face and looks Kira over for
+	a moment.
+
+					LUARAN
+			I wasn't informed of this.
+
+					GARAK
+			I'm sure the report hasn't
+			reached you yet, but that's not
+			surprising. We only took the
+			commander prisoner yesterday.
+
+	Something about this rings false to Luaran. She
+	looks Garak over closely. The N.D. Jem'Hadar on the
+	Bridge quickly pick up on Luaran's discomfort and
+	they begin to focus on the small Cardassian group in
+	their midst.
+
+					LUARAN
+				(to Garak)
+			Let me see your orders.
+
+DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   44.
+
+44   CONTINUED:	(2) 
+
+					GARAK
+			Of course.
+
+	Garak is about to hand the PADD over when the door
+	to the Bridge OPENS and the Female Shape-shifter
+	ENTERS. Everyone reacts in surprise.
+
+					LUARAN
+			Founder. You honor us with your
+			presence. I had no idea you were
+			in this sector.
+
+					FEMALE SHAPE-SHIFTER
+			My movements do not concern you.
+
+					LUARAN
+			No...
+
+					FEMALE SHAPE-SHIFTER
+				(re: Kira)
+			Ah. Commander Rota.
+				(to Luaran)
+			Have you begun interrogating this
+			prisoner?
+
+					LUARAN
+			Not yet.
+
+					FEMALE SHAPE-SHIFTER
+			Good. I will conduct the
+			questioning myself.
+
+					LUARAN
+			As you wish.
+
+	The Female Shape-shifter sees something O.S. and
+	seems very pleased.
+
+					FEMALE SHAPE-SHIFTER
+			I see the upgraded plasma rifles
+			have been distributed.
+				(to Jem' Hadar)
+			Let me inspect it.
+
+45   NEW ANGLE (OPTICAL)
+
+	As the Jem'Hadar quickly steps over and hands her
+	the rifle. She looks it over for a beat.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FOUR   45.
+
+45   CONTINUED:
+
+					FEMALE SHAPE-SHIFTER
+
+			An excellent weapon...
+				(to Garak)
+			What do you think?
+
+	She hands the rifle to Garak, who seems to look it
+	over for a beat... then suddenly he spins around and
+	FIRES RAPIDLY around the Bridge, catching the
+	Jem'Hadar completely off-guard. When he stops, all
+	the Jem'Hadar and Luaran are lying on the deck,
+	dead. Damar and Rusot quickly move to grab weapons
+	from the dead soldiers.
+
+					KIRA
+				(to Rusot)
+			Secure those hatches!
+
+	Rusot moves to lock the doors, Kira and Garak rush
+	to man two of the consoles.
+
+	The Female Shape-shifter MORPHS into Odo, who then
+	angrily moves toward Garak.
+
+					ODO
+			It wasn't necessary to kill them
+			all!
+
+					GARAK
+			We can't afford to be burdened
+			with prisoners.
+
+					KIRA
+			We'll argue about this later.
+				(to Garak)
+			Prepare to flood all decks below
+			the bridge with neurazine gas.
+				(to Damar)
+			Bring the warp drive on-line and
+			lay in a course for the
+			Federation.
+
+					GARAK
+			Commander!
+
+	Kira turns back to Garak, who has a shocked look on
+	his face.
+
+					GARAK
+			They haven't finished installing
+			the Breen weapon.
+				(beat)
+			We can't leave.
+
+     DEEP SPACE NINE: "Tacking into" - REV. 03/22/99 - ACT FOUR     46.
+
+45   CONTINUED:	(2)
+
+	OFF Kira's face as she realizes that they're in
+	trouble...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+46   INT. JEM'HADAR BRIDGE (OPTICAL)
+
+	Continuous from Act Four.
+
+					ODO
+				(to Garak)
+			How long until they finish
+			installing the weapon?
+
+
+					RUSOT
+			We can't wait!
+
+					KIRA
+			We're not leaving without that
+			weapon.
+
+					GARAK
+				(off console)
+			There are three -- no, four --
+			Breen working in the engine room.
+			From the diagnostics, I'd say
+			it'll take them... another thirty
+			to forty-five minutes to complete
+			their work...
+
+					RUSOT
+			We don't have that much time!
+
+					KIRA
+			Yes, we do. No one even knows
+			we're on the bridge. All we have
+			to do is sit tight, send out the
+			standard replies to any inquiries
+			and wait for the Breen to finish
+			their work.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   48.
+
+46   CONTINUED: 
+
+					RUSOT
+			Damar, this is insane. She'll
+			get us all killed!
+
+	Damar hesitates, not sure which way to jump.
+	There's a BEEPING from one of the consoles. Garak
+	checks a reading.
+
+					GARAK
+				(off console)
+			There's an incoming message.
+				(beat)
+			They want to speak with the
+			Vorta.
+
+	Kira thinks for a beat, then goes to remove the
+	headset from Luaran's body.
+
+					KIRA
+			Disable the visual feed.
+
+	Garak works and Kira puts on the headset and
+	steadies her voice as she goes to a console.
+
+					KIRA
+			What was her name?
+
+	Garak works again.
+
+					KIRA
+			Come on!
+
+					GARAK
+				(working quickly)
+			I'm looking... ah! Her name was
+			Luaran.
+
+	Kira activates the headset. She makes an effort to
+	give her voice the cadence and inflection of a
+	Vorta.
+
+					KIRA
+			This is Luaran.
+				(beat)
+			No, I can't see you either.
+
+			We're experiencing difficulties
+			with our com system. What do you
+			want?
+				(listens)
+			Just a moment.
+
+	She deactivates the headset and turns to Damar.
+
+					KIRA
+			They want a status report on our
+			navigational array.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   49.
+
+46   CONTINUED:	(2) 
+
+					ODO
+			I've got it.
+
+	He rushes to a console and begins working.
+
+					KIRA
+				(activates headset)
+			The data is on its way.
+				(listens)
+			Excellent. We'll be repairing
+			the com system for at least the
+			next hour. I'll contact you when
+			we're finished. Luaran out.
+
+	She takes off the headset.
+
+					RUSOT
+
+			What if they didn't believe you?
+
+					KIRA
+			Then we're dead.
+
+	OFF their looks...
+
+									CUT TO:
+
+47   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+48   INT. INFIRMARY
+
+	Bashir is still at his work, slogging away through
+	test after test and checking over various
+	experiments. He's even more exhausted than the last
+	time we saw him. O'Brien ENTERS carrying a small
+	covered tray.
+
+					O'BRIEN
+			Hey.
+
+					BASHIR
+			Hey.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   50.
+
+48   CONTINUED:
+
+	An awkward beat, then O'Brien lifts the lid on the
+	tray.
+
+					O'BRIEN
+			Keiko whipped up some crab rolls
+			for you. She... we... thought
+			you might be hungry.
+
+					BASHIR
+			Thanks. To both of you.
+
+	Bashir takes the box and begins to wolf down the
+	food (sushi handrolls).
+
+
+					BASHIR
+				(I'm sorry)
+			About the other day...
+
+					O'BRIEN
+			Forget it.
+
+	Beat.
+
+					O'BRIEN
+			How's the work going?
+
+					BASHIR
+			I'm firmly entrenched in square
+			one.
+
+					O'BRIEN
+			Hmm.
+				(beat)
+			Can I ask you a question -- about
+			Thirty-one?
+
+					BASHIR
+			Go ahead.
+
+					O'BRIEN
+			If you do find the cure and they
+			hear about it, what do you think
+			they'll do?
+
+					BASHIR
+			Well... I would imagine that
+			they'd be concerned. The very
+			existence of a cure would
+			jeopardize their entire plan to
+			eradicate the Founders. So I
+			wouldn't be surprised if Sloan or
+			another operative suddenly showed
+			up here on the station and tried
+			to destroy my work.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   51.
+
+48   CONTINUED:	(2)
+
+					BASHIR (Cont'd)
+				(beat)
+			What are you getting at?
+
+					O'BRIEN
+			I think you should send a message
+			to Starfleet Medical saying that
+			you have found the cure.
+
+	Beat.
+
+					BASHIR
+			You're trying to lure someone
+			from Section Thirty-one to the
+			station...
+
+					O'BRIEN
+			That's right.
+
+					BASHIR
+			And once this operative gets
+			here... ?
+
+					O'BRIEN
+			We capture him. Then, all we
+			have to do is figure out a way to
+			get some information out of him.
+
+					BASHIR
+			He may not know anything about
+			the disease.
+
+					O'BRIEN
+			Maybe not... but I bet he'll know
+			who does.
+				(beat)
+			So... what do you think?
+
+					BASHIR
+			I think... it's a good plan. A
+			very good plan. When did you
+			become so devious?
+
+					O'BRIEN
+			I think I've been around you too
+			long. I'm starting to learn how
+			to build wheels within wheels.
+
+					BASHIR
+			Not a bad skill for an engineer.
+
+					O'BRIEN
+			All the same, it's not one I'd
+			like to perfect. Let's just hope
+			this works and we can cure Odo --
+			that's all I care about.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE  51A.
+
+48   CONTINUED:	(3)
+
+					BASHIR
+			Me too, Miles. Me too.
+
+									CUT TO:
+
+49   OMITTED
+
+50   EXT. SPACE - A JEM'HADAR FIGHTER (OPTICAL)
+
+	Still docked at the Cardassian station.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   52.
+
+51   INT. JEM'HADAR BRIDGE
+
+	Damar and Garak are staring at two of the consoles,
+	while Kira paces and Rusot nervously keeps his weapon
+	pointed at the door. Odo is leaning against one of
+	the bulkheads.
+
+					KIRA
+			How much longer?
+
+					GARAK
+			I'm not certain... they appear to
+			be having trouble connecting the
+			secondary relays...
+
+	Kira notices that...
+
+52   ODO
+
+	doesn't look well.
+
+					KIRA
+
+			Odo... are you all right?
+
+					ODO
+				(difficult)
+			Yes... don't worry... I'm...
+
+	Suddenly he lets out a cry of pain and falls O.S.
+
+52A  KIRA
+
+	rushes over just as Odo hits the deck -- almost his
+	entire body is DESICCATED and FLAKING OFF. It's a
+	horrific sight.
+
+					ODO
+				(difficult)
+			Sorry...
+
+					KIRA
+			There's nothing to be sorry
+			about...
+
+	He convulses again.
+
+					KIRA
+			Stay with me, Odo. We're going
+			to get out of here. Just hang on
+			a little longer.
+
+
+	Rusot is standing over them and looking down at the
+	suffering Changeling.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   53.
+
+52A  CONTINUED:
+
+					RUSOT
+			It's over.
+
+					KIRA
+			Shut up, Rusot!
+
+					RUSOT
+			The Shape-shifter is useless. The
+			whole plan is coming apart! We have
+			to get out of here!
+
+					KIRA
+			Go back to your post!
+
+					RUSOT
+			No! No, more! We're leaving now!
+
+	Rusot aims his phaser at the back of Kira's head...
+
+					GARAK'S VOICE
+			That would be unwise.
+
+53   NEW ANGLE
+
+
+	showing that Garak is now pointing a weapon at Rusot.
+
+					RUSOT
+				(to Garak)
+			You're still a Cardassian, Garak.
+			You're not going to kill one of
+			your own people for a Bajoran
+			woman.
+
+					GARAK
+			How little you understand me.
+
+	Damar steps forward, his own weapon in his hand.
+
+					DAMAR
+			Enough! Put your weapons down,
+			both of you!
+
+					RUSOT
+				(to Damar)
+			You want her dead too, Damar. I
+			know you do. But you're the leader
+			of the rebellion and you don't want
+			to kill someone wearing a Starfleet
+			uniform. Let me do it for you.
+
+	Something BEEPS on a console. Damar glances at it.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   54.
+
+53   CONTINUED:
+
+					DAMAR
+			They've finished installing the
+			dampening weapon.
+
+					KIRA
+			Then let's all get the hell out
+
+			of here.
+
+					RUSOT
+			Not you.
+
+
+					GARAK
+				(phaser never
+				wavering)
+			I'm still here, Rusot.
+
+					RUSOT
+				(to Damar)
+			Damar, shoot him. We can kill
+			them both and keep the Breen
+			weapon for ourselves. I believe
+			in you, Damar. I know you're the
+			right man to restore the Empire
+			we loyally served. The Empire we
+			loved. Together we can lead our
+			people to greatness again!
+				(beat)
+			Just aim and fire.
+
+53A  ON DAMAR (OPTICAL)
+
+	As he decides what to do. He finally makes his
+	choice and FIRES his phaser. There's an O.S. SOUND
+	of a body hitting the floor.
+
+53B  WIDER
+
+	Revealing Rusot lying dead on the floor. Damar goes
+	over to look down at him.
+
+					DAMAR
+			He was my friend. But his
+			Cardassia is dead... and it won't
+			be coming back.
+
+	He and Kira exchange a silent look. She's grateful
+	to hear those words, especially after their talk in
+	the runabout.
+
+					KIRA
+				(to Garak)
+			Flood all compartments with the
+			gas.
+				(to Damar)
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   55.
+
+53B  CONTINUED:
+
+					KIRA (Cont'd)
+			Clear all moorings. Bow
+			thrusters ahead full.
+
+54   EXT. SPACE - A JEM'HADAR FIGHTER (OPTICAL)
+
+	Moving away from the Cardassian station.
+
+55   NEW ANGLE (OPTICAL)
+
+	as the Fighter goes into WARP.
+
+56   INT. JEM'HADAR BRIDGE
+
+	As before.
+
+					GARAK
+				(to Kira)
+			We've cleared their defense
+			perimeter.
+
+					KIRA
+				(to Damar)
+			Take the helm.
+
+	Kira goes to Odo, who's now propped up against a
+	bulkhead.
+
+					ODO
+			You're probably... angry...
+
+					KIRA
+			Why?
+
+					ODO
+			I... hid my... true condition..
+
+					KIRA
+			Odo... I've known all along.
+
+	A beat as he realizes that she's been protecting him
+	too.
+
+
+					KIRA
+			But, it's not over. I'm sure
+			Julian's working on a cure and --
+
+					ODO
+			Let's not... talk about it.
+			Just... sit here with me.
+
+					KIRA
+			All right.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   56.
+
+56   CONTINUED: 
+
+	She sits down beside him and he leans his head on
+	her shoulder as the ship drones on...
+
+									CUT TO:
+
+56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49)
+
+	Gowron has convened a meeting of his top military
+	leaders. (Gowron is wearing his leader's CLOAK.)
+	Martok and Worf are here along with several N.D.
+	Klingon Admirals and Generals (both male and
+	female). As Gowron rages, Worf seems lost in
+	thought -- Ezri's words are still ringing in his
+	ears.
+
+	Gowron points to the map on the wall monitor.
+
+					GOWRON
+			Our next target... Sarpedion
+			Five.
+
+	The Generals and Admirals exchange concerned looks --
+	none of them think this is a good idea.
+
+					MARTOK
+			Sarpedion is the headquarters for
+			the entire Twelfth Order.
+
+					GOWRON
+				(to Martok)
+			Yes. You'll take fifteen Vorcha-
+			class battle cruisers in first to
+			soften their defenses. Then --
+
+					MARTOK
+			Chancellor. That world is one of
+
+			the most heavily fortified
+			positions in the entire
+			Cardassian Empire. Fifteen
+			battle cruisers will barely
+			scratch their defenses!
+
+	Gowron seems to relish Martok's objection.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   57.
+
+56A  CONTINUED:
+
+					GOWRON
+			If you lack the courage to fight
+			an uphill battle, then perhaps
+			you should retire to your bed.
+
+	There's a tense beat in the room as Martok rises and
+	puts a hand on his knife. Gowron's eyes narrow and
+	he waits for Martok to make his move. But in the
+	end, Martok feels the call of duty and his hand
+	drops away from the knife.
+
+					MARTOK
+			I will fight any battle,
+			anywhere... for the Empire.
+
+					GOWRON
+				(with a sneer)
+			Spoken like a true warrior.
+
+	Martok sits back down and Gowron goes back to the
+	map. Worf looks at Martok and realizes that
+	something's got to give.
+
+					GOWRON
+			After Martok has softened their
+			defenses --
+
+					WORF
+			No.
+
+	Worf stands up.
+
+					WORF
+			We cannot attack Sarpedion.
+
+					GOWRON
+			I decide what can and cannot be
+			done.
+
+					WORF
+			You rule without wisdom and
+			without honor. The warriors
+			gathered here will not say this
+			to you... but I will. You are
+			squandering our ships and our
+			lives in a petty act of
+			vengeance. You do not care what
+			happens to the Empire, you only
+			care about Gowron.
+
+	A deep hatred burns in Gowron's eyes.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   58.
+
+56A  CONTINUED:	(2)
+
+					GOWRON
+			I should've known better than to
+			trust you again. If you were a
+			true Klingon, I would kill you
+			where you stand. Fortunately for
+			you, that child's uniform shields
+			you from your rightful fate.
+
+	Worf takes off his combadge and tosses it on the
+	table.
+
+					WORF
+			What I say now, I say as a member
+			of the House of Martok, not as a
+			Starfleet officer... you have
+			dishonored yourself and the
+			Empire. You are not worthy of
+			leading the Council.
+
+	Shocked looks go around the room.
+
+					GOWRON
+			There can be only one answer to
+			that.
+
+	Gowron strips off his cloak and goes to a wall
+	display of BAT'LETHS. Worf goes to another display
+	and grabs a bat'leth. Martok grabs his arm.
+
+					MARTOK
+			Worf, this is madness...
+
+	But Worf pulls away and turns to face Gowron. The
+	other Klingons are gathered in a circle around the
+	room.
+
+	Gowron swings the bat'leth first and Worf parries
+	it. The two men fence with each other for a moment,
+	then begin the battle in earnest.
+
+	The fight is close and brutal... each man wounding
+	the other several times... as the Klingons watch the
+	contest, their own blood begins to rise... they
+	start yelling and cheering on the combatants...
+	Martok grimaces with every blow that Gowron lands...
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   59.
+
+56A  CONTINUED:	(3)
+
+	finally, Gowron BREAKS Worf's bat'leth and sweeps
+	his feet. Worf hits the deck and Gowron raises his
+	bat'leth for the killing stroke...
+
+	But Worf blocks the blow with one of the broken
+	pieces of the bat'leth and twists out of the way.
+	Worf now fights with the two pieces of sword as if
+	they were knives.
+
+	Gowron has the advantage and presses it, driving
+	Worf back... but then he overextends himself and
+	Worf pulls him off-balance. The two men crash to
+	the deck together, Gowron on top. Gowron struggles
+	up, fire in his eyes... but then Worf PLUNGES the
+	two pieces of sword deep into either side of Gowron.
+
+					GOWRON
+				(difficult)
+			You will... not... have this...
+			day...
+
+	With an heroic effort, he manages to get to his
+	feet, with both pieces of sword still sticking out
+	of him. Worf is now disarmed and if Gowron can just
+	swing the bat'leth at him, he can deliver a death
+	blow...
+
+					GOWRON
+				(dying breath)
+			Victory... is... mine...
+
+	The bat'leth still in his hand, Gowron falls to the
+	floor, dead. There's a breathless moment... then
+	Worf goes to the dead man, kneels down, opens his
+	eyes and gives the traditional DEATH CRY.
+
+	While Worf is still kneeling, Martok picks up the
+	CLOAK and drapes it around his shoulders.
+
+					MARTOK
+			Hail Worf! Leader of the Empire!
+				(beat)
+			Worf! Worf! Worf!
+
+	The others join in as Worf gets to his feet.
+
+					ALL
+			Worf! Worf! Worf! Worf!
+
+	Worf takes in the moment... then raises a hand.
+
+					WORF
+			Wait! Hear me!
+
+	They stop.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   60.
+
+56A  CONTINUED:	(4)
+
+					WORF
+			What I have done... was for the
+			Empire... not for me. A new day
+			must dawn for our people... a day
+			bright with the promise of
+			restoring our honor and our
+			dignity. I am not the man to
+			usher in that day. But there is
+			a man here who can.
+
+	He takes the cloak from his own shoulders and goes
+	to put it on Martok's shoulders. Martok stops him.
+
+					MARTOK
+			Worf... I do not seek the
+			leadership.
+
+					WORF
+			Kahless said, "Great men do not
+			seek power, they have power
+			thrust upon them."
+
+	He puts the cloak on Martok's shoulders and stands
+	back.
+
+					WORF
+
+			Hail Martok! Leader of the
+			Empire! Leader of destiny!
+
+					ALL
+			Martok! Martok! Martok!
+			Martok! Martok! Martok! etc.
+
+	As the warriors scream out his name and Martok
+	realizes that he is now the leader of the Empire...
+
+									CUT TO:
+
+57   INT. QUARK'S - SECOND LEVEL
+
+	Worf and EZRI are being served drinks by QUARK.
+
+					QUARK
+			A bottle of bloodwine and two
+			mugs...
+				(to Ezri)
+			I thought you hated bloodwine.
+
+					EZRI
+			It's a special occasion.
+
+					QUARK
+			Oh? Maybe I should join you.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE  60A.
+
+
+57   CONTINUED:
+
+
+					WORF
+			Maybe not.
+
+					QUARK
+			Maybe not.
+
+	Quark EXITS as Worf pours the wine into the mugs.
+
+					WORF
+				(lifts his mug)
+			To Chancellor Martok.
+
+					EZRI
+			To Chancellor Worf.
+
+					WORF
+			My reign was... brief.
+
+    DEEP SPACE NINE: "Tacking into... " - REV. 03/22/99 - ACT FIVE   61.
+
+57   CONTINUED:	(2)
+
+					EZRI
+			Kahless also said, "A leader is
+			judged not by the length of his
+			reign but by the decisions he
+			makes." And your decision may
+			have been one of the greatest in
+			Klingon history. I'm proud of
+			you, Worf.
+
+	He looks away, a little embarrassed, but pleased.
+
+					EZRI
+			So... how did it feel to stand on
+			the mountaintop? To know that
+			for that moment, the entire
+			Klingon Empire lay at your feet?
+
+					WORF
+			In truth... all I could think of
+			was my father. I wish he
+			could've known that his son
+			became chancellor... even if only
+			for a moment.
+
+					EZRI
+			I think he knows... and so does
+			Jadzia.
+
+	She smiles and lifts her glass again.
+
+					EZRI
+			To Chancellor Worf?
+
+	Worf lifts his glass and they drink.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

@@ -1,0 +1,3006 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "Distant Voices" 
+                    (fka "Too Many Rooms") 
+                          #40513-464 
+                              
+                           Story by 
+                          Joe Menosky 
+                              
+                          Teleplay by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Alex Singer 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        January 11, 1995
+
+       STAR TREK: DS9 - "Distant Voices" 01/11/95 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Distant Voices" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     ALTOVAR
+          ODO                      DABO GIRL #1
+
+          BASHIR                   CROWD
+          DAX                      INHABITANTS
+          O'BRIEN                  BAJORAN NURSE
+          QUARK                    
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK DEEP SPACE NINE: "Distant Voices" - 01/11/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Distant Voices" 
+                             SETS 
+
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          REPLIMAT                      
+          CORRIDOR                      
+          PROMENADE                     
+          INFIRMARY                     
+          QUARK'S                       
+          SECURITY OFFICE               
+          HABITAT RING CORRIDOR         
+          TURBOLIFT                     
+          WARDROOM                      
+          CARGO BAY                     
+          CONDUIT                       
+          OPS                           
+
+    STAR TREK: "Distant Voices" - 01/11/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Distant Voices" 
+                      PRONUNCIATION GUIDE 
+
+          ALTOVAR                  AL-toe-var
+          ANAPHASIC                AN-a-FAZE-ik
+          HYDROCORTILINE           HIE-droe-cor-tih-line
+          INPEDREZINE              in-PED-ruh-zeen
+          LETHEAN                  LETH-ee-un
+          BIO-MEMETIC              BIE-oe-muh-MEH-tik
+          OSTEOGENIC               ah-STEE-oh-JEN-ik
+          SHOGGOTH                 SHOW-goth
+          TRIPDECEDERINE           TRIP-duh-SED-uh-rin
+          YIGRISH                  YIH-grish
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "Distant Voices"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. REPLIMAT
+
+	GARAK and BASHIR are at their usual table, eating their 
+	traditional lunch.
+
+					BASHIR
+			You're sure I can't interest you in 
+			some Yigrish cream pie.
+
+					GARAK
+			Thank you, Doctor, but I'm quite 
+			full.
+
+					BASHIR
+			You barely touched your food.
+
+					GARAK
+				(embarrassed)
+			The truth is, I've been trying to 
+			lose a little weight.  Hemming women's 
+			dresses may provide me with a modest 
+			income, but it doesn't offer much in 
+			the way of exercise.
+
+					BASHIR
+			If you'd like, I could help you set 
+			up an exercise program in one of the 
+			holosuites.
+
+					GARAK
+			I might take you up on that.  But 
+			speaking of holosuites...
+
+	Garak takes out an isolinear rod with a ribbon around it and 
+	hands it to Bashir.
+
+					GARAK
+			Happy Birthday.  I know it's a few 
+			days off, but I wanted to give you 
+			your present early.
+
+					BASHIR
+			Thank you, Garak.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           2.
+
+1    CONTINUED:
+
+					GARAK
+			It's a Cardassian holosuite program.  
+			An adaptation of one of Shoggoth's 
+			enigma tales.
+
+					BASHIR
+			I see.
+
+					GARAK
+			You sound disappointed.  I thought 
+			you liked mystery novels.
+
+					BASHIR
+			I do.  Human mystery novels.  The 
+			problem with Cardassian enigma tales 
+			is that they all end the same way.  
+			All the suspects are always guilty.
+
+					GARAK
+			Yes, but the challenge comes from 
+			determining exactly who is guilty of 
+			what.
+				(a beat)
+			Is Lieutenant Dax throwing you another 
+			"surprise" party this year?
+
+					BASHIR
+				(glum)
+			So I'm told.
+
+					GARAK
+			You don't seem very enthused about 
+			it.
+
+					BASHIR
+			It's not that I don't appreciate all 
+			the trouble she goes to.  But the 
+			thing of it is... this year's a little 
+			different.
+
+					GARAK
+			How so?
+
+					BASHIR
+			This will be my thirtieth birthday.
+
+					GARAK
+			And?
+
+					BASHIR
+			You know, Garak, sometimes I forget 
+			you're not human.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           3.
+
+1    CONTINUED:	(2)
+
+					GARAK
+				(smiling)
+			It's an important thing to keep in 
+			mind, Doctor.
+
+					BASHIR
+			Well, in many human cultures, the 
+			thirtieth birthday is considered a 
+			sort of milestone.  It marks the end 
+			of youth and the beginning of the 
+			slow march into middle age.
+
+					GARAK
+			And that's... considered bad?
+
+					BASHIR
+			No.  It's just that... once you hit 
+			thirty, it becomes harder and harder 
+			to ignore the passage of time.
+
+					GARAK
+			Doctor, are you trying to say that 
+			you're afraid of growing old.
+
+					BASHIR
+			Of course not.  It's nothing to do 
+			with fear.  I'm just having a 
+			little... difficulty accepting the 
+			aging process.
+
+					GARAK
+			I wasn't aware that humans saw growing 
+			old as a negative experience.  On 
+			Cardassia, advanced age is seen as a 
+			sign of power and dignity.
+
+					BASHIR
+				(defensive)
+			I'm well aware that aging is part of 
+			the natural cycle of life.  I just 
+			don't want to be reminded of it.
+				(exasperated)
+			Look, Garak, the fact is, in two 
+			days I turn thirty, and if I want to 
+			be grumpy about it, that's my 
+			prerogative.
+
+					GARAK
+			By all means, Doctor, be as grumpy 
+			as you want.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           4.
+
+1    CONTINUED:	(3)
+
+					BASHIR
+				(sort of means it)
+			I appreciate the support.
+
+2    NEW ANGLE
+
+	As QUARK approaches their table, accompanied by a hulking, 
+	hideous looking alien, ALTOVAR.  Quark looks a little nervous.
+
+					QUARK
+			Excuse me, Doctor.  Do you have a 
+			moment?
+
+					BASHIR
+			What can I do for you, Quark?
+
+	Quark glances over his shoulder at the looming alien.
+
+					QUARK
+			Uh... my friend... Altovar here is 
+			looking to purchase a small quantity 
+			of...
+				(embarrassed)
+			Bio-memetic gel.  And I was wondering 
+			if you might know how he could obtain, 
+			let's say, a few hundred milliliters.
+
+	Bashir looks suspiciously at the alien.
+
+					BASHIR
+			Bio-memetic gel is a restricted 
+			substance.  Its sale is strictly 
+			forbidden by Federation law.
+
+					QUARK
+				(relieved)
+			I thought so.
+				(to Altovar)
+			You see.  I told you.
+
+	But Altovar makes no move to leave.
+
+					ALTOVAR
+				(to Bashir)
+			I'm willing to pay whatever's 
+			necessary.  Name your price.
+
+					BASHIR
+			Why do you need it?
+
+					ALTOVAR
+			That's my business.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           5.
+
+2    CONTINUED:
+
+					BASHIR
+			I'm sorry, but Bio-memetic gel can 
+			be very hazardous if not handled 
+			correctly.  It's not for sale.  At 
+			any price.
+
+	There's a beat as the alien stares at Bashir.  Quark tries 
+	to break the moment.
+
+					QUARK
+			Well, we tried.  Thank you, Doctor.
+
+	The alien just stares at Bashir for a long beat, then finally 
+	turns and walks away.
+
+					BASHIR
+			Quark, you should warn your friend 
+			that even attempting to obtain Bio-
+			memetic gel is a felony under 
+			Federation law.
+
+					QUARK
+			I know.  I told him that.  But he 
+			insisted that I ask you anyway.  
+			Letheans can be incredibly stubborn.
+				(a beat)
+			I hope you'll forgive the 
+			interruption.
+
+	Quark turns to leave, then looks back at their plates.
+
+					QUARK
+			You know, we just introduced a new 
+			lunch menu at the bar.
+
+					BASHIR
+				(with an edge)
+			Good-bye, Quark.
+
+					GARAK
+				(to Quark)
+			Don't take it personally.
+				(conspiratorial)
+			He's turning thirty.
+
+	Bashir makes a sour face.  Garak smiles.
+
+3    INT. STATION CORRIDOR
+
+	Bashir is walking down the hallway.  The Turbolift doors 
+	open and DAX EXITS.  She sees Julian and, smiling, falls 
+	into step beside him.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           6.
+
+3    CONTINUED:
+
+					DAX
+				(glad to see him)
+			Julian.  What's new?
+
+					BASHIR
+			Dax, if you're trying to find out if 
+			I know about my "surprise party" 
+			Chief O'Brien has already told me 
+			about it.
+
+					DAX
+			He did?  That does it.  That's the 
+			last surprise party I let him help 
+			me plan.  Every year he insists on 
+			being involved, and every year he 
+			manages to spoil the surprise.
+
+					BASHIR
+			The chief's a man of many talents, 
+			but keeping a secret isn't one of 
+			them.
+
+					DAX
+				(playful)
+			Well now that you know about it, you 
+			may as well help with the final 
+			details.  We've narrowed the choices 
+			down to two different holosuite 
+			programs.  Would you rather have 
+			your party at a Greek palace on Mount 
+			Olympus or at Louis Pasteur's house 
+			in Paris?  Or as Quark put it, wood 
+			nymphs or can-can girls?
+
+					BASHIR
+			I'm going to have to think about 
+			that one.
+
+					DAX
+			Of course there's always game seven 
+			of the nineteen sixty-four World 
+			Series.
+
+					BASHIR
+			Let me guess... Commander Sisko's 
+			idea.
+
+					DAX
+			He says that's one of the greatest 
+			baseball games of all time.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           7.
+
+3    CONTINUED:	(2)
+
+					BASHIR
+			If you care about that sort of thing.
+				(a beat)
+			So why don't we say...
+				(makes up his mind)
+			Wood nymphs.
+
+					DAX
+			I knew it.  I'll tell Quark first 
+			thing in the morning.
+				(grins evilly)
+			Now, if you'll excuse me, I have to 
+			have a little chat with Chief O'Brien.
+
+					BASHIR
+			It's pretty late.  He's probably 
+			asleep.
+
+					DAX
+				(mischievous)
+			Good.  I'll wake him.
+
+	And with that Dax walks off.  Bashir smiles and watches her 
+	go.
+
+4    INT. INFIRMARY
+
+	Bashir ENTERS the darkened Infirmary.
+
+					BASHIR
+			Lights.
+
+	The lights come on, but to Bashir's surprise, Altovar, the 
+	alien from the Promenade, is ransacking the storage shelves.
+
+					BASHIR
+			What do you think you're doing?
+
+	In response to Bashir's challenge, Altovar tries to escape.  
+	Bashir rushes to block his EXIT.  They struggle.  Bashir 
+	gets in one or two good punches, but then...
+
+5    CLOSE ON BASHIR (OPTICAL)
+
+	Altovar grabs Bashir by the temples.  Some kind of electrical 
+	discharge arcs from the alien's hand to Bashir's head.  Bashir 
+	convulses and then goes limp, collapsing to the floor.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - TEASER           8.
+
+5    CONTINUED:
+
+	Altovar hurries out of the room.  Hold on Bashir's 
+	unconscious face for a beat, and then...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE          9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(Note:  Episode credits fall over opening scenes.)
+
+6    INT. INFIRMARY
+
+	Close on Bashir as he slowly regains consciousness.  The 
+	lights in the Infirmary are flickering fitfully and the 
+	monitors are full of static.
+
+	As Bashir gets up, we see traces of gray hairs at his temples.  
+	The effect is subtle, but enough to make him look slightly 
+	older.
+
+	Bashir looks around at the ransacked medical supply shelves, 
+	the flickering lights and the inoperative monitors.  He's 
+	still a little disoriented and surprised by the strangeness 
+	of his surroundings.
+
+					BASHIR
+				(to com)
+			Bashir to Security.
+				(no answer)
+			Bashir to Ops.
+				(no answer)
+			This is Doctor Bashir.  Is anyone 
+			reading me?
+				(to com)
+			Computer, locate Commander Sisko.
+				(no answer, insistent)
+			Computer, please respond... Computer?
+
+	There's still no answer.  Bashir tries to manually access 
+	the computer at one of the consoles, but has no more luck 
+	than he did with verbal commands.  Almost absentmindedly, 
+	Bashir picks up a chair that was knocked over during his 
+	scuffle with Altovar.
+
+	As he puts the chair back in place, he suddenly stops, as we 
+	hear the faint, sibilant sound of distant whispering.  Though 
+	it's impossible to distinguish what is being said, we should 
+	get the distinct impression that more than one person is 
+	talking.
+
+					BASHIR
+				(looking around)
+			Hello?
+
+	There's no response, but the whispering continues.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         10.
+
+6    CONTINUED:
+
+					BASHIR
+			Is someone there?
+
+	The whispering continues, but it's no louder or more distinct.
+
+	Trying to follow the voices to their source, Bashir EXITS 
+	out the Promenade door.
+
+7    INT. PROMENADE
+
+	Bashir steps out of the Infirmary and into an eerily deserted 
+	Promenade.  There's not a soul in sight and any monitors 
+	that are visible display static.  The station lights continue 
+	to flicker.
+
+	Bashir walks out into the middle of the Promenade and looks 
+	up.  The upper level, like the lower level, is completely 
+	deserted.
+
+					BASHIR
+			Hello?  Is anybody here?
+
+	He begins walking from store to store, checking inside 
+	doorways, sometimes even disappearing in the store for a few 
+	seconds.
+
+					BASHIR
+				(to himself)
+			Where is everyone?
+
+	The whispers have even faded away.  The Promenade is empty 
+	and quiet.  Bashir catches his reflection in a mirrored 
+	surface.  He notices the graying around his temples.  But 
+	before he can completely absorb this change in his appearance, 
+	there's a CRASHING SOUND from Quark's.
+
+	Bashir goes to investigate.
+
+8    INT. QUARK'S
+
+	Bashir ENTERS.  The bar is dark, even darker than usual.  
+	The lighting is slightly surreal, almost chiaroscuro, with 
+	unexpected areas of light and shadow.  (There does not have 
+	to be any logical correlation between the lighting levels on 
+	the Promenade and in the bar.)  Some of the chairs and tables 
+	have been upturned and the monitors are full of static.
+
+	Bashir halts, allowing himself to get used to the darkness.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         11.
+
+8    CONTINUED:
+
+	Suddenly Bashir hears a rustling behind the bar, followed 
+	by a muted whimpering.
+
+					BASHIR
+			Who's there?
+
+	Bashir cautiously approaches the bar and looks over it.
+
+9    BEHIND THE BAR
+
+	QUARK is huddled in a corner.  He looks terrified.
+
+					BASHIR
+			Quark?
+
+	Quark looks up at Bashir, his eyes filled with fear.  He 
+	tries to curl himself up even tighter.
+
+					BASHIR
+			It's all right.  It's me.  Bashir.
+
+	Bashir comes around the bar and approaches Quark, who tires 
+	to press himself back closer to the bulkhead.
+
+					BASHIR
+			What is it?  What's going on?  Tell 
+			me.
+
+	Bashir crouches down beside Quark.
+
+					QUARK
+			He's going to kill us.  He's going 
+			to kill us all.
+
+					BASHIR
+			Who?  Who are you so afraid of?
+				(off Quark's frightened 
+				look)
+			Where's Sisko?  What happened to the 
+			rest of the crew?
+
+	Quark shakes his head as if he doesn't know, and as if it 
+	doesn't matter.
+
+					BASHIR
+				(reassuring)
+			Look, why don't you come with me?  
+			We'll go try to find them.
+
+					QUARK
+			No.  Don't you see.  If we move, 
+			he'll find us.  But if we stay here, 
+			we might be safe.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         12.
+
+9    CONTINUED:
+
+					BASHIR
+				(insistent)
+			Safe from whom?
+				(a beat)
+			Quark, you have to tell me.
+
+	But before Quark can answer, there is noise from the second 
+	level of the bar.
+
+					QUARK
+				(whispered)
+			He's here.
+
+	Bashir looks over the bar to see who's up there, but it's 
+	too dark.  And now the sounds of movement are unmistakable.
+
+					BASHIR
+			We've got to get these lights back 
+			on.
+
+	Quark shakes his head, his panic building.
+
+					QUARK
+			It's too late.  He's found us.  We've 
+			got to get out.
+
+	And Quark suddenly makes a dash for the EXIT.
+
+					BASHIR
+			Wait.
+
+	But Quark scampers out the door.
+
+10   CLOSE ON BASHIR
+
+	Now alone behind the bar.  For a moment he's torn between 
+	going after Quark and staying to find out who's approaching 
+	from out of the darkness.  The noise of movement keeps getting 
+	louder.  Finally Bashir stands and defiantly looks out at 
+	the darkness.
+
+					BASHIR
+			Who's there?  Show yourself.
+
+	Suddenly a table comes flying at Bashir out of the darkness.  
+	Bashir narrowly avoids it by ducking back behind the bar.  
+	The table is followed by the sounds of furniture being broken 
+	as the room is destroyed.  Bashir is unarmed and doesn't 
+	know what he's up against.  He decides not to take any chances 
+	and retreats back to...
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         13.
+
+11   INT. PROMENADE
+
+	Bashir ENTERS the Promenade from Quark's.  Behind him, the 
+	sounds of destruction inside the bar continue.  Bashir looks 
+	around for Quark.
+
+					BASHIR
+				(calling sotto voice)
+			Quark?  Quark!
+
+	But there's no answer and after a beat, Bashir continues 
+	down the Promenade.
+
+12   INT. REPLIMAT
+
+	The Replimat is deserted and the lights are low (though 
+	not as low as Quark's).
+
+	Bashir ENTERS.  He's disappointed to find the area deserted, 
+	but by now, he's not surprised.  We hear the sound of pouring 
+	liquid.  Bashir reacts to the noise and notices something 
+	strange about the replicators.
+
+13   CLOSE ON ONE OF THE REPLICATORS
+
+	Which is pouring out a slow and steady stream of a light 
+	brown, watery liquid.
+
+14   ANGLE ON BASHIR
+
+	As he approaches the replicator.  The liquid continues to 
+	pour.  Bashir looks at it closely, then dips his finger in 
+	the stream and tentatively tastes it.
+
+					BASHIR
+				(perplexed)
+			Tarkalean Tea?
+
+	This explains nothing to Bashir.  If anything, it makes the 
+	situation even stranger.  Bashir looks across at the other 
+	replicator, which is also pouring liquid.  But before he can 
+	go investigate, he hears a scraping noise from down the 
+	Promenade.
+
+14A  ANGLE ON SECURITY - BASHIR'S P.O.V.
+
+	Bashir looks toward the source of the sound, which seems to 
+	have come from Odo's office.
+
+					BASHIR
+			Constable?
+
+	There's no answer.  The doors to the office are closed and 
+	the lights are off.  Bashir moves cautiously toward Odo's 
+	office.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         14.
+
+15   INT. SECURITY OFFICE
+
+	Bashir ENTERS, but before he gets very far, he is grabbed 
+	from behind and slammed into a bulkhead.  Bashir tries to 
+	fight back, but then realizes his assailant is none other 
+	than Garak.
+
+					BASHIR
+			Garak?
+
+					GARAK
+			What are you doing here, Doctor?
+
+					BASHIR
+			I was about to ask you the same thing.
+
+					GARAK
+			I was looking for Constable Odo.  
+			Everyone on this station seems to 
+			have disappeared.
+
+					BASHIR
+			Not everyone.  I just saw Quark.  He 
+			was cowering behind his bar.  He 
+			thinks someone is terrorizing the 
+			station.  And I'm not sure I disagree 
+			with him.
+
+					GARAK
+			What do you mean?  Tell me what's 
+			going on.
+
+					BASHIR
+			There was some... thing in Quark's... 
+			tearing up the place.  I never got a 
+			good look at it, but believe me, it 
+			wasn't friendly.
+
+	During the above, Bashir crosses over to Odo's desk and begins 
+	trying to access the main computer.  The console is full of 
+	static.
+
+					BASHIR
+				(to com)
+			Computer.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         15.
+
+15   CONTINUED:
+
+					GARAK
+			It's no use.  As far as I can tell, 
+			the station's suffered some kind of 
+			massive systems failure.  Aside from 
+			life support, and simple functions 
+			like turbolifts and doors, nothing 
+			seems to be working.  It's been like 
+			this for hours.  I was up late 
+			programming some replicator patterns 
+			for a suit I'm designing, and 
+			everything just went dead.
+
+					BASHIR
+			I can't believe that you, Quark and 
+			I are the only people left on the 
+			station.  Sisko and the others must 
+			be here somewhere.
+
+					GARAK
+			Maybe.  Or maybe they've fallen victim 
+			to some kind of rampant virus, or 
+			space anomaly, or Dominion plot.
+
+					BASHIR
+			All the more reason to try to locate 
+			them.
+
+	Bashir pauses as he tries to formulate a plan of action.  
+	But as he does so, we begin to hear the distant whispers 
+	once again.
+
+					BASHIR
+			Wait.  Do you hear that?
+
+					GARAK
+			Hear what?
+
+					BASHIR
+			That sound.  It's like voices 
+			whispering.
+
+					GARAK
+			I don't hear anything.  But then 
+			Cardassian hearing isn't quite as 
+			acute as human's.
+				(studies Bashir)
+			Doctor, are you feeling all right?  
+			You look... different somehow.
+
+	Garak examines Bashir's face.  There's a little more gray in 
+	Bashir's hair.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         16.
+
+15   CONTINUED:	(2)
+
+					BASHIR
+			What is it?
+
+					GARAK
+			Your hair.  It seems to be turning 
+			gray.
+
+					BASHIR
+			So I've noticed.
+
+					GARAK
+				(going for the joke)
+			I guess you had reason to worry about 
+			turning thirty after all.  Either 
+			that, or your job is more stressful 
+			than I thought.
+
+					BASHIR
+			Look, Garak, we don't have time for 
+			this.  We have to find out what's 
+			going on here.
+
+					GARAK
+			I agree.  Maybe we should split up.  
+			I can search the Docking Ring while 
+			you look around the Habitat Ring and 
+			the Central Core.
+
+	Bashir goes to a panel and opens it, retrieving a pair of 
+	phasers and two hand beacons.
+
+					BASHIR
+				(agreeing)
+			We'll meet back on the Promenade in 
+			an hour.
+				(a beat)
+			Be careful.
+
+	Bashir gives Garak a palm beacon and a phaser.
+
+					GARAK
+			You, too.
+				(re: his hair)
+			And Doctor, try to relax.
+
+	Garak EXITS through the side door, leaving Bashir alone in 
+	Odo's office.  The whispers continue, but Bashir still isn't 
+	able to make any sense of them.
+
+16   INT. HABITAT RING CORRIDOR
+
+	Bashir is walking along, carrying the hand beacon and phaser.  
+	The light level is low and the whispering can still be heard.  
+	Bashir opens a door, scans the room with the beacon, then 
+	returns to the corridor.  As he does, the light at the far 
+	end of the corridor winks out behind him.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT ONE         17.
+
+16   CONTINUED:
+
+	Bashir looks at the light.  He shines his beacon down the 
+
+	hall, but there's no one there.
+
+	Bashir suddenly has the eerie feeling that someone else is 
+	present.  He turns away from the dark end of the corridor to 
+	continue his search, but as he does so, another light goes 
+	out behind him.
+
+	Bashir begins backing away from the darkness, his uneasiness 
+	building as slowly one light after another goes out.
+
+17   NEW ANGLE (OPTICAL)
+
+	As Bashir backs away he suddenly bumps into a SECURITY 
+	FORCEFIELD that flashes into existence behind him.  He 
+	realizes he's trapped.  He can't go any farther.
+
+18   CLOSE ON BASHIR
+
+	As he watches another light go out, his back to the 
+	forcefield, and...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         18.
+                            ACT TWO                             
+
+
+	FADE IN:
+
+19   INT. HABITAT RING CORRIDOR (CONTINUOUS)
+
+	Bashir watches as one light after another goes out in the 
+	corridor and the darkness approaches him like a wall.  Just 
+	before the darkness consumes him, Bashir lunges to one side 
+	and hits a wall panel.  Doors open and Bashir spins into...
+
+20   INT. TURBOLIFT
+
+	Bashir reaches the inside of the Turbolift and hits a control 
+	to close the door.  As the door closes, the last light goes 
+	out in the corridor, plunging it into darkness.
+
+					BASHIR
+				(to Turbolift)
+			Level H-One, Section "A."
+
+	Bashir relaxes.  But before the door can completely shut, a 
+	HAND reaches out of the darkness and grabs the door, trying 
+	to pry it open.  The hand is gnarled and clearly alien.  The 
+	Alien grabs the other side of the door and Bashir finally 
+	catches a quick glimpse of his face.
+
+	It's Altovar, the alien from the Promenade.
+
+					BASHIR
+				(realizing)
+			Altovar.
+
+	The Lethean tries to force the door open, straining against 
+	the Turbolift's closing mechanism.  He's actually making 
+	progress when Bashir rears back and kicks his hands.
+
+	Altovar loses his grip and the door finally closes.
+
+21   CLOSE ON BASHIR
+
+	As the Turbolift starts to move and Bashir leans back against 
+	the wall of the Turbolift in relief.
+
+	But seconds later there's a LOUD THUMP like something landing 
+	on the roof of the Turbolift.  Bashir looks up and sees that 
+	the ceiling has been deformed as if a large weight has been 
+	dropped on it.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/18/95 - ACT TWO       19.
+
+21   CONTINUED:
+
+	This is followed by a series of booming THUDS as the 
+	Lethean pounds on the roof of the lift, trying to break 
+	through.  Bashir takes out his phaser and waits for Altovar 
+	to pound his way into the lift.  THUD after THUD echoes in 
+	the confined space of the Turbolift.  But just when it looks 
+	like the Lethean will break in...
+
+	The Turbolift comes to a halt and the doors open.  Bashir 
+	EXITS into...
+
+22   INT. HABITAT RING CORRIDOR
+
+	A flickeringly lit corridor.  As Bashir ENTERS the corridor, 
+	keeping his phaser trained on the lift doors, he hears the 
+	distant sound of people talking.  But unlike the previous 
+	whispers, these voices are clearly arguing.  Though it's 
+	impossible to make out the words.
+
+					DAX'S VOICE
+				(indistinct)
+			Look, what are we doing standing 
+			around here?
+
+					O'BRIEN'S VOICE
+				(indistinct)
+			What do you want to do?  Rush out 
+			and get us all killed?
+
+					DAX'S VOICE
+				(indistinct)
+			It's better than doing nothing.  
+			Let's go.
+
+					ODO'S VOICE
+				(indistinct)
+			Of course.  And follow you right 
+			into a trap.  Is that what you want?
+
+					KIRA'S VOICE
+				(indistinct)
+			You're all crazy.  None of this is 
+			helping us deal with the Lethean.
+
+	Bashir follows the voices and burst into...
+
+23   INT. WARDROOM
+
+	Bashir ENTERS to find KIRA, O'BRIEN, ODO and Dax in the 
+	midst of a heated argument.  In regular light, we get a good 
+	look at Bashir's features.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT TWO      19A.
+
+23   CONTINUED:
+
+	He looks about fifty-five.
+
+					O'BRIEN
+			I say we don't do anything until we 
+			get reinforcements from Bajor.
+
+			DAX						KIRA
+	Julian.  There you are.  		Bajor.  Bajor doesn't even 
+	Where have you been?			know we're in trouble.
+
+			BASHIR					ODO
+	Looking for you.					(accusatory)
+							And we can't tell them unless 
+							you can get the communications 
+							system back on-line.
+
+			DAX						O'BRIEN
+	Well, I'm glad you're here.			(voice of doom)
+							It'll take hours.  There's too 
+							many system's sabotaged... My 
+							work crews are all missing... I 
+							can't manufacture any new parts 
+							until we get the replicators fixed...
+
+	Dax breaks off her conversation with Bashir and jumps in on 
+	O'Brien, Odo and Kira.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         20.
+
+23   CONTINUED:
+
+					DAX
+				(frustrated)
+			The first thing we have to do is 
+			neutralize the Lethean.
+
+					BASHIR
+			The Lethean?  You mean Altovar?
+
+					KIRA
+			You know him?
+
+					BASHIR
+			We've met.  He attacked me in the 
+			Infirmary.
+
+					O'BRIEN
+			And now he's trying to kill us all 
+			by destroying the station.
+
+					DAX
+			What are we waiting for?  Let's get 
+			some phasers and hunt him down.
+
+	Bashir is surprised at Dax's vehemence.
+
+					DAX
+				(continuing)
+			If you ask me, none of us will be 
+			safe until he's dead.
+
+					O'BRIEN
+			If we go out looking for the Lethean, 
+			we're the ones who'll end up dead.
+
+					KIRA
+			Tell you what, while we're looking 
+			for the Lethean, maybe we can find 
+			your backbone.
+
+					ODO
+				(re: O'Brien)
+			Maybe he doesn't want us to find the 
+			Lethean.  Maybe he's in league with 
+			him.
+
+					BASHIR
+				(stern)
+			All right, that's enough.
+				(to com)
+			Computer, scan the occupants of this 
+			room for any anomalous readings.
+
+      DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO 21-21A.        
+
+23   CONTINUED:	(2)
+
+	The computer doesn't answer.
+
+					KIRA
+			Doctor, what are you doing?
+
+					BASHIR
+			You're all acting very strangely and 
+			I intend to find out why.
+				(to com, impatient)
+			Computer?
+
+					ODO
+			Don't bother, Doctor.
+				(glaring at O'Brien)
+			For some reason, the computer doesn't 
+			seem to be working.
+
+					O'BRIEN
+			Don't go blaming me, Constable.  
+			None of this would've happened if 
+			Security had been doing its job.
+
+					BASHIR
+			Look, I said, that's enough.
+				(a beat)
+			Where's Sisko?  Where are O'Brien's 
+			work crews?  I've been wandering 
+			around for hours and the only people 
+			I've seen are Quark and Garak.  
+			Where's everyone else?  There's 
+			something very wrong here.
+
+					DAX
+			I'll say there is.  Have you looked 
+			in the mirror lately?
+
+					BASHIR
+			What are you talking about?
+
+					DAX
+			You're face.  You look... older.
+
+					BASHIR
+			If you're referring to my hair, I'm 
+			already aware--
+
+					DAX
+				(cutting him off)
+			It's more than that.  You've got 
+			wrinkles.
+
+	Bashir lifts his hand up to his face, and just as he does, 
+	the whispering begins again.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         22.
+
+23   CONTINUED:	(3)
+
+					BASHIR
+			Hold on... Does anyone else hear 
+			that?
+
+					KIRA
+			What?
+
+					ODO
+				(suspicious)
+			I don't hear anything.
+
+	Bashir listens intently.
+
+					BASHIR
+				(half to himself)
+			Garak didn't either.
+
+					DAX
+			Julian, what are you talking about?
+
+					BASHIR
+			I know it sounds strange, but I keep 
+			hearing voices.
+
+					O'BRIEN
+				(to the others)
+			And he says we're acting peculiar.
+
+					ODO
+			So what are these so-called voices 
+			saying?
+
+					BASHIR
+			That's the problem.  I can't make 
+			out the words.
+
+					KIRA
+			I think you're the one who needs 
+			help, Doctor.  Not us.
+
+					DAX
+			Maybe you should lie down.
+
+					BASHIR
+			I'm fine.
+
+					O'BRIEN
+			Except that you're hearing voices 
+			and you seem to have aged twenty-
+			five years in the last few hours.
+
+	Bashir ignores him.  He knows there has to be a reason for 
+	everything that's happening and tries to figure it out.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         23.
+
+23   CONTINUED:	(4)
+
+					BASHIR
+			There has to be a logical explanation 
+			for this... maybe some kind of 
+			virus... or a subspace anomaly...
+				(more specific theories)
+			A neural inversion field... anaphasic 
+			parasites...
+
+					DAX
+			Keep thinking, Julian.  While you 
+			try to figure it out, I'm going to 
+			find the Lethean and stop him before 
+			he sabotages any more systems.
+
+					O'BRIEN
+			What good will that do?  You don't 
+			have any idea where he is.  We don't 
+			even know what we're up against.  
+			How strong is he?  Can he be hurt by 
+			phaser fire?
+
+					DAX
+			Don't worry Chief.  I'm not asking 
+			for any help from you.  If he's here, 
+			I'll find him.  Even if I have to do 
+			it by myself.
+
+	Bashir's getting tired of this.
+
+					BASHIR
+			Dax, settle down.  You're not going 
+			anywhere.  Not yet, anyway.  There 
+			are too many strange things going on 
+			here.  My aging, the missing 
+			crewmembers, the sabotage to the 
+			station, your abnormal behavior.
+
+					ODO
+				(paranoid)
+			You think it's all connected 
+			somehow?
+
+					BASHIR
+			I think we need to find out.
+				(to O'Brien)
+			Chief, is there any way to get the 
+			internal sensors on-line?
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         24.
+
+23   CONTINUED:	(5)
+
+					O'BRIEN
+			There's a computer processing junction 
+			not far from here.  I might be able 
+			to repair the internal sensors from 
+			there.
+				(to all)
+			But I'm not going alone.
+
+					KIRA
+			What a surprise.
+
+	Odo glares at O'Brien suspiciously.
+
+					ODO
+			Don't worry.  I'm not letting you 
+			out of my sight.
+
+					BASHIR
+			We'll all go together.  Let's get 
+			moving.
+
+	And as the five of them EXIT...
+
+									CUT TO:
+
+24   INT. CARGO BAY
+
+	Dax and O'Brien are working on an open panel in the Cargo 
+	Bay.  Odo and Kira are on guard against the Lethean.  Bashir 
+	is looking over O'Brien's shoulder.
+
+					O'BRIEN
+			It's even worse than I thought.  The 
+			entire sensor array is burnt out and 
+			there's extensive damage to the 
+			computer's central processor.  The 
+			only system that looks salvageable 
+			is the subspace communication relay.
+
+					BASHIR
+			That would at least let us contact 
+			Bajor.
+
+					DAX
+			See what you can do, Chief.
+
+	Odo's eyes keep searching around the room, eternally vigilant.
+
+					KIRA
+			Constable, would you stop doing that?
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO        24A.
+
+24   CONTINUED:
+
+					ODO
+			Doing what?
+
+					KIRA
+			Looking around like that.  It's 
+			getting on my nerves.
+
+					BASHIR
+			There's no harm in keeping both eyes 
+			open.
+
+					KIRA
+			I don't remember asking for your 
+			opinion.
+
+					ODO
+			If the Lethean's around, I want to 
+			know it.
+
+					BASHIR
+			The last time I saw him, he was in 
+			the Central Core.
+
+	This gets both Dax's and O'Brien's attention.
+
+					DAX
+				(as they continue to 
+				work)
+			The Central Core?  What level were 
+			you on?
+
+					BASHIR
+			Level Five.  But I doubt he's still 
+			there.  I think I lost him.
+
+					O'BRIEN
+				(worried)
+			You think?
+
+					BASHIR
+			Just keep working, Chief.
+
+	O'Brien keeps working, but he doesn't like it.
+
+					O'BRIEN
+			For all we know, he could be right 
+			outside the door.
+
+					ODO
+				(to Bashir, accusatory)
+			And if he is, then you'll have led 
+			him here.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         25.
+
+24   CONTINUED:	(2)
+
+					DAX
+			That's fine with me, I'd just as 
+			soon finish this here and now.
+
+					O'BRIEN
+			Hold on Lieutenant, I think I've got 
+			the communications relay working.
+
+					BASHIR
+			Open hailing frequencies.  Try to 
+			contact Bajor.
+
+	O'Brien tries to comply, but with no luck.
+
+					O'BRIEN
+			It's not working.  I still can't 
+			transmit.  But I'm receiving a signal.  
+			Audio only.
+
+					KIRA
+			Let's hear it.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT TWO       26.
+
+24   CONTINUED:	(3)
+
+	O'Brien does something to the controls.  At first, all we 
+	hear are the same whispers Bashir's been hearing all along.  
+	But they slowly grow louder and more distinct until the words 
+	become clear.
+
+					DAX'S COM VOICE
+				(mid sentence)
+			... four CC's of cordrazine, but there 
+			was no response.
+
+					ODO
+			It sounds like you, Lieutenant.
+
+					SISKO'S COM VOICE
+			There has to be something we can do.
+
+					KIRA
+			That's Sisko's voice.
+
+					NURSE'S VOICE
+			We've tried everything we can think 
+			of, but we haven't been able to 
+			counteract the telepathic damage.
+
+					BASHIR
+				(to O'Brien)
+			Where's this signal coming from?
+
+					O'BRIEN
+			I don't know.  Somewhere outside the 
+			station.
+
+					SISKO'S COM VOICE
+			Give me the bottom line.
+
+					DAX'S COM VOICE
+			The bottom line is that Julian's in 
+			some kind of telepathically induced 
+			coma.  And unless we can get him out 
+			of it he'll be dead in less than 
+			three hours.
+
+	Dax and O'Brien just stare at Bashir.
+
+24A  OMITTED
+
+25   CLOSE ON BASHIR
+
+	As he reacts to what he's heard.
+
+          DEEP SPACE: "Distant Voices" - 01/11/95 - ACT TWO         27.
+
+25   CONTINUED:
+
+					SISKO'S COM VOICE
+				(concerned)
+			I'll be in my office.  Keep me 
+			informed.
+
+	There's a beat, then...
+
+					DAX'S COM VOICE
+				(worried)
+			Don't give up, Julian.  Please.  
+			You'll pull through.  I know you 
+			will.
+
+					O'BRIEN
+				(belligerent)
+			What the hell is going on here?
+
+	Bashir wordlessly picks up a tricorder which Dax has been 
+	using to examine the computers.  He points it at himself.  
+	The results leave him thoughtfully stunned.
+
+					BASHIR
+				(to himself)
+			Delta waves.
+				(to all)
+			When I scan myself for brain activity, 
+			all I get are low frequency delta 
+			waves.
+
+					O'BRIEN
+			And what's that supposed to mean?
+
+					DAX
+			It means those voices were telling 
+			the truth.
+
+					BASHIR
+			I'm in a coma.
+
+	And off this moment...
+
+26
+thru   OMITTED
+27
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE        28.
+                           ACT THREE                            
+
+	FADE IN:
+
+28   INT. CARGO BAY (CONTINUOUS)
+
+	Bashir is still trying to absorb the realization that he is 
+	in a coma.  No one else is taking the idea too well either.
+
+					KIRA
+				(angry)
+			How can you stand there and say that 
+			you're in a coma?  That's crazy.
+
+					BASHIR
+			Not necessarily, Major.
+
+					DAX
+			I suppose the next thing your going 
+			to tell us is that we're unconscious 
+			too.
+
+	Bashir scans them with the tricorder.
+
+					BASHIR
+			Not according to these readings.
+
+					O'BRIEN
+			I'm glad to hear it.
+
+					BASHIR
+			Actually, I'm not picking up any 
+			life signs from you at all.
+
+					O'BRIEN
+			Let me see that.
+
+	O'Brien grabs the tricorder and points it at Dax, then 
+	himself, then Bashir.  He doesn't like what he sees.
+
+					O'BRIEN
+			You want to know what this means?  
+			It means this tricorder's broken, 
+			that's all.
+
+					BASHIR
+				(softly)
+			I don't think so.
+
+					ODO
+			What are you saying, Doctor?  That 
+			we don't exist?
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE        29.
+
+28   CONTINUED:
+
+	Bashir doesn't respond, but his silence speaks volumes.
+
+					KIRA
+				(angry)
+			I've had enough of this.  I'm not 
+			some figment of your imagination.
+
+					BASHIR
+			But don't you see, that explains why 
+			you've all been behaving so strangely.
+
+					O'BRIEN
+			I'm not behaving strangely.
+				(to Dax)
+			Am I?
+
+	Dax looks to Bashir.
+
+					BASHIR
+			You all are.  Dax isn't the kind of 
+			person who solves her problems by 
+			running around with a phaser.  Chief, 
+			you're not usually so pessimistic.
+
+					KIRA
+			This is a waste of time.  That Lethean 
+			could be here any minute.
+
+					DAX
+				(to Bashir)
+			So if you're in a coma, and we're 
+			not real, then what are we doing 
+			here?
+
+					ODO
+				(sarcastically)
+			Maybe we're just here to give him 
+			someone to talk to.
+
+					KIRA
+			A paranoid, a coward, a hothead, 
+			and... me?  You'd think he'd pick 
+			better company.
+
+					BASHIR
+			I haven't picked anyone.  I'm in a 
+			coma.  I'm the only one who's really 
+			here.
+
+     DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE 30-31.        
+
+28   CONTINUED:	(2)
+
+					BASHIR (Cont'd)
+			Which means when I talk to you, I'm 
+			really just talking to myself.
+
+					O'BRIEN
+			I wish you'd stop saying that.
+
+					BASHIR
+			But there's no other possible 
+			explanation.
+
+					KIRA
+			So you're saying that I'm you?
+
+					BASHIR
+			In a manner of speaking.
+
+					KIRA
+				(pointing to Odo)
+			And I suppose he's you, too?
+
+					BASHIR
+				(putting it together)
+			All of you are.  It's like you each 
+			embody a different aspect of my 
+			personality... a different voice in 
+			my head.
+
+					O'BRIEN
+			I don't believe we're having this 
+			discussion.
+
+					BASHIR
+			If I had to guess, I'd say you 
+			represent doubt and disbelief.
+
+					O'BRIEN
+			I do not.
+
+	O'Brien catches himself as he realizes what he's said only 
+	confirms Bashir's theory.
+
+					BASHIR
+				(smiles)
+			I knew you'd say that.
+				(to Kira)
+			Major, you're the perfect choice to 
+			represent my aggression.  Odo, you 
+			embody my suspicions and fears.  And 
+			Dax... to me you've always represented 
+			confidence and a sense of adventure.
+
+					DAX
+			Thank you, Julian.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE        32.
+
+28   CONTINUED:	(3)
+
+					ODO
+			You're forgetting something, Doctor.  
+			What about the Lethean?  What's he 
+			supposed to represent?
+
+					BASHIR
+			I suppose he represents the telepathic 
+			damage that the real Lethean did to 
+			my mind.
+
+					KIRA
+			So why is this Lethean running around 
+			sabotaging the station?
+
+					BASHIR
+				(piecing it together)
+			It's not the station he's sabotaging.
+				(the light dawns)
+			It's my mind.  The station represents 
+			my mind.  Just like you represent 
+			aspects of my personality.
+				(a beat)
+			Think about it... when Chief O'Brien 
+			fixed the communications relay, we 
+			were able to hear what was happening 
+			in the real world.
+
+					DAX
+			It's like he restored your hearing.
+
+					BASHIR
+			Exactly.  So maybe if we can repair 
+			the station...
+
+					ODO
+			You'd wake up.
+
+					O'BRIEN
+				(to Bashir)
+			Yeah?  And if you wake up, what 
+			happens to us?
+
+	Before Bashir can answer...
+
+29   NEW ANGLE
+
+	Altovar appears behind Dax, grabbing her and dragging her 
+	back into the turbolift.
+
+					DAX
+			Julian.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE       32A.
+
+	Bashir, Kira, Odo, and O'Brien turn toward Dax, but before 
+	they can do anything...
+
+					BASHIR
+			Jadzia!
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE        33.
+
+	The turbolift doors slam closed.
+
+30   CLOSE ON BASHIR
+
+	As he rushes over and bangs on the doors.
+
+					BASHIR
+			Jadzia, Jadzia.
+
+	Bashir cocks back his hand to bang on the door again, and 
+	suddenly...
+
+									CUT TO:
+
+31   INT. PROMENADE
+
+	Bashir is now standing in the middle of the Promenade, holding 
+	a tennis racket.  He looks up and sees that a net has been 
+	strung across the Promenade and Garak is standing on the 
+	other side of the net, also holding a racket.
+
+					GARAK
+			Ready, Doctor?
+
+	Garak serves.  They begin to play.
+
+					BASHIR
+			How did I get here?
+
+					GARAK
+			Don't ask me.  After all, we're in 
+			your mind.
+				(as they volley)
+			It's a shame about Lieutenant Dax.
+
+					BASHIR
+			How'd you know about that?
+
+					GARAK
+			I'm part of you, remember?  I know 
+			what you know.  Maybe even a little 
+			more.
+
+					BASHIR
+			Still the man of mystery?
+
+					GARAK
+			You wouldn't have me any other way.
+
+	Bashir has to stop.  He's out of breath.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE        34.
+
+					BASHIR
+			I think I'm getting a little too old 
+			for this.
+
+					GARAK
+			Apparently so.  You, or should I say 
+			"we," are running out of time.
+				(a beat)
+			Your serve, Doctor.
+
+					BASHIR
+			I can't stay here.  I've got to get 
+			the main computer back on line.
+
+					GARAK
+			Then you'd better get to Ops.  If 
+			repairs are to be done, that's the 
+			place to do them.
+
+					BASHIR
+			You're right.  You try to find Odo, 
+			O'Brien and Kira.  Tell them to meet 
+			me in Ops.
+
+					GARAK
+			I'd be delighted.  I wonder if any 
+			of them plays tennis.
+
+	Bashir looks at Garak thoughtfully.
+
+32   INT. HABITAT RING CORRIDOR
+
+	Dark and empty.  Suddenly a light shines in the darkness.  
+	It's Bashir, feebly illuminating the corridor with a palm 
+	beacon.  He walks in and out of frame, half-expecting the 
+	Lethean to attack at any moment.
+
+33   INT. ANOTHER PART OF THE CORRIDOR
+
+	Bashir searches through the darkness.  He turns a corner and 
+	finds himself...
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE        35.
+
+34   NEW ANGLE
+
+	In a corridor full of indistinct station inhabitants, slumped 
+	on the floor.  We can't see any specific wounds or injuries, 
+	but obviously they're in bad shape, moaning and writhing in 
+	pain.
+
+					INHABITANTS
+				(wallah)
+			Help us... Doctor... Help... We need 
+			you...
+
+	Before Bashir can respond, suddenly...
+
+35   ANOTHER ANGLE
+
+	SISKO arrives, accompanied by Bashir's Bajoran NURSE (the 
+	one who's voice we heard in the Cargo Bay).
+
+					SISKO
+			I'll handle this, Doctor.
+
+	Sisko is carrying a medkit and looks totally in control of 
+	the situation, cool and competent.  Sisko kneels beside the 
+	first patient, whips out a tricorder and scans the man.
+
+					SISKO
+				(to nurse)
+			Give this man ten milligrams of 
+			hydrocortiline.  And some 
+			tripdecederine for the pain.
+
+	The Nurse nods.  Sisko immediately moves over to the next 
+	patient and scans her.
+
+					SISKO
+				(to Bashir)
+			What are you standing around for?  
+			You've got to get to Ops.
+				(to Nurse)
+			She's suffering from cranial trauma, 
+			treat the fracture with an osteogenic 
+			stimulator and follow it up --
+
+					BASHIR AND SISKO
+				(simultaneously)
+			--with two CC's of inpedrezine.
+
+					BASHIR
+				(to Sisko)
+			How did you know that?
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT THREE       35A.
+
+35   CONTINUED:
+
+					SISKO
+			I'm just doing my job.
+
+					BASHIR
+			No you're not.  You're doing my job.
+
+	Sisko moves on to the next patient.
+
+					BASHIR
+			And doing it every bit as well as I 
+			would.
+
+					SISKO
+				(to the Nurse)
+			Give him a coagulation activator to 
+			stop the bleeding.
+
+					BASHIR
+				(realizing)
+			You must represent my skills, my 
+			professionalism.
+
+					SISKO
+			So what are you saying?  That I'm 
+			you?
+
+					BASHIR
+			In a manner of speaking, yes.  The 
+			best part of me.
+
+					SISKO
+			I'm flattered.
+
+					BASHIR
+			Come on.  You've got to come with me 
+			to Ops.
+
+      DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT THREE      36.
+
+35   CONTINUED:	(2)
+
+					SISKO
+			But I'm needed here.
+
+					BASHIR
+			If I'm going to repair this station, 
+			I'm going to need all the help I can 
+			get.
+
+	Sisko thinks it over for a beat, then...
+
+					SISKO
+			I suppose you're right.
+				(to the Nurse)
+			Take care of things here.  I won't 
+			be long.
+				(to Bashir)
+			All right, let's--
+
+	But before Sisko can finish the sentence...
+
+36   OMITTED 
+
+37   NEW ANGLE (OPTICAL)
+
+	An arm reaches out of the wall, grabs Sisko from behind, and 
+	pulls him inside the bulkhead.
+
+38   ANGLE ON BASHIR
+
+	As he backs away then turns to run.
+
+39   NEW ANGLE (OPTICAL)
+
+	As Bashir rounds a corner, looking back, the Lethean steps 
+	out from around the corner blocking his path.
+
+					ALTOVAR
+			You're not going anywhere, Doctor.
+
+	Bashir pulls out his phaser and fires at the Lethean.  The 
+	beam strikes him but has no effect.
+
+					ALTOVAR
+			You're staying right here, trapped 
+			on this station, watching while I 
+			destroy you piece by piece.  And 
+			when all the best parts of you are 
+			gone, when there's nothing left but 
+			a withered shell, then, and only 
+			then, will I put you out of your 
+			misery.
+
+      DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT THREE      37.
+
+39   CONTINUED:
+
+	And with that, the Alien steps away.  Bashir steps back, 
+	then turns and races away down the corridor.
+
+					ALTOVAR
+				(calling after him)
+			You can't escape, Doctor.  You can 
+			run if you want, but you can't 
+			outrun death.
+
+	And of this, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FOUR         38.
+                           ACT FOUR                             
+
+	FADE IN:
+
+40   INT. HABITAT RING CORRIDOR
+
+	Not long after the end of Act Three.  Bashir is running helter 
+	skelter down the corridor, gripped by a dream-state fear 
+	that he can't shake.  He looks about seventy-five now, and 
+	he's gasping audibly from the effort.
+
+41   NEW ANGLE
+
+	Bashir turns a corner to find Kira's dead body slumped in a 
+	sitting position against the bulkhead.
+
+	Bashir goes to check on her.
+
+					BASHIR
+			Major.
+
+	There's no response.  He feels her pulse.  She's dead.
+
+					ODO (O.S.)
+				(weak)
+			Doctor...
+
+	Bashir turns toward the sound of Odo's voice.
+
+42   INCLUDE ODO (OPTICAL)
+
+	Who is lying a little further down the corridor, his body 
+	twisted and distorted, stuck in mid-morph and scattered across 
+	the hallway.
+
+					BASHIR
+			Odo, what happened?
+
+					ODO
+			The Lethean.  He came out of nowhere.
+
+	Bashir hesitates, not sure what to do.
+
+					BASHIR
+			He's trying to rob me of my 
+			confidence, my strength, my 
+			intelligence... I've got to get to 
+			Ops while I still can.
+
+					ODO
+			Use the maintenance conduits.  They're 
+			your best chance.
+
+	Bashir nods and EXITS.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FOUR         39.
+
+43   INT. ANOTHER PART OF THE CORRIDOR
+
+	Bashir pries off the access plate to a conduit and climbs 
+	inside.
+
+44   INT. CONDUIT
+
+	Bashir begins crawling down the conduit, his breathing 
+	labored.
+
+45   NEW ANGLE
+
+	Bashir climbs down a vertical conduit.  He looks up for signs 
+	of pursuit, pauses to catch his breath, then continues.  
+	He's exhausted and close to collapse.
+
+46   INT. ANOTHER PART OF THE CONDUITS
+
+	Bashir comes to a "T" intersection.  As he passes the side 
+	corridor, he's surprised to find O'Brien huddled in a corner.
+
+	O'Brien starts when he sees Bashir.
+
+					BASHIR
+			Chief.
+
+					O'BRIEN
+			Julian... What the hell are you doing 
+			here?
+
+					BASHIR
+			I'm trying toget to Ops.
+
+					O'BRIEN
+			You'll never make it.
+
+					BASHIR
+			I've got to do something, don't I?  
+			I can't just let the Lethean kill 
+			me.
+
+					O'BRIEN
+			Do whatever you want.  It won't make 
+			any difference.  The Lethean's too 
+			fast... too strong.  He's going to 
+			kill us all.
+
+					BASHIR
+			You sound awfully sure of that.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FOUR         40.
+
+46   CONTINUED:
+
+					O'BRIEN
+			I know you can't stop him.  You look 
+			like you've got one foot in the grave 
+			already.
+
+					BASHIR
+			I'll tell you one thing, Chief... I 
+			like the real O'Brien a lot better 
+			than you.
+
+	Bashir begins to crawl towards an access plate.  O'Brien 
+	follows behind him.
+
+					O'BRIEN
+			Where are you going?
+
+					BASHIR
+			I've got to get out of these conduits.  
+			It's hard enough for me to walk, let 
+			alone crawl.
+
+					O'BRIEN
+			Mind if I come along?
+
+					BASHIR
+			I thought you said I didn't have a 
+			chance.
+
+					O'BRIEN
+			I'm hoping I'm wrong.
+
+					BASHIR
+			So am I.
+
+	As they open the access panel.
+
+					O'BRIEN
+				(to himself)
+			But I doubt it.
+
+									CUT TO:
+
+47   INT. PROMENADE  (VPB)
+
+	Bashir and O'Brien come through one of the airlock entrances 
+	to the Promenade.
+
+					BASHIR
+			How did we get back here?
+
+					O'BRIEN
+			You tell me.  It's your mind.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FOUR         41.
+
+47   CONTINUED:
+
+	As they walk down the Promenade, they pass monitors which 
+	display medical graphics.
+
+	Bashir stops to read the graphics.
+
+					BASHIR
+			These monitors... they're displaying 
+			my vital signs.
+
+					O'BRIEN
+			What's the prognosis?
+
+					BASHIR
+			Pulse is thready... blood pressure 
+			dropping steadily... I'm dying.
+
+					O'BRIEN
+			I could've told you that just by 
+			looking at you.
+
+	The two of them hear a group of people yelling "dabo." They 
+	exchange a look, then head to...
+
+48   INT. QUARK'S
+
+	Bashir and O'Brien ENTER.  There's a crowd gathered around 
+	the dabo table, blocking it from view.  Bashir and O'Brien 
+	push their way through and find...
+
+49   NEW ANGLE
+
+	Bashir (looking identical to the current older Bashir) lying 
+	on a medical bed which is standing in place of the dabo table.
+
+	A flurry of betting is going on around them.
+
+					CROWD
+				(wallah)
+			The kidneys... the heart... brain 
+			hemorrhage... one hour... fifteen 
+			minutes...
+
+50   CLOSE ON BASHIR
+
+	Who is stunned by what's going on.
+
+					QUARK (O.S.)
+			Can I offer you gentlemen a drink?
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FOUR         42.
+
+50   CONTINUED:
+
+	Bashir turns and find Quark standing behind them.  Quark 
+	seems a lot less worried than he did the last time we saw 
+	him.
+
+					BASHIR
+			Quark, where did all these people 
+			come from?
+
+					QUARK
+			Just goes to show you... give the 
+			people what they want, and they'll 
+			show up in droves.
+				(smiles)
+			Now... care to place a wager.
+
+					BASHIR
+			A wager?  On what?
+
+					QUARK
+			You name it... On how much longer 
+			you've got to live... What organ 
+			will fail first... ultimate cause of 
+			death.  The house is covering all 
+			bets.
+
+					BASHIR
+			What if I want to bet that I'll 
+			survive?
+
+					QUARK
+			It's a longshot, but if you want to 
+			throw your money away, who am I to 
+			stop you?
+
+	As Bashir reacts to this...
+
+					CROWD
+			Dabo!
+
+	Bashir and Quark turn back to the table and see that O'Brien 
+	is now dead on the slab.
+
+51   CLOSE ON QUARK
+
+	As he leans over the body.
+
+					QUARK
+				(scared)
+			Oh-oh.  Looks like all bets are off.
+
+	Suddenly a hand reaches into frame and grabs Quark by the 
+	neck.  It's the Lethean, who has replaced O'Brien on the 
+	slab.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FOUR         43.
+
+52   INCLUDE BASHIR
+
+	As the Lethean sits up on the table, still holding Quark by 
+	the head.  He lowers his arm, dropping Quark's limp body to 
+	the ground.
+
+					ALTOVAR
+			Including the house.
+
+	Bashir backs away, then turns and half runs, half staggers 
+	out of the bar.
+
+53   CLOSE ON THE LETHEAN
+
+	Laughing as Bashir runs.
+
+54   INT. THE PROMENADE
+
+	Bashir runs down the Promenade, barely able to keep on his 
+	feet.  Finally, he loses his balance, staggers and falls.  A 
+	hand reaches out and grabs his shoulder.  Bashir is sure 
+	that it's the Alien, but...
+
+	It's Garak.
+
+					BASHIR
+				(exhausted)
+			Garak.  The Lethean.  He's in Quark's.
+
+					GARAK
+			He hasn't caught you yet, Doctor.  
+			Let's get you out of here.
+
+					BASHIR
+			No.  I've got to go to Ops.
+
+	Bashir tries to stand, but his leg gives out.
+
+					GARAK
+			What's wrong?
+
+					BASHIR
+			I don't believe this.  I've broken 
+			my hip.  I can't walk.
+
+	And on this, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         44.
+                           ACT FIVE                             
+
+	FADE IN:
+
+55   INT. PROMENADE (CONTINUOUS)
+
+	As before.  Garak is crouched over Bashir, who is in a great 
+	deal of pain.
+
+					GARAK
+				(can't help but smile)
+			Well, Doctor, it was a good game 
+			while it lasted.
+
+					BASHIR
+			I've got to keep moving.
+
+					GARAK
+			And how do you propose to do that?
+
+					BASHIR
+			You're going to help me.
+
+					GARAK
+			Doctor, I admire your tenacity, but 
+			I'm afraid it's over.  Look at 
+			yourself.  Your bones are as brittle 
+			as twigs, you can barely catch your 
+			breath, and you can't even stand, 
+			let alone walk.
+
+					BASHIR
+				(smiles)
+			But other than that, I feel wonderful.  
+			Now are you going to give me a hand 
+			or not?
+
+					GARAK
+			It would be a privilege.  Now what 
+			would you like me to do?
+
+					BASHIR
+				(isn't it obvious?)
+			Help me up.
+
+					GARAK
+			Of course.
+
+	Garak helps a grimacing Bashir to his feet.  Garak smiles 
+	and as they walk off...
+
+									CUT TO:
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         45.
+
+56   INT. OPS
+
+	Close on one of the doors.  We hear the sound of a phaser 
+	beam cutting through metal.  The sound stops, then the doors 
+	are slowly pried open by Garak.  Garak peers into Ops.
+
+					GARAK
+			Anyone home?
+
+	There's no response, but Garak reacts to what he sees off-
+	screen with mild surprise.  He pries the doors open the rest 
+	of the way, and then reaches into the hall and help Bashir 
+	hobble in.  Bashir looks about a hundred years old.  He looks 
+	around at Ops.
+
+57   NEW ANGLE - BASHIR'S P.O.V.
+
+	Ops is festooned with streamers and party balloons.  There's 
+	a big "Happy Birthday!" banner hanging across the door to 
+	Sisko's office.
+
+	TWO DABO GIRLS appear at either side of the doorway.  They 
+	take hold of Bashir.
+
+					DABO GIRL #1
+			Surprise!
+
+	One of them puts a party hat on his head, the other gives 
+	him a noise maker.
+
+					BASHIR
+			What's all this?
+
+	Dabo Girl #1 launches into "Happy Birthday."
+
+	Bashir looks over at Garak, who smiles and toots a noisemaker.  
+	Garak joins in for the final few lines of "Happy Birthday."
+
+					DABO GIRL #1
+				(singing)
+			"Happy Birthday, Dear Julian... "
+
+	GARAK AND DABO GIRL #1
+
+					(SINGING TOGETHER)
+			"Happy Birthday to you."
+
+					GARAK
+				(singing, alone)
+			"And many more."
+				(smiles)
+			Doctor, I really must congratulate 
+			you.  You have a fascinating mind.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE        45A.
+
+57   CONTINUED:
+
+					BASHIR
+			Look, I'm sorry, but I don't have 
+			time for this.
+
+					DABO GIRL #1
+			But it's a party.  And it's all for 
+			you.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT FIVE      46.
+
+57   CONTINUED:	(2)
+
+					GARAK
+			You should try to enjoy yourself.  
+			It's your birthday.
+
+					BASHIR
+			Garak, get me over to the engineering 
+			station.  Now.
+
+					GARAK
+				(to the Dabo Girl)
+			Sorry, my dear.
+
+58   NEW ANGLE
+
+	Garak helps Bashir walk up the stairs.
+
+					BASHIR
+			There has to be a way to reactivate 
+			the station's central computer 
+			network.
+
+					GARAK
+			Any ideas on how to go about doing 
+			that?
+
+					BASHIR
+			My Engineering extension classes at 
+			Starfleet Medical focused mainly on 
+			starship operations, but I think if 
+			I can re-route the primary command 
+			processor to bypass the disabled 
+			systems, I should be able to get it 
+			operational.
+
+					GARAK
+			So which panel accesses the computer?
+
+					BASHIR
+				(bitterly)
+			If you were really Garak, you could 
+			tell me.  In fact, you could probably 
+			fix this computer without my help.
+
+					GARAK
+			But I'm not really Garak, am I?  I'm 
+			just another part of you.
+
+	Bashir nods.  He knows.  He goes to the console behind 
+	engineering and starts to try to pry off a panel.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT FIVE      47.
+
+
+					BASHIR
+			Help me get this panel off.
+
+	Together, Bashir and Garak pry off the access panel, and 
+	several dozen tennis balls pour out of the bulkhead and onto 
+	the floor.
+
+					BASHIR
+			Tennis balls?
+
+	He and Garak exchange surprised looks.
+
+					GARAK
+			This station is in worse shape then 
+			we thought.
+
+	Calling on his dwindling reserves of energy, Bashir tries to 
+	reach another panel, but he loses his balance and falls to 
+	the floor, landing painfully on his bad hip.
+
+					BASHIR
+			Garak...
+				(holds out his hand 
+				for help)
+			One of these panels has to have the 
+			computer controls behind it.  I just 
+			have to find the right one.
+
+					GARAK
+				(doesn't move to help 
+				him)
+			Face it, Doctor, there's no way to 
+			repair the damage.  It's too 
+			extensive.
+
+	Using his arms, Bashir drags himself across the floor.
+
+					BASHIR
+			If you won't help me, I'll do it 
+			myself.
+
+					GARAK
+			I'd be more than willing to help, if 
+			I thought it would accomplish 
+			anything, but you're only delaying 
+			the inevitable.
+
+	Bashir reaches another panel.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         48.
+
+58   CONTINUED:	(2)
+
+					BASHIR
+			That doesn't sound like the Garak I 
+			know.
+
+	Bashir opens the panel and another stream of tennis balls 
+	pours out.
+
+					GARAK
+			Doctor, we've been through this.  
+			I'm not Garak.  I'm you.
+
+					BASHIR
+			It doesn't sound like me either.
+
+	Bashir gets a determined look on his face and arduously pulls 
+	himself to his feet.
+
+					BASHIR
+			I've been thinking... Why has the 
+			Lethean let you live?  He killed 
+			everyone else who could've helped 
+			me.  And exactly what part of me are 
+			you supposed to represent?  My 
+			conscience, my curiosity, my sense 
+			of humor?
+
+					GARAK
+			You tell me.
+
+					BASHIR
+			I don't think you're any part of me.  
+			In fact, I don't think you belong 
+			here at all.
+
+	There's a beat, then...
+
+					BASHIR
+			So that leaves me with one question.  
+			Who are you?
+
+59
+thru   OMITTED
+61
+
+62   CLOSE ON GARAK (OPTICAL)
+
+	who smiles and transforms into the Lethean, Altovar.
+
+					ALTOVAR
+			You've put up an entertaining 
+			struggle, Doctor.
+
+					BASHIR
+				(sarcastic)
+			I'm glad you're enjoying yourself.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/17/95 - ACT FIVE      49.
+
+62   CONTINUED:
+
+					ALTOVAR
+			But now it's time for you to make 
+			things easy on yourself.
+
+					BASHIR
+			You mean just give up?  I don't think 
+			so.
+
+					ALTOVAR
+			Why not?  Isn't that what you've 
+			always done?
+				(a beat)
+			Remember, Doctor, I'm inside your 
+			head.  I know all about you.
+
+	Altovar picks up a tennis ball.
+
+					ALTOVAR
+			When you were younger, you wanted to 
+			be a tennis player, didn't you?
+
+					BASHIR
+			I wasn't good enough to play 
+			professionally.
+
+					ALTOVAR
+			You can't lie to me.  Not in here.  
+			You were good enough.  But you knew 
+			your parents wouldn't approve.  So 
+			you gave up.  And became a doctor 
+			instead.
+
+					BASHIR
+			I love medicine.
+
+       DEEP SPACE: "Distant Voices" - REV. 01/18/95 - ACT FIVE      50.
+
+62   CONTINUED:	(2)
+
+					ALTOVAR
+			But you loved tennis more.
+				(a beat)
+			And what about medical school?  You 
+			should've been first in your class, 
+			what went wrong?
+
+					BASHIR
+			I made a mistake on the final exam.
+
+					ALTOVAR
+			You mistook a pre-ganglionic fiber 
+			for a post-ganglionic nerve.
+
+					BASHIR
+			That's right.
+
+					ALTOVAR
+			But pre-ganglionic fibers and post-
+			ganglionic nerves aren't anything 
+			alike.  Any first year medical student 
+			can tell them apart.
+				(forceful)
+			You purposely gave the wrong answer.
+
+					BASHIR
+			That's ridiculous.
+
+					ALTOVAR
+				(pressing)
+			You didn't want to be number one in 
+			your class.  You couldn't take the 
+			pressure.
+
+					BASHIR
+			That's not true.
+
+					ALTOVAR
+			Isn't it?
+				(smiles wickedly)
+			Then let's talk about Lieutenant 
+			Dax.  You like her, don't you?
+
+					BASHIR
+			Dax is my friend.
+
+					ALTOVAR
+			She could've been more if you'd tried 
+			a little harder.  But you'd rather 
+			give up than fight, wouldn't you?
+
+					BASHIR
+			We'll see about that.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         51.
+
+62   CONTINUED:	(3)
+
+	Bashir turns and half falls, half staggers into a 
+	turbolift.
+
+					ALTOVAR
+			Wait.  Where are you going?
+
+	But Bashir doesn't respond.  The turbolift lowers into the 
+	floor.
+
+									CUT TO:
+
+63   INT. INFIRMARY (VPB)
+
+	Bashir ENTERS the Infirmary.  The lights are flickering and 
+	all the monitors are full of static.
+
+64   NEW ANGLE
+
+	To reveal Altovar, who is waiting for him.
+
+					ALTOVAR
+			What do you think you're doing?
+
+					BASHIR
+			The mistake I made was trying to 
+			repair the station from Ops.  That 
+			may be the nerve center of the real 
+			station, but this...
+				(indicates the 
+				Infirmary)
+			Is the center of my world.
+
+	Bashir opens a panel.  Instead of tennis balls, the inside 
+	is full of wiring and cables.
+
+					ALTOVAR
+				(menacing)
+			Get away from that panel.
+
+					BASHIR
+				(begins working on 
+				the cables)
+			Or what?  You'll kill me.  Go ahead.  
+			What's stopping you?  You've had 
+			plenty of chances.  It must not be 
+			as easy for you as you make it sound.
+
+	Bashir continues fiddling around with the cables.  Suddenly 
+	the lights in the Infirmary stop flickering.
+
+					BASHIR
+			That's better.
+				(to Altovar)
+			You know, you don't look half as 
+			threatening in normal light.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         52.
+
+64   CONTINUED:
+
+	Bashir continues working and the monitors come to life, 
+	displaying the same image, Bashir lying on the table, being 
+	attended to by the Bajoran Nurse.
+
+					ALTOVAR
+				(re: the monitors)
+			Take a close look, Doctor.  You're 
+			dying.  Why can't you just accept 
+			it?
+
+					BASHIR
+				(still working)
+			Because that's what you want me to 
+			do.  You may be inside my head, but 
+			you don't understand me nearly as 
+			well as you think you do.  Take Dax...
+				(smiles)
+			I do have feelings for her, but the 
+			important thing is... she's my friend.  
+			And I wouldn't trade that friendship 
+			for anything.  And as far as my career 
+			is concerned... I may have been a 
+			good tennis player, but I'm a great 
+			doctor.  Maybe I could've been first 
+			in my class, but it wouldn't have 
+			made any difference in my life.  I 
+			still would've chosen this assignment.  
+			This is where I belong.
+				(closes panel, to com)
+			Computer activate quarantine field 
+			three-Jay.
+
+65   ANGLE ON ALTOVAR (OPTICAL)
+
+	As a forcefield flashes into existence around him.
+
+					ALTOVAR
+			You can't do this.
+
+					BASHIR
+			I can do anything I want.  It's my 
+			mind.
+				(to com)
+			Begin sterilization.
+
+	A light floods the area where Altovar is trapped and he slowly 
+	disintegrates.
+
+					ALTOVAR
+			Noooooooo.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         53.
+
+65   CONTINUED:
+
+	And then Altovar is gone.
+
+66   CLOSE ON THE AGED BASHIR
+
+	As he smiles and closes his eyes in weary triumph.
+
+	MATCH CUT TO:
+
+67   INT. INFIRMARY
+
+	Close on Bashir (at his normal age) as his eyes open.
+
+					DAX (O.S.)
+			Julian... He's awake.
+
+68   NEW ANGLE
+
+	To include Dax, Sisko, and the Bajoran Nurse.  We're back in 
+	the real world.
+
+					BAJORAN NURSE
+			Vital signs have stabilized.  His 
+			brain wave activity's normal.
+
+					SISKO
+			Welcome back, Doctor.
+
+					BASHIR
+			You'll never believe where I've been.
+
+69   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+70   INT. REPLIMAT
+
+	Bashir and Garak are having lunch.  We pick them up in mid-
+	conversation.
+
+					BASHIR
+			As for the real Altovar, he triggered 
+			a security alert when he broke into 
+			the Infirmary.  He barely got two 
+			meters before Odo arrested him.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         54.
+
+70   CONTINUED:
+
+					GARAK
+			It sounds like he was a lot more 
+			dangerous in your mind than he was 
+			in the real world.
+
+					BASHIR
+			Actually, I did some checking on 
+			Letheans.  Their telepathic attacks 
+			are almost always fatal.  I guess I 
+			was lucky.
+
+					GARAK
+			Cardassians don't believe in luck, 
+			Doctor.  You survived because you 
+			were strong.
+
+					BASHIR
+			I didn't feel strong.
+				(a beat)
+			One thing's for sure, after 
+			experiencing life at the age of a 
+			hundred plus, turning thirty doesn't 
+			seem so bad anymore.
+
+					GARAK
+			In that case, Happy Birthday.
+				(smiles)
+			You know, Doctor, the thing I find 
+			most fascinating about this entire 
+			incident is how your unconscious 
+			mind chose people you know to 
+			represent the various parts of your 
+			personality.
+
+					BASHIR
+			It did make things interesting.
+
+					GARAK
+			What I find interesting is how your 
+			mind ended up casting me in the role 
+			of the villain.
+
+					BASHIR
+			I wouldn't read too much into that, 
+			Garak.
+
+					GARAK
+			How can I not?  To think, after all 
+			this time, all our lunches together... 
+			you still don't trust me.
+
+	Bashir looks embarrassed.  Garak gives him a friendly pat on 
+	the shoulder.
+
+         DEEP SPACE: "Distant Voices" - 01/11/95 - ACT FIVE         55.
+
+70   CONTINUED:	(2)
+
+					GARAK (Cont'd)
+			There's hope for you yet, Doctor.
+
+	They share a smile, and we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

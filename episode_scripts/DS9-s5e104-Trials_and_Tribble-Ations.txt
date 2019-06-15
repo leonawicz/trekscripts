@@ -1,0 +1,3561 @@
+
+
+                  STAR TREK:  DEEP SPACE NINE
+                              
+                       "The Assignment" 
+                          #40510-504 
+                              
+                           Story by 
+                 David Long & Robert Lederman 
+                              
+                          Teleplay by 
+                David Weddle & Bradley Thompson 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1996 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        August 29, 1996
+
+       STAR TREK: DS9   "The Assignment" - 08/29/96 - CAS
+
+                  STAR TREK:  DEEP SPACE NINE
+                       "The Assignment" 
+                             CAST 
+
+          SISKO                    ROM
+          ODO                      WHATLEY
+          BASHIR                   TEKOA
+          DAX                      
+          QUARK                    
+          O'BRIEN                  
+          WORF                     
+          JAKE                     
+          KEIKO                    
+          MOLLY                    
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+      STAR TREK:  DS9 - "The Assignment" - 08/29/96 - SETS
+
+                  STAR TREK:  DEEP SPACE NINE
+                       "The Assignment" 
+                             SETS 
+
+          INTERIORS                     EXTERIORS
+
+          DEEP SPACE NINE               DEEP SPACE NINE
+          CARGO BAY                     
+          CORRIDOR                      
+          CRAWLWAY                      
+          DOCKING RING CORRIDOR         
+          HABITAT RING CORRIDOR         
+          HOLDING CELL                  
+          INFIRMARY                     
+          LEVEL FIVE/CRAWLWAY           
+          O'BRIEN'S QUARTERS/BEDROOM    
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          SURGERY                       
+          SYSTEMS CORE/CROSSOVER CONDUIT
+          TURBOLIFT                     
+          UPPER PYLON                   
+          WARDROOM                      
+
+        RUNABOUT                      
+
+  DEEP SPACE NINE -"The Assignment" - 09/03/96 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                       "The Assignment" 
+                      PRONUNCIATION GUIDE 
+
+          ABDON                    AB-dun
+          AMORAN                   uh-MORE-un
+          CHRONITON                CRONE-eh-ton
+          DAHKUR                   duh-KOOR
+          DUARTE                   DWART-ay
+          GRAVITIC                 GRA-vuh-tick
+          IDRAN                    IH-drahn
+          KOSS'MORAN               KOSS moe-RAN
+          KOSST                    COST
+          LITANA                   lee-TAN-uh
+          NOGALIAN                 noe-GAL-ee-un
+          NORI                     NOE-ree
+          PAH-WRAITHS              PA-rayths
+          Q'PAROL                  kuh-PAR-ul
+          RAKTAJINO                ROCK-ta-GEE-no
+          RUDELLIAN                roo-DAY-lee-un
+          SHAAKAR                  sha-KAR
+          TEKOA                    tah-KOE-uh
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER      1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                           "The Assignment"                            
+                            TEASER                              
+
+	FADE IN:
+
+Al   INT. QUARK'S
+
+	It's early morning and the station is just coming to 
+	life. QUARK, behind the bar, is going through his 
+	opening rituals as his first customer, MORN, enjoys an 
+	enormous and odd-looking breakfast. A few DABO GIRLS, 
+	looking lovely, go through their preparations in the 
+	background.
+
+					QUARK 
+			You know, Morn -- there's nothing 
+			quite as invigorating as breakfast 
+			in a bar. Where else can you get 
+			raw slug livers first thing in the 
+			morning?
+
+	Morn shakes his head as ROM, with his usual good cheer, 
+	ENTERS and plops onto a stool at the bar. This is 
+	Rom's routine as well, and Quark has a bowl of gruel 
+	prepared for him.
+
+					ROM 
+			What's this?
+
+					QUARK 
+			What do you mean, "what's this?" 
+			It's puree of beetle.
+
+					ROM 
+			I didn't order it.
+
+					QUARK 
+			Of course you "didn't order it" -- 
+			you don't need to order it. You 
+			have it after work every morning.
+
+					ROM 
+			Well, I'm not having it this 
+			morning. I'd like two eggs, over 
+			easy with three strips of bacon 
+			and a side of corned beef hash.
+
+	Quark stares at his brother with disbelief.
+
+					QUARK 
+			What kind of breakfast is that?
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER     1A.
+
+Al   CONTINUED:
+
+					ROM 
+			It's Chief O'Brien's breakfast of 
+			choice.
+
+					QUARK 
+			That's the problem with working 
+			alongside Hew-mons, you pick up 
+			their disgusting habits. Bacon. 
+			Corned beef hash...
+				(winces) 
+			What's next? Orange juice and 
+			coffee?
+
+					ROM
+				(sounds good) 
+			That might be nice.
+
+	Quark shudders with disgust but begins preparing Rom's 
+	"Hew-mon" breakfast.
+
+					QUARK 
+			I don't understand it. You gave 
+			up a perfectly good job with me to 
+			work on the station's waste 
+			extraction system.
+
+					ROM 
+			A good waste extraction system is 
+			important. Imagine where we'd be 
+			without one.
+
+					QUARK 
+			Of course it's important -- but my 
+			point is, you're not getting the 
+			choice assignments. O'Brien's got 
+			you on the night shift doing all 
+			the work no one else wants to do.
+
+					ROM
+				(doesn't see the 
+				problem) 
+			I like my work.
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER     13.
+
+Al   CONTINUED:	(2)
+
+					QUARK 
+			You like standing all night long, 
+			knee-deep in waste, fixing some 
+			broken flow regulator? When you 
+			could be here --
+
+	Quark places Rom's breakfast in front of him.
+
+					QUARK 
+			-- staring at half-naked dabo
+			girls?
+
+	Rom looks around the room considering his brother's 
+	point. After a beat, it's clear Rom has no regrets.
+
+					ROM 
+			I have a good job. I'm proud of 
+			the work I do.
+				(building steam) 
+			And I know that one day, Chief 
+			O'Brien will recognize my efforts 
+			and reward me with a position of 
+			respect and responsibility. And
+			why?
+				(with finality) 
+			Because that's just the way things 
+			are... in Engineering.
+
+	Quark stares at his brother, then moving off:
+
+					QUARK
+				(half to himself) 
+			I'm sorry I brought it up.
+
+	We hold on Rom as he digs into his breakfast.
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER     1C.
+
+1    INT. O'BRIEN'S QUARTERS
+
+	CLOSE ON a bonsai tree, stone dead. O'Brien's fingers 
+	test the leaves. Lifeless, they crumble to the touch.
+
+					O'BRIEN (O.S.) 
+			They looked fine last night.
+
+	PULL BACK TO REVEAL O'BRIEN and BASHIR standing in 
+	front of a whole collection of ruined bonsai.
+
+					BASHIR
+			They don't look so fine now.
+
+					O'BRIEN 
+			I can't understand it... I've been 
+			following Keiko's instructions to 
+			the letter...
+
+					BASHIR 
+			They were dry as a bone when I 
+			came by for you yesterday. I gave 
+			them water, but I guess it wasn't 
+			enough.
+
+					O'BRIEN
+			You watered them?
+
+	O'Brien's dismay is sliding into anger.
+
+					O'BRIEN 
+			These are Idran hybrids. Too much 
+			water rots their roots.
+
+					BASHIR 
+			Oh.
+
+	MOLLY ENTERS, evaluates the damage with a critical eye.
+
+					MOLLY
+			Mommy's going to be mad.
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER      2.
+
+1    CONTINUED:
+
+	O'Brien and Bashir exchange a look of doom.
+
+					O'BRIEN 
+			I can't believe it. Keiko's been 
+			gone for five days and we've 
+			killed her plants.
+
+					BASHIR
+			She'll understand, won't she? 
+			After all, they're just plants.
+
+
+					O'BRIEN
+			They're not "just plants" - 
+			they're her bonsai trees.
+
+	O'Brien picks up one of the plants, tries to prop up a 
+	sagging branch. It falls off.
+
+					O'BRIEN 
+			She's nurtured them and cared for 
+			them, carefully sculpted their 
+			growth for... months... years.
+
+					MOLLY 
+			You're in trouble.
+
+	But O'Brien refuses to let the panic take hold. 
+	O'Brien sets the plant down, fixes his daughter with a 
+	desperate smile.
+
+					O'BRIEN 
+			Molly, honey, listen... why don't 
+			we both go to the airlock and 
+			welcome Mommy back together. Then 
+			after we've hugged and kissed her, 
+			you can explain what happened.
+
+					MOLLY
+				(shaking her head) 
+			Not me.
+
+	O'Brien looks to Bashir.
+
+					BASHIR 
+			Don't look at me.
+
+					O'BRIEN
+			You killed her plants.
+
+					BASHIR
+			We killed them.
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER      3.
+
+1    CONTINUED:	(2)
+
+					BASHIR 
+			But I think you're overreacting 
+			to the situation. Keiko will 
+			forgive you. After all, today's 
+			your birthday, right?
+
+					O'BRIEN
+				(nodding) 
+			So far, it's one I'd like to 
+			forget.
+
+					BASHIR 
+			And Keiko's been away on Bajor -- 
+			she's missed you. Bring her a 
+			gift -- what's her favorite 
+			chocolate?
+
+					O'BRIEN
+			Tellurian mint truffles. But I 
+			still think you should be there 
+			with me.
+
+					BASHIR 
+			You don't need me. You know how 
+			to handle your own wife -- I've 
+			seen you do it a thousand times. 
+			Just say you're sorry and take 
+			full responsibility. You'll be 
+			fine.
+				(a beat) 
+			Besides, I'll be in surgery -- 
+			operating.
+
+	O'Brien doesn't believe him for a second.
+
+					O'BRIEN 
+			On who?
+
+					BASHIR 
+			I'll find somebody.
+
+	Bashir smiles and EXITS before O'Brien can say another 
+	word. After a beat, O'Brien turns to Molly, who picks 
+	up her BAJORAN DOLL and silently EXITS into her room,
+	the door CLOSES behind her. HOLD ON O'Brien for a 
+	beat.
+
+2    INT. UPPER PYLON (OPTICAL)
+
+	KEIKO and O'Brien, standing in front of the viewing 
+	port, holding an open box of Tellurian mint truffles.
+
+     DEEP SPACE NINE: "The Assign... " - REV. .09/12/96 - TEASER     3A.
+
+2    CONTINUED:
+
+	Keiko is already enjoying a chocolate, her travel bag 
+	sitting beside her. The beautiful starfield glitters 
+	behind them.
+
+					O'BRIEN
+				(blurts) 
+			It was Julian. He overwatered 
+			them. He was trying to be helpful --
+			but you know how he is, he doesn't 
+			always know what he's doing.
+
+	Outside the port, the wormhole opens.
+
+					O'BRIEN 
+			I'm sorry, sweetheart. We'll get 
+			new ones.
+
+					KEIKO
+				(waves her hand) 
+			Forget it, Miles. They're just 
+			plants.
+
+					O'BRIEN
+				(laugh-gasp) 
+			Exactly.
+
+					KEIKO
+			It's not as if something happened
+			to Molly or the baby.
+
+					O'BRIEN
+			Right. Everyone's just fine. No 
+			problems at all.
+
+	Keiko licks the chocolate truffle from her fingers.
+
+					KEIKO 
+			Good. What about Kira - 
+			is she back?
+
+					O'BRIEN
+			No, she's still with Shaakar 
+			traveling around Dahkur Province. 
+			I thought you were going to visit 
+			them.
+
+					KEIKO
+			I didn't have a chance.
+
+      DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - TEASER      4.
+
+2    CONTINUED:	(2)
+
+				O'BRIEN 
+			So, how were the Fire Caves?
+
+					KEIKO
+			Fine. And now it's time for me to 
+			tell you something.
+
+	O'Brien's all ears.
+
+					KEIKO 
+			I'm not Keiko.
+
+					O'BRIEN
+				(thinking she's joking) 
+			Then who are you?
+
+	But Keiko is all business; she speaks calmly, in her 
+	own voice.
+
+					KEIKO 
+			Listen carefully, Miles. I've 
+			taken possession of your wife's 
+			body and I will hold it hostage 
+			until you've done everything I 
+			tell you to do -- accurately, and 
+			without question.
+
+	O'Brien, still convinced Keiko is toying with him, 
+	snuggles up to her.
+
+					O'BRIEN 
+			Everything?
+
+					KEIKO
+			If you don't do precisely what I 
+			ask, I'll kill your wife.
+
+
+	The smile disappears from O'Brien's face. He doesn't 
+	understand what's going on with his wife, but he's 
+	suddenly worried. He takes her hand, slides his 
+	fingers down to her pulse, trying to stay casual.
+
+					O'BRIEN 
+			Maybe there's been an outbreak of 
+			Rudellian brain fever on Bajor. 
+			Let's go down and see Julian, so 
+			he can...
+
+     DEEP SPACE NINE: "The Assign... " - REV -.09/12/96 - TEASER      5.
+
+2    CONTINUED:
+
+					KEIKO
+				(impassively) 
+			I see you're going to need a 
+			demonstration of my sincerity.
+
+	She searches his eyes, then suddenly Keiko chokes, 
+	collapses. O'Brien catches her, lowers her to the 
+	deck. Her body convulses. As O'Brien tries to control 
+	her thrashing, her eyes suddenly roll back and she's 
+	still. O'Brien stares at her for a beat, then brings 
+	his head down onto her chest, listens for her heart.
+
+					O'BRIEN 
+			No!
+
+3    O'BRIEN'S HAND
+
+	reaches for his combadge. Before he can touch it, 
+	Keiko's hand snatches his wrist lightning-fast and 
+	grips it with incredible force.
+
+4    KEIKO
+
+	rises from the floor, her eyes shining strangely.
+
+					KEIKO 
+			No, Miles. You're not telling 
+			anyone. If you do, I'll stop her 
+			heart... forever.
+
+	And on O'Brien's frightened and confused expression, 
+	we:
+
+FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE      6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+5    INT. UPPER PYLON
+
+	As before. O'Brien wrenches free of Keiko's grip and 
+	stumbles backward, rubbing his wrist and staring at 
+	her.
+
+					O'BRIEN 
+			If you're really in control of my 
+			wife's body, let me speak to her.
+
+					KEIKO
+			She can "hear" whatever you want 
+			to say.
+
+	A thin line of blood trickles from Keiko's nose. She 
+	ignores it.
+
+					O'BRIEN 
+			That's not good enough. I want to 
+			talk to her -- I want her to talk 
+			to me. 
+
+	Keiko, unruffled, smiles and lifts her finger -- a 
+	warning not to threaten her.
+
+					KEIKO 
+			You're in no position to make any 
+			demands, Miles.
+
+	The blood from her nose slowly drips down her upper 
+	lip. She wipes the blood from her lip, fingers it with
+ 	fascination.
+
+					KEIKO 
+			Strange, these corporeal bodies of 
+			yours. So fragile. Burst a tiny
+			blood vessel in the brain and 
+			every memory, every passionate 
+			emotion...
+				(smiles) 
+			Gone forever.
+
+	Keiko takes another mint truffle.
+
+					KEIKO 
+			You shouldn't let me eat all of 
+			these by myself.
+
+					O'BRIEN 
+			I'm not hungry.
+
+	Keiko finishes off the truffle. They stare at each 
+	other a moment. The blood flow stops.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE      7.
+
+5    CONTINUED:
+
+					O'BRIEN 
+			Why don't you just tell me what 
+			ou want me to do so we can get 
+			this over with.
+
+					KEIKO 
+			Very well...
+
+					O'BRIEN 
+			But I want to make one thing clear --
+			I won't do anything that'll 
+			jeopardize this station or the 
+			people on it.
+
+					KEIKO 
+			Don't worry, Miles. All I want 
+			you to do is reconfigure some of 
+			the communication and sensor
+			relays on the station.
+
+					O'BRIEN 
+			What for?
+
+	Keiko leads Miles into the turbolift.
+
+					KEIKO 
+			I can't tell you that.
+
+	The turbolift doors close.
+
+5A   INT. TURBOLIFT - CONTINUOUS
+
+	Keiko stands near her husband.
+
+					O'BRIEN 
+				(to Keiko) 
+			You're going to have to be 
+			patient. The communication and 
+			sensor relays are distributed 
+			throughout the entire station.
+
+	Keiko takes another mint truffle.
+
+					KEIKO 
+			You know your wife well, Miles. 
+			But she knows you even better.
+
+	O'Brien tries to remain poker-faced. Keiko smiles.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     7A.
+
+5A CONTINUED:
+
+					KEIKO 
+			You're playing for time so you can 
+			get to your friends. Dax, Julian,
+			Captain Sisko -- I know they'll 
+			all want to help you. 
+				(pleasantly) 
+			The captain may even allow you to 
+			do what I'm asking -- at least 
+			until someone can figure a way to 
+			"trap me" in some kind of stasis 
+			field or some other clever device 
+			you're already dreaming up.
+
+	Finishing the truffle.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE      8.
+
+5A CONTINUED:	(2)
+
+					KEIKO 
+			And you know what? It might work. 
+			You might be able to stop me.
+				(then cold and hard as
+				steel)
+			But I promise you one thing -- if
+			you do, Keiko will die. All I
+			need is a split second to cause a
+			massive brain hemorrhage...
+				(snapping her fingers)
+			... and she's gone.
+
+	O'Brien shifts uncomfortably; she's got him by the 
+	short hairs.
+
+					KEIKO 
+			I realize this is a difficult 
+			adjustment for you to make, but we 
+			don't have a lot of time.
+
+	O'Brien takes a deep breath.
+
+					O'BRIEN
+			What do you want me to do?
+
+6    INT. O'BRIEN'S QUARTERS (OPTICAL)
+
+	Station schematics FLASH ON O'Brien's desktop terminal, 
+	as he and Keiko watch. one image stops, and 
+	progressive zooms isolate a junction node.
+
+					KEIKO 
+			How long is this going to take?
+
+					O'BRIEN 
+			Two hours to make the 
+			modifications and five or six 
+			hours to cover my tracks.
+				(off her look) 
+			If I don't -- my crew will catch 
+			on to what I'm doing before you 
+			can say isolinear injunction.
+
+	Keiko nods, pleased.
+
+					KEIKO 
+			I'm glad to see some of your good 
+			humor returning.
+
+	Keiko places her arm gently on his shoulder -- a
+	supportive gesture his wife has done countless times.
+	O'Brien tenses.
+
+      DEEP SPACE NINE: "The Assign.. " - REV. 09/12/96 - ACT ONE      9.
+
+6    CONTINUED:
+
+					KEIKO 
+			This doesn't need to be an 
+			unpleasant experience.
+
+	O'Brien ignores her, suppressing his anger.
+
+					O'BRIEN 
+			In order to keep the polarity 
+			shift invisible to security 
+			checks, I'll have to tap into the 
+			optronic integrator on Level Five.
+
+					KEIKO
+			You're the engineer.
+
+	O'Brien gently removes her hand from his person, begins 
+	to enter the specifications into his PADD. Keiko 
+	studies him for a beat.
+
+					KEIKO 
+			What is it, Miles? What do you 
+			want to ask me?
+				(off his look) 
+			You always tighten your brow just 
+			a tiny bit when you're about to 
+			ask a question -- it's something 
+			only a wife would notice.
+
+					O'BRIEN
+			Why Keiko? Why take control of 
+			her -- and not me? I'm the one 
+			who knows how to do the work. 
+			It'd be more efficient --
+
+	O'Brien's interrupted by the door CHIME. Keiko takes 
+	a step toward the door and answers.
+
+					KEIKO 
+			Come in.
+
+	The doors OPEN to REVEAL Bashir, carrying a small 
+	potted plant with a bow on it.
+
+					BASHIR
+			Hope I'm not interrupting...
+
+					O'BRIEN
+				(snaps) 
+			You are. We're busy.
+
+	Keiko glares at O'Brien, suddenly very much the 
+	embarrassed wife.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     10.
+
+6    CONTINUED:	(2)
+
+					KEIKO 
+			Miles! Don't be rude.
+
+	Keiko crosses to Bashir, who extends the plant. Keiko 
+	takes it in one hand. Over Keiko's shoulder, Bashir 
+	catches O'Brien's gaze.
+
+					BASHIR
+				(silently mouths) 
+			Did you tell her?
+
+	O'Brien nods stiffly. Keiko looks lovingly at the 
+	plant.
+
+					KEIKO 
+			Bajoran spiny basil... how 
+			thoughtful!
+
+	She sets it down, then adjusts it.
+
+					BASHIR 
+			It's the least I can do after...
+
+					KEIKO
+			It's all right, Julian. I forgive 
+			you.
+				(a beat) 
+			Now, you are going to make it to 
+			the party tonight, aren't you?
+
+					BASHIR 
+			I'll be here.
+				(smiles) 
+			I guess it's not a surprise 
+			anymore.
+
+					KEIKO
+				(chagrinned) 
+			I can't believe I did that.
+				(to O'Brien) 
+			I arranged a birthday dinner for 
+			you tonight. But I wanted it to 
+			be a surprise.
+
+					O'BRIEN
+			It's okay.
+				(pointed) 
+			I don't like surprises.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     11.
+
+6    CONTINUED:	(3)
+
+					BASHIR 
+			I better go. I left a patient on 
+			the operating table.
+				(heading for the door) 
+			I'll see you later.
+
+					KEIKO
+				(re: the plant) 
+			Thanks, Julian. This was sweet.
+
+	Bashir smiles, EXITS. O'Brien drops the pretense.
+
+					O'BRIEN 
+			A party? Tonight?
+
+					KEIKO
+			It is your birthday.
+
+					O'BRIEN
+			We can't have all those people 
+			here. We'll have to cancel it.
+
+					KEIKO
+			And raise suspicions? It's better 
+			if the dinner goes on as planned.
+				(a smile) 
+			Besides, your wife went through a 
+			lot of trouble to arrange it.
+
+	O'Brien knows she has all the cards. He takes a 
+	breath.
+
+					KEIKO 
+			You'd better get to work -- you 
+			don't want to be late for your 
+			shift briefing and I've got a lot 
+			of cooking to do.
+
+	Bristling but controlling himself, O'Brien picks up 
+	his PADD and heads for the door.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     12.
+
+7    OMITTED
+
+8    INT. WARDROOM (OPTICAL)
+
+	where FOUR MAINTENANCE WORKERS sit at the conference 
+	table drinking raktajino, and awaiting O'Brien's 
+	arrival. Rom ENTERS the room and announces:
+
+					ROM
+			Diagnostic and Repair Technician,
+			Junior Grade Rom reporting.
+
+	WHATLEY, a human leather-faced Starfleet vet and the 
+	most senior of the group, acknowledges Rom without even 
+	looking at him.
+
+					WHATLEY
+			Right. You're Duarte's
+			replacement.  Have a seat.
+
+	Rom takes the announcement as if he's just won the 
+	lottery.
+
+					ROM
+			I'm on the swing shift?
+
+					WHATLEY
+			For a day or two.
+
+	TEKOA, a Bajoran woman exchanges a look with ABDON, an 
+	alien with a somber disposition.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     13.
+
+8    CONTINUED:
+
+					TEKOA
+			What's the matter with Duarte?
+
+					WHATLEY
+			Sick as a vole.
+
+					ROM
+			Is this where Duarte sits?
+
+	Rom sits in one of the chairs, impressed with the 
+	chair's fabric and padding.
+
+					ROM
+				(looking at their coffee 
+				mugs)
+			So, what are you drinking?
+
+					WHATLEY
+			Raktajino.
+
+					ROM
+			Great. Is that what we drink on
+			the swing shift?
+
+	The others exchange a look.
+
+					WHATLEY
+			You can drink anything you want.
+
+					ROM
+			I'll have a raktajino.
+
+	Rom quickly gets up and steps over to the replicator.
+
+					ROM
+			It's not like this on the night
+			shift.
+
+	The others just stare at him silently.
+
+					ROM
+			We don't drink raktajino...
+				(a sudden realization)
+			We don't really drink anything.
+
+					WHATLEY
+				(dry)
+			Fascinating.
+
+	But Rom is oblivious to the slight, happy as a clam 
+	trying to fit in and do everything the others do.
+
+					TEKOA
+				(glancing over at the 
+				door)
+			Wonder what's keeping the chief --
+			he's never late for a briefing.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE    13A.
+
+8    CONTINUED:	(2)
+
+					WHATLEY 
+			That's married life for you. Just 
+			as I'm walking out the door -- my 
+			wife always comes up with 
+			something I forgot to do.
+
+	The WALL MONITOR comes to life with O'Brien's image. 
+	Rom takes a step back to his seat.
+
+					O'BRIEN 
+				(on monitor) 
+			Change of plans today, people.
+
+	Everyone braces themselves at his gruff demeanor.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     14.
+
+8    CONTINUED:	(4)
+
+					O'BRIEN 
+				(continuing) 
+			I need to recalibrate the optronic 
+			integrator on Level Five.
+
+	Rom's hand shoots up.
+
+					O'BRIEN 
+			What is it, Rom?
+
+					ROM
+			I volunteer. I like phase-
+			shifting reconfigurations.
+
+					O'BRIEN
+			Thank you, but I'll do that 
+			myself. I want the rest of you to 
+			concentrate on the new inertial 
+			coupling ports. I want all sixty-
+			four ports completed today.
+
+	That's a tall order, but nobody is dumb enough to 
+	complain.
+
+					O'BRIEN 
+			Whatley -- you and Tekoa cover the 
+			docking ring. Abdon and Nori, the 
+			cargo bays. Rom -- the upper 
+			pylons. Any questions? 
+				(a beat) 
+			Good. One more thing -- since I'm
+			working alone today, I'm going to 
+			be very busy. Try not to 
+			interrupt me with anything 
+			unimportant. Is that clear?
+
+	Perfectly.
+
+9    INT. LEVEL FIVE - CRAWLWAY
+
+	O'Brien is alone by a sealed access panel. This is the 
+	optronic integrator. O'Brien prepares to unseal the 
+	panel with a high-tech tool (an EJ7 or something like 
+	it). He pauses, staring at the panel, torn with 
+	conflicting loyalties. After a beat, he again advances 
+	the tool toward the seal. He stops again.
+
+	O'Brien abruptly tosses the tool back in his box. He 
+	leans his back against the opposite wall, staring at 
+	the sealed panel. He gets an idea.
+
+     DEEP SPACE NINE: "The Assign... " - REV. .09/12/96 - ACT ONE    15.
+
+9    CONTINUED:
+
+					O'BRIEN 
+			Computer, locate Keiko O'Brien.
+
+					COMPUTER VOICE 
+			Keiko O'Brien is in her quarters.
+
+					O'BRIEN
+			Computer, initiate a full identity 
+			scan on Keiko O'Brien and note 
+			inconsistencies with any existing 
+			medical records.
+
+	After a long moment.
+
+					COMPUTER VOICE 
+			Scan complete. No inconsistencies 
+			found. Identity confirmed.
+
+	O'Brien lets out a deep breath.
+
+					O'BRIEN 
+			How long would it take for a level 
+			three stasis field to render Keiko 
+			O'Brien unconscious?
+
+					COMPUTER VOICE 
+			All cognitive reflexes would cease 
+			in two-point-one seconds.
+
+	O'Brien shakes his head --
+
+					O'BRIEN
+				(to himself) 
+		Too long.
+				(to computer) 
+			Calculate the time if anesthetine 
+			gas were used.
+
+					COMPUTER VOICE 
+			One-point-four seconds.
+
+	Still not good enough.
+
+					O'BRIEN 
+			What about a phaser set to stun?
+
+					COMPUTER VOICE 
+			Zero-point-nine seconds.
+
+	O'Brien scowls.
+
+					O'BRIEN 
+			Damn it.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT ONE     16.
+
+10   CLOSE ON O'BRIEN
+
+	his face tight -- a reflection of his inner strain. He 
+	feels boxed in and with no choice but to proceed. 
+	Slowly, he picks up the EJ7 high-tech tool and begins 
+	to unseal the panel.
+
+					O'BRIEN
+			God help me...
+
+	A sharp WHINE and the panel SNAPS open. And on 
+	O'Brien's expression of inner conflict, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     17.
+                            ACT TWO                             
+
+	FADE IN:
+
+11   INT. HABITAT RING CORRIDOR
+
+	O'Brien moves down the passageway toward his quarters, 
+	eyes inward, preoccupied, oblivious to the passing 
+	SUPERNUMERARIES. Arriving at his quarters, the doors 
+	slide OPEN.
+
+12   INT. O'BRIEN'S QUARTERS
+
+	O'Brien steps quickly into the room, stopping abruptly 
+	when he sees SISKO, JAKE and ODO standing around a 
+	buffet-style table where several delicious, yet albeit 
+	odd-looking, dishes have been set out.
+
+					JAKE 
+			There you are, Chief.
+				(a gentle tease) 
+			I was beginning to think you were 
+			going to miss your own party.
+
+					O'BRIEN 
+			Sorry I'm late.
+				(overexplaining) 
+			Had to tie up a few loose ends. 
+			Where's Keiko?
+
+	Bashir emerges from the bedroom carrying a tray of 
+	drinks.
+
+					BASHIR 
+			In the bedroom, helping Molly put 
+			on different shoes -- a little 
+			fashion crisis. But as usual, 
+			your wife has handled everything. 
+			You're a lucky man, Miles.
+
+					SISKO
+				(agreeing) 
+			She's really outdone herself this 
+			time.
+				(re: a dish) 
+			Take it from an old cook -- 
+			Q'parol is a very time-consuming 
+			dish to make.
+
+	Molly and Keiko ENTER. Keiko is holding a beautiful 
+	candle-bedecked cake. Molly bolts up to O'Brien, who 
+	picks her up into his arms. Keiko starts SINGING "For 
+	He's a Jolly Good Fellow" and is soon joined by 
+	everyone else.
+
+DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO    17A.
+
+12A CLOSE ON O'BRIEN
+
+	trying to not show his inner tension. As the song 
+	ends:
+
+					JAKE
+			Make a wish.
+
+	O'Brien blows out the candles. He looks over to Keiko, 
+	who smiles pointedly.
+
+12B  WIDER
+
+	Keiko sets down the cake and steps over to O'Brien, 
+	greeting him with a loving kiss on the cheek.
+
+					KEIKO
+			Happy birthday, sweetheart.
+
+	O'Brien nods and forces a smile. Keiko takes a drink 
+	from Bashir's tray, handing it to her husband.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     18.
+
+12B  CONTINUED:
+
+					KEIKO 
+			Single malt Irish whiskey. Neat.
+				(sweetly) 
+			Molly wanted to wear her new 
+			purple shoes for you. Doesn't she 
+			look pretty?
+
+					O'BRIEN
+			Very pretty.
+
+	Molly shows them off to her Dad, then scampers away, 
+	Keiko beams like a proud parent.
+
+					KEIKO
+			All the food's out on the table, 
+			dear, so just relax with our 
+			friends.
+				(taking the tray of 
+				drinks) 
+			I'll pass these around.
+
+					O'BRIEN
+				(low) 
+			I need to talk to you.
+
+					KEIKO
+				(affable) 
+			Not right now, Miles... we have 
+			guests.
+
+	The door OPENS to reveal DAX.
+
+					DAX 
+			Sorry I'm late.
+
+	Keiko brushes past her husband and heads over to greet 
+	her.
+
+					KEIKO
+				(delighted) 
+			Dax! I was afraid you weren't 
+			going to make it.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     19.
+
+12B  CONTINUED:	(2)
+
+					DAX 
+			I heard you were serving Q'parol. 
+			How could I stay away?
+
+	The perfect host, Keiko leads her into the room and 
+	continues graciously handing out drinks. Sisko, who 
+	doesn't miss much, inches next to O'Brien.
+
+					SISKO 
+			What's the matter, Chief? You 
+			seem preoccupied. Is everything 
+			all right?
+
+	O'Brien looks at the captain. A flash of thoughts: 
+	Dare he tell him? Looking over at Keiko, he knows he 
+	can't. He also knows he can't just stand there, 
+	exchanging pleasantries. The captain's too smart - 
+	he'll sense something's deeply wrong... he must get 
+	away.
+
+					O'BRIEN 
+			It's nothing. I just forgot to 
+			tell Keiko something... would you 
+			excuse me for a moment?
+
+					SISKO
+			Of course.
+
+13   NEW ANGLE
+
+	to see O'Brien step up to Keiko, talking with Odo and 
+	Jake.
+
+					JAKE 
+			Did you meet any Pah-wraiths?
+
+					KEIKO 
+			Pah-wraiths?
+
+					JAKE 
+			In the Fire Caves. Odo was 
+			telling me the caves were haunted 
+			by some sort of weird supernatural 
+			beings.
+
+					KEIKO
+				(to Odo) 
+			Don't tell me you believe in 
+			wraiths?
+
+					ODO
+				(correcting) 
+			I may have mentioned the Bajoran 
+			legends about creatures living in 
+			the caves. But I never said I 
+			believed them.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     20.
+
+13   CONTINUED:
+
+					KEIKO
+			Well, the only thing I saw in the
+			caves were some very beautiful and
+			botanically fascinating fungi.
+
+					JAKE
+			Well, maybe next time you go to
+			the Fire Caves, I could come
+			along.
+				(smiles)
+			I've always wanted to meet a Pah-
+			wraith.
+
+					KEIKO
+			Maybe you will. You never know...
+
+	O'Brien steps up to his wife.
+
+					O'BRIEN
+				(pointed)
+			I've done what you wanted.
+
+					KEIKO
+			That's terrific, Miles. You can
+			tell me all about it... later.
+
+	Molly has moved over to Keiko and holds onto her by the 
+	knees.
+
+					MOLLY
+			Can I have cake now?
+
+	Keiko puts her arm around the child.
+
+					KEIKO
+			In a bit, sweetie.
+
+	That image is too much for O'Brien. The glass in his 
+	hand SHATTERS. Stressed with the situation, he's 
+	squeezed it too tight -- cutting his hand.
+
+					KEIKO
+			Miles -- are you bleeding?
+
+					O'BRIEN
+			No, I'm all right. It's nothing --
+
+	Bashir steps toward O'Brien.
+
+					BASHIR
+			Let me look at that.
+
+					O'BRIEN
+				(sharp)
+			I said it's nothing.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     21.
+
+13   CONTINUED:	(2)
+
+	Bashir stops in his tracks. O'Brien looks up at the 
+	circle of bewildered faces.
+
+					O'BRIEN 
+			I'm sorry. Sorry, everybody.
+
+	O'Brien holds his hand behind his back to hide the 
+	bleeding.
+
+					O'BRIEN 
+			Excuse me...
+
+	O'Brien rushes out of the room, to the bedroom. We 
+	hold a beat as the guests exchange looks.
+
+14   INT. O'BRIEN'S BEDROOM
+
+	O'Brien has a small towel wrapped around his wrist to 
+	stop the bleeding. Keiko appears behind him.
+
+					KEIKO
+				(a command)
+			Get a hold of yourself.
+
+					O'BRIEN 
+			I've done what you wanted. Now 
+			give me my wife back.
+
+	Keiko calmly takes out a small first aid device and 
+	gently unwraps the towel around O'Brien's hand, taking 
+	care of her husband like she's done a thousand times.
+
+					KEIKO 
+			You've done well, Miles.
+
+	She applies the device to seal up the wound and stop 
+	the bleeding.
+
+					KEIKO 
+			But recalibrating the optronic 
+			integrator was only a test. I had 
+			to be sure I could trust you.
+				(softly) 
+			Tomorrow, the real work begins.
+
+	O'Brien pulls his arm away, speechless. She has him 
+	boxed in and he doesn't know what to do about it.
+
+					KEIKO 
+			Now it's time we got back to our 
+			guests. We don't want to raise 
+			any suspicions, do we?
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     22.
+
+14   CONTINUED:
+
+	O'Brien glares at her silently.
+
+15   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+16   INT. O'BRIEN'S QUARTERS - LATER
+
+	The guests have left. Keiko is cleaning up the remains 
+	of the dinner party. O'Brien steps out of Molly's room 
+	and stops in the doorway, observing Keiko.
+
+					KEIKO
+			Is Molly asleep?
+
+	O'Brien's face knots in rage.
+
+					O'BRIEN
+				(quietly)
+			Yes.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     23.
+
+16   CONTINUED:
+
+					KEIKO
+				(showing him the empty 
+				casserole)
+			The Q'parol was a big success.
+
+	O'Brien's anger flares.
+
+					O'BRIEN
+			No more games. No more tests.
+			Just tell me what you want done.
+
+	She waves an annoyed hand and disposes of the last of 
+	the dishes.
+
+					KEIKO
+			We'll talk about it in the
+			morning. It's late and you're
+			working a double shift tomorrow.
+
+					O'BRIEN
+			I want to talk about it now.
+
+					KEIKO
+			Miles -- I make the rules.
+				(softening)
+			Now relax. Everything's going to
+			be fine as long as you do what I
+			ask.
+
+	O'Brien has to suppress his urge to let his temper 
+	speak for him. Keiko remains calm.
+
+					KEIKO
+			Let's go to bed.
+
+	She moves to the bedroom door. He doesn't move.
+
+					O'BRIEN
+			I'm sleeping on the couch.
+
+	She turns, regards him with maternal amusement.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     24.
+
+16   CONTINUED:	(2)
+
+					KEIKO 
+			Don't be childish. What if Molly 
+			has one of her nightmares and 
+			comes running in? You'll sleep 
+			next to me, just like you always 
+			do.
+
+	O'Brien stares at her with hatred and fear.
+
+					O'BRIEN
+			I'll be there in a minute.
+
+	Keiko looks at him, decides she can ease the reins just 
+	a bit..
+
+					KEIKO 
+			Don't stay up too late. You've 
+			got a busy day tomorrow.
+
+	Keiko EXITS into the bedroom. O'Brien waits a beat, 
+	then steps over to a monitor. He speaks clandestinely, 
+	looking over his shoulder.
+
+					O'BRIEN 
+			Computer. I want to see a record 
+			of all Bajoran legends concerning 
+			the Pah-wraiths.
+
+					COMPUTER VOICE 
+			There are six thousand, four 
+			hundred, twenty-seven entries in 
+			the data banks that reference that 
+			subject.  Please specify.
+
+	O'Brien exhales with frustration -- he has no idea 
+	where to begin.
+
+					KEIKO (O.S.) 
+			Miles...
+
+	O'Brien's expression hardens before he heads to the 
+	bedroom.
+
+17   INT. O'BRIEN'S BEDROOM - OVERHEAD ON O'BRIEN
+
+	He lies stiff as a corpse beneath the sheets. His eyes 
+	slide apprehensively to his right as the sheets lift 
+	and Keiko, in a nightgown, slips in beside him. Her 
+	body RUSTLES SOFTLY as it seeks a comfortable position; 
+	she sighs, like a cat settling in for a long languid 
+	nap.
+
+					KEIKO 
+			Sleep well, Miles.
+
+	PULL AWAY SLOWLY from the figure of O'Brien, alone in 
+	the dark beside the strange form of his wife. He 
+	stares up into the shadows.
+
+									FADE TO BLACK.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO    24A.
+
+	FADE IN:
+
+18   INT. O'BRIEN'S BEDROOM - MORNING
+
+	O'Brien's in a deep sleep. During the night his body 
+	has instinctively gravitated toward the warm and 
+	familiar presence beside him. His arm is draped over 
+	Keiko. Keiko, propped up on one elbow, curiously 
+	stares down at him. The probing eyes make themselves 
+	felt. O'Brien awakens to her warm smile, and returns 
+	it, about to snuggle into her when... he remembers. 
+	O'Brien whips his arm free, and pivots to a sitting 
+	position, rubbing his face.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     25.
+
+18   CONTINUED:
+
+					KEIKO
+				(smiles) 
+			Another weakness of you corporeal 
+			lifeforms: your need for physical 
+			intimacy.
+
+	O'Brien scrambles to his feet, putting on a robe, he 
+	stumbles toward the closet for his uniform. Keiko 
+	distastefully picks up an errant Bajoran doll, 
+	misplaced by Molly.
+
+					KEIKO
+				(re: Molly's doll) 
+			It's especially irritating in your 
+			young.
+
+	O'Brien snatches the doll away.
+
+					O'BRIEN 
+			I've got to get Molly ready for 
+			school.
+
+					KEIKO 
+			I'll do it. You have a big day 
+			ahead of you.
+
+	He wheels around, eyes deadly.
+
+					O'BRIEN 
+			Molly's going to sleep at the 
+			Davis's tonight, and she's staying 
+			there until this is over.
+
+					KEIKO 
+			Do you really think that's wise?
+				(serene threat) 
+			A little girl needs her mother. 
+			Molly would be lost without hers.
+
+	She studies O'Brien to see if her message has gotten 
+	through. It has -- his face is red with rage.
+
+					O'BRIEN 
+			You keep away from her.
+
+					KEIKO 
+			Miles... I would never do anything 
+			to hurt your daughter...
+				(pointed) 
+			Unless you force me to.
+
+	Keiko has his undivided attention. Keiko takes out a 
+	PADD and hands it to O'Brien.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     26.
+
+18   CONTINUED:	(2)
+
+					KEIKO 
+			These are your instructions. 
+			Follow them precisely.
+
+	O'Brien studies them for a moment.
+
+					O'BRIEN 
+			Recalibrating and sequencing the 
+			impulse response filters in the 
+			subspace communication 
+			emitters... what's all that for?
+
+					KEIKO 
+			We've gone over this, Miles. It's 
+			not your concern.
+
+					O'BRIEN
+			Then how do I know this won't 
+			jeopardize the station?
+
+					KEIKO
+				(irritated) 
+			Because I've told you so. Now 
+			stop asking me so many questions. 
+			All it's doing is making me angry.
+				(controlling herself) 
+			And you know who pays the price 
+			for that, don't you?
+
+	O'Brien knows the answer all too well; he feels trapped 
+	and he sees no way out.
+
+					KEIKO 
+			I almost forgot -- here's your 
+			birthday present.
+
+	She hurries to press a small package into his hand. He 
+	looks at her.
+
+					KEIKO 
+			Go ahead, open it. It's from your 
+			wife.
+
+	O'Brien opens the gift.
+
+18A  INSERT OF
+
+	an elegantly framed picture of Keiko and Molly with an 
+	inscription on the back that reads: "To the best father 
+	and husband... Love, Keiko and Molly."
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO    26A.
+
+18A  CONTINUED:
+
+					KEIKO (O.S.)
+			There's an inscription on the 
+			back.
+
+18B  ON O'BRIEN
+
+	glaring at her for a moment.
+
+					KEIKO 
+			Your wife cares about you very 
+			much.
+
+	He then picks up his uniform to go change.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT TWO     27.
+
+19   CLOSE ON KEIKO
+
+	thoughtfully watching O'Brien EXIT into the bathroom. 
+	Hold on her a long beat.
+
+20   INT. CORRIDOR
+
+	O'Brien takes a few steps down the corridor -- his face 
+	not hiding the anguish he's going through. Reaching a 
+	corridor intersection, he stops.
+
+					O'BRIEN
+			Computer, locate Captain Sisko.
+
+					COMPUTER VOICE
+			Captain Sisko is in Security.
+
+	O'Brien considers this information then changes 
+	direction, disappearing down a different corridor.
+
+21   INT. PROMENADE - TURBOLIFT ENTRANCE
+
+	The doors OPEN, and O'Brien -- still looking stressed 
+	but somehow with clear purpose -- steps out and scans 
+	the area. O'Brien spots what he's looking for - 
+	Captain Sisko and Odo emerging from the Security 
+	Office.
+
+	O'Brien hesitates for a moment, steels his resolve and 
+	makes a beeline for the captain.
+
+22   ANGLE LOOKING DOWN FROM THE PROMENADE SECOND LEVEL
+
+	A FEMALE HAND grips the foreground railing as O'Brien 
+	moves toward the Captain and the Constable.
+
+23   ON O'BRIEN
+
+	walking swiftly to his friends. The captain will know 
+	what to do. Odo knows how to keep his mouth shut. 
+	They can help.
+
+					KEIKO (O.S.)
+			Miles!
+
+	O'Brien stops dead in his tracks, looks up to see --
+
+24   KEIKO
+
+	She's leaning precariously over the Second Level 
+	railing. Her eyes are filled with tears, a helpless 
+	expression on her face. It is not the Entity, it is 
+	Keiko reaching out to him for help. Her lips move...
+
+     DEEP SPACE NINE: "The Assign... " - REV. .09/12/96 - ACT TWO    28.
+
+24   CONTINUED:
+
+					KEIKO
+				(silently)
+			I love you.
+
+	She pitches forward and falls.
+
+25   CLOSE ON O'BRIEN
+
+	Horrified --
+
+					O'BRIEN
+			No!
+
+	He and Odo rush over to Keiko's body...
+
+					ODO
+				(to com)
+			Doctor Bashir to the Promenade!
+
+	And we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    29.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. INFIRMARY
+
+	O'Brien sits in a chair, head in his hands. Sisko and 
+	Odo stand beside him. Sisko puts an understanding hand 
+	on O'Brien's shoulder.
+
+					ODO 
+			You didn't see anyone near her 
+			before she fell?
+
+	O'Brien shakes his head.
+
+					O'BRIEN 
+			Nobody. But I was passing under 
+			the walkway and my back was to 
+			her.
+
+					SISKO
+				(curious, not 
+				accusatory) 
+			What were you doing on the 
+			Promenade?
+
+	The question catches O'Brien off guard.
+
+					O'BRIEN 
+			What?
+
+					ODO
+				(jumping in) 
+			Weren't you supposed to be working 
+			on some optronic circuitry on 
+			Level Five?
+
+	O'Brien hesitates a moment before answering. This is 
+	dangerous ground -- up to now he hasn't out-and-out 
+	lied to anyone. Let alone the captain.
+
+					O'BRIEN 
+			I was going to the Replimat... for 
+			lunch.
+
+	O'Brien is saved from further questioning when Bashir 
+	EMERGES from surgery. O'Brien springs to his feet.
+
+					BASHIR 
+			Keiko's going to be all right. 
+			She's lucky she landed the way she 
+			did. It distributed the impact. 
+			A fall from that height could 
+			easily have killed her, or left 
+			her paralyzed.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    30.
+
+26   CONTINUED:
+
+					O'BRIEN 
+			Is she conscious?
+
+					BASHIR 
+			Yes, but she's still in shock. 
+			She has a broken femur and a 
+			hairline fracture of the right 
+			parietal bone.
+
+					O'BRIEN 
+			Can I see her?
+
+	Bashir considers the request a moment before answering.
+
+					BASHIR 
+			Maybe in a couple of hours. She 
+			needs rest.
+
+					O'BRIEN 
+			Julian -- I have to see her now.
+
+	Bashir doesn't approve, but before he can refuse the 
+	request --
+
+					SISKO 
+			Doctor.
+
+	Bashir looks over O'Brien's shoulder to Sisko, who 
+	makes a mute appeal in support of O'Brien.
+
+					BASHIR
+				(steps aside) 
+			All right -- but only for a few 
+			minutes. Don't excite her.
+
+27   INT. SURGERY
+
+	O'Brien ENTERS, stops short when he sees Keiko on the 
+	table, surrounded by FLASHING and BLEEPING machines, 
+	her face looks gaunt and very pale; her eyes have deep,
+	dark circles. The sight of his wife causes him to lose 
+	all perspective for a moment. O'Brien fights back the 
+	tears. He steps to her side, takes her hand.
+
+					O'BRIEN 
+			Keiko?
+
+	He looks into her eyes, finds himself staring at two 
+	hard polished stones -- the dead eyes of a shark.
+
+					KEIKO 
+			You were going to tell them about 
+			me.
+
+    DEEP SPACE NINE: "The Assign... " - REV. -09/12/96 - ACT THREE   31.
+
+27   CONTINUED:
+
+	O'Brien pulls his hand away from Keiko's. This is not 
+	his wife. He hardens --
+
+					O'BRIEN 
+			How did you know?
+
+					KEIKO 
+			I know everything your wife knows --
+			and she knows you.
+				(a beat) 
+			I told you we have to trust one 
+			another. You violated that trust, 
+			and look where it's led us.
+
+	O'Brien leans over her, speaking fiercely.
+
+					O'BRIEN 
+			I want my wife back, do you hear 
+			me? I want her back.
+
+					KEIKO
+				(firm) 
+			Then stop trying to fool me. How 
+			much more damage do you think this 
+			body can take?
+
+	He glares down at her, tortured by a savage desire to 
+	strike the person he's trying to rescue.
+
+					KEIKO
+				(calm) 
+			Now, no more tricks. Agreed?
+
+	O'Brien nods stiffly.
+
+					KEIKO
+				(an order) 
+			Say it.
+
+					O'BRIEN 
+			Agreed.
+
+					KEIKO 
+			Good.
+				(back to business) 
+			You know what you need to do. You 
+			should get back to work.
+
+					O'BRIEN 
+			I'll have everything completed in 
+			thirty-six hours.
+
+					KEIKO 
+			You have thirteen -- and not a 
+			minute more.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    32.
+
+27   CONTINUED:	(2)
+
+					O'BRIEN
+			I can't do it that fast.
+
+					KEIKO
+				(consoling)
+			You're a very resourceful man
+			You'll find a way...
+				(a reminder)
+			For Keiko's sake.
+
+	Disgust and hatred rise up in him.
+
+					O'BRIEN
+			You bloody --
+
+	Bashir ENTERS in the background.
+
+					BASHIR
+			She needs to rest.
+
+	O'Brien keeps his back to the doctor as he struggles 
+	mightily to pull himself together. Keiko slides a 
+	tender hand over his.
+
+					KEIKO
+			Tell Molly I'll be home soon.
+			Tell her Mommy is fine. Don't
+			scare her.
+
+	Bashir approaches. O'Brien starts to turn away, but 
+	she restrains him.
+
+					KEIKO
+			Miles... give me a kiss.
+
+	O'Brien glances at Bashir, who mistakes it for an 
+	appeal and nods his approval. O'Brien bends stiffly. 
+	Keiko kisses him on the mouth. O'Brien pulls himself 
+	free and, because of Bashir's presence, forces a smile.
+
+					KEIKO
+			I'm counting on you.
+
+	O'Brien starts for the door. As he passes Bashir, the 
+	doctor places a consoling hand on his broad shoulder.
+
+					BASHIR
+			She'll be back on her feet soon.
+			I promise.
+
+	O'Brien pauses, almost unable to contain himself, then 
+	nods and EXITS swiftly. Bashir sympathetically watches 
+	him go and returns his attention to Keiko, waving his 
+	(MED-TECH TOOL) over her wounds.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    33.
+
+28   INT. PROMENADE - OUTSIDE THE INFIRMARY
+
+	O'Brien EXITS, stops.
+
+					O'BRIEN 
+			Computer. Begin a thirteen hour 
+			countdown. Now.
+
+					COMPUTER VOICE 
+			Clock activated.
+
+	O'Brien heads down the corridor.
+
+					WORF (O.S.) 
+			Chief.
+
+	O'Brien turns to see WORF approaching.
+
+					WORF 
+			I heard about Mrs. O'Brien's 
+			accident. How is she?
+
+					O'BRIEN 
+			Julian says she'll be home soon.
+
+					WORF
+			That's good. Is there anything I 
+			can do to help?
+
+	O'Brien looks at his friend for a long beat. They go 
+	back a long time. O'Brien would like nothing more than 
+	to tell Worf everything... to have an ally seems so 
+	appealing. But he doesn't dare.
+
+					O'BRIEN 
+			I wish there was, Worf. I really 
+			do.
+				(a beat) 
+			I've got to go -- I'm falling 
+			behind schedule.
+
+	O'Brien moves down the corridor, away from his friend.
+
+29   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+30   INT. SYSTEMS CORE - CROSSOVER CONDUIT
+
+	O'Brien is alone, working amidst a forest of BLINKIES 
+	and plasma conduits.
+
+					O'BRIEN 
+			Computer, time?
+
+DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    34.
+
+30   CONTINUED:
+
+					COMPUTER VOICE 
+			Eight hours, twenty-two minutes 
+			and three seconds remain.
+
+	From O'Brien's expression it's clear this is not good 
+	news... he's running out of time and there is still 
+	much to be done.
+
+					ROM (O.S.) 
+			Chief.
+
+	Startled, O'Brien turns to find Rom, having crawled up 
+	behind him, holding an isolinear rod.
+
+					ROM 
+			Sorry -- I didn't mean to startle 
+			you.
+
+					O'BRIEN 
+			What are you doing here?
+
+					ROM
+				(proudly) 
+			Reporting for my next assignment. 
+			I've completed calibration tests 
+			on the inertial coupling ports on 
+			all three upper pylons.
+
+	Rom hands him the isolinear rod.
+
+					O'BRIEN 
+			Already?
+
+	O'Brien pops open a panel and inserts the rod, looking 
+	over the information it displays. After a beat, 
+	O'Brien nods, apparently Rom's claim is correct.
+
+					O'BRIEN 
+			How'd you finish so quickly?
+
+					ROM 
+			I just did the work. I didn't 
+			allow myself to get caught up in 
+			any of the distracting discussions 
+			the other workers engage in. 
+			Ferengi can be very focused. 
+			Especially when no one bothers to 
+			talk to them.
+
+					O'BRIEN 
+			I see.
+
+					ROM 
+			Not that I mind. I'm used to 
+			being ignored.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    35.
+
+30   CONTINUED:	(2)
+
+	O'Brien finishes examining the isolinear rod, retrieves 
+	it, closes the panel. O'Brien studies Rom hard for a 
+	moment -- to the point of making Rom shift 
+	uncomfortably.
+
+					ROM 
+			Is something wrong, Chief?
+				(a beat) 
+			I can work slower if you want me 
+			to...
+
+	But O'Brien is thinking about something much more 
+	important.
+
+					O'BRIEN 
+			Rom... I need your help, and I 
+			need you to keep your mouth shut. 
+			Can I count on you?
+
+					ROM 
+			Is that a trick question?
+
+					O'BRIEN 
+			Rom -- this is serious.
+
+					ROM 
+			You can depend on me, Chief.
+
+	O'Brien nods, he has no choice but to believe in Rom.
+
+					O'BRIEN 
+			We're going to make some 
+			modifications to several of the 
+			station's systems. You're not to 
+			breathe one word about this to 
+			anyone. That includes Dax, Odo, 
+			Captain Sisko, Worf...
+
+					ROM 
+			They don't know?
+
+					O'BRIEN 
+			Of course they know. Some of 
+			them, anyway. But they have to 
+			pretend they don't. This is a top 
+			secret Starfleet operation.
+
+					ROM
+				(nods conspiratorially) 
+			Culpable deniability. I 
+			understand. Don't worry about me, 
+			Chief. My lips are sealed. 
+			Nobody will get anything out of 
+			me. Not even my name.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    36.
+
+30   CONTINUED:	(3)
+
+					O'BRIEN 
+			Rom, everybody on the station 
+			knows your name.
+
+					ROM 
+			Right.
+				(a beat) 
+			But I won't confirm it. Where do 
+			we start?
+
+					O'BRIEN
+				(taking a deep breath) 
+			I hope you feel rested, because 
+			you won't be getting any sleep 
+			tonight.
+
+	O'Brien passes a tool to Rom as he turns to the open 
+	access panels and the forest of BLINKIES.
+
+					O'BRIEN
+			First, I want you to complete this
+			com relay bypass...
+
+									CUT TO:
+
+	SERIES OF QUICK SHOTS:
+
+31   INT. UPPER PYLON
+
+	A security door slides open allowing O'Brien to work on 
+	the panel with his EJ7 interlock.
+
+32   INT. DOCKING RING CORRIDOR
+
+	Rom works feverishly at an open panel of this deserted 
+	corridor.
+
+33   INT. CARGO BAY
+
+	O'Brien working on a "junction box" of various plasma 
+	conduits.
+
+					O'BRIEN
+			Computer, time remaining?
+
+					COMPUTER VOICE 
+			Six hours, forty-one minutes, 
+			twenty-six seconds.
+
+	He shakes his head, lets out a deep breath, and gets 
+	back to work.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE   36A.
+
+33A  INT. HABITAT RING CORRIDOR 
+
+	Rom waits for a passing ND Bajoran, then pops the cover 
+	off a conduit access.
+
+33B  INT. UPPER PYLON 
+
+	CLOSE SHOT of O'Brien hard at work through a maze of 
+	circuitry.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    37.
+
+34   INT. CRAWLWAY-
+
+	Rom works with a happy, intense concentration on 
+	another open panel.
+
+35   INT. OPS
+
+	A skeleton crew of SUPERNUMERARIES man the key systems. 
+	It is strangely quiet. Down in the pit, O'Brien 
+	crouches in front of an open panel, tools strewn about. 
+	He pauses to wipe the stinging sweat from his eyes. 
+	Blinks several times to clear his vision, then turns to 
+	reach for another tool and notices A PAIR OF FEET 
+	standing next to his tool box. TILT UP TO REVEAL Dax 
+	grimly staring down at him.
+
+					O'BRIEN 
+			Commander, what are you doing up 
+			at this hour?
+
+					DAX
+			I want you to look at something.
+
+	Dax leads him to a computer terminal, talking as she 
+	walks. Behind her, O'Brien tries to hide his anguished 
+	expression.
+
+					DAX 
+			I couldn't sleep so I got up and 
+			decided to scan the wormhole for 
+			radiometric anomalies.
+
+					O'BRIEN 
+			At three in the morning?
+
+					DAX
+			I find anomalies very relaxing. 
+			I was using the wideband filter 
+			protocols and when I ran the 
+			primary calibration check I found 
+			this --
+
+	She manipulates her terminal. O'Brien peers over her 
+	shoulder.
+
+					O'BRIEN
+				(feigns surprise)
+			They're slightly off spec.
+
+					DAX 
+			Yes. I thought it might be a 
+			fused matrix inverter, until I ran 
+			a level three diagnostic.
+				(works the console) 
+			Have a look.
+
+    DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT THREE    38.
+
+35   CONTINUED:
+
+	He leans closer to the screen, mortified. Dax notes 
+	his reaction.
+
+					DAX
+			We'd better wake the captain.
+				(a beat)
+			We have a saboteur on the station.
+
+	O'Brien stares back into the accusing screen. Off 
+	this...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   INT. WARDROOM (OPTICAL)
+
+	Sisko, Dax, O'Brien and Odo sit at the long conference 
+	table with PADD's, coffee mugs, red eyes and rotten 
+	dispositions. Anxiety and fatigue have eroded 
+	O'Brien's face.
+
+					SISKO 
+			All right, what have you got?
+
+					DAX
+			Computer, display diagnostic.
+
+	The staff consider the OKUDAGRAM appearing on the 
+	viewscreen. Dax wants O'Brien to walk everyone through 
+	the technicalities.
+
+					DAX 
+			Chief...
+
+					O'BRIEN 
+			We've identified nine hundred and 
+			forty-three tiny fluctuations in 
+			the primary communication relays 
+			and several power distribution 
+			junctions.
+
+					DAX
+			"Fluctuations" that can't be 
+			attributed to anything except 
+			external intervention.
+
+					SISKO
+			Someone's gained access to our 
+			systems and is altering them. 
+				(at O'Brien) 
+			For what purpose?
+
+	O'Brien shifts uncomfortably. Pretending not to know 
+	what's going on is very difficult for him. He doesn't 
+	like acting out this lie at all.
+
+					O'BRIEN 
+			We're working on that. At this 
+			point, it's hard to even call it 
+			sabotage -- there's been no real 
+			damage...
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    40.
+
+36   CONTINUED:
+
+					O'BRIEN (Cont'd)
+			... the systems are just slightly
+			off spec.
+				(reassuring himself) 
+			So far, none of these alterations 
+			appear to pose a threat to the 
+			station.
+
+	But Sisko is certainly not satisfied.
+
+					SISKO 
+			So far. But this might be just 
+			the tip of a very large and 
+			dangerous iceberg.
+
+	O'Brien shifts uncomfortably, he wants so very much to 
+	simply tell everyone.
+
+					SISKO 
+			Is there any way to trace how this 
+			was done, and by whom?
+
+					ODO 
+			It has to be someone familiar with 
+			the station's systems.
+
+	O'Brien catches Sisko looking at him. He glances at 
+	Odo, who is also watching him.
+
+					DAX 
+			Maybe someone who worked on the 
+			station under the Cardassians...
+
+					ODO 
+			I'm running extensive security 
+			checks on all recent visitors, but 
+			so far, I haven't found anything.
+
+					DAX
+			It could be someone who's been on 
+			the station a long time... someone 
+			with a lot of access... maybe even 
+			someone on the maintenance crew.
+
+	Sisko looks at O'Brien -- "well?" O'Brien remains 
+	silent.
+
+					SISKO
+			Chief?
+
+					O'BRIEN 
+			Yes.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    41.
+
+36   CONTINUED:	(2)
+
+	Sisko looks at O'Brien intently.
+
+					SISKO 
+			Yes, what? You think it's someone 
+			on your staff?
+
+	The time has come to tell the truth. O'Brien looks 
+	around the room. These are his friends. They will 
+	understand. He lets out a deep SIGH of relief. He 
+	nods his head, but before he can speak --
+
+					N.D. CREWMAN'S VOICE 
+			Chief O'Brien, I have a call from 
+			your daughter.
+
+	O'Brien, startled, looks to Sisko. Sisko nods 
+	understandingly.
+
+					SISKO 
+			Go ahead, Chief.
+
+	O'Brien gets up and walks over to the monitor on the 
+	other end of the room for a bit of privacy. The screen 
+	comes to life, depicting O'Brien's quarters, where 
+	Molly sits on Keiko's lap, getting dressed for school. 
+	Keiko gently brushes the girl's hair.
+
+					O'BRIEN
+			Molly, honey, what is it?
+
+					MOLLY 
+			Hi, Daddy. Mommy told me I could 
+			call you.
+
+	O'Brien breathes deeply, regaining control. He forces 
+	a smile to his face.
+
+					KEIKO 
+			I hope we're not interrupting 
+			anything important.
+
+					O'BRIEN
+				(addressing only Molly) 
+			It's all right, Molly. I'm glad 
+			you called. What are you doing 
+			home?
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    42.
+
+36   CONTINUED:	(3)
+
+					KEIKO 
+			She missed her mommy. Isn't that 
+			sweet?
+
+					MOLLY
+			When are you going to come --
+
+	A brush stroke catches a snarl, bringing Molly's hands 
+	to her head.
+
+					MOLLY 
+			Oww! Mommy, that hurt.
+
+37   O'BRIEN'S HANDS
+
+	clench, knuckles whitening.
+
+					KEIKO (O.S.) 
+			I'm sorry.
+
+					O'BRIEN 
+			Are you all right, sweetie?
+
+38   SCREEN - MOLLY AND KEIKO (OPTICAL)
+
+	Keiko gives her a soothing pat.
+
+					KEIKO 
+			She's fine, Miles. She wants to 
+			know when you'll be finished.
+				(pointed) 
+			I told her you had to work for 
+			another two hours and twenty-two 
+			minutes and thirteen seconds.
+
+	The point is not lost on O'Brien; that's the time 
+	remaining. Keiko pats Molly's hair.
+
+					MOLLY 
+			How long is that, Daddy?
+
+					O'BRIEN 
+			I'll be home soon, sweetie. Very 
+			soon.
+
+	Molly nods, rubbing her sore spot.
+
+					KEIKO 
+			Good.
+				(smiles)
+			We both miss you.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    43.
+
+38   CONTINUED:
+
+	The transmission ends. O'Brien's smile for Molly 
+	disappears as he steels himself and walks back over to 
+	Sisko and the others.
+
+					SISKO
+			Everything all right?
+
+	O'Brien takes a beat before answering.
+
+					O'BRIEN
+			Fine.  Sorry about the
+			interruption.
+
+					SISKO.-
+				(back to business)
+			You were saying you thought you
+			knew who the saboteur might be...
+
+	The chief licks his dry lips, adrenalin pumping. 
+	O'Brien looks at Sisko and finally nods.
+
+					O'BRIEN
+			I think I have an idea...
+
+39   INT. DOCKING RING CORRIDOR
+
+	Rom sits on the floor, head buried inside a panel, 
+	happily tweaking a junction node. Odo's heavy hand 
+	lands on his shoulder. Rom turns, a smile on his face. 
+	It fades rapidly.
+
+40   ROM'S POV
+
+	Odo is not smiling. Nor is his SECURITY TEAM. O'Brien 
+	stands behind them.
+
+					ROM
+			Hello, Constable. Hello, Chief.
+
+					ODO
+			What are you doing, Rom?
+
+					ROM
+			I-I can't talk about it.
+
+					ODO
+			Oh, yes you can. And you will.
+
+	Odo nods to his team, who grab the hapless Ferengi and 
+	steer him toward the Promenade. One of the N.D. 
+	security force leans over to pick up Rom's tools, but 
+	the Chief stops him.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    44.
+
+40   CONTINUED:
+
+					O'BRIEN 
+			I'll take care of those.
+
+	As Rom, looking very scared, passes the Chief, O'Brien 
+	reassures him with a wink. Rom tilts his chin up as
+	he's marched off. O'Brien turns to the open panel.
+
+					ODO 
+			Coming, Chief?
+
+					O'BRIEN 
+			I'd better see what he's been up 
+			to here.
+
+	Odo strides off after his prisoner. O'Brien inspects 
+	Rom's work. After a beat, under the guise of examining 
+	Rom's tools, he checks the corridor. Odo's gone. 
+	O'Brien picks up Rom's laser torch, gets back to work.
+
+41   INT. HOLDING CELLS (OPTICAL)
+
+	Captain Sisko, standing outside a cell's forcefield, 
+	looks in on a disconsolate Rom, sitting on the holding 
+	cell bunk with Odo looming over him. Rom hunches his 
+	shoulders, tries a smile. Odo glowers back. This 
+	"interrogation" is obviously going nowhere. After a 
+	long beat of this, Odo EXITS the FORCEFIELD and steps 
+	up to Sisko.
+
+					SISKO
+			Has he said anything?
+
+					ODO 
+			Not much. For the first forty 
+			minutes, it was like pulling teeth 
+			even getting him to admit his 
+			name.
+
+					SISKO
+			You think he's working alone?
+
+					ODO 
+			I don't know. Rom admits to 
+			nothing. And now he's asking for 
+			Chief O'Brien. He won't talk to 
+			anybody else.
+
+					SISKO
+			Then get the chief down here. I 
+			want to know what's going on.
+
+	As Sisko EXITS, Odo touches his combadge.
+
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    45.
+
+41   CONTINUED:
+
+					ODO'S COM VOICE 
+			Security to Chief O'Brien.
+
+42   INT. DOCKING RING CORRIDOR
+
+	O'Brien continues to work feverishly.
+
+					O'BRIEN 
+			Go ahead, Constable.
+
+					ODO'S COM VOICE 
+			We need you in Security right 
+			away.
+
+	O'Brien casts a look at the disemboweled panel, takes 
+	a deep breath. Has it all caught up with him?
+
+					O'BRIEN 
+			I'm still trying to figure out 
+			what Rom did to these systems.
+
+					ODO'S COM VOICE 
+			That will have to wait. I have 
+			captain's orders to get you down 
+			here -- immediately.
+
+	O'Brien has no choice.
+
+					O'BRIEN 
+			On my way.
+
+	O'Brien looks at the work he has left.
+
+					O'BRIEN 
+			Computer, time remaining?
+
+					COMPUTER VOICE 
+			Thirty-six minutes and nine 
+			seconds.
+
+	Damn.  O'Brien thinks about things for a moment, then:
+
+					O'BRIEN 
+			Computer, locate maintenance 
+			technician Rom.
+
+					COMPUTER VOICE 
+			Maintenance technician Rom is in 
+			Security holding cell number four.
+
+					O'BRIEN 
+			Initiate security override and 
+			scramble Surveillance Channels 
+			Four A, B, C and D. Authorization 
+			O'Brien seven-one-two.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    46.
+
+42   CONTINUED:
+
+					COMPUTER VOICE 
+			Specified security channels 
+			scrambled.
+
+					O'BRIEN 
+			Now begin recalibration of 
+			gravitic sensors at Access Panel 
+			Three Nine Seven as indicated. 
+			I'll return in ten minutes.
+
+	O'Brien puts down his tools and bolts for security.
+
+43   INT. HOLDING CELLS
+
+	Rom sits in the same position in the holding cell bunk 
+	as O'Brien ENTERS and steps up to Odo, watching the 
+	Ferengi.
+
+					ODO 
+			The chief is here, Rom. Now what 
+			do you have to say?
+
+					ROM
+				(stands) 
+			Alone. I'll only talk if we're 
+			alone.
+
+	Odo looks quizzically at the chief, departs.
+
+					O'BRIEN 
+			What is it, Rom?
+
+	Rom holds a finger to his lips, points to the walls.
+
+					O'BRIEN 
+			It's all right. I disconnected 
+			Odo's eavesdropping devices.
+
+					ROM
+				(sighs wearily) 
+			I haven't told anyone anything, 
+			just like you said.
+
+					O'BRIEN 
+			You're a good man. Now why'd you 
+			call for me? I told you we were 
+			under very tight time constraints.
+
+					ROM
+				(truly frightened)
+			Captain Sisko is really angry. If
+			I didn't know he was pretending...
+
+					O'BRIEN
+			Rom...
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FOUR    47.
+
+43   CONTINUED:
+
+					ROM 
+			Don't worry, I can hold out until 
+			you say otherwise, but there is 
+			one thing I have to know...
+
+					O'BRIEN 
+			Go ahead.
+
+					ROM 
+			Why are we focusing a chroniton 
+			beam at the wormhole?
+
+					O'BRIEN 
+			What?
+
+					ROM
+				(isn't it obvious?) 
+			The new frequency of the deflector 
+			grid is set to turn the station 
+			into a massive chroniton array 
+			aimed directly at the wormhole. 
+			So I just want to know -- why are 
+			we trying to kill the wormhole 
+			aliens?
+
+	A sudden rush hits O'Brien as everything falls into 
+	place for him. Off this...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+44   INT. HOLDING CELLS - CONTINUOUS
+
+	O'Brien's mind works rapidly.
+
+					O'BRIEN 
+			What are you talking about? A 
+			chroniton beam is harmless.
+
+					ROM 
+			To us -- but its temporal 
+			disruption would kill a wormhole 
+			alien instantly.
+
+					O'BRIEN 
+			Of course, why didn't I think of 
+			that.
+				(angry with himself) 
+			She's had me so on edge I couldn't 
+			see the forest for the trees.
+
+					ROM 
+			Who's "she?"
+
+	But with time running out, O'Brien has no time for 
+	explanations.
+
+					O'BRIEN
+			Look, I don't have time to 
+			explain. The question is why 
+			would anyone want to kill the 
+			wormhole aliens?
+
+					ROM 
+			Everyone has enemies, even the 
+			Prophets.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    49.
+
+44   CONTINUED:
+
+					O'BRIEN 
+			That's right... they're not just 
+			wormhole aliens... they're 
+			Prophets. They're part of Bajoran 
+			mythology...
+				(everything is beginning 
+				to fall into place)
+			... just like the Pah-wraiths that 
+			live in the Fire Caves. So the 
+			question is... what do these 
+			wraiths have to do with the 
+			wormhole aliens?
+
+					ROM 
+			Koss'moran.
+
+					O'BRIEN 
+			What?
+
+					ROM 
+			It's a Bajoran legend. From the 
+			verb kosst, meaning "to be" and 
+			amoran -- "banished".
+				(off O'Brien's look) 
+			Leeta's been telling me all about 
+			Bajoran legends. She can go on 
+			for hours.
+				(almost blushing) 
+			She says I'm a good listener...
+
+					O'BRIEN
+				(a bit impatient) 
+			I'm sure you are -- but now's the 
+			time to be a good talker. Go on.
+
+					ROM 
+			Well... according to Leeta, the 
+			Pah-wraiths used to live in the 
+			wormhole. They were part of the 
+			Celestial Temple.
+
+	O'Brien hangs on to every word Rom is saying.
+
+					O'BRIEN 
+			They were Prophets?
+
+					ROM
+				(correcting) 
+			False Prophets... They were cast 
+			out of the Temple. Exiled to the 
+			caves, they were imprisoned in 
+			crystal fire cages and forbidden 
+			to ever return "lest they face the 
+			Wrath of the True Prophets."
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE   49A.
+
+44   CONTINUED:	(2)
+
+	Everything falls into place now for O'Brien.
+
+					O'BRIEN 
+			So if a False Prophet tried to 
+			return to the Celestial Temple...
+
+					ROM 
+			I don't think they'd be welcomed.
+
+	The penny drops.
+
+					O'BRIEN 
+			Unless she kills all the wormhole 
+			aliens first...
+				(beat) 
+			Rom -- I'm going to have to leave 
+			you in a tough spot.
+
+	Rom thinks for a moment.
+
+					ROM 
+			Captain Sisko... Odo... they don't 
+			know about any of this, do they?
+
+					O'BRIEN 
+			No, Rom. They don't. And you 
+			have to help me keep it that way 
+			for a little while longer.
+
+					ROM 
+			I have to stay here and play the 
+			idiot?
+
+					O'BRIEN 
+			I'm afraid so. Whatever Odo asks 
+			you --
+
+					ROM
+				(cutting him off) 
+			I'm Quark's brother. I know the 
+			role.
+
+	O'Brien smiles and turns to EXIT.
+
+45   INT. PROMENADE - OUTSIDE SECURITY OFFICE
+
+	O'Brien is running down the Promenade.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    50.
+
+45   CONTINUED:
+
+					O'BRIEN
+			Computer, time remaining?
+
+					COMPUTER VOICE 
+			Twelve minutes, twenty-two 
+			seconds.
+
+	He cranks his pace up a notch, disappearing around the 
+	bend.
+
+46
+thru   OMITTED
+47
+
+48   INT. DOCKING RING CORRIDOR
+
+	O'Brien runs down the hallway, arriving at the spot 
+	where he was working before being called away. 
+	Immediately, he gets back to work. After a couple of 
+	beats, O'Brien becomes aware of Odo watching him from 
+	the shadows.
+
+					ODO 
+			Sorry to disturb you, Chief. But 
+			a couple of things are still
+			bothering me. Rom couldn't have 
+			done all this sabotage alone. 
+			There were too many changes for 
+			any one person to make.
+
+					O'BRIEN
+				(keeping focused on his
+				task)
+			Maybe so, but right now I've got
+			a frequency problem in the cascade
+			feeder...
+
+					ODO 
+			I checked with the repair logs... 
+			I was hoping to match someone's 
+			movements to the locations where 
+			the alterations were made.
+
+	O'Brien keeps working, trying to suppress any signs 
+	that he's concerned about Odo's investigation.
+
+					ODO
+			But I couldn't do that.
+
+ DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE 51-52.    
+
+48   CONTINUED:
+
+					O'BRIEN
+				(that's right) 
+			We had a matrix system failure 
+			yesterday and those records were 
+			lost. Sorry.
+
+	Odo nods.
+
+					ODO 
+			We've had a lot of system failures 
+			recently, haven't we, Chief?
+
+					O'BRIEN 
+			I hadn't noticed. I've been busy 
+			repairing things.
+
+					ODO 
+			Like the surveillance channels in 
+			the holding cells? You authorized 
+			a security override. What was 
+			wrong with them?
+
+	O'Brien keeps focused on his work, trying to think of 
+	a plausible cover story for Odo.
+
+					O'BRIEN 
+			The fiber optic relays were out of 
+			sync. The isolinear chip junction 
+			was --
+
+	Odo cuts him off.
+
+					ODO 
+			Enough, Chief.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    53.
+
+48   CONTINUED:	(2)
+
+	O'Brien continues to tweak the circuits, checking the 
+	readout as he does so. Odo takes a step closer to 
+	O'Brien.
+
+					ODO 
+			You didn't cover your tracks very 
+			well. Why?
+
+					O'BRIEN 
+			I didn't have time.
+				(a beat) 
+			I still don't.
+
+	O'Brien turns, launching a beautiful right hook. It 
+	connects just under Odo's chin, knocking him cold. 
+	O'Brien catches him as he falls, lowers him to the 
+	floor.
+
+					O'BRIEN 
+			Sorry, Odo.
+				(a beat) 
+			Chief O'Brien to Keiko O'Brien.
+
+	O'Brien keeps moving down the Corridor quickly -
+	there's no time to waste.
+
+					KEIKO'S COM VOICE 
+			This is Keiko.
+
+					O'BRIEN 
+			I'm finished, but we've got to 
+			move quickly.
+				(looking at the fallen 
+				Odo) 
+			This place is going to be swarming 
+			with security -- meet me at 
+			Runabout Pad "C." Now.
+
+					KEIKO'S COM VOICE 
+			How did you know I'd want a 
+			runabout?
+
+					O'BRIEN 
+			Because I know what you're 
+			planning to do. But don't worry, 
+			I don't give a damn about the 
+			Celestial Temple, or your non-
+			corporeal feuds. I just want my 
+			wife back. Now you still need me 
+			to pilot you to the wormhole so 
+			let's stop wasting time. Agreed?
+
+	A long beat before:
+
+					KEIKO'S COM VOICE 
+			I'll meet you there.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    54.
+
+48   CONTINUED:	(3)
+
+	O'Brien keeps moving quickly down the Corridor.
+
+49   INT. RUNABOUT	49-
+
+	O'Brien is at the Conn, Keiko sits tensely at Ops.
+
+					O'BRIEN 
+			That's correct, Commander. I want 
+			to test some new magnetic 
+			constrictors on the runabout's 
+			impulse thrusters.
+
+					DAX'S COM VOICE 
+			Very well, Chief. You're cleared 
+			for departure, but before you go, 
+			there's one thing I'd like to ask 
+			you.
+
+	O'Brien tenses up a bit.
+
+					O'BRIEN 
+			What's that?
+
+					DAX'S COM VOICE 
+			Did you enjoy your birthday?
+
+	O'Brien exhales.
+
+					O'BRIEN
+				(going along)
+			It was full of surprises.
+
+	He works the controls, his face set like a man 
+	determined to drive his head through a brick wall. We 
+	HEAR ENGINES WHINE as the runabout is elevated onto the 
+	launching pad.
+
+50   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Runabout launches.
+
+51   INT. RUNABOUT
+
+	Keiko eyeballs their location through the window.
+
+					KEIKO 
+			Hold position here.
+
+	O'Brien eases the thrusters, drops momentum.
+
+					O'BRIEN 
+			Computer. Initiate modifications 
+			O'Brien seven-three-one and enable 
+			remote com-link.
+
+					COMPUTER VOICE 
+			Com-link enabled.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    55.
+
+             52   EXT. SPACE --DEEP SPACE NINE (OPTICAL)               
+
+	Circular ENERGY TRAILS crackle from the deflector 
+	emitters.
+
+53   INT. OPS
+
+	Dax is reacting to her panel that has just lit up like 
+	a Christmas tree as the station automatically goes to 
+	Red Alert.
+
+					DAX
+			What the hell --
+
+	Sisko emerges from his office.
+
+54   INT. RUNABOUT
+
+	Keiko's eyes narrow as her final goal comes within 
+	reach.
+
+					KEIKO
+			Target the center of the wormhole.
+
+	O'Brien nods.
+
+					O'BRIEN
+			Target coordinates, set.
+
+					KEIKO
+			Have us face the Temple. The
+			blast will only last a fraction of
+			a second...
+				(smiling)
+			They'll all be dead before they
+			even see it.
+
+	O'Brien considers this for an instant.
+
+55   THE FORWARD WINDOW (OPTICAL)
+
+	As the ship turns, the starfield rotates until we see 
+	the flower petals of the wormhole are invitingly open.
+
+					KEIKO
+			You have no idea how many
+			centuries I've waited for this...
+
+					O'BRIEN
+			Let's get on with it.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    56.
+
+56   O'BRIEN AND KEIKO
+
+					KEIKO
+				(laughs) 
+			You have a lot to learn about 
+			patience, Miles.
+
+	O'Brien glares at her.  Keiko shrugs.
+
+					KEIKO 
+			Proceed.
+
+					SISKO'S COM VOICE 
+			Chief -- what's going on out 
+			there?
+
+	O'Brien ignores the call, keeping focused on the task 
+	at hand.
+
+					SISKO'S COM VOICE 
+			I'm ordering you to return to the 
+			station -- now!
+
+					KEIKO
+				(to O'Brien) 
+			Activate.
+
+	O'Brien swallows hard, then taps a key.
+
+57   EXT. SPACE (OPTICAL)
+
+	The various ENERGY TRAILS from the deflector emitters 
+	begin forming a coherent BEAM. The BEAM blazes out 
+	from the station with sparking bursts of blue-red flame 
+	along its path.
+
+	But instead of the beam hitting the wormhole -- the 
+	beam BLASTS the runabout with a direct hit.
+
+58   INT. RUNABOUT
+
+	A THUNDEROUS JOLT shakes the ship. Keiko turns to 
+	O'Brien, horror dawning in her eyes. O'Brien tricked 
+	her and there's nothing she can do about it --
+
+59   EXT. SPACE (OPTICAL)
+
+	Massive ENERGY TENDRILS SWARM all over the ship.
+
+60   INT. RUNABOUT (OPTICAL)
+
+	The ship shakes like a rat in a terrier's mouth. 
+	Sparks fly from the blown transporter. ENERGY ARCS 
+	from the bulkhead penetrate Keiko's body, which 
+	convulses, a twenty gigavolt marionette.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    57.
+
+61   O'BRIEN
+
+	bounces from his seat into the aft bulkhead supports.
+	He hangs on, looks over at his wife. Reaches out... 
+
+					O'BRIEN 
+				(screams) 
+			Keiko!
+
+62   KEIKO (OPTICAL)
+
+	Her eyes bulge, her jaw slams open as every muscle in 
+	her body contracts at once, and a crackling ENERGY AURA 
+	dances all over her body as she suddenly goes limp and 
+	falls.
+
+63   O'BRIEN
+
+	crouches protectively over Keiko's body as wisps of 
+	smoke waft through the craft. The runabout settles 
+	down. O'Brien cradles his unconscious wife.
+
+64   KEIKO
+
+	opens her eyes. O'Brien looks deep into them... these 
+	eyes are filled with tears and life -- these are the 
+	eyes of his wife.
+
+					KEIKO 
+			Miles?
+
+65   ON BOTH
+
+	Hold their moment as O'Brien embraces his wife and 
+	fights back his own tears.
+
+66   INT. DOCKING RING CORRIDOR
+
+	The airlock door opens, revealing Sisko and a SECURITY 
+	SQUAD. An irritated Odo rubs his jaw.
+
+67   O'BRIEN AND KEIKO
+
+	emerge from the airlock, arms around each other. 
+	Bashir steps forward, begins a scan of Keiko, who looks 
+	worn out. Sisko stares grimly.
+
+					SISKO
+			You have some explaining to do, 
+			Chief. 
+
+	O'Brien nods, smiling at his wife.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    58.
+
+68   EXT. SPACE - DEEP SPACE NINE
+
+	Re-establishing.
+
+69   INT. O'BRIEN'S QUARTERS
+
+	O'Brien and Keiko are in the middle of breakfast. 
+	Keiko responds to O'Brien's latest question.
+
+					KEIKO 
+			It was more like having something 
+			coiled around inside my head. I 
+			could see and hear through it, but 
+			every time I tried to do anything, 
+			it was like...
+				(reaches for the words)
+			... like being stuck in sand, then 
+			squeezed.
+
+	O'Brien covers his wife's hand with his own.
+
+					O'BRIEN 
+			Could you sense any of its 
+			thoughts?
+
+					KEIKO 
+			Just feelings, sometimes. Kind of 
+			a cold rage.
+				(shudders) 
+			I don't think it ever had any 
+			intention of leaving either one of 
+			us alive.
+
+					O'BRIEN 
+			You don't have to talk about it if 
+			you don't want to.
+
+					KEIKO
+			It feels good to talk about it.
+			Besides...
+				(looks fondly at 
+				O'Brien)
+			I'll never forget how hard you 
+			fought for me.
+
+	Embarrassed, O'Brien hides behind a sip of coffee. But 
+	Keiko looks at her husband with unabashed affection.
+
+70   INT. QUARK'S
+
+	Like the opening scene, it is breakfast time at 
+	Quark's. Quark, Morn and the dabo girls are going 
+	through their opening routine as Rom ENTERS, and steps 
+	up to the bar. Rom looks totally exhausted and spent.
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    59.
+
+70   CONTINUED: -
+
+					ROM
+				(barely audible) 
+			Hello, brother.
+
+	Quark shakes his head as he approaches.
+
+					QUARK 
+			You look horrible. I'm telling 
+			you, Rom -- working the night 
+			shift is driving you to an early 
+			grave.
+
+					ROM 
+			I wasn't working.
+
+					QUARK 
+			What do you mean you weren't 
+			working?
+
+					ROM 
+			I'm not on the night shift 
+			anymore.
+
+					QUARK 
+			I knew it. O'Brien fired you.
+
+					ROM
+				(smiles) 
+			No, Brother. In appreciation of 
+			my work the chief has promoted me 
+			to the day shift... he says I have 
+			a promising future in Engineering.
+
+					QUARK 
+			Then why do you look so tired?
+
+					ROM 
+			I was out celebrating.
+
+					QUARK 
+			With who?
+
+					ROM 
+			My crewmates.
+
+	Rom looks as happy as a Ferengi can be.
+
+					ROM
+			I think they like me.
+
+					QUARK
+				(with some disbelief) 
+			Do they?
+
+     DEEP SPACE NINE: "The Assign... " - REV. 09/12/96 - ACT FIVE    60.
+
+70   CONTINUED:	(2)
+
+					ROM
+				(nodding) 
+			Especially Litana, she's always 
+			finding excuses to talk to me.
+
+	Quark wants to be bigger than he feels.
+
+					QUARK 
+			Well, I'm glad things are going so 
+			well for you, Rom.
+
+					ROM 
+			No, you're not. But thanks 
+			anyway, brother.
+
+					QUARK 
+			So I suppose you'll be wanting -
+			the "Chief's Special" again?
+
+					ROM 
+			Actually, no. I've discovered 
+			bacon doesn't agree with me.
+
+					QUARK 
+			What a surprise.
+
+					ROM 
+			Instead, I'll have a short stack 
+			of pancakes, dripping with butter, 
+			side of sausage and pineapple.
+
+					QUARK 
+			Pineapple?
+
+					ROM 
+			That's the breakfast of choice on 
+			the day shift.
+
+	Quark looks at his brother... what can he do?
+
+					QUARK
+				(still puzzled) 
+			Pineapple.
+
+	And as Quark moves off shaking his head mournfully, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

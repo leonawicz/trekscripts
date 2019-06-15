@@ -1,0 +1,2818 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "Captive Pursuit" 
+                (f.k.a. "A Matter of Breeding") 
+                          #40511-406 
+                              
+                          Written by 
+                          Jill Donner 
+                              and 
+                           Tim Burns 
+                              and 
+                        Michael Piller 
+                              
+                          Directed by 
+                          Corey Allen 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department        REV. FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        OCTOBER 23, 1992
+
+     STAR TREK: DS9 - "Captive Pursuit" - 10/23/92 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Captive Pursuit" 
+                            CAST
+
+          BENJAMIN SISKO           TOSK
+          O'BRIEN                  THE HUNTER
+          KIRA                     MISS SARDA
+          ODO                      
+          BASHIR                   
+          DAX                      
+          QUARK                    
+
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          SUPERNUMARIES            THE ALIENS
+          STARFLEET MAINTENANCE MEN
+          BAJORAN DEPUTIES         
+
+     STAR TREK: DS9 - "Captive Pursuit" - 10/28/92 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Captive Pursuit" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE               DEEP SPACE NINE
+          COMMANDER'S OFFICE            
+          OPS                           
+          AIRLOCK                       
+          CORRIDOR                      
+          PROMENADE                     
+          QUARK'S                       
+          SECURITY OFFICE               
+            HOLDING AREA
+          HULL                          
+          TOSK'S QUARTERS               
+
+          CARDASSIAN JEFFRIES TUBE      
+
+          ALIEN SHIP (TOSK'S SHIP)      
+          ALIEN SHIP COCKPIT            
+
+  STAR TREK: "Captive Pursuit" - 10/23/92 - PRONUNCIATION GUIDE 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Captive Pursuit" 
+                      PRONUNCIATION GUIDE 
+
+          COLADRIUM                cole-A-dree-um
+          ARVA NODES               ARE-vuh NODES
+          BILITHIUM                bye-LITH-ee-um
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+
+                          "Captive Pursuit"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. COMMANDER'S OFFICE
+
+	Close on an alien woman in casual clothes... she has a 
+	terrific body... but is intelligent, not a ditz, though a 
+	little nervous here... she's holding a small PADD...
+
+					MISS SARDA
+			I'm not what a lot of people think...
+
+	Moving to reveal Sisko... uncomfortable at being put in this 
+	situation...
+
+					MISS SARDA
+				(continuing)
+			I mean if you're a dabo girl, you 
+			know, you get a reputation...
+
+					SISKO
+			Miss Sarda, why don't tell me exactly 
+			what happened?  When did you start 
+			having trouble with Quark...
+
+					MISS SARDA
+			About five minutes after I got off 
+			the ship...
+
+					SISKO
+			He immediately made sexual advances.
+
+					MISS SARDA
+			He said it was part of the job.
+
+	A beat.  Sisko frowns that special frown he reserves for 
+	Quark.
+
+					SISKO
+			And what did you say?
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - TEASER         2.
+
+1    CONTINUED:
+
+					MISS SARDA
+			I told him I'd wear the costume and 
+			entertain the gamblers... but to 
+			keep his Ferengi knuckles to 
+			himself...
+
+					SISKO
+			But that didn't stop him... ?
+
+					MISS SARDA
+			No, he said again that it was part 
+			of the job.
+
+	She hands the PADD to Sisko so he can see the contract for 
+	himself, moves beside him and points to a section of small 
+	print that we don't need to see...
+
+					MISS SARDA
+				(continuing)
+			He showed me my employment 
+			agreement... see?  There it is in 
+			the Ferengi print, on page twenty-
+			one, sub-section twelve... paragraph 
+			"D"...
+
+					SISKO
+				(hard to believe)
+			You're telling me the contract you 
+			signed requires you to...
+
+					MISS SARDA
+			I guess I should have read it more 
+			carefully... I'm not a legal expert, 
+			Commander...
+
+					SISKO
+				(beat)
+			I'm not a legal expert either, but I 
+			can assure you, after I talk to Quark, 
+			he won't hold you, or anyone else, 
+			to this provision of...
+
+					KIRA'S COM VOICE
+			Commander, sensors are picking up 
+			elevated neutrino readings.  
+			Something's coming through the 
+			wormhole...
+
+					SISKO
+				(reacts)
+			Are any of the transports due back?
+
+					KIRA'S COM VOICE
+			Not according to our logs.
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/28/92 - TEASER         3.
+
+1    CONTINUED:	(2)
+
+					SISKO
+			Put us on yellow alert.
+				(to Sarda)
+			Excuse me...
+
+
+	She acknowledges, EXITS out the side door... he EXITS into 
+	Ops...
+
+2    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The wormhole illuminates... a small VESSEL of radical design 
+	is jettisoned out, careening through space.
+
+3    INT. OPS
+
+	KIRA, DAX and O'BRIEN at their stations... various 
+	Supernumeraries at others... they're looking at the O.S.  
+	viewscreen...
+
+					DAX
+				(checking monitors)
+			It doesn't match anything in Starfleet 
+			files.
+
+					O'BRIEN
+			I'm getting readings of a massive 
+			energy flux.  It could be damaged.
+
+					DAX
+			Sensors indicate a single humanoid 
+			lifeform onboard.
+
+					SISKO
+			Hail it.
+
+					O'BRIEN
+				(hitting a panel)
+			Aye, Sir.
+				(beat)
+			Hail acknowledged.  Response coming 
+			in.
+
+					SISKO
+			On screen.
+
+DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - TEASER         4.
+
+4    ANGLE - INCLUDING VIEW SCREEN (OPTICAL)
+
+	Shows the image of the alien face of TOSK -- a humanoid, but 
+	just barely; reptilian skin and bizarre facial features... 
+	His ship shakes lightly during the following...
+
+					SISKO
+			Welcome to the Alpha Quadrant.  I'm 
+			Commander Benjamin Sisko of the United 
+			Federation of Planets.
+
+	There is an alert intensity in the alien's eyes and a manner 
+	that seems on guard... nervous... on edge...
+
+					TOSK
+			Alpha quadrant?
+
+					SISKO
+			You have passed through a wormhole 
+			into a new part of the galaxy...
+
+					TOSK
+			I saw a small ship disappear... I 
+			followed it...
+
+					SISKO
+			That was one of our patrol vessels... 
+			you've travelled almost ninety-
+			thousand light years.  What planet 
+			do you come from?
+
+					TOSK
+				(ignoring the question)
+			How long does it last -- this anomaly?
+
+					SISKO
+			The wormhole?  It's stable... you 
+			can return whenever you want to.  In 
+			the meantime, you're welcome to dock 
+			here and we'll try to answer all 
+			your questions...
+
+					TOSK
+				(quick)
+			No.  No time...
+
+	The ship suddenly begins vibrating more seriously.  Tosk 
+	holds on, steadies himself as he checks his instrument panel.
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/28/92 - TEASER         5.
+
+4    CONTINUED:
+
+					O'BRIEN
+			Inertial stress is overloading his 
+			structural capacity.
+
+					SISKO
+			Prepare to transport him off his 
+			ship.
+
+					TOSK
+			I will not abandon my vessel.
+
+	The ship begins vibrating again.
+
+					SISKO
+			Sir, your ship is in danger of...
+
+					TOSK
+			I will not leave!
+
+					O'BRIEN
+			We can use a tractor beam to tow him 
+			in.  The beam's graviton field should 
+			shore up the structural integrity.
+
+					SISKO
+			Do it.
+
+					O'BRIEN
+				(to viewscreen)
+			Cut your engines.
+
+	With the suspicion of a fox --
+
+					TOSK
+			Why?
+
+					O'BRIEN
+			So I can save your ship, friend.  
+			We'll bring you in... try to fix you 
+			up good as new...
+
+	Tosk feels his ship shudder again, decides to cut his 
+	engines...
+
+					O'BRIEN
+				(soothing, talking 
+				him down)
+			Good... engaging tractor beam... 
+			steady now... you feel the graviton 
+			field taking hold?
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - TEASER         6.
+
+4    CONTINUED:	(2)
+
+	The shuddering stops...
+
+					TOSK
+			Yes.
+
+					O'BRIEN
+			You'll be fine now... just relax and 
+			enjoy the ride...
+
+	Tosk does not relax for a second... and is unhappy about 
+	being in anybody else's hands... O'Brien switches off the 
+	viewscreen...
+
+					KIRA
+			I'd say that's a man who doesn't 
+			know how to relax...
+				(to Dax, joking)
+			He could use some of your meditation 
+			exercises, Lieutenant...
+
+					DAX
+				(smiles dryly)
+			So could you, Major.  Benjamin, I 
+			think we might want to skip formal 
+			first contact procedures for now...
+
+					SISKO
+			Agreed.
+				(to O'Brien)
+			Why don't you meet him by yourself 
+			at the airlock, Mister O'Brien... he 
+			might find that a little less 
+			intimidating...
+
+					O'BRIEN
+			Aye, sir...
+
+					SISKO
+			... And if you can, find out what 
+			he's so... nervous about...
+
+	O'Brien acknowledges and as he EXITS on the Turbolift... a 
+	beat on Sisko and...
+
+5
+thru   OMITTED
+7
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT ONE          7.
+                            ACT ONE                             
+
+	FADE IN:
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The alien ship has docked.
+
+9    INT. ALIEN COCKPIT
+
+	It's a single pilot vessel.  The hatch opens and O'Brien 
+	enters... looks around... there's no one there... O'Brien 
+	reacts, hits his combadge...
+
+					O'BRIEN
+			O'Brien to Ops...
+
+									INTERCUTTING:
+
+10   INT. OPS
+
+					SISKO
+			Go ahead, Chief.
+
+					O'BRIEN
+			You didn't beam this fellow out when 
+			I wasn't looking, did you?
+
+					SISKO
+			Negative.
+
+					O'BRIEN
+			Well, he's not in here.
+
+	Sisko reacts, glances at Dax...
+
+					DAX
+			The sensors say he's still on board, 
+			Chief.
+
+11   INT. ALIEN SHIP
+
+	O'Brien reacts, looks around... his hand goes to a small 
+	hand phaser on his hip... but then he thinks again... He 
+	again uses the tone of his voice to communicate friendship 
+	and non-threat... Throughout their relationship, it's not 
+	what O'Brien says that bridges the communication gap, but 
+	how he says it...
+
+					O'BRIEN
+			Friend, if you're in here... you've 
+			got nothing to worry about from me... 
+			you understand?
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT ONE          8.
+
+11   CONTINUED:
+
+					O'BRIEN (Cont'd)
+			I'm just going to look at your ship... 
+			see what the problem is, okay... ?
+
+	No response.  It's eerie.  O'Brien takes a beat and moves to 
+	a forward section and finds a control on a panel below the 
+	pilot's seat... he presses it and it slides open... during 
+	the action --
+
+					O'BRIEN
+			Now, just so you know... I'm an 
+			engineer... I know a little bit about 
+			ships... well, more than a little 
+			bit actually...
+
+	He slides himself head first into the dark insides of the 
+	ship...
+
+					O'BRIEN (O.S.)
+				(reacting to what he 
+				sees)
+			Though to be sure, I've never seen 
+			anything close to this...
+
+12   ANGLE - ON A WALL AWAY FROM O'BRIEN (OPTICAL)
+
+	Tosk shimmers into view... he moves closer to O'Brien's 
+	legs... during the action --
+
+					O'BRIEN (O.S.)
+			All right, not... is that some sort 
+			of plasma injector there... okay... 
+			then that would have to be an off-
+			axis field controller of some kind... 
+			uh-huh... uh-huh...
+
+	Leaning down --
+
+					TOSK
+				(casual)
+			The coladrium flow has been 
+			damaged.
+
+	Startled, O'Brien's legs react and we hear a bump of a head 
+	inside the panel...
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT ONE          9.
+
+12   CONTINUED:
+
+					O'BRIEN (O.S.)
+				(pain)
+			Ah!
+
+	He slides out...
+
+					O'BRIEN
+			You can't go sneaking up on someone 
+			like that, friend... it's an Alpha 
+			quadrant rule...
+
+	Tosk examines him with curious alien eyes...
+
+					TOSK
+			Can it be fixed?
+
+					O'BRIEN
+			Well, that depends...
+
+					TOSK
+			Depends?
+
+					O'BRIEN
+			On what exactly a coladrium flow 
+			is...
+
+					TOSK
+				(frustrated)
+			On my world, it would be simple... 
+			with proper materials I could do 
+			this myself...
+
+					O'BRIEN
+			Now, hang on, I didn't say we couldn't 
+			figure it out... you're just going 
+			to have to teach me as we go... I'm 
+			sure that...
+
+					TOSK
+			I have no time!
+
+					O'BRIEN
+			I know... everybody's in a hurry 
+			these days... we'll get you on your 
+			way as soon as it's humanly 
+			possibly...
+				(beat)
+			Oh, that's me, by the way... human 
+			species, name of O'Brien...
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT ONE         10.
+
+12   CONTINUED:	(2)
+
+					TOSK
+			Oh.  Brien.
+
+					O'BRIEN
+			Miles O'Brien, Chief of Operations.  
+			How about you?
+
+					TOSK
+			I am... Tosk.
+
+					O'BRIEN
+			That's your name?  Or you... 
+			species... ?
+
+					TOSK
+				(confused)
+			I am Tosk.
+
+					O'BRIEN
+			Tosk, it is.
+				(moving toward the 
+				exit)
+			Come on, then...
+
+	Tosk hesitates...
+
+					O'BRIEN
+			There's nothing to be worried about 
+			out there.  We've got to let your 
+			reactor cool down before we can do 
+			anything else anyway...
+
+	Tosk still hesitates.
+
+					O'BRIEN
+			Now, Tosk, you know you've got a 
+			broken... uh, coladrium flow... and 
+			those aren't fixed overnight are 
+			they...
+
+	Tosk acknowledges with a slight change of his eyes...
+
+					O'BRIEN
+			No reason to just sit in here.  We've 
+			got a room for you.  Probably not as 
+			nice as you're used to.  But it'll 
+			do for now...
+
+	O'Brien moves out the door... turns back... Tosk, like a 
+	hesitant dog, doesn't know what to do...
+
+					O'BRIEN
+			C'mon... I have work to do...
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT ONE         11.
+
+12   CONTINUED:	(3)
+
+	After a beat, Tosk finally follows...
+
+13   INT. AIRLOCK
+
+	Tosk looks around warily as they ENTER from the ship... 
+	O'Brien directs him toward the exit...
+
+					O'BRIEN
+			So what happened to you, anyway?  
+			Looks like you took some sort of 
+			shot to your hull.
+
+					TOSK
+				(evasive)
+			The passage... through the anomaly 
+			was very rough.
+
+					O'BRIEN
+				(doesn't buy it)
+			Yeah, the wormhole can shake you up 
+			all right.
+
+14   INT. PROMENADE (OPTICAL)
+
+	As they ENTER from the airlock, they pass through a sensor 
+	field... Tosk reacts as the optical flash occurs...
+
+					O'BRIEN
+				(explaining)
+			Security sensor... screens for 
+			weapons... it's just picking up my 
+			phaser... you're fine...
+
+					TOSK
+			You wear a weapon?
+
+					O'BRIEN
+			Defensive purposes only.  It may not 
+			seem hospitable.  But going into an 
+			alien ship for the first time, you 
+			never know what might be inside... 
+			may even be someone who can turn 
+			himself invisible... know what I 
+			mean?
+
+         DEEP SPACE: "Captive Pursuit" - 10/29/92 - ACT ONE         12.
+
+14   CONTINUED:
+
+	Tosk studies him... there is no sense of humor there, but 
+	he gets the joke and as slight as it is, there is a step 
+	forward in the connective process with the simple honest 
+	reaction --
+
+					TOSK
+			I understand.
+
+15   NEW ANGLE - MOVING WITH THEM
+
+	Tosk reacts to the sights and sounds of the busy Promenade... 
+	as they walk, Tosk doesn't just look around, he studies the 
+	environment... As they pass the Infirmary, the door is open 
+	and Bashir is visible inside... Tosk looks inside...
+
+					TOSK
+				(concluding)
+			A health center... ?
+
+					O'BRIEN
+			Yeah.  That's Doctor Bashir... he 
+			looks after all our medical needs...
+
+	As they continue walking...
+
+					TOSK
+			How many live here?
+
+					O'BRIEN
+			Oh, three hundred more or less...
+
+					TOSK
+			What is its purpose?
+
+					O'BRIEN
+			Purpose?
+
+					TOSK
+			Defense?  Surveillance?
+
+					O'BRIEN
+			Well, sometimes when I walk along 
+			here, I think we're the flea market 
+			to the sector... I guess you could 
+			say our real job is to keep an eye 
+			on the wormhole... traffic goes in 
+			and out all the time now...
+
+					TOSK
+			Many ships dock here?
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT ONE        12A.
+
+15   CONTINUED:
+
+					O'BRIEN
+			Well, five or six a week... sometimes 
+			we get a whole convoy on its way 
+			through the wormhole...
+				(beat)
+			But you have the honor of being the 
+			first visitor from the other side...
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT ONE         13.
+
+15   CONTINUED:	(2)
+
+					TOSK
+				(thoughtful)
+			Others will detect ships from your 
+			quadrant as I did... and follow them 
+			here...
+
+					O'BRIEN
+			We hop so.
+				(off Tosk's reaction)
+			Our mission as Starfleet officers... 
+			is to seek out new lifeforms... so 
+			we can learn about one another...
+
+16   NEW ANGLE
+
+	They come to Quark's... the door is open... Quark is escorting 
+	an alien women from the gambling tables toward the door...
+
+					QUARK
+			Madame, I distinctly saw you move 
+			your wager to the green line after 
+			the play was completed... I will 
+			return your currency but you will 
+			promptly leave the establishment... 
+			you are no longer welcome...
+
+17   ANGLE - TOSK
+
+	reacts curiously...
+
+					O'BRIEN
+			Well, there are a few things to learn 
+			about us that can wait...
+
+	They continue walking...
+
+					O'BRIEN
+			How about you?
+				(off Tosk's reaction)
+			Are you... an explorer... a 
+			scientist... ?
+
+					TOSK
+			I am Tosk.
+
+					O'BRIEN
+			Right.
+
+         DEEP SPACE: "Captive Pursuit" - 10/28/92 - ACT ONE         14.
+
+18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK)
+
+	As they enter...
+
+					O'BRIEN
+			Computer, lights...
+
+	The lights come on...
+
+					O'BRIEN
+			I wasn't the decorator.
+
+					TOSK
+				(impatient)
+			I wish to begin work on my ship.
+
+					O'BRIEN
+			We'll get started as soon as we can... 
+			Now, why don't you get some rest...
+
+					TOSK
+			I require only seventeen minutes of 
+			sleep per rotation.
+
+					O'BRIEN
+			Seventeen... no kidding... if I don't 
+			get a good eight hours a night, I'm 
+			not the same man... are you hungry?
+
+					TOSK
+			Hungry?
+
+					O'BRIEN
+			You know, do you want something to 
+			eat, take in sustenance...
+
+					TOSK
+			Liquid nutrients have been stored in 
+			plasmic fibers throughout my body...
+
+					O'BRIEN
+			Well, the food replicator is over 
+			here if you change your mind... we've 
+			finally got it making a pretty good 
+			bowl of oatmeal.  Just ask the 
+			computer for anything else you need.
+
+	Tosk studies him a beat...
+
+         DEEP SPACE: "Captive Pursuit" - 10/28/92 - ACT ONE         15.
+
+					TOSK
+			Oh Brien.
+				(beat)
+			Thank-you.
+
+					O'BRIEN
+			As the Vulcans say, we're here to 
+			serve.
+
+	He exits.  We stay a beat on Tosk.  He looks around for a 
+	beat, still nervous, still on edge...
+
+					TOSK
+			Computer... ?
+
+	And any of us would give it an order, but he's an alien, so 
+	he doesn't... after a beat...
+
+					COMPUTER VOICE
+			State request.
+
+					TOSK
+			May I see a... display of this 
+			facility?
+
+					COMPUTER VOICE
+			Specifiy exterior or interior display.
+
+					TOSK
+			Interior.
+
+					COMPUTER VOICE
+			Interior display available in nineteen 
+			sections.  Specify requirements.
+
+					TOSK
+			Show me where the weapons are stored.
+
+	As he reacts to the computer monitor illuminating with a 
+	map...
+
+					COMPUTER VOICE
+			Habitat Ring, Level Five, Section 
+			Three.  Access restricted to security 
+			clearance seven and above.
+
+	As he examines the map, on that ominous note, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT TWO       16.
+                            ACT TWO                             
+
+	FADE IN:
+
+19   EXT. SPACE - DS9 (OPTICAL)
+
+20   INT. COMMANDER'S OFFICE
+
+	O'Brien reporting back to Sisko on his impressions...
+
+					O'BRIEN
+			It's hard to say, sir... he is an 
+			alien and you hate to prejudge 
+			anyone...
+
+					SISKO
+			What're you thinking, Chief?
+
+					O'BRIEN
+			Well, there's an old saying back 
+			home... "a man who's always lookin' 
+			over his shoulder is waiting for 
+			trouble to find him." (Research: a 
+			real Irish saying to replace this 
+			would be nice.)
+
+					SISKO
+			You think he's on the run... ?
+
+					O'BRIEN
+				(shrugs)
+			I'll tell you this -- he wasn't 
+			telling the whole truth about the 
+			damage to his ship... it sure wasn't 
+			caused by the wormhole.  Somebody 
+			took a shot at him... came in at a 
+			45 degree angle to the hull... sliced 
+			through two propulsion systems... 
+			I'll know more when I get a better 
+			look...
+
+					SISKO
+				(nods, thoughtfully)
+			Stay with him as much as possible 
+			while he's here... I'll tell Odo to 
+			keep an eye on him too...
+
+					O'BRIEN
+			Aye, sir...
+
+	He EXITS...
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT TWO       17.
+
+21   OMITTED
+
+22   INT. TOSK'S SHIP
+
+	angle toward the open compartment where O'Brien was earlier... 
+	no legs are showing this time...
+
+					TOSK (O.S.)
+			No... the coladrium flows through 
+			the Arva Nodes...
+
+					O'BRIEN (O.S.)
+			Uh-uh... and where's that...
+
+					TOSK (O.S.)
+			The Arva Nodes... here...
+
+					O'BRIEN (O.S.)
+			These coils... ?
+
+23   INT. HULL - DARK TIGHT TWO SHOT
+
+	surrounded by dark engine equipment... O'Brien uses a palm 
+	beacon to look at what they're talking about... we may not 
+	even need to see, it's so tight...
+
+					O'BRIEN
+			What are they... some kind of high-
+			energy magnetic coils?
+
+	Tosk reacts like he's listening to a foreign language...
+
+					TOSK
+			Ah... for fuel replenishment... 
+			fuel... ?
+				(you understand?)
+
+					O'BRIEN
+			Like a ramscoop...
+
+					TOSK
+			Ramscoop... ?
+
+					O'BRIEN
+			To capture stellar gases and convert 
+			them into usable fuel...
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT TWO       18.
+
+23   CONTINUED:
+
+					TOSK
+				(connection made)
+			Yes!  The Arva Nodes convert space 
+			matter into fuel!
+
+					O'BRIEN
+			Gotcha.  Piece of cake.
+
+					TOSK
+				(with misplaced 
+				confidence)
+			Pieceofcake.  Ramscoop.  Arva Nodes.
+
+					O'BRIEN
+			Ah, "piece of cake" - it's just an 
+			old human expression.  Means they'll 
+			be easy to fix.
+
+					TOSK
+			They will be easy to fix?
+
+					O'BRIEN
+			Sure, we'll just get my crew to remove 
+			your Arva Nodes, then we'll take 
+			them over to the replicator center 
+			and make new ones...
+
+					TOSK
+				(pleased)
+			Piece of cake.
+
+24   INT. TOSK'S SHIP
+
+	As they crawl out...
+
+					TOSK
+			How long?
+
+					O'BRIEN
+			Maybe a day or two.  We'll want to 
+			run some tests after we have the 
+			replacement unit in...
+
+					TOSK
+			No.  No time for that.
+
+					O'BRIEN
+			Hey, I let you take this unit out 
+			without proper testing...
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT TWO       19.
+
+24   CONTINUED:
+
+					O'BRIEN
+			it breaks down and you blame me... 
+			next thing I know my work has a bad 
+			reputation in the Gamma quadrant...
+
+					TOSK
+			I would not blame you.
+
+					O'BRIEN
+			I'm joking, Tosk.
+
+					TOSK
+				(beat)
+			I cannot tell.  Oh Brien.
+
+					O'BRIEN
+				(beat, smiles)
+			Sorry.  It's just in my nature.  And 
+			you're the most natural straight man 
+			I've met in ages... c'mon, while the 
+			fellas are working here, I'll buy 
+			you a drink... and you can tell me 
+			why you're in such a rush...
+
+25   INT. QUARK'S ESTABLISHMENT
+
+	O'Brien and Tosk ENTER... taking in the atmosphere of the 
+	activities...
+
+					TOSK
+			Nothing like this exists on my world.
+
+					O'BRIEN
+			This is where we do most of our R 
+			and R...
+
+					TOSK
+			What is R and R...
+
+					O'BRIEN
+			Rest and relaxation.  You know, down 
+			time.  When we're not working.
+
+	They sit at the bar...
+
+					TOSK
+			You sleep a full third of your 
+			rotation.  You rest and relax while 
+			you are awake.
+				(beat)
+			The Alpha quadrant has too much... 
+			"down" time.
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT TWO       20.
+
+25   CONTINUED:
+
+					O'BRIEN
+			My wife would laugh at that.  She's 
+			barely seen me in the last three 
+			weeks.
+
+					TOSK
+			We are very different, Tosk and Oh 
+			Brien.
+
+					O'BRIEN
+			I've noticed.  Hey barkeep!
+
+	Quark reacts, comes over...
+
+					QUARK
+			Don't call me "barkeep."  I am not a 
+			barkeep.  I am your host, the 
+			proprietor, a sympathetic ear to the 
+			wretched souls who pass through these 
+			portals...
+
+					O'BRIEN
+				(to Tosk)
+			... And a man who will exploit any vice 
+			you may have.  Two synthales, barkeep.
+
+					TOSK
+			I am sorry, I have no vices for you 
+			to exploit.
+
+					QUARK
+				(glances to O'Brien)
+			A challenge.
+
+					O'BRIEN
+			Tosk is our first guest from the 
+			Gamma Quadrant, Quark.  I'd take him 
+			at his work.
+
+					QUARK
+				(never give up)
+			Perhaps a short adventure in a 
+			holosuite...
+
+					TOSK
+			Holosuite... ?
+
+					QUARK
+			A fantasy encounter with danger, 
+			romance, thrills... created for your 
+			personal entertainment by the Quark 
+			Brothers...
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT TWO       21.
+
+25   CONTINUED:	(2)
+
+					TOSK
+			I have no use for fantasy adventure.  
+			I live the greatest adventure one 
+			could ever desire.
+
+	O'Brien raises an eyebrow at that.  Quark exchanges a glance 
+	with him.
+
+					QUARK
+			Then, I envy you, Mister Tosk.
+
+	He moves away.
+
+					O'BRIEN
+			What are you talking about, Tosk... 
+			what is this adventure you're on?
+
+					TOSK
+			I cannot discuss it.
+
+					O'BRIEN
+			Oh.  Sure, of course.
+				(long beat, 
+				irresistible)
+			I mean, by the way you act, it's 
+			some kind of dangerous adventure, am 
+			I right?
+
+					TOSK
+			I cannot discuss it.
+
+					O'BRIEN
+			Sure.  Sorry.
+
+	A beat.  Tosk glances at O'Brien... feeling an equally 
+	irresistible impulse to share the experience with his new 
+	friend...
+
+					TOSK
+				(the answer to your 
+				question)
+			Yes.
+
+					O'BRIEN
+			Dangerous.
+
+					TOSK
+				(shrugs, of course)
+			I am Tosk.
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/28/92 - ACT TWO       22.
+
+25   CONTINUED:	(3)
+
+	That's all he'll say, he looks at the room, drinks the 
+	ale for the first time and squinches his face at the taste... 
+	O'Brien studies the alien... and...
+
+26   INT. OPS
+
+	Sisko, Kira, Dax, Bashir... O'Brien is struggling to put 
+	into context what he knows... maybe sitting at the Ops 
+	table...
+
+					KIRA
+			Sounds like you've changed your mind 
+			about him, Chief...
+
+					O'BRIEN
+			Not exactly.  I mean, he's running 
+			from something... that's for sure... 
+			and he's in danger... and he can't 
+			or won't talk about it...
+
+					BASHIR
+			People tell doctors things they never 
+			tell any one else... if you could 
+			talk him into having a routine medical 
+			examination, maybe I could...
+
+					O'BRIEN
+				(ignoring and 
+				interrupting Bashir)
+			The thing is... I kind of like the 
+			guy... I'm not even sure why... in a 
+			way, he's almost naive... I guess 
+			any one would be in an alien 
+			environment... but... I don't sense 
+			a thread of criminal intent or 
+			dishonesty about him...
+
+					SISKO
+			I thought you said he lied about the 
+			damage to his ship...
+
+					O'BRIEN
+			Well, he didn't exactly lie...
+
+					DAX
+			But he didn't exactly tell the truth 
+			either...
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT TWO       23.
+
+26   CONTINUED:
+
+					O'BRIEN
+			He keeps the truth pretty much to 
+			himself.
+
+					SISKO
+			When will his ship be ready?
+
+					O'BRIEN
+			Tomorrow.
+
+					SISKO
+			I don't see that we have much of a 
+			choice.  We can't hold him.  If he 
+			wants to tell you the truth, fine.  
+			If not, wish him well... and send 
+			him on his way...
+
+	O'Brien acknowledges, still unsettled about this curious 
+	visitor and...
+
+27   INT. REMOTE CORRIDOR
+
+	Tosk is positioned before a junction box.  He is altering 
+	the mechanism for purposes known only to himself.
+
+28   ANGLE - A FRAMED PICTURE OF A BAJORAN LANDSCAPE
+	ON THE WALL (OPTICAL)
+
+	Across from Tosk.  It begins to shape-shift into Odo, (not a 
+	complete MORPH)...
+
+29   ANGLE ON TOSK
+
+					ODO (O.S.)
+				(low key)
+			Just what do you think you're doing?
+
+30   NEW ANGLE
+
+	as Tosk turns to see Odo behind him...
+
+31   TOSK (OPTICAL)
+
+	shimmers and disappears...
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/29/92 - ACT TWO       24.
+
+32   RESUME ANGLE
+
+					ODO
+			Computer, seal off corridor fourteen 
+			A, habitat level five...
+
+					COMPUTER VOICE
+			Seal confirmed.
+
+					ODO
+				(to combadge)
+			Security to habitat five-fourteen-
+			A...
+
+33   ANGLE (OPTICAL)
+
+	The sound of an air rush past Odo... as it hits a forcefield 
+	it pops on for a second... revealing Tosk... he bounces back, 
+	disappearing again...
+
+34   ODO
+
+	listening to Tosk's quick movements... glances the other way 
+	down the corridor where...
+
+35   ANGLE (OPTICAL)
+
+	the forcefield snaps on again revealing Tosk... this time he 
+	stays visible...
+
+36   ODO
+
+					ODO
+			When you get tired of bouncing off 
+			forcefields, we'll talk... all right?
+
+36A  ANGLE
+
+	At both ends of the corridor, Bajoran deputies arrive behind 
+	the forcefields...
+
+37   ANGLE
+
+					TOSK
+			I've done nothing to you.
+
+        DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT TWO       25.
+
+37   CONTINUED:
+
+					ODO
+			It's that security junction I'm 
+			curious about.
+
+					TOSK
+			I must prepare.
+
+					ODO
+			For what.
+
+					TOSK
+			I cannot discuss it.  I am Tosk.
+
+					ODO
+			I'm sure you are.  Why don't we go 
+			down to my office while your friend 
+			Chief O'Brien takes a look to see 
+			just what you were doing in there...
+
+					TOSK
+			Oh Brien.
+
+					ODO
+			Right.  I'm going to release the 
+			forcefields now... I don't need a 
+			fight from you... understand?
+
+					TOSK
+			I will not fight you...
+
+					ODO
+			Good.  Computer, release the security 
+			seals...
+
+	We hear the sound of the release... The deputies move in at 
+	Odo's signal and escort Tosk away... On Odo's look...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT THREE        26.
+                           ACT THREE                            
+
+	FADE IN:
+
+38   EXT. SPACE - DS9 (OPTICAL)
+
+39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL)
+
+	Tosk is in a holding cell behind a forcefield... Sisko 
+	questions him... Odo in the background... O'Brien ENTERS 
+	early in the scene, waits to be acknowledged by Sisko... 
+	Tosk, in his cell, paces like a trapped animal -- this is 
+	the worst possible thing that can happen to a Tosk...
+
+					TOSK
+			I cannot discuss it.
+
+					SISKO
+			... And I can't accept that as an 
+			answer...
+
+					TOSK
+			I did nothing to you.
+
+	In his fervor, he accidentally bumps into the forcefield 
+	creating an optical flash.
+
+					SISKO
+			You were tampering with the security 
+			grid... I consider that a threat...
+
+	He turns to see O'Brien, asks him what he knows with his 
+	eyes... O'Brien moves forward, looks at Tosk as he talks...
+
+					O'BRIEN
+			I think he was trying to shut down 
+			the lock-outs to Section Three...
+
+					ODO
+			The weapons locker...
+
+	Sisko frowns, looks back at Tosk...
+
+					SISKO
+			What were you going to do with the 
+			weapons?
+
+	Tosk looks away.
+
+
+        DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT THREE        27.
+
+39   CONTINUED:
+
+					ODO
+			Are you wanted by authorities 
+			somewhere in the Gamma Quadrant?
+
+					TOSK
+			Wanted?
+
+					ODO
+			Have you committed crimes?
+
+					TOSK
+				(shocked at the 
+				accusation)
+			Never.  I am Tosk.
+
+					SISKO
+			What does that mean?  Is that supposed 
+			to explain all this?
+
+					TOSK
+			It is all I can say.
+
+					O'BRIEN
+			Tosk, don't you think we deserve 
+			some answers?
+
+	Tosk looks at O'Brien, but offers nothing more... Sisko sighs, 
+	shakes his head, moves way...
+
+					ODO
+			What should I do with him?
+
+					SISKO
+			Hold him for now.  We'll wait to see 
+			if someone shows up looking for him.
+
+	Sisko EXITS.  Odo glances back at O'Brien, moves to leave 
+	them alone...
+
+					O'BRIEN
+			Enough of this craziness, Tosk... 
+			tell me what the hell you were 
+			doing...
+
+					TOSK
+			Oh Brien.  You must let me out.
+
+					O'BRIEN
+			Tell me!
+
+					TOSK
+			Allow me to die with honor.
+
+        DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT THREE        28.
+
+39   CONTINUED:	(2)
+
+					O'BRIEN
+			Die?
+				(beat)
+			Who would want to kill you, Tosk?
+
+					TOSK
+				(pleading)
+			Allow me to die with honor.
+
+	Off O'Brien's reaction...
+
+40   INT. SECURITY OFFICE
+
+	As O'Brien comes out of the holding area... Odo looks up, 
+	sees the disturbed look on O'Brien's face... O'Brien slumps 
+	down in a chair across from Odo's desk...
+
+					O'BRIEN
+			He's climbing the walls... like a 
+			trapped animal...
+
+					ODO
+			Sorry our jail cells aren't to his 
+			liking.
+
+	A beat...
+
+					O'BRIEN
+			Somehow, I feel responsible.
+
+					ODO
+			You do... ?
+
+					O'BRIEN
+			Yeah.  I guess I kinda adopted him.  
+			Talked him into coming on board...
+
+					ODO
+			You didn't talk him into breaking 
+			into the security system...
+
+					O'BRIEN
+			I just feel sorry for him.  Somehow, 
+			I don't think he means us any harm.
+
+	He stands up... to himself more than Odo --
+
+        DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT THREE        29.
+
+40   CONTINUED:
+
+					O'BRIEN
+			What the hell is his secret?
+
+	He EXITS...
+
+41   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Time passage.  After a beat, the wormhole explodes into view 
+	and another, larger ship (three passengers) arrives...
+
+42   INT. OPS (OPTICAL)
+
+	Sisko, O'Brien, Kira, Dax and supernumeraries... study the 
+	new arrival on the (O.C.) Viewscreen...
+
+					DAX
+			Sensors are reading ionized "L"-band 
+			emissions... The patterns match Tosk's 
+			ship...
+
+					SISKO
+			Hail them.  Maybe we'll finally get 
+			a few answers...
+
+					KIRA
+			No response.
+
+					SISKO
+			Again.  Rotate frequencies.
+
+	Kira operates her panel... shakes her head... no response... 
+	They react as a while light scans across the room...
+
+					DAX
+			It's a modulated particle beam... 
+			we're being scanned...
+
+        DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT THREE        30.
+
+42   CONTINUED:
+
+					KIRA
+			Ready shields.
+
+					SISKO
+			Not yet, Major... let them have a 
+			good look at us...
+
+	A beat, as the scan completes its sweep...
+
+					O'BRIEN
+			I'm reading phased power 
+			fluctuations... they may be readying 
+			a transporter of some kind...
+
+					SISKO
+			Now, Major...
+
+					KIRA
+			Shields up...
+
+					SISKO
+			Open all hailing channels...
+
+					DAX
+			Open.
+
+					SISKO
+			This is Commander Benjamin Sisko of 
+			the United...
+
+	The station shakes... Sisko looks to O'Brien...
+
+        DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT THREE        31.
+
+42   CONTINUED:	(2)
+
+					O'BRIEN
+			They're bombarding our shields with 
+			some kind of radiation I've never 
+			see before... very rapid magnetic 
+			flux variations...
+
+					SISKO
+			Red alert.
+
+43
+thru   OMITTED
+47
+
+48   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The ship floods DS9 with a wide beam... suddenly the shields 
+	do an optical flash and disappear...
+
+49   INT. OPS
+
+					O'BRIEN
+			What the... they've inverted the 
+			amplitude on our shields...
+
+					DAX
+			I'm picking up transporter locks... 
+			they're beaming on board...
+
+					SISKO
+			Location.
+
+					DAX
+			Promenade.
+
+	Sisko moves quickly to the Turbolift... followed by Kira, 
+	Dax and O'Brien...
+
+					SISKO
+				(to combadge)
+			Security to the Promenade.  Kira, 
+			O'Brien with me.  Dax, you have Ops.
+
+50   OMITTED
+
+        DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT THREE       31A.
+
+51   INT. PROMENADE (OPTICAL)
+
+	and as Odo arrives he sees three beam-ins ending... spread 
+	out in a triangle formation... people are already moving for 
+	cover...
+
+        DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT THREE        32.
+
+52   THE ALIENS
+
+	our first impression is of men without faces.  They wear 
+	high-tech helmets... designed with detection and tracking 
+	gear... their bodies dressed in a formal costume for the 
+	occasion -- think of them as the fox hunters -- they each 
+	carry special weapons that look like high-tech laser 
+	crossbows... along their arms are built-in metallic shield 
+	generators...
+
+53   ODO AND BASHIR
+
+	turn to see Sisko, O'Brien and Kira arriving... several 
+	security men arrive... and as Sisko reacts to the sight of 
+	the aliens...
+
+					SISKO
+				(quietly)
+			Ready phasers...
+
+	And as the confrontation is about to begin we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT FOUR        33.
+                           ACT FOUR                             
+
+	FADE IN:
+
+54   INT. PROMENADE
+
+	As before.  Sisko moves toward the lead alien... who is 
+	beginning to move forward in the direction of the security 
+	office (it should not be too close to give us room to play 
+	out some action)...
+
+					SISKO
+			I am the Commander of this station.  
+			Put down your weapons...
+
+	The alien ignores Sisko, begins to move by him... Odo steps 
+	forward and blocks him... The alien makes a quick movement 
+	with his arms holding the weapon and "elbows" Odo hard... 
+	Odo falls over... and then everything happens fast --
+
+55   KIRA (OPTICAL)
+
+	fires first...
+
+56   THE LEAD ALIEN (OPTICAL)
+
+	reacts in a blinding move, putting up an arm, catching the 
+	phaser shot on an optical deflector shield and it bounces 
+	harmlessly away... but it not so lucky when...
+
+57   O'BRIEN (OPTICAL)
+
+	fires at a different angle, connects with...
+
+         DEEP SPACE: "Captive Pursuit" - 10/28/92 - ACT FOUR        34.
+
+
+58   THE LEAD ALIEN (OPTICAL)
+
+	knocking him off his feet... but he's not stunned, he's 
+	rolling back up ready for more action as...
+
+59   THE TWO OTHER ALIENS (OPTICAL)
+
+	spread out in tactical formation as the phaser fight begins 
+	in earnest...
+
+60   VARIOUS ANGLES (OPTICAL)
+
+	security men fire... the aliens react with remarkable 
+	quickness... catching the phaser fire on their shields... 
+	but inevitably a couple of shots get by their arms... and 
+	connect, knocking them down... they aliens just roll into 
+	action again to continue their moves... getting ever closer 
+	to security...
+
+61   SISKO (OPTICAL)
+
+	pops his combadge, immediately begins to adjust his phaser 
+	setting...
+
+					SISKO
+				(order to combadge)
+			Increase setting to level six...
+
+	He fires a pair of shots... retreats to a better angle...
+
+62   OMITTED
+
+63   ODO (OPTICAL)
+
+	is not and never will be armed... Kira moves into a covered 
+	position beside him... near the security office...
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT FOUR        35.
+
+					ODO
+			It's that Tosk they're after.
+
+					KIRA
+			Maybe they have a right to him...
+
+					ODO
+			Nobody's abducting a prisoner out of 
+			my brig as long as I'm alive, Major.
+
+	She reacts... offers him a spare phaser from her belt...
+
+					KIRA
+			You may need this...
+
+					ODO
+			Thanks anyway, I don't use them.
+
+	An alien spins into view... Kira gets off a shot that bounces 
+	off the alien's shields and then drives a shot into an alien's 
+	chest and blows him back... she shrugs, sometimes it helps...
+
+64   OMITTED
+
+65   NEW ANGLE - THE LEAD ALIEN (OPTICAL)
+
+	raises his crossbow... "cocks" it in some alien way... he 
+	fires at...
+
+66   ANGLE - THE SECURITY OFFICE DOOR (OPTICAL)
+
+	The charge from the alien weapon, blowing out the door, is 
+	the brightest light we've ever seen... whiting out all but 
+	the barest image... blinding all the human and Bajoran 
+	defenders... the lead alien moves quickly inside...
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT FOUR        36.
+
+67
+thru   OMITTED
+69
+
+70   INT. HOLDING AREA (OPTICAL)
+
+	The alien ENTERS, sending a red sensing device from his helmet 
+	that bathes the apparently empty holding cell in color and 
+	reveals Tosk... who knows the game is up and returns to 
+	normal.  The alien turns the device off and lowers his 
+	weapon... as Sisko, phaser raised, and Odo move in behind 
+	him... followed a beat later by O'Brien... the alien takes 
+	off his helmet to reveal a rather mundane humanoid face, not 
+	far off human... he hits a communicator of some sort on his 
+	shoulder...
+
+					THE HUNTER
+			I have Tosk... alive.
+
+71   INT. PROMENADE (OPTICAL)
+
+	The aliens lower their weapons, no longer attempting to move 
+	forward.  The firing has stopped.  With their faces still 
+	covered by helmets, they glance at each other, reacting with 
+	shock to the word "alive."
+
+					THE HUNTER'S COM VOICE
+			It is over.
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT FOUR        37.
+
+71   CONTINUED:
+
+	Kira and the others react as the aliens hit their 
+	communicators and DEMATERIALIZE.
+
+72   INT. HOLDING AREA
+
+	The Hunter addresses the Tosk directly with contempt...
+
+					THE HUNTER
+			What a disappointment... after such 
+			an entertaining beginning...
+
+					SISKO
+				(furious)
+			Entertaining... ?
+
+					THE HUNTER
+				(ignoring him)
+			These aliens gave us a great deal of 
+			resistance... we wondered how you 
+			got their cooperation without 
+			violating your oath of silence...
+
+					TOSK
+				(small satisfaction)
+			I told them nothing.
+
+					THE HUNGER
+			But, to see you here, caged and 
+			helpless... how could you allow this?
+
+	Tosk just hangs his head... O'Brien studies the incredible 
+	exchange...
+
+					THE HUNTER
+				(continuing)
+			It is a disgrace to all Tosk.  And 
+			the most disappointing hunt in 
+			memory...
+
+	That's too much for Sisko to bear... he steps forward between 
+	Tosk and the Hunter...
+
+					SISKO
+			You're saying that this whole thing... 
+			is a hunt... and Tosk is the prey...
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT FOUR        38.
+
+72   CONTINUED:
+
+	The Hunter studies this minor lifeform and finally 
+	addresses it directly...
+
+					THE HUNTER
+			You are right... this Tosk is unworthy 
+			of such a noble description.
+				(to Tosk)
+			For this dishonor, you will endure 
+			the greatest humiliation Tosk can 
+			know... to be captured and brought 
+			home alive.  You will live out your 
+			existence on public display... where 
+			children will make fun of you and 
+			toss you scraps of food...
+
+	He turns to Sisko...
+
+					THE HUNTER
+			Release him.
+
+	And now Sisko takes charge... moves to confront the alien...
+
+					SISKO
+			You've disrupted life on this 
+			station... for the pleasure of your... 
+			"hunt"... I'm not inclined to take 
+			any orders from you.
+				(to Odo)
+			Odo, watch the prisoner while our 
+			"guest" and I discuss this matter in 
+			private...
+				(to The Hunter)
+			... unless you intend to take him by 
+			force... in which case I am prepared 
+			to give orders to open fire on your 
+			ship...
+
+	The alien looks at this group with incredulity --
+
+					THE HUNTER
+			Over this Tosk?
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT FOUR        39.
+
+72   CONTINUED:	(2)
+
+	Sisko gives him a look that says that's right... and 
+	EXITS... The Hunter looks at the other two who stare him 
+	down evenly... and after a beat he follows Sisko out... Tosk, 
+	miserable, avoids O'Brien's look...
+
+73   INT. COMMANDER'S OFFICE (OPTICAL)
+
+	The Hunter follows an enraged Sisko into his office... they've 
+	already been talking on the way...
+
+					THE HUNTER
+			... Have you nothing like this in 
+			your own society?
+
+					SISKO
+			Centuries ago, people on my world 
+			engaged in bloodsports... killing 
+			lower species for pleasure.  A few 
+			cultures still do.  But even they 
+			wouldn't consider hunting a sentient 
+			being...
+
+					THE HUNTER
+				(casual, obvious to 
+				him)
+			He is only sentient because we have 
+			made him sentient.  He has been bred 
+			for the hunt.  His entire reason to 
+			exist is the hunt... to make it as 
+			interesting, as exciting as he can.
+				(off Sisko's look)
+			Obviously, you do not comprehend...
+
+					SISKO
+			I comprehend just fine.  I have no 
+			tolerance for the abuse of any 
+			lifeform.
+
+					THE HUNTER
+			Abuse?  We honor Tosk.  They are the 
+			symbol of all that is noble and 
+			courageous.  They train and condition 
+			themselves all their lives for this 
+			event.  They are proud of their role 
+			in our culture.
+
+	A beat... and this is the Starfleet training coming out in 
+	him... he backs off a little... he really has to...
+
+					SISKO
+			I can't judge what is right and wrong 
+			for your world.  But on this 
+			station...
+
+         DEEP SPACE: "Captive Pursuit" - 10/27/92 - ACT FOUR        40.
+
+73   CONTINUED:
+
+					THE HUNTER
+			In the future, passage through the 
+			anomaly will be considered out of 
+			bounds for the hunt... will that 
+			satisfy you?
+
+	Sisko studies him evenly.  It will have to satisfy him.
+
+					THE HUNTER
+			Now, you will arrange for the release 
+			of the Tosk.
+
+	Sisko has nothing more to say than a nod... the alien 
+	acknowledges and hits his communicator and DEMATERIALIZES.
+
+74   INT. OPS - CONTINUOUS
+
+	Sisko walks out of his office...
+
+					SISKO
+			I've agreed to release him.
+
+					O'BRIEN
+				(reacts)
+			But sir, Tosk is a living, intelligent 
+			being...
+
+					SISKO
+			This is their custom, Chief... under 
+			the prime directive, we have no right 
+			to interfere...
+
+					KIRA
+			What if Tosk were to request asylum?
+
+	Sisko takes a long beat to think... looks back at O'Brien...
+
+					SISKO
+			If he asks for it...
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT FOUR        41.
+
+74   CONTINUED:
+
+	That's all he has to say... O'Brien understands, nods and 
+	then EXITS...
+
+75   INT. HOLDING AREA
+
+
+	O'Brien ENTERS, slightly out of breath... Tosk looks up...
+
+					O'BRIEN
+			All right, I have a way out for you...
+
+					TOSK
+			A way... out.  Of here?
+				(meaning the cell)
+
+					O'BRIEN
+			Request asylum.
+
+					TOSK
+				(unclear)
+			Asylum.
+
+					O'BRIEN
+			Ask for the protection of the 
+			Federation.  Do you understand?  My 
+			Commander is willing to protect you.
+
+	Tosk looks disappointed... into O'Brien's eyes... don't you 
+	understand?  --
+
+					TOSK
+			Oh Brien.  I am Tosk.  I cannot hide 
+			here behind the protection of your 
+			Federation.  It is against everything 
+			I believe.
+
+					O'BRIEN
+			You'd rather go back and live in a 
+			cage on public display... ?
+
+					TOSK
+			To stay would be a greater dishonor.  
+			I am Tosk, the hunted.
+
+         DEEP SPACE: "Captive Pursuit" - 10/23/92 - ACT FOUR        42.
+
+75   CONTINUED:
+
+					TOSK
+			I live to outwit the hunters... for 
+			another day... to survive until I 
+			die with honor.
+				(beat)
+			Now that will not be my fate.  But I 
+			will not deny my existence as Tosk.  
+			Thank-you, Oh Brien but I cannot 
+			request... asylum.
+
+	On O'Brien's reaction...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT FIVE       43.
+                           ACT FIVE                             
+
+	FADE IN:
+
+76   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+77   INT. QUARK'S ESTABLISHMENT
+
+	O'Brien frustrated, moves into the bar... Quark moves over...
+
+					QUARK
+			So far, I'm not impressed with the 
+			tourist trade from the Gamma 
+			Quadrant... not one of them has bought 
+			a single drink...
+
+	Clearly in a lousy mood --
+
+					O'BRIEN
+			Shut up, Quark.
+
+	As he serves O'Brien an ale --
+
+					QUARK
+				(beat, a sympathetic 
+				shoulder)
+			More trouble with the little woman...
+
+	O'Brien reaches across the bar and grabs him by the lapels... 
+	pulls him against the bar...
+
+					O'BRIEN
+			What's that supposed to mean?
+
+					QUARK
+			Nothing... nothing... I just thought 
+			you might want to talk...
+
+					O'BRIEN
+			... there's nothing wrong between me 
+			and my wife and if there was, I sure 
+			as hell wouldn't talk about it to 
+			some barkeep...
+
+	O'Brien pushes him away with disdain...
+
+					QUARK
+			Sorry.  My mistake.
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT FIVE       44.
+
+77   CONTINUED:
+
+	Quark stays and studies O'Brien as he takes a drink... 
+	O'Brien glares at him.
+
+					O'BRIEN
+			What?
+
+					QUARK
+			Your face gets very pink when you're 
+			aggravated... much more so than most 
+			other hew-mans...
+
+					O'BRIEN
+			Then stop aggravating me!
+
+					QUARK
+			No... no... no... no... not me.  You 
+			came in the door this way.
+
+					O'BRIEN
+			Fine.  You're right.  I'm... 
+			aggravated.
+
+					QUARK
+				(pleased with himself)
+			I'm a keen observer of behavior.
+				(beat)
+			Want to talk about it?
+
+					O'BRIEN
+			No.
+
+					QUARK
+			Why not?
+
+					O'BRIEN
+			Because talking to you won't help 
+			anything.
+
+					QUARK
+			Try me.
+
+					O'BRIEN
+			Forget it.  It's just the rules of 
+			the game.
+
+					QUARK
+			Uh-huh.  Uh-huh.  Rules of the game.  
+			Go on.
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE       45.
+
+					O'BRIEN
+			It's a damn hunt, didja know that... 
+			they're chasing Tosk in a hunt... 
+			and everybody's playing by the 
+			rules... they're playing by their 
+			rules, we're playing by ours... and 
+			he gets caught in the middle...
+
+					QUARK
+				(has no idea what 
+				O'Brien is talking 
+				about)
+			Uh-huh.
+
+					O'BRIEN
+			Of course, I suppose when the Ferengi 
+			don't like the rules... they just 
+			change them...
+
+	O'Brien takes a swallow and the thought hits him as the ale 
+	hits his throat as Quark fumbles on...
+
+					QUARK
+			Well, rules... rules are always 
+			subject to inter--...
+
+					O'BRIEN
+				(interrupting)
+			Of course... change the rules... why 
+			didn't I think of that...
+
+	He plops the mug on the bar with an exclamation point...
+
+					O'BRIEN
+			Thanks, barkeep.
+
+	And EXITS... Quark looks after O'Brien a beat and then moves 
+	a few meters down the bar to another depressed customer...
+
+					QUARK
+			So what's bothering you today?
+
+	A quick beat and...
+
+78   INT. OPS
+
+	O'Brien is at his station... moving in on his face, hard 
+	with concentration...
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE      45A.
+
+79   MONITORS (OPTICAL)
+
+	Interior station designs... access tubes and conduits... 
+	passageways and corridors...
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE       46.
+
+80   ECU ON O'BRIEN'S FACE
+
+	he studies them, his mind working...
+
+					O'BRIEN
+			Computer, access power grid to 
+			security check point four on the 
+			Promenade...
+
+81   HIS HANDS
+
+	work the panels on his console...
+
+82   HIS EYES
+
+	concentrate...
+
+83   INT. SECURITY
+
+	As a neck manacle is snapped into place around Tosk's neck... 
+	connected to a metal tether... moving back to find Odo and 
+	the Hunter without his helmet on... but carrying his crossbow 
+	across his shoulder...
+
+					ODO
+			That isn't necessary.
+
+					THE HUNTER
+			Our ritual requires it when a Tosk 
+			is captured alive.
+
+	O'Brien ENTERS wearing a large phaser, Tosk looks up to see 
+	him...
+
+					ODO
+			All right... let's go...
+
+					O'BRIEN
+			I'll be escorting the prisoner to 
+			the transporter station.
+
+					ODO
+				(the hell you are)
+			This is a security matter...
+
+					O'BRIEN
+				(overriding)
+			This is a Starfleet matter.  Orders 
+			from Sisko.
+
+					ODO
+				(reacts)
+			We'll see about that.
+
+	And EXITS... the Hunter is bored with all of this --
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE       47.
+
+83   CONTINUED:
+
+					THE HUNTER
+			Do not trouble yourself.  My ship 
+			can transport us.
+
+					O'BRIEN
+			Nossir, that won't be necessary.  
+			Good relations with other cultures 
+			is our highest priority.  Commander 
+			Sisko wants to make sure you 
+			understand we're sorry we interfered 
+			with your hunt.  The least we can do 
+			is give you an official escort off 
+			the station... it's a token of 
+			goodwill and respect in our society...
+
+					THE HUNTER
+				(reacts, pleased)
+			Very well.
+
+	As they leave, O'Brien casually tosses his combadge on Odo's 
+	desk...
+
+84   INT. COMMANDER'S OFFICE
+
+	As Odo storms in...
+
+					ODO
+			Starfleet has no business taking 
+			charge of a prisoner transport...
+
+					SISKO
+			Calm down, Constable... what are you 
+			talking about...
+
+					ODO
+			I'm talking about your ordering 
+			O'Brien to escort Tosk off the 
+			station...
+
+					SISKO
+				(reacts)
+			I didn't give him any orders at all...
+
+	Now Odo reacts...
+
+					SISKO
+				(to combadge)
+			Sisko to O'Brien...
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT FIVE      47A.
+
+85   INT. SECURITY - CLOSE ON THE COMBADGE
+
+	on the desk...
+
+					SISKO'S COM VOICE
+			Mister O'Brien, 
+			report to Ops immediately.
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/28/92 - ACT FIVE       48.
+
+86   INT. PROMENADE
+
+	As the Hunter walks with customary pride with his Tosk at 
+	the end of the chain... the few people around glance oddly 
+	at him... O'Brien leads them to one of the exits...
+
+					O'BRIEN
+			This way...
+
+	And we may recognize the security check point with the 
+	screening device that O'Brien and Tosk went through earlier 
+	in the show just ahead...
+
+87   ANGLE ON THE HUNTER'S WEAPON
+
+	on his shoulder... and as O'Brien allows him to move through 
+	the screening device, this time there is...
+
+88   WIDER (OPTICAL)
+
+	A huge optical flash that we will assume O'Brien has 
+	programmed... that stuns them... The Hunter drops the chain.  
+	O'Brien, prepared, steadies himself, and then as The Hunter 
+	reacts, O'Brien swings a fist that connects with his jaw and 
+	he crumples down... the crossbow falling to his side...
+
+					O'BRIEN
+			Glass jaw.  Now, I know why you wear 
+			a helmet.
+
+	He stamps on the crossbow, smashing some component, then pushes 
+	Tosk toward a nearby staircase...
+
+					O'BRIEN
+			Up there!
+
+	As they run up the stairs...
+
+89   ANGLE ON THE HUNTER
+
+	dazed, rubbing his chin... hits his communicator...
+
+					THE HUNTER
+				(to com)
+			The hunt has resumed!
+
+	And he smiles as he gets back on his feet...
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE       49.
+
+90   INT. PROMENADE - SECOND FLOOR (OPTICAL)
+
+					O'BRIEN
+
+			C'mon... your ship is ready...
+
+	He leads Tosk ahead at a fast clip when one of the hunters 
+	MATERIALIZES in front of them, raising his weapon.  Before 
+	O'Brien has a chance to draw his phaser, Tosk does an 
+	incredible leap, several yards long, into the alien as the 
+	weapon discharges up in the sky and the alien falls over the 
+	railing...
+
+90A  LOW ANGLE
+
+	as the Alien falls to the first level of the Promenade with 
+	a thud...
+
+90B  RESUME SECOND LEVEL
+
+	as O'Brien and Tosk start to run down the path...
+
+91
+thru   OMITTED
+96
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE       50.
+
+97   INT. OPS
+
+	Kira moving to Sisko and Odo checking sensors at the Ops 
+	table... Dax at her station...
+
+					KIRA
+			Security reports a fight in the 
+			Promenade... apparently O'Brien set 
+			him loose...
+
+	Sisko frowns...
+
+					DAX
+				(reading sensors)
+			I'm showing someone in an access 
+			conduit above Quark's... two 
+			lifeforms... one's human...
+				(she exchanges a glance 
+				with Sisko, that 
+				means it's O'Brien 
+				and Tosk)
+			... they're heading out toward the 
+			docking ring...
+
+					ODO
+			I'll seal off the adjoining 
+			corridors... they won't get far...
+
+	Begins to move away...
+
+					SISKO
+			Constable...
+
+	A beat as Odo stops and turns back --
+
+					SISKO
+				(continuing)
+			There's no hurry.
+
+	Odo reacts and then just nods... Kira looks at Sisko who 
+	chooses not to make eye contact...
+
+98   INT. CARDASSIAN ACCESS TUBE (OPTICAL)
+
+	O'Brien and Tosk in the cramped area... out of breath... 
+	O'Brien takes a beat to fire his phaser at close range, 
+	freeing the neck manacle from Tosk's neck... Tosk looks at 
+	O'Brien with appreciation...
+
+					TOSK
+			You are Tosk as well now, Oh Brien...
+
+	O'Brien gives him a short grin as he leads the way, they 
+	begin to scramble forward... getting grimy and dirty as they 
+	go...
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/27/92 - ACT FIVE       51.
+
+98   CONTINUED:
+
+					O'BRIEN
+			The Cardies made these conduits out 
+			of two-meter thick duranium 
+			composite... I've never seen a 
+			scanning device that could penetrate 
+			it...
+
+	Suddenly, several yards directly ahead a huge charge explodes 
+	from above...
+
+					O'BRIEN
+			... until now.
+
+	They turn back to retreat, but another charge explodes at 
+	their rear... They scramble to their left into another leg 
+	of the tube, moving into a cube where they see a hatch 
+	below... they look down... begin to remove the hatch...
+
+99   INT. CORRIDOR NUMBER ONE
+
+	Another alien arrives on foot as Tosk drops down on him from 
+	the ceiling, followed immediately by O'Brien... the alien is 
+	dazed and drops his weapon and Tosk picks it up... as O'Brien 
+	scrambles to his feet and they run down the corridor and 
+	EXIT...
+
+100  INT. CORRIDOR NUMBER TWO (OPTICAL)
+
+	As they ENTER, out of breath... see a clear path to freedom...
+
+					O'BRIEN
+			C'mon, Tosk, just around that 
+			corner... and we're there...
+
+	But as they take their first jogs in that direction... three 
+	aliens including the lead alien, still without the helmet 
+	on, MATERIALIZE blocking their path... they all raise their 
+	crossbows, but the Hunter shakes them off... smiles slowly...
+
+					THE HUNTER
+			No.  He's mine.
+
+	He raises his weapon... and as we begin --
+
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT FIVE       52.
+
+101  SLOW MOTION - TOSK
+
+	pushes O'Brien out of the way hard...
+
+102  SLOW MOTION - THE HUNTER (OPTICAL)
+
+	fires.
+
+103  SLOW MOTION - TOSK
+
+	rolls away from O'Brien...
+
+104  SLOW MOTION - ANGLE PAST TOSK AND O'BRIEN (OPTICAL)
+
+	as the charge zips between them and explodes against the 
+	back door...
+
+105  SLOW MOTION - TOSK (OPTICAL)
+
+	rolls over, cocks and aims the crossbow in one fluid motion 
+	and fires...
+
+106  SLOW MOTION - THE HUNTER (OPTICAL)
+
+	by reflex, he raises his arm to try his shields but they 
+	aren't strong enough to repel his own weapon... he catches 
+	it full force and disappears in the white fire... the fading 
+	shock the last thing we see on his face... the other aliens 
+	are thrown to the side... and we END SLOW MOTION as...
+
+107  O'BRIEN AND TOSK
+
+	run through them easily now... O'Brien glancing with distaste 
+	at the remains of the Hunter... the dazed aliens on the 
+	floor...
+
+108  INT. TOSK'S SHIP
+
+	As they ENTER... Tosk turns to O'Brien...
+
+					O'BRIEN
+			What happens now?
+
+       DEEP SPACE: "Captive Pursuit" REV. 11/12/92 - ACT FIVE       53.
+
+108  CONTINUED:
+
+					TOSK
+				(shrugs with a smile)
+			The hunt goes on.
+
+	He moves to get into his seat... pauses as he has an 
+	additional thought --
+
+					TOSK
+			You wish to come?
+
+					O'BRIEN
+			No... no... I don't think so... one 
+			day as a Tosk is enough for me... 
+			and I have a wife and kid that 
+			wouldn't fit too well into this 
+			lifestyle...
+
+					TOSK
+			Will your Federation punish you for 
+			helping me?
+
+					O'BRIEN
+			Maybe.  But if I know my Commander...
+				(beat)
+			Hell, those guys wanted a hunt.  I 
+			just gave them one.
+
+	They exchange a smile.
+
+					O'BRIEN
+				(continuing)
+			Go on, you better get out of here 
+			while you can...
+
+	He gives him a male bonding shoulder hug...
+
+					TOSK
+				(a formal Tosk good-
+				bye)
+			Die with honor, Oh Brien.
+
+					O'BRIEN
+				(gets it)
+			Die with honor, Tosk.
+
+	As as Tosk turns back into his chair, O'Brien takes a last 
+	look at him and then EXITS...
+
+108A INT. COMMANDER'S OFFICE
+
+	O'Brien is sitting, taking his medicine... Sisko is standing 
+	looking out at Ops, not making eye contact...
+
+       DEEP SPACE: "Captive Pursuit" REV. 11/12/92 - ACT FIVE      53A.
+
+108A CONTINUED:
+
+					SISKO
+			Just what did happen at that security 
+			checkpoint, Chief...
+
+					O'BRIEN
+			The weapons' sensors must have 
+			overloaded on all his various gear, 
+			sir.
+
+					SISKO
+				(glances over now)
+			"Must have"?
+
+	A short glance between them... not more... O'Brien doesn't 
+	hesitate further to coming clean...
+
+					O'BRIEN
+			Yessir.  They must have... since... 
+			I increased their output by about 
+			two hundred percent...
+
+					SISKO
+			So... in effect you assaulted him...
+				(they exchange a look)
+			Our first contact with a new species.
+
+					O'BRIEN
+			Yessir.
+
+					SISKO
+				(angry)
+			We've got dozens of top level 
+			officials back at Starfleet Command, 
+			eagerly waiting to hear about our 
+			encounter with the first new lifeforms 
+			to come through the wormhole... how 
+			do you suggest I write up this report?
+
+					O'BRIEN
+			Well, sir... I'm not one to say.  
+			But you know, these... hunters weren't 
+			any happier than we were about having 
+			to bring Tosk home... and it seems 
+			in the interests of mutual 
+			understanding and future relations...
+
+					SISKO
+			Save it.
+
+	A beat.
+
+       DEEP SPACE: "Captive Pursuit" REV. 10/23/92 - ACT FIVE      53B.
+108A CONTINUED:	(2)
+
+					SISKO
+				(continuing)
+			You ignored your duty to Starfleet... 
+			you took off your combadge so you 
+			could ignore me... you even ignored 
+			the Prime Directive by interfering 
+			in their damned hunt.  Another stunt 
+			like this and your wife won't have 
+			to complain about the conditions 
+			here anymore.  Do I make myself clear?
+
+					O'BRIEN
+			I understand.
+
+	Sisko nods... the conversation is over.  O'Brien rises, 
+	pauses, curious...
+
+					O'BRIEN
+			I was surprised by one thing, sir.
+
+					SISKO
+			What's that?
+
+					O'BRIEN
+			I knew I couldn't override all the 
+			security seals on the station.. I 
+			figured once you and the Constable 
+			located us... well, that it would be 
+			over... we'd find ourselves locked 
+			behind a forcefield somewhere...
+
+					SISKO
+				(poker-faced)
+			I guess that one got by us.
+
+					O'BRIEN
+			Yessir.
+				(beat)
+			Thank-you, sir.
+
+					SISKO
+			Dismissed.
+
+	O'Brien EXITS and we linger on Sisko a moment until...
+
+109  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+									FADE OUT.
+
+                            THE END                             
+

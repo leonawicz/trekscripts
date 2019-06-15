@@ -1,0 +1,3312 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                         "Inquisition" 
+                          #40510-542 
+                              
+                          Written by 
+                Bradley Thompson & David Weddle 
+                              
+                          Directed by 
+                         Michael Dorn 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        January 14, 1998
+
+       STAR TREK: DS9 - "Inquisition" - 01/14/98 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Inquisition" 
+                             CAST 
+
+          SISKO                    WEYOUN
+          KIRA                     SLOAN
+          ODO                      RUSSELL
+          BASHIR                   KAGAN
+          DAX                      
+          WORF                     
+          QUARK                    
+          O'BRIEN                  
+          COMPUTER VOICE           
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+       STAR TREK: DS9 - "Inquisition" - 01/14/98 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Inquisition" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          BASHIR'S QUARTERS/            
+          BEDROOM                       
+          CAPTAIN'S OFFICE              
+          HABITAT RING CORRIDOR         
+          HOLDING CELLS                 
+          INFIRMARY                     
+          OPS                           
+          PROMENADE                     
+          SECURITY OFFICE               
+          WARDROOM                      
+
+        DEFIANT                       
+          BRIDGE                        
+          TRANSPORTER ROOM              
+
+        FEDERATION HOLOGRID           
+
+        CARDASSIAN SHIP               
+          GUEST QUARTERS                
+
+         DS9 - "Inquisition" -01/14/98- PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                         "Inquisition" 
+                      PRONUNCIATION GUIDE 
+
+
+          BANDEE                   ban-DEE
+          BOPAK                    BOH-pahk
+          CASPERIA                 kas-PEAR-ee-uh
+          KETRACEL                 KET-ruh-cell
+          MARTOK                   MAR-tok
+          TAL SHIAR                TAL she-ARE
+          MOBA                     MOW-buh
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                            "Inquisition"                              
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. INFIRMARY
+
+	where we find a harried BASHIR finishing up some work 
+	at his console. He works the controls for a beat, then 
+	picks up a PADD.
+
+					BASHIR
+			Computer, download file to PADD...
+				(checking its serial 
+				number) 
+			F-seven.
+
+	We hear the SOUND of the computer initiating the 
+	download.
+
+					COMPUTER VOICE 
+			Download complete.
+
+	Just as Bashir grabs another two PADDS and prepares to 
+	leave, a VOICE from the doorway --
+
+					ODO'S VOICE 
+			You're up late.
+
+2    NEW ANGLE
+
+	to reveal ODO standing in the doorway. Outside, we can 
+	see the relatively quiet Promenade.
+
+					BASHIR
+				(nods a greeting) 
+			I have a few things to finish up 
+			before I leave in the morning.
+
+	Odo gives him a curious look, and Bashir holds up the
+	PADD to explain --
+
+					BASHIR 
+			I'm presenting a paper at a 
+			medical conference.
+
+					ODO 
+			I see. Where is it? Risa, 
+			Casperia Prime?
+
+					BASHIR 
+			Casperia. How'd you guess?
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        2.
+
+2    CONTINUED:
+
+					ODO 
+			Doctors always hold their 
+			conferences at sunny resorts.
+
+					BASHIR
+				(smiles) 
+			Ours can be a grim profession. 
+			Don't you think we deserve a break 
+			from all the illness and death?
+
+	Odo gives him a skeptical look --
+
+					ODO 
+			Don't forget to bring plenty of 
+			sunscreen.
+
+	As Odo turns away, we reveal a sheepish looking O'BRIEN 
+	standing in the doorway. He's wearing his kayaking 
+	WETSUIT and nursing an injured right shoulder.
+
+					ODO 
+			Let me guess. You dislocated your 
+			shoulder.
+
+	An embarrassed O'Brien nods, and Odo rolls his eyes 
+	before EXITING. O'Brien gives Bashir a beseeching 
+	look.
+
+					BASHIR 
+			Not again.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        3.
+
+2    CONTINUED:	(2)
+
+	Bashir leads O'Brien over to the bio-bed. As he scans 
+	him with a TRICORDER --
+
+					BASHIR
+				(scolding him) 
+			You promised me you wouldn't go 
+			kayaking again until your shoulder 
+			had a chance to heal.
+
+					O'BRIEN
+				(chastened) 
+			I know. But I can't stay away.
+				(trying to explain 
+				himself) 
+			It's like the river calls to me.
+
+					BASHIR 
+			That's right. It's saying, "Stay 
+			away. Don't come near me. I'll 
+			only hurt you more!"
+
+	Before O'Brien can protest, Bashir wrenches his 
+	shoulder back into place -- we hear a POPPING SOUND and 
+	O'Brien lets out a howl of pain. A moment, then he 
+	lets out a relieved breath and gingerly tests his 
+	shoulder.
+
+					O'BRIEN 
+			Much better.
+
+	Bashir gives him a HYPO to the shoulder --
+
+					BASHIR 
+			It'll be tender for a few days so 
+			go easy on it.
+
+					O'BRIEN 
+			Right.
+
+	Bashir starts getting his things together so he can 
+	leave --
+
+					BASHIR 
+			If the pain starts to get any 
+			worse, Nurse Bandee can give you 
+			something.
+
+					O'BRIEN 
+			Thanks, Julian. Have a good time 
+			on Casperia.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        4.
+
+2    CONTINUED:	(3)
+
+					BASHIR 
+			I'm going to a medical conference, 
+			not on a vacation.
+
+					O'BRIEN
+			Whatever you say.
+
+					BASHIR
+				(at the door) 
+			Remember -- listen to the river... 
+			and stay away.
+
+	And with that, Bashir EXITS. Off O'Brien as he tests 
+	the pain in his shoulder... to his relief, he can use 
+	his arm fairly normally...
+
+3    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+4    OMITTED
+
+4A   INT. BASHIR'S BEDROOM
+
+	Bashir is asleep in bed when the Computer wakes him.
+
+					COMPUTER VOICE 
+			The time is oh-seven hundred hours.
+
+	Bashir groans, rolls over and opens his eyes. He idly 
+	scratches behind his right ear. (NOTE: This seemingly 
+	innocent gesture will eventually pay off in Act Five.)
+
+	His eyes are bleary and he feels as if he just fell asleep.
+
+					BASHIR
+				(unable to believe it) 
+			You're joking. Computer, 
+			confirm time.
+
+					COMPUTER VOICE 
+			The time is oh-seven-hundred 
+			hours, twenty-three seconds.
+
+	Bashir swings himself to a sitting position and yawns. 
+	Then he shakes his head, trying to clear it.
+
+					BASHIR 
+			Something tells me I'm going to 
+			need a lot of raktajino today.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER       4A.
+
+5    INT. BASHIR'S QUARTERS
+
+	as he ENTERS from the bedroom, now in uniform. He 
+	crosses to an open SUITCASE on the couch, tosses in a 
+	few last-minute items. He shuts the case, glances at 
+	his STUFFED BEAR, which is sitting on a nearby shelf.
+
+					BASHIR
+			See you in a few days, old chum.
+			Keep the home fires burning.
+
+	A COM VOICE interrupts --
+
+					COM VOICE
+			Attention, senior officers.
+			Report to Operations immediately.
+
+	Bashir sighs, a bit annoyed --
+
+					BASHIR
+			What now?
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        5.
+
+5    CONTINUED:
+
+	He grabs his case and heads for the door --
+
+6    INT. OPS
+
+	as the turbolift RISES into view carrying Bashir. He 
+	sees WORF, KIRA, DAX, O'Brien and Odo standing down by 
+	the Ops table. Armed N.D. STARFLEET INTERNAL AFFAIRS 
+	OFFICERS are at various consoles, downloading information.
+
+					BASHIR
+				(stifling a yawn)
+			This better be quick. I have a
+			transport to catch.
+
+	His demeanor changes when he sees the serious looks on 
+	the faces of his friends. His tiredness forgotten, he 
+	glances around and sees other INTERNAL AFFAIRS GUARDS 
+	stationed at strategic locations around Ops, HAND 
+	PHASERS strapped to their sides. (NOTE: Bashir's yawn 
+	and initial tiredness will pay off in Act Five, but 
+	from this point on, the seriousness of his situation 
+	will cause him to forget his fatigue.)
+
+	There's a definite tension in the room. Bashir moves 
+	to O'Brien's side, leans in close.
+
+					BASHIR
+			What's going on?
+
+					O'BRIEN
+			Internal Affairs.
+
+					BASHIR
+			What are they doing here?
+
+					O'BRIEN
+			They're not saying.
+
+					DAX
+				(trying to lighten the 
+				mood)
+			If they'd called ahead, we
+			could've thrown them a party.
+
+	Kira scans the sober faces of the guards --
+
+					KIRA
+			Something tells me this isn't a
+			social visit.
+
+					WORF
+			Where is the captain?
+
+					ODO
+				(motioning to Sisko's 
+				Office)
+			In there.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        6.
+
+7    NEW ANGLE 
+
+	Through the door, our people can see a grim SISKO 
+	having a discussion with the head of the security team, 
+	Deputy Director SLOAN. Sloan cuts an impressive figure -- 
+	he carries himself with the confidence of a man who 
+	know what he wants and how to get it.
+
+					BASHIR
+			He doesn't look very happy.
+
+					ODO 
+				(grim) 
+			No. He doesn't.
+
+	As the senior staff watches, Sisko seems to acquiesce 
+	to some request of Sloan's. He motions toward the 
+	door, and follows Sloan out into Ops. A beat as our 
+	people wait to hear what he has to say.
+
+					SISKO 
+			All right, people. This is Deputy 
+			Director Sloan of Internal 
+			Affairs. He's here under the 
+			authority of the Federation 
+			Council. I expect you to give him 
+			your full cooperation.
+
+	Sloan steps forward. As he speaks, his eyes search the 
+	faces of the entire senior staff.
+
+					SLOAN 
+			Starfleet Intelligence has reason 
+			to believe that there's been a 
+			security breach aboard Deep Space 
+			Nine.
+
+	He lets this statement sink in for a beat before 
+	continuing.
+
+					SLOAN 
+			It appears that someone has been 
+			passing information to the 
+			Dominion.
+
+	Our people can't believe what they're hearing -- Dax is 
+	the first to object to this allegation.
+
+					DAX 
+			With all due respect, I think 
+			there's been some kind of mistake.
+
+					SLOAN 
+			I hope you're right, commander. 
+			I really do.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER       6A.
+
+7    CONTINUED:
+
+					SLOAN (Cont'd) 
+			But until we determine the source, 
+			we have to follow standard 
+			containment procedures and isolate 
+			the members of the senior staff.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        7.
+
+7CONTINUED:	(2)
+
+	We can see that Sloan means this. He doesn't like 
+	accusing Starfleet officers of treason, but at the same
+	time, he's determined to get to the bottom of this.
+
+					SISKO 
+			As of now, you're all relieved of 
+			duty and confined to quarters.
+
+					KIRA
+				(incredulous) 
+			Confined to quarters?
+
+					SISKO
+			I don't like it any more than you do.
+
+	Our people exchange looks, but what can they do?
+
+					SLOAN 
+			You'll be contacted shortly. I'll 
+			be conducting interviews with each 
+			one of you. For the time being, 
+			you're not to discuss this matter 
+			amongst yourselves.
+				(beat) 
+			Any questions?
+
+	After a beat, Bashir asks --
+
+					BASHIR 
+			Do you have any idea how long your 
+			investigation is going to take?
+
+					SLOAN 
+			It's difficult to say, doctor. 
+			But don't worry, we've already 
+			contacted Starfleet Medical and 
+			informed them that you won't be 
+			attending your conference.
+
+	Bashir and the others react -- this guy seems to know 
+	a lot about them already.
+
+					BASHIR
+				(dry) 
+			How very considerate of you.
+
+	If Sloan catches Bashir's tone, he doesn't seem to 
+	care. He turns and nods to his Security forces --
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - TEASER        8.
+
+7    CONTINUED:	(3)
+
+					SLOAN
+			Take them to their quarters.
+
+	Lieutenant KAGAN, a young male, and Lieutenant 
+	CHANDLER, a stoic female -- step down to escort our 
+	people. They're professionals with a job to do and no 
+	hard feelings. Lieutenant Chandler approaches Bashir.
+
+					CHANDLER
+			Would you follow me, please.
+
+	Our people exchange last looks, then break away to 
+	follow their escorts. Off the unsettling image of our 
+	heroes being led away by armed guards, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE       9.
+                            ACT ONE                             
+
+	FADE IN:
+
+
+	(NOTE: Episode credits fall over opening scene
+
+8    INT. BASHIR'S QUARTERS
+
+	Bashir is pacing back and forth, mulling over what 
+	happened in Ops. He knows in his heart that Starfleet
+	Intelligence is wrong in its suspicions, and he's 
+	frustrated that a pointless investigation ruined his 
+	trip to Casperia. Finally, he stops pacing and crosses 
+	to the REPLICATOR, intent on getting something to eat.
+
+					BASHIR 
+			Hot buttered scones, moba jam and 
+			red leaf tea.
+
+ 9   THE REPLICATOR
+
+	fails to respond. Bashir gives it a light bang with 
+	his hand. Nothing happens.
+
+					BASHIR
+			What's wrong with this thing?
+
+	He lets out an irritated breath, glances around for 
+	something to occupy his time. His eyes settle on his 
+	SUITCASE and he decides to unpack. He takes the case 
+	to a table, opens it, and starts to remove its 
+	contents. First he removes a STYLUS, which he sets on 
+	the table, then he withdraws the three PADDS he packed 
+	earlier. As he sets them down next to the stylus, he
+	inadvertently knocks it --
+
+10   TO THE FLOOR 
+
+	As he bends to look for the stylus the door CHIMES, and 
+	he decides to retrieve the implement later.
+
+					BASHIR 
+			Come in.
+
+	The door OPENS to reveal Lieutenant Chandler. Her 
+	weapon is slung.
+
+					CHANDLER 
+			Would you please come with me, 
+			doctor?
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      10.
+
+10   CONTINUED:
+
+					BASHIR
+			Certainly.
+
+11   INT. HABITAT RING CORRIDOR
+
+	as Chandler and Bashir ENTER and start down the 
+	corridor.
+
+					BASHIR
+			Where are we going?
+
+					CHANDLER
+			To the wardroom. Director Sloan
+			wants to ask you some questions.
+
+	They round a corner, and suddenly, from the 
+	intersecting corridor, comes the SOUND of rushing 
+	FOOTSTEPS.
+
+					STARFLEET SECURITY VOICE (O.S.)
+			Stand clear --
+
+	Chandler grabs Bashir by the shoulder and shoves him 
+	over to the wall, clearing the path for --
+
+12   THREE STARFLEET INTELLIGENCE GUARDS
+
+	who run past with RIFLES at the ready. Bashir watches 
+	them hustle down the corridor and around a corner, out 
+	of sight.
+
+					BASHIR
+			What's going on?
+
+					CHANDLER
+			Nothing you need to worry about,
+			sir.
+
+	Bashir finds her explanation less than satisfactory, 
+	but clearly she intends to say no more.
+
+					CHANDLER
+			This way.
+
+	With a last glance down the corridor through which the 
+	guards disappeared, Bashir starts away, his features 
+	troubled.
+
+13   INT. WARDROOM
+
+	as the door OPENS and Chandler escorts Bashir into the 
+	room.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      11.
+
+13   CONTINUED: 
+
+	Sloan is seated at the table studying one of an 
+	assortment of PADDS arrayed within his reach. He looks 
+	up and nods to Chandler, who EXITS.
+
+
+	Sloan studies Bashir for a beat, then sets down his 
+	PADD and rises. Sloan has his jacket open and looks 
+	much more relaxed than in his previous scene. He 
+	approaches Bashir and extends his hand.
+
+					SLOAN
+			Doctor Bashir.
+
+	Bashir shakes the offered hand. Sloan is all smiles 
+	and hospitality. He's sizing Bashir up as a suspect, 
+	but hides his real agenda behind an affable facade. 
+	Only later will we discover the real motivations behind 
+	his innocuous questions and remarks.
+
+					SLOAN 
+			Have a seat.
+
+	Bashir seats himself in the indicated chair.
+
+					SLOAN 
+			I'm sorry you had to miss your
+			medical conference, but it 
+			couldn't be helped. In a case 
+			like this, I have to follow strict 
+			procedures.
+
+	Bashir's surprised by Sloan's warm and casual manner 
+	and it throws him a little off balance.
+
+					BASHIR
+			Of course. I understand.
+
+					SLOAN
+				(returns to his seat) 
+			Maybe it's a blessing in disguise.
+				(a wry smile) 
+			The last time you tried to attend 
+			a medical conference you were 
+			taken prisoner by the Dominion.
+
+					BASHIR
+				(nods) 
+			An experience I wouldn't care to 
+			repeat.
+
+					SLOAN 
+			I'm sure you wouldn't. Five weeks 
+			in a Dominion prison camp -- I 
+			can't imagine what it must've been 
+			like.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      12.
+
+13   CONTINUED:	(2)
+
+					BASHIR 
+			It wasn't pleasant.
+
+					SLOAN 
+			I read your report.
+				(with a hint of 
+				admiration for Bashir's 
+				fortitude) 
+			It made me ask myself how I 
+			would've held up under those 
+			conditions. I guess you never 
+			really know until you go through 
+			it.
+
+					BASHIR 
+			I'm sure you would've found a way 
+			to cope. We do what we have to to 
+			survive.
+
+	Sloan smiles as if in agreement and picks up a PADD.
+
+					SLOAN 
+			I was just reading some of your 
+			case reports. Fascinating stuff. 
+			The work you did with those 
+			genetically enhanced patients? 
+			Very impressive.
+
+	Sloan's manner is such that Bashir finds himself 
+	starting to relax in his presence --
+
+					BASHIR
+			Thank you.
+
+					SLOAN
+				(smiles) 
+			Before you started working with 
+			them, they were described by 
+			Starfleet Medical as --
+				(checking PADD)
+			-- "alienated, uncommunicative,
+			and hostile." You're the first
+			doctor who managed to establish a
+			dialogue with them.
+
+					BASHIR 
+			Well, I think the fact that I'm 
+			genetically enhanced myself made 
+			them more open to accepting me.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      13.
+
+13   CONTINUED:	(3)
+
+					SLOAN
+				(enthusiastically) 
+			You spoke their language.
+
+					BASHIR
+			Exactly.
+
+					SLOAN
+			I envy your profession. You make 
+			a positive impact on people's 
+			lives.
+				(almost rueful) 
+			You know, I considered becoming a 
+			doctor myself.
+
+					BASHIR
+			You have a good bedside manner.
+				(off Sloan's look) 
+			When I walked in here, I was half 
+			expecting to be interrogated under 
+			a bright light.
+
+					SLOAN
+				(laughs) 
+			Not this time.
+
+	They share a smile. With a last glance at a PADD,
+	Sloan sits back.
+
+					SLOAN 
+			Well, I don't see a need to 
+			trouble you any longer. Thank you 
+			for your cooperation.
+
+					BASHIR
+			My pleasure.
+
+	Without alerting Bashir, Sloan activates a control that 
+	OPENS the door behind the Doctor.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      14.
+
+13   CONTINUED:	(4) 
+
+	Bashir stands and turns to discover Lieutenant Chandler 
+	waiting in the doorway for him.
+
+					SLOAN 
+			Lieutenant Chandler will take you 
+			back to your quarters. I'm afraid 
+			I'm going to have to ask you to 
+			stay there until I've finished the 
+			rest of the interviews.
+
+					BASHIR 
+			In that case, could you send 
+			someone to have a look at my 
+			Replicator? It isn't working.
+
+					SLOAN 
+			Actually, we took them off-line.
+
+					BASHIR
+				(surprised) 
+			Oh?
+
+					SLOAN 
+			To prevent anyone from trying to 
+			replicate a communications device 
+			or a weapon.
+
+	This strikes Bashir as a bit much, but he decides not 
+	to say anything.
+
+					BASHIR
+			All I want is some breakfast.
+
+					SLOAN
+				(picking up a STYLUS) 
+			What would you like? I'll have it 
+			sent to your quarters right away.
+
+					BASHIR 
+			Hot buttered scones, moba jam and 
+			red leaf tea.
+
+	Sloan jots this down and smiles, playing the waiter --
+
+					SLOAN 
+			Coming right up.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      15.
+
+13   CONTINUED:	(5)
+
+					BASHIR
+			Thank you.
+
+	Bashir turns and heads for the door. Just as he 
+	reaches it, Sloan calls him back.
+
+					SLOAN
+			Doctor. One more thing.
+
+					BASHIR
+			Yes.
+
+					SLOAN
+			About those genetically enhanced
+			patients of yours. Did Starfleet
+			Medical ask you to work with them,
+			or did you volunteer?
+
+					BASHIR
+			I volunteered.
+
+	Bashir isn't sure why this is important, but Sloan 
+	notes it on his PADD.
+
+					SLOAN
+			I see, very good.
+
+	Bashir nods, and EXITS to join Chandler.
+
+14   INT. BASHIR'S QUARTERS
+
+	where Bashir is sitting on the couch with his feet 
+	propped up, waiting for his breakfast. After a beat, 
+	the door CHIMES.
+
+					BASHIR
+			Yes.
+
+	The door OPENS to reveal Lieutenant Kagan carrying a 
+	TRAY of food.
+
+					KAGAN
+			Here you are, sir.
+
+					BASHIR
+			Thank God. I'm famished.
+
+	Bashir stands and takes the tray from Kagan.
+
+					BASHIR 
+				(thanks)
+			Cheers.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE     15A.
+
+14   CONTINUED:
+
+					KAGAN 
+			Enjoy.
+
+	Kagan EXITS. Bashir takes the tray and sets it on his 
+	coffee table. He unfolds his napkin, then lifts the 
+	COVER off the plate with relish. But instead of the 
+	breakfast he ordered, he's been given --
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      16.
+
+15   A PLATE OF LIVE GAG'H
+
+	A startled Bashir recoils from the UNDULATING 
+	TENTACLES, quickly closes the cover over them.
+
+					BASHIR
+			Ugh. It's a little too early for
+			gag'h.
+
+	He picks up a small NAME CARD sitting on the tray, sees -
+
+16   WORF'S NAME
+
+	printed there, and realizes they made a mistake.
+
+					BASHIR
+				(annoyed)
+			I hope you like scones, Worf...
+
+	Disappointed to not have anything to eat, Bashir 
+	decides to get some work done. He crosses to the table 
+	to get his PADDS, but to his surprise, they're not on 
+	the table where he left them. Puzzled, he looks around 
+	until he sees his open --
+
+17   SUITCASE
+
+	There, sitting atop his still folded clothes, are the 
+	three PADDS. That's odd, he distinctly remembers 
+	setting them on the table. In fact, he remembers 
+	accidently knocking the stylus off the table when he 
+	removed them. He looks under the table, and sure 
+	enough --
+
+18   THE STYLUS 
+
+	is sitting on the floor where it dropped. He picks it 
+	up, a troubled look coming across his face as he 
+	realizes someone was in his quarters while he was gone.
+
+	He scans the room to see if anything else looks out of 
+	place. The CHAIR -- wasn't it facing the desk? The 
+	coffee MUG he drank from before he was called to Ops -- 
+	wasn't it a few inches closer to the edge of the table? 
+	His STUFFED BEAR -- wasn't it sitting a little more 
+	slumped when he saw it last?
+
+	Bashir barely has time to assimilate the fact that his 
+	quarters were searched when his COM-UNIT BEEPS. He 
+	crosses to the MONITOR, activates it.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE      17.
+
+19   O'BRIEN (OPTICAL)
+
+	appears on the screen, his anxious features 
+	periodically FRITZED with static.
+
+					BASHIR 
+			Miles? Sloan said we aren't 
+			supposed to talk to each other.
+
+					O'BRIEN
+			I just wanted to make sure you 
+			were all right.
+
+					BASHIR
+			I'm fine. Except I think 
+			someone's been snooping around my 
+			quarters.
+
+					O'BRIEN
+			Wouldn't surprise me. Has Sloan 
+			questioned you yet?
+
+					BASHIR
+			We just finished.
+
+					O'BRIEN
+			How did it go?
+
+					BASHIR 
+				(shrugs) 
+			He asked me a few routine 
+			questions. It went fine.
+
+					O'BRIEN
+			Believe me, it's not fine. He 
+			grilled me for over two hours.
+
+					BASHIR 
+			Two hours? About what?
+
+					O'BRIEN 
+			About you.
+
+					BASHIR
+			You're joking.
+
+   DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT ONE 18-19.      
+
+19   CONTINUED:
+
+					O'BRIEN 
+			I only wish I were. But every 
+			single question was about you.
+
+	Bashir is taken completely off guard by this --
+
+					O'BRIEN
+				(reaching for the control) 
+			I'd better go before they trace 
+			this transmission. I just wanted 
+			to warn you to watch your back.
+
+					BASHIR 
+			Miles, wait. What did he want to 
+			know about me?
+
+					O'BRIEN
+			Just be careful. I think they're --
+
+	The image FRITZES off as the communication is broken. 
+	Bashir stares at the empty screen for a moment, too 
+	stunned to move. The DOOR CHIMES. He turns toward it, 
+	not sure what to expect.
+
+					BASHIR 
+			Come in.
+
+	The door OPENS to reveal Lieutenants Chandler and 
+	Kagan.
+
+					CHANDLER 
+			Director Sloan wants to see you.
+
+					BASHIR 
+			Again?
+
+					KAGAN
+				(all business) 
+			That's right.
+
+	Considering O'Brien's warning, this is ominous indeed.
+
+	Off this moment...
+
+20   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      20.
+                            ACT TWO                             
+
+	FADE IN:
+
+21   INT. WARDROOM 
+
+	as Chandler and Kagan escort Bashir into the room. 
+	Sloan is at the replicator, withdrawing a CUP of 
+	coffee, his jacket now closed -- the picture of a spit-
+	and-polish officer. He ignores Bashir's entrance. In 
+	a maneuver that the internal affairs team has practiced 
+	to well-oiled perfection, Chandler guides the doctor to 
+	a chair while Kagan takes a position near the wall 
+	behind him. The second everyone has settled in place, 
+	Sloan turns to face Bashir.
+
+					SLOAN 
+			Did you get your breakfast, 
+			doctor?
+
+	Sloan comes to a stop on the opposite side of the table 
+	and smiles expectantly at Bashir. Bashir senses Sloan 
+	is waiting for him to complain about the gag'h, and 
+	refuses to give him the satisfaction.
+
+						BASHIR 
+			Yes, I did.
+
+	Sloan studies him for another beat, then nods.
+
+					SLOAN 
+			Good.
+
+	Sloan sits down on the edge of the Wardroom table, 
+	effectively maintaining a dominant position relative to 
+	the seated Bashir. He picks up one of the many PADDS 
+	arrayed on the table and studies it while sipping his 
+	coffee.
+
+					SLOAN 
+			I was going over my notes from our 
+			last conversation and there are a 
+			few things I'd like you to 
+			clarify.
+
+					BASHIR
+			Oh?
+
+					SLOAN 
+			Do you have a problem with that?
+
+					BASHIR
+			Not at all.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      21.
+
+21   CONTINUED:
+
+					SLOAN 
+			Let's go back to the time you 
+			spent with the Dominion.
+
+					BASHIR
+			I wasn't "with the Dominion." I 
+			was their prisoner.
+
+	Sloan almost seems to enjoy Bashir's edginess.
+
+					SLOAN 
+			You were held at Internment Camp 
+			Three-Seven-One?
+
+					BASHIR 
+			Yes.
+
+					SLOAN 
+			Barracks Six?
+
+					BASHIR 
+			Correct.
+
+					SLOAN 
+			And you were there five weeks?
+
+					BASHIR
+			Thirty-seven days, actually.
+
+					SLOAN 
+			Are you absolutely sure?
+
+					BASHIR 
+			Yes.
+
+					SLOAN
+				(reads PADD) 
+			And General Martok was with you in 
+			Barracks Six?
+
+					BASHIR 
+			That's right.
+
+					SLOAN
+				(picks up another PADD) 
+			He said that the Jem'Hadar removed 
+			you from the barracks.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      22.
+
+21   CONTINUED:	(2)
+
+					BASHIR 
+			I complained because they cut our 
+			rations, so they put me in 
+			solitary confinement.
+
+					SLOAN
+				(making notations) 
+			I see, and did you meet with 
+			anyone during that week?
+
+					BASHIR 
+			I was alone.
+
+					SLOAN 
+			Are you sure?
+
+					BASHIR
+				(can't resist) 
+			Let me think. Was I alone in 
+			solitary? Yes. I think I was.
+
+	Sloan doesn't give him the satisfaction of responding 
+	to his sarcasm --
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      23.
+
+21   CONTINUED:	(3)
+
+					SLOAN 
+			You didn't meet with a Vorta?
+
+					BASHIR
+			No.
+
+					SLOAN 
+			Or a changeling?
+
+					BASHIR
+			No.
+
+					SLOAN 
+			So, you're telling me that you 
+			spent seven days in complete 
+			isolation?
+
+					BASHIR
+			Not seven. Five. Five days.
+
+					SLOAN
+				(frowns) 
+			That's odd. General Martok said 
+			you were gone for seven days.
+
+					BASHIR
+			Well, he's wrong. It was five.
+
+					SLOAN 
+			Why would he lie about something 
+			like that?
+
+					BASHIR
+			He's not lying.
+
+					SLOAN 
+			You can't both be right.
+
+					BASHIR
+			All I'm saying is that he must've 
+			lost count of the days. He was 
+			under a lot of stress at the time.
+
+					SLOAN 
+			And you weren't?
+
+	Bashir's trapped by his need to explain himself.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      24.
+
+21   CONTINUED:	(4)
+
+					BASHIR 
+			Human beings tend to be better at 
+			adapting to incarceration than 
+			Klingons.
+
+					SLOAN
+				(icy smile) 
+			Especially if they're genetically 
+			engineered.
+
+					BASHIR
+			Meaning what?
+
+	Sloan isn't about to let Bashir ask him questions -- he
+	picks up another PADD, presses on.
+
+					SLOAN 
+			Let's move on to the matter of 
+			your escape from the camp. I'll 
+			quote from your own report.
+				(reads from the PADD) 
+			"We constructed a transmitter 
+			using components from the 
+			barracks' life-support system. We 
+			used it to contact our runabout 
+			and beam ourselves out of the 
+			camp."
+				(sets the PADD down) 
+			Forgive me, doctor, but that 
+			sounds a little hard to believe.
+
+					BASHIR
+			It's what happened.
+
+					SLOAN
+				(approaching him) 
+			Why would the Dominion leave your 
+			runabout orbiting the camp 
+			unattended?
+
+					BASHIR
+			They didn't expect us to be able 
+			to contact it.
+
+					SLOAN 
+			Why not? They left you everything 
+			you needed to build a transmitter.
+
+	Bashir tenses. In this context, their escape does 
+	sound farfetched.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      25.
+
+21   CONTINUED:	(5)
+
+					SLOAN 
+			Isn't it more plausible that the 
+			Dominion wanted you to escape?
+
+					BASHIR
+			Why? For what reason?
+
+	Sloan's now behind Bashir, leaning over his shoulder as 
+	he speaks.
+
+					SLOAN 
+			So that you could start working 
+			for them.
+
+					BASHIR
+			I'm not working for them.
+
+					SLOAN 
+			How can you be sure?
+
+	This is such an odd question that it stops Bashir in 
+	his tracks --
+
+					BASHIR 
+			Excuse me?
+
+	But Sloan just repeats himself, more slowly this time, 
+	as if this were a perfectly reasonable question.
+
+					SLOAN 
+			How can you be sure that you're 
+			not working for them? Are you 
+			familiar with the term engramatic 
+			dissociation?
+
+					BASHIR
+			Vaguely.
+
+					SLOAN 
+			The theory holds that if a 
+			person's mind is sufficiently 
+			disciplined, he'd be capable of 
+			compartmentalizing contradictory 
+			information -- believing one thing 
+			while doing another.
+
+	Sloan starts to hammer home his case --
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      26.
+
+21   CONTINUED:	(6)
+
+					SLOAN 
+			I think you possess that kind of 
+			mind. I think the Dominion saw
+			that and decided to take advantage 
+			of it. I think they broke you and 
+			turned you to their cause, then 
+			had you suppress the memory of 
+			what happened.
+
+					BASHIR
+				(incredulous) 
+			You're saying I'm a Dominion spy 
+			and I don't even know it?
+
+					SLOAN 
+			What could be more perfect? 
+			There's no chance of your getting 
+			caught because you don't even 
+			realize you're working for them. 
+			When they're ready to debrief you, 
+			all they have to do is trigger 
+			your memory.
+
+	Bashir's realizes that Sloan has woven an elaborate web 
+	of circumstantial evidence around him.
+
+					BASHIR
+			That's ridiculous.
+
+	Sloan can see that he's knocked the wind out of his 
+	suspect and he switches smoothly to a softer tone.
+
+					SLOAN 
+			Doctor, I'm trying to help you, 
+			but I need your cooperation. I 
+			need you to tear down the walls 
+			inside your mind and dredge up a 
+			fragment of memory -- anything 
+			about your mission, your contacts. 
+			I know it's not easy, but you've 
+			got to try.
+
+					BASHIR
+			There are no memories to dredge 
+			up. I am not suffering from 
+			engramatic dissociation. I am a 
+			loyal Starfleet Officer, and I am 
+			not going to answer any more 
+			questions unless I'm formally 
+			charged and can respond with the 
+			benefit of counsel.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      27.
+
+21   CONTINUED:	(7) 
+
+	Sloan's eyes ignite. He slams the PADD he was holding 
+	down on the table and vents the rabid hostility that he 
+	has so carefully concealed until this point.
+
+					SLOAN 
+			I've had enough of your lies, 
+			doctor. You think you're smarter 
+			than the rest of us, don't you? 
+			Smarter than the millions of brave 
+			men and women who are putting 
+			their lives on the line for the 
+			Federation.
+				(regaining control) 
+			You want to do things the hard 
+			way? Fine. But I'm going to get 
+			the truth out of you. And when 
+			I'm done, I'm going to take 
+			whatever's left of you and lock it 
+			away.
+				(to the guards) 
+			Guards.
+
+22   INT. PROMENADE
+
+	Chandler leads the prisoner transport detachment 
+	through the Promenade toward the Security Office. 
+	Bashir is in MANACLES. Kagan flanks Bashir. Two N.D. 
+	Guards bring up the rear, rifles at the ready. The 
+	CROWD, including MORN, moves out of the 
+	way as the prisoner detail passes -- the sight of the well-liked 
+	doctor in their grip is both surprising and disturbing 
+	to them.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      28.
+
+22   CONTINUED: 
+
+	Bashir regards the faces of the crowd with a mixture of 
+	embarrassment and outrage. As they approach Security, 
+	we see --
+
+
+23   SISKO, KIRA AND QUARK
+
+	standing outside in a show of solidarity. Sisko steps 
+	in front of the procession, forcing it to halt, his 
+	eyes hard.
+
+					SISKO
+			Is it really necessary to drag a
+			Starfleet Officer across the
+			Promenade in irons?
+
+					CHANDLER
+			We have our orders, sir.
+
+					KAGAN
+			Please stand aside.
+
+	It's a humiliating moment for Sisko, but discipline 
+	wins out and he complies. The party again begins 
+	moving toward Security.
+
+					KIRA
+				(to Bashir)
+			We're going to get you out of
+			this, Julian.
+
+	Bashir scans their faces with gratitude.
+
+					QUARK
+				(reassuringly)
+			I'm sure it's all a mistake.
+				(beat)
+			Isn't it?
+
+	One guard takes a sentry position outside Security as 
+	the party EXITS into Security --
+
+24   INT. SECURITY OFFICE
+
+	Chandler, Kagan and the N.D. Guard usher Bashir into 
+	the room. To Bashir's dismay, Odo is not behind the 
+	desk. An N.D. Internal Affairs Guard mans Odo's usual 
+	station, working the controls.
+
+					BASHIR
+			Where's Odo?
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO      29.
+
+24   CONTINUED:
+
+					CHANDLER
+				(enjoying Bashir's 
+				discomfort) 
+			In his quarters. We'll be 
+			handling security for the time 
+			being.
+
+	Chandler and Kagan move Bashir toward the entrance to 
+	the holding cells, the N.D. escort Guard follows them.
+
+25   INT. HOLDING CELLS (OPTICAL)
+
+	Chandler and Kagan usher Bashir to an empty cell. The 
+	N.D. Guard takes a position at the door. Before 
+	Bashir's ready, Kagan grabs Bashir's hands and unlocks 
+	the manacles. Bashir winces.
+
+					KAGAN
+				(smiles re: the 
+				manacles) 
+			Too tight?
+
+					BASHIR 
+			A bit.
+
+					KAGAN 
+			You'll live.
+
+	Kagan pulls the manacles clear. Bashir rubs his 
+	bruised wrists.
+
+					BASHIR
+				(with an edge) 
+			I'm glad to see you enjoy your 
+			work.
+
+	Kagan's smile fades. He glares at Bashir with naked 
+	hatred.
+
+					KAGAN 
+			I was with the Seventh Fleet when 
+			the Dominion attacked the Tyra 
+			System. Ninety-eight of our ships 
+			were destroyed in a matter of 
+			hours. I lost a lot of friends.
+
+					BASHIR 
+			I lost friends there, too.
+
+					CHANDLER
+				(bitterly) 
+			I believe that, but yours were 
+			Jem'Hadar.
+
+       DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT TWO     29A.
+
+25   CONTINUED:
+
+	Chandler reaches out and removes Bashir's combadge.
+
+					CHANDLER
+			You won't be needing this anymore.
+
+	In the face of this humiliation, Bashir tries to 
+	maintain as much dignity as he can.
+
+					KAGAN
+				(indicates the cell)
+			Step inside.
+
+	Bashir has no choice but to comply. Once he's inside, 
+	Chandler nods to Kagan, who ACTIVATES THE FORCEFIELD. 
+	The guards turn and EXIT. Bashir finds himself alone 
+	now in the stark cellblock. Hold on his expression as 
+	the full implications of his present situation sink in, and...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     30.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. HOLDING CELLS
+
+	Bashir is seated on the slab in his cell. He rests his 
+	face in his hands, despondent. After a moment, Sisko 
+	ENTERS followed by an irritated Chandler.
+
+					CHANDLER 
+			With all due respect captain, if 
+			you'd just wait in the Security 
+			Office, Director Sloan should be 
+			here any minute and you can 
+			discuss your request with him...
+
+					SISKO
+				(cuts her off) 
+			There's nothing to discuss. I 
+			want ten minutes alone with my 
+			officer, and I want them now.
+
+					CHANDLER
+				(unhappily) 
+			Very well.
+
+	She turns and heads back out the door.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     31.
+
+26   CONTINUED:
+
+					SISKO
+			I thought you should know that Odo 
+			did some checking. Sloan had a 
+			son in Starfleet -- a transport 
+			pilot. He was killed by a 
+			Dominion patrol.
+
+					BASHIR
+				(nods) 
+			Maybe he thinks I supplied the 
+			information that helped them 
+			target his son's ship.
+
+					SLOAN'S VOICE 
+			That's exactly what I think.
+
+	Sisko and Bashir turn to find that Sloan has entered 
+	the room.
+
+					SLOAN
+				(continuing) 
+			When my son's convoy dropped out 
+			of warp to rendezvous with a 
+			Klingon bird of prey, they found 
+			three Dominion attack ships 
+			waiting for them instead.
+
+					SISKO
+			I'm sorry for your loss. But 
+			don't you think your son's death 
+			indicates a conflict of interest 
+			with your investigation?
+
+					SLOAN 
+			I like to think that it gives me 
+			an added incentive to get to the 
+			truth. Now what is it you want?
+
+	Sisko has to fight to control his temper. Sloan's 
+	words gall him, but he knows it would play into Sloan's 
+	hands to allow himself to be baited.
+
+					SISKO
+			I need to talk to my chief medical 
+			officer in private.
+
+					SLOAN 
+			I can understand that. But 
+			security protocols require that no 
+			one speak to the prisoner without 
+			clearance from me.
+
+	This is more than Sisko can take.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE    31A.
+
+26   CONTINUED:	(2)
+
+					SISKO 
+			Director Sloan, have you received 
+			orders from Starfleet to relieve 
+			me of command of this station?
+
+					SLOAN
+				(taken aback) 
+			No, I haven't.
+
+					SISKO 
+			Then as long as I'm in command, 
+			I'll see Doctor Bashir whenever I 
+			please. Furthermore, from now on 
+			I'll sit in on all interrogation 
+			sessions to make sure that his 
+			rights are observed. Do I make 
+			myself clear?
+
+					SLOAN
+				(backing off) 
+			I believe so.
+
+	There is something too smooth and too reasonable in 
+	Sloan's backpedaling. It hints at the possibility that 
+	he's secretly pleased with Sisko's response.
+
+					SLOAN
+				(thin smile) 
+			Well then, we'll see each other 
+			tomorrow.
+				(nods) 
+			In the meantime, I'll leave you to 
+			your conversation.
+
+	Sloan turns and EXITS. Bashir is reassured by Sisko's 
+	forceful display.
+
+					BASHIR 
+			I appreciate your help, sir.
+
+					SISKO 
+			We'll get this straightened out, 
+			I promise you.
+
+	Bashir looks into Sisko's eyes and believes him.
+
+27   INT. WARDROOM
+
+	Sisko and Bashir sit side-by-side at the table, which 
+	is stacked with PADDS. Sloan paces the room with a 
+	PADD in hand, once again presenting a moving target to 
+	his suspect. The weary appearance of Bashir and Sisko 
+	tells us that this interrogation has been going on for 
+	quite some time.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     32.
+
+27   CONTINUED:
+
+					SLOAN 
+			-- let's go back a few years to 
+			the incident at Bopak Three. 
+			According to your report, you and 
+			Chief O'Brien "crash-landed" on 
+			the planet, where you then made 
+			contact with a group of Jem'Hadar.
+
+					BASHIR
+			We didn't "make contact." They 
+			captured us.
+
+					SLOAN 
+			If that's the case, why didn't you 
+			attempt to escape?
+
+					BASHIR 
+			We didn't have the chance.
+
+					SLOAN 
+			According to Chief O'Brien, you 
+			were more interested in trying to 
+			cure the Jem'Hadar of their 
+			addiction to Ketracel White.
+
+					BASHIR
+			I'm a doctor. They were suffering 
+			from withdrawal.
+
+					SLOAN 
+			They're the enemy -- genetically 
+			engineered killing machines.
+
+					BASHIR
+			They're not machines, they're 
+			sentient beings. I couldn't just 
+			stand by and watch them die.
+
+					SLOAN 
+			Why? Because you felt sympathy 
+			for them -- being genetically 
+			engineered yourself?
+
+	Sisko interrupts with a forceful objection --
+
+					SISKO 
+			This is irrelevant. You're 
+			talking about an incident that 
+			took place before Doctor Bashir 
+			allegedly became a Dominion agent.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE    32A.
+
+27   CONTINUED:	(2)
+
+					SLOAN 
+			It's not irrelevant, Captain. If 
+			anything, it shows that he was 
+			already sympathetic to the 
+			Dominion.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     33.
+
+27   CONTINUED:	(3)
+
+	Sloan's scored a point and he knows it. He eyes Sisko 
+	for a beat, then decides to move forward.
+
+					SLOAN
+				(picking up another
+				PADD)
+			Let's move on.
+				(to Bashir) 
+			Doctor, we spoke yesterday about 
+			a group of genetically enhanced 
+			patients that you brought to the 
+			station. Why, exactly, did you 
+			decide to work with them?
+
+					BASHIR
+			They'd been institutionalized most 
+			of their lives. I thought I might 
+			be able to help them assimilate 
+			into society.
+
+					SLOAN 
+			A laudable goal. But what I find 
+			puzzling is the way you went about 
+			it. These misfits had been 
+			sheltered from the outside world 
+			for as long as they could 
+			remember, yet you chose to bombard 
+			them with information about the 
+			war with the Dominion. Frankly, 
+			I'm surprised it didn't scare them 
+			into deeper isolation.
+
+	Bashir feels confident enough in what he did to go on 
+	the offensive --
+
+					BASHIR 
+			I was trying to engage them--- and 
+			it worked.
+
+					SLOAN 
+			Is that why you convinced 
+			Starfleet Command to give them 
+			access to classified battle plans?
+
+					BASHIR 
+			Starfleet was interested in 
+			hearing our ideas on how to win 
+			the war.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     34.
+
+27   CONTINUED:	(4)
+
+					SLOAN
+				(sardonic) 
+			How to win the war? You 
+			recommended that the Federation 
+			surrender!
+
+	Bashir realizes Sloan has led him into a trap, angrily 
+	defends himself --
+
+					BASHIR 
+			We were looking for a way to save 
+			as many lives as we could. If 
+			you'd take the time to examine our 
+			findings --
+
+	Sloan tosses the PADD aside and turns to Sisko.
+
+					SLOAN 
+			Captain, you took the time to 
+			examine their findings, didn't 
+			you?
+
+					SISKO
+				(uneasy) 
+			I did.
+
+					SLOAN 
+			Did you agree with them?
+
+	Sisko shifts uncomfortably in his seat. This was a
+	painful and still unresolved source of conflict between 
+	himself and his chief medical officer.
+
+					SISKO 
+			No.
+
+					SLOAN 
+			Of course not. No loyal Starfleet 
+			officer could.
+
+	Sloan's case is beginning to chip away at Sisko's 
+	certainty about Bashir's innocence -- though he 
+	continues to defend him, he doesn't have the same level 
+	of conviction we saw earlier.
+
+					SISKO 
+			I won't deny that Doctor Bashir 
+			has made some...
+				(choosing his words 
+				carefully) 
+			-- questionable decisions in his 
+			career, but you're a long way from 
+			convincing me he's a traitor. 
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     35.
+
+27   CONTINUED:	(5)
+
+					SISKO (Cont 'd) 
+			So far, your case is based on 
+			circumstantial evidence and 
+			speculation.
+
+					SLOAN 
+			What other kind of case can I make 
+			against a man who's covered his 
+			tracks so well?
+
+					SISKO
+			That's a circular argument and you 
+			know it.
+
+					SLOAN 
+			Captain, if Doctor Bashir had been 
+			involved in one or two 
+			questionable incidents, I can 
+			understand how you might be able 
+			to dismiss them. But the sheer 
+			number of incidents form a pattern 
+			of behavior that can't be ignored.
+
+	Sloan turns to face Sisko, and suddenly softens to a 
+	warm and sympathetic tone.
+
+					SLOAN 
+			I understand that you want to be 
+			loyal to a man who's served under 
+			you for so long. I understand 
+			that you're inclined to take his 
+			word over that of an outsider. 
+			But step back for a moment and 
+			think about it. This man 
+			concealed the truth about his 
+			illegal genetic enhancement for 
+			over thirty years. He lied to get 
+			his medical license. He lied to 
+			get into Starfleet. He lied to 
+			you when he came aboard this 
+			station and he's lied to you ever 
+			since.
+
+	This last salvo strikes Sisko personally -- in an area 
+	where he still holds resentments he's barely conscious 
+	of. But his sense of honor forces him to continue to 
+	defend Bashir, as much for his own sake as for the 
+	Doctor's.
+
+					SISKO 
+			He did eventually come forward and 
+			tell the truth.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     36.
+
+27   CONTINUED:	(6) 
+
+	Sloan plays this delicately, picking up on the 
+	unresolved dynamic between Bashir and Sisko, aware that 
+	heavy-handed grilling will demolish his work.
+
+					SLOAN
+			That's right, he did. But why?
+				(to Bashir) 
+			What made you confess, Doctor? 
+			Was it because you realized it was 
+			your duty to be honest with your 
+			captain?
+
+	Bdshir is ashamed of deceiving Sisko, and he knows it 
+	won't make him look good, but telling the truth is the 
+	only honor he can salvage from that event in his life.
+
+					BASHIR
+
+				(quietly) 
+			No.
+
+					SLOAN
+			Was it because you felt guilty 
+			about having lied to him for so 
+			long?
+
+					BASHIR
+				(even more quietly) 
+			No.
+
+					SLOAN
+			Then why did you come forward?
+
+					BASHIR
+				(shattered) 
+			Because I'd been found out.
+
+					SLOAN
+				(softly) 
+			And if you hadn't been found out? 
+			Would you have come forward and 
+			told your captain the truth... 
+			ever?
+
+	Bashir can't honestly say he would've...
+
+					BASHIR 
+			I don't know.
+
+	Sloan pauses, allowing the full weight of this 
+	revelation to settle on Sisko's shoulders.
+
+					SLOAN
+			I see.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     37.
+
+27   CONTINUED:	(7)
+
+	Bashir looks to Sisko to see if his Captain has been 
+	swayed by Sloan's argument. Off this...
+
+28   INT. HOLDING CELLS
+
+	Bashir sits on his bunk. Sisko leans against one wall 
+	of the antechamber, staring blankly at the opposite 
+	wall. An awkward silence hangs in the air between the 
+	two men. Bashir tries to bridge it with...
+
+					BASHIR 
+			Sloan's right about one thing, 
+			sir. I should have told you the 
+			truth about me from the beginning.
+
+					SISKO
+				(turns to face him) 
+			That's right. You should have. 
+			But lets put that behind us for 
+			now.
+
+	Bashir stands and paces in frustration.
+
+					BASHIR 
+			How am I supposed to defend myself 
+			against this man? No matter what 
+			I say, he either thinks I'm lying 
+			or repressing my memories.
+
+	Sisko turns to him, his features troubled.
+
+					SISKO 
+			I know you're not lying, Julian.
+
+	Bashir hears an unfinished thought in Sisko's words --
+
+					BASHIR 
+			But?
+
+					SISKO
+				(truly conflicted) 
+			As a doctor, isn't it within the 
+			realm of medical possibility that 
+			the Dominion did recruit you -- 
+			and that you have blocked it out 
+			of your memory?
+
+	Bashir's truly shaken. Sisko is doubting him?
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     38.
+
+28   CONTINUED:
+
+					BASHIR 
+			Even if it was possible, it didn't 
+			happen.
+
+	Sisko's expression is meant to be one of assurance, but 
+	it's frayed at the edges. Bashir can see that, and it 
+	chills him.
+
+					BASHIR 
+			You don't believe me.
+
+	Sisko chooses his next words very carefully.
+
+					SISKO
+			I don't think you're lying.
+
+	Bashir looks at him, realizing that Sisko is saying 
+	only that he believes Bashir believes he's innocent.
+
+					SISKO 
+			It's late. Try to get some sleep. 
+			We'll talk again in the morning.
+
+	With that, Sisko turns and walks out. Bashir stares 
+	after him with a leaden feeling his stomach. After a 
+	beat, he turns and hammers a fist into the cell wall.
+
+									TIME CUT:
+
+29   INT. HOLDING CELLS - LATER (OPTICAL) 
+
+	Bashir is lying on the slab, staring up at the ceiling, 
+	trying to make sense of the nightmare he finds himself 
+	enmeshed in.
+
+	The LIGHTS COME UP FULL. Bashir blinks, turns to face 
+	Kagan, Chandler and Sloan. Kagan's holding the 
+	MANACLES, Chandler two PADDS. Both are armed with 
+	slung PHASER RIFLES.
+
+					SLOAN 
+			Sorry to interrupt your sleep, 
+			doctor. It looks like you're 
+			going on a little vacation after 
+			all.
+
+					BASHIR
+				(sitting up)
+			Where are you taking me?
+
+					SLOAN 
+			To Starbase Fifty-three for 
+			further questioning.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE    38A.
+
+29   CONTINUED:
+
+					BASHIR 
+			Where's Captain Sisko? Does he 
+			know about this?
+
+					SLOAN 
+			It's none of his concern. Not 
+			anymore.
+
+					BASHIR
+				(alarmed) 
+			You have no right to do this.
+
+					SLOAN
+			Oh, but I do...
+
+	Sloan holds out his hand, which Chandler fills with a 
+	PADD.
+
+					SLOAN
+				(reads from PADD) 
+			Starfleet Special Order Six-Six-
+			Seven-One-Five, gives me authority 
+			to neutralize security threats to 
+			Deep Space Nine by "whatever means 
+			necessary."
+				(to Bashir) 
+			Doctor, you're about to spend the 
+			rest of this war in a maximum 
+			security cell. Unless...
+
+	Sloan holds his hand out and Chandler hands him another 
+	PADD, which he extends toward Bashir.
+
+					SLOAN
+			... you'd care to add your 
+			thumbprint to this confession.
+				(off Bashir's outraged 
+				stare) 
+			We can reword it if it doesn't 
+			meet your exacting standards.
+
+	A beat as Bashir stares angrily at his tormentor. Then --
+
+					BASHIR 
+			You can take your confession and 
+			toss it out the nearest airlock.
+
+					SLOAN
+				(grim smile) 
+			I thought so.
+				(to Chandler) 
+			Take him to the shuttle.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT THREE     39.
+
+29   CONTINUED:	(2)
+
+	Chandler steps to the forcefield control panel. She 
+	flips the control and the FORCEFIELD FRITZES OFF. 
+	Doctor Bashir stands fast. Kagan approaches with the 
+	manacles.
+
+					KAGAN
+				(to Bashir)
+			Please place your hands in front
+			of you.
+
+	The LIGHTS in the cell suddenly DIM. Before they can 
+	react, Bashir is ENVELOPED BY A TRANSPORTER BEAM.
+
+					SLOAN
+				(shocked)
+			He's beaming out! Stop him!
+
+	Chandler and Kagan raise their weapons, but they're too 
+	late.
+
+30
+thru   OMITTED
+30A
+
+30B  A TRANSPORTER BEAM (OPTICAL)
+
+	As Bashir's startled countenance DEMATERIALIZES.
+
+31   INT. CARDASSIAN SHIP - OFFICE (OPTICAL)
+
+	as Bashir MATERIALIZES. The room is well-appointed, 
+	and through the WINDOW, stars flash by at WARP.
+
+	Bashir finds himself looking straight into the smiling 
+	face of WEYOUN.
+
+					WEYOUN
+			Good evening, Doctor.
+
+					BASHIR
+			Weyoun... ?
+
+	Bashir looks around, trying to orient himself. An N.D. 
+	CARDASSIAN guards one side of the door, an N.D. 
+	JEM'HADAR the other.
+
+					WEYOUN
+			Welcome home.
+
+	And on Bashir's look of shock and disbelief, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+32   INT. CARDASSIAN SHIP - OFFICE (OPTICAL)
+
+					WEYOUN 
+			It would appear we got you out 
+			just in time...
+
+	Bashir backs away from Weyoun, shaking his head in 
+	disbelief. Weyoun looks at him with an expression of 
+	heartfelt concern.
+
+					WEYOUN 
+			It's all right. You're among 
+			friends now.
+				(studying him) 
+			Did they mistreat you? I don't 
+			see any bruises.
+
+					BASHIR 
+			Why did you bring me here?
+
+	Weyoun's played this scene many times with his agent, 
+	and knows he must handle the re-assimilation with a 
+	combination of tact and pressure.
+
+					WEYOUN 
+			What choice did I have? Starfleet 
+			discovered you were working for 
+			us.
+
+					BASHIR
+				(trying to convince 
+				himself as much as 
+				Weyoun) 
+			I'm not working for you. I am not 
+			a Dominion spy.
+
+					WEYOUN
+				(marveling) 
+			You actually believe that, don't 
+			you? That's why you're such a 
+			good operative.
+
+					BASHIR 
+			You're lying.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      41.
+
+32   CONTINUED:
+
+					WEYOUN
+				(sighs) 
+			Here we go again. These little 
+			conversations of ours always 
+			follow the same pattern: You 
+			start out confused. Then you get 
+			angry. Then you deny everything. 
+			Until finally the walls inside 
+			your mind start to break down and 
+			you accept the truth.
+
+	Weyoun is saying the exact same thing Sloan accused him 
+	of, and it shakes Bashir's faith in himself.
+
+					BASHIR
+				(not wanting to believe
+				it)
+			What truth, that you broke me when
+			I was in the prison camp?
+
+					WEYOUN
+				(aghast) 
+			We're not barbarians. There was 
+			no torture involved. We simply 
+			helped you to see that there's no 
+			way Starfleet can defeat the 
+			Dominion. And because you didn't 
+			want billions of Federation 
+			citizens to lose their lives 
+			needlessly, you agreed to provide 
+			us with information that would 
+			help us end the war quickly. You 
+			rose above the petty question of 
+			which "side" you were on and made 
+			a moral decision. It's not 
+			suprising, really. After all, you 
+			are a doctor.
+
+					BASHIR
+				(shattered) 
+			You're saying that I am a 
+			traitor...
+
+					WEYOUN
+			"Traitor," "Hero" -- those are 
+			just words. Oh, your friends on 
+			Deep Space Nine may vilify you, 
+			but history will judge you to be 
+			a great man -- a visionary who 
+			helped bring about an end to one 
+			of the most devastating wars the 
+			galaxy has ever seen.
+
+	Completely overwhelmed, Bashir presses the palms of his 
+	hands against his forehead and struggles for clarity.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      42.
+
+32   CONTINUED:	(2)
+
+					BASHIR 
+			But... I don't remember any of 
+			it... I don't remember...
+
+					WEYOUN
+			Of course not. You suppressed the 
+			memories -- compartmentalized 
+			them.
+
+	Bashir remembers with a chill that Sloan used the same 
+	word.
+
+					WEYOUN 
+			A remarkable ability, but it does 
+			make these initial conversations 
+			a bit wearing.
+
+	Weyoun signals to the Jem'Hadar, who picks a covered 
+	tray off a table and approaches with it.
+
+					WEYOUN 
+			Have something to eat. You always 
+			re-integrate better on a full 
+			stomach.
+
+	The Jem'Hadar sets the plate on the end table next to 
+	Bashir and removes the cover. The doctor looks over 
+	and sees...
+
+33   A PLATE OF SCONES
+
+	golden brown, dripping butter, with a side of moba jam 
+	and a steaming cup of red leaf tea.
+
+					WEYOUN 
+				(fondly) 
+			Do you remember the first time I 
+			offered you scones? Back at the 
+			camp?
+
+					BASHIR 
+			No.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      43.
+
+33   CONTINUED:
+
+					WEYOUN
+				(leans forward, 
+				urgently) 
+			Concentrate. Sensory details are 
+			the key. I had you brought in 
+			from solitary. You were very 
+			hungry, but you refused to give me
+			the satisfaction of seeing you 
+			eat.
+				(gently) 
+			Do you remember?
+
+	Bashir's forehead clenches as he makes an effort to 
+	visualize what Weyoun is describing.
+
+					BASHIR 
+			No. I don't remember. I don't 
+			remember because it never 
+			happened.
+
+					WEYOUN
+				(shakes his head) 
+			You were almost there. Try again. 
+			With just a little more effort you 
+			can break through.
+
+					BASHIR
+			I am not a Dominion spy!
+
+					WEYOUN 
+			I can see this is going to be one 
+			of our more difficult sessions.
+
+	Bashir has had enough --
+
+					BASHIR 
+			I'm innocent -- I don't care what you 
+			or Sloan think.
+
+	Bashir's own words trigger the realization that 
+	something's not right here --
+
+					BASHIR 
+			Wait a minute. You're both trying 
+			to convince me of the same lie -- 
+			how could that be? Unless you're 
+			working together.
+
+					WEYOUN 
+			Please, Doctor. Listen to 
+			yourself.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR     43A.
+
+33   CONTINUED:	(2)
+
+					BASHIR
+			Sloan is the traitor --
+
+	Weyoun all but rolls his eyes -- but before he can
+	protest, the room erupts with the sudden JARRING SOUND
+	of a CARDASSIAN BATTLE ALARM.
+
+					CARDASSIAN COM VOICE 
+			Combat Stations! Enemy ship 
+			approaching!
+
+	Weyoun moves to a MONITOR, works the controls.
+
+34   THE MONITOR (OPTICAL)
+
+	As it comes to life, revealing the Defiant in pursuit.
+
+					WEYOUN 
+				(realizing) 
+			Sisko.
+
+	The ships SHAKES as it takes a hit from the Defiant. 
+	Weyoun steadies himself, turns to Bashir.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      44.
+
+34   CONTINUED:
+
+					WEYOUN 
+			I'm afraid we're going to have to 
+			continue your debriefing later.
+
+	Weyoun nods to the Jem'Hadar, who activates the door 
+	control, and EXITS behind him. The Cardassian draws 
+	his disruptor and stares at the doctor, bracing himself 
+	for the next incoming ordnance. It's a HEAVY HIT, and 
+	VICIOUSLY SHAKES THE COMPARTMENT. The monitor goes up 
+	in a SHOWER OF SPARKS. Both Bashir and the Cardassian 
+	are thrown to the floor. Suddenly, the air charges 
+	with the MATERIALIZING FORMS of Worf and Kira, armed to 
+	the teeth.
+
+35   THE CARDASSIAN (OPTICAL)
+
+	whips his disruptor toward the boarding party, who are 
+	temporarily helpless until the Transporter finishes 
+	BEAMING them in. Just as he squeezes the trigger, 
+	Bashir slams his body into him, spoiling his aim 
+	and throwing the BLAST wide...
+
+36   OMITTED
+
+37   WORF (OPTICAL)
+
+	As he spins and FIRES, taking down the Cardassian.
+
+					BASHIR 
+			Let's get out of here.
+
+	Kira hits her combadge.
+
+					KIRA
+			Away Team to Defiant. We have 
+			him.
+
+	And as they DEMATERIALIZE...
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      45.
+
+38   OMITTED
+
+39   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	The ship is CLOAKED -- on the VIEWSCREEN, stars shoot 
+	by at WARP. Supernumeraries man the essential 
+	stations.
+
+	As Bashir ENTERS with Kira and Worf, O'Brien is 
+	conferring with Sisko, who sits in the captain's chair. 
+	Dax is at the Conn. As soon as Sisko sees Bashir, he 
+	swivels in the chair to face him, his expression 
+	somber.
+
+					SISKO 
+			I suppose you have a perfectly 
+			reasonable explanation for why the 
+			Dominion broke you out of that 
+			holding cell.
+
+					BASHIR
+			I realize how it must look, sir.
+
+
+					SISKO
+				(carefully) 
+			What did they want, doctor?
+
+					BASHIR
+			Weyoun tried to convince me that 
+			I was his operative. I think he 
+			and Sloan are working together.
+
+	Bashir is hoping the captain will see this possibility, 
+	but instead, the accusation brings an angry Sisko to 
+	his feet --
+
+					SISKO 
+			That's enough. You're not going 
+			to exonerate yourself by casting 
+			suspicions on someone else.
+
+					BASHIR
+			Maybe he's not a traitor, maybe 
+			he's been replaced by a 
+			changeling. All I know is that he 
+			and Weyoun are trying to frame me.
+
+					WORF
+				(hard) 
+			You have run out of excuses, 
+			doctor.
+
+					BASHIR
+				(to all) 
+			I'm innocent -- you have to 
+			believe me.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      46.
+
+39   CONTINUED:
+
+					SISKO
+			I've had enough of your lies,
+			doctor.
+
+	Bashir can't believe that Sisko isn't at least willing 
+	to consider the possibility that there's another 
+	explanation --
+
+					BASHIR
+			Sir, you can't just dismiss what
+			I'm saying. If I'm right, there's
+			no telling what damage Sloan could
+			do --
+
+					SISKO
+				(to Kira)
+			Get him off my bridge.
+
+					KIRA
+			Let's go, doctor.
+
+	As she moves toward Bashir, he turns toward Dax, 
+	desperate to find someone who believes him --
+
+					BASHIR
+			Jadzia, you believe me, don't you?
+
+	Dax regards Bashir with a mixture of pity and disgust.
+
+					DAX
+			Why'd you do it, Julian?
+
+	Devastated, Bashir turns to O'Brien, his eyes pleading. 
+	O'Brien stares at him with a cold look, then starts to 
+	turn away. Bashir grabs a hold of O'Brien's shoulder 
+	to turn him around.
+
+					BASHIR
+			Miles, not you.
+
+	O'Brien wrenches his shoulder free of Bashir's hand 
+	with a violent jerk. Bashir notices the force of his 
+	movement and stares at O'Brien --
+
+					BASHIR
+			Your shoulder. It's all right.
+
+					O'BRIEN 
+				(puzzled)
+			Of course it's all right.
+
+	Bashir stares at him, realizing he has no idea what 
+	he's getting at.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR      47.
+
+39   CONTINUED:	(2)
+
+					BASHIR 
+			But you dislocated it yesterday... 
+			when we were playing springball.
+
+					O'BRIEN
+				(so what?)
+			So it's better now.
+
+	Bashir reacts, a startling realization is beginning to 
+	form in his mind...
+
+					BASHIR 
+			You didn't hurt it playing 
+			springball, you were kayaking in 
+			a holosuite.
+
+	O'Brien is unable to offer an excuse for this 
+	contradiction --
+
+					BASHIR
+				(backing away) 
+			You're not Miles.
+
+	Bashir turns to look at the others -- Kira, Worf, Dax 
+	and finally, Sisko.
+
+					BASHIR 
+			And you're not Captain Sisko -- 
+			he'd at least be willing to hear 
+			me out.
+
+	The Bridge is absolutely quiet, except for the FAINT 
+	WHIRRING of the ship.
+
+					BASHIR
+				(looking around)
+			This isn't real... it can't be...
+
+	Another beat of absolute stillness, then the IMAGE OF 
+	THE BRIDGE SPUTTERS AND FRITZES OFF. Bashir finds 
+	himself standing in the middle of...
+
+40   INT. FEDERATION HOLOGRID (OPTICAL) 
+
+	The room is empty and weirdly silent. Bashir turns and 
+	spots the arch. At the controls is Sloan, now dressed 
+	in a black UNIFORM. With him are TWO GUARDS in similar 
+	uniforms, armed with PHASERS -- their presence is more 
+	foreboding than the guards we've seen up to now.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FOUR     47A.
+
+40   CONTINUED:
+
+					SLOAN 
+			You're right, Doctor. None of it 
+			was real. But I am. And this 
+			isn't over.
+
+	As Bashir digests this development, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+41   INT. HOLOSUITE GRID - CONTINUOUS
+
+	Bashir stares at Sloan, not knowing what to expect -- 
+	Sloan approaches him with a warm and friendly smile.
+
+					SLOAN 
+			Congratulations, doctor. It's not 
+			often that we're proven wrong.
+
+					BASHIR 
+			I take it you finally believe I'm 
+			not working for the Dominion.
+
+					SLOAN 
+			I'm leaning heavily in that 
+			direction.
+				(a beat) 
+			But to erase any lingering doubts --
+			what do you say we make one final 
+			test?
+
+					BASHIR
+				(hard) 
+			I'm finished playing games with 
+			you, Sloan.
+
+					SLOAN
+				(matching Bashir's tone) 
+			I assure you, doctor, this is no 
+			game.
+
+	Sloan hands an ultrasonic extractor to one of the 
+	guards. The guard approaches Bashir, who eyes the 
+	guard warily and takes a step back.
+
+					SLOAN
+				(softening) 
+			Don't be afraid. I have no 
+			intention of hurting you. I just 
+			need to remove an implant from 
+			behind your right ear.
+
+	Bashir unconsciously reaches for the place behind his 
+	ear -- the place he's been itching.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      49.
+
+41   CONTINUED:
+
+					SLOAN
+				(reaching a decision) 
+			I'll tell you what... why don't 
+			you do the honors?
+				(to the guard, re: the 
+				extractor) 
+			Give it to him.
+
+	The guard does as instructed. Bashir takes the device, 
+	momentarily hesitating.
+
+					SLOAN 
+			Go ahead, Doctor. It's only a 
+			neuro-synaptic relay.
+
+					BASHIR 
+			You've recorded my neuro-electric 
+			responses?
+
+					SLOAN 
+			That's correct. And now I'd like 
+			to check the findings in order to 
+			confirm what I already believe -- 
+			that you're an innocent man.
+				(calmly) 
+			Now either you remove the relay... 
+			or we will.
+
+	One look at the two guards tells Bashir that Sloan is 
+	more than capable of carrying out his threat. Bashir 
+	carefully places the point of the device behind his 
+	ear. There's a brief beat during which we hear a faint 
+	HIGH-PITCHED SOUND.
+
+	Bashir removes the device from behind his head to 
+	REVEAL a small BIOCHIP. The guard reaches over and 
+	takes the extractor and the biochip from Bashir.
+
+41A  ANGLE ON SLOAN
+
+	as the other guard hands him a medical tricorder. 
+	Sloan then takes the chip from the first guard and 
+	places it in the tricorder.
+
+					SLOAN
+				(to Bashir) 
+			Thank you. This'll only take a 
+			moment...
+
+	Bashir looks at the two guards staring back at him.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      50.
+
+41A  CONTINUED:
+
+					BASHIR 
+			Take your time. I don't seem to 
+			be going anywhere.
+
+					SLOAN 
+			I'm glad to see your sense of 
+			humor returning. That's a very 
+			good sign.
+
+					BASHIR 
+			Of what?
+
+					SLOAN 
+			That you're beginning to relax...
+
+	Off the tricorder --
+
+					SLOAN 
+			We had to subject you to high 
+			levels of stress to ensure 
+			accurate test results.
+				(smiling) 
+			And I'm glad to say the results 
+			are in your favor.
+
+	Sloan closes the tricorder and hands it to one of the 
+	guards.
+
+					SLOAN 
+			Your loyalty to the Federation 
+			appears to be above reproach.
+
+					BASHIR 
+			Do I still detect a note of doubt 
+			in your voice?
+
+					SLOAN 
+			Frankly, I would've preferred to 
+			have kept you under observation a 
+			little longer.
+				(shaking his head) 
+			Unfortunately, we didn't know 
+			about Chief O'Brien's injury or we 
+			would've incorporated it into the 
+			program.
+
+	Bashir's mind races ahead, trying to sort everything 
+	out.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      51.
+
+41A  CONTINUED:	(2)
+
+					BASHIR 
+			I take it you beamed me into this 
+			holosuite from my quarters, while 
+			I was asleep.
+
+					SLOAN 
+			I believe we allowed you a full 
+			hour.
+
+					BASHIR 
+			No wonder I felt so tired. I 
+			suppose you find your subjects 
+			more malleable when they've been 
+			deprived of sleep.
+
+					SLOAN 
+			Not a new technique, I admit, but 
+			an effective one nonetheless.
+
+					BASHIR 
+			So, are you going to tell me who 
+			you are? Who you work for?
+
+					SLOAN 
+			I would think it's obvious -- the 
+			same people you work for. The 
+			Federation. Starfleet.
+
+					BASHIR 
+			You don't expect me to believe 
+			you're with Internal Affairs, do 
+			you?
+
+					SLOAN 
+			Of course not. Internal Affairs 
+			is a competent department, but... 
+			limited.
+
+					BASHIR 
+			Then what department are you with?
+
+					SLOAN 
+			Let's just say I belong to another 
+			branch of Starfleet 
+			Intelligence... our official 
+			designation is Section Thirty-one.
+
+					BASHIR 
+			Never heard of it.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE     51A.
+
+41A  CONTINUED:	(3)
+
+					SLOAN 
+			We keep a low profile. It works 
+			out better that way... for all 
+			concerned.
+
+					BASHIR 
+			And what does "Section Thirty-one" 
+			do -- aside from kidnapping 
+			Starfleet officers?
+
+					SLOAN 
+			We search out and identify 
+			potential dangers to the 
+			Federation.
+
+					BASHIR 
+			And once identified?
+
+					SLOAN 
+			We deal with them.
+
+					BASHIR 
+			How?
+
+					SLOAN 
+			Quietly.
+
+					BASHIR 
+			So if I had turned out to be a 
+			Dominion agent -- what would've 
+			happened to me?
+
+					SLOAN 
+			We wouldn't be standing here 
+			having this conversation.
+
+					BASHIR 
+			And Starfleet sanctions what 
+			you're doing?
+
+					SLOAN 
+			We don't submit reports or ask for 
+			approval for specific operations, 
+			if that's what you mean. We're an 
+			autonomous department.
+
+					BASHIR 
+			Authorized by whom?
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE     51B.
+
+41A  CONTINUED:	(4)
+
+	Sloan smiles, maintaining control of the situation.
+
+					SLOAN 
+			Section Thirty-one was part of the 
+			original Starfleet charter.
+
+					BASHIR 
+			That was two hundred years ago. 
+			Are you telling me you've been 
+			operating on your own ever since? 
+			Without specific orders? 
+			Accountable to nobody, but 
+			yourselves?
+
+					SLOAN 
+			You make it sound so... ominous.
+
+					BASHIR 
+			Isn't it? If what you say is 
+			true, you function as judge, jury 
+			and executioner. I'd say that's 
+			too much power for anyone.
+
+					SLOAN 
+			I admit it takes exceptional 
+			people to do what we do -- people 
+			who can sublimate their own 
+			ambitions to the best interests of 
+			the Federation. 
+				(a beat) 
+			People like you.
+
+	That was the last thing Bashir expected to hear.
+
+					BASHIR 
+			Me?
+
+					SLOAN 
+			You have all the qualifications to 
+			be a very useful member of Section 
+			Thirty-one.
+
+
+					BASHIR 
+			A few minutes ago, you were 
+			calling me a traitor... now you 
+			want to recruit me?
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE     51C.
+
+41A  CONTINUED:	(5)
+
+					SLOAN 
+			You're intelligent, resourceful 
+			and you've always been fascinated 
+			by covert operations. Why else 
+			would you spend so much time in 
+			Quark's holosuites playing a spy?
+
+					BASHIR 
+				(stunned) 
+			You're serious.
+
+					SLOAN 
+				(nods) 
+			We're on the same team. We 
+			believe in the same principles 
+			that every other Federation 
+			citizen holds dear.
+
+					BASHIR 
+			But you violate those principles 
+			as a matter of course.
+
+					SLOAN 
+			In order to protect them.
+
+					BASHIR 
+			I'm sorry. But the ends don't 
+			always justify the means.
+
+					SLOAN 
+				(calmly) 
+			Really? How many lives do you 
+			suppose you've saved in your 
+			medical career?
+
+					BASHIR 
+			I don't see what that has to do 
+			with anything.
+
+					SLOAN 
+			Hundreds... thousands? Do you 
+			suppose that those people give a 
+			damn that you lied to get into 
+			Starfleet Medical? I doubt it.
+
+	Bashir is momentarily thrown by Sloan's argument --
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      52.
+
+41A  CONTINUED:	(6)
+
+					SLOAN 
+			We deal with threats to the
+			Federation that jeopardize its 
+			very survival. If you knew how 
+			many lives we've saved, I think 
+			you'd agree that the ends do 
+			justify the means.
+				(trying to seal the
+				deal)
+			I'm not afraid of bending the
+			rules every once in a while -- if
+			the situation warrants it. And I
+			don't think you are either.
+
+					BASHIR 
+			You've got the wrong man, Sloan.
+
+					SLOAN
+				(confident) 
+			I don't think so. In time, you'll 
+			come to agree with me.
+
+					BASHIR 
+			Don't hold your breath.
+
+	Sloan motions his guards forward, and they move to 
+	stand at either side of Bashir.
+
+					SLOAN 
+			All I ask is that when you get 
+			back to Deep Space Nine, you 
+			consider what I've said.
+
+					BASHIR 
+			What makes you think I'm not going 
+			to try to expose you?
+
+					SLOAN
+				(shrugging it off) 
+			Let's just say... I'm not going to 
+			lose any sleep over it.
+
+	Before Bashir can respond, one of the guards reaches up 
+	and HYPOS him in the back of the neck. Bashir crumples 
+	to the deck.
+
+41B  ANGLE ON SLOAN
+
+	as he looms over Bashir's unconscious form. And off 
+	Sloan's thoughtful expression, we go to --
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      53.
+
+42   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+43   INT. CAPTAIN'S OFFICE
+
+	Bashir sits amidst Sisko, Kira and Odo, having 
+	completed his tale.
+
+					ODO 
+			I'll say one thing for this fellow 
+			Sloan, he's clever. He timed the 
+			Doctor's abduction to coincide 
+			with his trip to the medical 
+			conference. That way, he wasn't 
+			missed.
+
+					BASHIR
+			He's a clever one all right...
+
+					KIRA
+				(to Sisko) 
+			We went over Julian's quarters but 
+			we didn't find any residual 
+			transporter signatures. They 
+			either got him off the station 
+			some other way, or they have 
+			Transporter technology we can't 
+			detect.
+
+					BASHIR
+			Captain, any word from Starfleet 
+			Command about Sloan or Section 
+			Thirty-one?
+
+	Sisko nods, taking another moment to collect his 
+	thoughts. After a long beat:
+
+					SISKO 
+			There's no record of a Deputy 
+			Director Sloan anywhere in 
+			Starfleet. As for Section Thirty-
+			one... that's a little more 
+			complicated.
+
+	That answer surprises all of them.
+
+					SISKO 
+			Starfleet Command didn't 
+			acknowledge its existence. But 
+			they didn't deny it either. 
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      54.
+
+43   CONTINUED:	(2)
+
+					SISKO (Cont'd) 
+				(a beat) 
+			They simply said they'd look into
+			it and get back to me.
+
+					BASHIR
+			When?
+
+					SISKO
+			They didn't say.
+
+					KIRA
+			Sounds like a cover-up to me.
+
+	Bashir shakes his head in disbelief.
+
+
+					BASHIR 
+			Is it possible that the Federation 
+			would condone this kind of 
+			activity?
+
+					ODO
+			Personally, I find it hard to 
+			believe that they wouldn't. Every 
+			other great power has a unit like 
+			Section Thirty-one... the Romulans 
+			have the Tal Shiar, the 
+			Cardassians had the Obsidian 
+			Order...
+
+					BASHIR
+			But what would that say about us? 
+			That we're no different than our 
+			enemies? That when push comes to 
+			shove, we're willing to throw away 
+			our principles in order to 
+			survive?
+
+					SISKO 
+			I wish I had an answer for you, 
+			Doctor.
+
+					KIRA
+			Maybe we should do some more 
+			checking... try to track down 
+			Sloan ourselves.
+
+      DEEP SPACE NINE: "Inquisition" - REV. 1/29/98 - ACT FIVE      55.
+
+43   CONTINUED:	(2)
+
+					ODO 
+			It won't be easy. If what he says 
+			is true, and Section Thirty-one 
+			has existed since the birth of the 
+			Federation... they've learned to 
+			cover their tracks well.
+
+					SISKO 
+			We don't have to find them. 
+			They'll come to us.
+
+	Everyone looks at Sisko.
+
+					SISKO
+				(to Bashir) 
+			You said Sloan wanted to recruit 
+			you.
+
+					BASHIR 
+			I turned him down.
+
+					SISKO
+			He doesn't strike me as a man who 
+			takes "no" for an answer.
+				(convinced) 
+			And next time he asks you to join 
+			his little group... you'll say 
+			"yes."
+
+	Bashir studies Sisko's face; the captain isn't joking.
+
+					BASHIR
+				(dry) 
+			I can hardly wait.
+
+					ODO
+			Congratulations, Julian. Looks 
+			like you're going to get a chance 
+			to play a spy after all.
+				(a beat) 
+			Only this time, for real.
+
+44   CLOSE ON BASHIR
+
+	as the thought begins to sink in. And on his troubled 
+	expression, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

@@ -1,0 +1,3308 @@
+
+
+
+
+
+
+
+                STAR TREK: THE NEXT GENERATION 
+                              
+                            "Masks" 
+                          #40277-269 
+                              
+                          Written by 
+                          Joe Menosky 
+                              
+                          Directed by 
+                         Robert Wiemer 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+                         FINAL DRAFT
+
+                       DECEMBER 9, 1993
+
+             STAR TREK: "Masks" - 12/09/93 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                            "Masks" 
+
+                             CAST 
+
+                BEVERLY            ERIC
+
+                DATA/IHAT/MASAKA/BOY/ELDER/VICTIM
+
+                GEORDI             
+                PICARD             
+                RIKER              
+                TROI               
+                WORF 
+              
+                Non-Speaking       
+                  N.D. SECURITY      
+                  N.D. STARFLEET OFFICER
+
+             STAR TREK: "Masks" - 12/09/93 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                            "Masks" 
+
+                             SETS 
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              CLASSROOM
+              BRIDGE
+              TROI'S OFFICE
+              TEN FORWARD
+              ENGINEERING
+              READY ROOM
+              OBSERVATION LOUNGE
+              DATA'S QUARTERS
+              CORRIDOR
+          
+            TEMPLE
+
+STAR TREK: "Masks" - 12/09/93 - PRONUNCIATION GUIDE 
+
+                STAR TREK: THE NEXT GENERATION 
+                            "Masks" 
+                            
+                      PRONUNCIATION GUIDE 
+
+                   D'ARSAY         dar-SAY
+                   FORTANIUM       for-TANE-ee-um
+                   IHAT            EE-hot
+                   MASAKA          mu-SAH-kuh
+                   KORGANO         kor-GAH-no
+                   NARSU           NAHR-sue
+
+            STAR TREK: "Masks" 12/09/93 - TEASER            1.
+
+                STAR TREK: The Next Generation                  
+                            "Masks"                                 
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. CLASSROOM
+
+	TROI and an N.D. TEACHER are supervising an art class.
+	SEVERAL N.D. STUDENTS, roughly junior high-school age,
+	are making CLAY SCULPTURES. Troi is here as a kind of
+	"guest-lecturer", and DATA is here as well, working on
+	a sculpture of his own.
+
+	Troi is standing with a twelve year old student, ERIC,
+	who's working his clay into a shape vaguely
+	recognizable as some kind of animal. Troi inspects his
+	work, not exactly sure what it's supposed to be.
+
+					TROI
+				(encouraging)
+			That's very nice.
+
+	Eric stops working and looks unhappily at his
+	sculpture.
+
+					ERIC
+				(frustrated)
+			No, it isn't. I just can't get it
+			right. Do you think the wings are
+			too big?
+
+	She now realizes what he's trying to make.
+
+					TROI
+			Not at all... birds have wings of
+			all sizes, Eric. But you
+			shouldn't worry about making it
+			look perfect.
+
+	Eric indicates the N.D. Teacher who's working with one
+	of the other students in the background.
+
+					ERIC
+			But Mrs. Narsu said we should try
+			to make our sculptures as
+			realistic as possible.
+
+					TROI
+			She's right... it is important for
+			you to be able to give the clay
+			the shape you want it to have.
+					(MORE)
+
+          STAR TREK: "Masks" REV. 12/09/93 - TEASER          2.
+
+1    CONTINUED:
+
+					TROI (Cont'd)
+			But today you're not supposed to
+			concentrate on technique. I'm
+			here to help you focus more on the
+			feelings you want to convey with
+			your sculpture.
+
+	Eric still looks confused. Troi tries to coax it out
+	of him.
+
+					TROI
+				(continuing)
+			For instance... What do you think
+			about when you see a bird?
+
+					ERIC
+				(hesitant)
+			Flying?
+
+					TROI
+			Fine. Then try to make your
+			sculpture make me think of flying,
+			too.
+
+	Eric brightens, understanding, and begins eagerly
+	reshaping his clay. Troi smile and moves away...
+
+2    FOLLOW TROI
+
+	as she leaves Eric and walks through the classroom.
+	She approaches Data.
+
+					TROI
+			How's it going, Data?
+
+					DATA
+			I have finished.
+
+	Troi reacts as Data shows her his sculpture: it's a
+	flawless CLAY REPLICA OF A PADD. Troi looks at it,
+	unsure how to react.
+
+					DATA
+				(continuing)
+			The dimensions are accurate to
+			within one-point-three percent.
+
+          STAR TREK: "Masks" REV. 12/09/93 - TEASER          3.
+
+2    CONTINUED:
+
+					TROI
+			I'm sure they are...
+				(beat)
+			You obviously have no trouble with
+			realism, Data, but you're here to
+			work on using your imagination.
+			Maybe you should try something a
+			little more... abstract.
+
+	Troi picks up the clay PADD and puts it aside. She
+	continues talking as she gets another raw LUMP OF CLAY
+	and sets it down in front of Data.
+
+					TROI
+				(continuing)
+			I want you to start a new piece...
+			I'd like you to sculpt... music.
+
+					DATA
+				(puzzled)
+			Music?
+
+	Troi nods.
+
+					DATA
+			Counselor. Music is a collection
+			of acoustic vibrations. How can
+			I reproduce a sound with clay?
+
+					TROI
+			Think of the effects that sounds
+			have on people... the images that
+			music brings to your mind... then
+			give them a form.
+
+	Data thinks for a beat then pounds the clay flat. In
+	a few seconds, he has molded the clay into the form of
+	a large MUSICAL NOTE. He shows it expectantly to Troi.
+
+					TROI
+				(continuing, looks at
+				 the shape)
+			It's a start.
+
+	Troi moves away. Data looks curiously at his clay, not
+	sure what to do next.
+
+					RIKER'S COM VOICE
+			Riker to Data... please report to
+			the Bridge.
+
+          STAR TREK: "Masks" REV. 12/14/93 - TEASER          4.
+
+2    CONTINUED: (2)
+
+					DATA
+				(taps combadge)
+			Acknowledged. I am on my way.
+
+	Data EXITS.
+
+									CUT TO:
+
+3    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	is following a mysterious-looking COMET, a smoky chunk
+	of icy material with a small GLOWING TAIL of gas coming
+	off one side. On the opposite side of the tail, in the
+	far background behind the comet, is a star -- a small
+	disk at this distance.
+
+					PICARD (V.O.)
+			Captain's Log, Stardate 47615.2.
+			We have encountered a rogue comet
+			in sector one-one-five-six. It is
+			not native to this region of
+			space, and there is no previous
+			record of this object on any
+			Federation charts.
+
+4    INT. BRIDGE
+
+	PICARD, RIKER, and Data are at their stations; N.D.
+	STARFLEET officers man the other positions. Everyone
+	is studying the Viewscreen.
+
+					DATA
+				(off console)
+			Based on its present trajectory,
+			the comet appears to have
+			originated in the D'Arsay system.
+
+					RIKER
+			That's over two sectors from
+			here...
+
+					DATA
+			That is correct, sir. This object
+			has been en route for eighty-seven
+			million years.
+
+					RIKER
+			That's a long time alone in the
+			dark.
+
+          STAR TREK: "Masks" REV. 12/10/93 - TEASER          5.
+
+4    CONTINUED:
+
+					PICARD
+				(to Data)
+			Begin a full sensor analysis,
+			Mister Data. Log the results for
+			the Federation Astrophysical
+			Survey.
+
+					DATA
+			Aye, sir.
+
+	Data begins to work his console.
+
+					DATA
+				(continuing)
+			The comet's outer shell is
+			composed primarily of gaseous
+			hydrogen and helium surrounding an
+			icy mantle. The inner core
+			consists of heavier elements--
+
+	Suddenly, the bridge LIGHTS FLARE, becoming
+	significantly brighter for a brief moment. Data cocks
+	his head sharply (it's not enough of a movement to be
+	suspicious, but in retrospect, we will realize that
+	something happened to him at this moment). As the
+	lights quickly return to normal, Data recovers and
+	returns his attention back to his console.
+
+					PICARD
+			What was that?
+
+					DATA
+				(off console)
+			There is distortion within the
+			comet's inner core. I believed we
+			experienced an intense sensor
+			echo.
+
+					RIKER
+			Can you correct for it?
+
+					DATA
+			I am attempting to do so now,
+			sir...
+
+	A beat as Data works his console...
+
+					DATA
+				(continuing)
+			I've compensated for the effect.
+			Sensors are reconfigured for a low
+			intensity sweep.
+					(MORE)
+
+          STAR TREK: "Masks" REV. 12/09/93 - TEASER          6.
+
+4    CONTINUED: (2)
+
+					DATA (Cont'd)
+			We are still picking up some
+			interference, but the distortion
+			is manageable...
+				(beat)
+			At these settings, the scan will
+			be complete in thirty-nine hours.
+
+	Picard nods. OFF his expression.
+
+									CUT TO:
+
+5    INT. TROI'S QUARTERS
+
+	as Troi and BEVERLY ENTER, in mid-conversation.
+	Beverly is carrying the 24th century equivalent of a
+	GYM BAG.
+
+					BEVERLY
+			... Worf said he's going to be
+			teaching us some Mok'bara throwing
+			techniques today.
+
+	Troi moves directly to her dresser and takes out her
+	martial arts gi. She continues speaking as she puts
+	the gi into a bag similar to Beverly's.
+
+					TROI
+			More like falling techniques...
+			the last time we did that I was
+			sore for a week...
+
+					BEVERLY (O.S.)
+			What's this?
+
+	Beverly is looking at a strange, solid-looking ARTIFACT
+	sitting on the table. It is a rectangular column, on
+	the top of which sits an oval that is reminiscent of a
+	head.
+
+	Troi moves over to join her and stares at the artifact
+	for a puzzled beat.
+
+					TROI
+			I have no idea.
+
+					BEVERLY
+			Maybe Wil left it here... a little
+			present?
+
+	Troi picks it up and examines it more closely.
+
+            STAR TREK: "Masks" 12/09/93 - TEASER            7.
+
+5    CONTINUED:
+
+					TROI
+			It's not quite his style...
+
+					BEVERLY
+			Then maybe you've got a secret
+			admirer.
+
+					TROI
+				(smiles)
+			That's an interesting thought...
+
+	Beverly takes the artifact out of Troi's hands and puts
+	it back on the table.
+
+					BEVERLY
+			Well, you can figure it out later.
+			We're going to be late.
+
+	Troi nods, and with a last look at the artifact, the
+	two women EXIT.
+
+6    CLOSE ON THE ARTIFACT (OPTICAL)
+
+	A short beat after they leave, a strange
+	MATERIALIZATION EFFECT occurs: four pairs of lines
+	suddenly appear on the "head" -- if there were a face,
+	the lines would be running up the forehead, down the
+	nose, and across both eyes in a four cardinal direction
+	COMPASS DESIGN. OFF the mystery...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT ONE         8.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+          (NOTE: Episode credits fall over opening scenes.)            
+
+7    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	at impulse, following the comet.
+
+8    INT. TEN FORWARD
+
+	Riker, WORF and GEORDI are at a table. Geordi has a
+	TRICORDER in front of him, a PADD is next to it. Riker
+	idly reaches for a small BOWL of bar-type snacks.
+
+					GEORDI
+			We've been getting some pretty
+			strange readings from that
+			comet... now it looks like
+			there's some kind of energy
+			generation coming from the core.
+
+					WORF
+			Is that unusual?
+
+					GEORDI
+			The core is normally just a chunk
+			of rock... it should be completely
+			inert.
+
+					RIKER
+				(shrugs)
+			Maybe we've discovered a new kind
+			of comet...
+
+	Riker takes a bite of a nut-like object from the bowl --
+	reacts with a scowl as he chokes it down.
+
+					RIKER
+				(continuing)
+			They must be changing the snacks
+			around here.
+
+	Geordi takes one of what Riker just had from the bowl,
+	inspecting it carefully.
+
+					GEORDI
+			I don't recognize it.
+
+	The waiter arrives with THREE DIFFERENT DRINKS, setting
+	them on the table.
+
+            STAR TREK: "Masks" 12/09/93 - ACT ONE            9.
+
+8    CONTINUED:
+
+					RIKER
+				(re: snack)
+			Well, whatever you do, don't put
+			it in your mouth.
+
+	They each pick up their drinks and with a "cheers" tip
+	of the glass, take a sip. Again, Riker scowls.
+
+					RIKER
+				(continuing)
+			This is terrible.
+
+	He sets it down -- it is bluish and viscous. Worf
+	picks up Riker's drink and takes a sip.
+
+					WORF
+			I like it.
+
+					RIKER
+			Then you can have it.. but it's
+			not what I ordered.
+
+	Geordi playfully aims his tricorder at the glass.
+
+					GEORDI
+				(lightly)
+			Let's see what they're trying to
+			poison you with...
+
+	His face changes when he sees the readout.
+
+					GEORDI
+				(continuing)
+			Wait a minute... this stuff is bio-organic...
+			there are oxygenated
+			cells... serum electrolytes...
+			This looks like some kind of...
+			blood.
+
+	Riker reacts.
+
+					RIKER
+			You're joking.
+
+					GEORDI
+			I'm serious.
+
+					RIKER
+			I'm gonna have a little talk with
+			the bartender.
+
+	Riker stands.
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT ONE         10.
+
+8    CONTINUED: (2)
+
+					GEORDI
+			It might not be his fault. We
+			should check out the replicator.
+
+	With a final grimace at the glass, Worf, Riker and
+	Geordi leave the table, heading for the bar.
+
+9    INT. CLASSROOM
+
+	The clay-modelling class continues as before --
+	including Data working next to Eric. But some of the
+	students have moved on to other projects. Eric is
+	working in front of a computer which displays a GRAPHIC
+	clearly visible as text.
+
+	Troi is walking slowly along, checking the clay-work.
+
+					TROI
+			Nice... Very good... I like
+			that...
+
+	When she gets to Data she reacts with surprise.
+
+10   INCLUDE DATA'S SCULPTURE
+
+	A MASK -- a kind of cross between Venetian and Mayan.
+	The lower face is open to leave the mouth exposed --
+	the upper section covers the nose and has holes for
+	eyes. The cheekbones sweep down and outward -- like
+	wings. The mask is a striking combination of the
+	simple and the sophisticated.
+
+					TROI
+			Data... This is amazing. How did
+			you come up with this?
+
+					DATA
+			I followed your advice, Counselor.
+			I used my imagination.
+
+	Troi examines the unusual design of the mask.
+
+					TROI
+			That's an understatement...
+
+					DATA
+			For some reason, as I shaped the
+			clay, the image of the mask was
+			exceptionally clear in my mind...
+			the design seemed to flow quite...
+			naturally.
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT ONE         11.
+
+10   CONTINUED:
+
+	Data picks up a SMALL TOOL and begins to scribe another
+	design into the clay. It's the distinctive COMPASS
+	DESIGN: a small pair of lines running vertically up the
+	forehead, another pair down the nose, two others
+	horizontally across the eyes -- like cardinal points of
+	direction. Exactly like the COMPASS DESIGN on the
+	artifact in Troi's quarters.
+
+					TROI
+				(recognizing it)
+			Data, have you been in my
+			quarters?
+
+					DATA
+			No, Counselor.
+
+					TROI
+			Somebody left an object in my
+			room... it was some kind of
+			artifact... and it looked similar
+			to this.
+				(beat)
+			You don't know anything about
+			that?
+
+					DATA
+			I do not.
+
+	Eric is suddenly frustrated at his computer. He moves
+	to Troi.
+
+					ERIC
+				(re: screen)
+			Excuse me, Counselor, could you
+			help me with my terminal? It's
+			not working right.
+
+11   INCLUDE THE COMPUTER SCREEN (OPTICAL)
+
+	which displays a few dozen, individually distinct,
+	alien-looking ideographic symbols -- ICONS -- which
+	themselves are arranged in the same paired line,
+	COMPASS DESIGN on the mask and artifact.
+
+	Data and Troi react.
+
+					DATA
+			Perhaps we should investigate this
+			matter further.
+
+	OFF their expressions.
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT ONE         12.
+
+12   INT. ENGINEERING (OPTICAL)
+
+	Geordi and Data are working intently at the consoles.
+	Riker is watching over their shoulders. A screen
+	displays rows of normal alphanumeric characters -- and
+	interspersed are several pockets of the alien ICONS,
+	always grouped together in the same COMPASS DESIGN
+	arrangement. (NOTE: As Riker and Geordi talk, Data's
+	attention will become progressively more focused on the
+	screen displaying the alien symbols.)
+
+					RIKER
+				(to Geordi)
+			These symbols don't match anything
+			in Federation linguistic banks.
+
+					GEORDI
+			Some kind of alien information has
+			been downloaded into our main
+			computer. I'm not exactly sure
+			how it's working, but it's
+			reconfiguring our systems.
+
+					RIKER
+			How did it get in?
+
+					GEORDI
+			I was able to trace its path from
+			the replicators to our sensor
+			array.
+
+					RIKER
+			The sensors?
+				(thinks)
+			They've been scanning that comet
+			for the last eighteen hours...
+
+	A beat as the implication sinks in.
+
+					GEORDI
+				(nods)
+			Those energy readings from the
+			comet's core... the sensor echo...
+				(beat)
+			We still don't know what's inside
+			that thing.
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT ONE         13.
+
+12   CONTINUED:
+
+					RIKER
+			Maybe it's time we found out.
+				(beat)
+			Could we use the phasers to melt
+			away the outer shell of the comet?
+
+					GEORDI
+				(considers)
+			A dispersed wide-field beam might
+			do the trick... it wouldn't take
+			long to come up with the firing
+			parameters...
+				(to Data)
+			What do you think, Data?
+
+	But strangely, Data does not respond immediately --
+	he's intently studying the alien symbols on the screen.
+	Geordi and Riker exchange a look, and then Geordi moves
+	closer to Data.
+
+					GEORDI
+				(continuing)
+			What's the matter?
+
+	Data slowly turns to his friend.
+
+					DATA
+			I believe I recognize these
+			symbols.
+
+					RIKER
+			How?
+
+					DATA
+			I do not know.
+
+					GEORDI
+			Do you think your systems may have
+			been affected?
+
+					DATA
+			It is a possibility. I do not
+			believe my systems are currently
+			impaired, but I will run a full
+			self-diagnostic to make certain.
+
+					RIKER
+				(beat; re: screen)
+			What do these symbols mean?
+
+           STAR TREK: "Masks" 12/09/93 - ACT ONE           14.
+
+12   CONTINUED: (2)
+
+	Data taps a control and one of the compass design
+	arrangements is isolated and expanded to fill the
+	screen. He points to one of the icons.
+
+					DATA
+				(continuing, as if
+				 reading)
+			"Boundary."
+
+	He continues to point at what he recognizes.
+
+					DATA
+				(continuing)
+			"Border." "Road." "Companion."
+			"Message." "Messenger."
+
+	Data taps the console again, and the compass design is
+	replaced by that of a stylized sun image. Data studies
+	it.
+
+					DATA
+				(continuing)
+			"Death."
+
+	OFF their exchanged looks -- what is going on... ?
+
+13   INT. BRIDGE
+
+	Picard, Riker, Data and Worf at their posts. Geordi is
+	at the aft science station. Worf works his console,
+	glances up.
+
+					WORF
+			Captain, phasers are set for wide
+			dispersal, ten percent maximum
+			power. The beam will terminate
+			automatically when the comet's
+			core is reached.
+
+					PICARD
+				(nods)
+			Very well, Mister Worf. Fire...
+
+	Worf works his console, firing the phasers...
+
+14   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship fires a wide phaser beam that hits the comet,
+	which starts to vaporize slowly and spectacularly away.
+	Hold for several dramatic beats.
+
+           STAR TREK: "Masks" 12/09/93 - ACT ONE           15.
+
+15   INT. BRIDGE
+
+	The sound of the phasers stops.
+
+					WORF
+				(off console)
+			Phasers have terminated... the
+			outer shell is gone...
+
+16   INCLUDE VIEWSCREEN (OPTICAL)
+
+	as Picard and the others watch the steaming mass on the
+	screen finally clear away. In place of the comet is an
+	incredible, huge, Mayan-esque, geometric piece of
+	technology, vestiges of the frozen gasses of the comet
+	still clinging to its alien surface. It is decorated
+	with the same type of ICONS that have appeared
+	mysteriously on the Enterprise.
+
+	OFF the reactions...
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT TWO         16.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL)
+
+	Continuous. Everyone stares at the awe-inspiring
+	object on the screen.
+
+					PICARD
+			Mister Data... What are we looking
+			at? Is it a ship?
+
+	Data is working his console, reading the results.
+
+					DATA
+			I do not believe so. The object
+			is nearly solid, composed
+			primarily of fortanium and several
+			unknown materials... It is more
+			than eighty-seven million years
+			old.
+
+					RIKER
+			That's older than the comet
+			itself. Could someone in the
+			D'Arsay system have built it?
+
+					PICARD
+				(considers)
+			There are no technologically
+			advanced cultures in that system
+			now... but perhaps there were
+			eighty-seven million years ago.
+
+					RIKER
+			But why would anyone hide
+			something like that inside a
+			comet?
+
+					PICARD
+			It's possible the frozen gasses
+			simply accumulated over time as it
+			travelled through space...
+
+	Geordi breaks in from his position at Aft Science.
+
+					GEORDI
+			In any case, it's definitely
+			responsible for the system
+			anomalies we've been experiencing.
+			It's been using our sensor beam as
+			a carrier wave to get information
+			into our computers and
+			replicators.
+
+           STAR TREK: "Masks" 12/09/93 - ACT TWO           17.
+
+17   CONTINUED:
+
+					PICARD
+			But the question remains: why?
+			What is its purpose?
+
+	A beat as they all ponder the question. Data turns
+	away from his console before he speaks.
+
+					DATA
+			Captain, I believe this object is
+			an informational archive.
+
+					PICARD
+			What makes you say that?
+
+	Data seems a little puzzled by his statement himself.
+
+					DATA
+			I... do not know, sir. However,
+			I seem to have an intuitive
+			understanding of its function.
+
+	Everyone reacts -- it's a strange thing for Data to
+	say. Geordi moves over to Data's console and looks
+	over his shoulder, studying the readouts.
+
+					GEORDI
+				(to Picard)
+			The internal structure of that
+			thing is pretty complex... and
+			it's got a repetitive node
+			configuration which might suggest
+			a database of some kind... but it
+			could be practically anything.
+				(to Data)
+			I don't see how you could know for
+			sure what it is.
+
+	Picard looks at Data, concerned.
+
+					PICARD
+			Data... do you believe you're in
+			communication with that object?
+
+					DATA
+			It is a possibility, sir. I
+			recommend that we perform a level
+			one diagnostic of my positronic
+			net immediately to determine if
+			that is the case.
+
+					PICARD
+			Very well... Mister LaForge, give
+			him a hand.
+
+         STAR TREK: "Masks" REV. 12/10/93 - ACT TWO         18.
+
+17   CONTINUED: (2)
+
+	Geordi and Data acknowledge and move away, EXITING the
+	Bridge. An N.D. Starfleet Officer takes over Data's
+	position at Ops. Picard and Riker continue to study
+	the alien object.
+
+					RIKER
+				(to Picard)
+			Do you think it's just trying to
+			make contact with us?
+
+					PICARD
+				(thoughtful)
+			Perhaps. And if this really is an
+			archive from some ancient
+			civilization, we should allow it
+			to do so. But we must be
+			careful...
+				(beat)
+			Mister Worf, keep an eye on the
+			sensors. If the Archive poses any
+			danger to the ship, I want you to
+			sever the connection immediately.
+
+					WORF
+			Aye, sir.
+
+	OFF Picard's fascinated expression.
+
+18   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship following the ancient object.
+
+19   INT. READY ROOM
+
+	The room is now dotted with ARTIFACTS -- on the
+	shelves, on the desk, on the floor -- collected from
+	all over the ship. They all share the same vaguely
+	Mayan look we've seen before.
+
+	Picard is standing in the middle of the room, examining
+	the artifact from Troi's room. The cylinder has the
+	now-familiar COMPASS DESIGN carved on its surface.
+	Picard studies it carefully, jotting an occasional note
+	on a PADD -- if not for the surroundings, he might be
+	an archaeologist on a dig.
+
+	The door CHIMES.
+
+					PICARD
+			Come.
+
+	Riker ENTERS -- and stops short, reacting to the sight.
+
+           STAR TREK: "Masks" 12/09/93 - ACT TWO           19.
+
+19   CONTINUED:
+
+					RIKER
+			Captain...
+
+	Picard motions Riker in but doesn't stop working.
+
+					PICARD
+			Come in, Number One...
+
+	Riker moves closer.
+
+					RIKER
+			We've confined the system
+			corruption. It's not spreading
+			any further, but we've still got
+			alien symbols floating around
+			inside our computer...
+
+	Picard merely nods and jots another note onto his PADD
+	and moves to study another object.
+
+					RIKER
+			This is quite a collection you've
+			assembled...
+
+	Riker picks up an object and looks it over...
+
+					RIKER
+				(continuing)
+			I've seen these things all over
+			the ship. They all look the
+			same... primitive and non-functional.
+
+					PICARD
+				(correcting him)
+			Ceremonial... and deceptively
+			primitive. Only an advanced
+			technological culture could have
+			built that object out there.
+			These artifacts must have played
+			a ritualistic role in their
+			society.
+
+					RIKER
+			Do you think Data's right? Have
+			we stumbled across some kind of
+			alien library?
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT TWO         20.
+
+19   CONTINUED: (2)
+
+	Picard clearly likes the notion.
+
+					PICARD
+			It's possible... and if so, this
+			could be a find of enormous
+			significance. This "library"
+			seems designed to do far more than
+			simply store information. Who
+			knows how much we could learn from
+			it?
+
+	Riker smiles at Picard's obvious excitement. He
+	glances at the COMPASS DESIGN carved on the stone
+	cylinder seen earlier.
+
+					RIKER
+			I keep seeing this design...
+
+					PICARD
+				(nods)
+			It seems to be a symbol of some
+			significance.
+
+					RIKER
+			What do you think it means?
+
+					PICARD
+				(offers)
+			The concept of the four cardinal
+			compass directions is common to
+			many different cultures...
+
+					RIKER
+			The words Data recognized on the
+			computer -- "boundary," "border,"
+			"road" -- they were also arranged
+			in that design.
+
+					PICARD
+			Perhaps everything with the
+			compass design is part of the same
+			theme -- movement. Finding a
+			direction, travelling a path,
+			crossing a boundary--
+
+					RIKER
+			And "death." One of the symbols
+			was "death."
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT TWO         21.
+
+19   CONTINUED: (3)
+
+					PICARD
+			The ultimate boundary.
+
+	Picard turns and picks up a small STONE NECKLACE with
+	a stylized SUN-DESIGN PENDANT (similar to the symbol
+	seen in Act 1.) He turns it over.
+
+20   INSERT - THE PENDANT
+
+	On the back is a small symbol -- off to one side, as if
+	not wanting to be the center of attention. It is the
+	symbol of what we will come to know as the moon.
+
+					PICARD'S VOICE
+			I keep seeing this symbol, too....
+			but it's never prominently
+			displayed...
+
+21   BACK TO SCENE
+
+					PICARD
+			Always in the background...
+			smaller than the others...
+
+					RIKER
+			Do you know what it represents?
+
+					PICARD
+			I have no idea.
+
+	OFF their expressions as they share the mystery.
+
+									CUT TO:
+
+22   INT. ENGINEERING
+
+	Data is sitting calmly; a section of his head is open.
+
+					GEORDI
+			Lower synaptic functions are
+			completely normal... Autonomous
+			systems all check out...
+
+					DATA
+			I suggest we examine the memory
+			sub-systems next.
+
+					GEORDI
+			All right...
+
+         STAR TREK: "Masks" REV. 12/09/93 - ACT TWO         22.
+
+22   CONTINUED:
+
+	As Geordi begins to work a panel, Data suddenly makes
+	an abrupt head tilt. He looks puzzled.
+
+					GEORDI
+				(noticing)
+			Data... what's the matter?
+
+					DATA
+			I am... not certain. I am
+			experiencing a curious
+			sensation...
+
+					GEORDI
+			What is it?
+
+					DATA
+			An... impulse.
+
+	Geordi reacts.
+
+					GEORDI
+			Impulse? What kind of impulse?
+
+					DATA
+			I do not know.
+
+					GEORDI
+			I'm checking your higher
+			functions.
+
+	A beat. Data's voice is a little uneven.
+
+					DATA
+			Geordi... What does it feel like
+			when a person... loses his mind?
+
+					GEORDI
+			Data, you're scaring me. What's
+			the matter?
+
+					DATA
+			I... do not... know...
+
+					GEORDI
+			You're gonna be all right. You're
+			with me, okay?
+
+	Data glances up at his friend.
+
+					DATA
+			Okay.
+
+	Geordi turns back to the console -- sees a violent
+	change in the reading.
+
+         STAR TREK: "Masks" REV. 12/10/93 - ACT TWO         23.
+
+22   CONTINUED: (2)
+
+					GEORDI
+			What's going on... ?
+
+	He quickly rushes to Data, and sees that inside Data's
+	head is a web of alien circuitry, similar to the
+	artifacts we've already seen, as if the positronic
+	brain itself has been transformed.
+
+					GEORDI
+				(stunned)
+			Data...
+
+	Data suddenly turns toward Geordi -- the compass design
+	he scribed on the mask is now on his own face, in
+	raised, tiny scars. A ceremonial NECKPLATE with a
+	distinctive design has also appeared around Data's
+	neck.
+
+	Data looks at Geordi and smiles, his voice animated and
+	playful.
+
+					DATA/IHAT
+			Masaka is waking.
+
+	Geordi reacts with a horrified look. OFF Data's
+	smile...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        STAR TREK: "Masks" REV. 12/10/93 - ACT THREE        24.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+23   INT. ENGINEERING
+
+	Data, his head plate now back in place, is moving
+	around the room in an energetic, very non-Data fashion,
+	curiously inspecting his surroundings as though he's
+	never seen this place before. Geordi watches him,
+	concerned.
+
+	Picard ENTERS with TWO N.D. STARFLEET Security Guards.
+	As the guards fan out cautiously, watching Data, Geordi
+	turns to Picard.
+
+					GEORDI
+			Captain, he just--
+
+					DATA/IHAT
+				(interrupting)
+			I waited for you, Captain. You
+			should feel honored... I don't
+			usually wait for anybody.
+
+	Picard reacts to Data's loose manner.
+
+					PICARD
+				(cautiously)
+			What is it you want?
+
+					DATA/IHAT
+			Masaka is waking.
+
+					PICARD
+			Are you Masaka?
+
+	Data/Ihat rolls his eyes and turns to Geordi.
+
+					DATA/IHAT
+			What were my exact words?
+
+					GEORDI
+			You said, "Masaka is waking."
+
+					DATA/IHAT
+			And isn't that what I've been
+			saying since we first met?
+
+	Geordi nods. Satisfied, Data/Ihat turns back to
+	Picard.
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT THREE        25.
+
+23   CONTINUED:
+
+					DATA/IHAT
+			I'm not "Masaka", Captain...
+				(proudly)
+			I am Ihat.
+
+					PICARD
+			What have you done to Commander
+			Data?
+
+					DATA/IHAT
+			Commander Data... ?
+
+	Data/Ihat seems to be momentarily at a loss, apparently
+	not understanding what Picard is referring to; but
+	then, he brightens, and indicates his own body.
+
+					DATA/IHAT
+				(continuing)
+			You mean the one who was here?
+
+	Picard reacts to the phrasing.
+
+					PICARD
+			Yes.
+
+					DATA/IHAT
+			He's gone. And who can say where?
+
+	Picard has seen enough to know that he's going to need
+	some help here. He discreetly taps his combadge.
+
+					PICARD
+				(to com)
+			Counselor Troi, report to
+			Engineering immediately.
+
+	Ihat is again moving around the room, taking in his
+	surroundings. While he waits for Troi, Picard is
+	trying to get as much information out of him as he can.
+
+					PICARD
+				(continuing)
+			Ihat. The place you came from...
+			Is it a cultural archive of your
+			species?
+
+	Data/Ihat doesn't seem to understand the question.
+
+					DATA/IHAT
+				(simply)
+			I come from Masaka's city.
+
+	Picard reacts.
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT THREE        26.
+
+23   CONTINUED: (2)
+
+					PICARD
+			Are there others like you there?
+
+					DATA/IHAT
+				(laughs)
+			There are no others like me.
+
+					PICARD
+			Who is Masaka?
+
+	There is a trace of wariness and fear when he responds.
+
+					DATA/IHAT
+			You will find out...
+
+	Picard and Geordi react. Data/Ihat indicates the room.
+
+					DATA/IHAT
+				(continuing)
+			I don't think Masaka will like
+			this place... at least not the way
+			it is now...
+
+					PICARD
+				(pressing)
+			I would like to know more about
+			this Masaka... perhaps we can
+			speak --
+
+	Data/Ihat whirls on Picard, intense.
+
+					DATA/IHAT
+			Do you understand pain? Death?
+			That is all you need to know about
+			Masaka... that is what she is.
+
+	Data/Ihat looks around furtively, as if someone were
+	after him.
+
+					DATA/IHAT
+			You must go... leave this place
+			before she finds you. It can be
+			done... I did it...
+
+	At that moment, Troi ENTERS.
+
+					TROI
+			What's going on, sir?
+
+	Data/Ihat whirls at the sound of her voice, surprised.
+	When he sees Troi, all trace of swagger vanishes,
+	replaced instantly and completely with fear.
+
+        STAR TREK: "Masks" REV. 12/15/93 - ACT THREE        27.
+
+23   CONTINUED: (3)
+
+					DATA/IHAT
+			Masaka... ?
+
+	He barely manages to gasp out the one, terror-filled
+	word before he jerks violently and falls to his knees
+	with a strangled cry.
+
+					GEORDI
+			Data!
+
+	Geordi rushes over to help his friend to his feet, but
+	when Data looks up, he has changed again: he's wearing
+	a NEW NECKPLATE with a different distinctive design
+	than before.
+
+	Data stares at Troi with wild eyes and a blissful,
+	toothy grin. He speaks with a fanatical, zealous
+	fervor.
+
+					DATA/VICTIM
+			Masaka! I am yours! Every part
+			of me is yours!
+
+					PICARD
+				(gravely, to N.D.
+				 Security)
+			Get him to Sickbay.
+
+	As Geordi and the N.D. Security Guards move to take
+	Data away, Picard and Troi exchange a concerned look...
+
+									CUT TO:
+
+24   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as before, travelling with the ancient archive.
+
+25   INT. OBSERVATION LOUNGE
+
+	Picard, Riker, Beverly, Troi, and Geordi.
+
+					BEVERLY
+			Every time he saw Deanna, he'd
+			fall to his knees screaming "Take
+			me, Masaka -- take me."
+
+					TROI
+			Data was acting as if he were a
+			sacrificial victim of some kind...
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT THREE        28.
+
+25   CONTINUED:
+
+					PICARD
+			And apparently one all too willing
+			to go to his death.
+
+					BEVERLY
+			I put him in isolation in his
+			quarters. He's under guard... he
+			seems to have calmed down a
+			little.
+
+					RIKER
+			Couldn't we just shut him down and
+			purge his memory systems?
+
+	Geordi shakes his head grimly.
+
+					GEORDI
+			I don't think it's going to be
+			that simple...
+
+	Geordi gets up, moves to the monitor, where there is a
+	GRAPHIC of a complex web of interconnections, but the
+	connections have been radically reorganized into
+	several centers -- nodal points with complex webs
+	radiating from each. The structure suggests the
+	vaguely Mayan alien designs we've seen before.
+
+					GEORDI
+			This is a micrograph of what's
+			happened to Data's positronic net.
+			As near as I can tell, these are
+			behavioral nodes... I've found
+			fourteen of them so far.
+				(beat)
+			I think the Archive is using Data
+			to create different "people" from
+			its culture... in the same way it
+			used our replicators to create
+			artifacts.
+
+        STAR TREK: "Masks" REV. 12/14/93 - ACT THREE        29.
+
+25   CONTINUED: (2)
+
+					TROI
+			As a result, his real personality
+			has been completely buried. In a
+			sense, Data has the android
+			equivalent of multiple
+			personalities.
+
+					GEORDI
+			And the Archive hasn't stopped
+			yet... Data's positronic net is
+			still being transformed. There's
+			no way to tell how many more
+			personalities might emerge...
+
+	There's a stunned beat as everyone takes in the
+	information.
+
+					RIKER
+			Our sensors are still in contact
+			with the Archive. Would there be
+			a risk to Data if we severed that
+			connection?
+
+					GEORDI
+			I don't know... but I wouldn't
+			want to take the chance. Right
+			now, our only link to the Archive
+			is that sensor beam. If there's
+			a way to reverse what's happened
+			to Data, I think we're going to
+			need that link to do it.
+
+	Picard takes a beat to consider his limited options.
+
+					PICARD
+			Mister La Forge, continue to scan
+			the Archive. Try to find some way
+			to access it. In the meantime,
+			I'll see what I can learn from
+			these "people" inside Data.
+
+	OFF Picard's grim expression.
+
+26   INT. DATA'S QUARTERS
+
+	The DOOR OPENS and Picard ENTERS. Two Security Guards
+	can be seen standing outside. Data is on the floor,
+	curled up tightly in a corner of the room (he is still
+	in his "Victim" personality). As Picard approaches
+	him, he recoils.
+
+       STAR TREK: "Masks" REV. 12/14/93 - ACT THREE       29A.
+
+26   CONTINUED:
+
+					PICARD
+				(gently)
+			It's all right... I'm not going to
+			hurt you...
+
+					DATA/VICTIM
+			Only Masaka can hurt me... I am
+			for her alone...
+
+					PICARD
+				(continuing)
+			I need to speak to Ihat. Do you
+			understand me? Ihat...
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT THREE        30.
+
+26   CONTINUED:
+
+	For a moment, Data/Victim returns nothing but a fearful
+	stare, uncomprehending and empty. But then, Data jerks
+	suddenly -- when he turns back to Picard, he has
+	changed into his Ihat personality.
+
+					DATA/IHAT
+			Captain...
+
+	Picard is almost glad to see him. Data/Ihat goes into
+	his customary high-energy mode and starts pacing around
+	the room.
+
+					DATA/IHAT
+				(continuing)
+			That was a cruel joke to play on
+			me. For a moment -- a brief
+			moment -- I actually thought that
+			woman was Masaka.
+
+					PICARD
+			Whoever took your place wasn't
+			afraid of Masaka -- he almost
+			seemed eager for his fate.
+
+					DATA/IHAT
+			Pitiful, isn't it?
+				(mock Victim voice)
+			"Take me! Take me!" Ha. You
+			wouldn't catch me humiliating
+			myself for a woman -- even if she
+			were a queen.
+
+					PICARD
+			Then Masaka is your queen... ?
+
+					DATA/IHAT
+			She's a lazy creature... she
+			spends most of her time
+			sleeping...
+				(beat)
+			The problem is what she does when
+			she's awake.
+
+	Picard has no choice but to play along.
+
+					PICARD
+			Then should we try to keep her
+			asleep?
+
+					DATA/IHAT
+				(laughs)
+			Try to keep the sun from climbing
+			the sky? Only Korgano can do
+			that. And he's not here.
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT THREE        31.
+
+26   CONTINUED: (2)
+
+					PICARD
+			Where is he?
+
+	Suddenly, Data/Ihat collapses onto the floor, pulling
+	himself inward, knees huddled together, head down, arms
+	tight.
+
+					DATA/BOY
+			Help me... please...
+
+	Picard steps over and Data looks up. The Ihat
+	neckplate is gone. In its place is ANOTHER NECKPLATE
+	with yet another distinctive design -- Data has now
+	assumed the personality of a frightened Boy.
+
+					PICARD
+			What's wrong?
+
+					DATA/BOY
+			I'm afraid.
+
+					PICARD
+			Of what?
+
+					DATA/BOY
+			Of her.
+
+					PICARD
+			Masaka?
+
+					DATA/BOY
+			Her.
+
+	Suddenly, the SHIP TREMBLES. Lights go out; emergency
+	lighting comes on.
+
+					PICARD
+				(taps combadge)
+			Picard to Bridge! Report!
+
+27   INT. BRIDGE
+
+	Lots of activity. Riker is on his feet, Geordi is at
+	Aft Science. Worf is heading quickly toward the
+	Turbolift.
+
+					RIKER
+				(to com)
+			The Archive just activated some
+			kind of tractor beam, sir. We
+			can't disengage it.
+
+        STAR TREK: "Masks" REV. 12/10/93 - ACT THREE        32.
+
+27   CONTINUED:
+
+					PICARD'S COM VOICE
+			Has there been any damage to the
+			ship?
+
+					RIKER
+				(to com)
+			Nothing major, sir, but Ten
+			Forward reported an emergency.
+			Worf's on his way.
+
+	Geordi glances up from his console.
+
+					GEORDI
+				(to com)
+			Captain, there's some kind of
+			energy pulse coming through the
+			tractor beam...
+
+28   INT. DATA'S QUARTERS
+
+					GEORDI'S COM VOICE
+			It's overriding our control
+			systems...
+
+					PICARD
+				(to com)
+			I'll be right there...
+
+	Picard starts to move away but stops short -- Data/Boy
+	has a vice-like grip on Picard's wrist.
+
+					DATA/BOY
+			Don't leave me.
+
+	Data's hand slowly grips tighter with his android
+	strength. Picard stifles a cry of pain.
+
+					PICARD
+			I... I... won't... leave you...
+				(beat)
+			Please... let go...
+
+					DATA/BOY
+			Does it hurt?
+
+					PICARD
+				(barely)
+			Yes...
+
+					DATA/BOY
+			She's going to hurt us all...
+
+          STAR TREK: "Masks" 12/09/93 - ACT THREE          33.
+
+28   CONTINUED:
+
+	Data stares at him for a moment longer and then
+	abruptly releases his grip. As Picard grabs his wrist
+	in pain, Data jerks and stares up at Picard -- he has
+	changed again and is now back in his Ihat personality.
+	He smiles ruefully at Picard.
+
+					DATA/IHAT
+			Now you've done it. Masaka is
+			awake.
+
+	OFF Picard's reaction...
+
+29   INT. CORRIDOR
+
+	Worf and Two Security Guards are hurrying up a
+	corridor. They arrive at Ten-Forward and step quickly
+	through the entrance.
+
+30   INT. TEN-FORWARD - CONTINUOUS
+
+	Worf and his officers are shocked at what they find.
+	The room has been transformed. Tropical foliage is
+	everywhere, green vines and huge, red, fern-like
+	fronds. Half the tables are gone -- stone slabs take
+	their place. The patrons are standing around in
+	stunned silence.
+
+	The bar has been partially transformed into rough
+	stone; a stone column stands near it, and inscribed
+	prominently on it is a LARGE FEMALE FACE IN THE RADIANT
+	SHAPE OF A SUN.
+
+	OFF their stunned expressions...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+           STAR TREK: "Masks" 12/09/93 - ACT FOUR           34.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+31   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	A powerful beam is being continuously projected from
+	the Archive into the saucer section of the Enterprise.
+
+32   INT. TEN FORWARD
+
+	Like the rest of the ship, the room is dark and lit
+	only by emergency lights. All non-essential personnel
+	have been cleared, and Geordi and Worf are using
+	tricorders to scan the vegetation and stone slabs.
+
+	Picard circles around the sun image, studying it,
+	trying to fit things together as Troi watches nearby.
+
+					TROI
+				(re: sun image)
+			Who is this?
+
+					PICARD
+			I'd say it's Masaka. Ihat
+			referred to her as a queen... it's
+			not unusual in ceremonial cultures
+			for royalty to be symbolized by a
+			sun.
+
+					TROI
+			You said the personalities inside
+			Data were in awe of her... even
+			terrified.
+
+					PICARD
+				(nods)
+			According to Data, the sun image
+			is also the symbol for death.
+
+	They move to the back of the column, where Picard
+	notices something.
+
+					PICARD
+			There it is again... this U-shaped
+			symbol... small and
+			insignificant... almost like an
+			afterthought...
+
+	But before Troi can respond, Geordi and Worf approach.
+
+          STAR TREK: "Masks" 12/09/93 - ACT FOUR          34A.
+
+32   CONTINUED:
+
+					GEORDI
+			Captain, this is incredible...
+			These artifacts weren't beamed
+			over here from the archive... the
+			matter in Ten Forward was
+			transformed.
+
+					PICARD
+			Into living plants? How is that
+			possible?
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT FOUR        35.
+
+32   CONTINUED: (2)
+
+					GEORDI
+			I'm not sure. But bit by bit, the
+			ship's being transformed.
+
+					WORF
+			We have received reports from the
+			rest of the ship. Part of deck
+			twelve is now an aqueduct.
+
+					TROI
+			What are we being transformed
+			into?
+
+					GEORDI
+			I'm not sure I want to find out.
+
+	Picard takes in the information. It's a difficult
+	decision for him to make, but there's no alternative.
+
+					PICARD
+			I don't think we have a choice...
+			we'll have to destroy the Archive.
+			Mister Worf?
+
+					WORF
+			Sir, our weapon control systems
+			are inoperative. However, we
+			could configure a photon torpedo
+			for manual launch...
+
+					PICARD
+			Make it so.
+
+	Geordi and Worf turn and EXIT. Picard and Troi look
+	around the strangely transformed room.
+
+					PICARD
+			There's so much here we could have
+			learned... I regret losing that
+			opportunity.
+
+	Troi acknowledges his ambivalence.
+
+									CUT TO:
+
+        STAR TREK: "Masks" REV. 12/10/93 - ACT FOUR        36.
+
+33   INT. ENGINEERING
+
+	Emergency lighting only. A PHOTON TORPEDO lies on a
+	cradle between the pool table and the warp core. A
+	control panel on the torpedo casing flickers with
+	several lights. Geordi works at the pool table console
+	as Worf scans the torpedo.
+
+					GEORDI
+			Okay... I've locked in the
+			targeting parameters... what's the
+			phase alignment now?
+
+					WORF
+			Less than point seven percent.
+
+					GEORDI
+			That'll do it. I'm setting the
+			yield at maximum...
+
+	But at Geordi works, the control panel lights on the
+	torpedo go dead.
+
+					WORF
+				(puzzled)
+			Sir... the onboard power systems
+			are not functioning...
+
+	Geordi crosses to the torpedo, tries to activate it
+	manually, but it doesn't work.
+
+					GEORDI
+			What's going on here... ?
+
+	Geordi opens up the casing and both men look inside...
+
+34   INSIDE THE TORPEDO
+
+	It is full of writhing snakes.
+
+35   RESUME SCENE (OPTICAL)
+
+	Worf and Geordi react and jump back -- then they turn
+	around and see the awesome IMAGE OF MASAKA which now
+	fills the entire back panel of Engineering. A few
+	vines are hanging on the walls.
+
+					GEORDI
+			Something tells me we'd better get
+			out of here...
+
+           STAR TREK: "Masks" 12/09/93 - ACT FOUR           37.
+
+35   CONTINUED:
+
+	They quickly move toward the exit -- only to be driven
+	back by a roaring WALL OF FLAMES that shoots up in
+	front of the them... The room around them has become a
+	nightmarish, hell-like place.
+
+					WORF
+				(taps combadge)
+			Engineering to Bridge -- emergency
+			transport! Two to beam out...
+
+	Geordi and Worf DEMATERIALIZE.
+
+									CUT TO:
+
+36   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship still held by the beams from the Archive.
+
+37   INT. BRIDGE
+
+	The Bridge is dark, lit only by the emergency lights.
+	The walls are hung with strange, ominous vines.
+
+	Picard and Troi are near the Aft Science station,
+	heading for the Observation Lounge when those DOORS
+	OPEN and Riker comes out onto the Bridge. He's a
+	little shaken from seeing something in that room.
+
+					RIKER
+			Maybe we'd better talk in here.
+			The Observation Lounge seems to
+			have become a swamp.
+
+	Nobody argues with him. They gather around the command
+	area, where Worf, Beverly, and Geordi join them.
+
+					PICARD
+				(to Geordi)
+			What's our status?
+
+					GEORDI
+			So far the Archive's transformed
+			over twenty percent of the ship...
+			and we've lost main propulsion and
+			weapons systems in the process.
+
+					RIKER
+			What about communications?
+			Sensors? Life support?
+
+        STAR TREK: "Masks" REV. 12/14/93 - ACT FOUR        38.
+
+37   CONTINUED:
+
+					GEORDI
+			We have communications, and
+			limited sensor control. Life
+			support seems unaffected.
+
+					BEVERLY
+			I've been analyzing samples of
+			these alien plant forms. They've
+			been formed from biological matter
+			we have on the ship...
+
+					GEORDI
+			The stone, the artifacts...
+			they're made the same way --
+			extrapolated from the ship's own
+			alloys.
+
+					BEVERLY
+			Apparently the Archive can reorder
+			and transform molecular structures --
+			including DNA -- to make whatever
+			it wants.
+
+					PICARD
+			So it's using our ship -- our
+			alloys, our DNA, -- to create
+			elements of its own culture...
+
+           STAR TREK: "Masks" 12/09/93 - ACT FOUR           39.
+
+37   CONTINUED: (2)
+
+					TROI
+			But why is all this happening?
+			What is the Archive trying to
+			accomplish?
+
+					WORF
+			It could be a weapon.
+
+	They all look at him.
+
+					WORF
+			It is powerful and insidious. It
+			has completely disarmed us.
+
+					RIKER
+			Maybe it's more benign than that.
+			If a civilization were dying...
+			they might have created this
+			technology to preserve their
+			culture, and re-create it at some
+			later point...
+
+	Picard paces, trying to fit the pieces together.
+
+					PICARD
+			It could even be a sophisticated
+			terraforming device.
+
+	The others look at him quizzically.
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT FOUR        40.
+
+37   CONTINUED: (3)
+
+					PICARD
+			The Archive creates an
+			environment... all the elements
+			which enable a culture to exist...
+
+	They realize there are many possibilities -- and that
+	they may never know the real reason behind this
+	technology.
+
+					PICARD
+			But whatever the intent behind the
+			process, I don't want this ship
+			transformed into an alien city.
+			Mister La Forge, do you have any
+			ideas?
+
+					GEORDI
+			We still haven't been able to cut
+			off that beam... but I've managed
+			to access the Archive by sending
+			an energy pulse back along their
+			signal path. If I can locate the
+			transformation program, I might be
+			able to get control of it.
+
+					PICARD
+			Good, keep at it...
+
+	Picard turns to gaze at the Viewscreen.
+
+38   ON THE VIEWSCREEN (OPTICAL)
+
+	as Masaka's mask looms over them.
+
+					PICARD'S VOICE
+			But somehow... I believe the
+			answer lies there...
+
+39   RESUME SCENE
+
+					PICARD
+			... with Masaka. We need to find
+			her... access her... talk to her.
+
+	The others acknowledge -- this must be done.
+
+        STAR TREK: "Masks" REV. 12/10/93 - ACT FOUR        41.
+
+40   INT. DATA'S QUARTERS
+
+	Even darker than the Bridge. The door opens and Picard
+	steps inside. A small fire is burning on the other
+	side of the cabin -- on the now dirt-covered floor.
+	Data is crouched down besides it, warming his hands.
+
+	As Picard approaches, he sees that Data is wearing a
+	NEW NECKPLATE, one he hasn't seen before.
+
+					PICARD
+				(cautious)
+			Hello...
+
+	Data's voice is old and tired, and he moves slowly and
+	with difficulty like an old man.
+
+					DATA/ELDER
+			It's difficult... to stay warm...
+
+	Picard sits down next to him.
+
+					PICARD
+			The fire feels good...
+
+	Data/Elder looks at him quizzically.
+
+					DATA/ELDER
+			But it's not warm enough. Not for
+			an old man.
+
+					PICARD
+			Tell me... about Masaka.
+
+					DATA/ELDER
+			My daughter?
+
+	Picard reacts, amazed.
+
+					PICARD
+			Yes... how can I talk to her?
+
+	Data/Elder laughs -- a dry, cackling rasp.
+
+					DATA/ELDER
+			Talk -- to Masaka?
+
+					PICARD
+			Yes. It's important. Can you
+			tell her I must speak with her?
+
+					DATA/ELDER
+			Children grow... forget their
+			parents... no, only Korgano can
+			talk to Masaka.
+
+        STAR TREK: "Masks" REV. 12/14/93 - ACT FOUR        42.
+
+40   CONTINUED:
+
+					PICARD
+			Korgano... who is that?
+
+	Data/Elder seems to lose interest... stares back into
+	the fire.
+
+					DATA/ELDER
+			So cold... can't stay warm...
+
+	Suddenly, Data/Elder seems to crumple into a limp
+	heap... and then he jumps up, vital and hyper (NOTE: he
+	is now wearing his Ihat neckplate).
+
+					DATA/IHAT
+			Well, you're a persistent one,
+			aren't you?
+
+					PICARD
+			Ihat?
+
+					DATA/IHAT
+			Is anyone else so charming?
+
+					PICARD
+			Masaka is taking over my ship.
+
+					DATA/IHAT
+			I told you she would.
+
+					PICARD
+			I want to talk with her... but I'm
+			told only Korgano can do that.
+
+	Data/Ihat is wary, alert.
+
+					DATA/IHAT
+			Who told you that?
+
+					PICARD
+			An old man... Masaka's father...
+
+					DATA/IHAT
+			Ah, yes... legends say she chopped
+			him up and used his bones to make
+			the world.
+				(beat)
+			Any wonder he doesn't like to talk
+			about her?
+
+					PICARD
+			How can I find Korgano?
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT FOUR        43.
+
+40   CONTINUED: (2)
+
+					DATA/IHAT
+			I don't know. He's not chasing
+			her anymore.
+
+					PICARD
+			Where has he gone?
+
+	Data/Ihat paces, agitated, uncomfortable with all this.
+
+					DATA/IHAT
+			Stop asking these questions. I
+			was fast enough to avoid her
+			once... I don't want her to find
+			me again. I'll end up on her
+			sacrificial slab.
+
+					PICARD
+			If Masaka is looking for a
+			sacrifice... she can take me
+			instead.
+				(beat)
+			Perhaps then she'd stop looking
+			for you.
+
+					DATA/IHAT
+				(a chuckle)
+			Well, there's an idea. Better you
+			than me.
+
+					PICARD
+			All right. Tell me what to do...
+
+	There is a hesitation, as though Ihat is coming to a
+	decision. Then --
+
+					DATA/IHAT
+			You must build Masaka's temple...
+			the Queen's temple. That will get
+			her attention.
+
+					PICARD
+			Very well. How do I do that?
+
+					DATA/IHAT
+			You need the sign.
+				(beat, coy)
+			I could give it to you... so could
+			the Old Man. But just try getting
+			it out of him.
+
+					PICARD
+			Give me the sign.
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT FOUR        44.
+
+40   CONTINUED: (3)
+
+	Data/Ihat in an agony of indecision.
+
+					DATA/IHAT
+			If she finds out...
+				(beat)
+			You can't imagine her rage... she
+			lets people die of thirst... a
+			terrible death. Sometimes she
+			burns them alive...
+				(beat, in awe)
+			She is glorious.
+
+	But Picard is impatient with all this.
+
+					PICARD
+			Ihat... the sign. What is it?
+
+	Data/Ihat looks around him, as though ascertaining that
+	no one else is around.
+
+					DATA/IHAT
+			If she comes... you'll take my
+			place?
+
+					PICARD
+			Yes.
+
+					DATA/IHAT
+			All right. Quickly. Give me your
+			hand.
+
+	Picard holds out his hand. Data/Ihat takes it, turns
+	it face up, and starts "drawing" a line with one finger
+	across Picard's palm.
+
+					DATA/IHAT
+				(continuing)
+			A line, as the unending horizon...
+				(beat)
+			A curve as --
+
+	Suddenly Data freezes. A look of terror crosses his
+	face.
+
+					DATA/IHAT
+				(continuing)
+			She has found me.
+
+	Picard looks for another change in Data.
+
+					PICARD
+			Masaka, show yourself. I'll go
+			with you...
+
+        STAR TREK: "Masks" REV. 12/09/93 - ACT FOUR        45.
+
+40   CONTINUED: (4)
+
+	But Data/Ihat sinks to his knees.
+
+					DATA/IHAT
+				(continuing)
+			It seems... I was not fast
+			enough...
+
+	His head droops. Picard crouches down beside him.
+	Then Data looks up -- he's wearing the Elder's
+	neckplate. Data crumples into a seated position near
+	the fire, stretches his hands toward it.
+
+					DATA/ELDER
+			So hard to stay warm...
+
+	Picard needs to find a way to reach this man. He moves
+	closer to him and helps him build up the fire.
+
+					PICARD
+			Let me help you...
+
+	Data/Elder glances at him.
+
+					DATA/ELDER
+			Are you one of my children?
+				(turns to fire)
+			I don't remember anymore.
+
+					PICARD
+			I need your help. I need the sign
+			for the temple.
+				(beat)
+			Masaka's temple.
+
+					DATA/ELDER
+			It won't help you. Korgano no
+			longer pursues her. No one else
+			can stop her.
+
+	Picard cautiously reaches out and takes Data's hand,
+	guiding it to the floor, using Data's fingers to draw
+	a line in the dirt, repeating Ihat's words from memory.
+
+					PICARD
+			A line... as the unending
+			horizon...
+				(beat)
+			A curve...
+
+	Picard doesn't know any more. The old man doesn't
+	resist, but isn't responding either. Picard tries
+	again, tracing the pattern and repeating the words.
+
+           STAR TREK: "Masks" 12/09/93 - ACT FOUR           46.
+
+40   CONTINUED: (5)
+
+					PICARD
+				(continuing)
+			A line... as the unending horizon.
+
+            PICARD                 DATA/ELDER
+          A curve...         A curve...
+
+					DATA/ELDER
+			... as a rolling hillside.
+
+	Data finishes the curve and makes a dot above it.
+
+					DATA/ELDER
+				(continuing)
+			A point... as a distant bird.
+
+	And another line drawn vertical to the horizon.
+
+					DATA/ELDER
+				(continuing)
+			A ray... as the rising sun.
+
+	He stops, finished. The symbol is complete.
+
+					PICARD
+			Thank you.
+
+					DATA/ELDER
+			Now sit with me... tend the
+			fire...
+
+	Data suddenly slumps over. He is completely still for
+	a beat, then he looks up, wearing the neckplate of the
+	Frightened Boy.
+
+					DATA/BOY
+			I'm alone... there's no one left
+			to help me... she's coming.
+
+	Picard pulls him upright.
+
+					PICARD
+			Are the others dead? Did Masaka
+			kill them?
+
+					DATA/BOY
+			No. She sent them away. It will
+			take them days to die.
+
+	Data suddenly freezes. His mouth opens in a circle and
+	holds perfectly still. And out of the open mouth comes
+	an eerie wail -- a child's scream plunging into a
+	bottomless nightmare.
+
+               STAR TREK: "Masks" 12/09/93 - ACT FOUR               47.
+
+40   CONTINUED: (6)
+
+	The voice finally disappears. Data slumps over.
+	Picard pulls back his head: the neckplate is gone and
+	there are NO SCARS on his forehead. Data stares into
+	space, his eyes wide, as if there were nothing behind
+	them.
+
+	OFF Picard's reaction...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+             STAR TREK: "Masks" REV. 12/10/93 - ACT FIVE            48.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+41   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship still being held by the Archive's beam.
+
+42   INT. BRIDGE
+
+	As before, only the emergency lights are functioning
+	and ominous vines hang across several consoles; but
+	now, the normal command seats have been transformed
+	into simple STONE PEDESTALS.
+
+43   ANGLE ON AFT SCIENCE
+
+	Picard, Riker, and Troi are gathered around Geordi.
+	The screen displays a GRAPHIC of the TEMPLE SYMBOL
+	drawn by the Elder.
+
+					GEORDI
+			I think I've found the Archive's
+			transformation program.
+
+					PICARD
+			Will it accept the symbol for
+			Masaka's temple?
+
+					GEORDI
+			I think so. I've isolated the
+			program's input pathways. They're
+			keyed to accept symbols...
+
+	He gestures toward the display.
+
+					GEORDI
+				(continuing)
+			If I input this one, it should
+			initiate the transformation
+			process...
+
+					RIKER
+			And create the temple?
+
+             STAR TREK: "Masks" REV. 12/10/93 - ACT FIVE            49.
+
+43   CONTINUED:
+
+					GEORDI
+			I hope so... if this is the wrong
+			symbol, it might turn the
+			Enterprise into a big chunk of
+			rock. There's no way to be sure.
+
+	It's a tough choice.
+
+					TROI
+			The question is... can we trust a
+			personality from an alien Archive
+			that seems bent on taking us over?
+
+					PICARD
+				(considers)
+			Ihat risked his life to show me
+			that symbol... and Masaka killed
+			him for doing it.
+				(beat)
+			I think we have to risk it.
+
+	OFF their expressions.
+
+									CUT TO:
+
+44   INT. CORRIDOR
+
+	as Worf rounds a corner, where he meets Picard and
+	Troi. Worf has a PHASER, Picard and Troi have
+	TRICORDERS.
+
+					WORF
+			Captain. The entire deck has been
+			cleared of personnel. We can
+			proceed.
+
+	Picard nods and taps his combadge.
+
+					PICARD
+				(to com)
+			Commander Riker, we're ready...
+
+45   INT. BRIDGE - AFT SCIENCE
+
+	Riker and Geordi. Geordi is tapping commands on his
+	console.
+
+					RIKER
+			Understood.
+				(to Geordi)
+			Initiate the transformation.
+
+             STAR TREK: "Masks" REV. 12/10/93 - ACT FIVE            50.
+
+45   CONTINUED:
+
+					GEORDI
+			Aye, sir. I'm inputting the
+			symbol...
+
+	Geordi looks at the temple icon on his display and
+	takes a deep breath.
+
+					GEORDI
+				(continuing)
+			Now...
+
+	He taps a final button on his console...
+
+46   INT. CORRIDOR (OPTICAL)
+
+	For a moment, nothing seems to happen. Picard, Troi,
+	and Worf exchange puzzled looks, and then suddenly, the
+	walls dissolve into...
+
+47   INT. TEMPLE - CONTINUOUS
+
+	It's a huge, cavernous room that seems to have been
+	carved out of a rockface. Stone slabs and columns are
+	placed here and there, some adorned with engraved
+	figures and symbols. Sitting on a raised platform is
+	a GOLDEN THRONE in the shape of a solar disc. The
+	group turns around, looking at the trappings, taking
+	everything in.
+
+					PICARD
+				(re: throne)
+			This would seem to be Masaka's
+			temple...
+
+	Worf looks warily around the room.
+
+					WORF
+			There's no one else here.
+
+					PICARD
+			Ihat said creating the temple
+			would get her attention... it may
+			take time before she shows
+			herself.
+
+					WORF
+			And how will she do that?
+
+					PICARD
+			I don't know.
+
+	Troi has been off to one side, looking at the columns.
+
+             STAR TREK: "Masks" REV. 12/10/93 - ACT FIVE            51.
+
+47   CONTINUED:
+
+					TROI
+			Captain... look at this.
+
+	They join her and she gestures to --
+
+48   A STONE COLUMN
+
+	In the face of the column is carved two different
+	images: Masaka's sun symbol is shown large and
+	prominent in the foreground; but smaller, and to one
+	side, as if receding into the distance, the small
+	"horns" symbol Picard has seen before is also evident.
+
+49   RESUME SCENE
+
+	as Picard looks closely at the symbols.
+
+					PICARD
+			This is the first time I've seen
+			these two symbols paired... That
+			could be significant...
+
+	He glances around, sees other instances of the two
+	symbols together.
+
+					PICARD
+				(continuing)
+			There it is again... and again.
+			Clearly this is an important
+			pairing...
+
+	He stops, remembering something.
+
+					PICARD
+				(continuing)
+			"He's not chasing her anymore... "
+
+	They look at him quizzically.
+
+					TROI
+			Sir?
+
+					PICARD
+			Ihat said that someone named
+			Korgano was not chasing Masaka
+			anymore. And the old man said,
+			"he pursues her no longer... "
+
+	He gestures to the horn symbol.
+
+               STAR TREK: "Masks" 12/09/93 - ACT FIVE               52.
+
+49   CONTINUED:
+
+					PICARD
+				(continuing)
+			In a sense, this smaller symbol is
+			chasing Masaka. Perhaps it
+			represents Korgano.
+
+					WORF
+			The symbol suggests antlers of
+			some kind... horns. Maybe it's
+			meant to represent an animal...
+
+					TROI
+			Animal gods are worshipped in many
+			cultures...
+
+					PICARD
+			Both Ihat and the old man said
+			that Korgano was the only one who
+			could control Masaka...
+				(beat, thinking)
+			Many ritualistic cultures
+			incorporate the idea of "balance"
+			into their belief systems. Masaka
+			is a queen, a powerful, god-like
+			figure... it's not unreasonable to
+			assume that she might have a
+			counterpart... or a consort...
+
+	Picard begins to look around the room.
+
+					PICARD
+				(continuing)
+			Spread out... see if you can find
+			that horn-like symbol anywhere
+			else.
+
+	And they begin to move around the room.
+
+									CUT TO:
+
+50   INT. DATA'S QUARTERS
+
+	Data is sitting on the floor, eyes closed, in the same
+	catatonic-like state he was in when last seen.
+
+51   CLOSE ON DATA'S FACE
+
+	as his eyes abruptly snap open.
+
+             STAR TREK: "Masks" REV. 12/10/93 - ACT FIVE            53.
+
+52   ON DATA - WIDER
+
+	As he stands. He moves toward a table which contains
+	a richly colored version of the MASK he first molded in
+	clay -- MASAKA'S MASK. He lifts it to his face.
+
+53   INT. CORRIDOR
+
+	as the DOORS OPEN and Data, wearing the mask, steps out
+	into the hall. Before the two N.D. Security Guards
+	even have a chance to react, Data disables them both,
+	knocking them to the ground unconscious. Without
+	another look back, he walks on down the hall...
+
+									CUT TO:
+
+54   INT. TEMPLE
+
+	Picard, Troi, and Worf are clustered in front of
+	another STONE COLUMN, studying another glyph showing
+	Masaka's sun image and the horn symbol. However, this
+	time, the horn symbol is large and prominent while
+	Masaka's sun is small and receding.
+
+					TROI
+			This is the most prominent
+			instance of the horn symbol we've
+			seen yet...
+
+					WORF
+			But now it appears as though
+			Masaka's sun is chasing it.
+
+	Troi is thinking aloud, trying to piece it together.
+
+					TROI
+			An animal chasing the sun... ?
+
+					PICARD
+			Maybe it's simpler than that.
+				(beat)
+			Maybe the relationship between
+			them is more like the sun and the
+			moon.
+
+					WORF
+			I see... Masaka and Korgano
+			changing positions... the sun
+			setting and the moon rising.
+
+             STAR TREK: "Masks" REV. 12/14/93 - ACT FIVE            54.
+
+54   CONTINUED:
+
+					PICARD
+			Exactly. Two powerful rulers,
+			changing places in a continuous
+			cycle...
+
+	A beat as they consider the notion.
+
+					TROI
+			And like the sun and the moon,
+			only one of them can be in
+			ascendance at any given time...
+
+					PICARD
+			If we could find Korgano within
+			the Archive and bring him out...
+			perhaps he could force Masaka to
+			leave.
+
+					WORF
+			But would we be any better off
+			with him?
+
+					PICARD
+				(considers)
+			Ihat and the others didn't seem to
+			be afraid of Korgano...
+
+	Suddenly, the SHIP TREMBLES. The group whirls to see
+	Data/Masaka as she ENTERS the temple and moves
+	majestically toward the throne.
+
+					PICARD
+				(continuing)
+			Masaka...
+
+	Data/Masaka sits down upon the throne and silently
+	looks out at her temple. Picard, Troi, and Worf
+	cautiously approach the throne.
+
+					PICARD
+				(continuing)
+			Masaka, I am Jean-Luc Picard of
+			the Federation--
+
+					DATA/MASAKA
+				(cutting him off)
+			Go away.
+
+	Data/Masaka doesn't even look at them when she speaks.
+
+					PICARD
+				(presses on)
+			Please listen to us. Your Archive
+			is destroying our ship--
+
+             STAR TREK: "Masks" REV. 12/15/93 - ACT FIVE            55.
+
+54   CONTINUED: (2)
+
+					DATA/MASAKA
+			I do not hear you.
+
+	Worf slowly draws his phaser, but Picard stays his
+	hand. He motions to the other two to back down, and
+	they all move slowly away from the throne.
+
+					WORF
+			She won't even listen to us.
+
+					PICARD
+			Then we'll have to find someone
+			she will listen to.
+
+	OFF their expressions.
+
+									CUT TO:
+
+55   INT. BRIDGE - AFT SCIENCE (OPTICAL)
+
+	Geordi is working his console as Picard watches
+	anxiously; Troi and Riker are standing nearby. Worf is
+	in the b.g. at Tactical. The mood is tense and
+	serious.
+
+					GEORDI
+			I've found it, sir...
+
+	Geordi indicates his monitor which displays a single
+	GRAPHIC: it's Korgano's moon symbol.
+
+					GEORDI
+				(continuing)
+			This is the only place in the
+			Archive where Korgano's moon
+			symbol is by itself and not paired
+			with Masaka's.
+
+	Picard stares at the image for a moment, pondering.
+
+					PICARD
+			Mister La Forge, access the
+			transformation program.
+
+	Geordi begins working controls.
+
+					PICARD
+				(continuing)
+			When you're ready, input the
+			symbol.
+
+             STAR TREK: "Masks" REV. 12/15/93 - ACT FIVE            56.
+
+55   CONTINUED:
+
+					RIKER
+			Isn't that a little risky?
+
+					TROI
+			We have no way of knowing what the
+			result would be. The symbol might
+			generate anything from Korgano's
+			temple... to Korgano himself.
+
+					PICARD
+			In some sense, Korgano is Masaka's
+			nemesis. Whatever this symbol
+			represents -- it might give us a
+			way to control her.
+				(beat)
+			If you have a better idea, I'd be
+			glad to entertain it.
+
+	A brief silence.
+
+					GEORDI
+			I've accessed the program, sir.
+
+	Picard looks to the others, takes a breath...
+
+					PICARD
+			Initiate the transformation.
+
+	Geordi hits a command on his console. There's a tense
+	moment; no one's sure what's going to happen and
+	they're ready for anything. Then a simple, SILVER MASK
+	APPEARS -- on its forehead is Korgano's moon symbol.
+
+					RIKER
+			Another mask...
+
+	Picard picks up the mask and looks at it thoughtfully.
+
+					PICARD
+			Perhaps we've been approaching
+			this incorrectly. We're dealing
+			with a highly ritualistic
+			culture... a society based on
+			symbol and myth. Maybe we need to
+			confront them on those terms
+			instead...
+				(beat)
+			If I can incorporate myself into
+			their rituals, perhaps Masaka will
+			listen to me.
+
+             STAR TREK: "Masks" REV. 12/15/93 - ACT FIVE           56A.
+
+55   CONTINUED: (2)
+
+					RIKER
+				(catching on)
+			You're going to pose as Korgano.
+
+	Picard nods and holds the mask up to his face, testing
+	the fit.
+
+					TROI
+			Captain, we know so little about
+			this culture... and even less
+			about Korgano himself. How will
+			you convince Masaka that you're
+			him?
+
+					PICARD
+			I'm not entirely sure. But there
+			are similarities between this
+			culture and others I've studied.
+				(beat)
+			I suppose I'll just have to
+			improvise.
+
+	There's a grim beat -- but they all know that there's
+	really no other choice.
+
+					PICARD
+			Mister Worf, what's our status?
+
+					WORF
+				(off console)
+			I estimate we have less than two
+			hours before there's nothing left
+			of the ship... at least nothing
+			that we recognize.
+
+	Picard nods grimly and heads for the Turbolift. He
+	holds the mask in his hands as he EXITS.
+
+									CUT TO:
+
+56   INT. TEMPLE (OPTICAL)
+
+	Data/Masaka is sitting on the throne.
+
+					PICARD (O.S.)
+			Masaka!
+
+             STAR TREK: "Masks" REV. 12/13/93 - ACT FIVE            57.
+
+56   CONTINUED:
+
+	Data/Masaka reacts as Picard approaches -- he is
+	wearing the Korgano mask. For the first time, we see
+	a real reaction from Data/Masaka -- she's shocked at
+	the sight.
+
+					DATA/MASAKA
+			Korgano... ?
+
+	Picard takes a step closer -- he's playing it by ear,
+	choosing his words carefully, taking it one step at a
+	time...
+
+					PICARD
+			Are you surprised to see me?
+
+	Data/Masaka rises from the throne, begins walking down
+	the stairs. She's regained her bearings now, and is
+	trying to maintain control of the situation.
+
+					DATA/MASAKA
+			I thought I had escaped you.
+
+	Picard smiles.
+
+					PICARD
+			You should know that's impossible.
+
+					DATA/MASAKA
+			You are a fine hunter... but I am
+			a powerful prey. You will never
+			catch me.
+
+					PICARD
+			Do you really want to be the
+			prey... forever?
+
+	Data/Masaka seems to consider this.
+
+					DATA/MASAKA
+			I thought I was alone here. I
+			thought I wouldn't have to share
+			the sky with you...
+
+	Picard moves toward Data, carefully, not threatening,
+	a reasonable man.
+
+					PICARD
+			But without me... you aren't
+			complete. I know you, Masaka...
+			you live for the chase just as
+			much as I do.
+					(MORE)
+
+             STAR TREK: "Masks" REV. 12/10/93 - ACT FIVE            58.
+
+56   CONTINUED: (2)
+
+					PICARD (Cont'd)
+				(beat)
+			Won't you miss being the hunter...
+			pursuing me... forcing me from the
+			sky so that you can rise again?
+
+	A hesitation.
+
+					DATA/MASAKA
+			You know me well, Korgano...
+
+	Picard now senses he has the upper hand.
+
+					PICARD
+			I think you may be getting
+			tired... it's difficult to
+			brighten the sky forever...
+
+	Data/Masaka smiles wanly... does seem a little weary.
+
+					DATA/MASAKA
+			I am getting sleepy... you always
+			do that to me...
+
+					PICARD
+			Only so you can wake at dawn...
+			and begin the hunt again...
+
+	Another smile. Data/Masaka slowly sits on the throne,
+	head still erect and queenly, but eyes heavy.
+
+					DATA/MASAKA
+			Begin the hunt again...
+				(beat)
+			I am eager for that.
+
+					PICARD
+			As am I.
+
+	Data's eyes close. The ship TREMBLES. The room
+	DISSOLVES to --
+
+57   INT. CORRIDOR - CONTINUOUS
+
+	The temple is gone. Everyone is back in the corridor,
+	reacting to the transformation. And to Data -- who
+	stands before them, not wearing a mask (neither is
+	Picard), blinking a bit in confusion.
+
+					RIKER'S COM VOICE
+			Riker to Picard... I don't know
+			what you did, sir... but it looks
+			like everything's back to normal.
+
+             STAR TREK: "Masks" REV. 12/15/93 - ACT FIVE            59.
+
+57   CONTINUED:
+
+					PICARD
+			Acknowledged.
+				(to Data)
+			Mister Data -- are you all right?
+
+					DATA
+			I believe so, sir. But I am not
+			entirely certain what has
+			happened. Have I been dreaming
+			again?
+
+	Picard puts his hand on Data's shoulder.
+
+					PICARD
+			I'm afraid it will take some time
+			to explain.
+
+	He smiles reassuringly and Data accepts this, his old
+	equanimity having returned. Off their relieved
+	expressions --
+
+58   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship at impulse.
+
+					PICARD (V.O.)
+			Captain's Log, Stardate 47612.4.
+			Commander La Forge has managed to
+			disable the alien transformation
+			program. Starfleet will send an
+			archaeological team to study the
+			Archive further.
+
+59   INT. READY ROOM
+
+	Data with Picard; Picard holds the mask Data wore as
+	Masaka, turning it in his hands.
+
+					PICARD
+			I don't understand... I thought
+			all the alien artifacts had
+			disappeared from the Enterprise.
+
+					DATA
+			This was not created by the
+			Archive... this is the clay mask
+			I originally made. I have since
+			glazed it.
+
+	Picard is intrigued.
+
+             STAR TREK: "Masks" REV. 12/13/93 - ACT FIVE            60.
+
+59   CONTINUED:
+
+					DATA
+			Yes. Although I am relieved to be
+			rid of those alien
+			personalities... there is a sense
+			in which I am now... empty.
+
+					PICARD
+			I can imagine. Doctor Crusher
+			said there might have been dozens
+			of personalities inside you.
+
+					DATA
+			I suspect the number was much
+			greater.
+
+	Data pauses, reflecting on the unusual experience.
+
+					DATA
+			My impression is that there were
+			thousands... of all ages and walks
+			of life.
+				(beat)
+			It was a remarkable experience.
+
+					PICARD
+			Well, Data, you may never become
+			fully human... but you've had an
+			experience that transcends the
+			human condition.
+				(beat)
+			You have been an entire
+			civilization.
+
+	Data briefly ponders the significance of this... then
+	Picard hands him back the mask.
+
+					PICARD
+				(wry)
+			Nonetheless... it's time to stand
+			watch on the night shift.
+
+					DATA
+			Yes, sir. Good night.
+
+	He turns and EXITS.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+
+                            THE END                             
+

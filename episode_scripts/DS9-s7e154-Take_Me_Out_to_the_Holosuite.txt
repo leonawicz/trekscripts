@@ -1,0 +1,3262 @@
+
+                 STAR TREK: DEEP SPACE NINE 
+                              
+                "Take Me Out to the Holosuite" 
+                   (fka "Untitled Baseball") 
+                          #40510-554 
+                              
+                          Written by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                         Chip Chalmers 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         August 3, 1998
+
+    STAR TREK: DS9 - "Take Me Out to the Holosuite" - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                "Take Me Out to the Holosuite" 
+                            CAST
+
+          SISKO                    ROM
+          KIRA                     NOG
+          ODO                      KASIDY
+          BASHIR                   LEETA
+          O'BRIEN                  SOLOK
+          WORF                     ANNOUNCER'S VOICE
+          QUARK                    
+          EZRI                     
+          JAKE                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. VULCANS
+
+    STAR TREK: DS9 - "Take Me Out to the Holosuite" - SETS 
+
+                  STAR TREK:  DEEP SPACE NINE
+                "Take Me Out to the Holosuite" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK CORRIDOR              BALLPARK/
+          CAPTAIN'S OFFICE              DUGOUT
+          INFIRMARY                     STANDS
+          OPS                           
+          PROMENADE                     
+          SECURITY OFFICE               
+          SISKO'S QUARTERS              
+          WARDROOM                      
+          QUARK'S                       
+
+  DS9 - "Take Me Out to the Holosuite" - 08/04/98 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                "Take Me Out to the Holosuite" 
+                     PRONUNCIATION GUIDE
+
+          T'KUMBRA                 tuh-KUM-brah
+          SOLOK                    soh-LOK
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER      1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                    "Take Me Out to the Holosuite"                     
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE(OPTICAL)
+
+	Where the Federation Starship USS T'KUMBRA has 
+	docked at the station.
+
+2    OMITTED
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER      2.
+
+3    INT. CAPTAIN'S OFFICE
+
+	SISKO is sitting at his desk, working on a PADD.
+
+					KIRA'S COM VOICE
+			Kira to Sisko.
+
+					SISKO
+			Go ahead, colonel.
+
+					KIRA'S COM VOICE
+			Captain Solok of the Starship
+			T'Kumbra is here to see you.
+
+	Sisko's entire body seems to tense and his jaw 
+	clenches automatically. It's an effort to put the 
+	PADD down and keep his voice even.
+
+					SISKO 
+			Send him in.
+
+	He gets up and braces himself for a beat. CAPTAIN 
+	SOLOK ENTERS, carrying a PADD. Solok is Vulcan and 
+	looks to be about Sisko's age. For someone skilled 
+	in the Vulcan disciplines of emotional suppression 
+	and control he manages to convey both superiority 
+	and arrogance without saying a word. For his part, 
+	the muscles in Sisko's jaw are working overtime even 
+	as he forces a smile on his face. They do not shake 
+	hands.
+
+					SISKO
+			Welcome to Deep Space Nine,
+			captain.
+
+					SOLOK
+			Your welcome is acknowledged.
+
+	Beat.
+
+					SISKO
+			Have a seat.
+
+	They sit.
+
+					SISKO
+			Been a long time.
+
+					SOLOK
+			Ten years, two months, five days.
+
+					SISKO
+			You mean you don't know it to the
+			minute?
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER     2A.
+
+3    CONTINUED:
+
+					SOLOK 
+			Of course I do. But humans are 
+			often irked by such precision. 
+				(beat) 
+			Especially the more emotional 
+			humans.
+
+	For some reason, Solok seems to delight in pushing 
+	Sisko's buttons and Sisko has to struggle to keep 
+	from reacting -- he won't give the Vulcan the 
+	satisfaction if he can help it. Solok hands him the 
+	PADD.
+
+					SOLOK 
+				(re: PADD) 
+			Our repair list.
+
+	Sisko looks it over.
+
+					SOLOK 
+			I understand that you were 
+			recently honored with the 
+			Christopher Pike Medal for Valor. 
+			Congratulations.
+
+					SISKO
+			Thank you.
+				(grudging) 
+			And congratulations to you. I 
+			heard you received the Medal last 
+			month.
+
+					SOLOK 
+			My second, actually. The 
+			T'Kumbra has been in combat for 
+			over six months. Spending time 
+			behind the lines will be a 
+			welcome change.
+
+	Sisko looks up sharply.
+
+					SISKO 
+			This isn't exactly a safe harbor. 
+			We've seen our share of action.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER      3.
+
+3    CONTINUED:	(2)
+
+					SOLOK
+			Of course you have.
+
+	Sisko clenches his jaw and goes back to the PADD.
+
+					SISKO
+			We can upgrade your ship's 
+			inertial dampers by the end of 
+			the day. But we can't begin to 
+			overhaul your warp core for at 
+			least a week.
+
+					SOLOK
+			That is most inefficient.
+
+					SISKO
+			War's an inefficient business.
+
+					SOLOK
+			A somewhat unprofessional 
+			attitude. However, I have come 
+			to expect a lack of 
+			professionalism and efficiency on 
+			starbases run by human officers.
+
+					SISKO
+			You're welcome to take your ship 
+			to a Vulcan station -- I think 
+			the nearest one's about fifty 
+			light years away.
+				(hands back the
+				PADD)
+			If you plan on staying with us
+			here "behind the lines," my chief
+			of operations will see to your
+			requests.
+
+					SOLOK
+			Very well. There is another 
+			matter not listed on the formal 
+			report.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER    4-5.
+
+3    CONTINUED:	(3)
+
+					SOLOK (Cont'd)
+				(off his look)
+			I need use of a holosuite. The
+			T'Kumbra holodecks are currently
+			under repair.
+
+					SISKO
+			You'll have to arrange holosuite
+			time through Quark -- he owns the
+			only ones on the station.
+
+					SOLOK
+			Then I will speak to Quark. I
+			created a special program for my
+			senior staff and they are quite
+			eager to resume using it.
+
+					SISKO
+				(couldn't care less)
+			Really?
+
+					SOLOK
+			Yes. In fact, you might find the
+			program to be of some interest.
+				(beat)
+			It's based on an Earth game.
+
+					SISKO
+				(whatever)
+			What game would that be?
+
+	Solok has been waiting for just that question. He 
+	raises an eyebrow and comes as close as he can to 
+	actually smiling in anticipation.
+
+									CUT TO:
+
+4    INT. OPS
+
+	A few minutes later. KIRA is still on duty when 
+	Solok ENTERS from the captain's office, a somewhat 
+	smug look on his face. Sisko comes out behind him, 
+	a stern, determined expression on his features. 
+	Solok EXITS and Kira looks at Sisko.
+
+					SISKO 
+			Colonel. Assemble the senior 
+			staff in the wardroom. Now.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER      6.
+
+5    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+6    INT. WARDROOM
+
+	A short time later. Kira, NOG, WORF, BASHIR, 
+	O'BRIEN and EZRI are all gathered around the table. 
+	Sisko ENTERS carrying a large box. There's a 
+	thundercloud on his brow, and everyone waits to see 
+	what crisis has befallen them.
+
+					SISKO 
+			As you probably know, the 
+			Starship T'Kumbra is currently 
+			docked at the station. What you 
+			may not know is that their 
+			commanding officer considers his 
+			crew -- an all-Vulcan crew, by 
+			the way -- to be the finest in 
+			the fleet. Now, I happen to 
+			think the people sitting around 
+			this table comprise the finest 
+			crew in the quadrant.
+
+	A few looks go around the table.
+
+					EZRI 
+				(wry) 
+			You're not going to get much of 
+			an argument from this group.
+
+					SISKO
+			I didn't think so. So when the 
+			T'Kumbra's captain challenged us 
+			to a contest of courage, 
+			teamwork and sacrifice, I 
+			accepted on your behalf.
+
+					WORF
+			We will destroy them.
+
+					SISKO
+			Exactly the reaction I was hoping 
+			for.
+
+					BASHIR 
+			So when is this clash of the 
+			titans?
+
+					SISKO
+			Two weeks from today, in 
+			Holosuite Five.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - TEASER     6A.
+
+6    CONTINUED:
+
+					KIRA
+			What's the contest?
+
+	Sisko reaches into the box and tosses a BASEBALL 
+	GLOVE onto the center of the table.
+
+					SISKO
+			Baseball.
+
+	Off the surprised looks on their faces...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE     7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+7    INT. OPS
+
+	Worf, Nog and Kira on duty. Each of them has a 
+	PADD in their hands, which they're reading intently. 
+	The Ops table has an OKUDAGRAM of a baseball diamond 
+	on it.
+
+					KIRA
+				(reading) 
+			"The infield fly rule is invoked 
+			in instances where, with both 
+			first base and second base 
+			occupied, or with first, second 
+			and third base occupied... "
+
+					WORF
+			What if there's a runner at home?
+
+					NOG 
+			There's never a runner at home.
+
+					KIRA
+			Okay. "... and fewer than two 
+			outs, and the batter hits a high 
+			fly... "
+
+	They all look up "fly." Worf finds it first.
+
+					WORF 
+			"Fly: the term for a batted ball 
+			while it is in the air."
+
+					KIRA
+				(remembering) 
+			Right. Uh, "... fewer than two 
+			out, the batter hits a high fly 
+			which in the judgment of the 
+			umpire can readily be caught by 
+			an infielder or the pitcher or 
+			catcher inside fair ground. The 
+			batter is then called out 
+			regardless of whether the ball is 
+			subsequently caught or not."
+
+					NOG
+			That seems simple enough.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE     8.
+
+7    CONTINUED:
+
+					KIRA
+				(uh-oh) 
+			"An attempt to bunt, however, 
+			under the conditions noted above, 
+			which results in a fair fly shall 
+			not be regarded an infield fly."
+				(beat)
+			What's a bunt?
+
+8    INT. QUARK'S
+
+	Where Ezri, Bashir and O'Brien are sitting at a 
+	table. A PADD is sitting on the table and Ezri is 
+	quizzing the other two.
+
+					BASHIR
+				(confident, from
+				memory) 
+			A bunt is a ball which has been 
+			deliberately tapped into the area 
+			between the pitcher and the 
+			catcher in an attempt to force 
+			the fielding team to throw out 
+			the batter and allow a runner to 
+			advance.
+
+					EZRI 
+			Right. Chief, what's a grand 
+			slam?
+
+					O'BRIEN
+			Uh... a home run hit with the 
+			bases crowded.
+
+					EZRI 
+			Right -- but it's "bases loaded." 
+			Now... what's a Fancy Dan?
+
+					O'BRIEN
+			A what?
+
+					BASHIR 
+			You made that up.
+
+					EZRI 
+			I most certainly did not.
+
+	Bashir and O'Brien trade looks, then Bashir picks up 
+	the PADD with a skeptical look and O'Brien looks 
+	over his shoulder. ROM and LEETA come by the table.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE     9.
+
+8    CONTINUED:
+
+					LEETA 
+			Jake told us about the game 
+			against the Vulcans. It sounds 
+			very exciting.
+
+					EZRI
+			You should come watch.
+
+					BASHIR 
+				(reading)
+			"Fancy Dan -- a fielder who puts 
+			an extra flourish on his movements 
+			while making a play in hopes of 
+			gaining the approval of the 
+			spectators."
+
+	Ezri smiles smugly. In the b.g. QUARK delivers some 
+	drinks to a nearby table.
+
+					LEETA 
+			Actually... we were thinking of 
+			doing more than watching...
+
+					ROM 
+			If we can. That is... if there's 
+			still room for... other... 
+			potential... players to... 
+			possibly... try and...
+
+					LEETA 
+			We'd like to try out.
+
+	They all look up in surprise. Quark has overheard 
+	this and can't believe it.
+
+					ROM 
+			Nog always talks about how 
+			Captain Sisko and Jake play 
+			baseball and how it brings them 
+			closer together. Since Nog and I 
+			haven't seen much of each other 
+			lately, I thought... this might 
+			be a good way of spending some 
+			time together.
+
+					LEETA 
+			And I decided to make it a 
+			complete family outing.
+
+					EZRI 
+			That's so sweet.
+
+					LEETA 
+			Isn't it?
+
+	Quark steps in.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE    10.
+
+8    CONTINUED:	(2)
+
+					QUARK 
+			Idiotic, is what it is. 
+				(to Rom) 
+			You'll make a fool out of 
+			yourself.
+
+					ROM 
+			I will not.
+
+					QUARK 
+				(to Leeta) 
+			And you can barely spin a dabo 
+			wheel, much less kick a ball 
+			around a field.
+
+					LEETA 
+			Shows how much you know. You 
+			don't kick the ball. 
+				(to Ezri) 
+			Do you?
+
+	Ezri shakes her head.
+
+					QUARK
+			You won't make the team.
+
+					ROM 
+			At least we're trying out. What 
+			about you?
+
+					QUARK 
+			I haven't got the slightest 
+			interest in this Hew-mon game.
+
+					LEETA 
+			And you know why? Jake said it's 
+			a game that takes heart and you 
+			sold yours a long time ago. Come 
+			on, Rom.
+
+	Leeta and Rom EXIT. Quark glares after them for a beat.
+
+					QUARK
+			What time are tryouts?
+
+					O'BRIEN
+			Thirteen hundred. Holosuite 
+			Four.
+
+	Quark nods his head and EXITS. The others exchange 
+	a look.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE    11.
+
+9    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+10   EXT. BALLPARK - DAY
+
+	A beautiful day in this recreation of a twentieth 
+	century Earth ballpark. The would-be members of Sisko's 
+	team are milling about on the in-field -- Kira, 
+	Worf, Bashir, Nog, Quark, Ezri, Rom, Leeta and 
+	O'Brien. They all have gloves, and the Starfleet 
+	officers are hanging their uniform jackets on the 
+	fence.
+
+	Sisko and JAKE walk onto the field, each of them 
+	wearing caps (with twentieth century Major League 
+	logos), and carrying gloves. The would-be team 
+	gathers around Sisko, who's in full coach mode.
+
+					SISKO 
+			First day of practice! It's an 
+			exciting time! Am I right?
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE    12.
+
+10   CONTINUED:
+
+	He's greeted with a few wan smiles and some 
+	tentative "Rights" and "Can't waits" from his crew.
+
+					SISKO 
+			There we go, there we go! That's 
+			the spirit! All right!
+				(beat) 
+			Now, let me introduce you to our 
+			pitcher and secret weapon -- Jake 
+			"Slider" Sisko.
+
+	Jake bounces a ball off his inside elbow and tugs at 
+	his cap.
+
+					JAKE 
+			Howdy.
+
+					SISKO
+			Every other position is open for tryouts.
+				(beat) 
+			Everyone here today has watched 
+			at least one baseball game with 
+			me in a holosuite... and I know 
+			that it looks simple -- you throw 
+			the ball, you catch the ball, you 
+			hit the ball. But it's not that 
+			easy. It was a difficult game to 
+			play for seasoned professionals 
+			who'd spent a lifetime 
+			practicing. We have less than 
+			two weeks to build a team and 
+			take the field against our 
+			opponents.
+				(beat) 
+			Now, some of you may be thinking, 
+			"How can we beat the Logicians, 
+			they're all Vulcans! They're 
+			stronger and faster than any one 
+			of us -- except for Worf." But 
+			baseball is about more than 
+			physical strength. It's also 
+			about courage... faith... and 
+			most of all, heart. And if 
+			there's one thing our Vulcan 
+			friend lacks -- it's heart.
+				(beat) 
+			I think we can beat them. I know 
+			we can beat them. And we are 
+			going to beat them. Am I right?
+
+	They nod silently.
+
+					SISKO 
+			I can't hear you.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE   12A.
+
+10   CONTINUED:	(2)
+
+					ALL
+			Yes, sir!
+
+					SISKO
+			I still can't hear you -- am I
+			right?
+
+					ALL
+			YES, SIR!
+
+					SISKO
+			Are we going to beat the Vulcans?
+
+					ALL
+			YES, SIR!
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT ONE    13.
+
+10   CONTINUED:	(3)
+
+					SISKO
+				(claps his hands) 
+			Now, let's play some baseball! 
+			First thing -- I want you to pair 
+			off and play a little catch. 
+			Spread yourselves out -- at least 
+			ten meters apart -- and just have 
+			fun. Throw and catch, throw and 
+			catch... nice and easy.
+
+	Jake passes out some baseballs from a nearby bag and 
+	they pair off.
+
+11   VARIOUS ANGLES
+
+	As the team tries to play catch. It's not a pretty 
+	sight. Just catching the ball with the unfamiliar 
+	gloves turns out to be much harder than any of them 
+	anticipated. In only a few seconds, they're chasing 
+	dropped balls all over the diamond, some people are 
+	getting hit and some balls are sailing way over 
+	their heads.
+
+12   JAKE & SISKO
+
+	Jake is watching with growing dismay as their "team" 
+	warms up. Sisko, on the other hand, is watching 
+	with growing determination to win at any cost.
+
+					JAKE 
+			These are going to be two long, 
+			hard weeks.
+
+					SISKO
+			Jake, I don't care how long and 
+			hard the next two weeks are, I am 
+			not going to lose a baseball game 
+			to Solok.
+				(beat) 
+			We' re going to win.
+
+	Sisko says this with such forceful determination, 
+	that Jake is taken by surprise. Off Sisko's grim 
+	and determined look...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    14.
+                            ACT TWO                             
+
+	FADE IN:
+
+13   INT. SECURITY OFFICE
+
+	Sisko has a PADD and is talking to ODO.
+
+					ODO
+			Umpire?
+
+					SISKO
+			That's right. Will you do it?
+
+					ODO
+				(hesitant) 
+			Wouldn't a holographic umpire be 
+			more... accurate?
+
+					SISKO
+			I don't want some computer program 
+			calling a baseball game. That's the 
+			kind of thing Solok would do. I want 
+			a person behind the plate, not some 
+			collection of photons and magnetic 
+			fields. I also want someone who can 
+			be completely impartial, and I can't 
+			think of anyone I'd trust more.
+
+					ODO
+			That's... very flattering.
+
+					SISKO
+			It's the truth. Will you do it?
+
+					ODO
+				(hesitates) 
+			All right.
+
+	Sisko hands him the PADD.
+
+					SISKO
+			Outstanding. Here're the rules.
+			I'll be in the Infirmary with the
+			team if you have any questions.
+
+					ODO 
+			The Infirmary?
+
+					SISKO
+			We had a few... problems at 
+			practice today. Remember -- 
+			the game's in less than two 
+			weeks, so you better start 
+			working on your moves.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    15.
+
+13   CONTINUED:
+
+	Sisko EXITS. After a beat, Odo wonders what that 
+	meant.
+
+					ODO
+			My "moves?"
+
+	He picks up the PADD and starts reading.
+
+									CUT TO:
+
+14   INT. INFIRMARY
+
+	The team did not fare well in their first practice. 
+	N.D. Nurses are treating cuts, bruises, torn 
+	ligaments, etc. on Ezri, Rom and Quark. Ezri and 
+	Rom are in chairs, while Quark lies on the bio-bed. 
+	Jake is looking on with a sympathetic expression.
+
+	A Nurse finishes with Ezri's knee.
+
+					EZRI 
+			I can't believe this. I used to 
+			be an athlete... at least I 
+			remember being an athlete. My 
+			third host -- Emony -- was an 
+			Olympic gymnast.
+
+	Ezri gets to her feet and gingerly tests the knee.
+
+					EZRI 
+			I kept expecting my legs to react 
+			like hers did, but I fell all 
+			over myself. It's like I don't 
+			know my own body anymore.
+
+	Kira ENTERS from Surgery, flexing her wrist and 
+	fingers.
+
+					QUARK
+			I don't know what you're 
+			complaining about. At least you 
+			didn't require major surgery.
+
+					KIRA
+			Knitting a couple of bones 
+			together isn't major surgery, 
+			Quark.
+
+					QUARK 
+			It is if the bones are in the 
+			back of your skull.
+				(to Rom) 
+			I hope you've learned your 
+			lesson.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    16.
+
+14   CONTINUED:
+
+					ROM
+				(sheepish) 
+			Always look behind you before 
+			swinging a bat.
+
+	Ezri and Kira head for the door just as Sisko 
+	ENTERS. He's upbeat, refusing to acknowledge any 
+	difficulties.
+
+					SISKO 
+			So -- how're my casualties 
+			holding up?
+
+					KIRA
+			We'll live.
+
+					EZRI 
+			If you believe Julian. 
+			Personally, I'm not sure I'm 
+			going to make it.
+
+					SISKO
+			That's the spirit, old man. 
+
+			Don't lose your sense of humor.
+
+	Ezri gives him a thin smile as she EXITS with Kira. 
+	Bashir and O'Brien ENTER from Surgery.
+
+					JAKE 
+			How's the shoulder, Chief?
+
+					BASHIR 
+			He's out, I'm afraid. The 
+			rotator cuff was badly torn.
+
+	Sisko really isn't happy to hear that.
+
+					SISKO 
+			Can't you repair the damage? I 
+			need him on third and he's 
+			anchoring the second half of the 
+			lineup.
+
+					BASHIR 
+			I've repaired the rotator cuff, 
+			but the ligaments need time to 
+			fully knit with the clavicular 
+			joint. I'm sorry, but I can't 
+			allow him to play.
+
+					SISKO
+			Damn!
+
+	Everyone's a little surprised at Sisko's attitude.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    17.
+
+14   CONTINUED:	(2)
+
+					O'BRIEN 
+			Sorry, sir. I was really looking 
+			forward to the game.
+
+					SISKO
+			I know you were. It's not your 
+			fault.
+				(beat) 
+			There's an old saying, "Those who
+			can't -- coach." As of now, 
+			you're our batting, pitching and 
+			first base coach.
+
+					O'BRIEN
+			Great.
+				(beat) 
+			Which one was first base?
+
+	Sisko takes a deep breath, tries to not to get 
+	depressed.
+
+					SISKO 
+			We'll... go over that again 
+			later.
+				(to all) 
+			Practice tomorrow is at oh-seven-
+			thirty. Don't be late.
+
+					O'BRIEN
+			We'll be there.
+
+	Sisko EXITS and Jake goes with him.
+
+					BASHIR 
+			If you'll excuse me, I have to 
+			finish realigning Worf's 
+			zygomatic bone.
+
+					ROM 
+			Tell him I'm sorry.
+
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    18.
+
+15   INT. PROMENADE
+
+	Sisko and Jake heading away from the Infirmary.
+
+					JAKE 
+			We could move Ezri over to 
+			third...
+
+					SISKO
+			No, I need her in center. 
+				(suddenly realizes) 
+			I know who we can get... I'll 
+			have to pull a few strings, but I 
+			think I can do it...
+
+					JAKE 
+			Who?
+
+								CUT TO:
+
+16   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Where a BAJORAN FREIGHTER is docking at the station.
+
+17   INT. AIRLOCK CORRIDOR
+
+	Sisko is waiting outside the Airlock, carrying 
+	FLOWERS. The door rolls OPEN and Sisko smiles 
+	broadly as KASIDY YATES ENTERS.
+
+     DEEP SPACE-NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    19.
+
+17   CONTINUED:
+
+					SISKO 
+			Welcome home.
+
+					KASIDY 
+			Music to my ears...
+
+	Sisko takes her in his arms and they embrace.
+
+					KASIDY 
+			Does this mean you missed me?
+
+					SISKO
+			Like a piece of my heart was 
+			missing.
+
+	She notes the flowers.
+
+					KASIDY 
+			Sweet words and flowers too? Are 
+			you feeling all right?
+
+					SISKO 
+			Now that you're back, I feel 
+			outstanding.
+
+					KASIDY 
+			I could get used to this.
+
+					SISKO
+			You should. Are you going to be 
+			here long?
+
+					KASIDY 
+			As a matter of fact, my next 
+			three cargo runs have been 
+			reassigned.
+
+					SISKO 
+				(innocent) 
+			Really?
+
+					KASIDY 
+				(shrugs) 
+			Bureaucrats. Who knows why they 
+			do anything?
+
+					SISKO 
+			Who knows?
+
+	They begin walking down the Corridor.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    20.
+
+17   CONTINUED:	(2)
+
+					KASIDY 
+				(suggestive) 
+			So, what should we do with all my 
+			time off?
+
+					SISKO
+			I have a few ideas...
+
+					KASIDY 
+			I bet you do...
+
+					SISKO
+			So tell me... how's your throwing 
+			arm holding up... ?
+
+
+	As she looks up at him in confusion, they round the 
+	corner, and we...
+
+									CUT TO:
+
+18   EXT. BALLPARK - DAY
+
+	Kasidy is playing third when a hard-hit ground ball 
+	rips down the baseline. She scoops up the ball, 
+	plants her foot and fires a shot to Worf at first. 
+	The ball is dead on target.
+
+19   NEW ANGLE
+
+	Where we can see Sisko at the plate hitting balls 
+	into the field of play, Kira at shortstop, Bashir 
+	at second, Worf on first, Leeta in left field, Ezri in 
+	center, Rom in right, Nog playing catcher. Jake, 
+	Quark and O'Brien are watching from the dugout. 
+	O'Brien is chewing gum.
+
+					SISKO 
+			There we go, Kas! That's what 
+			it's about!
+
+	She tugs her cap in acknowledgement. Nog hands 
+	Sisko another ball as Worf throws the first ball 
+	home.
+
+					SISKO 
+			All right, people, heads up now. 
+			There's a runner at first, and 
+			one away.
+
+	He smacks the ball high out into right.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    21.
+
+20   ROM
+
+	sees the ball.
+
+					ROM
+			I got it! I got it! I got it!
+
+	He stands in place, holds his glove up over his head 
+	and waits.
+
+	The ball drops to the ground a good twenty feet 
+	behind him.
+
+21   SISKO & NOG
+
+	react.
+
+					SISKO
+			How many is that?
+
+					NOG
+				(reluctant)
+			Today? I think he's missed...
+			ten.
+
+					SISKO
+				(disgusted)
+			Ten.
+
+22   ROM
+
+	tries to throw the ball to Kira... but it only makes 
+	it halfway to her. Rom runs to pick up the ball and 
+	throws it again... then has to run to pick it up and 
+	throw it again.
+
+23   SISKO
+
+	Can barely stand to watch this fiasco.
+
+					SISKO
+				(to all)
+			Batting practice!
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    22.
+
+24   EXT. BALLPARK - DAY
+
+	A few minutes later. The Niners are selecting bats 
+	and taking practice swings. Sisko is watching Worf 
+	as he practices his stance. Leeta notices something 
+	up in the stands.
+
+					LEETA 
+			What's he doing here?
+
+	Sisko follows her look and sees...
+
+25   SOLOK
+
+	Sitting calmly in the stands, watching.
+
+26   RESUME SISKO
+
+	as he reacts.
+
+					SISKO 
+			He's scouting us.
+
+					WORF 
+				(pleased) 
+			If he is taking the time to 
+			conduct reconnaissance, he must 
+			be worried.
+
+					SISKO
+			He should be. Next week, on this 
+			field, that man is going to get a 
+			painful lesson in humility.
+
+	Worf and Leeta grin.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    23.
+
+27   JAKE & NOG
+
+	Who have been warming up. Jake signals to his 
+	catcher that he's ready.
+
+					NOG 
+			Batter up!
+
+	Rom steps up to the plate.
+
+					ROM 
+				(to Nog) 
+			Today... I'm going to hit the 
+			ball. Just you watch...
+
+	Nog nods hopefully. Rom settles in... Jake goes 
+	into his windup... there's the pitch... and Rom 
+	swings wildly, spinning himself around in the 
+	process.
+
+28
+thru   OMITTED
+29
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    24.
+
+30   SOLOK
+
+	raises an eyebrow, seems pleased.
+
+31   SISKO
+
+	is very aware of Solok's presence and doesn't like 
+	having Rom represent his team in the Vulcan's eyes.
+
+					SISKO 
+				(impatient) 
+			Remember what we talked about -- 
+			don't take your eye off the ball. 
+			Watch it all the way from the 
+			pitcher's hand to your bat.
+
+32   ROM
+
+	Nods and tries again. This time he swings so hard 
+	that he actually FALLS DOWN.
+
+33   LEETA
+
+	winces.
+
+					LEETA 
+			Oh... Rom.
+
+34   SISKO
+
+	can feel his blood pressure rising.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    25.
+
+34   CONTINUED: 
+
+					SISKO
+				(irritated)
+			Come on, Rom!
+
+	Rom gets up.
+
+					ROM
+			Sorry.
+
+					LEETA
+			You can do it!
+
+					BASHIR
+			Hang in there, Rom!
+
+	Rom appreciates the encouragement and settles in 
+	again. Jake lobs another ball in there and Rom 
+	takes a mighty swing... and the bat sails out of his 
+	hands, narrowly missing Jake.
+
+35   SOLOK
+
+	watches the bat sail away with an amused expression, 
+	then decides he's seen enough. He EXITS.
+
+36   SISKO
+
+	sees Solok heading out. With Solok gone, he marches 
+	over to Rom.
+
+					SISKO
+			That's it. You're done.
+
+					ROM
+			I'll do better tomorrow, captain.
+
+					SISKO
+			No, you won't. You're finished.
+			Gone. Off the team.
+
+	A shocked beat.
+
+					NOG
+			Sir, can't you give him another --
+
+					SISKO
+			Is anyone talking to you, ensign?
+
+	That shuts Nog up.
+
+     DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT TWO    26.
+
+37   THE NINERS
+
+	react in shock. No one can believe that Sisko's 
+	actually throwing Rom off the team.
+
+38   OMITTED
+
+39   SISKO, ROM & NOG
+
+	still at the plate.
+
+					ROM
+			I... I can't play?
+
+					SISKO
+				(furious)
+			That is the smartest thing you've
+			said all week. You -- can't --
+			play!
+				(beat)
+			Now get your gear and go.
+
+	Rom walks away from the plate, stunned and 
+	humiliated.
+
+					SISKO
+			Worf -- you're up!
+
+	Worf hesitates for only a moment, then walks toward 
+	the plate.
+
+	Rom passes through his former teammates, picks up 
+	his glove and heads for the EXIT. The rest of the 
+	team look at Sisko with disbelief, but no one wants 
+	to challenge him.
+
+	On Sisko's angry and determined face...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   27.
+                           ACT THREE                            
+
+	FADE IN:
+
+40   INT. QUARK'S
+
+	A short time later. Rom is sitting at a table, 
+	looking miserable. Leeta and Nog are sitting next 
+	to him, trying their best to comfort him, but to no 
+	avail. Even Quark is here to support his brother. 
+	(Everyone is still in their cleats and T-shirts and 
+	some are still wearing their caps.)
+
+					ROM
+			Captain Sisko hates me.
+
+					LEETA
+			He doesn't hate you, Rom.
+
+					QUARK 
+			Sisko was just blowing off steam. 
+			He'll get over it.
+
+					NOG 
+			That's right. I'll go talk to 
+			him in the morning, maybe he'll 
+			change his --
+
+					ROM 
+			No! I don't want him to kick you 
+			off the team too.
+
+					NOG 
+			I don't care about the team. If 
+			you can't play, I won't either.
+
+					LEETA 
+			That goes for me too.
+
+					QUARK 
+			And me.
+
+					O'BRIEN'S VOICE 
+			And us.
+
+	They turn to see O'Brien, Kira, Bashir and Ezri 
+	approaching them from the staircase.
+
+					EZRI 
+			Benjamin was way out of line 
+			today, Rom.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE  27A.
+
+40   CONTINUED:
+
+					O'BRIEN 
+			This is supposed to be a friendly 
+			game -- not a life or death 
+			struggle.
+
+					BASHIR 
+			So we've decided to quit unless 
+			he reinstates you immediately.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   28.
+
+40   CONTINUED:	(2)
+
+					ROM 
+			No! Please!
+
+					KIRA
+			Rom, we're on your side.
+
+					ROM 
+			I don't want to make the team 
+			like this. I had my chance... 
+			but I wasn't good enough. Let's 
+			face it -- the captain's right. 
+			I'm hopeless. I don't deserve to 
+			be on the team. You play, you've 
+			earned it.
+
+					NOG 
+			Playing baseball doesn't mean 
+			anything to me.
+
+					ROM 
+			But it should. You're good at 
+			it.
+				(to Leeta) 
+			So are you. And I want to see 
+			you play.
+				(to others) 
+			I want to see all of you play. I 
+			want to see our team beat the 
+			Vulcans... even if I'm only 
+			watching from the... the uh...
+
+					NOG 
+			The stands?
+
+					ROM 
+			Right.
+
+	They exchange looks -- they're not sure.
+
+					ROM 
+			Please.
+
+					KIRA
+			If that's the way you want it.
+
+	He nods and Kira, Ezri, O'Brien and Bashir head off.
+
+					LEETA 
+			Rom... there are moments when I 
+			know exactly why I married you.
+
+	She wraps her arms around him and Nog grabs his 
+	Dad's hand. As they share this moment...
+
+									CUT TO:
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE  28A.
+
+40A  INT. PROMENADE
+
+	Ezri and Kira head one way down the Promenade, while 
+	O'Brien and Bashir head the other. O'Brien is still 
+	chewing his gum, and Bashir's curiosity finally gets 
+	the best of him.
+
+					BASHIR
+			What are you eating?
+
+					O'BRIEN
+			I'm not eating, I'm chewing.
+
+					BASHIR
+			Chewing what?
+
+					O'BRIEN
+			Gum. It's traditional. I had
+			the replicator create some.
+
+					BASHIR
+			And they just... chewed it?
+
+					O'BRIEN
+			They infused the gum with flavor.
+
+					BASHIR
+			What flavor did you infuse it
+			with?
+
+					O'BRIEN
+			Scotch.
+				(offers him a stick)
+			Try it?
+
+	Bashir begins chewing away.
+
+					BASHIR
+				(yummy)
+			Mmmm.
+
+									DISSOLVE TO:
+
+	A SERIES OF SHOTS:
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   29.
+
+41   INT. WARDROOM
+
+	Sisko giving a lecture on strategy to the team 
+	(Kira, Bashir, Jake, Kasidy, Nog, Ezri and Quark). 
+	He's using the large wall monitor to illustrate what 
+	to do.
+
+					SISKO
+			... there's a runner on first and 
+			second, one away. Ground ball 
+			hit to the second baseman -- Kira 
+			what do you do?
+
+					KIRA
+			I go for the double play, unless 
+			the runner on third is already on 
+			his way home, in which case...
+
+	MUSIC TAKES OVER, and NO FURTHER DIALOG IS HEARD...
+
+42   INT. OPS
+
+
+	O'Brien working at his console -- his mitt sitting 
+	nearby. Worf comes over to talk to him about some 
+	station business -- he's absentmindedly playing with 
+	a baseball.
+
+					WORF 
+			There seems to be a problem with 
+			the secondary transtator relay in 
+			the deflector matrix...
+
+43   INT. INFIRMARY
+
+	Kasidy giving Bashir tips on his stance -- Bashir 
+	pantomimes having a bat and swinging.
+
+					KASIDY 
+			Keep your weight on the balls of 
+			your feet... back elbow up...
+
+44   INT. QUARK'S
+
+	After hours. The Ferengi Waiters are throwing 
+	glasses down to Quark from the Second Level.
+
+					QUARK
+			Faster! Come on! Faster!
+
+	He catches them rapidly one after the other, faster 
+	and faster...
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE  29A.
+
+45   EXT. BALLPARK - DAY
+
+	Bashir and Ezri in the outfield, go for the same fly 
+	ball -- then each pulls up short thinking the other 
+	one has it. The ball drops to the grass. They 
+	start yelling at each other.
+
+               EZRI                                       BASHIR
+     You called it! That was                    Don't look at me! You
+     yours all the way! Oh,                     could've gotten that -- I
+     come on, Julian!                           was out of position!
+
+DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE 30-30A.  
+
+46   INT. INFIRMARY
+
+	Jake is having his elbow treated by Bashir.
+
+46A
+thru   OMITTED
+47
+
+48   INT. PROMENADE/SECURITY OFFICE
+
+	Kira is walking past the Security Office. She
+	glances in, keeps going... then stops and goes back 
+	to look inside.
+
+49   ANGLE - THROUGH THE DOORS
+
+	Odo is practicing his umpire moves with his back to 
+	the door.
+
+					ODO
+			Out! Safe! Out! Safe!
+
+	Kira can't help but smile. After a beat, she 
+	decides not to interrupt and she continues on her 
+	way down the Promenade. Odo keeps practicing.
+
+					ODO
+			Out!
+
+									CUT TO:
+
+50   INT. SISKO'S QUARTERS
+
+	Where Kasidy is giving Sisko a shoulder massage. He 
+	winces in pain.
+
+					SISKO
+			Oh!
+
+					KASIDY
+			That's quite a knot.
+
+					SISKO
+			Yeah.
+
+					KASIDY
+			Your back is like a minefield of
+			bruised muscles.
+
+					SISKO
+			Tell me something I don't know.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   31.
+
+50   CONTINUED:
+
+					KASIDY 
+			You're lifting your foot at the 
+			plate.
+
+					SISKO
+			What?
+
+	She comes around and picks up a bat and tosses it to 
+	him.
+
+					KASIDY 
+			Take a swing.
+
+	Sisko sets up and goes through a slow swing.
+
+					KASIDY 
+			Stop! Right there. Look -- 
+			you're lifting your foot in the 
+			backswing. It's been messing up 
+			your whole rhythm.
+
+	He sees that she's right and he reacts with fatigue 
+	and depression.
+
+					KASIDY 
+			It's not that bad.
+
+	Clearly disturbed by more than just his stance, 
+	Sisko roams the room for a beat, idly testing the 
+	weight of the bat in his hand.
+
+					KASIDY 
+			I know that look. It's the I'd-
+			really-like-to-smash-something-
+			but-she'll-think-I'm-crazy look. 
+			Well, don't let me stop you -- 
+			they're your quarters. Smash 
+			away if it'll make you feel 
+			better.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   32.
+
+50   CONTINUED:	(2)
+
+					SISKO 
+			The only thing that'll make me 
+			feel better is beating Solok 
+			tomorrow.
+
+					KASIDY 
+			So do I get to hear the Solok 
+			story now? And before you say no 
+			-- you better consider the fact 
+			that if you don't tell me, you 
+			won't have a third baseman.
+
+	Kasidy takes a seat, crosses her arms and adopts an 
+	unmovable "I'm waiting" attitude. Sisko isn't eager 
+	to tell the tale, but he knows when it's useless to
+	resist. He starts pacing again, swinging the bat 
+	idly.
+
+					SISKO 
+			We were in the same class at the 
+			Academy. One weekend I was with 
+			some friends at a bar off-campus 
+			-- the Launching Pad -- and Solok 
+			came in with a group of Vulcan 
+			cadets.
+				(with distaste) 
+			Said they were doing 
+			"research"... on illogical human 
+			bonding rituals. We didn't take 
+			too kindly to that.
+
+					KASIDY
+			And you'd had a few drinks...
+
+					SISKO 
+			One or two.
+				(beat)
+			We got into a... debate. Solok
+			said that Vulcans were naturally
+			superior to Humans and other
+			"emotionally handicapped"
+			species. I took the opposite
+			point of view. So there I am...
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   33.
+
+50   CONTINUED:	(3)
+
+					SISKO (Cont'd)
+			... drunk and debating logic 
+			versus emotion with a smug -- and 
+			very sober -- Vulcan.
+				(beat) 
+			Well, to make a long story short, 
+			I decided the best way to prove 
+			that Humans were every bit the 
+			equal of Vulcans was to challenge 
+			Solok to a wrestling match.
+
+					KASIDY
+				(are you crazy) 
+			Wrestling?
+
+					SISKO
+			All I wanted to do was wipe that 
+			arrogant look off his face -- so 
+			in the heat of the moment.... I 
+			challenged him.
+
+					KASIDY 
+			And.. ?
+
+					SISKO
+			I ended up in the Infirmary with 
+			a separated shoulder, two cracked 
+			ribs and a bruised ego.
+
+	Kasidy has to laugh a little.
+
+					KASIDY 
+			Oh, Ben... I don't mean to laugh, 
+			but... what did you expect? A 
+			Vulcan has three times the 
+			strength of a Human.
+
+					SISKO
+			And they're faster too. But 
+			you're right -- I got what I 
+			deserved. And if it had ended 
+			there, it would've been fine. 
+			But it didn't.
+				(beat) 
+			Solok took every opportunity to 
+			remind me of the match. He'd 
+			point me out whenever I'd walk 
+			across campus.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   34.
+
+50   CONTINUED:	(4)
+
+					SISKO (Cont'd)
+			He wrote five psychology papers
+			on our match. I became the
+			living embodiment of why Vulcans
+			were inherently superior to
+			Humans.
+
+					KASIDY
+			You don't mean he was gloating?
+			A Vulcan?
+
+					SISKO
+			That's exactly what I mean. He
+			may have hidden it beneath that
+			Vulcan calm, but he loved every
+			minute of it.
+				(beat)
+			You'd think it would've stopped
+			once we graduated... but no.
+			Over the years, he's written over
+			a dozen papers on Human/Vulcan
+			comparative profiles -- and every
+			paper begins with an analysis of
+			that damned wrestling match!
+
+					KASIDY
+				(realizing) 
+			And now he comes to your station 
+			and announces that he's put 
+			together a baseball team...
+
+					SISKO 
+			He doesn't care about baseball -- 
+			he's just trying to rub my nose 
+			in it one more time. But now he 
+			wants to do it with my game!
+
+					KASIDY 
+			You should tell that to the 
+			Niners. They don't understand 
+			why you're so caught up in this.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   35.
+
+50   CONTINUED:	(5)
+
+					SISKO 
+			No. I'd rather they think I'm 
+			just caught up in a baseball game 
+			than admit that I'm pursuing an 
+			adolescent rivalry.
+
+					KASIDY 
+			Just tell them the truth. 
+			They'll understand. They need to 
+			know how personal this is to you.
+
+					SISKO
+			No. I mean it. And you can't 
+			tell them either. Promise me?
+
+					KASIDY 
+				(beat) 
+			All right, I promise.
+
+									CUT TO:
+
+51   INT. WARDROOM
+
+	Kasidy is talking to the team -- Worf, Kira,
+	O'Brien, Bashir, Leeta, Quark, Nog, Ezri and Jake.
+
+					KASIDY 
+			And he made me promise not to 
+			tell you, so you have to keep 
+			this under your hats.
+
+					EZRI 
+			Curzon and Jadzia always wondered 
+			why Benjamin hated Solok... but 
+			he'd never talk about it.
+
+					KASIDY 
+			He's embarrassed. He keeps 
+			calling it an adolescent rivalry, 
+			but Solok's the one who's kept 
+			this thing going.
+
+					O'BRIEN
+			And now he's trying to beat the 
+			captain at his own game.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT THREE   35.
+
+51   CONTINUED:
+
+					WORF
+			It is a dishonorable motive.
+
+					NOG 
+			I'm beginning to hate him myself.
+
+					QUARK
+			So what do we do about it?
+
+					KIRA 
+			I'll tell you what we do -- we go 
+			out there tomorrow and put that 
+			Vulcan in his place. We win it 
+			for the captain.
+
+					BASHIR 
+			And for all our "emotionally 
+			handicapped" races.
+
+					O'BRIEN
+			Now there's something worth 
+			fighting for. Come on --
+
+	O'Brien puts his hand out and the others gather 
+	around, putting their hands on his.
+
+					KASIDY
+			Niners...
+
+					ALL
+			NINERS!!
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    37.
+                           ACT FOUR                             
+
+									FADE IN:
+
+52   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station.
+
+53   EXT. BALLPARK - CLOSE ON CAP - DAY
+
+	which is emblazoned with a stylized DS9 logo. MUSIC 
+	is playing in the b.g.
+
+	We PULL BACK and see that the cap is being held by 
+	Sisko. He's holding it across his chest and he's 
+	wearing a brand-new BASEBALL UNIFORM. Across the 
+	chest it says "NINERS" in big, bold letters and 
+	across the back it says "SISKO" in equally proud 
+	lettering.
+
+	The Niners -- Sisko, Ezri, Kira, Worf, Bashir, 
+	O'Brien, Nog, Kasidy, Leeta, and Quark -- are lined 
+	up on the third base line. The Starfleet officers 
+	put their caps over their chests, while the others 
+	merely hold them respectfully in their hands. Odo 
+	is standing behind home plate.
+
+54   THE LOGICIANS
+
+	are lined up on the third base line, caps over their 
+	chests. Their uniforms feature an IDIC symbol on 
+	the caps, the word "LOGICIANS" across the chest, and 
+	their names (in Vulcan letters) on the back. 
+	Everyone is looking at....
+
+55   THE FEDERATION FLAG
+
+	flapping in the breeze while the UFP ANTHEM plays.
+
+56   ROM
+
+	is standing in the bleachers along with the CROWD, 
+	listening to the anthem. He looks down at his 
+	former teammates with a trace of longing.
+
+57   WIDE (OPTICAL)
+
+	And we can see that the stands are FILLED WITH 
+	PEOPLE.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    38.
+
+57   CONTINUED:
+
+	When the anthem ENDS, there's a tremendous ROAR from 
+	the crowd and a palpable excitement in the air. The 
+	Niners take the field and begin warming up: Jake-
+	Pitcher, Nog-Catcher, Sisko-2nd, Worf-lst, Kira-
+	Shortstop, Kasidy-3rd, Bashir-Left Field, Ezri-
+	Center, Leeta-Right Field. O'Brien paces the 
+	dugout, watching the team and chewing his gum. 
+	Quark is riding the bench. Odo is at home plate.
+
+58   SISKO
+
+	glances up at the stands and then heads over to talk 
+	with Solok.
+
+					SISKO 
+			Let's dispense with the crowd. 
+				(off his look) 
+			My team's never played in front 
+			of people before.
+
+	Solok raises an eyebrow at Sisko, but complies.
+
+					SOLOK 
+			If you wish. 
+				(to com) 
+			Computer -- eliminate the 
+			spectators.
+
+59
+thru   OMITTED
+60
+
+61   ODO (OPTICAL)
+
+	With the crowd still roaring behind him, Odo shouts 
+	out the command to play ball -- as he does, the 
+	CROWD VANISHES and Odo ends up SHOUTING into a vast 
+	emptiness.
+
+					ODO
+			Play ball!
+
+	His voice ECHOES through the now empty park for a 
+	moment.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    39.
+
+62   ROM
+
+	suddenly finds himself completely alone in the empty 
+	ballpark. He catches Leeta's attention in the 
+	outfield. She blows him a kiss. He gamely catches 
+	it, but there's a definite sadness to Rom today -- 
+	he wishes more than anything that he were out there.
+
+63   THE NINERS
+
+	settle in at their positions as Vulcan #1 steps up 
+	to the plate.
+
+					SISKO
+			Let's hear some chatter!
+
+					NINERS 
+			Hey, batter, hey batter now, no 
+			batter, no batter, etc.
+
+	The first pitch --
+
+	-- and Vulcan #1 HITS A LONG FLY BALL OVER LEFT.
+
+	Bashir watches the ball sail far over his head. 
+	Home run.
+
+	Vulcan #1 trots around the bases and Nog goes out to 
+	the mound.
+
+					NOG 
+			Don't worry, you'll get the next 
+			one. Okay? 
+				(beat)
+			Okay?
+
+					JAKE
+			Okay.
+
+	When Vulcan #1 goes to the dugout, he is met with 
+	calm nods of approval by Solok and the rest of the 
+	team.
+
+64   THE SCOREBOARD
+
+	changes to Logicians 2, Niners 0. Then changes to 
+	Logicians, 3, Niners 0. Then to Logicians 4, Niners 
+	0. (We should not see the hits & errors section of 
+	the board in this shot.)
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    40.
+
+65   IN THE NINER DUGOUT
+
+	The Niners file in, frustrated by their inability to 
+	stop the Logician onslaught. Sisko isn't pleased 
+	with his troops.
+
+					SISKO 
+			You're making mental errors out 
+			there! Stupid mistakes! Think 
+			about what you're doing. Kira --
+			charge the ball, don't wait for 
+			it to come to you! Ezri -- you're 
+			playing too deep!
+
+	He stops Jake.
+
+					SISKO 
+			You got rattled.
+
+					JAKE 
+			They're pretty good.
+
+					SISKO
+				(harsh) 
+			What kind of talk is that, 
+			"they're pretty good?" You 
+			better stop admiring them and 
+			start striking them out!
+
+	Jake stiffens, but says nothing. A silence falls in 
+	the dugout.
+
+					ODO'S VOICE 
+			Batter up.
+
+	O'Brien trots out to coach at first and Kasidy heads 
+	over to coach at third. Bashir quickly grabs a bat 
+	and heads for the plate.
+
+	QUICK CUTS:
+
+ DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR 41-42.   
+
+65A  BASHIR
+
+	strikes out.
+
+65B  KIRA
+
+	strikes out.
+
+65C  WORF
+
+	strikes out.
+
+65D  SISKO
+
+	slaps his hat against the dugout wall in anger. The 
+	team begins filing out toward the field.
+
+									CUT TO:
+
+65E  THE SCOREBOARD
+
+	It's now the top of the fifth inning. 1 out. 
+	Logicians 7 runs, 9 hits, 0 errors. Niners 0 runs, 2 hits, 
+	3 errors. The count is 1 and 2.
+
+65F   A VULCAN BATTER
+
+	is at the plate. There's a Vulcan Woman on 1st. 
+	The batter hits a grounder to Sisko.
+
+66
+thru   OMITTED
+76
+
+77   SISKO
+
+	now makes a spectacular DIVING catch, rolls up and 
+	fires the ball to --
+
+78   OMITTED
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    43.
+
+78A  KIRA
+
+	who makes the catch, but the Vulcan Woman SLIDES 
+	INTO Kira, taking her down and preventing her from 
+	making the throw to First. Kira jumps to her feet, 
+	and gets right in the Woman's face. The Vulcan 
+	gives her a smug, self-satisfied look. Kira glares 
+	at her for a moment.
+
+					KIRA
+			You want to try that again?
+
+					SISKO
+			Colonel! Keep your cool! Don't
+			do something that'll get you
+			thrown out.
+
+					KIRA
+				(still glaring at the woman)
+			I wouldn't dream of it, captain.
+				(to Vulcan)
+			You're out, by the way.
+
+	The Vulcan raises an eyebrow and heads off the 
+	field.
+
+79   IN THE DUGOUT
+
+	A few minutes later, as the Niners come off the 
+	field. It's Kira's turn at bat. She grabs a bat 
+	with fury and heads for the plate without a word.
+
+					NOG
+			Was that slide at second legal?
+
+					KASIDY
+			'fraid so.
+
+					BASHIR
+			Didn't seem very sporting.
+
+					JAKE
+			These guys are playing to win.
+			"Sporting" doesn't enter into it.
+
+	Sisko throws his glove in the dugout in frustration 
+	and looks up to see...
+
+80   OMITTED
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR   43A.
+
+81   SOLOK
+
+	playing second base, catches Sisko's eye. The 
+	Vulcan captain glances up at the scoreboard, then 
+	raises an eyebrow at Sisko. It's as close as a 
+	Vulcan can come to actually gloating.
+
+81A  SISKO
+
+	reacts -- Solok's gloating sticks in his throat. 
+	Suddenly there's the CRACK of a bat hitting a ball.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    44.
+
+82   KIRA 
+
+	has hit a solid shot far into left field. She 
+	rounds first and heads for second.
+
+83   THE NINERS
+
+	Cheer.
+
+					NINERS 
+			Yeah! Way to go, Kira! All 
+			right! etc.
+
+					SISKO
+			It's about time!
+
+	Kira slides into second, and the Vulcan Woman she 
+	went toe to toe with early misses the tag -- she's 
+	safe. Kira gets to her feet, spits out some dirt 
+	and gives the Vulcan woman a cool look of victory.
+
+83A  WORF
+
+	steps up to the plate and settles in.
+
+	-- Swing and a miss.
+
+					ODO
+			Strike one.
+
+	Quick cuts:
+
+	-- outside, ball one.
+
+	-- Low, ball two.
+
+	-- Foul tip, strike two.
+
+	-- Inside, ball three.
+
+	Worf steps out of the box for a second, tries to 
+	concentrate.
+
+84   THE SCOREBOARD
+
+	Emphasizing the full count. (Bottom of the 5th. 
+	Two outs. Logicians 7 runs, 10 hits, 0 errors. 
+	Niners 0 runs, 3 hits, 3 errors.)
+
+    DEEP SPACE.NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    45.
+
+85   IN THE NINER DUGOUT
+
+	Sisko and most of the Niners are on their feet now. 
+	Kira is taking a healthy lead off second... the 
+	Vulcan pitcher eyes her coolly.
+
+					SISKO
+			Good eye, now Worf! Good eye!
+			Don't reach for it! If it's not
+			there, let it go!
+
+					ODO 
+				(to Worf)
+			Let's go, batter.
+
+					WORF
+			Do not rush me.
+
+	He finally steps in. The windup... the pitch... 
+	it's close... Worf lets it go by, and starts to jog 
+	toward first.
+
+					ODO
+			Steeeee-RIKE!
+
+					WORF
+			WHAT!?
+
+	The Vulcans begin coming off the field, but Sisko 
+	explodes out of the dugout and comes at Odo.
+
+					SISKO
+			Are you blind!? That was low and
+			outside!
+
+					WORF
+			It was clearly a ball!
+
+	Sisko gets right up into Odo's face and Worf keeps 
+	at him too. Odo refuses to give ground and his own 
+	temper begins to rise.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    46.
+
+85   CONTINUED:
+
+               WORF                                   SISKO
+     That was at least half a                   What the hell are you
+     meter outside! How could                   talking about? You can't
+     you call it a strike!                      tell me that was over the
+     Reverse the call!                          plate! You must've been
+                                                regenerating!
+
+					ODO
+				(overlapping)
+			It caught the outside corner.
+
+               WORF                                   SISKO
+     The outside corner! The                    The corner, my foot!
+     corner of the dugout                       That was a ball and you
+     perhaps! Maybe the                         know it! We should have
+     corner of the stadium!                     two men on!
+     But not the corner of the 
+     plate!
+
+					ODO
+			Gentlemen, you're trying my 
+			patience.
+
+	Worf backs down at this point, but Sisko takes 
+	another step closer, getting right in Odo's face. 
+	Sisko's anger only seems to be increasing as he 
+	vents his frustration all over Odo.
+
+					SISKO
+				(points at him)
+			You stole a run from us!
+
+	And now Sisko makes a fatal mistake -- as he's 
+	gesturing at Odo, he touches him with his finger.
+
+					SISKO 
+			Stole it just as if you'd reached 
+			up and tore it off the 
+			scoreboard!
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FOUR    47.
+
+85   CONTINUED:	(2) 
+
+					ODO 
+			YOU'RE OUTTA HERE!!
+
+	That stops Sisko in his tracks.
+
+					SISKO 
+			What?
+
+					ODO
+			"No player shall at any time make 
+			intentional contact with the 
+			umpire in any manner." The 
+			prescribed penalty for the 
+			violation is immediate ejection 
+			from the game. Rule four point 
+			zero six, subsection (a), 
+			paragraph four -- look it up.
+				(points toward the 
+				stands) 
+			But do it in the stands. You're 
+			gone.
+
+	Odo turns his back on him. Sisko is stunned. He
+	looks around, lost for a moment, and catches the eye
+	of Solok. The Vulcan captain touches the brim of
+	his ballcap in salute -- "You're out and I'm going
+	to win." OFF Sisko's face as he realizes that he's
+	just lost it all...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+
+ DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE 48-49.   
+                           ACT FIVE                             
+
+	FADE IN:
+
+86   EXT. BALLPARK - DAY
+
+	A few seconds later. Sisko walks off the field and 
+	into the stands. The Niners are still in the dugout 
+	and seem unsure what to do for a moment.
+
+					BASHIR
+				(sotto, to O'Brien)
+			Miles...
+
+					O'BRIEN 
+			Yeah?
+
+					BASHIR 
+			I think you're in charge now.
+
+	O'Brien suddenly realizes he's right.
+
+					O'BRIEN 
+			That's right.
+				(to Niners) 
+			What're you standing around for? 
+			Never seen a man thrown out of a 
+			game? Get your gloves and get on 
+			that field, let's go! Quark, 
+			wake up, you're in right! Julian 
+			you're on second, Leeta you're in 
+			left! Move! We got a game to
+			play here!
+
+	The Niners move out.
+
+87   IN THE STANDS
+
+	Still fuming, Sisko finds a seat. He looks over and 
+	sees Rom watching him from the next section over. 
+	Rom turns away as soon as he sees Sisko's gaze land 
+	on him.
+
+									CUT TO:
+
+88   EXT. BALLPARK - DAY
+
+	Later. The scoreboard tells us it's the top of the 
+	9th. Logicians 10 runs, 13 hits, 0 errors. Niners 
+	0 runs, 5 hits, 4 errors. One out. The count is 3 
+	and 2.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    50.
+
+89
+thru   OMITTED
+93
+
+94   A VULCAN BATTER
+
+	at the plate.
+
+					NINERS 
+			Hey batter, hey batter, swing 
+			batter, no batter, etc.
+
+	Jake delivers the pitch and the Vulcan HITS a long 
+	fly ball into center.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    51.
+
+95   JAKE
+
+	reacts -- it looks like a home run.
+
+96   EZRI (OPTICAL) 
+
+	in center, has her eye on the ball... then she suddenly 
+	grins and runs straight for the fence... she RUNS UP 
+	THE WALL, LEAPS high into the air, CATCHES THE BALL 
+	before it can go over the fence, executes a BACKFLIP 
+	and then lands on her feet perfectly. She raises her 
+	hands in the air like a gymnast and smiles broadly.
+
+97   OMITTED
+
+98   WIDE
+
+	As the Niners applaud and cheer.
+
+99   SISKO
+
+	finds a grin forming on his face despite himself.
+
+               SISKO                                 ROM
+          (jumps up)                            (jumps up)
+     All right!                            All right!
+
+	The two men react and look at each other -- Rom
+	feels guilty for some reason. He stops clapping and
+	moves farther away from Sisko. Sisko is beginning
+	to feel bad that Rom's so clearly afraid of him.
+
+99A  BASHIR (FORMERLY SCENE 97)
+
+	smiling and laughing.
+
+					BASHIR
+			Now that's a Fancy Dan!
+
+100  A FEW MINUTES LATER
+
+	Vulcan #1 is on first. Vulcan #2 is at bat and hits 
+	a ball deep into right, along the baseline.
+
+101  VULCAN #1
+
+	is heading for third. The Vulcan third base coach 
+	calmly gives him the signal to go home.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    52.
+
+102  QUARK
+
+	scrambles for the ball. He throws it to...
+
+103  WORF
+
+	who relays the ball home.
+
+104  VULCAN #2
+
+	holds up on third.
+
+105  NOG
+
+	fields the ball from Worf, turns, tries to get the
+	Vulcan, but misses the tag -- at the same moment...
+
+105A THE VULCAN'S FOOT - INSERT
+
+	just misses the plate.
+
+105B NOG
+
+	doesn't realize this, however, and he reacts in 
+	frustration. Vulcan #1 turns around, finds Nog on 
+	the plate, and elects to go into the dugout.
+
+	Odo has seen the whole thing and doesn't put his 
+	mask back on and stays away from the batter's box. 
+	Nog suddenly realizes that something's up.
+
+					NOG
+			What's wrong?
+
+106  O'BRIEN
+
+	looks puzzled as well. He glances up at the 
+	scoreboard, which still reads Logicians 10, Niners 
+	0. (Top of the 9th. Logicians 14 hits, 0 errors. 
+	Niners 5 hits, 4 errors. Two outs.) O'Brien puts
+	it together after a beat.
+
+					O'BRIEN
+			He didn't touch home. Nog, he
+			didn't touch home!
+
+					NOG
+				(to Odo)
+			Is that true?
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   52A.
+
+106  CONTINUED:
+
+	Odo can't say and he simply clears his throat and 
+	glances over at the Logician bench.
+
+					NOG
+			What do I do?
+
+					WORF
+			Find him and kill him!
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   53.
+
+106  CONTINUED:	(2)
+
+					O'BRIEN 
+			Just tag him out! Go! Jake, 
+			cover home!
+
+	Jake moves for the plate as Nog heads for the 
+	Logician dugout. Nog keeps a wary eye on Vulcan #2, 
+	who's holed up on third, but Nog could easily throw 
+	him out if he made a move toward home. Nog reaches 
+	the dugout, but hesitates when he looks inside:
+
+107  IN THE DUGOUT
+
+	where all the Logicians are sitting on the bench, 
+	looking very, very much alike.
+
+					NOG 
+				(to Odo) 
+			Which one?
+
+	Odo averts his eyes.
+
+					KASIDY 
+			Tag 'em all!
+
+	Nog climbs down into the dugout and touches the 
+	first Vulcan with the ball. He looks back at Odo, 
+	who shakes his head. Nog moves onto the next Vulcan 
+	-- Odo shakes his head again.
+
+108  THE NINERS
+
+	are beginning to grin and a few are laughing at the 
+	sight of Nog carefully picking his way among the 
+	stoic Vulcans.
+
+					JAKE
+			Come on, Nog. Hurry up!
+
+	But Jake is starting to laugh -- the absurdity of it 
+	all getting the better of him.
+
+109  SISKO
+
+	is smiling up in the stands, starting to laugh. Rom 
+	is grinning broadly too.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    54.
+
+110  NOG
+
+	is almost to the end of the bench. He reaches out 
+	for a Vulcan -- but this one gets up and runs out of 
+	the dugout from the back end!
+
+111  JAKE
+
+	however, has turned around and is looking at 
+	O'Brien, sharing a laugh.
+
+111A  NOG
+
+	screams and throws the ball to Jake.
+
+
+					NOG 
+			Jake!!!
+
+	Jake suddenly has to pull it together in a hurry. 
+	The throw is high and wide, Jake barely snatches the 
+	ball and has to dive at the Vulcan, who SLIDES...
+
+					ODO
+			You're out!
+
+	The Niners CHEER and LAUGH. Jake stands up, holds 
+	the ball high over his head and takes a bow.
+
+112  SISKO
+
+	up in the stands, finds himself laughing too. He 
+	looks over at Rom.
+
+					SISKO 
+			Did you see that? 
+
+	Rom nods.
+
+					SISKO
+			That's what I love about this 
+			game -- every situation is 
+			different, you never know what's 
+			going to happen next.
+
+					ROM
+				(brave smile) 
+			It... it looks like a lot of fun.
+
+	Sisko suddenly realizes that he's treated the 
+	Ferengi way too harshly. Sisko gets up and goes 
+	over to Rom as the Niners get ready to take their 
+	turn at bat. He looks down at Rom for a moment.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   54A.
+
+112  CONTINUED:
+
+	Rom swallows hard, still a little afraid of the 
+	captain, but not wanting to show it.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    55.
+
+112  CONTINUED:	(2)
+
+					SISKO
+			Let's go, Rom.
+
+	Sisko heads for the exit. Rom hesitates for a 
+	moment, then decides to follow him.
+
+						ROM
+			Where're we going?
+
+									CUT TO:
+
+113  EXT. BALLPARK - DAY
+
+	A few minutes later. The big 0 in the Niner run 
+	column is still there. (Bottom of the 9th, 
+	Logicians 10 runs, 14 hits, 0 errors. Niners 0 
+	runs, 5 hits, 4 errors). But the Niner dugout is a 
+	happy place to be. People are laughing and joking 
+	amongst themselves.
+
+114  NOG
+
+	SLIDES into third -- he's safe! Kasidy claps for 
+	him from her position coaching third base.
+
+115  IN THE DUGOUT
+
+	Everyone applauds and cheers. They have a man in 
+	scoring position! (Ezri is now the first base 
+	coach.)
+
+	Jake is on deck. He takes a few practice swings.
+
+					NINERS
+			Come on Jake! Bring him home!
+			You can do it! Etc.
+
+					SISKO'S VOICE 
+				(a whisper)
+			Chief? Chief!
+
+	O'Brien cranes his head out of the dugout and sees
+	Sisko leaning over from the stands, trying not to be 
+	seen by Odo or Solok.
+
+					SISKO 
+				(sotto)
+			Call time out.
+
+					O'BRIEN
+			Why?
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   55A.
+
+115  CONTINUED:
+
+					SISKO
+				(sotto)
+			You're making a substitution.
+
+	O'Brien hesitates for a beat, then sees Rom enter 
+	the dugout wearing a Niner uniform. O'Brien is 
+	surprised, but smiles at the sight of Rom.
+
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    56.
+
+115  CONTINUED:	(2)
+
+					O'BRIEN 
+				(to Odo) 
+			Time!
+
+					ODO
+			Time out!
+
+					O'BRIEN
+			Rom, you're up.
+
+					QUARK 
+			You've got to be kidding! We've 
+			got a man on third, we can score.
+
+					O'BRIEN
+				(firm) 
+			Sit down, Quark.
+				(to Rom) 
+			Go ahead, Rom.
+
+	Leeta hands Rom a bat.
+
+
+					LEETA 
+			You can do it.
+
+	He nods and the rest of the team is on their feet, 
+			hoping against hope.
+
+116  SISKO
+
+	takes a seat, then looks around and gets another 
+	idea.
+
+					SISKO 
+				(to com) 
+			Computer...
+
+117  ROM (OPTICAL)
+
+	is approaching the batter's box when he hears... the 
+	VOICE of an announcer.
+
+					ANNOUNCER'S VOICE 
+			Your attention, please. Now 
+			pinch hitting for Jake Sisko... 
+			number thirteen... Rom.
+
+	Suddenly there's the CHEER of a CROWD. Rom looks up 
+	to see that the stadium is now filled with a 
+	CAPACITY CROWD, which is going WILD.
+
+
+    DEEP SPACE-NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    57.
+
+118  SISKO
+
+	who suddenly finds himself surrounded by a CHEERING 
+	CROWD.
+
+119  OMITTED
+
+120  NOG
+
+	standing on third, tries to look hopeful.
+
+					NOG
+			Come on, Dad... you can do it.
+				(to himself)
+			I hope.
+
+121  ROM
+
+	steps tentatively into the box. The first pitch -- 
+	right over the plate. Rom doesn't swing.
+
+					ODO
+			Strike!
+
+	Rom swallows hard, tries to calm himself. Nog is 
+	taking a sizable lead... the pitcher keeps a 
+	wary eye on him... O'Brien and the Niners call out 
+	encouragement... Rom takes a mighty swing at the 
+	next pitch...
+
+					ODO
+			Strike two!
+
+	Rom steps out of the box for a moment, tries to 
+	relax. He looks over to his wife -- she's cheering 
+	him on. He looks to his son -- he's cheering him 
+	on. Rom takes a deep breath.
+
+122  O'BRIEN
+
+	suddenly remembers something.
+
+					O'BRIEN
+			Julian -- what was that thing
+			called when you just... tap the
+			ball down the baseline? You know
+			-- a, uh...
+
+					BASHIR 
+			A bunt?
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    57.
+
+122  CONTINUED:
+
+					O'BRIEN 
+			That's it! A bunt! We have to
+			give him the sign!
+
+123  ROM
+
+	is just stepping into the box.
+
+					O'BRIEN
+			ROM!
+
+	Rom looks up in time to see the entire Niner team 
+	all making the "bunt" signal -- right hand slapping 
+	the left bicep and then tugging the ballcap. Rom 
+	has no idea what they're trying to tell him.
+
+					ROM
+			What?
+
+	They keep signalling frantically... he leans closer, 
+	peering at them in confusion... still doesn't get 
+	it... he takes a step closer... and accidentally 
+	puts his bat over the plate lust as the third pitch 
+	comes in.
+
+124  SLOW MOTION
+
+	-- The ball hits Rom's bat.
+
+	-- Kasidy waves Nog toward home.
+
+	-- Nog takes off for the plate.
+
+	-- The ball dribbles down the first base line -- a 
+	perfect bunt!
+
+	-- O'Brien and the Niners yell and motion for Rom to
+	run.
+
+	-- The Vulcan catcher goes for the ball, the pitcher 
+	moves to cover home.
+
+	-- Rom runs for first.
+
+	-- Nog slides.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    59.
+
+124  CONTINUED:
+
+	-- The catcher grabs the ball, makes the throw. 
+
+	-- It's very close... but he's --
+
+125  NORMAL TIME
+
+					ODO 
+			SAFE!!!
+
+	The CROWD GOES WILD! The Niners come running out of 
+	the dugout.
+
+12  SISKO
+
+	can't believe it. He jumps to his feet and starts 
+	shouting and yelling at the top of his lungs.
+
+127  ROM
+
+	is being hugged by Nog and Leeta as the rest of the 
+	Niners swarm all over him.
+
+128  THE SCOREBOARD
+
+	finally changes -- Logicians 10, Niners 1. (Bottom
+	of the 9th. Logicians 14 hits, 0 errors. Niners 7
+	hits, 4 errors.)
+
+129  THE NINERS
+
+	are carrying Rom around the field on their 
+	shoulders.
+
+					CROWD 
+				(chanting) 
+			ROM!  ROM!  ROM!  ROM!  ROM!  
+			ROM!  ROM!  ROM!  ROM!  ROM!
+
+129A SOLOK
+
+	comes up to Odo, who's watching the parade with an 
+	amused look. The crowd noise is deafening.
+
+					SOLOK 
+				(shouting) 
+			This is completely improper! The 
+			game is not over!
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   59A.
+
+129A CONTINUED:
+
+	Odo looks at him in puzzlement -- not sure what he 
+	said. Solok puts a hand on his arm, to pull him 
+	closer, but before he can repeat his shouted 
+	objection... Odo looks down at the hand on his arm. 
+	Solok suddenly realizes that he's made the same 
+	error as Sisko, and he can't believe it. Odo just 
+	silently points toward the stands, then walks off. 
+	Solok is as crushed as is possible for a Vulcan. He 
+	watches as...
+
+130  ROM
+
+	is still being carried around the field. Rom lifts 
+	his cap to the cheering crowd and for this moment he 
+	must surely consider himself the luckiest man on the 
+	face of the Earth...
+
+									DISSOLVE TO:
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    60.
+
+131  INT. QUARK'S
+
+	The Niners are celebrating and most have 
+	commandeered tables or barstools. The Vulcans are 
+	nearby, watching the Niners with curiosity. Kira is 
+	going around from Niner to Niner, handing them 
+	something that we can't see (later, we'll realize 
+	that she's having the baseball signed by the team).
+
+	Sisko is congratulating Jake near the bar.
+
+					SISKO
+			A helluva game, Jake-O -- a 
+			helluva game!
+
+					JAKE 
+			I gave up ten runs.
+
+					SISKO
+			Don't you know that Vulcans are 
+			stronger than we are? If they 
+			were humans you would've held 
+			them to two or three.
+
+					JAKE 
+			Well, when you put it that way...
+
+	Jake smiles and Sisko hugs him. Then Sisko sees Rom 
+	getting a well-deserved kiss from Leeta.
+
+					SISKO
+				(to Jake) 
+			Excuse me.
+
+	Sisko goes over to Rom's table, who is still a 
+	little intimidated by the captain. (One of the 
+	Vulcans is sitting nearby, observing the entire 
+	exchange.)
+
+					SISKO
+			I think I owe you an apology.
+
+					ROM 
+			No.
+				(beat) 
+			Unless you really want to.
+
+					SISKO
+			I'm sorry.
+
+					ROM 
+			Apology accepted.
+
+					SISKO
+			When you have some time, maybe 
+			you can teach me how to bunt.
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   60A.
+
+131  CONTINUED:
+
+					ROM
+			Sure.
+
+	Sisko heads off toward the bar.
+
+					ROM
+				(to Leeta)
+			What's a bunt?
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    61.
+
+131  CONTINUED:	(2)
+
+	She just kisses him again. The Vulcan raises an 
+	eyebrow at Nog.
+
+					NOG
+				(with pride) 
+			That's my dad.
+
+131A SISKO
+
+	is getting a drink at the bar. Solok approaches 
+	him. Erzi, Bashir, O'Brien and Kasidy are sitting 
+	at a nearby table, close enough to hear the 
+	following conversation.
+
+					SOLOK 
+			I fail to see why you are 
+			celebrating. The Ferengi's bunt 
+			was an accident. And you still 
+			lost the game.
+
+					SISKO
+			You're absolutely right. And you 
+			know what -- I couldn't be 
+			happier.
+				(to Quark) 
+			Quark -- a round of drinks for 
+			the house. on my tab!
+
+					QUARK 
+			I'm way ahead of you.
+
+	Applause and cheers as Quark passes out drinks. 
+	Solok looks around in irritation.
+
+					SOLOK 
+			You are attempting to manufacture 
+			a triumph where none exists.
+
+					KASIDY 
+			I'd say he succeeded.
+
+					BASHIR
+				(lifting a glass)
+			To manufactured triumphs.
+
+	Bashir, Erzi, Kasidy and O'Brien clink glasses.
+
+					NINERS 
+			Here, here!
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE   61A.
+
+131A CONTINUED:
+
+					SOLOK
+				(a little put out) 
+			This is a typical human reaction, 
+			based on emotionalism and 
+			illogic.
+
+					SISKO
+			Is that irritation I hear in your 
+			voice?
+
+					SOLOK 
+			Certainly not.
+
+					BASHIR
+				(to O'Brien) 
+			That sounded positively defensive 
+			to me.
+
+					O'BRIEN
+			With a hint of anger.
+
+					QUARK 
+			Plus a touch of jealousy.
+
+					KASIDY 
+			And a lot of bitterness.
+
+					EZRI
+				(to Solok) 
+			Are you always this emotional?
+
+	Solok knows he's being baited and doesn't like it.
+
+					SOLOK 
+			I refuse to engage in this... 
+			human game of taunting.
+
+	Ezri and Quark look at each other.
+
+					EZRI 
+			Did I forget to wear my spots 
+			today?
+
+					QUARK 
+			All that intelligence, and he 
+			still doesn't know what a Hew-mon 
+			looks like.
+
+	Solok struggles not to fume and Sisko smiles.
+
+					KIRA'S VOICE 
+			Captain!
+
+    DEEP SPACE NINE: "Take Me Out... " - REV. 08/20/98 - ACT FIVE    62.
+
+131A CONTINUED:	(2)
+
+	He turns to see Kira across the bar.
+
+					KIRA
+			Here's something else for your 
+			desk.
+
+	She throws him a baseball. (At this point, the 
+	underscore becomes "Take Me Out to the Ballgame.")
+
+132  ON THE BASEBALL
+
+	which is signed by every player on the Niner team.
+
+133  SISKO
+
+	smiles proudly at the ball in his hand.
+
+					SISKO
+			Look at that.
+				(to Solok)
+			Solok... would you like to sign
+			it?
+
+	The look of consternation on Solok's face is so 
+	priceless that Sisko can't help but laugh out loud. 
+	Solok EXITS without another word and Sisko only 
+	laughs louder. In a moment of pure joy, he TOSSES 
+	the ball up in the air and gives it a slight TWIST...
+
+133A THE BALL
+
+	rises up toward the ceiling, spinning horizontally 
+	on its axis. As it reaches the apex of its journey 
+	upward, we SLOW DOWN the ball and then it becomes...
+
+									DISSOLVE TO:
+
+134  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The station spinning slowly in space.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

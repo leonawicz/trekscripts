@@ -1,0 +1,3134 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                   "The Sacrifice of Angels" 
+                          #40510-530 
+                              
+                          Written by 
+                Ira Steven Behr & Hans Beimler 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        August 25, 1997
+
+  STAR TREK: DS9 - "The Sacrifice of Angels" - 08/25/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                   "The Sacrifice of Angels" 
+                             CAST 
+
+          SISKO                    ROM
+          KIRA                     NOG
+          ODO                      DUKAT
+          BASHIR                   FEMALE SHAPE-SHIFTER
+          DAX                      WEYOUN
+          WORF                     DAMAR
+          O'BRIEN                  GARAK
+          QUARK                    ZIYAL
+          JAKE                     LEETA
+                                   MARTOK
+                                   CARDASSIAN OFFICER
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+STAR TREK: DS9 - "The Sacrifice of Angels" - 08/25/97 - SETS      
+
+                  STAR TREK: DEEP SPACE NINE 
+                   "The Sacrifice of Angels" 
+                             SETS 
+
+          INTERIORS                     EXTERIORS
+          DEEP SPACE NINE               SPACE
+          (TEROK NOR)                   DEEP SPACE NINE
+          CAPTAIN'S OFFICE              (TEROK NOR)
+          CARGO BAY                     INSIDE THE WORMHOLE
+          CONDUIT JUNCTURE              
+          DOCKING RING CORRIDOR         
+          HABITAT RING CORRIDOR         
+          HOLDING CELL                  
+          INFIRMARY                     
+          ODO'S QUARTERS                
+          OPS                           
+          PROMENADE                     
+          QUARK'S                       
+          SECURITY OFFICE               
+          WARDROOM                      
+          ZIYAL'S QUARTERS              
+
+        DEFIANT                       
+          BRIDGE                        
+
+DS NINE - "The Sacrifice of Angels" - 08/25/97 - PRONUNCIATION
+
+                  STAR TREK: DEEP SPACE NINE 
+                   "The Sacrifice of Angels" 
+                      PRONUNCIATION GUIDE 
+
+          GALOR                    GAL-or
+          HASPERAT                 HAS-per-uht
+          HIDEKI                   hee-DEH-key
+          PAGH                     PAH
+          RAKTAJINO                ROCK-ta-GEE-no
+          SITAK                    SEE-tahk
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                      "The Sacrifice of Angels"                        
+                            TEASER                              
+
+	FADE IN:
+
+	A 90-second recap of "Favor the Bold" leads us to:
+
+1    EXT. SPACE (OPTICAL)
+
+	to see the Dominion fleet, which stretches so far and 
+	wide that it seems capable of engulfing the Federation 
+	fleet. ADJUST TO SEE the Federation fleet move toward 
+	the waiting wall of Dominion ships.
+
+	Note: The smaller Federation attack-fighters have 
+	assumed their positions at the head of the fleet.
+
+2    INT. DEFIANT - BRIDGE
+
+
+	to find the crew where we left them in the last show: 
+	SISKO in his chair, DAX at the helm, O'BRIEN, GARAK and 
+	NOG at their stations, while BASHIR is standing near 
+	Sisko. The ship is at Red Alert and will remain so 
+	throughout the show.
+
+					SISKO
+				(to com) 
+			Sisko to all ships. Cruiser and 
+			Galaxy wings, drop to half 
+			impulse. You too, Dax.
+
+					DAX
+				(tapping her console) 
+			Half impulse.
+
+					GARAK 
+			I feel sorry for the Klingons. 
+			They're going to miss a very 
+			interesting fight.
+
+					O'BRIEN 
+			I have a feeling we're going to 
+			miss having them here.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - TEASER        2.
+
+2    CONTINUED:
+
+					SISKO 
+			Forget the Klingons. Our job is 
+			to get to Deep Space Nine and 
+			prevent the Dominion 
+			reinforcements from coming through 
+			the wormhole.
+				(determined) 
+			And that's what we're going to do.
+				(to com) 
+			Attack-fighters, tactical pattern 
+			Theta. Concentrate your fire on 
+			the Cardassian ships, then split 
+			off into squadrons and run like 
+			hell.
+
+3    OMITTED
+
+4    ANOTHER ANGLE
+
+					NOG
+				(to Garak, sotto) 
+			Why is he only targeting the 
+			Cardassian ships?
+
+					GARAK 
+			He's hoping to get them to break 
+			formation and go after the 
+			Federation fighters. He knows the 
+			Jem'Hadar will stand their ground, 
+			but the Cardassians just might get 
+			angry enough to take the bait.
+
+					NOG
+				(on board) 
+			Which would open a hole we can 
+			punch through.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - TEASER        3.
+
+4    CONTINUED:
+
+					GARAK 
+			What an education you're getting.
+
+					NOG
+				(to Sisko, off his 
+				console) 
+			Attack-fighters in Theta 
+			formation. Cruiser and Galaxy 
+			wings, at half impulse.
+
+					SISKO
+				(to com) 
+			Sisko to attack-fighters. Prepare 
+			to engage on my command.
+
+	A tense, quiet moment as they wait for the fighters to 
+	come into weapons range.
+
+					O'BRIEN 
+			"Cannon to the right of them, 
+			Cannon to the left of them, Cannon 
+			in front of them, Volley'd and 
+			thunder'd."
+
+					BASHIR
+				(picking up the refrain) 
+			"Storm'd at with shot and shell, 
+			Boldly they rode and well, Into 
+			the Jaws of Death, Into the mouth 
+			of hell... Rode the six hundred."
+
+					NOG 
+			Whatever you two are reciting, I 
+			wish you'd stop.
+
+	Bashir and O'Brien exchange a grim smile.
+
+	O'Brien looks over at a gloomy Nog, who feels as if he 
+	is staring into the "Jaws of Death."
+
+					O'BRIEN 
+			Steady, ensign. It's just a poem.
+
+					NOG
+				(staring at the 
+				viewscreen) 
+			It's not the poem that's bothering 
+			me...
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - TEASER        4.
+
+4    CONTINUED:	(2)
+
+					O'BRIEN
+			Stop worrying about those ships
+			and focus on your work.
+				(a beat)
+			That's what I do.
+
+					BASHIR
+			You should listen to him, ensign.
+				(with a smile)
+			He's a professional.
+
+	Nog nods, sounds like good advice to him.
+
+4A   CLOSE ON SISKO
+
+	as his expression tightens.
+
+					SISKO
+				(to com)
+			Attack-fighters -- full impulse.
+			Fire at will.
+
+5    EXT. SPACE (OPTICAL)
+
+	The Dominion fleet opens FIRE on the approaching 
+	Federation attack-fighters.
+
+	And off this moment, we:
+
+6    
+AND   OMITTED
+7    
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE       5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+8    EXT. SPACE (OPTICAL)
+
+	The first wave of Federation attack-fighters lets loose 
+	a barrage of quantum torpedoes at the center of the 
+	Dominion lines. Some of the fighters are hit and 
+	destroyed, the rest follow Sisko's plan and break 
+	formation, splitting off in all four directions.
+
+9    INT. DEFIANT - BRIDGE 
+
+	Sisko is on his feet (and remains that way until 
+	otherwise indicated). Dax, O'Brien, Bashir, Garak, Nog 
+	and the Supernumeraries man their stations; everyone is 
+	on edge as they wait for the results of the first assault.
+
+					O'BRIEN
+			They're not taking the bait.
+
+					SISKO 
+			Ensign, send in the second wave. Tell 
+			them to keep targeting the Cardassians.
+
+					NOG 
+			Aye, sir.
+				(tapping his console) 
+			Second wave on its way. Third and 
+			fourth waves on hot-standby.
+
+					SISKO
+				(to O'Brien) 
+			Have Destroyer Units Two and Six 
+			move in closer -- they need more 
+			cover fire. And tell Captains 
+			Diego and Reynolds to stay alert, 
+			they may try to outflank us.
+
+10   OMITTED
+
+11   EXT. SPACE - TEROK NOR (OPTICAL)(STOCK)
+
+	Establishing.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE       6.
+
+12   INT. OPS (OPTICAL)
+
+	The usual contingent of Cardassian and Jem'Hadar 
+	SUPERNUMERARIES man their posts as DUKAT, WEYOUN, the 
+	FEMALE SHAPE-SHIFTER and DAMAR are gathered around the 
+	Ops table, examining a graphic of the fleet battle.
+
+					DUKAT 
+				(smiles) 
+			Very clever strategy. But I'd 
+			expect nothing less from Captain 
+			Sisko.
+
+	Weyoun studies the table but doesn't quite understand 
+	what Dukat is getting at.
+
+					WEYOUN 
+			The Captain is a very clever man.
+
+	Dukat knows that Weyoun is bluffing.
+
+					DUKAT
+			You do see it, don't you?
+
+					WEYOUN 
+			Of course I do.
+
+	Knowing that Dukat is one step ahead of him makes 
+	Weyoun very uncomfortable -- especially now that the 
+	Female Shape-shifter is standing right next to him, 
+	watching.
+
+					DUKAT 
+			Then perhaps you'd like to explain 
+			Captain Sisko's strategy to the 
+			Founder yourself.
+
+	This puts Weyoun on the spot and he glares at Dukat 
+	with barely suppressed hatred.
+
+					WEYOUN 
+			I could never hope to match your 
+			eloquence.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE       7.
+
+12   CONTINUED:
+
+					DUKAT 
+			True.
+				(to the Female
+				Shape-shifter)
+			Sisko is trying to provoke us into
+			opening a hole in our lines. He's
+			determined to get here and stop
+			us from taking down the minefield.
+			I plan to give Sisko his opening --
+
+	Dukat spreads his hands apart to demonstrate what he 
+	means.
+
+					DUKAT 
+			-- and then close it on him.
+
+	Dukat claps his hands together, like a trap.
+
+					FEMALE SHAPE-SHIFTER 
+			Proceed.
+
+
+	Dukat nods, pleased.
+
+					WEYOUN 
+			What about the minefield -- are 
+			we still on schedule?
+
+					DUKAT
+				(nodding) 
+			We should be able to detonate the 
+			mines in eight hours.
+
+					FEMALE SHAPE-SHIFTER
+			Good.
+
+	With that, she heads for the door and EXITS.
+
+					WEYOUN 
+			Eight hours. I'm going to hold 
+			you to that, Dukat.
+
+	And with that, he also EXITS. HOLD ON Dukat and Damar 
+	who watch them go.
+
+					DAMAR 
+			I'd like to toss that smug little 
+			Vorta out the nearest airlock.
+				(a beat) 
+			And his Founder with him.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE       8.
+
+12   CONTINUED: (2)
+
+					DUKAT 
+			Now, Damar, that's no way to talk 
+			about our valued allies. Not 
+			until this war is over, anyway.
+
+	Damar nods, but seems to have something else on his 
+	mind as well.
+
+					DAMAR 
+			Sir... there is one other thing.
+
+					DUKAT 
+			Make it brief.
+
+					DAMAR 
+			I'm concerned about further 
+			attempts to sabotage this station.
+
+	This gets Dukat's attention.
+
+					DAMAR 
+			The enemy knows that if they don't 
+			act soon, it'll be too late.
+
+
+					DUKAT 
+			By "enemy," I assume you're 
+			referring to Rom's associates.
+
+					DAMAR 
+			I doubt he was working alone when 
+			he tried to sabotage the station. 
+			He must've had help. His wife 
+			Leeta, Jake Sisko, Major Kira...
+
+					DUKAT
+			What are you proposing?
+
+					DAMAR 
+			That we arrest them and keep them 
+			in custody, at least until the 
+			wormhole is reopened.
+
+					DUKAT 
+			A wise precaution. But our 
+			Bajoran "allies" might object to 
+			an arrest without cause... 
+				(mulling it over) 
+			If anyone asks... we're merely 
+			holding them for questioning.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE       9.
+
+12   CONTINUED: (3)
+
+	Damar allows himself a small victorious smile.
+
+					DUKAT
+				(a warning) 
+			And Damar, make sure they're not 
+			harmed -- in any way. Major Kira 
+			is important to my daughter. And 
+			to me.
+
+	Damar pauses, this brings him to a delicate matter.
+
+					DAMAR 
+			Sir, about your daughter... 
+			Perhaps it would be better -- for 
+			her own sake -- if Ziyal were 
+			confined to quarters.
+
+					DUKAT 
+			For what reason?
+
+					DAMAR 
+			To be perfectly honest, sir, I 
+			don't completely trust her. And 
+			neither should you.
+
+					DUKAT 
+			Are you accusing my daughter of 
+			being a saboteur?
+
+					DAMAR 
+			I'm not accusing her of anything.
+				(steeling himself for 
+				what he has to say) 
+			But she is quite friendly with 
+			Major Kira.
+
+	Dukat will have none of this.
+
+
+					DUKAT
+			That will be all, Damar.
+
+	But Damar is determined to say his piece.
+
+					DAMAR 
+			She doesn't appreciate what it 
+			means to be Cardassian -- or to 
+			be your daughter.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE      10.
+
+12   CONTINUED: (4)
+
+					DUKAT
+				(with an edge) 
+			But she is my daughter. That may 
+			mean nothing to you, but it means 
+			everything to me. Perhaps you can 
+			overlook that, but I can't.
+
+	Dukat refocuses his attention on the battle graphic. 
+	After a beat, Damar EXITS.
+
+13   INT. QUARK'S
+
+	KIRA, JAKE, and LEETA are seated in a corner table, 
+	somewhat sheltered from the almost empty bar. QUARK, 
+	holding an empty tray, stands by the table.
+
+					LEETA 
+			I heard that the Federation fleet 
+			has been ambushed.
+
+					QUARK 
+			I heard two Cardassian soldiers 
+			saying the fleet was completely 
+			destroyed.
+
+
+					JAKE 
+			Don't believe everything you hear.
+
+					KIRA
+			Jake's right.
+				(a beat) 
+			Sisko'll get here. The question 
+			is, will he get here in time?
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE      11.
+
+13   CONTINUED:
+
+					QUARK 
+			He's only got seven hours before 
+			they detonate the minefield and 
+			start bringing reinforcements 
+			through the wormhole.
+
+					JAKE
+			We've got to stop them.
+
+					LEETA 
+			How?
+
+14   ANGLE ON KIRA
+
+	to see she has a plan.
+
+					KIRA 
+			What if we cut the power supply 
+			to the main computer? Shut down 
+			the whole station.
+
+					QUARK
+				(sarcastic) 
+			Great, that'll put me out of 
+			business altogether.
+
+					JAKE
+				(catching on) 
+			It'll also keep them from 
+			detonating the mines.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE      12.
+
+14   CONTINUED:
+
+					QUARK 
+			Okay, so we shut down the main 
+			computer. How?
+
+					KIRA 
+			With a bomb.
+
+					QUARK 
+			What kind of bomb?
+
+					KIRA 
+			Leave that to me. It'll be crude, 
+			but effective.
+
+	Quark shakes his head -- he has little faith this will 
+	work.
+
+					QUARK 
+			The main computer's in the central 
+			core -- it's too heavily guarded. 
+			You'll never be able to smuggle 
+			a bomb in there.
+
+	And with that, Quark walks off.
+
+					KIRA
+				(to the others) 
+			I'll plant the bomb. All we need 
+			to do is distract the guards...
+
+	But before she can continue...
+
+14A  OMITTED
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE      13.
+
+15   ANGLE ON THE DOOR
+
+	to see Damar and TWO ARMED CARDASSIAN SOLDIERS ENTER 
+	the bar and approach Kira and the others.
+
+					DAMAR 
+			Ah, major, there you are.
+				(looking at Jake and 
+				Leeta) 
+			How nice of you to gather your 
+			friends for us.
+
+					KIRA 
+			I'm off-duty, Damar. What do you 
+			want?
+
+					DAMAR 
+			I want you to come with me. All
+			three of you.
+
+					KIRA
+			Where?
+
+					DAMAR 
+			To the security office. We have 
+			some questions to ask you.
+
+					JAKE 
+			What kind of questions?
+
+					DAMAR 
+			You'll find out when we get there.
+
+	Kira eyes the two soldiers behind Damar, sizing up the 
+	situation. Damar can see her intentions.
+
+					DAMAR 
+			Go ahead, major. Nothing would 
+			make me happier.
+
+	Kira looks around the room --
+
+16   KIRA'S POV
+
+	of TWO MORE CARDASSIAN SOLDIERS posted at the other 
+	door.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT ONE      14.
+
+
+17   ON KIRA
+
+	deciding the odds aren't in her favor. She looks over 
+	at Jake and Leeta, who eye her nervously.
+
+					KIRA
+				(reassuringly) 
+			Don't worry. It'll be all right.
+
+					DAMAR 
+			Of course it will. You have 
+			nothing to hide, do you?
+				(looking at Leeta) 
+			You certainly don't.
+
+	Kira slowly gets up to accompany Damar. Jake and Leeta 
+	follow, escorted by the soldiers and a very 
+	self-satisfied Damar.
+
+18   ANGLE ON QUARK
+
+	coming out of the storeroom. He watches Kira and the 
+	others EXIT. He's never felt lonelier or more helpless. 
+	And off that moment, we:
+
+19
+thru   OMITTED
+21
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      15.
+                            ACT TWO                             
+
+	FADE IN:
+
+22   OMITTED
+
+22A  INT. OPS
+
+	Dukat and Damar are at the Ops table following the 
+	progress of the battle.
+
+					DAMAR 
+			I'll say this for Captain Sisko, 
+			he is persistent. That's the 
+			ninth wave of Federation fighters he's 
+			sent against us.
+
+					DUKAT 
+			Well, his persistence is about to 
+			pay off. Let's give him his 
+			reward. Have a half-dozen 
+			squadrons break formation and go 
+			after those fighters.
+
+					DAMAR 
+				(smiling) 
+			Yes, sir.
+
+22B  EXT. SPACE (OPTICAL)
+
+	as the last wave of attack-fighters unload their 
+	quantum torpedoes at Dominion lines, then speed away, 
+	again under heavy fire.
+
+	This time, some of the Hideki-class Dominion fighters 
+	break ranks and pursue the Federation fighters.
+
+23   INT. DEFIANT - BRIDGE
+
+	As before. The crew reacts to the latest attack:
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      16.
+
+23   CONTINUED:
+
+					O'BRIEN
+				(off his panel) 
+			Captain, two squadrons of 
+			Cardassian attack ships are 
+			breaking formation -- they're 
+			going after our fighters.
+
+					GARAK
+				(it worked) 
+			We've opened a hole in their lines.
+
+					SISKO
+				(looking at a panel, not 
+				so sure) 
+			Have we?
+
+					DAX
+
+				(off her panel) 
+			Sir, do you see those Galor class 
+			destroyers...
+
+					SISKO 
+			I see them.
+
+					BASHIR
+				(off his panel) 
+			It's a trap.
+
+					SISKO
+			It's also an opportunity -- and 
+			we may not get another.
+				(to Nog) 
+			Ensign, have Galaxy wings Nine-One 
+			and Nine-Three engage those 
+			destroyers. All other ships, head 
+			for that opening. Anyone who gets 
+			through doesn't stop until they 
+			reach Deep Space Nine.
+
+24   EXT. SPACE (OPTICAL)
+
+	As the Defiant and the rest of the Federation fleet 
+	move in formation toward a hole in the Dominion lines. 
+	Both fleets are now engaged -- the firing becomes 
+	general as both sides unleash their weapons. The 
+	fleets are now so close that every shot seems to find 
+	a target.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      17.
+
+25   INT. DEFIANT - BRIDGE
+
+	The ship is ROCKED by multiple HITS.
+
+					GARAK 
+			Congratulations, captain. You 
+			wanted them angry. They're angry.
+
+	The ship is HIT again.
+
+					SISKO
+				(off a console) 
+			The Magellan and the Venture are 
+			supposed to be protecting our 
+			starboard flank -- they're in too 
+			tight. Ensign, tell the Sixth, 
+			Seventh and Eighth fighter 
+			squadrons to regroup and --
+
+
+					NOG 
+			Sir -- I can't get through to 
+			anybody. Communications are down.
+
+	As the ship suffers ANOTHER HIT, O'Brien rushes over 
+	to Nog's console, taps a few keys.
+
+					O'BRIEN 
+			They're jamming our signals by 
+			generating a rotating E-M pulse.
+
+					SISKO
+			Can you clear it?
+
+					O'BRIEN
+			I'm trying to.
+
+	AND ANOTHER series of HITS takes us to:
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      18.
+
+
+26   OMITTED
+
+27   EXT4 SPACE - TEROK NOR (OPTICAL)(STOCK)
+
+	Re-establishing.
+
+27A  INT. CAPTAIN'S OFFICE (VPB)
+
+	Dukat is pouring two glasses of kanar. Weyoun stands 
+	nearby.
+
+					DUKAT 
+			War is such thirsty work. Don't 
+			you agree?
+
+					WEYOUN 
+			Perhaps if you didn't talk so 
+			much, your throat wouldn't get so 
+			dry.
+
+					DUKAT 
+			Cardassians like to talk. I 
+			suppose it can be a failing... at 
+			times.
+				(holding up a glass for 
+				Weyoun to take) 
+			To the conquerors of the 
+			Federation.
+
+	Weyoun doesn't reach for the glass.
+
+					WEYOUN 
+			Aren't you being a bit premature?
+
+					DUKAT
+			I don't think so. Not with twenty-
+			eight hundred Dominion ships about 
+			to come through the wormhole.
+
+					WEYOUN 
+			Those ships won't be here for 
+			another five hours. And need I 
+			remind you, a lot can happen in 
+			that time.
+
+	Dukat puts Weyoun's glass on the desk.
+
+					DUKAT 
+			Tell me, Weyoun, have you ever 
+			been diagnosed as anhedonic?
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO     18A.
+
+27A  CONTINUED:
+
+					WEYOUN 
+			You think I'm incapable of 
+			experiencing joy just because I'm 
+			cautious?
+
+	Dukat drains his glass.
+
+					DUKAT 
+			We didn't defeat the Federation 
+			by being cautious.
+
+					WEYOUN 
+			We haven't defeated them yet. And 
+			even if we do, that's only the 
+			beginning. Holding on to a prize 
+			as vast as the Federation isn't 
+			going to be easy. It's going to 
+			require an enormous number of 
+			ships, a massive occupation 
+			army... and constant vigilance.
+
+	Dukat picks up Sisko's baseball and starts twirling it.
+
+					DUKAT 
+			I look forward to it.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      19.
+
+27A  CONTINUED: (2)
+
+					WEYOUN 
+			I'm sure you also looked forward 
+			to occupying Bajor... and we all 
+			know what a disappointment that 
+			was.
+
+					DUKAT
+				(defensive) 
+			On Bajor, I merely implemented 
+			policy. I didn't make it. If I 
+			had, things would've turned out 
+			quite differently.
+
+	Weyoun gives Dukat a half-smile, then turns to a wall 
+	monitor with a graphic of Federation space.
+
+					WEYOUN 
+			If you ask me, the key to holding 
+			the Federation is Earth. If 
+			there's going to be an organized 
+			resistance against us... its 
+			birthplace will be there.
+
+					DUKAT 
+			You could be right.
+
+					WEYOUN 
+			Then our first step will be to 
+			eradicate its population.
+				(convinced) 
+			It's the only way.
+
+	This comment surprises Dukat, and he doesn't like the 
+	idea.
+
+
+					DUKAT 
+			You can't do that.
+
+					WEYOUN 
+			Why not?
+
+					DUKAT 
+			Because a true victory is to make 
+			your enemy see that they were 
+			wrong to oppose you in the first 
+			place. To force them to 
+			acknowledge your greatness.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      20.
+
+27A  CONTINUED: (3)
+
+					WEYOUN
+				(trying to understand) 
+			Then you kill them?
+
+					DUKAT 
+			Only if necessary.
+
+	Weyoun doesn't really buy any of this, but wants to see 
+	where it plays out.
+
+					WEYOUN
+			I had no idea...
+
+					DUKAT
+				(half to himself) 
+			Perhaps the biggest disappointment 
+			in my life is that the Bajoran 
+			people still refuse to appreciate 
+			how lucky they were to have me as 
+			their liberator. I protected them 
+			in so many ways... cared for them 
+			as if they were my own children.
+				(a beat) 
+			But to this day, is there a single 
+			statue of me on Bajor?
+
+					WEYOUN 
+			I would guess not.
+
+					DUKAT 
+			And you'd be right.
+
+	Dukat looks down at the baseball in his hand.
+
+					DUKAT 
+			Take Captain Sisko -- an otherwise 
+			intelligent and perceptive man -- 
+			even he refuses to grant me the 
+			respect I deserve.
+
+	Vastly entertained, Weyoun smiles.
+
+					DUKAT 
+			You find that amusing.
+
+					WEYOUN 
+			Not at all. I find it 
+			fascinating.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      21.
+
+27A  CONTINUED:	(4)
+
+					DUKAT 
+			Laugh all you want. History will 
+			prove me right.
+
+					WEYOUN 
+			I can hardly wait.
+
+	And off of this moment, we go to --
+
+28   OMITTED
+
+29   INT. ODO'S QUARTERS
+
+	The room is dark and quiet; ODO stares out the window. 
+	The Female Shape-shifter approaches him.
+
+					FEMALE SHAPE-SHIFTER 
+			I have news, Odo. Our battle with 
+			the Federation fleet is going well.
+
+	But the news doesn't cheer Odo.
+
+					ODO 
+			There are people fighting out 
+			there... dying... people that used 
+			to be my friends...
+
+					FEMALE SHAPE-SHIFTER 
+			They're Solids, Odo. You must 
+			remember that.
+
+					ODO
+			I know... but they still mean 
+			something to me.
+
+					FEMALE SHAPE-SHIFTER 
+			The Link means more.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      22.
+
+29   CONTINUED:
+
+					ODO 
+			That's what I keep telling myself. 
+			But somehow I can't quite believe 
+			it.
+
+					FEMALE SHAPE-SHIFTER 
+			You asked me for clarity, Odo. 
+			I gave it to you. 
+			Now you must accept it.
+
+	Odo remains silent. We've never seen the Female 
+	Shape-shifter lose her temper -- and she's not going to 
+	do it now. But she's getting mighty close...
+
+					FEMALE SHAPE-SHIFTER 
+			It's Major Kira, isn't it? You 
+			still have strong feelings for her.
+
+	Odo's silence confirms her suspicions.
+
+					FEMALE SHAPE-SHIFTER 
+			Odo, she doesn't deserve your 
+			loyalty. You can't allow a Solid 
+			to deny you your rightful place 
+			in the Great Link. I couldn't 
+			permit it.
+
+					ODO
+			What are you saying?
+
+					FEMALE SHAPE-SHIFTER 
+			The major has been arrested.
+
+					ODO
+			On what charge?
+
+					FEMALE SHAPE-SHIFTER 
+			That hardly matters. What matters 
+			is that she will be found guilty 
+			and sentenced to death.
+
+	The words stagger Odo.
+
+					ODO
+				(shaking his head)
+			No...
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      23.
+
+29   CONTINUED:	(2)
+
+					FEMALE SHAPE-SHIFTER 
+			Her death will be your salvation. 
+				(holding out her hand) 
+			Link with me. Embrace the 
+			clarity -- it's the only way 
+			you'll ever find peace.
+
+	Odo looks intently at the hand the changeling offers 
+	him.
+
+					ODO 
+			No.
+
+					FEMALE SHAPE-SHIFTER 
+			You can't help her, Odo. You 
+			can't help any of the Solids. No 
+			matter how much you may want to... 
+				(a beat) 
+			It's too late for them.
+
+	She lets those words hang in the air.
+
+30
+and   OMITTED
+31
+
+31A  EXT. SPACE (OPTICAL)
+
+	The battle rages on. We're close on the Defiant and 
+	two other Federation ships trying to fight their way 
+	through the Dominion lines. one of the Federation's 
+	ships -- the Sitak -- is already crippled, spinning out 
+	of control. Then the other ship takes a hit and is 
+	destroyed.
+
+31B  INT. DEFIANT - BRIDGE
+
+	Smoke, sparks, and burnt-out panels are everywhere as 
+	the Defiant, like the rest of the Federation fleet, 
+	takes a pounding. O'Brien and Nog are still working 
+	on the down com system.
+
+					DAX 
+			Sir, we've just lost the Sitak and 
+			the Majestic. We're on our own, 
+			Ben.
+
+       DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT TWO      24.
+
+31C  OMITTED
+
+31D  ANOTHER ANGLE
+
+	ANOTHER SERIES OF HITS ROCK the ship.
+
+					O'BRIEN
+			The com's back on-line.
+
+					NOG
+			Four enemy ships directly ahead.
+
+					SISKO
+				(to Dax)
+			Evasive maneuvers, pattern Omega.
+			We're going through.
+
+31E  CLOSE ON SISKO
+
+	as the ship takes another HIT, and we:
+
+32
+thru   OMITTED
+33
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     25.
+                           ACT THREE                            
+
+34   EXT. SPACE (OPTICAL)
+
+	The Defiant makes several sharp, evasive maneuvers and 
+	drills one of the Jem'Hadar ships. But the three other 
+	Jem'Hadar ships lock onto the Defiant's tail.
+
+35   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					DAX
+			That's one down.
+
+					SISKO
+			Can you shake the other three?
+
+					DAX
+			I'm trying.
+
+					BASHIR
+			We've lost aft shields. Forward
+			shields are down to twenty percent.
+
+					GARAK
+			This might be a good time to cloak.
+
+					O'BRIEN
+			The cloaking system's fried.
+
+					SISKO
+			Divert auxiliary power to weapons.
+			Let's see if we can fight our way
+			out of this.
+
+36
+and   OMITTED
+37
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     26.
+
+
+38   EXT. SPACE (OPTICAL)
+
+
+	We see the Jem'Hadar ships bearing down on the Defiant, 
+	when suddenly, all three EXPLODE.
+
+39   ANOTHER ANGLE (OPTICAL)
+
+	to see the Rotarran leading a Klingon fleet, swarming 
+	into the Dominion lines and joining the fray.
+
+40   INT. DEFIANT - BRIDGE
+
+					NOG 
+			Sir -- the Klingons, they're here.
+
+	AD HOC CELEBRATION from everyone.
+
+					NOG 
+			We're being hailed by Commander 
+			Worf.
+
+					SISKO 
+			On screen.
+
+41   ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	as the image of WORF appears.
+
+					WORF
+			I'm sorry we're late, Captain. 
+			But it wasn't easy to convince 
+			Chancellor Gowron to spare us any 
+			ships.
+
+					SISKO
+			Just glad you could join us, 
+			Commander.
+
+					O'BRIEN
+			Captain -- the Klingons have 
+			opened a hole in the Dominion 
+			lines.
+
+					SISKO
+			Dax -- can you take us through?
+
+					DAX
+			I'd love to try.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     27.
+
+41   CONTINUED:
+
+	Sisko knows he's been given a second chance and he's 
+	determined to make the best of it.
+
+42   EXT. SPACE (OPTICAL)
+
+	to see the Defiant soar through a hole in the Dominion 
+	lines as the battle continues on behind them.
+
+43   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					SISKO 
+			Any other ships make it?
+
+					NOG 
+			No, sir.
+
+					SISKO
+				(to Dax) 
+			We've got three hours before the 
+			minefield is detonated. Set a 
+			course for Deep Space Nine. 
+			Maximum warp.
+
+44   EXT. SPACE (OPTICAL)
+
+	as the Defiant goes into warp.
+
+45   INT. OPS (VPB)
+
+	Dukat, Weyoun and Damar are studying the battle map on 
+	the table.
+
+					DAMAR 
+			The Defiant has broken through our 
+			lines. It's on its way here. 
+			Shall I order a pursuit?
+
+					WEYOUN 
+			At once.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     28.
+
+45   CONTINUED:
+
+					DUKAT
+				(countermanding) 
+			The Defiant's no match for this 
+			station... if Sisko wants to 
+			commit suicide, I say we let him.
+
+46   INT. HABITAT RING CORRIDOR
+
+	ZIYAL approaches her quarters.
+
+47   INT. ZIYAL'S QUARTERS
+
+	Ziyal ENTERS her room only to be grabbed from behind.
+
+48   NEW ANGLE
+
+	to REVEAL Quark, who pushes her up against the wall, 
+	cupping her mouth.
+
+					QUARK 
+			Don't scream. I'm not going to 
+			hurt you. I just have one 
+			question.
+
+	Quark uncups her mouth.
+
+					ZIYAL 
+			What's that?
+
+					QUARK 
+			Do you know how to make Hasperat 
+			souffle?
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     29.
+
+48   CONTINUED:
+
+	And off her puzzled expression
+
+49   INT. SECURITY OFFICE
+
+	A CARDASSIAN OFFICER sits at Odo's desk. Quark and 
+	Ziyal ENTER; Quark has a covered tray of food.
+
+					QUARK
+			Lunch for Major Kira.
+
+					CARDASSIAN OFFICER 
+				(suspicious) 
+			Major Kira has already been fed.
+
+					QUARK 
+			And I can only imagine the slop 
+			you've served her. What I have 
+			here is Hasperat souffle -- just 
+			the way the major likes it.
+
+					CARDASSIAN OFFICER 
+			This is a jail, not a hotel. The 
+			major will eat what the other 
+			prisoners eat.
+
+					ZIYAL 
+			Do you know who I am?
+
+					CARDASSIAN OFFICER 
+				(nodding) 
+			Gul Dukat's daughter.
+
+					ZIYAL 
+			That's right. Now I suggest you 
+			allow us to deliver this food.
+
+	But the Cardassian can't quite back down.
+
+					CARDASSIAN OFFICER 
+			I can't do that. 
+				(a beat) 
+			However, I will take the tray to 
+			her. After I examine it.
+
+					QUARK 
+			Is that really necessary?
+
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     30.
+
+49   CONTINUED:
+
+					CARDASSIAN OFFICER
+				(adamant) 
+			Lift the lid.
+
+					QUARK 
+			If you insist.
+
+	The Cardassian Officer glares at Quark, who shrugs and 
+	places the tray on the desk, then lifts the cover for 
+	the officer to inspect.
+
+					QUARK
+			You see. Hasperat Souffle. Just 
+			as I said.
+
+	The officer pokes at the food to make sure there's 
+	nothing hidden within it.
+
+					QUARK
+			Stop poking it -- it's very delicate.
+
+	The Cardassian Officer leans forward to examine it 
+	closer.
+
+	Ziyal reaches out and jabs a hypospray into the neck 
+	of the Cardassian Officer. He slumps over onto the 
+	tray, squashing the souffle.
+
+					QUARK
+				(to the unconscious 
+				officer) 
+			Now you've ruined it.
+
+50   INT. HOLDING CELL
+
+	Kira and Leeta share a holding cell, as do Jake and 
+	ROM. The mood is somber, defeated. TWO JEM'HADAR 
+	SOLDIERS stand guard.
+
+					ROM 
+			How much longer before they 
+			detonate the minefield?
+
+					KIRA
+			I wish you'd stop asking me that.
+
+					ROM 
+			Sorry.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     31.
+
+50   CONTINUED:
+
+					JAKE 
+			I'd say about ninety minutes.
+
+					ROM 
+			My time grows short.
+
+					LEETA 
+			Don't say that.
+
+					ROM 
+			The only reason they haven't 
+			killed me yet is that I'm part of
+			their victory celebration. Seven 
+			o'clock, Dukat makes a speech... 
+			eight thirty, cake and 
+			raktajino... eight forty-five, 
+			execute the Ferengi.
+
+51   ANGLE ON THE DOOR
+
+	to see Quark, brandishing a disruptor in each hand, 
+	storms into the room. Ziyal is right behind him.
+
+					QUARK
+			All right -- no one move!
+
+	The prisoners react with surprise and delight, while 
+	the Jem'Hadar guards remain cool and collected.
+
+					ROM 
+			Brother! I knew you would come.
+
+					QUARK 
+			It's a surprise to me.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     32.
+
+51   CONTINUED:
+
+	Quark keeps his disruptors pointed at the Jem'Hadar. 
+	Quark is clearly nervous... this is a new role for him, 
+	and right now, he'd rather be behind his bar.
+
+					QUARK
+			Just keep calm and stay where you
+			are. Understand? Don't move.
+				(then pointing a weapon 
+				at one of the guards)
+			You. Open the holding cells.
+
+	The guards don't move.
+
+					QUARK
+			I said open the holding cells.
+
+					ZIYAL
+				(to Quark)
+			You told them not to move.
+
+					QUARK
+			Right.
+				(pointing again)
+			Nobody moves, except you. Now
+			open the cells.
+
+	The two Jem'Hadar exchange a quick look, then turn 
+	their weapons onto Quark.
+
+52   ON QUARK (OPTICAL)
+
+	as he instinctively FIRES both disruptors -- hitting 
+	both Jem'Hadar in the chest, killing them instantly.
+
+	A moment of silence. Nobody quite believes that Quark 
+	actually took out two Jem'Hadar soldiers all by himself.
+
+					KIRA
+			Quark...
+
+					QUARK
+				(still looking at the 
+				bodies)
+			Yes?
+
+					KIRA
+			Take down the forcefields.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     33.
+
+52   CONTINUED:
+
+					QUARK
+			Forcefields?
+
+	Ziyal walks over and takes one of the disruptors from 
+	Quark's hand, walks over to the control panel, aims the 
+	weapon at the key pad, turns her head away, closes her 
+	eyes, then FIRES.
+
+53   NEW ANGLE (OPTICAL)
+
+	as the holding cell forcefields FRITZ OFF. As Rom and 
+	Leeta embrace, Kira makes a beeline for the Jem'Hadar's 
+	weapons.
+
+					KIRA 
+			I'd kiss you, Quark -- but there's 
+			no time.
+
+	She picks up the two rifles, keeps one for herself and 
+	tosses the other one to Rom.
+
+					KIRA 
+			We've got to find a way to shut 
+			down the power to the main 
+			computer.
+
+					ROM
+				(good idea) 
+			I can do that.
+
+					LEETA
+				(my hero)
+			Oh, Rom...
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     34.
+
+53   CONTINUED:
+
+					ROM 
+			That is, if we can make it to the 
+			central computer core without 
+			being killed.
+
+					KIRA
+			Rom, you're with me. The rest of 
+			you, find someplace to keep out 
+			of sight.
+
+					JAKE 
+			Will do.
+
+	Kira leads the group out of the holding cells -- 
+	everyone except Quark, who is still standing, weapon 
+	in hand, staring at the two dead Jem'Hadar.
+
+	After a beat, Jake comes back in the room grabs him 
+	by the shoulders and yanks him out the door.
+
+54   INT. ODO'S QUARTERS
+
+	Odo is leaning against his shape-shifting jungle gym, 
+	his head bent in silent contemplation. The Female 
+	Shape-shifter stands behind him.
+
+					FEMALE SHAPE-SHIFTER 
+			I know you're confused, Odo. But 
+			you don't have to be. All the 
+			answers you seek are in the Link.
+
+	The door CHIMES. Odo's head pops up, seeing this as 
+	a possible reprieve from the Female Shape-shifter's 
+	relentless pressure.
+
+					ODO 
+			Come in.
+
+	The door OPENS, Weyoun ENTERS.
+
+					WEYOUN 
+			Forgive the intrusion, but Major 
+			Kira, the Ferengi saboteur and the 
+			rest of their terrorist group have 
+			escaped from the holding cells. 
+			For your own protection, I must 
+			ask you to come with me.
+
+	Odo reacts; the Female Shape-shifter notices.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     35.
+
+54   CONTINUED:
+
+					FEMALE SHAPE-SHIFTER 
+			I want them caught.
+
+					WEYOUN 
+			They will be. But in the 
+			meantime, you'd both be safer in 
+			Ops.
+
+					FEMALE SHAPE-SHIFTER 
+			Very well.
+				(she looks to Odo) 
+			Odo?
+
+	Odo shakes his head.
+
+					ODO
+			I'll be fine here.
+
+	The Female Shape-shifter doesn't like this turn of 
+	events. She stares long and hard at Odo. He meets her 
+	gaze; it's a charged moment.
+
+					FEMALE SHAPE-SHIFTER 
+			You're sure?
+
+					ODO
+			Yes.
+
+	And with that, she EXITS, followed by a deferential 
+	Weyoun.
+
+55   INT. DOCKING RING CORRIDOR (OPTICAL)
+
+	Under heavy FIRE from THREE pursuing CARDASSIAN TROOPS, 
+	Kira and Rom are running for their lives.
+
+					KIRA
+			This way.
+
+	They manage to duck inside a --
+
+56   INT. CARGO BAY (OPTICAL)
+
+	Which is filled with crates, boxes, etc. Kira and Rom 
+	head for the doors at the opposite end of the bay. But 
+	before they arrive there, those doors OPEN and THREE 
+	JEM'HADAR SOLDIERS charge in, opening FIRE on them.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     36.
+
+56   CONTINUED:
+
+	Kira and Rom scramble behind some cargo and return 
+	FIRE. However, they are under such heavy FIRE that 
+	they can't poke their heads out to take aim. Listening 
+	intently, Rom reacts to something he hears --
+
+					ROM 
+			Do you hear that? That's Bajoran 
+			phaser fire.
+
+					KIRA
+			Why would Dominion troops be using 
+			Bajoran weapons?
+
+	Suddenly the FIRING stops. Kira and Rom exchange a
+	look, and curiosity getting the better of them, they 
+	carefully poke their heads out.
+
+57   KIRA AND ROM'S POV
+
+	of Odo and a FOUR BAJORAN DEPUTIES, phasers in hand, 
+	stand over the bodies of the Cardassian and Jem'Hadar 
+	troops.
+
+					ODO 
+			Never underestimate the element 
+			of surprise.
+
+	And as Kira breaks into a smile at the sight of her 
+	rescuer, we go to --
+
+
+58   INT. HABITAT RING CORRIDOR
+
+	Odo, Kira, Rom and the Bajoran guards, head down the 
+	corridor.
+
+					ODO 
+			You have less than forty minutes 
+			to shut down the main computer.
+
+					ROM 
+			I hope that's enough time.
+
+					KIRA 
+			It'll have to be. 
+				(to Odo) 
+			Can you keep the Dominion patrols 
+			off our backs?
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     37.
+
+58   CONTINUED:
+
+					ODO 
+			I'll head over to Security. I'll 
+			create enough false alarms to keep 
+			them occupied.
+
+	They arrive at a conduit access panel. As Rom pulls 
+	it open --
+
+					ODO
+			Any questions?
+
+					KIRA
+			I could ask why.
+
+					ODO
+			I don't think I have time to 
+			explain it.
+				(a beat) 
+			Besides, I think you know the 
+			answer.
+
+	The moment hangs in the air for a beat.
+
+					KIRA 
+			What about the Link?
+
+					ODO
+			The Link was paradise.
+
+	Kira waits for more.
+
+					ODO 
+			But it appears I'm not ready for 
+			paradise.
+
+
+	Kira nods and then follows Rom into the conduit. Odo 
+	picks up the access panel door and prepares to close 
+	it. Odo and Kira exchange a last look --
+
+					ODO
+			Good luck.
+
+					KIRA
+			You too.
+
+	And with that, he seals her in.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     38.
+
+59   EXT. SPACE (OPTICAL)(STOCK)
+
+	The Defiant traveling at warp.
+
+60   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					SISKO
+			Dax, what's our E.T.A.?
+
+					DAX
+			Eleven minutes.
+
+					O'BRIEN
+			That's cutting it awfully close.
+
+61   INT. CONDUIT JUNCTURE
+
+	Rom works with deep concentration at an open panel as 
+	Kira stands guard.
+
+					KIRA
+			How's it going, Rom?
+
+					ROM
+				(quoting her)
+			I wish you'd stop asking me that.
+
+					KIRA
+			Sorry.
+
+
+					ROM
+				(a troubling realization)
+			I'm not going to make it.
+
+					KIRA
+				(thinking fast)
+			Then concentrate on cutting off
+			the power to the station's weapons
+			array. Without weapons they won't
+			be able to detonate the minefield.
+
+					ROM
+				(hope renewed)
+			Not for a while anyway.
+
+	And as Rom continues working --
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     39.
+
+62   EXT. SPACE (OPTICAL)(STOCK)
+
+	The Defiant streaks towards us at warp.
+
+63   INT. OPS
+
+	Dukat, Weyoun, the Female Shape-shifter and Damar are 
+	at the Ops table.
+
+					DAMAR 
+			Sir, the Klingons have outflanked 
+			us. Our lines are beginning to 
+			crumble.
+
+					DUKAT
+				(remaining calm) 
+			There's nothing to worry about. 
+			In exactly four minutes, thousands 
+			of Dominion ships will start 
+			pouring through the wormhole.
+				(a beat) 
+			I just hope the Defiant gets here 
+			in time for Sisko to see it.
+
+64   INT. DEFIANT - BRIDGE
+
+	Sisko is standing directly behind Dax, trying to will 
+	the ship to go faster.
+
+					DAX 
+			Ben -- if I were you, I'd start 
+			coming up with plan B.
+
+65   INT. CONDUIT JUNCTURE
+
+	Rom continues working feverishly.
+
+					ROM 
+			Almost there... I just need to 
+			decouple the ODN relays.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     40.
+
+66   INT. OPS
+
+	Damar works a console on the Ops table; Dukat is right 
+	next to him.
+
+					DAMAR
+				(smiles) 
+			The last mines have been 
+			neutralized.
+				(proudly) 
+			We're ready to detonate the 
+			minefield, sir.
+
+	Dukat smiles at Weyoun and the Female Shape-shifter, 
+	this is the moment they've all been waiting for.
+
+67   INT. DEFIANT - BRIDGE
+
+	Close on Sisko, the tension in his eyes.
+
+68   INT. CONDUIT JUNCTURE
+
+	Close on Rom, working.
+
+69   INT. OPS
+
+	Close on Dukat.
+
+					DUKAT 
+			Fire.
+
+70   INT. CONDUIT JUNCTURE
+
+	Rom completes his task, touching some terminals with 
+	a coil spanner.
+
+					ROM 
+			Done.
+
+71   EXT. SPACE (OPTICAL)
+
+	A phaser beam from the station is in the process of 
+	sweeping the minefield which detonates in a spectacular 
+	series of EXPLOSIONS.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     41.
+
+72   INT. CONDUIT JUNCTURE
+
+	Rom stares at a readout from his panel.
+
+					ROM
+			Uh-oh.
+
+					KIRA
+			What is it?
+
+					ROM
+			We were too late.
+
+	And off Kira's look of concern --
+
+73   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	As Sisko and his crestfallen crew look at the 
+	viewscreen, where the last few EXPLOSIONS DETONATE.
+
+					DAX
+			What do we do now, Captain?
+
+	Sisko replaces his gloom with more determination.
+
+					SISKO
+			Take us into the wormhole.
+
+	Dax gives Sisko a surprised look.
+
+					O'BRIEN
+				(nothing to lose)
+			What the hell. All we're going
+			to find in there is a couple of
+			thousand Dominion ships.
+
+					DAX
+			One ship against an entire
+			fleet... that's a helluva plan B.
+
+					GARAK
+			Chief, how does that poem end?
+
+					O'BRIEN
+			You don't want to know...
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT THREE     42.
+
+74   INT. OPS
+
+	Everyone is all smiles here.
+
+					FEMALE SHAPE-SHIFTER 
+			Send a message to our listening 
+			posts in the Gamma Quadrant. Tell 
+			the reinforcements that the Alpha 
+			Quadrant awaits them.
+
+	Dukat nods to Damar, granting him permission to carry 
+	out the Female Shape-shifter's instructions. But 
+	something on Damar's panel catches his attention --
+
+					DAMAR 
+			Sir, the Defiant... it's headed 
+			for the wormhole.
+
+					WEYOUN 
+			Destroy it.
+
+	Damar works his panel, but something's wrong.
+
+					DUKAT
+			What's the matter, Damar?
+
+					DAMAR
+			Our weapons are off-line.
+
+					WEYOUN 
+			How can that be?
+
+					DUKAT 
+				(hard) 
+			Major Kira.
+
+	And off that moment
+
+75   EXT. SPACE (OPTICAL)
+
+	The Defiant approaches the wormhole, which opens. The 
+	Defiant flies inside. And on that image, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      43.
+                           ACT FOUR                             
+
+	FADE IN:
+
+76   EXT. SPACE - INSIDE THE WORMHOLE (OPTICAL)
+
+	The Defiant makes its way through the wormhole.
+
+77   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					SISKO
+				(to Dax) 
+			Full stop. Chief, divert all 
+			power to forward shields and 
+			weapons.
+
+					DAX
+				(off her console) 
+			Captain -- I'm reading multiple 
+			warp signatures ahead.
+
+					SISKO 
+			On screen. Maximum magnification.
+
+78   ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	The Dominion fleet is approaching from the other side 
+	of the wormhole.
+
+79   RESUME (OPTICAL)
+
+	As the moment hangs in the air. O'Brien looks over to 
+	Bashir, and they too exchange a wry good-bye smile.
+
+	Bashir, in turn, looks to Garak, who tips his head with 
+	the slightest of nods.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      44.
+
+79   CONTINUED:
+
+	And then Dax looks to Sisko and they too exchange a farewell smile.
+
+					SISKO
+			Lock phasers, prepare to launch
+			quantum torpedoes.
+
+	But before his crew can respond, a BRIGHT WHITE FLASH 
+	FILLS THE SCREEN --
+
+80   WHITE SCREEN (OPTICAL)
+
+	Just like in "Emissary" and "Prophet Motive," we are 
+	now in an altered reality. We see Sisko trying to 
+	adjust to his surroundings -- or lack thereof. We hear 
+	his heartbeat and breathing... then over that, the 
+	sound of soft VOICES, WHISPERING, like rustling leaves 
+	in the wind. Insistent. Unvarying. Unintelligible. 
+	Sisko tries to make out the words, but can't.
+
+					SISKO
+			Why have you brought me here?
+
+	The voices continue murmuring.
+
+					SISKO
+			Show yourselves.
+
+	But the voices keep whispering.
+
+					SISKO
+			What do you want?
+
+									HARD CUT TO:
+
+81   INT. PROMENADE (OPTICAL)
+
+	Odo steps out of the Security office and confronts 
+	Sisko -- except of course, he is not Odo -- he is a 
+	wormhole alien. Cold. Remote.
+
+					ODO ALIEN
+			The Sisko has returned to us.
+
+82   INT. QUARK'S (OPTICAL)
+
+
+	An alien Jake spins on a barstool.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      45.
+
+82   CONTINUED:
+
+					JAKE ALIEN
+			He arrives with questions.
+
+83   INT. OPS (OPTICAL)
+
+	The alien Kira stands at the other end of the Ops table 
+	from Sisko.
+
+					KIRA ALIEN
+			There are always questions.
+
+					SISKO
+			I didn't ask to come here.
+
+84   INT. CAPTAIN'S OFFICE (OPTICAL)
+
+	An alien Dukat sits behind the captain's desk, holding 
+	Sisko's baseball.
+
+					DUKAT ALIEN
+			You desire to end the game.
+
+					SISKO
+			What game? I don't understand.
+
+85   INT. WARDROOM (OPTICAL)
+
+	An alien Weyoun stands with his hands behind his back.
+
+					WEYOUN ALIEN
+			You seek to shed your corporeal
+			existence.
+
+86   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	An alien Damar sits at the helm in the otherwise empty 
+	ship.
+
+					DAMAR ALIEN
+			That cannot be allowed.
+
+87   INT. PROMENADE (OPTICAL)
+
+	Odo alien and Sisko.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      46.
+
+87   CONTINUED:
+
+					ODO ALIEN 
+			The game must not end.
+
+					SISKO 
+			The game -- you mean my life? Is 
+			that what this is about? You 
+			don't want me to die?
+
+88   INT. CAPTAIN'S OFFICE (OPTICAL)
+
+	As before.
+
+					DUKAT ALIEN 
+			The game must continue.
+
+89   INT. WARDROOM (OPTICAL)
+
+	Sisko stands before the Weyoun alien.
+
+					WEYOUN ALIEN 
+			You are the Sisko.
+
+					SISKO 
+			Believe me, I don't want to die. 
+			But I have to do everything I can 
+			to prevent the Dominion from 
+			conquering the Alpha Quadrant. 
+			If that means sacrificing my life 
+			and the lives of my crew -- so be 
+			it.
+
+90   INT. QUARK'S (OPTICAL)
+
+	As before.
+
+					JAKE ALIEN 
+			We do not agree.
+
+	Kira alien steps up from behind Sisko.
+
+					KIRA ALIEN
+			We find your reasoning flawed.
+
+	Now Odo alien steps around from the other side.
+
+					ODO ALIEN 
+			Insufficient.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      47.
+
+90   CONTINUED:
+
+					SISKO 
+			I'm flattered you feel that way, 
+			but it doesn't change anything. 
+			Now send me back to my ship.
+
+91   INT. DEFIANT - BRIDGE (OPTICAL)
+
+	Sisko turns to face the Damar alien.
+
+					SISKO 
+			This isn't what I meant. I want 
+			to return to my reality.
+
+					DAMAR ALIEN 
+			You are the Sisko.
+
+					SISKO 
+			I'm also a Starfleet captain. I 
+			have a job to do and I intend to 
+			do it.
+
+	The Weyoun alien appears at O'Brien's station.
+
+					WEYOUN ALIEN 
+			The Sisko is belligerent.
+
+	A Dukat alien appears in the Captain's seat.
+
+					DUKAT ALIEN 
+			Aggressive.
+
+					DAMAR ALIEN 
+			Adversarial.
+
+					SISKO 
+			You're damn right I'm adversarial. 
+			You have no right to interfere 
+			with my life.
+
+92   INT. OPS (OPTICAL)
+
+	All the wormhole aliens are gathered around the table 
+	with Sisko at one end.
+
+					KIRA ALIEN 
+			We have every right.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      48.
+
+92   CONTINUED:
+
+					SISKO
+				(challenging) 
+			Fine -- you want to interfere, 
+			then interfere! Do something 
+			about those Dominion 
+			reinforcements.
+
+					ODO ALIEN 
+			That is a corporeal matter.
+
+					DUKAT ALIEN 
+			Corporeal matters do not concern 
+			us.
+
+					SISKO
+			The hell they don't. What about 
+			Bajor? You can't tell me that 
+			Bajor doesn't concern you. You've 
+			sent the Bajorans orbs and 
+			Emissaries -- you've encouraged 
+			them to create an entire religion 
+			around you. You even told me once 
+			that you were "of Bajor!" So 
+			don't tell me you're not 
+			"concerned" with corporeal matters.
+
+	Sisko moves around the table and, though the aliens 
+	don't turn to look at him, it's clear they're paying 
+	attention.
+
+					SISKO 
+			I don't want to see Bajor 
+			destroyed and neither do you. And 
+			we all know that's exactly what's 
+			going to happen if the Dominion 
+			takes over the Alpha Quadrant. 
+			You say you don't want me to 
+			sacrifice my life -- fine, neither 
+			do I. You want to be gods -- then 
+			be gods. I need a miracle. Bajor 
+			needs a miracle. Stop those ships.
+
+	Sisko looks at the aliens, trying to read their 
+	response, but they remain enigmatic. After a beat,
+	they talk amongst themselves.
+
+					WEYOUN ALIEN 
+			We are of Bajor.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      49.
+
+92   CONTINUED:	(2)
+
+					DAMAR ALIEN
+			But what of the Sisko?
+
+					ODO ALIEN
+			He is intrusive.
+
+					DUKAT ALIEN
+			He tries to control the game.
+
+					JAKE ALIEN
+			A penance must be exacted.
+
+	The aliens exchange a long look, then nod. It is clear 
+	they have come to an important decision.
+
+					WEYOUN ALIEN
+			It is agreed.
+
+	The Odo and Dukat aliens turn to face Sisko.
+
+					DUKAT ALIEN
+			The Sisko is of Bajor, but he will
+			find no rest there.
+
+	The Kira alien reaches out and touches Sisko's ear the 
+	way we've seen the Kai read his destiny.
+
+					KIRA ALIEN
+			His pagh will follow another path.
+
+					SISKO
+			What path is that?
+
+	But before he can get an answer, the SCREEN WHITES OUT.
+
+									CUT TO:
+
+93   INT. DEFIANT - BRIDGE
+
+	Exactly as we left it before. It's as if Sisko never 
+	left.
+
+					O'BRIEN
+			Torpedoes ready. Targets locked.
+
+					DAX
+				(off her console)
+			Here they come.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FOUR      50.
+
+94   CLOSE ON SISKO
+
+	as he faces the fact that nothing has changed.
+
+					SISKO
+			Fire on my command.
+
+	And on that, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      51.
+                           ACT FIVE                             
+
+	FADE IN:
+
+95   INT. DEFIANT - BRIDGE - CONTINUOUS
+
+	as the Defiant crew readies for battle.
+
+					SISKO 
+			Steady, people. Make every shot 
+			count.
+
+	And just as Sisko is about to give the order to fire, 
+	Dax reacts to something on the viewscreen.
+
+					DAX
+				(re: the Viewscreen) 
+			Benjamin.
+
+	Sisko and the rest of the crew look over to --
+
+96   THE VIEWSCREEN (OPTICAL)
+
+	The approaching Dominion reinforcement fleet has begun 
+	to be hit by some sort of strange energy jolts that 
+	crackles from ship to ship. And as we watch, the ships 
+	seem to vanish until the entire fleet has disappeared.
+
+97   RESUME
+
+					O'BRIEN 
+			They've cloaked.
+
+					DAX
+				(off her panel) 
+			I'm not picking up any neutrino 
+			emissions...
+
+					GARAK
+			Then where did they go?
+
+	Sisko begins to understand what the wormhole aliens 
+	have done.
+
+					SISKO 
+			Wherever they went, I don't think 
+			they're coming back.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      52.
+
+97   CONTINUED:
+
+	And as everyone looks at Sisko wondering what he knows 
+	that they don't, we go to --
+
+98   INT. OPS
+
+	Where Dukat, Weyoun, the Female Shape-shifter and Damar 
+	wait impatiently for the wormhole to open.
+
+					DAMAR
+				(to Dukat)
+			Sir, the wormhole is opening.
+
+	They all look to the viewscreen with victorious 
+	anticipation --
+
+99   ANGLE ON THE VIEWSCREEN (OPTICAL) (STOCK)
+
+	as the Defiant comes blasting out of the wormhole.
+
+100  RESUME
+
+					DAMAR
+			The Defiant...
+
+					DUKAT
+				(perturbed)
+			Our reinforcements must be right
+			behind.
+
+100A ON THE VIEWSCREEN (OPTICAL) (STOCK)
+
+	to see the wormhole close.
+
+100B WIDER
+
+	A long beat of shocked silence.
+
+					DAMAR
+				(off a console)
+			No, sir...
+				(at a loss for an 
+				explanation)
+			... there's no sign of them.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE     52A.
+
+100B CONTINUED:
+
+					WEYOUN 
+			That's impossible! Check our 
+			listening posts in the Gamma 
+			Quadrant.
+
+					DAMAR 
+			They're not there either.
+
+					DUKAT
+				(with growing alarm) 
+			But they entered the wormhole -- 
+			where could they be?
+
+					DAMAR
+				(he can't figure it out 
+				either) 
+			I don't know...
+
+	Suddenly, the station rocks.
+
+					DAMAR 
+			The Defiant has opened fire on us.
+
+					WEYOUN 
+			Obviously.
+
+					DUKAT 
+			Can you get our weapons back on-
+			line?
+
+					DAMAR 
+			Not for a while.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      53.
+
+100B CONTINUED:	(2)
+
+	There's a long beat as everyone grapples with this 
+	development.
+
+					DAMAR
+				(off the table console) 
+			Sir -- two hundred enemy ships 
+			have broken through our lines. 
+			They're headed this way.
+
+	Putting on the best face possible, Weyoun breaks into 
+	a smile, clasping his hands.
+
+					WEYOUN 
+			Time to start packing.
+
+					FEMALE SHAPE-SHIFTER
+				(to Damar) 
+			Contact our forces in the Alpha 
+			Quadrant and tell them to fall 
+			back to Cardassian territory.
+				(a beat) 
+			It appears that this war is going 
+			to take longer than expected.
+
+					WEYOUN
+				(to Dukat) 
+			We'll meet you at Airlock Five.
+
+	The Female Shape-shifter and Weyoun EXIT. Damar's 
+	attention remains on Dukat.
+
+					DAMAR 
+			Sir?
+
+	Dukat doesn't answer. Still stunned by the sudden
+	turn of events, Dukat continues staring off into space,
+	pressing his forehead with one and hand and toying with
+	Sisko's baseball with the other.
+
+					DUKAT
+				(half to himself)
+			Victory was within our grasp.
+
+					DAMAR 
+			We have to evacuate the station, 
+			sir.
+
+	But Dukat doesn't move.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE     53A.
+
+100B CONTINUED:	(3)
+
+					DUKAT
+				(softly)
+			Bajor... the Federation... the
+			Alpha Quadrant... all lost...
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      54.
+
+100B CONTINUED:	(4)
+
+					DAMAR
+			We have to go now, sir.
+
+	Dukat looks up to Damar as if he had never seen the man 
+	before.
+
+					DUKAT
+			Go?
+
+					DAMAR
+			The Federation ships... they'll
+			be here soon. We have to get to
+			Cardassia.
+
+					DUKAT
+				(still half to himself)
+			I have to find my daughter.
+
+	Dukat practically leaps to his feet and heads for the 
+	turbolift.
+
+					DAMAR
+			I'll send someone for her.
+
+					DUKAT
+			That won't be necessary.
+
+	Dukat steps into the turbolift.
+
+					DAMAR
+			You're wasting your time.
+
+					DUKAT
+			Promenade.
+
+	And as the turbolift sinks, Damar can't help himself 
+	from adding:
+
+					DAMAR
+				(calling after him)
+			She won't go with you.
+
+	We HOLD ON Damar for a beat, his hatred for Ziyal 
+	growing.
+
+101  INT. DEFIANT - BRIDGE
+
+	As before.
+
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      55.
+
+101  CONTINUED:
+
+					O'BRIEN
+				(off his console) 
+			Sir, the Dominion forces are 
+			leaving the station. They're 
+			headed for Cardassia.
+
+					SISKO
+			Let 'em go. We're in no shape to 
+			stop them.
+
+					BASHIR
+				(off his console) 
+			Captain -- we're getting a message 
+			from the Cortez. The Dominion 
+			fleet has broken off the fight. 
+			They're in retreat.
+
+	Smiles all around.
+
+					SISKO
+				(to Bashir) 
+			Tell the Cortez and the rest of 
+			our fleet to rendezvous at Deep 
+			Space Nine.
+
+	And with that, Sisko finally allows himself to sit in 
+	his chair.
+
+102  INT. PROMENADE
+
+	All but deserted. A lone figure strides down the 
+	corridor. It's Dukat.  He looks around at the empty 
+	street, his face filled with regret and loss.
+
+	On the second level, a squad of Jem'Hadar soldiers move 
+	in formation along the upper corridor.
+
+	Dukat keeps moving, wondering what went wrong.
+
+103  INT. DOCKING RING CORRIDOR
+
+	More Jem'Hadar and Cardassian troops move quickly 
+	toward the airlock. Though they walk at a brisk pace, 
+	there is no sense of panic or chaos. These are 
+	professional soldiers in retreat.
+
+	CAMERA PICKS UP Weyoun and the Female Shape-shifter, 
+	also moving toward the airlock.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      56.
+
+103  CONTINUED:
+
+					WEYOUN 
+			Step aside. Make way for the 
+			Founder.
+
+	And in response, Jem'Hadar troops cut a path for them 
+	through the lines of soldiers evacuating.
+
+					WEYOUN 
+			What about Odo -- is he coming 
+			with us?
+
+					FEMALE SHAPE-SHIFTER 
+				(stern) 
+			No. But he will join us one 
+			day... it's only a matter of time.
+
+	Weyoun and the Female Shape-shifter EXIT into the airlock.
+
+104   INT. HABITAT RING CORRIDOR
+
+	Dukat, still looking for Ziyal, is headed for his 
+	quarters, hoping to find her there. He's a man who's 
+	lost everything, looking for something to hang on to.
+
+					ZIYAL (O.S.) 
+			Father!
+
+	Dukat looks up to see his daughter standing on the 
+	other end of the corridor. Seeing his daughter is like 
+	a lifeline being thrown to a drowning man. Her rushes 
+	to her.
+
+					DUKAT 
+			Ziyal.
+
+	They approach one another. He hugs her fiercely -- 
+	afraid to lose her as well.
+
+					ZIYAL 
+			I've been looking for you. I 
+			heard about the evacuation.
+
+	Dukat brightens, this is what he was hoping for -- a 
+	sign that his daughter still cares for him.
+
+					DUKAT 
+			You're all I have -- all I care 
+			about.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      57.
+
+104  CONTINUED:
+
+					ZIYAL 
+			No matter how much I try to hate 
+			you, I can't.
+
+					DUKAT 
+			I couldn't live with myself if you 
+			hated me. Come, we'll talk on the 
+			way home.
+
+					ZIYAL 
+			Home?
+
+					DUKAT 
+			Cardassia. We have to leave here, 
+			before the Federation arrives.
+
+					ZIYAL
+				(a simple declaration) 
+			I'm not leaving.
+
+					DUKAT 
+			These people are our enemies.
+
+					ZIYAL 
+			They're not my enemies. I'm one 
+			of them.
+
+					DUKAT 
+			That's not true.
+
+					ZIYAL 
+			Father -- I helped Major Kira and 
+			the others escape from the holding 
+			cells.
+
+	Dukat can't believe what he's hearing, staring at his 
+	daughter with shock and disbelief.
+
+					DUKAT 
+			Do you know what you're saying?
+
+					ZIYAL 
+			Yes, I do. I belong here.
+				(a beat)
+			Good-bye, Father.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      58.
+
+105  ANOTHER ANGLE (OPTICAL)
+
+	as Ziyal turns and takes a few steps away before 
+	looking back at her father.
+
+					ZIYAL 
+			I love you.
+
+	Dukat smiles and walks towards her, but before he can 
+	reach her, a PHASER BEAM hits her in the chest, 
+	knocking her to the ground.
+
+					DUKAT 
+			No!
+
+	He turns to see Damar, holding a phaser, stepping out 
+	from behind an archway. Damar heard her confession.
+
+					DAMAR 
+			You heard her. She's a traitor.
+
+	Dukat turns and drops to the ground beside his 
+	daughter, cradling her in his arms.
+
+					DUKAT 
+			I forgive you... do you hear me, 
+			Ziyal... It's all right... 
+			everything's all right...
+
+	Damar steps up to Dukat.
+
+					DAMAR 
+			We're out of time, sir. The last 
+			ship is waiting for us.
+
+	Damar goes to pick up Dukat by the arm, but Dukat pulls 
+	his arm away.
+
+					DUKAT 
+			I love you, Ziyal. Do you hear 
+			me? I love you.
+
+106  ANGLE ON DAMAR
+
+	realizing it's time to get on that ship with or without 
+	Dukat. He turns and runs off.
+
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      59.
+
+107  ON DUKAT
+
+	cradling his daughter's body, gently rocking back and 
+	forth as if that will keep her from leaving him. And 
+	off this tableau, we go to --
+
+108  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	No longer Terok Nor, the station is surrounded by 
+	Federation ships, including the Defiant.
+
+109  INT. PROMENADE
+
+	as the airlock door opens and Sisko, Dax, O'Brien, 
+	Bashir, Garak, Nog and several other Defiant  
+	crewmembers come out to be met by Odo, Quark, Jake, 
+	Rom, Leeta, and a large group of very happy Bajorans 
+	welcoming them back to Deep Space Nine. Sisko and Jake 
+	give each other a bear hug. In fact, there's a lot of 
+	hugging, CHEERING, and slapping of backs. This is 
+	VICTORY!
+
+					ODO
+			Welcome back, captain.
+
+					SISKO
+			It's good to see you, Odo.
+				(scanning those gathered)
+			It's good to see all of you.
+
+110  ANGLE ON WORF AND MARTOK
+
+	as they come out of the airlock, followed by some of 
+	their crew.
+
+					MARTOK
+				(to Sisko)
+			It appears I owe you a barrel of
+			bloodwine, captain.
+
+					SISKO
+			We'll drink it together.
+
+					DAX
+			Worf! 
+
+	The two lovers embrace.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      60.
+
+110  CONTINUED:
+
+					WORF
+			Jadzia.
+
+					DAX
+			I guess the wedding's still on.
+
+	They kiss.
+
+111  ANGLE ON O'BRIEN, BASHIR, AND QUARK
+
+					O'BRIEN
+			Hey, Quark -- are the holosuites
+			still working?
+
+					QUARK
+			Ready and waiting, Chief.
+
+					O'BRIEN
+			You hear that, Julian?
+
+					BASHIR
+			Battle of Britain... I'll meet you
+			there in an hour.
+
+112  ANGLE ON ROM, NOG AND LEETA
+
+	Rom holds Nog by the shoulders, proudly, looking at his 
+	son's uniform.
+
+					ROM
+			You've been promoted?
+
+					NOG
+			I'm an engineer.
+
+					ROM
+				(excited)
+			We'll be working together.
+
+					NOG
+			Actually, you'll be working for
+			me.
+
+					LEETA
+			Isn't that wonderful?
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      61.
+
+112  CONTINUED:
+
+					ROM
+				(suddenly not so sure)
+			I guess...
+
+113  ANGLE ON SISKO, JAKE AND GARAK
+
+					SISKO
+				(looking around the 
+				crowd)
+			Where's Major Kira?
+
+					JAKE
+			She's in the Infirmary.
+				(looking over to Garak)
+			With Ziyal.
+
+	Garak's smile quickly vanishes.
+
+114  INT. INFIRMARY
+
+	Ziyal's body is lying on a bio-bed. Kira is seated 
+	nearby, her face grim with grief. Garak ENTERS behind 
+	them.
+
+115  ANGLE ON GARAK
+
+	as he looks down at Ziyal's body.
+
+					KIRA
+				(to Garak, softly)
+			She loved you.
+
+					GARAK
+			I could never figure out why. I
+			guess I never will...
+
+	And we go to --
+
+116  INT. HOLDING CELL
+
+	CLOSE ON the face of Dukat, mumbling, staring out as 
+	if talking directly to Ziyal.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      62.
+
+116  CONTINUED:
+
+					DUKAT 
+			We'll go back to Cardassia, Ziyal. 
+			We'll be safe there. You'll live 
+			with me... father and daughter... 
+			everything will be fine.
+
+	PULL BACK to reveal Sisko and Odo watching Dukat talk 
+	to himself in his cell.
+
+					SISKO 
+			Maybe Doctor Bashir can do 
+			something for him.
+
+117  ANGLE ON ODO (OPTICAL)
+
+	as he nods and steps over to a panel, tapping a few 
+	keys. The forcefield FRITZES OFF, allowing Odo to step 
+	up to the still mumbling Dukat.
+
+					DUKAT 
+			I know you forgive me. After all, 
+			I am your father... and I forgive 
+			you.
+
+					ODO
+				(gently, taking Dukat 
+				by the arm) 
+			Easy...
+
+	And with that, the once-powerful Dukat is led away. 
+	As he passes Sisko, he stops and looks at him intently.
+
+					DUKAT 
+			I forgive you, too.
+
+	Dukat holds out Sisko's baseball. The captain takes 
+	it and Dukat is led away.
+
+118  INT. CAPTAIN'S OFFICE
+
+	CLOSE ON SISKO'S HAND as he tosses the baseball in the 
+	air. ADJUST TO REVEAL Jake, standing near him.
+
+					JAKE
+			You did it, Dad. You won.
+
+      DS9: "The Sacrifice of Angels" - REV. 9/23/97 - ACT FIVE      63.
+
+118  CONTINUED:
+
+					SISKO
+			I had some help. 
+				(a beat) 
+			Besides, this war isn't over yet.
+
+	That takes some of the wind out of Jake's sail.
+
+					SISKO
+			But let's worry about that 
+			tomorrow.
+
+119  CLOSE ON SISKO
+
+	as he throws an arm around his son.
+
+					SISKO
+			Right now, it's just good to be 
+			home.
+
+	And as Sisko tosses the ball into the air, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

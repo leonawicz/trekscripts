@@ -1,0 +1,3258 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "Paradise Lost" 
+              (fka "Untitled Sisko on Earth II") 
+                          #40510-484 
+                              
+                           Story by 
+                        Ronald D. Moore 
+                              
+                          Teleplay by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Reza Badiyi 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department        FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        November 2, 1995
+
+    STAR TREK: DS9 - "Paradise Lost" - REV. 11/14/95 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Paradise Lost" 
+                             CAST 
+
+          SISKO                    JOSEPH
+          KIRA                     LEYTON
+          ODO                      BENTEEN
+          BASHIR                   JARESH-INYO
+          DAX                      ACADEMY COMMANDANT
+          O'BRIEN                  FEMALE SECURITY
+                                   OFFICER
+          WORF                     SECURITY CHIEF
+          JAKE                     COM VOICE
+          NOG                      SHEPARD
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+      STAR TREK: DS9 - "Paradise Lost" - 11/02/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Paradise Lost" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+          SISKO'S CREOLE KITCHEN        STARFLEET HEADQUARTERS
+  
+        STARFLEET HEADQUARTERS          DEFIANT
+          SISKO'S TEMPORARY OFFICE      
+          ADMIRAL LEYTON'S OFFICE       
+          SECURITY CELLS                
+
+        PRESIDENT'S OFFICE            
+
+        DEFIANT                       
+          BRIDGE                        
+
+  STAR TREK: DS9 - "Paradise Lost" - 11/03/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "Paradise Lost" 
+                      PRONUNCIATION GUIDE 
+
+          BENTEEN                  BEN-teen
+          BOUDIN                   BOO-dahn
+          DANEEKA                  da-NEE-ka
+          GRAZERITES               GRAY-zer-ites
+          JARESH-INYO              JAR-esh IN-yoe
+          LAKOTA                   luh-KOE-tuh
+          OKINAWA                  oh-kuh-NOW-uh
+          PLANETIA                 plah-NIH-shee-uh
+          RISA                     RYE-suh
+          TZENKETHI                TSEN-keth-i
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER      1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "Paradise Lost"                             
+                            TEASER                              
+
+	FADE IN:
+
+                     RECAP OF "HOMEFRONT"                       
+
+1    INT. SISKO'S CREOLE KITCHEN - DAY
+
+	JOSEPH SISKO and JAKE ENTER through the front door. If
+	we can see through the window, we might be able to see
+	Starfleet troops still patrolling the street. Joseph
+	looks around the darkened restaurant.
+
+					JOSEPH (to com)
+			Lights.
+
+	The lights come up.
+
+					JAKE
+			Are you sure re-opening the
+			restaurant is a good idea?
+
+					JOSEPH
+			Jake, it's been four days since
+			the power outage... have you seen
+			any Dominion invasion fleet?
+
+					JAKE
+				(smiling)
+			No.
+
+					JOSEPH
+			Neither have I.
+
+	Joseph begins reactivating various systems throughout
+	the restaurant... the ovens, the grill, etc.
+
+					JOSEPH
+			Besides, at my age, I don't have
+			time to waste sitting at home
+			being bored.
+
+					JAKE
+			There's hardly anyone out on the
+			street. You're not going to have
+			any customers.
+
+					JOSEPH
+			I've got plenty of customers.
+			Just look outside.
+
+Jake looks out the window.
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER      2.
+
+1    CONTINUED:
+
+					JAKE
+			All I see are security officers.
+
+					JOSEPH
+			And I bet not one of them's had a
+			good meal in four days. Now do
+			your grandfather a favor... and
+			start chopping the okra.
+
+	Jake smiles ruefully. He was afraid of that.
+
+2    EXT. STARFLEET HEADQUARTERS - DAY (MATTE)
+
+	Establishing shot.
+
+3    INT. SISKO'S TEMPORARY OFFICE - DAY
+
+	SISKO is at his desk, studying reports on his table
+	monitor. ODO is pacing around the room, studying a
+	PADD.
+
+					SISKO
+			I don't like this. The more I
+			read Starfleet's reports on the
+			sabotage of the power relays, the
+			more unanswered questions I have.
+				(lays it out)
+			How were the changelings able to
+			infiltrate the Division of
+			Planetary operations? Where did
+			they get the codes for the
+			Division's computer control
+			network? And how did they manage
+			to overload every power relay on
+			Earth at the same time?
+
+	Odo nods. He's in total agreement. But his attention
+	is drawn to something he sees on the PADD.
+
+					ODO
+			Captain, have you ever heard of a
+			group called Red Squad?
+
+					SISKO
+			They're an elite team of Starfleet
+			cadets. According to Nog, every
+			student at the Academy wants to be
+			a part of it.
+
+	Odo, shakes his head. He figures he was making
+	something out of nothing.
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER        
+
+3    CONTINUED:
+
+					ODO
+			That explains it.
+
+					SISKO
+			Explains what?
+
+					ODO
+			According to this transporter log,
+			a group called Red Squad was
+			beamed back to Starfleet Academy
+			twenty-six minutes after the State
+			of Emergency was declared.
+
+	This gets Sisko's interest.
+
+					SISKO
+			That's strange. During the
+			blackout, Starfleet mobilized
+			hundreds of units. Why would they
+			have demobilized Red Squad?
+
+					ODO
+			That's why I brought it up. But
+			if they're cadets... I suppose
+			Starfleet wanted to get them out
+			of harm's way.
+
+	But something about Odo's theory doesn't ring true to
+	Sisko. He looks up something on his own computer.
+
+					SISKO
+			If that's true, then how do you
+			explain this...
+				(finds what he was
+				looking for)
+			Three hours later Starfleet
+			Command issued an order assigning
+			the entire Corps of Cadets to
+			field duty.
+
+					ODO
+			Which means they weren't bringing
+			Red Squad home to protect them.
+
+					SISKO
+			So the question is... why
+			demobilize Red Squad only to
+			mobilize them again three hours
+			later?
+
+	Sisko and Odo share a look. Neither man has an answer.
+
+									CUT TO:
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER     3A.
+
+4    INT. SISKO'S TEMPORARY OFFICE - DAY - LATER (OPTICAL) 
+
+	Close on a monitor displaying a Bolian Admiral, the
+	COMMANDANT of Starfleet Academy.
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER      4.
+
+4    CONTINUED:
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			Captain Sisko, is there something
+			I can do for you?
+
+					SISKO
+			I need to talk to you about Red
+			Squad.
+
+	The mention of Red Squad wipes the smile off the
+	Bolian's face.
+
+					ACADEMY COMMANDANT
+				(guarded; on monitor)
+			Go on.
+
+					SISKO
+			Are you aware that there's a
+			transporter record of Red Squad
+			being returned to the Academy not
+			long after the power outage?
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			Are you saying that's in the
+			official records?
+
+					SISKO
+			That's right.
+
+	The Commandant looks surprised and more than a little
+	worried.
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			Is this a secure line?
+
+	Sisko thinks that's an odd question, but he puts on his
+	best poker face.
+
+					SISKO
+			It is at my end.
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			One moment.
+
+	The Commandant's face is replaced by the triangular
+	logo of Starfleet Academy. Sisko looks up at Odo, who
+	is standing behind the monitor so he will not be
+	included in the picture sent to Commandant. They lock
+	eyes for a beat. The Commandant's behavior seems a
+	little strange. Just then, the monitor reactivates and
+	the Commandant comes back on line.
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER     4A.
+
+4    CONTINUED:	(2)
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			Sorry, Captain. But I think
+			you'll agree, this is a time for
+			caution.
+
+					SISKO
+				(playing along)
+			Absolutely.
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - TEASER      5.
+
+4    CONTINUED:	(3)
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			Does Admiral Leyton know about
+			this report?
+
+					SISKO
+			He hasn't mentioned it to me.
+
+	The Commandant looks relieved.
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			Listen to me, Captain. I want
+			that record erased before anyone
+			else sees it. Is that understood?
+
+					SISKO
+			I'll take care of it immediately.
+
+					ACADEMY COMMANDANT
+				(grateful, on monitor)
+			Good. That report could cause us
+			a lot of trouble. I'm glad you
+			spotted it.
+
+	Sisko still isn't sure exactly what they're talking
+	about, but he's playing along to see what he can learn.
+
+					SISKO
+			So am I. I'd hate to see the
+			members of Red Squad get into any
+			trouble.
+
+					ACADEMY COMMANDANT
+				(on monitor)
+			They're fine young men and women.
+			When Leyton talked to me about
+			using them, I thought it was a
+			mistake... but I have to admit,
+			they performed their mission
+			admirably.
+				(a beat)
+			I appreciate your call, Captain.
+			I'm in your debt.
+
+      DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/9S- TEASER       6.
+
+4    CONTINUED:	(4)
+
+	The Commandant ends his transmission.
+
+5    NEW ANGLE
+
+	As Sisko sits back in his chair, deeply concerned about
+	this latest development.
+
+					ODO
+			Well, that certainly raised more
+			questions than it answered.
+
+	And as we push in on Sisko's troubled face, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE      7.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+6    INT. SISKO'S CREOLE KITCHEN - DAY
+
+	Joseph is being blood tested by a Starfleet Security
+	Officer. The officer holds up the vial containing
+	Joseph's blood. It doesn't change.
+
+					JOSEPH
+				(with humor)
+			What did I tell you? As human as
+			I ever was.
+
+	The Security Officer gives him a good-natured pat on
+	the back and then goes to test some of the other
+	customers.
+
+7    NEW ANGLE
+
+	As Joseph turns to a corner table where Sisko sits.
+
+					SISKO
+			You're looking pretty jovial
+			today.
+
+	Joseph sits down at the table next to Sisko.
+
+					JOSEPH
+			Is there a problem with that?
+
+					SISKO
+			It's just... you weren't so happy
+			about being tested a few days ago.
+
+					JOSEPH
+			That was before the changelings
+			sabotaged the power grid.
+
+	Joseph waits for Sisko to react positively, but when he
+	doesn't, Joseph frowns.
+
+					JOSEPH
+			I don't understand you. When I
+			didn't want to be tested you made
+			it an issue, and now that I'm
+			cooperating you're still not
+			satisfied.
+
+					SISKO
+			It's not you, Dad.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE      8.
+
+7    CONTINUED:
+
+					JOSEPH
+			Then what is it?
+
+					SISKO
+			I'm not sure.
+				(re: the Security Officers)
+			They look tired.
+
+					JOSEPH
+			I'm not surprised. Now that the
+			blood screenings have been widened
+			to include the general public,
+			they've been working around the
+			clock.
+
+	Joseph looks at his son, who's looking pretty run down
+	himself.
+
+					JOSEPH
+				(pointedly)
+			Besides, they're not the only ones
+			who look tired.
+
+	Just then...
+
+8    NEW ANGLE
+
+	As NOG ENTERS, wearing his cadet's uniform.
+
+					NOG
+			Captain, Jake said you wanted to
+			see me.
+
+					SISKO
+			Yes, I do.
+
+	Joseph can tell this is business. He excuses himself.
+
+					JOSEPH
+			You two talk.
+				(to Nog)
+			I'll go chill some
+			tube grubs.
+
+	Joseph EXITS.
+
+9    CLOSE ON SISKO, AND NOG
+
+	Now seated alone in a quiet corner.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE      9.
+
+9    CONTINUED:
+
+					NOG
+			What can I do for you, sir?
+
+					SISKO
+			It's about Red Squad.
+
+					NOG
+				(excited)
+			Red Squad? Did you get me in?
+
+					SISKO
+			Not just yet.
+
+					NOG
+			Too bad. Those guys are the best.
+			They're the only people I know who
+			aren't afraid of the Dominion.
+
+					SISKO
+			Why's that?
+
+	Nog doesn't understand this line of questioning.
+
+					NOG
+			I don't know. They're not scared
+			of anything, I guess.
+
+	Sisko absorbs this news, which means more to him than
+	it does to Nog.
+
+					SISKO
+			You seem to know them pretty well.
+
+					NOG
+			Jake said I should try to get to
+			know them better. Show them I'm
+			a good guy. And so far it seems
+			to be working.
+				(shrinks down a notch)
+			The truth is, I think they only
+			like me because I know you.
+
+					SISKO
+			Is that so?
+
+					NOG
+			You're kind of their hero. The
+			man at the front line in the war
+			with the Dominion.
+
+	Sisko seems to think about this for a beat, then...
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11,/14/95 - ACT ONE    10.
+
+9    CONTINUED:	(2)
+
+					SISKO
+			I'd like to meet some of these
+			cadets. You think you could
+			introduce me to one of them?
+
+	Nog looks surprised that Sisko would make such a
+	request.
+
+					NOG
+			I'm sorry. I can't do that, sir.
+				(tries to explain)
+			The names of Red Squad members are
+			supposed to be secret.
+
+					SISKO
+			But you know who they are.
+
+					NOG
+				(modest)
+			It's not easy keeping secrets from
+			a Ferengi. But I feel funny about
+			telling anyone else. Besides, if
+			they found out I told you who they
+			were, I'd never get in.
+
+	But Sisko's not about to let Nog off the hook so
+	easily.
+
+					SISKO
+			Cadet, you're obviously under the
+			mistaken impression that I'm
+			asking you a favor. I want a
+			name, and I want it now. And that
+			is an order. Understood, Mister
+			Nog?
+
+	Nog, caught between a rock and a hard place, nods
+	reluctantly.
+
+					NOG
+			Yes, sir.
+
+10   INT. SISKO'S TEMPORARY OFFICE - DAY
+
+	Sisko is seated at his desk as the door opens and in
+	walks a confident, nineteen- to twenty-year-old
+	Starfleet cadet, RILEY SHEPARD. Shepard comes to
+	attention.
+
+					SHEPARD
+			Cadet Shepard reporting as
+			ordered, Captain.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE    10A.
+
+10   CONTINUED:
+
+	Sisko gets right down to business. He's very official,
+	putting on his best senior officer face.
+
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE    10A.
+
+10   CONTINUED:	(2)
+
+					SISKO
+				(looking down at a PADD)
+			Shepard, Riley Aldrin, Starfleet
+			Service number c-nine-five-three-
+			oh-four-six-nine-nine-four-two-
+			seven, a third year student at
+			Starfleet Academy with a specialty
+			in tactical operations.
+
+					SHEPARD
+			Yes, sir.
+
+	Shepard looks pretty proud of himself. He's glad to
+	have come to Sisko's attention.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE     12.
+
+10   CONTINUED:	(3)
+
+					SISKO
+			Cadet, I've been reviewing a
+			record of Red Squad's activities
+			on the night of the twenty-third.
+			The night of the power outage.
+
+	This catches Shepard off guard.
+
+					SHEPARD
+			Record, sir? We were told that
+			there wasn't going to be any
+			written record...
+
+					SISKO
+			Are you contradicting me, cadet?
+
+	Shepard is confused. He's one of the brightest kids in
+	his class and he's not used to getting called onto the
+	carpet.
+
+					SHEPARD
+			No, sir.
+
+					SISKO
+			Good. Now, who told you there
+			wasn't going to be a written
+			record?
+
+					SHEPARD
+			The briefing officer, sir.
+
+					SISKO
+			I want that officer's name.
+
+					SHEPARD
+			She didn't give her name, sir.
+			But she told us that there would
+			be no record of our actions. That
+			our role would have to go
+			unrecognized, at least for now.
+
+	Sisko goes on the attack again.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE     13.
+
+10   CONTINUED:	(4)
+
+					SISKO
+			Maybe if you'd done your job
+			better, it would have.
+				(getting in Shepard's face)
+			But you fouled it up, didn't you?
+			You cadets did some sloppy work...
+			some damn sloppy work.
+
+					SHEPARD
+			With all due respect, sir...
+			that's not true, sir. The mission
+			went perfectly. If anything, it
+			was easier than the simulations.
+
+					SISKO
+			Son, if you think you can protect
+			your hide by lying to me, you'd
+			better forget it. Mistakes were
+			made, and I will find out who's
+			responsible.
+
+					SHEPARD
+			I'm not lying to you, sir. I was
+			there. I was at Planetary
+			Operations the whole time. If
+			anything had gone wrong, I
+			would've known about it.
+
+	Sisko looks skeptical.
+
+					SISKO
+			Is that so?
+
+	Sisko looks like he's considering Shepard's point of
+	view. Finally, he softens slightly, as if trying to
+	keep an open mind.
+
+					SISKO
+			All right, cadet. Let's go over
+			this step-by-step from the time of
+			your mission deployment until your
+			return to base...
+				(checking the PADD)
+			... at nineteen forty-seven hours
+			PST on the twenty-third.
+
+					SHEPARD
+			Yes, sir. We assembled on the
+			Eastern Quad at seventeen hundred
+			hours on the evening of the twenty-
+			third.
+
+	This is what Sisko wanted. He encourages the cadet to
+	continue.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE     14.
+
+10   CONTINUED:	(5)
+
+					SISKO
+			By "we" I assume you mean Red
+			Squad.
+
+					SHEPARD
+				(eager to please)
+			Yes, sir. After assembly we were
+			beamed aboard the Lakota. Once
+			aboard we received our equipment
+			and the necessary codes, and were
+			transported directly to the
+			Division of Planetary Operations
+			in Lisbon.
+
+					SISKO
+			At what time?
+
+					SHEPARD
+			It was oh-four hundred hours
+			exactly. Local time of course.
+
+					SISKO
+			Go on, cadet.
+
+					SHEPARD
+			Our contact inside the DPO gave us
+			access to their computer control
+			network. From there we used the
+			access codes we were given,
+			bypassed the security lockouts,
+			and downloaded the disordering
+			protocols into the network.
+
+					SISKO
+				(putting it together)
+			And from there the protocols
+			spread to every power relay on the
+			planet.
+
+					SHEPARD
+			It was a pretty, impressive sight,
+			sir. Watching those relays wink
+			out one after another.
+
+					SISKO
+			Sorry I missed it.
+
+	Shepard now thinks everything is okay. Whatever Sisko
+	thought went wrong, Shepard has proved it wasn't his
+	fault.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE     15.
+
+10   CONTINUED:	(6)
+
+					SHEPARD
+			After that all we had to do was
+			sabotage the restart sequencers
+			and get out. Like I said, sir...
+			It was all by the numbers.
+
+	Hold on Sisko for a beat, then...
+
+									CUT TO:
+
+10A  INT. SISKO'S CREOLE KITCHEN - NIGHT 
+
+	Sisko and Odo enter. The restaurant is deserted. It's
+	after hours and they need a place to talk. Sisko is
+	looking concerned and focused.
+
+					ODO
+			Are you sure this cadet is telling
+			the truth?
+
+					SISKO
+			He admitted to committing acts of
+			treason against the Federation.
+			If he was going to lie, I think he
+			would've come up with a better
+			story.
+
+					ODO
+			I take it you gave him a blood
+			screening.
+
+					SISKO
+			I checked him myself. He's human.
+
+					ODO
+			Well then let's say he's telling
+			the truth... that he was ordered
+			by his superiors to sabotage the
+			power relays. That still doesn't
+			rule out Dominion involvement.
+			For all we know, his superiors
+			have been replaced by changelings.
+
+					SISKO
+			I thought about that. But if it
+			were changelings, what have they
+			accomplished? There's been no
+			invasion, power's been restored...
+
+					ODO
+			And Starfleet has fortified Earth.
+			I see your point, Captain.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE    15A.
+
+10A  CONTINUED:
+
+		Sisko moves into the kitchen and takes out a glass
+		bottle full of milk.
+
+					ODO
+			So let's say you're right.
+			Starfleet officers sabotaged the
+			power grid. What are you going to
+			do about it?
+
+					SISKO
+			That's the bottom line, isn't it?
+			What am I going to do about it?
+				(a beat)
+			These people aren't evil, Odo.
+			They're people I've worked with...
+			they're my friends... people I
+			respect. How can I turn against
+			them?
+
+					ODO
+			It seems to me, if they have
+			committed treason against the
+			Federation, the Federation you
+			swore to protect, then you won't
+			be turning against them... they'll
+			have turned against you.
+
+	And as Sisko ponders this...
+
+11   INT. PRESIDENT'S OFFICE - NIGHT
+
+	The PRESIDENT is JARESH-INYO standing at the window,
+	looking out at the Paris skyline as Sisko and Odo are
+	escorted in by a Presidential aide.
+
+					JARESH-INYO
+				(turning to Sisko)
+			Captain Sisko, Mister Odo, come
+			in.
+
+	Sisko looks uncomfortable. Right now, he'd rather be
+	anyplace but here.
+
+					SISKO
+			Thank you for seeing us, Mister
+			President. I hope we didn't wake
+			you.
+
+					JARESH-INYO
+			No. My people require very little
+			sleep.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE    15B.
+
+11   CONTINUED:
+
+					JARESH-INYO (Cont'd)
+			Although I was working on a speech
+			I'm going to deliver to the
+			Federation Assembly, so if you
+			could make this brief...
+
+	Sisko is obviously aware of the seriousness of both his
+	situation and the accusations he's about to make. But
+	he truly believes that he has no choice, that what he's
+	doing is necessary for the survival of the Federation.
+
+					SISKO
+			Sir, what I'm about to say may
+			seem hard to believe. Frankly, I
+			have a difficult time accepting it
+			myself. Nevertheless --
+
+					JARESH-INYO
+				(signalling for him to stop)
+			I think we can do without the
+			preamble, Captain. Just tell me
+			what's on your mind.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT ONE     16.
+
+11   CONTINUED:	(2)
+
+	Sisko and Odo exchange a look. Sisko has to take a
+	moment to gather his thoughts. This is tremendously
+	difficult for him but he pushes on.
+
+					SISKO
+			Sir, I believe that certain
+			Starfleet officers, led by Admiral
+			Leyton, are conspiring to
+			overthrow the legitimate
+			government of the Federation.
+			and replace it with military rule.
+
+	And as the President reacts, as much to Odo and Sisko's
+	grim demeanor as to Sisko's words, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     17.
+                            ACT TWO                             
+
+	FADE IN:
+
+12   INT. PRESIDENT'S OFFICE - NIGHT - CONTINUOUS
+
+	Jaresh-Inyo is seated behind his desk, his attention
+	totally focused on Sisko, who stands before him.
+
+					JARESH-INYO
+			Captain, I have been in politics
+			for seventy years. I'm no
+			stranger to overstatement and
+			exaggeration. But the idea that
+			Starfleet would plot to overthrow
+			the government of the Federation
+			is the single most astonishing
+			accusation I've ever heard.
+
+					SISKO
+			Sir, if you'll hear us out...
+
+					JARESH-INYO
+			Oh, I intend to, though you'll
+			have to forgive me if I remain
+			somewhat skeptical.
+				(a beat)
+			Now I think you'd better start
+			from the beginning.
+
+	Sisko turns to Odo. That's his cue.
+
+					ODO
+			Several months ago, I learned from
+			one of my people that changelings
+			had infiltrated the Federation.
+			Not long after I gave this
+			information to Starfleet, records
+			indicate that Admiral Leyton led
+			a contingent of high ranking
+			officers to meet with you and
+			recommend the implementation of
+			sweeping security measures meant
+			to protect Earth.
+
+					JARESH-INYO
+				(nods)
+			And I rejected their suggestions
+			as too extreme.
+
+					ODO
+			It's no secret that Leyton didn't
+			agree with you.
+
+DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     18.
+
+12   CONTINUED:
+
+					ODO (Cont'd)
+			And despite your calls for calm,
+			his concern about the Dominion
+			threat continued to grow.
+
+					SISKO
+			When the Antwerp Conference was
+			bombed, Leyton became convinced
+			that the changelings posed a much
+			greater threat to Earth than you
+			were prepared to admit.
+
+	So far, there's nothing Jaresh-Inyo can argue with.
+
+					JARESH-INYO
+			And so the Admiral approached me
+			again. That time with you two at
+			his side. And I agreed to his
+			proposals.
+
+					SISKO
+			To some of his proposals.
+
+					ODO
+			We believe that Admiral Leyton and
+			his supporters weren't satisfied
+			with the limited security
+			procedures you authorized. They
+			were convinced that extraordinary
+			measures were necessary to counter
+			the changeling threat.
+
+					SISKO
+			More than that, they were
+			determined to prove to you and to
+			everyone else just how vulnerable
+			Earth was to a Dominion takeover.
+				(a beat)
+			So they sabotaged the global power
+			grid.
+
+	Jaresh-Inyo is shocked.
+
+					JARESH-INYO
+			Starfleet officers committing
+			sabotage?
+
+					SISKO
+			I know exactly how you feel. But
+			it's the truth.
+
+	The President still isn't sold.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO    18A.
+
+12   CONTINUED:	(2)
+
+					JARESH-INYO
+			I find that difficult to believe.
+			Admiral Leyton may be somewhat
+			grating and inflexible at times,
+			but for a man of his
+			accomplishments, of his
+			distinguished record... to commit
+			treason?
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     19.
+
+12   CONTINUED:	(3)
+
+					SISKO
+			I'm sure the Admiral doesn't see
+			it as treason. He would probably
+			defend it as a desperate act of
+			patriotism. Leyton and his
+			supporters think their actions are
+			both necessary and justified.
+
+					ODO
+			Not to mention effective.
+				(a beat)
+			Think about it. The power grid
+			fails and the next thing you know,
+			there are Starfleet security
+			officers on the streets of every
+			city, armed with phaser rifles,
+			blood testing citizens at random.
+
+	Jaresh-Inyo looks at Sisko for a long time. He doesn't
+	want to believe what he's just heard, but Sisko makes
+	a persuasive argument.
+
+					JARESH-INYO
+			Your story has a certain logic to
+			it, gentlemen. But what it lacks
+			so far is proof.
+
+					SISKO
+			You want proof... Order Admiral
+			Leyton to withdraw his troops from
+			the streets... see what he does.
+
+					JARESH-INYO
+			You think he would refuse a direct
+			order from his commander-in-chief?
+
+					SISKO
+			If he orders his troops to stand
+			down, then I'm wrong and I'll
+			offer my resignation. But I don't
+			think that's going to happen.
+			With those troops in place,
+			Admiral Leyton controls Earth.
+			And he's not going to give up that
+			control until he's convinced he's
+			ended the Dominion threat.
+
+	Jaresh-Inyo gets up and paces around the room.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     20.
+
+12   CONTINUED:	(4)
+
+					JARESH-INYO
+			And he may not have to give up
+			anything.
+				(a beat)
+			If what you say is true, if the
+			power outage was all part of
+			Leyton's plan, then it's worked
+			perfectly. Right now the public
+			overwhelmingly supports the
+			increased security. If I tried to
+			remove the troops, over Leyton's
+			objections, I'd have a planetwide
+			riot on my hands.
+
+					SISKO
+			What if we bring you proof? Hard
+			evidence linking Leyton to the
+			sabotage of the power grid?
+
+					ODO
+			With that, you could force Leyton
+			to stand down, make him withdraw
+			the troops.
+
+	Jaresh-Inyo considers Sisko's offer.
+
+					JARESH-INYO
+			If what you say is true, I'll have
+			his resignation.
+				(a beat)
+			Bring me that evidence, and I
+			promise you, I'll use it.
+
+	Sisko nods. He and Odo both know that they've been
+	given an opportunity. Now they have to deliver.
+
+13   INT. SISKO'S CREOLE KITCHEN - NIGHT
+
+	It's long after closing. Sisko sits at a table
+	drinking a cup of raktajino. Odo paces around the
+	room.
+
+					ODO
+			Cadet Shepard should've been here
+			twenty minutes ago.
+
+					SISKO
+			I told Nog to make sure no one saw
+			them leave the Academy. With the
+			added security in place, I'm sure
+			that wasn't easy.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO    20A.
+
+13   CONTINUED:
+
+					ODO
+			What if they got caught?
+
+					SISKO
+			Nog spent his entire adolescence
+			dodging you on the Promenade. If
+			anyone can sneak out of that place
+			it's him.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     21.
+
+13   CONTINUED:	(2)
+
+					ODO
+			I suppose so. I doubt there's
+			ever been a cadet in Starfleet who
+			was quite so... slippery.
+
+	Just then, there's a knock at the door. Odo goes and
+	looks through the window, then opens the door. Nog
+	ENTERS, looking harried.
+
+					NOG
+			Sorry I'm late...
+
+					SISKO
+			Where's Cadet Shepherd?
+
+					NOG
+			That's a good question. I
+			couldn't find him anywhere.
+
+					ODO
+			What do you mean, you couldn't
+			find him?
+
+					NOG
+			I mean he's gone. And as far as
+			I can tell so is every other
+			member of Red Squad. The rumor is
+			they've all been sent on some kind
+			of training exercise.
+
+					LEYTON (O.S.)
+			I'm afraid Cadet Shepherd won't be
+			returning to Earth anytime soon.
+
+14   NEW ANGLE
+
+	To reveal ADMIRAL LEYTON, who has just entered. Nog,
+	who has no idea what's really going on, sees an
+	opportunity to make an important connection.
+
+					NOG
+			Admiral Leyton, it's an honor to
+			meet you. My name is --
+
+					LEYTON
+				(interrupting)
+			Return to your quarters, cadet.
+
+	Nog is surprised and a little disappointed at the
+	sharpness of Leyton's tone. He looks to Sisko, who
+	nods. Nog EXITS.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     22.
+
+14   CONTINUED:
+
+					LEYTON
+			Ben, I think you and I need to
+			talk.
+				(looks to Odo)
+			In private.
+
+					ODO
+				(to Sisko)
+			I'll be in the next room if you
+			need me.
+
+	Odo takes a hard look at Leyton, then EXITS.
+
+					LEYTON
+			Mind if I get some coffee?
+
+					SISKO
+			Help yourself.
+
+	Leyton goes and pours himself a cup.
+
+					LEYTON
+			I haven't been getting a lot of
+			sleep lately. Too much to do.
+
+					SISKO
+				(pointedly)
+			Maybe you need a vacation.
+
+	Leyton looks over at Sisko and smiles. He knows what
+	Sisko's implying, but he doesn't take the bait.
+
+					LEYTON
+				(sips the coffee)
+			Mmm. Somehow replicated coffee
+			never tastes this good.
+
+	Leyton comes over and takes a seat across from Sisko.
+
+					LEYTON
+			I'm afraid I owe you an apology,
+			Ben.
+
+					SISKO
+				(softly)
+			The way I see it, you owe a lot of
+			people an apology.
+
+	Sisko's quiet tone belies his disappointment at Leyton.
+	Leyton's response is equally controlled. These are two
+	professional soldiers with an enormous amount of
+	respect for each other and they're both determined to
+	keep their emotions in check.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     23.
+
+14   CONTINUED:	(2)
+
+					LEYTON
+				(shakes his head)
+			I wish I could've told you the
+			truth from the beginning. But
+			somehow I suspected we wouldn't
+			see eye-to-eye on this thing.
+
+					SISKO
+			Then why did you bring me here?
+
+					LEYTON
+				(simply)
+			Because I needed someone who knew
+			how to fight Shape-shifters. And
+			that's you.
+				(a beat)
+			And I suppose on some level I
+			hoped that once you saw what we
+			were accomplishing, you'd join us.
+				(a beat)
+			You always had a strong sense of
+			duty.
+
+	Leyton is reaching out to Sisko, but Sisko refuses to
+	cross the gulf between them.
+
+					SISKO
+			My duty is to protect the
+			Federation.
+
+					LEYTON
+			Which is what we're trying to do.
+
+					SISKO
+			What you're trying to do is seize
+			control of Earth and place it
+			under military rule.
+
+					LEYTON
+			If that's what it takes to stop
+			the Dominion.
+
+	Sisko makes one last attempt to get Leyton to see the
+	irony in what he's doing.
+
+					SISKO
+			You're willing to destroy paradise
+			in order to save it.
+
+	Leyton studies Sisko for a beat, trying to figure out
+	a way to reach his former executive officer.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO    23A.
+
+14   CONTINUED:	(3)
+
+					LEYTON
+			Do you remember when we were on
+			the Okinawa fighting the
+			Tzenkethi? That time when I
+			wanted to take the ship into an
+			asteroid belt to chase down those
+			three raiders. We talked it over
+			at the staff meeting...
+
+					SISKO
+				(remembering)
+			And I said it was an unnecessary
+			risk.
+
+					LEYTON
+			You spoke your mind. Which is
+			exactly what a good executive
+			officer is supposed to do. But I
+			overruled you.
+				(beat)
+			After the staff meeting you
+			followed me into my ready room and
+			tried to argue your point again.
+
+					SISKO
+			That's right, I did.
+
+					LEYTON
+			And remember what I told you?
+
+					SISKO
+			That a good officer has to respect
+			the chain of command. There comes
+			a time when you have to accept the
+			orders of a superior officer and
+			carry out his orders, whether you
+			agree with them or not.
+
+					LEYTON
+			I also told you when you became a
+			C.O., you'd feel the same way.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO     24.
+
+14   CONTINUED:	(4)
+
+					SISKO
+			And you were right. About going
+			after the Tzenkethi and about me.
+
+					LEYTON
+			Without the chain of command,
+			Starfleet would cease to function
+			and we wouldn't stand a chance
+			against our enemies.
+				(driving home his point)
+			I'm still your commanding officer.
+			And now more than ever, I need you
+			to respect my authority.
+
+					SISKO
+			I can't do that. Not this time.
+
+	Leyton is clearly exasperated and disappointed in
+	Sisko's attitude. He realizes he's not going to win
+	Sisko over.
+
+					LEYTON
+			Then as of now, I'm relieving you
+			of your post as temporary head of
+			Earth Security and sending you
+			back to Deep Space Nine.
+				(a beat)
+			Go home, Ben. You don't belong
+			here.
+
+	Leyton EXITS.
+
+15   CLOSE ON SISKO
+
+	As he reacts to this disturbing conversation...
+
+15A  EXT. STARFLEET HEADQUARTERS - NIGHT
+	(FORMERLY SCENE 22)
+
+	Sisko is seated on a bench, thinking over his options.
+	At the edge of his vision, a figure sits down next to
+	him on the bench. Sisko, turns and sees...
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO    24A.
+
+15B  NEW ANGLE
+
+	O'BRIEN, now sitting next to him.
+
+					O'BRIEN
+				(jaunty)
+			Beautiful evening, isn't it?
+
+	Sisko looks surprised.
+
+					SISKO
+			Chief? How'd you get here?
+
+					O'BRIEN
+				(examines Sisko)
+			You know, you don't look so good.
+			Lot on your mind, I bet? How's
+			your father?
+
+	Sisko studies O'Brien closely.
+
+					SISKO
+			There's no way the Defiant
+			could've gotten here so soon.
+
+					O'BRIEN
+			I didn't say I came on the
+			Defiant.
+				(confidentially)
+			Tell me the truth. Do you really
+			think phaser rifles will do any
+			good against...
+				(smiles)
+			... Shape-shifters?
+
+	O'Brien gives Sisko a cocky smile. Sisko realizes that O'Brien is a 	changeling.
+
+					SISKO
+			You're not O'Brien.
+
+					O'BRIEN
+			Luckily, no. The thought of being
+			locked in one shape all of the
+			time... it's not natural.
+
+	Sisko glances around the grounds, looking for some backup.
+
+					O'BRIEN
+			Don't bother calling for help. It
+			would only cut our conversation
+			short. And I do enjoy your
+			company.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO    24B.
+
+15B  CONTINUED:
+
+					SISKO
+			If you have something to say to
+			me... say it.
+
+					O'BRIEN
+			You solids. You're so impatient.
+			I thought we could sit here for a
+			while, maybe go to a bar, have a
+			pint, throw some darts.
+
+					SISKO
+			I don't think so.
+
+					O'BRIEN
+			Let me ask you a question. How
+			many changelings do you think are
+			here on Earth right at this
+			moment?
+
+					SISKO
+			I'm not going to play guessing
+			games with you.
+
+					O'BRIEN
+			What if I told you there are only
+			four on this entire planet, not
+			counting Constable Odo of course.
+			Think of it. Only four of us, and
+			look at the havoc we've wrought.
+
+					SISKO
+			How do I know you're telling the
+			truth?
+
+					O'BRIEN
+			Four's more than enough. We're
+			smarter than solids... we're
+			better than you... and most
+			importantly, we don't fear you the
+			way you fear us. In the end, it's
+			your fear that will destroy you.
+
+					SISKO
+			Are you finished?
+
+					O'BRIEN
+			Finished?
+				(big smile)
+			We've barely begun.
+
+	The changeling O'Brien stands up.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT TWO    24C.
+
+15B  CONTINUED:	(2)
+
+					0'BRIEN
+			Be seeing you.
+
+	The changeling O'Brien walks off. As Sisko watches him
+	go, more worried than ever, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE    25.
+                           ACT THREE                            
+
+	FADE IN:
+
+OA   INT. SISKO'S CREOLE KITCHEN - NIGHT
+
+	Sisko is seated alone at one of the tables, drinking
+	coffee. There're are no other customers in the
+	restaurant and all the other chairs are up on the
+	tables.
+
+	Joseph Sisko comes out of the back and sees his son,
+	sitting alone, deep in thought.
+
+					JOSEPH
+			I recognize that look.
+
+	Sisko glances up at his father.
+
+					SISKO
+			What look is that?
+
+					JOSEPH
+			The one you're wearing. The one
+			that says, "Something's bothering
+			me and I don't know what to do
+			about it."
+
+					SISKO
+				(smiling)
+			Oh. That look.
+
+	Joseph takes down a chair and sits down across from his
+	son.
+
+					JOSEPH
+			You want to tell me about it?
+
+					SISKO
+			I wish I could.
+
+					JOSEPH
+			Oh, I see. It's a Neffie Beumont
+			kind of thing.
+
+	This gets a big smile out of Sisko. He hasn't thought
+	about her in a long time.
+
+					SISKO
+			Neffie Beumont. Did I ever have
+			a crush on her.
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE   25A.
+
+OA   CONTINUED:
+
+					JOSEPH
+			Not that you'd admit it. You just sat
+			around for weeks, brooding and
+			pining away. Trying to sort it
+			all out. Until your old man
+			finally sat you down one day and
+			gave you some advice.
+
+					SISKO
+				(remembering)
+			"There comes a time in every man's
+			life when he's got to stop
+			thinking and start doing."
+
+	Joseph nods. That's it exactly.
+
+					JOSEPH
+			And the next day, you finally went
+			over to young Neffie's house and
+			asked her out.
+
+					SISKO
+			And she turned me down.
+
+					JOSEPH
+			But at least you weren't brooding
+			anymore. And when Zoey Phillips
+			moved into the neighborhood a few
+			weeks later, you asked her out
+			before her parents were done
+			beaming in the furniture.
+
+					SISKO
+			And we dated for three years.
+
+	There's a long beat.
+
+					SISKO
+			So what you're trying to say is
+			stop brooding and make a decision.
+
+					JOSEPH
+				(smiles)
+			Exactly.
+
+					SISKO
+			Thanks, Dad.
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE   25B.
+
+OA   CONTINUED:	(2)
+
+					JOSEPH
+			Don't mention it.
+
+	Joseph gets up to walk away.
+
+					JOSEPH
+			Make sure you turn out the lights
+			on the way out.
+				(half to himself)
+			I wonder what ever happened to
+			Zoey Phillips?
+
+	Joseph EXITS.
+
+OA   CLOSE ON SISKO
+
+	As he considers his father's advice. It's time to make
+	a decision.
+
+									DISSOLVE TO:
+
+16   INT. SISKO'S CREOLE KITCHEN - NIGHT - LATER (OPTICAL) 
+
+	Close on a monitor which shows KIRA and DAX at the Ops
+	Table. Kira looks surprised.
+
+					KIRA
+				(on monitor)
+			Captain, why are you transmitting
+			on a Bajoran frequency?
+
+					SISKO
+			Let's just say, there are things
+			we need to discuss that I don't
+			want anyone else to hear.
+				(a beat)
+			What's your status?
+
+					KIRA
+				(on monitor)
+			Everything here is fine. There's
+			no sign of Dominion activity.
+
+					SISKO
+			What about the wormhole?
+
+					DAX
+				(on monitor)
+			It's acting normally again. It
+			stopped opening and closing at
+			random not long after you left.
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE   25C.
+
+16   CONTINUED:
+
+					KIRA
+				(on monitor)
+			And if any Dominion ships did
+			sneak through, they haven't given
+			us any trouble.
+
+	Sisko nods. He suspected as much.
+
+					SISKO
+			Listen closely, both of you.
+			There's something I need you to
+			do...
+
+	And as Kira and Dax await their instructions, we...
+
+									DISSOLVE TO:
+
+17   EXT. STARFLEET HEADQUARTERS - NIGHT
+
+	Re-establishing.
+
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE    26.
+
+18   INT. SISKO'S TEMPORARY OFFICE - NIGHT (OPTICAL) 
+
+	Sisko is watching while Odo works at the monitor on
+	Sisko's desk. The monitor displays the Starfleet logo.
+	After a beat, Odo finishes inputting commands, then the
+	screen changes to display a list of information.
+
+					ODO
+			It's all yours. And I suggest you
+			hurry. I doubt it will take them
+			very long to discover we're here.
+
+					SISKO
+				(begins working)
+			I never knew it was so easy to
+			break into classified Starfleet
+			files.
+
+					ODO
+			Everything I know I learned from
+			Quark.
+
+	Sisko is already sorting through the data Odo has
+	accessed.
+
+					SISKO
+			It looks like Leyton's been a busy
+			man. He's personally reassigned
+			over four hundred officers in the
+			past three weeks.
+
+	Odo takes a look at the data.
+
+					ODO
+			Do you recognize any of these
+			names?
+
+					SISKO
+			A lot of them. Daneeka, McWatt,
+			Snowden, Orr, Moodus, they were
+			all officers on the Okinawa when
+			I was Leyton's X.O.
+				(continues working)
+			As far as I can tell, every
+			officer on this list served under
+			Leyton at one time or another.
+
+					ODO
+			And now they're all in key
+			positions here on Earth.
+
+   DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE 27     
+
+18   CONTINUED:
+
+					SISKO
+			Or commanding ships somewhere in
+			this sector.
+				(a beat)
+			It says here he's authorized
+			another set of transfers. Take a
+			look at these dates.
+
+	Odo studies the readout.
+
+					ODO
+			They all go into effect on the
+			fourteenth.
+
+					SISKO
+			The day before the President's
+			speech.
+
+					ODO
+			Do you think there's a connection?
+
+					SISKO
+			Maybe Admiral Leyton doesn't
+			intend for the President to make
+			that speech.
+				(a beat)
+			We'd better get a copy of this.
+
+	Sisko begins downloading the information he's recovered
+	into his PADD.
+
+					SISKO
+			Odo, if Leyton is planning some
+			kind of takeover on the
+			fourteenth, I want to make sure
+			that Jake and my father are safe.
+
+					ODO
+				(agreeing)
+			We should get them off Earth as
+			soon as possible.
+
+					SISKO
+			I want you to go to New Orleans.
+			Get them on a transport to Mars.
+			I've got a lot of friends at the
+			Planetia shipyards. Jake and my
+			father'll be safe there.
+
+	Just then, the door chimes. Sisko and Odo exchange a
+	look. Whatever's up now, they're sure it won't be
+	good.
+
+					SISKO
+			Come in.
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE    28.
+
+19   NEW ANGLE
+
+	As Commander BENTEEN ENTERS.
+
+					BENTEEN
+			Captain. I'm surprised to find
+			you here.
+
+	Benteen looks at the PADD in Sisko's hand. She
+	suspects he might be up to something, but she's not
+	ready to challenge him yet.
+
+					SISKO
+			Just cleaning out my files.
+				(to Odo)
+			I'll see you later, Constable.
+
+	Odo wants to stay in case Sisko needs help, but he
+	knows Sisko wants him to take care of Jake and Joseph.
+
+					ODO
+			Good night, Captain.
+
+	Odo nods to Benteen and EXITS.
+
+20   CLOSE ON BENTEEN AND SISKO
+
+	Alone in the office. Sisko decides to take this
+	opportunity to press Benteen a little... to show her a
+	few of his cards and see how she reacts.
+
+					SISKO
+			I hear congratulations are in
+			order.
+
+	Benteen looks at him like she doesn't know what he's
+	talking about.
+
+						SISKO
+				(prompting)
+			Your promotion. Captain of the
+			Lakota.
+
+	Benteen smiles.
+
+					BENTEEN
+			Thanks. But it's still a few days
+			away. The Lakota won't be done
+			with its refit until the
+			fourteenth.
+
+					SISKO
+			I guess that'll make the
+			fourteenth a special day.
+
+	Benteen looks at him, trying to figure out how much he
+	knows.
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE    29.
+
+20   CONTINUED:
+
+					BENTEEN
+			I'm looking forward to it.
+			(pointedly)
+			Too bad you won't be around for
+			the ceremony.
+
+					SISKO
+				(faux innocence)
+			Who knows? I might be able to fit
+			it in.
+
+					BENTEEN
+			I thought Admiral Leyton ordered
+			you back to Deep Space Nine.
+
+					SISKO
+			He did. But I've got some leave
+			coming, and I've decided to take
+			it. After all, I don't get to
+			spend much time on Earth.
+				(with irony)
+			And it's so pleasant here. With
+			a Starfleet officer on every
+			corner. Paradise has never seemed
+			so... well-armed.
+
+					BENTEEN
+				(smiling)
+			You're a very interesting man,
+			captain. I'm sorry we didn't get
+			to work together longer.
+
+	Benteen starts to leave, then turns back...
+
+					BENTEEN
+			Maybe you should think about
+			vacationing someplace else. I
+			hear Risal's nice this time of
+			year.
+
+	Benteen EXITS.
+
+20A  CLOSE ON SISKO
+
+	Close on Sisko as he watches her leave.
+
+21   INT. SISKO'S CREOLE KITCHEN - DAY
+
+	Sisko walks into the deserted restaurant. He looks
+	tired. He hasn't slept all night.
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE    30.
+
+21   CONTINUED:
+
+					JAKE (O.S.)
+			I was wondering when you'd get
+			back.
+
+	Jake ENTERS from the kitchen.
+
+					JAKE
+			Take a seat. I made you some eggs
+			and a cup of raktajino. Extra
+			strong the way you like it.
+
+					SISKO
+			Jake, what are you doing here?
+			You're supposed to be on your way
+			to the Planetia Yards.
+
+					JAKE
+			The shuttle doesn't leave for
+			another two hours. I figured you
+			could use some breakfast.
+
+	Jake sets a plate of eggs and a mug of coffee down at
+	a table. Sisko takes a seat and begins eating.
+
+					SISKO
+			Where's Grandpa and Odo?
+
+					JAKE
+			They're waiting for me at
+			Bracketville Spaceport.
+				(a beat)
+			Which brings up an interesting
+			question... Why's it so important
+			that we leave Earth?
+
+	Sisko would love to confide in his son, but he doesn't
+	want to tell Jake anything that would put him at risk.
+
+					SISKO
+			You're just going to have to trust
+			me on this one.
+
+					JAKE
+			I do. But I want you to know...
+			I'm not a kid anymore. If you
+			need my help, I'm here for you.
+
+					SISKO
+				(smiles)
+			I know that. And I appreciate it.
+			But right now, there isn't a whole
+			lot you can do.
+				(a beat)
+			Except take care of Grandpa for
+			me.
+
+ DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE 31-33.   
+
+21   CONTINUED:	(2)
+
+					JAKE
+			You know I'll do that.
+
+					SISKO
+			Then I guess you'd better get over
+			to Bracketville. You've got a
+			shuttle to catch.
+
+	Jake pats his father on the shoulder as he gets up.
+
+					JAKE
+			How are the eggs?
+
+					SISKO
+			Pretty damn good.
+
+					JAKE
+			I got the recipe from Grandpa.
+
+	Jake EXITS.
+
+22   OMITTED
+
+    DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT THREE    34.
+
+23   INT. PRESIDENT'S OFFICE - DAY
+
+	Jaresh-Inyo looks out his window. His door CHIMES.
+
+					COM VOICE
+			Captain Sisko to see you.
+
+					JARESH-INYO
+			Let him in.
+
+24   NEW ANGLE 
+
+	As Sisko ENTERS carrying his PADD. He looks around the
+	room surprised.
+
+25   INCLUDE THE REST OF THE ROOM
+
+	To reveal Leyton, Benteen, and four armed security
+	officers also present.
+
+					SISKO
+			Admiral. I didn't expect to see
+			you here.
+
+					LEYTON
+			I'm sure you didn't.
+
+	Leyton nods to Benteen, who strides over to Sisko.
+
+					BENTEEN
+			Captain, your arm please?
+
+	Sisko looks around, not sure what's going on.
+
+					JARESH-INYO
+			Do as she asks.
+
+	Sisko holds out his arm and Benteen immediately places
+	a hypospray against Sisko's arm and takes a blood
+	sample. She removes the clear vial full of blood and
+	places it on the President's desk.
+
+    DEEP SPACE NINE: "Paradise. Lost" - REV. 11/14/95 - ACT THREE   35.
+
+26   CLOSE ON THE VIAL (OPTICAL)
+
+	As the blood sample MORPHS into Changeling goo.
+
+27   NEW ANGLE
+
+	As everyone, including Sisko, reacts with surprise.
+	The Security guards aim their phasers at Sisko.
+
+					LEYTON
+			Just as I said, Mister President.
+			He's a Shape-shifter.
+
+	Hold on Sisko, who sees he has been trapped, then...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    36.
+                           ACT FOUR                             
+
+	FADE IN:
+
+28   EXT. STARFLEET HEADQUARTERS - DAY (OPTICAL)
+
+	Re-establishing.
+
+29   INT. STARFLEET HEADQUARTERS - SECURITY CELLS - DAY 
+
+	This is a small windowless room with three or four
+	Starfleet style holding cells (very much like the brig
+	on the Enterprise). There is a SECURITY CHIEF standing
+	guard by the only exit. only one of the holding cells
+	is occupied. Sisko sits alone in his cell, trying to
+	figure a way out of this mesa.
+
+	Leyton ENTERS. He's all business.
+
+					LEYTON
+				(to Security Chief)
+			You can wait outside.
+
+	The Security Chief nods and EXITS. Leyton walks over
+	to Sisko's cell.
+
+					SISKO
+			Are you going to tell me how you
+			faked the blood test?
+
+					LEYTON
+			Does it matter?
+
+					SISKO
+			I suppose not.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    37.
+
+29   CONTINUED:
+
+					LEYTON
+			You know, Ben, I stand here
+			looking at you, the best officer
+			who ever served under me, trapped
+			in that holding cell, and I
+			think... life can be damn cruel.
+
+					SISKO
+			Let me out. Maybe life'll look a
+			little better.
+
+	Leyton doesn't answer right away, and for a moment, it
+	looks like he's actually considering it.
+
+					LEYTON
+			I don't think I can do that just
+			now.
+
+					SISKO
+			So what are you going to do? Keep
+			me here forever?
+
+					LEYTON
+			You'll be free to go in a few
+			days.
+
+					SISKO
+			Let me guess. After the
+			President's speech.
+
+					LEYTON
+			The President won't be making a
+			speech. I will.
+
+					SISKO
+				(sarcastic)
+			I assume you'll be explaining to
+			the public why it's necessary for
+			Starfleet to seize control of
+			Earth.
+
+					LEYTON
+			Temporarily, of course. Until the
+			changeling threat has been
+			neutralized.
+
+					SISKO
+			And how long will that be?
+			Months? Years? Decades?
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    38.
+
+29   CONTINUED:	(2)
+
+	This aspect of his plan is something that weighs
+	heavily,on Leyton.
+
+					LEYTON
+			However long it takes.
+				(a beat)
+			The people deserve strong
+			leadership. Someone who can
+			protect them.
+
+					SISKO
+			In other words... you.
+
+	Leyton's silence speaks volumes.
+
+					LEYTON
+			If you need anything... food,
+			something to read, just tell the
+			guards.
+
+	Leyton EXITS, leaving Sisko alone with his thoughts.
+
+30   EXT. STARFLEET HEADQUARTERS - DAY
+
+	Re-establishing.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    39.
+
+31   INT. STARFLEET-HEADQUARTERS - SECURITY CELLS - DAY 
+
+	Sisko is alone in his cell. The Security Chief that we
+	saw previously is on guard, along with another Security
+	officer. As they stand watch, a FEMALE SECURITY
+	OFFICER ENTERS, pushing a cart containing blood-
+	screening equipment.
+
+					SECURITY CHIEF
+			Well, if it isn't my favorite
+			vampire.
+
+					FEMALE SECURITY OFFICER
+			Vampires only come out at night.
+			I've been pushing this cart all
+			day.
+
+	She begins readying the equipment to blood test the two
+	officers.
+
+					SECURITY CHIEF
+			I'm getting a little tired of all
+			these blood screenings.
+
+					FEMALE SECURITY OFFICER
+			Believe me, I'm just as tired of
+			giving them as you are of taking
+			them.
+
+	She begins her tests.
+
+					SISKO
+				(calling out from his
+				cell)
+			Why don't you give me one of those
+			while you're at it?
+
+					FEMALE SECURITY OFFICER
+			You don't really expect me to let
+			down that forcefield and go in
+			there with you.
+
+	But as the Female Security officer and the Security
+	Chief are distracted by Sisko, we hear the sound of a
+	morph and the third Security officer being slammed into
+	a wall.
+
+	The Female Security Officer and the Security Chief turn
+	and see...
+
+32   NEW ANGLE (OPTICAL)
+
+	Odo completing his MORPH from the cart and 	standing
+	over the prone body of the third Security officer.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    40.
+
+32   CONTINUED:
+
+					ODO
+			He's not the one you should be
+			worried about. I am.
+
+	Before the remaining security officers can react to
+	Odo, he punches the Security Chief, knocking him
+	unconscious, then grabs the Female Officer in a Vulcan-
+	like nerve pinch and renders her unconscious.
+
+33   INCLUDE SISKO 
+
+	As Odo moves over to his cell and begins working on the
+	control panel.
+
+					SISKO
+			Nicely done, Constable.
+
+					ODO
+			It wasn't that difficult. After
+			all I did help you revise the
+			security measures for this
+			building.
+
+					SISKO
+			Lucky for me. Have you contacted
+			Kira?
+
+					ODO
+				(nods)
+			The Defiant is on its way to
+			Earth.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    41.
+
+33   CONTINUED:
+
+					SISKO
+				(knows what this means)
+			They found what we were looking
+			for.
+
+					ODO
+				(nods)
+			It was just as you suspected.
+			They even found the officer
+			responsible. Lieutenant Arriaga.
+			They've got him on the Defiant.
+
+34   NEW ANGLE (OPTICAL)
+
+	Throughout the above, Odo's been working on the panel.
+	It finally fritzes out.
+
+					SISKO
+			You have to get to the President.
+			Tell him everything we know. And
+			warn him that Leyton's going to
+			make his move sometime today.
+
+					ODO
+			What about you?
+
+					SISKO
+			I have some business to take care
+			of.
+
+	Sisko takes the Security Chief's phaser and they EXIT.
+
+35   INT. ADMIRAL LEYTON'S OFFICE - DAY
+
+	A redress of Sisko's Temoorary Office. Only the 
+	personal items in the office distinguish it from the
+	one Sisko used. Leyton is working at his desk. He's
+	talking to someone on a monitor, but we don't have to
+	see the screen.
+
+					LEYTON
+				(to monitor)
+			Good luck, Captain Benteen.
+			Leyton out.
+
+	Leyton ends his transmission just as Sisko ENTERS the
+	room still carrying his phaser. Leyton looks up at
+	Sisko and sees the phaser.
+
+					LEYTON
+			Are you planning on using that?
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    42.
+
+35   CONTINUED:
+
+	Sisko removes Leyton's combadge.
+
+					SISKO
+			Against a fellow officer? I hope
+			not.
+				(a beat)
+			But I willhave to ask for your
+			resignation.
+
+					LEYTON
+			You'll forgive me if I don't leap
+			at the opportunity.
+
+					SISKO
+			I've got enough evidence to
+			convict you of treason.
+
+					LEYTON
+			Do you?
+
+					SISKO
+			We have Lieutenant Arriaga in
+			custody. He's prepared to admit
+			that on your orders, he attached
+			a subspace modulator to the relay
+			satellite on the far side of the
+			wormhole. That's why it was
+			opening and closing at random.
+
+					LEYTON
+			Why would anyone want to do that?
+
+					SISKO
+			To make it look like a cloaked
+			Dominion fleet was entering
+			Federation space. That way when
+			Earth's power relays were
+			sabotaged, people would think that
+			an invasion was imminent.
+
+	Leyton absorbs this information for a beat. Sisko's
+	right, but Leyton's not about to admit it.
+
+					LEYTON
+			That's a very interesting theory,
+			but it's not going to do you much
+			good. Lieutenant Arriaga. isn't
+			going to get to Earth.
+				(a beat)
+			I've sent the Lakota to intercept
+			the Defiant.
+
+	Sisko reacts with surprise.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FOUR    43.
+
+35   CONTINUED:	(2)
+
+					SISKO
+			Do you really think one Starfleet
+			ship will fire on another?
+
+					LEYTON
+			As far as Captain Benteen's crew
+			is concerned, the Defiant isn't a
+			Starfleet ship. They've been told
+			everyone on the Defiant's been
+			replaced by Shape-shifters.
+
+	And as Sisko reacts to this latest twist...
+
+36   EXT. SPACE (OPTICAL)
+
+	The Defiant at warp.
+
+37   INT. DEFIANT - BRIDGE
+
+	WORF is in the command chair, Dax is at the helm,
+	O'Brien at Engineering, Kira at weapons. BASHIR is
+	standing near Worf.
+
+					DAX
+				(to Worf)
+			Commander, we're being hailed by
+			the Lakota. They're ordering us
+			to drop out of warp, and prepare
+			to be boarded.
+
+					KIRA
+			They've raised their shields and
+			powered up their phasers.
+				(grim)
+			Looks like they won't take no for
+			an answer.
+
+	As the crew reacts, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    44.
+                           ACT FIVE                             
+
+	FADE IN:
+
+38   INT. ADMIRAL LEYTON'S OFFICE - DAY
+
+	As before. Leyton and Sisko face each other across
+	Leyton's desk. Sisko keeps his phaser trained on
+	Leyton.
+
+					SISKO
+			Admiral, don't you realize what's
+			going on here? Even if you win,
+			even if you do manage to oust
+			Jaresh-Inyo, you still lose. We
+			all lose.
+
+	Leyton remains cool and firm in his convictions.
+
+					LEYTON
+			I can't say I agree with you.
+
+					SISKO
+			Do you think the other Federation
+			worlds are going to sit back and
+			let their President be replaced by
+			a military dictatorship?
+
+					LEYTON
+			Hardly a dictatorship, Ben.
+
+	Sisko can't believe what he's hearing. He's having a
+	hard time controlling his righteous indignation.
+
+					SISKO
+			Overthrowing a legitimately
+			elected President and giving
+			Starfleet direct control over
+			the government? Sounds like a
+			dictatorship to me. And I'm sure
+			I won't be the only one who thinks
+			so.
+
+	But Leyton isn't swayed. He's convinced what he's
+	doing is right, and that sooner or later everyone will
+	agree with him.
+
+					LEYTON
+			There'll be some dissenters at
+			first. But they'll fall in line
+			once they realize strengthening
+			Earth is the first step toward
+			strengthening the Federation.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    45.
+
+38   CONTINUED:
+
+					SISKO
+			And if they don't agree, what
+			then? Are you willing to risk
+			civil war?
+				(off Leyton's reaction)
+			If the Lakota fires on the
+			Defiant, you'll be opening a
+			Pandora's Box that may never be
+			closed.
+
+					LEYTON
+			Then contact the Defiant and tell
+			them to stand down.
+
+	Sisko thinks about it for a beat, but in the end, he's
+	as committed to his position as Leyton is.
+
+					SISKO
+			I won't do that.
+
+					LEYTON
+			I didn't think so. But don't kid
+			yourself, Ben... this Pandora's
+			Box of yours, we're opening it
+			together.
+
+39   EXT. SPACE (OPTICAL)
+
+	As the Defiant approaches the waiting Lakota.
+
+40   INT. DEFIANT - BRIDGE
+
+	As before.
+
+					KIRA
+			The Lakota's targeting its weapons
+			on our warp engines.
+
+					O'BRIEN
+			They're bluffing. That's a
+			Federation ship. They're not
+			going to fire on us.
+
+					BASHIR
+			I hope you're right, Chief.
+
+					WORF
+			Continue on course.
+
+					KIRA
+			We're in weapons range.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    46.
+
+40   CONTINUED:
+
+					WORF
+			Raise shields.
+
+	Just then...
+
+41   EXT. SPACE (OPTICAL)
+
+	The Lakota opens fire with a volley of phaser fire,
+	which lashes against the Defiant's shields.
+
+42   INT. DEFIANT - BRIDGE
+
+	As the Bridge is rocked and some consoles spark.
+
+					WORF
+			Damage report.
+
+					DAX
+			Port shields are at sixty percent.
+
+					O'BRIEN
+			Someone's been upgrading the
+			Lakota's weapons. That's a lot of
+			firepower for an Excelsior-class
+			ship.
+
+					KIRA
+			Can we cloak?
+
+					WORF
+			We would have to lower our
+			shields.
+
+	The Defiant rocks as it gets hit again.
+
+					BASHIR
+			I wouldn't advise it.
+
+					DAX
+			Do we make a run for it?
+
+					O'BRIEN
+			If they've been tinkering with the
+			weapons, who knows what they've
+			done to their warp drive.
+
+	Worf considers his options for a beat, then...
+
+					WORF
+			Hail them.
+
+	Dax complies, but...
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE   46A.
+
+42   CONTINUED:
+
+					DAX
+			No answer.
+
+	The ship shakes again. A crewman goes down. Bashir
+	goes to help him.
+
+					KIRA
+			They're trying to disable our
+			engines.
+
+					BASHIR
+				(to crewman)
+			Let's go. We'd better get you to
+			the Medical Bay.
+
+	Bashir helps the wounded crewman EXIT.
+
+					O'BRIEN
+				(to Worf)
+			What do we do, Commander?
+
+					WORF
+				(grim)
+			We fight.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    47.
+
+42   CONTINUED:
+
+	The Defiant shakes as it's struck by another volley
+	from the Lakota.
+
+					WORF
+			Target their weapons. Fire
+			phasers.
+
+43   EXT. SPACE (OPTICAL)
+
+	As the Lakota continues to fire at the Defiant, the
+	smaller, more maneuverable ship swoops in, doing a 270
+	degree barrel roll (so it's now oriented on a
+	completely different plane than the Lakota) and darts
+	past the larger ship, firing with pinpoint accuracy the
+	whole time. Both ships are getting pummelled.
+
+44   INT. ADMIRAL LEYTON'S OFFICE - DAY
+
+	Sisko continues to train his phaser at Leyton, who
+	pours himself a drink, then holds up the bottle.
+
+					LEYTON
+			Want some? It's Bolian tonic
+			water. Calms the nerves.
+
+					SISKO
+			No thank you.
+
+	Leyton takes a long sip.
+
+					LEYTON
+			Ironic, isn't it? When you came
+			on board the Okinawa, you were
+			more interested in engineering and
+			ship design than command. But I
+			promoted you to lieutenant
+			commander, gave you the post of
+			executive officer, and taught you
+			everything I knew about being a
+			leader.
+
+					SISKO
+			You were a good teacher.
+
+					LEYTON
+			I wish I'd taught you more about
+			the importance of loyalty.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    48.
+
+44   CONTINUED:
+
+					SISKO
+			You want to talk to me about
+			loyalty? After you broke your
+			oath to the Federation, lied to
+			the people of Earth, and ordered
+			one of our starships to fire on
+			another? You don't have the
+			right.
+
+	Leyton looks at Sisko and there's a touch of regret in
+	his face.
+
+					LEYTON
+			You don't understand me at all, do
+			you?
+
+					SISKO
+			I used to think I did. I thought
+			you were a man of principles, a
+			man of honor. I see now, I was
+			mistaken.
+
+					LEYTON
+			I'm sorry you feel that way.
+
+	Sisko looks at Leyton, a man whom he used to respect
+	and admire, and feels the loss of friend and role
+	model.
+
+					SISKO
+			So am I.
+
+					COM VOICE
+			Admiral, we're receiving a message
+			from the Lakota.
+
+	Sisko trains his phaser on Leyton, reminding him not to
+	give anything away.
+
+					LEYTON
+				(to com)
+			Put it through.
+
+45   INCLUDE A MONITOR (OPTICAL)
+
+	Which displays a close shot of Captain Benteen,
+	presumably communicating from her ready room on the
+	Lakota.
+
+					BENTEEN
+			We haven't been able to stop the
+			Defiant. Someone's equipped her
+			with ablative armor and neglected
+			to inform Starfleet operations.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    49.
+
+45   CONTINUED:
+
+					LEYTON
+			Under no circumstances is that
+			ship to reach Earth.
+				(a beat)
+			The Lakota's carrying quantum
+			torpedoes, isn't she?
+
+					BENTEEN
+			Yes, sir.
+
+					LEYTON
+			Then use them.
+
+					BENTEEN
+			Admiral, my orders were to disable
+			the Defiant, not destroy her.
+
+					LEYTON
+			Your orders are to keep the
+			Defiant from reaching Earth by any
+			means necessary. Is that
+			understood?
+
+	Benteen looks troubled. She knows Leyton is telling
+	her to destroy the ship.
+
+					BENTEEN
+			Yes, it is.
+
+					SISKO
+			Captain, you know as well as I do
+			that there aren't any
+			Shape-shifters on the Defiant. Use
+			those quantum torpedoes and you'll
+			be killing fifty Starfleet officers.
+
+					LEYTON
+				(to Sisko)
+			Captain Benteen knows where her
+			duty lies.
+				(to Benteen)
+			You have your orders.
+
+	Benteen is clearly conflicted by what Leyton wants her
+	to do.
+
+					BENTEEN
+			Yes, sir.
+
+	She ends the transmission.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE   49A.
+
+46   OMITTED
+
+47   INT. DEVIANT - BRIDGE
+	There's visible damage on the Bridge.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    50.
+
+47   CONTINUED:
+
+					DAX
+			Shields are almost gone. We have
+			major systems failures on decks
+			one, three and four.
+
+					WORF
+			What about the Lakota?
+
+					KIRA
+			They're in worse shape.
+				(hates to even suggest it)
+			One good hit would probably finish
+			them off.
+
+					O'BRIEN
+			And kill everyone on board.
+
+					WORF
+			That is not an option.
+
+					KIRA
+			It's either them or us.
+
+	During the above, O'Brien notices something on his
+	controls.
+
+					O'BRIEN
+			Mister Worf, I think you should
+			look at this.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    51.
+
+47   CONTINUED:	(2)
+
+					WORF
+				(checks his own readouts)
+			They've powered down their
+			weapons.
+				(to all)
+			Hold your fire.
+
+					DAX
+			They're hailing us.
+
+					WORF
+			On screen.
+
+	And as the crew waits to see what the Lakota's message
+	will be...
+
+									CUT TO:
+
+48   INT. ADMIRAL'S OFFICE - DAY
+
+	Sisko is still keeping the phaser pointed in Leyton's
+	vicinity. Both men are trying to appear calm as they
+	wait to hear the results of the confrontation between
+	the Lakota and the Defiant.
+
+					COM VOICE
+			Admiral Leyton, we are receiving
+			a message for Captain Sisko, from
+			the Defiant.
+
+	Both Sisko, and Leyton look surprised. Sisko becomes a
+	little more insistent with his phaser.
+
+					SISKO
+			Put it through.
+
+					LEYTON
+				(to com)
+			Do as he says.
+
+49   NEW ANGLE (OPTICAL)
+
+	To include Worf on a monitor.
+
+					WORF
+				(on monitor)
+			Captain, I apologize for the
+			delay.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    52.
+
+49   CONTINUED:
+
+					SISKO
+			What's your status, Mister Worf?
+
+					WORF
+				(on monitor)
+			The Lakota has powered down its
+			weapons and is allowing us to
+			proceed to Earth.
+
+	Sisko looks over at Leyton, who is surprised and
+	disappointed. He thought he could count on Benteen.
+
+					SISKO
+			Casualties?
+
+					WORF
+				(on monitor)
+			Bartlett and Ramsey are dead, sir.
+			Seven more seriously injured.
+			Captain Benteen thinks there may
+			have been as many as two dozen
+			casualties on the Lakota.
+
+	Sisko absorbs these sobering figures.
+
+					SISKO
+			Get here as soon as you can. The
+			President's expecting you.
+
+					WORF
+			Aye, sir.
+
+	Worf's image on the monitor is replaced by a Starfleet
+	insignia.
+
+50   CLOSE ON LEYTON AND SISKO
+
+	Leyton hasn't completely given up yet.
+
+					LEYTON
+			That was a mistake, Ben... talking
+			to your ship from my office. Now
+			that security knows you're here,
+			you'll never make it past that
+			door.
+
+	Leyton nods toward the door to his office.
+
+					SISKO
+			It doesn't matter whether I make
+			it out of here or not.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    53.
+
+50   CONTINUED:
+
+					SISKO (Cont,d)
+			By now, Odo is talking to Jaresh-
+			Inyo. The President will have the
+			evidence he needs to stop you.
+			It's over.
+
+					LEYTON
+			It's not over. I have enough
+			loyal officers to make a fight of
+			it.
+
+					SISKO
+			Who will you fight? Starfleet?
+			the Federation? Don't you see,
+			Admiral? You're fighting the
+			wrong war.
+				(a beat)
+			And as far as your loyal officers
+			are concerned, Benteen's already
+			abandoned you. And she was closer
+			to you than anyone.
+
+	Leyton doesn't have an answer to that.
+
+					SISKO
+			You've lost. Don't make anyone
+			else pay for your mistakes.
+
+	There's a long beat as Leyton considers Sisko's words.
+	Finally, he puts down his glass and stands up. He
+	looks beaten, like he's been in a hell of a fight, and
+	come up on the losing side. He carefully removes his
+	admiral's insignia from his uniform and places it
+	gently on the desk.
+
+					LEYTON
+			I hope you're not the one making
+			the mistake.
+
+	Leyton walks out of his office, never looking back.
+
+51   CLOSE ON SISKO
+
+	As he picks up the Leyton's pips. If this is winning,
+	why doesn't he feel better?
+
+									CUT TO:
+
+52   INT. SISKO'S CREOLE KITCHEN - DAY (OPTICAL)
+
+	It's early in the day. Joseph hasn't opened the
+	restaurant yet, although his staff is preparing food in
+	the kitchen. Joseph in at the window, watching the
+	last of the Starfleet Security officers beam away.
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    54.
+
+52   CONTINUED:	(2)
+
+					JOSEPH
+			The streets are going to seem
+			emptier with them gone.
+
+	He turns to Sisko, Jake and Odo, who are there to say
+	their goodbyes...
+
+					ODO
+			Would you be happier if they'd
+			stayed?
+
+					JOSEPH
+			If they had stayed, it wouldn't be
+			Earth anymore, would it? It
+			didn't seem right, all those
+			phasers everywhere.
+
+	Odo looks concerned.
+
+					JAKE
+			Something wrong, Odo?
+
+					ODO
+			Am I the only one worried that
+			there are still changelings here
+			on Earth?
+
+					JOSEPH
+			Worried? I'm scared to death.
+			But I'll be damned if I'm going to
+			let them change the way I live my
+			life.
+
+					SISKO
+				(to Odo)
+			If the changelings want to destroy
+			what we've built here, they'll
+			have to do it themselves. We're
+			not going to do it for them.
+
+					JOSEPH
+			I'm going to miss you, Son.
+
+	Joseph hugs Sisko.
+
+					JOSEPH
+			You, too, Jake-O.
+				(give Jake a hug)
+			Feels like you just got here.
+
+					SISKO
+			You sure I can't convince you to
+			come back to the station with us?
+
+     DEEP SPACE NINE: "Paradise Lost* - REV. 11/14/95 - ACT FIVE   54A.
+
+52   CONTINUED:	(3)
+
+					JAKE
+			A Creole restaurant would be a big
+			hit on the Promenade.
+
+					JOSEPH
+			Then you'll just have to open one.
+			This is my home.
+
+	Sisko knows he can't change his father's mind.
+
+					SISKO
+			We'd better get going. Now don't
+			forget to take --
+
+					JOSEPH
+				(cuts him off)
+			To take my medicine. I know.
+				(to Odo)
+			Is he always such a mother hen?
+
+     DEEP SPACE NINE: "Paradise Lost" - REV. 11/14/95 - ACT FIVE    55.
+
+52   CONTINUED:	(4)
+
+					ODO
+			He means well.
+
+					JOSEPH
+				(to Sisko)
+			Take care of yourself. And try
+			not to worry so much.
+
+					SISKO
+			I'll do my best.
+
+					JOSEPH
+			That's all I can ask.
+
+	Sisko and his father hug, then Sisko steps over to join
+	Jake and Odo.
+
+					SISKO
+			Three to beam up.
+
+	Sisko, Odo, and Jake beam out.
+
+53   CLOSE ON JOSEPH 
+
+	As he looks at the spot where his son stood for a beat,
+	then turns to the door and opens it to two couples who
+	are waiting to be let in for lunch.
+
+					JOSEPH
+			Well, what are you waiting for?
+			Have a seat. Today I'm
+			recommending the pasta boudin...
+			It's got a bit of a kick but it'll
+			make you smile.
+
+	And as the patrons ENTER, we...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

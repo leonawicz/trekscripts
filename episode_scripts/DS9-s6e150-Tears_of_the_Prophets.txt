@@ -1,0 +1,3285 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                    "Tears of the Prophets" 
+                   (fka "Tears of the Gods") 
+                          #40510-550 
+                              
+                          Written by 
+                Ira Steven Behr & Hans Beimler 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         April 8, 1998
+
+  STAR TREK: DS9 - "Tears of the Prophets" - 04/08/98 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "Tears of the Prophets" 
+                             CAST 
+
+          SISKO                    GARAK
+          KIRA                     NOG
+          ODO                      MARTOK
+          BASHIR                   DUKAT
+          DAX                      WEYOUN
+          WORF                     DAMAR
+          QUARK                    ROSS
+          O'BRIEN                  LETANT
+          JAKE                     VIC
+          SAHGI                    
+          GLINN                    
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+ STAR TREK: DS9 - "Tears of the Prophets" - 04/08/98 - SETS       
+
+                  STAR TREK:  DEEP SPACE NINE
+                    "Tears of the Prophets" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE/SPACE
+          QUARK'S                       WORMHOLE
+          WARDROOM_CARDASSIA PRIME      
+          BAJORAN SHRINE                NEW ORLEANS/BACK ALLEY
+          CAPTAIN'S OFFICE              
+          HOLOSUITE/LAS VEGAS LOUNGE    
+          SISKO'S QUARTERS              
+          OPS                           
+          HABITAT RING CORRIDOR         
+          SECURITY OFFICE               
+          AIRLOCK CORRIDOR              
+          INFIRMARY/SURGERY             
+          PROMENADE                     
+          CARGO BAY                     
+
+        DEFIANT                       
+          BRIDGE                        
+
+        DOMINION BRIEFING ROOM        
+
+  DS9 - "Tears of the Prophets" - 04/13/98 - PRONUNCIATION
+
+                  STAR TREK:  DEEP SPACE NINE
+                    "Tears of the Prophets" 
+                      PRONUNCIATION GUIDE 
+
+          SAHGI                    SAW-gee
+          SOLIS                    SOLE-us
+          TORG'Q                   TORK
+          VENTANI                  ven-TAHN-ee
+          TRET AKLEEN              tret ah-KLEEN
+          CHIN'TOKA                chin-TAW-ka
+          TRINETIUM                trie-NET-ee-um
+          DIBRINIUM                die-BRIN-ee-um
+          CHRONITON                CRONE-eh-ton
+
+                                   KLINGON DEATH CHANT                           
+                                   (Phonetic Spelling with English Translation)              
+
+          nech-TACH KRO-nos        
+          (Only Kronos endures)    
+
+          HEGH baht-LEH-ku hoch nej-MACH
+          (All we can hope for is a glorious death)
+
+          nech-TACH KRO-nos        
+          (only Kronos endures)    
+
+          yai jeh BAHT-leh mach-NOHB HEGH 
+          (In death there is victory and honor.)
+
+
+      DEEP SPACE NINE: ""Tears of... " - REV. 04/28/98 - TEASER       1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                       "Tears of the Prophets"                         
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. BAJORAN SHRINE
+
+	CLOSE ON a happy, eight-year-old Bajoran girl, 
+	SAHGI, as she runs up to SISKO. He is standing 
+	beside KIRA watching several BAJORANS take down 
+	various decorations from the walls of the shrine. 
+	In the b.g., an orb ark sits on the altar.
+
+					SAHGI
+				(excited)
+			Peldor joi, Emissary.
+
+					SISKO
+			Peldor joi to you.
+
+	And with that, Sahgi runs off, back to her mother. 
+	WE HOLD ON Sisko and Kira.
+
+					SISKO
+			Looks like the festival was a
+			success.
+
+					KIRA
+			Everyone seemed to enjoy it. 
+				(a beat)
+			Thank you, captain.
+
+					SISKO
+			For what?
+
+      DEEP SPACE NINE: ""Tears of... " - REV. 04/28/98 - TEASER       2.
+
+1    CONTINUED:
+
+					KIRA
+			For insisting that the festival 
+			take place in spite of the fact 
+			that we're in the middle of a 
+			war.
+
+					SISKO
+			War or no war -- we have a lot 
+			to be grateful for. It's 
+			important to remember that.
+
+					KIRA
+			Yes, it is.
+				(a sudden thought) 
+			Shouldn't you be heading over to 
+			the wardroom for the ceremony?
+
+					SISKO
+			I'm on my way.
+
+	And with that, Sisko heads out the door just as ODO 
+	ENTERS. Odo seems a bit rattled as he makes a 
+	beeline for Kira.
+
+					ODO
+			Nerys -- I've been looking for 
+			you.
+
+	Kira's expression hardens at the sight of Odo and 
+	she turns her back to him.
+
+					KIRA
+			I don't really feel like talking 
+			to you right now.
+
+					ODO
+			Don't you want to hear my side 
+			of the story?
+
+					KIRA
+			No.
+
+					ODO
+				(telling her anyway) 
+			Somebody has to maintain order 
+			on the Promenade.
+
+					KIRA
+
+				(an accusation) 
+			You arrested a Vedek.
+
+       DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - TEASER       3.
+
+1    CONTINUED:	(2)
+
+					ODO 
+			I'd hardly call it an arrest --
+			he wasn't in the holding cell 
+			for more than an hour. Besides, 
+			he was breaking the law.  
+			Fundraising on the Promenade 
+			without a license is strictly 
+			forbidden. Station regulation 
+			fifteen-twenty-six, paragraph 
+			seven--
+
+					KIRA
+				(cutting him off) 
+			Vedek Solis was collecting 
+			donations for Bajoran flood 
+			victims!
+
+					ODO
+			A very worthy cause. 
+			Nevertheless, station 
+			regulations are quite clear --
+
+					KIRA
+				(fed up) 
+			I don't care about station 
+			regulations.
+
+	Odo looks to change the subject.
+
+					ODO
+				(re: the orb, innocently) 
+			Is that the Orb of Contemplation?
+
+					KIRA
+				(with finality) 
+			Good-bye, Odo.
+
+       DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - TEASER       4.
+
+1    CONTINUED:	(3)
+
+	A beaten Odo EXITS. We HOLD ON Kira as she moves 
+	over to help the others take down the decorations.
+
+2    INT. WARDROOM
+
+	SISKO stands before ADMIRAL ROSS who is holding a 
+	small flat box. WORF, DAX, O'BRIEN, BASHIR and 
+	JAKE stand ceremoniously nearby.
+
+
+					ROSS
+			... to Captain Benjamin Lafayette 
+			Sisko, in recognition of your 
+			remarkable leadership and 
+			meritorious conduct against the 
+			enemy, and in particular for 
+			acts of personal bravery 
+			displayed during the battle to 
+			retake Deep Space Nine, 
+			Starfleet Command is proud to 
+			award you the Christopher Pike 
+			Medal of Valor.
+
+	Ross opens the box and hands the medal to Sisko. 
+	The medal contains an engraving of Captain Pike.
+
+					ROSS
+				(continuing) 
+			Congratulations, Ben.
+
+					SISKO
+			Thank you, admiral.
+
+3    ANGLE ON THE OTHERS
+
+	as they proudly look on.
+
+					DAX
+				(with a twinkle in 
+				her eyes) 
+			And to think... I knew him when 
+			he was just a callow youth.
+
+					O'BRIEN 
+			I bet even then he showed signs 
+			of greatness.
+
+					DAX
+				(thinking about it) 
+			Only with the ladies.
+
+      DEEP SPACE NINE: "'Tears of... " - REV. 04/28/98 - TEASER       5.
+
+3    CONTINUED:
+
+					JAKE
+				(interested) 
+			I'd like to hear more about 
+			that.
+
+					WORF 
+			Then let him tell you.
+
+					DAX
+				(to Worf, re: Sisko) 
+			But he'll leave out all the good 
+			parts.
+
+4    ANGLE ON ROSS AND SISKO
+
+					ROSS 
+			The medal usually comes with a 
+			lot more pomp and ceremony, but 
+			we figured you wouldn't want to 
+			be called back to Earth just to 
+			sit through a bad chicken dinner 
+			with a bunch of brass hats.
+
+					SISKO
+			This suits me fine, admiral.
+
+	Dax approaches and cranes her head to look at the medal.
+
+					DAX
+			Now you have something else to 
+			put on your desk besides that 
+			baseball.
+
+					WORF
+			What she means to say, captain, 
+			is that she can't think of 
+			anyone more deserving of this 
+			honor.
+
+					O'BRIEN
+			I certainly can't.
+
+
+					JAKE 
+			I'm proud of you, Dad.
+
+	Sisko and Jake hug.
+
+       DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - TEASER       6.
+
+4    CONTINUED:
+
+					ROSS
+				(to the group) 
+			If you'd excuse us, I'd like a 
+			word with Captain Sisko.
+
+	The others file out.
+
+5    ANGLE ON SISKO
+
+	as he faces the Admiral Ross waits for the door to 
+	close, ensuring their privacy.
+
+					ROSS 
+			I've got good news for you, 
+			captain. Starfleet Command has 
+			decided we've been waging a 
+			defensive war long enough. They 
+			figure we're never going to win 
+			this thing unless we take the 
+			fight into Dominion territory.
+
+	Off Sisko's small smile.
+
+					ROSS
+				(continuing) 
+			I know, you've been saying that 
+			ever since the Romulans opened a 
+			second front against the 
+			Dominion. It took a while, but 
+			your message finally got 
+			through.
+
+					SISKO 
+			When do we go?
+
+					ROSS
+				(smiling) 
+			That all depends on you.
+
+					SISKO
+			Me?
+
+					ROSS 
+			That's right, Ben. Starfleet 
+			has chosen you to plan the 
+			invasion of Cardassia.
+
+	And off Sisko's look of determination, we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE       7.
+                            ACT ONE                             
+
+	FADE IN:
+
+
+	(Note: episode credits fall over opening sequence)
+
+6    INT. QUARK'S
+
+	Worf and Dax, carrying bat'leths, are coming down 
+	the stairs from a holosuite.
+
+					BASHIR (O.S.) 
+			Finally.
+
+	ADJUST to include an exasperated Bashir seated at 
+	the bar. QUARK is standing nearby, behind the 
+	counter.
+
+					BASHIR 
+			I've been waiting for you to get 
+			out of that holosuite for twenty 
+			minutes.
+
+					DAX
+			Sorry, Julian. We lost track of 
+			the time.
+
+					BASHIR
+				(suspicious) 
+			Doing what? You were supposed 
+			to be in there exercising. I 
+			don't see any sweat. Where are 
+			the bruises? The broken bones? 
+			The blood?
+
+					WORF 
+			We were... talking.
+
+					QUARK 
+			For an hour and forty-five 
+			minutes?
+
+					WORF 
+			It's a private matter.
+
+					DAX 
+				(to Bashir) 
+			We're thinking about having a baby.
+
+					WORF
+				(so much for privacy) 
+			It was a private matter.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE       8.
+
+6    CONTINUED:
+
+	Both Bashir and Quark are taken aback by the 
+	revelation. But before they can respond:
+
+					SISKO (O.S.) 
+			Sisko to Commander Worf. Please 
+			report to my office immediately.
+
+					WORF 
+			Acknowledged.
+
+	Worf nods to Dax, then EXITS. We HOLD ON Bashir and 
+	Quark, who look at Dax somberly.
+
+					DAX 
+			You're both awfully quiet.
+
+					BASHIR
+			I don't want to dampen your 
+			spirits, but I told you before 
+			you got married that, medically 
+			speaking, it wouldn't be easy 
+			for a Trill and a Klingon to 
+			have a child.
+
+					QUARK
+			And I'm worried the kid will end 
+			up looking like his father.
+
+					DAX
+				(with saucy defiance) 
+			I hope she does.
+
+	And with that, Dax EXITS.
+
+7    ANGLE ON BASHIR AND QUARK
+
+	watching Dax leave.
+
+					BASHIR
+				(incredulous) 
+			A baby?
+
+					QUARK 
+			It's bad enough she married that 
+			Klingon psychopath.
+
+					BASHIR
+			A baby... you know what this 
+			means, don't you?
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE       9.
+
+7    CONTINUED:
+
+					QUARK
+				(nodding) 
+			Their marriage is going to last 
+			longer than we thought.
+
+	And on their forlorn expressions, we go to --
+
+8    INT. WARDROOM
+
+	Sisko, Worf, O'Brien and GARAK are gathered near 
+	the wall monitor which displays a graphic of the 
+	Cardassian border. There are various PADDs 
+	displaying star charts scattered about the table.
+
+					WORF
+			What about the Torg'Q system? 
+			Of all the targets along the 
+			border, it's the closest to 
+			Cardassia Prime.
+
+					GARAK 
+			It's also the most heavily 
+			fortified.
+
+					WORF
+			True.
+				(to Sisko) 
+			But that could work to our 
+			advantage. The Dominion will 
+			never expect us to attack there.
+
+					O'BRIEN
+				(skeptical) 
+			The element of surprise might 
+			give us an initial advantage... 
+			but I'm not sure how long it 
+			would last. And I don't even 
+			want to think about our casualty 
+			figures...
+
+					GARAK 
+			I recommend the Ventani System. 
+			I know it's a long way from 
+			Cardassia Prime, but its second 
+			planet was the birthplace of 
+			Tret Akleen -- the father of the 
+			Cardassian Empire. 
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      10.
+
+8    CONTINUED:
+
+					GARAK (Cont'd) 
+			To lose such sacred ground would 
+			be devastating to Cardassians 
+			everywhere. And a great 
+			propaganda victory for you.
+
+					WORF 
+			Even so, there is little 
+			strategic value in holding the 
+			Ventani System.
+
+					SISKO
+			And its loss would have no 
+			effect on the Jem'Hadar.
+
+					GARAK 
+			True.
+
+	Under this, Sisko notices that O'Brien has fallen 
+	very quiet as he mulls over one of the star charts.
+
+					SISKO 
+			Something on your mind, Chief?
+
+					O'BRIEN
+			What about the Chin'toka System, 
+			sir?
+
+					WORF 
+			The Chin'toka System is 
+			protected by a fleet of Dominion 
+			ships.
+
+					O'BRIEN
+			The last time we patrolled that 
+			section of the border, I noticed 
+			something strange about the warp 
+			signatures of their bigger 
+			ships... the cruisers, the 
+			destroyers...
+
+					SISKO
+				(interested) 
+			Go on.
+
+					O'BRIEN 
+			They were slightly different 
+			from the first time we scanned 
+			them. The field variance 
+			readings seemed almost too 
+			synchronized.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      11.
+
+8    CONTINUED:	(2)
+
+					SISKO 
+			Are you suggesting that the warp 
+			signatures are fake? That those 
+			ships are no longer there?
+
+					O'BRIEN 
+			It's possible.
+
+					WORF
+			Why would the Dominion pull so 
+			many of their ships away from 
+			the border?
+
+					GARAK
+			Perhaps they've been sent to the 
+			Romulan front.
+
+					WORF 
+			Then how many ships does the 
+			Dominion have at Chin'toka?
+
+									SMASH CUT TO:
+
+9    INT. CAPTAIN'S OFFICE (OPTICAL)
+
+	CLOSE ON a wall monitor displaying a star chart of 
+	the Chin'toka System.
+
+					SISKO (O.S.) 
+			Five squadrons of Jem'Hadar 
+			attack ships.
+
+10   NEW ANGLE (VPB)
+
+	to REVEAL Sisko, GENERAL MARTOK and Admiral Ross 
+	studying the map.
+
+					SISKO 
+			At the moment, that's the entire 
+			Dominion "fleet" protecting the 
+			Chin'toka System.
+
+					MARTOK 
+			Only five squadrons... It 
+			appears you've found the weak 
+			spot we've been looking for.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      12.
+
+10   CONTINUED:
+
+					SISKO 
+			Now all we have to do is 
+			convince the Romulans to join 
+			us.
+
+					MARTOK 
+				(grumbling) 
+			That won't be an easy task. 
+			They're an arrogant and 
+			untrustworthy people.
+
+					ROSS
+			Without their help, we'd have 
+			little chance of success.
+
+					MARTOK 
+			We will succeed. Mark my words. 
+			By this time next year, the 
+			three of us will drink bloodwine 
+			in the halls of Cardassia's 
+			Central Command.
+
+	And off this moment of shared hope --
+
+									CUT TO:
+
+11   EXT. CARDASSIA PRIME (OPTICAL) (STOCK)
+
+	Establishing.
+
+12   INT. DOMINION BRIEFING ROOM
+
+	WEYOUN and DAMAR are in the midst of one their 
+	acrimonious briefing sessions as a CARDASSIAN 
+	OFFICER hands Damar a PADD for his approval.
+
+					DAMAR 
+				(annoyed) 
+			You're worrying about nothing.
+
+	Damar hands the PADD back and the Cardassian Officer 
+	EXITS.
+
+					WEYOUN 
+			Am I? It's a mistake to 
+			underestimate our enemy, Damar. 
+			You're spreading our forces too 
+			thinly.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      13.
+
+12   CONTINUED:
+
+					DAMAR 
+			Until we can find a way to bring 
+			reinforcements from the Gamma 
+			Quadrant, we have to make due 
+			with what we have. Besides, you
+			told me we needed more ships on 
+			the Romulan front. So I sent 
+			them.
+
+					WEYOUN
+			And in doing so, you left the 
+			Chin'toka System vulnerable.
+
+					DAMAR 
+			Not as vulnerable as you think.
+
+	Damar steps over to a panel near the wall monitor.
+
+13   NEW ANGLE (OPTICAL) 
+
+	as the wall monitor comes to life displaying a three-
+	dimensional model of a deadly-looking orbital 
+	battle station.
+
+					DAMAR (O.S.) 
+			You see, we don't need starships 
+			to protect Chin'toka. Not anymore.
+
+14   ADJUST TO INCLUDE (OPTICAL)
+
+					DAMAR 
+			These are our new unmanned 
+			orbital weapon platforms. Their 
+			hulls are protected by 
+			regenerative forcefields and 
+			their arsenals include a 
+			thousand plasma torpedoes.
+
+	Weyoun studies the display carefully, and after some 
+	consideration:
+
+					WEYOUN 
+			I like them.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      14.
+
+14   CONTINUED:
+
+					DAMAR 
+			I thought you would. Which is 
+			why I've already ordered their 
+			deployment.
+
+15   OMITTED
+
+16   NEW ANGLE
+
+	as a Cardassian GLINN ENTERS looking somewhat 
+	flustered and uncertain.
+
+      DEEP SPACE NINE: "Tears of'... " - REV. 04/28/98 - ACT ONE     15.
+
+16   CONTINUED:
+
+					GLINN
+				(to Damar) 
+			Legate Damar, excuse the 
+			interruption but we have a... 
+			problem.
+
+					DAMAR 
+			What kind of problem?
+
+					DUKAT (O.S.) 
+			Me.
+
+17   ANGLE ON THE DOOR
+
+
+	to see DUKAT being led in by two N.D. Jem'Hadar 
+	GUARDS. Both Weyoun and Damar are surprised by 
+	Dukat's presence.
+
+					DUKAT 
+			Isn't anyone going to welcome me 
+			home?
+
+					WEYOUN
+			Heroes get welcomed home, Dukat. 
+			Not failures. Or have you 
+			forgotten that under your 
+			leadership the Dominion almost 
+			lost this war?
+
+					DUKAT 
+			As I recall, you were right by 
+			my side, agreeing with every one 
+			of my decisions.
+
+					DAMAR 
+			If you're here because of what 
+			happened to your daughter --
+
+					DUKAT 
+			You disappoint me, Damar. I 
+			thought you, of all people, 
+			would be glad to see your old 
+			mentor.
+				(open-armed) 
+			Besides, I don't hold you 
+			responsible for Ziyal's death. 
+			You may have fired the phaser, 
+			but it was Benjamin Sisko who 
+			forced your hand. And that's 
+			why I'm here.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      16.
+
+17   CONTINUED:
+
+					DUKAT (Cont'd)
+			The time has come for me to take
+			my revenge against the good
+			captain.
+
+	Under this, Weyoun studies Dukat intently.
+
+					WEYOUN
+			We're in the middle of a life-
+			and-death struggle for control
+			of the entire Alpha Quadrant,
+			and all you care about is
+			quenching your petty thirst for
+			revenge.
+				(a beat)
+			You haven't changed a bit, have
+			you?
+
+					DUKAT
+			On the contrary, I'm a new man.
+			I no longer have a need for
+			conquest or power. I've moved
+			beyond all that... I exist in a
+			state of perfect clarity. A
+			clarity I intend to share with
+			the universe.
+
+					WEYOUN 
+			You're right, Dukat. You have 
+			changed. You've gone from being 
+			a self-important egotist to a 
+			self-deluded madman. I hardly 
+			call that an improvement.
+				(to the glinn) 
+			I don't have time for this. 
+			Remove him.
+
+	But Damar intercedes.
+
+					DAMAR 
+			Wait.
+				(to Dukat) 
+			Why did you come here?
+
+					DUKAT 
+			Isn't that obvious?
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT ONE      17.
+
+18   CLOSE ON DUKAT
+
+	as he steps closer to Damar and Weyoun.
+
+					DUKAT 
+			To give you what you desire 
+			above all else. The Alpha 
+			Quadrant.
+
+	Weyoun LAUGHS derisively. But Damar is willing to 
+	take his old mentor seriously.
+
+					DUKAT 
+			All I need is a certain Bajoran 
+			artifact... one of the many that 
+			the Cardassians "appropriated" 
+			during the occupation.
+
+					WEYOUN
+			And how is this artifact going 
+			to help us?
+
+					DUKAT 
+			Let's just say it will make it 
+			possible for Dominion 
+			reinforcements to come through 
+			the wormhole and destroy Captain
+			Sisko and the Federation once 
+			and for all.
+
+	Weyoun and Damar are both intrigued by Dukat's 
+	revelation. And off Dukat's satisfied expression:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      18.
+                            ACT TWO                             
+
+	FADE IN:
+
+19   EXT. SPACE - DEEP SPACE NINE (OPTICAL) 
+
+	The invasion force has begun to assemble around the 
+	station. It is primarily composed of Federation and 
+	Klingon ships, though there are a few Romulan 
+	warships hovering about.
+
+20   INT. WARDROOM
+
+	Sisko, Worf, Martok, Ross and SEVERAL OTHER 
+	STARFLEET AND KLINGON BRASS sit across from a 
+	ROMULAN DELEGATION. The conversation is heated, as 
+	a Romulan Senator, LETANT, aristocratically sits 
+	back in his chair, sneering with disdain as only a 
+	Romulan can.
+
+					LETANT
+				(to Sisko, re: 
+				Martok) 
+			Really, Captain, I see no reason 
+			why I should sit here while this 
+			Klingon jackal calls me a 
+			coward.
+
+	Across the table, Martok leaps to his feet.
+
+					MARTOK 
+			Apparently, this "jackal" has 
+			more courage than the entire 
+			Romulan Senate.
+
+					LETANT
+				(to Sisko)
+			You see my point?
+
+					WORF
+				(to Martok) 
+			General, you must try to remain 
+			calm.
+
+					MARTOK 
+			Calm? This is'no time for calm --
+				(to Letant) 
+			-- it's time to strike the 
+			enemy, strike them hard.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      19.
+
+20   CONTINUED:
+
+					SISKO 
+			We found their weak point. Now
+			we need to exploit it.
+
+					MARTOK
+				(to Sisko, re:
+				Letant)
+			But this p'tagh would rather sit
+			home and count his dead.
+
+					LETANT 
+			If we invade Cardassia now, all 
+			we'll do is count our dead.
+
+	Sisko raises his arms in a conciliatory manner.
+
+					SISKO
+			Gentlemen, please. We're 
+			allies, remember that.
+
+					MARTOK 
+			What good is an ally that'll 
+			stab you in the back?
+
+	The Senator leans over to speak to another Romulan, 
+	but his voice is loud enough for everyone to hear.
+
+					LETANT
+				(re: Martok)
+			Notice the primitive rage in his 
+			eye... the uncontrolled 
+			brutality. Klingons can be 
+			quite entertaining, don't you 
+			agree? I think every Romulan 
+			zoo should have a pair.
+
+	Martok's anger flares as he reaches for his dagger, 
+	but Sisko's hand grabs his before he can unsheathe 
+	the weapon.
+
+					SISKO 
+			Sit down, general. Save your 
+			anger for the Dominion.
+
+	Martok glares at Sisko, but Worf stands on the other 
+	side of Martok and rests his hand on his shoulder, 
+	reassuringly. Martok takes a deep breath, regaining 
+	his composure. Glaring across the table at the 
+	Senator, who smiles contemptuously at him, Martok 
+	finally sits back in his chair.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      20.
+
+20   CONTINUED:	(2)
+
+					SISKO 
+			Senator -- you've studied our 
+			invasion plans...
+
+					LETANT 
+			I have. And I remain convinced 
+			they're premature. Let the 
+			Dominion continue to send their 
+			fleets against us. We will 
+			annihilate them one by one.
+
+					ROSS
+			And they'll continue to rebuild 
+			their ships and send more.
+
+					WORF
+			The Dominion breed Jem'Hadar 
+			faster than we can destroy them.
+
+					SISKO
+			The only way to achieve lasting 
+			victory is to demolish their 
+			shipyards, their weapon 
+			plants... to force them to 
+			retreat, deeper and deeper into 
+			their own territory until our 
+			ships surround their 
+			headquarters on Cardassia Prime 
+			and they have no choice but to 
+			surrender. I know it won't be 
+			easy... I know we'll pay a heavy 
+			price for every system we take 
+			from them. But, in the end, 
+			it's the only way to drive the 
+			Dominion out of the Alpha 
+			Quadrant. And that's a goal we 
+			all share. Klingons, Humans 
+			and Romulans.
+
+	Sisko stares at Letant, who eyes the captain 
+	thoughtfully. And off the Senator's enigmatic 
+	expression, we go to --
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      21.
+
+21   INT. QUARK'S
+
+	A glum-looking Odo sits beside an even glummer-
+	looking Bashir, while a glummest-looking Quark 
+	commiserates from across the bar.
+
+					ODO 
+			What am I going to do? Nerys 
+			hates me.
+
+					BASHIR
+			I envy you. At least hate is an 
+			emotion. All I get from Jadzia 
+			is indifference.
+
+					QUARK
+			Me, too.
+
+					ODO
+				(wistful) 
+			For one brief moment, I was the 
+			happiest man in the universe. 
+			Now... it's over. I'll never be 
+			happy again.
+
+
+					BASHIR 
+			I know what you mean.
+
+					QUARK 
+			Me, too.
+
+					ODO 
+			What am I going to do without 
+			her?
+
+					BASHIR
+				(still thinking of 
+				Dax) 
+			I wish I knew.
+
+					QUARK
+			Me, too.
+
+	With a sigh, Odo gets up from the stool.
+
+					ODO 
+			I guess there's nothing else to 
+			do but go back to work.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      22.
+
+21   CONTINUED: 
+
+					BASHIR 
+			Good idea.
+
+	And with that, Odo EXITS. Bashir and Quark watch 
+	him leave.
+
+					BASHIR
+			I think we cheered him up.
+
+					QUARK
+			Me, too.
+				(a beat) 
+			I wish there was someone to 
+			cheer us up.
+
+					BASHIR
+				(a sudden thought) 
+			I know just the person.
+
+	And as Quark looks over at Bashir, we go to --
+
+22   INT. HOLOSUITE - LAS VEGAS LOUNGE
+
+	where the inimitable VIC FONTAINE, with his BAND 
+	behind him, is SINGING that swinging tribute to one 
+	and all, "Here's to the Losers."
+
+23   NEW ANGLE
+
+	to REVEAL Bashir and Quark seated at the only table 
+	in the joint, listening forlornly. As the song 
+	ends, Bashir and Quark applaud halfheartedly.
+
+					BASHIR 
+			That was great, VIC.
+
+					VIC 
+			It's not exactly the most 
+			requested song in my repertoire, 
+			but I'm glad you liked it. So 
+			why the long face, pallie?
+
+					BASHIR 
+			It's a long story.
+
+					VIC 
+			This wouldn't be about Dax's 
+			baby, would it?
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      23.
+
+23   CONTINUED:
+
+					QUARK
+				(to Bashir) 
+			What is he, a telepath?
+
+					VIC 
+			No, I'm a hologram.
+
+					BASHIR
+			A very smart hologram.
+
+					VIC 
+			It's simple. You take one 
+			beautiful, happily married 
+			filly... add the possibility of 
+			her giving birth to a foal, and 
+			what does it leave you?
+				(not waiting for an
+				answer)
+			A couple of lovesick stallions
+			that never got out of the
+			starting gate.
+
+					QUARK
+				(to Bashir) 
+			You have any idea what he's 
+			talking about?
+
+					VIC 
+			I've got news for you two -- 
+			it's time to move onto greener 
+			pastures.
+
+					BASHIR 
+			It's not easy to lose a woman 
+			like Dax.
+
+					VIC 
+			I hate to break it to you, 
+			pallie, but you lost her a long 
+			time ago. You both did.
+
+	Vic allows the moment to sink in.
+
+      DEEP SPACE NINE: "'Tears of... " - REV. 04/28/98 - ACT TWO     24.
+
+23   CONTINUED:	(2)
+
+					VIC 
+			But lucky for you, space is big. 
+			There are a lot of other nice 
+			girls out there... with and 
+			without spots. Capice?
+
+	Bashir and Quark exchange a look.
+
+					QUARK 
+			That's it? That's supposed to 
+			cheer us up?
+
+					VIC 
+			The truth shall set you free.
+
+					QUARK
+				(to Bashir)
+			Do you feel better?
+
+					BASHIR
+				(surprised) 
+			A little. How about you?
+
+					QUARK 
+			I guess.
+
+	After a beat, they stand.
+
+					VIC 
+			Good. Because you were starting 
+			to depress the band.
+
+					BASHIR
+			Thanks, Vic. We appreciate the 
+			advice.
+
+					QUARK
+				(looking around the 
+				room) 
+			I like this place. I may have 
+			to drop by more often.
+
+					VIC
+			Anytime, pallie, anytime.
+
+	Bashir and Quark, their spirits lifted, EXIT. We 
+	HOLD ON Vic watching them leave.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      25.
+
+23   CONTINUED:	(3)
+
+					VIC
+				(to himself) 
+			Nice guys. But absolutely 
+			clueless.
+
+									CUT TO:
+
+24   INT. SISKO'S QUARTERS
+
+	Jake is seated across from his father at the dinner 
+	table, taking a first bite of jambalaya. Jake 
+	closes his eyes, savoring the flavors, then finally 
+	swallows.
+
+					SISKO 
+			What do you think?
+
+					JAKE
+				(smiling) 
+			I think the Romulans have agreed 
+			to invade Cardassia.
+
+
+					SISKO 
+			How'd you know?
+
+					JAKE 
+			The jambalaya's perfect.
+				(off Sisko's look) 
+			When you're frustrated about 
+			something you usually overcook 
+			the rice.
+
+					SISKO
+			You never told me that before.
+
+					JAKE 
+			I'm telling you now. So when do 
+			we leave?
+
+					SISKO 
+			We?
+
+					JAKE 
+			I'm a journalist, Dad. 
+			Remember?
+
+					SISKO
+			Forget it, Jake. You're not 
+			going.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      26.
+
+24   CONTINUED:
+
+					JAKE 
+			But, Dad -- we're talking about 
+			the invasion of Cardassia. A 
+			savage thrust into the very 
+			heart of the Dominion. 
+				(off Sisko's look) 
+			That's not how I would write it.
+
+					SISKO
+			That's a relief, but you're 
+			still not going.
+
+					JAKE
+			I have to go. It's my job. Now 
+			if you don't want me on the 
+			Defiant, fine. I'll go with 
+			General Martok -- get the story
+			from a Klingon perspective...
+
+	Sisko takes a deep breath; he knows there's no way 
+	he can stop Jake from going.
+
+					SISKO
+			All right. The Defiant it is.
+
+					JAKE 
+			So when do we leave?
+
+					SISKO
+			Just keep your bags packed.
+
+					JAKE 
+			Yes, sir.
+
+	Jake gets up and heads for the door.
+
+					SISKO
+			Where are you going?
+
+					JAKE
+			To pack my bags.
+
+					SISKO
+			Do I have to remind you about 
+			the need for strict security?
+
+					JAKE 
+			You just did.
+
+					SISKO
+			What about your dinner?
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO     26A.
+
+24   CONTINUED:	(2) 
+
+	Jake comes back and takes the plate with him.
+
+					JAKE
+			It's delicious.
+
+	Jake heads back to the door, taking a few bites.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      27.
+
+24   CONTINUED:	(3) 
+
+					SISKO
+			Jake.
+
+	Sisko catches up to his son. Puts his arm around 
+	him and gives him a bear hug.
+
+					JAKE
+			Don't worry, Dad. We'll look
+			out for each other. 
+
+	And with that, Jake smiles and EXITS.
+
+25   ANGLE ON SISKO (OPTICAL) 
+
+	thoughtfully watching his son leave. Once the doors 
+	have closed, Sisko turns away only to find himself --
+
+26   INT. OPS (OPTICAL) 
+
+	-- facing Worf. However, it clearly isn't Worf, but
+	rather a wormhole ALIEN.
+
+					WORF/ALIEN
+			The Sisko is of Bajor.
+
+27   INT. WARDROOM (OPTICAL)
+
+	where another wormhole ALIEN waits for him, this 
+	time in the guise of MARTOK ALIEN.
+
+					MARTOK/ALIEN
+			It is where he belongs.
+
+28   INT. CAPTAIN'S OFFICE (OPTICAL)
+
+	where an Admiral Ross ALIEN is seated at Sisko's 
+	desk.
+
+					ROSS/ALIEN
+			It is where he is meant to be.
+
+					SISKO
+			Are you telling me not to go to
+			Cardassia?
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT TWO      28.
+
+29   INT. HABITAT RING CORRIDOR (OPTICAL) 
+
+	Sisko again finds himself facing the Letant Alien.
+
+					LETANT/ALIEN 
+			You are the Sisko.
+
+30   INT. OPS (OPTICAL)
+
+	All four of the wormhole aliens are now present.
+
+					ROSS/ALIEN 
+			The Sisko is of Bajor.
+
+					MARTOK/ALIEN 
+			It is dangerous to walk a 
+			different path.
+
+					SISKO
+			Dangerous? In what way?
+
+					ROSS/ALIEN 
+			The Sisko must not leave the 
+			chosen path.
+
+					WORF/ALIEN 
+			The Sisko is of Bajor.
+
+					LETANT/ALIEN 
+			It is where he belongs.
+
+					SISKO 
+			But why is it dangerous for me 
+			to leave? Does it have 
+			something to do with Bajor? You 
+			have to tell me --
+
+	But the only answer Sisko gets is to find himself 
+	back in --
+
+31   INT. SISKO'S QUARTERS 
+
+	Alone. There's no sign of the wormhole aliens. And
+	on his disquieted expression, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "'Tears of... " - REV. 04/28/98 - ACT THREE    29.
+                           ACT THREE                            
+
+	FADE IN:
+
+32   EXT. SPACE - DEEP SPACE NINE (OPTICAL) 
+
+	Re-establishing. There are now many more Federation
+	and Klingon ships surrounding it. There are also
+	more Romulan ships.
+
+33   INT. WARDROOM
+
+	CLOSE ON a map of the Chin'toka System. The map 
+	displays a defensive grid of hundreds of O.W.P.s 
+	surrounding the system's binary planets.
+
+					ROSS (O.S.) 
+			The Cardassians call them 
+			orbital weapon platforms.
+
+	PULL BACK to REVEAL Ross explaining the display to 
+	Sisko, Martok and Letant. Clearly, Sisko has 
+	something weighing heavily on his mind.
+
+					ROSS 
+			Intelligence reports indicate 
+			that the Dominion is placing 
+			hundreds of them throughout the 
+			Chin'toka System.
+
+					SISKO 
+			Are they operational?
+
+					ROSS 
+			Not yet.
+
+					MARTOK 
+			How much time do we have before 
+			they are?
+
+					ROSS
+			Two, maybe three days.
+
+					LETANT 
+				(to Sisko) 
+			It would appear that your "weak 
+			spot" is about to get a lot 
+			stronger.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     30.
+
+33   CONTINUED:
+
+					MARTOK 
+			Leave it to a Romulan to run at 
+			the first sign of trouble.
+
+					LETANT 
+			And leave it to a Klingon to 
+			leap to the wrong conclusion.
+				(to Sisko) 
+			The Romulan Empire has agreed to 
+			join the invasion of Cardassia 
+			and we live up to our 
+			agreements. The question is: 
+			can we launch an invasion before 
+			their defensive grid is activated?
+
+					MARTOK 
+			We'll have to leave first thing 
+			in the morning.
+
+					ROSS
+			Then it's settled. Good luck, 
+			General.
+				(a beat) 
+			Good luck to us all.
+
+
+	Martok and Levant head for the door.
+
+					LETANT 
+			Romulans don't believe in luck.
+
+					MARTOK 
+			All the better. That leaves 
+			more for the rest of us.
+
+	They EXIT, but Sisko hangs back with Admiral Ross. 
+	Ross can see that something is on Sisko's mind.
+
+					ROSS 
+			You've been quiet, Ben. Those 
+			weapon platforms have you 
+			worried?
+
+					SISKO 
+			It's not that, sir.
+				(a beat)
+			It's about the Prophets -- the 
+			wormhole aliens. They spoke to 
+			me last night.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     31.
+
+33   CONTINUED:	(2)
+
+	This isn't a subject that Ross wants to see brought 
+	up at the moment. But he values Sisko enough to 
+	indulge him.
+
+					ROSS 
+			I hope they gave the mission 
+			their blessing.
+
+					SISKO
+			They told me not to go to 
+			Cardassia -- that I should stay 
+			here.
+
+					ROSS 
+			Did they give a reason?
+
+					SISKO
+			Nothing concrete. Just that it 
+			would be dangekous.
+
+	Ross begins to lose his patience with this.
+
+					ROSS 
+			In what way? Dangerous to you? 
+			To the mission? To Bajor?
+
+					SISKO
+			I'm not sure.
+
+					ROSS
+				(cutting to the
+				chase)
+			Then what are you telling me,
+			Ben? You want permission to
+			stay behind?
+
+					SISKO
+			It's not about what I want. 
+			It's about what the Prophets 
+			want.
+
+     DEEP SPACE NINE: ""Tears of... " - REV. 04/28/98 - ACT THREE    32.
+
+33   CONTINUED:	(3)
+
+					ROSS 
+			That's not a good enough answer. 
+			Not from a Starfleet captain.
+
+					SISKO
+			The Prophets don't see me as a 
+			Starfleet Captain -- they see me 
+			as their Emissary.
+
+					ROSS 
+			That's the problem, isn't it? 
+			For the past six years, you've 
+			tried to be both. And up to 
+			now, I've been patient... I've 
+			indulged you... I've gone out 
+			on a limb for you many times. 
+			But this is it. You have to 
+			make a decision. You're either 
+			the Emissary or a Starfleet 
+			captain -- you can't be both.
+
+	Ross takes a breath, allowing Sisko to come to a 
+	decision.
+
+					SISKO 
+			I'll be on the Bridge of the 
+			Defiant at oh-five hundred.
+
+					ROSS
+				(smiling)
+			Good.
+
+	And off this moment --
+
+									CUT TO:
+
+34   EXT. CARDASSIA PRIME (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     33.
+
+35   INT. DOMINION BRIEFING ROOM
+
+	A surly Damar is being confronted by a wrathful 
+	Weyoun.
+
+					DAMAR
+			A combined fleet at Deep Space Nine?
+
+					WEYOUN 
+			Composed of Federation, Klingon 
+			and Romulan ships!
+
+					DAMAR 
+			You think they'll head for the 
+			Chin'toka System?
+
+					WEYOUN 
+			I would.
+
+					DAMAR 
+			Then we have nothing to worry 
+			about. The Weapon Platforms 
+			will be operational in time to 
+			greet them.
+
+					WEYOUN 
+			That's a very comforting 
+			thought... if it's accurate.
+
+					DAMAR 
+			I'll make sure it is.
+
+					DUKAT (O.S.) 
+			Gentlemen --
+
+36   ANGLE ON THE DOOR 
+
+	to see Dukat and two N.D. Jem'Hadar Guards ENTER. 
+	Dukat carrys an ancient Bajoran box, about thirty 
+	centimeters long, and a satchel, strapped across his 
+	shoulder.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     34.
+
+36   CONTINUED:
+
+					DUKAT 
+			I hope I'm not interrupting.
+
+					WEYOUN
+			What is it now, Dukat?
+
+					DUKAT 
+			I found it.
+
+	Dukat shows them the box.
+
+					DUKAT 
+			Behold -- the key to victory.
+
+	Weyoun looks skeptically at Dukat, who proceeds to 
+	open the box. He takes out a wooden figurine of a 
+	Bajoran Vedek. Weyoun and Damar exchange a look, 
+	clearly unimpressed.
+
+					DUKAT 
+			I see you remain skeptical. You 
+			won't for long.
+
+	Dukat ceremoniously places the figurine in the 
+	center of a nearby table. From the satchel, he 
+	takes out a pair of Bajoran votive candies and 
+	lights them.
+
+					DUKAT 
+			Over the last few months, I've 
+			immersed myself in the study of 
+			the Bajoran Ancient Texts. And 
+			I've come to realize that the 
+			wormhole is much more than just 
+			a gateway to the Gamma Quadrant. 
+			It's the Temple of the Prophets. 
+			It's from there that they smile 
+			benevolently down on Bajor. 
+			It's from there that they 
+			protect that world and its 
+			people.
+				(to Damar) 
+			The sad truth is, we wasted our 
+			time fighting the Bajorans when 
+			we should've been fighting their 
+			gods.
+
+					DAMAR 
+			How do you fight a god?
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     35.
+
+36   CONTINUED:	(2)
+
+					DUKAT 
+				(smiling)
+			I'll show you. You see, we have 
+			an ally we never knew we had. 
+				(a beat) 
+			You may want to take a few steps back.
+
+	Dukat faces the figurine and begins to CHANT a 
+	Bajoran prayer.
+
+
+					DUKAT 
+			Dorrah tolka bretri pah'rahn, 
+			meedor. Dorrah tolka ullkess 
+			pah'rahn.
+
+37   CLOSE ON DUKAT (OPTICAL) 
+
+	as he takes the wooden figurine in both hands and 
+	SNAPS it in two. An ENERGY VORTEX comes swirling 
+	out of the bottom half of the statue and is absorbed 
+	into Dukat's body, throwing him back against the 
+	bulkhead.
+
+38   ANOTHER ANGLE
+
+	as Weyoun and Damar are taken aback. But after a 
+	beat, Damar recovers and rushes over to his old 
+	mentor.
+
+					DAMAR 
+			Dukat --
+
+39   ON DUKAT
+
+	as his eyes pop open, revealing the blood-red eyes 
+	of a Pah-wraith.
+
+					DUKAT/PAH-WRAITH 
+			Your concern is touching, but 
+			unnecessary.
+
+	And as Weyoun and Damar react to the change in 
+	Dukat, we go to --
+
+40   INT. SECURITY OFFICE 
+
+	Odo is working at his desk as Kira ENTERS. Whatever 
+	anger we saw earlier is completely gone.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     36.
+
+40   CONTINUED: 
+
+					KIRA 
+			Busy?
+
+	Odo isn't sure how to respond; he's not sure why 
+	Kira is there -- unless she's come to give him 
+	another piece of her mind.
+
+					ODO 
+			A little.
+
+	Kira walks over to his side of the desk and leans 
+	over him.
+
+					KIRA 
+			I'll be leaving with the task 
+			force first thing in the 
+			morning.
+
+					ODO
+			I heard.
+
+					KIRA
+				(smiling)
+			And... ?
+
+	Kira waits for Odo to say something. Odo 
+	misunderstands what she wants.
+
+					ODO
+				(agitated) 
+			And I'm sorry I arrested him. I 
+			was simply trying to do my duty, 
+			but I can see how it might've 
+			seemed excessive...
+
+					KIRA
+				(truly confused) 
+			What are you talking about?
+
+					ODO
+			Vedek Solis. Isn't that why
+			you're here?
+
+					KIRA 
+			No, but now I know why you've 
+			been avoiding me these last few 
+			days.
+
+					ODO
+			I haven't been avoiding you. 
+			I've been helping you avoid me.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     37.
+
+40   CONTINUED:	(2)
+
+					KIRA 
+			Why would I want to do that?
+
+					ODO
+				(tentative) 
+			Because... you don't want us to 
+			be together anymore?
+
+	The coin drops for Kira.
+
+					KIRA 
+			Is that what you've been 
+			thinking? Odo -- we had an 
+			argument. People have them all 
+			the time. Look at Worf and Dax -- 
+			they love each other and they 
+			fight all the time.
+
+					ODO
+			Are you saying you love me?
+
+					KIRA
+			Don't try to change the subject.
+
+					ODO
+			Which is?
+
+					KIRA 
+				(smiling) 
+			I don't even know anymore.
+
+					ODO
+			But you're no longer angry at 
+			me?
+
+					KIRA
+			That's right. Though I still 
+			think you were wrong to arrest 
+			the Vedek.
+
+	Odo doesn't quite follow her logic.
+
+					ODO
+			I see.
+
+					KIRA 
+			And I thought it'd be nice if we 
+			spent my last night on the 
+			station together.
+
+					ODO
+			That's a wonderful idea.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     38.
+
+40   CONTINUED:	(3)
+
+					KIRA
+			Then I'll see you later.
+
+					ODO
+			I look forward to it.
+
+					KIRA 
+			Good.
+
+	She kisses him.
+
+					ODO 
+			You know, Nerys, observing 
+			humanoid relationships and being 
+			in one are very different 
+			things.
+
+	And as they exchange a warm smile of understanding --
+
+41   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+42   INT. AIRLOCK CORRIDOR 
+
+	Sisko, Kira, Dax, Worf, O'Brien and Jake walk toward 
+	the airlock. O'Brien is drinking a cup of 
+	raktajino.
+
+					O'BRIEN 
+			If you ask me, it's an ungodly 
+			hour to go to war. 
+				(to Jake) 
+			And you can quote me on that.
+
+					JAKE 
+			I will.
+
+	O'Brien looks over to Dax.
+
+					O'BRIEN 
+			Do me a favor, Jadzia. Look in 
+			on Keiko and the kids while I'm 
+			gone.
+
+  DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     39    
+
+42   CONTINUED:
+
+					DAX
+			You can count on it.
+
+					O'BRIEN
+			And make sure Julian stays out
+			of trouble.
+
+					DAX
+				(smiling)
+			Now you're pushing...
+
+	They reach the airlock.
+
+					SISKO
+				(to Dax)
+			It's your station, old man.
+
+					DAX
+			I'll take good care of her.
+
+	Sisko, O'Brien and Jake enter the airlock. Kira 
+	stops in front of Dax.
+
+					DAX
+			Give my best to the Jem'Hadar.
+
+					KIRA
+			I'll do that.
+				(looking to Worf and
+				Dax)
+			I said a prayer for the two of
+			you at the shrine last night.
+
+					DAX
+			About having a baby?
+
+					KIRA
+				(nodding)
+			Sometimes the Prophets can be
+			helpful in these matters.
+
+					DAX
+			I hope they were listening.
+
+	Kira moves off into the airlock. As soon as she's 
+	gone, Dax leans over and kisses Worf.
+
+					DAX 
+			You hear that? We have the 
+			Prophets on our side.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     40.
+
+42   CONTINUED:	(2)
+
+
+					WORF
+			According to Doctor Bashir, we 
+			could use all the help we can 
+			get.
+
+					DAX
+			Just remember, when you get 
+			back, we have a lot of "work" to 
+			do.
+
+					WORF 
+			I do not consider that "work."
+
+	The moment has come for them to part.
+
+					DAX 
+			I wish I was going with you.
+
+					WORF 
+			You are.
+				(tapping his chest) 
+			In here.
+
+					DAX 
+			I love it when you get romantic.
+
+	Worf takes her in his arms and kisses her 
+	passionately, then follows the others into the 
+	airlock. We HOLD ON Dax for a beat -- she misses 
+	them already.
+
+43   INT. DEFIANT - BRIDGE
+
+	As Sisko, Kira, Worf and O'Brien take their 
+	stations. NOG is seated at the helm. Garak is at 
+	one of the side stations. Jake takes a seat at the 
+	back table.
+
+					O'BRIEN
+				(to Garak)
+			You got here early.
+
+					GARAK 
+			This is a momentous occasion. 
+			It's not every day I embark on a 
+			journey to liberate my 
+			homeworld.
+
+					O'BRIEN
+			That's one way to put it.
+
+     DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT THREE     41.
+
+43   CONTINUED:
+
+					MARTOK'S COM VOICE 
+			This is General Martok to all 
+			ships. Assume tactical 
+			formation, we're moving out.
+
+					SISKO
+			Take us to Cardassia, Mister Nog.
+
+					NOG 
+			Aye, sir.
+
+	As Nog works his console, we HOLD ON a grim and 
+	thoughtful Sisko.
+
+44   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Defiant and the rest of the invasion task force 
+	move away from the station. It's a massive and 
+	impressive collection of Federation, Klingon and 
+	Romulan vessels. And as they head off toward 
+	Cardassia, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     42.
+                           ACT FOUR                             
+
+	FADE IN:
+
+45   INT. DOMINION BRIEFING ROOM 
+
+	Weyoun and Damar are looking over a map of the 
+	Cardassian border. There are markers indicating the 
+	approaching invasion force, as well as markers 
+	indicating the defensive grid.
+
+					DAMAR 
+			The enemy fleet is approaching 
+			the Chin'toka System.
+
+					WEYOUN
+			What's the status of our weapon 
+			platforms?
+
+					DAMAR 
+			Still off-line.
+
+					WEYOUN
+				(alarmed) 
+			It pains me to say this, but you 
+			Cardassians are proving to be 
+			quite a disappointment.
+
+					DAMAR
+				(surprisingly
+				confident)
+			I'll remind you you said that.
+
+46   EXT. SPACE (OPTICAL)
+
+	The invasion task force -- divided into three wings
+	of Federation, Klingon and Romulan squadrons --
+	approaches the first few Orbital Weapon Platforms
+	that form the outer rim of the defensive grid
+	protecting the binary planets. The Weapon Platforms
+	are silent, dark and ominous.
+
+47   INT. DEFIANT - BRIDGE .
+
+	Sisko and the others are at their battle stations.
+
+					O'BRIEN 
+			Looks like we're in luck, 
+			captain. The defensive grid's 
+			still off-line.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     43.
+
+47   CONTINUED:
+
+					KIRA 
+			Jem'Hadar fighters approaching, 
+			bearing zero-five-nine mark zero-
+			three-one.
+
+					NOG 
+			They must know they don't stand 
+			a chance against a fleet this 
+			size.
+
+					WORF 
+			That won't matter to the 
+			Jem'Hadar.
+
+	Jake has gotten out of his seat to get a better view 
+	of the action. Without even realizing it, he's 
+	moved up next to his father's chair.
+
+					SISKO 
+			Sit down, Jake.
+
+					JAKE 
+			Right.
+
+	Jake goes back to his seat.
+
+					MARTOK'S COM VOICE 
+			Martok to Sisko.
+
+					SISKO
+			Go ahead.
+
+					MARTOK'S COM VOICE 
+			My attack wing is closest to 
+			those Jem'Hadar fighters. We're 
+			preparing to engage them.
+
+					SISKO 
+			Good luck, general.
+
+48   EXT. SPACE (OPTICAL)
+
+	Klingon ships break formation to intercept the 
+	Jem'Hadar fighters.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     44.
+
+48   CONTINUED:
+
+	The two sides exchange fire, but the Dominion 
+	strategy is soon apparent: the Jem'Hadar fighters 
+	fly directly at the Klingon ships, slamming into 
+	them. Two or three Jem'Hadar ships crash into 
+	larger Klingon birds of prey and cruisers, disabling 
+	a few and destroying others.
+
+49   INT. DEFIANT - BRIDGE
+
+	as Sisko and the others watch the battle.
+
+					NOG 
+			I always knew the Jem'Hadar were 
+			crazy.
+
+					GARAK
+			There's method to their madness. 
+			They're inflicting considerable 
+			damage on the Klingons.
+
+					WORF 
+			And buying time to get their 
+			Weapon Platforms operational.
+
+50   ANGLE ON SISKO
+
+					SISKO 
+				(to com) 
+			Sisko to Martok.
+
+					MARTOK'S COM VOICE 
+			The Jem'Hadar have managed to 
+			cripple or destroy fifteen of my 
+			ships.
+
+					SISKO 
+			Do you need assistance?
+
+					MARTOK'S COM VOICE 
+			No, that won't be necessary. 
+			Commence firing on the Weapon 
+			Platforms.
+
+     DEEP SPACE NINE: ""Tears of... " - REV. 04/28/98 - ACT FOUR     45.
+
+51   EXT. SPACE (OPTICAL) 
+
+	The Federation and Romulan attack wings open FIRE on 
+	the Weapon Platforms. Several of the platforms are 
+	destroyed.
+
+52   ANOTHER ANGLE (OPTICAL)
+
+	The invasion force moves deeper into the defensive 
+	grid, heading toward their goal: the binary planets 
+	of the Chin'toka System.
+
+	Suddenly, and all at once, the defensive grid goes 
+	on-line -- the Weapon Platforms spring to life and 
+	let loose a massive barrage of FIREPOWER against the 
+	task force. Several Federation and Romulan ships 
+	are destroyed.
+
+53   INT. DOMINION BRIEFING ROOM (OPTICAL)
+
+	Weyoun and Damar are looking at the wall monitor, 
+	which displays a representation of the ongoing battle.
+
+					DAMAR 
+			I believe you owe me an apology.
+
+					WEYOUN
+				(in a much better 
+				mood) 
+			I believe you're right.
+
+					DAMAR 
+			Now if Dukat can get our 
+			reinforcements through the 
+			wormhole...
+
+					WEYOUN 
+			I'm not sure how much faith I 
+			have in this -- what did he call 
+			it?
+
+					DAMAR 
+			A Pah-wraith.
+
+					WEYOUN 
+			Pah-wraiths and Prophets. All 
+			this talk of gods strikes me as 
+			nothing more than superstitious 
+			nonsense.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR    45A.
+
+53   CONTINUED:
+
+					DAMAR
+			You believe that the Founders
+			are gods, don't you?
+
+					WEYOUN
+			That's different.
+
+					DAMAR
+			In what way?
+
+					WEYOON
+			The Founders are gods.
+
+	And with that, we go to --
+
+54   EXT. SPACE (OPTICAL)
+
+	The task force FIRES back at the Weapon Platforms, 
+	but they fail to penetrate the platform's shields.
+
+55   INT. DEFIANT - BRIDGE
+
+	as it's ROCKED by enemy fire.
+
+					WORF
+			We're unable to penetrate their
+			forcefields.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     46.
+
+55   CONTINUED:
+
+					SISKO
+			Chief -- isolate their lower 
+			frequency shield harmonics. 
+			Find a way to punch through.
+
+					O'BRIEN 
+			Their resonance modulations are 
+			fluctuating at an exponential 
+			rate. It'll take time to find a 
+			pattern we can lock onto.
+
+	The ship is ROCKED again.
+
+					SISKO 
+			We don't have time.
+
+					GARAK
+				(off his console) 
+			Captain, I just noticed 
+			something odd about those 
+			platforms.
+
+					SISKO
+			Don't keep it to yourself, 
+			Mister Garak.
+
+					GARAK 
+			None of them seem to have a 
+			power generator on board.
+
+					O'BRIEN
+				(off his console) 
+			He's right. Each one must be 
+			getting its power from a central 
+			source.
+
+					KIRA
+			We've got to find that source 
+			and destroy it.
+
+	The ship SHAKES from another hit.
+
+					SISKO
+			Chief --
+
+					O'BRIEN 
+			I'm on it.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     47.
+
+55   CONTINUED:	(2) 
+
+	And as O'Brien works his console --
+
+									CUT TO:
+
+56   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+57   INT. PROMENADE - SECOND LEVEL
+
+	Dax and Bashir are walking down the corridor.
+
+					BASHIR 
+			According to the DNA scans I 
+			took this morning, the ovarian 
+			resequencing enzymes I've given 
+			you are working.
+
+					DAX
+			You mean Worf and I can have a 
+			baby?
+
+					BASHIR
+			It looks that way. 
+				(a beat) 
+			I have to say, I didn't expect 
+			such positive results so 
+			quickly. It's quite amazing, 
+			actually.
+
+	Dax can't hide her joy at the news. Dax impetuously 
+	throws her arms around Bashir and gives him a warm 
+	hug. Bashir is a little taken back, but he returns 
+	the embrace.
+
+					DAX
+			Thank you, Julian.
+
+					BASHIR 
+			It's all part of being a doctor.
+
+	Dax steps back from the embrace but continues 
+	holding Bashir by the arms.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     48.
+
+57   CONTINUED:
+
+					DAX 
+			No, it's more than that. You're 
+			a good friend. You always have 
+			been.
+
+					BASHIR
+				(with genuine 
+				gallantry) 
+			And I always will be.
+
+	The warm moment hangs in the air for a beat, then 
+	Dax nods, acknowledging Bashir's statement.
+
+					DAX 
+			I'd better get back to work...
+				(a beat, smiling) 
+			But first, I think I'll stop by 
+			the Bajoran shrine.
+
+					BASHIR 
+			What for?
+
+					DAX
+				(with a twinkle) 
+			Kira said a prayer for Worf and 
+			me last night. She told the 
+			Prophets how much we wanted a 
+			baby.
+
+					BASHIR 
+			Then I'd say they were listening
+			-- that is, if you believe in 
+			Prophets.
+
+					DAX
+			I do today.
+
+	And with that she EXITS. We HOLD ON Bashir, 
+	watching her leave. Whatever melancholic feelings 
+	he might have, they're more than offset by his 
+	happiness for his friend.
+
+58   INT. BAJORAN SHRINE
+
+	Alone, Dax stands in front of the altar, looking at 
+	the orb ark. She places a votive candle in a 
+	torchier.
+
+					DAX 
+			I'm not sure if I'm doing this 
+			correctly... I don't come here a 
+			lot.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     49.
+
+58   CONTINUED:
+
+					DAX (Cont'd)
+			To be honest, I'm more
+			comfortable thinking of you as
+			wormhole aliens. But Kira
+			believes you're a lot more than
+			that...
+				(a beat) 
+			Maybe she's right, I don't know. 
+			But if you are prophets, and 
+			you're listening to me right 
+			now... I just want to say --
+
+	But before Dax can complete her thought, she hears a
+	SOUND off screen. She turns to see --
+
+59   NEW ANGLE (OPTICAL) 
+
+	the Dukat/Pah-wraith MATERIALIZES near her, his eyes 
+	burning red. The moment he appears, the candles on 
+	the altar are extinguished by a GUST of wind.
+
+					DAX
+			Dukat?
+
+	Dax reaches for her phaser, but the Dukat/Pah-wraith 
+	stretches out his hand. Instantly, RED ARCS dance 
+	throughout her body and she begins convulsing.
+
+60   ON DUKAT/PAH-WRAITH
+
+	as he raises his arm.
+
+61   ON DAX (OPTICAL)
+
+	being lifted off the ground -- the RED ARCS getting 
+	brighter and more intense, her convulsing more 
+	violent.
+
+	Dax hangs suspended in the air for several seconds, 
+	the life literally being drained out of her.
+
+62   NEW ANGLE
+
+	as Dax's lifeless body suddenly SLAMS against the 
+	floor.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     50.
+
+63   ANGLE ON THE DUKAT/PAH-WRAITH 
+
+	with barely a glance at Dax's body, he approaches 
+	the altar and opens the orb ark.
+
+64   CLOSER (OPTICAL) 
+
+	as the ORB LIGHT envelops the Dukat/Pah-wraith, he 
+	throws back his head, opens his mouth and the ENERGY 
+	VORTEX bursts out of Dukat's body and pierces the 
+	orb itself.
+
+	Almost immediately, the orb light BRIGHTENS in 
+	intensity and then, just as suddenly, goes dark... 
+	lifeless.
+
+65   ANOTHER ANGLE 
+
+	Dukat, free of the Pah-wraith, collapses to his 
+	knees. Dukat looks exhausted, overwhelmed. After a 
+	few deep breaths, he collects himself and a small, 
+	victorious smile breaks across his face.
+
+65A  EXT. SPACE - WORMHOLE (OPTICAL)
+
+	as it OPENS and IMPLODES SPECTACULARLY.
+
+									HARD CUT TO:
+
+65B  INT. DEFIANT - BRIDGE
+
+	to see Sisko suddenly stagger back and steady 
+	himself on the railing surrounding the Captain's 
+	Chair. (Note: Though the ship is under attack, it 
+	should be clear that what Sisko is feeling is not
+	connected to the battle.) Kira and Jake hurry over 
+	to his father.
+
+					KIRA
+			Captain --
+
+					JAKE
+			Dad, what is it?
+
+	Kira and Jake help Sisko into the Captain's chair. 
+	Sisko looks shaken. The ship is ROCKED as it takes 
+	a hit.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FOUR     51.
+
+65B  CONTINUED:
+
+					SISKO 
+			I'm not sure... I think I felt 
+			the Prophets reaching out to me.
+				(concerned)
+			Something's wrong...
+
+	The ship takes another HIT. Sisko seems 
+	disoriented, lost.
+
+					O'BRIEN
+				(to Sisko) 
+			Sir, I found it. There's a 
+			subspace power generator on a 
+			small moon orbiting the far 
+			planet. It's transmitting 
+			energy to the weapon platforms.
+
+	But Sisko, still disturbed by what he felt, seems 
+	unable to focus on it.
+
+					O'BRIEN
+			Captain?
+
+	Kira sees that Sisko is in no shape to give orders.
+
+					KIRA
+			Take us there, Mister Nog.
+
+					NOG 
+			Aye, sir.
+
+					KIRA
+				(to Jake, re: Sisko) 
+			You better get him to his 
+			quarters.
+
+	Jake leads an unresisting Sisko off the Bridge. 
+	Before he goes, Sisko and Kira exchange a grim look.
+
+					KIRA 
+			Don't worry, captain. We'll get 
+			the job done.
+
+	Jake and Sisko EXIT.
+
+									CUT TO:
+
+65C  INT. BAJORAN SHRINE
+
+	as Dukat gets to his feet and looks over at Dax's 
+	corpse. His victorious smile fades a bit.
+
+     DEEP SPACE NINE: ""Tears of... " - REV. 04/28/98 - ACT FOUR     52.
+
+65C   CONTINUED:
+
+					DUKAT 
+			I know this must be of little 
+			comfort, but I never intended 
+			you any harm.
+
+66   NEW ANGLE
+
+	as a MONK comes out from the adjoining room, 
+	startled by the tableau that greets him. Upon 
+	seeing the Monk, Dukat taps a Dominion transporter 
+	device on his forearm and DEMATERIALIZES.
+
+	We HOLD ON the Monk who hurries over to Dax's body. 
+	And on that disturbing image, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     53.
+                           ACT FIVE                             
+
+	FADE IN:
+
+67   EXT. SPACE (OPTICAL)
+
+	The battle continues. The invasion task force 
+	continues to lose more and more ships in the barrage 
+	coming from the Orbital Weapon Platforms.
+
+68   EXT. SPACE (OPTICAL)
+
+	Dodging heavy FIRE, the Defiant approaches an 
+	asteroid-sized moon.
+
+69   INT. DEFIANT - BRIDGE
+
+	The ship rocks as it takes a heavy pounding from the 
+	enemy fire.
+
+			NOG
+
+	Approaching the target.
+
+					KIRA
+			On screen.
+
+70   ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	On the moon, we can see various structures, conduits 
+	and transmitters that form the power generator 
+	supplying the weapon platforms. The asteroid itself 
+	is protected by several weapon platforms, which open 
+	FIRE on the Defiant.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE    53A.
+
+71   RESUME
+
+	The ship ROCKS VIOLENTLY as it absorbs another hit.
+
+					WORF
+			Target locked.
+
+					KIRA
+			Fire.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     54.
+
+72   EXT. SPACE (OPTICAL) 
+
+	The Defiant FIRES upon the moon, but the phaser bolt 
+	dissipates as it strikes the forcefield surrounding 
+	the moon.
+
+73   RESUME
+
+					WORF
+			We can't penetrate the moon's 
+			defense grid.
+
+	The ship SHAKES again.
+
+					O'BRIEN 
+			Sir, I have an idea.
+
+					KIRA
+			Go ahead.
+
+					O'BRIEN 
+			Maybe we can't destroy that 
+			power generator, but I'd bet 
+			those Weapon Platforms could.
+
+					KIRA
+			Why would they fire on their own 
+			power source?
+
+					GARAK
+				(catching on) 
+			We'd have to fool the platforms' 
+			targeting systems into thinking 
+			the generator is an enemy ship.
+
+					O'BRIEN 
+			We can use our deflector array 
+			to imprint a Federation warp 
+			signature on the generator's 
+			energy matrix.
+
+					WORF 
+			It's worth a try.
+
+	After a beat, Kira nods to O'Brien and Garak, who 
+	immediately begin working their consoles as the ship 
+	takes another VIOLENT HIT.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     55.
+
+73   CONTINUED: 
+
+					KIRA 
+			Evasive maneuvers, Mister Nog. 
+			Pattern Theta.
+
+74   EXT. SPACE (OPTICAL)
+
+	The Defiant skirts and dodges through enemy FIRE.
+
+75   INT. DEFIANT - BRIDGE
+
+	The ship takes ANOTHER VIOLENT HIT as O'Brien 
+	finishes his preparations.
+
+					O'BRIEN 
+			Induction stabilizers set. 
+			Booster modulators synchronized. 
+			Ready to activate the deflector.
+
+					KIRA
+			Do it.
+
+	O'Brien taps his console
+
+76   EXT. SPACE (OPTICAL)
+
+	The Weapon Platforms surrounding the moon continue 
+	to FIRE at the Defiant. Suddenly, the platforms 
+	redirect their FIRE at the moon. It's an intense 
+	concentration of firepower from all the platforms, 
+	and after a few seconds, the moon EXPLODES into a 
+	giant FIREBALL.
+
+77   INT. DEFIANT - BRIDGE
+
+	To see the crew exuberantly react to the explosion.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     56.
+
+78   EXT. SPACE (OPTICAL) 
+
+	Cut off from their power supply, all the Orbital 
+	Weapon Platforms stop firing and go dark.
+
+79   INT. DEFIANT - BRIDGE (CONTINUOUS)
+
+					MARTOK'S COM VOICE 
+			Martok to the Defiant.
+
+					KIRA
+			Go ahead, General.
+
+					MARTOK'S COM VOICE 
+			Well done, major. We'll begin 
+			transporting ground troops to 
+			both planets immediately.
+
+	But the jubilation is short-lived:
+
+					O'BRIEN 
+			Major, we're getting a priority-
+			one transmission from Deep Space 
+			Nine.
+				(a beat)
+			It's from Julian.
+
+80   CLOSE ON KIRA
+
+	to see her growing concern -- something tells her 
+	the news isn't going to be good. And off this 
+	moment, we go to --
+
+81   INT. DOMINION BRIEFING ROOM (OPTICAL) 
+
+	Weyoun and Damar are talking to the image of Dukat, 
+	on a monitor. Dukat is on the Federation shuttle he 
+	stole in "Waltz."
+
+					WEYOUN
+				(angry)
+			This is a disaster! Federation
+			soldiers have landed on
+			Cardassian soil. And now you're
+			telling me the wormhole is gone!
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     57.
+
+81   CONTINUED:
+
+					WEYOUN (Cont'd)
+			And with it any chance of our
+			getting reinforcements from the
+			Gamma Quadrant.
+
+					DUKAT 
+			I'm well aware that things 
+			didn't turn out quite the way 
+			I'd planned, but I assure you 
+			we've still achieved a great 
+			victory.
+
+					WEYOUN 
+			Forgive me if I don't share your 
+			euphoria.
+
+					DUKAT 
+			But you should. The Bajoran 
+			people have been cut off from 
+			their gods... perhaps forever.
+
+					DAMAR 
+			And how does that help us?
+
+					DUKAT 
+			Because Sisko's been cut off 
+			from the Prophets as well. And 
+			without the Prophets, he's just 
+			another Starfleet captain.
+
+					WEYOUN 
+			And that's supposed to make me 
+			feel better?
+
+					DUKAT 
+			Believe me, it will.
+
+	And as Weyoun and Damar ponder Dukat's words --
+
+									CUT TO:
+
+82   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Defiant approaches the station.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     58.
+
+83   INT. PROMENADE
+
+	Worf and O'Brien grimly emerge from the airlock and 
+	make a beeline for the Infirmary. Moments later, 
+	they're followed by Sisko, Kira and Jake. Sisko 
+	looks drawn, strained, as if a great burden weighs 
+	heavily on his shoulders. The Promenade is filled 
+	with solemn-looking Bajorans, most of whom are 
+	gathered around the shrine. Upon seeing Sisko, 
+	Sahgi, the Bajoran girl we saw earlier, rushes up to 
+	him. Sisko, Jake and Kira stop, while Worf and 
+	O'Brien continue into the Infirmary.
+
+					SAHGI 
+			Emissary! My mother says all 
+			the orbs are dark -- that the 
+			Prophets have abandoned us.
+				(not waiting for a 
+				response) 
+			You have to find them, Emissary. 
+			You have to ask them to come 
+			back.
+
+	Sisko doesn't know how to answer her.
+
+					SISKO 
+			I'll try.
+
+	Satisfied, Sahgi runs back to her mother. Kira 
+	manages to smile at the Emissary, though she is 
+	clearly shaken by the loss of the Prophets. Sisko, 
+	Jake and Kira head off toward the Infirmary --
+
+84   INT. INFIRMARY 
+
+	Sisko and Kira ENTER to find O'Brien with Odo and 
+	Quark, waiting silently for word of Dax's condition.
+
+	Looks are exchanged, but nothing's said. Nothing
+	needs to be said. After a beat, Bashir emerges from 
+	surgery. One look tells us all we need to know.
+
+					BASHIR
+				(to Sisko)
+			I was able to save the Dax 
+			symbiont, but we need to get it 
+			back to Trill as soon as 
+			possible.
+				(a beat) 
+			There was nothing I could do for 
+			Jadzia.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE    58A.
+
+84   CONTINUED:
+
+	Bashir can see that Sisko isn't himself.
+
+					BASHIR (Cont'd)
+			Are you all right, Captain?
+
+					SISKO
+			I've been better...
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     59.
+
+85   INT. SURGERY 
+
+	Sisko ENTERS to see Worf standing by a bio-bed where 
+	Jadzia clings to life.
+
+85A  CLOSE ON WORF AND DAX
+
+	sharing this final moment.
+
+					DAX
+			I'm sorry...
+
+					WORF
+			Save your strength.
+
+	But Dax is determined to say something to him.
+
+					DAX 
+			Our baby... would've been so 
+			beautiful.
+
+	And with that, Dax exhales her last breath and dies. 
+	Worf immediately lets out a bloodcurdling SCREAM of 
+	pain and rage.
+
+85B  ON SISKO
+
+	as he and Worf exchange a long look of sorrow. 
+	Worf looks back at Jadzia's body and begins to 
+	recite a Klingon mourning CHANT:
+
+					WORF
+			neH taH Kronos. Hegh bat'lhqu 
+			Hoch nej maH. neH taH Kronos. 
+			yay je bat'lh manob Hegh.
+			(Only Kronos endures. All we 
+			can hope for is a glorious 
+			death. Only Kronos endures. In 
+			death there is victory and 
+			honor.)
+
+	And off this charged moment, we:
+
+									DISSOLVE TO:
+
+86   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE    59A.
+
+87   INT. CARGO BAY 
+
+	A long, sleek, jet-black coffin containing Jadzia's 
+	body sits in the middle of the otherwise-empty Cargo 
+	Bay. One of the Cargo Bay doors OPENS and Sisko 
+	ENTERS. It's the next day and Sisko's grief is not 
+	as raw anymore. He walks over to the casket and 
+	stares down at it for a moment. When he speaks, 
+	it's with gentle affection that covers a deep and 
+	profound regret.
+
+					SISKO 
+			The funeral service is due to 
+			begin in a few minutes, 
+			Jadzia... but I need to talk to 
+			you one last time.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     60.
+
+87   CONTINUED:
+
+	Sisko pauses to collect his thoughts.
+
+					SISKO 
+			When I first met you, you said 
+			that my relationship with Jadzia 
+			Dax wouldn't be any different 
+			than the one I had with Curzon 
+			Dax. But that's not the way 
+			things worked out. I had a 
+			helluva lot of fun with both of 
+			you. But Curzon was my mentor. 
+			You... you were my friend. And 
+			I'm going to miss you.
+				(a beat) 
+			I should've listened to the Prophets 
+			and not gone to Cardassia... maybe 
+			then you'd still be alive.
+				(a sudden flash of anger) 
+			Why aren't you here, Jadzia? I 
+			need you to help me sort things 
+			out. Something's happened to 
+			the Prophets... something that's 
+			made them turn their backs on 
+			Bajor, and I'm responsible. But 
+			I don't know what to do about 
+			it. How to make it right.
+				(a beat) 
+			I've failed as the Emissary and, 
+			for the first time in my life, 
+			I've failed in my duty as a 
+			Starfleet officer.
+				(a beat) 
+			I need time to think... clear my 
+			head. And I can't do it here. 
+			Not on the station. Not now. I 
+			have to get away... so I can 
+			figure out a way to make things 
+			right again.
+				(a beat) 
+			I have to make things right, 
+			Jadzia. I have to.
+
+	And off this anguished moment --
+
+									CUT TO:
+
+88   INT. OPS
+
+	Kira, Odo, O'Brien, Bashir and Jake are gathered by 
+	the stairs. The door to the captain's office OPENS 
+	allowing Sisko, carrying a shoulder bag, to come 
+	down the steps.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     61.
+
+88   CONTINUED:
+
+					SISKO
+			The station's all yours, major.
+
+					KIRA
+			She'll be here when you get
+			back.
+
+					BASHIR
+			Sir, this leave of absence
+			you're taking... how long do you
+			think you'll be gone?
+
+					SISKO
+			I can't say exactly.
+
+					ODO
+			We'll be waiting.
+
+					O'BRIEN
+			Best of luck, sir.
+
+					SISKO
+			Thank you, Chief. My thanks to
+			all of you.
+
+	Sisko walks over to Jake.
+
+					SISKO
+			Let's go home, Jake.
+
+89   NEW ANGLE
+
+	as Sisko and Jake ENTER the Turbolift.
+
+					SISKO
+			Landing Pad "C."
+
+	And with that, the Turbolift descends. HOLD ON the 
+	faces of the group as they watch Sisko and Jake 
+	disappear out of sight.
+
+90   ANGLE ON KIRA
+
+	as she turns and walks to the captain's office. 
+	Curious, Odo follows after her.
+
+91   INT. CAPTAIN'S OFFICE
+
+	Kira and Odo ENTER and step over to the desk.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     62.
+
+91   CONTINUED:
+
+					KIRA 
+			I was afraid of that. He's not 
+			sure he's coming back.
+
+					ODO
+			What makes you say that?
+
+92   NEW ANGLE
+
+	to include Sisko's empty desk.
+
+					KIRA 
+			His baseball. He took it with 
+			him.
+
+93   EXT. SPACE - DEEP SPACE NINE (OPTICAL) 
+
+	To see a shuttle take off from the station and begin 
+	the long journey to Earth.
+
+									DISSOLVE TO:
+
+94   EXT. NEW ORLEANS - BACK ALLEY - NIGHT 
+
+	A warm, Louisiana evening. CAMERA SLOWLY DRIFTS 
+	down the dark, empty alley. As we move, we begin to 
+	HEAR the faint, rollicking SOUNDS of a New Orleans 
+	JAZZ BAND coming from inside one of the buildings.
+
+	As we continue to move, we begin to distinguish a 
+	new sound: an intermittent CLANG of something 
+	hitting a metal bowl.
+
+	CAMERA COMES TO REST on Ben Sisko, dressed in a 
+	cook's white T-shirt and pants, sitting on the back 
+	steps of his father's restaurant, scrubbing the 
+	shells of fresh clams and tossing them into a large, 
+	metal bowl.
+
+	Sisko seems calm and at peace, lulled by the simple, 
+	repetitive actions of preparing the food.
+
+					JAKE (O.S.)
+			Dad...
+
+95   NEW ANGLE
+
+	to include Jake standing at the doorway.
+
+      DEEP SPACE NINE: "Tears of... " - REV. 04/28/98 - ACT FIVE     63.
+
+95   CONTINUED:
+
+					JAKE 
+			Grandpa's ready to close up the 
+			restaurant. He wants to know 
+			when you're coming in.
+
+					SISKO
+			In a little while...
+
+	Jake nods and goes back inside. We HOLD ON Sisko as 
+	he reaches for another clam and begins to scrub it 
+	clean. And on that image, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             

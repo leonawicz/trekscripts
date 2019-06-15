@@ -1,0 +1,3460 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                     "Shadows and Symbols" 
+                          #40510-552 
+                              
+                          Written by 
+                Ira Steven Behr & Hans Beimler 
+                              
+                          Directed by 
+                         Allan Kroeker 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+ WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         July 15, 1998
+
+     STAR TREK: DS9 - "Shadows and... " - 07/15/98 - CAST 
+
+                  STAR TREK:  DEEP SPACE NINE
+                     "Shadows and Symbols" 
+                             CAST 
+
+          SISKO/BENNY              WEYOUN
+          KIRA                     JOSEPH
+          ODO                      DAMAR/WYKOFF
+          BASHIR                   CRETAK
+          O'BRIEN                  MARTOK
+          WORF                     ROSS
+          QUARK                    SARAH ALIEN
+          EZRI                     SIANA
+          JAKE                     BAJORAN CREWMAN
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+     STAR TREK: DS9 - "Shadows and... " - 07/15/98 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "Shadows and Symbols" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          CAPTAIN'S OFFICE              TYREE - DESERT
+          KIRA'S QUARTERS               CARDASSIA PRIME
+          WARDROOM                      DERNA
+          OPS                           SISKO'S RESTAURANT/ALLEY
+          PROMENADE/SECOND LEVEL        MONAC FOUR'S SUN
+        RUNABOUT                      
+        KLINGON BIRD OF PREY          
+        BAJORAN SHIP                    WORMHOLE
+          BRIDGE                        ROMULAN SHIPS
+
+        KLINGON BRIDGE                
+
+        RUNABOUT                      
+
+        DOMINION BRIEFING ROOM        
+
+        SISKO'S RESTAURANT            
+          KITCHEN                       
+          PATIO                         
+
+        ISOLATION WARD                
+
+      DS9 - "Shadows and... " - 07/15/98 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                     "Shadows and Symbols" 
+                      PRONUNCIATION GUIDE 
+
+          AUDRID                   ODD-rid
+          CURZON                   KIHR-zahn
+          EMONY                    EM-oh-knee
+          JORAN                    juh-RAN
+          KELDAR                   KEL-dar
+          KOSST AMOJAN             COST uh-MOJE-un
+          LELA                     LEE-luh
+          MONAC                    MO-nak
+          PAH-WRAITH               PAH-rayths
+          PAR'MACHKAI              par-MAHK-eye
+          RAKTAJINO                ROCK-ta-GEE-no
+          STO-VO-KOR               STO-vo-kor
+          TOBIN                    TOE-bin
+          TORIAS                   tuh-RYE-us
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - TEASER      1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                        "Shadows and Symbols"                          
+                            TEASER                              
+
+	FADE IN:
+
+	(90 second recap of "Image in the Sand.")
+
+1    INT. SISKO'S RESTAURANT - DAY
+
+	Moments later. SISKO is still trying to grasp the 
+	fact that his old friend, DAX, is standing before 
+	him -- albeit, in a different body. JAKE and JOSEPH 
+	stand nearby, well aware of the awkwardness of the 
+	moment.
+
+					SISKO
+			Dax? I can't believe it...
+
+					EZRI 
+			I can hardly believe it myself. 
+			But I'm Dax... I mean, I'm not 
+			Jadzia Dax. I'm Ezri Dax. But I 
+			have all of Jadzia's memories. 
+			Not to mention Lela's, Tobin's, 
+			Emony's, Audrid's, Joran's, 
+			Curzon's...
+				(a beat) 
+			Am I forgetting anyone?
+
+					SISKO
+			Torias?
+
+					EZRI 
+			Right. You're probably asking 
+			yourself -- who is this person? 
+			How did she get the Dax symbiont? 
+			Do I even want another Dax in my 
+			life? Does she always talk this 
+			much? These are all good 
+			questions.
+				(a beat) 
+			I wish I had good answers.
+
+					SISKO
+			The answers can wait. Right now, 
+			I'm just glad to see you.
+
+					EZRI
+				(fighting back the 
+				tears) 
+			Really? That's so nice of you to 
+			say.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - TEASER      2.
+
+1    CONTINUED:
+
+					EZRI (Cont'd)
+				(collecting herself) 
+			I'm not usually this emotional. 
+			Must be the Emony in me.
+				(shaking her head) 
+			At least I think it's Emony... 
+			Hi, Jake.
+
+					JAKE 
+			Hi.
+
+					EZRI 
+			You seem taller. Or am I 
+			shorter?
+				(to Sisko) 
+			You know, none of this is my 
+			fault. I never asked to be 
+			joined.
+
+					JAKE 
+			Then how'd you end up with the 
+			symbiont?
+
+					EZRI 
+			It was an accident.
+
+					JOSEPH 
+			Some accident.
+
+					EZRI 
+			I was on the Destiny when the Dax 
+			symbiont was brought on board to 
+			be taken back to Trill. Halfway 
+			through the trip, it took a turn 
+			for the worse and had to be 
+			placed in a host immediately.
+
+					SISKO
+				(putting it together) 
+			And you were the only Trill on 
+			board.
+
+					EZRI
+				(nodding) 
+			I laid down on the operating 
+			table as one person and woke up a 
+			different person... actually, 
+			eight different people. I wasn't 
+			prepared for any of it. You're 
+			supposed to go through years of 
+			training and preparation before 
+			being joined. All I got was a 
+			fifteen minute lecture from the 
+			ships's surgeon. And he wasn't 
+			even a Trill.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - TEASER      3.
+
+1    CONTINUED:	(2)
+
+					SISKO
+			I'm starting to see the problem.
+
+	Ezri sits and takes a deep breath.
+
+					EZRI 
+			I can't tell you how much better 
+			I feel... being here with you, 
+			Ben.
+
+					SISKO
+			What about the Symbiosis 
+			Institute? Wasn't there anything 
+			they could do for you?
+
+					EZRI 
+			I did meet with the Evaluation 
+			Board several times.
+
+					SISKO
+			And?
+
+					EZRI 
+			They gave me some books to 
+			read... some counseling... but 
+			once the host and the symbiont 
+			are joined, there's really not 
+			much they can do. 
+				(a beat) 
+			My parents, my friends, my 
+			crewmates... it's like they don't 
+			know me anymore -- which is 
+			understandable since I hardly 
+			know myself. 
+				(a beat) 
+			That's why I took a leave of 
+			absence and came here. If anyone 
+			can help me through this, it's 
+			you.
+
+					SISKO
+			I'll do all I can, but the truth 
+			is, we're leaving for Tyree...
+
+					EZRI 
+			Fine. I'll come with you.
+
+      DEEP SPACE NINE: "Shadows and... " - REV-08/11/98 - TEASER      4.
+
+1    CONTINUED:	(3)
+
+					JAKE
+			You don't even know why we're
+			going.
+
+					EZRI
+			It doesn't matter.
+
+	Sisko and Jake exchange a look -- they can't argue 
+	with that logic.
+
+					EZRI 
+				(to Sisko)
+			When do we leave?
+
+2    CLOSE ON SISKO
+
+	as he realizes that he's gained another traveling 
+	companion.
+
+					SISKO
+			Today.
+
+					EZRI
+			Great. It'll be like old times. 
+				(a beat)
+			Except different.
+
+	Sisko and Jake can't argue with that either. And 
+	off this moment, we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE     5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+3    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	To see a Klingon Bird of Prey docked at the station.
+
+4    INT. KLINGON BRIDGE
+
+	The lights are even lower than usual. A solemn 
+	O'BRIEN and BASHIR stand alongside GENERAL MARTOK 
+	and the KLINGON BRIDGE CREW. All eyes are on WORF, 
+	ceremoniously standing before a makeshift altar, 
+	flanked by large votive candles.
+
+					WORF
+				(in Klingon) 
+			Jadzia Dax Vond Shoo-vwee Dun Mahh-
+			kekh Huh-Koo-Vahm Jeh Yin-Moj Mah-
+			Mukh. Sto-vo-kor Pah-Dahkh-tin Baht-
+			leh el-eegh-cha yay-moj. (We dedicate 
+			this mission and our lives to the 
+			memory of a great warrior, Jadzia Dax. 
+			Through our victory, she will enter 
+			the sacred halls of Sto-vo-kor.)
+
+	Worf unsheathes a long d'k tahg. The other Klingons 
+	do the same. And after a moment's hesitation, 
+	O'Brien and Bashir each pick up a blade that has 
+	been set before them.
+
+5    ANGLE ON THE DOOR
+
+	to see QUARK ENTER, carrying a travel bag.
+
+					QUARK
+			Quark, son of Keldar, reporting for --
+
+	Quark hesitates as he sees everyone staring at him, 
+	holding knives.
+
+					QUARK
+			Did I come at a bad time?
+
+					O'BRIEN 
+			What are you doing here, Quark?
+
+					QUARK 
+			Same thing you are. I'm 
+			volunteering for this mission.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE     6.
+
+5    CONTINUED:
+
+					MARTOK 
+			Why? You're a bartender, not a 
+			warrior.
+
+					QUARK
+			True, but I loved Jadzia as much 
+			as anyone in this room.
+				(off Worf's look) 
+			With maybe one or two 
+			exceptions...
+				(getting back to the 
+				point) 
+			And I'm willing to pledge my life 
+			to see that she gets into Sto-vo-kor.
+
+					MARTOK
+				(pleased with 
+				Quark's words) 
+			Perhaps there is some Klingon in 
+			you after all.
+
+					QUARK 
+			I wouldn't go that far. 
+			So why all the cutlery?
+
+					MARTOK 
+			We shed our blood to prove we are 
+			not frightened of death.
+
+	And with that Worf, Martok and the other Klingons 
+	slice the palms of their own hands. O'Brien and 
+	Bashir exchange a look, then they too cut their 
+	palms. Everyone looks to Quark.
+
+					QUARK 
+			Can't you just take my word for 
+			it?
+
+	Martok grabs Quark's hand and quickly slices his 
+	open palm.
+
+					QUARK
+			Oww! That hurts.
+
+					O'BRIEN
+			It's supposed to hurt.
+
+6    ANGLE ON WORF
+
+	as he steps over to the bulkhead and smears his 
+	bloody palm across it, anointing the ship.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE     7.
+
+6    CONTINUED:
+
+					WORF
+				(in Klingon) 
+			YuWee-modge. Baht-leh-modge. 
+			Yay-Dodge. (Blood. Honor. 
+			Glory.)
+
+7    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	Moving at warp.
+
+8    INT. RUNABOUT
+
+	CLOSE ON Ezri, seated at one of the side consoles, 
+	looking a bit out of sorts. Sisko applies a hypo to 
+	her neck.
+
+					EZRI 
+			This is so embarrassing.
+
+	ADJUST to include Joseph and Jake standing nearby.
+
+					SISKO 
+			Don't worry about it. It's not 
+			your fault.
+
+					EZRI 
+			I'm a trained Starfleet officer. 
+			I have no business getting space 
+			sick. But ever since I was given 
+			the symbiont, warp speed makes me 
+			a little queasy.
+
+					JAKE
+				(an understatement)
+			A little queasy... ?
+
+	Sisko's look silences Jake.
+
+					JOSEPH 
+			The main thing is that the control 
+			panel's all cleaned up... so if 
+			one of you would like to get back 
+			into the pilot's seat, it would 
+			sure make me feel better.
+
+	Sisko nods and sits back down in the pilot's seat.
+
+					JOSEPH 
+			Not that I don't trust the 
+			computer.
+
+					JAKE 
+			You just prefer the human touch.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE     8.
+
+8    CONTINUED:
+
+					JOSEPH 
+			That's why you won't find a food 
+			replicator anywhere in my 
+			restaurant.
+
+					EZRI 
+			Please -- let's not talk about 
+			food.
+
+					JOSEPH
+			Do you need to lie down?
+
+					EZRI 
+			I'm fine, really.
+
+	Joseph smiles, pats her on the shoulder.
+
+					JOSEPH
+			Well, it's time for my nap.
+
+	With that, Joseph EXITS into the aft section of the
+	ship.
+
+9    ANGLE ON JAKE AND EZRI
+
+					JAKE 
+			You're sure you're all right?
+
+					EZRI
+				(nods) 
+			But I wish I could stop thinking 
+			about Torias.
+
+					JAKE 
+			Torias Dax? He was one of your 
+			previous hosts, wasn't he?
+
+					EZRI
+				(nodding) 
+			He died in a shuttle accident. 
+			I still remember those last few 
+			seconds before the crash...
+				(more to herself) 
+			Maybe I don't belong in Starfleet 
+			anymore...
+				(faux cheeriness) 
+			Aren't you glad I came along?
+
+	Ezri gets up and moves towards the food replicator 
+	in the back. Jake follows after her.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE     9.
+
+9    CONTINUED:
+
+					JAKE 
+			Actually, I am.
+				(with a glance over 
+				to his father) 
+			My dad seems a lot happier since 
+			you showed up.
+
+					EZRI
+				(to the Replicator) 
+			One iced raktajino.
+
+10   ANOTHER ANGLE
+
+	as the replicator prepares the drink.
+
+					EZRI 
+			I know you've been worried about 
+			your father, Jake... but he's 
+			going to be all right.
+
+					JAKE
+			What makes you so sure?
+
+					EZRI 
+			Because I've known him a long 
+			time. Besides, it's my job to 
+			know these things. I'm a ship's 
+			counselor -- actually, an 
+			assistant ship's counselor.
+
+					JAKE 
+			You're a therapist?
+
+					EZRI
+			Is it that surprising?
+
+					JAKE 
+			A little.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE    10.
+
+10   CONTINUED:
+
+					EZRI 
+			You know I wasn't always so... 
+			confused. Before I was joined I 
+			was considered a very promising 
+			young officer.
+
+	Ezri takes a sip of the raktajino and almost gags.
+
+					EZRI 
+			That's horrible. I hate 
+			raktajino.
+
+					JAKE
+			Then why'd you order it?
+
+					EZRI
+			Because...
+				(trying to sort it 
+				out) 
+			Curzon liked it...
+
+					JAKE 
+			So did Jadzia.
+
+					EZRI 
+			Well, I don't. I have to learn 
+			to control some of these urges.
+
+	And off this moment..
+
+11   INT. CAPTAIN'S OFFICE
+
+	CLOSE ON ADMIRAL ROSS, hands clasped behind his 
+	back, looking out into Ops through the closed door. 
+	His back is to KIRA, who is seated at her desk.
+
+					ROSS 
+			I want you to know, colonel, I'm 
+			as outraged as you are.
+
+	Ross turns to look at Kira.
+
+					ROSS 
+			The Romulans have no business 
+			placing weapons on Derna.
+
+					KIRA
+			I'm glad we're in agreement. So 
+			what do you suggest we do about 
+			it?
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE   10A.
+
+11   CONTINUED:
+
+					ROSS 
+			The Federation has already sent a 
+			strong protest to the Romulan 
+			Senate condemning their action.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE    11.
+
+11   CONTINUED:	(2)
+
+					KIRA 
+			That's a start. What happens
+			next?
+
+					ROSS 
+			They've already issued a formal 
+			protest of our protest.
+				(a grim smile) 
+			Politics.
+
+					KIRA
+			You still haven't answered my 
+			question.
+
+					ROSS 
+			Don't worry, colonel. 
+			Eventually, the Romulans will 
+			remove those weapons.
+
+					KIRA
+			When? Are we talking days, 
+			weeks, months?
+
+					ROSS
+				(shrugs) 
+			I don't know -- but it will 
+			happen.
+
+					KIRA 
+			Now you're starting to sound like 
+			a politician, admiral.
+
+
+					ROSS
+				(sees the irony) 
+			Maybe so.
+
+	The Admiral steps up to the desk.
+
+					ROSS 
+			But facts are facts, colonel. 
+			There's no way the Bajorans are 
+			going to drive the Romulans off 
+			Derna. Not without help, anyway. 
+			And the Federation isn't going to 
+			provide that help. Not now.
+				(pointed) 
+			Is that clear?
+
+
+					KIRA 
+			We're just not as important to 
+			the war effort as the Romulans.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE    12.
+
+11   CONTINUED:	(3)
+
+					ROSS 
+			That's a harsh way to put it.
+
+					KIRA
+			The truth often is.
+
+	Ross offers her a supportive smile.
+
+					ROSS 
+			I really would like to help you, 
+			colonel, but my hands are tied.
+
+	Kira gets up from behind the desk and crosses over 
+	to face the Admiral, eye-to-eye.
+
+					KIRA 
+			Well, luckily, mine aren't.
+
+					ROSS 
+			Meaning what?
+
+					KIRA
+			Our scans show that the weapons 
+			aren't fully operational yet. 
+			They're still missing launch 
+			sequencers. I'm going to make 
+			sure those sequencers never reach 
+			Derna.
+
+					ROSS 
+			How?
+
+					KIRA
+			I'll set up a blockade.
+
+					ROSS 
+			Colonel, if you do that, you're 
+			going to have a fight on your 
+			hands... a fight you can't win.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE    13.
+
+11   CONTINUED:	(4) 
+
+	And with that, the Admiral EXITS. WE HOLD on a 
+	thoughtful Kira for a long beat.
+
+12   EXT. SPACE - TYREE (OPTICAL)
+
+	The Runabout in orbit around a harsh, desert planet.
+
+13   INT. RUNABOUT
+
+	Sisko and Ezri work the control panels. Joseph and 
+	Jake are seated in the back.
+
+					SISKO 
+			We've entered orbit. Prepare to 
+			beam down.
+
+					JAKE 
+			Why can't we use the ship's 
+			scanners to find the Orb?
+
+					EZRI 
+			There's too much ionization in 
+			the atmosphere. It'll interfere 
+			with our sensors.
+
+					SISKO
+				(to Joseph) 
+			You sure you don't want to stay 
+			here and wait for us?
+
+					JOSEPH 
+			And miss all the excitement? Not 
+			a chance.
+
+					SISKO
+			All right. But make sure you're 
+			carrying plenty of water packs. 
+				(to Ezri and Jake) 
+			That goes for you, too. It's dry 
+			down there...
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE   13A.
+
+14   CLOSE ON SISKO
+
+	as he hears a VOICE just at the edge of his 
+	consciousness.
+
+
+					VOICE (O.S.) 
+			Doctor Wykoff, please report to 
+			Isolation Ward Four.
+
+	Sisko looks around, trying to pinpoint where the 
+	voice is coming from.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE    14.
+
+14   CONTINUED:
+
+					VOICE (O.S.)
+			Doctor Wykoff, to Isolation Ward
+			Four. Immediately.
+
+					SISKO
+			Did you hear that?
+
+					EZRI
+			Hear what?
+
+	It's clear nobody but Sisko heard the voice.
+
+					SISKO
+			Forget it.
+
+	And as they prepare to beam down to Tyree --
+
+15   EXT. THE DESERT OF TYREE - DAY (OPTICAL) (LOCATION)
+
+	As Sisko, Ezri, Jake and Joseph MATERIALIZE. The 
+	team should be wearing some kind of lightweight 
+	poncho with a hood for protection from the beating 
+	sun. But even with the protection, they're hot.
+
+					EZRI
+				(looking at a 
+				tricorder) 
+			If there's an Orb buried around 
+			here, my tricorder's not picking 
+			it up.
+
+					SISKO 
+			It's out there someplace... I 
+			know it. That's why the Prophets 
+			sent me here...
+
+	Ezri shuts the tricorder and puts it back in her 
+	pack.
+
+					EZRI 
+			Did they give you any hint which 
+			way we should go?
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT ONE    15.
+
+15   CONTINUED:
+
+	Sisko does a slow 360, gazing off at the horizon, 
+	trying to decide on a direction.
+
+					SISKO
+				(picking a point at random)
+			That way.
+
+	Without waiting for a reaction from the others, he 
+	starts walking.
+
+					JAKE
+			The Prophets have spoken.
+
+					EZRI
+			I hope he heard them right.
+
+	And with that, Ezri, Jake and Joseph follow after 
+	Sisko. And as the four seekers begin their trek 
+	through the desert, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+ DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    16.
+                            ACT TWO                             
+
+	FADE IN:
+
+16   EXT. SPACE (OPTICAL)
+
+	Traveling at warp, Martok's Bird of Prey cloaks.
+
+17   INT. KLINGON BRIDGE
+
+	Martok is in the Captain's Chair, Worf stands beside 
+	him. Quark is seated near O'Brien and Bashir.
+
+					O'BRIEN 
+			-- once we're close enough, we 
+			can fire an EM pulse at the sun.
+
+					QUARK 
+			The sun? I thought we were 
+			trying to destroy a shipyard.
+
+					O'BRIEN 
+			We are.
+
+					QUARK 
+				(to Bashir) 
+			Do you understand what he's 
+			talking about?
+
+					BASHIR 
+			Always.
+
+					QUARK
+			Then you explain it.
+
+18   ANGLE ON WORF
+
+	who speaks up without looking at them.
+
+					WORF 
+			We're going to fly toward the 
+			molten heart of the sun, so close 
+			that our ship will glow like a 
+			flaming comet.
+
+					BASHIR 
+			Hopefully, we won't have to get 
+			that close...
+
+					O'BRIEN
+			Just close enough to trigger a 
+			solar plasma ejection. 
+
+      DEEP SPACE NINE: "Shadows and..."REV. 08/11/98 - ACT TWO      17.
+
+18   CONTINUED
+
+					O'BRIEN (Cont'd) 
+			The explosion should incinerate 
+			anything within a hundred million 
+			kilometers.
+
+					MARTOK 
+			Including the shipyard.
+
+					WORF
+			It will be a glorious firestorm 
+			that will illuminate the gates of 
+			Sto-vo-kor itself and provide a 
+			fitting welcome for Jadzia.
+
+	Quark thinks about that image for a beat.
+
+					QUARK
+			The things we do for love
+
+	Worf looks over and glares at Quark for a beat, then 
+	looks away.
+
+19   NEW ANGLE FAVORING QUARK
+
+	with O'Brien and Bashir.
+
+					QUARK
+			Did you see that?
+
+					O'BRIEN
+			See what?
+
+					QUARK
+			The way he glared at me.
+
+					BASHIR
+			He always glares at you.
+
+					QUARK 
+			Well I'm sick of it. We're 
+			risking our lives to help Jadzia 
+			get into Sto-vo-kor. The very 
+			least Worf could do is show us 
+			some appreciation. I mean is it 
+			so hard to say "thank you?"
+
+					BASHIR
+			Thank you.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    18.
+
+19   CONTINUED: 
+
+					QUARK 
+			Nice try, doctor, but I want to 
+			hear it from him.
+
+	It's clear to all three men that Worf can overhear 
+	this conversation.
+
+					O'BRIEN
+				(a warning) 
+			Quark -- don't do this...
+
+					QUARK
+				(building up a head 
+				of steam) 
+			Do what?
+				(standing up) 
+			All I'm asking for are two little 
+			words...
+
+	With a sudden flash, Worf lunges at Quark, grabbing 
+	him by the collar.
+
+					WORF 
+			Be quiet.
+
+					QUARK
+				(scared) 
+			That's two words all right. Just 
+			not the two I was hoping for.
+
+	Worf shoves Quark back into his seat.
+
+					WORF 
+			Why should I feel any gratitude 
+			toward you? I owe you nothing.
+
+	When Worf speaks, his words are meant for O'Brien 
+	and Bashir as well.
+
+					WORF 
+			You're not here to help Jadzia 
+			get into Sto-vo-kor -- you're 
+			here because you wish to convince 
+			yourselves that you were worthy 
+			of her.
+				(a beat) 
+			But the truth is, none of you 
+			could ever hope to be worthy of 
+			Jadzia Dax or even understand the 
+			kind of woman she was.
+				(to Quark) 
+			It's you who should be thanking 
+			me, Ferengi.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    19.
+
+19   CONTINUED:	(2)
+
+					WORF (Cont'd)
+			For allowing you to come on this
+			mission and pay honor to her
+			memory.
+
+	And with that, Worf turns his attention back to his 
+	duties. We hold on Quark, O'Brien and Bashir as 
+	they share an uncomfortable look, then we go to --
+
+20   EXT. TYREE - DESERT - DAY
+
+	Sisko, Ezri, Jake and Joseph are on the move through 
+	the parched landscape. Though this is by no means a 
+	stroll in the park, the heat has yet to take any 
+	serious toll on them. Jake keeps glancing at 
+	Joseph.
+
+					JOSEPH
+				(eyes straight 
+				ahead) 
+			I wish you'd stop doing that.
+
+					JAKE 
+			Doing what?
+
+					JOSEPH 
+			Looking at me like you expect me 
+			to keel over any second.
+
+	Jake smiles.
+
+					JAKE 
+			You'll probably end up carrying 
+			me before this is over.
+
+					JOSEPH 
+			You're damn right.
+				(a beat) 
+			But I'll tell you one thing... if 
+			there's a hell, I bet it feels a 
+			lot like this.
+
+21   ANGLE ON SISKO AND EZRI
+
+	walking side-by-side. Ezri has heard Joseph's last 
+	remark.
+
+					EZRI 
+			Think we're getting close?
+
+					SISKO
+			I have no idea.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    20.
+
+21   CONTINUED:
+
+					EZRI
+				(trying to take it 
+				in stride) 
+			But we're headed in the right 
+			direction?
+
+					SISKO
+			I hope so.
+
+					EZRI
+				(nods) 
+			Audrid loved to walk. Of course, 
+			she preferred the woods... nice 
+			shady glens, cool breezes, cold 
+			streams...
+
+					SISKO
+			What are you trying to say, Dax?
+
+
+					EZRI 
+			We've been keeping a pretty fast 
+			pace... it might be a good idea 
+			to give your father and Jake a 
+			chance to rest.
+
+					SISKO
+			If anyone needs to take a break, 
+			they can go back to the runabout.
+
+					EZRI 
+			I think we should stick together.
+
+					SISKO
+			Fine. But we're not stopping.
+
+					EZRI 
+			Are you sure that's wise?
+
+	Sisko looks back towards Joseph.
+
+					SISKO
+			How're you doing back there, Dad?
+
+					JOSEPH 
+			Never better.
+
+	Sisko looks to Ezri as if there's no need for 
+	further discussion; Ezri decides not to press the 
+	issue.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    21.
+
+22   EXT. CARDASSIA PRIME (MATTE) (OPTICAL)
+
+	Establishing.
+
+23   INT. DOMINION BRIEFING ROOM - DAY
+
+	CLOSE ON a wall monitor displaying an interstellar 
+	map of Federation and Dominion troop positions 
+	around the Chin'toka system.
+
+					DAMAR (O.S.)
+			... it's only a matter of time 
+			before we break through the enemy 
+			lines.
+
+	ADJUST to include DAMAR standing beside an 
+	attractive CARDASSIAN FEMALE, SIANA. They are both 
+	sipping glasses of kanar.
+
+					DAMAR 
+			Once that happens, we can drive 
+			the Federation-Romulan Alliance 
+			out of Cardassian territory.
+
+	Damar offers Siana more kanar.
+
+					DAMAR
+			A little more kanar?
+
+					SIANA
+			Please.
+
+	Damar refills her glass.
+
+					DAMAR 
+			To victory.
+				(looking her over) 
+			On all fronts.
+
+	Siana looks at Damar, smiling flirtatiously. They 
+	both drink.
+
+
+24   ANGLE ON THE DOOR
+
+	to see WEYOUN ENTER, he's got business to discuss.
+
+					WEYOUN
+			Damar, have you seen the latest --
+
+	Weyoun stops short, as he realizes Damar is not 
+	alone.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    22.
+
+24   CONTINUED:
+
+					DAMAR 
+			Weyoun, this is Siana. We met 
+			last night at the dinner honoring 
+			Legate Hovat.
+
+					WEYOUN 
+			Damar, you and I have things to 
+			discuss. Things your "guest" 
+			doesn't want to hear.
+
+					DAMAR 
+			And why's that?
+
+					WEYOUN 
+			Because if she does, I'll be 
+			forced to have her executed.
+
+					SIANA 
+				(to Damar) 
+			I really should be going.
+
+					DAMAR 
+				(to Siana) 
+			Until tonight.
+
+	Siana smiles in agreement. Taking one last look at 
+	a threatening Weyoun, she puts down her glass, and 
+	quickly EXITS.
+
+25   NEW ANGLE (OPTICAL)
+
+	to see Weyoun smile victoriously.
+
+					WEYOUN
+			What a pleasant woman.
+
+	Weyoun crosses over to the wall monitor and taps a 
+	panel. The image on the screen changes to display a 
+	large orbital shipyard.
+
+					WEYOUN 
+			It's imperative that we increase 
+			production at the Monac shipyard. 
+			We need more assault ships to 
+			retake the Chin'toka system.
+
+	Weyoun realizes that Damar is not at his side. Damar 
+	is still by the table, struggling to keep his 
+	temper.
+
+					WEYOUN
+			Damar... are you listening to me?
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    23.
+
+25   CONTINUED:
+
+	Damar forces himself to shake his gloom and approach 
+	Weyoun.
+
+					DAMAR 
+			Increase production... yes, I 
+			heard you. By how much?
+
+					WEYOUN 
+			Fifteen percent would be ideal.
+
+					DAMAR 
+			That won't be easy.
+
+					WEYOUN 
+			I'm sure you'll find a way. 
+			You're very resourceful.
+
+	And as Damar is given this small bone to chew --
+
+26   EXT. SPACE - DEEP SPACE NINE (OPTICAL) (STOCK)
+
+	Re-establishing.
+
+27   INT. KIRA'S QUARTERS
+
+	It's late at night. ODO is sitting on the couch 
+	while Kira brings over a cup of tea from the 
+	replicator.
+
+					ODO
+			A blockade? How many ships are 
+			we talking about?
+
+					KIRA
+			Twelve impulse ships. That's all 
+			the Council of Ministers could 
+			spare right now.
+
+					ODO
+			How effective do you think those 
+			twelve ships will be against even 
+			one Romulan warbird?
+
+					KIRA
+			You sound like Admiral Ross.
+
+	Kira sits down on the couch next to him, nestles 
+	into his shoulder.
+
+					ODO
+			I was hoping our relationship was 
+			going to be a long and happy one. 
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO   23A.
+
+27   CONTINUED:
+
+					ODO (Cont'd)
+			But I suppose I'm willing to
+			settle for short and exciting.
+
+	Kira looks up at him --
+
+					KIRA
+			What's that supposed to mean?
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    24.
+
+27   CONTINUED:	(2)
+
+					ODO 
+			I take it you're going to be 
+			commanding the blockade?
+
+					KIRA
+			That's right.
+
+					ODO 
+			Well, then I'm going to be there 
+			with you.
+
+	Kira's touched by his support.
+
+					KIRA
+			You don't have to do that.
+
+					ODO 
+			Yes, I do.
+
+					KIRA
+			Well, I wouldn't start writing 
+			our epitaphs just yet...
+
+					ODO
+			All right, I'll wait until the 
+			first wave of Romulan ships 
+			decide to run the blockade.
+
+					KIRA
+			Don't worry, I don't intend to 
+			get into a firefight with a 
+			squadron of Romulan warbirds.
+
+					ODO
+			You mean you're bluffing?
+
+					KIRA
+				(nodding) 
+			If the Romulans fire on us, it'll 
+			jeopardize their Alliance with 
+			the Federation. I'm hoping 
+			that's a risk they won't want to 
+			take.
+
+					ODO
+			And I'm hoping they don't call 
+			your bluff.
+
+	And as they both contemplate this thin hope, we go 
+	to --
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    25.
+
+28   EXT. TYREE - DESERT - DAY
+
+	CLOSE ON Sisko, his face sand-streaked and wind-
+	bitten, moving forward with relentless 
+	determination.
+
+29   CLOSE ON EZRI
+
+	feeling as drained as Sisko, but resolved to keep 
+	pace with him. Unlike Sisko, Ezri keeps looking 
+	behind her, worried about --
+
+30   JOSEPH AND JAKE
+
+	who are having a very difficult time of it. Jake 
+	supports his grandfather with each step, but even 
+	so, the older man is struggling.
+
+					JAKE 
+			Grandpa -- you sure you don't 
+			want to go up to the runabout?
+
+					JOSEPH 
+			We started this together, we'll 
+			finish it together. I owe it to 
+			Ben.
+
+	Jake sees that this is one argument he's not going 
+	to win.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    26.
+
+31   WIDER
+
+	to see just how scattered the group has become as 
+	they are dwarfed by the vastness of the desert 
+	surrounding them. Sisko is far ahead of Ezri, while 
+	Jake and Joseph bring up the rear, a football field 
+	behind him.
+
+32   ON THE HOT SUN
+
+	beating down relentlessly.
+
+									DISSOLVE TO:
+
+33   BACK TO SISKO
+
+	still on the move. Without stopping, Sisko takes 
+	off his backpack, leaving only the shovel strapped 
+	around his shoulder. He reaches inside the pack and 
+	takes out his baseball, then tosses the pack away, 
+	getting rid of the extra weight.
+
+	Gripping the ball in his hand, he continues his 
+	march.
+
+34   ANGLE ON SISKO'S DISCARDED PACK
+
+	Ezri's hand reaches into frame and picks it up. 
+	Ezri looks out toward Sisko. Clearly concerned by 
+	his behavior, she reaches into the pack and takes 
+	out the water pouches, stashing them away in her own 
+	pack.
+
+									DISSOLVE TO:
+
+35   NEW ANGLE
+
+	to see Joseph and Jake, moving slowly up a sand 
+	dune. Having fallen far behind, there's no sign of 
+	Sisko or Ezri.
+
+	As Jake and Joseph struggle up to the top of the 
+	dune.
+
+36   JAKE AND JOSEPH'S POV
+
+	of the desert stretched out before them, no end in 
+	sight.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    27.
+
+36   CONTINUED: 
+
+	Far ahead of them, we can barely make out a figure -- 
+	Ezri -- several sand dunes ahead. And far ahead of 
+	her, another figure -- Sisko.
+
+37   TIGHT ON JAKE AND JOSEPH
+
+	struggling to catch their breath. They exchange a 
+	look, too tired to voice their fears. They know 
+	they have no choice but to keep walking. As they 
+	take their first step, we --
+
+									DISSOLVE TO:
+
+38   EXT. ANOTHER PART OF THE DESERT - DAY
+
+	Later. One moment, Sisko's moving with relentless
+	determination, the next, he's at a dead halt. He
+	looks around to see --
+
+39   SISKO'S POV
+
+	of the landscape, which looks very familiar -- it's 
+	the same terrain he saw in his vision.
+
+40   BACK TO SISKO
+
+	knowing he's arrived at his destination, but unsure 
+	as to where to begin digging.
+
+					VOICE (O.S.) 
+			Doctor Wykoff.
+
+	Sisko looks around trying to determine the source of 
+	the voice.
+
+					VOICE (O.S.) 
+			Please come to Isolation Ward 
+			Four immediately. Doctor 
+			Wycoff... 
+
+	Sisko spins around again.
+
+					VOICE (O.S.) 
+			To Isolation Ward Four.
+
+					EZRI (O.S.) 
+			Benjamin.
+
+	A startled Sisko turns to find Ezri, having caught 
+	up with him.
+
+      DEEP SPACE NINE: "Shadows and" - REV. 08/11/98 - ACT TWO      28.
+
+40   CONTINUED:
+
+					EZRI
+			Is this it?
+
+					SISKO
+			I think so.
+
+	Sisko works the baseball in his hand with increasing 
+	frustration.
+
+
+					EZRI
+			Benjamin, that's not good enough.
+
+	But Sisko's only response is to continue working the 
+	ball.
+
+					EZRI
+			Ben...
+
+	Frustrated, Ezri snatches the ball out of his hand 
+	and tosses it as far as she can.
+
+					EZRI
+			Are you listening to me?
+
+41   ANGLE ON SISKO
+
+	watching the ball as it flies through the air --
+
+41A  ANGLE ON THE BALL
+
+	as it lands in the sand.
+
+41B  CLOSER ON SISKO
+
+	staring at the ball. We push in on his face --
+
+41C  INT. SISKO'S RESTAURANT (FROM "IMAGE IN THE SAND")
+
+	to see the ball roll off the piano and come to rest
+	on the floor.
+
+41D  BACK TO SISKO IN THE DESERT
+
+	coming to a realization. He points to where the 
+	ball rests in the sand.
+
+					SISKO
+			There.
+
+     DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT TWO    29.
+
+41D  CONTINUED:
+
+					EZRI 
+			Where?
+
+					SISKO 
+			That's where we start digging.
+
+	Sisko immediately heads to the spot.
+
+					EZRI 
+			Why there?
+				(suddenly concerned)
+			I wasn't aiming at anything.
+
+	But Sisko's mind is made up. He arrives at the 
+	spot, unslings his shovel, and begins to dig.
+
+42   ON EZRI
+
+	as she watches Sisko work.
+
+					EZRI 
+			Ben, maybe my memories are 
+			playing tricks on me... but were 
+			you always this strange?
+
+	But Sisko just keeps on digging. And off this 
+	disturbing image, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   30.
+                           ACT THREE                            
+
+	FADE IN:
+
+43   EXT. SPACE - DERNA (OPTICAL)
+
+	A blockade of Bajoran ships surround the moon.
+
+					KIRA (V.O.) 
+			Ship's Log, Stardate 52152.6. 
+			We've set up a blockade around 
+			Derna. So far, no Romulan ships 
+			have tried to challenge us.
+
+44   INT. BAJORAN SHIP - BRIDGE
+
+	Kira is sitting in the Captain's Chair... Odo is 
+	standing beside her. There are BAJORAN CREWMEMBERS 
+	where necessary.
+
+	Kira is looking at a PADD, shaking her head, a small 
+	smile on her face.
+
+					KIRA
+			"Kiss me Deadly"... interesting 
+			title.
+
+					ODO
+			And the book isn't bad either. I 
+			think you'll enjoy it.
+
+					KIRA
+			I'm sure I will... but is this 
+			really the right time to start 
+			reading a book?
+
+					ODO
+			Maybe not, but I know how much 
+			you hate all this waiting. 
+			Besides, Mike Hammer has certain 
+			qualities you'll appreciate... I 
+			think.
+
+					KIRA
+			Such as?
+
+					ODO
+			He's as tough as they come and 
+			he hates waiting almost as much 
+			as you do.
+
+					KIRA 
+			I like him already.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   31.
+
+44   CONTINUED:
+
+	A BAJORAN CREWMAN reacts to something off his 
+	console.
+
+					BAJORAN CREWMAN 
+			Colonel, there's a priority one 
+			transmission from Deep Space 
+			Nine. It's Admiral Ross.
+
+					KIRA
+			Put him through.
+
+45   ANGLE ON THE VIEWSCREEN - WARDROOM (OPTICAL)
+
+	to see Admiral Ross and Senator Cretak.
+
+					ROSS 
+			Colonel... Senator Cretak has 
+			just informed me that four 
+			Romulan warbirds are on their way 
+			to Derna.
+
+					CRETAK 
+			They'll be arriving in eight 
+			hours with much-needed medical 
+			supplies for the hospital 
+			complex.
+
+									INTERCUT:
+
+					KIRA 
+			Since when did the Romulans start 
+			using warbirds to deliver medical 
+			supplies?
+
+					CRETAK 
+			We want to make sure they arrive 
+			safely.
+
+					KIRA
+			If they try to make it past the 
+			blockade, they're not going to 
+			arrive at all.
+
+					ROSS 
+			That kind of talk isn't going to 
+			help matters, colonel. I would 
+			think you'd want to avoid a 
+			confrontation -- not provoke one.
+
+					KIRA
+			I wouldn't call those Romulan 
+			ships a peace offering.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   32.
+
+45   CONTINUED:
+
+					ROSS
+				(with a disapproving 
+				glance at Cretak) 
+			I wasn't exactly happy to hear 
+			about them either.
+				(to Kira) 
+			We only have a few hours to reach 
+			some kind of a compromise. After 
+			that, people are going to start 
+			dying.
+
+					KIRA
+			You can talk about compromise all 
+			you want. But any ship 
+			attempting to break through the 
+			blockade will be fired on.
+
+					CRETAK 
+			Colonel, do you seriously believe 
+			that your antiquated collection 
+			of impulse ships stand a chance 
+			against our warbirds?
+
+					KIRA
+				(smiling back) 
+			We'll find out soon enough, won't 
+			we?
+
+	Kira nods to the Bajoran Crewman, who ends the 
+	transmission.
+
+46   ANGLE ON KIRA
+
+	as she turns to Odo.
+
+					KIRA
+			How'd I do?
+
+					ODO
+			Mike Hammer would've been proud.
+
+	And off her smile, we go to --
+
+47   INT. WARDROOM
+
+	where Admiral Ross is staring out the window, but 
+	there's no answers for him there either. Cretak 
+	eyes him carefully.
+
+					CRETAK 
+			You're concerned.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   33.
+
+47   CONTINUED:
+
+					ROSS 
+			Aren't you?
+
+					CRETAK 
+			Not really. The colonel is 
+			brave woman, but she's not 
+			stupid. She's bluffing.
+
+	We hold on Ross as he tries to convince himself that 
+	the senator is right. And off this --
+
+48   EXT. TYREE - DESERT - DAY
+
+	CLOSE ON a brutally fatigued Jake helping Joseph to 
+	the ground.
+
+	ADJUST to include Ezri, not far off, watching in 
+	numb silence as Sisko continues to dig. Sisko's 
+	pace may have slowed, but he works with unwavering
+	resolve.
+
+49   NEW ANGLE
+
+	Seeing Joseph's condition, Ezri reaches into her 
+	pack and takes out the last water pouch. She moves 
+	over to Jake and hands it to him.
+
+					JAKE
+				(to Joseph) 
+			Here, Grandpa.
+
+	Holding his head, Jake helps Joseph take a swig of 
+	water.
+
+50   ON SISKO DIGGING
+
+					VOICE (O.S.)
+			Doctor Wykoff... please come to
+			Isolation Ward Four. Doctor
+			Wykoff to Isolation Ward Four.
+
+	But Sisko continues his digging.
+
+					SISKO
+			I wish he'd get there.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   34.
+
+50   CONTINUED
+
+					EZRI
+			Who?
+
+					SISKO 
+			Doctor Wykoff. They're waiting 
+			for him at the isolation ward.
+
+					EZRI
+				(making up her mind) 
+			You have definitely gotten 
+			stranger.
+
+	And as Sisko continues digging --
+
+51   INT. KLINGON BRIDGE
+
+	Worf and Martok are in the midst of a discussion.
+
+					MARTOK 
+			What about me, Worf? Would you 
+			rather I hadn't come on this 
+			mission either?
+
+					WORF
+			That's not what I'm saying. With 
+			you, it is different... you are a 
+			Klingon -- Jadzia was a member of 
+			your House.
+
+52   NEW ANGLE
+
+	to include O'Brien, Bashir and Quark ENTERING the 
+	Bridge.
+
+					MARTOK 
+			And these men were her friends. 
+			They honor her with their 
+			presence.
+
+					QUARK
+				(to O'Brien and
+				Bashir)
+			Gagh for breakfast, gagh for
+			lunch, gagh for dinner... am I
+			the only one who thinks Klingon
+			menus need to have more variety?
+
+	O'Brien and Bashir sit at their stations.
+
+					O'BRIEN
+			You want to complain about the
+			gagh, that's fine with me.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   35.
+
+52   CONTINUED:
+
+					O'BRIEN (Cont'd)
+			But next time, don't complain in
+			the mess hall when we're sitting
+			at a table surrounded by a dozen
+			Klingons.
+
+					QUARK 
+			All right, all right... I get the point.
+
+					BASHIR 
+			Good.
+
+					QUARK 
+			But I'm telling you, I think some 
+			of those Klingons agreed with me.
+
+	Before Bashir can respond, he feels the presence of 
+	someone looming over him and Quark.
+
+53   ANOTHER ANGLE
+
+	to see that Worf, looking very unhappy, has stepped 
+	over to them.
+
+					BASHIR 
+			Look, Worf -- if this has 
+			anything to do with what happened 
+			in the mess hall...
+
+					WORF
+			It doesn't.
+
+					QUARK 
+			What's the matter? Come up with 
+			a few more insults to throw at 
+			us?
+
+					WORF
+				(trying to control
+				his temper)
+			Shut up, Ferengi. I wish to
+			apologize.
+
+					QUARK 
+			I'm listening.
+
+					WORF
+			I know Jadzia meant a great deal 
+			to all of you.
+				(a beat) 
+			And you meant a great deal to her 
+			as well.
+
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   36.
+
+53   CONTINUED:
+
+	It costs Worf a lot to talk about this, but he 
+	forces himself to go on.
+
+					WORF
+			Many times... over dinner, when 
+			we discussed our day...
+				(to Bashir) 
+			Jadzia would repeat something 
+			amusing that you had said to 
+			her...
+				(to Quark)
+			... or describe in endless detail 
+			the intricacies of some new 
+			scheme of yours...
+				(a beat) 
+			She often talked about you both. 
+			It seemed that even when we were 
+			alone together... one of you was 
+			always with us.
+
+					QUARK
+				(excited) 
+			I get it! You were jealous -- 
+			because she liked us better than 
+			you.
+
+					BASHIR 
+			Would you please be quiet, Quark.
+
+					WORF
+			Jadzia was my wife... my 
+			Par'machkai. I did not like 
+			having to share her affections.
+
+					O'BRIEN
+				(realizing) 
+			That's why you didn't want us to 
+			come on this mission... you 
+			wanted to get her into Sto-vo-kor 
+			without our help.
+
+					WORF
+			It was to be my gift to her.
+
+					QUARK
+			Go on...
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   37.
+
+53   CONTINUED:	(2)
+
+					WORF 
+			There's nothing more to say. 
+			Except... I'm pleased you're here.
+
+	And with that, Worf walks back to his station and 
+	begins working his console.
+
+					O'BRIEN
+			I don't think I've ever seen Worf 
+			apologize to anyone.
+
+					QUARK 
+			I don't know about you, but I was 
+			hoping for something a little 
+			more... intriguing.
+
+					BASHIR 
+			Such as?
+
+					QUARK 
+			You know... that Jadzia used to 
+			talk about me in her sleep... or 
+			wanted to name her first child 
+			after me...
+
+54   NEW ANGLE
+
+	to include Martok looking at the viewscreen.
+
+					MARTOK
+			Chief --
+
+	O'Brien, Bashir and Quark turn to see --
+
+55   ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	-- a large Dominion shipyard complex. Think of a 
+	half-dozen Deep Space Nine stations strung together 
+	around half-completed Jem'Hadar battle cruisers, 
+	Cardassian warships, etc. It's an awesome sight.
+
+					MARTOK (O.S.) 
+			The Monac shipyard. An 
+			impressive sight...
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   38.
+
+56   RESUME
+
+	as they all stare at the viewscreen.
+
+					O'BRIEN
+			It's certainly big.
+
+					MARTOK
+				(to Klingon Crewman)
+			Display our target. 
+
+	The Crewman taps his console before we go to:
+
+57   ANOTHER ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	displaying Monac's fiery sun.
+
+					QUARK (O.S.)
+			Looks hot.
+
+58   RESUME
+
+					MARTOK
+
+			Very hot.
+				(to Worf)
+			And very dangerous.
+
+					WORF
+			I would not have it any other
+			way.
+
+					BASHIR
+			Neither would I.
+
+	A beat, then Worf looks over at Bashir, 
+	acknowledging his statement of solidarity --
+
+59   EXT. TYREE - DESERT - DAY
+
+	CLOSE ON SISKO as he continues digging. Suddenly, 
+	his shovel strikes something solid. He throws away 
+	the shovel and then, with his bare hands, he scoops 
+	away the rest of the sand.
+
+60   ANOTHER ANGLE
+
+	as Ezri, Jake and even Joseph peer over Sisko's 
+	shoulder with anticipation.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   39.
+
+60   CONTINUED:
+
+					JAKE
+				(a dry croak)
+			Dad, what is it? Have you found
+			something?
+
+61   ON SISKO
+
+	brushing away the sand off what appears to be an Orb 
+	ark.
+
+					SISKO
+				(an order)
+			Stay back.
+
+					EZRI
+			What are you going to do?
+
+					SISKO
+				(after a beat, softly)
+			Open it.
+
+	And with that, he reaches out of frame to open the 
+	doors. But suddenly he frowns in confusion and 
+	pulls his hand back.
+
+62   CLOSER
+
+	to see Sisko holding a twentieth-century pencil.
+
+					WYKOFF (O.S.)
+			Mister Russell -- put it down.
+
+					EZRI
+			Benjamin -- what's wrong?
+			Benjamin --
+
+								MATCH CUT TO:
+
+63   CLOSE ON THE PENCIL
+
+	in Sisko's hand. PULL BACK TO REVEAL:
+
+64   INT. ISOLATION WARD - DAY
+
+	BENNY RUSSELL, dressed in all white, stands looking 
+	at the pencil, surrounded by the padded walls of his 
+	cell. The walls are covered with intricate writing. 
+	Benny has stopped writing on the wall in mid-
+	sentence.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT THREE   40.
+
+64   CONTINUED:
+
+					WYKOFF (O.S.)
+			I said, put down the pencil.
+
+65   WIDER
+
+	to include DOCTOR WYKOFF (Damar without the makeup) 
+	standing with an ORDERLY near the doorway.
+
+					WYKOFF
+			Put it down, Mister Russell.
+
+					BENNY
+			But I haven't finished my story. 
+			Captain Sisko has found the Orb 
+			of the Emissary...
+
+
+66   CLOSE ON BENNY'S FACE
+
+	as he studies his writings on the wall.
+
+					BENNY
+			But he hasn't opened it yet.
+
+	And as Benny ponders his next sentence, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR    41.
+                           ACT FOUR                             
+
+	FADE IN:
+
+67   INT. ISOLATION WARD - DAY
+
+	Wykoff slowly walks along the wall, carefully 
+	reading what Benny has written. Every now and then, 
+	he shakes his head in thoughtful disapproval. Benny 
+	stands nearby, waiting patiently for him to finish.
+
+					WYKOFF 
+			Mister Russell, you promised not 
+			to write on the walls...
+
+					BENNY
+			No one will give me any paper...
+
+					WYKOFF 
+			I thought we had agreed you 
+			weren't going to write at all... 
+			that you needed to rest.
+
+					BENNY 
+			I don't want to rest. I want to 
+			tell my stories.
+
+	Wykoff stares at Benny, clearly not happy with the 
+	direction the conversation is taking.
+
+					WYKOFF 
+			You were doing so well, Benny. 
+			Making real progress. We were 
+			all so proud of you.
+
+					BENNY 
+			I want to go home. I don't 
+			belong here.
+
+					WYKOFF 
+			And we're going to send you 
+			home... as soon as you're well.
+
+					BENNY
+			I feel fine.
+
+					WYKOFF 
+			But you're not fine. People who 
+			are fine don't write on walls.
+
+					BENNY
+			Then give me a typewriter.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR    42.
+
+67   CONTINUED:
+
+					WYKOFF 
+			You're not listening. The 
+			stories have to stop. They're 
+			too dangerous...
+
+					BENNY 
+			Dangerous? To whom?
+
+					WYKOFF 
+			To you. This world you've 
+			created... Deep Space Nine, 
+			Captain Sisko, Kira and all the 
+			others... none of it is real.
+
+					BENNY 
+			It is to me. If I don't finish 
+			my story... if Sisko doesn't open 
+			the Orb box... he can't contact 
+			the Prophets...
+
+					WYKOFF 
+			It doesn't matter, Benny -- the 
+			Prophets don't exist either. 
+			They're all figments of your 
+			imagination. Get rid of them... 
+			it's the only way you'll ever get 
+			well...
+				(a beat) 
+			Now give me the pencil, Benny.
+
+					BENNY 
+			But my story...
+
+					WYKOFF 
+			It's over. Let it go.
+
+	And as Benny ponders what to do...
+
+68   EXT. TYREE - DESERT - DAY
+
+	CLOSE ON Sisko lost in his vision, his hands 
+	clutching the Orb box.
+
+					EZRI (O.S.) 
+			Benjamin!
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR    43.
+
+68   CONTINUED:
+
+	ADJUST TO REVEAL Ezri and Jake nearby.
+
+					EZRI 
+			What are you waiting for? Open 
+			it. That's why we came here, 
+			right?
+
+					JAKE
+			He can't hear you
+
+69   WIDER (OPTICAL)
+
+	Jake reaches over his father to open the box, but 
+	the moment he touches it, he's THROWN BACK as if 
+	shot out of a cannon.
+
+70   ANGLE ON EZRI
+
+	rushing to Jake's side.
+
+					EZRI
+			Jake!
+
+71   ON SISKO
+
+	still staring at the Orb box, oblivious to what's 
+	going on around him. As we push into his face --
+
+72   EXT. SPACE (OPTICAL)
+
+	The Bajoran blockade around Derna.
+
+73   ANOTHER ANGLE (OPTICAL)
+
+	as the FOUR ROMULAN WARBIRDS approach the blockade.
+
+					KIRA (V.O.)
+			Ship's Log, Supplemental.
+			Senator Cretak said that the
+			Romulan warbirds would be here
+			in eight hours. She was wrong.
+			They're two hours early.
+
+74   INT. BAJORAN SHIP - BRIDGE (OPTICAL)
+
+	Kira and Odo watch the approaching Romulan ships on 
+	the viewscreen.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR    44.
+
+74   CONTINUED:
+
+					ODO
+				(off a console) 
+			They'll be in weapons range in 
+			eight minutes.
+
+					KIRA
+				(to a Bajoran
+				Crewman)
+			Open a channel.
+
+	The Bajoran Crewman works a panel, then nods to 
+	Kira.
+
+
+					BAJORAN CREWMAN 
+			Go ahead.
+
+					KIRA
+				(to the com) 
+			This is Colonel Kira of the 
+			Bajoran Militia. Any ship that 
+			comes within transporter range of 
+			Derna will be considered hostile 
+			and fired upon.
+
+					ODO
+			They're not responding.
+
+					KIRA
+			Kira to all Bajoran ships. 
+			Prepare to engage.
+
+	The Crewman reacts to something on his panel.
+
+					BAJORAN CREWMAN
+				(to Kira) 
+			Sir -- Admiral Ross is asking to 
+			speak to you.
+
+					KIRA
+			Put him through.
+
+75   ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	Admiral Ross and Senator Cretak appear on screen 
+	speaking from the Wardroom.
+
+					ROSS 
+			Colonel, I'm appealing to you one 
+			last time to end this blockade.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR    45.
+
+75   CONTINUED:
+
+					KIRA 
+			You know I can't do that, 
+			admiral.
+
+					CRETAK 
+			Be aware, that I'm authorized to 
+			use whatever force is necessary 
+			to see that our medical supplies 
+			reach their destination. 
+				(a beat) 
+			However, I'm also authorized to 
+			seek a negotiated settlement...
+
+					KIRA
+			My government has made its 
+			position quite clear. There will 
+			be no negotiations of any kind as 
+			long as there are Romulan weapons 
+			on Derna.
+
+					ROSS 
+			Damn it, colonel -- if you open 
+			fire on those ships, we all lose. 
+			The only way to beat the Dominion 
+			is to keep our Alliance intact.
+
+					CRETAK 
+			Besides, I would hate to see you 
+			throw your life away.
+
+					KIRA
+			Your concern is touching, 
+			senator. But I'm not dead yet.
+
+	Kira hits a panel to end the transmission.
+
+76   NEW ANGLE
+
+	as Kira turns to Odo.
+
+					ODO 
+			At least not for another six 
+			minutes.
+
+	Kira and Odo exchange a small, tense smile.
+
+77   INT. WARDROOM
+
+	Ross and Cretak are also feeling the pressure.
+
+ DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR     46   
+
+77   CONTINUED:
+
+					ROSS 
+			You still think she's going to 
+			back down?
+
+					CRETAK 
+			She has to... because I'm not.
+
+	And off this tense moment --
+
+78   EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	Looking large and molten.
+
+79   INT. KLINGON BRIDGE (OPTICAL)
+
+	Worf, Martok, O'Brien, Bashir and the Klingon crew 
+	are all focused on the viewscreen displaying the 
+	sun's image. They all look hot and sweaty. Quark 
+	is busy toweling off the sweat from his brow.
+
+					QUARK
+				(more to himself) 
+			Take me out of the oven, Moogie. 
+			I'm cooked.
+
+					O'BRIEN
+				(to Martok) 
+			General, I've found it -- a 
+			magnetic instability near the 
+			sun's equator.
+
+					BASHIR
+			Excellent. Let's trigger the 
+			solar eruption, and get out of 
+			here.
+
+					O'BRIEN
+			It's not that simple. We have to 
+			make sure that the eruption has 
+			the right trajectory to destroy 
+			the shipyard.
+
+					MARTOK 
+			And how do we do that?
+
+	But Worf doesn't see this as a problem -- in fact, 
+	he's looking forward to it.
+
+					WORF
+			We have to get closer. Much 
+			closer.
+
+ DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR     47   
+
+79   CONTINUED:
+
+	Everyone looks to O'Brien.
+
+					O'BRIEN
+				(an admission) 
+			He's right.
+
+	Worf, Martok and the other Klingons appear ready to 
+	meet the challenge. O'Brien and Bashir exchange a 
+	look as Quark speaks for both of them.
+
+					QUARK
+			Sto-vo-kor... here we come.
+
+	And off that...
+
+80   INT. ISOLATION WARD - DAY
+
+	CLOSE ON an open bucket of white paint as it's 
+	placed on the floor near Benny's feet. ADJUST TO 
+	REVEAL Wykoff offering Benny a paint roller.
+
+					WYKOFF 
+			Take it, Benny.
+
+					BENNY 
+			What for?
+
+					WYKOFF 
+			I'm offering you an opportunity 
+			few people ever get... you can 
+			wipe away all your mistakes.
+
+					BENNY 
+			You want me to paint over my 
+			story?
+
+					WYKOFF 
+			They're just words... meaningless 
+			words that no one cares about. 
+			Get rid of them and you can walk 
+			out of here a free man.
+
+	Wykoff dips the roller in the white paint and places 
+	it in his hand. Benny looks over at Wykoff who 
+	offers him an encouraging smile.
+
+81   CLOSE ON BENNY
+
+	as he looks back at the wall.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FOUR    48.
+
+82   BENNY'S POV
+
+	of the writing on the wall. WE PUSH IN on the last
+	written words: Sisko reaches for the Orb box and...
+
+83   ON BENNY
+
+	still holding the roller at his side. Wykoff steps 
+	up behind him --
+
+					WYKOFF
+	Go ahead. Save yourself.
+
+	Sisko lifts the paint roller and holds it inches 
+	from the wall. His hand begins to shake, as he 
+	struggles to make up his mind.
+
+84   EXT. TYREE - DESERT - DAY
+
+	Sisko begins SHOVELING sand onto the Orb box.
+
+					SISKO
+		Got to cover it up... bury it...
+
+85   ANGLE ON EZRI
+
+	as she rushes over, followed by Jake who's still 
+	feeling the effects of the jolt he received from the 
+	Orb.
+
+					EZRI
+			Benjamin! What are you doing?
+
+	She tries to grab his arm but he shoves her away, 
+	knocking her to the ground.
+
+86   ON SISKO
+
+	as he continues to shovel sand on the Orb. And off 
+	this disturbing image of Sisko trying to re-bury the 
+	Orb, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    49.
+                           ACT FIVE                             
+
+	FADE IN:
+
+87   INT. ISOLATION WARD - DAY
+
+	CLOSE ON Benny holding the roller, his hand shaking 
+	violently, still only inches away from the wall. 
+	Doctor Wykoff continues to stand at his shoulder, 
+	urging him on.
+
+					WYKOFF 
+			It's for your own good, Benny. 
+			Wipe away the words. Destroy 
+			them before they destroy you.
+
+88   EXT. TYREE - DESERT - DAY
+
+	as Sisko keeps shoveling sand on the box.
+
+					EZRI 
+			Ben -- stop!
+
+	But Sisko keeps shoveling relentlessly.
+
+89   EXT. SPACE (OPTICAL)
+
+	The Romulan ships draw ever closer to the Bajoran 
+	blockade.
+
+90   INT. BAJORAN SHIP - BRIDGE
+
+	Kira, Odo and the crew as before.
+
+					ODO
+				(off a panel) 
+			The Romulans have powered their 
+			weapons. I think they're calling 
+			your bluff.
+
+					KIRA
+			Auxiliary power to forward 
+			shields.
+				(to com) 
+			Kira to all ships. Hold your
+			positions.
+
+	Odo turns to Kira --
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    50.
+
+90   CONTINUED:
+
+					ODO
+				(sotto voce) 
+			Nerys... if you're going to end 
+			this, I suggest you do it now.
+
+	Kira is definitely feeling the pressure to give in, 
+	to call off the blockade. She's one breath away 
+	from giving the order --
+
+91   INT. WARDROOM
+
+	Ross and Cretak study a monitor.
+
+					ROSS
+				(more to himself)
+			Time to fold, colonel...
+
+92   EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	A closer view. Looking even hotter and more molten 
+	than before.
+
+93   INT. KLINGON BRIDGE
+
+	Everyone, including Worf, is battling the heat. 
+	Everything on the ship; the control panels, the 
+	bulkheads, the chairs -- are all getting too hot to 
+	touch. O'Brien works his console gingerly, trying 
+	not to burn his fingertips.
+
+					O'BRIEN
+				(ouch)
+			Damn it.
+				(off his console)
+			We're ready, general.
+
+					MARTOK
+				(an order)
+			Decloak and prepare to fire...
+				(a gift)
+			... on Worf's command.
+
+94   EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	The Klingon Bird of Prey DECLOAKS dangerously close 
+	to the sun.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    51.
+
+95   INT. KLINGON BRIDGE
+
+	CLOSE ON Worf staring intently at the viewscreen. 
+	This is the cathartic moment he's been waiting for:
+
+					WORF 
+			Fire!
+
+96   EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	To see the ship fire the EM pulse directly into the 
+	sun.
+
+97   INT. KLINGON BRIDGE (OPTICAL)
+
+	A long beat as everyone waits for the solar plasma 
+	to erupt off the sun's surface... but nothing 
+	happens.
+
+					MARTOK 
+			It didn't work...
+
+					QUARK 
+			Oh, well -- we tried. Time to 
+			go.
+
+					WORF
+				(to O'Brien) 
+			No, not until we complete our 
+			mission.
+
+					O'BRIEN
+			We need to increase the magnetic 
+			gradient... I'll recalibrate the 
+			deflector.
+
+					BASHIR
+				(off his console) 
+			We might not have time. Three 
+			Jem'Hadar ships are approaching 
+			bearing zero-zero-five mark one-
+			nine-zero.
+
+					MARTOK 
+			I suggest you work quickly, 
+			Chief.
+
+98   EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	To see three Jem'Hadar Ships headed for the Bird of 
+	Prey.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    52.
+
+99   EXT. TYREE - DESERT - DAY
+
+	Sisko continues to throw sand on the Orb box. With 
+	desperation and rage coursing through his system, 
+	Sisko lifts his shovel over his head ready to smash 
+	the Orb box when suddenly, Ezri steps between him 
+	and his target.
+
+					EZRI 
+			No!
+
+	Sisko hesitates, the shovel raised over his head.
+
+					SISKO 
+			Get out of my way...
+
+					EZRI 
+			You came here to find the 
+			Prophets -- remember?
+
+					SISKO 
+			Move.
+
+					EZRI 
+				(adamant) 
+			You promised Jadzia you'd make 
+			things right. Well, now's your 
+			chance --
+
+	Sisko tenses his grip on the shovel, preparing to 
+	strike. Ezri steels herself -- she's not going to 
+	move.
+
+					EZRI 
+			Open the box.
+
+	Sisko's arms start to shake and the shovel drops out 
+	of his hands --
+
+								MATCH CUT TO:
+
+100  INT. ISOLATION WARD - DAY
+
+	-- the paint roller falling from Benny's grip, 
+	splattering paint on the floor.
+
+101  WIDER
+
+	to include Wykoff, his face contorted in anger.
+
+					WYKOFF 
+			No!
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    53.
+
+101  CONTINUED: 
+
+	Benny takes the pencil and moves towards the wall 
+	where the last sentence of his story remains 
+	unfinished: Sisko reaches for the Orb box and...
+
+102  NEW ANGLE
+
+	as Wykoff pulls at Benny's arm, knocking the pencil 
+	out of his hand. Benny pivots and decks Wykoff, 
+	knocking him to the ground. The Orderly lunges at 
+	him, but Benny takes him out as well.
+
+103  ANOTHER ANGLE
+
+	to see Benny pick up the pencil and step up to the 
+	wall --
+
+104  CLOSE ON THE WALL
+
+	as Benny completes the sentence with the words:
+	... opens it.
+
+									HARD CUT TO:
+
+105  EXT. TYREE - DESERT - DAY
+
+	Sisko falls to his knees in front of the Orb box and 
+	opens it.
+
+106  CLOSE ON SISKO (OPTICAL)
+
+	as he's bathed in the bright glow of the Orb.
+
+107  ON THE OPENED ORB BOX (OPTICAL)
+
+	to see an INTENSE WHITE ENERGY VORTEX. It shoots 
+	out of the Orb and heads straight for the sky --
+
+108  NEW ANGLE
+
+	to see Ezri, Jake, and Joseph looking up to see the 
+	VORTEX disappearing into the heavens.
+
+109  CLOSE ON SISKO (OPTICAL)
+
+	staring into the Orb, bathed in its light. We hear 
+	the beating of his heart and a moment later, a 
+	bright, white light fills the screen --
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    54.
+
+110  WHITE SCREEN (OPTICAL)
+
+	Sisko is alone in the white limbo.
+
+					SISKO 
+			Show yourselves. I've come to 
+			speak with you...
+
+	But all he hears in response is the sound of his own 
+	heartbeat.
+
+111  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing the station. We see the ENERGY 
+	VORTEX pass by and just as suddenly, disappear.
+
+112  CLOSER (OPTICAL)
+
+	on the point of disappearance to see the wormhole 
+	BURST into view.
+
+113  INT. PROMENADE - SECOND LEVEL
+
+	An excited crowd has gathered at the windows. The 
+	Bajorans among them are thrilled to see the rebirth 
+	of the Celestial Temple.
+
+114  EXT. SPACE (OPTICAL)
+
+	To see the Bajoran ships await the Romulan 
+	onslaught.
+
+115  INT. BAJORAN SHIP - BRIDGE
+
+	As Odo looks to Kira -- they've run out of time.
+
+					ODO
+			Do we stand down, colonel?
+
+	But before Kira can respond --
+
+					BAJORAN CREWMAN 
+			Sir -- we're getting a 
+			transmission from Deep Space 
+			Nine. The wormhole... it's back.
+
+					KIRA
+			On screen.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    55.
+
+116  ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	to see the open wormhole.
+
+117  RESUME
+
+	on Kira staring at the viewscreen with awe and 
+	surprise.
+
+					ODO
+				(still awaiting an 
+				answer) 
+			Nerys? 
+
+	But Kira's attention is still on the wormhole --
+
+118  EXT. SPACE - ON THE WORMHOLE (OPTICAL)
+
+	to see a stream of RED VORTEX ENERGY EXPELLED out of 
+	the mouth of the wormhole. Once outside the
+	wormhole, the red vortex momentarily GLOWS INTENSELY 
+	just before it EXPLODES. After a beat, whatever is 
+	left of the Vortex fades away into the void of 
+	space.
+
+119  INT. BAJORAN SHIP - BRIDGE
+
+	CLOSE ON Kira, her resolve hardening.
+
+					KIRA
+				(to the Crewman) 
+			Open a channel to all Bajoran 
+			ships.
+				(to the com) 
+			Hold your position and prepare to 
+			fire on my command. 
+
+	Kira looks over at Odo, who smiles with support.
+
+120  INT. WARDROOM
+
+	Ross and Cretak remain focused on the monitor.
+
+					CRETAK
+			I'm afraid the colonel has run
+			out of time.
+
+	And as Ross reacts to her ominous words --
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    56.
+
+121  INT. BAJORAN SHIP - BRIDGE
+
+	Kira sits in the Captain's Chair.
+
+					KIRA
+			Lock targets.
+
+					BAJORAN CREWMAN
+			Targets locked.
+
+					KIRA
+				(to Odo)
+			Still glad you came along?
+
+					ODO
+				(without hesitation)
+			I wouldn't have missed it for
+			anything.
+
+	Then, something on the viewscreen catches Odo's 
+	attention...
+
+					ODO
+				(with amazement)
+			Nerys...
+
+122  ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	to see the Romulan ships suddenly changing course 
+	and moving away from the Bajoran blockade.
+
+					ODO (O.S.)
+			They're pulling back.
+
+123  RESUME
+
+	The crew SHOUTS in triumph.
+
+					BAJORAN CREWMAN
+				(off his console)
+			Colonel... Admiral Ross would
+			like to speak with you.
+
+					KIRA
+			Put him through.
+
+124  ON THE VIEWSCREEN - THE WARDROOM (OPTICAL)
+
+	to see Admiral Ross, alone. Cretak is nowhere in 
+	sight. Ross smiles, but he still looks like a man 
+	who's been under a great deal of stress and knows 
+	he's in for a great deal more.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    57.
+
+124  CONTINUED:
+
+					ROSS
+			You can blink now, colonel.
+			You've won.
+				(a beat)
+			Senator Cretak has agreed to
+			remove the weapons from Derna.
+
+								INTERCUT WITH:
+
+					KIRA
+			What changed her mind?
+
+					ROSS
+				(a modest shrug)
+			I told her that if she didn't
+			remove them, I would.
+
+					KIRA
+			And what changed your mind?
+
+					ROSS
+			You did, colonel. Remind me
+			never to play poker with you.
+
+	Kira gives a small nod to acknowledge the 
+	compliment. And off this moment, we go to...
+
+125  EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	The three Jem'Hadar ships swoop past the Klingon 
+	Bird of Prey as both sides open FIRE.
+
+126  INT. KLINGON BRIDGE
+
+	as the ship is ROCKED by a phaser hit. The heat 
+	continues to be oppressive.
+
+					MARTOK
+			Well, Worf... did I not promise
+			you a glorious battle?
+
+					WORF
+			It is all that I had hoped for.
+
+	The ship is ROCKED VIOLENTLY again as O'Brien 
+	finishes working his console.
+
+					O'BRIEN
+			EM pulse ready, general.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    58.
+
+126  CONTINUED:
+
+					QUARK
+				(blurting it out)
+			Then what are you waiting for?
+			Fire!
+
+					MARTOK
+				(to O'Brien)
+			By all means, Chief. Fire.
+
+127  EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	The Klingon ship dives back toward the sun and FIRES 
+	another EM pulse directly at the sun. This time, a 
+	huge roiling ball of solar plasma begins forming on 
+	the sun's surface.
+
+128  INT. KLINGON BRIDGE
+
+	As before.
+
+					BASHIR
+				(off his console)
+			It's working.
+
+					QUARK
+			Great. Now can we leave?
+
+	The ship takes another HIT.
+
+					WORF
+				(to Helm)
+			Full impulse.
+
+129  EXT. SPACE - MONAC'S SUN (OPTICAL)
+
+	The Klingon Bird of Prey breaks orbit away from the 
+	sun. The three Jem'Hadar Ships turn to follow.
+
+130  VARIOUS ANGLES (OPTICAL)
+
+	as the burning, solar plasma is flung out from the sun 
+	in a wide arc. The Bird of Prey barely clears the 
+	oncoming plume, which destroys the Jem'Hadar Ships.
+
+	The giant fireball sweeps through space and CRASHES 
+	into the shipyard, incinerating it.
+
+131  INT. KLINGON BRIDGE
+
+	as the Klingons all react with Klingon jubilation.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    59.
+
+132  ANGLE ON
+
+	O'Brien, Bashir and Quark, who are too exhausted to 
+	join in the celebration.
+
+					QUARK
+			I hope Jadzia appreciates all 
+			this...
+
+					BASHIR 
+			I think she does.
+
+					WORF (O.S.) 
+				(in Klingon) 
+			Lohm-Ict-lihj posh-Machh-lodge 
+			Sto-vo-kor... (Open your gates, 
+			Sto-vo-kor... )
+
+133  ANGLE ON WORF
+
+	eyes closed, chanting.
+
+					WORF 
+			Jadzia pay-lodge pah-dock-Lih 
+			Dun. Shoo-vwee-vahm baht-leh pay-
+			lodge. Pay-lodge Poh-Hokh-Vahd 
+			Sto-vo-kor. (Welcome Jadzia to 
+			your halls... welcome this 
+			honored warrior... welcome her, 
+			Sto-vo-kor, for all eternity.)
+
+	And with that, Worf opens his eyes and -- for the 
+	first time in a long while -- allows himself a 
+	smile.
+
+134  WHITE SCREEN (OPTICAL)
+
+	Sisko is still in the white limbo. Suddenly, the 
+	sound of his heartbeat is transformed into the sound 
+	of a PIANO playing the tune from "Image in the 
+	Sand." Sisko turns toward the sound of the music, 
+	only to find himself --
+
+									CUT TO:
+
+135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL)
+
+	-- seated at the piano, playing the piece himself. 
+	The restaurant is empty. On the piano mantle is the 
+	baseball, which falls off and rolls away, just like 
+	before. Sisko follows the ball with his eyes --
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    60.
+
+136  SISKO'S POV
+
+	of the ball rolling to a stop. After a beat, a 
+	WOMAN'S hand enters frame and picks up the ball. WE 
+	ADJUST TO reveal SARAH SISKO, or should we say a 
+	Sarah alien? (Note: though she still possesses the 
+	strange, otherworldliness of her people, this 
+	wormhole alien is definitely more accessible and 
+	seems to be talking to Sisko rather than at him.)
+
+					SARAH ALIEN 
+			The Sisko has completed his task.
+
+	Sisko stands to face the alien.
+
+					SISKO 
+			Sarah?
+
+					SARAH ALIEN 
+			The Kosst Amojan no longer 
+			threatens us. All has been 
+			restored.
+
+					SISKO
+			You mean the Pah-wraith? It's no 
+			longer in the wormhole?
+
+					SARAH ALIEN 
+			I have cast it out.
+
+					SISKO
+				(putting it together) 
+			Is that why the Prophets sent me 
+			to Tyree? To release you from 
+			the Orb?
+
+					SARAH ALIEN 
+			The Kosst Amojan tried to stop 
+			you with a false vision. But you 
+			did not waver. You fulfilled 
+			your destiny.
+
+					SISKO
+			My destiny? You make it sound 
+			like my life's over.
+
+					SARAH ALIEN 
+			The Sisko must still face many 
+			tasks.
+
+					SISKO
+			I don't suppose you're going to 
+			tell me what they are...
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    61.
+
+137  EXT. SISKO'S RESTAURANT - ALLEY - NIGHT (OPTICAL)
+
+	Sisko is seated on his stool next to a bag of clams. 
+	The Sarah alien stands in the doorway.
+
+					SARAH ALIEN 
+			The Emissary is corporeal. 
+			Linear.
+
+					SISKO
+			Linear or not, I need some 
+			answers.
+
+					SARAH ALIEN 
+			The Sisko is intrusive.
+
+	Sisko stands and approaches the alien.
+
+					SISKO 
+			Are you Sarah Sisko? Are you my 
+			mother?
+
+	For the first time, we see a wormhole alien 
+	hesitate, apparently unsure of how to answer.
+
+					SARAH ALIEN 
+			Sarah Sisko was corporeal. For a 
+			time, I shared her existence.
+
+138  INT. SISKO'S RESTAURANT - KITCHEN - NIGHT (OPTICAL)
+
+	Sisko finds himself behind the counter.
+
+					SISKO
+			You took over her body --
+				(putting it all 
+				together) 
+			-- made sure she married my 
+			father... so that she'd give 
+			birth to me...
+
+					SARAH ALIEN 
+			The Sisko is necessary.
+
+					SISKO 
+			And once you didn't need her 
+			anymore, you left her... no 
+			wonder she walked out on my 
+			father. She never chose him, you 
+			did.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    62.
+
+138  CONTINUED:
+
+					SARAH ALIEN
+			The Sisko would prefer different 
+			answers.
+
+139  INT. SISKO'S RESTAURANT - PATIO - NIGHT (OPTICAL)	139
+
+	Sisko is now seated at a table across from the Sarah 
+	alien.
+
+					SISKO 
+			What you're telling me isn't easy 
+			to accept... you arranged my 
+			birth. I exist because of you.
+
+	Sisko is trying to absorb all the implications of 
+	what he's learned.
+
+					SARAH ALIEN 
+			The Sisko's path is a difficult 
+			one.
+
+					SISKO
+			But why me? Why did it have to 
+			be me?
+
+					SARAH ALIEN 
+			Because it could be no one else.
+
+
+	And with that, the screen WHITES OUT --
+
+140  EXT. TYREE - DESERT - DAY (OPTICAL)
+
+	Sisko finds himself kneeling before the Orb. He 
+	slowly closes the door.
+
+141  NEW ANGLE
+
+	to see Jake tending to Joseph. ADJUST to find Ezri 
+	near Sisko.
+
+					EZRI 
+			Benjamin?
+
+	Sisko looks over at her and smiles.
+
+					EZRI 
+			That must've been some Orb 
+			experience.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    63.
+
+141  CONTINUED:
+
+					SISKO 
+			I'll tell you about it... 
+			someday.
+
+142  OMITTED
+
+143  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+144  OMITTED
+
+144A INT. PROMENADE
+
+	Sisko, Ezri and Jake step out of the airlock to be 
+	met by a throng of celebrating BAJORANS. The crowd 
+	swarms around the Emissary, enveloping him in a wave 
+	of affection. AD HOC greetings: "Emissary!" 
+	"Welcome home," "Thank you, Emissary," "Thank you," 
+	"Walk with the Prophets, Emissary," "Bless you, 
+	Emissary," "You gave us back the Orbs." These 
+	shouts continue throughout the scene --
+
+144B NEW ANGLE
+
+	to include Kira, Worf, Quark, O'Brien, Bashir and 
+	Odo in another part of the crowd, waiting for 
+	Sisko's approach. Sisko tries to stop in front of 
+	them.
+
+					WORF
+			Welcome back, captain.
+
+					O'BRIEN 
+			We've missed you, sir.
+
+					KIRA
+			Thank you -- I knew you'd bring 
+			the Prophets back to us.
+
+					SISKO
+			I hear you've all been pretty 
+			busy yourselves.
+
+	But before they can answer him, Sisko is swept away 
+	by the crowd.
+
+    DEEP SPACE NINE: "Shadows and... " - REV. 08/11/98 - ACT FIVE    64.
+
+144C   ANOTHER ANGLE
+
+	as Ezri passes by Kira and the others.
+
+					EZRI 
+			Nerys! Julian! Odo! It's so 
+			good to see you. Worf -- we need 
+			to talk --!
+
+	But Ezri is also swept away by the crowd.
+
+					BASHIR 
+			Who's that?
+
+	Kira shakes her head, she doesn't know. Neither does 
+	anybody else. Then Jake moves past with the answer:
+
+					JAKE 
+				(smiling) 
+			That's Dax.
+
+					WORF 
+				(stunned) 
+			Dax?
+
+					JAKE 
+			That's right, Ezri Dax. 
+			Incredible, isn't it?
+
+	And then Jake is pushed past them as well.
+
+145  NEW ANGLE
+
+	on Worf and the others as this information sinks in.
+
+					WORF
+			It cannot be...
+
+					QUARK 
+				(stunned) 
+			She's so much... shorter.
+
+	And as they try to catch another glimpse of Ezri in 
+	the crowd, Odo sums up their feelings.
+
+					ODO 
+			Just when you thought things 
+			couldn't get more interesting...
+
+	And off this, we:
+
+								FADE TO BLACK.
+
+                        END OF ACT FIVE                         
+                            THE END                             

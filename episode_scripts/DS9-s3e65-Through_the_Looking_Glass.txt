@@ -1,0 +1,3048 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                      "Improbable Cause" 
+                    (fka "Untitled Garak") 
+                          #40513-465 
+                              
+                           Story by 
+                Robert Lederman & David R. Long 
+                              
+                          Teleplay by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                         Avery Brooks 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        January 25, 1995
+
+     STAR TREK: DS9 - "Improbable Cause" - 01/25/95 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Improbable Cause" 
+                             CAST 
+
+          SISKO                    MILA
+          KIRA                     TAIN
+          ODO,                     INFORMANT
+          BASHIR                   RETAYA
+          DAX                      ROMULAN
+          O'BRIEN                  
+          QUARK                    
+          GARAK                    
+
+          Non-speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK DEEP SPACE NINE: "Improbable Cause" - 01/25/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Improbable Cause" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK CORRIDOR              
+          COMMANDER'S OFFICE            RUNABOUT
+          GARAK'S SHOP                  
+          INFIRMARY                     
+          PROMENADE/SECOND LEVEL        
+          PROMENADE/FIRST LEVEL         
+          QUARK'S                       
+          SECURITY OFFICE               
+          WARDROOM                      
+
+        RUNABOUT                      
+
+        CAVE                          
+
+        ROMULAN CORRIDOR              
+        ROMULAN READY ROOM            
+
+   STAR TREK: "Improbable Cause" - 01/25/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Improbable Cause" 
+                      PRONUNCIATION GUIDE 
+
+          KIRA NERYS               KIH-ruh nar-EES
+          DEKORA ASSAN             deh-CORE-ah uh-SAWN
+          DELAVIAN                 deh-LAY-vee-uhn
+          ELIM                     EE-lim.
+          FLAXIAN                  FLAX-ee-uhn
+          JAPORI                   juh-POOR-ee
+          MILA                     MEE-lah
+          NAUSICAAN                NAW-si-can
+          OMARION                  O-mar-ee-on
+          ORIAS                    o-RYE-us
+          RETAYA                   reh-TIE-yuh
+          ENABRAN TAIN             en-AH-bran TAIN
+          TAL SHIAR                TAL she-ARE
+          TALARIAN                 tuh-LARE-ee-uhn
+          UNEFRA                   oo-NEF-ruh
+          YALOSIAN                 yuh-LOW-zhee-uhn
+          YRIDIAN                  yir-ID-ee-uhn
+          NITRILIN                 nuh-TRILL-in
+          PHEROMONIC               fair-MAWN-ik
+
+        DEEP SPACE: "Improbable... " - REV. 01/26/95 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "Improbable Cause"                           
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Establishing.
+
+2    INT. QUARK'S - SECOND LEVEL
+
+
+	where BASHIR and GARAK are sitting at a table having lunch.  
+	We pick them up in mid-conversation as Garak is leisurely 
+	expounding on some theory of his.  Bashir is wolfing his 
+	lunch down as if he's in a hurry.
+
+					GARAK
+			-- Doctor, I just don't see the value 
+			in this man's work.
+
+					BASHIR
+			Garak, Shakespeare is one of the 
+			giants of human literature.
+
+					GARAK
+			I knew Brutus was going to kill Caesar 
+			in the first act, but Caesar doesn't 
+			figure it out until the knife is in 
+			his back...
+
+					BASHIR
+			That's why it's a tragedy.  Caesar 
+			couldn't conceive that his best friend 
+			would plot his murder.
+
+	As Garak continues, Bashir continues to eat heartily.
+
+					GARAK
+			Tragedy is not the word I would use, 
+			farce would be more appropriate.  
+			Supposedly, this man is the leader 
+			of an entire empire, a brilliant 
+			military tactician, yet he can't see 
+			what's going on under his very nose --
+
+	Garak stops himself, no longer able to ignore the fact that 
+	Bashir is eating so fast.
+
+					GARAK
+			Are you in a hurry, Doctor?
+
+           DEEP SPACE: "Improbable... " - 01/25/95 - TEASER          1A.
+
+2    CONTINUED:
+
+					BASHIR
+			I have to get back to the Infirmary.  
+			There's a lot of work to do this 
+			afternoon.
+
+					GARAK
+				(sighs)
+			You're lucky.  I have more time on 
+			my hands than I know what to do with.
+
+					BASHIR
+			You could finish those pants I dropped 
+			off last week.
+
+					GARAK
+			Tomorrow.
+
+	Bashir frowns slightly and keeps eating.
+
+           DEEP SPACE: "Improbable... " - 01/25/95 - TEASER           2.
+
+2    CONTINUED:	(2)
+
+					GARAK
+			You're going to give yourself 
+			indigestion.
+
+					BASHIR
+			And I'll have you to thank for it.  
+			If you hadn't been late, I'd be able 
+			to enjoy my lunch.
+
+					GARAK
+			This isn't the first time I've seen 
+			you rush through a meal.  You never 
+			take the time to savor your food.  
+			It seems to be a human characteristic.
+
+	Garak looks over and sees that at another table, a HUMAN is 
+	having lunch with an N.D. ALIEN.
+
+					GARAK
+			Look over there... that Talarian 
+			isn't even half finished with his 
+			meal, but his human companion's plate 
+			is empty.
+
+					BASHIR
+			Maybe he and I should get together 
+			for dessert and leave you and the 
+			Talarian to wile away the afternoon.
+
+					GARAK
+			It's a very interesting sociological 
+			trait, don't you think?  For 
+			generations now, humankind has had 
+			more than enough food... yet you all 
+			eat as if you were afraid someone 
+			was going to come along and take 
+			your plate away.
+
+	Bashir, who's finished his meal, eyes Garak's nearly untouched 
+	plate.
+
+					BASHIR
+			Garak, why don't you eat for a while 
+			and let me talk?
+
+					GARAK
+				(musing)
+			Fear of starvation amid plenty... it 
+			points to some dark secret hidden in 
+			the human soul... a gnawing hunger.  
+			Someone should do a study.
+
+        DEEP SPACE: "Improbable... " - REV. 01/26/95 - TEASER         3.
+
+2    CONTINUED:	(3)
+
+					BASHIR
+			Why don't you do it?  You're the one 
+			with all the free time on your hands.
+
+	Garak sees that Bashir is having none of this.  He picks up 
+	his fork to resume eating his half-full plate.
+
+					GARAK
+			If you want to have dessert, go ahead.  
+			I won't be offended.
+
+					BASHIR
+			I have to go.  I'm sorry to leave 
+			while you're still eating.
+
+					GARAK
+				(dismissing his apology)
+			No, no... I'm done, as well.
+
+					BASHIR
+			But you're only half finished.
+
+	Garak tosses his napkin down and stands; they start to leave 
+	Quark's.
+
+					GARAK
+			If you really must know, I've been 
+			nibbling on Delavian chocolates all 
+			morning.
+
+3    INT. PROMENADE - SECOND LEVEL
+
+	as they ENTER from the Quark's.  SUPERNUMERARIES as needed.
+
+					BASHIR
+			How did you get your hands on Delavian 
+			chocolates?
+
+					GARAK
+				(lightly)
+			I promised my... supplier that I 
+			wouldn't tell.
+				(beat)
+			But since I deprived you of dessert, 
+			I'd be happy to bring some by the 
+			Infirmary later this afternoon.
+
+					BASHIR
+			Thanks, I'd like that.
+
+        DEEP SPACE: "Improbable... " - REV. 01/26/95 - TEASER         4.
+
+3    CONTINUED:
+
+					GARAK
+			Until then, Doctor...
+
+	And with that, Garak turns and moves away.  Before Julian 
+	can move off, KIRA calls out to him from off-screen.
+
+					KIRA (O.S.)
+			Julian...
+
+	Bashir turns and sees her approach.
+
+					BASHIR
+			Major...
+
+					KIRA
+			About those atmospheric specifications 
+			you requested for the Yalosian 
+			Ambassador...
+
+					BASHIR
+				(remembering)
+			Sixty percent nitrogen, ten percent 
+			benzene, and the rest hydrogen 
+			fluoride, as I recall...
+
+					KIRA
+			We ran a test in one of the guest 
+			quarters... the mixture was so 
+			corrosive it started to dissolve the 
+			carpet.
+
+					BASHIR
+			Don't look at me, it's what they 
+			breathe...
+
+					KIRA
+			Then I guess we'll just have to pull 
+			the carpet out...
+
+					BASHIR
+			Just be sure you don't replace it 
+			with anything red or orange...
+
+					KIRA
+			Why not?
+
+					BASHIR
+			They can't see that part of the color 
+			spectrum.
+
+					KIRA
+			Is there anything else I should know 
+			about Yalosians...
+
+        DEEP SPACE: "Improbable... " - REV. 01/26/95 - TEASER        4A.
+
+3    CONTINUED:	(2)
+
+					BASHIR
+			As a matter of fact...
+
+	Suddenly the Promenade is ROCKED by a violent EXPLOSION.  
+	Kira and Bashir exchange a stunned look... rush to the rail.  
+	They look down and see SMOKE billowing up.
+
+					BASHIR
+				(hits combadge)
+			Bashir to Infirmary... Medical 
+			emergency on the Promenade...
+
+4    NEW ANGLE - ANOTHER PART OF PROMENADE - FIRST LEVEL
+
+	as Bashir and Kira head toward the smoke which is now 
+	billowing from the blasted area.  SUPERNUMERARIES run in 
+	the opposite direction, trying to get away.
+
+	As they near the blast site, Bashir reacts when he realizes --
+
+					BASHIR
+			Garak's shop...
+
+           DEEP SPACE: "Improbable... " - 01/25/95 - TEASER           5.
+
+4    CONTINUED:
+
+	Kira looks and sees that the doors and windows are blasted 
+	open from the inside... FIRES burn within... but the AUTOMATED 
+	FIRE SUPPRESSION SYSTEM is kicking in to put them out.  
+	Outside the shop, several FIREFIGHTERS with hand-held 
+	EXTINGUISHERS are putting out small pieces of flaming shrapnel 
+	from the shop.
+
+	Bashir moves forward... and sees a figure lying on the floor 
+	some yards outside the blown out doors... it's Garak, and an 
+	N.D. Nurse is at his side.
+
+	Bashir hurries to him... and sees that Garak, though he has 
+	small cuts on his face from flying glass, isn't seriously 
+	hurt, just momentarily stunned from the blast.  Bashir helps 
+	him sit up...
+
+					BASHIR
+			Are you all right... ?
+
+	Garak reaches up and gingerly touches his own temple...
+
+					GARAK
+			As well as could be expected...
+
+	He glances at his burning shop...
+
+					GARAK
+				(wry)
+			But I'm afraid your pants won't be 
+			ready tomorrow, after all...
+
+	Off Garak's wan smile we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT ONE           6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+5    INT. GARAK'S SHOP
+
+	where ODO, O'BRIEN, and an N.D. TECHNICIAN are sifting through 
+	the rubble as SISKO ENTERS.  SECURITY OFFICERS stand outside 
+	in the Promenade, keeping the curious away.  The fires are 
+	no longer burning, and the smoke has cleared away.  O'Brien 
+	is scanning a blasted open portion of a wall panel that seems 
+	to be the locus of the explosion.
+
+					SISKO
+			Report.
+
+					O'BRIEN
+				(indicating blast)
+			The explosion was caused by a rupture 
+			in the power conduit behind this 
+			wall.
+
+					SISKO
+			What caused the rupture?
+
+					O'BRIEN
+			Probably an overload in the ODN 
+			juncture.
+
+	Odo gives a small harumph as he continues to scan the rubble.
+
+					SISKO
+			I take it you don't agree.
+
+					ODO
+			Let's just say I find it odd that a 
+			conduit running behind Garak's shop 
+			would "happen" to overload.
+
+					SISKO
+			So you think someone ruptured it 
+			deliberately.
+
+					ODO
+			I wouldn't be surprised.  It stands 
+			to reason that a man with Garak's 
+			past would have enemies.
+
+	Suddenly O'Brien reacts to something on his scanner...
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT ONE        7.
+
+5    CONTINUED:
+
+					O'BRIEN
+			Commander... I'm detecting traces of 
+			nitrilin.
+
+	This strikes Odo as awfully odd.
+
+					ODO
+			Nitrilin is extremely unstable.
+
+					O'BRIEN
+			And very rare.  It couldn't have 
+			come from the power conduit.
+
+					ODO
+			It could be the residue from a micro-
+			explosive device planted on the 
+			conduit and rigged to cause a 
+			rupture...
+
+					SISKO
+			Making it look like the explosion 
+			was an accident.
+
+					ODO
+			Exactly.
+
+					SISKO
+				(hits combadge)
+			Sisko to Ops.
+
+					KIRA'S COM VOICE
+			Go ahead, Commander.
+
+					SISKO
+			Delay the departure of all vessels 
+			until further notice.  We have reason 
+			to believe that someone may have 
+			tried to kill Mister Garak.
+
+					KIRA'S COM VOICE
+			Acknowledged.
+
+	Sisko turns to Odo...
+
+					SISKO
+			I think it's time we had a little 
+			talk with Garak...
+
+									CUT TO:
+
+6    INT. INFIRMARY
+
+	CLOSE on Garak.
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT ONE        8.
+
+6    CONTINUED:
+
+					GARAK
+			But who would want to kill me... a 
+			simple tailor?
+
+7    WIDEN
+
+	to include Sisko and Odo, who share a look over Garak's 
+	disingenuous remark.  Bashir is treating Garak's wounds with 
+	a small medical device.  TWO SECURITY OFFICERS hang back by 
+	the door.
+
+					ODO
+			A simple tailor who used to be an 
+			agent of the Obsidian Order.
+
+					GARAK
+				(dismissing this)
+			The Obsidian Order?  Constable, you 
+			shouldn't put so much stock in Doctor 
+			Bashir's flights of fancy.
+				(beat)
+			Are you sure the explosion wasn't an 
+			accident, because I can't think of 
+			anyone who would wish me harm...
+
+	Sisko fixes him with a look...
+
+					SISKO
+			Someone tried to kill you, Garak, 
+			and whoever it was might try again... 
+			so if I were you, I'd give the matter 
+			some serious thought...
+
+	Garak sees his point, considers for a moment...
+
+					GARAK
+			Well... let me see... there was that 
+			Nausicaan whose wedding suit I 
+			misplaced... and that Yridian I owe 
+			money to... and, of course, there's 
+			always Major Kira...
+
+					BASHIR
+			This is serious, Garak.
+
+					GARAK
+			I'm being serious.  I don't think 
+			she likes me.
+
+					ODO
+			She doesn't.  But if she wanted you 
+			dead, you would be.
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT ONE        9.
+
+7    CONTINUED:
+
+					GARAK
+			You do have a point.
+
+					SISKO
+			Could this attempt on your life have 
+			anything to do with the reason you 
+			were exiled from Cardassia?
+
+	Garak makes a show about thinking this over.
+
+					GARAK
+			I seriously doubt the Finance Ministry 
+			would try to have me killed for 
+			failing to pay my taxes.
+
+	Our people exchange skeptical looks.
+
+					ODO
+			You expect us to believe that's the 
+			reason you were exiled?
+
+	Garak keeps obfuscating with a straight face.
+
+					GARAK
+			Do you think I'd lie about a thing 
+			like that?  It's not something I'm 
+			proud of.
+
+	Sisko has had about enough of Garak's dissembling.
+
+					SISKO
+			Garak, I don't like explosions going 
+			off on my station.  Innocent people 
+			could've been hurt.  You could've 
+			been hurt.  So if you know something 
+			you're not telling us, I suggest you 
+			start talking.
+
+					GARAK
+			I've told you everything I can think 
+			of.
+
+	Sisko and Odo exchange a skeptical look.
+
+					ODO
+			All right, then.
+				(sarcastic)
+			I'll investigate the... "leads" you've 
+			given us.  If you think of anyone 
+			else I should talk to, let me know.
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT ONE          10.
+
+7    CONTINUED:	(2)
+
+					GARAK
+			I certainly will.
+
+	Sisko indicates the Security Officers.
+
+					SISKO
+			We've assigned a security detail to 
+			you.  I suggest you stay as close to 
+			them as possible.
+
+	And with that, Sisko and Odo EXIT.  Bashir looks at Garak 
+	for a moment, then shakes his head in amazement.
+
+					BASHIR
+			Someone should do a study...
+
+					GARAK
+			A study?
+
+					BASHIR
+			To try and figure out why some people 
+			can't bring themselves to trust 
+			anyone, even when it's in their best 
+			interest.
+
+	Bashir has finished treating him so Garak now stands.
+
+					GARAK
+			Why is it that no one ever believes 
+			me, even when I'm telling the 
+			truth... ?
+
+					BASHIR
+			Have you ever heard the story of the 
+			boy who cried wolf?
+
+					GARAK
+			No...
+
+					BASHIR
+			It's a children's story about a young 
+			shepherd boy who gets lonely while 
+			tending his flock.  So he cries out 
+			to the villagers that a wolf is 
+			attacking the sheep.  The people 
+			come running, but of course, there's 
+			no wolf.  He claims that it's run 
+			away, and the villagers praise him 
+			for his vigilance.
+
+					GARAK
+				(smiles)
+			Clever lad... a charming story.
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT ONE       11.
+
+7    CONTINUED:	(3)
+
+					BASHIR (Cont'd)
+			I'm not finished.  The next day the 
+			boy does it again, and the next day, 
+			too... on the fourth day, a wolf 
+			really comes... the boy cries out at 
+			the top of his lungs, but the 
+			villagers ignore him... and the boy 
+			and his flock are gobbled up...
+
+					GARAK
+			That's a little graphic for children, 
+			don't you think?
+
+					BASHIR
+			But the point is that if you lie all 
+			the time, no one will believe you 
+			even if you're telling the truth.
+
+					GARAK
+			Are you sure that's the point, Doctor?
+
+					BASHIR
+			Of course, what else would it be?
+
+					GARAK
+				(matter-of-fact)
+			That you should never tell the same 
+			lie twice...
+
+	And with a faint smile on his lips, Garak turns and EXITS... 
+	followed by the Two Security Officers.  Off Bashir's face as 
+	he watches him go...
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+9    INT. SECURITY OFFICE
+
+	where Odo is seated at his desk studying a monitor.  After a 
+	moment, Garak ENTERS, and we see his Guards stand just outside 
+	Security.
+
+					GARAK
+			You wanted to see me?
+
+					ODO
+				(sardonic)
+			I have bad news for you... Major 
+			Kira has an airtight alibi.
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT ONE          12.
+
+9    CONTINUED:
+
+	Garak manages a weak smile.
+
+					ODO
+			I thought you might want to look 
+			over the passenger manifests of ships 
+			that recently came to the station.
+
+					GARAK
+			To see if I recognize anyone who 
+			might... wish me harm.
+
+					ODO
+			Exactly.
+
+	Odo gestures that Garak take his seat behind the desk, and 
+	the Cardassian does so.
+
+					ODO
+			I suggest you start with the most 
+			recent arrivals and work backwards...
+
+	Garak starts scrolling through the screen, and Odo stands 
+	nearby, hovering.  After a beat, Garak gives him a sidelong 
+	glance.  Odo doesn't take the hint, and Garak decides to try 
+	and put him out of his mind and keep scrolling.  After another 
+	few moments he can't take it anymore and looks up at him.
+
+					GARAK
+			Don't worry about me, Constable.  I 
+			can manage on my own.
+
+					ODO
+			I'm not about to leave you alone in 
+			here so you can look through my 
+			security files...
+
+					GARAK
+			What makes you think I haven't already 
+			looked through them... ?
+
+	This catches Odo off-guard, Garak lets him dangle for a bit, 
+	then...
+
+					GARAK
+			I'm joking, of course...
+
+					ODO
+				(uncertain)
+			Of course...
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT ONE          13.
+
+9    CONTINUED:	(2)
+
+	The two men size each other up for a beat, then Garak 
+	continues scrolling.  After a moment...
+
+					GARAK
+			I'm afraid I don't recognize any of 
+			these names...
+
+					ODO
+			The bomb could've been planted days 
+			ago, even weeks.  I suggest you keep 
+			going back just to be sure.
+
+					GARAK
+				(as he scrolls)
+			This could take forever.
+
+					ODO
+			I would think you'd have plenty of 
+			time on your hands, now that your 
+			shop is no longer... open for 
+			business.
+
+	Garak shoots him a look.  The door OPENS and O'Brien walks 
+	in, carrying a PADD.
+
+					O'BRIEN
+			I finished running the biomolecular 
+			scan you asked for.
+
+	He hands Odo the PADD, then mentions something that strikes 
+	him as odd.
+
+					O'BRIEN
+			I found traces of living tissue on 
+			the bulkhead around the blast site...
+
+	Odo reacts, studies the PADD.  Garak gets up from behind the 
+	desk to see, as well.
+
+					ODO
+			It looks like the remains of a 
+			pheromonic sensor.
+
+					O'BRIEN
+			A what?
+
+	Odo answers as if by rote, his mind is somewhere else...
+
+        DEEP SPACE: "Improbable... " - REV. 01/27/95 - ACT ONE       14.
+
+9    CONTINUED:	(3)
+
+					ODO
+			A sensor that's sensitive to 
+			pheromones.  It's triggered when a 
+			person of a particular species gets 
+			within range.
+
+					GARAK
+			In this case a Cardassian... me.
+
+	Odo moves to his desktop monitor...
+
+					ODO
+			They're known to be favored by Flaxian 
+			assassins...
+				(off monitor)
+			-- and it just so happens that a 
+			Flaxian came aboard the station just 
+			this morning...
+
+	Garak reacts to this news... Odo now has a suspect, and we 
+	go off his determined features...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT TWO          15.
+                            ACT TWO                             
+
+	FADE IN:
+
+10   INT. WARDROOM
+
+	were Odo is talking with the Flaxian, RETAYA, who is seated 
+	at the table.  Two Bajoran Security Personnel stand at ready 
+	near the door.  As Odo circles around him carrying a PADD, 
+	the Flaxian wears a salesman's demeanor.  He's a professional 
+	hit man, and he's determined to stick by his cover story.
+
+					ODO
+			-- so Mister...
+				(checks PADD)
+			Retaya -- your papers indicate you're 
+			a merchant.
+
+					RETAYA
+			I deal in fine wares... mostly fabrics 
+			and fragrances.
+
+					ODO
+			According to my information, you 
+			were a suspect in the murder of Dekora 
+			Assan, on Japori Two.
+
+	Retaya takes this accusation in stride with an amiable shrug.
+
+					RETAYA
+			I was cleared of those charges.  It 
+			was a case of mistaken identity...
+
+	A skeptical Odo gestures to Retaya's SAMPLE CASE.
+
+					ODO
+			This is your sample case, I take it.
+
+					RETAYA
+			Yes...
+
+	Retaya opens the case, and, sure enough, it's filled with 
+	small swatches of cloth and small bottles of perfume.  Odo 
+	holds up a TRICORDER and scans the rows of bottles.
+
+					ODO
+			How fortunate... as it happens, I'm 
+			looking for a gift for a friend...
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       16.
+
+10   CONTINUED:
+
+					RETAYA
+				(smiles)
+			A... lady friend?
+
+					ODO
+			Exactly...
+
+	Odo closes the tricorder and takes out one of the bottles.
+
+					ODO
+			Unfortunately, I don't have a sense 
+			of smell... could you describe this 
+			fragrance for me?
+
+					RETAYA
+			It has a somewhat.. floral bouquet.
+
+	Odo sets the bottle aside and peers at the other bottles.
+
+					ODO
+			We have a Cardassian tailor here on 
+			the station named Garak.  There was 
+			an explosion in his shop not long 
+			after you arrived.
+
+	Retaya's eyes go wide with concern.
+
+					RETAYA
+			I felt the blast... was he hurt?
+
+					ODO
+			Not seriously.
+
+	Odo holds up another bottle.
+
+					RETAYA
+			That one is more... musky than the 
+			first.
+
+	Odo puts this bottle aside as well, and starts looking through 
+	the case again.
+
+					ODO
+			Tell me... where were you when the 
+			explosion occurred?
+
+					RETAYA
+			The Ferengi's bar... I went there as 
+			soon as I arrived this morning.
+
+	Odo pulls another bottle from the case and holds it up.
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT TWO          17.
+
+10   CONTINUED:	(2)
+
+					RETAYA
+			I suppose I'd have to describe that 
+			one as... spicy...
+
+					ODO
+			I see.  And how long were you at 
+			Quark's?
+
+					RETAYA
+			The rest of the day... right up until 
+			your deputy came and brought me here.
+
+	Odo finally closes up the case, leaving only the three bottles 
+	out on the table.
+
+					RETAYA
+				(continuing)
+			So... have you found something for 
+			your lady friend?
+
+					ODO
+			Almost.  I think she would like 
+			something that's both floral and 
+			musky.
+				(gets an idea)
+			Perhaps if we mixed these two?
+
+					RETAYA
+				(casual)
+			Why not?
+
+	Odo uses the DROPPER in each bottle and deftly puts a few 
+	drops onto a MIXING PLATE.  Retaya sniffs it, then smiles up 
+	at Odo.
+
+					RETAYA
+			Very nice...
+
+	Odo picks up the third bottle that he set aside earlier.
+
+					ODO
+			On the other hand... she's also quite 
+			fond of spicy things... perhaps we 
+			should add a drop of this one as 
+			well... ?
+
+	Retaya's smile hardens just a little.
+
+					RETAYA
+			I don't think they'll go well 
+			together...
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       18.
+
+10   CONTINUED:	(3)
+
+					ODO
+			Let's find out.
+
+	Odo takes the dropper and is about to use it, but Retaya 
+	grabs his hand firmly.
+
+					RETAYA
+			I really don't think your lady friend 
+			will like the aroma...
+
+	Odo leans in close toward Retaya.
+
+					ODO
+			Much less the fact that when these 
+			three... "fragrances" are combined, 
+			they produce a gaseous mixture that 
+			can trigger a fatal heart attack 
+			when inhaled.
+
+	Retaya does his best to seem aghast at this news.
+
+					RETAYA
+			I had no idea...
+
+					ODO
+			Then why did you stop me from mixing 
+			them?
+
+					RETAYA
+			As I said, I simply didn't think 
+			your friend would like the aroma...
+
+	The two men regard each other... both knowing that Odo 
+	suspects Retaya, but both knowing he doesn't have anything 
+	to pin on him.
+
+					RETAYA
+			Unless you have anymore questions, 
+			I'd like to go now.  I have deliveries 
+			to make on Cardassia.
+
+					ODO
+			I'll let you know when you can leave 
+			the station.
+
+	Odo EXITS.  Off Retaya's face as he tries not to show concern 
+	over this...
+
+11   INT. QUARK'S
+
+	where Odo, Garak and Bashir are talking with QUARK by the 
+	bar.  SUPERNUMERARIES as needed, including the Two Security 
+	Officers assigned to Garak.
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT TWO          19.
+
+11   CONTINUED:
+
+					ODO
+			How long was the Flaxian salesman 
+			here today?
+
+					QUARK
+			He was here all day... but he was no 
+			salesman.
+
+					ODO
+			What do you mean?
+
+					QUARK
+			Oh, he had a sample case, and he 
+			made a big show of wanting everyone 
+			to see what he had inside it... but 
+			he didn't have the eyes.
+
+					BASHIR
+			The eyes?
+
+					QUARK
+			Salesman eyes, friendly but blank... 
+			they give nothing away.  You can't 
+			tell if you're being fleeced or getting 
+			the deal of your life...
+
+					BASHIR
+				(studying Quark's 
+				eyes)
+			I think I know exactly what you're 
+			talking about...
+
+					QUARK
+				(pleased)
+			Thank you, Doctor.
+				(to Odo)
+			What I'm saying is that it takes one 
+			to know one, and that Flaxian was no 
+			salesman.  But he was a good customer.  
+			Didn't win big, didn't lose big.
+				(trying to move off)
+			Now if you'll excuse me --
+
+					ODO
+				(stopping him)
+			What time did he arrive?
+
+					QUARK
+			About... fifteen minutes after we 
+			opened.
+
+					BASHIR
+			Are you sure he was here all day?
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       20.
+
+11   CONTINUED:	(2)
+
+					QUARK
+			Until security came in and dragged 
+			him off.  If you don't believe me 
+			ask Morn.  They talked for hours.
+
+					ODO
+			Did he talk to anyone else?
+
+					QUARK
+			I don't remember.  Can I go?  I have 
+			customers.
+
+	Odo gestures that he can, and Quark crosses away.
+
+					BASHIR
+			What do we do now?
+
+					ODO
+			That depends on Garak.
+
+					GARAK
+			Me?  What can I do?
+
+					ODO
+			You can start telling the truth for 
+			a change.  For instance, why would 
+			this Flaxian want to kill you?
+
+					GARAK
+			I have no idea.  Maybe someone hired 
+			him to do it.
+
+					ODO
+			Like who?
+
+					GARAK
+			I don't know.
+
+					ODO
+			Are you sure?
+
+					GARAK
+			You seem to be under the impression 
+			that I would knowingly withhold 
+			information when my life is at stake.  
+			I can assure you, Constable, I have 
+			a well developed instinct for self-
+			preservation.  If I had anything to 
+			add, I would have done so by now.
+
+					BASHIR
+			I think he's telling the truth, Odo.
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       21.
+
+11   CONTINUED:	(3)
+
+					ODO
+			I don't.  And if Mister Garak doesn't 
+			care enough about his own life to 
+			share his secrets with us, then I 
+			don't either.  I'm letting the Flaxian 
+			go.
+
+					BASHIR
+			Letting him go?  But he's our prime 
+			suspect.
+
+					ODO
+			I don't have enough evidence to hold 
+			him.  And it doesn't look like I'll 
+			be getting any more in the near 
+			future.
+				(to security guards)
+			You can go.
+
+	The Guards acknowledge and EXIT.
+
+					GARAK
+			What are you doing?
+
+					ODO
+			I'm canceling your security detail.
+
+					GARAK
+			But someone may try to kill me again.
+
+					ODO
+			A distinct possibility.  So if you 
+			change your mind and decide to be a 
+			little more cooperative, you know 
+			where to reach me.  Until then... 
+			sleep well, Garak.
+
+	And with that, Odo EXITS.  Off Garak's surprised look...
+
+12   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-Establishing.
+
+13   INT. PROMENADE - SECOND LEVEL
+
+	where we see Odo standing at the railing, looking down at 
+	the first level, where the Flaxian is making his way through 
+	the crowd holding his sample case.  O'Brien comes up next to 
+	Odo.
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       22.
+
+13   CONTINUED:
+
+					O'BRIEN
+			Everything's all set.  The 
+			transponder is aboard the 
+			Flaxian's ship.
+
+					ODO
+			You're sure he won't find it?
+
+					O'BRIEN
+			Not a chance, I hid it in his ship's 
+			magneton relay.  You'll be able to 
+			track him as long as you stay within 
+			half a light year.
+				(beat)
+			Who do you think he's going to lead 
+			you to?
+
+					ODO
+			If I knew that, I wouldn't have to 
+			follow him...
+
+	Odo moves away, leaving O'Brien to watch him go...
+
+14   INT. RUNABOUT
+
+	as the runabout door OPENS and Odo ENTERS.  He crosses into 
+	the cockpit, stops short in surprise when he sees Garak 
+	sitting in the co-pilot's seat, a SHOULDER PACK on the floor 
+	nearby.
+
+					GARAK
+			I was wondering when you were going 
+			to get here.  The Flaxian left two 
+			minutes ago.  If we're going to follow 
+			him, we're going to have to get 
+			moving.
+
+					ODO
+			What makes you think I'm going to 
+			follow him?
+
+					GARAK
+			Although Doctor Bashir may have been 
+			convinced by your performance in 
+			Quark's, I happen to know that you're 
+			far too dogged an investigator to 
+			let the only suspect in the case 
+			just disappear.
+
+					ODO
+				(sarcastic)
+			Congratulations, your powers of 
+			deduction are truly astonishing...
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO      22A.
+
+14   CONTINUED:
+
+					ODO (Cont'd)
+			Now if you'll kindly disembark, I'll 
+			continue my dogged investigation.
+
+					GARAK
+			But I intend to come with you.
+
+					ODO
+			Forgive me, but... are you making a 
+			joke?  Cardassian humor escapes me.
+
+					GARAK
+			I'm quite serious.  Believe me, having 
+			someone try to kill you is no laughing 
+			matter.
+
+					ODO
+			Perhaps... but I don't require your 
+			company on this trip.
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       23.
+
+14   CONTINUED:	(2)
+
+					GARAK
+			My presence could be very helpful, 
+			especially if the Flaxian goes into 
+			Cardassian space.
+
+					ODO
+			I'm not interested in debating your 
+			usefulness to --
+
+					GARAK
+				(off console)
+			I hate to interrupt, but the Flaxian 
+			is getting farther away.  I assume 
+			you've placed a tracking device on 
+			his ship, but if we don't get started 
+			soon he's going to get out of range.
+
+	Odo bows to the inevitable, sits in the pilot's seat, and 
+	begins working the controls.
+
+					ODO
+			Rio Grande to Ops... request 
+			permission to depart.
+
+					KIRA'S COM VOICE
+			Permission granted.
+
+					GARAK
+			Trust me, Constable.  I can be a 
+			most pleasant traveling companion.  
+			And this promises to be a very 
+			interesting trip.
+
+	Odo ignores him and works the controls.
+
+15   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	as the Runabout clears the station.
+
+16   INT. RUNABOUT
+
+	Odo and Garak as before.
+
+					ODO
+				(off console)
+			The tracking device is working 
+			perfectly...
+
+        DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT TWO       24.
+
+16   CONTINUED:
+
+					GARAK
+				(off console)
+			If I'm reading this correctly, and 
+			I'm no expert, it looks like the 
+			Flaxian ship is about to go into 
+			warp...
+
+17   EXT. SPACE (OPTICAL)
+
+	as the Flaxian ship moves away from the camera -- suddenly, 
+	it EXPLODES...
+
+18   INT. RUNABOUT
+
+	as a burst of INTERACTIVE LIGHT fades from Odo and Garak's 
+	stunned faces.
+
+					ODO
+			It would seem that our "interesting" 
+			trip has just been cut short...
+
+	Off this moment we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      25.
+                           ACT THREE                            
+
+	FADE IN:
+
+19   INT. WARDROOM
+
+	where Sisko, Dax, O'Brien, Odo and Garak are in mid 
+	discussion.  Garak is standing by the window, staring out 
+	into space... though he seems lost in thought, he's actually 
+	listening intently to everything that's being said.
+
+					O'BRIEN
+			According to our sensor logs, the 
+			Flaxian ship exploded the moment its 
+			warp drive was engaged.
+
+					DAX
+			Was there a malfunction?
+
+					O'BRIEN
+			I thought so at first.  But then I 
+			analyzed the telemetry from the 
+			transponder I planted aboard the 
+			Flaxian ship.
+
+	He slides a PADD over to Dax.
+
+					O'BRIEN
+			Just before the explosion, there's 
+			an interference pattern in the 
+			transponder's signal.
+
+					DAX
+				(studies PADD)
+			This interference could have been 
+			caused by a forced neutrino 
+			inversion...
+
+					ODO
+				(realizing)
+			The Romulans... They use neutrino 
+			inverters in their explosive 
+			devices...
+
+	Reactions.
+
+					SISKO
+			Why would the Romulans want to destroy 
+			the Flaxian's ship?
+
+					ODO
+			One possibility is that the Romulans 
+			hired the Flaxian to kill Garak... 
+			and then killed the Flaxian after he 
+			failed in his mission.
+
+					DAX
+			Do you have any evidence of that?
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      26.
+
+19   CONTINUED:
+
+					ODO
+			It's only supposition, but it does 
+			fit the available facts.
+
+	Sisko turns to face Garak.
+
+					SISKO
+			All right, Mister Garak.  Do you 
+			know why the Romulans might hire 
+			someone to kill you?
+
+	Garak takes a beat, and we can see that this is a different 
+	Garak from the man we're used to seeing -- he's not making 
+	any effort to dissemble, he's the hard and cool Obsidian 
+	Order agent that he used to be.
+
+					GARAK
+			I have no idea...
+
+					SISKO
+			I'm getting tired of hearing you say 
+			that.  How long do you expect us to 
+			believe --
+
+	But Odo unexpectedly comes to Garak's defense.
+
+					ODO
+			He's telling the truth, Commander.  
+			He doesn't know why the Romulans 
+			would try to kill him.
+
+	This gets everyone's attention, even Garak's.
+
+					SISKO
+			What makes you so sure?
+
+					ODO
+			Because if he did know, he'd already 
+			be spinning out an elaborate web of 
+			lies to cover up the truth...
+
+	Garak turns and looks at Odo thoughtfully, gives Odo a small 
+	nod of acknowledgment...
+
+					GARAK
+			The truth... is usually just an excuse 
+			for a lack of imagination...
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      27.
+
+19   CONTINUED:	(2)
+
+					GARAK (Cont'd)
+			If you want to know what the Romulans 
+			have against me, you'll have to ask 
+			them.
+
+					SISKO
+			I intend to.  But I don't expect 
+			them to be entirely forthcoming.
+
+									CUT TO:
+
+20   INT. COMMANDER'S OFFICE - CLOSE ON MONITOR (OPTICAL)
+
+	where a ROMULAN member of the Tal Shiar is standing in front 
+	of a simple, one-wall set.
+
+					ROMULAN
+				(matter-of-fact)
+			Yes, we destroyed the Flaxian's ship.
+
+21   WIDEN (OPTICAL)
+
+	to include Sisko and Odo in front of the monitor.  They're 
+	both taken aback by the Romulan's candor, but Sisko tries 
+	not to show it.
+
+					SISKO
+			I have to say I'm a little surprised 
+			to hear you admit it so easily.
+
+					ROMULAN
+			Why should we hide it?  Retaya was 
+			wanted for crimes against the Romulan 
+			Empire.  His execution was perfectly 
+			legal.
+
+					ODO
+			May I ask what crimes he committed?
+
+					ROMULAN
+			Smuggling, counterfeiting, dealing 
+			in stolen property... I'll transmit 
+			a record of his offenses to you 
+			immediately.
+
+					ODO
+			Thank you...
+
+	Sisko floats a probing question, watches her face for a 
+	response.
+
+       DEEP SPACE: "Improbable... " - REV. 01/27/95 - ACT THREE      28.
+
+21   CONTINUED:
+
+					SISKO
+			We've been told that he may have 
+			worked as an assassin.
+
+					ROMULAN
+			I have nothing to corroborate that... 
+			though it wouldn't surprise me.
+
+					SISKO
+			Not long after he came here, someone 
+			tried to kill a Cardassian who lives 
+			aboard the station.
+
+					ROMULAN
+				(thinking)
+			That would be... Mister Garak.  A 
+			cobbler, I believe...
+
+					SISKO
+			A tailor, actually.
+
+	She seems genuinely miffed to have gotten this wrong.
+
+					ROMULAN
+			I'll correct our records.  That is, 
+			if he's still alive... ?
+
+					SISKO
+			He is.
+
+	The Romulan moves to bring the discussion to a close.
+
+					ROMULAN
+			Well... is there anything else?
+
+					ODO
+			Just one more thing.  How long had 
+			the Tal Shiar been looking for Retaya?
+
+					ROMULAN
+			Nearly a year.  Why?
+
+					ODO
+			Isn't it curious that you finally 
+			caught up with him here, just hours 
+			after he attempted to kill Mister 
+			Garak.
+
+         DEEP SPACE: "Improbable... " - 01/25/95 - ACT THREE         29.
+
+21   CONTINUED:	(2)
+
+					ROMULAN
+				(even)
+			We're just grateful to have found 
+			him at all.  Now if you're finished, 
+			Commander, I have other matters to 
+			attend to.
+
+	And she ENDS the transmission.  Sisko and Odo exchange a 
+	look.
+
+					SISKO
+			I take it you don't believe her 
+			either...
+
+					ODO
+			No...
+
+					SISKO
+			But the question still remains, why 
+			would the Romulans want to have Garak 
+			killed?
+
+					ODO
+			I don't know...
+				(wry)
+			-- considering those uniforms of 
+			theirs, you'd think they'd appreciate 
+			a good tailor...
+
+	Sisko allows himself a small smile...
+
+					SISKO
+			So where does this leave your 
+			investigation?
+
+					ODO
+			At a standstill.
+				(frustrated)
+			We don't know that the Romulans hired 
+			the Flaxian... we don't even know 
+			that it was Retaya who tried to kill 
+			Garak.  All we do know is that a 
+			bomb went off in Garak's shop.
+
+					SISKO
+			All right, then let's start with 
+			him.
+
+	Sisko moves around the room, trying to put the puzzle 
+	together.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      30.
+
+
+21   CONTINUED:	(3)
+
+					SISKO (Cont'd)
+			What do we know about Garak?  He was 
+			exiled from Cardassia... for what 
+			reason, we're not sure.  He never 
+			leaves the station... he avoids 
+			contact with other Cardassians.  And 
+			it's possible he was once an 
+			intelligence agent of the Obsidian 
+			Order.
+
+					ODO
+			A very strong possibility, Commander.
+
+					SISKO
+			Agreed.  So isn't it reasonable to 
+			assume that the attempt on his life 
+			had something to do with the order?
+
+					ODO
+			Unfortunately, he's rather 
+			uncooperative when it comes to 
+			answering questions about his past.
+
+					SISKO
+			And the Obsidian Order is 
+			uncooperative when it comes to 
+			answering questions about their former 
+			agents.
+
+					ODO
+			Ordinarily, yes.
+
+					SISKO
+			What do you mean?
+
+					ODO
+			I have certain... resources in the 
+			Cardassian Government.
+
+					SISKO
+			I take it you don't want to elaborate 
+			on that?
+
+					ODO
+			I'd rather not.  But I would like 
+			the use of a runabout.
+
+					SISKO
+			Granted.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      31.
+
+21   CONTINUED:	(4)
+
+					ODO
+			Thank you, sir.
+
+	And with that, Odo turns and EXITS.  Off Sisko's face as he 
+	watches him go...
+
+22   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	entering orbit of small, barren moon.
+
+23   INT. CAVE
+
+	underneath the surface.  Odo ENTERS, his footsteps echoing 
+	against the walls.  The lighting is DIM.  He looks around as 
+	if searching for someone... after a few beats, he hears a 
+	voice.
+
+					INFORMANT'S VOICE
+			Stop there.
+
+	Odo stops, unsure from which direction the voice came from.
+
+					ODO
+			Where are you?
+
+					INFORMANT'S VOICE
+			Nearby.  I've changed my appearance 
+			since we last saw each other... I 
+			don't want you to see me.
+
+	By now, Odo has tracked the direction of the voice.  In one 
+	of the recesses of the cavern we can barely make out the 
+	outlines of a Cardassian figure, obscured in shadow.
+
+					ODO
+			I need some information.
+
+					INFORMANT
+			Is this about the tailor's shop?
+
+					ODO
+			Yes...
+
+					INFORMANT
+			I didn't do it.
+
+					ODO
+			That wasn't going to be my question.  
+			I think the Romulans tried to kill 
+			Garak.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      32.
+
+23   CONTINUED:
+
+					INFORMANT
+			Very good, Odo.  I see working for 
+			the Bajorans hasn't entirely dulled 
+			your instincts.
+
+					ODO
+			My question is why.
+
+					INFORMANT
+			You'd have to ask the Romulans.  But 
+			I do know that you're investigating 
+			a very insignificant piece of a much 
+			larger puzzle.
+
+					ODO
+			What do you mean?
+
+					INFORMANT
+			There's been a great deal of unusual 
+			Romulan activity in the last few 
+			weeks.  Cloaked ships believed to be 
+			warbirds have been detected near the 
+			Cardassian border... troop 
+			movements... communications 
+			activity...
+
+					ODO
+			Sounds like they're preparing for an 
+			invasion.
+
+					INFORMANT
+			It's occurred to us.  And we're ready 
+			for it if it happens.  But it doesn't 
+			make any sense.
+
+					ODO
+			Does war ever make sense?
+
+					INFORMANT
+			Still the wry observer of humanoid 
+			folly... tell me, do you still do 
+			the Cardassian neck trick?
+
+					ODO
+				(with an edge)
+			No... I don't.
+
+					INFORMANT
+			Pity... you were so good at it.
+				(beat)
+			Garak isn't the only former operative 
+			in the Order who had an "unfortunate 
+			incident" yesterday.  But he was the 
+			luckiest.  The other five didn't 
+			survive.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      33.
+
+23   CONTINUED:	(2)
+
+					ODO
+			Five operatives were killed yesterday?
+
+					INFORMANT
+			Killed?  No... Three died of "natural 
+			causes"... and the other two perished 
+			in "accidents."
+
+					ODO
+			Quite a coincidence.
+
+					INFORMANT
+			If you believe in coincidence.
+
+					ODO
+			So you think the Romulans had 
+			something to do with their deaths.
+
+					INFORMANT
+			There were certain... indications of 
+			their involvement.
+
+					ODO
+			That still leaves us with the question 
+			of why?
+
+	He tosses a Cardassian PADD onto the floor between them.  
+	Odo picks up the PADD and looks at it.
+
+					INFORMANT
+			Those are the names of the dead 
+			operatives.  I suggest you show them 
+			to Garak and ask him that question.
+
+					ODO
+			I'll do that.
+
+					INFORMANT
+			I trust you agree that this 
+			information satisfies my debt to 
+			you.
+
+					ODO
+			Agreed.
+
+					INFORMANT
+			However... if you do learn anything 
+			from your tailor and you wish to... 
+			share it with me... I'd be indebted 
+			to you again.
+
+         DEEP SPACE: "Improbable... " - 01/25/95 - ACT THREE         34.
+
+23   CONTINUED:	(3)
+
+					ODO
+			I'll consider it.
+
+	The Informant moves back into the shadows until we can't see 
+	him anymore... Odo crosses over to where he was, and 
+	strangely, can't even see where he disappeared to... off 
+	Odo's thoughtful features...
+
+24   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+25   INT. SECURITY OFFICE (OPTICAL)
+
+	where Garak is sitting in a chair, looking over the PADD 
+	given to Odo by the informant as Odo looks on.  Garak has a 
+	smile on his face, seems delighted.
+
+					GARAK
+			They're all dead... ?
+
+					ODO
+			I take it you're not going to mourn 
+			their passing.
+
+					GARAK
+			Quite the contrary.  In fact, under 
+			different circumstances I'd be 
+			celebrating tonight.
+
+					ODO
+			So you did know them?
+
+					GARAK
+			Oh, yes.  We were all quite well 
+			acquainted.
+
+					ODO
+			In the Obsidian Order.
+
+					GARAK
+			Now, Constable, we've been down this 
+			road before.  Why do you insist --
+
+	Odo spins Garak around in his chair, gets right in his face.
+
+					ODO
+				(hard)
+			I've had enough of your dissembling, 
+			Garak.
+
+       DEEP SPACE: "Improbable... " - REV. 01/26/95 - ACT THREE      35.
+
+25   CONTINUED:
+
+					ODO (Cont'd)
+			I'm not Doctor Bashir and we're not 
+			sparring amiably over lunch.  You 
+			pulled me into this investigation 
+			and now you're going to cooperate.
+
+					GARAK
+			Pulled you in, I don't know what 
+			you're --
+
+					ODO
+				(interrupting)
+			You blew up your own shop, Garak.
+
+	This catches Garak genuinely off stride for a moment.  Odo 
+	pushes the point.
+
+					ODO (Cont'd)
+				(pleased)
+			Well... I don't think I've ever seen 
+			that particular expression on your 
+			face before.  Is it... surprise?
+
+					GARAK
+			As a matter of fact, Constable, it 
+			is.  I'm surprised that you would 
+			come to such an unlikely conclusion.
+
+					ODO
+			Drop the pretense, I've known ever 
+			since I spoke with the Flaxian.  
+			Assassins don't like to vary their 
+			methods and he was planning to poison 
+			you... I think you spotted him aboard 
+			the station, and blew up your shop 
+			so that I'd begin an investigation.
+
+					GARAK
+			That seems like a very elaborate way 
+			of getting you involved.  If I needed 
+			your help I could've asked for it.
+
+					ODO
+			But you couldn't be sure I'd take 
+			you seriously.  Or that I'd help 
+			you.  Besides, I think you secretly 
+			enjoyed destroying your shop.
+
+	Garak looks at him for a moment, smiles a little.
+
+       DEEP SPACE: "Improbable... " - REV. 01/26/95 - ACT THREE     35A.
+
+25   CONTINUED:	(2)
+
+					GARAK
+			I will admit that watching it burn 
+			wasn't exactly... tragic.
+
+					ODO
+			Whether you want to admit it or not, 
+			you've pulled me into this case and 
+			now you're stuck with me.  I want to 
+			know who these men are and what their 
+			connection is to you.
+
+         DEEP SPACE: "Improbable... " - 01/25/95 - ACT THREE         36.
+
+25   CONTINUED:	(3)
+
+	Garak gets out of his chair, moves around the room.  As 
+	he does so, we can see from his body movement and the way he 
+	carries himself, that he's moving from Garak the playful 
+	tailor to Garak the Obsidian Order operative.  There's a 
+	glint of steel in his eyes, a certain threatening quality 
+	that isn't always there.
+
+					GARAK
+			We were all associates of Enabran 
+			Tain...
+
+					ODO
+			Enabran Tain... the former head of 
+			the Obsidian Order.
+
+					GARAK
+			He retired some years ago... He was, 
+			I might add, the only head of the 
+			agency ever to live long enough to 
+			do so... For a time, we were his 
+			most trusted advisors.
+
+					ODO
+			Do you have any idea why the Romulans 
+			would want you all dead?
+
+					GARAK
+			I don't know... but Tain might.
+
+					ODO
+			That is, if he didn't suffer an 
+			unfortunate "accident" as well...
+
+					GARAK
+				(grim)
+			That is a distinct possibility.
+
+	Garak considers for a long moment...
+
+					GARAK
+			May I use your communications system?
+
+					ODO
+			By all means.
+
+	Garak works the controls with great skill... as Odo watches, 
+	growing increasingly impressed, we hear various BEEPS, etc.
+
+					ODO
+			That's an interesting way of 
+			scrambling a signal...
+
+         DEEP SPACE: "Improbable... " - 01/25/95 - ACT THREE         37.
+
+25   CONTINUED:	(4)
+
+					GARAK
+			I thought you might appreciate it on 
+			an aesthetic level... here we are...
+
+	An old CARDASSIAN WOMAN'S (MILA) face APPEARS on the MONITOR.  
+	Garak recognizes her, and we get the sense that he remembers 
+	her fondly.
+
+					GARAK
+			Mila...
+
+	She recognizes Garak, but her reaction is more complex... a 
+	mixture of fondness and regret.
+
+					MILA
+			Elim...
+				(shakes her head sadly)
+			I never thought I'd see your face 
+			again...
+
+					GARAK
+			Neither did I.  I need to speak with 
+			Tain, it's urgent.
+
+					MILA
+			You can't.
+				(worried)
+			He's not here.
+
+					GARAK
+			Where is he?
+
+					MILA
+			I don't know...
+				(concerned)
+			He left yesterday in a great hurry... 
+			he wouldn't tell me where.
+
+	She sees Garak react to this information.
+
+					ODO
+				(to Garak)
+			Maybe he realized someone was coming 
+			after him...
+
+	Garak acknowledges the possibility with a nod.
+
+					MILA
+			He's in trouble, isn't he?  You have 
+			to help him, Elim.  I know you're 
+			still bitter about what happened 
+			between you, but you must help him...
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT THREE      38.
+
+25   CONTINUED:	(5)
+
+	Garak doesn't commit himself to this, but he does seem to 
+	have been reached by her plea... after a moment...
+
+					GARAK
+			If you speak with him, tell him to 
+			contact me.
+
+					MILA
+
+			Help him, Elim.  Promise me you'll 
+			help him...
+
+	After a long beat.
+
+					GARAK
+			I promise...
+
+	And with that, he terminates the transmission.  After a quiet 
+	beat, Garak turns to Odo.
+
+					GARAK
+			I'll need a runabout, Constable...
+
+	Odo studies Garak's features for a beat, never having seen 
+	him do anything to help someone else...
+
+					ODO
+			We'll need a runabout.  I'm coming 
+			with you...
+
+	The two men regard each other... off this moment we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FOUR       39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+26   INT. AIRLOCK CORRIDOR
+
+	as Garak and Bashir make their way down it.  Garak is carrying 
+	a SHOULDER BAG.
+
+					BASHIR
+			I hope you know what you're doing, 
+			Garak.
+
+					GARAK
+			So do I.
+
+					BASHIR
+			Is there anything you need me to do 
+			while you're gone?
+
+					GARAK
+			Like what... ?
+
+					BASHIR
+			I don't know.  Any unfinished 
+			business, or...
+
+					GARAK
+			Actually, Doctor, there is something.
+
+					BASHIR
+			What?
+
+					GARAK
+			If you go into my quarters and examine 
+			the bulkhead next to the replicator, 
+			you'll notice there's a false panel.  
+			Behind that panel is a compartment 
+			containing an isolinear rod.  If I 
+			don't return within seventy-eight 
+			hours... I want you to take that rod 
+			and eat it.
+
+					BASHIR
+			Eat it?  You're joking.
+
+					GARAK
+			Yes, Doctor.  I am.
+
+	Garak finally smiles, and Bashir smiles back, realizing he's 
+	been had.
+
+       DEEP SPACE: "Improbable... " - REV. 01/26/95 - ACT FOUR       40.
+
+26   CONTINUED:
+
+					BASHIR
+			Very funny.
+
+					GARAK
+			I thought so.  The answer to your 
+			question is no, Doctor, there's 
+			nothing you can do for me while I'm 
+			away.
+
+	There's a moment as the two men contemplate the dangerous 
+	trip Garak is undertaking.
+
+					BASHIR
+			These are yours...
+
+	He pulls the TINY BOX of Delavian Chocolates out from behind 
+	his back.
+
+					GARAK
+			The Delavian chocolates... But, 
+			Doctor, these were for you...
+
+					BASHIR
+			I know... but I thought you might 
+			need them more than I do...
+
+	Garak smiles slightly, then takes the box.
+
+					GARAK
+			Thank you...
+
+					BASHIR
+			Good luck.
+
+	Garak nods, then steps into the airlock and EXITS.
+
+27   INT. DEEP SPACE NINE (OPTICAL)
+
+	as the runabout pulls away from the station.
+
+28   INT. RUNABOUT
+
+	where Odo and Garak are in the cockpit.
+
+					ODO
+			We've cleared the station... if you'll 
+			be kind enough to let me know where 
+			we're going, I'll set a course.
+
+       DEEP SPACE: "Improbable... " - REV. 01/26/95 - ACT FOUR      40A.
+
+28   CONTINUED:
+
+					GARAK
+			Head for the Cardassian border... 
+			we're going to the third planet in 
+			the Unefra System.
+
+					ODO
+				(as he sets course)
+			How do you know that's where Tain's 
+			gone?
+
+					GARAK
+			I don't.  But he has a safe-house 
+			there... no one's supposed to know 
+			about it...
+				(wry)
+			-- especially me.
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT FOUR         41.
+
+28   CONTINUED:
+
+	We hear the SOUND of the ship going to warp.
+
+					ODO
+			We should reach Unefra in...
+				(off console)
+			-- three point two hours.
+
+	Odo is thoughtful for a beat...
+
+					ODO
+			That woman, Mila.  Who is she?
+
+					GARAK
+			She's been Tain's housekeeper and 
+			confidant for over thirty years.
+
+					ODO
+			She seemed almost... fond of you.
+
+					GARAK
+			Is it so hard to believe that there's 
+			one person in the galaxy who regards 
+			me with a certain affection?
+
+					ODO
+			I could believe there's one... but I 
+			wouldn't expect it to be someone who 
+			works for Enabran Tain.  It's my 
+			understanding that the two of you 
+			didn't part on the best of terms.
+
+					GARAK
+			You could say that.  Tain is directly 
+			responsible for my being exiled from 
+			Cardassia.
+
+					ODO
+			Then I don't understand...
+
+					GARAK
+				(finishing the thought)
+			Why I'm risking my life to help him?
+
+					ODO
+			Exactly.
+
+					GARAK
+			I can see how it would be puzzling.
+
+	Garak turns away, looks out the window, as if leaving it up 
+	to Odo to figure it out.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FOUR       42.
+
+28   CONTINUED:	(2)
+
+					ODO
+			All right... you owe him something.
+
+	Garak smiles, amused by this interplay with Odo.
+
+					GARAK
+			A logical deduction.  I can see why 
+			you're the constable.
+
+					ODO
+			But it's more than that.  He means 
+			something to you... something 
+			personal.
+
+					GARAK
+			Now you've moved from deduction to 
+			supposition.
+
+					ODO
+			Not at all.  You're not the kind of 
+			man who would go to such lengths 
+			simply to repay a debt.
+
+					GARAK
+				(smiling)
+			Are you saying I have no sense of 
+			honor?
+
+					ODO
+			That remains to be seen.  But as you 
+			said before, you also have a well 
+			developed instinct for self-
+			preservation.
+				(beat)
+			You wouldn't risk going into 
+			Cardassian space for just anyone.  
+			It would have to be someone important 
+			to you... someone you cared about.
+
+	A little of the amusement goes out of Garak's eyes, Odo is 
+	cutting close to the bone here.  Odo presses on...
+
+					ODO
+			I think you were more than Tain's 
+			advisor... I think you were his 
+			protege.  And he was your mentor.  
+			That is, until he sent you into 
+			exile... and yet, despite that, you 
+			still care enough about him to risk 
+			your life for him.
+				(beat)
+			Or is this all just... supposition?
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT FOUR         43.
+
+28   CONTINUED:	(3)
+
+	Garak looks at him for a long moment, tries not to give 
+	anything away, but just his silence tells us that Odo is 
+	very close to the mark here.  After a beat, Garak gets up 
+	and changes tacks.  He keeps his voice musing and even.
+
+					GARAK
+				(cool)
+			A very interesting analysis... very 
+			interesting.  Particularly coming 
+			from you.
+
+					ODO
+			Oh?
+
+	Garak turns back to Odo, seems to appraise him with a mixture 
+	of detached amusement and cogent analysis.
+
+					GARAK
+			It's been my observation that you 
+			act solely out of a sense of 
+			justice... or at least what you 
+			consider justice.  There's no feeling 
+			behind what you do, no emotion beyond 
+			a distaste for loose ends and 
+			disorder.
+
+	Garak regards Odo with what appears to be sympathy.
+
+					GARAK
+			You don't know what it means to care 
+			about someone, do you?  People are 
+			just interesting creatures to you... 
+			to be studied and analyzed.
+
+					ODO
+			Is there a point to all this?
+
+					GARAK
+			Just that I find it interesting that 
+			you'd ascribe feelings and motivations 
+			to me that you personally know nothing 
+			about.
+
+	Garak sits back down and fixes Odo with a penetrating look.
+
+					GARAK
+			Or am I wrong?  Tell me, is there 
+			one person in this universe that you 
+			care about?  One person that is more 
+			to you than just an interesting puzzle 
+			to be solved.  Is there, Odo... 
+			anyone?
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FOUR       44.
+
+28   CONTINUED:	(4)
+
+	Odo regards him cooly, not a bit disturbed by Garak's 
+	fishing expedition.
+
+					ODO
+			If there were, I certainly wouldn't 
+			tell you...
+
+	A beat, then Garak smiles.
+
+					GARAK
+			And that... would be a wise decision.
+
+	Off the moment as the two sit back in their chairs and 
+	consider their conversation...
+
+29   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	at warp.
+
+30   INT. RUNABOUT
+
+	where Odo sits in the cockpit.  Garak is getting a cup of 
+	tea from the replicator.
+
+					ODO
+			I'm taking us out of warp... we're 
+			approaching the Unefra system...
+
+	Suddenly a warning SOUNDS on the console.
+
+					GARAK
+			What's that?
+
+					ODO
+				(off console)
+			I'm detecting a subspace energy surge 
+			directly above us... a vessel of 
+			some kind is decloaking...
+
+31   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as a Romulan warbird DECLOAKS directly above, dwarfing the 
+	Runabout.
+
+32   INT. RUNABOUT (OPTICAL)
+
+					ODO
+				(off console)
+			It's a Romulan warbird...
+
+					GARAK
+				(stunned)
+			In Cardassian space?
+
+       DEEP SPACE: "Improbable... " - REV. 01/26/95 - ACT FOUR       45.
+
+32   CONTINUED:
+
+	Suddenly the Runabout is jolted slightly.
+
+					ODO
+			They've locked onto us with a tractor 
+			beam...
+				(works)
+			Take the helm, I'm going to try and 
+			send out a distress signal...
+
+	Garak takes the controls...
+
+					GARAK
+				(works)
+			I can't pull away... the tractor 
+			lock is too strong...
+
+					ODO
+			They're jamming our transmission.
+
+					GARAK
+			Do you think you got through?
+
+					ODO
+			I don't know.  I'm going to hail 
+			them and see what they want.
+
+	As Odo reaches for the console, suddenly TWO ARMED ROMULAN 
+	STORMTROOPERS MATERIALIZE in the cockpit behind them.  There's 
+	nothing Odo and Garak can do...
+
+					GARAK
+			I think we're about to find out...
+
+									CUT TO:
+
+33   INT. ROMULAN CORRIDOR
+
+	as Odo and Garak are being marched down it by the Two 
+	Stormtroopers.  They're led to a door and EXIT to --
+
+34   INT. ROMULAN READY ROOM
+
+	as Odo and Garak are brought in.  Through a WINDOW in one 
+	wall we see a starfield.  One side of the room is dominated 
+	by a large desk, behind which Garak is stunned to see ENABRAN 
+	TAIN, sitting comfortably as if he owns the place.
+
+					GARAK
+			Tain...
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT FOUR         46.
+
+34   CONTINUED:
+
+	Odo reacts upon hearing the name.
+
+					TAIN
+			Hello, Garak... it's good of you to 
+			come.  It spares me the trouble of 
+			having to send someone else to kill 
+			you...
+
+	Off Odo and Garak as they realize Tain was behind the 
+	assassination attempt we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FIVE       47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+35   INT. ROMULAN READY ROOM - CONTINUOUS
+
+	Odo, Garak, Tain and The Romulan Stormtroopers as before.
+
+					TAIN
+			Come in, come in...
+
+	Odo and Garak step further into the room, and the 
+	Stormtroopers take up position by the door.  Tain moves closer 
+	to Garak, studies his former protege for a beat.
+
+					TAIN
+			It's been a long time, Elim...
+
+	Tain looks Garak up and down for a moment.
+
+					TAIN
+			So... you're a tailor, now.  Is this 
+			one of your creations?
+
+					GARAK
+			A minor example of my work...
+
+					TAIN
+			I'm not sure I like the neckline...
+
+					GARAK
+			You always did have a keen sense of 
+			fashion.
+				(studies Tain's outfit)
+			But it seems you've let it go... 
+			along with your once-trim figure.
+
+	Tain smiles slightly; these are two men who have perfected 
+	the art of appearing amiable even in the most dire 
+	circumstances.  Tain turns to Odo.
+
+					TAIN
+			Constable Odo, I've always wanted to 
+			meet you.
+
+					ODO
+				(sarcastic)
+			I wish I could say the same...
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FIVE       48.
+
+35   CONTINUED:
+
+					TAIN
+			Come now... haven't you ever been 
+			the least bit curious about me... 
+			about my relationship with Garak... 
+			our work in the Obsidian Order?
+
+					ODO
+			I seldom waste time speculating about 
+			retired spymasters and their 
+			associates...
+
+	Tain smiles slightly, turns back to Garak.
+
+					TAIN
+				(re: Odo)
+			He's good.  He hides his true feelings 
+			almost as well as you do, Elim.  
+			He'd have made a good operative, in 
+			the old days.
+
+					GARAK
+			I've had the same thought myself.
+				(beat)
+			But then, those days are long gone.  
+			At least they are for me.
+				(looking around)
+			You, on the other hand, seem to have 
+			left your retirement far behind.  
+			Unless you're simply on a pleasure 
+			cruise with your pointed-eared 
+			friends.
+
+	Tain turns to Odo.
+
+					TAIN
+			Cunning, isn't he?  He makes a racial 
+			slur within earshot of two Romulans, 
+			putting me in the position of either 
+			having to defend them -- and thus 
+			giving away my allegiance to them -- 
+			or letting the comment pass... in 
+			which case he's managed to plant a 
+			seed of discord between us.
+
+					ODO
+			Frankly, I don't find any of this 
+			interesting.  You both go to such 
+			lengths to hide the true meaning of 
+			your words that you end up saying 
+			nothing.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FIVE       49.
+
+35   CONTINUED:	(2)
+
+					TAIN
+			I think you'll find that when I have 
+			something to say, you won't have any 
+			trouble understanding it.
+
+	They hold each other's look for a moment.
+
+					TAIN
+				(to Garak)
+			To answer your question, Garak, I'm 
+			not on a pleasure cruise.
+				(beat)
+			This ship is part of a fleet of 
+			Romulan and Cardassian vessels... a 
+			fleet which will soon be traveling 
+			through the wormhole into the Gamma 
+			Quadrant.
+
+	A disturbing realization begins to dawn on Odo...
+
+					ODO
+			I take it you're not on a mission of 
+			peaceful exploration...
+
+					TAIN
+			Not exactly...
+
+					ODO
+			You're going to attack the Dominion, 
+			aren't you... ?  You're going to stage 
+			a first strike against them, before 
+			they can come into the Alpha Quadrant.
+
+					TAIN
+			A clear and precise analysis.  
+			Commander Sisko must find you a 
+			valuable advisor.
+
+	Garak is both surprised and impressed by Tain's plan...
+
+					GARAK
+			It's a daring plan... I didn't think 
+			there was anyone in the Central 
+			Command bold enough to take on the 
+			Dominion.
+
+					TAIN
+			Who said anything about the Central 
+			Command?  This is a joint operation 
+			between the Obsidian Order and the 
+			Tal Shiar.  We've been building a 
+			fleet of ships in the Orias System 
+			for months now.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FIVE       50.
+
+35   CONTINUED:	(3)
+
+					ODO
+			If you attack the Dominion they'll 
+			certainly strike back.  You'll be 
+			taking Romulus and Cardassia into 
+			war... a war you may not win.
+
+					TAIN
+			I don't think they'll be striking 
+			back.  We intend to wipe out the 
+			Dominion in a single blow... by 
+			eliminating the Founders.  Without 
+			them, the Dominion will collapse.
+
+	Tain studies Odo's face as he takes in this information.
+
+					TAIN
+			You seem disturbed by that, 
+			changeling... why?  After all, you've 
+			turned your back on your people.
+
+	Odo avoids the question, counters with one of his own.
+
+					ODO
+			You seem to know a great deal about 
+			me... and "my people."
+
+					TAIN
+			We know everything you know... 
+			including the location of their 
+			homeworld.
+
+	Odo realizes...
+
+					ODO
+			Starfleet has shared its intelligence 
+			on the Dominion with the Romulans...
+
+					TAIN
+			And the Romulans have shared it with 
+			me.
+
+	Garak steps forward, has a question of his own.
+
+					GARAK
+			You'll forgive me if I reduce the 
+			scope of this conversation to 
+			something a little more personal.
+
+       DEEP SPACE: "Improbable... " - REV. 01/27/95 - ACT FIVE       51.
+
+35   CONTINUED:	(4)
+
+					GARAK
+				(beat)
+			Why was it necessary to kill me, and 
+			the rest of our former associates, 
+			before embarking on this... excursion 
+			into the Gamma Quadrant?
+
+					TAIN
+			Because, Garak, I don't plan on going 
+			back into retirement when this is 
+			over.  I plan on going back to my 
+			old job, and my old life.
+
+					GARAK
+			And you were afraid we knew things 
+			about you... things that could be 
+			used against you.  So you decided to 
+			have us eliminated.
+
+					TAIN
+			Like I used to say... always burn 
+			your bridges behind you... you never 
+			know who might be trying to follow.
+
+					GARAK
+			You also used to say that the Tal 
+			Shiar was sloppy.  You shouldn't 
+			have relied on them to burn your 
+			bridges.
+
+					TAIN
+			True... they should never have hired 
+			the Flaxian to blow up your shop...
+
+					GARAK
+			Actually, I blew up my shop.
+				(off Tain's look)
+			It was a way of piquing the good 
+			constable's interest.
+
+	Tain seems genuinely amused by this; he sits down, chuckles 
+	slightly to himself.
+
+					TAIN
+			You blew up your own shop... You, my 
+			friend, are a true original.  If you 
+			hadn't betrayed me, things would 
+			have been very different.
+
+	Garak suddenly explodes in a burst of anger and passion.
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT FIVE        51A.
+
+35   CONTINUED:	(5)
+
+					GARAK
+			I never betrayed you!
+
+	Garak quickly gets control of his emotions, pulls back.
+
+					GARAK
+				(quiet)
+			At least... not in my heart.
+
+	Tain looks at his old protege, struck by the emotion in his 
+	voice.
+
+       DEEP SPACE: "Improbable... " - REV. 01/25/95 - ACT FIVE       52.
+
+35   CONTINUED:	(6)
+
+					GARAK
+				(continuing)
+			Why do you think I'm here?  I came 
+			because I thought the Romulans were 
+			trying to kill you...
+				(beat)
+			I came here to save you...
+
+	Tain studies Garak for a long moment...
+
+					TAIN
+			I never thought I'd hear myself say 
+			this, Garak... but, I believe you.
+				(beat)
+			You can go...
+
+	Garak is momentarily taken aback.
+
+					GARAK
+			Excuse me... ?
+
+					TAIN
+			The changeling has to stay, of course, 
+			but you're free to go.  Your runabout 
+			is in Launching Bay Three.
+
+					GARAK
+			Just like that?
+
+					TAIN
+			Just like that.
+
+					GARAK
+			Aren't you concerned that I'll warn 
+			Starfleet and the Central Command 
+			about your plans?
+
+					TAIN
+			It's too late.  The Central Command 
+			will have a war on their hands, 
+			whether they want one or not.  And 
+			as for Starfleet, this isn't their 
+			fight, they won't interfere.
+
+					ODO
+			It's a trick, Garak.  After all this, 
+			he's not going to just let you walk 
+			away.
+
+       DEEP SPACE: "Improbable... " - REV. 01/27/95 - ACT FIVE       53.
+
+35   CONTINUED:	(7)
+
+					TAIN
+				(to Garak)
+			It's not a trick, it's a choice.  
+			You can walk out that door, or you 
+			can join me.
+
+	Garak looks at him with a mixture of surprise and disbelief.
+
+					GARAK
+			Join you... ?
+
+					TAIN
+			That is what you've been waiting 
+			for, isn't it?  To end your exile, 
+			to come back into the fold.  I'm 
+			giving you the chance to serve 
+			Cardassia again... at my side.
+
+					GARAK
+			You'll pardon me if I appear a little 
+			startled... but are you saying all 
+			is forgiven?
+
+					TAIN
+			I can't forgive what you did... but 
+			I can try to forget... put it aside 
+			as if it never happened.
+
+	He moves closer to Garak...
+
+					TAIN
+			So... do you want to go back to your 
+			shop and hem pants... or shall we 
+			pick up where we left off?
+
+	As he says this, Tain extends a hand to Garak.  Before Garak 
+	decides what to do, Odo steps in.
+
+					ODO
+			Garak, this is the man who put you 
+			into exile, the man who two days ago 
+			tried to have you killed...
+
+	Garak looks down at Tain's hand for a moment longer...
+
+					GARAK
+			Yes, he is... and it doesn't matter...
+				(beat)
+			I'm back...
+
+          DEEP SPACE: "Improbable... " - 01/25/95 - ACT FIVE         54.
+
+	And with that, Garak reaches forward and takes Tain's 
+	hand... off the moment of the two men shaking hands, and 
+	Odo's concerned look we...
+
+									FADE OUT.
+
+	SUPER:		TO BE CONTINUED
+                        END OF ACT FIVE                         
+                            THE END                             

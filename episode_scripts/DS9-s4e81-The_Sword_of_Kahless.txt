@@ -1,0 +1,2990 @@
+
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                    "The Sword of Kahless" 
+                          #40510-481 
+                              
+                           Story by 
+                         Richard Danus 
+                              
+                          Teleplay by 
+                         Hans Beimler 
+                              
+                          Directed by 
+                         LeVar Burton 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       September 29, 1995
+
+   STAR TREK: DS9 - "The Sword of Kahless" - 09/29/95 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "The Sword of Kahless" 
+                             CAST 
+
+          SISKO                    KOR
+          KIRA                     LETHEAN
+          ODO                      TORAL
+          BASHIR                   
+          DAX                      
+          QUARK                    
+          O'BRIEN                  
+          WORF                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+  STAR TREK: DS9 - "The Sword of Kahless" - 09/29/95 - SETS        
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "The Sword of Kahless" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          SISKO'S QUARTERS              
+          KOR'S QUARTERS                RUNABOUT
+          QUARK'S                       
+
+        CAVES                         
+          TUNNEL                        
+          ROCK FACE                     
+          ALCOVE                        
+          CAMP                          
+          HUR'Q CHAMBER                 
+          HUR'Q SECRET CHAMBER          
+          A GREAT ABYSS                 
+
+        RUNABOUT                      
+
+  STAR TREK: DS9 - "The Sword of Kahless" - 10/02/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                    "The Sword of Kahless" 
+                      PRONUNCIATION GUIDE 
+
+          ALVANIAN                 al-VEIN-ee-un
+          Bo'taDah                 bow-tah-DAKH
+          DAHAR                    da-HAR
+          Mah HIv Dah              mahj-heev-DAKH
+          G'boj                    ga-BOKH
+          GOWRON                   GOW-ron
+          Hur'q                    HERK
+          k'pekt                   ka-PECKT
+          K'tanco                  ka-TAHN-co,
+          KAHLESS                  KAY-less
+          LETHEAN                  LETH-ee-un
+          MAJ                      MAZH
+          MEKONG                   MAY-kong
+          MOGH                     MOG
+          MOLOR                    moh-LOR
+          p'tak                    p'TAKT
+          Qapla'                   k-PLAH
+          SELNA                    cel-NAH
+          T'nag's                  ta-NAHGS
+          TORAL                    toe-RAHL
+          YRIDIAN                  yir-ID-ee-uhn
+
+         DEEP SPACE NINE: "The Sword... " - 09/29/95 - TEASER         1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                        "The Sword of Kahless"                         
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. QUARK'S
+
+	KOR -- the boisterous, aging Klingon survivor of "Blood 
+	Oath" -- recounts a story, surrounded by a small GROUP 
+	that includes DAX, O'BRIEN, BASHIR, ODO and KIRA.
+
+					KOR
+			-- walls of fire on one side, 
+			rivers of lava on the other... we 
+			snaked our way through the hot, 
+			smoldering canyon, our skin so 
+			parched and blistered it was thick 
+			as armor. Kang, Koloth and I had 
+			set out with forty legions and 
+			now, only we three remained to 
+			face T'nag's army.
+
+	Fueled by bloodwine, Kor is a good raconteur, holding 
+	his audience spellbound.
+
+2    NEW ANGLE
+
+	WORF, sitting alone at the bar, listening to Kor with 
+	rapture.  QUARK approaches.
+
+					QUARK 
+			You know what I like about Klingon 
+			stories, Commander?
+
+	Worf could care less, but Quark presses forth.
+
+					QUARK 
+			Nothing. Lots of people die and 
+			nobody makes any profit.
+
+	Worf flashes a glare at Quark, who darts away.
+
+3    ON KOR
+
+	continuing his tale.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - TEASER       2.
+
+3    CONTINUED:
+
+					KOR
+			Chanting a battle cry -- Koloth 
+			attacked their flank -- his eyes 
+			bulging with hate and revenge. It 
+			was a magnificent sight. A 
+			disruptor in one hand, his 
+			Bat'leth in the other -- I saw him 
+			kill two dozen men.
+
+4    ON BASHIR
+
+
+	leaning over to Kira and the others.
+
+					BASHIR 
+			Do you believe a word of this?
+
+					ODO 
+			Walking along rivers of lava... 
+			walls of fire? Not likely.
+
+					KIRA
+			And three against an army? Even 
+			more unlikely.
+
+					O'BRIEN 
+			Yeah, but who cares? He tells it 
+			well.
+
+5    BACK ON KOR
+
+	passionately orating.
+
+					KOR 
+			Kang took the high ground -- and 
+			keeping the three suns to his 
+			back, he forced the enemy to 
+			battle him against the blinding 
+			light.
+
+					DAX
+				(to Kor) 
+			When Kang told this story, you 
+			took the high ground.
+
+					KOR 
+			Who gets the credit is not 
+			important.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - TEASER       3.
+
+5    CONTINUED:
+
+					KOR (Cont'd) 
+			What matters is that in the end, 
+			the mountainside was so covered 
+			with dead that not a square meter 
+			of ground could be seen. We found 
+			T'nag's body by the river, its 
+			waters red with blood. Which one 
+			of us had slain him, none could 
+			say for certain...
+
+	Kor holds out his hand in front of his face as if he 
+	were holding an apple.
+
+					KOR 
+			So we cut out his heart -- and the 
+			three of us feasted on it
+			together!
+
+					DAX
+			Big heart.
+
+	Kor LAUGHS and slaps her on the back, hard.
+
+					KOR 
+				(to Dax) 
+			You need more bloodwine.
+
+					DAX
+			Thanks -- but I've had enough to 
+			last me a year. I need some tea.
+
+6    ON DAX
+
+	moving over to the bar, where Worf has been watching 
+	Kor.
+
+					DAX 
+			Mister Worf -- I didn't see you 
+			come in.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - TEASER       4.
+
+6    CONTINUED:
+
+					WORF
+			I was just leaving.
+
+					DAX
+			Why don't you join us? I'll 
+			introduce you to Kor.
+
+					WORF
+				(quickly) 
+			No.
+				(off her look) 
+			It might make the Dahar Master... 
+			uncomfortable. I am considered an 
+			outcast by most Klingons.
+
+					DAX
+			Kor is not like most Klingons.
+				(calling out) 
+			Kor!
+
+	Worf is very uncomfortable as Kor joins them.
+
+					DAX 
+			I'd like you to meet our strategic 
+			operations officer, Commander 
+			Worf.
+
+					KOR 
+			Ah, Worf the traitor. The pariah. 
+			The lowest of the low...
+
+	Worf wants to crawl into a hole.
+
+					KOR 
+			Pleasure to meet you. Any enemy 
+			of Gowron and the High Council is 
+			a friend of mine.
+
+	They grasp forearms in a Klingon handshake. Worf is taken 
+	aback, awestruck.
+
+					WORF 
+			This is a great honor.
+
+					KOR 
+			No doubt.
+
+	Worf doesn't really know what to say. Dax jumps in 
+	with:
+
+					DAX
+				(to Kor) 
+			Worf is a great admirer of yours.
+
+   DEEP SPACE NINE: "The Sword... " - REV. 10/04/95 - TEASER 5-5A.      
+
+6    CONTINUED:	(2)
+
+					WORF
+			I've heard stories about you since 
+			I was a child. Your confrontation 
+			with Kirk on Organia, your attack 
+			on Romulus, your defense of the 
+			Korma Pass --
+
+					KOR 
+			Everything I've done pales in 
+			comparison to what I'm about to 
+			achieve.
+
+	Worf's interest is piqued.
+
+					KOR 
+			I'm on a quest... a quest for the 
+			most revered icon in Klingon 
+			history.
+
+					DAX
+				(a warning) 
+			Kor...
+
+					KOR
+				(caught up in the 
+				moment) 
+			An icon that predates the Klingon 
+			Empire, an icon more sacred than 
+			the Torch of G'boj --
+
+					DAX
+				(stronger) 
+			Kor...
+
+					KOR 
+			More revered than Sabak's armor, 
+			and more coveted than the 
+			Emperor's crown!
+
+					WORF
+				(awed) 
+			The Sword of Kahless.
+
+	Dax looks at Kor -- what are you doing?
+
+					DAX 
+			You told me not to tell anybody.
+
+					KOR
+				(what could I do?) 
+			He guessed!
+				(to Worf) 
+			I know where the Sword rests. 
+			Imagine the glory! 
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/04/95 - TEASER       6.
+
+6    CONTINUED:	(3)
+
+					KOR (Cont'd) 
+			The honor of finding the Bat'leth 
+			of the first Warrior King...
+
+
+					WORF
+			Lost for a millennium... It's 
+			return would change Klingon 
+			history. If you know where it is 
+			we must bring it back to the 
+			Emperor.
+
+					KOR
+				(amused) 
+			We?
+
+					WORF
+			It would be an honor to accompany 
+			you.
+				(a beat) 
+			If you'll have me.
+
+					DAX
+				(smiles) 
+			We could use another strong arm...
+
+					KOR
+				(slapping him on the
+				back)
+			And a stout heart. Besides, it
+			will annoy Gowron.
+
+					WORF 
+			Returning the Sword to our 
+			people... I would give my life to 
+			do that.
+
+					KOR 
+			Children will sing our names for 
+			a thousand years! They'll erect 
+			statues of us in the Hall of 
+			Heroes.
+
+	Dax tries to inject a bit of reality.
+
+					DAX 
+			Before you decide on a pose for 
+			that statue -- we have to find the
+			Sword. What makes you so sure you 
+			know where it is?
+
+					KOR 
+			This.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - TEASER       7.
+
+6    CONTINUED: 
+
+	Kor reaches into his vest and extracts a folded, 
+	tattered and frayed old piece of cloth. Kor unravels 
+	the cloth; the cloth is rimmed with bizarre 
+	hieroglyphics; there is a faint ink block-like spot 
+	extending the length of the cloth in the shape of a 
+	curved blade.
+
+					KOR
+			You see?
+
+					DAX
+			See what?
+
+					KOR
+			The imprint on the cloth --
+
+					WORF
+			Yes!
+				(touching it 
+				reverentially) 
+			This held the Sword of Kahless.
+
+					DAX
+			Don't be so sure... you could 
+			carpet this station with all the 
+			"authentic" Shrouds of the Sword 
+			people have tried to peddle.
+
+					KOR 
+			No one tried to peddle this -- it 
+			was given to me.
+
+					DAX
+			By whom?
+
+					KOR 
+			I'll tell you everything, later. 
+			Now, I need you to confirm its 
+			authenticity.
+
+	Dax is intrigued enough to offer:
+
+					DAX 
+			I'll look this over in the lab -- 
+			first thing in the morning.
+
+					WORF
+			Why not right now?
+
+					DAX
+			My head is swimming in bloodwine.
+			Right now --
+
+	Dax gets up to leave.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - TEASER      7A.
+
+6    CONTINUED:	(5)
+
+					DAX
+				(continuing)
+			I'm going to bed. And so should 
+			you.
+
+	Kor remains at his seat.
+
+					KOR 
+			Absolutely. After I finish what's 
+			left in my cup.
+
+	Dax eyes him suspiciously. Kor lifts the glass to show 
+	her there is only a small amount of drink left.
+
+					KOR
+			Maj ram, blood brother. (Good
+			Night)
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - TEASER       8.
+
+6    CONTINUED:	(6)
+
+					DAX 
+			Maj ram.
+
+	Dax EXITS. Kor immediately takes the remainder of an 
+	abandoned drink and fills up his cup, then turns to 
+	Worf...
+
+					KOR 
+			Imagine Gowron's face when we 
+			present the sword to the 
+			Emperor...
+
+	Off Worf's shining face...
+
+									CUT TO:
+
+ 7   OMITTED
+
+ 8   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+9    INT. KOR'S QUARTERS
+
+	A very drunk Kor stumbles into his quarters, the door 
+	closes behind him.
+
+					VOICE (O.S.) 
+			Kor
+
+	Kor turns to face a large LETHEAN -- like Altovar from 
+	"Distant Voices" -- who immediately attacks Kor.
+
+10   ON KOR (OPTICAL)
+
+	instinctively going for his dagger -- but he's in no
+	shape to fight anybody, let alone a Lethean. The
+	Lethean grabs Kor -- placing both hands on Kor's head.
+	ELECTRICAL ARCS dance around Kor's face as he goes
+	limp.
+
+11   ON THE LETHEAN (OPTICAL)
+
+	standing over the fallen Kor and then placing one hand 
+	on Kor's forehead.
+
+					LETHEAN 
+			Open your mind...
+
+	And off this ominous moment, we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE NINE: "The Sword... " - 09/29/95 - ACT ONE         9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+12   INT. KOR'S QUARTERS
+
+	The next morning. DOOR CHIMES.  Kor, on the floor, 
+	groggily comes to. Another DOOR CHIME.
+
+					KOR 
+			What?
+
+	Door opens to reveal Dax, she ENTERS, holding the cloth 
+	Kor gave her. She smiles knowingly -- this is a 
+	familiar scene to her.
+
+					DAX
+			Couldn't find the bed?
+
+	Kor GROWLS to clear the frog from his throat.
+
+					KOR 
+			Damn that Ferengi and his 
+			replicated bloodwine.
+
+	Dax helps him onto a chair.
+
+					DAX
+			Worf looked a little bleary-eyed 
+			this morning in Ops... how late 
+			did you keep him up?
+
+					KOR
+			Until that toad-faced Ferengi 
+			threw us out of his bar.
+
+					DAX
+				(knowingly) 
+			And then where did you go?
+
+	Kor has to think hard on this one.
+
+					KOR
+			Worf's quarters, I think...
+				(remembering) 
+			That's right -- he had a bottle of 
+			Yridian brandy he was saving for 
+			a special occasion.
+
+					DAX
+			Like meeting you.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/04/95 - ACT ONE     10.
+
+12   CONTINUED:
+
+					KOR 
+			He was honored to join our quest.
+
+	Kor's eyes fall to the cloth as he asks the question 
+	he's afraid to ask.
+
+					KOR 
+			That is... if there's going to be 
+			a quest. What did you find?
+
+					DAX
+			I found both Klingon and Hur'q DNA 
+			on the cloth...
+				(milking it) 
+			And traces of metallic compounds 
+			that could only have been left... 
+			by a Klingon Bat'leth... a 
+			Bat'leth fourteen hundred years 
+			old.
+
+	Kor leaps to his feet.
+
+					KOR 
+			The time of Kahless! I never 
+			doubted it. When do we leave?
+
+					DAX
+			After I talk to Captain Sisko, and 
+			after you answer a few questions.
+				(re: the cloth) 
+			Now, where did you get this?
+
+									CUT TO:
+
+13   INT. SISKO'S QUARTERS 
+
+	SISKO is shaving his head with a futuristic instrument. 
+	Dax and Worf are behind him.
+
+					SISKO 
+			The Gamma Quadrant.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/04/95 - ACT ONE     11.
+
+13   CONTINUED:
+
+					DAX
+			A Vulcan geological survey team 
+			was mining bakrinium on an 
+			uncharted planet when they 
+			accidentally unearthed some 
+			ancient ruins. They brought back 
+			several artifacts to study, 
+			including the cloth.
+
+					WORF
+			Kor was the Klingon ambassador to 
+			Vulcan.
+
+					DAX
+			When he saw the cloth, Kor 
+			recognized the markings and got 
+			them to give it to him as a gift. 
+			They didn't realize it, but the 
+			markings were Hur'q.
+
+					SISKO
+			Hur'q... that's the Klingon word 
+			for "outsiders," isn't it?
+
+					WORF
+			The Hur'q invaded our homeworld 
+			over a thousand years ago. What 
+			they could not pillage, they 
+			destroyed. They took the Sword 
+			and my people have been looking 
+			for it ever since. It is said 
+			that the recovery of the Sword 
+			will bring a new era of glory to 
+			the Klingon Empire. With the 
+			Sword, the Emperor will be able to 
+			unite our people again.
+
+					SISKO
+				(thinking about it) 
+			And if two Starfleet officers were 
+			involved in recovering the
+			Sword... that might go a long way 
+			toward patching things up between 
+			us and the Klingons.
+
+					WORF
+			That is my hope as well, Captain.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT ONE     12.
+
+13   CONTINUED:	(2)
+
+					SISKO
+			What about you, old man? Going
+			along for the adventure?
+
+					DAX
+			Hard to resist a good quest.
+
+					SISKO
+			I suppose you'll want a runabout?
+
+					WORF
+				(prepared for this)
+			The Mekong's available...
+
+					SISKO
+			Try to bring it back in one piece.
+
+					DAX
+			We'll do our best.
+
+	Sisko sets down the razor. Worf and Dax head for the 
+	door... Dax turns back with one last thought.
+
+					DAX
+			Thanks, Benjamin.
+
+	He smiles.
+
+									CUT TO:
+
+14   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+15   INT. RUNABOUT
+
+	Dax and Worf are preparing the ship for departure.
+
+					WORF
+			Final systems check is complete.
+				(beat)
+			Where's Kor?
+
+        DEEP SPACE NINE: "The Sword... " - 09/29/95 - ACT ONE       12A.
+
+15   CONTINUED:
+
+					DAX 
+			Something tells me he made an 
+			unscheduled stop at Quark's.
+
+	And from off screen, Kor bellows:
+
+					KOR (O.S.)
+			To get supplies.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT ONE     13.
+
+16   ON KOR 
+
+	as he ENTERS from the airlock carrying in a barrel with 
+	Klingon markings.
+
+					DAX
+				(knowingly) 
+			Bloodwine.
+
+					KOR
+			And it's not replicated.
+
+	Dax turns her attention back to her duties.
+
+					DAX 
+			Mister Worf, stand by to get 
+			underway.
+
+					WORF
+			Thrusters, on-line.
+
+	Kor looks around, beaming.
+
+					KOR 
+			A fast ship, good company, and 
+			great purpose... feels like old 
+			times.
+
+	Dax smiles.
+
+17   EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	The ship pulls away from the station.
+
+18   INT. RUNABOUT
+
+	As before.
+
+					DAX
+			Mister Worf, set a course for the 
+			wormhole.
+
+					WORF
+			Course laid in.
+
+					DAX
+			Ahead half --
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT ONE     14.
+
+ 18   CONTINUED:
+
+					KOR
+				(interrupting) 
+			Wait.
+
+	Dax and Worf turn to face Kor.
+
+					KOR
+			Let this moment be remembered.
+			For on this day, we three --
+
+	Kor places a hand on each of their shoulders.
+
+					KOR 
+			-- Kor, Dahar Master of the 
+			Klingons, Jadzia Dax, a joined 
+			Trill of seven lives, and Worf, 
+			son of Mogh and thorn in Gowron's 
+			side --
+
+	Worf is filled with admiration for the old Klingon, who 
+	is puffed out like a peacock.
+
+					KOR 
+			-- together stepped forth into the 
+			eye of destiny.
+
+	A beat to sanctify the moment, then Dax looks at Kor.
+
+					DAX 
+			Now?
+
+					KOR 
+			Now.
+
+					DAX
+				(smiles) 
+			Ahead half thrusters.
+
+	Kor holds his hands up high, like Moses parting the Red 
+	Sea.
+
+19   KOR'S POV - THROUGH THE WINDOW (OPTICAL)
+
+	the wormhole opens.
+
+19A  RESUME SCENE
+
+		Kor is relishing the moment.
+
+					KOR 
+			Glorious.
+
+        DEEP SPACE NINE: "The Sword... " - 09/29/95 - ACT ONE       14A.
+
+20   EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	ENTERS the wormhole.
+
+21   INT. RUNABOUT 
+
+	Hours later. CLOSE ON Worf going through the Tai Chi-
+	like movements of a Klingon ritualistic exercise. 
+	Accidentally, he almost hits Dax, sitting at the helm --
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - ACT ONE     15.
+
+21   CONTINUED:
+
+					WORF
+			Forgive me, commander.
+
+					DAX
+			It's a little crowded in here...
+
+					WORF 
+			I would use the aft quarters for 
+			my exercises but the Dahar Master
+			is resting.
+
+					DAX
+			I know -- I heard him snoring 
+			through the bulkhead.
+
+					WORF
+			Commander, I want to thank you for
+			introducing me to Kor. I'm 
+			honored to be here.
+
+					DAX
+			And I'm glad he invited you. Even 
+			if it does make things a little crowded.
+
+	Kor ENTERS, his head thrown back as he GARGLES and 
+	stretches. After swallowing his own swill, he 
+	announces:
+
+					KOR 
+			Ahh. Slept like an Alvanian cave 
+			sloth. I had a magnificent dream. 
+			I dreamt the three of us were in 
+			the Hall of Heroes presenting the 
+			Bat'leth to the Emperor. We stood 
+			near the statues of Kang and 
+			Koloth... and as the crowd sang 
+			our names, the most astonishing 
+			thing happened... their statues 
+			came to life! Kang and Koloth 
+			were flesh and blood again, and we 
+			held the Sword high... the crowd's 
+			song was so vibrant and thunderous 
+			it ripped open the great dome and 
+			the heavens poured in their light, 
+			and then...
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT ONE     16.
+
+21   CONTINUED:	(2)
+
+					DAX 
+			You woke up.
+
+					KOR 
+			No... a ship uncloaked above --
+			Kang's ship, the K'tanco... and a 
+			swirl of song lifted Kang, Koloth 
+			and me up into its warm embrace... 
+			and then the ship streaked away 
+			into the golden light.
+
+					WORF
+			And Dax and I stayed behind?
+
+					KOR 
+			Don't you see? It was taking me 
+			to Sto-Vo-Kor -- to join Kang and 
+			Koloth in the afterlife.
+
+					DAX
+			Then it's a good thing we didn't 
+			come.
+
+					KOR
+				(yes, of course) 
+			You and Worf have many great deeds 
+			still ahead of you.
+				(beat) 
+			But this will be my final quest.
+
+					DAX
+			You said that last time.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT ONE     17.
+
+21   CONTINUED:	(3)
+
+					KOR
+				(laughing) 
+			So I did.
+				(beat) 
+			But this deed will assure me a 
+			place in the Hall of Heroes. And 
+			then, I will stand where I 
+			belong... Kang, Koloth and Kor, 
+			together again...
+
+	Both Worf and Dax are touched by the sincerity of Kor's 
+	words.
+
+									CUT TO:
+
+22   EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	in orbit of a class-M planet.
+
+23   INT. RUNABOUT
+
+	Worf and Dax at the controls. Kor standing behind 
+	them, brimming with anticipation.
+
+					WORF 
+			We have assumed a standard orbit.
+
+					DAX
+				(off console) 
+			I'm reading a series of 
+			interconnected structures and 
+			tunnels several kilometers below 
+			the surface.
+
+					KOR 
+			All that remains of the Hur'q... 
+			the great plunderers of the 
+			galaxy. And now, it is time for 
+			us to reclaim what is ours...
+
+					DAX
+			Assuming we can find where to 
+			look. It's a big planet.
+
+					KOR 
+			The Vulcan survey team was 
+			meticulous -- they mapped the 
+			entire area during their mining 
+			operation.
+
+        DEEP SPACE NINE: "The Sword... " - 09/29/95 - ACT ONE       17A.
+
+23   CONTINUED:
+
+					KOR (Cont'd) 
+			The Sword should be in the chamber 
+			that was once their Central Museum --
+			along with all the other great 
+			treasures the Hur'q looted. It's 
+			the structure furthest north.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT ONE     18.
+
+23   CONTINUED:	(2)
+
+	Worf taps his console.
+
+					WORF
+			There's a forcefield around that
+			chamber.
+
+					KOR
+			I know -- the Vulcans told me they
+			couldn't get through it.
+				(with relish)
+			We'll be the first ones inside.
+
+					DAX
+			Why didn't you mention this
+			forcefield before?
+
+					KOR
+			It's not important.  I know you'll
+			find a way past it.
+
+	Dax can't help but grin.  After all, Kor is right --
+	she'll find a way through.
+
+									CUT TO:
+
+24   INT. CAVE ALCOVE (OPTICAL)
+
+	Kor, Dax and Worf MATERIALIZE in a dark, underground
+	cave-tunnel.  Worf is carrying a pair of devices much
+	like our transporter pattern enhancers.  Dax has a
+	phaser and a tricorder.
+
+					DAX
+			We should be just outside the 
+			forcefield.
+
+	Dax scans the area with her tricorder.  Takes a couple
+	steps and touches the plane of the forcefield which
+	FRITZES ON.  All three look beyond the forcefield as
+	the cave-tunnel curves out of sight.
+
+					WORF
+			Then the Central Chamber is
+			somewhere back there.
+
+					DAX
+			Let's get to work.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT ONE     19.
+
+24   CONTINUED:
+
+	Worf and Dax deploy the devices they brought, placing 
+	them on each side of the forcefield wall. Once they 
+	are in place, they are activated and the appropriate 
+	BLINKIES LIGHT UP. Then Dax takes out her tricorder.
+
+					DAX
+			First we have to modulate the
+			field destabilizers to create an 
+			interference pattern.
+
+	She works the tricorder, the forcefield FRITZES for a 
+	moment.
+
+					DAX
+			It's not working...
+
+					WORF
+			Try reversing the polarity.
+
+					DAX
+			That helped...
+				(pause) 
+			Now if we just increase the 
+			amplitude of the interference 
+			field...
+
+	After a beat, the forcefield FRITZES OFF.
+
+					KOR
+			Well done, my friends.
+
+	They take a few steps forward, then Worf and Kor react 
+	as if to some unseen change in their environment.
+
+					WORF
+			The air --
+
+					KOR
+				(nodding) 
+			Foul, isn't it? This place has 
+			been undisturbed for hundreds of 
+			years.
+
+	Kor, filled with anticipation, leads Dax, and Worf as 
+	they walk down the cave-tunnel into --
+
+25   INT. HUR'Q CHAMBER - CONTINUOUS 
+
+	This is the remnants of the Hur'q Central Museum -- 
+	where once, great treasures were grandly displayed. 
+	But now, the place is in ruins. Support beams have 
+	collapsed, a thick layer of dust covers everything and 
+	all the display cases are empty. The place has been 
+	looted -- thoroughly.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/04/95 - ACT ONE    19A.
+
+25   CONTINUED:
+
+					WORF
+			The Vulcans may not have gotten in 
+			here -- but someone did.
+
+	And as this dawns on our trio, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT TWO     20.
+                            ACT TWO                             
+
+	FADE IN:
+
+26   INT. HUR'Q CHAMBER 
+
+	As before. Kor is speechless... his hopes have been 
+	dashed. Dax moves to Kor and places a sympathetic hand 
+	on his shoulder.
+
+					DAX
+			I'm sorry, Kor.
+
+	Kor is crestfallen, but tries to hide it.
+
+					KOR 
+			Don't be sorry for me -- be sorry 
+			for the Empire.
+
+	But Worf's not ready to give up. He moves about the 
+	chamber, examining the room.
+
+					WORF 
+			If we can determine who did this --
+			perhaps we can track them down.
+
+					KOR 
+			For all we know, the Sword is  
+			halfway across the galaxy by now.
+
+					DAX
+				(boosting his spirits) 
+			Sounds like a worthy quest.
+
+					KOR
+			For you and Worf, perhaps.
+				(beat)
+			But not for me.
+
+	Kor sadly looks around the chamber.
+
+					KOR 
+			My last chance for glory dies here.
+
+        DEEP SPACE NINE: "The Sword... " - 09/29/95 - ACT TWO       20A.
+
+26   CONTINUED:
+
+					WORF (O.S)
+			Commander --
+
+27   ON WORF
+
+	crouched by a far wall, examining where the floor and 
+	wall meet.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT TWO     21.
+
+27   CONTINUED:
+
+	Dax moves to his side and Worf points out something on 
+	the floor.
+
+28   INSERT
+
+	A clean strip of floor -- a quarter-inch wide -- hugs
+	the wall; for some reason, no dust has settled there.
+
+					WORF (O.S.)
+			The dust does not reach the wall.
+
+29   WIDER
+
+	Dax takes her tricorder.
+
+					DAX. 
+			Something must be repelling it.
+				(off the tricorder) 
+			I'm getting a faint electrostatic 
+			charge along this section.
+
+	She demarcates a two-meter section of wall. Intrigued, 
+	Kor joins them.
+
+					KOR 
+			Another forcefield?
+
+					WORF
+				(agreeing) 
+			Disguised by a holographic 
+			projection.
+
+					KOR
+				(rising excitement) 
+			Are you saying there may be 
+			another chamber behind it?
+
+					DAX
+			If there is, I'm not sure how we 
+			can get to it. This shield has 
+			completely different harmonics 
+			than the one at the entrance.
+
+	During the above, Worf searches the area around the 
+	door. He spots a small device directly above the 
+	section of wall.
+
+					WORF 
+			Over here.
+				(off reactions) 
+			It's some kind of sensor... 
+			focused on the area just in front 
+			of the forcefield.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT TWO    21A.
+
+
+29   CONTINUED:
+
+					DAX
+			It must be keyed to read lifesigns.
+
+					KOR
+			Why?
+
+					WORF
+				(realizing)
+			So that only Hur'q could enter.
+
+					DAX
+			If you're right... we'll need a 
+			Hur'q tour guide to get us 
+			through.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/04/95 - ACT TWO     22.
+
+29   CONTINUED:	(2)
+
+					WORF 
+			It may be possible to fool the 
+			sensor into thinking we're Hur'q.
+
+					DAX
+			We could reconfigure the tricorder 
+			to emit Hur'q lifesigns.
+
+
+					WORF 
+			Exactly. 
+
+	Dax begins tapping her tricorder console.
+
+					DAX
+			I still have the DNA readings we 
+			got from the cloth.
+
+30   ON DAX (OPTICAL) 
+
+	As she finishes adjusting the tricorder and holds it up 
+	to the sensor. She reaches to touch the wall, but her 
+	hand DISAPPEARS into it.
+
+					DAX
+			I feel like a Hur'q already.
+
+31   WIDER
+
+	as the three of them walk into the wall, and DISAPPEAR.
+
+32   INT. HUR'Q SECRET CHAMBER 
+
+	Kor, Worf and Dax find themselves in a smaller chamber. 
+	This one has not been looted. Several precious items 
+	from around the galaxy are on display -- but Kor and 
+	Worf have eyes only for --
+
+33   ANGLE ON
+
+	the Sword of Kahless. The Bat'leth -- an old, rusty, 
+	primitive Sword is displayed on an altar in the middle 
+	of the room.
+
+34   ON KOR, DAX AND WORF
+
+	as they view the magnificent Sword.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT TWO     23.
+
+34   CONTINUED:
+
+					KOR 
+			For a thousand years, our people 
+			have waited for this moment...
+
+	They take a few hesitant steps toward it. Dax scans it 
+	with her tricorder.
+
+					DAX
+			The age... the composition... the 
+			design... everything's right.
+
+					KOR 
+			How could you doubt it? Look at 
+			it!
+
+					WORF
+			It is more beautiful than I ever 
+			imagined.
+				(to Kor) 
+			You should be the first to hold 
+			it.
+
+	Kor steps toward it, his hands tremble. Gently he
+	lifts it from its pedestal. He takes the Sword with
+	both hands, holding it reverentially. Kor is engulfed
+	with emotion -- this is a moment all Klingon warriors
+	dream of. And, for the first time in Kor's life, words
+	fail him. Dax smiles at her friend.
+
+					DAX 
+			How does it feel?
+
+					KOR 
+			Good. Very, very good. To 
+			think... Kahless himself held 
+			this Bat'leth...
+
+	Kor hands it to an anxious Worf, who holds it with 
+	great reverence, tracing the curve of the blade. 
+	Worf's face is flush with emotion.
+
+					WORF
+			And with it he slew Molor... 
+			conquered the Fek'Ihri and forged 
+			the first Empire. And now... I 
+			hold it in my hands...
+
+	Worf hands it back to Kor. Dax gives them their 
+	moment, then with reluctance:
+
+					DAX
+			We should go. The field 
+			destabilizers won't hold much 
+			longer.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT TWO     24.
+
+35   INT. HUR'Q CHAMBER (OPTICAL)
+
+	Kor -- carrying the Bat'leth -- Worf and Dax EMERGE 
+	from the wall and stop short. In front of them stand 
+	TWO KLINGON SOLDIERS and the Lethean from the Teaser, 
+	one of the Klingons has his disruptor out, the others 
+	carry Bat'leths. Behind them, to either side of the 
+	holo-wall opening, another TWO KLINGON SOLDIERS stand 
+	at the ready. The leader of the Klingons is TORAL, the
+	illegitimate son of Duras from "Redemption," now an 
+	adult.
+
+					TORAL 
+			Well, Kor... it seems you were 
+			right. You did find the Sword.
+
+					KOR 
+			Who are you?
+
+	Toral LAUGHS.
+
+					TORAL
+				(re: Worf) 
+			Ask your friend.
+
+					WORF
+				(with contempt) 
+			He is Toral, from the House of 
+			Duras.
+
+					TORAL 
+			It's good to see you too, Worf.
+
+	There is no love lost between these two.
+
+					TORAL
+				(to Kor) 
+			Seems you were too drunk to 
+			remember me... or the tavern on 
+			Torna Four? You held us all 
+			spellbound with a tale about a 
+			Hur'q cloth and how it was going 
+			to lead you to the Sword.
+				(re: the Lethean) 
+			I was so intrigued I sent my 
+			friend here to see what else you 
+			knew.
+
+					DAX
+			What do you want?
+
+					TORAL 
+			What we all want. The Sword.
+
+					WORF
+			The Sword is for the Emperor.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT'TWO    24A.
+
+35   CONTINUED:
+
+					TORAL
+				(yeah, yeah)
+			Who will be so grateful he'll give
+			Kor his statue...
+				(to Worf)
+			... and perhaps even forgive your 
+			dishonor?
+					(MORE)
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT TWO     25.
+
+35   CONTINUED:	(2)
+
+					TORAL (Cont'd) 
+			I'm afraid I have different plans 
+			for the Sword.
+
+					WORF
+			You think that if you give it to 
+			the Emperor, he'll restore your 
+			family's seat on the High Council.
+
+					TORAL 
+			I'm not giving the Emperor 
+			anything. With the Sword in my 
+			hand, I'll be leading the Empire.
+				(to Worf, pleased)
+			I can see from your face that you 
+			regret having spared my life, 
+			Worf.
+				(to Kor)
+			Now give it to me.
+
+					KOR 
+			No.
+
+					TORAL
+				(shaking his head) 
+			Then I'm afraid we'll have to take 
+			it.
+
+	The Klingon with the disruptor steps towards Kor. Kor 
+	glances at Worf, then at Dax.
+
+					WORF
+			If he wants it.
+				(pointed) 
+			Give it to him.
+
+	Kor, holding the Bat'leth with its blades to the floor, 
+	reluctantly offers it to the Klingon's outstretched 
+	hand. But with a lightning-fast flick of his wrist, 
+	Kor whips the blade up and lands a vicious blow to the 
+	Klingon's midsection, killing him.
+
+	Worf and Dax spring into action -- Dax kicks the 
+	Klingon behind her, and at the same time, Worf swings 
+	his blade and slashes the Klingon behind him. While 
+	Soto and Toral go after Worf, Kor moves to take on the 
+	remaining Klingon.
+
+	A vicious hand-to-hand battle erupts -- our people's 
+	objective is to get out the door to the cave from which 
+	they entered.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT TWO     26.
+
+35   CONTINUED:	(3)
+
+	Dax makes it there first, and from there provides 
+	phaser cover.
+
+	In the melee, Worf is wounded -- a deep stab in his 
+	left shoulder. Once Dax sees this, she shouts:
+
+					DAX
+			Let's go!
+
+36   INT. CAVE-TUNNEL (OPTICAL) 
+
+	As Kor, Dax and Worf retreat from the chamber, 
+	disruptor BLASTS erupt around them. They return the 
+	FIRE on the run.
+
+	They run past the field disruptors, the Lethean hard on 
+	their heels. Worf kicks away one of the field 
+	disruptors and the forcefield FRITZES ON. The Lethean 
+	smashes against it in frustration. He can't get 
+	through.
+
+37   INT. ANOTHER SECTION OF CAVE-TUNNEL
+
+	As Worf joins Dax and Kor, panting from exertion. 
+	Worf's wound is severe. Dax begins wrapping a 
+	improvised bandage around the injury.
+
+					DAX
+			We have to stop the bleeding. 
+			We'd better get you back to the 
+			ship.
+				(tapping her combadge) 
+			Dax to Mekong.
+
+	No response.
+
+					DAX
+			Computer. Three to beam up.
+
+  DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT TWO 27-27A     
+
+37   CONTINUED:
+
+	This time a burst of a PIERCING STATIC NOISE is the 
+	only reply.
+
+					WORF 
+			That's a Klingon jamming signal.
+
+					DAX
+			Can we override it?
+
+					WORF
+			Maybe from the surface.
+
+	Dax continues bandaging the wound. She looks up at Kor 
+	who is entranced by the sword.
+
+					DAX
+			Kor, make sure we're not being 
+			followed.
+
+					KOR
+				(jolly) 
+			Did you see the face of the 
+			Klingon I killed? It was as if he 
+			understood the honor bestowed upon 
+			him. The first man in a thousand 
+			years to die by the Sword of 
+			Kahless.
+
+					DAX
+				(sarcastic) 
+			I'm sure he was very proud.
+
+					WORF
+			We should keep moving. Toral will 
+			find a way past the forcefield.
+
+	Dax helps Worf to his feet and all three move down the 
+	cave-tunnel.
+
+38   OMITTED
+
+									DISSOLVE TO:
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT TWO     28.
+
+39   INT. ANOTHER SECTION OF CAVES
+
+	Later.  A strange looking vole-like rodent perches on
+	a rock, then scampers away as Dax, Kor and Worf
+	approach. Dax can see that Worf's wound is taking a
+	heavy toll on him. Kor occasionally takes a swig from
+	his flask as he walks.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT TWO     29.
+
+39   CONTINUED:	(2)
+
+	Kor studies Worf for a beat; he's been thinking about 
+	something...
+
+					KOR
+				(to Worf) 
+			What did Toral mean when he said 
+			you spared his life?
+
+					WORF
+			When it was discovered that the 
+			House of Duras had conspired to 
+			destroy my father's honor, Gowron 
+			offered me Toral's life.
+
+					KOR
+				(of course) 
+			Under the Right of Vengeance.
+
+					WORF
+			I declined.
+
+	Kor stops -- stunned.
+
+					KOR 
+			Why?
+
+					WORF
+			He was a boy. He had done 
+			nothing.
+
+					KOR 
+			That's beside the point -- it was 
+			a matter of honor.
+
+					DAX
+			It was Worf's right to decline.
+
+					KOR 
+			It was a mistake -- perhaps it's 
+			true what they say about you... 
+			you've been around humans too 
+			long.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT TWO     30.
+
+39   CONTINUED:	(3)
+
+					DAX 
+			Kor --
+
+					KOR 
+			If he hadn't spared Toral's life, 
+			we'd be on our way to Kronos.
+
+					WORF
+			If you hadn't gotten drunk and 
+			told a tavernful of people what 
+			you were planning, Toral wouldn't 
+			have followed us here in the first 
+			place.
+
+					KOR 
+			I told them nothing of 
+			consequence! How could I know 
+			Toral would send a Lethean to 
+			steal my thoughts.
+
+					WORF
+			You should've been more discreet.
+
+	Backed against a wall, Kor lashes out.
+
+					KOR 
+			And you should've been more of a 
+			Klingon!
+
+	And with that, he moves away. Dax and Worf exchange a 
+	look, then Dax crosses over to Kor.
+
+40   ANGLE ON KOR AND DAX
+
+	a few meters away from Worf. Kor takes a sullen swig 
+	from his flask.
+
+					DAX
+			Kor... what was that all about?
+
+					KOR 
+				(sharp) 
+			What?
+
+					DAX
+			Worf admires you. You have no 
+			idea how much it meant to him to 
+			be asked along on this journey.
+
+	Kor glances back at Worf, then looks back at Dax.
+
+      DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT TWO     31.
+
+40   CONTINUED:
+
+					KOR 
+			Tell me, Dax... how well do you 
+			know him?
+
+					DAX
+			Well enough. Why?
+
+					KOR
+			I'm beginning to think I was too 
+			lenient in my judgment of him. A 
+			Klingon who denies himself the 
+			Right of Vengeance is no Klingon 
+			at all.
+				(a beat) 
+			He dishonors the Sword with his 
+			presence. I don't trust him. I 
+			should have left him on that space 
+			station where he belongs.
+
+	Kor glares back at Worf with contempt. Dax reacts,
+	troubled.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - ACT THREE    32.
+                           ACT THREE                            
+
+	FADE IN:
+
+ 41   INT. ANOTHER SECTION OF CAVES
+
+	CLOSE ON Worf skulking behind a rock. He carefully 
+	peers around the edge, not wanting to give away his 
+	position.
+
+
+ 42   CLOSE ON KOR 
+
+	hiding behind another rock. He, too, is careful not to 
+	reveal his position.
+
+ 43   ON DAX
+
+	pressed against the cave wall, she holds a phaser at 
+	the ready.
+
+					DAX
+				(whispering)
+			Worf... over there. 
+
+	Dax indicates something off screen.
+
+44   ON WORF
+
+	nodding acknowledgment, then moving off cautiously to 
+	crouch behind another rock.
+
+45   ON KOR
+
+	his eyes widening, reacting to something off screen.
+
+46   ON WORF
+
+	letting out a KLINGON CRY.
+
+					WORF
+			Bo'taDaH!
+
+47   WIDER (OPTICAL)
+
+	Kor scurries towards him.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT THREE    33.
+
+47   CONTINUED:
+
+					KOR
+			HoH!
+
+	Dax instantly FIRES her phaser at the ground right 
+	between Kor and Worf. Kor and Worf freeze in their 
+	tracks. After a beat, Kor bends to grab something --
+
+48   ON KOR
+
+	emerging with a stunned vole-like rodent by the tail.
+
+					KOR
+				(beaming) 
+			Lunch!
+
+										CUT TO:
+
+49   INT. CAVES
+
+	Dax bites into a piece of meat skewered on the end of 
+	a dagger. The trio is sitting around a glowing rock 
+	they heated with the phaser to cook the rodent. Kor 
+	has the Sword near him.
+
+					KOR
+				(chewing)
+			Delicious, isn't it?
+
+					WORF
+				(nodding) 
+			A hunt builds the appetite.
+
+	Dax tries to swallow the tough meat.
+
+					DAX
+			This is disgusting.
+
+	Kor takes a long swig from his flask.
+
+					KOR 
+			But it'll make a good part of the 
+			story.
+
+	They look at him; he grins with mischievous delight.
+
+					KOR 
+			How we slew the beast. Remember -- 
+			it attacked us from the dark, five 
+			meters long --
+
+       DEEP SPACE NINE: "The Sword... " - 09/29/95 - ACT THREE      33A.
+
+49   CONTINUED:
+
+					DAX
+				(catching on)
+			Ten, at least!
+
+					KOR
+			Eyes ablaze, fangs like daggers --
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT THREE    34.
+
+49   CONTINUED:	(2)
+
+					DAX
+			Breathing great plumes of fire.
+
+	Dax and Kor erupt into LAUGHTER.  Worf remains dead
+	serious.
+
+					KOR 
+				(to Dax) 
+			It seems the son of Mogh is not 
+			amused.
+
+					WORF 
+				(pointed) 
+			A true warrior has no need to 
+			exaggerate his feats.
+
+					KOR
+			You'd better hope I exaggerate or 
+			when they sing songs about this 
+			quest, your verse will say "And 
+			Worf came along."
+
+	Kor laughs at his own joke. Eyeing a piece of meat out 
+	of his reach, Kor takes the Sword and -- almost without 
+	thinking -- skewers it.
+
+	Worf is instantly on his feet and rips the Sword out of 
+	Kor's hands.
+
+					WORF 
+			This is the Sword of Kahless --
+			not something to shovel food into 
+			your mouth!
+
+	Worf turns to gently place it on a nearby rock, almost 
+	on display.
+
+					WORF 
+			It must be treated with honor.
+
+					KOR 
+				(to Dax) 
+			Look at him... he's like the 
+			Hur'q, he thinks it's a museum 
+			piece. Why, Kahless himself used 
+			it to skin the serpent of Xol, to 
+			harvest his father's field, and to 
+			carve a statue for his beloved. 
+				(beat) 
+			It's a sword.  But Worf doesn't 
+			know what to do with it, except 
+			bow in front of it, and then hand 
+			it over to his precious Emperor.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT THREE   34A.
+
+49   CONTINUED:	(3)
+
+					WORF 
+			When we do, you'll get your 
+			precious statue. And after 
+			they've sung songs about you and 
+			you've passed out from drink --
+			the Emperor will use the Sword to 
+			unite our people.
+
+					KOR 
+				(scoffs) 
+			If Gowron allows him to. The 
+			Emperor is nothing but his puppet.
+
+					WORF
+			The Emperor is no one's puppet -- 
+			he condemned Gowron's invasion of 
+			Cardassia..
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT THREE    35.
+
+49   CONTINUED:	(4)
+
+					KOR
+				(contemptuous) 
+			And the invasion went ahead 
+			despite his objection.
+
+					WORF
+			That is why the Emperor needs the 
+			Sword. It will allow him to unify 
+			the Houses against Gowron.
+
+					KOR 
+			The Emperor is a pretender! He's 
+			a clone of the original Kahless 
+			cooked up in a vat by ambitious 
+			clerics. And if you hadn't 
+			supported him, he'd be back in 
+			that vat where he came from!
+
+					WORF
+			I supported him because we need 
+			him. He can unite us!
+
+					KOR
+			The Sword will unite us -- but
+			only if it's in the hands of a
+			true Klingon. Not a politician
+			like Gowron or a toothless
+			figurehead like the Emperor... the
+			Sword must rest in the hands of
+			someone hardened by battle... pure
+			of heart... someone who
+			understands loyalty, honor... a
+			warrior like Kang -- or Koloth!
+
+					WORF 
+			Someone like you?
+
+	Now that Worf mentions it... yes. Kor considers 
+	himself a worthy candidate.
+
+					KOR 
+			The Empire could do far worse.
+
+	Worf eyes him, Kor holds his gaze but isn't ready to 
+	confront Worf; the idea of keeping the Sword is too 
+	new. Dax looks to break the tension.
+
+					DAX
+			We should get moving.
+
+	A beat, then Kor turns away to follow Dax, but Worf 
+	holds his ground.
+
+ DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT THREE 36-36A    
+
+49   CONTINUED:	(5)
+
+					WORF 
+			Are you saying that it's your 
+			intention to lead the Empire?
+
+					KOR
+				(smiling) 
+			I'm saying... it's my intention to 
+			lead us to the surface.
+
+	Kor moves off, holding the Sword. Worf and Dax 
+	exchange a look, then silently follow.
+
+									DISSOLVE TO:
+
+49A
+thru   OMITTED
+50
+
+51   INT. ANOTHER SECTION OF CAVES
+
+	Kor, Dax and Worf continue their trek through the 
+	grotto. Dax, mindful of Worf's weakened condition, 
+	stops.
+
+					DAX 
+			We need to change your bandage.
+
+	Worf dismisses this
+
+					WORF
+				(stoic)
+			We must keep moving.
+
+					DAX 
+			You're hemorrhaging. We have to 
+			stop the bleeding.
+
+	As Dax settles to work on Worf, Kor taps his own 
+	stomach.
+
+					KOR 
+			That cave-rat was all bones. I 
+			need another one.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT THREE   36B.
+
+51   CONTINUED:
+
+					DAX
+				(smiling) 
+			Find a nice fat one. We could all 
+			use something to eat.
+
+	Kor smiles and EXITS.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - ACT THREE    37.
+
+52   ON WORF AND DAX
+
+	as she improvises another bandage.
+
+					WORF
+			Kor never answered my question 
+			about his plans for the sword.
+
+					DAX
+			I noticed.
+
+					WORF
+			He is a hero to many. If he
+			returns to Kronos with it and 
+			decides to seize power, many will 
+			follow him.
+
+					DAX
+			But you wouldn't?
+
+					WORF
+			He is not all that I thought he 
+			was.
+
+					DAX
+			Maybe not. But I've known him a 
+			long time -- his heart's in the 
+			right place.
+
+					WORF
+				(biting) 
+			He drinks too much... exaggerates 
+			his feats and blames others for 
+			his own mistakes. 
+				(beat) 
+			But he could be right about one 
+			thing... the Emperor may be too 
+			weak to stand against Gowron... 
+			even with the Sword.
+
+	Dax is surprised to hear Worf say this.
+
+					DAX
+			I thought you believed in the 
+			Emperor.
+
+					WORF
+			I don't know what I believe 
+			anymore...
+
+	Worf paces, searching his soul for answers.
+
+					WORF
+			All I know is that when Kor asked 
+			me to help find the Sword -- I 
+			knew we would succeed. I knew we 
+			would find it!
+
+    DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - ACT THREE   37A.
+
+52   CONTINUED:
+
+					DAX 
+			I can't say I felt the same way.
+
+					WORF
+			I had no doubts. I felt as if my 
+			whole life was finally coming into 
+			focus...
+
+					DAX
+			What do you mean?
+
+					WORF
+			For as long as I can remember, 
+			I've been an outsider... I was 
+			raised by humans, but I was too 
+			Klingon to be one of them. I did 
+			not belong. I begged my foster 
+			parents to let me visit the 
+			Klingon homeworld... They arranged 
+			for me to stay with my cousin's 
+			family. When I first set eyes on 
+			the Great Domes of Kronos, I felt 
+			that I'd finally come home... but 
+			my own cousins wanted nothing to 
+			do with me...
+
+					DAX
+				(with sympathy) 
+			You were too human to be one of 
+			them...
+
+					WORF
+			I ran away -- into the mountains. 
+			I had no food or water for three 
+			days... but there, in the caves of 
+			No'Mat, Kahless came to me in a 
+			vision. He told me I would do 
+			something no other Klingon had 
+			ever done. After I returned to 
+			Earth, I pondered the meaning of 
+			his words... and wondered what 
+			lay ahead for me. When I was old 
+			enough, I joined Starfleet...
+
+					DAX
+			Something no Klingon had ever 
+			done.
+
+					WORF
+			And for a time, I thought I had 
+			fulfilled my destiny. 
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/05/95 - ACT THREE    38.
+
+52   CONTINUED:
+
+					WORF (Cont'd)
+				(beat)
+			But I now see that Kahless had 
+			something else in mind for me... 
+			something greater... that's why I 
+			had to endure so much pain, why I 
+			was forced to choose between the 
+			Federation and my own people -- I 
+			was being tested... prepared for 
+			some greater purpose...
+
+					DAX
+			Like finding the Sword...
+
+					WORF 
+			More than that.
+
+	Worf eyes burn with passion -- he holds out his hands 
+	as if gripping the Sword.
+
+					WORF 
+			When I held the Sword in my 
+			hands... I knew the spirit of 
+			Kahless himself had guided me to 
+			it. Don't you see? He wants me 
+			to have it. He wants me to lead 
+			his people!
+
+	Dax is struck by a thought.
+
+					DAX
+			You sound like Kor.
+
+53   NEW ANGLE
+
+	not far from them, hidden from view, Kor is listening. 
+	His features hardening as he hears Worf's words.
+
+					WORF
+				(dismissive) 
+			Kor is an old man. His greatest 
+			days are behind him -- mine are 
+			still ahead.
+
+					DAX
+			Then we have a bit of a problem... 
+			there's only one Sword and you 
+			both want it.
+
+	And on Kor's intense expression, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+  DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FOUR 39-39A    
+                           ACT FOUR                             
+
+	FADE IN:
+
+54
+thru   OMITTED
+55   
+
+A56   INT. CAVES
+
+	As Worf, Dax and Kor press on.
+
+					KOR 
+			How much farther?
+
+					DAX 
+			The way these caves wind around, 
+			this could take forever.
+
+	They turn a bend in the cavern to find --
+
+56   A GREAT ABYSS (OPTICAL) 
+
+	impeding their progress; it is a bottomless chasm of 
+	sheer rock face disappearing into darkness. Across the 
+	gaping hole, the passageway continues.
+
+					DAX 
+			Or longer.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - ACT FOUR     40.
+
+57   NEW ANGLE
+
+	As before. Dax scans the cavern across the abyss with 
+	the tricorder.
+
+					KOR 
+			We can't get across. We'll go 
+			back and find another way up.
+
+					WORF 
+			Wait.
+				(eyeing something)
+			There --
+
+58   INT. CAVES - ROCK FACE
+
+	Worf steps onto a small, narrow ledge along the rock 
+	face. Kor and Dax follow, respectively. They move 
+	slowly, hugging the rock face and slipping their hands 
+	into the slits in the rock as they inch across.
+
+59   ON KOR
+
+	straining as he slides one hand forward, searching for 
+	a grip, holding the Sword with the other. Just before 
+	making it to the other side, Kor loses his hold and 
+	slips off the ledge to certain death if not for --
+
+60   WORF
+
+	as he hangs onto Kor by grabbing one end of the Sword. 
+	But pulled by Kor's weight, Worf is slammed hard to the 
+	ground. He is holding Kor and the Sword with his 
+	wounded arm -- and the pain is excruciating.
+
+61   NEW ANGLE 
+
+	Kor is dangling in the air, holding onto the other end 
+	of the Sword. Worf struggles for a grip with his free 
+	hand to keep from being dragged off the ledge.
+
+	Dax helps out, grabbing Worf with one hand and the rock 
+	face with another.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FOUR     41.
+
+62   WORF'S POV OF KOR (OPTICAL)
+
+	hanging from the Sword, above the bottomless abyss.
+
+63   WIDER
+
+	Kor tries -- but can't reach Worf's hand and his 
+	attempts only make things worse. His swinging causes 
+	Dax to loose her grip, and she and Worf slip closer to 
+	the edge.
+
+					WORF
+			Kor -- there's a ledge right below
+			you.
+
+	Kor tries to look down, but can't see it.
+
+					KOR
+			I don't see it.
+
+					WORF
+			It's less than a meter down -- let
+			go and you'll land on it.
+
+					KOR
+			Dax -- do you see it?
+
+					DAX
+			I can't see anything.
+
+	Worf and Dax slip a little further.
+
+					WORF
+			I can't hold you! You have to let
+			go.
+
+	Kor's eyes narrow as a thought occurs.
+
+					KOR
+			There's no ledge...
+
+					WORF
+			It's there.
+
+	Kor smiles grimly.
+
+					KOR
+			Then you let go.
+
+					WORF
+			No! We cannot risk losing the
+			Sword!
+
+	Worf and Dax slip closer to the edge. Frantically, Dax 
+	wedges Worf's foot into a rock slit for support.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT FOUR     42.
+
+63   CONTINUED:
+
+	Freed from having to hold on to Worf, Dax moves to his 
+	side to help.
+
+					WORF
+				(to Kor)
+			Let go!
+
+					KOR
+			I'll take the Sword to my grave
+			before I give it to you.
+
+	Dax reaches down and takes hold of the Sword.
+
+					DAX
+			Just hang on -- we'll pull you up.
+
+	With a Herculean effort, Worf and Dax manage to pull 
+	Kor onto the ledge. Kor gratefully hugs the rock face 
+	with both hands.
+
+	Worf takes the Sword and moves off the ledge onto the 
+	passageway.
+
+64
+thru   OMITTED
+65   
+
+66   ON KOR
+
+	as Dax helps him stand and move off the ledge onto the 
+	passageway. Kor looks down to see the ledge.
+
+					KOR
+			You call that a ledge?
+
+	Kor storms over to Worf, who is holding the Sword. 
+	Worf's attention is focused on the Sword.
+
+					WORF
+			It would've been sufficient.
+
+					KOR
+			For a Degebian mountain goat, not
+			a Klingon warrior.
+
+	Worf's features harden defensively.
+
+					KOR
+			You were going to let me fall.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FOUR     43.
+
+66   CONTINUED:
+
+					KOR (Cont'd)
+			You wanted me to die... so you
+			could have the Sword for yourself.
+
+					WORF
+				(enraged)
+			And you were willing to take it to
+			your death -- and rob our people
+			of their future.
+
+	Worf holds the Sword tightly.
+
+					KOR
+			Give it to me!
+
+	Worf refuses. Kor reaches for his dagger -- but in a 
+	flash, Worf has the Sword's point at Kor's throat. Dax 
+	voices the terrible possibility now before her
+
+					DAX
+			That's enough, both of you.
+
+	Worf doesn't want to kill him, but he's not about to 
+	hand him the Sword either.
+
+					WORF
+			I will not give him the Sword.
+
+					DAX
+			Then give it to me. I'll carry
+			it.
+
+	Worf doesn't move. Kor doesn't much like the idea, but 
+	he's in no position to be picky. After a tense beat, 
+	Worf retracts the blade and steps back, still holding 
+	it in a defensive position. The two Klingons eye each 
+	other wearily.
+
+					DAX
+			Kor, put that dagger away...
+
+					KOR
+			Are you siding with him?
+
+					DAX
+				(shaking her head)
+			Put it away so he can give me the
+			Bat'leth.
+
+	Kor reluctantly sheaths his dagger, Dax extends her 
+	hand to Worf, wanting the Bat'leth.
+
+	After a beat, he hands it to her.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT FOUR     44.
+
+66   CONTINUED:	(2)
+
+					KOR
+				(to Dax) 
+			You see. I was right. He's not 
+			to be trusted.
+
+	Without another word, Kor moves off.
+
+									CUT TO:
+
+66A  CLOSE ON WORF AND DAX
+
+	As they watch Kor stalk away.
+
+					WORF
+			His mind has been poisoned by 
+			bloodwine and age.
+
+	But Dax is furious with Worf and can barely keep her 
+	anger in check.
+
+					DAX
+				(glowering) 
+			He was right about one thing... 
+			You wanted him to fall.
+				(a beat) 
+			That ledge wouldn't have supported 
+			him. And you knew it.
+
+					WORF 
+			I did not force him off that 
+			cliff. He is old and clumsy. If 
+			he'd fallen, it would've been his 
+			own fault.
+
+	Worf walks away and Dax follows.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT FOUR     45.
+
+67   INT. ANOTHER SECTION OF CAVES 
+
+	Later.  Dax, Worf and Kor are exhausted as they make it 
+	through an especially treacherous and difficult section 
+	of the cave.
+
+					DAX
+			I'm exhausted.
+
+					WORF 
+			We can rest here for a few hours.
+
+	They settle on the floor, leaning on a grouping of 
+	rocks. Dax eyes the area for a good bed.
+
+					DAX 
+			I'm so tired I might even be able 
+			to get some sleep.
+
+					WORF 
+			I'll stand watch.
+
+	Kor LAUGHS.
+
+					KOR 
+			How generous of you. We'll just 
+			curl up like trusting children 
+			under your vigilant gaze.
+
+					WORF
+			Sleep or don't sleep -- it makes 
+			no difference to me.
+
+					KOR 
+			You're wounded... I should take 
+			the first watch. You get some 
+			rest. You close your eyes...
+
+					WORF
+			I'm not tired.
+
+	Kor sees that Worf keeps stealing glances at the Sword.
+
+					KOR 
+			I understand. It's hard to sleep
+			in the presence of something so 
+			magnificent. Someone might try to 
+			steal it.
+
+					WORF
+			You reveal your own intentions.
+
+	Dax understands what's going on.
+
+					DAX 
+			Enough! I have the Sword. And 
+			it's not going anywhere.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FOUR     46.
+
+67   CONTINUED:
+
+	She puts her hand through the Sword handle and takes 
+	out her phaser, resting it on her chest. She leans 
+	back on a rock. For a long beat, Kor and Worf stare at
+	one another. Suddenly Kor reacts as if to some sound.
+
+					KOR
+				(sharp)
+			What was that?
+
+	Worf and Dax react -- though they didn't hear it.
+
+					WORF
+			I heard nothing.
+
+					KOR
+			A voice.
+				(listening)
+			I hear it again. It's... the
+			Spirit of Kahless.
+
+	Dax and Worf untense, realizing they've been had.  Worf 
+	eyes Kor coldly.
+
+					KOR 
+			He's talking to you, Worf... he's 
+			telling you to bide your time... 
+			let them sleep... then slit their 
+			throats and claim your destiny.
+
+					WORF
+			I've had enough of your drunken 
+			ramblings, old man.
+
+					DAX
+			And I've had enough of both of 
+			you. I don't care if you sleep or 
+			not -- but I'm going to. So keep 
+			quiet.
+
+	Dax rolls over, turning away from Worf and Kor, in a 
+	concerted effort to sleep.
+
+					KOR 
+			Go ahead and sleep, Dax. I'll 
+			keep an eye on him.
+
+68   ON WORF AND KOR
+
+	staring at one another, unwilling to even blink; Worf 
+	serious and intent, Kor with his malevolent signature 
+	grin. WE HOLD on the two Klingons for a long beat.
+
+	MOVE TO REVEAL Dax, wide awake despite her exhaustion. 
+	And on that image, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/06/95 - ACT FIVE     47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+69   INT. CAVES - CAMP 
+
+	CLOSE ON Dax, asleep, the phaser and the Sword still in 
+	her hands. Suddenly, a shout from off screen startles 
+	her awake --
+
+					WORF
+			(O.S.) Enough!
+
+69A  WIDER
+
+	as Dax jolts up to see Worf and Kor facing off.
+
+					DAX 
+			What?
+
+					WORF 
+			His eyes! He's been staring at me 
+			for three hours.
+
+					KOR 
+			And what've you seen reflected in 
+			my eyes? Your own guilt, gnawing 
+			at you.
+
+					DAX
+			All right, if you're not going to 
+			sleep, let's walk.
+
+					KOR
+			I'm not going anywhere with that 
+			traitorous p'tak.
+
+	Worf's had it. He unsheathes his shoulder knife.
+
+					WORF
+			This ends here.
+
+	Kor unsheathes his dagger.
+
+					KOR 
+			Agreed.
+
+
+	Dax holds her phaser, reminding the two Klingons she 
+	has it.
+
+					DAX 
+			I'm not going to stand here and 
+			watch you two kill each other.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FIVE    47A.
+
+69A  CONTINUED:
+
+					WORF
+				(hard)
+			Stay out of this!
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/16/95 - ACT FIVE     48.
+
+69A  CONTINUED:
+
+					KOR 
+			This is between us. We'll settle 
+			it our own way...
+
+	Worf lunges at Kor and their blades CLASH. Dax raises 
+	her phaser to stun them, when suddenly a disruptor
+	BLAST EXPLODES behind her. Dax is knocked to the 
+	ground, the Sword falling from her hand.
+
+ 70   ANGLE ON THE SOURCE (OPTICAL)
+
+	of the blaster FIRE: the four Klingons --including 
+	Toral -- and the Lethean are attacking.
+
+71   ON DAX, WORF AND KOR (OPTICAL) 
+
+	finding cover. Kor scrambles to the Sword, lifts it 
+	high over his head -- and YELLS the Klingon battle cry --
+
+					KOR 
+			MaH HIv DaH! (We attack now!)
+
+	Kor charges forth with total and reckless abandon. It 
+	is an act of sheer, brave madness in the finest Klingon 
+	tradition.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FIVE     49.
+
+72   ON THE KLINGONS
+
+	momentarily stunned by the sight of the mad, old
+	Klingon openly charging them with only a sword.
+
+73   ON WORF AND DAX
+
+	also taken aback by the sight.
+
+					DAX
+			He's going to get killed.
+
+					WORF
+			No... he has the Sword.
+
+	Worf stands up and unsheathes his shoulder Bat'leth, 
+	then YELLING the Klingon battle cry, he attacks.
+
+					WORF
+			HIv DaH!
+
+74   ON THE KLINGONS 
+
+	overcoming their momentary shock and taking out their 
+	Bat'leths and meeting the charging Kor and Worf in hand-
+	to-hand swordfighting.
+
+75   VARIOUS ANGLES
+
+	With the Sword in hand, Kor feels invincible. He 
+	attacks unrestrained, taking down one of the Klingons 
+	and charging another.
+
+	Worf battles another Klingon with equal ferocity.
+
+	Dax, who can't get a clear shot with her phaser, picks 
+	up a Bat'leth from the fallen Klingon and joins the 
+	melee, fighting the Lethean. At first, her skill and 
+	quickness match the Lethean's size advantage, but his 
+	strength and power soon begin to overwhelm her.
+
+	In the meantime, Worf is being double teamed. He 
+	defeats one of them, but looses his weapon in the 
+	process.
+
+	Meanwhile, the Lethean is about to deliver a mortal 
+	blow on Dax -- Kor sees this and flings the Sword like 
+	a boomerang, impaling the Lethean through the back.
+
+	Worf scrambles to retrieve the Bat'leth from the 
+	Lethean's back, and with a series of very impressive 
+	moves, cuts the last Klingon enemy down. When Worf 
+	holds the Sword, he displays the same feeling of power, 
+	bloodlust, and invincibility we saw in Kor when he had 
+	the Sword.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/03/95 - ACT FIVE     50.
+
+76   ON WORF
+
+	as the batttle dust settles.  He looks around at the
+	vanquished enemy, and raising the Sword lets out the
+	Klingon victory cry --
+
+					WORF
+			Qapla'!
+
+	-- and as he does, Kor attacks him by leaping onto his 
+	back and knocking the Sword out of his hands.
+
+77   ON WORF AND KOR
+
+	as they fight. This is not a clash between two titan 
+	Klingon warriors, this is brawl --an ugly, dirty, 
+	violent fight with Kor and Worf growling, clawing and 
+	scratching like wild dogs.
+
+	Both Klingons are spent from the fight with the 
+	Klingons, Worf's injury helps level the playing field. 
+	Furthermore, Worf's youth and strength advantage are 
+	matched by Kor's experience and unbridled street-
+	fighting skill -- and the fight could go either way.
+
+					DAX
+			Commander!
+
+	But Worf and Kor are oblivious and continue their ugly 
+	brawl. Dax frantically goes to find her phaser.
+
+					DAX
+			Worf --
+
+	Worf has gained the upper hand and is choking Kor to 
+	death with his bare hands. Dax finds her phaser and 
+	points it at the combatants.
+
+					DAX
+			Stop!
+
+	But he is not listening -- he has bloodlust in his eyes 
+	and will not be satisfied until Kor is dead.
+
+78   ON DAX (OPTICAL)
+
+	picking up her phaser and FIRING.
+
+79   WIDER 
+
+	Worf falls back, stunned by her blast. Kor catches his 
+	breath, then realizing what Dax has done, he grins.
+
+     DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FIVE     51.
+
+79   CONTINUED:
+
+					KOR 
+			I knew in the end, you'd choose 
+			me. We're blood brothers, we've 
+			been through --
+
+					DAX
+			Be quiet.
+
+	She FIRES again, stunning Kor.
+
+80   NEW ANGLE
+
+	as Dax picks up the fallen Sword and looks at the 
+	unconscious Kor and Worf, sprawled on the ground.
+
+	She moves over to the wounded Toral and points the 
+	phaser at him.
+
+					DAX
+			Now, about that jamming device 
+			you're using to block our 
+			communications...
+
+									CUT TO:
+
+81   EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	flying at impulse speed.
+
+82   INT. RUNABOUT (OPTICAL) 
+
+	CLOSE ON Dax as she places the Sword upright on a small 
+	pedestal on the transporter pad. She glances to Worf 
+	and Kor who stand solemnly nearby, then moves away to 
+	give them some privacy.
+
+					KOR 
+			Are you sure about this, Worf?
+
+					WORF
+			Yes. It's the only way.
+
+					KOR 
+			Do we have the right? The Sword 
+			belongs to all Klingons.
+
+					WORF
+			But are we ready for it? The 
+			Sword turned you and me against 
+			each other -- imagine how it would 
+			divide the Empire.
+
+  DEEP SPACE NINE: "The Sword... " - REV. 10/02/95 - ACT FIVE 52-52A    
+
+82   CONTINUED:
+
+	Kor sighs acceptance.
+
+					KOR 
+			Just let me hold it one last time.
+
+					WORF
+			No. The Sword is not meant for 
+			us...
+				(this costs him) 
+			It was never our destiny to find 
+			it.
+
+					KOR 
+			You're wrong. It was our destiny 
+			to find it. It just wasn't our destiny to keep it.
+
+	A look of reconciliation between Worf and Kor. Worf 
+	then taps the console and the Sword DEMATERIALIZES.
+
+83   ON KOR AND WORF
+
+	as they move to join Dax in the front of the cockpit.
+
+					WORF 
+			It's done.
+
+	Dax nods.
+
+					DAX
+			Good. It's for the best.
+
+					KOR 
+			I hope you're right.
+
+	They look out the window at the vast starfield.
+
+					KOR 
+			It could be lost for another 
+			thousand years.
+
+					WORF
+			When it's destined to be found... 
+			it will be.
+
+84   EXT. SPACE (OPTICAL)
+
+	The Sword tumbles gently, end-over-end, until it 
+	disappears into nothingness.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

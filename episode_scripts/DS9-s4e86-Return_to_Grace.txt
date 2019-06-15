@@ -1,0 +1,3039 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                       "Return to Grace" 
+                          #40510-486 
+                              
+                           Story by 
+                           Tom Benko 
+                              
+                          Teleplay by 
+                         Hans Beimler 
+                              
+                          Directed by 
+                         Jonathan West 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       November 22, 1995
+
+      STAR TREK: DS9   "Return to Grace" - 11/22/95 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Return to Grace" 
+                             CAST 
+
+          SISKO                    DUKAT
+          KIRA                     ZIYAL
+          BASHIR                   DAMAR
+          DAX                      K'TEMANG
+          O'BRIEN                  
+          ODO                      
+          QUARK                    
+          WORF                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     
+
+     STAR TREK: DS9 - "Return to Grace" - 11/22/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Return to Grace" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          OPS                           
+          INFIRMARY                     
+          KIRA'S QUARTERS               
+          PROMENADE/SECOND LEVEL        
+
+        KLINGON BIRD OF PREY          
+          BRIDGE                        
+          CORRIDOR                      
+
+        CARDASSIAN FREIGHTER          
+          BRIDGE                        
+          CARGO BAY                     
+          KIRA'S STATEROOM              
+
+  DEEP SPACE NINE -"Return to Grace"- 11/22/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                       "Return to Grace" 
+                      PRONUNCIATION GUIDE 
+
+          AMLETH                   AM-leth
+          BAREIL                   buh-RILE
+          BREEN                    BREEN
+          DETEPA                   dee-TAH-pa
+          GROUMALL                 gru-MAL
+          JALANDA                  juh-LAN-duh
+          K'TEMANG                 ka-TEH-mang
+          KOLAISH                  said like "collage"
+          KORMA                    KORE-mah
+          LOVAL                    low-VAL
+          MARRATT                  mah-ROT
+          RAKAL                    rah-KAL
+          DAMAR                    dah-MAR
+          SHAKAAR                  sha-KAR
+          TORA ZIYAL               TOR-uh zee-ALL-
+          VOR'CHA                  VOR CHUH
+          BAT'LETH                 BAT'leth
+          DILITHIUM                die-LITH-ee-um
+          MEGAJOULE                MEG-uh-jool
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "Return to Grace"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. INFIRMARY
+
+	KIRA lies on the bed as BASHIR prepares a hypo.
+
+					KIRA
+			Is all this really necessary?
+
+					BASHIR
+			The Klingon invasion has all but
+			destroyed the Cardassian health
+			system. They're suffering
+			outbreaks of all kinds of diseases
+			and in epidemic proportions
+				(smiles)
+			Besides, you only have twelve more
+			inoculations.
+
+					KIRA
+			Twelve?
+
+					BASHIR
+			Sorry, but if you want to go to
+			the conference...
+
+					KIRA
+			I don't want to go. I'm no
+			diplomat. Going to some obscure
+			Cardassian outpost to share
+			Bajoran intelligence about the
+			Klingons isn't exactly the kind of
+			thing I'm good at. I'm not sure
+			why I even agreed to go.
+
+					BASHIR
+			You agreed because it was a
+			personal request from the First
+			Minister of Bajor.
+
+					KIRA
+			It was a personal request all
+			right. Shakaar took me to my
+			favorite restaurant in Jalanda
+			City, poured me glass after glass
+			of spring wine, then took me back
+			to his home, and gave me a massage
+			with Kolaish spice oil.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - TEASER        2.
+
+1    CONTINUED:
+
+					BASHIR
+			Nice to know he keeps in touch
+			with his constituents.
+
+					KIRA
+				(still grousing)
+			It wasn't fair. At that point, I
+			would have said yes to anything.
+
+	Bashir applies the hypo. Kira sits up and immediately
+	holds her head.
+
+					BASHIR
+			What is it?
+
+					KIRA
+				(frightened)
+			I'm seeing spots...
+
+					BASHIR
+			Big, green, swirling ones?
+
+					KIRA
+			The size of Alvinian melons.
+
+					BASHIR
+			And the room is starting to spin?
+
+					KIRA
+				(panicky)
+			Yes.
+
+	Bashir smiles.
+
+					BASHIR
+			Good. Means the vaccine's
+			working. Everything will settle
+			down in a moment.
+
+	As Kira gets her bearings, WORF ENTERS.
+
+					WORF
+				(to Kira)
+			May I speak with you?
+
+					KIRA
+			I'm not going anywhere.
+
+	Bashir steps up to Kira with another hypo.
+
+					BASHIR
+			This one might make you a little
+			queasy.
+				(to Worf)
+			If you have something to say to
+			her, you'd better make it fast.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - TEASER        3.
+
+1    CONTINUED:	(2)
+
+	Worf isn't pleased about being rushed, but launches
+	into his business.
+
+					WORF
+			Major, the Federation has some
+			concerns about your upcoming
+			meeting with the Cardassians.
+
+					KIRA
+			So do I.
+
+					WORF
+			There are certain technological
+			advances we have shared with both
+			Bajor and the Klingons that we
+			would prefer to keep out of
+			Cardassian hands.
+
+					KIRA
+			Such as?
+
+					WORF
+			Photon torpedo guidance systems,
+			long-range sensors, enhanced warp
+			core overdrives. This is a
+			complete list.
+
+	Worf hands Kira a PADD. She looks it over. Kira is
+	rather uncomfortable with all this.
+
+					KIRA
+			I think the Cardassians are going
+			to be a little disappointed.
+
+	Kira looks queasy.
+
+					WORF
+			Undoubtedly.
+
+					KIRA
+				(nauseous)
+			Anything else.
+
+					WORF
+			No.
+
+					KIRA
+			Good. I'll be right back.
+
+	She rushes off before she tosses her lunch.
+
+					BASHIR
+				(to Worf)
+			I'm glad I'm not going to
+			Cardassia.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - TEASER        4.
+
+2    INT. PROMENADE
+
+	Kira emerges from the infirmary yawning and stretching,
+	shaking off the effects of the hypo she was given. She
+	doesn't get far before --
+
+					QUARK (O.S.)
+			Major!
+
+	Kira stops as QUARK catches up to her carrying a small
+	box. Quark hands Kira the box.
+
+					QUARK
+			This is for you, Major. For your
+			journey. It's fresh hasperat.
+			Not replicated. I know how you
+			hate Cardassian food, so...
+
+	Kira just stares at Quark.
+
+					QUARK
+			Well, aren't you going to thank
+			me?
+
+					KIRA
+			What do you want, Quark?
+
+					QUARK
+			Me? Why -- nothing.
+
+	Kira gives him a look -- she knows better.
+
+					QUARK
+				(off her look)
+			Don't you believe me capable of a
+			gesture of friendship that has no
+			strings attached?
+
+					KIRA
+			No.
+
+	After a beat, Quark smiles and shrugs.
+
+					QUARK
+			Well, you're right. Now, what I
+			need is for you to look up an old
+			friend of mine in the Ministry of
+			Trade. He was stationed on Bajor
+			during the occupation... and when
+			he left...
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - TEASER        5.
+
+2    CONTINUED:
+
+					QUARK (Cont'd)
+			... in quite a hurry I may add...
+			he forgot to pay his very
+			extensive bar tab.
+
+					KIRA
+			You want me to interrupt my
+			mission to collect an old debt for
+			you?
+
+					QUARK
+			The way I see it, you should start
+			by demanding twenty-two bars of
+			latinum -- which includes the
+			interest accumulated. He'll offer
+			you eight, you can settle for
+			twelve.
+
+	Kira hands him back his gift box.
+
+					KIRA
+			I'd rather settle for replicated
+			hasperat.
+
+	Kira turns her back on Quark and walks away. We stay
+	on Quark as he wistfully mutters to himself:
+
+					QUARK
+			I tried...
+
+3    ON KIRA
+
+	walking down the Promenade.
+
+					DAXIS COM VOICE (O.S.)
+			Ops to Major Kira.
+
+					KIRA
+			Go ahead.
+
+					DAXIS COM VOICE (O.S.)
+			Your Cardassian escort ship -- the
+			Groumall -- is due to arrive in
+			thirty minutes. Upper Pylon
+			Three.
+
+									CUT TO:
+
+4    INT. KIRA'S QUARTERS
+
+	Kira is packing a few belongings when the door CHIMES.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - TEASER        6.
+
+4    CONTINUED:
+
+					KIRA Come in.
+
+	The door opens to reveal GUL DUKAT.
+
+					DUKAT
+			Hello, Major.
+
+					KIRA
+			Dukat. What are you doing here?
+
+					DUKAT
+			I'm to escort you to your meeting
+			on Korma.
+
+	Kira is surprised.
+
+					KIRA
+			You're commanding the Groumall?
+
+	Dukat remains his arrogant self throughout this
+	admission.
+
+					DUKAT
+			Thanks to you.
+				(off Kira's reaction)
+			If you hadn't convinced me to
+			bring my half-Bajoran daughter
+			back to Cardassia, I'd still be
+			the chief military advisor to the
+			Detepa Council.
+
+					KIRA
+			They demoted you.
+
+					DUKAT
+			Exactly one week after my mother
+			disowned me, and my wife took our
+			children and left.
+
+					KIRA
+			You still did the right thing,
+			Dukat.
+
+					DUKAT
+			And as a reward for following your
+			advice, I have been relegated to
+			ferrying freight and,
+			occasionally, various foreign
+			dignitaries -- such as yourself.
+
+					KIRA
+			Look, if blaming me makes you feel
+			better, go right ahead.
+
+        DEEP SPACE NINE: "Return to Grace" - 12/07/95 TEASER         7.
+
+4    CONTINUED:	(2)
+
+					DUKAT
+				(shaking his head)
+			I blame no one but myself. I was
+			indiscreet... I compromised myself
+			and have been punished
+			accordingly. If someone under my
+			command behaved so outrageously,
+			I'd do the same to him. Besides,
+			I assure you, this is only a
+			temporary setback. Everything
+			I've lost I'll regain. It's only
+			a matter of time.
+				(beat)
+			Now... can I take your bags?
+
+	And as Kira looks upon her old nemesis under this new
+	light, we:
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE       8.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+5    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A Cardassian freighter pulls away from the station.
+
+6    INT. CARDASSIAN FREIGHTER - KIRA'S STATEROOM
+
+	The Cardassian stateroom may be the best room on the
+	ship, but it's not much -- certainly not opulent. Kira
+	is settling in for her trip when the door CHIMES.
+
+					KIRA
+			Come in.
+
+	The door opens to reveal TORA ZIYAL, Dukat's eighteen-
+	year-old daughter by his Bajoran mistress (from
+	"Indiscretion"). Kira is happy to see her.
+
+					KIRA
+			Ziyal! I didn't know you were on
+			board.
+
+					ZIYAL
+			Hello, Major.
+
+					KIRA
+			Please, call me Nerys.
+
+	Kira and Ziyal sit, making themselves as comfortable as
+	possible in the tight quarters.
+
+					KIRA
+			I take it living on Cardassia
+			didn't work out very well.
+
+					ZIYAL
+			I wasn't exactly welcomed with
+			open arms. There were some
+			Cardassians who could see past the
+			Bajoran ridges on my nose... but
+			not many.
+
+					KIRA
+			I'm sorry. I know it must have
+			been difficult for you...
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE       9.
+
+6    CONTINUED:
+
+					ZIYAL
+			This may seem odd to you--but
+			there were times on Cardassia when
+			I almost missed being a prisoner
+			of the Breen. At least there, the
+			Bajoran and Cardassian prisoners
+			accepted me for who I was.
+				(a beat)
+			The only good thing about living
+			on Cardassia was being with my
+			father.
+
+					KIRA
+			I'm glad you two are getting
+			along.
+
+	Ziyal smiles. Talking about her father makes her
+	genuinely happy.
+
+					ZIYAL
+			He's been wonderful.
+				(a beat)
+			And so brave. He never tried to
+			hide me away. He never acted like
+			he was ashamed of me. We'd go out
+			to dinner, take long walks
+			together. Once he even took me to
+			a performance of his favorite
+			Didactic Theater group. We sat
+			right up in front.
+				(a beat)
+			He was so intimidating, no one
+			dared to challenge my right to be
+			there.
+
+					KIRA
+			And now that he's been exiled...
+
+					ZIYAL
+			Wherever he goes, I go. He's the
+			only family I have.
+				(re: the freighter)
+			And this is the only home I need.
+
+	Ziyal seems at peace, but Kira knows that her life has
+	not been easy and the future isn't much brighter.
+
+					KIRA
+			Your father isn't the only one
+			who's brave.
+
+	A loud ALARM SOUNDS OFF.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE      10.
+
+6    CONTINUED:	(2)
+
+					KIRA
+			What's that?
+
+	Ziyal stands calmly, ready to leave.
+
+					ZIYAL
+			It's a battle drill.
+
+					KIRA
+			On a freighter?
+
+7    INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Dukat barks orders to his crew -- two Cardassian
+	CREWMEN and the first officer, GLINN DAMAR. From his
+	demeanor, you'd think Dukat was on the bridge of the
+	Potemkin.
+
+					DAMAR
+			Target at four hundred thousand
+			kilometers and closing.
+
+	Kira and Ziyal ENTER. Kira stays in the b.g., out of
+	the way.
+
+					DUKAT
+			Shields at maximum. Maintain
+			scan.
+
+					DAMAR
+			Engineering and Tactical, ready.
+			Waiting on weapons, sir.
+
+					DUKAT
+				(hard)
+			What's taking so long?
+
+					DAMAR
+			The phaser banks are still
+			charging.
+
+					DUKAT
+			I want those weapons on-line, now!
+
+	Damar works frantically for a beat then...
+
+					DAMAR
+			Phasers ready.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE         
+
+7    CONTINUED:
+
+					DUKAT
+			Lock on target.
+
+					DAMAR
+			Target set.
+
+					DUKAT
+			Fire!
+
+	The whole ship SHUDDERS slightly as the phaser is
+	FIRED.
+
+8    ON THE VIEWSCREEN (OPTICAL)
+
+	The phaser beam hits a small meteor which EXPLODES in
+	a small explosion.
+
+9    RESUME SCENE
+
+	as Dukat steps up to Damar.
+
+					DUKAT
+			Time?
+
+					DAMAR
+			Three forty-seven.
+
+	Dukat is not pleased.
+
+					DUKAT
+			Pitiful! A crew of Ferengi scrap
+			peddlers could do better than
+			that.
+				(to his first officer)
+			Select another target. We're
+			going to do it again --
+
+	As the crew begins doing as instructed, Dukat turns to
+	see Kira -- and off her look, feels the need to justify
+	his actions.
+
+					DUKAT
+			This may be a lowly freighter,
+			major, but it's still a military
+			vessel and it will be run in a
+			military manner.
+
+            DEEP SPACE NINE: "Return to Grace" - ACT ONE            12.
+
+9    CONTINUED:
+
+	Kira nods. She has no argument with that, but she does
+	have something on her mind.
+
+					KIRA
+			You know, you could speed up your
+			phaser recharge time by routing
+			power through an anodyne
+			capacitor.
+
+					DUKAT
+				(sarcastic)
+			Thank you, major... that's very
+			helpful. And if we had an anodyne
+			capacitor, I would use it. But we
+			don't.
+
+	Dukat realizes he's being unreasonable. Kira was only
+	trying to help.
+
+					DUKAT
+				(smiling)
+			Forgive me, major. I appreciate
+			your suggestion. Any anger I
+			might have expressed was due to my
+			frustration over the complete
+			inadequacy of this vessel.
+				(a beat)
+			I hope you'll let me make it up to
+			you.
+
+					KIRA
+				(faintly suspicious)
+			What did you have in mind?
+
+					DUKAT
+			I was hoping we could dine
+			together. After all, it is
+			Cardassian tradition for the
+			commanding officer of a ship to
+			entertain his guests.
+
+	Kira thinks it over. She's already gone on a mission
+	with Dukat. Dinner doesn't seem too onerous. Besides,
+	she knows he must be lonely and feels somewhat
+	responsible for his downfall.
+
+					KIRA
+			Far be it from me to stand in the
+			way of tradition.
+
+10   EXT. SPACE (OPTICAL)
+
+	The Cardassian freighter moving at warp.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE      13.
+
+11   INT. CARDASSIAN FREIGHTER - KIRA'S STATEROOM
+
+	Later. Kira and Dukat sit at a well-set table in her
+	small quarters. Dukat has managed to procure the
+	finest china and the best food for their meal. Kira
+	takes a sip of wine.
+
+					KIRA
+			This is Bajoran Spring Wine, isn't
+			it?
+
+					DUKAT
+				(nods)
+			My last bottle. It's one of the
+			things I miss most about Bajor.
+
+					KIRA
+			I talked to Ziyal. She's a lovely
+			girl.
+
+					DUKAT
+				(smiles)
+			I'm glad you convinced me not to
+			kill her.
+
+					KIRA
+			Despite everything that's
+			happened?
+
+					DUKAT
+			You may find this hard to believe,
+			but when it comes to Ziyal, I
+			don't regret anything.
+
+					KIRA
+			It's good to hear that.
+
+	Dukat nods and then looks to change the subject.
+
+					DUKAT
+			By the way, major... what's this
+			I hear about you and Shakaar?
+
+	Kira stiffens a bit; this is not a subject she wants to
+	discuss with Dukat.
+
+					KIRA
+			I don't know what you've heard.
+
+					DUKAT
+			First it was Vedek Bareil, and now
+			the head of the Bajoran
+			government. You do like powerful
+			men, don't you?
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE      14.
+
+11   CONTINUED:
+
+					KIRA
+			Shakaar is an old friend.
+			Besides, what business is it of
+			yours?
+
+					DUKAT
+			Let's just say it's further
+			incentive for me to regain my
+			former position.
+
+	Kira can't help but laugh.
+
+					KIRA
+			I see you haven't lost your sense
+			of humor.
+
+					DUKAT
+			I must say, I've always admired
+			Shakaar's success with women. The
+			intelligence file I kept on him
+			during the occupation was filled
+			with reports of his conquests. In
+			fact, if you remember correctly,
+			you were the only female in his
+			resistance cell that he didn't
+			"charm"... at least until now.
+
+	Kira refuses to let Dukat get to her.
+
+					KIRA
+			Is that what you kept track of
+			during the occupation? No wonder
+			you lost.
+
+					DUKAT
+			A little more wine, Major?
+
+	But Kira is spared from answering by the ALARM SOUNDING
+	OFF once more.
+
+					KIRA
+			Another drill?
+
+	But Dukat shakes his head, he's as surprised as she is.
+
+					DUKAT
+			I didn't schedule one.
+
+	Dukat is halfway out the door already as Kira follows
+	after him.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE      15.
+
+12   INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Dukat and Kira arrive on the Bridge to find Damar and
+	his men at battle stations.
+
+					DAMAR
+			Sir, we're approaching the outpost
+			on Korma... or what's left of it.
+
+					DUKAT
+			What are you talking about?
+
+					DAMAR
+			From what we can tell, it's been
+			attacked. The planetary defense
+			systems have been disabled and
+			every building has been destroyed.
+
+					KIRA
+			How many casualties?
+
+					DAMAR
+			There are no life signs.
+
+					DUKAT
+			Then we have to assume that
+			everyone at the outpost, including
+			the Cardassian and Bajoran
+			dignitaries, is dead.
+
+13   CLOSE ON KIRA
+
+	as she reacts to the news.
+
+					DAMAR
+			Sir, I'm reading a subspace
+			distortion at bearing zero-zero-
+			one mark one-five.
+
+					DUKAT
+			On screen.
+
+14   THE VIEWSCREEN (OPTICAL) (STOCK)
+
+	As a Klingon Bird of Prey DECLOAKS.
+
+15   ANGLE KIRA AND DUKAT
+
+	as they watch the screen.
+
+					DUKAT
+			The Klingons.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT ONE      16.
+
+15   CONTINUED:
+
+	And off their reaction, we:
+									FADE OUT.
+                        END OF ACT ONE                          
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      17.
+                            ACT TWO                             
+
+	FADE IN:
+
+16   INT. CARDASSIAN FREIGHTER - BRIDGE (OPTICAL)
+
+	As before. Dukat, Kira, Damar and the Cardassian
+	crewmen are on the Bridge; the Bird of Prey looms on
+	the viewscreen.
+
+					DAMAR
+			They're scanning us, sir.
+
+					DUKAT
+			Full power to forward shields.
+
+					KIRA
+			At this distance -- your shields
+			won't mean much.
+
+	There's a long beat of tension before something on
+	Damar's panel puzzles him.
+
+					DAMAR
+			Sir... they've stopped their scan.
+
+					DUKAT
+			What are they doing?
+
+	Damar is completely surprised by what he reads on his
+	screen.
+
+					DAMAR
+			Nothing, sir. They don't seem in
+			a hurry to do anything about us.
+
+					KIRA
+			They don't think we're a threat,
+			Dukat.
+
+					DUKAT
+			Then why were they cloaked when we
+			arrived?
+
+					KIRA
+			They detected an incoming vessel,
+			they didn't know what it was, so
+			they hid... now they know. And
+			they're unconcerned.
+
+					DAMAR
+			The Klingon ship has lowered its
+			shields. They're moving off -- at
+			one quarter impulse.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      18.
+
+16   CONTINUED:
+
+	Dukat reacts to what he perceives as an insult.
+
+					DUKAT
+			They'll pay a price for their
+			arrogance. Charge phaser banks.
+
+	Damar nods as Kira rushes up to Dukat.
+
+					KIRA
+				(concerned)
+			What are you doing, Dukat? You
+			can't go up against a bird of
+			prey!
+
+					DUKAT
+			Must I remind you, Major, that
+			they just murdered your people as
+			well as mine?
+
+					KIRA
+			I know that. But getting all of
+			us killed isn't going to change
+			that.
+
+					DUKAT
+				(hard)
+			We're the only Cardassian ship in
+			the area and I'm not going to let
+			those Klingons escape
+			unchallenged...
+
+					KIRA
+			You attack them and all you'll be
+			doing is giving them a little
+			target practice. They'll blow us
+			to pieces with their first shot!
+
+					DAMAR
+			Phaser banks charged.
+
+					DUKAT
+			Lock phasers on target.
+
+					DAMAR
+			Phasers locked...
+
+	Kira can see there's no dissuading Dukat.
+
+					KIRA
+			Dukat -- at least lock onto the
+			underside of their hull. It's
+			their weakest spot.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      19.
+
+16   CONTINUED:	(2) 
+
+	Dukat can't hide his pleasure that Kira is helping. He
+	turns to Damar and orders:
+
+					DUKAT
+			You heard the Major.
+
+					DAMAR
+				(nodding)
+			Target set.
+
+	Dukat smiles grimly. It's a desperate act of defiance
+	which suits his mood perfectly.
+
+					DUKAT
+			Fire!
+
+	Again, the Cardassian freighter SHUDDERS slightly as
+	the phaser is discharged.
+
+17   ON THE VIEWSCREEN (OPTICAL)
+
+	The Klingon bird of prey takes the hit. It is a
+	pathetic little hit and it has about as much effect as
+	scratching the tail of a rhinoceros with a blade of
+	grass.
+
+18   RESUME
+
+	Dukat and Kira stare at the viewscreen -- not a good
+	turn of events.
+
+					DAMAR
+			Their shields were down and we
+			didn't penetrate their hull.
+
+					DUKAT
+			Divert all power to the forward
+			shields.
+
+19   ON THE VIEWSCREEN (OPTICAL) 
+
+	The bird of prey continues moving toward the
+	freighter. There's a long, long beat of tension as the
+	bird of prey fills the screen, passing overhead.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      20.
+
+20   RESUME
+
+	Damar looks at his panel, surprised.
+
+					DAMAR
+			They've gone to warp.
+
+	Dukat slumps in his seat... feeling a mixture of relief
+	and defeat.
+
+					DUKAT
+			Well, it would seem we're not
+			worth destroying.
+
+					KIRA
+			Lucky for us.
+
+	Dukat feels dejected; it pains him to have to admit to
+	the following:
+
+					DUKAT
+			I suppose, from their point of
+			view, there's no honor in
+			destroying a worthless freighter.
+				(resigned)
+			I have to inform Central Command.
+			These Klingons have been operating
+			behind our lines with impunity...
+			somebody is going to have to stop
+			them.
+				(crestfallen)
+			Somebody else...
+
+					KIRA
+			How close is the nearest
+			Cardassian warship?
+
+					DUKAT
+			Probably in the Dopa System
+			somewhere.
+
+					KIRA
+			That's three days away. By the
+			time they get here, the Klingons
+			will be long gone.
+
+					DUKAT
+			True. But what can we do about
+			it?
+
+					KIRA
+				(simply)
+			We can go after the Klingons.
+
+	Dukat can't believe what he's hearing.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO     20A.
+
+20   CONTINUED:
+
+					DUKAT
+			A few moments ago, you were
+			advising caution.
+
+					KIRA
+			That's because a few moments ago
+			we were in no position to fight
+			back. But I have no intention of
+			letting them get away with what
+			they did.
+
+	Kira looks to Damar.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      21.
+
+20   CONTINUED:	(2)
+
+					KIRA
+			You said the scanners showed the
+			outpost's disruptors were disabled --
+			not destroyed, right?
+
+					DAMAR
+			That's correct.
+
+					KIRA
+			Dukat, do you think you can repair
+			one of those disruptors?
+
+					DUKAT
+			What would be the point? I doubt
+			we'll be able to lure the Klingons
+			back to the outpost...
+
+					KIRA
+			Maybe not. But there's no reason
+			why we can't make some alterations
+			to your ship.
+
+	Dukat looks at Kira skeptically.
+
+					DUKAT
+			What kind of "alterations"?
+
+21   INT. CARDASSIAN FREIGHTER - CARGO BAY 
+
+	The cargo hold is packed to the rafters with large
+	crates of all kinds (Cardassia is in dire need of
+	anything, and that's just what Dukat has loaded the
+	ship with). Kira and Dukat stand in the middle of this
+	huge shipment.
+
+					DUKAT
+			Here? In the cargo hold?
+
+					KIRA
+			Why not?
+
+					DUKAT
+			Because the outpost's planetary
+			defense weapons are System Five
+			disruptors -- they were never
+			designed to operate aboard a
+			moving spacecraft, and this cargo
+			bay wasn't designed to hold them!
+
+					KIRA
+			Dukat -- you're going to have to
+			stop thinking like a Cardassian
+			military officer.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      22.
+
+21   CONTINUED:
+
+					DUKAT
+			And more like you?
+
+					KIRA
+			More like a resistance fighter.
+			You have to make use of what you
+			have. If you need a hammer and
+			you don't have one, use a pipe.
+
+	Dukat is not a stupid man. He sees what Kira's
+	thinking and it makes a certain, bold sense.
+
+					DUKAT
+			And you really think we can make
+			those weapons operational on this
+			ship?
+
+					KIRA
+			It's worth a try.
+
+					DUKAT
+			I suppose if we disable the
+			tractor beam, we could reroute
+			enough power to run one of the
+			disruptors. But those weapons are
+			huge. What do we do with all the
+			cargo?
+
+					KIRA
+			Get rid of it.
+
+					DUKAT
+				(aghast)
+			All of it?
+
+					KIRA
+			I realize it's traditional for a
+			Cardassian captain to take a
+			percentage of the haul... but
+			you're going to have to shed a lot
+			of traditions if you're serious
+			about fighting the Klingons.
+
+	Dukat knows she's right, reflecting:
+
+					DUKAT
+			Some traditions are hard to break.
+
+					KIRA
+			You'll get used to it.
+
+	Dukat looks over the vast shipment; he knows Kira is
+	absolutely right.
+
+       DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT TWO      23.
+
+21   CONTINUED:	(2)
+
+					DUKAT
+			You never cease to impress me,
+			Major...
+				(turning to face her)
+			I've got a lot to learn from you.
+
+	And as Dukat and Kira contemplate this new shade of
+	their relationship, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     24.
+                           ACT THREE                            
+
+	FADE IN:
+
+22   INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Dukat is at his Captain's Chair; Damar and the
+	Cardassian crew are all at their posts. Kira has
+	replaced one of the Cardassian crewmembers at the
+	weapons station.
+
+					DAMAR
+			Target at five hundred thousand
+			kilometers.
+
+					KIRA
+			The System Five disruptor's on-
+			line.
+
+					DUKAT
+			Open the cargo bay doors.
+
+					DAMAR
+			Doors opening.
+
+					KIRA
+			Telemetry lock confirmed.
+
+					DUKAT
+			Are you ready?
+
+	Kira nods.
+
+					DUKAT
+			Diverting all power to your
+			station.
+
+	The lights on the Bridge dim momentarily as power is
+	sapped for the disruptors.
+
+					DAMAR
+			Target at two hundred thousand and
+			closing.
+
+					DUKAT
+			Fire.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     25.
+
+22   CONTINUED:
+
+	The whole ship SHUDDERS VIOLENTLY from the orbital
+	disruptor discharge.
+
+23   ON THE VIEWSCREEN (OPTICAL)
+
+	We see a torpedo-like bolt BLAST the oncoming asteroid
+	into a million pieces. (In contrast to the first time
+	we saw them blast an asteroid with their antique
+	phaser, this explosion is really quite something. It
+	should be obvious this is a much more powerful weapon.)
+
+24   RESUME
+
+	Dukat is pleased with the destructive power of the weapon.
+
+					DUKAT
+			Very impressive, Major.
+
+					KIRA
+				(off her console)
+			Don't be too impressed yet, Dukat --
+			we still have some problems.
+			Firing the disruptor ruptured
+			power relays and plasma circuits
+			all over the ship.
+
+					DAMAR
+				(confirming)
+			We have small plasma leaks on
+			decks two, four and five.
+
+					DUKAT
+				(to two Cardassian crewmembers)
+			You, I want those leaks fixed
+			immediately.
+
+	The two crewmembers EXIT the Bridge.
+
+					KIRA
+			We're going to have to do
+			something about that recoil.
+
+	Dukat is not concerned; as far as he can see,
+	everything's going along fine.
+
+					DUKAT
+			Major, I'm confident you'll have
+			the disruptor operating so
+			smoothly it wouldn't wake a
+			sleeping child.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     26.
+
+24   CONTINUED:
+
+	But Dukat's buoyant mood has a deeper reason.
+
+					DUKAT
+			Ironic isn't it?
+
+	Kira senses that her conversation with Dukat is about
+	to take an uncomfortable turn.
+
+					KIRA
+			Why is it that every time you
+			smile, I want to leave the room?
+
+					DUKAT
+			I suppose it's because my charm is
+			overwhelming.
+				(a beat)
+			But you must admit, it is rather
+			amusing. When we destroy that
+			bird of prey, it will no doubt go
+			a long way toward restoring my
+			reputation. And I'll have you to
+			thank for it.
+
+					KIRA
+			I'm trying not to think about
+			that.
+
+					DUKAT
+			Major, why are you so reluctant to
+			face the obvious? We make an
+			excellent team.
+
+					KIRA
+			We're not a team, Dukat. And we
+			have nothing in common. The only
+			reason I'm helping you is because
+			those Klingons killed fifteen
+			Bajoran diplomats...
+
+					DUKAT
+			There were Cardassians on that
+			outpost, too.
+
+					KIRA
+			Maybe. But all you care about is
+			redeeming yourself in the eyes of
+			the Cardassian government. You've
+			seen an opportunity for
+			advancement and you're grabbing
+			it.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     27.
+
+24   CONTINUED:	(2)
+
+					DUKAT
+			You judge me too harshly, Major.
+			Maybe I am seeking to regain my
+			former position -- one which I
+			earned through hard work,
+			dedication and sacrifice. But
+			redemption is not my sole
+			motivation...
+				(sincerely)
+			I care about my people and I don't
+			intend to allow the Klingons to
+			get away with murdering them.
+				(a beat)
+			I'm a much more complicated man
+			than you give me credit for.
+
+					KIRA
+			If that's true, then I suppose I
+			prefer simpler men.
+
+					DUKAT
+				(ratty)
+			Like Shakaar. It amazes me how a
+			woman as intelligent and
+			sophisticated as you could be
+			attracted to such a lumbering,
+			simplistic field hand. I mean,
+			what could the two of you possibly
+			talk about?
+
+					KIRA
+			That lumbering field hand is the
+			First Minister of Bajor. And he
+			knows more about how to talk to me
+			than you ever will.
+
+					DUKAT
+			How can you be so sure? After
+			all, you don't know me well enough
+			to make a comparison.
+
+					KIRA
+			I don't want to know you well
+			enough. And if you want to keep
+			working with me, I suggest you
+			stick to business.
+
+					DUKAT
+			Forgive me, major. I meant no
+			harm. I was just making
+			conversation.
+				(back to work)
+			Damar, set another target.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     28.
+
+24   CONTINUED:	(3)
+
+					DUKAT (Cont'd)
+			We'll test our new weapon again as
+			soon as the major is ready.
+				(to Kira)
+			Let's see if we can work out our
+			problems... at least the ones
+			we're having with the disruptor.
+
+	After staring at Dukat for a beat, Kira returns to her
+	work. Dukat smiles and does likewise.
+
+25   OMITTED
+
+26   INT. CARDASSIAN FREIGHTER - KIRA'S STATEROOM
+
+	Ziyal holds a Cardassian disruptor rifle, following
+	Kira's instructions.
+
+					KIRA
+			This is a standard issue,
+			Cardassian phase-disruptor rifle.
+			It has a four-point-seven
+			megajoule power capacity... three
+			millisecond recharge and two beam
+			settings.
+
+					ZIYAL
+			How do you know so much about
+			Cardassian weapons?
+
+					KIRA
+			We captured a lot of them during
+			the occupation. This is a good
+			weapon... solid and simple. You
+			can drag it through the mud and
+			it'll still fire.
+
+	Kira takes out a Federation phaser rifle.
+
+					KIRA
+			Now this is an entirely different
+			animal. It's Federation standard
+			issue. A little less powerful,
+			but with more options... sixteen
+			beam settings... fully autonomous
+			recharge... multiple target
+			acquisition... gyrostablized...
+			the works.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     29.
+
+26   CONTINUED:
+
+					KIRA (Cont'd)
+			It's more complicated, so it's not
+			as good a field weapon. Too many
+			things can go wrong.
+
+	Ziyal looks at Kira with awe.
+
+					ZIYAL
+			I can see why my father likes
+			having you around.
+
+	Kira tries to keep the conversation focused on the
+	rifles.
+
+					KIRA
+			I think you should stick with the
+			Cardassian rifle. It's smaller
+			and easier to use. And if we get
+			boarded, I don't want you to have
+			to think too much about the weapon
+			you're using.
+
+	But Ziyal won't let it be.
+
+					ZIYAL
+			You don't like my father much, do
+			you?
+
+	A beat. Kira hesitates but decides the truth is best.
+
+					KIRA
+			No. I guess I don't.
+
+					ZIYAL
+			I understand. He did some very
+			bad things during the occupation.
+
+					KIRA
+			Yes he did.
+
+					ZIYAL
+			It bothers him, you know.
+
+	Kira is only slightly skeptical.
+
+					KIRA
+			Does it?
+
+					ZIYAL
+			Very much. He talks about it
+			sometimes. He'd never admit it to
+			anyone else, but he thinks the
+			occupation was a mistake.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     30.
+
+26   CONTINUED:	(2)
+
+					KIRA
+			Somehow I don't think he'd be
+			saying that if the Cardassians had
+			won.
+
+					ZIYAL
+			Maybe not. But maybe losing made
+			him a better person.
+
+					KIRA
+			Then a lot of innocent people died
+			to pay for his education.
+
+	Ziyal nods thoughtfully.
+
+					ZIYAL
+			I know. I think about that a lot.
+			But when I look at my father, I
+			have a hard time seeing a
+			murderer.
+
+					KIRA
+			And when I look at him, I have a
+			hard time seeing anything else.
+
+					ZIYAL
+			My father says the two of you have
+			a lot in common. That you both
+			did things during the war that you
+			regret. That's why he cares so
+			much about what you think of him.
+
+	This is a lot for Kira to ponder.
+
+					KIRA
+			Ziyal, what your father really
+			wants from me is forgiveness. And
+			that's one thing I can never give
+			him.
+				(a beat)
+			Now I think we should concentrate
+			on getting you comfortable with
+			this weapon.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     31.
+
+26   CONTINUED:	(3)
+
+	Ziyal smiles agreement, then picks up the Cardassian
+	rifle and fits it against her body.
+
+27   INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Later. Kira and Dukat study a large star map.
+
+					KIRA
+			What about the Cardassian base on
+			the fourth moon of Rakal?
+
+					DUKAT
+				(shaking his head)
+			It's subterranean, much too
+			fortified to be a viable target
+			for a bird of prey. It would take
+			a Vor'Cha-class cruiser to do any
+			damage.
+				(a beat)
+			How about the station on Amleth
+			Prime?
+
+	Kira studies the map a beat before shaking her head.
+
+					KIRA
+			The Amleth system's located inside
+			an emission nebula. The Klingons'
+			cloaking device would be useless.
+
+	Again they both stare at the map intently. Finally,
+	Dukat smiles, triumphantly.
+
+					DUKAT
+			I know where they'll go next.
+			Loval.
+
+	Kira looks over the map, finding it in a far corner
+	edge of the map.
+
+					KIRA
+			That's on the other side of the
+			sector.
+
+					DUKAT
+			A long way from the Cardassian
+			fleet.
+
+	Kira taps a few keys on a panel.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     32.
+
+27   CONTINUED
+
+					KIRA
+				(still unconvinced)
+			From what it says here, Loval's
+			mainly a civilian outpost with
+			only a small subspace relay
+			station... the Klingons have been
+			going after much bigger prizes.
+
+	But Dukat knows something...
+
+					DUKAT
+			What it says there isn't exactly
+			true. Loval is also a weapons
+			research installation... which is
+			supposed to be a closely guarded
+			secret. But considering the
+			targets the Klingons have hit so
+			far, I think we may have
+			underestimated their intelligence
+			network.
+
+	Kira looks over the map and the screen one more time
+	before deciding:
+
+					KIRA
+			Sounds like a choice target.
+
+					DUKAT
+			Loval it is, then. The question
+			is, even if we're right, can we
+			stop them?
+
+					KIRA
+			All we need is one good shot with
+			the new disruptor.
+
+					DUKAT
+			Which won't be easy to get
+			considering they'll be cloaked.
+
+	Kira starts formulating a plan...
+
+					KIRA
+			We don't have to find them. We
+			just have to make them come to us.
+
+	Dukat nods. He's catching on fast.
+
+					DUKAT
+			Lure them in. Make them think
+			we're a helpless freighter.
+
+	Kira has another thought.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     33.
+
+27   CONTINUED:	(2)
+
+					KIRA
+			We have to make them think we have
+			valuable cargo aboard.
+
+					DUKAT
+			How does refined dilithium crystal
+			sound? I can get Damar to modify
+			the subspace transceiver array to
+			emit a false dilithium signal. If
+			I know the Klingons, they'll lock
+			their tractor beam on us and try
+			to take our cargo.
+
+					KIRA
+			And we'll have a little surprise
+			waiting for them.
+				(a beat)
+			Not bad.
+
+					DUKAT
+				(pleased)
+			I told you we made a good team.
+			You are as insightful a woman as
+			you are intriguing...
+
+					KIRA
+			I thought we agreed to keep this
+			strictly business.
+
+					DUKAT
+			Major, is it my imagination, or do
+			you have a hard time accepting
+			compliments?
+
+					KIRA
+			A hard time accepting them from 
+			you.
+
+	Dukat shakes his head, bemused.
+
+					DUKAT
+			I'll try to restrain my
+			enthusiasm, but I can't promise
+			you anything.
+
+	Kira decides to let that slide.
+
+					KIRA
+			We'd better get to Loval before
+			the Klingons do.
+
+	For the moment, Dukat agrees to get back on "business."
+	He calls out to Damar.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     34.
+
+27   CONTINUED:	(3)
+
+					DUKAT
+			Damar. Set a course for Loval.
+			Maximum warp.
+
+	Then Dukat settles into his chair, very pleased with
+	the universe. Kira returns to her station, giving
+	Dukat her back.
+
+28   EXT. SPACE (OPTICAL)
+
+	The Cardassian freighter traveling at maximum warp.
+
+29   INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Later. As before.
+
+					DAMAR
+			The Loval System is within
+			scanning range, sir.
+
+					DUKAT
+			Any sign of them?
+
+					DAMAR
+			No, sir.
+
+					KIRA
+			If they're not there now, they'll
+			be there soon enough.
+
+					DUKAT
+				(to Damar)
+			Begin modifications to the
+			subspace transceiver array.
+
+30   EXT. SPACE (OPTICAL)
+
+	The Cardassian freighter assuming a standard orbit
+	around Loval.
+
+31   INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Later. Kira, Damar and the crew are all silently at
+	their posts. Dukat smiles.
+
+					DUKAT
+			We soldiers spend a lot of time
+			waiting, don't we, major?
+				(a beat)
+			It's not easy to keep your mind
+			from drifting.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     35.
+
+31   CONTINUED:
+
+					KIRA
+				(pointed)
+			I don't usually have trouble
+			concentrating -- unless I'm being
+			distracted.
+
+	Dukat pays her no heed. He's in a sharing mood.
+
+					DUKAT
+			Lately, when my mind wanders, I
+			find myself thinking more and more
+			about Gul Marratt. Do you know
+			him?
+
+	Kira shakes her head.
+
+					DUKAT
+			Very dashing. One of Cardassia's
+			rising stars... a graduate of the
+			Cardassian Military Academy, a
+			smooth-talking junior member of
+			the Detepa Council, and like your
+			friend Shakaar, quite a lady's
+			man... especially with other
+			officer's wives.
+
+					KIRA
+			Including yours?
+
+	Dukat betrays no emotion.
+
+					DUKAT
+			A year ago, he wouldn't have
+			dared... but now...
+				(shrugs)
+			I think the first thing I'll do
+			when I'm returned to power is to
+			demote him... and assign him to
+			the Cardassian Embassy on Breen.
+			I hear it's bitter cold on Breen.
+			And we Cardassians do despise the
+			cold...
+
+	Kira feels a mixture of sorrow and pity for Dukat, but
+	before she can say anything, Damar announces:
+
+					DAMAR
+			Sir, I've got something.
+
+					DUKAT
+			On screen.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT THREE     36.
+
+32   CLOSE ON THE VIEWSCREEN (OPTICAL)
+
+	As a bird of prey DECLOAKS directly in front of them.
+
+33   ON DUKAT
+
+	grinning at Kira.
+
+					DUKAT
+			Well, Major... it seems fate has
+			smiled on our little plan.
+
+	And on his expression of triumph, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      37.
+                           ACT FOUR                             
+
+	FADE IN:
+
+34   EXT. SPACE (OPTICAL)
+
+	The Klingon Bird of Prey hovers menacingly above the
+	Cardassian freighter.
+
+35   INT. CARDASSIAN FREIGHTER - BRIDGE 
+
+	As before. You could hear a pin drop as Kira, Damar
+	and Dukat look at the viewscreen awaiting the Klingons'
+	next move.
+
+					DAMAR
+			They're scanning us...
+
+					DUKAT
+			Good. Let's hope they take the
+			bait...
+
+					DAMAR
+			Sir -- they've locked their
+			disruptors on us.
+
+					DUKAT
+			But they haven't fired. Which
+			could mean they're "interested"
+			in our cargo...
+
+	A long beat of silence, then:
+
+					DAMAR
+			They're hailing us, sir.
+			Demanding our surrender.
+
+	Kira and Dukat exchange a look... this is good.
+
+					KIRA
+			They're interested... now, can you
+			make them bite?
+
+36   ON DUKAT 
+
+	as he calmly sits in the Captain's Chair; Dukat smiles,
+	this development he's more than comfortable handling.
+
+					DUKAT
+			On screen.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      38.
+
+37   ON THE VIEWSCREEN (OPTICAL)
+
+	as K'TEMANG, the Klingon Captain of the bird of prey,
+	comes on screen.
+
+					K'TEMANG
+			Identify yourself.
+
+					DUKAT
+			I'm Gul Dukat, Commander of the
+			Cardassian freighter Groumall.
+			Who are you?
+
+					K'TEMANG
+				(ignoring his question)
+			What's your cargo and destination?
+
+					DUKAT
+			We're carrying replicator and
+			transporter parts to the Dopa
+			System.
+
+					K'TEMANG
+			You're lying.
+
+					DUKAT
+			I assure you, Captain --
+
+					K'TEMANG
+				(cutting him off)
+			I'm confiscating your ship and its
+			cargo.
+
+					DUKAT
+				(defiant)
+			On whose authority?
+
+	The Klingon Captain LAUGHS with contempt.
+
+					K'TEMANG
+			On the authority of the Klingon
+			Empire and the disruptors I have
+			pointed at your vessel.
+
+	The transmission ends.
+
+38   RESUME
+
+	as Dukat steps off his Captain's Chair, taking a step
+	toward Kira and the viewscreen.
+
+					DUKAT
+			Convincing, wasn't I?
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      39.
+
+38   CONTINUED:
+
+					KIRA
+			I'll let you know.
+
+39   OMITTED
+
+40   WIDER (OPTICAL)
+
+	to include Damar.
+
+					DAMAR
+				(pleased)
+			They've locked their tractor beam
+			on us.
+
+	Dukat smiles -- but keeps everyone focused; he knows
+	this is no time to get overconfident.
+
+					DUKAT
+			Wait for my signal.
+
+	The freighter JOLTS as the tractor beam takes hold.
+
+					DUKAT
+			Wait...
+
+	on the viewscreen, the bird of prey has come so close
+	that its underbelly fills the screen.
+
+					DUKAT
+			Open the cargo bay doors --
+
+					KIRA
+				(anticipating)
+			Doors open.
+
+					DUKAT
+			Fire!
+
+41   EXT. SPACE (OPTICAL)
+
+	The disruptor BLAST hits the bird of prey at close
+	range.
+
+42   INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	Damar and the crew react with jubilation.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      40.
+
+42   CONTINUED:
+
+					DAMAR
+			We breached their hull! Their
+			impulse engines are down. They're
+			adrift.
+
+					DUKAT
+			Excellent.
+
+	But the joy is short-lived; the bird of prey is only
+	adrift, not destroyed. Damar glances at his panel.
+
+					DAMAR
+			They're re-locking their
+			disruptors on us.
+
+					DUKAT
+			All power to forward shields.
+
+	The Cardassian freighter ROCKS VIOLENTLY as the Klingon
+	phaser scores a direct hit. (SMOKE, SPARKS, DEBRIS...
+	the works!)
+
+					DUKAT
+			Damage?
+
+					DAMAR
+			Both shields are down to twenty
+			percent -- we can't sustain
+			another hit.
+
+	Dukat has to think on his feet; he turns to Kira.
+
+					DUKAT
+			I think it's time to improvise.
+
+43   OMITTED
+
+44   INT. KLINGON BRIDGE (OPTICAL)
+
+	K'TEMANG barks orders at his crew of KLINGONS.
+
+					K'TEMANG
+			I want all power to the disruptors --
+			now!
+				(then to one of the crewmen)
+			You -- get down to the Weapons
+			Room and find out what's taking
+			them so long.
+
+	The Klingon EXITS the bridge to do as instructed.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR     40A.
+
+44A  INT. KLINGON CORRIDOR (OPTICAL) 
+
+	The Klingon moves through the corridor where THREE more
+	KLINGONS work to repair a ruptured plasma line. Behind
+	them, Kira and Dukat MATERIALIZE.
+
+	Instantaneously, Kira and Dukat each FIRE one phaser
+	blast, hitting their respective targets. The two
+	remaining Klingons -- drawing their daggers -- pounce
+	on the intruders.
+
+	A ferocious hand-to-hand combat ensues. Kira is in her
+	element but she has to use every one of her fighting
+	skills to fend off the more powerful Klingon.
+
+	Dukat and the other Klingon also battle hand-to-hand,
+	but their fight is more evenly matched -- Cardassian
+	strength vs. Klingon strength. As the fight
+	progresses, it becomes clear that the Klingon may be a
+	tad stronger, but Dukat is a tad wilier. Eventually,
+	Dukat defeats the Klingon, killing him just moments
+	before Kira kills her opponent. Out of breath, Dukat
+	checks with Kira --
+
+					DUKAT
+			Major... ?
+
+					KIRA
+			Just give me a minute.
+
+	Using her tricorder, Kira finds an access panel and
+	removes it. Working quickly, she begins tapping some
+	keys on the panel and on her tricorder. Dukat moves to
+	guard the door as Kira continues working.
+
+					DUKAT
+			Hurry, major.
+
+					KIRA
+			Be quiet. I need to concentrate.
+
+	As Kira continues working...
+
+44B  INT. KLINGON BRIDGE (OPTICAL)
+
+	K'TEMANG steps up to the viewscreen, where the
+	Cardassian freighter hangs in space, vulnerably
+	defenseless.
+
+					K'TEMANG
+			Lock target and fire!
+
+	But just as he says the word "fire", he DEMATERIALIZES
+	along with all his other men on the bridge.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR     40B.
+
+44C NEW ANGLE
+
+	to see Kira and Dukat ENTER the empty bridge. Dukat
+	looks at Kira triumphantly.
+
+					DUKAT
+			You're a magician, Major.
+
+					KIRA
+			Nothing magical about it...
+				(a beat)
+			... when you know Klingon
+			transporter codes.
+
+44D INT. CARDASSIAN FREIGHTER - BRIDGE
+
+	A very disoriented and surprised Klingon Captain and
+	his men MATERIALIZE aboard the empty freighter.
+
+44E INT. KLINGON BRIDGE 
+
+	Kira has taken a position at one of the terminals. She
+	taps a few keys, then announces:
+
+					KIRA
+			It worked. All our people are
+			here and all thirty-six Klingons
+			are on the freighter.
+				(allowing herself a
+				smile)
+			I can just imagine the Klingon
+			Captain explaining this to his
+			superiors...
+
+	Dukat has stepped up to the weapons terminal and is
+	working the panel.
+
+					DUKAT
+			He won't get the opportunity.
+
+	And just as Kira realizes what Dukat means, Dukat taps
+	the last key.
+
+44F EXT. SPACE (OPTICAL)
+
+	The Bird of Prey fires its disruptors and the
+	Cardassian freighter EXPLODES into tiny particles.
+
+44G RESUME
+
+	as the red glow of the explosion lights up Dukat's
+	face, Kira watches silently.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/595 - ACT FOUR     41.
+
+44G  CONTINUED:
+
+					KIRA
+			Was that really necessary?
+
+					DUKAT
+			You're the terrorist, Major. You
+			tell me.
+
+	The moment hangs in the air... then Damar, disruptor
+	rifle in hand, Ziyal and two other Cardassian crewmen
+	ENTER. A proud Damar reports:
+
+					DAMAR
+			Weapons secured, sir.
+
+					DUKAT
+			Excellent.
+
+					ZIYAL
+			So is Engineering.
+
+	Dukat could not be prouder. Nor could Ziyal -- of her
+	father.
+
+					DUKAT
+			Well done.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      42.
+
+45   ON KIRA
+
+	turning to work on one of the consoles as Dukat walks
+	around the conquered ship -- his mind racing ahead of
+	him.
+
+					DUKAT
+			Quite a prize we've taken, Major.
+			The first Klingon bird of prey
+			ever captured by Cardassia...
+
+	Kira is scrolling through one of the Klingon monitors.
+
+					KIRA
+			I think I've found an even bigger
+			prize. It looks like we have the
+			target priorities of all the
+			Klingon raiders in Cardassian
+			space.
+
+	That is pure gold, and Dukat is on cloud nine.
+
+					DUKAT
+			I'll contact the Central Command
+			to inform them of our success.
+				(smiling)
+			I think I'll "request" that my
+			Legate title be reinstated,
+			effective immediately.
+
+	In the meantime, Damar has also gotten on one of the
+	terminals. Dukat asks him:
+
+					DUKAT
+			Get me the Central Command on a --
+				(stopping himself)
+			On second thought... this is too
+			important for them. I want to
+			speak to the Chairman of the
+			Detepa Council... on a secure
+			channel.
+
+					DAMAR
+			I can't do that from here, sir.
+			The communication terminals on the
+			bridge are down -- but I can re-
+			route it to the Captain's
+			quarters.
+
+	Dukat heads for the Captain's quarters.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      43.
+
+45   CONTINUED:
+
+					DUKAT
+			Do so. Then complete the repairs.
+			I want this ship fully operational
+			as soon as possible.
+
+46   EXT. SPACE (OPTICAL)
+
+	The bird of prey adrift over Loval.
+
+47   INT. KLINGON BRIDGE
+
+	Later. Kira and Damar are alone on the Bridge,
+	completing some repairs. Kira taps a console.
+
+					KIRA
+			Ziyal -- can you see the phase
+			compensator in the backup plasma
+			manifold?
+
+					ZIYAL'S COM VOICE (O.S.)
+			What's it look like?
+
+					DAMAR
+				(to Kira)
+			Maybe I should go help her.
+			Klingon technology is...
+
+					KIRA
+				(nodding)
+			Odd. Good idea.
+
+	Damar EXITS.
+
+					KIRA
+				(tapping the console again)
+			Hang on, Ziyal. Help is on its
+			way.
+
+48   NEW ANGLE 
+
+	as Dukat emerges from the Captain's quarters. He looks
+	extremely long-faced, dejected.
+
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      43.
+
+48   CONTINUED:
+
+	Kira, concentrating on her work, notices only that
+	Dukat has arrived, not his mood.
+
+					KIRA
+			You know something, Dukat... these
+			computer logs are even more
+			valuable than I thought. They
+			contain status reports from
+			Klingon ships and outposts
+			throughout Cardassian space. With
+			information like this, Cardassia
+			could launch a major counterattack
+			against the Klingons.
+
+					DUKAT
+			They could, but they won't.
+
+	Kira turns to look at Dukat for the first time.
+
+					KIRA
+			Why not?
+
+					DUKAT
+			Because the Detepa Council has
+			something else in mind... they've
+			ordered me not to engage the
+			Klingons in "any further
+			conflict." The Council is looking
+			for a diplomatic solution.
+				(a beat, bitter)
+			They've ordered me back to
+			Cardassia Prime to resume my post
+			as military advisor to the
+			council.
+
+	Kira is puzzled; Dukat's dejection seems
+	inappropriately severe.
+
+					KIRA
+			I thought that's what you wanted.
+
+					DUKAT
+				(still not happy)
+			It was. But what's the point of
+			being the military advisor to a
+			government that won't fight.
+
+					KIRA
+			You could change their minds.
+				(beat)
+			Try to convince your fellow
+			Cardassians to go on the
+			offensive.
+
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FOUR      45.
+
+48   CONTINUED: 	(2)
+
+					DUKAT
+			No... I'd be wasting my breath...
+			no one would listen. No one wants
+			to fight.
+
+	Dukat looks at Kira with piercing eyes.
+
+					DUKAT
+			There was a time when the mere
+			mention of my race inspired fear.
+			But now we've become a beaten
+			people afraid to fight back
+			because we don't want to lose what
+			little we have left...
+
+					KIRA
+				(surprised)
+			That doesn't sound like the
+			Cardassians I know.
+
+49   CLOSE ON DUKAT
+
+	as he firms up the decision he's been making.
+
+					DUKAT
+			What Cardassians? Don't you see,
+			major? They're all too paralyzed,
+			defeated, broken...
+				(directly at Kira)
+			I am the only Cardassian left.
+					(a beat)
+			And if no one else will stand
+			against the Klingons, I will.
+
+	And on his look of determination, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      46.
+                           ACT FIVE                             
+
+	FADE IN:
+
+50   INT. KLINGON BRIDGE
+
+	As before. Kira faces a resolute Dukat.
+
+					KIRA
+			Look, Dukat, I know you're angry,
+			but maybe you ought to think about
+			what you're proposing. You can't
+			go to war against the whole
+			Klingon Empire with one bird of
+			prey.
+
+					DUKAT
+			Why not? Your people fought us
+			for fifty years with less
+			sophisticated weaponry than this.
+			And you beat us.
+
+					KIRA
+			It's not the same. The Bajoran
+			people were united. We were all
+			working for the same goal. You
+			and your crew would be alone out
+			there...
+
+					DUKAT
+			Maybe at first. But perhaps our
+			actions will inspire others to
+			join the struggle.
+
+	Kira shakes her head. She's not buying it.
+
+					KIRA
+			It's not that easy, Dukat.
+
+					DUKAT
+			I know.
+				(a beat)
+			Which is why I need you.
+
+					KIRA
+				(surprised)
+			Me?
+
+					DUKAT
+			Who else? You know how to
+			organize a resistance cell.
+			You're an expert in terrorist
+			tactics. You have close ties with
+			Bajoran and Federation officials.
+
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      47.
+
+50   CONTINUED:
+
+					DUKAT (Cont'd)
+				(a beat)
+			Besides, it would give you a
+			chance to do what you were meant
+			to do.
+
+					KIRA
+			No thanks. I already have a job.
+
+					DUKAT
+				(scornful)
+			You mean on that space station?
+			We both know your talents are
+			wasted there. Coordinating
+			docking assignments and leading
+			training exercises. On Deep Space
+			Nine, you're nothing but a
+			bureaucrat, an administrator.
+				(a beat)
+			but if you come with me, you can
+			be a soldier again.
+
+	And for a moment, just one slight moment, the
+	possibility crosses Kira's mind. Dukat sees this and
+	thinks he's winning her over.
+
+					DUKAT
+			Think about it, major. The chance
+			to fight against a superior foe in
+			a righteous cause... to protect a
+			defeated and broken people from a
+			cruel aggressor.
+				(a beat)
+			You know as well as I do that if
+			Cardassia falls, Bajor is next.
+			Help me stop the Klingons before
+			you become their next target.
+
+					KIRA
+				(surprised)
+			You're really serious about this.
+
+					DUKAT
+			Absolutely. Look, Major, I'm not
+			asking you to like me -- or to be
+			my friend. I'm asking you to join
+			me. Fight at my side.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      48.
+
+50   CONTINUED:	(2)
+
+					DUKAT (Cont'd)
+				(a beat)
+			You know what I'm doing is right.
+			And what's more... it's what you
+			want to do as well.
+
+	Dukat can see her vacillating within her defiance, but
+	he also knows that if he presses her too far too soon,
+	he won't get the answer he wants.
+
+					DUKAT
+			I know that our past makes it hard
+			for you to accept me as an ally.
+				(a beat)
+			I know every fiber of your being
+			is telling you to say no, no,
+			no... but somewhere among all
+			those "no"s is a yes. You need to
+			listen to that yes. Not for my
+			sake, not for Cardassia's, not
+			even for Bajor's... but for your
+			sake.
+
+	Kira doesn't like admitting -- even to herself -- that
+	Dukat's offer is the least bit enticing. Damar ENTERS.
+
+					DAMAR
+			We've completed the repairs on the
+			navigational systems and the
+			cloaking device.
+
+					DUKAT
+			Good. We'll leave as soon as you
+			have them on-line.
+
+	Dukat returns his attention to Kira.
+
+					DUKAT
+			Think about it, Major... think
+			about the possibilities.
+
+51   EXT. SPACE (OPTICAL) (STOCK)
+
+	moving at impulse, the Bird of Prey cloaks.
+
+52   INT. KLINGON CORRIDOR
+
+	Later. Kira is headed for the Bridge when a voice
+	calls:
+
+					ZIYAL (O.S.)
+			Nerys!
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      49.
+
+52   CONTINUED:
+
+	Kira turns to find Ziyal running up to her holding a
+	Klingon blade.
+
+					ZIYAL
+			I want to show you something.
+
+	Ziyal hands Kira the blade.
+
+					ZIYAL
+			Go ahead. Attack me.
+
+	Kira is baffled; not sure exactly what Ziyal wants.
+
+					KIRA
+			What are you talking about?
+
+					ZIYAL
+			It's okay. I know what I'm doing.
+			Damar showed me a good trick. Try
+			to stab me with the knife --
+
+	Kira halfheartedly does as requested. Ziyal parries
+	the thrust with her forearm, spins and grabs Kira's arm
+	in an attempt to flip her over her shoulder. But Kira
+	simply twists her arm away and gently kicks Ziyal's
+	feet from under her. Ziyal ends up on the ground with
+	Kira holding the blade at her neck.
+
+					ZIYAL
+			I guess it wasn't such a good
+			trick.
+
+					KIRA
+			The best way to survive a knife
+			fight is to never get into one.
+
+					ZIYAL
+			If I'm going to help my father, I
+			have to be prepared for anything.
+				(enthusiastic)
+			Show me what you did again.
+
+	Kira just stands there.
+
+					ZIYAL
+			Please. I know I have a lot to
+			learn -- I've been practicing with
+			the disruptor rifle... but I need
+			to know how to defend myself in
+			hand-to-hand combat.
+				(almost embarrassed)
+			I was lucky not to have to fight
+			when we boarded this ship.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      50.
+
+52   CONTINUED:	(2)
+
+					ZIYAL (Cont'd)
+			Next time I may not be so lucky.
+
+	A beat. Then Kira nods in agreement.
+
+					KIRA
+			Chances are you won't be. But
+			fighting the Klingons will take
+			more than being able to fire a
+			weapon or use a knife. You have
+			to learn how to be ruthless... how
+			to hate the Klingons even more
+			than you hated the Breen.
+
+	If that's what it takes, Ziyal's game.
+
+					ZIYAL
+			Whatever it takes, I'll do it.
+			But I'm going to need your help.
+
+	A beat as Kira makes up her mind.
+
+					KIRA
+			You're right. You do need my
+			help.
+
+	Ziyal smiles, glad she's gotten through to Kira.
+
+53   INT. KLINGON BRIDGE
+
+	Kira is facing Dukat. Kira has just given Dukat her
+	decision; Dukat is not pleased by it, but he is
+	resigned to it.
+
+					DUKAT
+			I'm disappointed, major.
+
+					KIRA
+			But not surprised.
+
+					DUKAT
+			Tell me, were you even tempted?
+
+	Kira thinks about it for a moment.
+
+					KIRA
+			Not really.
+
+					DUKAT
+			And I thought I was so eloquent.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      51.
+
+53   CONTINUED:
+
+					KIRA
+				(smiles)
+			You had your moments. But the
+			fact of the matter is, I've
+			already been where you're going.
+			I've already lived the life you're
+			choosing. Fighting hit and run,
+			always outgunned, living on
+			nothing but adrenalin and hate.
+			It's not much of a life, and it
+			eats away at you so that every day
+			a little part of you dies.
+
+					DUKAT
+				(smiles)
+			Very inspiring, Major. But I have
+			no choice in this. No more than
+			you did when you where fighting
+			against us.
+
+	Kira studies Dukat. He's a committed man.
+
+					KIRA
+			No, I don't suppose you do.
+
+	A beat as a moment passes between them.
+
+					DUKAT
+				(with regret)
+			Then all that's left is for you to
+			wish me luck.
+
+					KIRA
+			That's not quite all. There's
+			still Ziyal.
+
+					DUKAT
+			What about her?
+
+					KIRA
+			The life you're choosing isn't for
+			her. She deserves better.
+
+					DUKAT
+			She deserves to be with her
+			father. You taught me that.
+				(a beat)
+			I love her.
+
+					KIRA
+				(simply)
+			I know you do. That's why you
+			have to let her go.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      52.
+
+53 CONTINUED: (2)
+
+					DUKAT
+				(angry)
+			Go where? She's not welcome on
+			Cardassia or Bajor. This is the
+			only place she belongs.
+
+					KIRA
+			That's not true. She can come to
+			Deep Space Nine with me.
+
+	Dukat is completely surprised by Kira's offer.
+
+					DUKAT
+			Are you serious?
+
+					KIRA
+			She's a remarkable young woman.
+			I'll make sure she's okay.
+
+	Dukat thinks it over.
+
+					DUKAT
+		Why? Why do you care so much?
+
+					KIRA
+			Because she reminds me of myself.
+			And I don't want her to go through
+			what I did.
+				(a beat)
+			And neither do you.
+
+	Dukat weighs Kira's words. The thought of losing his
+	daughter is a painful one. But he knows keeping her
+	would be worse.
+
+54   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+55   INT. OPS
+
+	O'BRIEN and DAX are at their stations. SISKO has just
+	exited his office having been called to Ops.
+
+					DAX
+			Captain, a Klingon bird of prey
+			just decloaked off the station.
+
+	Sisko looks up at the viewscreen.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      53.
+
+56   VIEWSCREEN (OPTICAL)
+
+	The Bird of Prey looms ominously nearby.
+
+57   RESUME
+
+					O'BRIEN
+			They're hailing us.
+
+					SISKO
+			Let's find out what they want.
+
+	O'Brien works his panel, then reacts with surprise.
+
+					O'BRIEN
+			Sir, it's Gul Dukat.
+
+					SISKO
+				(also surprised)
+			On a Klingon ship?
+
+				O'BRIEN
+			He's asking permission to dock.
+
+	And on their reactions to this strange turn of
+	events...
+
+58   INT. KLINGON BRIDGE
+
+	Dukat and Ziyal are embracing as Kira stands nearby.
+
+					DUKAT
+			When this is over, I'll come back
+			for you. I promise you that.
+
+					ZIYAL
+			I know you will.
+
+	Dukat turns to face Kira.
+
+					DUKAT
+			Major...
+
+					KIRA
+			I'll take good care of her.
+
+					DUKAT
+				(nodding)
+			I know.
+				(a beat; Dukat regains
+				his aplomb)
+			Well, it would appear that whether
+			you like it or not, our lives have
+			become deeply intertwined.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      54.
+
+58   CONTINUED:
+
+	Kira can't help but smiling.
+
+					KIRA
+			That really pleases you, doesn't
+			it?
+
+					DUKAT
+			Pleases me? Why major, it gives
+			me reason to live.
+
+	And for this one time, Kira allows Dukat to have the
+	last word.
+
+59   INT. PROMENADE - SECOND LEVEL
+
+	Kira and Ziyal stand looking out one of the windows.
+
+60   INT/EXT. WINDOW - KIRA'S POV - (OPTICAL)
+
+	Dukat's bird of prey banks away and cloaks.
+
+61   RESUME
+
+	CLOSE on Ziyal, her eyes still focused on where the
+	bird of prey disappeared.
+
+					KIRA
+			Come... I'll show you to your
+			quarters.
+
+	They turn to leave only to be met by ODO, patrolling
+	the Promenade.
+
+					ODO
+			Welcome back, Major.
+
+					KIRA
+			Odo, this is Tora Ziyal.
+
+					ODO
+			Gul Dukat's daughter?
+
+					ZIYAL
+				(proudly)
+			That's right.
+
+      DEEP SPACE NINE: "Return to Grace" - 12/07/95 - ACT FIVE      55.
+
+61   CONTINUED:
+
+					KIRA
+				(nodding)
+			She's going to be living here on
+			the station with us... for a while.
+
+	Odo reacts -- that is not what he expected.
+
+					KIRA
+			I'll tell you all about it.
+
+	Kira and Ziyal begin to move off...
+
+					ODO
+			I certainly hope so.
+
+	And as Odo watches Kira and Ziyal walk away, we:
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+

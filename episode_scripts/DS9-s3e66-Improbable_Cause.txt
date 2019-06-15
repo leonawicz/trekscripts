@@ -1,0 +1,2839 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                  "Through the Looking Glass" 
+               (fka "Untitled Crossover Sequel") 
+                          #40513-466 
+                              
+                          Written by 
+             Ira Steven Behr & Robert Hewitt Wolfe 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1995 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        February 2, 1995
+
+       STAR TREK: DS9   "Through... Glass" 02/02/95 - CAS
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Through the Looking Glass" 
+                             CAST 
+
+          SISKO                    TUVOK
+          KIRA                     JENNIFER
+          ODO                      CARDASSIAN OVERSEER
+          BASHIR                   REBELS
+          DAX                      
+          O'BRIEN                  
+          QUARK                    
+          GARAK                    
+          ROM                      
+          COMPUTER VOICE           
+
+          Non-speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. TERRANS
+                                   N.D. KLINGONS
+                                   N.D. BAJORANS
+                                   N.D. CARDASSIANS
+
+  STAR TREK DEEP SPACE NINE: "Through... Glass" - 02/02/95 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Through the Looking Glass" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          COMMANDER'S OFFICE            
+          OPS                           TEROK NOR
+                                        RAIDER
+        TEROK NOR                     
+          AIRLOCK CORRIDOR              
+          KIRA'S QUARTERS               
+          INTENDANT'S OFFICE            
+          ORE PROCESSING CENTER         
+          GUEST QUARTERS                
+          HABITAT RING                  
+          CORRIDOR                      
+
+        RAIDER                        
+          TRANSPORTER AREA              
+          QUARTERS                      
+          CORRIDOR                      
+          COCKPIT                       
+
+        CAVES                         
+          MAIN CHAMBER                  
+          PRIVATE CHAMBER               
+          CORRIDOR                      
+
+   STAR TREK: "Through... Glass" - 02/02/95 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                  "Through the Looking Glass" 
+                      PRONUNCIATION GUIDE 
+
+          HISIK                    HISS-ik
+          TUVOK                    TOO-vahk
+          TEROK NOR                TAIR-awk NOR
+          TERRAN                   TEHR-rahn
+
+       DEEP SPACE: "Through... Glass" - REV. 02/10/95 - TEASER        1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                     "Through the Looking Glass"                       
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - DEEP SPACE NINE - STOCK (OPTICAL)
+
+	hanging in space with the wormhole opening in the background.
+
+2    INT. COMMANDER'S OFFICE
+
+	Sisko's seated at his desk.  ODO and QUARK stand before him.
+
+					ODO
+			I found twenty-seven voles in his 
+			storeroom.
+
+					QUARK
+			Vole infestations are not uncommon 
+			on this station.  If you don't believe 
+			me, ask Chief O'Brien.
+
+					ODO
+			When I came in, he and Morn were 
+			painting numbers on the voles' backs.
+
+					QUARK
+			We were just... counting them to see 
+			how many we'd caught.
+
+					SISKO
+			You were getting ready to stage a 
+			vole fight.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/10/95 - TEASER        2.
+
+2  CONTINUED:
+
+					QUARK
+				(feigns surprise)
+			A vole fight?  I'm appalled.
+				(to Odo)
+			Do you really think that was what 
+			Morn was up to?
+
+					SISKO
+				(to Odo)
+			I want the voles confiscated and 
+			removed from the station.
+
+					QUARK
+			But you can't confiscate Morn's voles.  
+			They're like... his pets.
+
+	Sisko knows this is nonsense.  He stands up.
+
+					SISKO
+			I'll see if I can get him some 
+			goldfish.  And now, if you gentlemen 
+			will excuse me, it's late.
+
+	Sisko EXITS.  They follow behind.
+
+					QUARK
+			Poor Morn.  This is going to break 
+			his hearts.
+
+3    OMITTED 
+
+4    INT. OPS
+
+	Sisko comes down the stairs and turns to an N.D. Starfleet 
+	Officer.
+
+					SISKO
+			Ops is yours, Lieutenant.
+
+	The Lieutenant nods.  Just then, O'BRIEN ENTERS from the 
+	Turbolift, dressed like he was in the Mirror universe.
+
+          DEEP SPACE: "Through... Glass" - 02/02/95 - TEASER          3.
+
+4  CONTINUED:
+
+					SISKO
+				(re: the clothes)
+			Going somewhere, Chief?
+
+	O'Brien stares at Sisko, Odo, and Quark with curious 
+	intensity.
+
+					O'BRIEN
+			Sir, I need to talk to you.
+				(eyeing Odo and Quark)
+			It's kind of private.
+
+					ODO
+			We were just leaving.
+				(to Quark)
+			Come on, let's go break the news to 
+			Morn.
+
+	Odo and Quark EXIT out a door.  O'Brien looks at them 
+	strangely.
+
+					SISKO
+				(to O'Brien)
+			Do you want to talk in my office?
+
+					O'BRIEN
+			Actually, I thought we'd go to my 
+			place.
+
+	O'Brien draws a phaser and shoves it under Sisko's neck.
+
+					O'BRIEN
+			Get onto the transporter pad...
+				(with an edge)
+			Now.
+
+	The Ops N.D.s are caught by surprise.
+
+					SISKO
+			What do you think you're doing?
+
+					O'BRIEN
+			Just get on the pad.
+
+	O'Brien prods Sisko toward the transporter.  Sisko coolly 
+	steps up onto the pad.  It doesn't seem like the time to 
+	argue.
+
+5    NEW ANGLE (OPTICAL)
+
+	Keeping his phaser trained on Sisko, O'Brien goes to Dax's 
+	station.  He runs a device over the console, then programs 
+	in a quick sequence of transporter commands.
+
+          DEEP SPACE: "Through... Glass" - 02/02/95 - TEASER          4.
+
+5  CONTINUED:
+
+					O'BRIEN
+			Computer, energize on my command.
+
+	Never taking his phaser off Sisko, O'Brien steps up to the 
+	transporter and plays the (TECH) device over the base, then 
+	joins Sisko on the pad.
+
+					O'BRIEN
+			Energize.
+
+	They beam out.
+
+6    EXT. SPACE (OPTICAL)
+
+	With a ship very similar to the Maquis raider we saw in the 
+	Voyager pilot.
+
+7    INT. RAIDER - TRANSPORTER AREA (OPTICAL)
+
+	A small transporter alcove like the one on the Defiant, but 
+	less "Starfleet clean."  Sisko and O'Brien beam in.
+
+	Sisko takes stock of his surroundings.
+
+					SISKO
+			Where are we?
+
+					O'BRIEN
+			I guess you might say we just stepped 
+			through the looking glass.
+
+	And as Sisko reacts to this, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+       DEEP SPACE: "Through... Glass" - REV. 02/6/95 - ACT ONE        5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+8    INT. RAIDER - QUARTERS
+
+	The doors open and Sisko ENTERS, followed by the Mirror 
+	O'Brien, who is still holding a phaser on him.
+
+					O'BRIEN
+			Why don't you sit down... make 
+			yourself comfortable?
+
+					SISKO
+				(re: the phaser)
+			Maybe I'm not feeling too comfortable 
+			right now.
+
+	Sisko turns his back to O'Brien to sit down.  O'Brien relaxes 
+	for a moment.  Suddenly Sisko pivots back to face O'Brien, 
+	knocking the phaser away with his forearm, and with his other 
+	hand clipping O'Brien on the jaw.  As O'Brien hits the wall, 
+	Sisko wrests the phaser away and turns it on O'Brien.
+
+					SISKO
+			There, that's better.
+
+	But to Sisko's surprise, O'Brien smiles as if Sisko's action 
+	has been somehow reassuring to him.
+
+					O'BRIEN
+			That was a pretty good move.
+
+					SISKO
+			I'm glad you liked it.
+
+					O'BRIEN
+			But it still doesn't change anything.  
+			You can't go home unless I reconfigure 
+			the transporter, and I'm not about 
+			to do that.
+				(off Sisko's reaction)
+			I guess you've got a lot of questions.
+
+					SISKO
+			Not as many as you think.
+
+					O'BRIEN
+			You know where we are?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         5A.
+
+8  CONTINUED:
+
+					SISKO
+			If I had to guess, I'd say this is 
+			the same parallel universe that two 
+			of my crewmembers visited a year 
+			ago.
+
+					O'BRIEN
+			You're quick.  Just like our Sisko.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE          6.
+
+8  CONTINUED:	(2)
+
+					O'BRIEN (Cont'd)
+			That saves me having to give you a 
+			history lesson.
+				(a beat)
+			But I'd better update you on current 
+			events.  Since your officers left, 
+			we've started a rebellion against 
+			the Klingon/Cardassian Alliance.  
+			We're fighting for our lives.
+
+					SISKO
+			I wish you luck, but I don't see 
+			what that has to do with me.
+
+					O'BRIEN
+			It has everything to do with you.  
+			You were the leader of the Terran 
+			Rebellion.  At least, our Benjamin 
+			Sisko was.
+
+					SISKO
+			Was?
+
+					O'BRIEN
+			Captain Sisko's dead.  The Cardassians 
+			blew up his ship.
+
+	Sisko doesn't need to have a picture drawn for him.
+
+					SISKO
+			And you want me to take his place.
+
+					O'BRIEN
+			Like I said, you're quick.
+
+					SISKO
+			Well I've got a better idea.  We're 
+			going to walk back to the transporter 
+			pad and you're going to send me home.
+
+					O'BRIEN
+			Wait.  Hear me out.  I'm not asking 
+			for a lifetime commitment.  I just 
+			need you to finish the mission Sisko 
+			was on when he was killed.
+
+					SISKO
+			I'm sorry, but you're going to have 
+			to find someone else.  I don't belong 
+			here and I'm not about to interfere 
+			with events in this universe.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE          7.
+
+8  CONTINUED:	(3)
+
+					O'BRIEN
+			At least let me tell you about the 
+			mission.  And then if you decide you 
+			don't want to help, I'll send you 
+			home.
+
+	Sisko nods.
+
+					O'BRIEN
+			There's a Terran scientist working 
+			for the Alliance.  According to our 
+			sources, she's close to completing a 
+			new transpectral sensor array that 
+			will allow the Alliance to locate 
+			our bases in the Badlands.  Without 
+			a safe place to hide, the Alliance 
+			will be able to track us down and 
+			kill us all.
+
+					SISKO
+			So you want me to make sure this 
+			scientist never finishes her project.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE          8.
+
+8  CONTINUED:	(4)
+
+					O'BRIEN
+			Captain Sisko was convinced he could 
+			change her mind, get her to work for 
+			us instead.
+
+					SISKO
+			How did he plan to do that?
+
+					O'BRIEN
+			She was his wife.
+
+	Off Sisko's surprised reaction, O'Brien hands Sisko a battered 
+	PHOTO.
+
+9    NEW ANGLE
+
+	To include the PHOTO, a passport style shot of the Terran 
+	Scientist.  It's JENNIFER SISKO.
+
+					SISKO
+			Jennifer.
+
+					O'BRIEN
+			You know her?
+
+					SISKO
+			She was my wife, too.  But in my 
+			universe, she's dead.
+
+					O'BRIEN
+			Not here she isn't.  Not yet, anyway.
+
+					SISKO
+			What do you mean "not yet?"
+
+					O'BRIEN
+			If you don't convince Professor Sisko 
+			to join our cause, we'll have no 
+			choice but to kill her.
+
+					SISKO
+			Kill her?
+
+					O'BRIEN
+			We can't allow her to finish the 
+			sensor array.  It'd mean the end of 
+			the rebellion.
+
+	Sisko reacts, looking down at Jennifer's picture.  After a 
+	long beat, Sisko finally responds, never taking his eyes off 
+	the picture.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         8A.
+
+9  CONTINUED:
+
+					SISKO
+			I can't let her die.  Not again.
+
+					O'BRIEN
+			You're the only one who can save 
+			her.
+
+	Sisko finally looks up at O'Brien.  And off this moment...
+
+10   EXT. SPACE (OPTICAL)
+
+	Terok Nor (the Mirror Universe's equivalent of Deep Space 
+	Nine) in orbit around Bajor.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT ONE       9.
+
+11   INT. KIRA'S QUARTERS
+
+	The mirror KIRA is lounging on floor cushions, her back 
+	cradled against the muscular chest of a handsome young Terran 
+	slave.  Her Vulcan Eunuchs fan her while the slave feeds 
+	her delicate morsels of food with his hands.  A second slave, 
+	this one female, is sitting on the other side of her, holding 
+	a bowl of food.
+
+					KIRA
+			Delectable.
+
+	Kira slowly turns her head and the female slave reaches out 
+	and delicately wipes Kira's lips with a napkin.  Kira gives 
+	her a soulful smile.
+
+					KIRA
+			And so are you.
+
+	But before Kira can elaborate, the door chimes.  Kira's been 
+	expecting this.  She smiles.
+
+					KIRA
+			Enter.
+
+	The door opens and...
+
+12   NEW ANGLE
+
+	A Terran woman ENTERS.  It's Sisko's wife, JENNIFER.  She's 
+	dressed severely and has a solemn, taciturn disposition.
+
+					JENNIFER
+			Mister Garak said you wanted to see 
+			me?
+
+					KIRA
+			That's right... Come... join us.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT ONE      10.
+
+12  CONTINUED:
+
+	But Jennifer stays where she is.
+
+
+					JENNIFER
+			If you're wondering when the new 
+			sensor array will be finished, the 
+			answer is--
+
+					KIRA
+				(finishing for her)
+			As soon as possible.  I know.
+
+					JENNIFER
+			Will that be all?
+				(off Kira's reaction)
+			I have to get back to work.
+
+	Kira stands up and approaches Jennifer.
+
+					KIRA
+			I have news about your husband.
+
+					JENNIFER
+			Nothing you could tell me about Ben 
+			would interest me.  I haven't even 
+			seen him in five years.
+
+					KIRA
+			I know that.  And I hope that will 
+			make this easier for you.  You see... 
+			Benjamin is dead.
+
+	Jennifer betrays no feeling whatsoever.
+
+					JENNIFER
+			Can I go now?
+
+					KIRA
+			You must've loved him very much to 
+			be so angry with him.  To have 
+			become... so cold.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT ONE      11.
+
+12  CONTINUED:	(2)
+
+					JENNIFER
+			Were other Terrans killed with him?
+
+					KIRA
+			A whole ship full.
+
+	Now we see a sense of sadness in Jennifer.
+
+					JENNIFER
+			All this killing.  It has to stop.
+
+					KIRA
+			And it will.  As soon as you complete 
+			your transpectral sensors.  Once we 
+			locate the rebel bases, we can disarm 
+			them and put an end to all this 
+			bloodshed.  And I can resume pressing 
+			the Alliance to be more reasonable 
+			to its Terran population.
+
+	Jennifer clearly doesn't have much hope for that, but ending 
+	the Rebellion is reason enough for her to continue her 
+	project.
+
+					KIRA
+				(continuing)
+			You do believe me, don't you?
+
+	Kira smiles warmly at Jennifer.
+
+13   EXT. SPACE (OPTICAL)
+
+	The Raider maneuvers through a Badland plasma storm.
+
+14   INT. RAIDER - CORRIDOR
+
+	The Mirror O'Brien escorts Sisko back to the transporter.  
+	Sisko is now dressed like his Mirror Universe counterpart.  
+	They pass some crewmembers, who salute him.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         12.
+
+14  CONTINUED:
+
+					SISKO
+			So it's agreed.  I help you get 
+			Jennifer away from the Alliance, 
+
+			then you send me home.
+
+					O'BRIEN
+			You get us Jennifer and we'll do 
+			anything you want.  I just hope you 
+			can convince her to leave Terok Nor.
+
+					SISKO
+			I don't understand what she's doing 
+			helping the Alliance in the first 
+			place.  I mean, didn't she know Sisko 
+			was leading the Rebellion?
+
+					O'BRIEN
+			Oh, she knew.
+				(a beat)
+			The truth is... She and Captain Sisko 
+			didn't get along too well.  But then 
+			again, the captain didn't really get 
+			along with anyone.
+
+15   NEW ANGLE
+
+	They reach the transporter pad.
+
+					O'BRIEN
+			In some ways I think the rebellion's 
+			better off without him.  Don't get 
+			me wrong, the captain knew how to 
+			fight... but that's about all he 
+			knew.
+
+	O'Brien sets up the transporter.
+
+					O'BRIEN
+			Ready?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         13.
+
+15  CONTINUED:
+
+					SISKO
+			You don't look very confident, 
+			Chief...
+
+					O'BRIEN
+			You better start calling me Smiley.  
+			That's what the Captain called me.
+
+					SISKO
+			All right... "Smiley."
+
+					O'BRIEN
+			I just wish we had more time to get 
+			you ready.  I probably haven't told 
+			you half of what you need to know.  
+			I hope you don't run up against too 
+			many surprises.
+
+	Sisko steps onto the transporter pad.
+
+					SISKO
+			If I do, I guess I'll just have to... 
+			improvise.
+
+	Sisko smiles.  O'Brien joins Sisko on the pad and they beam 
+	out.
+
+16   INT. CAVES - MAIN CHAMBER
+
+	The central meeting hall for Sisko's group of rebels.  There 
+	are a number of familiar faces in the crowd.  One or two 
+	supernumeraries we've seen before on Deep Space Nine, the 
+	scarred privateer from "CROSSOVER," and a hardened, heavily
+	armed professional soldier named ROM.
+
+	The rebels are in the middle of a vociferous argument, with 
+	one faction lead by JULIAN BASHIR and the other by TUVOK, 
+	the Vulcan from "VOYAGER."  They're a stark contrast in 
+	styles.  Tuvok is a coldly logical soldier, and Bashir's a 
+	hothead with a scruffy four days growth of beard and a 
+	permanent bad attitude.
+
+					BASHIR
+				(to all)
+			I told Sisko he'd never get close to 
+			Terok Nor, and I was right.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/03/95 - ACT ONE      14.
+
+16  CONTINUED:
+
+					ROM
+			I say we teach the Alliance a lesson.  
+			Throw everything we've got at Terok 
+			Nor and rip it to pieces.
+
+					TUVOK
+			I disagree.  Following your suggestion 
+			would do nothing to enhance our goals 
+			and would result in a significant 
+			loss of life.
+
+					ROM
+			That's easy for you to say.  Those 
+			Cardassian pigs didn't kill your 
+			brother.
+
+					TUVOK
+			We have all suffered losses at the 
+			hands of the Alliance.  Nonetheless, 
+			logic dictates caution in the face 
+			of a superior enemy.
+
+					ROM
+			Logic isn't going to win us our 
+			freedom.  We have to take action.
+
+					BASHIR
+			And we will.  But this time we do it 
+			my way.
+
+					TUVOK
+			And what do you propose we do?
+
+					BASHIR
+			We smuggle explosives on board the 
+			station, plant them in her quarters, 
+			and detonate them.
+
+					TUVOK
+			You realize it's highly unlikely 
+			that anyone assigned to such a mission 
+			would survive.
+
+					BASHIR
+			I say it's worth the risk.
+
+					SISKO (O.S.)
+			Does that mean you're volunteering 
+			for the job?
+
+	Rom, Tuvok, and the other Rebels turn in surprise at the 
+	sound of Sisko's voice.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         15.
+
+17   NEW ANGLE
+
+	To reveal Sisko, ENTERING with a swagger, flanked by O'Brien 
+	and Bashir.  The rebels react with surprise and happiness at 
+	Sisko's arrival.
+
+					REBELS
+				(ad lib)
+			Captain... You're back... Where have 
+			you been... Captain Sisko...
+
+					ROM
+			Captain, you're alive.
+
+	For a beat, Sisko's a little taken aback at seeing the mirror 
+	counterparts of Rom and Bashir.  O'Brien, seeing Sisko's 
+	hesitation, steps in.
+
+					O'BRIEN
+			Of course he's alive.  You can't 
+			kill the Captain.  He's too ornery 
+			to die.
+
+	Sisko picks up on O'Brien's cue and snaps into the Captain 
+	Sisko role.
+
+					SISKO
+				(re: Bashir)
+			I hope I haven't disappointed anyone.
+
+					BASHIR
+				(with some reluctance)
+			We're glad you're all right.
+
+					SISKO
+			I'm sure you are.
+
+					TUVOK
+			We heard your fighter had been 
+			destroyed.  The Alliance said you 
+			were dead.
+
+					SISKO
+			Just their propaganda machine, working 
+			overtime.  But you know what that 
+			tells me?
+				(smiles)
+			They're scared.
+
+	The smiles and affirmations from the crowd show that they 
+	agree with him.  Sisko's only been back a few seconds, and 
+	he's already got them in the palm of his hand.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE        15A.
+
+17  CONTINUED:
+
+					SISKO
+			And we're going to give them plenty 
+			of reasons to stay scared.
+
+	Just then someone pushes through the crowd toward Sisko.  
+	It's JADZIA DAX.
+
+					DAX
+			It's about time you came back.
+
+	This Dax is an aggressive rebel leader, even more roguish 
+	than her counterpart in our universe.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT ONE         16.
+
+17  CONTINUED:	(2)
+
+					SISKO
+				(covering his surprise)
+			Jadzia.
+
+	She pushes her way toward him, throws her arms around his 
+	neck, and gives him a passionate kiss.
+
+					DAX
+			That's to let you know I missed you.
+
+	Dax then steps back and slaps Sisko across the face.
+
+					DAX
+			And that's for letting me think you 
+			were dead.
+
+	Sisko smiles and rubs his cheek.
+
+					SISKO
+			Glad to see you still care.
+
+	Dax smiles, then turns and walks away.  She looks back at 
+	Sisko.
+
+					DAX
+			You coming or not?
+
+	All the rebels grin as Dax walks out of the room.  The scarred 
+	privateer gives Sisko a man-bonding pat on the back.  Sisko 
+	takes O'Brien aside.
+
+					SISKO
+				(sotto voce)
+			I thought you said I was married.
+
+					O'BRIEN
+			You are... technically.  She's your 
+			mistress.
+
+					SISKO
+			I see what you meant by surprises.
+
+	And as Sisko tries to decide what to do next, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT TWO      17.
+                            ACT TWO                             
+
+	FADE IN:
+
+18   INT. CAVES - PRIVATE CHAMBER
+
+	Dax pushes aside a tapestry hanging in front of a tunnel and 
+	ENTERS a small cavern room that's been converted into a 
+	private sleeping area.  She turns to the entranceway and as 
+	Sisko ENTERS, she pulls off her shirt, leaving only her 
+	undershirt.  She's very matter-of-fact and obviously 
+	comfortable with Sisko.  They've been here before.
+
+					DAX
+			I really am glad you're alive.
+
+	She walks over to him and begins unbuttoning his shirt.
+
+					DAX
+			And I'm going to make you glad you're 
+			alive, too.
+
+	He grabs her wrists as if to stop her.
+
+					SISKO
+			We have a lot of planning to do.
+
+	Dax looks at him like he's insane.
+
+					DAX
+			It can wait.
+
+	Sisko realizes he's in danger of blowing his cover.  There's 
+	no way out of this; he has to play his part.  He lets go of 
+	her wrists.
+
+					SISKO
+			I suppose it can at that.
+
+	And as she smiles and presses up against him...
+
+									CUT TO:
+
+19   INT. INTENDANT'S OFFICE
+
+	Kira disdainfully hands Garak a PADD.
+
+					KIRA
+			These progress reports are 
+			unacceptable.  Productivity in the 
+			Ore Processing Center is down fifteen 
+			percent.  We've got to do better.
+				(glares at him)
+			Or are you purposely trying to make 
+			me look bad to Sector Command?
+
+   DEEP SPACE: "Through... Glass" - REV. 02/02/95 - ACT TWO 17-18.      
+
+19  CONTINUED:
+
+					GARAK
+			Not at all.  I've done everything I 
+			can think of to motivate the workers.
+
+					KIRA
+			Such as?
+
+					GARAK
+			Bribes... torture... I've even given 
+			the overseers permission to execute 
+			any worker who's not meeting the 
+			quota.
+
+					KIRA
+			I'm sure that pleases the overseers, 
+			but it's not getting the job done.
+				(thinks a beat, then... )
+			Come with me.
+
+	She EXITS.  He follows her.
+
+20   OMITTED 
+
+21   INT. ORE PROCESSING CENTER (OPTICAL)
+
+	As hellish and dark as when we saw it in "CROSSOVER." Terran 
+	laborers work in terrible conditions to process the dirty 
+	ore.
+
+	Kira and Garak ENTER, and are immediately joined by a 
+	Cardassian overseer and two Bajoran guards.  Kira looks around 
+	at the hellish squalor, then points at three random workers.
+
+					KIRA
+			Lets start with...
+				(pointing at each)
+			Him, him, and her.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO         20.
+
+21   CONTINUED:
+
+					GARAK
+			And do what?
+
+					KIRA
+			Execute them.
+				(off his reaction)
+			I think you'll find that random and 
+			unprovoked executions will keep your 
+			entire workforce alert and motivated.
+
+	There's a beat as Garak reflects on these words of wisdom.
+
+					GARAK
+				(smiles)
+			I bow to your brilliance.
+
+	Garak turns to the overseer and his assistants, who begin 
+	rounding up the victims.
+
+					GARAK
+				(continuing, to Kira)
+			Though I hope your mood improves 
+			before we run out of workers.
+
+					KIRA
+			What does my mood have to do with 
+			anything?
+
+					GARAK
+			If you don't mind my saying so, I 
+			have noticed a certain amount of ill-
+			humor on your part lately.
+
+					KIRA
+			I don't know what you're talking 
+			about.
+
+					GARAK
+			As I recall, it began about the time 
+			you learned of Captain Sisko's death.
+
+					KIRA
+			Why would I be upset by such 
+			delightful news?
+
+					GARAK
+			I was always under the impression 
+			that you were rather fond of him.
+
+					KIRA
+			Then you were mistaken.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/03/95 - ACT TWO      21.
+
+21   CONTINUED:	(2)
+
+					GARAK
+			I will say one thing for him.  He 
+			had spirit.
+
+					KIRA
+			Too much spirit can be a dangerous 
+			thing.  It tends to infect others.
+
+	In the background, the overseer finishes rounding up the 
+	workers chosen by Kira.
+
+					GARAK
+			At least that's something we won't 
+			have to worry about anymore.  With 
+			Sisko's death, and the imminent 
+			completion of the transpectral sensor 
+			array, the Rebellion is certain to 
+			collapse.
+
+					KIRA
+			You sound very sure of yourself.
+
+					GARAK
+			I am.
+
+					KIRA
+			I'll remember that.  That way if the 
+			Rebellion continues, I'll know who 
+			to blame.
+
+	In the background, the guards execute the workers.  Kira 
+	EXITS.
+
+22   INT. CAVES - PRIVATE CHAMBER
+
+	Dax is lounging on the sleeping cushion.  Sisko is studying 
+	a PADD.
+
+					SISKO
+			Are you sure these Alliance patrol 
+			patterns are accurate?
+
+					DAX
+			You tell me.  You're the one who 
+			gathered the information.
+
+					SISKO
+				(covering)
+			Oh, that's right.
+
+					DAX
+			Are you okay?  You seem distracted.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO        21A.
+
+22   CONTINUED:
+
+					SISKO
+			Just thinking.
+
+					DAX
+			I've been thinking, too.  You know, 
+			we've been fighting against the 
+			Alliance for almost a year now.  And 
+			what has it gotten us?  Nothing.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/02/95 - ACT TWO      22.
+
+22   CONTINUED:	(2)
+
+					DAX (Cont'd)
+				(a beat)
+			Sometimes I feel we were better off 
+			when we were collecting tribute for 
+			the Intendant.
+
+					SISKO
+			Those days are gone.
+
+					DAX
+			Maybe... but I'm tired of living 
+			like this.  The rebellion's a lost 
+			cause and we both know it.
+
+					SISKO
+			Don't you want to see the Terrans 
+			gain their freedom?
+
+					DAX
+			Have you taken a good look at your 
+			troops lately?  They're nothing but 
+			ex-slaves with delusions of grandeur.  
+			They'll never overthrow the Alliance.
+				(urgent)
+			Let's just take a ship and go... 
+			Forget all about the rebellion.
+
+					SISKO
+			I'm not ready to give up just yet.
+
+					DAX
+			It's not like you're going to have 
+			much of a choice... once that witch 
+			you married finishes her new sensor 
+			array, Alliance ships are going to 
+			be all over these Badlands.  We'll 
+			have no place to hide.
+
+					SISKO
+			Then I suppose we'd better make sure 
+			she doesn't finish.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/02/95 - ACT TWO      23.
+
+23   INT. CAVES - MAIN CHAMBER
+
+	Sisko has gathered together his lieutenants for a strategy 
+	session.  In addition to O'Brien, Dax, and Bashir, Rom and 
+	Tuvok are also present.
+
+					SISKO
+			Trying to reach Terok Nor using small 
+			fighters didn't work.  But we need 
+			to get Jennifer off that station, 
+			and we need to do it soon.
+
+					BASHIR
+			We've been meaning to talk to you 
+			about that.
+
+					TUVOK
+			Mister Bashir is not convinced that 
+			you can persuade your former mate to 
+			join our cause.
+
+					SISKO
+			I can be very persuasive.
+
+					BASHIR
+			Look, I don't even know why we're 
+			bothering to discuss this.  The 
+			Cardassians destroyed your ship before 
+			you even got close to Terok Nor.
+
+			BASHIR					O'BRIEN
+		(overlapping				(overlapping, 
+		with O'Brien)				aside to Sisko)
+	And even if you had made 		Hit him.
+	it there, there was no				(off reaction)
+	guarantee you could've 			That's what the Captain 
+	convinced your wife of 			would do.
+	anything.						(pushing)
+		(a beat)				Go on, hit him.
+	Let's face it, Captain, the 
+	woman hates you.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO         24.
+
+23   CONTINUED:
+
+	Without missing a beat, Sisko decks Bashir.  Bashir lands 
+	on his butt.  Everyone smiles like this is an everyday 
+	occurrence.  Sisko stands over Bashir.
+
+					SISKO
+			What my wife thinks of me is no 
+			concern of yours.
+
+	Dax draws her phaser and casually looks around the room.
+
+					DAX
+			Anyone else want to disagree with 
+			the captain?
+
+					SISKO
+			Put it away, Dax.
+				(off her surprised 
+				look)
+			Go on, put it away.
+
+	Bashir seems emboldened by this more reasonable Sisko.
+
+					BASHIR
+			No one's questioning your authority, 
+			Captain.  But we've got to stop your 
+			wife before she finishes that sensor 
+			array.
+
+					ROM
+			And there's only one sure way to do 
+			that.
+
+					BASHIR
+			We have to kill her.
+
+					O'BRIEN
+				(to Bashir)
+			You've been saying that all along.
+
+					BASHIR
+			And maybe it's time he listened.
+
+	Dax hates to agree with Bashir, but he does make sense.
+
+					DAX
+				(to Sisko)
+			Killing her would be a lot easier 
+			than trying to get her away from the 
+			Alliance.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT TWO      25.
+
+23   CONTINUED:	(2)
+
+					O'BRIEN
+			Easier... but not smarter.  If she's 
+			so important to the Alliance, think 
+			how important she'd be to us.  I 
+			mean, we could use a scientist on 
+			our side.
+
+					SISKO
+			You tell them, Smiley.  At least 
+			someone here is using their brain.
+
+					O'BRIEN
+			Think about it.  Who knows what other 
+			weapons the Alliance is developing.  
+			Someone like Professor Sisko could 
+			counteract anything they come up 
+			with.
+
+					SISKO
+			She's valuable to us.  We need her.
+				(a beat, glowering)
+			Now, does anyone disagree?
+
+	No one has a problem.
+
+					SISKO
+			Good, then let's get to work.
+
+       DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT TWO      26.
+
+24   EXT. SPACE (OPTICAL)
+
+	Terok Nor.  Re-establishing.
+
+25   INT. KIRA'S QUARTERS
+
+	Kira is laying on a table, getting a massage from one of her 
+	Vulcan eunuchs while the other plays a traditional Vulcan 
+	harp.  Garak stands before her.  And next to Garak stands... 
+	Rom.
+
+					GARAK
+			Tell the Intendant what you told me.
+
+					ROM
+			It's about Captain Sisko.
+
+	This gets Kira's attention.
+
+					KIRA
+			Sisko?
+
+					ROM
+			He's alive.  He was able to get off 
+			his ship before it exploded.
+
+	Kira looks accusingly at Garak.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT TWO         27.
+
+25   CONTINUED:
+
+					GARAK
+			I suppose it's possible.
+
+					ROM
+			It's more than possible.  It's true.
+				(grins evilly)
+			But I can tell you how to get your 
+			hands on him.  If you're interested.
+
+	Hold on Kira, looking very interested indeed.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        28.
+                           ACT THREE                            
+
+	FADE IN:
+
+26   INT. RAIDER - COCKPIT
+
+	O'Brien and Sisko are at the controls of the rebel ship.  
+	Sisko, now that he's alone with O'Brien, has dropped the 
+	Captain Sisko persona.  O'Brien looks apprehensive.  He 
+	scratches behind his ear.
+
+					SISKO
+			Don't do that.
+
+					O'BRIEN
+			I can't help it.  It itches.
+				(scratches a little)
+			I hope this works.
+
+					SISKO
+			It'll work.  Just stop scratching.
+
+	O'Brien forces himself to stop scratching behind his ear.
+
+					O'BRIEN
+			You know, you did pretty good back 
+			there.  I don't think anyone suspected 
+			you weren't Captain Sisko.
+				(a beat)
+			At least not once you hit Bashir.
+
+					SISKO
+			But you and I both know that was 
+			just a warm up.  Jennifer's the one 
+			I really have to convince.
+
+					O'BRIEN
+			I guess seeing her isn't going to be 
+			easy for you.  How long's it been 
+			since your wife died?
+
+					SISKO
+			Five years.
+
+					O'BRIEN
+			Well just remember... Jennifer may 
+			look like your wife, but she's not.  
+			She's a different person.
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        29.
+
+26   CONTINUED:
+
+					SISKO
+			I'll try to remember that.
+				(a beat)
+			Do you have any idea what went wrong 
+			between her and Captain Sisko?
+
+					O'BRIEN
+			From what I heard, they never 
+			should've been together in the first 
+			place.  I mean she came from one of 
+			the few privileged Terran families, 
+			people who "cooperated" with the 
+			Alliance, and the captain... he fought 
+			his way up from the mines.
+
+					SISKO
+			So what's she like, this Jennifer?
+
+					O'BRIEN
+			I wouldn't know.  They separated 
+			before I met the captain.
+				(a beat)
+			What was your Jennifer like?
+
+					SISKO
+			She was the kindest, most caring 
+			person I ever knew.
+
+					O'BRIEN
+				(a word of advice)
+			I wouldn't get my hopes up.
+
+	Suddenly O'Brien reacts to something on the panel.
+
+					O'BRIEN
+				(continuing, off 
+				console)
+			Hold on.  I'm reading a slight energy 
+			distortion in subspace.
+
+	This obviously means something to Sisko.
+
+					SISKO
+			What are the coordinates?
+
+					O'BRIEN
+				(alarmed)
+			It's coming from all around us.
+
+	Just then...
+
+      DEEP SPACE: "Through... Glass" - REV. 02/10/95 - ACT THREE     30.
+
+27   EXT. SPACE (OPTICAL)
+
+	A Cardassian and a Klingon ship uncloak, surrounding the rebel 
+	ship.
+
+28   INT. RAIDER - COCKPIT
+
+	Sisko and O'Brien know there isn't much hope for escape.
+
+					O'BRIEN
+			You know, Captain Sisko would've 
+			tried to fight his way out of this.
+
+					SISKO
+			Be glad I'm not him.
+
+	And as they await their fate...
+
+									CUT TO:
+
+29   INT. TEROK NOR - AIRLOCK CORRIDOR
+
+	Kira, Garak and two Klingon Soldiers wait outside an airlock 
+	in the Docking Ring Corridor.  Kira is like a coiled spring.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/10/95 - ACT THREE     31.
+
+29   CONTINUED:
+
+	The airlock door rolls open and Sisko and O'Brien ENTER, 
+	flanked by three Bajoran soldiers.
+
+					KIRA
+			Well, if it isn't the notorious 
+			"Captain" Sisko and his friend the 
+			Tinkerer.
+
+	Before anyone can prevent it, Sisko steps forward, takes 
+	Kira into his arms, and gives her a roguish kiss.
+
+					SISKO
+			It's good to see you, too, Intendant.
+
+					KIRA
+			Still the same old Benjamin.
+
+					SISKO
+			You wouldn't have me any other way.
+
+					KIRA
+			Perhaps not.  But I'm still going to 
+			kill you.
+
+					SISKO
+			Maybe.  But not right away.
+
+					KIRA
+			You flatter yourself.
+
+					SISKO
+			Not unjustly, I hope.
+
+					GARAK
+				(to Kira)
+			Intendant, let me teach him some 
+			manners.
+
+					KIRA
+			All in good time.
+				(a beat)
+			But first, whatever shall we do 
+			about O'Brien?
+				(approaches him)
+			I remember when I first saw you, 
+			Tinkerer.  You were fixing something.
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        32.
+
+29   CONTINUED:	(2)
+
+	O'Brien just averts his eyes.  Being in Kira's presence 
+	has made him revert to the same downtrodden slave we saw in 
+	"CROSSOVER."
+
+					KIRA
+			You were always fixing things... 
+			making things better.  And everyone 
+			loved you for it.
+				(a beat)
+			Even me.
+				(hardens)
+			But that wasn't enough for you, was 
+			it?  You couldn't be happy, staying 
+			here, being loved.  You had to lash 
+			out, to betray everyone who was ever 
+			good to you.  Why?
+
+	O'Brien finally looks her in the eye.
+
+					O'BRIEN
+			I wanted to be free.
+
+					KIRA
+			Free?
+				(cold)
+			You're a Terran.  You were born a 
+			slave.  And you'll die a slave.
+				(to a guard)
+			Take him to ore processing.  Remind 
+			him where he belongs.
+
+	One of the Bajoran soldiers escorts O'Brien away.
+
+					GARAK
+			What about Sisko?
+
+	Kira thinks about it for a beat, then...
+
+					SISKO
+				(to Garak)
+			Bring me to the Intendant's quarters.  
+			She'll decide what to do with me.
+
+	Garak loses his cool.
+
+					GARAK
+			Of all the impudent...
+
+					KIRA
+				(interrupting)
+			Do as he says.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE     33.
+
+					GARAK
+			Intendant.  I demand you...
+
+	Garak trails off.
+
+					KIRA
+			You... "demand?"
+
+	Garak realizes he's overstepped his bounds.
+
+					GARAK
+				(almost whining)
+			But you promised me he'd die.
+
+					KIRA
+			And he will... When I say so, and 
+			not a moment sooner.
+
+	Kira turns and walks away.  Sisko turns to Garak and gestures 
+	that they should follow her.
+
+					SISKO
+			Shall we?
+
+					GARAK
+				(with contempt)
+			After you.
+
+30   INT. KIRA'S QUARTERS
+
+	Sisko's kicking back in one of the couches, looking like he 
+	doesn't have a care in the world.  Kira studies him.
+
+					KIRA
+			I really don't know what to do with 
+			you.
+
+					SISKO
+			I sympathize.  It's a difficult 
+			decision.
+				(smiles)
+			But you'll come up with something.
+
+					KIRA
+			The only reason I can think of to 
+			keep you alive is to infuriate Garak.
+
+					SISKO
+			What better reason do you need?
+
+  DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE 34-35.     
+
+30   CONTINUED:
+
+					KIRA
+			Suppose I let you live... What would 
+			I get from you in return?
+
+					SISKO
+			What do you want?
+
+					KIRA
+			Your loyalty.  That's all I've ever 
+			wanted.  For you to be at my side... 
+			to be my strong right hand.  But I'm 
+			afraid I'll never be able to trust 
+			you again.
+				(making a decision)
+			Which means I'll have to dispose of 
+			you eventually.  The only question 
+			is, should it be sooner, or later.
+
+					SISKO
+			Do I get a vote?
+
+					KIRA
+			Of course you do.
+				(a beat)
+			It just doesn't count.
+
+	She looks at him, weighing her options.
+
+					KIRA
+			I'd better think this over.
+
+					SISKO
+			You will let me know what you decide?
+
+					KIRA
+			I wouldn't dream of keeping it a 
+			secret.
+
+31
+thru   OMITTED 
+32
+
+33   EXT. SPACE (OPTICAL)
+
+	Terok Nor.  Re-establishing.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE     36.
+
+34   INT. GUEST QUARTERS
+
+	Sisko is seated in some sparsely furnished guest quarters, 
+	probably wondering exactly how he let himself get into this 
+	situation.
+
+	The door opens and Garak ENTERS with Jennifer.  For a second, 
+	upon seeing Jennifer, Sisko's composure cracks and he drops 
+	his role.
+
+					SISKO
+			Jennifer.
+
+					JENNIFER
+				(cold)
+			Hello, Ben.
+				(to Garak)
+			Please leave us.
+
+					GARAK
+			And miss this happy reunion?
+
+					SISKO
+			You heard her.
+
+	Garak considers mixing it up with Sisko, then thinks better 
+	about it.
+
+					GARAK
+				(to Jennifer)
+			If you need someone to beat him into 
+			submission for you, don't hesitate 
+			to call me.
+
+	Garak EXITS.
+
+35   NEW ANGLE
+
+	On Jennifer and Sisko.
+
+					JENNIFER
+			All right, I'm here.  What did you 
+			want to see me about?
+
+					SISKO
+			I was hoping we could talk.
+
+					JENNIFER
+			Really?  You never seemed interested 
+			in talking to me when we were married.
+
+					SISKO
+			I made a lot of mistakes back then.
+
+      DEEP SPACE: "Through... Glass" - REV. 02/08/95 - ACT THREE    36A.
+
+35   CONTINUED:
+
+					JENNIFER
+			Save the apologies Ben.  They're not 
+			going to work.  You are without a 
+			doubt, the most insensitive, self-
+			absorbed, egotistical...
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        37.
+
+35   CONTINUED:	(2)
+
+					SISKO
+				(interrupting)
+			You've made your point.
+
+					JENNIFER
+			I doubt it.  You never listened to 
+			me before.  You were too busy trying 
+			to impress every woman who crossed 
+			your path.
+
+					SISKO
+			Where there really that many?
+
+	Her look says there were.
+
+					JENNIFER
+			There were enough.
+				(a beat)
+			And if it wasn't women, it was that 
+			ship of yours.  Sometimes I think it 
+			was the only thing you ever loved.
+
+					SISKO
+			Maybe I loved you both.
+
+					JENNIFER
+			Then why did you leave me to run off 
+			and play pirate for the Intendant?
+
+					SISKO
+			That's a good question.
+
+					JENNIFER
+			And now this Rebellion of yours.
+				(a beat)
+			Do you know how many deaths you've 
+			caused?  How much destruction?
+
+					SISKO
+			I'm fighting to help free our people.
+
+					JENNIFER
+			You're fighting because you like to 
+			fight, Benjamin.
+
+        DEEP SPACE: "Through... Glass" - 02/02/95 - ACT THREE        38.
+
+35   CONTINUED:	(3)
+
+					JENNIFER
+			All you've accomplished is to give 
+			the Alliance an excuse to treat the 
+			Terrans even worse than before.
+				(a beat)
+			I only hope that with your capture, 
+			the Rebellion can be ended peacefully.
+
+					SISKO
+			Who said I'd been captured?
+
+					JENNIFER
+			Oh, I suppose you came here just to 
+			see me?
+
+					SISKO
+				(with simple sincerity)
+			Actually, I came here to rescue you.
+
+	And on Jennifer's surprised reaction, we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        39.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   INT. GUEST QUARTERS (CONTINUOUS)
+
+	As before.  Jennifer reacts to Sisko's statement.
+
+					JENNIFER
+			Rescue me?
+
+					SISKO
+			That's what I said.
+
+					JENNIFER
+			I'm not going anywhere with you.
+
+					SISKO
+			You can't stay here.
+
+					JENNIFER
+			I have a job to finish.
+
+					SISKO
+			You mean the sensor array?
+
+					JENNIFER
+			That's right.
+
+					SISKO
+			Jennifer, if you finish that array 
+			you'll destroy any hope our people 
+			have for a better future.  I don't 
+			think you want that.
+
+					JENNIFER
+			All I want is to put an end to all 
+			this fighting.  To force the rebels 
+			to seek a peaceful settlement with 
+			the Alliance.
+
+					SISKO
+			It's not that simple.  The Alliance 
+			isn't interested in a peaceful 
+			settlement.  If we lay down our arms, 
+			we'll be killed.
+
+					JENNIFER
+			The Rebellion is killing people every 
+			day.  It has to stop.
+
+					SISKO
+			Not this way.  Not with the Terrans 
+			still at the mercy of the Alliance.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        40.
+
+36   CONTINUED:
+
+					SISKO
+				(a beat)
+			They're your own people, Jennifer.
+
+					JENNIFER
+			You've got no right to talk to me 
+			like that.  Since when do you care 
+			about what happens to "our           
+			people?"  You've never cared about 
+			anyone but yourself.
+
+	But to Jennifer's surprise, this doesn't get a rise out of 
+	Sisko.
+
+					SISKO
+			Maybe I've changed in the past few 
+			years.
+
+					JENNIFER
+				(a bitter smile)
+			How many times have I heard you say 
+			that?
+
+	A beat as Sisko realizes just how deeply hurt Jennifer must 
+	have been by the other Sisko.
+
+					SISKO
+			I guess I was a pretty lousy husband.
+
+					JENNIFER
+				(with an edge)
+			You guess?
+
+					SISKO
+			Look, I know it's too late for an 
+			apology...
+
+					JENNIFER
+				(jumping in)
+			You're right about that.
+
+					SISKO
+			But for what it's worth, I'm sorry.
+
+	Jennifer looks at Sisko in surprise.
+
+					SISKO
+			What is it?
+
+					JENNIFER
+			For a second, I almost believed you.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        41.
+
+36   CONTINUED:	(2)
+
+	Jennifer turns away from Sisko and stares off into the 
+	distance.
+
+					JENNIFER
+			You know what I wish?
+				(off his look)
+			I wish I'd never met you.
+
+					SISKO
+			And I wish things could've been better 
+			between us.  But this isn't about 
+			us.
+
+	Sisko pauses as he realizes something.
+
+					SISKO
+			Or is it?
+				(off her reaction)
+			Why are you working for the Alliance?  
+			Is it because you believe in what 
+			they're doing or is it something 
+			else?
+
+					JENNIFER
+			I don't know what you're talking 
+			about.
+
+					SISKO
+			I think you and I have been fighting 
+			each other for so long that you've 
+			gotten used to us being on opposite 
+			sides.  But I'm not the enemy this 
+			time, Jennifer.  The Alliance is.
+
+					JENNIFER
+			The Alliance is your enemy.  Not 
+			mine.
+
+					SISKO
+			That's where you're wrong.  Don't 
+			you see, you're no different than 
+			the slaves working in the Ore 
+			Processing Center.  In fact, you 
+			might be even worse off.  At least 
+			they know they're prisoners.
+
+	This time Sisko's gotten through to her.  Jennifer deflates 
+	a little.
+
+					JENNIFER
+			And what if I am a prisoner?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR       41A.
+
+36   CONTINUED:	(3)
+
+					SISKO
+			You don't have to be.  You can fight 
+			back.  Come with me, Jennifer.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        42.
+
+36   CONTINUED:	(4)
+
+					JENNIFER
+			You want me to join the Rebellion.
+
+					SISKO
+			The way I see it... Freedom is a lot 
+			better than slavery.
+
+	Jennifer looks appraisingly at Sisko for a long beat, but 
+	she still can't come to a decision.
+
+					SISKO
+			Think about it.
+
+	Sisko presses a spot behind his ear, three times in rapid 
+	succession.
+
+					JENNIFER
+			What are you doing?
+
+					SISKO
+			Sending a message.
+
+					JENNIFER
+				(surprised)
+			You've got a subdermal communicator?
+
+					SISKO
+			Courtesy of the Ferengi.  I hope it 
+			works.
+
+37   INT. ORE PROCESSING CENTER
+
+	O'Brien labors in the Ore Processing Center, carting ore 
+	into the smelter.  A Cardassian Overseer keeps a watchful 
+	eye on the workers.  As O'Brien passes close to the Overseer, 
+	he reaches behind his ear and touches the spot he was 
+	scratching earlier.  He smiles.
+
+					O'BRIEN
+				(to himself)
+			Took him long enough.
+
+	O'Brien moves to another part of the processing area.  Once 
+	he's out of sight of the Overseer, he goes to an access panel 
+	and pops it open.
+
+	O'Brien begins working on the circuitry inside the panel, 
+	when someone approaches him from behind.
+
+					CARDASSIAN OVERSEER
+			Terran, what are you doing down there?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        43.
+
+37   CONTINUED:
+
+					O'BRIEN
+			Re-routing the central ODN processor.  
+			Intendant's orders.
+
+	The Cardassian crouches down to get a better look at the 
+	panel.
+
+					CARDASSIAN OVERSEER
+			I don't recall receiving clearance 
+			for any repairs.
+
+	Suddenly, O'Brien lashes out and cold-cocks the Overseer.  
+	The Cardassian crumples to the ground.
+
+					O'BRIEN
+			You don't say?
+
+	O'Brien turns back to the panel and triggers something in 
+	the circuitry.  Suddenly the lights short out, things explode 
+	inside the ore processing equipment and the doors open.  
+	The workers and the two Bajoran guards stand around, not 
+	sure what's happening.
+
+38   NEW ANGLE (OPTICAL)
+
+	As O'Brien grabs the Overseer's phaser and shoots one of the 
+	Bajoran guards.  That wakes the workers up.  They begin 
+	swarming over the last guard, rapidly overwhelming them.
+
+					O'BRIEN
+				(addressing the workers)
+			All right, anyone who wants to get 
+			out of here, follow me.
+
+	O'Brien heads for the door, and with a cheer, the Terran 
+	workers follow him.
+
+39   INT. HABITAT RING CORRIDOR (OPTICAL)
+
+	Two Klingons stand guard in the corridor.  Suddenly the lights 
+	go down, and a half second later, the door opens and Sisko 
+	spins out.  The First Klingon barely has time to react before 
+	Sisko stops him cold with a one-two combination to the head.
+
+	The Second Klingon manages to draw his disruptor, but, before 
+	he can fire, Sisko retrieves the disruptor from the First 
+	Klingon and shoots the Second one.
+
+	As Jennifer ENTERS the corridor and looks at the unconscious 
+	Klingons, Sisko picks up the Second Klingon's disruptor.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        44.
+
+39   CONTINUED:
+
+	Jennifer stares at the weapons in Sisko's hands, almost 
+	as if she expects him to use them on her.
+
+					SISKO
+			I need an answer, Jennifer.  Are you 
+			coming with me or not?
+
+					JENNIFER
+			Do I have a choice?
+
+					SISKO
+			Of course you do.  If you want, you 
+			can go back to your quarters and 
+			forget we ever spoke.
+
+	She hesitates.  Sisko presses.
+
+					SISKO
+			It's up to you.
+
+	Jennifer thinks for a moment longer, then walks over to him.
+
+					JENNIFER
+			All right, but lets get one thing 
+			clear.
+
+					SISKO
+			What's that?
+
+					JENNIFER
+				(with a smile)
+			I still hate you.
+
+					SISKO
+				(with regret)
+			I know.
+
+	They head off together down the corridor.
+
+40   OMITTED
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        45.
+
+41   INT. HABITAT RING CORRIDOR
+
+	Sisko and Jennifer on the move.
+
+					JENNIFER
+			You still haven't told me where we're 
+			going.
+
+					SISKO
+			Airlock Seven.  There should be a 
+			ship waiting for us.  Providing we 
+			can get there before the security 
+			systems reactivate.
+
+	They turn a corner and almost run right into...
+
+42   THREE CARDASSIAN SOLDIERS (OPTICAL)
+
+	The Cardassians open fire.  Sisko and Jennifer duck back 
+	down the corridor.  A firefight ensues.  Sisko shoots one of 
+	the soldiers, but he and Jennifer are pinned down.
+
+					JENNIFER
+			Now what?
+
+      DEEP SPACE: "Through... Glass" - REV. 02/10/95 - ACT FOUR      46.
+
+					SISKO
+			I'll think of something.
+
+	Suddenly we hear the sound of more phaser fire.
+
+43   NEW ANGLE (OPTICAL)
+
+	To reveal O'Brien and the escaped Terrans coming up from 
+	behind the remaining Cardassian soldiers.  The two Cardassians 
+	are caught in a crossfire between Sisko and O'Brien and soon 
+	go down.
+
+					SISKO
+				(to Jennifer)
+			You see.  I told you I'd think of 
+			something.
+				(to O'Brien)
+			Good work, Smiley.
+
+					O'BRIEN
+			Yeah, but the problem is there's 
+			thirty more of them behind us.
+
+					SISKO
+			Then we'd better get to the airlock.
+
+	Sisko leads O'Brien, Jennifer and the rest of the Terrans 
+	away down a corridor.
+
+44   INT. AIRLOCK CORRIDOR
+
+	Sisko and the others move down the corridor.  They reach the 
+	airlock, only to stop in their tracks as they see Rom's dead 
+	body, hung spreadeagled across the airlock door.
+
+					JENNIFER
+			Something tells me that's not part 
+			of your plan.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FOUR        47.
+
+44   CONTINUED:
+
+	And as they all react to Rom's death, we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+45   INT. AIRLOCK CORRIDOR - CONTINUOUS (OPTICAL)
+
+	As Sisko and the others react to Rom's dead body.
+
+					O'BRIEN
+			We better find another way out of 
+			here.
+
+					SISKO
+			Got any suggestions?
+
+	Just then, a hail of phaser fire comes from down the hall, 
+	hitting one of the slaves.
+
+					SISKO
+			Fall back.
+
+	Sisko and the Terrans move back around the opposite corner, 
+	so that they're out of the line of fire, just as...
+
+46   NEW ANGLE (OPTICAL)
+
+	Kira, Garak, and a squad of Alliance Guards appear from around 
+	the corner.  Kira signals the Guards and they hold their 
+	fire.
+
+					KIRA
+			That was very clever, Benjamin, having 
+			one of your own men betray you so 
+			you could get aboard the station.  
+			You had me totally fooled.  Luckily 
+			Mister Garak is somewhat more cynical 
+			than I.
+
+					GARAK
+			Your Ferengi friend told us your 
+			entire plan... with a little 
+			persuasion.
+
+					KIRA
+			I'm afraid there's no escape.  Your 
+			ship's locked down, your pilot's 
+			dead.  There's no way out.
+				(a beat)
+			You might as well surrender.
+
+47   ANGLE ON THE TERRANS
+
+	As they realize they're trapped.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        49.
+
+47   CONTINUED:
+
+					O'BRIEN
+			If we surrender, she'll kill us.
+
+					SISKO
+			Us, maybe, but not Jennifer.
+
+	Jennifer isn't about to let Sisko and the others sacrifice 
+	themselves for her.
+
+					JENNIFER
+			What if we offer a trade?  I stay 
+			here and she lets you live.
+
+48   ANGLE ON KIRA AND GARAK
+
+	As they wait to see what Sisko will do.
+
+					KIRA
+			Benjamin, you know how I hate to be 
+			kept waiting.
+
+	Kira signals to some of her men who move off in an attempt 
+	to flank Sisko.
+
+49   ANGLE ON SISKO'S GROUP
+
+	As Sisko makes a decision.
+
+					SISKO
+				(to Jennifer)
+			I came a long way to get you out of 
+			here, and I'm not leaving without 
+			you.
+
+	Jennifer stares at Sisko for a beat, puzzled.
+
+					SISKO
+			What is it?
+
+					JENNIFER
+			Nothing.
+
+	But she still continues to study Sisko.
+
+					SISKO
+				(thinking on his feet)
+			Smiley, how far is the Ore Processing 
+			Center?
+
+					O'BRIEN
+			Only a couple of levels away.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        50.
+
+49   CONTINUED:
+
+					SISKO
+			Take us there.
+
+					O'BRIEN
+				(doesn't see the point)
+			What for?
+
+					SISKO
+			I'll show you when we get there.
+
+	O'Brien nods.
+
+50   ANGLE ON KIRA
+
+	As she runs out of patience.
+
+					KIRA
+				(calling out)
+			Time's up, Benjamin...
+				(no response)
+			Benjamin?
+
+	Garak signals to the Guards who cautiously round the corner.  
+	We stay with Kira and Garak.  They listen for phaser fire, 
+	but when they don't hear any, they follow the Guards around 
+	the corner.
+
+51   NEW ANGLE
+	As Kira reacts to the fact that Sisko and the rest of the 
+	Terrans have retreated down a side corridor.
+
+					KIRA
+			He always has to make things 
+			difficult.
+
+					GARAK
+			It's one of his least endearing 
+			qualities.
+
+	Kira marches off down the corridor, followed by Garak and 
+	her soldiers.
+
+52   INT. HABITAT RING CORRIDOR (OPTICAL)
+
+	Sisko and the rest of the Terrans retreat down the corridor.  
+	The Terrans are slowed down because they have to help one of 
+	their injured members along.  Sisko brings up the rear, his 
+	stolen disruptor at the ready.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        51.
+
+52   CONTINUED:
+
+					SISKO
+			Hurry.  They're right behind us.
+
+	Sisko catches a glimpse of a Bajoran soldier.  He opens fire.  
+	The Bajorans return fire.
+
+53   INT. ORE PROCESSING CENTER (OPTICAL)
+
+	Under heavy phaser fire, the Terrans retreat into the Ore 
+	Processing Room.  One of them gets hit in the doorway.  Sisko, 
+	the last man in, drags the wounded Terran to safety.
+
+					SISKO
+				(shouting, to O'Brien)
+			Smiley, seal the doors.
+
+	But the room is full of phaser fire and O'Brien's having a 
+	tough time staying alive, let alone reaching the door 
+	controls.
+
+					O'BRIEN
+				(to himself)
+			Easy for you to say.
+
+	But O'Brien makes a lunge for the controls and the doors 
+	begin to seal.  With one last burst of energy, Sisko manages 
+	to get the wounded Terran inside the Processing Center just 
+	as the doors close behind him.
+
+	Sisko joins Jennifer.
+
+					SISKO
+				(to Jennifer)
+			I'll get you out of this, I promise.
+
+					JENNIFER
+				(simply)
+			I believe you.
+
+	A moment passes between them.  It's brief, but for the first 
+	time since Sisko met this Jennifer, some of her hard veneer 
+	slips away.
+
+	Sisko moves to a control panel, where he's joined by O'Brien.
+
+					O'BRIEN
+				(aside, to Sisko)
+			Captain, I don't know what you're up 
+			to, but there's no way out of this 
+			place except through that door.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        52.
+
+53   CONTINUED:
+
+					SISKO
+				(aside to O'Brien)
+			Don't worry.  I know what I'm doing.
+				(almost to himself)
+			I just hope your Terok Nor was 
+			designed by the same Cardassian who 
+			built my Terok Nor.
+
+	And as he works on the panel...
+
+54   INT. CORRIDOR
+
+	Kira, Garak and the rest of Kira's troops have arrived outside 
+	the Ore Processing Center doors.
+
+					KIRA
+				(to a soldier)
+			You're sure they're all in there?
+
+	The soldier nods.  Kira looks satisfied.
+
+					KIRA
+			Good.  Then we've got them.  Use the 
+			manual override to open the doors.
+
+					GARAK
+			Intendant, I trust this time you 
+			won't be so lenient with our dear 
+			Mister Sisko.
+
+					KIRA
+			Don't worry.  He's disappointed me 
+			for the last time.
+
+	Garak smiles.  That's what he wanted to hear.
+
+55   INT. ORE PROCESSING CENTER
+
+	As the doors open and Alliance troops rush in to find...
+
+56   NEW ANGLE
+
+	Sisko and the other Terrans standing there, waiting for them, 
+	with no weapons in sight.
+
+	Kira marches in with Garak at her side.  Kira surveys the 
+	Terrans and notices Jennifer.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        53.
+
+56   CONTINUED:
+
+					KIRA
+			Jennifer.  I was so worried about 
+			you.  But you're safe now.  In fact, 
+			I can assure you your husband will 
+			never annoy you again.
+
+	Kira holds out her hand to Jennifer, but Jennifer doesn't 
+	take it.
+
+					JENNIFER
+			Actually, for the first time since I 
+			met him, he's not annoying me.  In 
+			fact, he's been making a lot of sense.
+
+					KIRA
+			He can be persuasive when he wants 
+			to be.  I suppose that means you 
+			won't be finishing the sensor array.
+
+	Sisko looks to Jennifer to see what she will decide.  Jennifer 
+	catches his eye and gives him a slight smile.
+
+					JENNIFER
+				(a simple explanation)
+			I'm a Terran.
+
+	Kira nods.  It's like an iron door has been closed.  Any 
+	feelings she might have had for Sisko or Jennifer are gone.
+
+					KIRA
+				(to her troops)
+			Keep her alive.  Kill the others.
+
+	But before the soldiers can execute her orders, Sisko steps 
+	forward.
+
+					SISKO
+			I wouldn't.  You'd be making a 
+			mistake.
+
+					KIRA
+			My only mistake was not executing 
+			you in the first place.
+
+					SISKO
+			You don't know how right you are.
+				(points to a panel)
+			I've activated the station's self-
+			destruct sequence.  Unless I disarm 
+			it, this whole place will blow up 
+			in...
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        54.
+
+56   CONTINUED:	(2)
+
+	Sisko checks the readout on the panel.
+
+					SISKO
+			Nine minutes.
+
+					KIRA
+			That's impossible.  There's no way 
+			you could know the station's command 
+			access code.
+
+					SISKO
+			Alpha Nine One Seven Five Blue.
+
+	Judging from Kira's reaction, Sisko's right.
+
+					KIRA
+				(to com)
+			Computer, disengage self-destruct 
+			sequence.  Authorization Kira Alpha 
+			Nine One Seven Five Blue.
+
+					COMPUTER VOICE
+			Authorization denied.
+
+					SISKO
+				(playful)
+			I changed it.
+				(checks panel)
+			You've got eight minutes and thirty 
+			seconds to let us go.  Otherwise we 
+			all die.
+
+					GARAK
+			Don't listen to him.  He's bluffing.
+
+	Kira stares at Sisko for a long beat, taking his measure.  
+	Sisko returns her stare, unflinchingly.
+
+					KIRA
+			He's not bluffing.
+
+					GARAK
+			How do you know?
+
+					KIRA
+			I know.
+				(to Sisko)
+			Give me the new access code and I'll 
+			let you go.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        55.
+
+56   CONTINUED:	(3)
+
+					SISKO
+			You'll get the access code once my 
+			friends and I are safely away from 
+			the station.
+				(a beat)
+			Do we have a deal?
+
+	Kira looks at Sisko for a beat longer, then nods to the 
+	guards.  Sisko and the rest of the Terrans begin to walk 
+	out.  Kira stops Sisko for second.
+
+					KIRA
+			This isn't over Benjamin.  I'll hunt 
+			you down.  I swear it.
+
+					SISKO
+			You're welcome to try.
+
+	Once the last Terran has left the room, Sisko follows them 
+	out.
+
+57   EXT. SPACE (OPTICAL)
+
+	The Badlands.
+
+58   INT. CAVE CORRIDOR
+
+	Sisko is walking with Bashir and O'Brien, having just returned 
+	to the rebel encampment.
+
+					BASHIR
+			I still don't understand why you 
+			gave them the access code.  You 
+			could've gotten away and still 
+			destroyed the station.
+
+					SISKO
+			But we gave our word.
+
+					BASHIR
+			Our word.  Who gives a damn whether 
+			we keep our word?
+
+					O'BRIEN
+			I do.
+
+	Bashir is surprised by the air of conviction in O'Brien's 
+	voice.  The three of them ENTER...
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        56.
+
+59   INT. CAVES - MAIN CHAMBER
+
+	Where Jadzia and Jennifer are seated together talking quietly.  
+	We don't hear what they're saying.  Neither does Sisko as he 
+	walks up to them.
+
+					SISKO
+			I'm glad to see the two of you are 
+			getting along.
+
+					DAX
+			We have a lot in common.
+
+	All three of them know that she means Sisko.
+
+					DAX
+				(to Jennifer)
+			He's all yours.
+
+	Dax smiles to herself and EXITS.  O'Brien and Bashir realize 
+	Sisko wants to be alone with Jennifer, and they follow after 
+	Dax.
+
+60   CLOSE ON JENNIFER AND SISKO
+
+	Jennifer studies Sisko's face.
+
+					JENNIFER
+			Dax tells me you're leaving.
+
+					SISKO
+			I'm going to pay a call on the 
+			Romulans.  See if I can convince 
+			them to help us.
+
+					JENNIFER
+			Then I guess this is good-bye.
+
+	Already this isn't easy for Sisko.  He's torn with emotion.  
+	He knows he's not saying good-bye to his Jennifer, but it 
+	feels like it anyway.
+
+					SISKO
+			Again.
+				(a beat)
+			Jennifer, there's so much I want to 
+			say to you, but I don't know where 
+			to start...
+
+					JENNIFER
+				(with a slight smile)
+			You can start by telling me what 
+			happened to my husband.
+
+	Before Sisko can deny it, Jennifer presses on.
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        57.
+
+60   CONTINUED:
+
+					JENNIFER
+			Don't bother.  I don't know who you 
+			are, but you're not Ben Sisko.
+
+	Sisko considers trying to continue the charade, but thinks 
+	better about it.
+
+					SISKO
+			When did you figure it out?
+
+					JENNIFER
+			I think I suspected from the 
+			beginning.  It was your eyes.
+
+					SISKO
+			What about them?
+
+					JENNIFER
+			They're too kind.
+				(a beat)
+			There was nothing kind about Ben.
+				(another beat)
+			He's dead, isn't he?
+
+					SISKO
+			I'm sorry.
+
+					JENNIFER
+			Don't be.
+				(a beat)
+			So, who are you, really?
+
+					SISKO
+			It's a long story.  Talk to Smiley.  
+			He can fill you in on the details.
+
+					JENNIFER
+			He seems like a good man.
+
+					SISKO
+			He does at that.
+				(a beat)
+			So what are you going to do now?
+
+					JENNIFER
+			Oh, I'm sure Smiley will find 
+			something to keep me busy.
+				(a beat)
+			You're not really going to visit the 
+			Romulans, are you?
+
+         DEEP SPACE: "Through... Glass" - 02/02/95 - ACT FIVE        58.
+
+60   CONTINUED:	(2)
+
+					SISKO
+				(shakes his head)
+			The deal was I get you off the 
+			station, and then I go home.
+
+					JENNIFER
+			Will I see you again?
+
+					SISKO
+			I don't know.
+
+	Jennifer leans over and kisses Sisko on the cheek.
+
+					JENNIFER
+			Thank you for... rescuing me.
+
+					SISKO
+			It was... my pleasure.
+
+	They stand there for a beat, looking at each other, then the 
+	mood is broken by O'Brien, returning to the chamber.
+
+					O'BRIEN
+			Ready, Captain?
+
+					JENNIFER
+			You'd better go.
+
+	Sisko nods, then turns to O'Brien.
+
+					SISKO
+			Take me home, Smiley.
+
+	Sisko reluctantly turns and EXITS with O'Brien.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

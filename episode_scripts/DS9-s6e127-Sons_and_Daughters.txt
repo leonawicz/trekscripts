@@ -1,0 +1,2944 @@
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                      "Rocks and Shoals" 
+                          #40510-527 
+                              
+                          Written by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                          Mike Vejar 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1997 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         July 24, 1997
+
+     STAR TREK: DS9 - "Rocks and Shoals" - 07/25/97 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Rocks and Shoals"
+                             CAST                               
+
+          SISKO                    NOG
+          KIRA                     GARAK
+          ODO                      KEEVAN
+          BASHIR                   REMATA'KLAN
+          DAX                      LIMARA'SON
+          WORF                     
+          O'BRIEN                  NEELEY
+          JAKE                     DAMAR
+          COMPUTER VOICE           GORDON
+                                   YASSIM
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. JEMIRADAR
+
+     STAR TREK: DS9 - "Rocks and Shoals" - 07/24/97 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                      "Rocks and Shoals" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          (TEROK NOR)                   (TEROK NOR)
+          CORRIDOR/TURBOLIFT            JEM'HADAR SHIP
+          KIRA'S QUARTERS               
+          OPS                           ALIEN SHORELINE ONE
+          PROMENADE/SECOND LEVEL        ALIEN SHORELINE TWO
+          QUARK'S                       ALIEN SHORELINE THREE
+          TURBOLIFT                     BOX CANYON
+
+        ALIEN WORLD                   
+          STARFLEET CAVERN              
+          JEM'HADAR CAVERN              
+
+        JEM'HADAR SHIP                
+          CONTROL ROOM                  
+
+
+    DS NINE - "Rocks and Shoals" - 07/24/97 - PRONUNCIATION 
+
+                  STAR TREK:  DEEP SPACE NINE
+                      "Rocks and Shoalsol 
+                      PRONUNCIATION GUIDE 
+
+          DAMAR                    dah-MAR
+          GYRODYNE                 GI-row-dine
+          KAMAR                    ka-MAR
+          KETRACEL                 KEH-tra-sell
+          MAVEK                    MAY-vek
+          REMATA'KLAN              re-MOT-tah-KLON
+          WEYOUN                   WAY-yoon
+          YAK'TALON                YAK-tah-lon
+          YASSIM                   YA-sim
+                                   (rhymes with chasm)
+          KEEVAN                   KEY-van
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER      1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                          "Rocks and Shoals"                           
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - THE JEM'HADAR SHIP (OPTICAL)
+
+	The ship is moving at impulse power.
+
+					SISKO (V.O.) 
+			Captain's Log: Stardate 51107.2 
+			Our luck just ran out. Chief 
+			O'Brien had a plan to restore main 
+			power to our commandeered Dominion 
+			ship. All he needed were three 
+			more days. But he's not going to 
+			get them.
+
+2    INT. JEM'HADAR CONTROL ROOM
+
+	SISKO in command, DAX at the helm, NOG and O'BRIEN 
+	working feverishly at a large open panel. N.D. 
+	Crewmembers as needed. GARAK is wearing the virtual 
+	headset and is swiveling his head as he tries to focus 
+	on something outside the ship. The atmosphere is tense 
+	and urgent.
+
+					SISKO (V.O.)
+
+				(continuing) 
+			Sensors have detected two 
+			Jem'Hadar fighters heading our 
+			way. And without main power, our 
+			chances of survival are slim to 
+			none.
+
+					O'BRIEN
+				(to Dax) 
+			Try it now!
+
+					O'BRIEN
+				(to Nog) 
+			Re-route the damned gyrodyne to 
+			the damned thruster array.
+
+					NOG
+				(working) 
+			Got it.
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER      2.
+
+2    CONTINUED:
+
+					SISKO 
+			Where are those ships, Garak?
+
+					GARAK 
+			Bearing three one zero mark two 
+			five one. Still closing.
+
+	Sisko grabs the other virtual headset and puts it on.
+
+					O'BRIEN 
+			Nog did you re-route the damned 
+			gyrodyne?
+
+					NOG 
+			I'm trying, but the damned 
+			thruster array won't take the 
+			input!
+
+					O'BRIEN 
+			Try the lateral impulse matrix and 
+			watch your mouth.
+
+	Sisko activates the virtual headset and reacts to the 
+	dizzying view. He tries to adjust to the swirling 
+	image he sees.
+
+3    SISKO'S POV (OPTICAL)
+
+	An EXTERIOR view of space as seen from the Jem'Hadar 
+	ship. The stars whirl and turn for a moment as Sisko 
+	cranes his neck around... then the view focuses on two 
+	DISTANT SHIPS heading toward us.
+
+					O'BRIEN'S VOICE 
+				(over above) 
+			Access the auxiliary core through 
+			the starboard engineering console!
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER      3.
+
+3    CONTINUED:
+
+					DAX'S VOICE 
+				(over above) 
+			I've already tried that!
+
+4    RESUME SISKO
+
+	As he watches the ships grow larger in his viewer.
+
+					DAX 
+			There's still no power to weapons 
+			or shields!
+
+	Sisko thinks for a beat, then turns and "looks" around 
+	the ship. He sees something.
+
+					SISKO
+			Dax, there's a dark matter nebula 
+			sixty degrees above the bow. Can 
+			we reach it?
+
+					DAX
+				(works) 
+			Yes. But that nebula's never been 
+			charted. We don't know what's in 
+			there.
+
+					GARAK 
+			The Jem'Hadar ships are... 
+			entering weapons' range...
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER      4.
+
+4    CONTINUED:
+
+	Sisko glances back into the virtual viewer.
+
+5
+thru   OMITTED
+6
+
+7    SISKO'S POV (OPTICAL)
+
+	The Jem'Hadar ships are now much closer. They both 
+	OPEN FIRE, the bolts of disruptor energy coming right 
+	toward us...
+
+8    RESUME
+
+	The ship ROCKS under the impact. Sisko strips off the 
+	headset.
+
+					SISKO 
+			Take us into the nebula, old man. 
+			Full impulse!
+
+	Dax works quickly.
+
+9    EXT. SPACE - THE JEM'HADAR SHIP (OPTICAL)
+
+	The Jem'Hadar ship TURNS and heads toward the nebula.
+
+10   INT. JEM'HADAR CONTROL ROOM
+
+	As before. The ship ROCKS under the impact of another 
+	barrage from the pursuing vessels. Dax's console 
+	suddenly BLOWS OUT, knocking her across the room. 
+	Sisko rushes to her and O'Brien heads for the helm 
+	console. Dax has a nasty wound on her stomach and her 
+	eyes are fluttering -- a very serious wound.
+
+					SISKO
+				(hits combadge) 
+			Sisko to Bashir -- medical 
+			emergency.
+
+	Dax grabs his hand and Sisko holds on tight.
+
+					O'BRIEN
+			Helm control's gone, sir.
+
+10A  EXT. SPACE - THE JEM'HADAR SHIP (OPTICAL) 
+
+	Without a pilot, the ship PLUNGES into the Dark Matter 
+	Nebula in an uncontrolled, wild flight.
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER     4A.
+
+10A  CONTINUED:
+
+	The two pursuing FIGHTERS do not follow our ship into 
+	the nebula -- they break off just before reaching the 
+	edge, and turn back.
+
+10B  INT. JEM'HADAR CONTROL ROOM
+
+	BASHIR has just arrived and is bending down over Dax, 
+	while Sisko keeps holding her hand. Bashir rips open 
+	the medkit and gives her a hypospray for the pain.
+
+					SISKO
+				(to Dax) 
+			Don't you dare leave me now, old 
+			man. Not here, not like this.
+
+	Dax relaxes slightly as the drug kicks in, but she's 
+	still hovering on the edge of unconsciousness.
+
+					BASHIR
+				(off tricorder) 
+			Puncture of the left abdominal 
+			cavity...
+				(grim)
+			... and it looks like the symbiont 
+			may have been injured.
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER      5.
+
+10B  CONTINUED: 
+
+	Sisko reacts -- that's really bad news. Bashir is 
+	pulling out instruments and working on Dax, but before 
+	Sisko even has a chance to absorb this information -- 
+	the ship is suddenly ROCKED HARD. The lights FLICKER 
+	and some consoles are BLOWN OUT.
+
+					O'BRIEN
+				(off console) 
+			Sensors are gone... impulse 
+			engines off-line.
+
+	O'Brien looks with dismay at the few lights remaining 
+	on the engineering console.
+
+					O'BRIEN
+			In fact, everything's off-line...
+			emergency power is holding -- for
+			now.
+
+					SISKO
+			Garak, take a look outside --
+
+	Garak struggles to get his headset up and working.
+
+					GARAK
+			Just a moment...
+
+					SISKO
+				(to O'Brien) 
+	What happened?
+
+      DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - TEASER      6.
+
+10B  CONTINUED:
+
+					O'BRIEN 
+			I'm not sure... we might've been 
+			hit by some kind of gravitational 
+			spike in the --
+
+	Garak reacts to something he sees on the headset.
+
+					GARAK
+			Oh, no.
+
+					SISKO 
+			What is it?
+
+	Garak looks at him with a stricken expression.
+
+					GARAK
+			Hang on.
+
+11   EXT. SPACE - CLOSE ON THE JEM'HADAR SHIP (OPTICAL)
+
+	The Jem'Hadar ship is filling the frame at first, but 
+	then it FALLS AWAY FROM CAMERA, and as it does, we can 
+	see that it is plummeting straight DOWN toward a Class-
+	M PLANET covered with oceans. As the Jem'Hadar ship 
+	disappears into the clouds we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+   DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     7    
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes)
+
+12A
+thru   OMITTED
+12D
+
+12   CLOSE ON JEM'HADAR SOLDIER - DAY (MATTE)
+
+	As he steps into view. His name is THIRD REMATA'KLAN. 
+	Just another genetically engineered soldier of the 
+	Dominion. But Remata'Klan has a problem. He's staring 
+	off at something o.c. and there's something in his 
+	eyes that we're not used to seeing in the expression of 
+	a Jem'Hadar. Worry.
+
+	MOVE TO REVEAL:
+
+13   EXT. ALIEN SHORELINE ONE - DAY (MATTE) 
+
+	Remata'Klan is standing on a rocky stretch of shoreline 
+	on an alien world, looking out to sea. Behind 
+	Remata'Klan are forbidding cliffs topped by scrubby 
+	vegetation, and there's no sign of any civilization on 
+	this planet. It's a desolate, harsh world. Another 
+	Jem'Hadar, FOURTH LIMARA'SON approaches him and stops 
+	a few feet away.
+
+					LIMARA'SON 
+			We have established a defense 
+			perimeter around the entrance to 
+			the cavern. I have sent out two 
+			patrols to reconnoiter the 
+			shoreline in both directions.
+
+	Remata'Klan takes that in, but says nothing and 
+	continues to look out at the crashing surf. Limara'Son 
+	waits a moment, then continues his report.
+
+					LIMARA'SON 
+				(continuing) 
+			The Vorta's condition has 
+			worsened. He will die soon.
+
+	Limara'Son doesn't seem particularly bothered by that 
+	idea. Remata'Klan's feelings on the matter are opaque.
+
+					REMATA'KLAN 
+			What about the First and the 
+			Second?
+
+  DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE 7A-7C.    
+
+13   CONTINUED:
+
+					LIMARA'SON
+			I vaporized their bodies myself, 
+			and redistributed their equipment 
+			to the rest of the men.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE      8.
+
+13   CONTINUED:	(2)
+
+	Remata'Klan nods thoughtfully.
+
+					LIMARA'SON 
+				(continuing) 
+			You are now the First.
+
+					REMATA'KLAN 
+			No. I questioned the Vorta's 
+			orders. He will not forget that. 
+			As long as he lives, I will remain 
+			Third.
+
+					LIMARA'SON 
+			You were right to question him! 
+			If he hadn't ordered us into the 
+			nebula two days ago we would not 
+			have crashed on--
+
+					REMATA'KLAN 
+				(harsh) 
+			It was not my place. Remember: 
+			"Obedience Brings Victory."
+
+					LIMARA'SON 
+				(chastened) 
+			"And Victory is Life."
+
+	Limara'Son is suitably humbled by the reminder. 
+	Remata'Klan looks back out to sea.
+
+
+					REMATA'KLAN 
+			Until we re-establish 
+			communications, we will hold this 
+			world for the Dominion.
+
+					LIMARA'SON 
+			And if we cannot re-establish 
+			communications?
+
+	Remata'Klan gives him a very direct look.
+
+					REMATA'KLAN 
+			Then we will hold this world for 
+			the Dominion until we die.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE      9.
+
+13   CONTINUED:	(3) 
+
+	The two men look at each other for a moment, then 
+	Limara'Son straightens up into a position of attention 
+	before turning and heading off. Remata'Klan turns back 
+	to the ocean.
+
+									CUT TO:
+
+13C   EXT. ALIEN SHORELINE TWO - WIDE - DAY (MATTE)
+	(FORMERLY SCENE A12)
+
+	We're looking at another shoreline on the same alien
+	world. There's a bay here where the ocean laps up
+	against towering rocky cliffs. Far below us, we can
+	see the Jem'Hadar ship half-submerged out in the bay
+	and a tiny RAFT making its way towards the beach. The
+	Jem'Hadar ship is SINKING and we see one or two
+	EXPLOSIONS before it slips beneath the waves.
+
+14   ON NOG (FORMERLY SCENE B12)
+
+	As he staggers out of the ocean, and collapses onto the
+	sand, panting heavily. A shadow falls over him and he
+	looks up...
+
+15   NOG'S POV (FORMERLY SCENE C12) 
+
+	The dazzling sun is obscuring the figure towering over 
+	Nog. Is it a Jem'Hadar? But then the figure moves and 
+	blocks the sun behind him. It's Garak, bending down to 
+	offer the waterlogged Ferengi a hand.
+
+					GARAK 
+			This is no time to lie down on the 
+			job, cadet.
+
+	Nog is too exhausted to make a reply and it's all he 
+	can do to raise his arm and let Garak pull him to his 
+	feet. Garak's clothes and face are still glistening 
+	with water from his own time in the sea as he guides 
+	Nog higher up the beach. ENSIGN PAUL GORDON -- an 
+	engineer -- is on his hands and knees, coughing up 
+	seawater and struggling not to pass out.
+
+					SISKO'S VOICE
+			Ready... HEAVE! Ready... HEAVE!
+
+16   NEW ANGLE (MATTE) (FORMERLY SCENE D12)
+
+	Revealing a MAKESHIFT RAFT being hauled up onto the 
+	beach by Sisko, O'Brien, Bashir and LIEUTENANT LISA 
+	NEELEY (a Security officer).
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     10.
+
+16   CONTINUED:
+
+	The raft itself was evidently cobbled together from 
+	equipment, barrels, conduit, cabling, etc. scrounged 
+	from the Jem'Hadar ship.
+
+	There are some pieces of Dominion & Federation 
+	equipment (phasers, tricorders, blankets, etc.) 
+	strapped to the raft, but most of the space is taken up 
+	with the unconscious form of Dax, who has been tied to 
+	the raft and covered with some kind of blanket.
+
+	Sisko and the others are wet, miserable and very, very 
+	tired as they pull the heavy raft out of the hip-deep 
+	water and onto the sand.
+
+					SISKO
+			Ready... HEAVE! One more! Ready
+			HEAVE!
+
+	The raft finally comes to a stop on the sand. O'Brien, 
+	Neeley, and Sisko all collapse for a moment on the 
+	sides of the raft, their eyes closing and nearly 
+	fainting from the exertion. Bashir is not nearly as 
+	exhausted as the others and he quickly grabs a 
+	tricorder from the raft and scans Dax.
+
+					SISKO
+				(panting)
+			How... how is she?
+
+					BASHIR
+				(off tricorder)
+			Stable for now.
+				(to Garak)
+			Garak! I need a hand!
+
+	Garak quickly moves to the raft and helps Bashir lift 
+	Dax out of the boat. Sisko and the others watch as 
+	they carry her up the beach, too tired to move for now. 
+	O'Brien suddenly realizes something.
+
+					O'BRIEN
+			Bloody hell!
+
+					SISKO
+			What?
+
+					O'BRIEN
+			I can't believe it!
+
+					SISKO
+			What?
+
+					O'BRIEN
+			I tore my pants.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     11.
+
+16   CONTINUED:	(2)
+
+	O'Brien is glaring at a pant leg that's been ripped 
+	right up the side. Sisko looks at him for a moment... 
+	then laughter starts to play at the corners of his 
+	mouth.
+
+					SISKO
+			You tore your pants?
+
+	O'Brien sees the look on Sisko's face and he starts to 
+	lose it as well.
+
+					O'BRIEN
+			That's right.
+				(beat)
+			I guess I'm really in trouble now.
+
+	They finally start laughing like this is the funniest 
+	thing in the world -- it's a moment of exceedingly dark 
+	humor born of desperation and exhaustion. The two men 
+	fall back on the beach laughing and crying.
+
+17   WIDER (MATTE)
+
+	Showing the small shipwrecked party of Starfleet 
+	officers on the desolate beach. OFF this image...
+
+18   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Establishing the station.
+
+19   INT. KIRA'S QUARTERS
+
+	KIRA is asleep in bed.
+
+					COMPUTER VOICE
+			The time is zero five hundred
+			hours.
+
+	Kira is up and out of bed almost before the computer 
+	voice finishes. She stretches for a beat, faces 
+	herself in the mirror and then manages a very forced 
+	smile for the mirror.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     12.
+
+20   INT. CORRIDOR/TURBOLIFT
+
+	Kira is waiting outside a turbolift, carrying a PADD. 
+	The doors finally OPEN and she ENTERS a lift that is 
+	already filled with N.D. Jem'Hadar and N.D. 
+	Cardassians. Kira nods to them and they nod to her -- 
+	they all know each other. The doors CLOSE.
+
+									CUT TO:
+
+21   INT. OPS
+
+	The turbolift ENTERS Ops and Kira steps out along with 
+	Jem'Hadar and Cardassians. Ops is fully manned with 
+	Cardassians, while armed Jem'Hadar soldiers are posted 
+	at strategic points. Kira moves off to one side and 
+	sits at a console while studying her PADD. The other 
+	Cardassians and Jem'Hadar move to different stations 
+	around Ops, and relieve their counterparts -- it's a 
+	shift change in Ops, but Kira takes little note of it.
+
+	A Cardassian N.D. hands her a cup of raktajino.
+
+					KIRA
+			Thanks, Mavek.
+
+	This is the new morning routine and it's just another 
+	day in the office for all of them. As Kira goes about 
+	her daily routine...
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     13.
+
+22   OMITTED 
+
+23   INT. JEM'HADAR CAVERN - DUSK 
+
+	This is a perpetually wet and unpleasant cavern that 
+	the Jem'Hadar are now using as a base camp. A few 
+	pieces of Dominion technology are in evidence. An N.D. 
+	Jem'Hadar is working on a Dominion communications 
+	system in one corner of the cavern, while Three N.D. 
+	Jem'Hadar Soldiers and Limara'Son are stripping and 
+	cleaning their weapons nearby. The Soldiers in the 
+	Cavern are jittery and seem to be having problems -- 
+	tools get dropped, fingers tremble, easily distracted, 
+	etc. (We'll shortly learn that all the Jem'Hadar are 
+	suffering from a lack of White, so there should not be 
+	any liquid flowing through the Jem'Hadar necktubes.)
+
+	In the center of the cavern is a small fire and 
+	makeshift bed, upon which is lying a badly wounded 
+	Vorta named KEEVAN. Remata'Klan is sitting on a 
+	container next to Keevan's bed and watching the 
+	sweating, miserable Vorta with no hint of compassion 
+	in his face.
+
+					KEEVAN 
+				(pained) 
+			This must be... quite gratifying 
+			for you. But I've decided not to 
+			give you the pleasure of watching 
+			me die in this foul-smelling 
+			cavern. I intend... to live.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     14.
+
+23   CONTINUED:
+
+					REMATA'KLAN 
+			I understand.
+
+	Keevan looks up sharply -- was that a jab at him? But 
+	there is no hint of anything untoward in Remata'Klan's 
+	expression, only the mask of obedience.
+
+					KEEVAN 
+			How long until we re-establish 
+			communications?
+
+	Remata'Klan glances over at the Jem'Hadar working on 
+	the communications rig.
+
+					REMATA'KLAN 
+			Seventh Yak'Talon estimates it 
+			will take at least ten days before 
+			we can attempt a low-power test.
+
+					KEEVAN
+			Ten days...
+
+	Keevan closes his eyes, exhausted just by the thought.
+
+					REMATA'KLAN 
+			It is time for the White.
+
+	Keevan opens his eyes and motions acquiescence with his 
+	hand. Remata'Klan nods to an N.D. Jem'Hadar, who 
+	quickly brings the distinctive locked container of 
+	White over to the Vorta and sets it down on the cave 
+	floor. The case has been battered and scorched. All 
+	the Jem'Hadar start to move toward the White, eager for
+	the next dose of the drug.
+
+	Keevan works the security lock on the case. The top 
+	rises, but only Keevan can see inside the case. He 
+	looks into the case for a moment... sees something 
+	there that he knows is very bad news... but he cannot 
+	let any of the Jem'Hadar know. He proceeds with the 
+	ritual.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     15.
+
+23   CONTINUED:	(2)
+
+					KEEVAN
+				(deliberate) 
+			Third Remata'Klan... can you vouch 
+			for the loyalty of your men?
+
+					REMATA'KLAN 
+			We pledge our loyalty to the 
+			Founders from now until death.
+
+					KEEVAN 
+			Then receive this reward from the 
+			Founders. May it keep you strong.
+
+	He hands Remata'Klan one vial of White and then shuts 
+	the case. The Jem'Hadar look stunned.
+
+					LIMARA'SON 
+			Only one?
+
+					REMATA'KLAN
+				(sharp)
+			Keep your place.
+
+	Keevan looks up at the tense and anxious faces of his 
+	men calmly.
+
+					KEEVAN 
+			This case of White must last until 
+			we're rescued -- at least ten 
+			days, possibly more. I will 
+			ration the supply. Don't worry -- 
+			I am the Vorta. I will take care 
+			of you all.
+
+	Remata'Klan nods and then leads everyone away from the 
+	Vorta's bed. As Keevan lies there alone and forgotten 
+	for a moment, we see that there is now worry in his 
+	face too...
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     16.
+
+24   INT. STARFLEET CAVERN - NIGHT (OPTICAL) 
+
+	The cavern that Sisko and his troops are using as their 
+	own base camp is drier than the cave housing the 
+	Jem'Hadar, but not by much. At one end of the cave, a 
+	low boulder has been HEATED by a phaser and is 
+	radiating more than enough heat to warm up the cavern. 
+	Sisko, Neeley, Garak, Nog, Gordon, and O'Brien are in 
+	various stages of undress and checking their 
+	waterlogged uniforms, which have been spread on top of 
+	the boulder to dry. STEAM is rising from several of 
+	the shirts and pants.
+
+	All the equipment from the life raft has been dragged in 
+	here as well and the cavern is lit from a few PALM 
+	BEACONS which are scattered around.
+
+	Neeley FIRES her phaser at the boulder, and it GLOWS 
+	hotter. Sisko picks up a hot vest from the drying 
+	clothing and gingerly puts it on over his already dry 
+	undershirt and pants. He checks his boots, but they're 
+	still too wet, forcing him to remain barefooted. Garak 
+	is holding up O'Brien's pants and inspecting the ripped 
+	leg with a professional eye.
+
+					GARAK 
+			Lucky for you, it ripped on the 
+			seam.
+
+					O'BRIEN
+			So you can fix it.
+
+					GARAK 
+			Unlucky for you, my sewing kit 
+			went down with the ship.
+
+					NEELEY
+				(not serious) 
+			Maybe someone could go get it --
+			the ship's only about five hundred 
+			meters below the surface by now.
+
+					O'BRIEN
+			Now there's an idea. cadet, how 
+			long can you hold your breath?
+
+	Everyone looks at Nog, who suddenly isn't sure if 
+	they're joking or not. They all smile at the look on 
+	his face.
+
+	Sisko picks up a pair of pants and a jacket and crosses 
+	the cavern to where Dax is lying on a blanket spread on 
+	the floor, across the cavern from the blazing heat of 
+	the boulder. She's naked underneath an emergency 
+	blanket that covers her body. Bashir is checking her 
+	over with a medical instrument, and we can see that 
+	she's awake.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE    16A.
+
+24   CONTINUED:
+
+					SISKO
+			Your jacket and pants are ready, 
+			Madame. Your boots and vest will 
+			take a little longer, so may I 
+			suggest browsing through the hotel 
+			gift shop while you wait?
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     17.
+
+24   CONTINUED:	(2)
+
+	Dax manages a smile as Sisko folds her clothes neatly 
+	and lays them next to her.
+
+					DAX 
+			No, thank you. But I would like 
+			to lodge a complaint with the 
+			manager. This bed is hard as a 
+			rock.
+
+					SISKO
+			I'll make a note of that.
+				(to Bashir)
+			What's the prognosis?
+
+					BASHIR 
+			Guarded, but good. The bleeding's 
+			stopped and I've repaired all the 
+			internal injuries. The damage to 
+			the symbiont is harder to 
+			diagnose, but with enough rest, I 
+			think they'll both make a full 
+			recovery.
+
+					DAX
+			In other words, I'll be staring up 
+			at the cave ceiling for the rest 
+			of my stay.
+
+					SISKO
+			Lucky for you there's twenty-four 
+			hour room service.
+
+	She laughs, then stops as a wave of agony grips her 
+	abdomen. Sisko instinctively grabs her hand and they 
+	ride out the momentary pain. After it passes, Sisko 
+	leans closer to her and brushes some hair back off her 
+	pale face.
+
+					SISKO
+			I'll get you out of here, old man. 
+			I promise.
+
+					DAX 
+			I'm going to hold you to that one, 
+			Benjamin.
+
+	Sisko grips her hand a little tighter.
+
+									CUT TO:
+
+25   OMITTED
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     18.
+
+26   EXT. ALIEN SHORELINE THREE - DAY (OPTICAL) 
+
+	The next day, Garak and Nog are walking along the rocky 
+	shoreline, wearing phasers and working tricorders. 
+	They're walking roughly side by side as they scan the 
+	desolate expanse of rock, sand and surf for any signs 
+	of food or water, but every time Garak pauses or slows 
+	down, Nog falls back.
+
+	After a few beats, Garak begins to suspect something 
+	and he deliberately stops for a moment, pretending to 
+	see something on his tricorder, then takes a couple of 
+	steps backward. Nog stops as well, and then actually 
+	takes a few steps backward of his own. Garak, finally, 
+	has had enough.
+
+					GARAK 
+			What are you doing?
+
+					NOG 
+			Following orders. The Captain 
+			told us to scan for fresh water or 
+			vegetation that might be --
+
+					GARAK 
+			You know precisely what I mean. 
+			You're deliberately trying to stay 
+			behind me and I want to know why.
+
+	Nog looks a little uncomfortable and Garak suddenly 
+	realizes what's going on.
+
+					GARAK
+				(continuing) 
+			Does this have something to do 
+			with that unfortunate business 
+			between you and me last year?
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT ONE     19.
+
+26   CONTINUED:
+
+					NOG
+				(grim) 
+			You tied me up and threatened to 
+			kill me.
+
+					GARAK 
+			There were extenuating 
+			circumstances.
+
+					NOG
+				(determined) 
+			It happened. So you can either 
+			stay in front of me or walk beside 
+			me... but I won't turn my back on 
+			you again.
+
+	Garak can see that Nog means it. He considers the 
+	young cadet for a moment.
+
+					GARAK 
+			Cadet... there may be hope for you 
+			yet.
+
+	Garak resumes leading them down the beach and opens his 
+	tricorder again. Nog falls into step and they walk 
+	along for a beat before Garak sees something on his 
+	tricorder and stops short.
+
+					NOG 
+			What is it?
+
+					GARAK 
+			I'm not sure... but...
+
+	Suddenly ONE JEM'HADAR SOLDIER SHIMMERS into view and 
+	two more appear from O.S. Garak goes for his combadge, 
+	but one of the Jem'Hadar roughly grabs it off his chest 
+	and then yanks the phaser from his waist.
+
+					GARAK 
+			Now I'm sure.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     20.
+                            ACT TWO                             
+
+	FADE IN:
+
+27   INT. JEM'HADAR CAVERN - DAY 
+
+	Garak and Nog are kneeling on the floor with their 
+	hands behind their heads in front of Keevan and 
+	Remata'Klan, while the two Jem'Hadar soldiers point 
+	their weapons at them. Keevan's condition has worsened 
+	since the last time we saw him, but he's still able to 
+	focus on the matter at hand.
+
+					KEEVAN
+				(pained) 
+			How many... others are there in 
+			your unit?
+
+					NOG 
+			Nog. Cadet Third Class. Serial 
+			Number CX dash nine three seven 
+			dash --
+
+					GARAK 
+			Shut up.
+				(to Keevan) 
+			As I tried to explain to your men, 
+			my name is Kamar and I am a member 
+			of the Cardassian Intelligence 
+			Bureau -- what used to be known as 
+			the Obsidian Order. A week ago, 
+			while performing my duties in the 
+			glorious service of the Founders, 
+			I was captured by the USS Centaur. 
+			I was being held aboard one of 
+			their shuttles when we were forced 
+			to hide in this dark matter nebula 
+			by the unexpected appearance of a 
+			Dominion battleship. The shuttle 
+			was then hit by--
+
+					KEEVAN
+			Excuse me, Mister Kamar -- if
+			that's really your name -- but if
+			you're one of our allies, why were
+			you wearing this?
+
+	Keevan produces the Starfleet combadge that the 
+	Jem'Hadar took from Garak. Garak reacts with a 
+	resigned sigh -- he never really expected to get away 
+	with this.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     21.
+
+27   CONTINUED:
+
+					GARAK
+			I was hoping you weren't going to 
+			ask me about that.
+
+					KEEVAN 
+			I only have one further question 
+			for you.
+				(beat) 
+			Is there a doctor in your unit?
+
+	Garak considers that for a moment and makes a quick 
+	decision.
+
+					GARAK 
+			Yes.
+
+					NOG 
+			Garak!
+
+					KEEVAN 
+			Don't be too hard on him, young 
+			man. He just saved your life.
+				(to N.D. Soldiers)
+			Take them to a secure area.
+
+	The two Soldiers grab Garak and Nog and roughly pull 
+	them deeper into the cavern. Keevan lies back for a 
+	moment on his bed, the effort of talking apparent on 
+	his face.
+
+					KEEVAN 
+			Third... I have a mission for you. 
+			All of our lives may depend on it. 
+			Can I trust you to carry out my 
+			orders without question?
+
+					REMATA'KLAN 
+			My life is pledged to the service 
+			of the Dominion.
+
+					KEEVAN 
+			Good. I want you to find the 
+			Starfleet unit. But do not engage 
+			them. Locate them, assess their 
+			strength, and then report back to 
+			me.
+
+					REMATA'KLAN 
+			I understand.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     22.
+
+27   CONTINUED:	(3)
+
+					KEEVAN 
+			No, you don't. But that's all 
+			right. It's not important that 
+			you understand, only that you 
+			carry out my instructions 
+			precisely.
+
+					REMATA'KLAN 
+			Obedience Brings Victory.
+
+					KEEVAN
+			Yes. Yes, it does. Go.
+
+	Remata'Klan EXITS.
+
+									CUT TO:
+
+28   SECURITY OFFICE
+
+	Kira and ODO are being interviewed by JAKE, who's 
+	taking notes on a PADD.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     23.
+
+28   CONTINUED:
+
+					JAKE 
+			I understand that a decision's 
+			been made to send four thousand 
+			Dominion Facilitators down to 
+			Bajor -- would you care to 
+			elaborate?
+
+	Odo and Kira exchange surprised looks.
+
+					KIRA 
+			It's only four hundred and how did 
+			you hear about that? The official 
+			announcement isn't scheduled until 
+			tomorrow.
+
+					JAKE 
+			I hear things. 
+				(beat) 
+			So could you elaborate? My 
+			readers want to know what's going 
+			on.
+
+					ODO
+			You don't have any readers. 
+			Weyoun is still blocking the 
+			transmission of your stories.
+
+					JAKE 
+			For now. But what if he changes 
+			his mind? Don't you want to 
+			explain what's going on here to 
+			the outside world?
+
+	Odo still looks dubious, but Kira gives in.
+
+					KIRA 
+			Since the war started, Bajor has 
+			been completely cut off from all 
+			outside trade. We have nowhere to 
+			turn for things like spare parts, 
+			and medical supplies. Nowhere 
+			except the Dominion. So, a group 
+			of Facilitators is going to Bajor 
+			for a few months to provide 
+			technical assistance.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     24.
+
+28   CONTINUED:	(2)
+
+					JAKE
+				(off PADD) 
+			How do you respond to critics like 
+			Vedek Yassim who say that by 
+			welcoming a group of Vorta to 
+			Bajor you're taking the first step 
+			toward Dominion occupation?
+
+					ODO 
+			I've been assured that the 
+			Facilitators will be unarmed and 
+			unaccompanied by any Jem'Hadar 
+			soldiers.
+
+					JAKE 
+			Odo, do you have any concerns that 
+			by joining the ruling council here 
+			on the station, you're validating 
+			the occupation?
+
+					ODO
+			The Dominion doesn't need my 
+			validation. They're here and 
+			they're not leaving. Not without 
+			a fight, anyway.
+
+	Jake scribbles down that answer.
+
+					KIRA 
+			Are you done?
+
+					JAKE 
+			Almost, almost. Will either of 
+			you be attending the demonstration 
+			tomorrow?
+
+					KIRA
+			The what?
+
+					JAKE 
+			Vedek Yassim is organizing a 
+			demonstration on the Promenade 
+			tomorrow afternoon to protest the 
+			Dominion's occupation of the 
+			station.
+
+					ODO
+				(to Kira) 
+			That's all the excuse Dukat will 
+			need to order a new security 
+			crackdown.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO    24A.
+
+28   CONTINUED:	(3)
+
+					KIRA
+				(weary)
+			I'll talk to Yassim.
+
+					JAKE
+			So you're going to abolish the
+			right to protest on the station?
+
+	Both Odo and Kira give him a dirty look.
+
+					JAKE
+			Hey, I'm not trying to accuse you
+			personally of anything... I'm just
+			asking questions...
+
+					KIRA
+			I think this interview is over.
+
+					ODO
+			I couldn't agree more.
+
+	They both get up and EXIT, leaving Jake to stew on his 
+	own.
+
+					JAKE
+				(to himself)
+			Wrong question, Jake.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     25.
+
+29   INT. STARFLEET CAVERN - DAY
+
+	O'Brien is examining a piece of Dominion equipment 
+	while Sisko looks on. Dax is sleeping in the b.g. and 
+	Bashir is sitting nearby, watching over her.
+
+					O'BRIEN 
+			With a little luck, I might be 
+			able to hardwire one of our 
+			combadges into this sensor relay. 
+			That would give us a crude 
+			transmitter, but no power source.
+
+					SISKO
+			What about draining one of our 
+			phasers?
+
+					O'BRIEN
+			I thought about that. But I'd 
+			need a converter to bridge the two 
+			power cells, and I can't build a 
+			converter without an ion exchange 
+			matrix.
+
+	Sisko is frustrated, but just then, Ensign Gordon 
+	ENTERS the cavern with a worried look on his face.
+
+					GORDON 
+			Captain, I think we may have a 
+			problem. Garak and Nog haven't 
+			reported in yet and they're not 
+			answering my hails.
+
+	Off Sisko's face...
+
+										CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     26.
+
+30   OMITTED 
+
+31   EXT. ALIEN SHORELINE THREE - DAY 
+
+	Sisko, O'Brien, Neeley and Gordon are moving down the 
+	shoreline, hunting for Nog and Garak. Everyone is 
+	armed and carrying their weapons at the ready. O'Brien 
+	has the point, and Gordon is bringing up the rear. 
+	Neeley has her tricorder out. They stay spread out, so 
+	as not to provide a clumped, tempting target and their 
+	movements are cautious and professional -- a military 
+	unit moving through dangerous country.
+
+	Suddenly Neeley sees something on her tricorder, but 
+	tries very hard not to show it.
+
+					NEELEY 
+				(sotto) 
+			Captain... there's a group of 
+			lifeforms up on the cliff... range 
+			seventy-five meters... elevation 
+			thirty meters...
+
+	Sisko casually looks around the whole beach, trying not 
+	to focus too obviously on the location Neeley just 
+	specified.
+
+					SISKO 
+				(sotto) 
+			That's where I'd be. Are they 
+			Jem'Hadar?
+
+					NEELEY 
+				(sotto) 
+			I think so.
+
+					SISKO
+				(sotto) 
+			Well, let's not make it easy for 
+			them. Tell the chief to head for 
+			that large outcropping of rocks at 
+			ten o'clock. But we need to walk, 
+			not run.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     27.
+
+31   CONTINUED:
+
+	Neeley casually picks up her step and begins to say 
+	something to O'Brien, who's just ahead of her.
+
+32   WIDER
+
+	As O'Brien seems to casually pause to get his bearings 
+	and then he leads the group toward the large 
+	outcropping of rocks that Sisko mentioned. From those 
+	rocks, they'll be shielded from the position up on the 
+	cliffs that Neeley has identified. Everyone tries to 
+	act as those they're still searching and are unaware 
+	that they're being watched.
+
+33   SISKO
+
+	his eyes focused straight ahead...
+
+34   NEELEY
+
+	scanning the area with her tricorder...
+
+35   THE CLIFFS
+
+	towering over them with an unseen menace.
+
+36   O'BRIEN
+
+	calmly heading for the safety of the rocks... but his 
+	finger already on the phaser trigger.
+
+37   JEM'HADAR POV
+
+	looking down from the cliffs onto the beach...
+
+38   NEW ANGLE - WIDE
+
+	They're almost to safety...
+
+39   THE CLIFFS (OPTICAL)
+
+	Suddenly four Jem'Hadar come into view on the cliffs 
+	and OPEN FIRE.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT TWO     28.
+
+40   THE STARFLEET OFFICERS (OPTICAL)
+
+	react instantly and RETURN FIRE as a nearby explosion 
+	knocks Neeley off her feet.
+
+					SISKO
+			MOVE!!! GO! GO! GO!
+
+	Sisko grabs Neeley and drags her along as they all make 
+	a mad dash across the final few meters to the rocks, 
+	FIRING all the way. As the two sides exchange phaser 
+	fire...
+
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    29.
+                           ACT THREE                            
+
+	FADE IN:
+
+41   EXT. ALIEN SHORELINE THREE (OPTICAL) 
+
+	THE STARFLEET OFFICERS are pinned down behind the rocky 
+	outcropping. Everyone is returning FIRE up at the 
+	cliffs.
+
+42   THE CLIFFS (OPTICAL) 
+
+	Jem'Hadar Soldiers can be seen FIRING and then dropping 
+	back into cover.
+
+43   SISKO (OPTICAL)
+
+	fires a burst, then drops back behind the rock as a 
+	Jem'Hadar blast BLOWS AWAY a sizable chunk of the 
+	protective rock. O'Brien is right next to Sisko. 
+	Sisko FIRES again at the cliffs.
+
+44   OMITTED
+
+45   ON THE CLIFFS - REMATA'KLAN (OPTICAL)
+
+	Remata'Klan is trying to get control of his men, who 
+	are FIRING down at the beach with a murderous fury.
+
+					REMATA I KLAN
+			Terminate fire! Terminate!
+
+	He HITS one of his men and knocks him to the ground. 
+	This action seems to wake up Limara'Son, who 
+	immediately stops firing, but one man does not. 
+	Limara'Son turns on him and points his disruptor right 
+	at his head.
+
+					LIMARA'SON
+			You've been ordered to stop!
+
+	With a noticeable effort, the man stops firing. In a 
+	moment, all the Jem'Hadar have ceased firing and they 
+	crouch down looking for cover as the Starfleet FIRE 
+	continues to pepper the cliffs around them.
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    30.
+
+45   CONTINUED: 
+
+	The Jem'Hadar are not happy about being restrained and 
+	it shows, as do the continuing effects of White 
+	withdrawal -- the shaking, twitching and trembling have 
+	returned. (No White is moving through the tubes.)
+
+					REMATA'KLAN
+				(to all) 
+			Your orders were clear. You were 
+			not to engage the enemy.
+
+	The others exchange bitter glances.
+
+					REMATA'KLAN 
+			Who fired first?
+
+	No one wants to say, but finally Limara'Son admits it.
+
+					LIMARA'SON 
+			I did.
+
+	Remata'Klan is surprised and disappointed in his 
+	friend, but it doesn't stop him from taking the 
+	appropriate action.
+
+					REMATA'KLAN 
+			You are reduced to Sixth.
+				(to others) 
+			We will shroud and return to base 
+			camp.
+
+	Another EXPLOSION HITS nearby and Remata'Klan is hit in 
+	the arm with shrapnel. He grimaces, looks down at the 
+	bleeding wound, then ignores it, as do the others.
+
+					LIMARA'SON
+			I can no longer shroud myself.
+
+	Remata'Klan glances around at his men, who all shake 
+	their heads, indicating that none of them can shroud.
+
+					REMATA'KLAN
+				(to Limara'Son and an 
+				N.D.) 
+			You and you will provide 
+			suppression fire as we withdraw.
+
+					LIMARA'SON 
+			Understood.
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    31.
+
+45   CONTINUED:	(2) 
+
+	Remata'Klan gives the others a sharp hand signal, and 
+	they begin to pull back cautiously while Limara'Son and 
+	the N.D. open FIRE again on the Starfleet position 
+	below. Remata'Klan pauses for a moment and looks down 
+	at the Starfleet officers still firing at him from the 
+	beach.
+
+					LIMARA'SON
+				(as he aims weapon)
+			Remata'Klan... I regret my
+			disobedience.
+
+	Remata'Klan says nothing, but does briefly put a hand 
+	on his shoulder before moving out to follow his men.
+
+46   SISKO & O'BRIEN (OPTICAL)
+
+	are peering up at the cliffs while the others continue 
+	FIRING.
+
+					O'BRIEN
+			They're pulling out.
+
+					SISKO
+			Looks that way to me.
+
+					O'BRIEN
+			Why aren't they camouflaged?
+
+					SISKO
+			Good question. Let's hope the
+			answer is something in our favor.
+
+	They continue FIRING for a moment.
+
+					SISKO
+				(to others)
+			Cease fire.
+
+									CUT TO:
+
+47   INT. JEM'HADAR CAVERN - DAY
+
+	Keevan is looking up at Remata'Klan with undisguised 
+	anger. The rest of the squad, including Limara'Son, 
+	are standing at attention behind Remata'Klan.
+
+					KEEVAN
+			Why were my orders disobeyed?
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    32.
+
+47   CONTINUED:
+
+					REMATA'KLAN 
+			Lack of White produces anxiety 
+			among us. One man could not 
+			restrain himself when he saw the 
+			enemy.
+
+					KEEVAN 
+			Which man?
+
+					REMATA'KLAN 
+			I have dealt with the matter.
+
+					KEEVAN 
+				(heated)
+			I asked for his name.
+
+					REMATA'KLAN 
+			He is my responsibility.
+
+					KEEVAN 
+			His name!
+
+					REMATA'KLAN 
+				(unyielding) 
+			I may not be First, but I am the 
+			unit leader. You can discipline 
+			me, but only I discipline the men. 
+			That is the order of things.
+
+	Keevan takes his measure for a long beat.
+
+					KEEVAN 
+			Very well. I leave him to you.
+
+	Remata'Klan tries not to look surprised, but there's a 
+	hint of relief in his expression.
+
+					REMATA'KLAN 
+				(to squad) 
+			Dismissed.
+
+	The squad breaks up.
+
+					KEEVAN 
+				(quiet) 
+			You've done well, Third. You may 
+			yet become First. 
+				(beat) 
+			Now... I have a new task for you.
+
+	The Vorta pauses for a moment to collect his thoughts and we...
+
+									CUT TO:
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    33.
+
+48   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Re-establishing the station.
+
+49   INT. KIRA'S QUARTERS
+
+	Kira is meeting with VEDEK YASSIM, an older woman with 
+	graying hair, and a frail, thin frame. Her voice is 
+	melodic and soft, but there's an inner conviction to 
+	her words.
+
+					YASSIM
+			The Dominion is evil. And the 
+			Prophets tell us that evil must be 
+			opposed.
+
+					KIRA
+			You'll get no argument from me 
+			there, Vedek. But protests and 
+			demonstrations won't change 
+			anything, they'll only cause 
+			trouble for everyone.
+
+					YASSIM
+			Then what would you have us do to 
+			oppose the Dominion?
+
+					KIRA
+			I'm... not certain there's 
+			anything you and the other Vedeks 
+			can do right now.
+
+					YASSIM
+			I see. Then as the Bajoran 
+			liaison officer, what will you be 
+			doing to fight the Dominion?
+
+					KIRA
+			Fighting is not an option. This 
+			is different than the Cardassian 
+			Occupation.
+
+					YASSIM
+			Is it? The Cardassians are in 
+			control of the station, Bajoran 
+			freedoms are being curtailed one 
+			by one, and soon the first wave of 
+			alien troops will be landing on 
+			our world.
+
+					KIRA
+			We're talking about unarmed Vorta 
+			Facilitators. They come in, do 
+			their jobs, and then they're gone.
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    34.
+
+49   CONTINUED:
+
+					YASSIM
+			Can't you see what's happening to 
+			you? You're becoming an apologist 
+			for them -- a defender of evil.
+
+	That stings and it shows on Kira's face.
+
+					YASSIM
+				(continuing) 
+			What will it take to make you act, 
+			Kira? To make you stop accepting 
+			them and start fighting back?
+
+					KIRA 
+			Vedek, you just don't understand.
+
+					YASSIM
+			You're right -- I don't. Maybe 
+			tomorrow, we'll both understand.
+
+	Yassim EXITS, leaving a very frustrated Kira.
+
+									CUT TO:
+
+50   INT. STARFLEET CAVERN - DAY
+
+	Sisko is planning strategy with O'Brien by making 
+	drawings in the sandy cavern floor. Dax watches from 
+	her bed.
+
+					SISKO 
+			We'll set up three defensive
+			positions: you and Ensign Gordon 
+			on the south ridge; Lieutenant 
+			Neeley near the lava tube; Bashir 
+			and I in the dunes.
+
+
+					DAX
+			I'll stay here and guard my 
+			clothes.
+
+					NEELEY'S COM VOICE 
+			Neeley to Captain Sisko.
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE   34A.
+
+
+50   CONTINUED:
+
+					SISKO 
+			Go ahead.
+
+					NEELEY'S COM VOICE 
+			A Jem'Hadar soldier has just 
+			approached my position, sir. He 
+			says he wants to talk to you. 
+			Alone.
+
+	Sisko and the others exchange surprised looks.
+
+									CUT TO:
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    35.
+
+51   INT. STARFLEET CAVERN - DAY
+
+	A few moments later, an unarmed Remata'Klan ENTERS the 
+	Cavern under the guard of Lieutenant Neeley. Sisko is 
+	alone except for Dax, who appears to be asleep. Sisko 
+	signals to Neeley to leave them. Neeley EXITS.
+
+					SISKO 
+			I'm Captain Benjamin Sisko.
+
+					REMATA'KLAN 
+			Third Remata'Klan. Two members of
+			your unit are being held at our 
+			base camp. We will exchange them 
+			for you and your doctor.
+
+					SISKO
+			Why do you need a doctor?
+
+					REMATA'KLAN 
+			The Vorta has been severely 
+			wounded.
+
+					SISKO
+			And why me?
+
+					REMATA'KLAN 
+			The Vorta wishes to speak with 
+			you.
+
+					SISKO
+			It sounds like he wants to trade 
+			two low-ranking prisoners for two 
+			more valuable ones. Would you 
+			accept a deal like that?
+
+					REMATA'KLAN 
+			No.
+
+					SISKO
+			Then why should I?
+
+					REMATA'KLAN 
+			You shouldn't.
+
+					SISKO
+			You're not a very good negotiator 
+			are you?
+
+					REMATA'KLAN 
+			I was not sent to negotiate. I 
+			was instructed only to deliver the 
+			terms.
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    36.
+
+51   CONTINUED:
+
+					SISKO 
+			I see. Well, then I want to talk 
+			to someone who can negotiate. I 
+			want to speak with your First.
+
+	There's the slightest hesitation before he answers.
+
+					REMATA'KLAN 
+			There is no First.
+
+					SISKO 
+			I take it there's no Second 
+			either.
+
+					REMATA'KLAN 
+			I command the unit.
+
+					SISKO 
+			Under the Vorta.
+
+	Sisko sees a flicker of something in Remata'Klan's eyes 
+	that tells him this might be an area worth probing.
+
+					SISKO 
+			It must be hard... for a soldier 
+			to take orders from a Vorta.
+
+					REMATA'KLAN 
+			The Vorta command the Jem'Hadar. 
+			It is the order of things.
+
+					SISKO
+			"Obedience Brings Victory."
+				(off his surprised look) 
+			I was on a mission with the 
+			Jem'Hadar once -- before the war, 
+			of course. They were good. 
+			Tough. Professional. It was an 
+			honor to serve with them. But 
+			their Vorta... he was something 
+			different. Manipulative. 
+			Treacherous. Trusted by neither 
+			side.
+				(beat) 
+			In the end, he was killed. By the 
+			Jem'Hadar First.
+
+	Remata'Klan is surprised and it shows.
+
+					SISKO 
+			Surprised?
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE    37.
+
+51   CONTINUED:	(2)
+
+					REMATA'KLAN
+				(recovering quickly) 
+			Such things have been known to 
+			happen. But they are rare... and 
+			only occur in units that have... 
+			lost discipline.
+
+					SISKO
+			You mean like a unit marooned on 
+			the shores of a deserted planet?
+
+	Remata'Klan realizes that he's been pulled way off 
+	course and he yanks himself back.
+
+					REMATA'KLAN
+				(stiffly) 
+			The Vorta has instructed me to 
+			give you his assurance that 
+			neither you nor the Doctor will be 
+			harmed and you'll both be free to 
+			leave at the end of your meeting. 
+			What is your response?
+
+					SISKO
+			A Vorta's word doesn't carry much 
+			weight with me. Can I have your 
+			assurance that we'll be free to 
+			go, Remata'Klan?
+
+	Remata'Klan has to think about that before answering.
+
+					REMATA'KLAN 
+			I have been ordered to let you 
+			leave after the meeting... you can 
+			be assured that I will obey that 
+			order.
+
+					SISKO
+			We'll make the trade in one hour.
+
+					REMATA'KLAN 
+			Agreed.
+
+	Remata'Klan turns and EXITS. As soon as he's gone, Dax 
+	opens her eyes.
+
+					DAX 
+			Sounded like you were actually 
+			getting through to him for a 
+			minute there.
+
+					SISKO
+			You can't break through all 
+			that Dominion conditioning in one 
+			conversation.
+
+    DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT THREE   37A.
+
+51   CONTINUED:	(3)
+
+					DAX 
+			Do you really think you can turn 
+			him against his Vorta?
+
+					SISKO
+			I don't know. But there were at 
+			least seven Jem'Hadar soldiers up 
+			on that ridge this morning. Say 
+			at least two more at their 
+			basecamp guarding the Vorta and 
+			their prisoners. Without Nog and 
+			Garak on our side, that gives them 
+			almost a two to one advantage.
+
+	A grim beat.
+
+					DAX
+			I think I'd like to check out now.
+
+					SISKO
+			So would I, old man. So would I.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    38.
+                           ACT FOUR                             
+
+	FADE IN:
+
+52   INT. PROMENADE
+
+	Odo and two N.D. Deputies are waiting outside the 
+	Bajoran Shrine as Kira walks up.
+
+					KIRA
+				(to Odo) 
+			Anything happening?
+
+					ODO
+			Not yet. There are two Vedeks 
+			inside, but we've seen no 
+			indication that they intend to 
+			leave the shrine.
+
+					KIRA
+			What about Yassim?
+
+					ODO
+			She hasn't shown up.
+
+					KIRA
+			Let's hope she doesn't. The last 
+			thing I want to do is start 
+			arresting Bajoran civilians on the 
+			Promenade.
+
+	Odo nods agreement as Jake walks up, carrying a PADD.
+
+					KIRA 
+			I don't think there's going to be 
+			a story here for you, Jake.
+
+					JAKE 
+			You sure? I got a message from 
+			Vedek Yassim saying the protest was 
+			starting at exactly fourteen hundred.
+
+					KIRA
+			Well, it certainly doesn't look 
+			like the--
+
+	Suddenly there's a SCREAM from o.s. Everyone whirls 
+	around to see:
+
+53   VEDEK YASSIM
+
+	stepping onto the upper rail of the second level with 
+	a rope around her neck. For a fleeting, timeless 
+	moment, she meets Kira's shocked eyes...
+
+					YASSIM 
+			Evil must be opposed.
+
+	Yassim steps off the rail and into the air.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    39.
+
+54   KIRA, ODO AND JAKE
+
+	look on in abject shock and horror as the crowd GASPS.
+
+55   WIDER
+
+	As everyone on the now silent Promenade stares at the 
+	swinging body of the dead Vedek.
+
+									CUT TO:
+
+56   EXT. ALIEN SHORELINE THREE - WIDE - DAY 
+
+	The sun is setting over the ocean as the Federation and 
+	Dominion forces prepare to execute the prisoner 
+	exchange. The Starfleet people are at one end of the 
+	beach and the Dominion people are at the other. In 
+	between the two groups, the tiny figures of Nog and 
+	Garak walk away from the Jem'Hadar, while Bashir 
+	(carrying a medkit) and Sisko walk away from the safety 
+	of his own lines. The four of them will pass each 
+	other in the center of the beach.
+
+57   GARAK & NOG
+
+	are walking toward the approaching Bashir and Sisko.
+
+					GARAK
+			Slow down, Nog. We don't want to
+			startle anyone.
+
+	Nog struggles to slow his gait as they get within 
+	earshot of Bashir. No one breaks stride as they pass.
+
+					GARAK
+			Good evening, Doctor, Captain.
+
+					SISKO
+			Are you two all right?
+
+					GARAK
+			Perfect. How are you?
+
+					BASHIR
+			I've felt better.
+
+	They've passed each other and no one's looking back.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    40.
+
+58   INT. JEM'HADAR CAVERN - DAY
+
+	Sisko and Bashir are escorted into the Cavern by 
+	Remata'Klan and Limara'Son. The other Jem'Hadar eye
+	them warily and finger their weapons -- they'd like 
+	nothing more than to open fire right now. Keevan is 
+	still lying on his makeshift bed, looking like hell, 
+	and Bashir goes to him immediately and opens his 
+	medkit. But Keevan ignores Bashir and focuses on 
+	Sisko.
+
+					KEEVAN
+			Captain Sisko, my name is Keevan.
+			We have a lot to talk about.
+
+					BASHIR
+			Not for a while, you don't.
+				(to Sisko)
+			He needs immediate surgery.
+
+					SISKO
+			Now?
+
+					BASHIR
+			I don't think I have any choice.
+
+	The Jem'Hadar suddenly start gathering around Keevan. 
+	Bashir looks up in concern.
+
+					BASHIR
+			I'm a doctor. I won't harm him.
+
+					KEEVAN
+				(cynical smile)
+			They're not here to protect me.
+			They've just never seen what the
+			inside of a Vorta looks like.
+
+	The Jem'Hadar crowd around for a better look as Bashir 
+	takes out his surgical instruments. Sisko decides he 
+	doesn't want a better look and grabs a seat on the 
+	floor as Bashir prepares to operate in front of an 
+	audience.
+
+									CUT TO:
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    41.
+
+59   INT. KIRA'S QUARTERS
+
+	It's the next morning. Kira is lying awake in bed, 
+	staring up at the ceiling. It's hard to say how long 
+	she's been awake. The Computer Voice finally speaks.
+
+					COMPUTER VOICE 
+			The time is zero five hundred 
+			hours.
+
+	Kira swings her legs out of bed and stands. But 
+	there's no power behind her movements today, no 
+	strength of will, just the familiar pattern of routine 
+	as she looks into the mirror and stares at her image... 
+	leans in closer to examine the eyes... and today, no 
+	smile appears on her face.
+
+									CUT TO:
+
+60   INT. CORRIDOR/TURBOLIFT
+
+	Kira is waiting outside the turbolift doors, carrying 
+	a PADD. The doors OPEN and she ENTERS to find the 
+	usual morning crowd of N.D. Cardassians and Jem'Hadar. 
+	To the other passengers, this is just another morning, 
+	but something has changed in Kira. The death of Yassim 
+	is heavy on her mind and she avoids eye contact with 
+	everyone in the lift.
+
+									CUT TO:
+
+61   INT. OPS 
+
+	The turbolift ENTERS Ops and Kira gets off along with 
+	everyone else. The normal routine proceeds as the duty 
+	shift changes. Kira heads to her console. The N.D. 
+	Cardassian approaches with a cup of raktajino and Kira 
+	takes it by rote.
+
+					KIRA
+			Thanks, Mavek.
+
+	She lifts the mug to her lips, but as she does so she 
+	lifts her eyes and looks around -- really looks around -- 
+	Ops as if for the very first time.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    42.
+
+62   WIDER
+
+	Kira is the lone Bajoran in a sea of Cardassians and 
+	Jem'Hadar. A woman alone in a room teeming with 
+	enemies.
+
+63   RESUME 
+
+	As Kira begins to realize where she is and what she's 
+	doing. She puts down the mug and EXITS without a word.
+
+									CUT TO:
+
+64   INT. JEM'HADAR CAVERN - DAY
+
+	A few hours later. Sisko is still sitting in his spot 
+	on the floor as the surgical "audience" breaks up and 
+	the Jem'Hadar move off. We can now see that Keevan is 
+	asleep on his makeshift bed, while Bashir (jacket now 
+	off) cleans his hands and instruments in a bowl of 
+	water. Keevan's chest is covered with a bandage, and 
+	he's hooked up to a small Starfleet IV.
+
+	Remata'Klan moves over to Sisko.
+
+					SISKO
+			How was the show?
+
+					REMATA'KLAN
+			Informative.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    43.
+
+64   CONTINUED:
+
+	Just then Keevan begins to stir.
+
+					KEEVAN
+				(groggy)
+			I... am... alive.
+
+					BASHIR 
+			No self-diagnoses, please. I'm 
+			the doctor here.
+
+	Bashir checks him out with the tricorder and his own 
+	observations as Sisko and Remata'Klan come over.
+
+					BASHIR
+				(off tricorder) 
+			Internal hemorrhaging has 
+			stopped...
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    44.
+
+64   CONTINUED:	(2)
+
+					BASHIR (Cont'd)
+			... your free collagen levels are
+			dropping... tissue growth factors 
+			have stabilized... and there's a 
+			fifty percent rise in cell 
+			oxygenation.
+				(beat) 
+			You're alive.
+
+	Keevan shifts a little, tries to get more comfortable, 
+	but an unwary move sends a jolt of pain throughout his 
+	body.
+
+					BASHIR 
+			Careful. Most of your insides are 
+			being held together with cellular 
+			micro-sutures and a lot of hope.
+
+	Keevan catches his breath for a moment, then looks up 
+	at Remata'Klan.
+
+					KEEVAN 
+			Leave us.
+				(re: other Jem'Hadar) 
+			And take them with you.
+
+	Remata'Klan motions for the rest of his men to follow 
+	him as he EXITS. Once they're gone, Keevan points to 
+	the case containing the White seen earlier.
+
+					KEEVAN
+				(to Bashir)
+			May I have that please?
+
+	Bashir obliges and Keevan begins to work the security 
+	device on the case.
+
+					KEEVAN 
+			There are ten Jem'Hadar soldiers 
+			on this planet, Captain...
+
+	The case OPENS and Keevan displays the interior --
+	there's only one intact vial of White inside. The rest 
+	have been smashed and there's a lot of dried White in 
+	the bottom of the case.
+
+					KEEVAN
+				(continuing)
+			... and that is the only vial of 
+			Ketracel White we have left. When 
+			it's gone, my hold over them will 
+			be broken.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    45.
+
+64   CONTINUED:	(3)
+
+					KEEVAN (Cont'd) 
+			They'll become nothing more than 
+			senseless, violent animals -- and 
+			they'll kill everyone they can -- 
+			me, you, the rest of your men... 
+			and finally turn on each other.
+
+					SISKO
+			Why are you telling us this?
+
+					KEEVAN 
+			I'm going to order the Jem'Hadar 
+			to attack your base camp in the 
+			morning. But I will provide you 
+			with their precise plan of attack. 
+			You should be able to kill them 
+			all.
+
+					BASHIR
+				(appalled) 
+			They're your own men.
+
+					KEEVAN 
+			Yes.
+
+					SISKO
+			You still haven't answered my 
+			question -- why are you doing 
+			this?
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR    46.
+
+64   CONTINUED:	(4)
+
+	Keevan gestures to the communications gear sitting on 
+	the far side of the cavern.
+
+					KEEVAN
+				(continuing) 
+			That's a communications system. 
+			It needs repair, but I'm willing 
+			to bet that you've brought one of 
+			those famed Starfleet engineers 
+			who can turn rocks into 
+			replicators. He should have a lot 
+			more success repairing it than a 
+			Jem'Hadar suffering from 
+			withdrawal.
+
+	Sisko and Bashir look over at the com system, and 
+	Keevan can see how sorely tempted they are.
+
+					KEEVAN
+				(continuing) 
+			After you take care of the 
+			Jem'Hadar, I'll give you the com 
+			system and surrender to you as a 
+			prisoner of war.
+
+					BASHIR 
+			And you spend the war resting 
+			comfortably as a Starfleet P.O.W. 
+			while your men lie rotting on this 
+			planet.
+
+					KEEVAN 
+			I see we understand each other.
+				(to Sisko) 
+			I'm ordering the Jem'Hadar to 
+			attack your position tomorrow 
+			regardless of whether you agree to 
+			my terms or not. So you can 
+			either kill them or they'll kill 
+			you. Either way... they're 
+			coming.
+
+	A long beat as Sisko grapples with a distasteful 
+	situation. Sisko exchanges a look with Bashir... 
+	neither of them like this, but Keevan then forges ahead 
+	and begins to draw a diagram in the sand.
+
+  DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FOUR     47   
+
+64   CONTINUED:	(5)
+
+					KEEVAN
+				(continuing) 
+			Now -- this is your base camp... 
+			two kilometers to the south is a 
+			canyon. I will order the 
+			Jem'Hadar to follow the canyon 
+			floor...
+
+	And as Sisko bends down and begins to study the plan of 
+	attack...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    48.
+                           ACT FIVE                             
+
+	FADE IN:
+
+65   INT. STARFLEET CAVERN - NIGHT 
+
+	Sisko has drawn up a diagram in the sandy cavern floor 
+	identical to the one that the Vorta started to draw for 
+	him at the end of Act Four. Garak, Nog, Bashir, 
+	O'Brien, Gordon and Neeley are gathered around and Dax 
+	is awake and listening.
+
+					SISKO
+			... and once they've reached this 
+			point... we'll have them in a 
+			crossfire.
+
+	A grim beat.
+
+					GORDON 
+			They won't have a chance.
+
+					GARAK 
+			That is the idea. In case you've 
+			forgotten we're in a war and 
+			they're the enemy.
+
+	Sisko stares down at the diagram in the sand and lets 
+	his troops air their opinions for a moment.
+
+					O'BRIEN 
+			There are rules, even in war, 
+			Garak.
+
+					GARAK 
+			Correction -- -humans have rules in 
+			war. Rules that tend to make 
+			victory a little harder to 
+			achieve, in my opinion.
+
+					GORDON 
+			So we just... shoot them down?
+
+					NEELEY 
+			They wouldn't hesitate if the 
+			situation was reversed.
+
+					NOG 
+			But we're not Jem'Hadar. Don't we 
+			have a duty to --
+
+					SISKO 
+			This isn't a vote.
+
+ DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE 49-50.    
+
+65   CONTINUED:
+
+	Everyone falls silent.
+
+					SISKO 
+			The decision's mine. And Garak's 
+			right -- we're at war. Given a 
+			choice between us or them... there 
+			is no choice.
+
+	That leaves no room for argument and everyone has to 
+	deal with their own thoughts and feelings.
+
+					SISKO 
+			Let's move out.
+
+	Everyone grabs their weapons and heads out of the 
+	cavern, leaving Sisko behind with Dax for a moment.
+
+					DAX
+			I'd say good luck... but I don't 
+			think you need it.
+
+					SISKO
+			Say it anyway. Because I'm still 
+			hoping there's another way out of 
+			this.
+
+					DAX
+			In that case... good luck 
+			Benjamin.
+
+	Sisko gives her a nod and then EXITS.
+
+									CUT TO:
+
+66   OMITTED
+
+67   EXT. ALIEN SHORELINE TWO - DAWN
+
+
+	The blood-red SUN is rising up over the horizon.
+
+68   EXT. BOX CANYON - FLOOR - DAY 
+
+	A narrow passageway with high walls on either side --
+	the perfect place for an ambush. Remata'Klan leads his 
+	men across the floor of the canyon. Some of them are 
+	having trouble concentrating and have to shake their 
+	heads and blink to focus on the path... others are 
+	struggling to control the shaking of their hands...
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    51.
+
+69   NOG
+
+	is up in a hidden location on the canyon walls, 
+	watching the Jem'Hadar over the sights of his phaser. 
+	Bashir can be seen a short distance away.
+
+70   REMATA'KLAN
+
+	keeps marching his men through the canyon.
+
+71   NEELEY
+
+	is watching them from her own hiding place. Garak is 
+	nearby, and Gordon is in the b.g.
+
+72   SISKO & O'BRIEN
+
+	are watching and waiting for exactly the right moment 
+	as the Jem'Hadar stride into the very center of the 
+	canyon...
+
+73   THE JEM'HADAR
+
+	are walking along. Suddenly they hear:
+
+					SISKO'S VOICE 
+			Remata'Klan!
+
+	The Jem'Hadar whirl toward his voice, all weapons at 
+	the ready, but they can't see him.
+
+					SISKO'S VOICE 
+			I want to talk!
+
+	Remata'Klan pauses for a moment.
+
+					REMATA'KLAN 
+			Agreed!
+				(to Limara'Son) 
+			Hold this position. Do not fire 
+			unless they do.
+
+					LIMARA'SON 
+			Understood.
+
+	Remata'Klan turns and walks toward Sisko, who's now 
+	come partway down the ridge to meet Remata'Klan 
+	halfway.
+
+74   SISKO & REMATA'KLAN
+
+	stop a short distance away from each other.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    52.
+
+74   CONTINUED:
+
+					SISKO 
+			There's no way out of this canyon 
+			and we have phaser locks on every 
+			one of you.
+
+	Remata'Klan looks around the canyon with a professional 
+	eye.
+
+					REMATA'KLAN 
+			You appear to have a decisive 
+			advantage.
+
+					SISKO 
+			A battle under these circumstances 
+			would serve no purpose. I'm 
+			prepared to offer you terms.
+
+	Remata'Klan is already shaking his head, but Sisko plunges forward.
+
+					SISKO
+				(continuing) 
+			Hear me out. I know that you need 
+			more Ketracel White. My doctor 
+			can sedate your men and keep them 
+			alive until we're rescued. After 
+			that, we can put you into medical 
+			stasis until we secure a new 
+			supply.
+
+					REMATA'KLAN 
+			The Vorta did not give me the 
+			option to surrender.
+
+	Remata'Klan turns to go, but Sisko plays his final 
+	card.
+
+					SISKO 
+			Keevan's betrayed you. He gave us 
+			your entire plan of attack last 
+			night.
+
+	Remata'Klan nods and gives Sisko a rueful look.
+
+					REMATA'KLAN 
+			It was obvious that approaching 
+			your position through this canyon 
+			was a deliberate tactical error on 
+			his part.
+
+					SISKO 
+			You knew?
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    53.
+
+74   CONTINUED:	(2)
+
+					REMATA'KLAN 
+			I suspected. Despite what Keevan 
+			may think, the Jem'Hadar are often 
+			one step ahead of the Vorta.
+
+
+					SISKO
+			You can stay one step ahead. 
+			Surrender.
+
+					REMATA'KLAN 
+			I have my orders.
+
+					SISKO 
+			He hasn't earned the unwavering 
+			loyalty you're giving him. He's 
+			a manipulative little creature 
+			trying to save his own neck by 
+			sacrificing you and your men.
+
+					REMATA'KLAN 
+			He does not have to earn my 
+			loyalty, Captain. He has had it 
+			from the moment I was conceived. 
+			I am a Jem'Hadar, he is a Vorta. 
+			It is... the order of things.
+
+					SISKO
+			Do you really want to give up your 
+			life for "the order of things?"
+
+					REMATA'KLAN 
+			It's not my life to give up. And 
+			it never was.
+
+	Remata'Klan heads back to his men. Sisko watches him 
+	for a long beat.
+
+75   O'BRIEN
+
+	is waiting in his position as Sisko returns and joins 
+	him.
+
+					O'BRIEN 
+			What'd he say?
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    54.
+
+75   CONTINUED:
+
+					SISKO
+			All the wrong things...
+
+76   NEW ANGLE (OPTICAL) 
+
+	as the Jem'Hadar OPEN FIRE on the Starfleet positions. 
+	The Starfleet officers RETURN FIRE and the explosions 
+	of SAND and DUST send up CLOUDS that COMPLETELY OBSCURE 
+	OUR VIEW --
+
+									DISSOLVE TO:
+
+77   EXT. BOX CANYON - FLOOR -DAY
+
+	As the drifting CLOUDS of DUST begin to settle and we 
+	see Sisko, Bashir, O'Brien and Neeley walking across 
+	the floor of the canyon. The battle is over and all 
+	the Jem'Hadar are dead. So is Ensign Gordon, whose 
+	dead form has rolled down to the canyon floor during 
+	the fight. Bashir is checking Gordon anyway. Nog and 
+	Garak are higher up on the ridge with weapons at the 
+	ready, just in case.
+
+	Sisko walks across the smoking and scorched battlefield 
+	and finds the body of Remata'Klan. He kneels down for 
+	a moment as O'Brien stands nearby. The silent moment 
+	is broken as O'Brien sees something O.S.
+
+					O'BRIEN
+			Captain...
+
+	He follows his gaze and his expression hardens as he 
+	sees...
+
+78   KEEVAN
+
+	walking through the canyon. Picking his way through 
+	the debris and stepping over the bodies of his former 
+	soldiers. Keevan is carrying the communications gear. 
+	He pauses over the form of Remata'Klan and looks down 
+	at the fallen, his expression unreadable to the humans 
+	watching. After a few moments, he turns to Sisko.
+
+					KEEVAN 
+			You know, Captain... if I had had 
+			just two more vials of White... 
+			you never would've had a chance.
+
+	Sisko can barely contain the loathing and hatred he 
+	feels for this man.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    55.
+
+78   CONTINUED:
+
+					SISKO
+				(to O'Brien) 
+			Chief, take him back to base camp 
+			and then get to work on this com 
+			system.
+
+					O'BRIEN 
+			Aye, sir.
+
+	O'Brien escorts Keevan at gunpoint out of the area. 
+	There's very little to say or do here in this place of 
+	death except...
+
+					SISKO 
+			Lieutenant Neeley!
+
+					NEELEY 
+			Sir?
+
+	Beat.
+
+					SISKO 
+			Form a burial detail.
+
+					NEELEY 
+			Aye, sir.
+
+	As Neeley signals to Garak and Nog to come down from 
+	the ridge...
+
+									CUT TO:
+
+79   EXT. SPACE - TEROK NOR (OPTICAL)
+
+	Re-establishing the station.
+
+80   INT. PROMENADE - SECOND LEVEL
+
+	Kira (without her combadge) is standing at the rail 
+	where Yassim committed suicide. Odo approaches her.
+
+					ODO
+			Damar has been trying to contact 
+			you for the past five hours.
+
+	Kira silently opens her hand, revealing the combadge, 
+	and then closes it in her fist again.
+
+					KIRA
+			I keep thinking about it, over and 
+			over... and I just can't believe 
+			that I...
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    56.
+
+80   CONTINUED:
+
+					KIRA (Cont'd)
+			... stood down there ready to use 
+			force to stop a protest against 
+			the Dominion. Me. When I was in 
+			the Resistance I despised people 
+			like me. I'm a collaborator, Odo.
+
+					ODO
+			That's not true. You're doing 
+			exactly what Captain Sisko wanted 
+			you and the rest of Bajor to do -- 
+			remain neutral and stay out of the 
+			fighting.
+
+					KIRA
+			We used to have a saying in the 
+			Resistance: if you're not 
+			fighting them, you're helping 
+			them. Half the Alpha Quadrant is 
+			out there right now, fighting for 
+			my freedom. But not me. How do 
+			I spend my time? I get a full 
+			meal every day... I sleep in a 
+			soft bed every night... I even 
+			write reports for the murderers 
+			who run this station.
+
+					ODO
+			This is a difficult time for 
+			everyone. Do you think it's easy 
+			for me to sit down with Dukat and 
+			Weyoun every day while they plot 
+			the destruction of the Federation?
+
+					KIRA
+			I'm not pointing a finger at you, 
+			Odo. I'm the one who told you to 
+			get more involved in the first 
+			place. No, this is about me. 
+			This is about being able to look 
+			in the mirror every morning and 
+			not feel nauseated by what I see. 
+				(beat) 
+			Yassim was right -- I've got to do 
+			something. I've got to start 
+			fighting back.
+
+					ODO
+			That's a mistake. Active 
+			resistance will trigger a 
+			crackdown and--
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    57.
+
+80   CONTINUED:	(2)
+
+					KIRA
+				(hard) 
+			Odo, I don't want to end up 
+			fighting you too, but I'll do it 
+			if I have to.
+
+	A quiet beat between the two longtime friends. Odo 
+	glances around for a moment.
+
+					ODO 
+			All right. But let's find a more 
+			discreet place to plan the New 
+			Resistance.
+
+	Kira almost smiles at him, grateful for the support at 
+	last. She glances down at the rail one last time, and 
+	then the two of them walk off together down the 
+	Promenade.
+
+									CUT TO:
+
+81   EXT. BOX CANYON - FLOOR - DAY 
+
+	Sisko is stabbing a Dominion disruptor rifle into the 
+	ground, bayonet first. WIDEN to reveal the new 
+	GRAVEYARD that's been dug here in the floor of the 
+	canyon. There's a rock cairn grave for each Jem'Hadar, 
+	and a Dominion disruptor rifle has been planted in the 
+	ground at the head of each grave in the ancient manner 
+	of fallen soldiers. There's also a grave for Gordon, 
+	and a Starfleet phaser rifle has been planted at the 
+	head of his grave. Neeley, Garak, and Nog are standing 
+	nearby. They're all dirty and disheveled from the 
+	work.
+
+					NEELEY 
+			Should someone say a few words?
+
+					SISKO
+				(shakes his head) 
+			Their gods were the Founders. 
+			They won't hear our prayers.
+
+	They stand there in silence for a long moment.
+
+     DEEP SPACE NINE: "Rocks & Shoals" - REV. 8/15/97 - ACT FIVE    58.
+
+82   NEW ANGLE (OPTICAL)
+
+	As WORF and TWO N.D. KLINGONS MATERIALIZE in the 
+	canyon. They're armed and ready for anything.
+
+					WORF 
+			Captain!
+
+	Worf leads the Klingons over to the small group.
+
+					GARAK 
+			For once, Mister Worf it's good to 
+			see you...
+
+					WORF
+			We detected your distress call a 
+			few hours ago.
+
+	He looks around with worry.
+
+					WORF
+			Jadzia... ?
+
+					SISKO 
+			She's hurt, but she'll be fine. 
+			She's back at the basecamp with 
+			Doctor Bashir and the chief.
+
+	Worf glances over the graves.
+
+					WORF 
+			You were outnumbered. It must 
+			have been glorious.
+
+	Sisko and the others just stare at Worf, who clearly 
+	doesn't understand why they're looking at him like 
+	that. Sisko walks off and the others follow, leaving 
+	only the graves of the dead to mark what happened 
+	here...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

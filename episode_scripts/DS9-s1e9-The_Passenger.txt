@@ -1,0 +1,2974 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                        "The Passenger" 
+                          #40511-409 
+                              
+                           Story by 
+                         Morgan Gendel 
+                              
+                          Teleplay by 
+                         Morgan Gendel 
+                              and 
+             Robert Hewitt Wolfe & Michael Piller 
+                              
+                          Directed by 
+                          Paul Lynch 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       NOVEMBER 25, 1992
+
+       STAR TREK: DS9 - "The Passenger" 11/25/92 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Passenger" 
+                             CAST 
+
+          BENJAMIN SISKO           KAJADA
+          KIRA NERYS               VANTIKA
+          ODO                      DURG
+          QUARK                    
+          JULIAN BASHIR            
+          JADZIA DAX               
+          COMPUTER VOICE           
+
+          PRIMMIN                  
+          SECURITY VOICE (O.C.)    
+
+          Non-Speaking             Non-Speaking
+          2 FERENGI                2 BAJORANS
+          N.D. CREWMEMBER          NORKOVA CAPTAIN
+          MAINTENANCE CREW         NORKOVA HELMSMAN
+
+          SUPERNUMARIES            NORKOVA CARGO OFFICER
+
+     STAR TREK: DS9 - "The Passenger" - 11/25/92 - SETS
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Passenger" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          PROMENADE                     
+          OPS                           NORKOVA
+          COMMANDER'S OFFICE            
+          SECURITY OFFICE               RUNABOUT
+          QUARK'S                       
+          INFIRMARY                     THE WORMHOLE
+          CORRIDOR                      
+          LAB                           
+          ODO'S OFFICE                  
+          STASIS ROOM                   
+
+        KOBLIAD TRANSPORT             
+          CORRIDOR                      
+          HOLDING CELL                  
+
+        NORKOVA                       
+          BRIDGE                        
+
+        RUNABOUT                      
+
+  STAR TREK: DS9 - "The Passenger" - 11/30/92 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                        "The Passenger" 
+                      PRONUNCIATION GUIDE 
+
+          DEURIDIUM                der-IHD-ee-um
+          DURG                     DURG
+          KOBLIAD                  KOE-blee-ad
+          NORKOVA                  Nor-KOE-vuh
+          PRIMMIN                  PRIH-muhn
+          RAKTAJINO                ROCK-ta-GEE-no
+          RAO VANTIKA              RAY-oe VAN-ti-kuh
+          REYAB                    REE-yab
+          TY KAJADA                TIE kuh-JAH-duh
+          BAILIWICK                BAY-leh-wick
+          GLIAL                    GLEE-uhl
+          CEREBROSPINAL            suh-REE-broe-SPY-nuhl
+
+           DEEP SPACE: "The Passenger" - 11/25/92 - TEASER           1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                           "The Passenger"                             
+                            TEASER                              
+
+	FADE IN:
+
+
+1    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	The Runabout Rio Grande cruises through empty space.
+
+2    INT. RUNABOUT
+
+	KIRA is at the controls.  BASHIR is working on a PADD... 
+	preparing a medical report... after a beat, Kira pushes 
+	herself into saying with admiration...
+
+					KIRA
+			I've never seen anything like that.
+
+					BASHIR
+				(working)
+			Hmm?
+
+					KIRA
+				(repeating)
+			I've never seen anything like that.
+
+					BASHIR
+			The woman?
+
+					KIRA
+			She was dead... the tricorder clearly 
+			showed...
+
+					BASHIR
+			Ah yes, well tricorders... very 
+			accurate with live people, not so 
+			accurate with dead ones... we learn 
+			that in the first year of medical 
+			school...
+
+	Trying very hard to give him a compliment...
+
+					KIRA
+			Well, I was impressed, Doctor.
+
+					BASHIR
+				(working)
+			Hmmm.  And well you should be.
+
+           DEEP SPACE: "The Passenger" - 12/09/92 - TEASER           2.
+
+2    CONTINUED:
+
+	That leaves her mouth open... and now he gets quite expansive 
+	about himself... given the opportunity...
+
+					BASHIR
+			I impressed myself on this one 
+			actually.  I can't imagine what other 
+
+			Doctor would even consider examining 
+			the scapular nodes for parasitic 
+			infection.  I just seem to have a 
+			talent.  A vision that sees past the 
+			obvious, around the mundane... right 
+			to the target.  Fate has granted me 
+			a special gift, Major.  A gift to be 
+			a healer.
+
+	And now her mouth is dragging on the floor...
+
+					KIRA
+				(what an ass)
+			I feel privileged to be in your 
+			presence.
+
+					BASHIR
+				(the sport)
+			Glad to have you along.
+
+	Luckily for him, a warning light flashes on the console.
+
+					COMPUTER VOICE
+			Detecting a priority one broad band 
+			distress signal.
+
+	Kira and Bashir are instantly all business.  She presses 
+	some panels... the audio message comes through a little 
+	distorted, but intelligible.  The voice on the message is 
+	female and belongs to TY KAJADA, whom we will meet soon.
+
+					KAJADA (O.S)
+			Kobliad transport Reyab to any 
+			ship.  Our central power linkage 
+			has exploded.  We're losing life 
+			support.  Please respond...
+
+	Bashir consults a console.
+
+					BASHIR
+			Just picking it up on long range 
+			sensors.  Bearing three four seven 
+			mark zero eight.
+
+           DEEP SPACE: "The Passenger" - 12/09/92 - TEASER          2A.
+
+2    CONTINUED:	(2)
+
+					KIRA
+				(pressing information 
+				into panels, then 
+				checking)
+			I'm reading massive energy leakage... 
+			its aft structural integrity field 
+			is failing...
+
+           DEEP SPACE: "The Passenger" - 12/09/92 - TEASER           3.
+
+2    CONTINUED:	(3)
+
+	Kira lays in a new course and activates the Runabout's 
+	subspace radio.
+
+					KIRA
+				(to com)
+			This is the Federation Ship Rio 
+			Grande.  We're on our way.
+
+3    EXT. SPACE  (OPTICAL)
+
+	The Runabout alters course and moves away.
+
+4    INT. KOBLIAD TRANSPORT - CORRIDOR (OPTICAL)
+
+	A smoke-filled hallway... a Kobliad woman (KAJADA) dressed 
+	in a military type uniform is unconscious on the floor... 
+	she's burned slightly... Bashir and Kira BEAM IN.  They 
+	immediately feel the effect of falling life support... hard 
+	to breathe... They take tricorder readings.
+
+					BASHIR
+			O-2 pressure dropping rapidly... 
+			toxic gas levels rising... we have 
+			no more than ten minutes breathing 
+			time left in here...
+
+					KIRA
+			Automatic fire suppression must be 
+			off-line.  I'll check the central 
+			power linkage...
+
+	She moves through the corridor and EXITS... Bashir moves to 
+	Kajada... examines her with his tricorder... she moves with 
+	a start at his touch...
+
+					BASHIR
+			Relax.  I'm a doctor...
+
+	He shoots Kajada with a hypospray from his medkit.  Kajada 
+	slowly comes around.
+
+					KAJADA
+				(groggy)
+			What happened?
+
+					BASHIR
+			You lost consciousness.
+				(a beat)
+			We've got to evacuate your ship.  
+			How many others are on board?
+
+           DEEP SPACE: "The Passenger" - 12/09/92 - TEASER          3A.
+
+4    CONTINUED:
+
+					KAJADA
+				(struggling to maintain 
+
+				consciousness)
+			The pilot... is dead...
+
+	Bashir is already looking at his tricorder which leads him 
+	to a door near Kajada...
+
+					BASHIR
+			I'm reading another lifeform...
+
+					KAJADA
+			No... don't open that...
+
+           DEEP SPACE: "The Passenger" - 11/25/92 - TEASER           4.
+
+4    CONTINUED:
+
+	Bashir ignores her warning, presses the panel... it doesn't 
+	open the door...
+
+					BASHIR
+			It's sealed...
+
+					KAJADA
+			Prisoner... I'm transporting... he 
+			started the fire... to escape...
+
+					BASHIR
+			He's dying.  Where's the manual 
+			override...
+
+					KAJADA
+			No...
+
+	Bashir scans the hallway... moves down the hallway to a 
+	panel... opens it and hits a padd... the door slides open... 
+	flames shoot out into the corridor... Bashir braves them to 
+	go inside... Kajada driven by her own determination gets to 
+	her feet and follows...
+
+					KAJADA
+			Don't...
+
+5    INT. KOBLIAD TRANSPORT - HOLDING CELL
+
+	A small room, full of fire and smoke.  A Kobliad male (RAO 
+	VANTIKA) is collapsed on the floor.  He is badly burned, 
+	barely alive.  Bashir opens his medkit and goes to work.
+
+					KAJADA
+			He's... dangerous.
+
+					BASHIR
+			I assure you, in this condition, 
+			he's no threat to anyone.
+
+	Kira runs in from the corridor with a 24th century fire 
+	extinguisher...
+
+           DEEP SPACE: "The Passenger" - 12/09/92 - TEASER           5.
+
+5    CONTINUED:
+
+					KIRA
+			Power linkages are completely shot... 
+			maneuvering subsystems are out... 
+			I've managed to stabilize the 
+			structural integrity field, but I 
+			don't know how long that will last... 
+			we'll have to tow it in...
+
+	As she shoots nitrogen on the fire, Bashir injects Vantika 
+	with the hypospray, but the criminal remains comatose.
+
+					BASHIR
+			His synaptic fields are dissipating... 
+			I can't get a neural reading... I 
+			have to get him to the emergency 
+			unit in the Runabout.
+
+					KIRA
+				(nods, hits combadge)
+			Computer, four to transport...
+
+	Suddenly, Vantika reaches out with one hand and grabs Bashir 
+	by the throat.  He pulls Bashir down until the two men are 
+	eye to eye.  Bashir struggles, trying to pull back from 
+	Vantika's badly burned face.
+
+					VANTIKA
+				(harsh, gravelly voice)
+			...make... me... live...
+
+	Bashir wrestles to free himself from Vantika's vice-like 
+	grip.  Kira rushes to the doctor's rescue, but, before they 
+	can do anything, Vantika releases Bashir and slumps to the 
+	ground.  Bashir scans Vantika with his tricorder.  Touches 
+	his neck.  Almost immediately, Kajada slumps and Kira supports 
+	her...
+
+					BASHIR
+				(shakes his head)
+			This one I can't bring back.
+
+	As they exchange a glance...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT ONE           6.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+6    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+7    INT. INFIRMARY
+
+	Close on Ty Kajada's face, her eyes closed.  The HISS of a 
+	hypospray can be heard in the background.  Kajada's eyes 
+	flutter open.  Pull back to take in...
+
+8    BASHIR
+
+	looking down at Kajada in concern.
+
+					KAJADA
+				(weakly)
+			Where am I?
+
+					BASHIR
+			You're on Station D.S. Nine... I'm 
+			Doctor Bashir...
+
+					KAJADA
+			Ty Kajada... Kobliad Security...
+				(late reaction)
+			D.S. Nine... but that's where he was 
+			going...
+
+	Kajada tries to get up... panicky...
+
+					KAJADA
+				(continuing)
+			Where is he?  Where is Vantika?
+
+					BASHIR
+			Your prisoner?  He's dead.
+
+					KAJADA
+			You're certain.
+
+					BASHIR
+			Yes.  You were the only survivor.
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT ONE         7.
+
+8    CONTINUED:
+
+					KAJADA
+			Where's his body?
+
+					BASHIR
+			I have it in stasis.
+
+					KAJADA
+			I want to see it.
+
+					BASHIR
+			Later, when you're feeling stronger...
+
+					KAJADA
+			Now.
+
+	Bashir reacts and...
+
+	TIME CUT TO:
+
+9    INT. STASIS ROOM - A BODY CABINET (OPTICAL)
+
+	Vantika has been laid out on the shelf... Bashir hits a 
+	button... the shelf slides out of the wall and a stasis 
+	forcefield ZAPS off.
+
+					BASHIR
+			The preliminary examination indicated 
+			that the subject died of a massive 
+			respiratory failure, brought on by 
+			the pulmonary trauma suffered in the 
+			fire.
+
+					KAJADA
+			Are you sure it's the same body?
+
+					BASHIR
+				(a little surprised 
+				at the question)
+			Quite certain.  It's been sealed in 
+			here ever since our arrival.
+
+	She picks up a small laser penlight, looks in his eyes...
+
+					KAJADA
+			Have you run a retinal imaging scan?
+
+					BASHIR
+			What for... ?
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT ONE           8.
+
+9    CONTINUED:
+
+					KAJADA
+			To confirm there is no residual 
+			activity in the visual cortex...
+
+					BASHIR
+			Miss Kajada, I assure you he is 
+			dead...
+
+					KAJADA
+			He's faked his death more times than 
+			I can tell you, Doctor.  The last 
+			time someone thought he was dead, 
+			they didn't live to regret the 
+			mistake.
+
+	She looks around the workstation and casually picks up a 
+	long, narrow-tipped tool.
+
+					BASHIR
+			He was a murderer... ?
+
+					KAJADA
+			That description doesn't do justice 
+			to the horrors he is responsible for 
+			on my world.
+				(beat, studying him)
+			He is quite brilliant in his way.  A 
+			man of science.  Who killed others 
+			to prolong his own life.  I've tracked 
+			him for twenty years.
+
+	A beat.  Then, Kajada takes the tool and plunges it down in 
+	Vantika's chest.  Bashir reacts with shock.
+
+					KAJADA
+				(calmly)
+			Please perform an autopsy.  I want 
+			his identity confirmed with a DNA 
+			reference scan.
+
+					BASHIR
+				(still shaken)
+			Of course.
+
+					KAJADA
+			And have someone scan my ship to 
+			make sure there are no anomalous 
+			life forms on board...
+
+					BASHIR
+			Are you sure that's necessary?
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT ONE         9.
+
+9    CONTINUED:	(2)
+
+					KAJADA
+			Very sure.
+
+	On her determined look... Bashir reacts and...
+
+10   INT. QUARK'S
+
+	On Quark's hand as QUARK places a cup of iced coffee on the 
+	bar.
+
+					QUARK
+			Iced Raktajino.  Extra cream.
+
+	Pull back to take in...
+
+11   THE WHOLE BAR
+
+	DAX takes the cup of Klingon coffee.
+
+					DAX
+			Thank you, Quark.
+
+					QUARK
+				(smitten)
+			At your service.  Day or night.
+
+	Dax smiles slightly and walks away with her coffee.  Quark 
+	watches her go with a lascivious eye.
+
+					QUARK
+				(an aside)
+			Poor woman.  She's obviously 
+			infatuated with me.
+
+	ODO snorts in derision from his usual seat at the end of the 
+	bar.  A few yards away, within earshot is LIEUTENANT PRIMMIN, 
+	a Starfleet security officer in his mid-thirties.  He has a 
+	friendly face, an easygoing smile and a passing resemblance 
+	to a teddy bear.
+
+					ODO
+			You're deluding yourself.
+
+					QUARK
+			There's nothing wrong with a good 
+			delusion.  I sell them upstairs to 
+			dozens of people every day.
+				(beat)
+			Besides, there's something in her 
+			eyes when she looks at me.
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT ONE          10.
+
+11   CONTINUED:
+
+					ODO
+			An allergic reaction, no doubt.
+
+					QUARK
+			I think she's lonely.
+
+					ODO
+			Dax?  She has ten lifetimes of friends 
+			to call on before she calls you.  
+			And every man on the station would 
+			like to be buying her a Raktajino.
+
+					QUARK
+			Ah, but I'm the one with the Raktajino 
+			machine.
+
+					ODO
+			She seems to prefer to spend most of 
+			her time alone... which I understand 
+			perfectly.
+
+					QUARK
+			Well, then that must make her the 
+			perfect woman for you.
+
+					ODO
+			I wouldn't intrude on her privacy as 
+			some would.
+
+					QUARK
+			You're pathetic.  You think everyone 
+			in the galaxy should be as lonely 
+			and miserable as you are.
+
+	Quark looks longingly at Dax, who has taken a seat at one of 
+	the tables and is reading from a PADD and sipping her coffee.
+
+					QUARK
+			As hard as it may be for you to 
+			understand, some of us like company.  
+			The sound of a friendly voice.  The 
+			sight of a familiar face.
+				(stares hungrily at 
+				Dax)
+			The feel of smooth, pliant flesh.
+
+	Quark is almost drooling.
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT ONE          11.
+
+11   CONTINUED:	(2)
+
+					ODO
+				(re: Dax)
+			Why do you bother?
+
+					QUARK
+			It's good to want things.
+
+					ODO
+			Even things you can't have?
+
+					QUARK
+			Especially things I can't have.
+
+					ODO
+				(casual)
+			Like the Deuridium shipment?
+
+					QUARK
+				(not a blink, 
+				"innocent," new game)
+			Deuridium shipment.  Is there a 
+			deuridium shipment coming here?
+
+					ODO
+			I'm watching you, Quark.
+
+	Moving away... staying with Quark a beat... still looking at 
+	Dax across the room...
+
+					QUARK
+				(sighs, to himself)
+			And I'm watching you, Jadzia.
+
+12   ANGLE - OVER HIS SHOULDER
+
+	At Dax as she looks up and makes eye contact with Quark... 
+	and it's that quick moment with a woman that takes your breath 
+	away... she smiles and looks back down at her PADD...
+
+13   ANGLE - QUARK
+
+	feels his heart jump to his throat... as we move to find 
+	Primmin moving to join Odo just before he exits...
+
+14   CLOSER ON ODO AND PRIMMIN
+
+					PRIMMIN
+			Interesting technique.
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT ONE        12.
+
+14   CONTINUED:
+
+	Odo pauses to see who's addressing him.
+
+					PRIMMIN
+			Do you always get ready for an 
+			important operation by leaking word 
+			about it to the local black market?
+
+	Odo looks at Primmin with disapproval.
+
+					ODO
+			The way I handle my business is none 
+			of your concern.
+
+	Odo EXITS.  Primmin follows.
+
+15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM
+
+					PRIMMIN
+			I'm afraid it is.
+
+	Primmin tries to keep up with Odo.
+
+					PRIMMIN
+				(continuing)
+			Lieutenant George Primmin.  Starfleet 
+			security.
+
+	No response from Odo.
+
+					PRIMMIN
+			If you don't mind, I'd like to talk 
+			to you about the deuridium shipment 
+			from the Gamma Quadrant.
+
+					ODO
+			We have nothing to discuss.  Security 
+			is already in place.
+
+					PRIMMIN
+			I'd appreciate it if we could go 
+			over it anyway.  It took me three 
+			weeks to get here.  I'd hate to think 
+			it was for nothing.
+
+					ODO
+				(begrudgingly)
+			If you insist.  Meet me in my office 
+			at seventeen hundred hours.
+
+	Odo walks away... Primmin studies him a beat...
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT ONE        13.
+
+16   INT. OPS
+
+	SISKO, Kira, Dax and Bashir are conferring.
+
+					BASHIR
+			The autopsy revealed nothing out of 
+			the ordinary.  Fingerprints, cerebral 
+			cortex scan, and retinal patterns 
+			all match up perfectly with the 
+			records Kajada provided.  Vantika 
+			may have faked his death before, but 
+			I don't think he's faking this time.
+
+					SISKO
+			Why was he coming here?
+
+					BASHIR
+				(self-evident)
+			They're Kobliad.
+
+					DAX
+				(understands 
+				immediately)
+			The deuridium.
+
+					KIRA
+			I'm sorry... ?
+
+					SISKO
+			The Kobliad is a dying race.  They 
+			need deuridium to stabilize their 
+			cell structure.  It prolongs their 
+			lifespan...
+
+					DAX
+			The Federation's been working to 
+			supply them with deuridium, but even 
+			the new deposits from the Gamma 
+			Quadrant won't be enough to service 
+			the whole population.  It's so scarce, 
+			some of the Kobliad have gone 
+			underground to get it.
+
+					KIRA
+			So he was coming here to hijack the 
+			shipment.
+
+					SISKO
+			Is Kajada satisfied with your autopsy?
+
+					BASHIR
+			I don't think anything's going to 
+			convince her he's dead, Commander.
+
+         DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT ONE        14.
+
+16   CONTINUED:
+
+					DAX
+			Vantika has been the focus of Kajada's 
+			attention for most of her adult life.  
+			In a way, they were as intimately 
+			connected as any two people could 
+			be.
+
+					SISKO
+				(a thoughtful beat)
+			Let's do her the courtesy of granting 
+			her requests as long as they're not 
+			too far out of line.  A quick sweep 
+			of her ship isn't too much to ask.
+
+	Dax nods and Sisko rises signaling the meeting is ending...
+
+					SISKO
+			I'm more concerned that he might 
+			have had help waiting here to hijack 
+			the shipment.
+
+	Over the last line, Primmin is arriving on the Turbolift... 
+	as Sisko sees him...
+
+					SISKO
+			Mister Primmin, good.  In my office.  
+			I need to brief you on an unusual 
+			security issue that's been raised...
+
+					KIRA
+				(protecting her own)
+			I'll get Odo up here...
+
+					PRIMMIN
+				(reacts)
+			Ah... that's okay, Major.  I'll fill 
+			him in later on anything he needs to 
+			know.
+
+	He moves toward Sisko's office.  Kira doesn't like Odo being 
+	cut out of the briefing, looks to Sisko for a response.  
+	He's noticed Primmin's attitude, but chooses not to give her 
+	one... moves after Primmin into his office.
+
+16A  INT. COMMANDER'S OFFICE - CONTINUOUS
+
+					SISKO
+			How are you getting on with Constable 
+			Odo, Lieutenant?
+
+         DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT ONE       14A.
+
+16A  CONTINUED:
+
+					PRIMMIN
+			I'm sure he's good at keeping order 
+			down there on the Promenade...
+				(implied "but")
+
+					SISKO
+				(beat)
+			But...
+
+					PRIMMIN
+			Frankly, isn't the security of a 
+			deuridium shipment a little over his 
+			head... I mean he was chatting about 
+			it in the bar with that Ferengi 
+			Quark... if I could overhear it, so 
+			could half-dozen others...
+
+					SISKO
+			It's hard to keep a secret in a place 
+			like this, Lieutenant.  It's not a 
+			starship...
+
+					PRIMMIN
+			I understand that, but...
+
+					SISKO
+			I'm sure almost everyone knows about 
+			the shipment by now.  Odo was probably 
+			making sure Quark knows we know he 
+			knows.
+
+					PRIMMIN
+				(too chummy for a 
+				subordinate)
+			Well, it's not how we learned it at 
+			the academy, is it, sir.  If you 
+			want my opinion...
+
+					SISKO
+			Actually, I don't.
+				(beat, off Primmin's 
+				take)
+			You and I are guests of the Bajorans, 
+			Lieutenant.  You don't have to forget 
+			what you learned at the academy... 
+			just don't throw it in anyone's face 
+			here.  If you're really smart, you 
+			might even learn a few new things 
+			about station security from our 
+			Constable.  Clear?
+
+         DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT ONE       14B.
+
+16A CONTINUED:	(2)					  
+
+					PRIMMIN
+			Very clear, sir.
+
+	Sisko nods a satisfied acknowledgement... to button the scene 
+	he sits down... as Primmin licks his wounds silently --
+
+					SISKO (O.S.)
+			Now, regarding the shipment, we've 
+			been made aware of a possible Kobliad 
+			plot to hijack the deuridium... you 
+			and Odo ought to have a talk with 
+			Kajada, the Kobliad security officer 
+			who arrived yesterday...
+
+17   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Stock.
+
+18   INT. ODO'S OFFICE
+
+	Primmin ENTERS Odo's office.
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT ONE        15.
+
+18   CONTINUED:
+
+					PRIMMIN
+			Before we get started, I want to 
+			apologize for us getting off on the 
+			wrong foot.
+
+					ODO
+				(dismissive)
+			Think nothing of it.
+
+					PRIMMIN
+			Listen, this is your bailiwick.  I 
+			know that.  And I don't mean to be 
+			throwing my weight around.  No hard 
+			feelings.
+
+	He sticks out his hand again.
+
+					ODO
+				(barely warming)
+			None at all.
+
+	This time Odo shakes it.
+
+					PRIMMIN
+			Just because I'm from Starfleet 
+			Security doesn't mean I don't respect 
+			your opinion.  How about showing me 
+			what you've got and I'll see if 
+			there's anything we can work with.
+
+					ODO
+				(stiffens)
+			Lieutenant, you're welcome to see my 
+			plans, but I assure you, I've taken 
+			every precaution regarding the 
+			shipment.
+
+	Odo sits, punches up the information on his computer...
+
+					ODO
+			Of course, if you have any 
+			suggestions, I'll be happy to hear 
+			them.
+
+	He throws a guarded glance at the Starfleet officer... he 
+	looks back at the computer, reacts... as does Primmin...
+
+					ODO
+			What the...
+				(presses combadge)
+			Odo to Ops...
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT ONE        16.
+
+18   CONTINUED:	(2)
+
+					KIRA'S COM VOICE
+			Go ahead.
+
+					ODO
+			Major, are we having some sort of 
+			computer problem?
+
+19   INT. OPS
+
+	Kira is at the Operations Table, consulting the readouts 
+	with concern.
+
+					KIRA
+			Everything in active memory has been 
+			accessed and purged.
+
+20   INT. SECURITY OFFICE
+
+	SOUND of a door opening.
+
+					ODO
+			That's impossible.
+
+					KAJADA (O.S.)
+			Oh, it's possible.
+
+	Odo and Primmin turn around and see Kajada standing in the 
+	doorway to the Promenade...
+
+					KAJADA
+			Vantika did the exact same thing on 
+			Rigel Seven.
+
+	And on Odo's reaction...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT TWO        17.
+                            ACT TWO                             
+
+	FADE IN:
+
+21   EXT. SPACE - DEEP SPACE NINE (OPTICAL) STOCK
+
+22   INT. OPS
+
+	The table.  Kajada addresses Sisko, Kira, Dax, Bashir, Odo 
+	and Primmin... she is impatient...
+
+					KAJADA
+			I know Vantika.  I've learned to 
+			think as he thinks...
+
+					BASHIR
+				(exasperated)
+			Kajada, our best evidence suggests 
+			Vantika stopped thinking two days 
+			ago...
+
+					KAJADA
+				(calm)
+			He's alive.  And he's on board this 
+			station... and the minute he came on 
+			board, his first thought was to plan 
+			a way to access your security files 
+			on the deuridium shipment... which 
+			is exactly what he's done.
+
+					PRIMMIN
+			Even if he was alive, it doesn't 
+			make sense that he would purge an 
+			entire computer memory to go after a 
+			single file...
+
+					ODO
+			It makes perfect sense.
+				(off reactions)
+			Try to access the single file and 
+			you'd be stopped by a dozen different 
+			lock-outs that I put in to protect 
+			it.
+
+					KAJADA
+			But you would never consider locking 
+			out the active memory of your whole 
+			system...
+
+					KIRA
+			That would make it impossible to use 
+			the computers at all...
+
+         DEEP SPACE: "The Passenger" REV. 12/03/92 - ACT TWO        18.
+
+22   CONTINUED:
+
+					KAJADA
+			So that's where you're vulnerable.
+
+	Dax stands, thoughtful, on the way to her station --
+
+					DAX
+			But how would he gain access?
+
+					KAJADA
+				(a beat, thinking as 
+				Vantika)
+			In the past, he's used a subspace 
+			shunt attached to a secondary system, 
+			something that runs through the entire 
+			facility but isn't covered by 
+			security.
+
+					KIRA
+				(suggestions)
+			The lighting controls or maybe the 
+			replicators.
+
+	Dax presses some panels... reacts, Kajada's right... she 
+	looks up...
+
+					DAX
+			I'm showing an unauthorized tap into 
+			the computer system at a temperature 
+			control panel... Level twenty-one.  
+			Section ten.
+
+					ODO & PRIMMIN
+				(in unison)
+			Security to...
+
+	They stop a beat to look at each other...
+
+					ODO
+				(stern, finishing)
+			... to L-twenty-one, S-ten.  We're 
+			looking for a subspace crossover 
+			link to the computer system...
+
+					SECURITY VOICE
+			Acknowledged.
+
+					KAJADA
+			Tell them to be careful.  Vantika 
+			undoubtably equipped the shunt with 
+			an auto-destruct system.
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT TWO        19.
+
+22   CONTINUED:	(2)
+
+					KIRA
+				(very curious about 
+				this woman)
+			You know that for certain... without 
+			even checking.
+
+					KAJADA
+			I know Vantika.
+
+	Sisko rises thoughtfully... he's heard enough, tries to make 
+	sense of this... paces...
+
+					SISKO
+			Miss Kajada, I have to admit I'm 
+			having a tough time with your 
+			theory...
+
+					KAJADA
+			Then you're making a fatal mistake.
+
+					SISKO
+			There were three passengers on your 
+			ship... two bodies are in our morgue.  
+			Unless the ghost of Vantika is 
+			wandering our halls...
+
+					KAJADA
+			Don't patronize me, Commander...
+
+					SISKO
+			Isn't it more likely that some 
+			accomplice did this?
+
+	And now she rises...
+
+					KAJADA
+			Rao Vantika is obsessed with his own 
+			survival.  He's prolonged his life 
+			with drugs, cryogenics, transplants.  
+			As a medical supervisor in a high 
+			security penitentiary, he used 
+			prisoners for illegal experiments in 
+			cellular longevity.  He organized 
+			raids on government labs to steal 
+			bio-regenerative research.  I promise 
+			you when he started that fire on my 
+			ship, he had a plan to survive.  I 
+			don't know what that plan was, but 
+			I'm convinced it succeeded.
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT TWO          20.
+
+22   CONTINUED:	(3)
+
+	She shares a long look with Sisko... finally he turns to 
+	Bashir.
+
+					SISKO
+			Doctor, how soon before we get the 
+			results of the DNA trace?
+
+					BASHIR
+			I sent it to Starfleet Command 
+			yesterday... they'll have to 
+			coordinate with Kobliad security... 
+			I'd guess another twelve hours.
+
+					SISKO
+				(beat)
+			Until then, we'll operate under the 
+			assumption that Vantika's alive.
+
+	He nods, the meeting is over, moves toward his office... Odo 
+	follows him...
+
+					ODO
+			Commander... may I have a word with 
+			you...
+
+	Sisko acknowledges and they walk into...
+
+23   INT. COMMANDER'S OFFICE - CONTINUOUS
+
+					SISKO
+			What's on your mind.
+
+					ODO
+			My resignation.
+
+					SISKO
+			You're overreacting.
+
+					ODO
+			Oh, so you already know about this.
+
+					SISKO
+			Lieutenant Primmin mentioned to me 
+			that...
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT TWO          21.
+
+23   CONTINUED:
+
+					ODO
+			You asked me to stay in charge of 
+			security when you took command of 
+			this station... I didn't ask you...
+
+					SISKO
+				(warm, disarming)
+			Constable, no one knows this station 
+			like you do...
+
+					ODO
+			Yes, I've noticed that.  "Constable."  
+			Very cute.
+
+					SISKO
+			It's an expression of affection... I 
+			believe Major Kira was the first 
+			to...
+
+					ODO
+				(overlapping)
+			I don't need anyone's affection.  I 
+			do need clear jurisdiction.  Or I'm 
+			out.
+
+	A long beat as Sisko studies him...
+
+					SISKO
+			I like you, Odo.  I like to know 
+			where a man stands.  And there's 
+			never any question of that with you.  
+			I need you here.  No Starfleet officer 
+			can do the job you do.
+
+					ODO
+			You've got that straight.
+
+					SISKO
+			But you have to realize that Starfleet 
+			is not going to take command of a 
+			station in deep space without 
+			assigning some security to protect 
+			its interests.
+
+					ODO
+			Understandable.
+
+					SISKO
+			You're going to have to work with 
+			Primmin.  The two of you have to 
+			find a way to get along.
+
+         DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT TWO        22.
+
+23   CONTINUED:	(2)
+
+					ODO
+			Tell that to him.
+
+					SISKO
+			I already have.
+
+					ODO
+			Who's in charge.
+
+					SISKO
+				(beat)
+			In joint operations like this one, 
+			you are.
+
+					ODO
+			I can live with that arrangement.
+
+	And he EXITS.  Sisko almost smiles.
+
+24   INT. LAB (VPB)
+
+	Sisko ENTERS...
+
+					SISKO
+			What have you got, Dax?
+
+					DAX
+			Not exactly sure, yet.  I finished 
+			the sweep of Kajada's ship... no 
+			anomalous readings but I did notice 
+			one odd thing...
+
+					SISKO
+			What's that?
+
+					DAX
+			Somebody tried to break into the 
+			ship's cargo bay.
+
+					SISKO
+			Since it's been docked?
+
+					DAX
+				(acknowledges)
+			Kira confirmed that there was no 
+			damage to the cargo area when they 
+			brought it in.
+
+					SISKO
+			What do you think they were after?
+
+					DAX
+			This, maybe...
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT TWO          23.
+
+24   CONTINUED:
+
+	She holds up a small chip... as she puts it into a 
+	reader...
+
+					DAX
+			I found it with Vantika's personal 
+			belongings.
+
+	On the monitor... a complex sub-atomic map... with a variety 
+	of equations noted... and a vast array of chemical and 
+	electrical patterns... and complete medical terms...
+
+					SISKO
+			What the hell is it?
+
+					DAX
+			A map.  Of a humanoid brain.
+
+	Off Sisko's reaction...
+
+25   INT. QUARK'S SECOND FLOOR - NIGHT
+
+	The bar is closed... Quark is on his hands and knees, 
+	examining the floor... his eyes catch a gleam and he crawls 
+	over and picks up a coin and puts it in his pocket, shakes 
+	his head... stands...
+
+26   ANGLE LOOKING DOWN
+
+	A PAIR OF FERENGI are downstairs straightening up...
+
+					QUARK
+			You call this clean?
+
+	They look up and then at each other with fear...
+
+					QUARK
+			I've already found three coins on 
+			the floor up here... who knows what 
+			else there might be... somebody might 
+			have lost some valuable jewelry or 
+			something... fine, never mind, I'll 
+			do it myself... and I'll keep it 
+			myself.  Leave...
+
+	They scurry away... Quark turns and examines more of the 
+	floor...
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT TWO          24.
+
+					QUARK
+			You just can't find good help any 
+			more.
+
+	Out of the shadows, from behind him, a dark figure moves and 
+	grabs him from behind, a gloved hand covering the Ferengi's 
+	mouth... he struggles for a beat... as the rasping voice 
+	whispers in his ear...
+
+					VANTIKA (O.S.)
+			Have you made the preparations?
+
+					QUARK
+			Preparations?  What preparations?
+
+					VANTIKA (O.S.)
+			The deuridium shipment.  You were to 
+			hire mercenaries to help me.
+
+					QUARK
+			Help you...
+				(beat, gasps)
+			But.  You can't be... Vantika...
+
+					VANTIKA (O.S.)
+			I told you to expect me on this date.
+
+					QUARK
+			Yes, and I contacted some very 
+			reliable soldiers of fortune in 
+			anticipation of your arrival... but 
+			I was told you were dead...
+
+					VANTIKA (O.S.)
+			Almost.  But not quite.
+
+	He pushes Quark away and disappears out the door before Quark 
+	can see him... as Quark reacts...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT THREE       25.
+                           ACT THREE                            
+
+	FADE IN:
+
+27   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+28   INT. INFIRMARY
+
+	Kajada ENTERS the Infirmary.  Bashir is running an instrument 
+	over the back of an N.D. Starfleet CREWMEMBER and doesn't 
+	notice her.
+
+					KAJADA
+			You wanted to see me?
+
+	Bashir looks up from his work.
+
+					BASHIR
+			Kajada.  Be right with you.
+
+	Bashir finishes using the instrument on the Crewmember.
+
+					BASHIR
+				(to the crewmember)
+			There, now remember, next time lift 
+			with your back straight and use the 
+			anti-gravity generator.
+
+	The crewmember nods and EXITS.  Bashir turns to Kajada.
+
+					BASHIR
+			I'm sorry.  Come in.  I have the DNA 
+			scan results.  I thought you might 
+			want to see them.
+				(a beat)
+			In fact, I tried to contact you last 
+			night, but you never responded to 
+			the com.
+
+	Kajada looks uncomfortable.
+
+					KAJADA
+			I... I have trouble sleeping.  Last 
+			night was... particularly bad... I 
+			used an Alpha Wave inducer to help 
+			me.
+
+					BASHIR
+				(professional concern)
+			You should be careful with those.  
+			They're only meant for occasional 
+			use.
+
+         DEEP SPACE: "The Passenger" - 11/25/92 - ACT THREE         26.
+
+28   CONTINUED:
+
+					KAJADA
+				(changing the subject)
+			The scan results, Doctor.
+
+	Bashir moves to a console, calls up a report we don't need 
+	to see... she studies it closely...
+
+					BASHIR
+			There wasn't even a trace of diploid 
+			variation.  It's definitely not a 
+			clone.
+
+	He changes a page.
+
+					BASHIR
+			Positive identification.  Rao Vantika.
+
+					KAJADA
+				(unwavering)
+			They must have overlooked something.
+
+	She continues to read the report...
+
+					DAX'S COM VOICE
+			Dax to Bashir.
+
+					BASHIR
+			Yes, Jadzia...
+
+					DAX
+			I need some medical advice... can 
+			you come to my lab... ?
+
+					BASHIR
+			With wings on my heels.  Bashir out.
+				(to Kajada)
+			Every conceivable test has been done, 
+			Kajada.
+
+	He EXITS... she frowns, continues to read... changes a page...
+
+29   INT. PROMENADE
+
+	as Bashir moves down the thoroughfare toward a Turbolift, he 
+	passes an airlock tunnel... he does not notice three men 
+	emerging.  One of them is a fierce alien named DURG along 
+	with TWO BAJORANS.  They walk toward Quark's.
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT THREE       27.
+
+30   INT. LAB - CLOSE ON THE MONITOR (VPB)
+
+	A closer look at an area of the brain on Vantika's map...
+
+					DAX (O.S.)
+			Here's the hypothesis... the body 
+			dies... but the consciousness lives 
+			on...
+
+	Revealing Dax and Bashir studying...
+
+					BASHIR
+			In another brain... ?
+
+					DAX
+			Possible?
+
+					BASHIR
+			The closest thing I've encountered 
+			is synaptic pattern displacement.  
+			But that's never been done by a non-
+			Vulcan.
+
+					DAX
+			I'm convinced Vantika was working on 
+			it... there are over seventy different 
+			computer simulations in his file... 
+			all involve identifying neural energy 
+			patterns and storing them in different 
+			areas of the brain...
+
+					BASHIR
+			There'd be plenty of room... a 
+			humanoid uses only a small portion 
+			of the brain.
+
+					DAX
+			So what if another entity shared the 
+			unused portion...
+
+					BASHIR
+				(realizing)
+			Hypothetically, Vantika's 
+			consciousness could be occupying 
+			someone else's brain while he waits 
+			for the deuridium to arrive.  But 
+			whose?
+
+	A beat as they come to the same guess.
+
+					BASHIR
+			Kajada?
+
+         DEEP SPACE: "The Passenger" - 11/25/92 - ACT THREE         28.
+
+30   CONTINUED:
+
+					DAX
+				(a real possibility)
+			They're both Kobliad.  What better 
+			place to hide than in the mind of 
+			your worst enemy?
+
+31   INT. COMMANDER'S OFFICE
+
+	Odo, Primmin, Sisko, Dax, Bashir.  Reacting to the theory 
+	he's just been told.
+
+					SISKO
+			It doesn't make sense.  She's been 
+			doing everything she can to convince 
+			us Vantika is alive.  If Vantika's 
+			controlling her, why would he call 
+			attention to himself?
+
+					DAX
+			We're not suggesting he's controlling 
+			her.
+
+					BASHIR
+			Look, this is all theoretical, but 
+			to extend the logic, there's no reason 
+			to believe she would even be aware 
+			of his presence...
+
+					DAX
+			Like a stowaway on a ship... the 
+			pilot is still at the helm, but 
+			someone else is along for the ride.
+
+	Sisko considers this.
+
+					SISKO
+			Would an examination of Kajada confirm 
+			any of this?
+
+					BASHIR
+			We don't know what we're looking for 
+			yet.  We have to identify the method 
+			of transfer first.
+
+        DEEP SPACE: "The Passenger" REV. 12/03/92 - ACT THREE       29.
+
+31   CONTINUED:
+
+					BASHIR
+			Even if Vantika could isolate the 
+			patterns of chemical and electrical 
+			interactions in his own brain, he'd 
+			still need a way to move them from 
+			one brain to another...
+
+					DAX
+			Kobliads don't have psychic abilities 
+			like Vulcans, so we're assuming that 
+			we're looking for a physical transfer 
+			method of some kind.
+
+					BASHIR
+			If we can find it, that might give 
+			us a way to flush him out of there.
+
+					ODO
+			I could assign some personnel to 
+			maintain continuous surveillance on 
+			Kajada...
+
+					PRIMMIN
+				(shakes his head)
+			We're already stretched to the limit 
+			preparing for the shipment... why 
+			don't I just set up the computer to 
+			track her movements, alert us if she 
+			goes near a secured area...
+
+	Sisko nods his approval.
+
+					ODO
+			At the very least, she has to be 
+			left out of our security plans...
+
+					BASHIR
+			She won't like that...
+
+					SISKO
+			I'm afraid we have no choice.
+
+					DAX
+			What do we tell her?
+
+					ODO
+				(I take the hard jobs)
+			Nothing.  She'll figure it out.  And 
+			when she does, send her to me.
+
+         DEEP SPACE: "The Passenger" - 11/25/92 - ACT THREE        29A.
+
+32   INT. SECURITY OFFICE
+
+	Kajada is in Odo's face...
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT THREE       30.
+
+32   CONTINUED:
+
+					KAJADA
+			The computer security codes have 
+			been changed... I've been denied 
+			access... why?
+
+					ODO
+			Because I ordered it.
+
+					KAJADA
+			What kind of fool are you?
+
+					ODO
+			My own special variety.
+
+					KAJADA
+			I'm the only one here who has 
+			experience with Vantika...
+
+					ODO
+			I'm sorry... I believe it's necessary 
+			at this point to limit access to the 
+			security files to four people -- 
+			myself, Lieutenant Primmin, Major 
+			Kira and Commander Sisko.
+
+					KAJADA
+				(sighs with frustration)
+			When is the shipment scheduled to 
+			arrive?
+
+					ODO
+			I can't give you that information.
+
+					KAJADA
+				(more frustrated, 
+				another tack)
+			What about this Ferengi, Quark?
+
+					ODO
+				(new interest)
+			What about him?
+
+					KAJADA
+			From what I understand, he has his 
+			hands into everything around here.  
+			Is he under surveillance?
+
+					ODO
+			I always keep an eye on him.
+
+					KAJADA
+			I hope so.  Because he's exactly the 
+			kind Vantika would use in his plans.
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT THREE       31.
+
+32   CONTINUED:	(2)
+
+And she storms out... Odo muses a beat...
+
+33   INT. QUARK'S SECOND FLOOR
+
+	It's late.  The place is closed.  In the shadows of the second 
+	floor, a meeting is taking place between Quark, Durg and the 
+	two Bajorans.  But our attention quickly is drawn to the 
+	third floor... where an unseen figure moves in shadows to 
+	overhear the conversation...
+
+					DURG
+			So when do we meet this Kobliad...
+
+					QUARK
+			When he decides it's appropriate...
+
+					DURG
+			All right then, a better question -- 
+			when do we get paid...
+
+					QUARK
+			When the job is completed of course...
+
+	The figure moves out of the shadows into a streak of light 
+	on the stairwell... it's Kajada...
+
+34   ANGLE - ON QUARK ET AL
+
+					DURG
+			Not acceptable.  We will require an 
+			advance payment of seventy percent.
+
+					QUARK
+			Durg.  Wake up.  This is Quark, you're 
+			talking to.  Remember.
+
+					DURG
+			All past debts have been settled.
+
+					QUARK
+			They'll never be settled.  You'd 
+			still be rotting in a Cardassian 
+			jail if I hadn't...
+
+	Suddenly a woman's scream... they jump up and look over their 
+	heads to see --
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT THREE       32.
+
+35   ANGLE - KAJADA
+
+	hanging from the third floor railing... a beat later her 
+	grasp slips and she falls past them all the way to the bottom 
+	floor...
+
+	On Quark's startled reaction, we...
+
+									FADE OUT.
+
+
+                       END OF ACT THREE                         
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FOUR        33.
+                           ACT FOUR                             
+
+	FADE IN:
+
+36   INT. INFIRMARY
+
+	Close on Kajada is laid out on an examining table half buried 
+	in medical machinery.  She is semi-conscious, but barely 
+	coherent.
+
+					BASHIR
+			Can you speak... ?
+
+					KAJADA
+				(quietly)
+			Pushed.  Vantika.
+
+	That's all she can say, move up to find Sisko, Quark, Odo... 
+	Bashir shakes his head to Sisko...
+
+					BASHIR
+			I can't keep her conscious any 
+			longer... if she moves around too 
+			much, she could suffer permanent 
+			paralysis...
+
+	Sisko nods.
+
+					SISKO
+			Did you see anybody behind her?
+
+					QUARK
+				(shakes his head)
+			I just heard the scream and looked 
+			up... she fell from the balcony... 
+			what was she doing up there anyway?
+
+					ODO
+			She had an odd feeling you might be 
+			helping someone hijack this deuridium 
+			shipment.
+
+					QUARK
+			I resent the inference.
+
+					ODO
+			It's not an inference.  It's a 
+			definite suspicion.
+
+					SISKO
+			Was there anyone else in the bar?
+
+					QUARK
+			Anyone else?
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FOUR        34.
+
+36   CONTINUED:
+
+					SISKO
+			At the time of the accident.
+
+					QUARK
+			No.  No.  Just me.  Just tidying up.  
+			Which if you'll excuse me, I really 
+			must finish...
+
+	EXITING together --
+
+					ODO
+			Not so fast, Quark.  I want to take 
+			a look at that third floor before 
+			you get rid of all the evidence.
+
+					QUARK
+			Be my guest.  I'm telling you she 
+			was alone up there... and she had no 
+			business invading the privacy of a 
+			law-abiding member of the community...
+
+	And they're out.
+
+					SISKO
+				(to Bashir)
+			What do you think, Doctor?  Could 
+			this have been a suicide attempt?
+
+					BASHIR
+			I didn't notice any indication of 
+			suicidal behavior... but who knows 
+			what the effect of... sharing one's 
+			brain might be?
+
+					SISKO
+				(frowns)
+			I'd still like some confirmation of 
+			that.
+
+					BASHIR
+			I'll have to tend to her injuries 
+			before I can conduct any brain 
+			scans... but until we identify the 
+			transfer method Vantika used, I'm 
+			not even sure what to look for.
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FOUR        35.
+
+36   CONTINUED:	(2)
+
+					SISKO
+				(acknowledges, hits 
+				his combadge)
+			Computer, location of Lieutenant 
+			Dax.
+
+					COMPUTER VOICE
+			Lieutenant Dax is in the stasis 
+			room...
+
+	He nods to Bashir, EXITS...
+
+37   INT. STASIS ROOM
+
+	Close on the dead hand of Vantika... as Dax uses a small 
+	instrument to run under his fingernails and pull out some 
+	residue... Sisko arrives in the background, reacts to the 
+	odd scene...
+
+					SISKO
+			Find something under his fingernails?
+
+					DAX
+			Not yet.
+
+					SISKO
+			What were you looking for?
+
+					DAX
+			Confirmation of a theory.  I hope.
+
+	She puts the tiny dirt sample on a 24th century Petri dish... 
+	and moves to a small work station with microscopes and other 
+	equipment one would use in autopsy work... during the above 
+	action --
+
+					DAX
+			I've been asking myself why anyone 
+			would want to induct a bio-electrical 
+			charge into a glial cell?
+
+					SISKO
+				(dry)
+			A question I've always wondered 
+			about...
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FOUR       35A.
+
+37   CONTINUED:
+
+					DAX
+			It might make sense if you wanted to 
+			send a bio-coded message along the 
+			glial cells of someone's nervous 
+			system... all the way to the brain.  
+			My guess is that's what Vantika was 
+			trying to do...
+
+					SISKO
+			Using his fingernails?
+
+	During the following, Dax brings up and adjusts the Okudagram 
+	of the sample on the monitor...
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FOUR        36.
+
+37   CONTINUED:	(2)
+
+					DAX
+			Frankly, I can't think of another 
+			way he could have delivered the bio-
+
+			coded message.  He must have used a 
+			very weak electrical charge, or the 
+			sensors on Kajada's ship would have 
+			detected it.  Ideally, he would have 
+			injected the coded message directly 
+			into his victim's skin... but there 
+			were no hyposprays or needles anywhere 
+			on the ship.
+
+	Dax's eyes light up.  She shows Sisko her monitor.
+
+					DAX
+			A microscopic generator.
+
+38   ANGLE (OPTICAL)
+
+	Sisko looks at the Okudagram.  It shows a very small device, 
+	buried in the material from under Vantika's nails.
+
+					SISKO
+			You're suggesting he had his 
+			consciousness stored in that thing?
+
+					DAX
+				(nods)
+			His neural patterns encoded as bio-
+			electrical pulses.  He could have 
+			placed that device under his nail 
+			months ago... just in case he needed 
+			an escape route in an emergency.  
+			His last resort before death.
+
+					SISKO
+			Will this show up in Kajada?
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FOUR       36A.
+
+					DAX
+			Now that we know what to look for, 
+			we should be able to confirm it with 
+			a glial scan.
+
+					SISKO
+			Do it as soon as Bashir stabilizes 
+			her condition.  Nice work.
+
+	He EXITS...
+
+39   INT. PYLON CORRIDOR
+
+	Kira is supervising a MAINTENANCE CREW that is checking 
+	through all panels...
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FOUR        37.
+
+39   CONTINUED:
+
+					KIRA
+				(to one)
+			Confirm that each distribution 
+			amplifier is at one hundred percent 
+			efficiency... if there's more than a 
+			point-zero-three percent fall off, 
+			replace it...
+				(to another)
+			And that won't mean a thing if any 
+			of the power waveguide outlets fail... 
+			double-check them...
+
+	He acknowledges... Odo arrives...
+
+					ODO
+			You better make this the final 
+			check... we've only got an hour...
+				(she acknowledges)
+			Where's Primmin?
+
+					KIRA
+			I thought he was with you.
+
+					ODO
+			I sent him to help you with the final 
+			security sweep of the docking area...
+
+					KIRA
+			He hasn't been here all morning.
+
+	Off Odo's curious reaction...
+
+40   INT. CORRIDOR TO RUNABOUTS
+
+	Quark leads Durg and the Bajorans...
+
+					QUARK
+			No, I won't be going with you... I 
+			am simply a middleman... a 
+			facilitator...
+
+					DURG
+			A profit monger...
+
+					QUARK
+			And proud of it.
+
+					DURG
+			How did you get your hands on a 
+			Federation Runabout, Quark?
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FOUR        38.
+
+40   CONTINUED:
+
+					QUARK
+			I can take no credit for that.  Your 
+			employer has somehow managed to 
+			arrange security access...
+
+	They turn a corner...
+
+41   INT. AIRLOCK CORRIDOR
+
+	They move to the airlock...
+
+					DURG
+			When do we meet this "employer"?
+
+					QUARK
+			His message said he would be waiting 
+			for us on board.
+
+	Quark presses the door panel... it doesn't open...
+
+					COMPUTER VOICE
+			Secured area, access to security 
+			clearance seven and above.
+
+					QUARK
+			Seven... seven... let me see... that 
+			should be no problem...
+
+	He reaches into a wallet-sized case and pulls out a security 
+	PADD... places it to the door panel... the door begins to 
+	roll open...
+
+					DURG
+			I'm beginning to believe this Vantika 
+			is invisible...
+
+					QUARK
+			His funds are quite real... they 
+			were transferred into my accounts 
+			this morning... and will be waiting 
+			for you upon your return...
+
+	As the second door rolls open,
+
+42   QUARK
+
+	reacts to what he sees, gasps, sputters...
+
+					QUARK
+			Oh, I'm terribly sorry... we seem to 
+			have made a wrong turn...
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FOUR        39.
+
+43   REVERSE - BASHIR
+
+					QUARK
+			We didn't mean to disturb you, Doctor.
+
+	In a whispered voice --
+
+					VANTIKA (BASHIR)
+			Not at all, gentlemen.  I've been 
+			expecting you.
+
+	And on Quark's reaction... and a cutback to Bashir --
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FIVE        40.
+                           ACT FIVE                             
+
+	FADE IN:
+
+44   INT. INFIRMARY
+
+	Dax ENTERS looking for Bashir.
+
+					DAX
+			Julian?
+
+	It's a small room; he's obviously not there.
+
+					DAX
+			Computer -- location of Doctor Bashir.
+
+					COMPUTER VOICE
+			Doctor Bashir is in the Infirmary.
+
+	She looks around curiously... then she sees...
+
+45   BASHIR'S COMBADGE
+
+	on a counter.
+
+46   ON DAX
+
+	As she picks up the badge... and wonders what's going on.
+
+47   INT. CORRIDOR
+
+	A huge wall panel is open as Odo arrives... looks inside to 
+	see Primmin...
+
+					ODO
+			What the hell are you doing in there?  
+			I told you to sweep the docking bay 
+			again...
+
+					PRIMMIN
+			I took a cue from you...
+
+					ODO
+			From me?
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FIVE        41.
+
+					PRIMMIN
+			You understood the logic of Vantika's 
+			M-O when he downloaded the computer 
+			memory -- avoid the single file and 
+			attack the system...
+
+					ODO
+			I'm not following.
+
+					PRIMMIN
+			Vantika has to know that all of our 
+			security efforts will be focused on 
+			the docking ring.  I figured if he 
+			holds true to form that's not where 
+			he'd try to hurt us... so I ran a 
+			diagnostic of all systems that could 
+			shut our whole defense array down...
+
+					ODO
+			I already did that twice today...
+
+					PRIMMIN
+			I know.  I didn't find anything 
+			either.  But then I went to the back-
+			up systems and I found a glitch there 
+			I couldn't explain... so I tracked 
+			it back to the waste reclamation 
+			system... where no one would ever 
+			think to look because it's considered 
+			non-essential...
+
+	He holds out a tech device...
+
+					PRIMMIN
+			I found this.
+
+					ODO
+			Another subspace crossover shunt.  
+			Just like the one Vantika used to 
+			tap into the computer.
+
+					PRIMMIN
+			It was set to feedback into the 
+			primary command and control 
+			functions...
+
+					ODO
+				(examines the device)
+			We would have been shut down for 
+			close to an hour.
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FIVE       41A.
+
+					PRIMMIN
+			Long enough for him to grab the 
+			freighter and warp it off to who-
+			knows-where...
+
+	Off Odo's reaction...
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        42.
+
+48   EXT. SPACE - THE WORMHOLE (OPTICAL)
+
+	lights up and the deuridium freighter Norkova emerges...
+
+49   INT. OPS
+
+	Kira at her station... Sisko coming in from his office as 
+	though he was just called...
+
+					SISKO
+			Yes, Major?
+
+					KIRA
+			The Norkova's just come through the 
+			wormhole... requesting permission to 
+			dock...
+
+					SISKO
+			Let's go to security alert yellow... 
+			what bay do you have assigned in the 
+			plan...
+
+					KIRA
+			Number eight.
+
+	Odo and Primmin arriving on the Turbolift...
+
+					SISKO
+			Odo, maintain a visible contingent 
+			of security at bay eight... but I'm 
+			sending the Norkova to the second 
+			back-up...
+				(checking panels)
+			Bay twelve.
+
+	Kira acknowledges, moves away to a console to coordinate the 
+	new orders...
+
+					PRIMMIN
+				(to Odo)
+			I'll send additional forces over to 
+			twelve...
+
+	He moves to O'Brien's console... enters some commands...
+
+					ODO
+				(acknowledges)
+			Commander, your Lieutenant Primmin 
+			there just saved us all a lot of 
+			problems...
+
+	He shows Sisko the tech...
+
+          DEEP SPACE: "The Passenger" - 11/25/92 - ACT FIVE         43.
+
+49   CONTINUED:
+
+					ODO
+			Another subspace crossover that would 
+			have crippled us long enough for 
+			them to escape with your deuridium...
+
+50   ANGLE - TO INCLUDE KIRA
+
+					KIRA
+			Odo, did you deploy a Runabout to 
+			escort the Norkova...
+
+					ODO
+			No...
+
+					KIRA
+				(concerned)
+			Then how come the Rio Grande's going 
+			out to meet it...
+
+					SISKO
+				(reacts)
+			On screen.
+
+51   ANGLE (OPTICAL)
+
+	to include the Viewscreen.  A Runabout moves toward the larger 
+	freighter... Dax ENTERS...
+
+					DAX
+			Benjamin, Julian's missing.
+
+					SISKO
+			Missing...
+
+					DAX
+			His combadge was in the Infirmary.  
+			I can't find him anywhere.
+
+					SISKO
+			Computer, who authorized access to 
+			Runabout Rio Grande?
+
+					COMPUTER VOICE
+			Authorization access code four-one-
+			two-one.  Doctor Julian Bashir.
+
+	On reactions...
+
+        DEEP SPACE: "The Passenger" REV. 11/30/92 - ACT FIVE        44.
+
+52   OMITTED
+
+53   INT. NORKOVA BRIDGE (OPTICAL)
+
+	A crew of three: CAPTAIN (female), HELMSMAN and CARGO OFFICER.  
+	The cargo officer EXITS into a side room... Suddenly, Durg 
+	and the two Bajorans MATERIALIZE, weapons drawn and before 
+	the crew can react, they blast the Commander and her helmsman, 
+	killing them.
+
+54   THE SIDE DOOR (OPTICAL)
+
+	Reopens, the cargo officer returning to the cabin to see 
+	what the commotion is... and he's blasted by Durg.
+
+55   ANGLE (OPTICAL)
+
+					DURG
+				(hits an alien combadge)
+			It's safe.
+
+	Bashir MATERIALIZES... calmly approaches the control panel... 
+	Durg sits at the Conn position...
+
+					VANTIKA (BASHIR)
+			Shields up.
+
+					DURG
+				(presses panels)
+			Done.
+
+					VANTIKA
+				(to the two Bajorans)
+			Secure the rest of the ship... be 
+			sure to account for all twelve members 
+			of the crew... if they resist, kill 
+			them...
+				(they EXIT, to Durg)
+			Enter the new course...
+
+					DURG
+			Aye...
+
+	Suddenly, they're shaken...
+
+					DURG
+			The station has locked a tractor 
+			beam on us...
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        45.
+
+55   CONTINUED:
+
+					VANTIKA
+			That's not possible... they should 
+			be shut down by now...
+
+
+	He can't believe this, checks sensor readings...
+
+					DURG
+			Well, they're not.  They're hailing 
+			us...
+
+					VANTIKA
+				(controlled panic)
+			Hailing us... ?
+
+	Thinking a beat...
+
+					VANTIKA
+			Engage engines, full impulse...
+
+					DURG
+			We're not going anywhere with a 
+			tractor beam on us...
+
+					VANTIKA
+			Do it!
+
+					DURG
+			Full impulse engaged.  The tractor 
+			beam is holding.
+
+					VANTIKA
+			But they won't be able to pull us 
+			in.
+
+					DURG
+			We can't just sit here and wait.  
+			What do you intend to do?
+
+					VANTIKA
+				(beat, thinking)
+			Open a channel.
+
+	Sisko appears on the Viewscreen.
+
+					SISKO
+			This is Benjamin Sisko, Commander of 
+			D.S. Nine.
+
+					VANTIKA
+			Rao Vantika is my name.  But I assume 
+			you know that by now.
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        46.
+
+55   CONTINUED:	(2)
+
+					SISKO
+			I want to speak to Doctor Bashir.
+
+					VANTIKA
+			Unfortunately, he's not available at 
+			the moment.
+
+					SISKO
+			Is he all right?
+
+	Bashir gives himself a cursory self-examination.
+
+					VANTIKA
+			His body is... how do you humans say 
+			it... "fit as a fiddle."  Looks rather 
+			good on me, don't you think?
+
+					SISKO
+				(angry, impatient)
+			What have you done to his mind, 
+			Vantika?
+
+					VANTIKA
+				(calm)
+			It was necessary to render him 
+			unconscious for the time being.  
+			However, I might consider leaving 
+			his body and returning him to you.  
+			But first you must release your 
+			tractor beam.
+
+					SISKO
+			I can't do that.
+
+					VANTIKA
+			If you don't, I'll take this vessel 
+			to warp.
+
+					SISKO
+			The tractor beam would rip your ship 
+			apart.  You and everyone else on 
+			board would be killed.
+
+					VANTIKA
+			Exactly.  So if you care at all about 
+			the welfare of your Doctor, you will 
+			release your hold on us.  You have 
+			one minute to decide.
+
+	He touches a panel and the monitor returns to the space 
+	station...
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        47.
+
+56   INT. OPS
+
+	Reactions.  With urgency --
+
+					SISKO
+			Can you get a Transporter lock on 
+			him?
+
+					PRIMMIN
+
+				(pressing panels, at 
+				O'Brien's station)
+			Negative.  Their shields are up.
+
+					SISKO
+				(to the group)
+			Suggestions... ?
+
+					KIRA
+			A small ship like a Runabout might 
+			be able to get close enough to 
+			overload their shield generators 
+			with directed phaser fire... we used 
+			to do it to Cardassian freighters 
+			all the time...
+
+					ODO
+			But you'd be risking a hull breach... 
+			and with all the deuridium on board...
+
+					SISKO
+			He's right... we can't risk releasing 
+			deuridium into this system... every 
+			populated area would have to be 
+			evacuated...
+				(beat)
+			Dax... is there any way to disrupt 
+			Vantika's control over Bashir?
+
+	Moving to her station and already beginning to work...
+
+					DAX
+			I have an exact model of Vantika's 
+			neural energy patterns.  If I can 
+			design an electromagnetic pulse to 
+			disrupt those patterns, Julian might 
+			emerge... But we still need a way to 
+			get it there.
+
+					SISKO
+			What if we send it right along the 
+			tractor beam... at the same frequency 
+			as their shields... ?
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE       47A.
+
+56   CONTINUED:
+
+					DAX
+				(seeing it work)
+			The pulse would resonate off the 
+			shields... and create a reflected 
+			EM field inside the ship...
+
+					KIRA
+			He's hailing us...
+
+					DAX
+			I need some time...
+
+					SISKO
+			I'll give you as much as I can.  On 
+			screen.
+
+57   ANGLE (OPTICAL) - INCLUDE THE VIEWSCREEN
+
+					VANTIKA
+			Have you decided?
+
+					SISKO
+			If I permit you to leave, what 
+			guarantee do I have that you'll return 
+			Bashir?
+
+					VANTIKA
+			You're ready to capitulate far too 
+			quickly, Commander.  Would you be 
+			planning a rescue attempt, perhaps?
+
+					SISKO
+			I'm only interested in my doctor's 
+			safety.
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        48.
+
+57   CONTINUED:
+
+					VANTIKA
+			You insult my intelligence.
+				(to Durg)
+			Prepare to go to warp...
+
+	Durg looks at him like he's crazy...
+
+					SISKO
+			You've gone to great lengths to 
+			survive, Vantika.  I don't think 
+			you're ready to kill yourself.
+
+					VANTIKA
+			And I don't think you're ready to 
+			risk spreading deuridium all over 
+			this system...
+
+58   INT. NORKOVA BRIDGE (OPTICAL)
+
+	Sisko still on monitors...
+
+					VANTIKA
+				(to Durg)
+			Ready to engage warp engines.
+
+					DURG
+				(hesitates)
+			You must be crazy... I want no part 
+			of...
+
+	Bashir fires a blast from his phaser, knocking Durg out of 
+	his chair, brutally killing him... moves to the console...
+
+					VANTIKA
+			No more middlemen, Sisko.  No more 
+			delays.  What's it to be?
+
+59   INT. OPS
+
+					SISKO
+			All right... we're prepared to release 
+			the tractor beam...
+				(turns to)
+			Dax?
+
+					DAX
+				(scrambling with her 
+				hands)
+			Ready.
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        49.
+
+59   CONTINUED:
+
+					SISKO
+			Do it.
+
+	She hits a panel...
+
+60   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	A pulse zaps across the tractor beam to the freighter...
+
+61   INT. NORKOVA BRIDGE (OPTICAL)
+
+	The air shimmers as the EM field washes over the bridge.  
+	The charge hits Bashir who grabs his head with incredible 
+	pain and doubles over... drops to his knees... groans...
+
+					SISKO
+			Doctor Bashir... answer me... 
+			Bashir...
+
+					BASHIR
+				(struggling for 
+				consciousness)
+			What... yes... ?
+
+					SISKO
+			Doctor.  Lower the shields.
+
+					BASHIR
+			What?  What shields?  Where am...
+
+					SISKO
+			I'll explain later.  Lower the 
+			shields.  Now.
+
+	Dizzy, disoriented... Bashir moves to the panel... and as he 
+	reaches out... Vantika's voice groans out of his mouth, 
+	pulling him back...
+
+					VANTIKA
+			Nooooo...
+
+	His arm reaches out trying to reach the panel as his head 
+	seems to be pulled backwards... but the arm finally wins... 
+	and he hits the switch...
+
+62   INT. OPS (OPTICAL)
+
+					ODO
+				(off console)
+			Shields are down.
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FIVE        50.
+
+62   CONTINUED:
+
+					SISKO
+			Get him out of there.
+
+					PRIMMIN
+			Energizing.
+
+	Bashir MATERIALIZES on the Transporter pad... he stands there 
+	for a beat... as if in shock...
+
+					BASHIR
+			It's okay... it's me.
+
+	Or is there the barest hint of a hiss in his voice...
+
+63   SISKO (OPTICAL)
+
+	His face is impassive as he aims his phaser and stuns 
+	Bashir...
+
+	SMASH CUT TO:
+
+64   CLOSE ON BASHIR
+
+	Lying on a gurney, unconscious, as it's being wheeled into --
+
+65   INT. STASIS ROOM
+
+	Dax positions the gurney with Bashir's head directly over 
+	the de-mat zone.  A portable Transporter device is in place.  
+	On the next pad is a hi-tech disk-shaped piece of equipment.  
+	Dax takes a deep breath and adjusts the controls.
+
+					DAX
+			I've programmed the Transporter to 
+			isolate any glial cells with Vantika's 
+			neural patterns... and beam them 
+			from Julian into this micro-
+			containment field...
+
+66   ANGLE - TRANSPORTER PAD (OPTICAL)
+
+	Bashir's head partially DEMATERIALIZES while the beams flicker 
+	over the disk.
+
+					DAX
+				(continuing)
+			Once they're out... Julian should be 
+			back to normal...
+
+        DEEP SPACE: "The Passenger" REV. 12/02/92 - ACT FIVE       50A.
+
+66   CONTINUED:
+
+	When the process is complete, Bashir is as he was... and the 
+	indicator lights on the disk flash in a complex pattern.
+
+	Odo and Sisko flank Bashir.  Dax approaches and scans his 
+	head with a tricorder.
+
+					DAX
+			I'm only reading human neural 
+			patterns... he's clear.
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        51.
+
+66   CONTINUED:	(2)
+
+	She gives him a hypo... his eyes open slowly...
+
+					BASHIR
+			I... have... the worst headache...
+
+	Off Sisko and Dax's smile...
+
+67   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Norkova is gone.
+
+68   INT. INFIRMARY
+
+	Sisko, Dax and Bashir with Kajada about to leave.  Bashir is 
+	still shaken from the experience... none of the usual 
+	lightness in his attitude...
+
+					KAJADA
+			Doctor Bashir... I'm so sorry for 
+			this...
+
+					BASHIR
+			I guess... we should have listened 
+			to you when you said he was alive...
+
+					KAJADA
+			There was no way for you to control 
+			what he was doing to you...
+
+					BASHIR
+			I'm afraid... I don't even remember 
+			it... I feel quite... humiliated 
+			actually...
+
+	Dax moves to take his arm and comfort him... he appreciates 
+	it...
+
+					SISKO
+			No one blames you, Doctor.
+
+					KAJADA
+			It wasn't you... it was... that.
+
+	Motioning toward the energy containment cell.
+
+					DAX
+			What do you intend to do with it?
+
+        DEEP SPACE: "The Passenger" REV. 12/01/92 - ACT FIVE        52.
+
+68   CONTINUED:
+
+	A beat.
+
+					KAJADA
+			May I assume you've returned custody 
+			of the prisoner to me, Commander 
+			Sisko?
+
+					SISKO
+			The prisoner.  What's left of him.
+
+					KAJADA
+			Good.
+
+69   ANGLE (OPTICAL)
+
+	She calmly raises her phaser (she's a security officer so 
+	its okay for her have one) and fires it at the containment 
+	device... it disintegrates...
+
+70   KAJADA
+
+	doesn't smile... just holsters her weapon, nods to the others 
+	and EXITS...
+
+71   ON REACTIONS
+
+72   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	And off the station, turning ever-so-slowly...
+
+									FADE OUT.
+
+                   END OF ACT FIVE                              
+                            THE END                             

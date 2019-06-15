@@ -1,0 +1,3096 @@
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                          "Crossover" 
+                        (fka "Detour") 
+                          #40512-443 
+                              
+                           Story by 
+                      Peter Allan Fields 
+                              
+                          Teleplay by 
+                        Michael Piller 
+                              
+                          Directed by 
+                       David Livingston 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1994 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                         March 8, 1994
+
+        STAR TREK: DS9 - "Crossover" - 03/08/94 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Crossover" 
+                             CAST 
+
+          SISKO                    WORF
+          O'BRIEN                  GARAK
+          ODO                      KLINGON #1
+          QUARK                    HUMAN
+          BASHIR                   
+          DAX                      
+          KIRA                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. KLINGONS
+                                   N.D. VULCAN
+
+        STAR TREK: DS9 - "Crossover" - 03/08/94 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Crossover" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK                       
+          AIRLOCK CORRIDOR              RUNABOUT
+          COMMANDER'S OFFICE            
+          CORRIDOR                      WORMHOLE
+          JEFFERIES TUBE/JUNCTION       
+          KIRA'S QUARTERS (GUEST)       
+          KIRA II'S QUARTERS            
+          OPS                           
+          ORE PROCESSING                
+          PROMENADE                     
+          QUARK'S                       
+          RUNABOUT                      
+
+       STAR TREK: "Crossover" - 03/08/94 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                          "Crossover" 
+                      PRONUNCIATION GUIDE 
+
+          BAJOR                    BAY-jor
+          BAJORAN                  buh-JOR-an
+          BOLDARIC                 bowl-DAHR-ihk
+          CARDASSIAN               car-DASS-ee-en
+          DRAGMA                   DRAHG-muh
+          DRATHAN                  DRA-thun
+          FOWLA                    FOW-lu
+          GARAK                    GAIR-uck
+          GORAHKPUR                GORE-ahk-pour
+          GOWAN                    (go on)
+          ISAM HELEWA              EE-sahm HEHL-uh-wah
+          JEROM                    jeh-rahm
+          JUMJA                    JUM-juh
+          LATINUM                  LAT-ih-num
+          LIG                      lihg
+          NERYS                    nar-EES
+          TEROK NOR                TAIR-awk nor
+          TARRAN                   TEHR-rahn
+          TOR JOLAN                TOHR joh-LAHN
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                             "Crossover"                               
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - RUNABOUT
+
+	Establishing.  Traveling at warp.
+
+					BASHIR (V.O.)
+			Medical log, Stardate 47879.2.  Major 
+			Kira and I have completed installation 
+			of the hospital facility at New Bajor -- 
+			the first Bajoran colony in the Gamma 
+			Quadrant -- and are on our way home.
+
+2    INT. RUNABOUT
+
+	KIRA as pilot, BASHIR next to her.  Kira closes her eyes 
+	with fatigue, sighs...
+
+					KIRA
+			Could you take it for a while...
+
+					BASHIR
+			Sure.
+				(beat)
+			Mind if I put on a little music...
+
+					KIRA
+			Actually, I do... I was hoping to 
+			meditate for a few minutes...
+
+					BASHIR
+			Of course.
+				(beat)
+			I didn't know you meditate.
+
+					KIRA
+			Every day.
+
+	A beat as she recloses her eyes, gets relaxed.
+
+					BASHIR
+			I had the opportunity to study 
+			meditation with Isam Helewa when I 
+			was in college.
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             2.
+
+2    CONTINUED:
+
+					BASHIR
+			Remarkable fellow... he sort of took 
+			me under his wing... I can't tell 
+			you how much I learned from him... 
+			the man was a master at rhythmic 
+			breathing...
+
+	She bristles...
+
+					KIRA
+			You'll have to give me a few tips 
+			some time...
+
+					BASHIR
+			Gladly.
+				(beat, not wanting to 
+				be rude)
+			And I'd be very interested in any 
+			Bajoran meditation techniques you'd 
+			like to show me...
+
+					KIRA
+			We... just usually like to sit... 
+			quietly...
+
+	After a beat Bashir starts to breathe in what sounds like a 
+	pant... after a beat she opens her eyes looks at him...
+
+					KIRA
+			What are you doing?
+
+					BASHIR
+			Bellows breath.  Thirty quick breaths 
+			followed by one long intake of air 
+			through the nose and hold.  Increases 
+			the energy flow... here, it's quite 
+			simple...
+
+					KIRA
+				(no hopes for 
+				meditation)
+			How about some music...
+
+					BASHIR
+				(reacts "already?" 
+				then shrugs, "sure")
+			What's your pleasure?
+
+					KIRA
+			I'm afraid my musical knowledge is 
+			limited to Bajoran composers...
+
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             3.
+
+2    CONTINUED:	(2)
+
+					BASHIR
+			Computer, play us something by Tor 
+			Jolan.
+
+	String quartet kind of stuff... very traditional...
+
+					KIRA
+			You know Tor's work?
+
+					BASHIR
+			I've made it a point to listen to 
+			Bajoran music since I arrived.
+
+					KIRA
+				(impressed)
+			Really.
+
+					BASHIR
+			Tor strikes me as the best of the 
+			lot, wouldn't you say?... Slightly 
+			derivative of the Boldaric masters 
+			of the last century but pleasantly 
+			diverting.
+
+	Kira bites her tongue... Bashir leans back and enjoys the 
+	moment.
+
+					BASHIR
+			This is nice.  I'm glad we're finally 
+			doing this.
+
+					KIRA
+			What...
+
+					BASHIR
+			Talking to one another... finding 
+			common interests... burying the 
+			hatchet...
+
+					KIRA
+				(not comprehending)
+			Hatchet...
+
+					BASHIR
+			A human expression... it means we're 
+			finally putting our old conflicts 
+			behind us...
+
+					KIRA
+			To make way for brand new ones...
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             4.
+
+2    CONTINUED:	(3)
+
+					BASHIR
+				(thinks she's joking, 
+				laughs)
+			Right.
+
+	Beat...
+
+					BASHIR
+			You know, Nerys... may I call you 
+			Nerys... ?
+
+					KIRA
+				(tight)
+			Sure.
+
+					BASHIR
+			Even when we weren't getting along, 
+			I always thought you were... one of 
+			the most interesting women I'd ever 
+			met.
+
+	Kira reacts... was that a hit?
+
+					BASHIR
+			I'm very serious.
+
+					KIRA
+			Thank you.  Doctor.
+
+					BASHIR
+			Julian.  Go on.  Say it.  Julian.
+
+					KIRA
+			Julian.
+
+					BASHIR
+			It was hard for Chief O'Brien to say 
+			too... we had a few problems 
+			ourselves, you know... now we're 
+			like this...
+
+	He sticks two fingers up together...
+
+					KIRA
+				(reading sensors)
+			One minute to the wormhole.  Stand 
+			by to drop to impulse.
+
+					BASHIR
+			Would you like to have dinner 
+			sometime...
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             5.
+
+2    CONTINUED:	(4)
+
+					KIRA
+			I think you'd better stick with Dax...
+
+					BASHIR
+				(confused)
+			I'm sorry... ?
+				(beat, realizes)
+			Oh, you thought that I was trying 
+			to... no, no it wasn't meant to...
+
+					KIRA
+				(humiliated)
+			... my mistake.
+
+					BASHIR
+				(an additional thought)
+			... although, if I thought you'd 
+			be...
+
+					KIRA
+			... forget it...
+
+					BASHIR
+			...right.
+
+					KIRA
+			Take us out of warp.
+
+	Bashir reacts to some problem on the console, presses some 
+	panels...
+
+					KIRA
+			What's wrong?
+
+					BASHIR
+			The warp field's not fully 
+			collapsed... I'm showing a plasma 
+			injector leak...
+
+					KIRA
+				(checking)
+			The injector controllers are locked.  
+			I'm trying to compensate...
+
+3    EXT. SPACE - WORMHOLE (OPTICAL)
+
+	As it opens for the Runabout.
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER            5A.
+
+4    INT. RUNABOUT - WITHIN WORMHOLE (OPTICAL)
+
+	A white optical flash sweeps across them.  They're being 
+	tossed around like a leaf in a storm, but Kira and Bashir 
+	stay in their seats.
+
+					BASHIR
+			What was that?
+
+	She has no idea...
+
+					KIRA
+			Initiating emergency stabilization 
+			control.
+
+	After a moment, the ride smooths out.  They look at each 
+	other.
+
+					BASHIR
+			Are you all right?
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             6.
+
+4    CONTINUED:
+
+					KIRA
+			A little dizzy.
+
+					BASHIR
+			Me too.  I guess we're lucky to be 
+			in one piece.
+
+5    EXT. SPACE - WORMHOLE AND RUNABOUT
+
+	As the Runabout emerges from the wormhole.
+
+6    INT. RUNABOUT
+
+
+					KIRA
+			We'd better get O'Brien to take a 
+			look at the...
+				(beat, reacts in major 
+				confusion)
+			... what the hell... ?
+
+7    ANGLE - THROUGH THE WINDOW (OPTICAL)
+
+	Empty space.
+
+					BASHIR
+			Where's the station?  What happened 
+			to the station?
+
+	Kira is working the panels furiously... reacts as she finds...
+
+					KIRA
+				(looking at controls)
+			I've got it on long range sensors... 
+			It's orbiting ... Bajor... ?
+
+					BASHIR
+				(reading sensors)
+			Major... vessel approaching on an 
+			intercept course dead ahead!
+
+7AA   EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as a Klingon Bird of Prey is moving toward the Runabout.
+
+7A   INT. RUNABOUT (OPTICAL)
+
+	A moment later, behind them -- two KLINGONS in full battle 
+	array beam aboard, weapons at the ready.
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER            6A.
+
+7A   CONTINUED:
+
+	Bashir rises, goes for the weapons locker but it's too late, 
+	one Klingon aims his disruptor, freezing him in his tracks, 
+	as the other points a disruptor at Kira... then gasps as he 
+	sees her... drops his weapon and looks at her aghast... the 
+	other Klingon reacts as he sees her as well...
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             7.
+
+7A   CONTINUED:	(2)
+
+					KLINGON #1
+			I'm sorry, Ma'am.  We were not 
+			informed you had left the station.
+
+					KIRA
+			What is this?  Who are you?
+
+					KLINGON #1
+			We were on standard patrol when your 
+			vessel seemed to appear out of 
+			nowhere.  If you will allow us to 
+			withdraw, we will escort you back to 
+			the station.
+
+	Kira confused, simply nods.  They hit arm panels and 
+	DEMATERIALIZE...
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	In orbit of Bajor.
+
+9    INT. AIRLOCK CORRIDOR
+
+	As the door opens, the same two Klingons who are conferring 
+	heatedly with a third man -- whom we don't fully see yet.
+
+					KLINGON #1
+			That's impossible... I was as close 
+			to her as I am to you... she cannot 
+			be an imposter... 
+
+					GARAK 
+			But she is.
+
+	As Bashir and Kira ENTER from the ship, they all draw weapons 
+	and the third Klingon turns into view revealing himself as 
+	GARAK...
+
+					KIRA
+				(reacting to the 
+				weapons)
+			What is going on here...
+
+					BASHIR
+			Garak... ?
+
+	Garak reacts curiously to Bashir's recognition...
+
+             DEEP SPACE: "Crossover" - 03/08/94 - TEASER             8.
+
+9    CONTINUED:
+
+					GARAK 
+			Yes.  My name is Garak...
+
+					KIRA II (O.S.)
+			The question is...
+
+	Moving to reveal the SECOND KIRA arriving...
+
+					KIRA II
+			... who are you?
+
+10   ANGLE (OPTICAL)
+
+	as the two Kiras stand facing one another.
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE             9.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+11   INT. AIRLOCK (OPTICAL)
+
+	As before.  Kira glances with confusion at Bashir... Kira II 
+	studies her counterpart with deep interest during the 
+	following...
+
+					BASHIR
+			This... may seem like an odd 
+			question... but could you tell us 
+			where we are?
+
+					WORF
+			This is the Terok Nor station, center 
+			of authority for the Bajoran sector...
+
+					BASHIR
+			Center of authority... ?  Whose 
+			authority?
+
+					WORF
+			The Alliance, of course.
+
+	Off their reactions... calm, already suspecting the truth...
+
+					KIRA II
+			You have no idea what we're talking 
+			about, do you...
+
+					KIRA
+			Listen, something is very wrong 
+			here... I think we must've taken a 
+			wrong turn in the wormhole...
+
+					WORF
+			Wormhole... ?
+
+					KIRA
+			The wormhole to the Gamma...
+				(stops)
+			This is very difficult to explain... 
+			I think the best thing would be for 
+			us just to get back on our ship and...
+
+					KIRA II
+			No, I don't think so.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            10.
+
+11   CONTINUED:
+
+	She signals to Worf and he and the other Klingons grab 
+	Bashir and Kira...
+
+					BASHIR
+			Now, wait a minute...
+
+					WORF
+			Do not use that tone of voice with 
+			me, Terran...
+
+					BASHIR
+			"Terran"... ?
+
+					KIRA II
+			If you are whom I suspect you are... 
+			I'm afraid I can't take the risk of 
+			letting you go...
+
+	As they move to exit...
+
+					KIRA II
+				(to Worf, re: Bashir)
+			Take that one downstairs.  Put him 
+			to work.  Tell the supervisor to 
+			keep an eye on him.  He won't know 
+			the rules.
+
+	Worf roughly escorts Bashir away with one of the two Klingons.
+
+12   INT. PROMENADE (OPTICAL)
+
+	As they exit the airlock... and Kira reacts as they see a 
+	different Promenade... dominated by uniformed Bajorans, 
+	Klingons and Cardassians... there are humans and a few 
+	scattered Vulcans but there is no suggestion of Starfleet... 
+	these humans are mine workers and common laborers... dirty, 
+	pathetic victims of oppression... they have their own 
+	ghetto area of the Promenade like the Bajorans used to... 
+	although they move back and forth to airlocks and turbolifts 
+	as they do their work...
+
+					GARAK (O.S.)
+				(calling to Kira II)
+			Intendant...
+
+	She looks to the voice and we reveal GARAK coming, another 
+	Klingon deputy holding a wretched and frightened HUMAN MAN 
+	in his custody... Garak pauses as he blinks at the sight of 
+	the two Kiras... There is a tension between Kira II and 
+	Garak... they don't like each other...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            11.
+
+12   CONTINUED:
+
+	Bajorans and Cardassians do not get along even in this 
+	universe...
+
+					KIRA II
+				(impatient)
+			What is it you need, Garak...
+
+					GARAK
+			This Terran was caught trying to 
+			stow away on one of the freighters 
+			leaving the station...
+
+	Kira studies the man with regret...
+
+					KIRA II
+			What is your designation.
+
+					HUMAN
+			Zero-four-one-three-Theta.
+
+					KIRA II
+			Theta.
+
+					HUMAN
+			Yes, Ma'am.
+
+					KIRA II
+			You've worked so hard to earn your 
+			Theta designation and to earn our 
+			trust... why do you throw it away 
+			like this?
+
+	The human hangs his head in shame.
+
+					KIRA II
+				(to Garak)
+			Reassign him to Lambda.  Send him 
+			to the mines...
+
+					GARAK
+			The mines.  But he should die for 
+			this.  We should make an example of 
+			him...
+
+					KIRA II
+			You've made a career out of making 
+			examples, Garak... I think you enjoy 
+			it too much.
+
+	She begins to move off with Kira and the other Klingon 
+	escort... Garak pursues...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            12.
+
+12  CONTINUED:	(2)
+
+					GARAK
+			He could not have gotten on board 
+			that ship without some help.  This 
+			is the third incident in a month.  
+			At least allow me to interrogate 
+			him...
+
+					KIRA II
+			Fine.  Interrogate him, but if he 
+			dies during your interrogation... 
+			you'll be my example.  Is that 
+			clear?
+
+					GARAK
+			Very, Intendant.
+
+	As they move off, Kira reacts to the encounter with wonder...
+
+13   INT. ORE PROCESSING
+
+	A dark and dreary room... human laborers process the dirty 
+	ore... Worf escorts Bashir in... reacts as he approaches 
+	O'BRIEN, who is kneeling beside ODO, showing him a problem in 
+	the systems... two armed Bajoran Guards watch over the 
+	workers...
+
+					O'BRIEN
+			... if you don't upgrade the thorium 
+			containment cells (TECH), there's 
+			gonna be an accident and I'm not 
+			gonna be responsible for the 
+			consequences...
+
+					WORF
+			An extra worker for you...
+
+	Odo looks up...
+
+					WORF
+				(continuing)
+			A Terran who doesn't know the rules.
+
+					ODO
+				(rising, low key)
+			Well, we'll see to it that he learns 
+			them.
+
+	Nods to Worf, who EXITS.  At this point, Bashir knows he's 
+	Alice in Wonderland and he'll try to deal with it in the 
+	best humor possible.  O'Brien moves away, working with a 
+	tool to patch up some broken equipment.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE           12A.
+
+13   CONTINUED:
+
+					ODO
+				("cordial" throughout)
+			What's your designation.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            13.
+
+13   CONTINUED:	(2)
+
+					BASHIR
+				(with slight attitude)
+			Bashir.  Julian.
+
+					ODO
+			Is that a joke?
+
+					BASHIR
+			I don't know.  Is it?
+
+	Odo slaps him hard.
+
+					ODO
+			No joking.  That's my Rule of 
+			Obedience, number fourteen.
+
+	Bashir almost responds to the attack... but the Guards 
+	anticipate and move a step forward and he holds himself 
+	back... Odo studies him evenly...
+
+					ODO
+			Now what's your designation...
+
+					BASHIR
+			I don't have a designation...
+
+					ODO
+			I don't have a designation, sir.
+
+					BASHIR
+			Another Rule of Obedience?
+
+	Odo slaps him again.
+
+					ODO
+			I don't have a designation, sir.
+
+					BASHIR
+			I don't have a designation, sir.
+
+	By this time, the workers have reacted to this little 
+	confrontation and have stopped their work to look up... we 
+	notice O'Brien studying Bashir...
+
+					ODO
+			Now why is that?
+
+					BASHIR
+			I don't know.  I don't know what I'm 
+			doing here, frankly.
+
+					ODO
+			You're here to process ore.  Have 
+			you ever done that before?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            14.
+
+13   CONTINUED:	(3)
+
+					BASHIR
+			No, actually I haven't.
+
+					ODO
+			Have you worked in the mines?
+
+					BASHIR
+			No.
+
+					ODO
+			Well, what have you done?
+
+					BASHIR
+			I've been practicing medicine.
+
+	Odo slaps him again.  Each time Bashir gets closer to 
+	attacking him... but in a way, he knows that's exactly what 
+	this Odo wants... so he holds back...
+
+					ODO
+			Did you forget the Rule of Obedience, 
+			Number fourteen?
+
+					BASHIR
+			It wasn't a joke.  I'm a doctor.
+
+					ODO
+			A Terran doctor.
+
+	Odo looks at him evenly... doesn't buy any of this "doctor" 
+	story...
+
+					ODO
+			You and I are going to have an 
+			interesting time together.  Doctor.
+
+	He grabs Bashir and pushes him down into the ore workline...
+
+					ODO
+			Be sure to scrub before you operate.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            15.
+
+13   CONTINUED:	(4)
+
+	Odo glances at the others who immediately go back to work... 
+	Bashir gets himself up, glances over and exchanges a look 
+	with O'Brien who is curious about him for a moment then goes 
+	back to work...
+
+14   INT. COMMANDER'S OFFICE (OPTICAL)
+
+	Kira's office.  As they ENTER, the Klingon is dismissed by 
+	Kira at the door... out in Ops, Cardassians and Bajorans 
+	work side by side (Klingons are mostly for security)... Kira 
+	II moves behind the desk...
+
+					KIRA II
+			Sit down.
+
+	Kira does.  Kira II studies her... smiles, shakes her head.
+
+					KIRA II
+			You are... me... aren't you.
+
+					KIRA
+			I am Kira Nerys...
+
+					KIRA II
+				(nods)
+			That makes two of us.
+
+	A beat.
+
+					KIRA II
+			Where you come from, things are very 
+			much like this, aren't they... there 
+			is a station.  A Bajor.  Cardassians.  
+			Terrans.  Klingons.
+
+					KIRA
+				(acknowledges)
+			The players are all the same.  They 
+			just seem to be performing different 
+			parts.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            16.
+
+14   CONTINUED:
+
+					KIRA II
+			You didn't seem to recognize the 
+			"Alliance"...
+
+					KIRA
+			No.
+
+					KIRA II
+
+			Perhaps you'd recognize the name 
+			"Kirk"...
+
+					KIRA
+			I'm sorry, I don't.
+
+					KIRA II
+			Interesting.  On my side, Kirk is 
+			one the most famous names in our 
+			history.
+				(off her reaction)
+			Almost a century ago, a Terran 
+			starship Captain named James Kirk 
+			accidentally exchanged places with 
+			his counterpart from your side due 
+			to a transporter accident.  Our 
+			Terrans were barbarians then, but 
+			their Empire was strong.  While your 
+			Kirk was on this side, he met a Vulcan 
+			named Spock and somehow had a profound 
+			influence on him.  Afterwards, Spock 
+			rose to commander in chief of the 
+			Empire by preaching reforms, 
+			disarmament, peace.  It was a 
+			remarkable turnabout for his people.  
+			Unfortunately for them, when Spock 
+			had completed all these reforms, his 
+			empire was no longer in any position 
+			to defend itself against us.
+
+					KIRA
+			Us?
+
+					KIRA II
+			The Alliance.  The historic coming 
+			together of the Klingons and 
+			Cardassians.
+
+					KIRA
+			And Bajor is part of this Alliance?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            17.
+
+14   CONTINUED:	(2)
+
+					KIRA II
+			We'd been under Terran occupation 
+			for years.  When we were freed, we 
+			petitioned for entry and were 
+			accepted.  We've become quite an 
+			influential power within the Alliance 
+			now...
+				(Kira listens, 
+				astonished, a beat)
+			Is it at all similiar on your side?
+
+					KIRA
+			No.  My Bajor is not so fortunate.
+
+					KIRA II
+			I'd be very interested in hearing 
+			more about it...
+
+					KIRA
+			I can't stay here.  You must see 
+			that...
+
+					KIRA II
+			Well, that's part of the problem... 
+			I don't know how to send you back... 
+			but more than that, there is a 
+			protocol I'm supposed to follow...
+
+					KIRA
+			I'm not sure what you mean...
+
+					KIRA II
+			After the first crossover, we were 
+			afraid that others might come to 
+			interfere in our affairs.  It was 
+			decided long ago that if it ever 
+			happened again, we would promptly 
+			kill anyone who appeared from your 
+			side.
+
+					KIRA
+			I see.
+
+					KIRA II
+			Unlike my first officer, Mister Garak, 
+			I have no taste for violence.  I 
+			regret using it even when it seems 
+			necessary.
+
+					KIRA
+			I know exactly what you mean.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            18.
+
+14   CONTINUED:	(3)
+
+					KIRA II
+				(beat, studying her)
+			You do, don't you.
+
+					KIRA
+				(survival strategy)
+			I know you don't want to kill me.  
+			And that you're searching for a good 
+			reason not to.
+
+					KIRA II
+			Got any ideas?
+
+					KIRA
+				(beat, mind racing)
+			My side needs what you have.
+				(off her curious 
+				reaction)
+			A strong Bajor.  If you knew the 
+			struggles I've been through to rebuild 
+			our world...
+				(beat)
+			Who's to say you won't influence us 
+			this time?
+
+					KIRA II
+			Me?
+
+					KIRA
+			Our side once changed your course of 
+			history... maybe this time your side 
+			will change mine.  Maybe I can learn 
+			from you what I need to lead Bajor... 
+			if I can find a way to get back...
+
+	Kira II considers this... Kira has touched her in the right 
+	place... she smiles...
+
+					KIRA II
+			That I should have such an impact on 
+			a place I have never even seen...
+				(beat)
+			It appeals to me.
+
+	She nods to her counterpart -- you'll live.
+
+					KIRA II
+			But I will have to kill your friend...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT ONE            19.
+
+14   CONTINUED:	(4)
+
+	Kira thinks quickly how to keep Bashir alive, what argument 
+	would appeal to her if the decision were hers...
+
+					KIRA
+			No.  Don't.  If you knew him... he 
+			is an arrogant Terran who has lived 
+			a privileged life on my side.  Now, 
+			he can see how the other half lives.  
+			You could influence his kind more 
+			than anyone.
+
+					KIRA II
+				(beat, considering)
+			No, it's too dangerous.  The Klingons 
+			and the Cardassians would never be 
+			satisfied.
+
+					KIRA
+			Are you the leader of this sector or 
+			not... ?
+
+	Kira II smiles at her...
+
+					KIRA II
+			You know how to manipulate me.
+
+					KIRA
+			I know how I'd feel in your place.  
+			I wouldn't give a damn what the 
+			Cardassians or Klingons wanted.
+
+					KIRA II
+			You're right.  I don't.
+
+	She laughs.  Moves to the door.  A Cardassian moves quickly 
+	to take her orders...
+
+					KIRA II
+			Find this attractive young woman 
+			some quarters.
+
+	He nods, prepares to escort Kira away...
+
+					KIRA II
+			I'll call for you later.
+
+	On Kira's reaction...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            20.
+                            ACT TWO                             
+
+	FADE IN:
+
+15   INT. ORE PROCESSING
+
+	As before.  O'Brien is not there.  Bashir is quite dirty now 
+	as the work continues... Odo checks over an inventory on a 
+	PADD.  Bashir is exhausted, turns to the worker next to him...
+
+					BASHIR
+			Do they ever feed you in this 
+			universe?
+
+	The worker glances at him and moves away from him... Bashir 
+	sighs, continues to work, looks up to see Kira ENTER... behind 
+	her several paces a Klingon guard follows, keeping an eye on 
+	her... she signals with her eyes to Bashir not to do anything 
+	yet... she looks around, dismayed by the environment... Odo 
+	moves over to greet her...
+
+					ODO
+			The Intendant informed me that you'd 
+			be inspecting the facilities... if 
+			there is anything I can explain...
+
+					KIRA
+			No, I've worked in ore processing 
+			myself...
+
+	Odo does a take, then decides she must be joking -- Bajorans 
+	don't work in ore processing -- he tries to laugh; it doesn't 
+	quite work...
+
+					KIRA
+			Is my Terran friend behaving himself?
+
+					ODO
+			They all behave themselves when I'm 
+			in charge.
+
+					KIRA
+			Good.  Good.  Do you mind if I speak 
+			with him.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            15.
+
+15   CONTINUED:
+
+	And without waiting for a reply, she moves to Bashir... 
+	Odo starts to object, stops himself, unhappy with all the 
+	disruption of his efficient operation...
+
+16   ANGLE - WITH BASHIR & KIRA
+
+	SOTTO:
+
+					KIRA
+			Are you all right?
+
+					BASHIR
+			I'm learning a new trade.  Do you 
+			have any idea what's happened?
+
+					KIRA
+			Did you ever hear of a Starfleet 
+			Captain named James Kirk...
+
+					BASHIR
+				(immediately 
+				understanding)
+			Kirk.  Of course, the transporter 
+			accident... we read about it at the 
+			Academy... that's where we are?
+
+					KIRA
+			That's where we are.
+
+					BASHIR
+			Is there another me here?
+
+					KIRA
+			Not on the station.  And I haven't 
+			found Dax or Sisko...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            22.
+
+16   CONTINUED:
+
+					BASHIR
+			O'Brien's been down here tinkering 
+			with the machines...
+				(getting an idea)
+			Major, if Kirk got here using a 
+			transporter, maybe we can get back 
+			the same way...
+
+					KIRA
+			I don't know anything about 
+			transporters, do you?
+
+					BASHIR
+			No one knows more about transporters 
+			than Chief O'Brien.
+
+					KIRA
+			Our Chief O'Brien... who knows about 
+			theirs... ?
+
+					BASHIR
+			It's worth a shot.
+
+					KIRA
+			Talk to him.  I'll see if I can find 
+			anyone else who might be willing to 
+			help.
+
+	She prepares to leave... nods to Odo who acknowledges... as 
+	she leaves, he glares at Bashir.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            23.
+
+17   INT. QUARK'S
+
+	Kira ENTERS followed a beat later by her Klingon guard... a 
+	very quiet day in the bar -- about ten people are there... 
+	seven Bajorans, two Cardassians and one Human dabo girl.  
+	Several look up and notice her... obviously the word is out 
+	about her origins... QUARK focuses on her as she moves down 
+	the bar... moves to meet her at the bar...
+
+					QUARK
+			You certainly are the splitting image 
+			of the Intendant... just as they 
+			said...
+
+					KIRA
+			Hello, Quark.
+
+					QUARK
+				(reacts)
+			You know my name.
+
+					KIRA
+			You run the bar on my side too.
+
+					QUARK
+			Really.  I hope I'm doing decent 
+			business.  Got to be better than 
+			here.  The Alliance taxes are killing 
+			me.  What can I get you...
+				(getting an idea)
+			The Intendant likes a hot jumja tea 
+			this time of day.
+
+					KIRA
+			Well, I'm not her.
+				(pause)
+			But that does sound good.
+
+					QUARK
+			Coming up.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            24.
+
+17   CONTINUED:
+
+	He fixes a drink as he speaks.
+
+					QUARK
+			So, are we close friends on your 
+			side?
+
+					KIRA
+				(beat)
+			Yeah.  As a matter of fact we are.  
+			On my side, Quark does me a lot of 
+			favors...
+
+					QUARK
+			Favors?
+
+					KIRA
+				(testing the waters, 
+				careful)
+			The Quark I know... well, he just 
+			seems to have the ability to get 
+			things done... when no one else can.  
+			Know what I mean?
+
+	She smiles, almost laughs...
+
+					KIRA
+				(continuing)
+			Sometimes he can even get things 
+			done behind the backs of the security 
+			people...
+
+	Quark glances at the Klingon guard behind her...
+
+					QUARK
+			What kind of favors do you ask him 
+			for...
+
+					KIRA
+			Oh, all sorts of favors... getting 
+			me things I need...
+
+					QUARK
+			Such as... ?
+
+					KIRA
+			Well, for instance, a transporter... 
+			for a few hours...
+
+	Quark has played this game long enough... he moves around 
+	the bar to put his back to the security man...
+
+					QUARK
+			Didn't I hear somewhere that a 
+			transporter was involved in the first 
+			crossover?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            25.
+
+17   CONTINUED:	(2)
+
+					KIRA
+			That's right.
+
+					QUARK
+				(pointed)
+			Do you have a way back to your side, 
+			Major?
+				(she looks at him 
+				evenly, unsure who 
+				to trust)
+			Under the right circumstances, I 
+			might be willing to help you get 
+			access to a transporter.
+
+					KIRA
+			Look, Quark, I don't have a strip of 
+			gold-pressed latinum to offer so don't 
+			even think about it.
+
+					QUARK
+			Gold-pressed what?
+
+					KIRA
+				(does a take)
+			What is it you want...
+
+					QUARK
+			The ability to send others across... 
+			to your side...
+
+					KIRA
+			Others... what others...
+
+					QUARK
+			That's not important...
+
+					KIRA
+			I can't open a revolving door to...
+
+	Suddenly there is a hush in the bar and they turn to see...
+
+18   NEW ANGLE (OPTICAL)
+
+	Garak ENTERING with several Klingon guards... they move 
+	straight across the room to Quark... 
+
+GARAK 
+Quark.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            26.
+
+18   CONTINUED:
+
+					QUARK
+				(with some fear)
+			Mister Garak, what can I get you 
+
+			today?  Drinks are always on the 
+			house for you...
+
+	He moves behind the bar... 
+
+					GARAK 
+			You'll have to come with us.
+
+					QUARK
+			Is there a problem?  
+
+					GARAK 
+			Yes.  A slight problem.  You've 
+			been helping Terrans escape from 
+			the station.
+
+					QUARK
+			Me?  I'm a simple barkeep... and a 
+			coward... I assure you I don't stick 
+			my neck out for anyone... 
+
+					GARAK 
+			That's not what the Terran we caught 
+			this morning told us during his 
+			interrogation...
+
+	Quark is reaching behind the bar casually...
+
+					QUARK
+			This is a misunderstanding... I 
+			assure...
+
+	He suddenly pulls out a phaser rifle but Garak is too quick 
+	for him, knocks the rifle up in the air as it discharges 
+	harmlessly... Quark is already running for the door... but 
+	the Klingons easily grab him (no stunt)... and drag him away, 
+	squealing.  Garak frowns, grunts to a customer at the bar... 
+
+					GARAK 
+			I'll miss him.  He always let me 
+			win at dabo.
+
+	Meanwhile, a group of humans are entering who are different 
+	than the rest... these have a certain swagger to them, clearly 
+	they are bonded and in fact they are a band of mercenaries... 
+	and their leader is the man who ENTERS last: SISKO, wearing 
+	a beard and moustache.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            27.
+
+18   CONTINUED:	(2)
+
+	Kira, who has been pushed well off to the side and away 
+	from the bar during the altercation, reacts.  Sisko doesn't 
+	see her.  The mercenaries move to the bar...
+
+					SISKO
+			Bartender! 
+
+					GARAK 
+			We just arrested him.
+
+	Garak EXITS...
+
+					SISKO
+				(to barflies)
+			Arrested.  What a damned shame.
+
+	With a swashbuckling kick, he jumps over the bar to take the 
+	place of the bartender.  Smiles.
+
+					SISKO
+			Who wants a drink on the house?
+
+	The patrons surge forward to the bar.  Kira reacts.
+
+19   INT. ORE PROCESSING
+
+	Odo is not there.  There's a break in the work and the workers 
+	are eating with their hands off of metal plates... Bashir 
+	moves furtively over to O'Brien...
+
+					BASHIR
+			Miles O'Brien.
+
+	O'Brien glances at him, then back at his food.
+
+					BASHIR
+			I know you... on my side.
+
+					O'BRIEN
+				(hardly interested)
+			Yeah?
+
+					BASHIR
+			We're best friends actually.
+
+					O'BRIEN
+			You and me?
+
+					BASHIR
+			That's right.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO           27A.
+
+19   CONTINUED:
+
+					O'BRIEN
+			What am I -- some kind of doctor 
+			too?
+
+	He laughs at himself...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            28.
+
+19   CONTINUED:	(2)
+
+					BASHIR
+			No, you're the chief of operations 
+			of this station.
+
+					O'BRIEN
+			Me?  Gowan.
+
+					BASHIR
+			It's true.
+
+					O'BRIEN
+				(trying it on for 
+				size)
+			Chief of operations.
+
+					BASHIR
+			You look like you know your way around 
+			machines...
+
+					O'BRIEN
+			I know a few things... hey, what 
+			else is he like?  This chief of 
+			operations.
+
+					BASHIR
+			He's married, has a five-year-old 
+			daughter... he's one of the most 
+			decent men I know... we've fought 
+			our way out of a few scrapes 
+			together... I admire him a great 
+			deal.
+
+	O'Brien grunts a sad laugh -- there's nothing in him to 
+	admire...
+
+					O'BRIEN
+			Sounds like he got the lucky draw 
+			between me and him.
+
+					BASHIR
+			You ever do any work with 
+			transporters?
+
+					O'BRIEN
+			Me?  Yeah, some.  Why?
+
+					BASHIR
+			The Chief O'Brien I know is an expert 
+			in transporter technology.
+
+					O'BRIEN
+			I don't know if I'd call myself an 
+			expert but I know as much as any 
+			Terran...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            29.
+
+19   CONTINUED:	(3)
+
+					BASHIR
+			I hope that'll be enough...
+
+					O'BRIEN
+			Enough for what?
+
+					BASHIR
+			We think a transporter may be the 
+			way to get back to our side...
+
+	O'Brien looks at him...
+
+					O'BRIEN
+			What.  You been filling me up with 
+			this stuff just to get me to help 
+			you, is that it... ?
+
+					BASHIR
+			No, everything I told you is the 
+			truth...
+
+					O'BRIEN
+				(overlapping)
+			Look, I don't know you.  I'm not 
+			your friend...
+
+	Moving away, loudly repeating --
+
+					O'BRIEN
+			I'm not your friend.
+
+	Odo returns in time to hear this and see O'Brien separate 
+	himself from Bashir.
+
+					ODO
+			Meal break is over.
+
+	The men go back to work...
+
+					ODO
+				(continuing, to O'Brien)
+			You're wanted in the bar.
+
+					O'BRIEN
+			If I don't finish down here...
+
+					ODO
+			You're wanted in the bar by Mister 
+			Sisko.
+
+	O'Brien sighs, shakes his head, EXITS.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            30.
+
+20   INT. QUARK'S
+
+	As before.  The customers at the bar have thinned out around 
+	Sisko and he sees through the bodies to Kira... he smiles... 
+	he moves around the bar and approaches her... there's a devil-
+	may-care attitude about him, but it covers deeper insecurity -- 
+	as much as he pretends to be master of his own fate -- he is 
+	not.
+
+					SISKO
+				(laughs, incredulously, 
+				to his crew)
+			Look at this... do you believe it?
+				(to Kira)
+			She called me back from the Fowla 
+			System just to see you...
+
+	He puts his arm under her chin like he's inspecting the 
+	merchandise... she swats it away... the men laugh... he 
+	smiles...
+
+					SISKO
+			You not only look like her... you 
+			have the same temper...
+
+					KIRA
+				(curious)
+			You and your friends don't seem like 
+			the other Terrans I've seen here...
+
+					SISKO
+			The Intendant has honored me with a 
+			ship and a crew... and I honor her 
+			by collecting duties... of a sort... 
+			from vessels who pass in this 
+			direction...
+
+					KIRA
+			And why do you deserve special 
+			treatment?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            31.
+
+20   CONTINUED:
+
+					SISKO
+			I suppose it's because I amuse her... 
+			and she's not easily amused.
+				(beat)
+			Although, you seem to amuse her too.
+
+	O'Brien arrives...
+
+					O'BRIEN
+			You wanted to see me, Mister Sisko?
+
+					SISKO
+				(affectionate, but 
+				patronizing)
+			Hello, Smiley, how are you?
+
+					O'BRIEN
+				(not amused)
+			It's Miles, Mister Sisko.
+
+					SISKO
+			I don't like "Miles" -- that's why I 
+			named you "Smiley."  They treating 
+			you okay, Smiley?
+
+					O'BRIEN
+				(impatient)
+			Just fine.  What do you need?
+
+					SISKO
+			You don't like me, do you, Smiley... ?
+
+					O'BRIEN
+				(beat, measured)
+			Not really, Mister Sisko.
+
+					SISKO
+				(laughs)
+			And you're not afraid to show it, 
+			are you... ?  I guess that's why I 
+			like you so much.  My impulse driver 
+			coil isn't operational.  Take care 
+			of it.
+
+					O'BRIEN
+			I've got a serious problem down in 
+			ore processing that's gotta be fixed 
+			or it'll...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT TWO            32.
+
+20   CONTINUED:	(2)
+
+					SISKO
+				(offhanded, but firm)
+			I don't care what you have in ore 
+			processing, Smiley.  Fix my engine.
+
+	O'Brien, a beaten man, acknowledges and slinks away....
+
+					KIRA II'S COM  VOICE
+			Kira to Sisko.
+
+					SISKO
+			Go ahead.
+
+				KIRA II'S COM VOICE
+			I'd like to... discuss your recent 
+			mission.  Would you please 
+			report to my quarters?
+
+	Sisko allows his devilish cover to break a little at this 
+	summoning... he's on her string and doesn't like it a bit... 
+	he tries to maintain his dignity as he EXITS...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           33.
+                           ACT THREE                            
+
+	FADE IN:
+
+21   OMITTED
+
+22   INT. KIRA II'S QUARTERS
+
+	The door opens and Kira ENTERS... the Klingon guard posts 
+	herself outside...
+
+					KIRA II (O.S.)
+			There she is...
+
+	As Kira moves deeper inside, we reveal a Vulcan servant 
+	pouring milk into a bath... as another gently scrubs Kira 
+	II's shoulders with a sponge.  Sisko sits in a nearby chair 
+	with his crossed feet up on a table... bored, glancing at a 
+	PADD...
+
+					KIRA II
+				(continuing)
+			Have you met my friend Benjamin Sisko, 
+			my dear...
+
+	Kira acknowledges.
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           34.
+
+22   CONTINUED:
+
+					KIRA II
+			Tell us -- is there another one of 
+			him on your side... ?
+
+					KIRA
+			Yes, there is...
+
+					KIRA II
+				(teasing)
+			Is he as loyal and true as mine?
+
+	And this is humiliating for Sisko, he buries it by attempting 
+	indifference as he reads his PADD...
+
+					KIRA
+			He's a good man.
+
+					KIRA II
+			I'm sorry he didn't come with you.  
+			Now, wouldn't that have been 
+			something, Benjamin -- two of you by 
+			my side.
+
+	Sisko's had enough of this... he rises to exit...
+
+					SISKO
+			I need to check on my ship.
+
+					KIRA II
+			Benjamin...
+				(he pauses at the 
+				door)
+			Did I hurt your feelings?
+
+	He smiles his most charming phoney smile...
+
+					SISKO
+			I never had any to hurt, 
+			Intendant.
+
+	And EXITS.
+
+					KIRA II
+			Now what is this I hear about you 
+			wanting a transporter?
+
+	She gets out of the bath with the help of the servants, one 
+	of whom puts a robe on her.  Kira reacts to the pointed 
+	question... her mind races...
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           35.
+
+22   CONTINUED:	(2)
+
+					KIRA II
+				(continuing)
+			Quark mentioned something about it 
+			during his interrogation.
+
+					KIRA
+			I did ask him about a transporter.  
+			That's true...
+
+					KIRA II
+			But why?
+
+					KIRA
+			You know I'm looking for a way back.  
+			A transporter was responsible for 
+			the first crossover...
+
+					KIRA II
+			And if you had come to me, I would 
+			have told you that all the 
+			transporters were redesigned 
+			afterwards to make sure the same 
+			thing could never happen again.  It 
+			won't work.
+				(Kira acknowledges)
+			So, why didn't you come to me?
+
+					KIRA
+			You're... very busy.
+
+					KIRA II
+				(not buying)
+			You don't trust me.
+
+	Getting honest.
+
+					KIRA
+			I guess I am... a little... afraid 
+			of you.
+
+					KIRA II
+			Then you fear yourself.
+
+	She moves closer to Kira and reaches and touches her cheek 
+	with affection... with great intimacy --
+
+					KIRA II
+			I don't want your fear.  I want your 
+			love.
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           36.
+
+22   CONTINUED:	(3)
+
+					KIRA II
+			If you can't love me, who can?
+				(beat)
+			Don't be in such a hurry to go.  I'm 
+			glad you're here.  There's so much 
+			we can learn from one another.
+
+					KLINGON'S COM VOICE
+			Intendant, Garak is here with the 
+			prisoner.
+
+					KIRA II
+			Send him in.
+
+	The door opens and Garak and Telok escort a weak, beaten 
+	Quark inside.
+
+					GARAK
+			He's made a complete confession and 
+			implicated two others who have been 
+			arrested.
+
+	Kira II moves closer to Quark... looks him in the eye... 
+	he is very, very shaky... desperate to escape with his 
+	life...
+
+					KIRA II
+			Quark, I've always liked you, you 
+			know that.
+
+					QUARK
+			I have nothing but respect for you, 
+			Intendant.  I am so sorry.
+
+					KIRA II
+			You did it because you felt sorry 
+			for these Terrans... you hate to see 
+			them suffer just as I do.
+
+					QUARK
+			Yes, Intendant.
+
+					KIRA II
+			But where would we be without them... 
+			who would perform the labor for the 
+			Alliance?
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           37.
+
+22   CONTINUED:	(4)
+
+	He nods sadly, looks up at her, pleading with his eyes... 
+	after a beat, she says to Garak and Telok.
+
+					KIRA II
+			A quick death.  Don't make him suffer 
+			anymore.
+
+	As they drag him out, he struggles, screams...
+
+					QUARK
+			No, Intendant.  Please.  I made a 
+			mistake.  Have mercy.  Please.  No.  
+			Don't do this... no, please... I'm 
+			sorry...
+
+	His horrifying cries fade away as the door closes behind 
+	him... Kira reacts... Kira Two brushes it off... turns to 
+	Kira...
+
+					KIRA II
+			I've planned a party for us tonight.  
+			What shall we wear?
+
+	And as she moves toward a closet, stay a beat on Kira and...
+
+23   OMITTED
+
+24   INT. KIRA'S QUARTERS (GUEST QUARTERS)
+
+	Garak is there waiting for her... as the door opens and Kira 
+	ENTERS holding a gown over one arm... the Klingon Guard posts 
+	herself outside...
+
+					GARAK
+				(re: the gown)
+			Lovely.
+				(he comes over to 
+				examine it)
+			I do admire a well-tailored gown.
+
+					KIRA
+			What are you doing in my quarters, 
+			Garak?
+
+					GARAK
+			She's never going to let you leave, 
+			you know.
+				(off her reaction)
+			Can't you tell -- she's in love.
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           38.
+
+24   CONTINUED:
+
+					KIRA
+			What are you talking about?
+
+					GARAK
+			In love with you, my dear.  She's 
+			all atwitter about you, speaks of 
+			nothing else.  You are the perfect 
+			gift for the girl who has everything.  
+			She's taken you into her heart like 
+			a Drathan puppy Lig left on her 
+			doorstep.  Who else could she share 
+			her personal secrets with... tell 
+			her troubles to... trust with her 
+			life.
+
+					KIRA
+			All you have to do is look at the 
+			guard outside to see how much she 
+			trusts me.
+
+					GARAK
+			I arranged the guard.
+				(off her reaction)
+			Oh, she trusts you.  As much as she 
+			trusts anyone.  So who better to 
+			betray her...
+
+					KIRA
+				(incredulous)
+			You're taking quite a risk coming to 
+			me like this...
+
+					GARAK
+			True career advancement requires 
+			risk.  Consider my offer carefully, 
+			my dear.  I will let you go.  She 
+			won't.  If you want to leave, you'll 
+			assist me...
+
+					KIRA
+			How?
+
+					GARAK
+			By taking her place.
+
+					KIRA
+			What?
+
+					GARAK
+			Tomorrow morning, she will be gone.
+
+           DEEP SPACE: "Crossover" - 03/08/94 - ACT THREE           39.
+
+24   CONTINUED:	(2)
+
+					KIRA
+			Gone?
+
+					GARAK
+			She will be gone.  Don't make me use 
+			some foolish euphemism.  You will 
+			assume her place and announce that 
+			your counterpart from the other side 
+			has returned to wherever she came 
+			from.  In a few weeks, you will step 
+			down as Intendant to embark on some 
+			spiritual journey to explore your 
+			pagh or whatever... and I will take 
+			your place as Intendant...
+
+	Kira is not at all seriously considering doing this... but 
+	wants to get all the answers she can...
+
+					KIRA
+			What about my friend...
+
+					GARAK
+			The good "Doctor," yes.  He'll be 
+			taken off the station and treated to 
+			all the hospitality we Cardassians 
+			can offer until you resign... and 
+			then you can be happily reunited...
+
+	He begins to leave, then pauses...
+
+					GARAK
+			Oh, but I have made arrangements 
+			with his supervisor that, if you 
+			should decide to decline my offer, 
+			tomorrow your doctor friend will 
+			be... gone.
+
+	On her reaction...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+25   INT. ORE PROCESSING
+
+	As before.  Bashir is looking even more ragged than before.  
+	Kira ENTERS, her Klingon guard still behind her, she moves 
+	directly to him... Odo sits at a work station, rises as he 
+	sees her... but chooses not to intercede... watches them 
+	closely...
+
+26   ANGLE - KIRA & BASHIR
+
+					KIRA
+				(sotto, urgent)
+			We have to get out of here tonight.
+
+					BASHIR
+			Why... what's happened...
+
+					KIRA
+			I don't have time to explain.  Just 
+			watch your back... you're in danger...
+
+					BASHIR
+			Why my back?  What kind of danger... ?
+
+					KIRA
+			We have to find a way to get to the 
+			runabout...
+
+					BASHIR
+			And then where do we go?  The Alliance 
+			controls the entire quadrant...
+
+					KIRA
+			There's still a wormhole out there 
+			that they don't know about... I'm 
+			not sure whether it'll get us back 
+			or not... all I know is we can't 
+			stay here any longer...
+
+					BASHIR
+			How are we supposed to get by their 
+			security... ?
+
+					KIRA
+			I'm trying to find some help...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           41.
+
+26   CONTINUED:
+
+					BASHIR
+			I've been told Quark has helped some 
+			Terrans escape...
+
+
+					KIRA
+			We're a little late for Quark.  Stay 
+			alert.  If our chance comes, there 
+			won't be much warning...
+
+	He acknowledges.  She EXITS.  Bashir exchanges a glance with 
+	Odo, who rather than glaring this time... simply grins with 
+	a personal secret... as Bashir reacts, goes back to work...
+
+27   INT. PROMENADE
+
+	Sisko is at the Replimat, hands on his belly, snoozing after 
+	eating a sumptuous meal... snoring lightly... Kira sits down 
+	with him...
+
+					KIRA
+				(sotto)
+			Sisko.
+
+	He opens one eye...
+
+					SISKO
+			Tell her I'm busy.
+
+	... and closes it.
+
+					KIRA
+			I have something important to tell 
+			you.
+
+					SISKO
+				(eyes closed)
+			I'm listening.
+
+					KIRA
+			It's... valuable information and I 
+			want something in exchange.
+
+	He opens his eyes...
+
+					SISKO
+			You've gone into business for 
+			yourself, have you... ?
+
+					KIRA
+			All I want is to get off this 
+			station... I want my runabout 
+			back...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           42.
+
+27   CONTINUED:
+
+					SISKO
+				(laughs)
+			And you expect me to help you?  She'll 
+			have my head... or something else.
+
+					KIRA
+			Not if you save her life.
+
+					SISKO
+				(not too serious)
+			Her life?
+
+					KIRA
+			Garak is planning to kill her.  
+			Tonight.
+
+					SISKO
+			That's it?  That's the valuable 
+			information?  Garak's been trying to 
+			kill her since the day he got here.
+
+					KIRA
+			He wants me to take her place...
+
+					SISKO
+				("impressed")
+			Well, now, that's more creative than 
+			he usually gets.
+				(laughs)
+			I wouldn't worry about it.
+
+	He sags in his chair again, ready to resume his nap... Kira 
+	upset and frustrated, studies him...
+
+					KIRA
+			What kind of man are you...
+
+					SISKO
+				(sighs, impatient, 
+				eyes closed again)
+			You're disturbing my nap.
+
+					KIRA
+			The Benjamin Sisko I know would never 
+			sell his soul and allow himself to 
+			become a part of this... tyranny... 
+			against his own people...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           43.
+
+27   CONTINUED:	(2)
+
+					SISKO
+				(eyes still closed)
+			Terrans don't have souls.  We don't 
+			believe in them.
+
+					KIRA
+			What do Terrans believe in?  Raising 
+			their children to dig the ore out of 
+			the mines for the Alliance?  I worked 
+			in mines too until I was old enough 
+			to start fighting for my freedom...
+
+					SISKO
+			What do you care about Terran freedom.
+
+					KIRA
+			I care about Freedom.  What I don't 
+			understand is why you don't care... 
+			why the only one I've met on this 
+			station who seemed to give a damn 
+			was a Ferengi toad named Quark.
+
+					SISKO
+			You're looking in the wrong corner 
+			for a hero, ma'am.  I've made the 
+			best of a bad life for my crew.  
+			That's my contribution.
+
+					KIRA
+			Oh, sure... you've charmed your way 
+			out of the mines... but you and I 
+			both know... you're no less a victim 
+			than anyone else here.
+
+	She leaves, furious... Sisko looks at her as she leaves, 
+	frowns...
+
+28   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	In orbit of Bajor...
+
+29   INT. QUARK'S
+
+	Or what used to be his at least.  The party is in full swing, 
+	a Bajoran flautist is playing... Kira ENTERS dressed in her 
+	gown... trailed by her Klingon Guard... many people in the 
+	room look up at her arrival... she looks around at the party, 
+	looks over to see --
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           32.
+
+30   HER POV - GARAK
+
+	chatting up some dabo girl... looks up and excuses himself 
+	from her to move over and greet Kira... he straightens her 
+	gown on her shoulders as a tailor might...
+
+					GARAK
+			You are breathtaking tonight, my 
+			dear.  I do hope you're planning to 
+			save a dance for me later on...
+
+	She moves cooly away from Garak, glances toward...
+
+31   ANGLE - SISKO
+
+	Who is in a bad mood, drinks at another table, silently 
+	looking at his plate...
+
+32   KIRA
+
+	Sighs, trying to figure out what to do... the flautist comes 
+	over to play for her and she endures it by taking a glass of 
+	green champagne from a passing waiter...
+
+33   ANGLE - TELOK
+
+	chatting with a customer... 
+
+					TELOK 
+			... After four years as a 
+			personal guard for the House 
+			of Duras, I was ready to do 
+			anything to get out of there... 
+			you never knew what Lursa 
+			and B'Etor were...
+
+	One of Sisko's rugged men (human) is laughing with a mate 
+	and not watching where he's going... he bumps into Telok and 
+	spills his drink on him... Telok explodes and strikes the 
+	man with the back of his hand... the human goes to the 
+	floor... 
+
+					TELOK 
+			Clumsy fool.  Stupid Terran 
+			pig!
+
+	This particular human has little tolerance for being treated 
+	like this... draws a knife, about to scramble back at Telok... 
+	the room hushes... Kira reacts... Telok prepares for the 
+	attack... several Klingons draw weapons... the man, with 
+	bitterness in his eyes, catches the eye of --
+
+34   SISKO
+
+	who slowly shakes his head, don't...
+
+35   RESUME
+
+	as the man controls himself finally... puts his knife away... 
+
+					TELOK 
+			What's wrong, Terran?  Lost 
+			your nerve?  Afraid to die 
+			today, eh?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           45.
+
+35   CONTINUED:
+
+	The man just stares with hatred at Telok, who slowly 
+	approaches him... a few silent beats... and then Telok spits 
+	in his face... the man looks to Sisko again... but Sisko 
+
+	looks back at his plate... 
+
+					TELOK 
+			Get out of my sight.
+
+	The man wipes his face with his sleeve... and moves away... 
+	Suddenly, the room breaks into applause and everyone looks 
+	toward the entrance to see Kira II making a grand entrance 
+	in the exact same gown as Kira, accompanied by her Vulcan 
+	servants... she bows to everyone, smiles across the room 
+	at...
+
+36   KIRA
+
+	Who nods an acknowledgement.
+
+37   RESUME
+
+	As Kira II glides over to the flautist...
+
+					KIRA II
+			Play something bright.  I'm in a 
+			happy mood.
+
+	Everybody goes back to having a "good" time... Kira is most 
+	uncomfortable... glances over and sees --
+
+38   GARAK
+
+	back with the dabo girl... but making eye contact with her, 
+	smiling...
+
+39   ON KIRA'S REACTION
+
+40   INT. ORE PROCESSING
+
+	Bashir is exhausted, pauses to rest and wipe his sweating 
+	brow... from behind him...
+
+					ODO
+			You're picking up these skills quite 
+			rapidly, Doctor.
+
+	Bashir turns to reveal Odo kneeling...
+
+					ODO
+				(a threat)
+			It's a shame this will be your last 
+			night on the job.
+
+	He moves on with a quick grin... a beat later, an alarm goes 
+	off... Odo reacts, the workers yell and scramble...
+
+					ODO
+				(hits combadge)
+			Engineering, we've got a thorium 
+			leak down here...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FOUR           46.
+
+40   CONTINUED:
+
+	And on the word "here," there's an explosion from the 
+	area where O'Brien was showing Odo the problem earlier... 
+	radioactive smoke fills the room...
+
+41   BASHIR
+
+	reacts, looking to take advantage of this moment somehow...
+
+42   ODO
+
+	moving toward the exit... yelling at Bajoran guards...
+
+					ODO
+			Release the security locks!
+
+43   WIDER
+
+	As the doors open... men scramble to get out... Bashir moves 
+	into pushing crowd... jostles a Bajoran guard and...
+
+44   CLOSE -- GRABS A HAND PHASER
+
+	from the guard's belt... but...
+
+45   ODO
+
+	sees the weapon in his hand... charges through the crowd 
+	at...
+
+46   BASHIR
+
+	who sees him coming now, raises the phaser and...
+
+47   ODO (OPTICAL)
+
+	as Bashir fires and connects in the chest, Odo splatters, 
+	literally, against the wall and as his remains drip slowly 
+	down... Bashir bolts out and away...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           47.
+                           ACT FIVE                             
+
+	FADE IN:
+
+48   INT. QUARK'S
+
+	As before... an ore-stained Bajoran guard ENTERS, looks around 
+	and finds Worf... moves to him...
+
+49   KIRA
+
+	sees him, wonders if something's happened...
+
+50   HER POV - WORF
+
+	reacts, disturbed, he says a few words to Garak who frowns 
+	and glances straight at her...
+
+51   KIRA REACTS
+
+	curiously as...
+
+52   WORF
+
+	signals the other Klingons and they EXIT... he says a few 
+	words to Sisko as he passes by...
+
+53   KIRA (OPTICAL)
+
+	smiles to Kira II...
+
+					KIRA
+			Excuse me...
+
+	She rises and moves away from the table...
+
+54   ANGLE - WITH SISKO
+
+					KIRA
+			What's happening?
+
+	He looks up and shakes his head at the foolishness of it 
+	all.
+
+					SISKO
+			Your friend just killed his 
+			supervisor... he's running around 
+			the station somewhere.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           48.
+
+54   CONTINUED:
+
+					KIRA
+				(reacts)
+			Help us.
+
+					SISKO
+			There's nobody around here foolish 
+			enough to help now, Lady.
+
+					KIRA II
+			Nerys!
+
+	Kira looks over at her counterpart.
+
+					KIRA II
+				(laughing)
+			Leave him alone.  He belongs to me.
+
+	Kira moves away, considers bolting for the door, but Garak 
+	has positioned himself in her way... she has no choice but 
+	to remain...
+
+55   OMITTED
+
+56   INT. CORRIDOR
+
+	Bashir moves down it... hears voices of Klingons coming...
+
+					TELOK (O.S.)
+			Establish security fields on the 
+			levels above and below... station 
+			guards at all turbolifts...
+
+	Bashir looks back, footsteps coming that way too, then quickly 
+	opens a panel and slides in... closing it behind him... a 
+	moment later, Worf and the Klingons pass...
+
+57   INT. JEFFRIES TUBE
+
+	Bashir looking around, confused, not knowing his way around 
+	the bowels of the station... he begins to crawl...
+
+58   INT. JEFFRIES JUNCTION
+
+	As Bashir scrambles in... he stops dead in his tracks and 
+	sees --
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           56.
+
+59   O'BRIEN
+
+	working on an open panel... he turns and sees Bashir, 
+	reacts...
+
+					BASHIR
+			O'Brien, you've got to help me...
+
+					O'BRIEN
+			Look, I don't see you, you're not 
+			here... I'm just trying to seal a 
+			thorium leak...
+
+					BASHIR
+			I have no idea where I am... You 
+			know the insides of this station, 
+			don't you?  My Chief O'Brien does...
+
+	O'Brien just shakes his head, continues to work...
+
+					BASHIR
+				(continuing)
+			Just tell me how to get to the 
+			Runabout pads...
+				(no response)
+			I know you, Miles O'Brien... somewhere 
+			inside of you is a shred of decency, 
+			there has to be...
+
+					O'BRIEN
+				(strong, with 
+				conviction)
+			I am a decent man.  I just... I 
+			just...
+				(sighs)
+			Don't you understand... I can't help 
+			you... I can't.  They'll kill me.
+
+					BASHIR
+				(beat, defeated)
+			I'm sorry you don't see it.  You're 
+			already dead, O'Brien.  The life 
+			inside every human being... every 
+			Terran... died here a long time ago.
+
+	He begins to climb... a beat... then the turn, hating himself 
+	for going with his heart --
+
+					O'BRIEN
+			That's not the right way.
+
+	Bashir turns and looks at O'Brien... you'll help me... ?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           50.
+
+59   CONTINUED:
+
+					O'BRIEN
+			Just tell me one thing.  Is there 
+			any room over there... on your side... 
+			for one more?
+
+					BASHIR
+			You want us to take you with us?
+
+					O'BRIEN
+			I got no reason to stay.
+
+	Bashir struggles with the concept...
+
+					BASHIR
+			My people would have a big problem 
+			with that.
+				(beat)
+			The hell with them.  Let's go.
+
+	O'Brien almost smiles and leads a new way...
+
+60   INT. AIRLOCK CORRIDOR
+
+	As they come out of a panel... O'Brien leads the way around 
+	a corner...
+
+61   NEW ANGLE
+
+	as they turn one last corner, Worf steps in their path... 
+	and suddenly they're surrounded by Klingons, weapons 
+	trained... on O'Brien and Bashir's reaction...
+
+62   INT. QUARK'S (OPTICAL)
+
+	Worf and the Klingons return, escorting Bashir and O'Brien... 
+	the crowd turns and quiets down as they bring the two of 
+	them before Kira II...
+
+					WORF
+				(to Kira II)
+			The new Terran killed the shape-shifter 
+			and O'Brien tried to help him escape.
+
+	Kira II reacts... angry at herself for allowing Bashir to 
+	live in the first place... turns to Kira --
+
+					KIRA II
+			This is my fault for listening to 
+			you... for keeping him alive in the 
+			first place...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           51.
+
+62   CONTINUED:
+
+	She looks down for a long beat, furious and then back up 
+	at Bashir...
+
+					KIRA II
+			I know very little about where you 
+			come from... but from what I've heard,
+			I think your kind has a lot to 
+			learn...
+
+					BASHIR
+				(defiant to the end)
+			We've got a lot to learn... that's a 
+			laugh...
+
+	She rises in fury...
+
+					KIRA II
+			Shut up!
+
+	He stares at her in disgust...
+
+					KIRA II
+				(continuing)
+			On this side, Terran workers do not 
+			speak to their superiors as you do.  
+			They certainly do not murder them.
+				(beat, smoldering)
+			He was the only one of his kind.  
+			The man you killed.  Do you realize 
+			that?  He is irreplaceable.  No one 
+			ran that operation as efficiently as 
+			he did.  No one kept order among the 
+			workers as he did.
+				(beat, quiet)
+			This is my reward for treating you 
+			Terrans with the least respect.  
+			Very well.  I can learn from my 
+			mistakes.  You want to set an example, 
+			Garak?  Use him.  Set an example.  
+			For all Terrans.  Let him die slowly 
+			in public view on the Promenade... 
+			let his arrogant Terran voice pleading 
+			for mercy echo through the corridors 
+			for all Terrans to hear.
+
+					KIRA
+			Intendant...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           52.
+
+62   CONTINUED:	(2)
+
+					KIRA II
+				(quick turn)
+			Another word from you and you will 
+			die right beside him.
+
+	Kira reacts...
+
+63   ANGLE - SISKO
+
+	observes...
+
+64   RESUME
+
+					KIRA II
+			And you, O'Brien, you tinkerer and 
+			putterer and fixer of broken 
+			objects... you've been a perfect 
+			theta for years... what could have 
+			possibly gotten into you.  What were 
+			you thinking?
+
+					O'BRIEN
+				(beat, wary)
+			Do you want an answer, Intendant?
+
+					KIRA II
+			Yes!
+
+	And O'Brien looks down at his feet, knows he's dead, there's 
+	a comfort that comes from that knowledge, a courage... there's 
+	nothing anyone can do to you when you're already dead... he 
+	speaks from the heart, honestly and simply...
+
+					O'BRIEN
+			This man... this man is a doctor 
+			where he comes from.  I'm supposed 
+			to be some high up chief of 
+			operations.  Me.  A Terran.  Can you 
+			believe that?  Maybe it's all a fairy 
+			tale he made up, I don't know.  But 
+			it made me start thinking... how 
+			different each of us might be if 
+			history had been different just a 
+			little...
+
+65   CUTAWAY - SISKO
+
+	listening...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           53.
+
+65   CONTINUED:
+
+					O'BRIEN (O.S.)
+			If the conditions we live in were 
+			slightly changed...
+
+66   RESUME
+
+					O'BRIEN
+				(beat)
+			I wanted him to take me with him.  I 
+			couldn't live like this anymore.  I 
+			just figured whatever it's like where 
+			he's from... it has to be better 
+			than it is here.  There's got to be 
+			something better than this.
+
+	A long silence... then...
+
+					KIRA II
+			Not for you, Mister O'Brien.  Oh, 
+			he's going to take you with him.  
+			But not exactly where you thought 
+			he'd be taking you.
+
+	She signals Garak with a nod... and he moves beside the 
+	prisoners and begins to escort them out, but as they pass 
+	Sisko, he grabs Garak and holds a phaser to his neck...
+
+					SISKO
+			No.  I don't think so.
+
+67   VARIOUS ANGLES
+
+	And in an instant, Sisko's men are raising phasers and other 
+	weapons, holding the Klingons at bay, disarming them, ripping 
+	off combadges from officers... Telok's spit-faced victim in 
+	the previous scene has a phaser at his chin...
+
+68   ANGLE - KIRA (OPTICAL)
+
+	rips the combadge off of Kira II and they exchange a look 
+	that says all sorts of things... Kira II looks aghast at 
+	Sisko... as Kira moves quickly to join him by the door...
+
+					KIRA II
+			Have you lost your mind?
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           54.
+
+69   AT THE DOOR
+
+					SISKO
+			No.  I didn't lose it.  I just changed 
+			it.
+
+	He smiles, shrugs.
+
+70   ANGLE (OPTICAL)
+
+	As he and his men retreat carefully... outside in the 
+	Promenade, Sisko fires a phaser shot over the doors, which 
+	slam closed... after they run away, Worf and Garak move to 
+	the doors which won't open now... they pound on the door, 
+	trying to get it open...
+
+71   INT. AIRLOCK CORRIDOR
+
+	As Sisko, his men, O'Brien, Kira and Bashir arrive on the 
+	Turbolift... with some urgency...
+
+					KIRA
+			You know she's not going to let you 
+			get away... she'll track you down no 
+			matter how long it takes...
+
+					BASHIR
+			You may want to consider trying to 
+			follow us back to our side...
+
+					SISKO
+			I've got a feeling I might not fit 
+			in too well over there... We'll stay 
+			one step ahead of the sheriff, don't 
+			worry about us.  Maybe we'll even 
+			stir up a few things on this side...
+
+					BASHIR
+				(to O'Brien)
+			You're still welcome to come with 
+			us.
+
+					O'BRIEN
+				(considers it, then 
+				glances at Sisko)
+			Sounds like I might have something 
+			to stay for now... if you have room 
+			on your ship for me, Mister Sisko.
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           55.
+
+
+71   CONTINUED:
+
+					SISKO
+				(smiles)
+			I can always use a good tinkerer and 
+			putterer.  Come on, Smiley.  You're 
+			with me.
+
+	Alarms go off...
+
+					KIRA
+				(to Sisko, meaningful)
+			Good luck.  Thanks.
+
+	A heartfelt nod and they split up...
+
+72   INT. RUNABOUT
+
+	As they climb in...
+
+					KIRA
+			Disengage the docking clamps before 
+			they lock on...
+
+	He does...
+
+					BASHIR
+			Confirmed...
+
+	He joins her in the front...
+
+					KIRA
+			Firing thrusters...
+
+					BASHIR
+			Thrusters engaged.
+
+					KIRA
+			Taking us straight to impulse...
+
+					BASHIR
+			Impulse engines on line...
+
+	They shake as they leave...
+
+73   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	The Runabout leaves.
+
+74   INT. RUNABOUT
+
+					KIRA
+			Sixty seconds to wormhole...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           56.
+
+74   CONTINUED:
+
+					BASHIR
+			I'm still picking up a residual leak 
+			(TECH) from our warp core...
+
+					KIRA
+			I'm just hoping that leak gets us 
+			back where we came from... I'm 
+			matching speeds and attitude (TECH) 
+			from our last time through...
+				(pressing panels)
+			Thirty seconds to wormhole...
+
+					BASHIR
+			Major... Klingon Bird of Prey 
+			decloaking... coordinates one-five-
+			zero mark two-one mark zero-zero-
+			three... on an intercept course...
+
+75   EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	The Bird of Prey decloaks and swoops down at the Runabout... 
+	firing as it comes...
+
+76   INT. RUNABOUT
+
+	Blasts rock the ship...
+
+					BASHIR
+			Shields down to sixty percent...
+
+	Another blast...
+
+					BASHIR
+			...Forty...
+
+					KIRA
+			Ten seconds to wormhole...
+
+	Blam... they're hit, a fire bursts out in a rear panel...
+
+					BASHIR
+			We're hit!
+
+	He stands and grabs an extinguisher, sprays it on the fire...
+
+					KIRA
+			Hold on!
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           57.
+
+	Bashir grabs his chair and holds on for dear life as...
+
+77   ANGLE (OPTICAL)
+
+	through the front window, the wormhole opens up...
+
+78   ANGLE - BASHIR AND KIRA (OPTICAL)
+
+	interactive light... suddenly the bridge goes completely 
+	white and stays that way for an extra beat until we do a...
+
+	SLOW FADE TO:
+
+79   INT. OPS
+
+	O'Brien, Dax, Odo present... Sisko comes in from his office...
+
+					SISKO
+			Anything?
+
+					DAX
+			The search vessels picked up the 
+			warp signature traces... there was 
+			some indication of a warp core leak...
+
+					SISKO
+			But no wreckage...
+
+					DAX
+			Nothing...
+
+					O'BRIEN
+			Reading elevated neutrinos, 
+			something's coming out of the 
+			wormhole... I can't believe it... 
+			it's them!
+
+					DAX
+			They're showing damage to their 
+			(TECH)...
+
+					SISKO
+			Put them on the screen, Mister 
+			O'Brien...
+
+            DEEP SPACE: "Crossover" - 03/08/94 - ACT FIVE           58.
+
+80   ANGLE (OPTICAL)
+
+	Kira and Bashir on screen...
+
+					SISKO
+			We've got ships from here to New 
+			Bajor looking for you... where have 
+			you been?
+
+					KIRA
+				(sighs)
+			Through the looking glass, 
+			Commander... it's good to be back...
+
+81   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	As the Runabout moves toward the station...
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+

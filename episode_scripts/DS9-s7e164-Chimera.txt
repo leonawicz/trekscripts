@@ -1,0 +1,2862 @@
+
+
+                  STAR TREK: DEEP SPACE NINE 
+                              
+                           "Chimera" 
+                     (fka "Untitled Odo") 
+                          #40510-564 
+                              
+                          Written by 
+                        Rene Echevarria 
+                              
+                          Directed by 
+                          Steve Posey 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If 
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       November 18, 1998
+
+         STAR TREK: DS9 - "Chimera" - 11/18/98 - CAST 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Chimera" 
+                             CAST 
+
+          SISKO                    CHANGELING
+          KIRA                     KLINGON
+          ODO                      DEPUTY
+          BASHIR                   
+          O'BRIEN                  
+          WORF                     
+          EZRI                     
+          QUARK                    
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D KLINGON
+
+         STAR TREK: DS9 - "Chimera" - 11/18/98 - SETS 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Chimera" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          CAPTAIN'S OFFICE              RUNABOUT
+          PROMENADE/LOWER LEVEL         
+          PROMENADE/SECOND LEVEL        
+          ODO'S QUARTERS                
+          SECURITY OFFICE               
+          QUARK'S                       
+          KIRA'S QUARTERS/BEDROOM       
+          HABITAT RING CORRIDOR         
+          HOLDING CELLS                 
+          AIRLOCK CORRIDOR              
+          REPLIMAT                      
+
+        RUNABOUT                      
+
+          DS9 - "Chimera" - 11/18/98 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                           "Chimera" 
+                      PRONUNCIATION GUIDE 
+
+          VARALA                   vuh-RAW-luh
+          VARALLANS                vuh-RAW-luhns
+          SPACE-DIZEN              space DIE-zen
+          LAAS                     LAH-z
+          VOLG                     volg
+          KORALIS                  kuh-RAWL-uhs
+
+         DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - TEASER         1.
+
+                  STAR TREK: DEEP SPACE NINE                    
+                              "Chimera"                                
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	traveling at impulse.
+
+2    INT. RUNABOUT
+
+	ODO is in the cockpit, studying a small GLASS
+	KNICKKNACK. As he holds it up to the light, its
+	faceted surface twinkles with color.
+
+	O'BRIEN ENTERS from the back, having just woken from
+	a nap. He's wearing his hand phaser.
+
+					O'BRIEN
+				(moving to the
+				replicator)
+			How long was I asleep?
+
+					ODO
+			Almost two hours.
+
+	O'Brien's surprised to hear he was asleep that long,
+	gets a MUG of coffee from the replicator.
+
+					O'BRIEN
+				(noticing)
+			You dropped out of warp -- we
+			must be getting close to home.
+
+					ODO
+				(nods)
+			We entered the Bajoran system a
+			few minutes ago.
+
+					O'BRIEN
+				(taking a seat)
+			What's that?
+
+					ODO
+			The shopkeeper I bought it from
+			called it a knickknack.
+
+					O'BRIEN
+			I didn't know you collected
+			knickknacks.
+
+          DEEP SPACE NINE: "Chimera" - REV. 12/16/98 TEASER          2.
+
+2    CONTINUED:
+
+					ODO
+			It's a present for Kira.
+
+	O'Brien's features falter at hearing this.
+
+					ODO
+				(misunderstanding)
+			You don't think she'll like it?
+
+					O'BRIEN
+			I'm sure she will. It's just...
+			I didn't get anything for Keiko.
+
+					ODO
+				(trying to make him 
+				feel better)
+			The conference kept you pretty
+			busy...
+
+					O'BRIEN
+				(kicking himself)
+			You made time to get something.
+
+	O'Brien's eyes fall to a small wooden BOX sitting on
+	the console next to Odo, labeled with alien lettering.
+
+					O'BRIEN
+			Not chocolates too?
+
+					ODO
+			Rigelian chocolates. Her
+			favorite.
+
+	O'Brien eyes them for a beat.
+
+					O'BRIEN
+			I'll buy them from you.
+
+					ODO
+			I beg your pardon?
+
+					O'BRIEN
+			I'll buy them from you. Come on,
+			Odo, you don't need to give Kira
+			two presents. We were only gone
+			a day.
+
+					ODO
+			I'm sorry, but the answer's no.
+
+	O'Brien is about to protest when a proximity ALARM
+	SOUNDS and the ship goes to RED ALERT -- both men
+	turn to their consoles to find out what it is.
+
+ DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - TEASER         3.
+
+2    CONTINUED:	(2)
+
+					O'BRIEN
+			There's something behind us.
+
+					ODO
+			And it's gaining fast.
+
+3    EXT. SPACE - RUNABOUT (OPTICAL)
+
+	as a spacefaring LIFEFORM rapidly approaches. Its
+	body is smooth and cylindrical, and it propels
+	itself with a pulsating motion. As it "swims"
+	alongside the Runabout, we see that it's almost as
+	big as the ship.
+
+4    INT. RUNABOUT (OPTICAL)
+
+	THROUGH THE WINDOW, Odo and O'Brien see the creature
+	swimming in front of the runabout.
+
+					O'BRIEN
+			You think it's friendly?
+
+					ODO
+			I hope so.
+
+					O'BRIEN
+			It certainly seems to have taken
+			an interest in us.
+
+	Suddenly the creature DROPS BACK OUT OF THEIR SIGHT.
+	A beat, then it SLAMS against the side of the
+	runabout, JOSTLING them in their seats.
+
+					O'BRIEN
+			Uh-oh.
+
+					ODO
+				(off console)
+			It's gone.
+
+					O'BRIEN
+			What?
+
+					ODO
+				(puzzled)
+			According to the sensors, there's
+			nothing out there.
+
+					O'BRIEN
+			Where'd it go?
+
+         DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - TEASER         4.
+
+4    CONTINUED:
+
+	A strange SOUND from behind them gets their
+	attention. They exchange puzzled looks, move to
+	investigate. Suddenly the SOUND again, from a
+	different part of the runabout. It's almost like
+	something is moving around behind the walls.
+
+	The SOUND again, this time from near a VENT situated
+	near the back of the compartment.
+
+	They move to it cautiously. As they lean close to
+	listen, a mass of changeling PROTOPLASM suddenly
+	SHOOTS from the vent.
+
+5    ODO AND O'BRIEN
+
+	as they jump back, turn to look behind them.
+
+					ODO
+			A changeling.
+
+6    THE CHANGELING (OPTICAL)
+
+	as it MORPHS into humanoid form. Although its face
+	is similar to Odo's in that its features are smooth
+	and somewhat ill-defined, it's modeled on a humanoid
+	species we've never seen before.
+
+	It's definitely male, and we get the sense that he's a
+	bit more adept at mimicking faces than Odo, as his
+	features are more expressive. He wears alien-looking
+	CLOTHES that are more practical than decorative.
+
+	O'Brien trains his weapon on him, but the
+	changeling's attention is fixed on Odo alone. Off
+	this moment, we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE         5.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+7    INT. RUNABOUT - MOMENTS LATER
+
+	O'Brien keeps his weapon trained on the intruder,
+	whose eyes are fixed on Odo. The Changeling carries
+	himself with a proud bearing, and when he speaks
+	it's with a direct, urgent manner.
+
+					O'BRIEN
+			Stay where you are, or I'll fire.
+
+	The Changeling ignores him, stares at Odo.
+
+					CHANGELING
+			You -- you're a Metamorph?
+
+					ODO
+			I'm a changeling, yes.
+
+	The Changeling can't believe he's finally found
+	another of his kind.
+
+					CHANGELING
+				(to Odo)
+			Tell the mono-form to put down
+			its weapon.
+
+	Odo isn't about to do any such thing until he gets
+	some answers.
+
+					ODO
+			Why did you board our ship?
+
+					CHANGELING
+			Because I sensed you were here.
+			I had to see if it was true -- if
+			I'd finally found another
+			Metamorph.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE         6.
+
+7    CONTINUED:
+
+					ODO
+			You've never met another
+			Shape-shifter?
+
+					CHANGELING
+				(stepping forward)
+			I've been trying to find others
+			of my kind for a long time.
+
+					O'BRIEN
+				(brandishing his
+				phaser)
+			I told you to stay where you
+			were.
+
+	O'Brien can see that Odo's starting to believe the
+	Changeling's story, but he's not so sure.
+
+					O'BRIEN
+			How do we know he's not a
+			Founder?
+
+	The Changeling doesn't seem to recognize the word.
+
+					ODO
+			He isn't.
+				(trusting his
+				instincts)
+			He's one of the hundred.
+
+					CHANGELING
+			The hundred?
+
+					ODO
+			Over the centuries, our people
+			sent a hundred "infant"
+			changelings out into the galaxy.
+			We were to learn about other
+			species, and eventually return
+			home to share what we'd
+			experienced.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE         7.
+
+7    CONTINUED:	(2)
+
+	The Changeling tries to make sense of what he's
+	being told.
+
+					CHANGELING
+			That would explain why I was
+			alone on Varala.
+				(to Odo)
+			I didn't even know what I was at
+			first... or that I could assume
+			other forms.
+
+	Odo can't help but be drawn in by someone who shared
+	the same experiences he did.
+
+					ODO
+			I was the same way.
+
+	O'Brien can see that Odo's buying the Changeling's
+	story, but he's not convinced.
+
+					O'BRIEN
+			Odo, I hate to interrupt... but
+			shouldn't we get him in a
+			containment field until we're
+			sure he's telling the truth?
+
+	Part of Odo knows he's right, but his instincts are
+	telling him it isn't necessary.
+
+					CHANGELING
+				(to Odo)
+			I'll allow myself to be taken
+			prisoner to show my good faith,
+			but only if you vouch for my
+			safety.
+				(eyeing O'Brien)
+			I don't trust humanoids.
+
+	Odo nods, sealing the deal. Off this moment...
+
+8    EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE         8.
+
+9    INT. CAPTAIN'S OFFICE
+
+	Odo has told SISKO about the changeling, and the
+	captain is wary about what he's heard.
+
+					SISKO
+			Where's is he now?
+
+					ODO
+			In a holding cell.
+
+	Odo sees that Sisko is understandably concerned
+	about this mysterious changeling, does his best to
+	put him at ease.
+
+					ODO
+			Captain, he's not a threat to us.
+			He's just a changeling who's
+			traveled a long way to find out
+			where he came from.
+
+					SISKO
+			So you believe his story?
+
+					ODO
+			Yes, sir.
+
+	But Sisko is unconvinced.
+
+					SISKO
+			How can we be sure he's not a
+			Founder?
+
+					ODO
+			If he were, he'd be infected with
+			the same disease that's
+			afflicting the entire Link. I
+			had Doctor Bashir scan him. His
+			morphogenic matrix is as stable
+			as mine.
+
+	Sisko considers this for a beat...
+
+					ODO
+			Sir, with your permission, I'd
+			like to release him.
+
+					SISKO
+			Constable, I'm sure you can
+			appreciate why I'd have
+			reservations about that. We're
+			at war with your people. And the
+			Founders have deceived us before.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        8A.
+
+9    CONTINUED:
+
+					ODO
+			I realize that. But he's not a
+			Founder. He's one of the
+			hundred, I'm sure of it.
+				(beat)
+			Sir, I'm asking you to trust me
+			on this.
+
+	Sisko studies Odo for a beat; he can see how much
+	this means to him. Fighting his reservations, he
+	gives in because he feels he owes it to Odo.
+
+					SISKO
+			All right, Constable.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE         9.
+
+9    CONTINUED:	(2)
+
+					SISKO (Cont'd)
+			I'm releasing him into your
+			custody.
+
+	Odo's elated, but as always, he doesn't show it.
+
+					ODO
+			Thank you, sir.
+
+	Off Sisko as he watches Odo go, hoping he's doing
+	the right thing...
+
+10   INT. PROMENADE - UPPER LEVEL
+
+	Odo and the Changeling walk and talk.
+
+					ODO
+			-- when I found out our people
+			were the leaders of the Dominion,
+			I realized I had no place with
+			them. This war they're fighting
+			is wrong.
+
+					CHANGELING
+			I can understand their distrust
+			of humanoids, but why try to
+			conquer them?
+				(glancing at the
+				passersby)
+			Better to avoid them altogether.
+
+					ODO
+			You don't much care for
+			humanoids.
+
+					CHANGELING
+			I know from experience they don't
+			much care for changelings.
+
+					ODO
+			I think you'll find the people
+			here are different.
+
+					CHANGELING
+			Oh?
+
+					ODO
+			They've accepted me.
+
+	The Changeling looks skeptical.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        10.
+
+10   CONTINUED:
+
+					CHANGELING
+			Have they?
+				(beat)
+			Is that why you've stayed?
+
+	Odo isn't sure what he means.
+
+					ODO
+			I told you, I want no part of the
+			Founders.
+
+					CHANGELING
+			But what about the hundred that
+			were sent out -- haven't you ever
+			tried to find any of them?
+
+					ODO
+			No.
+
+	The Changeling seems surprised to hear this.
+
+					ODO
+			It's a big galaxy. They could be
+			anywhere.
+
+					CHANGELING
+			I found you.
+
+	Odo finds himself feeling a bit defensive.
+
+					ODO
+			I have a life here, friends.
+
+	The Changeling begins to realize something...
+
+					CHANGELING
+			When did you first take humanoid
+			form?
+
+					ODO
+			A little over thirty years ago.
+
+					CHANGELING
+			So that's it. This is all still
+			new to you. I spent the first
+			part of my life living among
+			humanoids, as well.
+
+					ODO
+			How long ago was that?
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        11.
+
+10   CONTINUED:	(2)
+
+					CHANGELING
+			Over two hundred years.
+				(off Odo's surprise)
+			I must've been sent out earlier
+			than you.
+
+					ODO
+				(trying to make
+				sense of it)
+			Or it could be that I was adrift
+			for a long time before I was
+			found.
+
+					CHANGELING
+			Either way, it explains why
+			you've chosen to stay here. I
+			was fascinated by humanoid life
+			in the beginning, too.
+
+	Being treated like a "youngster" doesn't sit well
+	with Odo.
+
+					ODO
+			But you... lost interest.
+
+					CHANGELING
+			I found it... limiting.
+				(besides)
+			The Varalans never accepted me as
+			one of them. I wasn't able to
+			fully mimic their appearance.
+
+					ODO
+			Faces aren't easy.
+
+					CHANGELING
+			No. And humanoids aren't very
+			tolerant of difference.
+
+					ODO
+			Some of them are. There are
+			dozens of species living on this
+			station, and they tolerate each
+			other's differences quite well.
+
+					CHANGELING
+				(glancing around)
+			He has bumps on his forehead and
+			she has a wrinkled nose -- but
+			they're basically alike. They're
+			bipeds that eat, sleep and
+			breathe. You and I are nothing
+			like them.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        12.
+
+10   CONTINUED:	(3)
+
+	Odo doesn't see the problem --
+
+					ODO
+			We're changelings. We can be
+			like them when we choose.
+
+					CHANGELING
+			I choose to do so as little as
+			possible. That's where we differ.
+
+	Odo lets this go because he has no desire to argue
+	with him.
+
+					ODO
+			Why don't I show you where you'll
+			be staying?
+
+	The Changeling nods, and we cut to --
+
+11   INT. HABITAT RING CORRIDOR
+
+	as Odo and the Changeling ENTER.
+
+					ODO
+			You haven't told me your name.
+
+					CHANGELING
+			The Varalans called me Laas. In
+			their language it means
+			"changeable." Not very
+			imaginative, is it?
+
+					ODO
+			At least it's appropriate. My
+			name means "unknown sample." The
+			scientist who found me didn't
+			know what I was.
+
+11A  INT. ODO'S QUARTERS
+
+	They ENTER.
+
+					ODO
+			These are my quarters. I'll be
+			staying...
+				(with Kira, but he'd
+				rather not get into
+				it)
+			-- somewhere else. Feel free to
+			shape-shift as you please.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE       12A.
+
+11A  CONTINUED:
+
+					ODO (cont'd)
+			Some of these forms are quite
+			interesting.
+
+	The Changeling runs his hand along the jungle-gym,
+	detecting a thin layer of dust.
+
+					CHANGELING
+			This hasn't been used in some
+			time.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        13.
+
+11A  CONTINUED:	(2)
+
+	For some reason Odo finds himself feeling defensive
+	around this man, and his simple statement of fact
+	feels to him like an accusation.
+
+					ODO
+			I've been busy.
+
+	The Changeling notices a PICTURE of Kira sitting on
+	Odo's computer console.
+
+					CHANGELING
+			Who's this?
+
+					ODO
+			Her name's Kira.
+
+	The Changeling studies the picture for a beat
+	without comment.
+
+					CHANGELING
+			I had a mate once.
+
+					ODO
+				(surprised)
+			Oh?
+
+					CHANGELING
+			On Varala. Not long after I
+			assumed humanoid form.
+
+					ODO
+			What happened?
+
+					CHANGELING
+			We couldn't have children. That
+			was important to her.
+
+	This is a touchy subject for Odo, something he's
+	wondered about in his relationship with Kira.
+
+					CHANGELING
+				(with characteristic bluntness)
+			Is it something that matters to
+			this Kira?
+
+					ODO
+			We've never discussed it.
+
+					CHANGELING
+			Neither did we, at first.
+
+	Without his meaning to, the Changeling's words twist
+	Odo's heart.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        14.
+
+11A  CONTINUED:	(3)
+
+					CHANGELING
+			Do our people reproduce?
+
+					ODO
+			It's a little more complicated
+			than that. In our natural state,
+			we don't exist as separate entities.
+
+					CHANGELING
+			I don't understand.
+
+					ODO
+			Our people spend most of their
+			time in the Link.
+
+					CHANGELING
+			The Link?
+
+					ODO
+			It involves... a melding into one
+			-- the merging of thought and
+			form, idea and sensation.
+
+					CHANGELING
+			You're speaking in riddles.
+
+					ODO
+			It's difficult to explain.
+
+					CHANGELING
+			Then don't. Show me.
+
+					ODO
+			Of course.
+
+	Odo realizes that the Changeling's right, there's no
+	need to use words. But why didn't he think of it
+	himself?
+
+	Odo approaches the Changeling and extends his hand
+	to him.
+
+					ODO
+			Take it.
+
+	Without hesitation, he reaches and clasps Odo's
+	hand.
+
+12   CLOSE - THEIR HANDS (OPTICAL)
+
+	Odo's hand begins to MORPH around the Changeling's.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE        15.
+
+13   THE CHANGELING
+
+	reacts to the sensation. Then as if by instinct, he
+	allows --
+
+14   HIS HAND (OPTICAL)
+
+	to go to a GELATINOUS state and merge with Odo's.
+
+15   ODO
+
+	His features are calm, almost solemn, as if he
+	understands that it's a sacred trust to share the
+	Link with a changeling who hasn't experienced it
+	before.
+
+16   ODO AND THE CHANGELING (OPTICAL)
+
+	As their bodies start to come together into A SINGLE
+	MASS OF ROILING SHAPESHIFTER ENERGY...
+
+									DISSOLVE TO:
+
+16A  INT. ODO'S QUARTERS - LATER (FORMERLY SCENE 17)
+
+	The Changeling is standing at the window staring out
+	at the stars. Odo watches from a discreet distance,
+	knowing he's gone through a profound experience.
+
+					CHANGELING
+			For the first time in my life...
+			I understand how I was meant to
+			exist...
+
+	The Changeling turns to look at Odo.
+
+					CHANGELING
+			You've given up a great deal to
+			stay here.
+
+	For the first time ever, Odo's met someone who can
+	fully understand that fact.
+
+					ODO
+			I have.
+				(beat)
+			But I won't have anything to do
+			with the Founders and their war.
+
+	The Changeling fixes him with a knowing look.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT ONE       15A.
+
+16A  CONTINUED:
+
+					CHANGELING
+			Odo, we Linked. I know the
+			truth. You've stayed because of
+			Kira. If it wasn't for her,
+			you'd be with our people. War or
+			no war, you'd be a Founder.
+
+	Ode's never had to face this truth about himself,
+	never had to hear it put into words. Off his face
+	as he struggles with what it means, we...
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO 16-17.       
+                            ACT TWO                             
+
+	FADE IN:
+
+17   OMITTED
+
+18   INT. SECURITY OFFICE
+
+	Odo is sitting at his desk, lost in thought, a few
+	PADDs all but ignored in front of him. A moment,
+	then KIRA ENTERS.
+
+					KIRA
+			Hi.
+
+	Odo snaps out of his reverie, offers her a smile.
+
+					ODO
+			Hello, Nerys.
+
+					KIRA
+				(happy for him)
+			I can't believe it. Another
+			changeling. What's he like?
+
+					ODO
+			He's... complicated.
+
+					KIRA
+				(gently teasing)
+			Like you.
+
+	She takes his hand, smiles. A beat, then she senses
+	something.
+
+					KIRA
+			Are you all right?
+
+					ODO
+			I'm fine.
+
+					KIRA
+			You seem... far away.
+
+	A beat, then Odo tells her why.
+
+					ODO
+			We Linked.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO        18.
+
+18   CONTINUED:
+
+	This is the first Kira's heard of it, and she's not
+	sure what to make of it.
+
+					KIRA
+			I see.
+
+	Odo realizes why she might be worried about it.
+
+					ODO
+			There's nothing to worry about.
+			He's not a Founder, he's not
+			trying to lure me to the
+			Dominion.
+
+	She nods, trying to shake off the unease she feels.
+
+					ODO
+			The Link is part of what we are.
+			It comes as naturally to us as
+			talking does to humanoids.
+
+	Kira can't help feeling a little insecure about the
+	fact that she's not capable of sharing it with him.
+
+					KIRA
+			It's a little more... personal
+			than talking, isn't it?
+
+					ODO
+			I suppose...
+
+					KIRA
+			So. Do I get to meet him?
+
+	Odo has the uneasy feeling that this meeting may not
+	go well.
+
+					ODO
+			If you like.
+
+					KIRA
+			I would.
+
+					ODO
+			Then I'll arrange it.
+
+	And off this moment...
+
+19   INT. QUARK'S
+
+	Kira is at the bar with BASHIR, EZRI and O'Brien.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO        19.
+
+19   CONTINUED:
+
+					KIRA
+			There they are.
+
+	Odo and the Changeling approach from the entrance to
+	the Promenade. The Changeling seems less than
+	thrilled to be here, but he's going along for Odo's
+	sake.
+
+					ODO
+			This is Laas.
+
+               KIRA                               BASHIR
+     Nerys.                                Julian.
+
+					EZRI
+			Ezri.
+
+					O'BRIEN
+			Miles.
+
+					CHANGELING
+				(even)
+			We've met.
+
+	O'Brien tries to put what happened behind them.
+
+					O'BRIEN
+			Look, I'm sorry. We didn't know
+			who you were at first. You gave
+			us a bit of a scare when you
+			rammed the runabout.
+
+	The Changeling says nothing to let O'Brien off the
+	hook. A beat, then Ezri tries to keep things going.
+
+					EZRI
+			I've always wondered how it would
+			feel to be able to fly through
+			space like that.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO        20.
+
+19   CONTINUED:	(2)
+
+					CHANGELING
+				(matter of fact)
+			It's a shame you're incapable of
+			experiencing it.
+
+					EZRI
+				(put off)
+			Guess so...
+
+	Odo stares at the Changeling, wishing he'd try a
+	little harder to make conversation. Another
+	uncomfortable silence, then Kira steps into the
+	breach.
+
+					KIRA
+			Tell us about Varala.
+
+					BASHIR
+			No Federation ship's ever been
+			there.
+
+					CHANGELING
+			It's just like any other planet
+			that's overrun with humanoids.
+			Cities and farms everywhere --
+			other lifeforms displaced from
+			their habitats. I once migrated
+			to the southern continent with a
+			herd of volg. By the time we
+			returned to the breeding grounds
+			the next summer, they'd been
+			fenced off. The herd died out
+			within two generations.
+
+	Our people don't know quite what to say.
+
+					CHANGELING
+			It's the same on any planet where
+			humanoids thrive. They disrupt
+			the natural balance.
+
+	Just then, Quark arrives with a plate.
+
+					QUARK
+			Who ordered the vilm-steak?
+
+	An awkward moment...
+
+					BASHIR
+			Just... keep it warm for me.
+
+					QUARK
+			Whatever you say...
+
+	Quark moves off.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO       20A.
+
+19   CONTINUED:	(3)
+
+					CHANGELING
+			The truth is, I prefer the so-
+			called primitive lifeforms. They
+			exist as they were meant to,
+			following their instincts. No
+			words to get in the way, no lies
+			or deceptions.
+
+					O'BRIEN
+			We're not the ones who can
+			disguise ourselves as anything we
+			want.
+
+	After all the things the Changeling's said to him
+	about humanoids, Odo finds that he's not sure how to
+	take this.
+
+					ODO
+			Meaning?
+
+					CHANGELING
+			Meaning Shape-shifters aren't to
+			be trusted.
+
+	An uncomfortable moment as O'Brien chafes at having
+	his words twisted around.
+
+					O'BRIEN
+			I trust Odo.
+
+					CHANGELING
+			Of course you trust Odo. Look at
+			him. You've convinced him that
+			he's as limited as you are.
+
+					ODO
+			Laas.
+
+					EZRI
+				(playfully)
+			He's seen through our evil plan.
+
+					BASHIR
+			Foiled again.
+
+					KIRA
+			It's not funny.
+
+					CHANGELING
+			No, I'm worried for him.
+
+					KIRA
+			Odo can take care of himself.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO       20B.
+
+19   CONTINUED:	(4)
+
+	Odo decides to pull the plug on the evening before
+	it gets any worse.
+
+					ODO
+			Well. Thank you, colonel. It's
+			been interesting. We should be
+			going now. If you'll excuse us,
+			colonel, counselor, chief,
+			doctor.
+				(standing)
+			I'm glad we came by.
+				(turning to the
+				door)
+			Laas...
+
+	With a last look our people's way, the Changeling
+	heads for the door. Odo glances at Kira
+	apologetically, then follows.
+
+					0'BRIEN
+				(can't resist)
+			Nice to see you again.
+
+	And off our people as they exchange what-was-that-all-
+	about looks...
+
+20   INT. PROMENADE - SECOND LEVEL
+
+	Odo is confronting the Changeling over what happened
+	in Quark's.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO        21.
+
+20   CONTINUED:
+
+					ODO
+			Was it really necessary to insult
+			my friends?
+
+					CHANGELING
+			I was merely speaking my mind.
+
+					ODO
+			You could call it that.
+
+					CHANGELING
+			Humanoids are tragic creatures.
+			They've lost the ability to take
+			joy from simply existing... yet
+			they haven't evolved to the next
+			level -- where consciousness 
+			exists independent of form.
+
+					ODO
+			You're certainly not afraid to
+			make grand generalizations.
+
+					CHANGELING
+			I've been many things in my time.
+			I speak from experience.
+
+	The Changeling turns to Odo, sees that he's
+	unconvinced. He smiles, extends his hand.
+
+					CHANGELING
+			Enough talk. Link with me.
+
+					ODO
+			Here?
+
+					CHANGELING
+			Why not?
+
+					ODO
+			I don't think that's a good idea.
+
+	The Changeling sees Odo glance at some passersby,
+	realizes the problem.
+
+					CHANGELING
+			You're embarrassed.
+
+	It's true, but Odo doesn't want to admit it.
+
+					ODO
+			No...
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO        22.
+
+20   CONTINUED:	(2)
+
+					CHANGELING
+			You don't want to do anything to
+			remind them that you're not truly
+			a humanoid.
+
+					ODO
+			I don't go out of my way to point
+			it out, no.
+
+					CHANGELING
+			Why? Are you afraid they'll
+			reject you?
+
+					ODO
+				(defensive)
+			I don't like to confront people
+			with something that might make
+			them uncomfortable.
+
+					CHANGELING
+			So you deny your true nature in
+			order to fit in.
+
+					ODO
+			You're reading too much into it.
+
+					CHANGELING
+			Before I came here, when was the
+			last time you assumed another
+			form?
+
+	Odo hesitates, and that's answer enough for the
+	Changeling.
+
+					CHANGELING
+			You can't even remember. You've
+			been pretending to be a humanoid
+			for so long, it doesn't occur to
+			you that you can be anything
+			else.
+
+					ODO
+			That's not true. I've been
+			involved with other things
+			lately.
+
+					CHANGELING
+			Like what? Courting Kira? She
+			can't even Link with you.
+
+					ODO
+			Leave her out of this.
+
+					CHANGELING
+			It won't last.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT TWO        23.
+
+20   CONTINUED:	(3)
+
+					ODO
+			The fact that your relationship
+			failed doesn't mean mine will.
+
+					CHANGELING
+			True. If you're lucky, you'll
+			get to watch her grow old and
+			die.
+
+					ODO
+			I think you should stay out of my
+			affairs.
+
+					CHANGELING
+			Odo, I don't want to see you make
+			the same mistakes I made. You're
+			wasting your time trying to be a
+			humanoid. You're limiting
+			yourself.
+
+	The Changeling takes him by the shoulder, tries to
+	convince him that there's a better way.
+
+					CHANGELING
+			Let's leave, Odo. Let's find the
+			others. A hundred were sent away
+			-- they're out there somewhere,
+			and if we can find even a few of
+			them, we can form a new Link.
+			Think of it. We can exist the
+			way we were meant to. As
+			Changelings.
+
+	And off Odo's face as he grapples with what he's
+	being offered, we...
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       24.
+                           ACT THREE                            
+
+	FADE IN:
+
+21   INT. KIRA'S QUARTERS
+
+	Since her promotion to colonel, Kira has taken up
+	residence in a larger set of quarters, the three
+	window kind. Her belongings from her old quarters
+	are in evidence here, as well as some recent
+	acquisitions, including the knickknack Odo gave her.
+
+	Odo and Kira are sitting close on the couch, sharing
+	an intimate moment.
+
+					KIRA
+			I can't believe he actually
+			thought you'd drop everything and
+			leave with him.
+
+					ODO
+			He just can't understand why I'd
+			want to stay.
+
+					KIRA
+			How'd he take it when you said
+			no?
+				(off Odo's hesitation)
+			You did say no, didn't you?
+
+					ODO
+			I told him I'd think about it.
+				(quickly pointing out why)
+			I didn't want to dismiss it out of
+			hand. He would've taken offense.
+
+	Kira studies his face...
+
+					ODO
+			Why are you looking at me like
+			that?
+
+					KIRA
+			It bothers me that he thinks
+			you're not happy here.
+				(troubled)
+			It makes me wonder if he knows
+			something I don't.
+
+					ODO
+			What makes you say that?
+
+					KIRA
+			He Linked with you.
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       25.
+
+21   CONTINUED:
+
+	Odo realizes what she's getting at, and that it
+	troubles her deeply.
+
+					KIRA
+			Something about it must've given
+			him the impression that you might
+			want to leave.
+
+					ODO
+			It was just wishful thinking on
+			his part. The thought of the two
+			of us going off together to find
+			the others --
+				(getting caught up in it)
+			-- exploring the galaxy as
+			changelings, it's very alluring.
+				(catching himself)
+			To him.
+
+					KIRA
+			Sounds like it's alluring to you,
+			too.
+
+					ODO
+				(gently reassuring her)
+			I'm happy here.
+
+	A moment, then he pulls her close. Kira snuggles
+	against his chest for a quiet moment.
+
+					KIRA
+			I'm sorry I can't Link with you.
+
+	Even as she says it, she knows the answer -- how
+	could he not want that? Odo doesn't see any point
+	in saying it out loud and hurting her feelings, and
+	so he says the only thing he can say.
+
+					ODO
+			It doesn't matter, Nerys... I
+			love you...
+
+	And it's answer enough. Off the image of them
+	holding each other close, each lost in their own
+	thoughts...
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       26.
+
+22   INT. HABITAT RING CORRIDOR
+
+	as Odo approaches the door to his quarters.
+
+23   INT. ODO'S QUARTERS (OPTICAL)
+
+	as Odo ENTERS and stops short when he sees a FLAME
+	burning in the center of the room, suspended about
+	a few feet off the ground.
+
+					ODO
+				(instinctively)
+			Computer, activate fire
+			suppression sys--
+
+	He trails off when the FLAME FLICKERS brightly,
+	almost as if in reaction to his words. Then it hits
+	him -- fire doesn't float in the air, the flame is
+	the Changeling.
+
+					ODO
+			Laas... ?
+
+24   CLOSE - THE FLAME (PRACTICAL EFFECT)
+
+	as it FLICKERS again in response.
+
+25   ODO
+
+	stares at it, takes a step closer.
+
+				ODO
+			I need to talk to you...
+
+	We hear the SOUND of an off-screen morph, then cut
+	to --
+
+26   THE CHANGELING (OPTICAL)
+
+	as he just finishes MORPHING into humanoid form. He
+	studies Odo for a beat with a knowing smile.
+
+					CHANGELING
+			You didn't realize it was me.
+			Did you even know we could exist
+			as fire?
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       27.
+
+26   CONTINUED:
+
+	In truth, Odo didn't.
+
+					CHANGELING
+			I didn't think so. No matter.
+			Once we're away from here, I'll
+			teach you to become things you've
+			never even dreamed of.
+
+	He smiles, relishing the thought of the quest
+	they're about to embark on.
+
+					ODO
+			I'm not leaving. I'm staying
+			here.
+
+	The Changeling can't believe Odo would make such a
+	mistake.
+
+					CHANGELING
+				(anger flaring)
+			Why? So you can keep pretending
+			to be one of them?
+
+	Odo doesn't rise to the bait, he's not going to
+	defend his life here because he doesn't feel he has
+	to.
+
+					ODO
+			I'm sorry if you're disappointed.
+
+	The Changeling dismisses this with a wave of his
+	hand.
+
+					CHANGELING
+			I'll survive.
+				(beat)
+			When I find some of the others,
+			I'll send for you.
+				(sure of it)
+			You'll change your mind and join
+			us.
+
+					ODO
+			It could be a long time before
+			you find another Changeling.
+
+					CHANGELING
+			Is that supposed to discourage
+			me?
+
+					ODO
+			All I'm saying is that you don't
+			have to leave right away.
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE      27A.
+
+26     CONTINUED:	(2)
+
+					ODO (cont'd)
+			I wouldn't mind the company of
+			another Changeling. I'm sure you
+			wouldn't either.
+
+	Odo's right, but the Changeling can't resist
+	needling him.
+
+					CHANGELING
+			All right, Odo, I won't abandon
+			you to these mono-forms.
+				(wry smile)
+			As a favor to you, I'll stay for
+			a while.
+
+					ODO
+				(dry)
+			You might as well. If you can't
+			get along with me, what makes you
+			think you'll get along with any
+			other Changeling?
+
+	This elicits a rare smile from the Changeling.
+
+					CHANGELING
+			True enough.
+				(beat)
+			Just remember, I have no interest
+			in mono-forms, even if they are
+			your "friends."
+
+					ODO
+			After what happened in Quark's, I
+			don't think you have to worry
+			about an overcrowded social
+			schedule.
+
+					CHANGELING
+			Good.
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       26.
+
+26   CONTINUED:	(3)
+
+	A moment between them, then he extends his hand to
+	Odo, who reaches and takes it.
+
+27   CLOSE - THEIR HANDS (OPTICAL)
+
+	as they begin to MORPH together...
+
+28   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+29   INT. SECURITY OFFICE
+
+	Odo is working at his desk, studying a PADD. A
+	beat, then something catches his attention out on
+	the Promenade.
+
+30   INT. PROMENADE
+
+	The area is covered with a thick GROUND FOG. TWO
+	BAJORAN CHILDREN run and play in it, until their
+	MOTHER rushes out and pulls them away. TWO KLINGONS
+	can be seen surveying the goings on suspiciously.
+
+31   O'BRIEN AND BASHIR
+
+	stand in the center of the Promenade, puzzled by the
+	mist swirling around their feet.
+
+					O'BRIEN
+				(annoyed)
+			Great. The environmental
+			system's out again.
+
+					BASHIR
+			There goes our holosuite
+			reservation...
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       29.
+
+31   CONTINUED:
+
+					O'BRIEN
+			I'm going to find out what the
+			problem is.
+
+	Odo steps toward them.
+
+					ODO
+			Don't bother, Chief. There's
+			nothing wrong with the
+			environmental system.
+
+					O'BRIEN
+			Then where's this fog coming
+			from?
+
+					ODO
+			It's not fog. It's Laas.
+
+					O'BRIEN
+				(unnerved)
+			Laas?
+
+	Bashir and O'Brien exchange an uncomfortable look --
+	there's something creepy about knowing there's a
+	lifeform swirling at your feet.
+
+					BASHIR
+			What's he doing?
+
+	Odo's annoyed with Laas for doing this, but even so,
+	he's a little irked by their reactions.
+
+					ODO
+			Being fog, what's it look like?
+
+					O'BRIEN
+			Can't he be fog somewhere else?
+
+					BASHIR
+			Or at night, when no one's
+			around?
+
+					ODO
+			He's not hurting anyone.
+
+					O'BRIEN
+			Still. It's... creepy.
+
+					BASHIR
+				(re: the fog)
+			Careful, Miles. He might hear
+			you.
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE      29A.
+
+31     CONTINUED:	(2)
+
+					O'BRIEN
+			Good.
+
+	With that, they move off. Odo frowns at the fog,
+	addresses it.
+
+					ODO
+			Laas.
+
+	The fog ignores him.
+
+					ODO
+			Laas.
+
+32   THE FOG (PRACTICAL EFFECT)
+
+	as it starts to SWIRL and COALESCE at a single point
+	on the Promenade.
+
+       DEEP SPACE NINE: "'Chimera" - REV. 12/16/98 - ACT THREE      30.
+
+33   ODO
+
+	notices the two Klingons watching this with scowls
+	on their faces.
+
+33A  THE FOG (OPTICAL)
+
+	as it starts to come together to form a humanoid
+	shape.
+
+33B  ODO
+
+	as he crosses away from the Klingons, toward the
+	point where the fog is coming together.
+
+34   THE CHANGELING (OPTICAL)
+
+	as he just finishes MORPHING into humanoid form.
+	Odo approaches him with a frown.
+
+					ODO
+			Congratulations. You managed to
+			disrupt the entire Promenade.
+
+					CHANGELING
+			I was just relaxing.
+
+					ODO
+			If you want to "relax," do it in
+			private.
+
+					CHANGELING
+			Did I embarrass you? 
+
+	Suddenly a voice rings out
+
+					KLINGON
+			Ka'vek! (You there!)
+
+	Odo and the Changeling turn to see the two Klingons
+	standing nearby.
+
+					KLINGON
+			What is that Founder doing here?
+
+					ODO
+			He's not a Founder. Now move
+			along.
+
+	The Klingon knows better than to tangle with Odo,
+	but he can't resist a parting shot the Changeling's
+	way.
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       31.
+
+34   CONTINUED:
+
+					KLINGON
+			Don't change form in my presence
+			again.
+
+					CHANGELING
+			I change form where I please.
+
+	The Klingon bristles, glaring at the Changeling.
+
+					CHANGELING
+				(to Odo)
+			Look at him. Look at the hate in
+			his eyes.
+
+					ODO
+			Laas.
+
+					KLINGON
+			Your hands are stained with the
+			blood of Klingon warriors.
+
+					CHANGELING
+				(raising his hands
+				palm up)
+			But then, the stench would still
+			be on them.
+
+					KLINGON
+			P'tak!
+
+	The Klingon unsheathes the KNIFE hanging from his
+	belt, brandishes it threateningly. The moment hangs
+	in the air for a beat, then the Changeling holds up
+	his hand and --
+
+34A  A KNIFE MORPHS (OPTICAL)
+
+	into his grip.
+
+					CHANGELING
+			Mine's bigger.
+
+					KLINGON
+				(defend yourself!)
+			Ke'chaw!
+
+	Odo lunges forward, disarming the Klingon.
+
+       DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT THREE       32.
+
+35   THE SECOND KLINGON
+
+	goes for his belt -- from which hang both a KNIFE
+	and a DISRUPTOR.
+
+36   THE CHANGELING
+
+	reacts instinctively, snaps his arm toward the
+	second Klingon. We hear a sharp metallic SOUND and
+	cut to --
+
+37   THE SECOND KLINGON
+
+	impaled on the BLADE of the Changeling's knife,
+	which he's extended by a few feet.
+
+38   ODO
+
+	reacting to this deadly turn of events.
+
+39   THE SECOND KLINGON (OPTICAL)
+
+	as the BLADE quickly RETRACTS to its former length
+	and he falls to the ground dead.
+
+40   ODO
+
+	turns to Laas, who's standing over the dead Klingon.
+	Off this moment we...
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       33.
+                           ACT FOUR                             
+
+	FADE IN:
+
+41   INT. CAPTAIN'S OFFICE
+
+	Sisko, Odo and WORF are discussing what happened.
+
+					SISKO
+				(grim)
+			Doctor Bashir wasn't able to save
+			the Klingon's life. General
+			Martok has asked that Laas be
+			detained until the magistrate has
+			determined jurisdiction.
+
+					ODO
+			Jurisdiction?
+
+					SISKO
+			The Klingons want to extradite
+			him.
+
+					ODO
+			That's ridiculous. He killed
+			that Klingon in self-defense.
+
+					WORF
+			That is in dispute.
+
+					ODO
+			He was about to draw his
+			disruptor.
+
+					WORF
+			According to the other Klingon,
+			he was reaching for his dagger.
+
+					SISKO
+				(to Odo)
+			Are you saying that's not true?
+
+					ODO
+			It happened too fast. But their
+			intentions were obvious. One of
+			them put a knife in his chest.
+
+					SISKO
+			The Klingons are arguing that
+			since Laas knew he couldn't be
+			harmed by a knife, he wasn't
+			justified in responding with
+			deadly force.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       34.
+
+41   CONTINUED:
+
+	Odo's heard enough -- it's clear to him what's
+	really going on.
+
+					ODO
+			Since when do Klingons resort to
+			legal quibbling? They get
+			involved in fights all the time
+			and never file charges. It isn't
+			"honorable."
+
+	Odo's right, but neither Sisko nor Worf seem too
+	interested in questioning their motives.
+
+					SISKO
+			In this case, they're choosing to
+			exercise their rights under the
+			law.
+
+					ODO
+			Sir, they're only doing this
+			because they distrust
+			changelings.
+
+					WORF
+			He should not have provoked them.
+
+					ODO
+			Provoked them? They attacked
+			Laas.
+
+					SISKO
+				(off a PADD)
+			They're claiming that he
+			"surrounded them menacingly."
+
+	It takes Odo a moment to realize what they mean.
+
+					ODO
+			They felt menaced? By fog?
+
+	But Sisko doesn't dismiss it that easily.
+
+					SISKO
+			They weren't the only ones.
+			Twelve other people filed
+			complaints.
+
+					ODO
+			Is it a crime to shape-shift on
+			the Promenade?
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       35.
+
+41   CONTINUED:	(2)
+
+					SISKO
+			It may not be a crime, but
+			obviously it's not a good idea.
+
+	Odo stares at Sisko in disbelief. All the things
+	Laas has said to him about how humanoids hate
+	changelings are echoing in his head.
+
+					ODO
+			You're going to allow the
+			Klingons extradite him... knowing
+			they won't give him a fair
+			trial...
+
+					SISKO
+			It's not my decision. It's up to
+			the magistrate.
+
+					ODO
+			But you'd just as soon be rid of
+			him. You didn't want him on the
+			station in the first place. I
+			practically had to beg you to let
+			him out of that holding cell.
+
+					SISKO
+				(sharp)
+			That's enough, Constable.
+
+	Odo stiffens, holds his tongue.
+
+					SISKO
+			Now. General Martok has
+			expressed concerns about our
+			security arrangements.
+
+					ODO
+			Meaning?
+
+					SISKO
+			He doesn't feel it's appropriate
+			that you be in charge of the
+			prisoner.
+
+	Odo bristles at hearing this.
+
+					ODO
+			May I ask why?
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       36.
+
+41   CONTINUED:	(3)
+
+	They both know why, because Odo's a changeling. But
+	the official legal reason is this:
+
+					SISKO
+			Because you're a witness to the
+			alleged crime.
+
+					ODO
+				(sardonic)
+			That's a relief. For a moment I
+			thought you were going to say
+			it's because I'm a changeling.
+
+	And with that, he turns and EXITS. Off Sisko and
+	Worf as they watch him go...
+
+41A  INT. PROMENADE/SECURITY OFFICE
+
+	Odo is heading for his office when Quark calls out
+	to him.
+
+					QUARK
+			Odo.
+				(approaching)
+			I heard about your friend. Rumor
+			has it the Klingons want to put
+			him on trial.
+
+					ODO
+				(heading inside)
+			They're the ones who should be on
+			trial. If they'd attacked anyone
+			other than a changeling, they
+			would be.
+
+	Odo is expecting Quark to disagree with him, but
+	instead --
+
+					QUARK
+			You're probably right.
+
+	Odo looks at him with surprise.
+
+					QUARK
+			That fog episode certainly didn't
+			help matters.
+
+					ODO
+			He was only doing what comes
+			naturally to us.
+
+					QUARK
+			You've never pulled a stunt like
+			that.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR      36A.
+
+41A  CONTINUED:
+					QUARK (Cont'd)
+			You're smart enough to know
+			people don't want to be reminded
+			that you're different.
+				(with a shiver)
+			Who wants to see someone turn
+			into goo? I hope you don't do
+			that around Kira.
+
+					ODO
+			Why shouldn't I?
+
+					QUARK
+			If she's anything like me. She'd
+			rather you didn't. We humanoids
+			are the product of millions of
+			years of evolution. Our
+			ancestors learned the hard way
+			that what you don't know might
+			kill you. They wouldn't have
+			survived if they hadn't jumped
+			back when they encountered a
+			snake coiled in the muck. And
+			now millions of years later, that
+			instinct is still there.
+
+	Quark has an agenda here -- he's worried for Odo,
+	but he's not about to come out and say so.
+
+					QUARK
+			It's genetic. Our tolerance for
+			other lifeforms doesn't extend
+			beyond the two arm, two leg
+			variety. I hate to break it to
+			you, but when you're in your
+			natural state, you're more than
+			our poor old genes can handle.
+
+					ODO
+				(dismissive)
+			What are you saying, Quark? That
+			the Klingons couldn't help what
+			they did because of their genes?
+
+					QUARK
+			I'm not trying to excuse what
+			they did. I'm only telling you
+			why it happened.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR      36B.
+
+41A  CONTINUED:	(2)
+
+					QUARK (Cont'd)
+				(concerned for his
+				friend)
+			Watch your step, Odo. We're at
+			war with your people. This is no
+			time for a changeling pride
+			demonstration on the Promenade.
+
+	And with that, Quark turns and EXITS. Off Odo's
+	face as he watches him go...
+
+42   INT. HOLDING CELLS
+
+	A BAJORAN DEPUTY mans the security console. Odo
+	ENTERS and approaches him, chafing at having to ask
+	one of his own people for permission to see a
+	prisoner.
+
+					DEPUTY
+			Constable.
+
+					ODO
+			I'd like to have a few minutes
+			alone with the prisoner.
+
+	The Deputy is loyal to his commanding officer, and
+	embarrassed about having to do this.
+
+					DEPUTY
+			Sorry, sir. I have my orders.
+
+	Odo nods, moves to the Holding Cell.
+
+43   THE CHANGELING
+
+	is sitting on the back bench. He looks up at him as
+	he approaches, regards him with a resigned air.
+
+					ODO
+			I don't know what to say...
+
+					CHANGELING
+			You could say that you were
+			wrong. That the people here are
+			no different from any other
+			humanoids.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       37.
+
+43   CONTINUED:
+
+	Odo doesn't have the heart to defend them anymore.
+
+					ODO
+			Hopefully this will all get
+			straightened out at your hearing.
+
+					CHANGELING
+				(dry)
+			I'm sure it will be fair and
+			impartial.
+
+					ODO
+			Just tell them exactly what
+			happened.
+
+					CHANGELING
+			My word against a humanoid's?
+			Who do you think this magistrate
+			is going to believe?
+
+	Considering what happened, Odo's afraid the answer
+	is all too clear.
+
+					ODO
+			I shouldn't have convinced you to
+			stay here. If I'd let you go,
+			none of this would've happened.
+
+					CHANGELING
+			My only consolation is that this
+			may finally make you understand
+			you don't belong here. You saw
+			the hatred in that Klingon's
+			eyes. Maybe now you'll recognize
+			it when you see it hiding in the
+			faces of your so-called friends.
+
+	He moves close to the plain of the forcefield,
+	trying to drive home his point.
+
+					CHANGELING
+			They tolerate you because you
+			emulate them. What higher
+			flattery is there? "I, who can
+			be anything, choose to be like
+			you."
+				(beat)
+			But even when you make yourself
+			in their image, they know that
+			you aren't truly one of them.
+			What you appear to be doesn't
+			reflect what you really are.
+			It's only a mask.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       38.
+
+43   CONTINUED:	(2)
+
+					CHANGELING (Cont'd)
+			What lies underneath is alien to
+			them. So they fear it... and
+			their fear can turn to hate in
+			the blink of an eye...
+
+	And off Odo's face as he ponders his words...
+
+44   INT. ODO'S QUARTERS
+
+	Kira is trying to calm an agitated Odo.
+
+					ODO
+			They're going to extradite him.
+
+					KIRA
+			You don't know that.
+
+					ODO
+			Yes, I do. And no one's going to
+			do anything to stop it.
+
+					KIRA
+			There's not much anyone can do.
+
+					ODO
+			If he weren't a changeling, the
+			captain would find a way to
+			intervene.
+
+					KIRA
+			That's not fair.
+
+					ODO
+			Isn't it?
+
+					KIRA
+			You're starting to sound like
+			Laas.
+
+					ODO
+			Maybe that's because I'm starting
+			to see things more clearly now.
+
+					KIRA
+			What does that mean?
+
+					ODO
+				(taking her by the
+				shoulders)
+			Look at me, Nerys. What do you
+			see?
+
+	Kira's not sure what he's getting at.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       39.
+
+44   CONTINUED:
+
+					KIRA
+			I see you.
+
+					ODO
+			No. This is just a form I've
+			borrowed. I could just as easily
+			be someone else or something
+			else.
+
+					KIRA
+			I know that. But...
+				(taking his
+				shoulders)
+			... this is what you've chosen to
+			be. A man whose good and
+			honorable. And who I fell in
+			love with.
+				(pained)
+			Are you telling me that man never
+			really existed?
+
+					ODO
+				(anguished)
+			I don't know...
+
+	He turns away, trying to sort out what he's feeling.
+
+					ODO
+			I care about you more than anyone
+			I've ever known... these last few
+			months have been the happiest of
+			my life.
+				(a difficult
+				admission)
+			But even so, a part of me wishes
+			that Laas and I were out there
+			right now -- searching for the
+			others, existing as changelings.
+			Because that's what I am. Not a
+			humanoid, a changeling.
+
+	He turns away from her, not knowing how to deal with
+	the turmoil inside him. After a long moment...
+
+					KIRA
+				(softly)
+			You're right. Maybe you should
+			be out there...
+
+	And with that, she turns and EXITS.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       40.
+
+44   CONTINUED:	(2)
+
+	Off Odo as he gazes out at the stars...
+
+45   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+46   INT. HOLDING CELLS (OPTICAL)
+
+	Kira ENTERS and approaches the Guard at his console.
+
+					DEPUTY
+			Can I help you, colonel?
+
+					KIRA
+			I need to talk to the prisoner.
+				(beat)
+			Alone.
+
+					DEPUTY
+			Aye, sir.
+
+	He heads for the door and EXITS. Kira moves to the
+	Holding Cell, looks in on the Changeling.
+
+	They regard each other for a long beat, then Kira
+	reaches and works the control PANEL on the wall and
+	the forcefield FRITZES OFF. He looks at her with
+	surprise.
+
+					KIRA
+			Go to the third planet in the
+			Koralis System. There's an
+			orbital tether running down to an
+			abandoned mining complex. I'll
+			tell Odo to meet you there.
+
+	He stares at her suspiciously.
+
+					CHANGELING
+			Is this some kind of trick?
+
+	Kira shakes her head in disbelief.
+
+					KIRA
+			Do you want to get out of here or
+			not?
+
+	He decides she's telling the truth, steps toward the
+	entrance to the holding cell.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FOUR       41.
+
+46   CONTINUED:
+
+					KIRA
+				(pointing it out)
+			That vent. It'll lead you
+			through some conduits to an
+			airlock.
+
+	Before going, he studies her face for a beat, trying
+	to make sense of her unexpected gesture.
+
+					CHANGELING
+			Why?
+
+	A beat.
+
+					KIRA
+			Because I love him.
+
+	He stares at her as if she's belying everything he's
+	ever thought about humanoids. And off the moment
+	between them we...
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       42.
+                           ACT FIVE                             
+
+	FADE IN:
+
+47   INT. CAPTAIN'S OFFICE
+
+	Sisko, Odo, and Worf are reacting to Kira's news.
+
+					SISKO
+			Escaped? How did he get through
+			the containment field?
+
+					KIRA
+			I can't explain it, all I can
+			tell you is what I saw. He
+			turned himself into some kind
+			of... plasma energy and forced
+			his way through.
+				("kicking herself")
+			Before I could stop him, he
+			disappeared into an air vent.
+
+	Odo has to fight to keep from showing that he's
+	privately pleased about the changeling's escape.
+
+					WORF
+			According to the operations log,
+			one of the airlocks was activated
+			shortly after that.
+
+					SISKO
+			If he left the station, why
+			didn't our sensors detect him?
+
+					WORF
+			A Corvallen Freighter was leaving
+			at about the same time. He must
+			have shadowed it to keep from
+			being spotted.
+
+					KIRA
+			He could be anywhere by now.
+
+	Sisko takes this in with a grim nod.
+
+					SISKO
+			General Martok's not going to be
+			happy about this...
+
+					WORF
+			By fleeing, the changeling has
+			demonstrated his guilt.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       43.
+
+47   CONTINUED:
+
+					ODO
+				(sardonic)
+			Either that, or his lack of faith
+			in our justice system.
+
+	Worf stiffens, but ignores Odo's remark --
+
+					WORF
+			He must be apprehended and
+			brought to trial.
+
+					SISKO
+				(to Worf)
+			Have all available runabouts
+			begin a sector-wide search.
+
+					WORF
+			Aye, sir.
+
+					ODO
+				(under his breath)
+			Good luck...
+
+	Sisko shoots Odo a pointed look.
+
+					SISKO
+			It may be a long shot, but I'm
+			sure you agree that we should do
+			everything we can to find him.
+
+					ODO
+			Of course.
+
+					SISKO
+			Dismissed.
+
+	Off Sisko as he watches the others file out...
+
+48   INT. OPS
+
+	Odo and Kira are stepping into the turbolift as Worf
+	returns to his console.
+
+49   INT. TURBOLIFT
+
+					ODO
+			Level Nine.
+
+	As the Turbolift starts to descend, Kira turns to
+	study Odo's face.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       44.
+
+49   CONTINUED:
+
+					KIRA
+			You didn't hide it very well.
+				(off his look)
+			That you're glad he got away.
+
+	Odo feels he can be honest with her now that they're
+	alone. He allows himself a small smile, almost
+	proud of what the changeling did.
+
+					ODO
+			I should've known he'd be able to
+			escape. What's a forcefield to a
+			changeling with his abilities?
+
+	Kira takes a beat, decides it's time to tell him the
+	truth.
+
+					KIRA
+			You said you wish you were out
+			there with him. It's not too
+			late.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       45.
+
+49   CONTINUED:	(2)
+
+					ODO
+			I don't understand...
+
+					KIRA
+			He's waiting for you. At an
+			abandoned mine on Koralis Three.
+
+	Odo stares at her, realizing there's only one way
+	she could know this.
+
+					ODO
+			You helped him escape...
+
+	Kira doesn't deny it. Odo stares at her, trying to
+	understand what she did.
+
+					KIRA
+			I don't want you to stay here out
+			of some sense of obligation.
+				(beat)
+			Good luck. I hope you find what
+			you're looking for.
+
+	The lift slows to a STOP, and with a last look Odo's
+	way, Kira EXITS. Off Odo's face as he grapples with
+	what to do...
+
+50   EXT. SPACE - RUNABOUT (STOCK OPTICAL)
+
+	as it orbits a PLANET.
+
+51   INT. CAVES
+
+	A few SUPPORT BEAMS are visible, as well as some
+	abandoned mining EQUIPMENT. A faint LIGHT filters
+	in from a jagged hole in the rockface above.
+
+	Odo ENTERS with a PALM BEACON, shines it around the
+	gloomy cave.
+
+					ODO
+			Laas... ?
+
+	The Changeling steps out from the shadows, breaks
+	into a grin.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       46.
+
+51   CONTINUED:
+
+					CHANGELING
+			I knew you'd come. This is a new
+			beginning for us, Odo. A new
+			beginning for our people.
+				(relishing the thought)
+			You and I are about to embark on
+			the adventure of our lives.
+
+	The Changeling sees something in Odo's face.
+
+					CHANGELING
+			What's wrong?
+
+					ODO
+			I'm not going with you.
+
+					CHANGELING
+				(anger flaring)
+			Then why are you here?
+
+					ODO
+			I came to say good-bye.
+
+					CHANGELING
+			Don't be a fool. What are you
+			holding on to? Kira? Even she
+			knows this is what's best for
+			you. Why else would she have
+			helped me escape?
+
+					ODO
+			You really don't know, do you?
+			You don't have any idea of what
+			it means to love someone enough
+			to let them go.
+
+					CHANGELING
+			She let you go so you could find
+			out where you belong.
+
+					ODO
+			I know where I belong.
+				(beat)
+			Humanoids aren't the petty,
+			limited creatures you perceive
+			them to be. What Nerys did
+			should prove that even to you.
+
+					CHANGELING
+				(dismissive)
+			Love conquers all, is that it?
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       47.
+
+51   CONTINUED:	(2)
+
+					ODO
+			I'm sorry you don't understand.
+			You've done many things, been
+			many things -- but you've never
+			known love.
+
+					CHANGELING
+			Compared to the Link, it's a pale
+			shadow -- a feeble attempt to
+			compensate for the isolation 
+			mono-forms feel because they're
+			trapped inside themselves.
+
+					ODO
+			Maybe the fact that it's not easy
+			is what makes it worthwhile.
+
+					CHANGELING
+			Odo, the Founders are dying.
+			This could be your last chance to
+			exist as you were meant to.
+			Don't throw it away.
+
+	But Odo's made his decision.
+
+					ODO
+			You'd better go. They're looking
+			for you.
+
+	The Changeling searches Odo's face, sees that
+	there's nothing more he can say.
+
+					ODO
+			Good luck...
+
+	Odo extends his hand to him, offering one final
+	Link. But the Changeling will have none of it.
+
+					CHANGELING
+			And to you, Odo. You'll need it
+			more than I.
+
+	And with that, he turns and heads for the surface.
+	Off Odo's face as he watches him go...
+
+52   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       48.
+
+53   INT. KIRA'S QUARTERS
+
+	Kira is standing before the Bajoran Altar in her
+	room, praying softly. She looks like she's been
+	crying -- the resolve with which she said good-bye to
+	Odo gave way to tears in the privacy of her
+	quarters.
+
+					KIRA
+			Watch over him... help him find
+			his way.
+
+	A moment, then the door CHIMES.
+
+					KIRA
+			Yes.
+
+	The door OPENS, revealing Odo. Their eyes lock
+	across the room for a long moment...
+
+					KIRA
+			I didn't think I'd see you
+			again...
+
+					ODO
+			I couldn't go...
+
+	A long beat, then they move into each other's arms,
+	hold each other close...
+
+					KIRA
+				(softly)
+			Odo, if I've ever made you feel
+			that you can't be yourself when
+			you're with me, I'm sorry. I
+			want to know you -- the way you
+			really are.
+
+	A moment as they look into each other's eyes. Odo
+	looks at her questioningly, and she nods as if to
+	say go ahead. A beat, then...
+
+54   ODO (OPTICAL)
+
+	quickly MORPHS upward in a SWIRL of motion.
+
+        DEEP SPACE NINE: "Chimera" - REV. 12/16/98 - ACT FIVE       49.
+
+55   KIRA
+
+	as she reacts, looks up toward the ceiling.
+	INTERACTIVE LIGHT plays on her face.
+
+56   NEW ANGLE (OPTICAL)
+
+	revealing that Odo has become a gossamer cloud of
+	plasma-like ENERGY, an aurora borealis of golden
+	color and light. She watches in wonder, then the
+	cloud descends around her, wrapping her inside its
+	dancing light.
+
+	She reacts to the sensation... her eyes close, and
+	we get the sense that she and Odo are communing on a
+	level they've never been able to share before. A
+	moment, then she smiles... the lights subtly change
+	in hue and tone as if in response. Off this image,
+	we...
+
+									FADE OUT.
+
+                          END OF ACT FIVE                           
+                            THE END                             

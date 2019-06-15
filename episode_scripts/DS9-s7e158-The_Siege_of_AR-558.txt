@@ -1,0 +1,3007 @@
+
+
+                  STAR TREK:  DEEP SPACE NINE
+                              
+                     "The Siege of AR-558" 
+                          #40510-558 
+                              
+                          Written by 
+                Ira Steven Behr & Hans Beimler 
+                              
+                          Directed by 
+                          Rick Kolbe 
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1998 Paramount Pictures Corporation. All Rights 
+Reserved. This script is not for publication or 
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department          FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                       September 16, 1998
+
+   STAR TREK: DS9 - "The Siege of AR-558" - 09/18/98 - CAST 
+
+                  STAR TREK:  DEEP SPACE NINE
+                     "The Siege of AR-558" 
+                             CAST 
+
+          SISKO                    ROM
+          KIRA                     NOG
+          ODO                      VIC
+          BASHIR                   VARGAS
+          O'BRIEN                  KELLIN
+          QUARK                    LARKIN
+          WORF                     REESE
+          EZRI                     
+
+          Non-Speaking             Non-Speaking
+          N.D. SUPERNUMERARIES     N.D. JEM'HADAR
+
+   STAR TREK: DS9 - "The Siege of AR-558" - 09/16/98 - SETS 
+
+                  STAR TREK:  DEEP SPACE NINE
+                     "The Siege of AR-558" 
+                             SETS 
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          PROMENADE                     DEFIANT
+          HOLOSUITE/                    AR-558
+          LAS VEGAS LOUNGE              ROCKY TERRAIN
+          WARDROOM                      BASE CAMP
+          CAPTAIN'S OFFICE              
+
+        DEFIANT                       
+          BRIDGE                        
+          CORRIDOR                      
+          MESS HALL                     
+
+        BASE CAMP                     
+          MAKESHIFT INFIRMARY           
+          2ND LEVEL/COMMAND BUNKER      
+          LOWER LEVEL                   
+          COMMUNICATIONS BUNKER         
+
+    DS9 - "The Siege of AR-558" - 09/17/98 - PRONUNCIATION 
+
+                  STAR TREK: DEEP SPACE NINE 
+                     "The Siege of AR-558" 
+                      PRONUNCIATION GUIDE 
+
+          ASOMETRIC                ASS-oh-meh-trick
+          DUONETIC                 DEW-uh-neh-tick
+          ISODYNE                  EYE-suh-dine
+          NAGUS                    NAY-gus
+          CHIN'TOKA                chin-TAH-ka
+          KETRACEL                 KEH-tra-cell
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER     1.
+
+                  STAR TREK:  DEEP SPACE NINE                   
+                        "The Siege of AR-558"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. HOLOSUITE - LAS VEGAS LOUNGE - NIGHT
+
+	CLOSE ON ROM SINGING his heart out on stage, backed
+	by a single piano player in a tuxedo. What Rom 
+	lacks in talent, he makes up for with feeling.
+
+					ROM
+			... that's why the lady... that's 
+			why the lady... that's why the 
+			laaaaaady is a scamp.
+
+	As the song ends, we hear a pair of hands clapping.
+
+	ADJUST to reveal VIC FONTAINE, getting up from one 
+	of the front tables.
+
+					ROM 
+			So? What do you think?
+
+					VIC 
+			Not bad, but the lady is a tramp, 
+			not a scamp.
+
+					ROM
+				(thinking it over) 
+			Tramp, right. So do I get the "gig?"
+
+					VIC
+				(with regret) 
+			Sorry, pallie.
+
+					ROM 
+			But Doctor Bashir said you're 
+			looking for an opening act and I 
+			love to sing.
+
+					VIC 
+			I can tell. But two singers on 
+			the same bill... that's a one-way 
+			ticket to deadsville. I need 
+			someone to warm-up the audience 
+			for me -- you know, a comic.
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER     2.
+
+1    CONTINUED:
+
+					ROM
+			A comic?
+
+					VIC
+			A comedian -- someone who can
+			make people laugh.
+
+					ROM
+			I can do that. My brother tells
+			me people are always laughing at
+			me.
+
+					VIC
+			That may be true -- but this is a
+			holosuite program, capice?
+
+					ROM
+			So?
+
+					Vic
+			So you're not a hologram.
+
+					ROM
+				(thinking it over)
+			Life can be so unfair.
+
+2    NEW ANGLE
+
+	as DOCTOR BASHIR ENTERS.
+
+					BASHIR
+			Hey, Vic -- you got a minute?
+
+					ROM
+			Forget it, he's not hiring.
+
+	And with that, Rom slumps away, EXITING.
+
+					BASHIR
+				(re: Rom)
+			What's wrong with him?
+
+					VIC
+			Showbiz -- it can break your
+			heart. So what can I do for
+			you, pallie?
+
+					BASHIR
+			Did you get a chance to make
+			those audio recordings for me?
+
+	Vic nods and reaches into his jacket pocket, takes 
+	out an isolinear rod.
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER     3.
+
+2    CONTINUED:
+
+					VIC 
+			All your favorite hits.
+
+					BASHIR 
+			That's great, Vic. Thanks.
+
+					VIC 
+			My pleasure -- but these songs 
+			are four hundred years old... you 
+			sure the troops on the front 
+			lines want to hear them?
+
+					BASHIR 
+			The songs may be old, but when 
+			you sing them, they sound brand 
+			new.
+
+					VIC 
+			When you put it that way, I wish 
+			I was going on the supply run 
+			with you... I could make some 
+			personal appearances... sing a 
+			few songs, tell a few jokes... 
+			you know, put together a regular 
+			USO show.
+
+					BASHIR 
+			Sorry Vic, but I'm afraid there 
+			aren't any holosuites where we're 
+			going.
+
+					VIC
+				(to himself) 
+			Rom's right... life can be 
+			unfair.
+				(to Bashir) 
+			You know, pallie -- sometimes 
+			being a hologram can be a real 
+			pain in the asometric photons.
+
+					BASHIR 
+			I'll see you when I get back.
+
+	Bashir EXITS.
+
+					VIC
+				(more to himself) 
+			You know where to find me.
+
+2A   INT. WARDROOM
+
+	ANGLE ON THE DOOR OPENING to reveal ODO, holding a 
+	PADD, stepping into the room.
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER    3A.
+
+2A   CONTINUED:
+
+					ODO 
+			I thought I might find you 
+			here...
+
+	ADJUST to reveal SISKO, alone, looking at a casualty 
+	list displayed on a wall monitor. Odo offers Sisko 
+	the PADD.
+
+					ODO
+			The new security protocols you 
+			requested.
+
+	Sisko takes the PADD, but his attention remains on 
+	the wall monitor.
+
+					SISKO 
+			I think that's what I'm going to 
+			remember most about this war... 
+			looking through casualty reports. 
+			Sometimes it feels like that's 
+			all I do... stare at the names of 
+			the dead.
+				(a beat) 
+			When the war started, I used to 
+			read every name... I felt it was 
+			the least I could do to honor 
+			their sacrifice. But lately, all 
+			the names have begun to blur 
+			together...
+
+					ODO
+			That's understandable.
+
+					SISKO
+			Maybe...
+
+	The moment is broken by --
+
+					KIRA'S COM VOICE 
+			Ops to Captain Sisko.
+
+					SISKO
+				(touching his com 
+				badge) 
+			Go ahead, colonel.
+
+					KIRA'S COM VOICE 
+			The Defiant is ready for 
+			departure.
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER    3B.
+
+2A   CONTINUED:	(2)
+
+					SISKO 
+			On my way.
+
+	And as Sisko turns to EXIT --
+
+3    EXT. SPACE - DEFIANT (OPTICAL) (STOCK)
+
+	The Defiant sails along at warp.
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER     4.
+
+4    INT. DEFIANT - MESS HALL
+
+	CLOSE ON a miserable QUARK, seated at a table. With 
+	his head cupped in his hands, he stares morosely at 
+	a steaming cup of raktajino.
+
+					QUARK
+				(mumbling) 
+			Why me? Why did he have to send 
+			me? I'm like a son to him...
+
+	ADJUST to REVEAL EZRI, sitting at a nearby table, 
+	reading a PADD. Quark and Ezri are the only two 
+	people in the room.
+
+					EZRI 
+			Quark -- you're mumbling again.
+
+					QUARK 
+			I'm sorry.
+				(a beat, then
+				mumbling again)
+			It's just not fair... I have
+			responsibilities of my own...
+			customers who depend on me...
+
+	Ezri puts down her PADD, deciding the only way to 
+	quiet Quark is to try and lift his spirits.
+
+					EZRI 
+			But the Grand Nagus himself 
+			picked you for this assignment.
+
+					QUARK 
+			Some assignment... a fact-finding 
+			mission to the front lines. 
+			Zek's already inundated with 
+			Starfleet intelligence reports. 
+			What can I tell him that he 
+			doesn't know?
+
+					EZRI 
+			Maybe he wants to hear things 
+			from a Ferengi perspective.
+
+					QUARK 
+			Then let him ask Nog.
+
+					EZRI 
+			The Nagus trusts you.
+
+					QUARK 
+			What are you trying to do? Cheer 
+			me up?
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER     5.
+
+4    CONTINUED:
+
+					EZRI 
+			It's my job. Remember the thirty-
+			fourth Rule of Acquisition, "War 
+			is good for business."
+
+					QUARK 
+			Only from a distance. The closer 
+			you are to the front lines, the 
+			less profitable it gets.
+
+	Suddenly, the ship is ROCKED HARD by a phaser blast.
+
+					QUARK 
+			What's that?
+
+	Ezri calmly gets to her feet and heads for the door.
+
+					EZRI 
+			Stay here.
+
+	And with that, she EXITS. Quark has no intention of 
+	doing what she says.
+
+					QUARK 
+			Wait. Don't leave.
+
+	ANOTHER SHIP SHAKE knocks Quark back into his seat. 
+	He quickly scrambles back up and heads for the door --
+
+5    OMITTED
+
+     DEEP SPACE NINE- "Siege of AR-558" - REV. 10/13/98 - TEASER     6.
+
+6    INT. DEFIANT - CORRIDOR
+
+	As Quark staggers in one direction and then another, 
+	until he bumps into COMMANDER WORF. He grabs Quark 
+	by the shoulders to steady him.
+
+					WORF
+			This is no time to be wandering 
+			the corridors.
+
+					QUARK
+			I thought the Chin'toka System 
+			was in Federation hands.
+
+	The ship SHAKES again from another hit.
+
+					WORF
+			It is, but the Dominion is 
+			determined to take back their 
+			territory. The entire system is 
+			a battleground.
+
+					QUARK
+				(more to himself) 
+			I should probably be writing this 
+			down.
+
+	But another SHAKE forces Quark to grab hold of 
+	Worf's arm for support.
+
+									CUT TO:
+
+7    INT. DEFIANT - BRIDGE
+
+	as the doors open, allowing Worf and Quark to ENTER. 
+	They're just in time to see --
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER    6A.
+
+8    ANGLE ON THE VIEWSCREEN (OPTICAL)
+
+	where the image of a Jem'Hadar fighter EXPLODES in a 
+	giant fireball.
+
+9    WIDER
+
+	on the crew, which includes Sisko, standing near NOG 
+	at the helm. O'BRIEN and Ezri are at the side 
+	consoles. The Bridge crew breaks out into 
+	triumphant smiles. Worf immediately sits at his 
+	console.
+
+					SISKO 
+			Mister O'Brien -- keep an eye out 
+			for more Jem'Hadar ships.
+
+					O'BRIEN
+			Aye, sir.
+
+	Not wanting to be sent back to the mess hall, Quark 
+	wanders over to Nog. But Nog is uncomfortable 
+	having his uncle looming over him.
+
+					NOG 
+			What are you doing here, uncle? 
+
+					QUARK 
+			I... ah... just visiting.
+
+					NOG
+				(embarrassed) 
+			I'm working.
+
+					SISKO 
+			Quark, is there something we can 
+			do for you?
+
+					QUARK 
+			Not really.
+				(all innocent)
+			I just came by to say hello to my 
+			nephew.
+
+					SISKO
+				(firm) 
+			All right, you've just said 
+			hello...
+
+     DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER     7.
+
+9    CONTINUED:
+
+	But Quark just wants any excuse not to be left alone 
+	should they come under attack again.
+
+					QUARK 
+			Anybody want to join me in the 
+			mess hall for a raktajino?
+
+					SISKO
+			Quark!
+
+					QUARK
+				(making a hasty 
+				retreat) 
+			I was just leaving...
+
+	And with that, he does. An apologetic Nog turns to 
+	Sisko.
+
+					NOG 
+			Sir, I assure you that won't 
+			happen again.
+
+					EZRI
+				(to Nog) 
+			Your uncle's just a little 
+			nervous... he's not used to being 
+			in combat situations.
+
+					NOG 
+			That's no excuse.
+
+	And with that, Nog goes back to working his console.
+
+									DISSOLVE TO:
+
+10   EXT. SPACE - AR-558 (OPTICAL)
+
+	The Defiant is in orbit around a small planet.
+
+11   INT. DEFIANT - BRIDGE
+
+	Bashir ENTERS with Quark, holding a PADD.
+
+					BASHIR 
+			Captain, the supplies are ready 
+			for transport.
+
+  DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - TEASER 8-10.    
+
+11   CONTINUED:
+
+					WORF
+				(to the Captain)
+			AR-Five-Five-Eight has
+			acknowledged our message.
+			They're expecting you.
+
+					SISKO
+			Good. Away Team, with me.
+				(to Worf)
+			Commander, she's all yours.
+
+	Ezri and Nog join Bashir, Quark and Sisko. 
+	Everyone's armed, including Quark.
+
+11A  EXT. ROCKY TERRAIN OUTSIDE BASE CAMP (OPTICAL)
+
+	Sisko, Bashir, Quark, Ezri and Nog MATERIALIZE 
+	amidst the harsh landscape of this barren planet.
+
+					QUARK
+			Not much to look at, is it?
+
+	Suddenly a PHASER BOLT blasts the rock next to them.
+
+11B  NEW ANGLE
+
+	as they dive for cover behind some rocks. And as we 
+	hear the sound of more PHASER FIRE, we:
+
+12
+thru   OMITTED
+13
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    11.
+                            ACT ONE                             
+
+	FADE IN:
+
+	(NOTE: Episode credits fall over opening scenes.)
+
+13A  EXT. ROCKY TERRAIN OUTSIDE BASE CAMP - CONTINUOUS
+
+	As Sisko and the others huddle for cover behind the 
+	rock.
+
+					SISKO
+			Those are Federation phasers...
+				(calling out)
+			Hold your fire! This is Captain
+			Benjamin Sisko of the USS
+			Defiant.
+
+					FEMALE VOICE (O.S.)
+			You heard him -- cease fire, damn
+			it!
+
+	The firing stops.
+
+13B  NEW ANGLE
+
+	to see Sisko and the others emerge cautiously from 
+	behind the rocks.
+
+					SISKO
+			We're coming in.
+
+13C  ANGLE ON THE BASE CAMP
+
+	which is built into the rockface of a steep 
+	mountain, was originally constructed by the Dominion 
+	as a communications relay station, but the 
+	Federation has occupied it for the past five months.
+
+	Sisko and his crew pass through a barricade of 
+	crates, rocks and the twenty-fourth century 
+	equivalent of sandbags.
+
+	CHIEF LARKIN, a sinewy, steel-eyed woman in her mid-
+	thirties, is in mid-argument with VARGAS, a high-
+	strung young soldier who has a bloody cloth wrapped 
+	around one of his arms.
+
+					LARKIN
+			Who told you to open fire?
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE   11A.
+
+13C  CONTINUED:
+
+					VARGAS 
+				(defensive) 
+			I saw movement. I thought it was 
+			the Jem'Hadar.
+
+					LARKIN 
+			They look like Jem'Hadar to you? 
+			I gave the word to hold your fire 
+			-- that Starfleet officers were 
+			beaming down with supplies.
+
+					VARGAS 
+				(shrugs) 
+			Nobody told me.
+
+	Larkin shakes her head with frustration as Sisko 
+	approaches her.
+
+					LARKIN 
+			Sorry, captain. A little 
+			breakdown in communications...
+
+					SISKO
+			No harm done.
+
+	Bashir, Ezri, Nog and Quark study the Starfleet 
+	personnel stationed along the barricade. At first 
+	glance, it's hard to believe that Sisko, Ezri, 
+	Bashir and Nog wear the same uniform as these 
+	people. They're not the crisp, clean and confident 
+	Starfleet officers we're accustomed to. These 
+	soldiers have been living on the front lines for the 
+	past five months and it shows... they're tired, 
+	dirty, hollow-eyed. They're also heavily armed. 
+	(Note: the soldiers should move around the base as 
+	little as possible; there's not a lot of aimless 
+	wandering going on for reasons that will be clear 
+	soon enough.)
+
+					SISKO
+			Where's Captain Loomis?
+
+					LARKIN 
+			He was killed ten days ago. So 
+			was Commander Parker.
+
+					SISKO
+			Then who's in command?
+
+					LARKIN 
+			I am. Chief Nadia Larkin.
+
+					SISKO
+			Ben Sisko. Where would you like 
+			your supplies?
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE   11B.
+
+13C  CONTINUED:	(2)
+
+					LARKIN 
+			Vargas can show you.
+
+					VARGAS
+				(tightly wound) 
+			Supplies -- that's just great. 
+			Don't they know we need to get 
+			off this rock?
+
+	REESE, a stone-faced veteran, wearing a necklace of 
+	Jem'Hadar white tubes, stands near Larkin.
+
+					REESE 
+			Take it easy, Vargas.
+
+					VARGAS 
+			Take it easy? I'd love to take 
+			it easy. Just get me out of this 
+			vole-hole and I promise all I'll 
+			do, for the rest of my life, is 
+			take it easy! According to 
+			Starfleet regulations we're 
+			suppose to be rotated off the 
+			front lines after ninety days -- 
+			ninety days. We've been stuck 
+			here for five months!
+
+	A long uncomfortable beat; there's a simple, painful 
+	truth to what Vargas's saying. These people have 
+	clearly been under tremendous strain.
+
+					LARKIN
+				(to Sisko) 
+			Welcome to paradise, captain.
+
+	And off Sisko evaluating the situation --
+
+14   INT. BASE CAMP - 2ND LEVEL/COMMAND BUNKER - NIGHT
+
+	Sisko and Larkin are looking down at a large 
+	Dominion communications array which is being worked 
+	on by a half-dozen Starfleet technicians. Among 
+	them is KELLIN, a young, brash engineer. (Note: all 
+	the engineers wear hand phasers.) Ezri is also 
+	amidst the engineers, watching them work.
+
+					LARKIN 
+			There it is... the only reason 
+			anyone gives a damn about this 
+			place. It's the largest Dominion 
+			communications array in the 
+			sector.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE   11C.
+
+14   CONTINUED:
+
+					SISKO 
+			If we can figure out how it 
+			works, we should be able to tap 
+			into their entire com system.
+
+					LARKIN 
+			One thing's for sure, they're 
+			determined to get it back.
+
+					SISKO
+			You can't let that happen.
+
+					LARKIN 
+			I know our orders, Captain. But 
+			maybe Starfleet Command isn't 
+			aware of our situation -- we've 
+			been holding this place for five 
+			months. That's five months of 
+			fighting off repeated Jem'Hadar 
+			attempts to take it back. When 
+			we landed here, there was a 
+			hundred and fifty of us... we're 
+			down to forty-three.
+
+					SISKO
+			I can appreciate what you've been 
+			through. I'll make sure that 
+			Starfleet understands your 
+			situation. But from what I hear, 
+			our forces are spread pretty thin 
+			in this system. Chances are, 
+			you're going to be stuck here a 
+			while longer.
+
+					LARKIN 
+			Lucky us.
+
+	Sisko is sympathetic, but there's not much he can 
+	do.
+
+15   ANGLE ON THE LOWER LEVEL
+
+	as Ezri moves to get a closer look at the array.
+
+					KELLIN 
+			Someone hand me a duonetic 
+			coupler.
+
+	Ezri, who's closest to him, picks up the tool and 
+	hands it to him.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    12.
+
+15   CONTINUED:
+
+					KELLIN 
+			Thanks.
+
+					EZRI
+				(regarding something
+				on the array)
+			Your frequency discriminator
+			seems to be drifting. You might
+			want to reset it.
+
+	Kellin makes an adjustment to one of the panels.
+
+					KELLIN 
+			You an engineer?
+
+					EZRI 
+			No, but Tobin -- one of my 
+			previous hosts was.
+
+					KELLIN 
+			Close enough. Grab a microdyne 
+			coupler and start recalibrating 
+			that transtator.
+
+	Ezri then does as Kellin's asked.
+
+16   EXT. BASE CAMP - NIGHT
+
+	Nog is staring at Reese, who has returned to his post on the barricade.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    13.
+
+17   ANOTHER ANGLE
+
+	as Quark approaches Nog. Quark can see that Nog is
+	both intrigued and spooked by Reese.
+
+					QUARK
+			Nog. Shouldn't you be helping
+			Doctor Bashir unload the
+			supplies?
+
+					NOG
+			We're pretty much finished.
+
+					QUARK
+			Good. The sooner we can get out
+			of here, the better.
+
+					NOG
+				(indicating Reese)
+			That soldier over there... you
+			see his necklace? Those are
+			Ketracel White tubes.
+
+					QUARK
+			So?
+
+					NOG
+			You know how he got them?
+
+					QUARK
+				(dry)
+			Mail order?
+
+					NOG
+			He took them off the bodies of
+			dead Jem'Hadar -- Jem'Hadar he
+			killed. It's his way of keeping
+			score.
+
+					QUARK
+			And you find that impressive?
+
+					NOG
+			Isn't it?
+
+					QUARK
+				(exasperated)
+			I don't think so. Take a look
+			around you, Nog.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    14.
+
+17   CONTINUED:
+
+					QUARK (Cont'd)
+			This isn't the Starfleet you
+			know.
+
+					NOG
+				(defensive)
+			Sure it is. It's just that these
+			people have been through a lot.
+			They've been holed up here for a
+			long time... seen two thirds of
+			their unit killed... but they
+			haven't surrendered. And you
+			know why? Because they're
+			heroes.
+
+					QUARK
+			Maybe -- but I still don't want
+			you anywhere near them. Let me
+			tell you something about Hew-
+			mons, Nog. They're a wonderful,
+			friendly people -- as long as
+			their bellies are full and their
+			holosuites are working. But take
+			away their creature comforts...
+			deprive them of food, sleep,
+			sonic showers... put their lives
+			in jeopardy over an extended
+			period of time... and those same
+			friendly, intelligent, wonderful
+			people will become as nasty and
+			violent as the most bloodthirsty
+			Klingon. You don't believe me?
+			Just look at those faces... look
+			in their eyes.
+
+	Nog glances around the compound --
+
+18   NOG'S POV
+
+	of the soldiers, at their posts, waiting. They all
+	have the look Quark just described.
+
+19   RESUME
+
+					QUARK
+			You know I'm right, don't you?
+
+	But Nog doesn't answer.
+
+					QUARK
+			Well? Aren't you going to say
+			something?
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    15.
+
+19   CONTINUED:
+
+					NOG
+			I feel sorry for the Jem'Hadar.
+
+	And with that, Nog walks off, leaving a frustrated
+	and concerned Quark.
+
+20   INT. BASE CAMP - MAKESHIFT INFIRMARY - NIGHT
+
+	where Bashir is applying a hypospray to Vargas. In
+	the b.g., we see a half dozen other wounded soldiers
+	waiting for treatment.
+
+					BASHIR
+			There you go... that should take
+			care of your fever and chest
+			congestion.
+
+	Bashir picks up another hypospray and applies it.
+
+					BASHIR
+			And this should get rid of the
+			dermal irritation on your back.
+
+	Vargas takes a deep breath and exhales with relief.
+
+					BASHIR
+			Better?
+
+					VARGAS
+			Are you kidding? I haven't felt
+			this good since the day I landed
+			on this rock.
+
+					BASHIR
+
+			Good. Now let's take a look at
+			your arm --
+
+	But as Bashir lays his hand on Vargas's bloody
+	bandage, Vargas whips out a phaser and shoves it
+	under Bashir's chin.
+
+					VARGAS
+			What the hell are you doing?
+
+	Bashir stays calm, but he takes Vargas's threat very
+	seriously.
+
+					VARGAS
+			Keep your hands off the bandage.
+
+	Bashir slowly removes his hands.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE   15A.
+
+20   CONTINUED:
+
+					BASHIR
+			I need to treat your wound.
+
+					VARGAS
+			No one touches that bandage.
+			Understood?
+
+					BASHIR
+			Why's that?
+
+					VARGAS
+			I asked you if you understood?
+
+	Bashir nods, Vargas lowers the phaser. There's a
+	long beat. The silence is broken by Vargas, who
+	feels the need to explain himself.
+
+					VARGAS
+			McGreevey put that bandage on
+			me... ripped up his own uniform
+			to make it.
+
+					BASHIR
+			Sounds like a good friend.
+
+					VARGAS
+			He was a jerk. I couldn't stand
+			the guy -- he never shut up.
+			Yap, yap, yap, yap. He thought
+			he was the world's greatest
+			authority on everything. I know
+			he's dead and I should have more
+			respect... but God, I hated him.
+			One moment he's talking his head
+			off tying the bandage around
+			me... the next he's lying flat on
+			his back with a hole in his
+			chest.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    16.
+
+20   CONTINUED:	(2)
+					VARGAS (Cont'd)
+			I just sat there looking at
+			him... it was great -- he was so
+			quiet. For the first time in his
+			life he was quiet.
+
+	Bashir allows Vargas a cathartic moment, then --
+
+					BASHIR
+				(softly)
+			I need to treat your wound.
+
+	Vargas nods and rips the bandage off his arm. As
+	Bashir looks at the wound, Vargas clutches
+	McGreevey's bandage in his hand.
+
+21   INT. BASE CAMP - 2ND LEVEL/COMMAND BUNKER - NIGHT
+
+	Sisko and Larkin are studying some PADDs at a table.
+
+					SISKO
+			I think you've set up a solid
+			defense perimeter, but I would
+			tighten this flank.
+
+	Larkin nods as Bashir ENTERS.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    17.
+
+21   CONTINUED:
+
+					BASHIR
+			Captain, can I have a minute?
+
+	Bashir gestures for Sisko to join him a few feet
+	away from Larkin so that they can talk privately.
+
+					SISKO
+			Go ahead.
+
+					BASHIR
+			These people... their physical
+			and mental health are precarious
+			at best. They need more than a
+			few food replicators and some
+			medical supplies... they need to
+			be shipped out of here.
+
+					SISKO
+			I understand, but right now
+			there's nothing I can do about
+			it.
+
+	But before Bashir can reply, we hear a loud
+	EXPLOSION close by the bunker.
+
+					LARKIN
+			Damn it --
+
+	Larkin moves out of the bunker, Sisko and Bashir
+
+	follow.
+
+22   EXT. BASE CAMP - CONTINUOUS
+
+	Sisko, Bashir and Larkin come upon a group of
+	soldiers standing around a dead body we can't see.
+
+23   NEW ANGLE
+
+	as Sisko and the others make their way through the
+	crowd, which includes Reese, Vargas and Nog, to get
+	to the fallen soldier. Bashir bends down out of
+	camera range to check the body.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    18.
+
+23   CONTINUED:
+
+					NOG
+			I saw it happen... he was just
+			walking along and the next
+			minute...
+
+	Sisko is perplexed by something.
+
+					SISKO
+			You must've swept the compound
+			for anti-personnel mines...
+
+					LARKIN
+			A hundred times. It doesn't help
+			-- not with Houdinis.
+
+	Bashir rises. There's nothing he can do for the
+	soldier.
+
+					BASHIR
+			"Houdinis?"
+
+					REESE
+			Find one and you disappear.
+
+					LARKIN
+			They "hide" in subspace and
+			appear at random.
+
+					VARGAS
+			You can walk past the same spot a
+			hundred times and nothing
+			happens. And then... bang.
+
+					REESE
+				(at Sisko)
+			You're wasting your breath,
+			Vargas. It's not the captain's
+			problem. He's leaving.
+
+	And with that, Reese turns his back on Sisko and
+	walks back to his position on the barricade. Sisko
+	can't help wishing there was more he could do for
+	these people.
+
+					SISKO
+				(to Larkin)
+			I wish I could tell you that
+			things are going to get easier
+			for you...
+
+					LARKIN
+			Don't worry about us, captain.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    19.
+
+23   CONTINUED:	(2)
+
+	Sisko and Larkin lock eyes for a beat, but suddenly
+	the moment is broken by --
+
+					WORF'S COM VOICE
+			Defiant to Captain Sisko.
+
+	Sisko taps his combadge.
+
+					SISKO
+			Go ahead.
+
+									CUT TO:
+
+24   INT. DEFIANT - BRIDGE
+
+	to see Worf and the Bridge Crew, including O'Brien,
+	buffeted about as the Defiant is hit by phaser fire.
+
+					WORF
+
+			Sir -- we're being attacked by
+			two Jem'Hadar ships. We've
+			locked onto your coordinates.
+			Are you ready for transport?
+
+									INTERCUT WITH:
+
+25   EXT. BASE CAMP - NIGHT
+
+	As before. All eyes are on Sisko. He seems to be
+	weighing his options.
+
+					SISKO
+				(to com)
+			Stand by, Worf.
+
+26   INT. DEFIANT - BRIDGE
+
+	as the ship continues to take HITS.
+
+					O'BRIEN
+
+				(to com)
+			Captain, sensors show Jem'Hadar
+			troops landing nine kilometers
+			from your position.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE    20.
+
+26   CONTINUED:
+
+					WORF
+				(to com)
+
+			Sir, we must beam you aboard now.
+			We have to break orbit --
+
+27   EXT. BASE CAMP - NIGHT
+
+	to see Sisko make up his mind, he's stepped away
+	from the crowd.
+
+					SISKO
+			Take evasive action, Mister Worf.
+			We're staying.
+
+					WORF'S COM VOICE
+			Captain, I must ask you to
+			reconsider -- I don't know when
+			we'll be able to come back for
+			you.
+
+					SISKO
+				(to com)
+			You have your orders, commander.
+
+					WORF'S COM VOICE
+			Aye, sir. Good luck.
+
+28   ANOTHER ANGLE
+
+	as Sisko looks around at the assembled troops.
+
+					SISKO
+			What are you looking at? We have
+			work to do.
+
+					LARKIN
+			Yes, sir. You heard the captain.
+
+					VARGAS
+			I'm telling you, there's
+			something about this place that
+			makes people crazy
+
+ DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT ONE 21-22.   
+
+28   CONTINUED:
+
+	And with that, Vargas joins the others as they make
+	for their positions.
+
+					LARKIN
+				(to Sisko)
+			Sir, what are your orders?
+
+					SISKO
+			There's only one order,
+			lieutenant...
+
+29   CLOSE ON SISKO
+
+	to see the determination in his eyes.
+
+					SISKO
+			We hold.
+
+	And off that moment, we:
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    23.
+                            ACT TWO                             
+
+	FADE IN:
+
+30   EXT. BASE CAMP - NIGHT
+
+	WIDE on the compound. Everyone is hunkered down at
+	their posts, tensely anticipating a Jem'Hadar
+	assault. No one's talking; there's nothing to say.
+
+31   ANGLE ON SISKO
+
+	trying to scan the area around the base with his
+	tricorder.
+
+					SISKO
+			We need to find out how many
+			Jem'Hadar troops landed and where
+			they are.
+
+					LARKIN
+			Well, you're not going to learn
+			anything with a tricorder. We
+			jam their sensors, they jam
+			ours... that's how it works.
+
+	Larkin glances at the communications bunker.
+
+					LARKIN
+				(continuing)
+			Except they have an advantage... they
+			know where we are.
+
+					SISKO
+
+			But that's all they know... they
+			don't know our defense positions
+			or how many of us are here.
+
+					LARKIN
+			All things considered, I'd still
+			rather be in their shoes.
+
+	Sisko nods, acknowledging the difficulty of their
+	situation. He looks over to see --
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    24.
+
+32   SISKO'S POV
+
+	of Nog crouched behind some rocks near Reese's
+	position. Reese is using a TECH device to sharpen
+	the blade of a large Jem'Hadar knife.
+
+33   NEW ANGLE
+
+	to see Sisko approach Nog.
+
+					SISKO
+			Hear anything, Ensign?
+
+					NOG
+			Plenty. I can hear Vargas's 
+			stomach grumbling and Ezri tuning
+			a phase amplifier with a coil
+			spanner in the communications
+			bunker...
+
+					SISKO
+
+			What about the Jem'Hadar?
+
+					NOG
+			Not a sound. If they're out
+			there, they're being very quiet.
+
+					REESE
+			They're out there.
+
+	Sisko looks over at Reese, who stares at Sisko as he
+	continues sharpening the blade. Neither man has any
+	doubts that Reese is right.
+
+					SISKO
+				(to Nog)
+			Keep your ears open, Ensign.
+
+					NOG
+			I will, sir.
+
+	Sisko moves off to check on the other positions. We
+	stay with Nog, looking at Reese.
+
+					NOG
+			That knife you're working on...
+			it's not Starfleet issue.
+
+	Reese doesn't answer, he just focuses on his blade.
+
+					NOG
+			Can I see it?
+
+	Reese stares flatly at the Ferengi.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    25.
+
+33   CONTINUED:
+
+					REESE
+			You're supposed to be listening
+			for Jem'Hadar.
+
+					NOG
+			I know.
+
+					REESE
+			Then shut up and listen.
+
+	And with that, Reese returns his attention to his
+	blade.
+
+					LARKIN (O.S.)
+			Here they come!
+
+	Sisko turns to see --
+
+34   ANOTHER ANGLE (OPTICAL)
+
+	We see THREE JEM'HADAR SOLDIERS on a ridge, with
+	THREE MORE JEM'HADAR SHIMMERING into view.
+
+35   ANGLE ON REESE (OPTICAL)
+
+	In one fluid motion, Reese stabs his blade into the
+	ground, picks up his phaser rifle, aims and fires --
+
+36   ON A JEM'HADAR SOLDIER (OPTICAL)
+
+	hitting the ground as Reese's phaser fire finds its
+	mark.
+
+37
+thru   OMITTED
+38
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    26.
+
+39   ANGLE ON REESE
+
+	who abruptly lowers his weapon and turns to face the
+	compound. As he looks up and down the line, he's
+	struck by a sudden realization --
+
+					REESE
+			Something's wrong.
+
+40   ADJUST TO INCLUDE SISKO
+
+	who looks over at Reese.
+
+					REESE
+
+			They're not firing.
+
+	Now it's Sisko's turn to glance around the compound.
+	Reese is right -- there aren't any Starfleet
+	casualties. It only takes Sisko a moment to realize
+	what it means --
+
+41   CLOSE ON SISKO
+
+	as he leaps to his feet. None of the Jem'Hadar FIRE
+	at him.
+
+					SISKO
+				(shouting)
+			Hold your fire!
+
+42   WIDER
+
+	as Larkin picks up the cry.
+
+					LARKIN
+			You heard the Captain. Cease
+			firing!
+
+	The message finally gets through to everyone and the
+	firing ends. Taking their cue from Sisko, the
+	Starfleet Officers emerge from their cover. They
+	look around to see --
+
+43   ANOTHER ANGLE (OPTICAL)
+
+	as the surviving Jem'Hadar and the bodies of the
+	"dead" Jem'Hadar FADE AWAY.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    27.
+
+44   ON VARGAS
+
+	trying to understand what he just witnessed.
+
+					VARGAS
+
+			Where'd they all go?
+
+45   ON SISKO
+
+	as he steps into the center of the compound.
+
+					SISKO
+			They weren't here to begin with.
+
+					REESE
+				(putting it together)
+			Holograms.
+
+					NOG
+				(puzzled)
+			I don't understand...
+
+					SISKO
+			It was a way to see what they're
+			up against... determine our
+			numbers.
+
+					REESE
+			And pinpoint our positions.
+
+					LARKIN
+			Without risking any casualties.
+			Smart.
+
+					VARGAS
+			They're smart all right... and
+			we're as good as dead.
+
+					SISKO
+			Not yet we aren't.
+
+46   NEW ANGLE
+
+	Quark emerges from the caves.
+
+					QUARK
+			Is it over?
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    28.
+
+46   CONTINUED:
+
+	Nog sighs... can he really be related to this man?
+
+					SISKO
+			For now. But next time they
+			won't send holograms.
+
+	Sisko watches as Reese pulls his Jem'Hadar knife out
+	of the ground, and begins honing it again. Sisko
+	lets out a deep breath, trying to release the tension he feels.
+
+	Suddenly, we hear an EXPLOSION. Sisko turns to --
+
+47   NEW ANGLE
+
+	to see several crewmen rush to the aid of a fallen
+	soldier who has "tripped" another mine.
+
+48   CLOSE ON SISKO
+
+	feeling the tension tighten around him. And off his
+	grim expression --
+
+									CUT TO:
+
+49   INT. BASE CAMP - COMMUNICATIONS BUNKER - NIGHT
+
+	CLOSE on Ezri and Kellin reacting to something
+	they've just been told. In the b.g., the other
+	engineers continue working on the array.
+
+					EZRI
+			Does that mean we stop working on
+			the communications array?
+
+	ADJUST ANGLE to include Sisko.
+
+					SISKO
+				(re: the other engineers)
+			They'll have to get along without
+			you for a while. We need to find
+
+			the Houdinis and disarm them.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    29.
+
+49   CONTINUED:
+
+					EZRI
+			I'm all for that. Those mines
+			are a nasty piece of
+			engineering...
+
+					KELLIN
+			They're also impossible to
+			detect. I'm sorry, Captain, but
+			I'm an engineer, not a magician.
+
+					SISKO
+			Larkin says you like a
+			challenge...
+
+					KELLIN
+				(dry)
+			I thought I did. But after
+			banging my head against that
+			communications array for the last
+			couple of months I'm not so sure
+			anymore.
+
+					EZRI
+			He's just being modest, Captain.
+			Chief O'Brien would be proud to
+			have him on his crew.
+
+					SISKO
+			I can't think of higher praise.
+
+	And with that, Sisko EXITS. We stay with Ezri and
+	Kellin.
+
+					KELLIN
+				(to Ezri)
+			Now what?
+
+					EZRI
+			Now we get to pull a rabbit out
+			of our hat.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    30.
+
+49   CONTINUED:	(2)
+
+	And off that moment --
+
+50   EXT. BASE CAMP - NIGHT
+
+	Later. It's what passes for lunchtime. Everyone is
+	still at their posts, their weapons close beside
+	them, as they eat their rations. Quark approaches
+	Nog with some rations.
+
+					QUARK
+			Here -- you need to keep your
+			strength up.
+
+	Nog looks around to see if anyone's watching.
+
+					NOG
+			Thanks, uncle, but I can get my
+			own food.
+
+					QUARK
+			What's the matter, Nog? Afraid
+			of looking weak in front of the
+			Hew-mons?
+
+					NOG
+			I want to earn their respect, if
+			that's what you mean.
+
+					QUARK
+			At the price of your soul? Look
+			at you... you hold that phaser
+			rifle as if it were made of pure
+			latinum.
+
+					NOG
+			We're in the middle of a war and
+			this rifle can keep me alive.
+			I'm a Starfleet officer...
+
+					QUARK
+			You're a Ferengi... and I wish
+			you'd start acting like one.
+
+					NOG
+			You mean hide under a rock every
+			time trouble starts?
+
+					QUARK
+			I'll tell you one thing,
+			nephew... if the Federation had
+			listened to the Ferengi Alliance
+			there would never have been a
+			war.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    31.
+
+50   CONTINUED:
+
+					NOG
+			Because we would've surrendered a
+			long time ago.
+
+					QUARK
+			No -- because we would've reached
+			an accommodation. We would've
+			sat across the negotiation table
+			and hammered out a peace treaty.
+			One that both sides could've
+			lived with...
+
+					NOG
+			You make it sound so simple.
+
+					QUARK
+			Just remember Rule of Acquisition
+			one-twenty-five, "You can't make
+			a deal if you're dead."
+
+		But before Nog can reply --
+
+					SISKO (O.S.)
+			Nog.
+
+51   NEW ANGLE
+
+	as Sisko, Reese and Larkin approach.
+
+					SISKO
+				(to Nog)
+			I'm sending you with Larkin and
+			Reese out on a scouting patrol.
+
+					NOG
+			Yes, sir.
+
+					SISKO
+			I need to know what we're up
+			against... how many Jem'Hadar are
+			out there, where they're camped,
+			what kind of weapons they have
+			with them.
+
+					NOG
+				(nodding)
+			When do we leave?
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT TWO    32.
+
+51   CONTINUED:
+
+					LARKIN
+			Right away.
+
+					QUARK
+			Hold on a minute -- why Nog, when
+			you have all these veterans to
+			choose from?
+
+					REESE
+			No one asked your opinion.
+
+					SISKO
+				(to Quark)
+			Our tricorders aren't working...
+
+					NOG
+			... But my hearing is. You can
+			count on me, sir. I'll find the
+			Jem'Hadar.
+
+	Larkin looks to Sisko, who nods.
+
+					LARKIN
+				(to Nog and Reese)
+			Let's go.
+
+	And with that, the three soldiers head out of camp.
+
+					QUARK
+			Nog -- wait!
+
+	Quark takes a step towards Nog, but Sisko places a
+	restraining hand on his shoulder.
+
+					SISKO
+			He has his orders, Quark.
+
+					QUARK
+			That's so easy for you to say --
+			but I bet you wouldn't send Jake
+			out there.
+
+					SISKO
+			Jake isn't a Starfleet officer.
+
+	But that's small comfort to Quark. And as they
+	stand there watching Nog, Larkin, and Reese
+	disappear into the darkness, we:
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+   DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT THREE   33.
+                           ACT THREE                            
+
+	FADE IN:
+
+52   EXT. ANOTHER SECTION OF ROCKY TERRAIN - NIGHT
+
+	Larkin leads Nog and Reese on patrol. They are
+	moving quietly and carefully to avoid detection from
+	any Jem'Hadar patrols that might be in the area.
+
+53   ANOTHER ANGLE 
+
+	as they approach a fork in the path. Larkin turns to
+	Nog, points to one of the pathways, then points to his
+	own ear. Nog moves closer to the cutoff, straining to
+	listen. After a long beat, he turns to face Larkin and
+	shakes his head -- there's nothing there.
+
+	Larkin nods acknowledgment, then resumes leading
+	the group along the path they were on.
+
+54   INT. BASE CAMP - COMMUNICATIONS BUNKER - NIGHT
+
+	Ezri and Kellin are seated at a table, working on a
+	disassembled tricorder with micro-tools. Suddenly,
+	some of the circuitry lights up like a Christmas tree.
+
+					KELLIN
+
+			You did it --
+
+					EZRI
+
+			Actually, I'm not sure it was
+			me... it could've been Tobin or
+			Jadzia...
+
+					KELLIN
+			It doesn't matter. The point is
+			you've managed to cut through the
+			jamming signals.
+
+					EZRI
+
+				(re: the tricorder)
+			Unfortunately, I can't extend its
+			range beyond a hundred meters.
+
+					KELLIN
+			That's enough to scan the entire
+			compound. Now the question is
+			how do we calibrate the tricorder
+			so it can locate the mines in
+			subspace.
+
+   DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT THREE   34.
+
+54   CONTINUED:
+
+					EZRI
+			Maybe we should try cross linking
+			the optronic and isodyne relays.
+
+	Kellin can't help but be impressed with Ezri's grasp
+	of the complicated technical problem facing them.
+
+					KELLIN
+			You sure you're not an engineer?
+
+					EZRI
+			In nine lives I've been a little
+			of everything...
+
+					KELLIN
+			Doesn't that get confusing?
+
+					EZRI
+			You have no idea... I'll give you
+			an example, this is my first time
+			on the front lines.
+
+					KELLIN
+			You're talking about Ezri now.
+
+					EZRI
+			Right. But Torias, Curzon,
+			Jadzia... they were in battle
+			many times. I can remember what
+			it felt like... the fear... the
+			anger... the adrenaline surge...
+
+					KELLIN
+			Having someone else's memories of
+			being in combat is one thing...
+			living through it yourself is
+			another.
+
+	It's obvious that Kellin speaks from experience; an
+	experience he'd like to forget.
+
+					EZRI
+			I suppose I'm going to find out.
+
+					KELLIN
+			You'll do fine.
+
+	Ezri nods, trying to convince herself.
+
+DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT THREE 35-36.  
+
+55   OMITTED
+
+56   EXT. ANOTHER SECTION OF ROCKY TERRAIN - NIGHT
+
+	CLOSE ON Nog, Larkin and Reese as they crawl over
+	to a precipice. Larkin takes out a pair of 
+	twenty-fourth century binoculars and peers over --
+
+57   LARKIN'S BINOCULAR POV (OPTICAL)
+
+	of the Jem'Hadar encampment beneath them. The
+	soldiers are seeing to their weapons, drilling, and
+
+	sparring in mock combat. The Jem'Hadar outnumber
+	Sisko's forces three to one.
+
+58   CLOSE ON NOG AND THE OTHERS
+
+	Larkin hands the binoculars to Reese, who looks off
+	at the Jem'Hadar forces. After a beat, he puts down
+	the binoculars and looks to Larkin.
+
+					NOG
+				(whispering)
+			What is it? What's going on?
+
+					LARKIN
+			Time to go.
+
+					REESE
+			Right.
+
+	And with that, they start to crawl away from the
+	precipice.
+
+   DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT THREE   37.
+
+59   EXT. YET ANOTHER SECTION OF TERRAIN - NIGHT
+
+	Larkin leads Nog and Reese back toward base camp.
+	Suddenly, Nog tugs at Larkin's sleeve, stopping her.
+	Both Larkin and Reese look at Nog, wanting to know
+	what's up. Nog listens again, then signals that
+	he's heard something... movement up ahead. Larkin
+	nods, he understands, and then quickly motions for
+	them to fall back. Nog and the others begin to
+	retreat down the passageway.
+
+60   ANOTHER ANGLE (OPTICAL)
+
+	They take only a couple of steps before Larkin is
+	hit in the back by a phaser bolt.
+
+61   ANGLE ON REESE (OPTICAL)
+	as he spins and returns FIRE.
+
+62   ON NOG (OPTICAL)
+
+	as he runs over to Larkin's side, only to catch a
+	phaser BOLT in his leg. With a CRY of pain, Nog
+	goes down.
+
+									CUT TO:
+
+63   EXT. BASE CAMP - NIGHT
+
+	CLOSE ON an anxious Quark, pacing. Quark glances
+	over to Sisko, who is seated at his position, rifle
+	at the ready. As their eyes catch, they exchange a
+	silent look. After a beat, Quark glances away.
+
+					VARGAS (O.S.)
+			Someone's coming.
+
+	Quark turns to see --
+
+   DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT THREE   38.
+
+64   ANOTHER ANGLE
+
+	as Reese, carrying Nog over his back, comes running
+	toward the compound.
+
+					REESE
+
+			Don't shoot. It's me -- Reese!
+
+65   CLOSE ON SISKO AND QUARK
+
+	who along with Vargas and several other crewmen rush
+	up to meet them.
+
+					SISKO
+			Stretcher!
+
+					QUARK
+			Nog! What happened?
+
+					REESE
+				(to Sisko)
+			Jem'Hadar patrol.
+
+	The soldiers take Nog off Reese's shoulders to do as
+	Sisko ordered.
+
+66   NEW ANGLE
+
+	on Reese as he catches his breath.
+
+					SISKO
+			Larkin?
+
+					REESE
+			Dead.
+				(a beat)
+			Ferengi found the encampment.
+			It's three kilometers south of
+			here.
+
+					SISKO
+			How many troops?
+
+					REESE
+			Two columns.
+
+					VARGAS
+			Two columns? How're we going to
+			hold off two columns?
+
+					SISKO
+			We'll have to even out the odds...
+
+   DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT THREE   39.
+
+66   CONTINUED:
+
+					REESE
+			Any ideas?
+
+					SISKO
+			I'm working on it.
+
+	As Sisko heads for the Infirmary, Reese calls out to
+	him.
+
+					REESE
+			Captain --
+
+	Sisko turns to look back at Reese.
+
+					REESE
+				(re: Nog)
+
+			The kid did all right.
+
+	Sisko nods, he knows that coming from Reese that's
+	no small compliment.
+
+67   NEW ANGLE
+
+	on Sisko, about to enter the Infirmary, as Quark
+	comes out. There's an awkward moment between the
+	two men as Quark stares accusingly at Sisko.
+
+					QUARK
+			Bashir doesn't want anyone in there.
+
+					SISKO
+			How's Nog?
+
+					QUARK
+			It's a little late for you to
+			care about that, isn't it?
+
+					SISKO
+			Quark --
+
+					QUARK
+				(angry)
+			He's going to lose his leg --
+			does that answer your question?
+
+	And as Quark stands there, his eyes boring into
+	Sisko, we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   40.
+                           ACT FOUR                             
+
+	FADE IN:
+
+68   EXT. BASE CAMP - NIGHT
+
+	Sisko and Quark are talking to Bashir.
+
+					QUARK
+			What happens now? You'll be able
+			to replace the leg, won't you?
+
+					BASHIR
+			Once we get him to a hospital, he
+			can be given a biosynthetic limb.
+				(glancing at Sisko)
+			Unfortunately, there may be
+			complications...
+
+					QUARK
+			What's that supposed to mean?
+
+					BASHIR
+			Nog suffered severe thermal
+			damage to his femoral motor
+			nerves. I'm not sure they'll be
+			able to stimulate artificial
+			muscle tissue. There's no way to
+			know that until the operation is
+			performed.
+				(a beat)
+			I'd better get back inside...
+
+	As Bashir EXITS, we stay with Sisko and Quark.
+
+					QUARK
+			We've got to get Nog to a
+			hospital!
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   41.
+
+68   CONTINUED:
+
+					SISKO
+			We will -- as soon as we can.
+
+					QUARK
+				(with growing anxiety)
+			That's not good enough!
+
+					SISKO
+			I'm sorry, Quark.
+
+	Quark's frustration is near the boiling point.
+
+					QUARK
+			Sorry? If you really cared about
+			Nog you never would've sent him
+			out on that patrol.
+
+					SISKO
+				(hard)
+			Listen to me, Quark, because I'm
+			only going to say this once... I
+			care about Nog and every other
+			soldier under my command.
+			Understood? Every damn one of
+			them.
+
+	And with that, Sisko EXITS into the makeshift
+	Infirmary.
+
+69   INT. BASE CAMP - MAKESHIFT INFIRMARY - NIGHT
+
+	CLOSE ON Nog, lying on a table. Though he's covered
+	by a sheet, it should be clear his left leg has been
+	amputated. Nog is awake, and though not feeling any
+	pain (thanks to twenty-fourth century medicine), he's
+	somewhat groggy. A solemn Sisko ENTERS and
+	approaches the bed.
+
+					NOG
+			Captain...
+
+	Nog instinctively tries to sit up, but Sisko puts
+	out a restraining hand.
+
+					SISKO
+				(gently)
+			At ease, ensign.
+
+	Nog lies back down on the bed.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   42.
+
+69   CONTINUED:
+
+					NOG
+			I'm sorry, sir.
+
+					SISKO
+			About what?
+
+					NOG
+			About Larkin... I led her right
+			into a trap.
+
+					SISKO
+				(correcting him)
+			You found the Jem'Hadar camp.
+
+	But Nog still holds himself responsible for Larkin's
+	death.
+
+					NOG
+			I heard them coming, but... it
+			was too late. There was all this
+			phaser fire... and I went down...
+
+					SISKO
+			Nog, listen to me... you followed
+			orders, you did what you were
+			trained to do. I'm proud of you.
+
+	Coming from the captain this means the world to Nog.
+
+					NOG
+			Thank you, sir.
+
+	Nog feels the need to give something back to the
+	captain to try to lift his spirits in return.
+
+					NOG
+				(re: the leg)
+			It doesn't hurt. You'd think it
+			would, but it doesn't.
+
+	Sisko offers him a smile of support.
+
+					SISKO
+			I'm glad.
+
+					NOG
+				(determined)
+			I'm going to be fine.
+
+	Sisko can't help feeling torn between his pride at
+	Nog's courage and concern for Nog's future.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR  42A.
+
+69   CONTINUED:	(2)
+
+					NOG
+			Captain... the communications
+			array... it's worth it, right?
+
+					SISKO
+			I hope to God it is...
+
+70   OMITTED
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   43.
+
+71   ANGLE ON THE DOOR
+
+	as Ezri ENTERS.
+
+					EZRI
+			Benjamin... I'm sorry to
+			interrupt. We're ready.
+
+	That's the first good news Sisko has heard in a long
+	time.
+
+									CUT TO:
+
+72   EXT. BASE CAMP - NIGHT
+
+	WIDE ANGLE to see the Starfleet crew quietly at the
+	posts, all eyes on Sisko, who stands with Ezri and
+	Kellin.
+
+					SISKO
+				(to everyone)
+			Now remember, nobody moves 'til I
+			say so.
+
+				(to Ezri)
+			Go ahead, lieutenant.
+
+	Ezri and Kellin start operating their tricorders.
+
+73   WIDER (OPTICAL)
+
+	as the Houdinis MATERIALIZE all around them. These
+	softball-sized Dominion mines appear not only on the
+	ground, some are actually floating in mid-air. And
+	there are a lot of them.
+
+74   CLOSE ON VARGAS (OPTICAL)
+
+	staring at a mine only a couple inches from his
+	face.
+
+75   ANOTHER ANGLE
+
+	as Sisko, Ezri and Kellin react to the sight of the
+	mines.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   44.
+
+75   CONTINUED:
+
+					KELLIN
+			Now all we have to do is figure
+			out a way to disarm them.
+
+					SISKO
+			We're not going to disarm them...
+			we're going to use them.
+
+					EZRI
+			Use them?
+
+	And off this moment, we --
+
+									CUT TO:
+
+76   INT. BASE CAMP - COMMAND BUNKER - NIGHT (OPTICAL)
+
+	CLOSE ON a patch of dirt as Reese's finger sketches
+	out a very rough version of the terrain surrounding
+	the Jem'Hadar.
+
+					REESE (O.S.)
+			This is their camp... this is
+			ours. There are mountains to the
+			east and west... which means that
+			they have to come through this
+			ravine to get to us.
+
+	ADJUST to reveal Sisko, Ezri, Kellin listening to
+	Reese.
+
+					SISKO
+
+			Then that's where we'll relocate
+			the mines...
+
+					KELLIN
+			Moving them shouldn't be too
+			difficult...
+
+				(off their looks)
+			Delicate, but not difficult.
+
+					SISKO
+			I also want you to reprogram them
+			so that they're triggered by
+			movement.
+
+					REESE
+
+				(catching on)
+			Make sure it's lots of movement.
+			We want that ravine full of
+			Jem'Hadar when those Houdinis
+			start going off...
+
+					KELLIN
+			I think we can manage that...
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   45.
+
+76   CONTINUED:
+
+					REESE
+				(to Sisko)
+			That should take out a third of
+			their forces.
+
+	Ezri seems troubled by something.
+
+					SISKO
+			What's the matter, old man? You
+			don't think it'll work?
+
+					EZRI
+			It's not that. It's just that a
+			few hours ago, we thought of
+			those mines as the kind of
+			ruthless weapon only the Dominion
+			would use. But now...
+
+					REESE
+			They've become a whole lot
+			friendlier.
+
+					SISKO
+				(to Ezri)
+			Sooner or later, the Jem'Hadar
+			are going to come through those
+			barricades -- and when they do,
+			the fewer there are, the better
+			our chances of survival.
+				(to Kellin, an order)
+			You have your orders.
+
+	And off that moment --
+
+									CUT TO:
+
+77   EXT. BASE CAMP - NIGHT
+
+	Ezri and Vargas are crouched in position. A bit
+	further away, Sisko and Kellin are at their posts.
+	In the b.g., the engineers we saw earlier working on
+	the communications array have found positions on the
+	barricade as well.
+
+77A  ANGLE ON REESE
+
+	approaching Ezri and Vargas, carrying his phaser
+	rifle and a satchel. He holds the satchel open for
+	Ezri.
+
+					REESE
+			Extra power packs.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR  45A.
+
+77A  CONTINUED:
+
+	Ezri reaches in to take out a pair of phaser rifle
+	power packs.
+
+78   CLOSE ON VARGAS
+
+	suddenly raising his phaser rifle, reacting to
+	something offscreen --
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   46.
+
+78   CONTINUED:
+
+					VARGAS
+			You hear that?
+
+79   ON EZRI
+
+	scanning the area.
+
+					EZRI
+			I didn't hear anything.
+
+					REESE
+				(to Vargas)
+			Relax. When they get here,
+			you'll know.
+
+	Ezri hands one of the extra power packs to Vargas as
+	Reese moves over to Sisko.
+
+80   WIDER ANGLE - ON SISKO AND KELLIN
+
+	crouched in position. After handing Sisko his extra
+	power packs, Reese moves on down the barricade. We
+	stay with Sisko and Kellin.
+
+	Kellin is nervously flicking the buckle of his
+	phaser rifle strap with his thumb. Sisko looks over
+	at him. Kellin realizes how annoying the sound is.
+
+					KELLIN
+			Sorry. My thumb got a little
+			nervous.
+
+					SISKO
+			I know how you feel.
+
+					KELLIN
+			I wonder if the Jem'Hadar get
+			jittery before a battle.
+
+					SISKO
+			I wouldn't count on it.
+
+	There's a long silent moment as the two men continue
+	staring out into the darkness. We then hear the
+	same flicking sound as Kellin's thumb betrays him
+	once again.
+
+	Suddenly, WE HEAR MUSIC being piped through the com
+	system -- it's the voice of Vic Fontaine singing
+	(something along the lines of "I'll Be Seeing You.")
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR  46A.
+
+81   CLOSE ON SISKO
+
+	reacting to the music. At first, he's surprised,
+	but soon after a small, approving grin breaks across
+	his face.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   47.
+
+82   ANOTHER ANGLE
+
+	as a confused Vargas listens to the music.
+
+					VARGAS
+			What the hell is that?
+
+					EZRI
+			Sshh. Just listen.
+
+83   ON REESE
+
+	wearing his usual dead-end stare, still refusing to
+	show whatever emotions he may have inside.
+
+84   WE PAN ACROSS
+
+	the faces of various crewmen, the music evoking
+	bittersweet memories in all of them.
+
+85   INT. BASE CAMP - MAKESHIFT INFIRMARY - NIGHT
+
+	CLOSE ON Quark, listening as he stands by Nog's
+	side.
+
+86   EXT. BASE CAMP - NIGHT
+
+	as Bashir, carrying a phaser rifle, approaches Ezri.
+	Kellin is positioned nearby.
+
+					EZRI
+				(re: the music)
+			Your idea?
+
+					BASHIR
+			I thought we could all use some
+			Vic Fontaine right about now.
+
+					EZRI
+			How's Nog?
+
+					BASHIR
+			There's not much more I can do
+			for him until we get back to the
+			station.
+				(a beat)
+			I take it you were able to "move"
+			the mines?
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   48.
+
+86   CONTINUED:
+
+	Bashir begins stripping down his phaser rifle;
+	checking the parts and then slamming them back
+	together. His movements are quick and sure.
+
+					EZRI
+			Put it this way, I wouldn't go
+			for a stroll in that ravine
+			tonight.
+
+					BASHIR
+			I wasn't planning to...
+				(looking around)
+			... of course, I wasn't planning
+			on being here either.
+
+	Bashir finishes checking his rifle.
+
+					VARGAS
+				(re: the rifle)
+			I can see you've done that
+			before.
+
+					BASHIR
+			Too many times. Funny thing is,
+			I joined Starfleet to save
+			lives...
+
+87   ANOTHER ANGLE
+
+	on the crewmen as the music continues to play.
+	Suddenly, we start to hear a series of EXPLOSIONS in
+	the distance.
+
+88   ON SISKO
+
+	as he and Reese exchange a look. They know the
+	Jem'Hadar are now on the move -- coming toward
+	them.
+
+89   ON BASHIR, EZRI, AND KELLIN
+
+	as they listen to the EXPLOSIONS which are being
+	detonated at a faster and faster rate.
+
+90   ON VARGAS
+
+	who clutches his phaser rifle and closes his eyes.
+	He seems to be in silent prayer -- but whether he's
+	hoping for his own salvation or the destruction of
+	the Jem'Hadar remains unclear.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR  48A.
+
+91   NEW ANGLES
+
+	on Sisko and Reese as the EXPLOSIONS stop. All that
+	we hear is the end of Vic's song. Then there's a
+	long, silent beat.
+
+					VARGAS
+			Maybe they're not coming... maybe
+			they're turning back... maybe we
+			got them all.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FOUR   49.
+
+91   CONTINUED:
+
+	But then, almost as in response to Vargas's hopes, we
+	hear a muffled SHOUT. At first, we can't make out
+	what it is... but as the sound approaches we begin
+	to identify the Jem'Hadar battle chant of "Victory
+	is life."
+
+92   WIDER (OPTICAL)
+
+	as the Jem'Hadar attack force appears and races
+	toward us.
+
+93   CLOSE ON SISKO
+
+	as he looks up and down his defense line and yells
+	out an order --
+
+					SISKO
+			Fire!
+
+	And as he aims his phaser rifle, we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   50.
+                           ACT FIVE                             
+
+	FADE IN:
+
+94   EXT. BASE CAMP - NIGHT (OPTICAL)
+
+	on Sisko and the rest of the Starfleet forces as
+	they open FIRE --
+
+95   ON THE ATTACKING JEM'HADAR (OPTICAL)
+
+	taking casualties, yet continuing to charge forward.
+
+96   CLOSE ON BASHIR
+
+	firing.
+
+97   ON EZRI
+
+	firing.
+
+98   ON KELLIN
+
+	firing.
+
+99   ON THE JEM'HADAR (OPTICAL)
+
+	taking hits and FIRING back.
+
+100  ON VARGAS
+
+	firing.
+
+101  ON REESE
+
+	firing.
+
+102  ON JEM'HADAR FORCES (OPTICAL) 
+
+	as they reach the Starfleet barricade. The fighting
+	is now at very close range and both sides suffer
+	casualties.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   51.
+
+103  CLOSER (OPTICAL)
+
+	as the Jem'Hadar begin to break through the
+	defensive line and the fighting becomes hand-to-
+	hand.
+
+104  ON SISKO (OPTICAL)
+
+	firing off a phaser shot just as a Jem'Hadar soldier
+	pounces on top of him. Sisko manages to fling his
+	attacker over his shoulder, slamming him with the
+	butt of his rifle.
+
+105  ON REESE (OPTICAL)
+
+	as he fires point-blank at an attacking Jem'Hadar.
+	His body falls on top of Reese, knocking him to the
+	ground. Reese is quickly on his feet, just in time
+	to grapple with another attacker.
+
+106  COMMUNICATIONS BUNKER (OPTICAl)
+
+	as the fighting spreads throughout the compound.
+
+107  ANOTHER ANGLE - COMMUNICATIONS BUNKER (OPTICAL)
+
+	to see that some of the Jem'Hadar have penetrated
+	the upper pathways.
+
+108  INT. BASE CAMP - MAKESHIFT INFIRMARY - NIGHT
+
+	as a tense Quark, standing near Nog, listens to the
+	sound of battle.
+
+109  EXT. BASE CAMP - NIGHT
+
+	back on Sisko, fighting off two attackers.
+
+110  ON EZRI (OPTICAL)
+
+	as a Jem'Hadar jabs her in the stomach with a rifle
+	butt. Ezri goes down. The Jem'Hadar is shot by
+	Kellin who rushes to the Trill's aid, only to catch
+	a fatal phaser blast in the chest. Kellin falls,
+	his body slumped over Ezri's.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   52.
+
+111  INT. BASE CAMP - MAKESHIFT INFIRMARY - NIGHT (OPTICAL)
+
+	to see Quark wiping Nog's brow with a compress.
+	Suddenly, the door is broken open and a Jem'Hadar
+	enters. Quark turns, and we see for the first time
+	that Quark has a phaser in his hand. Without
+	hesitating, Quark fires, killing his attacker.
+
+112  EXT. BASE CAMP - NIGHT
+
+	Vargas bashes a Jem'Hadar soldier using his rifle
+	like a baseball bat. A moment later, Vargas
+	stumbles to the ground and we see a Jem'Hadar blade
+	buried in his back.
+
+113  ON REESE
+
+	using his own Jem'Hadar blade against an attacker.
+
+114  ON BASHIR (OPTICAL)
+
+	holding his wounded side as he slumps down against
+	the rockface. A Jem'Hadar soldier rushes over to
+	deliver a death blow, but is hit by a phaser blast
+	fired by --
+
+115  SISKO (OPTICAL)
+
+	who barely has time to get off another shot before
+	he catches a rifle butt on the back of his head.
+	Sisko falls.
+
+116  CLOSER ON SISKO
+
+	trying to clear the cobwebs and get to his feet.
+	But Sisko only manages to lift his head enough to
+	see --
+
+117  SISKO'S POV (OPTICAL)
+
+	the battle around him raging on. Then suddenly, his
+	vision begins to blur and then everything --
+
+									FADES TO BLACK.
+
+	A long moment of silence.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   53.
+
+117  CONTINUED:
+
+					REESE (O.S.)
+			You alive?
+				(a beat)
+			Captain...
+
+	FADE IN:
+
+118  ON SISKO'S POV
+
+	of Reese's face coming into focus, looming over him.
+
+					REESE
+			-- you with us?
+
+119  ON SISKO
+
+	as he gets his bearings.
+
+					SISKO
+			I think so.
+
+120  ANOTHER ANGLE
+
+	as Reese helps Sisko to his feet. Sisko looks
+	around to see --
+
+121  SISKO'S POV OF THE COMPOUND
+
+	where a handful of Starfleet officers walk amongst
+	the bodies of the dead. They're stunned to have
+	survived the battle.
+
+	WE PAN OVER to see Bashir, holding his side, as he
+	aids a wounded soldier.
+
+	Sisko's eyes come to rest on Ezri, cradling Kellin's
+	body.
+
+122  WIDER
+
+	as Sisko and Reese take it all in.
+
+					SISKO
+			We held.
+
+					REESE
+			Those were the orders
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   54.
+
+122  CONTINUED:
+
+	The two men exchange a look. They're both only too
+	aware of how costly those orders were to carry out.
+
+123  INT. BASE CAMP - COMMUNICATIONS BUNKER - NIGHT
+
+	On Sisko, alone, staring silently at the Dominion
+	communications array. After a long moment, Worf
+	ENTERS.
+
+					WORF
+			Captain --
+
+	Sisko continues to stare at the array.
+
+					SISKO
+			Yes, Mister Worf...
+
+					WORF
+			The USS Veracruz has entered
+			orbit. They're beaming down
+			troop replacements and an
+			engineering crew.
+
+					SISKO
+				(turning to Worf)
+			What about our people?
+
+					WORF
+			Doctor Bashir is aboard the Veracruz
+			with Nog and the rest of the wounded.
+			They'll be taken to the hospital at
+			Starbase Three-Seven-One.
+
+					SISKO
+			Good. I'll join you on the
+			Defiant shortly.
+
+	Worf sees Sisko turn his attention back to the
+	array, senses what he's thinking.
+
+					WORF
+			It should be operational within a
+			few days.
+				(a beat)
+			This was a great victory. Worthy
+			of story and song.
+
+					SISKO
+			It cost enough.
+
+	And off his somber expression --
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   55.
+
+124  EXT. BASE CAMP - NIGHT
+
+	Reese stands watching the new TROOP REPLACEMENTS as
+	they settle into the camp. Sisko and Worf emerge
+	from the communications bunker.
+
+					REESE
+				(re: the replacements)
+			Children.
+
+					SISKO
+			Not for long.
+				(a beat)
+			Ready?
+
+	Reese looks around at the compound one last time. He
+	takes out his Jem'Hadar knife, looks at it for a beat,
+	then tosses it -- blade first -- into the ground.
+
+					REESE
+			Let's go.
+
+	Sisko taps his combadge.
+
+					SISKO
+				(to the com)
+			Sisko to the Defiant... three to
+			beam up.
+
+125  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+	Re-establishing.
+
+126  INT. CAPTAIN'S OFFICE
+
+	Sisko is working at his desk as KIRA ENTERS.
+
+					KIRA
+			Sir... the latest casualty
+			reports have been posted.
+
+					SISKO
+			How many this time?
+
+					KIRA
+			Including the troops lost at AR-
+			Five-Five-Eight... seventeen
+			hundred and thirty.
+
+					SISKO
+			Seventeen hundred and thirty.
+
+    DEEP SPACE NINE: "Siege of AR-558" - REV. 10/13/98 - ACT FIVE   56.
+
+126  CONTINUED:
+
+					KIRA
+			That's a lot of names.
+
+					SISKO
+			They're not just names... It's
+			important we remember that.
+				(to himself)
+			We have to remember...
+
+	And off this moment, we:
+
+127  OMITTED
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+                            THE END                             
+
+
